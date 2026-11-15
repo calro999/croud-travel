@@ -491,8 +491,8 @@ export default function Page() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 中之条駅よりアクセス。関越自動車道『渋川・伊香保IC』よりお車で50分／ＪＲ吾妻線『中之条駅』から路線バス『四万温泉』行。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「四万温泉 寿屋旅館＜群馬県＞」にチェックイン。四万温泉の最奥に佇む全7室の温泉宿。代々伝わる製法と四万の水で打つ蕎麦をゆったりお部屋食で。などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「四万温泉 寿屋旅館＜群馬県＞」の湯処へ。四万温泉の最奥に佇む全7室の温泉宿。代々伝わる製法と四万の水で打つ蕎麦とともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「四万温泉 寿屋旅館＜群馬県＞」にチェックイン。四万温泉の最奥に佇む全7室の温泉宿。代々伝わる製法と四万の水で打つ蕎麦をゆったりお部屋食で。 館内の設えを確かめながら、これからの滞在に備えてゆっくり休息する。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「四万温泉 寿屋旅館＜群馬県＞」の湯船で寛ぎタイム。季節の空気を感じながら手足を伸ばし、心豊かな夕方のリラックス時間を満喫。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「四万温泉 寿屋旅館＜群馬県＞」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -504,7 +504,7 @@ export default function Page() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「四万温泉 寿屋旅館＜群馬県＞」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「四万温泉 寿屋旅館＜群馬県＞」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「四万温泉 柏屋旅館」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は「四万温泉 寿屋旅館＜群馬県＞」周辺の観光スポットや地元の名産店に立ち寄り、ご当地のお土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>

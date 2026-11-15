@@ -401,7 +401,7 @@ export default function AutumnBudgetHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. いろはグランホテル近鉄奈良駅前</td>
                 <td className="p-3 text-stone-600">奈良県奈良市小西町30-1</td>
-                <td className="p-3 text-stone-600">近鉄奈良駅周辺</td>
+                <td className="p-3 text-stone-600">■近鉄奈良駅≪4番出口≫より【徒歩2分】 ■JR奈良駅より【徒歩10分】 ◆近鉄大和西大寺駅から2駅奈良駅徒歩2分</td>
                 <td className="p-3 text-stone-600">敷地外/有料提携駐車場16時～10時の18時間利用に限り1,300円の優待あり</td>
                 <td className="p-3 font-bold text-amber-600">★4.55（1177件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,500〜</td>
@@ -410,7 +410,7 @@ export default function AutumnBudgetHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. アパホテル〈近鉄奈良駅前〉</td>
                 <td className="p-3 text-stone-600">奈良県奈良市上三条町29-1</td>
-                <td className="p-3 text-stone-600">近鉄奈良駅周辺</td>
+                <td className="p-3 text-stone-600">近鉄奈良線「近鉄奈良駅」（4番出口）徒歩4分、JR関西本線・奈良線「奈良駅」（東口）徒歩8分</td>
                 <td className="p-3 text-stone-600">無し</td>
                 <td className="p-3 font-bold text-amber-600">★4.29（580件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,500〜</td>
@@ -419,7 +419,7 @@ export default function AutumnBudgetHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 変なホテルプレミア　奈良</td>
                 <td className="p-3 text-stone-600">奈良県奈良市高天町46-1</td>
-                <td className="p-3 text-stone-600">近鉄奈良駅周辺</td>
+                <td className="p-3 text-stone-600">近鉄奈良駅（奈良公園前）西出口6番より徒歩約２分・JR奈良駅より徒歩約10分</td>
                 <td className="p-3 text-stone-600">敷地外:有料提携駐車場(金子モータープール)16時～翌11時まで1,300円　※23～翌7時利用不可</td>
                 <td className="p-3 font-bold text-amber-600">★4.31（1162件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,540〜</td>
@@ -428,7 +428,7 @@ export default function AutumnBudgetHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 奈良　万葉若草の宿　三笠</td>
                 <td className="p-3 text-stone-600">奈良県奈良市川上町728-10</td>
-                <td className="p-3 text-stone-600">近鉄奈良駅周辺</td>
+                <td className="p-3 text-stone-600">近鉄線奈良駅から車で8分、JR線奈良駅から車で13分。（無料送迎バスあり・要予約）名阪自道車道天理ICから35分。</td>
                 <td className="p-3 text-stone-600">有り　３０台（無料）　奈良奥山ドライブウェイ料金所で発券される通行券をフロントへお持ちください。</td>
                 <td className="p-3 font-bold text-amber-600">★4.39（1041件）</td>
                 <td className="p-3 font-bold text-rose-600">¥18,150〜</td>
@@ -437,7 +437,7 @@ export default function AutumnBudgetHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 奈良白鹿荘</td>
                 <td className="p-3 text-stone-600">奈良県奈良市花芝町4</td>
-                <td className="p-3 text-stone-600">近鉄奈良駅周辺</td>
+                <td className="p-3 text-stone-600">近鉄奈良駅1番出口より徒歩2～3分/阪神高速→第二阪奈道路→終点よりR369経由で約50分</td>
                 <td className="p-3 text-stone-600">なし／周辺駐車場のご利用については、当館ホームページをご覧ください。</td>
                 <td className="p-3 font-bold text-amber-600">★4.22（248件）</td>
                 <td className="p-3 font-bold text-rose-600">¥13,750〜</td>
@@ -466,7 +466,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>敷地外/有料提携駐車場16時～10時の18時間利用に限り1,300円の優待あり</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近で観光に便利、清潔で満足な滞在近鉄奈良駅至近で観光にもとても便利です。近くにはカフェやベーカリー、ドラッグストアもあります。エントランスは奥まったところにあり静かで落ち着けます。スタッフの方々…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近で観光に便利、清潔で満足な滞在近鉄奈良駅至近で観光にもとても便利です。近くにはカフェやベーカリー、ドラッグストアもあります。エントランスは奥まったところにあり静かで落ち着けます。」
                   </blockquote>
                 </div>
               </div>
@@ -488,7 +488,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無し</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.36 ／ 立地 ★4.13 ／ 部屋 ★4.3 ／ 設備 ★4.17 ／ 風呂 ★4.14 ／ 食事 ★4.32</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「大画面での映画鑑賞が奈良観光に最適10月4日、東大寺と春日大社の拝観のために利用。奈良では、神社仏閣の閉門の後、ホテルにいる時間が長くなるため、大画面で映画鑑賞との相性が良いと思います。…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「大画面での映画鑑賞が奈良観光に最適10月4日、東大寺と春日大社の拝観のために利用。奈良では、神社仏閣の閉門の後、ホテルにいる時間が長くなるため、大画面で映画鑑賞との相性が良いと思います。」
                   </blockquote>
                 </div>
               </div>
@@ -532,7 +532,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　３０台（無料）　奈良奥山ドライブウェイ料金所で発券される通行券をフロントへお持ちください。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.43 ／ 立地 ★4.52 ／ 部屋 ★4.35 ／ 設備 ★4.16 ／ 風呂 ★4.31 ／ 食事 ★4.47</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「絶景と美味しい食事、卓球まで満喫!チェックイン手続き時、ソファでお茶をいただきながら大窓から絶景を眺めることができます。夕日に照らされた街並みは印象的でした。夕食は、しょうが入り大和ポークのお…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「絶景と美味しい食事、卓球まで満喫!チェックイン手続き時、ソファでお茶をいただきながら大窓から絶景を眺めることができます。夕日に照らされた街並みは印象的でした。」
                   </blockquote>
                 </div>
               </div>

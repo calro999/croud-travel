@@ -353,39 +353,7 @@ export default function Page() {
             </Link>
           </div>
         </section>
-        <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
-          <div className="flex items-center gap-3 mb-6">
-            <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】ブロッサムホテル弘前を拠点にするおすすめ滞在モデルコース</h2>
-          </div>
-          <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
-            <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
-              <div className="flex items-center gap-2">
-                <span className="bg-amber-600 text-white text-xs font-bold px-2.5 py-1 rounded">1日目</span>
-                <h3 className="font-bold text-stone-900 text-base md:text-lg">到着〜チェックインと名湯巡り</h3>
-              </div>
-              <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
-                <li>・<strong className="text-stone-800">14:00〜</strong> 弘前駅よりアクセス。ＪＲ弘前駅より徒歩2分 東北自動車道・大鰐弘前ＩＣより車で約20分 青森空港より国道７号経由で車で約60分。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「ブロッサムホテル弘前」にチェックイン。■2022年4月全館リニューアル■弘前駅より徒歩２分！お部屋もベッドも広々！全室WiFi対応などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「ブロッサムホテル弘前」の湯処へ。■2022年4月全館リニューアル■弘前駅より徒歩２分！お部屋もベッドもとともに、夕暮れの特別な寛ぎを満喫。</li>
-                <li>・<strong className="text-stone-800">19:00〜</strong> 「ブロッサムホテル弘前」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
-              </ul>
-            </div>
-            <div className="border-l-2 border-teal-500 pl-4 md:pl-6 space-y-4">
-              <div className="flex items-center gap-2">
-                <span className="bg-teal-600 text-white text-xs font-bold px-2.5 py-1 rounded">2日目</span>
-                <h3 className="font-bold text-stone-900 text-base md:text-lg">爽快な朝湯〜周辺散策と帰路へ</h3>
-              </div>
-              <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
-                <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「ブロッサムホテル弘前」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
-                <li>・<strong className="text-stone-800">08:00〜</strong> 「ブロッサムホテル弘前」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「弘前プラザホテル」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
-              </ul>
-            </div>
-          </div>
-        </section>
-
-        {/* FAQ Section */}
+                {/* FAQ Section */}
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
@@ -450,28 +418,28 @@ export default function Page() {
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
             <div className="flex flex-wrap gap-2">
               <Link
-                href="/prefectures/wakayama/"
+                href="/prefectures/aomori/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                和歌山県の宿・温泉
+                青森県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/aichi/"
+                href="/prefectures/hokkaido/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                愛知県の宿・温泉
+                北海道の宿・温泉
               </Link>
               <Link
-                href="/prefectures/tottori/"
+                href="/prefectures/iwate/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                鳥取県の宿・温泉
+                岩手県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/oita/"
+                href="/prefectures/miyagi/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                大分県の宿・温泉
+                宮城県の宿・温泉
               </Link>
             </div>
           </div>
@@ -507,7 +475,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. ブロッサムホテル弘前</td>
                 <td className="p-3 text-stone-600">青森県弘前市駅前町7-3</td>
-                <td className="p-3 text-stone-600">弘前駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ弘前駅より徒歩2分 東北自動車道・大鰐弘前ＩＣより車で約20分 青森空港より国道７号経由で車で約60分</td>
                 <td className="p-3 text-stone-600">併設有料駐車場有(1泊550円(込))。満車時は提携駐車場へご案内致します。大型車は要問合せ。</td>
                 <td className="p-3 font-bold text-amber-600">★4.21（1109件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,670〜</td>
@@ -516,7 +484,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 弘前プラザホテル</td>
                 <td className="p-3 text-stone-600">青森県弘前市代官町101-1</td>
-                <td className="p-3 text-stone-600">弘前駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ奥羽本線弘前駅より徒歩１5分／東北自動車道大鰐弘前ＩＣより２０分</td>
                 <td className="p-3 text-stone-600">有り　70台平面駐車場　普通車1泊500円 先着順・予約不可・大型車不可</td>
                 <td className="p-3 font-bold text-amber-600">★4.08（2747件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,467〜</td>
@@ -525,7 +493,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. スマイルホテル弘前</td>
                 <td className="p-3 text-stone-600">青森県弘前市大字土手町73-2</td>
-                <td className="p-3 text-stone-600">弘前駅周辺</td>
+                <td className="p-3 text-stone-600">JR弘前駅から徒歩で20分・車で5分</td>
                 <td className="p-3 text-stone-600">有り（100台）：1泊500円　大型車：1泊 3,000円～6,000円　※全て税込、バイク不可</td>
                 <td className="p-3 font-bold text-amber-600">★4.01（1567件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,400〜</td>
@@ -598,7 +566,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り（100台）：1泊500円　大型車：1泊 3,000円～6,000円　※全て税込、バイク不可</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「レンタサイクルとアメニティが充実、ねぷたも満喫無料のレンタサイクルがあり、弘前城観光にとっても役立ちました。化粧水や乳液があるのも嬉しいサービスでした。弘前ねぷた祭りの時期で、ホテルの前の…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「レンタサイクルとアメニティが充実、ねぷたも満喫無料のレンタサイクルがあり、弘前城観光にとっても役立ちました。化粧水や乳液があるのも嬉しいサービスでした。」
                   </blockquote>
                 </div>
               </div>

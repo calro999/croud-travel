@@ -337,8 +337,8 @@ export default function ArticlePage() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 登別駅よりアクセス。JR登別駅からタクシーにて約13分、路線バスにて登別駅⇒登別温泉ターミナル約15分（バス運賃片道350円）。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「登別温泉 登別グランドホテル」にチェックイン。鬼サウナで、鬼ととのう。「サウナシュラン2023」5位受賞！ 楽天トラベルアワード2年連続金賞受賞などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「登別温泉 登別グランドホテル」の湯処へ。鬼サウナで、鬼ととのう。「サウナシュラン2023」5位受賞！ 楽天トラとともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「登別温泉 登別グランドホテル」にチェックイン。鬼サウナで、鬼ととのう。 まずは客室で移動の疲れをそっと癒やす。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「登別温泉 登別グランドホテル」の湯船で寛ぎタイム。季節の空気を感じながら手足を伸ばし、心豊かな夕方のリラックス時間を満喫。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「登別温泉 登別グランドホテル」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -350,7 +350,7 @@ export default function ArticlePage() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「登別温泉 登別グランドホテル」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「登別温泉 登別グランドホテル」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「登別温泉 ホテル まほろば」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は「登別温泉 登別グランドホテル」周辺の観光スポットや地元の名産店に立ち寄り、ご当地のお土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>
@@ -387,28 +387,28 @@ export default function ArticlePage() {
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
             <div className="flex flex-wrap gap-2">
               <Link
-                href="/prefectures/chiba/"
+                href="/prefectures/hokkaido/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                千葉県の宿・温泉
+                北海道の宿・温泉
               </Link>
               <Link
-                href="/prefectures/ehime/"
+                href="/prefectures/aomori/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                愛媛県の宿・温泉
+                青森県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/hyogo/"
+                href="/prefectures/iwate/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                兵庫県の宿・温泉
+                岩手県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/hiroshima/"
+                href="/prefectures/miyagi/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                広島県の宿・温泉
+                宮城県の宿・温泉
               </Link>
             </div>
           </div>
@@ -444,7 +444,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 登別温泉　登別グランドホテル</td>
                 <td className="p-3 text-stone-600">北海道登別市登別温泉町154</td>
-                <td className="p-3 text-stone-600">登別駅周辺</td>
+                <td className="p-3 text-stone-600">JR登別駅からタクシーにて約13分、路線バスにて登別駅⇒登別温泉ターミナル約15分（バス運賃片道350円）</td>
                 <td className="p-3 text-stone-600">有り　約100台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.28（3347件）</td>
                 <td className="p-3 font-bold text-rose-600">¥13,750〜</td>
@@ -453,7 +453,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 登別温泉　滝乃家別館　玉乃湯</td>
                 <td className="p-3 text-stone-600">北海道登別市登別温泉31</td>
-                <td className="p-3 text-stone-600">登別駅周辺</td>
+                <td className="p-3 text-stone-600">JR室蘭本線 登別駅から車で15分</td>
                 <td className="p-3 text-stone-600">有り　20台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.5（588件）</td>
                 <td className="p-3 font-bold text-rose-600">¥16,500〜</td>
@@ -462,7 +462,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 登別温泉　ホテル　まほろば</td>
                 <td className="p-3 text-stone-600">北海道登別市登別温泉町65</td>
-                <td className="p-3 text-stone-600">登別駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ登別駅～登別温泉行バス約15分+徒歩約3分/道央道～登別東ＩＣより約10分※JR特急札幌より約70分・千歳約50分</td>
                 <td className="p-3 text-stone-600">有り　２００台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.32（2998件）</td>
                 <td className="p-3 font-bold text-rose-600">¥12,500〜</td>
@@ -491,7 +491,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　約100台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.28 ／ 立地 ★4.19 ／ 部屋 ★4.25 ／ 設備 ★4.15 ／ 風呂 ★4.35 ／ 食事 ★4.34</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「バイキング料理が最高、家族全員大満足!朝食、夕食ともにバイキング料理が最高でした。料理の種類も豊富で和洋中、イタリアンに至るまで展開され、味もどれを食べてもハズレが全くなく、とても美味しかったです…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「バイキング料理が最高、家族全員大満足!朝食、夕食ともにバイキング料理が最高でした。」
                   </blockquote>
                 </div>
               </div>
@@ -513,7 +513,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　20台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.62 ／ 立地 ★4.22 ／ 部屋 ★4.34 ／ 設備 ★4.32 ／ 風呂 ★4.42 ／ 食事 ★4.62</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事は満足だが清掃面で改善を期待したい食事は夕食 朝食ともに70歳になる我々には ちょうどよい感じ手の込んだ食事内容で満足しました旅館の施設 設備はさすがに古い感じですが 承知して宿泊しました…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事は満足だが清掃面で改善を期待したい食事は夕食 朝食ともに70歳になる我々には ちょうどよい感じ手の込んだ食事内容で満足しました旅館の施設 設備はさすがに古い感じですが 承知して宿泊しました。」
                   </blockquote>
                 </div>
               </div>
@@ -535,7 +535,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２００台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.3 ／ 立地 ★4.23 ／ 部屋 ★4.22 ／ 設備 ★4.16 ／ 風呂 ★4.54 ／ 食事 ★4.27</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「空調最悪空調がとにかく最悪で、最高気温23Cにも関わらず暖房が入っておりこちらで切り替えができない。フロントに言っても暖房止めて窓開けてくださいのみ。カメムシが多発してると言っても部屋に伺いますの…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「空調最悪空調がとにかく最悪で、最高気温23Cにも関わらず暖房が入っておりこちらで切り替えができない。フロントに言っても暖房止めて窓開けてくださいのみ。」
                   </blockquote>
                 </div>
               </div>

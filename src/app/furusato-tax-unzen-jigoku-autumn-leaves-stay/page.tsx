@@ -430,8 +430,8 @@ export default function Page() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 諫早駅よりアクセス。長崎自動車道 諫早ＩＣ及びＪＲ諌早駅より車で５５分。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「雲仙温泉 民芸モダンの宿 雲仙福田屋」にチェックイン。2023年客室リニューアル！四季の恵みの会席料理、厳選かけ流しの絶景露天風呂が自慢の福を結ぶ癒しの宿などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「雲仙温泉 民芸モダンの宿 雲仙福田屋」の湯処へ。2023年客室リニューアル！四季の恵みの会席料理、厳選かけ流しの絶景露とともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「雲仙温泉 民芸モダンの宿 雲仙福田屋」にチェックイン。2023年客室リニューアル！ まずは客室で移動の疲れをそっと癒やす。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「雲仙温泉 民芸モダンの宿 雲仙福田屋」の大浴場・露天風呂へ。日暮れの静けさの中で湯に浸かり、旅の緊張をゆっくりと解きほぐす。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「雲仙温泉 民芸モダンの宿 雲仙福田屋」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -443,7 +443,7 @@ export default function Page() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「雲仙温泉 民芸モダンの宿 雲仙福田屋」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「雲仙温泉 民芸モダンの宿 雲仙福田屋」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「雲仙温泉・源泉かけ流し＆おしどりの池を望む美食の宿 東園」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は宿周辺の散策とショッピングを満喫。地元の名産品やグルメを味わってから余裕をもって帰路につく。</li>
               </ul>
             </div>
           </div>
@@ -459,49 +459,49 @@ export default function Page() {
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">あわせて読みたい人気特集＆全国エリアガイド</h2>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
-            <a href="/winter-hokkaido-shikotsuko-luxury-aonoza-suizantei-shiraogyu-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/nagasaki-hirado-sasebo-kujukushima-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【支笏湖ブルーの初冬静寂と全室温泉露天付きラグジュアリースイート】2026-2027年11-12月の北海道・支笏湖！最高峰「碧の座」＆レイクサイド名宿・北海道産白老牛と冬の極上毛ガニ名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「長崎・平戸＆佐世保・九十九島」世界遺産キリシタン史跡・平戸城＆九十九島遊覧・ヒラメ宿 厳選ガイド</span>
             </a>
-            <a href="/winter-hokkaido-wakkanai-soya-cape-sunrise-tako-shabu-soya-beef-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/nagasaki-unzen-onsen-hell-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12・1月北海道】日本最北端「宗谷岬」冬の初日の出と氷門の詩情！極上「宗谷黒牛」＆名物タコしゃぶ・稚内天然温泉名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「長崎・雲仙温泉」雲仙地獄の湯けむり＆白濁硫黄泉・レトロ洋館宿 厳選ガイド</span>
             </a>
-            <a href="/autumn-budget-hokkaido-hakodate-station-goryokaku-asaichi-hotels-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/sasebo-solo-business-kujukushima-burger-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">函館駅前：五稜郭紅葉＆函館朝市・活イカ・塩ラーメン！2,000円台〜泊まれる格安ホテル5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「佐世保出張・西九州ひとり旅」九十九島パノラマ・天然温泉ばってんの湯・名物佐世保バーガー！港町でととのう厳選3宿</span>
             </a>
-            <a href="/autumn-budget-hokkaido-otaru-station-canal-sushi-hotels-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/traditional-nagasaki-hasami-yaki-porcelain-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">小樽駅前：小樽運河秋散歩＆秋シャコ・小樽寿司！2,000円台〜泊まれる格安ホテル5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「波佐見焼のモダン器美学」お洒落なうつわで味わう長崎創作フレンチ＆嬉野・雲仙温泉宿5選</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
             <div className="flex flex-wrap gap-2">
               <Link
-                href="/prefectures/okinawa/"
+                href="/prefectures/nagasaki/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                沖縄県の宿・温泉
+                長崎県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/miyagi/"
+                href="/prefectures/fukuoka/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                宮城県の宿・温泉
+                福岡県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/toyama/"
+                href="/prefectures/oita/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                富山県の宿・温泉
+                大分県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/hokkaido/"
+                href="/prefectures/kumamoto/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                北海道の宿・温泉
+                熊本県の宿・温泉
               </Link>
             </div>
           </div>

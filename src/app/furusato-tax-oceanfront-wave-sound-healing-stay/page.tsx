@@ -48,7 +48,7 @@ export default function FurusatoTaxPage() {
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* パンくずリスト */}
-      <nav className="border-b border-slate-800/80 bg-slate-900/60 backdrop-blur px-4 py-3 text-xs text-slate-400">
+      <nav className="border-b border-slate-800/80 bg-slate-900/60 backdrop-blur px-4 py-3 text-xs text-slate-200">
         <div className="max-w-6xl mx-auto flex items-center gap-2 overflow-x-auto whitespace-nowrap">
           <Link href="/" className="hover:text-amber-400 transition">ホーム</Link>
           <span>/</span>
@@ -631,8 +631,8 @@ export default function FurusatoTaxPage() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 伊豆稲取駅よりアクセス。伊豆急 伊豆稲取駅より送迎車で約５分。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「稲取温泉 伊東園ホテル 稲取」にチェックイン。雄大な自然、潮騒と大海原の景観がおもてなしなどの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「稲取温泉 伊東園ホテル 稲取」の湯処へ。雄大な自然、潮騒と大海原の景観がおもてなしとともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「稲取温泉 伊東園ホテル 稲取」にチェックイン。雄大な自然、潮騒と大海原の景観がおもてなしが魅力の一軒。客室で荷物をほどいて穏やかな午後のひとときを。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「稲取温泉 伊東園ホテル 稲取」の自慢の湯処へ。温かな湯気と落ち着いた雰囲気に癒やされながら、夕食前の贅沢なひとときを過ごす。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「稲取温泉 伊東園ホテル 稲取」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -644,7 +644,7 @@ export default function FurusatoTaxPage() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「稲取温泉 伊東園ホテル 稲取」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「稲取温泉 伊東園ホテル 稲取」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「稲取温泉 稲取銀水荘」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は宿周辺の散策とショッピングを満喫。地元の名産品やグルメを味わってから余裕をもって帰路につく。</li>
               </ul>
             </div>
           </div>
@@ -772,7 +772,7 @@ export default function FurusatoTaxPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 稲取温泉　伊東園ホテル　稲取</td>
                 <td className="p-3 text-stone-600">静岡県賀茂郡東伊豆町1021-24</td>
-                <td className="p-3 text-stone-600">伊豆稲取駅周辺</td>
+                <td className="p-3 text-stone-600">伊豆急 伊豆稲取駅より送迎車で約５分</td>
                 <td className="p-3 text-stone-600">有り　５０台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★3.69（517件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,248〜</td>
@@ -781,7 +781,7 @@ export default function FurusatoTaxPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 稲取温泉　稲取銀水荘</td>
                 <td className="p-3 text-stone-600">静岡県賀茂郡東伊豆町稲取1624-1</td>
-                <td className="p-3 text-stone-600">伊豆稲取駅周辺</td>
+                <td className="p-3 text-stone-600">東京駅より特急【踊子号】にて伊豆稲取駅下車。送迎バスにて５分。（お迎え時間 13:00～19:00）</td>
                 <td className="p-3 text-stone-600">有り　１５０台　無料　制限なし</td>
                 <td className="p-3 font-bold text-amber-600">★4.49（3528件）</td>
                 <td className="p-3 font-bold text-rose-600">¥22,990〜</td>
@@ -790,7 +790,7 @@ export default function FurusatoTaxPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 絶景温泉と魚介満腹の宿　稲取東海ホテル湯苑</td>
                 <td className="p-3 text-stone-600">静岡県賀茂郡東伊豆町稲取1599-1</td>
-                <td className="p-3 text-stone-600">伊豆稲取駅周辺</td>
+                <td className="p-3 text-stone-600">伊豆急線伊豆稲取駅下車。徒歩約１５分。無料送迎バスあり ※要事前予約（13：30～18：00） 明朝は定期便あります。</td>
                 <td className="p-3 text-stone-600">有り　50台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.51（955件）</td>
                 <td className="p-3 font-bold text-rose-600">¥10,000〜</td>
@@ -799,7 +799,7 @@ export default function FurusatoTaxPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 房総白浜ウミサトホテル（旧紀州鉄道　房総白浜ホテル）</td>
                 <td className="p-3 text-stone-600">千葉県南房総市白浜町白浜7034</td>
-                <td className="p-3 text-stone-600">千倉駅周辺</td>
+                <td className="p-3 text-stone-600">JR千倉駅から送迎バス15分(要予約)／JRバスなのはな号にて白浜郵便局前下車徒歩5分／富浦ICより車で40分</td>
                 <td className="p-3 text-stone-600">80台あり　無料・予約不要（バス・工事車両等の大型車の場合はスペース確保のため事前にご連絡ください）</td>
                 <td className="p-3 font-bold text-amber-600">★3.82（2346件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,500〜</td>
@@ -808,7 +808,7 @@ export default function FurusatoTaxPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. たてやま温泉　夕日海岸　昇鶴</td>
                 <td className="p-3 text-stone-600">千葉県館山市八幡822</td>
-                <td className="p-3 text-stone-600">館山駅周辺</td>
+                <td className="p-3 text-stone-600">東関道館山富浦ICよりお車で約10分／JR内房線 館山駅よりタクシーで5分、徒歩で20分 ／館山駅より送迎有り（要予約）</td>
                 <td className="p-3 text-stone-600">有り　40台　無料　先着順　◇◆必ず駐車できます◆◇</td>
                 <td className="p-3 font-bold text-amber-600">★4.04（402件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,700〜</td>
@@ -817,7 +817,7 @@ export default function FurusatoTaxPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">6. 平砂浦ビーチホテル</td>
                 <td className="p-3 text-stone-600">千葉県館山市伊戸1535</td>
-                <td className="p-3 text-stone-600">館山駅周辺</td>
+                <td className="p-3 text-stone-600">館山駅よりバスにて３０分</td>
                 <td className="p-3 text-stone-600">有り　38台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★3.32（141件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,250〜</td>
@@ -868,7 +868,7 @@ export default function FurusatoTaxPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１５０台　無料　制限なし</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スイートルーム琥珀に泊まりました。お部屋はほどよい広さで景色も良くくつろげます。客室露天風呂は湯船が広くて深さがあり、とっても気持ちが良かったです。目隠しが付いているので、海はちらっとしか見えませ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スイートルーム琥珀に泊まりました。お部屋はほどよい広さで景色も良くくつろげます。客室露天風呂は湯船が広くて深さがあり、とっても気持ちが良かったです。」
                   </blockquote>
                 </div>
               </div>
@@ -890,7 +890,7 @@ export default function FurusatoTaxPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　50台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「間近で見る花火と美味しい食事に大満足部屋から海と花火が見たくて花火が近くて上がる日で予約しました。半露天の角部屋にグレードアップしていただき、間近で花火が見れて嬉しかったです。建物は年季が入ってい…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「間近で見る花火と美味しい食事に大満足部屋から海と花火が見たくて花火が近くて上がる日で予約しました。半露天の角部屋にグレードアップしていただき、間近で花火が見れて嬉しかったです。」
                   </blockquote>
                 </div>
               </div>
@@ -912,7 +912,7 @@ export default function FurusatoTaxPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>80台あり　無料・予約不要（バス・工事車両等の大型車の場合はスペース確保のため事前にご連絡ください）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「価格とサービスのバランスが良くお得感あり初めて利用させて頂きました。古い建物でしたが、清潔感はあり、スタッフさんの対応も感じよかったです。夕食、朝食共にバイキングでしたが、良くも悪くも適度な感…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「価格とサービスのバランスが良くお得感あり初めて利用させて頂きました。古い建物でしたが、清潔感はあり、スタッフさんの対応も感じよかったです。」
                   </blockquote>
                 </div>
               </div>
@@ -934,7 +934,7 @@ export default function FurusatoTaxPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　40台　無料　先着順　◇◆必ず駐車できます◆◇</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋は清潔で良いが、食事とベッドに難あり夕食の量は我々には多すぎ。鮑と赤海老のアヒージョの鮑は3分の1にエリンギでカサ増し、海老は食べづらく手がベトベト。刺身は寿司用のネタの大きさで食べづらい。金…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋は清潔で良いが、食事とベッドに難あり夕食の量は我々には多すぎ。鮑と赤海老のアヒージョの鮑は3分の1にエリンギでカサ増し、海老は食べづらく手がベトベト。刺身は寿司用のネタの大きさで食べづらい。」
                   </blockquote>
                 </div>
               </div>
@@ -956,7 +956,7 @@ export default function FurusatoTaxPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　38台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「オーシャンビューは綺麗だが設備に不満ありオーシャンビューでとても綺麗でした!部屋のシャワーが水しか出なかったです。なので大浴場に行きましたが、大浴場も時間のせいなのか水が張られていないお風呂が…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「オーシャンビューは綺麗だが設備に不満ありオーシャンビューでとても綺麗でした!部屋のシャワーが水しか出なかったです。」
                   </blockquote>
                 </div>
               </div>

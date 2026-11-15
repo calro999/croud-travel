@@ -384,7 +384,7 @@ export default function AutumnBudgetNiigataStationHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. ホテルリブマックス新潟駅前</td>
                 <td className="p-3 text-stone-600">新潟県新潟市中央区花園1-7-10</td>
-                <td className="p-3 text-stone-600">新潟駅周辺</td>
+                <td className="p-3 text-stone-600">上越新幹線 各線 新潟駅 万代口より徒歩にて約3分。 新潟交通各路線高速バス「新潟駅前」バス停より徒歩5分</td>
                 <td className="p-3 text-stone-600">無し 徒歩5分以内に有料パーキングあり　※提携はしておりません　満車の場合はご容赦下さい。</td>
                 <td className="p-3 font-bold text-amber-600">★4.1（328件）</td>
                 <td className="p-3 font-bold text-rose-600">¥2,763〜</td>
@@ -393,7 +393,7 @@ export default function AutumnBudgetNiigataStationHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. コンフォートホテル新潟駅前</td>
                 <td className="p-3 text-stone-600">新潟県新潟市中央区弁天3-3-1</td>
-                <td className="p-3 text-stone-600">新潟駅周辺</td>
+                <td className="p-3 text-stone-600">上越新幹線「JR新潟駅」徒歩3分◆北陸自動車道「新潟西」、磐越自動車道「新潟中央」約20分◆新潟空港バス約25分</td>
                 <td className="p-3 text-stone-600">敷地内駐車場（先着順・予約不可）1,600円/泊（15時〜翌10時）</td>
                 <td className="p-3 font-bold text-amber-600">★4.18（6444件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,500〜</td>
@@ -402,7 +402,7 @@ export default function AutumnBudgetNiigataStationHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. アートホテル新潟駅前</td>
                 <td className="p-3 text-stone-600">新潟県新潟市中央区笹口1-1</td>
-                <td className="p-3 text-stone-600">新潟駅周辺</td>
+                <td className="p-3 text-stone-600">JR新潟駅東改札→改札出て右、南口広場方面ペデストリアンデッキ左折→突当り右折・東側連絡通路→階段→左折→階段→ホテル</td>
                 <td className="p-3 text-stone-600">有料提携駐車場：１泊1400円〜1600円／別途追加料金発生有／詳細はフロントへお問合せください。</td>
                 <td className="p-3 font-bold text-amber-600">★4.28（6297件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,400〜</td>
@@ -411,7 +411,7 @@ export default function AutumnBudgetNiigataStationHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. アパホテル＆リゾート〈新潟駅前大通〉</td>
                 <td className="p-3 text-stone-600">新潟県新潟市中央区万代5-1-1</td>
-                <td className="p-3 text-stone-600">新潟駅周辺</td>
+                <td className="p-3 text-stone-600">JR越後線、信越本線、白新線、磐越西線、上越新幹線「新潟駅」万代広場から徒歩7分</td>
                 <td className="p-3 text-stone-600">■敷地内機械式50台■1泊1,500円□提携駐車場3箇所□15時から翌11時 割引処理後1,000円</td>
                 <td className="p-3 font-bold text-amber-600">★4.38（3312件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,018〜</td>
@@ -420,7 +420,7 @@ export default function AutumnBudgetNiigataStationHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 新潟第一ホテル</td>
                 <td className="p-3 text-stone-600">新潟県新潟市中央区花園1-3-12</td>
-                <td className="p-3 text-stone-600">新潟駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ新潟駅・万代側出口から右へ徒歩3分。お車では新潟駅の万代側正面を左折して５０ｍ。</td>
                 <td className="p-3 text-stone-600">立体駐車場・外部提携駐車場あり◆普通車1泊1,200円・バイク1泊1,000円</td>
                 <td className="p-3 font-bold text-amber-600">★4.33（6608件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,500〜</td>
@@ -449,7 +449,7 @@ export default function AutumnBudgetNiigataStationHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無し 徒歩5分以内に有料パーキングあり　※提携はしておりません　満車の場合はご容赦下さい。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.16 ／ 立地 ★4.16 ／ 部屋 ★4.16 ／ 設備 ★4.08 ／ 風呂 ★3.9</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「立地は良いが清掃と設備に不満あり立地は新潟駅からも近く、騒がしくもないので、すごくよかったです。ただ、部屋にたくさん髪の毛が残っている点(洗面台や、冷蔵庫の中にも髪の毛があった)がすごく気にな…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「立地は良いが清掃と設備に不満あり立地は新潟駅からも近く、騒がしくもないので、すごくよかったです。」
                   </blockquote>
                 </div>
               </div>
@@ -493,7 +493,7 @@ export default function AutumnBudgetNiigataStationHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有料提携駐車場：１泊1400円〜1600円／別途追加料金発生有／詳細はフロントへお問合せください。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.25 ／ 立地 ★4.36 ／ 部屋 ★4.25 ／ 設備 ★4.16 ／ 風呂 ★4.09 ／ 食事 ★4.49</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「新潟駅直結で便利、朝食も美味しく快適な部屋朝食が美味しいうえにお部屋が綺麗で、かつ新潟駅直結で便利なため、新潟に来た際は毎回利用します。今回初めてツインのお部屋を利用しましたが広くて快適でした!ま…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「新潟駅直結で便利、朝食も美味しく快適な部屋朝食が美味しいうえにお部屋が綺麗で、かつ新潟駅直結で便利なため、新潟に来た際は毎回利用します。今回初めてツインのお部屋を利用しましたが広くて快適でした!」
                   </blockquote>
                 </div>
               </div>
@@ -537,7 +537,7 @@ export default function AutumnBudgetNiigataStationHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>立体駐車場・外部提携駐車場あり◆普通車1泊1,200円・バイク1泊1,000円</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.27 ／ 立地 ★4.33 ／ 部屋 ★4.27 ／ 設備 ★4.23 ／ 風呂 ★4.24 ／ 食事 ★4.56</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食がすばらしい!出張で全国のビジネスホテルを利用してますが、今回初めてこちらのホテルに宿泊。朝食のパフォーマンスの高さに驚きました。新潟市に泊まる事があれば、絶対にリピしたいと思います!お世話に…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食がすばらしい!出張で全国のビジネスホテルを利用してますが、今回初めてこちらのホテルに宿泊。朝食のパフォーマンスの高さに驚きました。新潟市に泊まる事があれば、絶対にリピしたいと思います!」
                   </blockquote>
                 </div>
               </div>

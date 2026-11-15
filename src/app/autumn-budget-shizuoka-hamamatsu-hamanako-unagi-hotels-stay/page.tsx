@@ -310,7 +310,7 @@ export default function AutumnBudgetHamamatsuHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 富士宮　富士急ホテル</td>
                 <td className="p-3 text-stone-600">静岡県富士宮市中央町15-18</td>
-                <td className="p-3 text-stone-600">富士宮駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ身延線富士宮駅北口から徒歩約２分。 東海道新幹線新富士駅下車、車で４０分（駐車場は先着順・約30台収容）</td>
                 <td className="p-3 text-stone-600">有（先着順）30台 有料  乗用車1泊1台600円(税込)。</td>
                 <td className="p-3 font-bold text-amber-600">★3.84（764件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,500〜</td>
@@ -319,7 +319,7 @@ export default function AutumnBudgetHamamatsuHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. ハイセットホテル静岡インター</td>
                 <td className="p-3 text-stone-600">静岡県静岡市駿河区中村町322-1</td>
-                <td className="p-3 text-stone-600">静岡駅周辺</td>
+                <td className="p-3 text-stone-600">お車で 東名静岡ＩＣ2分 新東名静岡ＳＡ２７分 ＪＲ静岡駅１０分 富士山空港３５分 久能山１９分 ツインメッセ１２分</td>
                 <td className="p-3 text-stone-600">普通車まで無料でお停めいただけます。※大型車（2t車以上）は事前の申込みが必要です。</td>
                 <td className="p-3 font-bold text-amber-600">★4.12（1970件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,510〜</td>
@@ -328,7 +328,7 @@ export default function AutumnBudgetHamamatsuHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 熱海温泉　月の栖　熱海聚楽ホテル</td>
                 <td className="p-3 text-stone-600">静岡県熱海市田原本町2-19</td>
-                <td className="p-3 text-stone-600">熱海駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ東海道線「熱海駅」～仲見世通り商店街を抜けて徒歩３分。高台に建つ和風旅館。海と街の景色が人気。露天風呂付客室3室有り</td>
                 <td className="p-3 text-stone-600">有り（有料）１泊　1760円（税込）　お車は当館の玄関前に直接お寄せください。</td>
                 <td className="p-3 font-bold text-amber-600">★4.4（2598件）</td>
                 <td className="p-3 font-bold text-rose-600">¥17,600〜</td>
@@ -337,7 +337,7 @@ export default function AutumnBudgetHamamatsuHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 熱川温泉　熱川プリンスホテル</td>
                 <td className="p-3 text-stone-600">静岡県賀茂郡東伊豆町奈良本1248-3</td>
-                <td className="p-3 text-stone-600">伊豆熱川駅周辺</td>
+                <td className="p-3 text-stone-600">東京駅から乗換なしでスムーズ♪直通電車「踊り子号」を利用すれば、最短1時間40分で到着！伊豆熱川駅徒歩10分。送迎有</td>
                 <td className="p-3 text-stone-600">有り　　50台　　1泊　　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.51（1264件）</td>
                 <td className="p-3 font-bold text-rose-600">¥9,900〜</td>
@@ -346,7 +346,7 @@ export default function AutumnBudgetHamamatsuHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 下田温泉　黒船ホテル</td>
                 <td className="p-3 text-stone-600">静岡県下田市柿崎3-8</td>
-                <td className="p-3 text-stone-600">伊豆急下田駅周辺</td>
+                <td className="p-3 text-stone-600">伊豆急線「伊豆急下田駅」から徒歩13分、タクシーで3分。 車で沼津から当館まで伊豆縦貫道で90分。</td>
                 <td className="p-3 text-stone-600">当館の駐車場は建物の地下部分にございます。(高さ制限2.3ｍ/狭めのスペース/台数制限有り/無料)</td>
                 <td className="p-3 font-bold text-amber-600">★4.21（2266件）</td>
                 <td className="p-3 font-bold text-rose-600">¥9,165〜</td>
@@ -375,7 +375,7 @@ export default function AutumnBudgetHamamatsuHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有（先着順）30台 有料  乗用車1泊1台600円(税込)。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.87 ／ 立地 ★3.93 ／ 部屋 ★3.76 ／ 設備 ★3.7 ／ 風呂 ★3.63 ／ 食事 ★3.95</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「富士宮観光や富士山登山の起点に最適駅やバスターミナルが目の前にあり富士宮観光や富士山登山の起点にするには大変ロケーションが良かったです。今回は富士宮ルートでの富士山登山の起点にしましたが早朝のバス…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「富士宮観光や富士山登山の起点に最適駅やバスターミナルが目の前にあり富士宮観光や富士山登山の起点にするには大変ロケーションが良かったです。」
                   </blockquote>
                 </div>
               </div>
@@ -397,7 +397,7 @@ export default function AutumnBudgetHamamatsuHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>普通車まで無料でお停めいただけます。※大型車（2t車以上）は事前の申込みが必要です。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.12 ／ 立地 ★4.05 ／ 部屋 ★4.04 ／ 設備 ★3.94 ／ 風呂 ★3.92 ／ 食事 ★4.52</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「丁寧な接客と朝食は満足、上層階の足音が響くホテル従業員様はとても丁寧でフランドリー。朝食は、地元食材?で満足。施設は古いので、設備はそれなり。上層階の方が連日ドタバタしておりうるさかっ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「丁寧な接客と朝食は満足、上層階の足音が響くホテル従業員様はとても丁寧でフランドリー。朝食は、地元食材?で満足。施設は古いので、設備はそれなり。」
                   </blockquote>
                 </div>
               </div>
@@ -419,7 +419,7 @@ export default function AutumnBudgetHamamatsuHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り（有料）１泊　1760円（税込）　お車は当館の玄関前に直接お寄せください。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ご飯が美味しくボリューム満点で大満足今回2回目の宿泊です。とてもご飯が美味しく、ボリューム満点で大満足です。ここより美味しく満足できるご飯は、なかなかないと思います。商店街からも近く、立地も最…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ご飯が美味しくボリューム満点で大満足今回2回目の宿泊です。とてもご飯が美味しく、ボリューム満点で大満足です。ここより美味しく満足できるご飯は、なかなかないと思います。」
                   </blockquote>
                 </div>
               </div>
@@ -441,7 +441,7 @@ export default function AutumnBudgetHamamatsuHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　　50台　　1泊　　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉とプールを満喫、金目の煮付けも最高湯量が豊富でお風呂の種類も多く温泉自体は良いと思います。食事も味付けが濃くなくて最後まで楽しめました。(金目の煮付けが最高でした)お風呂の設備に不備があり…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉とプールを満喫、金目の煮付けも最高湯量が豊富でお風呂の種類も多く温泉自体は良いと思います。食事も味付けが濃くなくて最後まで楽しめました。」
                   </blockquote>
                 </div>
               </div>
@@ -463,7 +463,7 @@ export default function AutumnBudgetHamamatsuHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>当館の駐車場は建物の地下部分にございます。(高さ制限2.3ｍ/狭めのスペース/台数制限有り/無料)</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事の種類も味も最高、また行きたい!夕食、朝食共にご飯が全て美味しかったです!種類も多く本当にまだまだ食べたいと思うほど美味しくて大満足でした!毎年伊豆には行き、いろんなところに泊まり美味しい…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事の種類も味も最高、また行きたい!夕食、朝食共にご飯が全て美味しかったです!種類も多く本当にまだまだ食べたいと思うほど美味しくて大満足でした!」
                   </blockquote>
                 </div>
               </div>

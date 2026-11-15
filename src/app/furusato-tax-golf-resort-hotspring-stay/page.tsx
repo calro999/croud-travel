@@ -491,8 +491,8 @@ export default function Page() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 富戸駅よりアクセス。川奈駅から車で10分。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「リブマックスリゾート伊東川奈」にチェックイン。太平洋を望む絶景と川奈の自然に抱かれた1万坪の楽園リゾート♪などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「リブマックスリゾート伊東川奈」の湯処へ。太平洋を望む絶景と川奈の自然に抱かれた1万坪の楽園リゾート♪とともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「リブマックスリゾート伊東川奈」にチェックイン。太平洋を望む絶景と川奈の自然に抱かれた1万坪の楽園リゾート♪ 館内の設えを確かめながら、これからの滞在に備えてゆっくり休息する。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「リブマックスリゾート伊東川奈」の大浴場・露天風呂へ。日暮れの静けさの中で湯に浸かり、旅の緊張をゆっくりと解きほぐす。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「リブマックスリゾート伊東川奈」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -504,7 +504,7 @@ export default function Page() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「リブマックスリゾート伊東川奈」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「リブマックスリゾート伊東川奈」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「川奈ホテル」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は「リブマックスリゾート伊東川奈」周辺の観光スポットや地元の名産店に立ち寄り、ご当地のお土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>

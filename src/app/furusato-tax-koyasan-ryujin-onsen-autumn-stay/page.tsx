@@ -430,8 +430,8 @@ export default function Page() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 紀伊田辺駅よりアクセス。有田ICより90分 南紀田辺ICより60分 JR紀伊田辺駅より車で８０分。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「龍神温泉 季楽里 龍神」にチェックイン。平成１６年４月オープン。龍神産檜をふんだんに使ったロビーや大浴場。温泉は日本三美人の湯として有名ですなどの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「龍神温泉 季楽里 龍神」の湯処へ。平成１６年４月オープン。龍神産檜をふんだんに使ったロビーや大浴場。温泉とともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「龍神温泉 季楽里 龍神」にチェックイン。平成１６年４月オープン。 まずは客室で移動の疲れをそっと癒やす。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「龍神温泉 季楽里 龍神」の大浴場・露天風呂へ。日暮れの静けさの中で湯に浸かり、旅の緊張をゆっくりと解きほぐす。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「龍神温泉 季楽里 龍神」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -443,7 +443,7 @@ export default function Page() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「龍神温泉 季楽里 龍神」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「龍神温泉 季楽里 龍神」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「龍神温泉 下御殿」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は宿周辺の散策とショッピングを満喫。地元の名産品やグルメを味わってから余裕をもって帰路につく。</li>
               </ul>
             </div>
           </div>
@@ -459,32 +459,26 @@ export default function Page() {
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">あわせて読みたい人気特集＆全国エリアガイド</h2>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
-            <a href="/winter-yamagata-tendo-onsen-yamadera-snow-risshakuji-yamagatagyu-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/zen-meditation-shojin-cuisine-temple-retreat-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">白銀の水墨画世界・山寺立石寺と将棋のまち天童温泉：2026-2027年冬の山形・山寺＆天童！美肌名湯と極上山形牛すき焼き名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">禅寺坐禅体験＆精進料理宿坊厳選ガイド「高野山・永平寺・京都リトリート」</span>
             </a>
-            <a href="/yamagata-sakata-tsuruoka-shonai-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/chiba-kamogawa-katsuura-boso-seafood-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">山形・酒田＆鶴岡・羽黒山・庄内：山居倉庫・出羽三山＆クラゲ水族館・庄内豚宿 厳選ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「千葉・鴨川＆勝浦・南房総」シャチパフォーマンス・勝浦四百年朝市＆地金目鯛宿 厳選ガイド</span>
             </a>
-            <a href="/yamagata-zao-solo-retreat-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/furusato-tax-cave-bath-natural-grotto-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">蔵王温泉ひとり旅・強酸性美肌の湯おこもり：大露天風呂・樹氷パノラマ・山形牛すき焼き！白濁硫黄泉に包まれる高原ソロリトリート厳選3宿</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">荒波迫る海食洞窟と神秘の巨岩風呂！全国の天然洞窟温泉＆名湯旅館×ふるさと納税厳選ガイド南紀勝浦・湯の峰・上諏訪</span>
             </a>
-            <a href="/furusato-tax-tendo-yamadera-autumn-leaves-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/furusato-tax-katsuura-kumano-kodo-autumn-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">松尾芭蕉ゆかりの山寺・立石寺の絶景紅葉＆天童温泉！山形牛と名湯旅館×ふるさと納税厳選ガイド山形</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">世界遺産・熊野古道の大門坂紅葉＆那智の滝！南紀勝浦の大洞窟露天風呂宿×ふるさと納税厳選ガイド和歌山</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
             <div className="flex flex-wrap gap-2">
-              <Link
-                href="/prefectures/kanagawa/"
-                className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
-              >
-                神奈川県の宿・温泉
-              </Link>
               <Link
                 href="/prefectures/wakayama/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
@@ -492,16 +486,22 @@ export default function Page() {
                 和歌山県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/nara/"
+                href="/prefectures/kyoto/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                奈良県の宿・温泉
+                京都府の宿・温泉
               </Link>
               <Link
-                href="/prefectures/ishikawa/"
+                href="/prefectures/osaka/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                石川県の宿・温泉
+                大阪府の宿・温泉
+              </Link>
+              <Link
+                href="/prefectures/hyogo/"
+                className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
+              >
+                兵庫県の宿・温泉
               </Link>
             </div>
           </div>

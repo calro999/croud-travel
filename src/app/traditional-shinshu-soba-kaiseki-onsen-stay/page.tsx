@@ -565,8 +565,8 @@ export default function FeatureDetailPage() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 別所温泉駅よりアクセス。JR北陸新幹線上田駅にて上田電鉄別所線に乗換、終点別所温泉駅より徒歩10分。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「信州別所温泉 旅宿 上松や」にチェックイン。楽天トラベルアワード7年連続受賞！（2025 シルバーアワード）などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「信州別所温泉 旅宿 上松や」の湯処へ。楽天トラベルアワード7年連続受賞！（2025 シルバーアワード）とともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「信州別所温泉 旅宿 上松や」にチェックイン。楽天トラベルアワード7年連続受賞！ まずは客室で移動の疲れをそっと癒やす。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「信州別所温泉 旅宿 上松や」の自慢の湯処へ。温かな湯気と落ち着いた雰囲気に癒やされながら、夕食前の贅沢なひとときを過ごす。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「信州別所温泉 旅宿 上松や」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -578,7 +578,7 @@ export default function FeatureDetailPage() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「信州別所温泉 旅宿 上松や」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「信州別所温泉 旅宿 上松や」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「信州別所温泉 玉屋旅館」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は「信州別所温泉 旅宿 上松や」周辺の観光スポットや地元の名産店に立ち寄り、ご当地のお土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>
@@ -649,28 +649,28 @@ export default function FeatureDetailPage() {
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
             <div className="flex flex-wrap gap-2">
               <Link
-                href="/prefectures/oita/"
+                href="/prefectures/mie/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                大分県の宿・温泉
+                三重県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/niigata/"
+                href="/prefectures/shizuoka/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                新潟県の宿・温泉
+                静岡県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/ibaraki/"
+                href="/prefectures/gifu/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                茨城県の宿・温泉
+                岐阜県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/kyoto/"
+                href="/prefectures/aichi/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                京都府の宿・温泉
+                愛知県の宿・温泉
               </Link>
             </div>
           </div>
@@ -706,7 +706,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 信州別所温泉　旅宿　上松や</td>
                 <td className="p-3 text-stone-600">長野県上田市別所温泉1628</td>
-                <td className="p-3 text-stone-600">別所温泉駅周辺</td>
+                <td className="p-3 text-stone-600">JR北陸新幹線上田駅にて上田電鉄別所線に乗換、終点別所温泉駅より徒歩10分。</td>
                 <td className="p-3 text-stone-600">有り　20台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.51（1535件）</td>
                 <td className="p-3 font-bold text-rose-600">¥9,350〜</td>
@@ -715,7 +715,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 信州別所温泉　玉屋旅館</td>
                 <td className="p-3 text-stone-600">長野県上田市別所温泉227</td>
-                <td className="p-3 text-stone-600">上田（長野）駅周辺</td>
+                <td className="p-3 text-stone-600">北陸新幹線上田駅乗り換え、別所温泉駅より徒歩7分（14時～17時は無料送迎バス有）、上信越道「上田菅平IC」から車30分</td>
                 <td className="p-3 text-stone-600">有り　３０台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.77（670件）</td>
                 <td className="p-3 font-bold text-rose-600">¥26,400〜</td>
@@ -724,7 +724,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 信州安曇野穂高温泉郷　旅館　山のたこ平</td>
                 <td className="p-3 text-stone-600">長野県安曇野市穂高有明8969</td>
-                <td className="p-3 text-stone-600">有明（長野）駅周辺</td>
+                <td className="p-3 text-stone-600">長野自動車道安曇野ICより車で２０分、JR穂高駅より車で１５分</td>
                 <td className="p-3 text-stone-600">有り　1００台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.18（312件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,500〜</td>
@@ -733,7 +733,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 信州鹿教湯温泉　愛犬と泊まれる温泉宿　鹿鳴荘</td>
                 <td className="p-3 text-stone-600">長野県上田市鹿教湯温泉1422</td>
-                <td className="p-3 text-stone-600">上田（長野）駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ長野新幹線 上田駅より車で３０分／ＪＲ 松本駅より車で３０分</td>
                 <td className="p-3 text-stone-600">有り　２０台　無料　すべて可能</td>
                 <td className="p-3 font-bold text-amber-600">★4.13（134件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,500〜</td>
@@ -742,7 +742,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 信州松本　美ヶ原温泉　翔峰</td>
                 <td className="p-3 text-stone-600">長野県松本市里山辺527</td>
-                <td className="p-3 text-stone-600">松本駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ 松本駅から車で20分／松本駅前バスターミナルより美ヶ原温泉行きのバスで20分</td>
                 <td className="p-3 text-stone-600">有り　１５０台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.62（3158件）</td>
                 <td className="p-3 font-bold text-rose-600">¥17,600〜</td>
@@ -771,7 +771,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　20台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.61 ／ 立地 ★4.28 ／ 部屋 ★4.34 ／ 設備 ★4.26 ／ 風呂 ★4.58 ／ 食事 ★4.7</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「露天からの夜景と柔らかいお湯に癒やされる露天からの夜景が綺麗でした。とにかくお湯が柔らかい。100年前の鎌倉に来たような、レトロな駅舎、古い仏閣が立ち並ぶ古都の風情が良かったです。…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「露天からの夜景と柔らかいお湯に癒やされる露天からの夜景が綺麗でした。とにかくお湯が柔らかい。100年前の鎌倉に来たような、レトロな駅舎、古い仏閣が立ち並ぶ古都の風情が良かったです。」
                   </blockquote>
                 </div>
               </div>
@@ -793,7 +793,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　３０台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.74 ／ 立地 ★4.48 ／ 部屋 ★4.71 ／ 設備 ★4.66 ／ 風呂 ★4.63 ／ 食事 ★4.79</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「松茸料理と源泉かけ流しの温泉に大満足いつもは蓼科高原に泊まるので、このあたりが松茸の産地だということを昨年知りました。昨年は時期が少し早くてお目にかかれず残念な思いをしたので、今年は是非にと思い松…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「松茸料理と源泉かけ流しの温泉に大満足いつもは蓼科高原に泊まるので、このあたりが松茸の産地だということを昨年知りました。」
                   </blockquote>
                 </div>
               </div>
@@ -815,7 +815,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　1００台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事は満足だが設備や温泉に不満あり食事は夜も朝も質・量共に良かったです。温泉は災害の影響で本来のものではないので残念でした。室内に電話が無く、浴衣を交換するのにフロントまで出向かなくてはな…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事は満足だが設備や温泉に不満あり食事は夜も朝も質・量共に良かったです。温泉は災害の影響で本来のものではないので残念でした。」
                   </blockquote>
                 </div>
               </div>
@@ -837,7 +837,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２０台　無料　すべて可能</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.43 ／ 立地 ★3.97 ／ 部屋 ★3.93 ／ 設備 ★3.8 ／ 風呂 ★4.4 ／ 食事 ★4.5</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「松茸料理を堪能、お風呂も親切な対応で満足犬と泊まれる宿なので以前も泊まりに行きました今回はあいにくの雨でしたが今年は松茸が沢山取れているらしく街の駅(佐久穂)道の駅にも沢山売っていました今…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「松茸料理を堪能、お風呂も親切な対応で満足犬と泊まれる宿なので以前も泊まりに行きました今回はあいにくの雨でしたが今年は松茸が沢山取れているらしく街の駅(佐久穂)道の駅にも沢山売っていました今。」
                   </blockquote>
                 </div>
               </div>
@@ -859,7 +859,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１５０台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.63 ／ 立地 ★4.59 ／ 部屋 ★4.56 ／ 設備 ★4.54 ／ 風呂 ★4.64 ／ 食事 ★4.66</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事と接客は良いが露天風呂の視線が気になる食事は大変良かったです。従業員の方々の対応も良かった。客室露天風呂付きの部屋でしたが、他の部屋から見える。あまり温泉の湯という感じもしない。ク…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事と接客は良いが露天風呂の視線が気になる食事は大変良かったです。従業員の方々の対応も良かった。客室露天風呂付きの部屋でしたが、他の部屋から見える。あまり温泉の湯という感じもしない。」
                   </blockquote>
                 </div>
               </div>

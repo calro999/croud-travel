@@ -253,7 +253,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 松島温泉　ホテル松泉閣　ろまん館</td>
                 <td className="p-3 text-stone-600">熊本県上天草市松島町合津6215-21</td>
-                <td className="p-3 text-stone-600">三角駅周辺</td>
+                <td className="p-3 text-stone-600">JR三角駅よりバスorタクシーで20から30分／熊本市内より車で90分</td>
                 <td className="p-3 text-stone-600">有り　20台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★3.88（456件）</td>
                 <td className="p-3 font-bold text-rose-600">¥11,000〜</td>
@@ -262,7 +262,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 玉名温泉　立願寺温泉ホテル　湯里</td>
                 <td className="p-3 text-stone-600">熊本県玉名市立願寺572-7</td>
-                <td className="p-3 text-stone-600">玉名駅周辺</td>
+                <td className="p-3 text-stone-600">玉名駅より車で７分</td>
                 <td className="p-3 text-stone-600">有　５０台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★3.34（649件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,000〜</td>
@@ -271,7 +271,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 石山離宮　五足のくつ</td>
                 <td className="p-3 text-stone-600">熊本県天草市天草町下田北2237</td>
-                <td className="p-3 text-stone-600">天草空港駅周辺</td>
+                <td className="p-3 text-stone-600">熊本空港・熊本駅より車で約２時間30分。九州自動車道 松橋ICより車で2時間。天草空港より車で約40分。</td>
                 <td className="p-3 text-stone-600">【15台・無料】世界遺産の崎津集落まで車20分、イルカウォッチングまで車30分界｜天草観光に便利</td>
                 <td className="p-3 font-bold text-amber-600">★4.26（47件）</td>
                 <td className="p-3 font-bold text-rose-600">¥31,900〜</td>
@@ -280,7 +280,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 和み宿　新和荘　海心　Ｌｉｖｔｅｌ　ｋａｉ－ｓｈｉｎ</td>
                 <td className="p-3 text-stone-600">熊本県天草市港町11-19</td>
-                <td className="p-3 text-stone-600">三角駅周辺</td>
+                <td className="p-3 text-stone-600">三角駅／熊本市内～お車で２時間／松橋ＩＣ～お車で１時間半。本渡港、本渡バスセンターより徒歩10分。</td>
                 <td className="p-3 text-stone-600">有り　１０台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.4（446件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,900〜</td>
@@ -289,7 +289,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. ペットリゾート　ブレインズ　天草</td>
                 <td className="p-3 text-stone-600">熊本県上天草市松島町合津6082-4</td>
-                <td className="p-3 text-stone-600">熊本空港駅周辺</td>
+                <td className="p-3 text-stone-600">熊本空港よりお車にて約90分</td>
                 <td className="p-3 text-stone-600">有り　５０台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.64（135件）</td>
                 <td className="p-3 font-bold text-rose-600">¥18,200〜</td>
@@ -298,7 +298,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">6. 天草温泉　ホテルアレグリアガーデンズ天草</td>
                 <td className="p-3 text-stone-600">熊本県天草市本渡町広瀬996</td>
-                <td className="p-3 text-stone-600">天草空港駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ熊本駅から車で１５０分／本渡バスセンターから車で１０分／天草空港から車で１５分</td>
                 <td className="p-3 text-stone-600">有り　１００台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.47（744件）</td>
                 <td className="p-3 font-bold text-rose-600">¥9,000〜</td>
@@ -327,7 +327,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　20台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「荒天でもスタッフの明るい接客にほっこりあいにくの荒天でしたが、スタッフのお姉さま方の明るい接客にほっこりして快適に過ごす事が出来ましたまたご縁がございましたらよろしくお願いいたします…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「荒天でもスタッフの明るい接客にほっこりあいにくの荒天でしたが、スタッフのお姉さま方の明るい接客にほっこりして快適に過ごす事が出来ましたまたご縁がございましたらよろしくお願いいたしますクチコ。」
                   </blockquote>
                 </div>
               </div>
@@ -371,7 +371,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>【15台・無料】世界遺産の崎津集落まで車20分、イルカウォッチングまで車30分界｜天草観光に便利</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「源泉露天風呂と教会風食堂、最高の思い出に下田温泉から引いているという源泉露天風呂は、沸かさず、そのまま掛け流しとのことで大変素晴らしい。やや熱めですが、自分にとっては適温で最高でした。5回も入りま…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「源泉露天風呂と教会風食堂、最高の思い出に下田温泉から引いているという源泉露天風呂は、沸かさず、そのまま掛け流しとのことで大変素晴らしい。やや熱めですが、自分にとっては適温で最高でした。」
                   </blockquote>
                 </div>
               </div>
@@ -393,7 +393,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１０台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「貸切風呂と自転車が便利、アメニティ補充は残念朝食食べれるところが少ないので朝食付きにすれば良かったです。レンタル自転車も置いてあるので便利です。お風呂は大きめの貸切風呂が2つあり空いていれば誰…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「貸切風呂と自転車が便利、アメニティ補充は残念朝食食べれるところが少ないので朝食付きにすれば良かったです。レンタル自転車も置いてあるので便利です。」
                   </blockquote>
                 </div>
               </div>
@@ -415,7 +415,7 @@ export default function MicroTouristHubPage() {
                   <p>【熊本・天草諸島＆三角：世界遺産﨑津集落・イルカウォッ】 <strong>【駐車場・マイカー利用】</strong>有り　５０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「海を眺めながら愛犬と楽しむ絶品ディナーウェルカムスウィーツで冷たいシャーベットを頂いたり目の前に綺麗な海が広がっていたりと、リゾート気分になれるホテルでした。ディナーは愛犬も一緒に座る事ができ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「海を眺めながら愛犬と楽しむ絶品ディナーウェルカムスウィーツで冷たいシャーベットを頂いたり目の前に綺麗な海が広がっていたりと、リゾート気分になれるホテルでした。」
                   </blockquote>
                 </div>
               </div>
@@ -437,7 +437,7 @@ export default function MicroTouristHubPage() {
                   <p>【熊本・天草諸島＆三角：世界遺産﨑津集落・イルカウォッ】 <strong>【駐車場・マイカー利用】</strong>有り　１００台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「プライベートビーチと豪華な食事に大満足震災で行けるか心配でしたが天草の方は被害が少なかったようで安心しました。予算は心配ではあったものの、楽しみに伺わせていただきました。裏手はプライベート…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「プライベートビーチと豪華な食事に大満足震災で行けるか心配でしたが天草の方は被害が少なかったようで安心しました。予算は心配ではあったものの、楽しみに伺わせていただきました。」
                   </blockquote>
                 </div>
               </div>

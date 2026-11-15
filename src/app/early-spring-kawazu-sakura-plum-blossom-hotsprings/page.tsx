@@ -334,7 +334,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 伊豆高原温泉　海望む露天風呂付客室　夢海月(ゆめみづき)</td>
                 <td className="p-3 text-stone-600">静岡県伊東市大室高原10丁目348</td>
-                <td className="p-3 text-stone-600">伊豆高原駅周辺</td>
+                <td className="p-3 text-stone-600">車：東名高速厚木IC・沼津ＩＣより約100分／電車：伊豆急行線伊豆高原駅～シャボテン公園行・理想郷バス停～歩2分</td>
                 <td className="p-3 text-stone-600">無料7台（ご予約不要）</td>
                 <td className="p-3 font-bold text-amber-600">★4.32（536件）</td>
                 <td className="p-3 font-bold text-rose-600">¥12,000〜</td>
@@ -343,7 +343,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 伊豆高原温泉ホテル　森の泉</td>
                 <td className="p-3 text-stone-600">静岡県伊東市吉田901-75</td>
-                <td className="p-3 text-stone-600">川奈（静岡）駅周辺</td>
+                <td className="p-3 text-stone-600">【最寄り駅】川奈駅より車で約15分（※無料送迎／予約制）【最寄りIC】小田原西ICから車で約90分</td>
                 <td className="p-3 text-stone-600">有り　35台（無料）予約不要　　　Wi-fi　：有り（館内全て）</td>
                 <td className="p-3 font-bold text-amber-600">★4.29（868件）</td>
                 <td className="p-3 font-bold text-rose-600">¥9,900〜</td>
@@ -352,7 +352,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 松崎温泉　公共の宿　伊豆まつざき荘</td>
                 <td className="p-3 text-stone-600">静岡県賀茂郡松崎町江奈210-1</td>
-                <td className="p-3 text-stone-600">伊豆急下田駅周辺</td>
+                <td className="p-3 text-stone-600">伊豆急下田駅よりバスにて５０分 東名沼津I.C.／新東名長泉沼津ＩＣより約７６km（約90分）</td>
                 <td className="p-3 text-stone-600">有り　６０台　無料　予約不要　ツーリングの方には屋根付き駐車場あり</td>
                 <td className="p-3 font-bold text-amber-600">★4.41（788件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,690〜</td>
@@ -381,7 +381,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料7台（ご予約不要）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.46 ／ 立地 ★4.06 ／ 部屋 ★4.52 ／ 設備 ★4.26 ／ 風呂 ★4.38 ／ 食事 ★4.6</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「アットホームな雰囲気と美味しい金目鯛の煮付け大室山の麓、伊豆高原の住宅街(別荘地?)の中にあります。確かにお部屋から海も見えますが、ロケーション的には今一つ。部屋数は少なく、こじんまりしていて…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「アットホームな雰囲気と美味しい金目鯛の煮付け大室山の麓、伊豆高原の住宅街(別荘地?)の中にあります。確かにお部屋から海も見えますが、ロケーション的には今一つ。」
                   </blockquote>
                 </div>
               </div>
@@ -403,7 +403,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　35台（無料）予約不要　　　Wi-fi　：有り（館内全て）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.28 ／ 立地 ★4.21 ／ 部屋 ★4.25 ／ 設備 ★4.1 ／ 風呂 ★4.3 ／ 食事 ★4.47</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事と接客は素晴らしく、全体的に満足食事は夕食、朝食ともに美味しく頂きました。その際の外人スタッフの接客対応も素晴らしかったです。また出向のスタッフも親切で好印象を持ちました。部屋もきれいで満…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事と接客は素晴らしく、全体的に満足食事は夕食、朝食ともに美味しく頂きました。その際の外人スタッフの接客対応も素晴らしかったです。また出向のスタッフも親切で好印象を持ちました。」
                   </blockquote>
                 </div>
               </div>

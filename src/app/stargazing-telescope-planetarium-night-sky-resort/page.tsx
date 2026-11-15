@@ -118,7 +118,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F6116%2F6116.html%26f_flg%3DPLAN",
     "hotelMinCharge": 5500,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/6116/6116.jpg",
-    "userReview": "露天風呂の宿　開運の湯　ロイヤルホテル河口湖ならではの立地と落ち着いた空間で、ゆったりとした滞在を楽しめたという声が寄せられています。",
+    "userReview": "露天風呂の宿 開運の湯 ロイヤルホテル河口湖ならではの立地と落ち着いた空間で、ゆったりとした滞在を楽しめたという声が寄せられています。",
     "reviewAverage": 3.2,
     "reviewCount": 493,
     "address": "山梨県南都留郡富士河口湖町船津6713-22",
@@ -284,7 +284,7 @@ export default function Page() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> ■播但道神崎南ICより県道8号線を約30分で現地へ到着。</li>
                 <li>・<strong className="text-stone-800">15:30〜</strong> 「星空の見えるリゾートホテル 峰山高原ホテルリラクシア」へチェックイン。落ち着いた空間で旅の荷を解き、ゆったりとした時間をスタート。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「星空の見えるリゾートホテル 峰山高原ホテルリラクシア」の湯処へ。日頃の疲れを癒やす湯浴みとともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「星空の見えるリゾートホテル 峰山高原ホテルリラクシア」の湯船で寛ぎタイム。季節の空気を感じながら手足を伸ばし、心豊かな夕方のリラックス時間を満喫。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「星空の見えるリゾートホテル 峰山高原ホテルリラクシア」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -296,7 +296,7 @@ export default function Page() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「星空の見えるリゾートホテル 峰山高原ホテルリラクシア」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「星空の見えるリゾートホテル 峰山高原ホテルリラクシア」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「芦別温泉スターライトホテル＆おふろｃａｆｅ星遊館 満天の星空×サウナリゾート」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は宿周辺の散策とショッピングを満喫。地元の名産品やグルメを味わってから余裕をもって帰路につく。</li>
               </ul>
             </div>
           </div>
@@ -433,7 +433,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 芦別温泉スターライトホテル＆おふろｃａｆｅ星遊館　満天の星空×サウナリゾート</td>
                 <td className="p-3 text-stone-600">北海道芦別市旭町油谷1</td>
-                <td className="p-3 text-stone-600">芦別駅周辺</td>
+                <td className="p-3 text-stone-600">芦別駅から10分／旭川駅から約60分／旭川空港から約80分／札幌・新千歳空港から約120分（車移動）</td>
                 <td className="p-3 text-stone-600">無料駐車場約２５０台！予約不要／電気自動車充電器あり／大型車OK／屋根付きバイク駐輪場あり</td>
                 <td className="p-3 font-bold text-amber-600">★4.34（1046件）</td>
                 <td className="p-3 font-bold text-rose-600">¥9,875〜</td>
@@ -460,7 +460,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. １１種類の貸切露天風呂　水上高原／奥利根温泉　ホテルサンバード</td>
                 <td className="p-3 text-stone-600">群馬県利根郡みなかみ町藤原4957-1</td>
-                <td className="p-3 text-stone-600">水上駅周辺</td>
+                <td className="p-3 text-stone-600">車で関越自動車道・水上ＩＣから３０分・ＪＲで上越線 水上駅より 湯ノ小屋行きバスで藤原スキー場入口下車900M</td>
                 <td className="p-3 text-stone-600">有り ３００台 無料 先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.04（825件）</td>
                 <td className="p-3 font-bold text-rose-600">¥9,900〜</td>
@@ -484,12 +484,12 @@ export default function Page() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/67476/67476.jpg" alt="星空の見えるリゾートホテル　峰山高原ホテルリラクシア 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
-                  <p><strong>【宿の特徴・魅力】</strong>「本格天体望遠鏡＆星空ガイド付き！満天の星と天の川に包まれる高原星空リゾート」掲載宿の所在地・アクセス・特徴データ一覧は、周辺の観光巡りにも便利で快適な滞在環境が整った宿泊施設です。</p>
+                  <p><strong>【宿の特徴・魅力】</strong>星空の見えるリゾートホテル　峰山高原ホテルリラクシアは、周辺の観光巡りにも便利で快適な滞在環境が整った宿泊施設です。</p>
                   <p><strong>【所在地・アクセス】</strong>交通案内：■播但道神崎南ICより県道8号線を約30分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「高原の空気と夕食は満足、朝食の提供に改善希望家内と暑すぎた夏のおわりに、ちょうどいい頃かなと思い、出かけました。雨が少し残り、湿度が高かったのですが、思った通り涼しい高原の空気を満喫でき、夕食で久…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「高原の空気と夕食は満足、朝食の提供に改善希望家内と暑すぎた夏のおわりに、ちょうどいい頃かなと思い、出かけました。」
                   </blockquote>
                 </div>
               </div>
@@ -511,7 +511,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料駐車場約２５０台！予約不要／電気自動車充電器あり／大型車OK／屋根付きバイク駐輪場あり</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.3 ／ 立地 ★4.22 ／ 部屋 ★4.17 ／ 設備 ★4.31 ／ 風呂 ★4.5 ／ 食事 ★4.4</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事の質が非常に高く、屋上の星空も最高宿泊者が少ないからか、夕食がビュッフェではなく都度注文方式でした。出来立てが出てくるのでビュッフェより圧倒的に美味しいですし、出来立てを差し引いてもシンプルに…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事の質が非常に高く、屋上の星空も最高宿泊者が少ないからか、夕食がビュッフェではなく都度注文方式でした。」
                   </blockquote>
                 </div>
               </div>
@@ -577,7 +577,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り ３００台 無料 先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.03 ／ 立地 ★4.08 ／ 部屋 ★3.94 ／ 設備 ★3.75 ／ 風呂 ★4.19 ／ 食事 ★4.16</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「シルバーウィークにこの内容でみなかみでのラフティング目的で近くの宿を探し、シルバーウィークど真ん中なのにとてもお安く泊まれて、食事など正直あまり期待していなかったのですが良い意味で裏切られまし…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「シルバーウィークにこの内容でみなかみでのラフティング目的で近くの宿を探し、シルバーウィークど真ん中なのにとてもお安く泊まれて、食事など正直あまり期待していなかったのですが良い意味で裏切られました。」
                   </blockquote>
                 </div>
               </div>

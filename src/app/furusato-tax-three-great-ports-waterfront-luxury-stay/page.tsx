@@ -788,8 +788,8 @@ export default function Page() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 元町（兵庫）駅よりアクセス。JR三ノ宮間の送迎バス運行。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「神戸メリケンパークオリエンタルホテル」にチェックイン。神戸リゾートの時間へ、ようこそ。 全てのお部屋にバルコニーをご用意！などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「神戸メリケンパークオリエンタルホテル」の湯処へ。神戸リゾートの時間へ、ようこそ。 全てのお部屋にバルコニーをご用意！とともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「神戸メリケンパークオリエンタルホテル」にチェックイン。神戸リゾートの時間へ、ようこそ。 全てのお部屋にバルコニーをご用意！ 館内の設えを確かめながら、これからの滞在に備えてゆっくり休息する。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「神戸メリケンパークオリエンタルホテル」の大浴場・露天風呂へ。日暮れの静けさの中で湯に浸かり、旅の緊張をゆっくりと解きほぐす。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「神戸メリケンパークオリエンタルホテル」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -801,7 +801,7 @@ export default function Page() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「神戸メリケンパークオリエンタルホテル」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「神戸メリケンパークオリエンタルホテル」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「ＨＯＴＥＬ メリケンポート神戸元町」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は「神戸メリケンパークオリエンタルホテル」周辺の観光スポットや地元の名産店に立ち寄り、ご当地のお土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>

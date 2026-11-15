@@ -336,8 +336,8 @@ export default function ArticlePage() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 米子駅よりアクセス。お車で米子自動車道米子ICより車10分。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「皆生松月」にチェックイン。アワード14年連続受賞（鳥取県1位）★地上27ｍの眺望大浴場と4つの貸切露天、露天風呂付き客室もなどの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「皆生松月」の湯処へ。アワード14年連続受賞（鳥取県1位）★地上27ｍの眺望大浴場と4つの貸とともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「皆生松月」にチェックイン。アワード14年連続受賞（鳥取県1位）★地上27ｍの眺望大浴場と4つの貸切露天、露天風呂付き客室もが魅力の一軒。客室で荷物をほどいて穏やかな午後のひとときを。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「皆生松月」の湯船で寛ぎタイム。季節の空気を感じながら手足を伸ばし、心豊かな夕方のリラックス時間を満喫。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「皆生松月」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -349,7 +349,7 @@ export default function ArticlePage() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「皆生松月」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「皆生松月」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「皆生温泉 皆生菊乃家」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は宿周辺の散策とショッピングを満喫。地元の名産品やグルメを味わってから余裕をもって帰路につく。</li>
               </ul>
             </div>
           </div>
@@ -365,49 +365,49 @@ export default function ArticlePage() {
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">あわせて読みたい人気特集＆全国エリアガイド</h2>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
-            <a href="/traditional-hokkaido-furano-lavender-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/winter-tottori-sakyu-snow-hakuto-shrine-hatsumode-matsubagani-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">2026年：紫の絨毯が広がる夏の富良野！ラベンダー畑パノラマ＆ふらの和牛ディナーの宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">白銀に染まる「鳥取砂丘」雪景色と因幡の白兎「白兎神社」新春縁結び初詣 冬旬「鳥取松葉がに」・幻のモサエビ＆鳥取温泉名宿5選</span>
             </a>
-            <a href="/winter-hokkaido-kawayu-onsen-mashu-kussharo-crab-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/autumn-budget-tottori-station-sakyu-mosaebi-beef-hotels-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12月北海道・川湯温泉＆屈斜路湖・摩周湖】pH1.7極上強酸性硫黄泉と白鳥の雪景色・冬の味覚オホーツク毛ガニと十勝牛を味わう名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「鳥取駅前」黄金の鳥取砂丘＆幻のモサエビ！3,000円台〜泊まれる格安・高コスパ宿5選</span>
             </a>
-            <a href="/winter-hokkaido-sapporo-odori-illumination-jozankei-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/autumn-budget-tottori-yonago-station-crab-hotels-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12・1月北海道】さっぽろホワイトイルミネーション＆定山渓雪見露天！札幌味噌ラーメンと北の味覚に酔いしれる名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「米子駅前」秋の境港紅ズワイガニ＆米子城跡展望！3,000円台〜泊まれる格安・高コスパ宿5選</span>
             </a>
-            <a href="/winter-hokkaido-tokachi-jewelry-ice-mall-onsen-sauna-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/furusato-tax-daisen-kagikake-kaike-autumn-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">極寒の奇跡ジュエリーアイスとモール温泉：2026-2027年冬の十勝川温泉＆極上サウナ宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">霊峰大山・鍵掛峠の錦秋大パノラマ＆皆生温泉オーシャンビュー露天！松葉ガニ・境港宿×ふるさと納税厳選ガイド鳥取</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
             <div className="flex flex-wrap gap-2">
               <Link
-                href="/prefectures/kyoto/"
+                href="/prefectures/tottori/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                京都府の宿・温泉
+                鳥取県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/kagoshima/"
+                href="/prefectures/hiroshima/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                鹿児島県の宿・温泉
+                広島県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/hokkaido/"
+                href="/prefectures/okayama/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                北海道の宿・温泉
+                岡山県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/kagawa/"
+                href="/prefectures/shimane/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                香川県の宿・温泉
+                島根県の宿・温泉
               </Link>
             </div>
           </div>
@@ -443,7 +443,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 皆生松月</td>
                 <td className="p-3 text-stone-600">鳥取県米子市皆生温泉3-4-25</td>
-                <td className="p-3 text-stone-600">米子駅周辺</td>
+                <td className="p-3 text-stone-600">お車で米子自動車道米子ICより車10分。JR米子駅より公共バス・タクシー利用で15分、米子空港よりタクシー利用で20分。</td>
                 <td className="p-3 text-stone-600">有り　50台　無料　予約不要　旅館目の前（姉妹館の皆生游月と共有）　平面駐車場</td>
                 <td className="p-3 font-bold text-amber-600">★4.71（4168件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,700〜</td>
@@ -452,7 +452,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 皆生温泉　皆生菊乃家</td>
                 <td className="p-3 text-stone-600">鳥取県米子市皆生温泉4-29-10</td>
-                <td className="p-3 text-stone-600"></td>
+                <td className="p-3 text-stone-600">鳥取県米子市皆生温泉4-29-10 ／ 交通案内：</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.46（1409件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,600〜</td>
@@ -461,7 +461,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 皆生温泉　湯喜望　白扇</td>
                 <td className="p-3 text-stone-600">鳥取県米子市皆生温泉3-12-33</td>
-                <td className="p-3 text-stone-600"></td>
+                <td className="p-3 text-stone-600">鳥取県米子市皆生温泉3-12-33 ／ 交通案内：</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.28（1942件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,050〜</td>
@@ -490,7 +490,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　50台　無料　予約不要　旅館目の前（姉妹館の皆生游月と共有）　平面駐車場</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「海水浴後の設備が便利で、花火も温泉も満喫チェックイン前に海水浴してから温水シャワーを浴びて気持ち良く又、無料の洗濯機で水着も洗濯出来て非常に便利が良く、その後チェックイン出来て部屋へ行けてスムーズ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「海水浴後の設備が便利で、花火も温泉も満喫チェックイン前に海水浴してから温水シャワーを浴びて気持ち良く又、無料の洗濯機で水着も洗濯出来て非常に便利が良く、その後チェックイン出来て部屋へ行けてスムーズ。」
                   </blockquote>
                 </div>
               </div>

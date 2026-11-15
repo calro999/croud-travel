@@ -353,39 +353,7 @@ export default function Page() {
             </Link>
           </div>
         </section>
-        <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
-          <div className="flex items-center gap-3 mb-6">
-            <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】杜の湯 きらの里を拠点にするおすすめ滞在モデルコース</h2>
-          </div>
-          <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
-            <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
-              <div className="flex items-center gap-2">
-                <span className="bg-amber-600 text-white text-xs font-bold px-2.5 py-1 rounded">1日目</span>
-                <h3 className="font-bold text-stone-900 text-base md:text-lg">到着〜チェックインと名湯巡り</h3>
-              </div>
-              <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
-                <li>・<strong className="text-stone-800">14:00〜</strong> 伊豆高原駅よりアクセス。車：伊豆高原駅より送迎バスで約7分 車：小田原厚木道路『石橋IC』～国道135号線『中大見口』より県道112号線へ。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「杜の湯 きらの里」にチェックイン。リニューアルオープン 里山を再現した湯宿☆3種の貸切風呂は全て無料などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「杜の湯 きらの里」の湯処へ。リニューアルオープン 里山を再現した湯宿☆3種のとともに、夕暮れの特別な寛ぎを満喫。</li>
-                <li>・<strong className="text-stone-800">19:00〜</strong> 「杜の湯 きらの里」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
-              </ul>
-            </div>
-            <div className="border-l-2 border-teal-500 pl-4 md:pl-6 space-y-4">
-              <div className="flex items-center gap-2">
-                <span className="bg-teal-600 text-white text-xs font-bold px-2.5 py-1 rounded">2日目</span>
-                <h3 className="font-bold text-stone-900 text-base md:text-lg">爽快な朝湯〜周辺散策と帰路へ</h3>
-              </div>
-              <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
-                <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「杜の湯 きらの里」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
-                <li>・<strong className="text-stone-800">08:00〜</strong> 「杜の湯 きらの里」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「伊豆高原温泉 客室露天風呂付リゾートホテル コルテラルゴ伊豆高原」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
-              </ul>
-            </div>
-          </div>
-        </section>
-
-        {/* FAQ Section */}
+                {/* FAQ Section */}
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
@@ -429,49 +397,49 @@ export default function Page() {
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">あわせて読みたい人気特集＆全国エリアガイド</h2>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
-            <a href="/autumn-budget-hokkaido-otaru-station-canal-sushi-hotels-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/shizuoka-hamanako-kanzanji-unagi-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">小樽駅前：小樽運河秋散歩＆秋シャコ・小樽寿司！2,000円台〜泊まれる格安ホテル5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「静岡・浜名湖＆舘山寺温泉」湖畔パノラマ・ロープウェイ＆浜名湖うなぎ宿 厳選ガイド</span>
             </a>
-            <a href="/furusato-tax-jozankei-onsen-sapporo-retreat-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/shizuoka-izu-ito-jogasaki-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">定山渓温泉をふるさと納税でお得に旅する！札幌の奥座敷！名湯露天風呂と北海道美食バイキング＆隠れ家リゾートガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「静岡・伊豆伊東＆城ヶ崎海岸」門脇つり橋・大室山リフト＆東海館・地魚海鮮宿 厳選ガイド</span>
             </a>
-            <a href="/hokkaido-akanko-solo-retreat-lakeview-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/shizuoka-izu-shuzenji-bamboo-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">阿寒摩周・阿寒湖温泉ひとり旅・雄阿寒岳とマリモおこもり：全室温泉露天風呂・アイヌコタン木彫り文化・オホーツク会席！道東国立公園厳選3宿</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「静岡・伊豆修善寺」竹林の小径・独鈷の湯＆伊豆牛・本わさび極上宿 厳選ガイド</span>
             </a>
-            <a href="/hokkaido-noboribetsu-solo-retreat-hell-valley-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/shizuoka-shimoda-solo-retreat-ocean-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">北海道・登別温泉ひとり旅・地獄谷の多彩な泉質おこもり：9種類の湧出泉・白濁硫黄露天風呂・道産会席！名湯の王様厳選3宿</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「南伊豆・下田温泉ひとり旅・ペリー黒船と白砂ビーチおこもり」自家源泉掛け流し・下田金目鯛づくし・海一望露天風呂！特急サフィール直通の港町厳選3宿</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
             <div className="flex flex-wrap gap-2">
               <Link
-                href="/prefectures/gunma/"
+                href="/prefectures/shizuoka/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                群馬県の宿・温泉
+                静岡県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/tokushima/"
+                href="/prefectures/gifu/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                徳島県の宿・温泉
+                岐阜県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/fukui/"
+                href="/prefectures/aichi/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                福井県の宿・温泉
+                愛知県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/miyagi/"
+                href="/prefectures/mie/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                宮城県の宿・温泉
+                三重県の宿・温泉
               </Link>
             </div>
           </div>
@@ -507,7 +475,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 杜の湯　きらの里（共立リゾート）</td>
                 <td className="p-3 text-stone-600">静岡県伊東市八幡野1326-5</td>
-                <td className="p-3 text-stone-600">伊豆高原駅周辺</td>
+                <td className="p-3 text-stone-600">車：伊豆高原駅より送迎バスで約7分 車：小田原厚木道路『石橋IC』～国道135号線『中大見口』より県道112号線へ。</td>
                 <td className="p-3 text-stone-600">有り（５０台）無料・予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.55（1548件）</td>
                 <td className="p-3 font-bold text-rose-600">¥14,300〜</td>
@@ -516,7 +484,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 伊豆高原温泉　客室露天風呂付リゾートホテル　コルテラルゴ伊豆高原</td>
                 <td className="p-3 text-stone-600">静岡県伊東市富戸1038-73</td>
-                <td className="p-3 text-stone-600">伊豆高原駅周辺</td>
+                <td className="p-3 text-stone-600">伊豆急行線 伊豆高原駅より車にて１０分／東名 厚木ＩＣより小田原厚木道路経由、Ｒ１３５を下田方面へ１２０分</td>
                 <td className="p-3 text-stone-600">有り　９台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.88（402件）</td>
                 <td className="p-3 font-bold text-rose-600">¥21,360〜</td>
@@ -525,7 +493,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. ＳＫＹ－ＨＩＬＬ　ＨＯＴＥＬ　伊豆高原</td>
                 <td className="p-3 text-stone-600">静岡県伊東市富戸1317-624</td>
-                <td className="p-3 text-stone-600">伊豆高原駅周辺</td>
+                <td className="p-3 text-stone-600">伊豆高原駅よりバス17分 バス停より徒歩10分</td>
                 <td className="p-3 text-stone-600">有り　18台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.21（143件）</td>
                 <td className="p-3 font-bold text-rose-600">¥11,300〜</td>
@@ -554,7 +522,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り（５０台）無料・予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「里山体験とブリしゃぶに感動、孫と大満足の旅60代・男性 2026.8.14に孫と3世代で宿泊。敷地内に入ると田んぼやせせらぎなどがあり、子供時代にタイムスリップしたかのような原風景を思い出…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「里山体験とブリしゃぶに感動、孫と大満足の旅60代・男性 2026.8.14に孫と3世代で宿泊。」
                   </blockquote>
                 </div>
               </div>
@@ -576,7 +544,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　９台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.88 ／ 立地 ★4.63 ／ 部屋 ★4.82 ／ 設備 ★4.81 ／ 風呂 ★4.81 ／ 食事 ★4.88</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「サプライズの演出と心温まるおもてなしに感動大切な友人のお祝いで宿泊しました。以前からずっと泊まってみたかったのですが、なかなか予約が取れず...。今回たまたまキャンセル待ちで予約することが…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「サプライズの演出と心温まるおもてなしに感動大切な友人のお祝いで宿泊しました。以前からずっと泊まってみたかったのですが、なかなか予約が取れず...。」
                   </blockquote>
                 </div>
               </div>
@@ -598,7 +566,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　18台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「眺望は最高だが朝食と急坂が少し残念部屋からの眺望がとっても良い。夕食は品数もちょうどで美味しいが朝食はおかずの量と質が物足りないホテルまでの道が急坂なので歩きは辛いクチコミの詳…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「眺望は最高だが朝食と急坂が少し残念部屋からの眺望がとっても良い。夕食は品数もちょうどで美味しいが朝食はおかずの量と質が物足りないホテルまでの道が急坂なので歩きは辛い」
                   </blockquote>
                 </div>
               </div>

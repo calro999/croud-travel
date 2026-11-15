@@ -353,39 +353,7 @@ export default function Page() {
             </Link>
           </div>
         </section>
-        <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
-          <div className="flex items-center gap-3 mb-6">
-            <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】洞川温泉後鬼の湯・宿 花屋徳兵衛を拠点にするおすすめ滞在モデルコース</h2>
-          </div>
-          <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
-            <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
-              <div className="flex items-center gap-2">
-                <span className="bg-amber-600 text-white text-xs font-bold px-2.5 py-1 rounded">1日目</span>
-                <h3 className="font-bold text-stone-900 text-base md:text-lg">到着〜チェックインと名湯巡り</h3>
-              </div>
-              <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
-                <li>・<strong className="text-stone-800">14:00〜</strong> 下市口駅よりアクセス。バス 近鉄下市口駅～洞川温泉行きバス約80分/ 車 南阪奈道路～京奈和道路御所南ICより約70分。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「洞川温泉☆後鬼の湯・宿 花屋徳兵衛」にチェックイン。創業500年☆一番の老舗温泉旅館 貸切温泉有 リピーターの多い宿などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「洞川温泉☆後鬼の湯・宿 花屋徳兵衛」の湯処へ。創業500年☆一番の老舗温泉旅館 貸切温泉有 リピーターの多い宿とともに、夕暮れの特別な寛ぎを満喫。</li>
-                <li>・<strong className="text-stone-800">19:00〜</strong> 「洞川温泉☆後鬼の湯・宿 花屋徳兵衛」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
-              </ul>
-            </div>
-            <div className="border-l-2 border-teal-500 pl-4 md:pl-6 space-y-4">
-              <div className="flex items-center gap-2">
-                <span className="bg-teal-600 text-white text-xs font-bold px-2.5 py-1 rounded">2日目</span>
-                <h3 className="font-bold text-stone-900 text-base md:text-lg">爽快な朝湯〜周辺散策と帰路へ</h3>
-              </div>
-              <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
-                <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「洞川温泉☆後鬼の湯・宿 花屋徳兵衛」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
-                <li>・<strong className="text-stone-800">08:00〜</strong> 「洞川温泉☆後鬼の湯・宿 花屋徳兵衛」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「洞川温泉 行者の宿 角甚」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
-              </ul>
-            </div>
-          </div>
-        </section>
-
-        {/* FAQ Section */}
+                {/* FAQ Section */}
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
@@ -429,49 +397,49 @@ export default function Page() {
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">あわせて読みたい人気特集＆全国エリアガイド</h2>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
-            <a href="/traditional-hokkaido-furano-lavender-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/furusato-tax-kusatsu-onsen-yubatake-walk-luxury-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">2026年：紫の絨毯が広がる夏の富良野！ラベンダー畑パノラマ＆ふらの和牛ディナーの宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">天下の名湯・草津温泉の真髄を味わう！湯畑徒歩圏＆名物源泉掛け流し名門旅館×ふるさと納税極上旅ガイド櫻井・一井・奈良屋</span>
             </a>
-            <a href="/winter-hokkaido-kawayu-onsen-mashu-kussharo-crab-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/furusato-tax-yoshinoyama-autumn-leaves-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12月北海道・川湯温泉＆屈斜路湖・摩周湖】pH1.7極上強酸性硫黄泉と白鳥の雪景色・冬の味覚オホーツク毛ガニと十勝牛を味わう名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">世界遺産・吉野山の秋色グラデーション（下千本〜奥千本）と千年の歴史漂う隠れ宿＆大和牛会席｜ふるさと納税で泊まれる名宿ガイド</span>
             </a>
-            <a href="/winter-hokkaido-sapporo-odori-illumination-jozankei-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/nara-totsukawa-solo-retreat-secret-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12・1月北海道】さっぽろホワイトイルミネーション＆定山渓雪見露天！札幌味噌ラーメンと北の味覚に酔いしれる名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「日本一広い村・十津川温泉郷ひとり旅・源泉かけ流し宣言おこもり」100%完全かけ流し・世界遺産熊野参詣道小辺路・谷瀬の吊り橋！紀伊山地秘境厳選3宿</span>
             </a>
-            <a href="/winter-hokkaido-tokachi-jewelry-ice-mall-onsen-sauna-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/traditional-nara-yamato-beef-tea-porridge-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">極寒の奇跡ジュエリーアイスとモール温泉：2026-2027年冬の十勝川温泉＆極上サウナ宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「大和牛すき焼き＆名物茶粥」古都奈良の歴史浪漫と飛鳥・吉野・奈良町の名湯美食宿5選</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
             <div className="flex flex-wrap gap-2">
               <Link
-                href="/prefectures/aichi/"
+                href="/prefectures/nara/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                愛知県の宿・温泉
+                奈良県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/kochi/"
+                href="/prefectures/kyoto/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                高知県の宿・温泉
+                京都府の宿・温泉
               </Link>
               <Link
-                href="/prefectures/hiroshima/"
+                href="/prefectures/osaka/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                広島県の宿・温泉
+                大阪府の宿・温泉
               </Link>
               <Link
-                href="/prefectures/fukui/"
+                href="/prefectures/hyogo/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                福井県の宿・温泉
+                兵庫県の宿・温泉
               </Link>
             </div>
           </div>
@@ -507,7 +475,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 洞川（どろがわ）温泉☆後鬼の湯・宿　花屋徳兵衛</td>
                 <td className="p-3 text-stone-600">奈良県吉野郡天川村洞川217</td>
-                <td className="p-3 text-stone-600">下市口駅周辺</td>
+                <td className="p-3 text-stone-600">【バス】近鉄下市口駅～洞川温泉行きバス約80分/【車】南阪奈道路～京奈和道路御所南ICより約70分</td>
                 <td className="p-3 text-stone-600">駐車場(無料）到着時は一旦宿の前で下車し、荷物をお預けください。駐車場までは宿の車で送迎致します。</td>
                 <td className="p-3 font-bold text-amber-600">★4.68（356件）</td>
                 <td className="p-3 font-bold text-rose-600">¥13,000〜</td>
@@ -516,7 +484,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 洞川温泉　行者の宿　角甚</td>
                 <td className="p-3 text-stone-600">奈良県吉野郡天川村洞川240</td>
-                <td className="p-3 text-stone-600">近鉄電車下市口駅より、奈良交通バスで約８０分。タクシ-で４０分。南阪奈</td>
+                <td className="p-3 text-stone-600">近鉄電車下市口駅より、奈良交通バスで約８０分。タクシ-で４０分。南阪奈道路 橿原終点より車で約７０分。</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.73（295件）</td>
                 <td className="p-3 font-bold text-rose-600">¥20,900〜</td>
@@ -525,7 +493,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. プチホテル＆中華料理　彰武</td>
                 <td className="p-3 text-stone-600">奈良県吉野郡天川村洞川293-4</td>
-                <td className="p-3 text-stone-600">下市口駅周辺</td>
+                <td className="p-3 text-stone-600">★洞川温泉バス停から徒歩15分★バス停までの送迎致します(電話で、お伝え下さい)★</td>
                 <td className="p-3 text-stone-600">有り　７台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.93（185件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,500〜</td>
@@ -554,7 +522,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>駐車場(無料）到着時は一旦宿の前で下車し、荷物をお預けください。駐車場までは宿の車で送迎致します。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「半露天風呂の清掃不足が残念、食事は美味半露天風呂付客室に宿泊しましたが肝心のお風呂が、浴槽のフィルターカバーが外れていて、緑色のゴミ?のようなものがたくさん浮いていたり髪の毛が浮いていたり…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「半露天風呂の清掃不足が残念、食事は美味半露天風呂付客室に宿泊しましたが肝心のお風呂が、浴槽のフィルターカバーが外れていて、緑色のゴミ?のようなものがたくさん浮いていたり髪の毛が浮いていたり。」
                   </blockquote>
                 </div>
               </div>
@@ -576,7 +544,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「露天風呂と牡丹鍋、縁側でのんびり満喫露天風呂付きのお部屋で、ゆっくり過ごす事が出来ました!料理も牡丹鍋など、とても美味しかったです。どうしても鮎の塩焼きが食べたかったので、追加で注文させて頂き…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「露天風呂と牡丹鍋、縁側でのんびり満喫露天風呂付きのお部屋で、ゆっくり過ごす事が出来ました!料理も牡丹鍋など、とても美味しかったです。」
                   </blockquote>
                 </div>
               </div>
@@ -598,7 +566,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　７台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「大峰山登山の前泊に最適、静かで快適な環境大峰山登山の前泊で利用しました。洞川温泉街の外れにあるため夜はとても静かです。温泉にこだわらなければとてもいいお宿でした。掃除の行き届いたお部屋に、朝食…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「大峰山登山の前泊に最適、静かで快適な環境大峰山登山の前泊で利用しました。洞川温泉街の外れにあるため夜はとても静かです。温泉にこだわらなければとてもいいお宿でした。」
                   </blockquote>
                 </div>
               </div>

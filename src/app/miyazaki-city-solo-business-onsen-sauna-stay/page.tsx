@@ -367,8 +367,8 @@ export default function ArticlePage() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 宮崎空港駅よりアクセス。宮崎空港から空港リムジンバス「橘通2丁目」バス停より徒歩1分。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「天然温泉 日向の湯 ドーミーイン宮崎」にチェックイン。ビジネス、観光の拠点に最適なホテル。天然温泉完備の癒しの空間でお寛ぎいただけます。などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「天然温泉 日向の湯 ドーミーイン宮崎」の湯処へ。ビジネス、観光の拠点に最適なホテル。天然温泉完備の癒しの空間でお寛ぎいとともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「天然温泉 日向の湯 ドーミーイン宮崎」にチェックイン。ビジネス、観光の拠点に最適なホテル。天然温泉完備の癒しの空間でお寛ぎいただけます。 荷物を解き、落ち着いた室内でまず一息つく。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「天然温泉 日向の湯 ドーミーイン宮崎」の湯船で寛ぎタイム。季節の空気を感じながら手足を伸ばし、心豊かな夕方のリラックス時間を満喫。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「天然温泉 日向の湯 ドーミーイン宮崎」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -396,21 +396,21 @@ export default function ArticlePage() {
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">あわせて読みたい人気特集＆全国エリアガイド</h2>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
-            <a href="/winter-yamanashi-shimobe-onsen-minobu-koshu-beef-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/furusato-tax-unzen-onsen-jigoku-sulfur-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12月山梨・下部温泉＆身延】武田信玄公の隠し湯とぬる湯治・初冬富士山と甲州牛・名物ほうとうを味わう名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">雲仙温泉をふるさと納税でお得に旅する！雲仙地獄の湯煙と濃厚白濁硫黄泉！名門クラシックホテル＆美食リゾート滞在ガイド｜雲仙宮崎旅館・雲仙観光ホテル・雲仙福田屋</span>
             </a>
-            <a href="/yamanashi-minobu-shimobe-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/miyazaki-solo-business-jidori-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">山梨・身延山＆下部温泉：日蓮宗総本山久遠寺しだれ桜・信玄隠し湯宿 厳選ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「宮崎出張＆南国ソログルメ泊」橘通り中心街・天然温泉大浴場・地鶏炭火焼！チキン南蛮を満喫する極上ホテル 厳選3選</span>
             </a>
-            <a href="/autumn-yamanashi-kofu-shosenkyo-yumura-onsen-hotels-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/spring-miyazaki-hyuganatsu-citrus-spa-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【10月下旬〜11月中旬！甲府昇仙峡の紅葉】日本一の渓谷美と武田信玄の隠し湯・湯村温泉宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「宮崎日向夏スイーツ＆宮崎牛」爽やか柑橘と南国リゾート青島温泉の美食名湯宿5選</span>
             </a>
-            <a href="/spring-yamanashi-koshu-wine-beef-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/winter-miyazaki-ebino-plateau-shiratori-onsen-miyazakigyu-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">甲州ワインビーフ＆勝沼ワイナリー：芳醇ワインペアリングと石和温泉の美食宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「霧島連山樹氷と西郷隆盛癒やしの白鳥温泉」2026-2027年冬の宮崎・えびの＆小林！最高峰宮崎牛名宿5選</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

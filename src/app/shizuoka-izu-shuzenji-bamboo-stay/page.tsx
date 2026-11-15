@@ -253,7 +253,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 修善寺温泉　国の登録文化財の宿　新井旅館</td>
                 <td className="p-3 text-stone-600">静岡県伊豆市修善寺970</td>
-                <td className="p-3 text-stone-600">修善寺駅周辺</td>
+                <td className="p-3 text-stone-600">伊豆箱根鉄道線 修善寺駅よりバスまたはタクシーで10分／東名・新東名高速 沼津ICより伊豆縦貫道経由45分</td>
                 <td className="p-3 text-stone-600">あり　40台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.56（267件）</td>
                 <td className="p-3 font-bold text-rose-600">¥24,420〜</td>
@@ -262,7 +262,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 修善寺温泉　瑞の里　〇久（まるきゅう）旅館</td>
                 <td className="p-3 text-stone-600">静岡県伊豆市修善寺1146</td>
-                <td className="p-3 text-stone-600">修善寺駅よりタクシー約10分／東名高速　沼津ＩＣより伊豆縦貫道を通り約</td>
+                <td className="p-3 text-stone-600">修善寺駅よりタクシー約10分／東名高速 沼津ＩＣより伊豆縦貫道を通り約30分</td>
                 <td className="p-3 text-stone-600">有　５０台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.43（680件）</td>
                 <td className="p-3 font-bold text-rose-600">¥14,850〜</td>
@@ -271,7 +271,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 修善寺温泉　柳生の庄</td>
                 <td className="p-3 text-stone-600">静岡県伊豆市修善寺1116-6</td>
-                <td className="p-3 text-stone-600">修善寺駅周辺</td>
+                <td className="p-3 text-stone-600">伊豆箱根鉄道 修善寺駅から車で約１０分 東名高速道路沼津ICまたは新東名高速道路長泉沼津ICから30分</td>
                 <td className="p-3 text-stone-600">有り　２０台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★5（36件）</td>
                 <td className="p-3 font-bold text-rose-600">プラン参照</td>
@@ -280,7 +280,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 修善寺　離れ宿　鬼の栖</td>
                 <td className="p-3 text-stone-600">静岡県伊豆市修善寺1163</td>
-                <td className="p-3 text-stone-600">修善寺駅周辺</td>
+                <td className="p-3 text-stone-600">伊豆箱根鉄道駿豆線「修善寺駅」駅からタクシーで約10分。</td>
                 <td className="p-3 text-stone-600">有り　15台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★5（13件）</td>
                 <td className="p-3 font-bold text-rose-600">¥40,000〜</td>
@@ -289,7 +289,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 大仁温泉　大仁ホテル（伊東園ホテルズ）</td>
                 <td className="p-3 text-stone-600">静岡県伊豆の国市吉田1178</td>
-                <td className="p-3 text-stone-600">大仁駅周辺</td>
+                <td className="p-3 text-stone-600">伊豆箱根鉄道 大仁駅から車で３分／東名高速道路 沼津ＩＣから国道１３６号線・伊豆中央道経由で約２４ｋｍ</td>
                 <td className="p-3 text-stone-600">有り　100台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.03（1189件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,898〜</td>
@@ -298,7 +298,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">6. 長岡温泉　伊豆長岡金城館（伊東園ホテルズ）</td>
                 <td className="p-3 text-stone-600">静岡県伊豆の国市長岡1035-1</td>
-                <td className="p-3 text-stone-600">伊豆長岡駅周辺</td>
+                <td className="p-3 text-stone-600">伊豆長岡駅よりお車にて約１０分</td>
                 <td className="p-3 text-stone-600">有り　７０台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★3.78（507件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,348〜</td>
@@ -327,7 +327,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>あり　40台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.67 ／ 立地 ★4.67 ／ 部屋 ★4.72 ／ 設備 ★4.56 ／ 風呂 ★4.72 ／ 食事 ★4.56</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「よくメンテされた登録文化財施設は漸次更新されており(文化財なので許認可大変だと思います)食事も美味しく仲居さんもフレッシュで素晴らしいと思います。ただし、寝具類がせんべい布団で朝が来るのが待ち…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「よくメンテされた登録文化財施設は漸次更新されており(文化財なので許認可大変だと思います)食事も美味しく仲居さんもフレッシュで素晴らしいと思います。」
                   </blockquote>
                 </div>
               </div>
@@ -415,7 +415,7 @@ export default function MicroTouristHubPage() {
                   <p>【静岡・伊豆修善寺：竹林の小径・独鈷の湯＆伊豆牛・本わ】 <strong>【駐車場・マイカー利用】</strong>有り　100台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.07 ／ 立地 ★4.19 ／ 部屋 ★3.89 ／ 設備 ★3.82 ／ 風呂 ★4.12 ／ 食事 ★3.98</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「カラオケ三昧と源泉かけ流しの貸切風呂カラオケが朝8時から夜11時までできるのが魅力的です。貸切風呂も小さいですが、源泉かけ流しで無料で50分間入れてとても気持ちがよいです。夕食のマグロの刺身も…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「カラオケ三昧と源泉かけ流しの貸切風呂カラオケが朝8時から夜11時までできるのが魅力的です。貸切風呂も小さいですが、源泉かけ流しで無料で50分間入れてとても気持ちがよいです。」
                   </blockquote>
                 </div>
               </div>
@@ -437,7 +437,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　７０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ゴルフ利用に最適、飲み放題が嬉しいゴルフの時、利用させてもらっています。安いので十分です。お風呂は、本館より別館のほうが良いと思います。料理は普通くらい、飲み放題がうれしいです。クチコミの詳細…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ゴルフ利用に最適、飲み放題が嬉しいゴルフの時、利用させてもらっています。安いので十分です。お風呂は、本館より別館のほうが良いと思います。料理は普通くらい、飲み放題がうれしいです。」
                   </blockquote>
                 </div>
               </div>

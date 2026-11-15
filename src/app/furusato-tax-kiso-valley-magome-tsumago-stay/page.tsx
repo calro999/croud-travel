@@ -439,7 +439,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 木曽福島温泉　山みず季　URARA　つたや</td>
                 <td className="p-3 text-stone-600">長野県木曽郡木曽町福島2012-4</td>
-                <td className="p-3 text-stone-600"></td>
+                <td className="p-3 text-stone-600">長野県木曽郡木曽町福島2012-4 ／ 交通案内：</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.13（196件）</td>
                 <td className="p-3 font-bold text-rose-600">¥18,700〜</td>
@@ -448,7 +448,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. きそふくしま温泉　街道浪漫　おん宿　蔦屋</td>
                 <td className="p-3 text-stone-600">長野県木曽郡木曽町福島本町5162</td>
-                <td className="p-3 text-stone-600">JR木曽福島駅～徒歩約10分【15：30分16：40分送迎有要予約】伊</td>
+                <td className="p-3 text-stone-600">JR木曽福島駅～徒歩約10分【15：30分16：40分送迎有要予約】伊那IC約40分塩尻IC約60分中津川I約70分</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.25（582件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,090〜</td>
@@ -457,7 +457,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. ペンションかおる</td>
                 <td className="p-3 text-stone-600">長野県木曽郡木曽町新開10221-1</td>
-                <td className="p-3 text-stone-600"></td>
+                <td className="p-3 text-stone-600">長野県木曽郡木曽町新開10221-1 ／ 交通案内：</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★5（31件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,160〜</td>
@@ -508,7 +508,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駐車場の案内が不親切で非常に危険だった駐車場について、隣の奥を案内されたが、バックで進入しなければならず非常に狭く危うく壁にぶつかりそうになった。後からチェックインした人が宿の前のスペースに駐車さ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駐車場の案内が不親切で非常に危険だった駐車場について、隣の奥を案内されたが、バックで進入しなければならず非常に狭く危うく壁にぶつかりそうになった。」
                   </blockquote>
                 </div>
               </div>

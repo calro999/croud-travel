@@ -253,7 +253,7 @@ export default function GourmetCuisineHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 城崎温泉　西村屋ホテル招月庭</td>
                 <td className="p-3 text-stone-600">兵庫県豊岡市城崎町湯島1016-2</td>
-                <td className="p-3 text-stone-600">城崎駅周辺</td>
+                <td className="p-3 text-stone-600">【電車】JR城崎温泉駅から旅館組合無料乗合バスで5～15分【車】北近畿豊岡自動車道・豊岡出石ICから約18分</td>
                 <td className="p-3 text-stone-600">無料駐車場有（100台・予約不要）バイクも可</td>
                 <td className="p-3 font-bold text-amber-600">★4.73（1172件）</td>
                 <td className="p-3 font-bold text-rose-600">¥35,200〜</td>
@@ -262,7 +262,7 @@ export default function GourmetCuisineHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 赤倉温泉　旅館　いづみ荘＜山形県＞</td>
                 <td className="p-3 text-stone-600">山形県最上郡最上町富澤1005-7</td>
-                <td className="p-3 text-stone-600">赤倉温泉駅周辺</td>
+                <td className="p-3 text-stone-600">赤倉温泉駅から車で１０分</td>
                 <td className="p-3 text-stone-600">有り　4台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.63（155件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,500〜</td>
@@ -271,7 +271,7 @@ export default function GourmetCuisineHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 小野川温泉　鈴の宿　登府屋旅館</td>
                 <td className="p-3 text-stone-600">山形県米沢市小野川温泉2493</td>
-                <td className="p-3 text-stone-600">米沢駅周辺</td>
+                <td className="p-3 text-stone-600">山形新幹線 米沢駅より路線バスで26分。東北自動車道 飯坂ICより60分 小野川温泉の中心に位置する宿です。</td>
                 <td className="p-3 text-stone-600">■玄関前無料駐車場あり。（30台分）10名様以上の場合、米沢市内の送迎サービス【全館Wi-Fi完備】</td>
                 <td className="p-3 font-bold text-amber-600">★4.43（241件）</td>
                 <td className="p-3 font-bold text-rose-600">¥9,300〜</td>
@@ -280,7 +280,7 @@ export default function GourmetCuisineHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 赤湯温泉　升形屋旅館</td>
                 <td className="p-3 text-stone-600">山形県南陽市赤湯２５０－１</td>
-                <td className="p-3 text-stone-600">赤湯駅周辺</td>
+                <td className="p-3 text-stone-600">山形新幹線 赤湯駅下車 タクシーで約4分 徒歩だと約15-20分</td>
                 <td className="p-3 text-stone-600">有り　２０台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.18（462件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,050〜</td>
@@ -289,7 +289,7 @@ export default function GourmetCuisineHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 赤湯温泉　旅館　大文字屋</td>
                 <td className="p-3 text-stone-600">山形県南陽市赤湯1003</td>
-                <td className="p-3 text-stone-600">赤湯駅周辺</td>
+                <td className="p-3 text-stone-600">山形新幹線 赤湯駅より車で７分</td>
                 <td className="p-3 text-stone-600">有り　３０台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4（269件）</td>
                 <td className="p-3 font-bold text-rose-600">¥12,600〜</td>
@@ -298,7 +298,7 @@ export default function GourmetCuisineHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">6. 日和山温泉　ホテル金波楼</td>
                 <td className="p-3 text-stone-600">兵庫県豊岡市瀬戸1090</td>
-                <td className="p-3 text-stone-600">城崎駅周辺</td>
+                <td className="p-3 text-stone-600">城崎マリンワールド隣接（ホテル宿泊者は入場半額券付）城崎温泉駅車約10分（送迎予約制）（城崎温泉街散策バス運行）</td>
                 <td className="p-3 text-stone-600">有り　１００台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.47（581件）</td>
                 <td className="p-3 font-bold text-rose-600">¥19,000〜</td>
@@ -327,7 +327,7 @@ export default function GourmetCuisineHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料駐車場有（100台・予約不要）バイクも可</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「落ち着いた客層と細やかなおもてなしに感動西村屋招月庭はファミリー向けと記載がありましたが、客層がかなり良いと感じました。日本人、外国人の割合は半々くらいに思いましたが、みなさんとにかく落ち着いてい…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「落ち着いた客層と細やかなおもてなしに感動西村屋招月庭はファミリー向けと記載がありましたが、客層がかなり良いと感じました。」
                   </blockquote>
                 </div>
               </div>
@@ -349,7 +349,7 @@ export default function GourmetCuisineHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　4台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「人柄が温かく、また必ず行きたいお宿みなさんがおっしゃるとおりの素敵なお宿です。営む方の人柄が伝わりほっこりした気分で帰宅しました。どなたかも気にかけていましたが、お掃除の必要あればコロコロでも掃除…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「人柄が温かく、また必ず行きたいお宿みなさんがおっしゃるとおりの素敵なお宿です。営む方の人柄が伝わりほっこりした気分で帰宅しました。」
                   </blockquote>
                 </div>
               </div>
@@ -415,7 +415,7 @@ export default function GourmetCuisineHubPage() {
                   <p>【日本五大ブランド和牛の宿：松阪牛・神戸牛・米沢牛・近】 <strong>【駐車場・マイカー利用】</strong>有り　３０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ゆっくり寛げました場所がらお部屋からの眺めはそれ程期待出来ませんが、お部屋は8畳広縁に椅子付きでゆったり過ごす事ができました。お食事会場も広々とし、お花も綺麗に活けて有りお隣との感覚も広く寛げ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ゆっくり寛げました場所がらお部屋からの眺めはそれ程期待出来ませんが、お部屋は8畳広縁に椅子付きでゆったり過ごす事ができました。」
                   </blockquote>
                 </div>
               </div>
@@ -437,7 +437,7 @@ export default function GourmetCuisineHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１００台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.55 ／ 立地 ★4.59 ／ 部屋 ★4.46 ／ 設備 ★4.28 ／ 風呂 ★4.53 ／ 食事 ★4.55</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの対応と海の景色に癒やされる旅到着した瞬間から笑顔で出迎えてくださりとても嬉しかったですフロントの方もレストランの方も、とにかくスタッフの方がとても丁寧で良かったご飯もとても美味し…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの対応と海の景色に癒やされる旅到着した瞬間から笑顔で出迎えてくださりとても嬉しかったですフロントの方もレストランの方も。」
                   </blockquote>
                 </div>
               </div>

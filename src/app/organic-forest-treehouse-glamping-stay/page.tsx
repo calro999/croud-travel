@@ -483,8 +483,8 @@ export default function FeatureDetailPage() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 上総湊駅よりアクセス。JR内房線・上総湊駅より車で約15分。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「和心村ー古民家とグランピング と自然森山川海」にチェックイン。房総、富津の里山に立地する自由度抜群のグランピング。猫と自然に触れ合いながらのんびり過ごせますなどの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「和心村ー古民家とグランピング と自然森山川海」の湯処へ。房総、富津の里山に立地する自由度抜群のグランピング。猫と自然に触れ合いとともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「和心村ー古民家とグランピング と自然森山川海」にチェックイン。房総、富津の里山に立地する自由度抜群のグランピング。 まずは客室で移動の疲れをそっと癒やす。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「和心村ー古民家とグランピング と自然森山川海」の湯船で寛ぎタイム。季節の空気を感じながら手足を伸ばし、心豊かな夕方のリラックス時間を満喫。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「和心村ー古民家とグランピング と自然森山川海」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -496,7 +496,7 @@ export default function FeatureDetailPage() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「和心村ー古民家とグランピング と自然森山川海」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「和心村ー古民家とグランピング と自然森山川海」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「舞子温泉 飯士の湯 舞子高原ホテル」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は宿周辺の散策とショッピングを満喫。地元の名産品やグルメを味わってから余裕をもって帰路につく。</li>
               </ul>
             </div>
           </div>
@@ -624,7 +624,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 和心村ー古民家とグランピング　と自然森山川海</td>
                 <td className="p-3 text-stone-600">千葉県富津市高溝14</td>
-                <td className="p-3 text-stone-600">上総湊駅周辺</td>
+                <td className="p-3 text-stone-600">JR内房線・上総湊駅より車で約15分。館山自動車道・富津中央ICより車で約15分。高速バス・浅間山バス停から車で約15分</td>
                 <td className="p-3 text-stone-600">有り　２０台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.78（23件）</td>
                 <td className="p-3 font-bold text-rose-600">¥21,970〜</td>
@@ -633,7 +633,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 舞子温泉　飯士の湯　舞子高原ホテル</td>
                 <td className="p-3 text-stone-600">新潟県南魚沼市舞子2056-108</td>
-                <td className="p-3 text-stone-600">越後湯沢駅周辺</td>
+                <td className="p-3 text-stone-600">関越自動車道「塩沢石打IC」より直進1km、約2分！越後湯沢駅からは無料シャトルバスで約20分(春～秋は予約制)</td>
                 <td className="p-3 text-stone-600">有り　100台　宿泊者専用（無料）</td>
                 <td className="p-3 font-bold text-amber-600">★4.41（1479件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,800〜</td>
@@ -642,7 +642,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. Ｍｉｍｏｚａ　Ｒｅｔｒｅａｔ　ＮＡＳＵ（ミモザ・リトリート那須）</td>
                 <td className="p-3 text-stone-600">栃木県那須塩原市戸田178-4</td>
-                <td className="p-3 text-stone-600">那須塩原駅周辺</td>
+                <td className="p-3 text-stone-600">那須塩原駅より車で約25分（30分圏内であれば、送迎無料※要電話予約）</td>
                 <td className="p-3 text-stone-600">有り　３台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.73（28件）</td>
                 <td className="p-3 font-bold text-rose-600">¥11,000〜</td>
@@ -651,7 +651,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. ３６５ＢＡＳＥ　ｏｕｔｄｏｏｒ　ｈｏｓｔｅｌ</td>
                 <td className="p-3 text-stone-600">静岡県浜松市中央区曳馬2-1-25</td>
-                <td className="p-3 text-stone-600">助信駅周辺</td>
+                <td className="p-3 text-stone-600">◆JR浜松駅より遠州鉄道 新浜松駅に乗り換え、4駅目の助信駅で下車 徒歩約４分 ◆東名浜松ＩＣより16分</td>
                 <td className="p-3 text-stone-600">1台500円/泊　平面駐車場で24時間出し入れ自由、最大34台(予約不可・1部屋に付き1台まで)</td>
                 <td className="p-3 font-bold text-amber-600">★4.32（135件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,520〜</td>
@@ -680,7 +680,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２０台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.74 ／ 立地 ★4.78 ／ 部屋 ★4.78 ／ 設備 ★4.71 ／ 風呂 ★4.69 ／ 食事 ★4.76</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「動物たちと焚き火に癒やされる最高の時間動物たちが自由に暮らしている感じがとても心地よい。グランピング初めてで、火の起こし方とかもわからないなりに、着火剤もたくさん用意してあり、虫除けスプレーなども…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「動物たちと焚き火に癒やされる最高の時間動物たちが自由に暮らしている感じがとても心地よい。」
                   </blockquote>
                 </div>
               </div>
@@ -702,7 +702,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　100台　宿泊者専用（無料）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ローストビーフが絶品、設備が広々で快適ローストビーフ最高でした!!部屋数よりも各設備が広めなのでゆっくりのんびり過ごせます!!脱衣所も広々!ロビーも広々!カラオケ部屋も広々!お…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ローストビーフが絶品、設備が広々で快適ローストビーフ最高でした!!部屋数よりも各設備が広めなのでゆっくりのんびり過ごせます!!脱衣所も広々!ロビーも広々!カラオケ部屋も広々!」
                   </blockquote>
                 </div>
               </div>
@@ -746,7 +746,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>1台500円/泊　平面駐車場で24時間出し入れ自由、最大34台(予約不可・1部屋に付き1台まで)</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.08 ／ 立地 ★3.92 ／ 部屋 ★4.33 ／ 設備 ★4.47 ／ 風呂 ★3.83</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「宿泊の3日くらい前にメールが届き事前チェックインの登録をしたので現地ではスムーズにチェックインできました。19時まではスタッフさんもいるようでボードゲームの貸し出しもその時間までならできるそうです…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「宿泊の3日くらい前にメールが届き事前チェックインの登録をしたので現地ではスムーズにチェックインできました。」
                   </blockquote>
                 </div>
               </div>

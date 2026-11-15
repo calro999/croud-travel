@@ -342,7 +342,7 @@ export default function NagoyaBudgetAutumnPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. ─都心の天然温泉─　名古屋クラウンホテル</td>
                 <td className="p-3 text-stone-600">愛知県名古屋市中区栄1-8-33</td>
-                <td className="p-3 text-stone-600">名古屋駅周辺</td>
+                <td className="p-3 text-stone-600">地下鉄（東山線・鶴舞線）「伏見駅」６番出口より徒歩約５分。ＪＲ「名古屋駅」より車で約５分・徒歩約２０分。</td>
                 <td className="p-3 text-stone-600">タワー式（車高155cm・タイヤ幅175cm以下）約40台　1泊1200円（15時~翌10時）先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.17（9463件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,000〜</td>
@@ -351,7 +351,7 @@ export default function NagoyaBudgetAutumnPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. ＡＢホテル名古屋栄</td>
                 <td className="p-3 text-stone-600">愛知県名古屋市中区栄5-3-5</td>
-                <td className="p-3 text-stone-600">栄（愛知）駅周辺</td>
+                <td className="p-3 text-stone-600">地下鉄東山線・名城線 栄駅１３番出口より徒歩６分、地下鉄名城線 矢場町駅１番出口より徒歩５分 繁華街まで徒歩圏内</td>
                 <td className="p-3 text-stone-600">1300円（税込）/泊15：00〜翌10：00　提携駐車場『栄Mパーキング』　※出し入別料金</td>
                 <td className="p-3 font-bold text-amber-600">★4.08（3765件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,400〜</td>
@@ -360,7 +360,7 @@ export default function NagoyaBudgetAutumnPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. グリーンリッチホテル名古屋錦　人工温泉・二股湯の華</td>
                 <td className="p-3 text-stone-600">愛知県名古屋市中区錦2丁目7番4号</td>
-                <td className="p-3 text-stone-600">名古屋駅周辺</td>
+                <td className="p-3 text-stone-600">名古屋駅より車で１０分■丸の内駅から徒歩１分・地下鉄伏見駅から徒歩４分■丸の内ＩＣより車で５分■</td>
                 <td className="p-3 text-stone-600">有り　4台　２０００円（税込み／泊）</td>
                 <td className="p-3 font-bold text-amber-600">★4.09（734件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,400〜</td>
@@ -369,7 +369,7 @@ export default function NagoyaBudgetAutumnPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. ホテル・アンドルームス名古屋栄</td>
                 <td className="p-3 text-stone-600">愛知県名古屋市中区丸の内三丁目6-8</td>
-                <td className="p-3 text-stone-600">久屋大通駅周辺</td>
+                <td className="p-3 text-stone-600">名古屋市営地下鉄名城線・桜通線「久屋大通駅」２A出口より徒歩５分</td>
                 <td className="p-3 text-stone-600">無し</td>
                 <td className="p-3 font-bold text-amber-600">★4.19（505件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,500〜</td>
@@ -378,7 +378,7 @@ export default function NagoyaBudgetAutumnPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. ホテルルートイン名古屋栄</td>
                 <td className="p-3 text-stone-600">愛知県名古屋市中区栄4-7-12</td>
-                <td className="p-3 text-stone-600">栄（愛知）駅周辺</td>
+                <td className="p-3 text-stone-600">地下鉄東山線 栄駅１２番出口より徒歩約10分／名古屋高速 東新町インターより車で約２分 新栄・鶴舞からも至近！</td>
                 <td className="p-3 text-stone-600">予約は承っておりません。先着順でのご案内です。　タワー型立体駐車場（制限あり）有料：1500円/泊</td>
                 <td className="p-3 font-bold text-amber-600">★4.14（2686件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,400〜</td>
@@ -429,7 +429,7 @@ export default function NagoyaBudgetAutumnPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>1300円（税込）/泊15：00〜翌10：00　提携駐車場『栄Mパーキング』　※出し入別料金</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.11 ／ 立地 ★4.04 ／ 部屋 ★4.04 ／ 設備 ★4 ／ 風呂 ★4.05</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「荷物預かりや朝食も良く、大満足の滞在まず、チェックイン前の荷物預かり、心良く預かって頂けました。部屋はシングルのでしたが、ベッド広めで良く眠られました。大浴場は、あまり大きなお風呂ではない…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「荷物預かりや朝食も良く、大満足の滞在まず、チェックイン前の荷物預かり、心良く預かって頂けました。部屋はシングルのでしたが、ベッド広めで良く眠られました。」
                   </blockquote>
                 </div>
               </div>
@@ -473,7 +473,7 @@ export default function NagoyaBudgetAutumnPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無し</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.21 ／ 立地 ★4.11 ／ 部屋 ★4.22 ／ 設備 ★4.18 ／ 風呂 ★4.16 ／ 食事 ★4.3</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「大浴場と無料サービスが充実、脱衣所は混雑気味大浴場があって嬉しかったです。ただ、脱衣所の作りのせいか、同タイミングに入っていた人と譲り合って利用する場面がありました。お風呂上がりのミニアイスサ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「大浴場と無料サービスが充実、脱衣所は混雑気味大浴場があって嬉しかったです。ただ、脱衣所の作りのせいか、同タイミングに入っていた人と譲り合って利用する場面がありました。」
                   </blockquote>
                 </div>
               </div>

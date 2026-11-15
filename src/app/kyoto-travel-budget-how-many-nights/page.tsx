@@ -284,7 +284,7 @@ export default function KyotoNightsGuide() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. ＪＲ京都駅から５００ｍ、東本願寺前の築１００年の京町家旅館タイプのゲストハウス。　＾</td>
                 <td className="p-3 text-stone-600">京都府京都市下京区笹屋町270　ダース</td>
-                <td className="p-3 text-stone-600">五条（京阪）駅周辺</td>
+                <td className="p-3 text-stone-600">五条駅から徒歩で約３分</td>
                 <td className="p-3 text-stone-600">無し</td>
                 <td className="p-3 font-bold text-amber-600">高評価</td>
                 <td className="p-3 font-bold text-rose-600">プラン参照</td>
@@ -293,7 +293,7 @@ export default function KyotoNightsGuide() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 京町家貸切宿　高瀬川七条</td>
                 <td className="p-3 text-stone-600">京都府京都市下京区上三之宮町279</td>
-                <td className="p-3 text-stone-600">七条駅周辺</td>
+                <td className="p-3 text-stone-600">JR「京都駅」より徒歩約14分 京阪本線「七条駅」より徒歩約4分</td>
                 <td className="p-3 text-stone-600">無し　近隣のコインパーキングをご案内致します。</td>
                 <td className="p-3 font-bold text-amber-600">★5（13件）</td>
                 <td className="p-3 font-bold text-rose-600">¥12,400〜</td>
@@ -302,7 +302,7 @@ export default function KyotoNightsGuide() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 京町家　八重家といち町</td>
                 <td className="p-3 text-stone-600">京都府京都市下京区木屋町通六軒上る都市町141-6</td>
-                <td className="p-3 text-stone-600">京阪清水五条駅より徒歩2分。JR京都駅より徒歩15分。阪急河原町駅より</td>
+                <td className="p-3 text-stone-600">京阪清水五条駅より徒歩2分。JR京都駅より徒歩15分。阪急河原町駅より徒歩15分</td>
                 <td className="p-3 text-stone-600">無し</td>
                 <td className="p-3 font-bold text-amber-600">高評価</td>
                 <td className="p-3 font-bold text-rose-600">プラン参照</td>
@@ -311,7 +311,7 @@ export default function KyotoNightsGuide() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. ダイワロイネットホテル京都駅前　ＰＲＥＭＩＥＲ</td>
                 <td className="p-3 text-stone-600">京都府京都市下京区烏丸通七条下る東塩小路町707-2</td>
-                <td className="p-3 text-stone-600">京都駅周辺</td>
+                <td className="p-3 text-stone-600">JR「京都駅」中央口より徒歩約4分。「京都駅」地下道と直結（地下道からの入り口は夜間23:30～翌7:00閉鎖）</td>
                 <td className="p-3 text-stone-600">当ホテルには駐車場、及び提携駐車場がございません。公共交通機関でご来館をお勧めいたします。</td>
                 <td className="p-3 font-bold text-amber-600">★4.55（700件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,625〜</td>
@@ -320,7 +320,7 @@ export default function KyotoNightsGuide() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. ホテルテトラ京都駅前</td>
                 <td className="p-3 text-stone-600">京都府京都市南区西九条池ノ内町94-3</td>
-                <td className="p-3 text-stone-600">京都駅周辺</td>
+                <td className="p-3 text-stone-600">JR京都駅八条口より徒歩にて約5分</td>
                 <td className="p-3 text-stone-600">無し。近隣のコインパーキングでは１日あたり1000円前後です</td>
                 <td className="p-3 font-bold text-amber-600">★3.9（750件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,700〜</td>
@@ -329,7 +329,7 @@ export default function KyotoNightsGuide() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">6. 天然温泉　花蛍の湯　ドーミーインＰＲＥＭＩＵＭ京都駅前（ドーミーイン・御宿野乃　ホテルズグループ）</td>
                 <td className="p-3 text-stone-600">京都府京都市下京区東塩小路町558-8</td>
-                <td className="p-3 text-stone-600">京都駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ京都駅中央口から徒歩約３分</td>
                 <td className="p-3 text-stone-600">先着順　2,000円(1泊)</td>
                 <td className="p-3 font-bold text-amber-600">★4.47（4982件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,875〜</td>
@@ -424,7 +424,7 @@ export default function KyotoNightsGuide() {
                   <p><strong>【駐車場・マイカー利用】</strong>当ホテルには駐車場、及び提携駐車場がございません。公共交通機関でご来館をお勧めいたします。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「京都駅直結でアクセス抜群、静かな部屋で快適学生時代を過ごした京都で久しぶりに泊まることになり、はじめてのホテルを予約しました。京都駅に近く、地下通路から直接アクセスできるのも助かりました。担当者の…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「京都駅直結でアクセス抜群、静かな部屋で快適学生時代を過ごした京都で久しぶりに泊まることになり、はじめてのホテルを予約しました。京都駅に近く、地下通路から直接アクセスできるのも助かりました。」
                   </blockquote>
                 </div>
               </div>
@@ -446,7 +446,7 @@ export default function KyotoNightsGuide() {
                   <p><strong>【駐車場・マイカー利用】</strong>無し。近隣のコインパーキングでは１日あたり1000円前後です</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「夜食や朝食が美味しく、観光にも便利な立地夜食のお茶漬けサービスがとても良いです。朝のカレーもとても美味しかったです。立地条件も良く、清潔感もある部屋で快適に過ごせました。京都駅も近いで…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「夜食や朝食が美味しく、観光にも便利な立地夜食のお茶漬けサービスがとても良いです。朝のカレーもとても美味しかったです。立地条件も良く、清潔感もある部屋で快適に過ごせました。」
                   </blockquote>
                 </div>
               </div>

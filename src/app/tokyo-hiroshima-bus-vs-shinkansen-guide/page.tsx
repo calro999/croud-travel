@@ -382,7 +382,7 @@ export default function HighwayBusArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. アパホテル〈広島駅前新幹線口〉</td>
                 <td className="p-3 text-stone-600">広島県広島市東区上大須賀町2-29</td>
-                <td className="p-3 text-stone-600">広島駅周辺</td>
+                <td className="p-3 text-stone-600">山陽新幹線・JR各線「広島駅」新幹線口（北口）徒歩4分</td>
                 <td className="p-3 text-stone-600">16台（先着順、予約不可）、【料金】入庫から24時間 1,500円【時間外】 30分につき200円</td>
                 <td className="p-3 font-bold text-amber-600">★4.15（636件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,275〜</td>
@@ -391,7 +391,7 @@ export default function HighwayBusArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. アパホテル〈広島駅前大橋〉</td>
                 <td className="p-3 text-stone-600">広島県広島市南区京橋町2-26</td>
-                <td className="p-3 text-stone-600">広島駅周辺</td>
+                <td className="p-3 text-stone-600">［山陽新幹線＋JR各線］広島駅南口8番出口から徒歩4分［市内電車］広島電停から徒歩6分 ［空港］広島駅から直通バス50分</td>
                 <td className="p-3 text-stone-600">先着順　入庫から24時間で1500円　入出庫：7：00-22：00　大きさ制限あり　詳細はホテルへ</td>
                 <td className="p-3 font-bold text-amber-600">★4.25（5088件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,500〜</td>
@@ -400,7 +400,7 @@ export default function HighwayBusArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. ホテルエミシア東京立川</td>
                 <td className="p-3 text-stone-600">東京都立川市曙町2-14-16</td>
-                <td className="p-3 text-stone-600">立川駅周辺</td>
+                <td className="p-3 text-stone-600">▼▼▼ＪＲ立川駅北口より徒歩２分。多摩モノレール立川北駅より徒歩3分。中央道国立府中ICから25分▼▼▼</td>
                 <td className="p-3 text-stone-600">1泊1600円　　※現在、ホテル地下Pは営業時間を短縮してます。詳しくはHPをご確認下さい。</td>
                 <td className="p-3 font-bold text-amber-600">★4.37（3835件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,465〜</td>
@@ -409,7 +409,7 @@ export default function HighwayBusArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. ホテルメトロポリタン</td>
                 <td className="p-3 text-stone-600">東京都豊島区西池袋1-6-１</td>
-                <td className="p-3 text-stone-600">池袋駅周辺</td>
+                <td className="p-3 text-stone-600">池袋駅西口より徒歩３分、東京駅より地下鉄で17分、羽田空港へのリムジンバス（有料）がホテル正面玄関にて発着します。</td>
                 <td className="p-3 text-stone-600">有　1泊につき1台  3,000円</td>
                 <td className="p-3 font-bold text-amber-600">★4.4（4348件）</td>
                 <td className="p-3 font-bold text-rose-600">¥10,250〜</td>
@@ -418,7 +418,7 @@ export default function HighwayBusArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 渋谷東急ＲＥＩホテル</td>
                 <td className="p-3 text-stone-600">東京都渋谷区渋谷1-24-10</td>
-                <td className="p-3 text-stone-600">渋谷駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ渋谷駅より徒歩2分（宮益坂口、宮下公園隣り） 東京メトロ・東急渋谷駅B2番出口すぐ</td>
                 <td className="p-3 text-stone-600">近隣の提携駐車場　車体制限あり　ホテルに問い合わせ要</td>
                 <td className="p-3 font-bold text-amber-600">★4.07（1396件）</td>
                 <td className="p-3 font-bold text-rose-600">¥11,300〜</td>
@@ -447,7 +447,7 @@ export default function HighwayBusArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>16台（先着順、予約不可）、【料金】入庫から24時間 1,500円【時間外】 30分につき200円</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近で便利、大浴場とコンパクトな部屋が快適部屋はキレイでアパホテルらしくコンパクトにまとまっている。大浴場があるのは嬉しくてホテルを選ぶ選択肢になるのですが、ホテルの大きさの割に少し小さいかな…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近で便利、大浴場とコンパクトな部屋が快適部屋はキレイでアパホテルらしくコンパクトにまとまっている。」
                   </blockquote>
                 </div>
               </div>
@@ -469,7 +469,7 @@ export default function HighwayBusArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>先着順　入庫から24時間で1500円　入出庫：7：00-22：00　大きさ制限あり　詳細はホテルへ</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近で迷わず到着、事前チェックインでスムーズ駅から見える場所にあったので、迷わず辿り着けました。午前中に荷物を預けに行ったのですがその際、「今日は予約が多いから事前チェックインを」と進めてくだ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近で迷わず到着、事前チェックインでスムーズ駅から見える場所にあったので、迷わず辿り着けました。」
                   </blockquote>
                 </div>
               </div>
@@ -491,7 +491,7 @@ export default function HighwayBusArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>1泊1600円　　※現在、ホテル地下Pは営業時間を短縮してます。詳しくはHPをご確認下さい。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.35 ／ 立地 ★4.33 ／ 部屋 ★4.36 ／ 設備 ★4.31 ／ 風呂 ★4.21 ／ 食事 ★4.5</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「フロントの丁寧な対応と充実したアメニティに感動今はだいたいが自動チェックイン・アウトになっています。ホテルによっては、「そこの機械で!」とほっておかれることがありますが、エミシアのフロント…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「フロントの丁寧な対応と充実したアメニティに感動今はだいたいが自動チェックイン・アウトになっています。ホテルによっては、「そこの機械で!」
                   </blockquote>
                 </div>
               </div>
@@ -513,7 +513,7 @@ export default function HighwayBusArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有　1泊につき1台  3,000円</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「マットレスが快適すぎて早々に寝落ち女子会で利用しました。ホテルのお部屋もベッドも寝心地よく最高でした。そして遅くまでゆっくり話そうと約束していた私なのに...。21時半にマットレスの気…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「マットレスが快適すぎて早々に寝落ち女子会で利用しました。ホテルのお部屋もベッドも寝心地よく最高でした。そして遅くまでゆっくり話そうと約束していた私なのに...。」
                   </blockquote>
                 </div>
               </div>
@@ -535,7 +535,7 @@ export default function HighwayBusArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>近隣の提携駐車場　車体制限あり　ホテルに問い合わせ要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「アクセスも良く、丁寧な接客でとても良かった!ライブのために利用させていただきました。渋谷なので、治安が心配でしたが、アクセスも良く、迷うことなく辿り着けました。また、それほど混み合った場所では…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「アクセスも良く、丁寧な接客でとても良かった!ライブのために利用させていただきました。渋谷なので、治安が心配でしたが、アクセスも良く、迷うことなく辿り着けました。」
                   </blockquote>
                 </div>
               </div>

@@ -565,8 +565,8 @@ export default function FeatureDetailPage() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 東根駅よりアクセス。JR山形新幹線さくらんぼ東根駅車８分／東北中央道東根北ＩＣ車１０分／山形駅車５０分/銀山温泉車５０分／山形空港車１２分。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「さくらんぼ東根温泉 のゝか本郷館(ののか)」にチェックイン。＼地元次年子焼きの貸切風呂が自慢！！／旬の素材を取り入れた和懐石をお楽しみください♪などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「さくらんぼ東根温泉 のゝか本郷館(ののか)」の湯処へ。＼地元次年子焼きの貸切風呂が自慢！！／旬の素材を取り入れた和懐石をお楽とともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「さくらんぼ東根温泉 のゝか本郷館(ののか)」にチェックイン。＼地元次年子焼きの貸切風呂が自慢！！／旬の素材を取り入れた和懐石をお楽しみください♪ 館内の設えを確かめながら、これからの滞在に備えてゆっくり休息する。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「さくらんぼ東根温泉 のゝか本郷館(ののか)」の自慢の湯処へ。温かな湯気と落ち着いた雰囲気に癒やされながら、夕食前の贅沢なひとときを過ごす。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「さくらんぼ東根温泉 のゝか本郷館(ののか)」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -578,7 +578,7 @@ export default function FeatureDetailPage() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「さくらんぼ東根温泉 のゝか本郷館(ののか)」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「さくらんぼ東根温泉 のゝか本郷館(ののか)」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「湯田川温泉 つかさや旅館」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は「さくらんぼ東根温泉 のゝか本郷館(ののか)」周辺の観光スポットや地元の名産店に立ち寄り、ご当地のお土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>
@@ -649,28 +649,28 @@ export default function FeatureDetailPage() {
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
             <div className="flex flex-wrap gap-2">
               <Link
-                href="/prefectures/miyazaki/"
+                href="/prefectures/yamagata/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                宮崎県の宿・温泉
+                山形県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/ibaraki/"
+                href="/prefectures/hokkaido/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                茨城県の宿・温泉
+                北海道の宿・温泉
               </Link>
               <Link
-                href="/prefectures/ishikawa/"
+                href="/prefectures/aomori/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                石川県の宿・温泉
+                青森県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/shimane/"
+                href="/prefectures/iwate/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                島根県の宿・温泉
+                岩手県の宿・温泉
               </Link>
             </div>
           </div>
@@ -706,7 +706,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. さくらんぼ東根温泉　のゝか本郷館(ののか)</td>
                 <td className="p-3 text-stone-600">山形県東根市温泉町二丁目１－１</td>
-                <td className="p-3 text-stone-600">東根駅周辺</td>
+                <td className="p-3 text-stone-600">JR山形新幹線さくらんぼ東根駅車８分／東北中央道東根北ＩＣ車１０分／山形駅車５０分/銀山温泉車５０分／山形空港車１２分</td>
                 <td className="p-3 text-stone-600">有り。旅館の道を挟んで向かい側に１つ、２０台ほどのスペースがあります。無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.57（157件）</td>
                 <td className="p-3 font-bold text-rose-600">¥13,200〜</td>
@@ -715,7 +715,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 湯田川温泉　つかさや旅館</td>
                 <td className="p-3 text-stone-600">山形県鶴岡市湯田川乙52</td>
-                <td className="p-3 text-stone-600">ＪＲ　鶴岡駅よりタクシーにて２０分／バスにて３０分　庄内空港より車30</td>
+                <td className="p-3 text-stone-600">ＪＲ 鶴岡駅よりタクシーにて２０分／バスにて３０分 庄内空港より車30分</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.83（104件）</td>
                 <td className="p-3 font-bold text-rose-600">¥9,350〜</td>
@@ -724,7 +724,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 旅館　温活サ活</td>
                 <td className="p-3 text-stone-600">山形県東根市温泉町1-9-13</td>
-                <td className="p-3 text-stone-600">東根駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ東根駅 徒歩約１８分 山形空港 車で約１３分 山形新幹線 村山駅 車で約６分 さくらんぼ東根温泉のどまんなか</td>
                 <td className="p-3 text-stone-600">有り　16台　無料　先着順　満車の場合　温泉組合駐車場もご利用いただけます。</td>
                 <td className="p-3 font-bold text-amber-600">★4.59（107件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,600〜</td>
@@ -733,7 +733,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 旅館　さくら湯</td>
                 <td className="p-3 text-stone-600">山形県東根市温泉町1-9-3</td>
-                <td className="p-3 text-stone-600">東根駅周辺</td>
+                <td className="p-3 text-stone-600">東根駅よりお車にて約３分。</td>
                 <td className="p-3 text-stone-600">有り　３５台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.23（119件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,350〜</td>
@@ -742,7 +742,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. かみのやま温泉　果実（かみ）の山　あづま屋</td>
                 <td className="p-3 text-stone-600">山形県上山市新湯1-23</td>
-                <td className="p-3 text-stone-600">かみのやま温泉駅周辺</td>
+                <td className="p-3 text-stone-600">山形新幹線かみのやま温泉駅下車徒歩８分≪送迎サービスもございます≫</td>
                 <td className="p-3 text-stone-600">有り　150台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★3.85（826件）</td>
                 <td className="p-3 font-bold text-rose-600">¥9,025〜</td>
@@ -837,7 +837,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　３５台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.26 ／ 立地 ★3.97 ／ 部屋 ★3.8 ／ 設備 ★3.93 ／ 風呂 ★4.47 ／ 食事 ★4.61</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「4度目のリピート、お湯も朝食も最高!4度目の宿泊です。さくら湯さんのお湯は熱くてとろっとしてて最高です。接客もいいし、清潔感もあり、朝食もバッチリです。ご飯がすすむおかずがズラリで、いつもおかわり…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「4度目のリピート、お湯も朝食も最高!4度目の宿泊です。さくら湯さんのお湯は熱くてとろっとしてて最高です。接客もいいし、清潔感もあり、朝食もバッチリです。」
                   </blockquote>
                 </div>
               </div>
@@ -859,7 +859,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　150台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.01 ／ 立地 ★3.83 ／ 部屋 ★3.8 ／ 設備 ★3.8 ／ 風呂 ★4.08 ／ 食事 ★4.01</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの対応と衛生面に大きな不満あり貸切風呂の予約を取る際に夕陽を見れる時間を希望した所、お風呂場からは見れないとスタッフ冷たく言われましたが実際は見れました。夕食時は隣の机の片付けを始めたかと…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの対応と衛生面に大きな不満あり貸切風呂の予約を取る際に夕陽を見れる時間を希望した所、お風呂場からは見れないとスタッフ冷たく言われましたが実際は見れました。」
                   </blockquote>
                 </div>
               </div>

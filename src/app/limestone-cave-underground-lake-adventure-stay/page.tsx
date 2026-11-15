@@ -83,7 +83,7 @@ export default function Page() {
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/68262/68262map.gif",
     "reviewCount": 133,
     "reviewAverage": 4.13,
-    "userReview": "縁側で癒やされたが、離れの部屋はジメジメ秋雨前線の影響で雨続きでしたが、幸い宿泊中は、天気に恵まれどろ川温泉を楽しむことが出来ました。お宿の方はとても良い方達ばかりで、ゆっくり滞在出来まし。",
+    "userReview": "縁側で癒やされたが、離れの部屋はジメジメ秋雨前線の影響で雨続きでしたが、幸い宿泊中は、天気に恵まれどろ川温泉を楽しむことが出来ました。お宿の方はとても良い方達ばかりで、ゆっくり滞在出来ました。",
     "hotelMinCharge": 15466,
     "address1": "奈良県",
     "address2": "吉野郡天川村洞川189",
@@ -334,7 +334,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 洞川温泉　桝源旅館</td>
                 <td className="p-3 text-stone-600">奈良県吉野郡天川村洞川189</td>
-                <td className="p-3 text-stone-600">近鉄吉野線　下市口駅より洞川温泉行きバス１本。　車：国道169号から3</td>
+                <td className="p-3 text-stone-600">近鉄吉野線 下市口駅より洞川温泉行きバス１本。 車：国道169号から309号。 世界遺産の高野山、熊野古道へも120分圏</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.13（133件）</td>
                 <td className="p-3 font-bold text-rose-600">¥15,466〜</td>
@@ -343,7 +343,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 洞川温泉　いろは旅館＜奈良県＞</td>
                 <td className="p-3 text-stone-600">奈良県吉野郡天川村洞川248</td>
-                <td className="p-3 text-stone-600">下市口駅周辺</td>
+                <td className="p-3 text-stone-600">近鉄 下市口駅より奈良交通バス（洞川温泉行き）終点</td>
                 <td className="p-3 text-stone-600">有り　１０台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.62（224件）</td>
                 <td className="p-3 font-bold text-rose-600">¥14,500〜</td>
@@ -352,7 +352,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 洞川温泉　あたらしや旅館</td>
                 <td className="p-3 text-stone-600">奈良県吉野郡天川村洞川215</td>
-                <td className="p-3 text-stone-600">下市口駅周辺</td>
+                <td className="p-3 text-stone-600">近鉄吉野線下市口駅よりバスで80分</td>
                 <td className="p-3 text-stone-600">有り　50台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.5（303件）</td>
                 <td className="p-3 font-bold text-rose-600">¥11,800〜</td>
@@ -376,12 +376,12 @@ export default function Page() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/68262/68262.jpg" alt="洞川温泉　桝源旅館 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
-                  <p><strong>【宿の特徴・魅力】</strong>「エメラルドに輝く神秘の地底湖！日本屈指の鍾乳洞探検と周辺名湯旅館」掲載宿の所在地・アクセス・特徴データ一覧は、周辺の観光巡りにも便利で快適な滞在環境が整った宿泊施設です。</p>
+                  <p><strong>【宿の特徴・魅力】</strong>洞川温泉　桝源旅館は、周辺の観光巡りにも便利で快適な滞在環境が整った宿泊施設です。</p>
                   <p><strong>【所在地・アクセス】</strong>交通案内：近鉄吉野線　下市口駅より洞川温泉行きバス１本。　車：国道169号から309号。　世界遺産の高野山、熊野古道へも120分圏</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「縁側で癒やされたが、離れの部屋はジメジメ秋雨前線の影響で雨続きでしたが、幸い宿泊中は、天気に恵まれどろ川温泉を楽しむことが出来ました。お宿の方はとても良い方達ばかりで、ゆっくり滞在出来まし…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「縁側で癒やされたが、離れの部屋はジメジメ秋雨前線の影響で雨続きでしたが、幸い宿泊中は、天気に恵まれどろ川温泉を楽しむことが出来ました。」
                   </blockquote>
                 </div>
               </div>
@@ -403,7 +403,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１０台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.65 ／ 立地 ★4.56 ／ 部屋 ★4.44 ／ 設備 ★4.38 ／ 風呂 ★4.48 ／ 食事 ★4.71</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「洞川温泉の風情と鮎料理、地酒に癒やされる行きたかった洞川温泉。初めて行きましたが、とても良かったです。宿も床の木の軋む音など、昔の宿の良さを感じました。鮎も美味しかったです。2階の部屋でしたが、通…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「洞川温泉の風情と鮎料理、地酒に癒やされる行きたかった洞川温泉。初めて行きましたが、とても良かったです。宿も床の木の軋む音など、昔の宿の良さを感じました。鮎も美味しかったです。」
                   </blockquote>
                 </div>
               </div>

@@ -384,7 +384,7 @@ export default function AutumnBudgetToyamaStationHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. アパホテル〈富山駅前南〉</td>
                 <td className="p-3 text-stone-600">富山県富山市桜町1-5-20</td>
-                <td className="p-3 text-stone-600">富山駅周辺</td>
+                <td className="p-3 text-stone-600">■北陸新幹線 / あいの風とやま鉄道【富山駅】より徒歩3分■北陸道「富山IC」より車で約15分 旅の拠点となる立地</td>
                 <td className="p-3 text-stone-600">【有】NPC富山駅前スクエア</td>
                 <td className="p-3 font-bold text-amber-600">★4.04（1853件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,500〜</td>
@@ -393,7 +393,7 @@ export default function AutumnBudgetToyamaStationHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 富山エクセルホテル東急</td>
                 <td className="p-3 text-stone-600">富山県富山市新富町1-2-3</td>
-                <td className="p-3 text-stone-600">富山駅周辺</td>
+                <td className="p-3 text-stone-600">★ＪＲ富山駅前（CICビル）徒歩3分◆富山空港よりバス20分・空港バス停留所徒歩1分</td>
                 <td className="p-3 text-stone-600">有り【契約駐車場（徒歩約1〜2分）】1400円　（14:00〜翌日11:00／１泊）</td>
                 <td className="p-3 font-bold text-amber-600">★4.26（2725件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,400〜</td>
@@ -402,7 +402,7 @@ export default function AutumnBudgetToyamaStationHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. ホテルグランテラス富山桜橋通り（ＢＢＨホテルグループ）</td>
                 <td className="p-3 text-stone-600">富山県富山市桜橋通り2-28</td>
-                <td className="p-3 text-stone-600">富山駅周辺</td>
+                <td className="p-3 text-stone-600">●富山駅南口から徒歩約6分（市内路面電車「電気ビル前」正面）●富山ICから車で20分●富山空港から車で20分</td>
                 <td className="p-3 text-stone-600">先着順地下30台、提携駐車場＝河口ビル　各１泊税込1100円、バスは事前連絡要、トラック不可</td>
                 <td className="p-3 font-bold text-amber-600">★3.84（2122件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,680〜</td>
@@ -411,7 +411,7 @@ export default function AutumnBudgetToyamaStationHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 富山の奥座敷、秘湯の一軒宿　小川温泉元湯　ホテルおがわ</td>
                 <td className="p-3 text-stone-600">富山県下新川郡朝日町湯ノ瀬１</td>
-                <td className="p-3 text-stone-600">泊（富山）駅周辺</td>
+                <td className="p-3 text-stone-600">北陸自動車道朝日インター下車２０分。無料送迎サービスあり（北陸新幹線黒部宇奈月温泉駅、あいの風鉄道泊駅）</td>
                 <td className="p-3 text-stone-600">有り　１００台　無料　北陸自動車道朝日ＩＣより１５分。</td>
                 <td className="p-3 font-bold text-amber-600">★4.2（887件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,800〜</td>
@@ -420,7 +420,7 @@ export default function AutumnBudgetToyamaStationHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 大仏旅館＜高岡＞</td>
                 <td className="p-3 text-stone-600">富山県高岡市大仏町1276</td>
-                <td className="p-3 text-stone-600">高岡駅周辺</td>
+                <td className="p-3 text-stone-600">JR高岡駅北口より徒歩約6分。お車の場合、能越自動車道 高岡ICから約15分。</td>
                 <td className="p-3 text-stone-600">有り　15台　無料（先着順）</td>
                 <td className="p-3 font-bold text-amber-600">★4.5（167件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,000〜</td>
@@ -471,7 +471,7 @@ export default function AutumnBudgetToyamaStationHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り【契約駐車場（徒歩約1〜2分）】1400円　（14:00〜翌日11:00／１泊）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.28 ／ 立地 ★4.36 ／ 部屋 ★4.25 ／ 設備 ★4.19 ／ 風呂 ★4.09 ／ 食事 ★4.24</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋にミネラルウォーターのサービスがない部屋に入り、驚いたのはミネラルウォーターのサービスがない事です。月一は出張や家族旅行でホテルを使用しますが、部屋にミネラルウォーターのサービスがなかったのは…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋にミネラルウォーターのサービスがない部屋に入り、驚いたのはミネラルウォーターのサービスがない事です。」
                   </blockquote>
                 </div>
               </div>
@@ -515,7 +515,7 @@ export default function AutumnBudgetToyamaStationHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１００台　無料　北陸自動車道朝日ＩＣより１５分。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.32 ／ 立地 ★4.31 ／ 部屋 ★4.34 ／ 設備 ★3.96 ／ 風呂 ★4.3 ／ 食事 ★4.12</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「50年ぶりの再訪、食事と温泉に感激!50年ぶりに泊まらせていただきましたが、昔とはお風呂が変わっていましたが懐かしくて感激しました!夕食のすき焼きのお肉がとても美味しく、朝食も大満足でした。大…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「50年ぶりの再訪、食事と温泉に感激!50年ぶりに泊まらせていただきましたが、昔とはお風呂が変わっていましたが懐かしくて感激しました!夕食のすき焼きのお肉がとても美味しく、朝食も大満足でした。」
                   </blockquote>
                 </div>
               </div>

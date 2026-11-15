@@ -384,7 +384,7 @@ export default function AutumnBudgetKofuHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. トラベルイン甲府</td>
                 <td className="p-3 text-stone-600">山梨県甲府市丸の内3-19-10</td>
-                <td className="p-3 text-stone-600">甲府駅周辺</td>
+                <td className="p-3 text-stone-600">JR中央本線甲府駅徒歩10分、中央道甲府昭和ICから車で10分</td>
                 <td className="p-3 text-stone-600">有り　19台　500円（税込み／泊）</td>
                 <td className="p-3 font-bold text-amber-600">★3.64（135件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,310〜</td>
@@ -393,7 +393,7 @@ export default function AutumnBudgetKofuHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 天然温泉　甲州隠し湯　スーパーホテル甲府昭和インター</td>
                 <td className="p-3 text-stone-600">山梨県中巨摩郡昭和町西条3787-1</td>
-                <td className="p-3 text-stone-600">甲府駅周辺</td>
+                <td className="p-3 text-stone-600">【甲府昭和インターチェンジ】約1分／ 甲府駅より車で約20分</td>
                 <td className="p-3 text-stone-600">平面駐車場100台分有り（無料）先着順にて ※大型車は要予約</td>
                 <td className="p-3 font-bold text-amber-600">★4.32（1142件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,910〜</td>
@@ -402,7 +402,7 @@ export default function AutumnBudgetKofuHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 東横ＩＮＮ甲府駅南口１</td>
                 <td className="p-3 text-stone-600">山梨県甲府市丸の内1-13-20</td>
-                <td className="p-3 text-stone-600">甲府駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ 甲府駅より徒歩７分</td>
                 <td className="p-3 text-stone-600">駐車場有　800〜1000円（税込／泊）満車時は徒歩5分の提携コインパーキングへのご案内となります。</td>
                 <td className="p-3 font-bold text-amber-600">★4.07（1286件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,355〜</td>
@@ -411,7 +411,7 @@ export default function AutumnBudgetKofuHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. センティア・ホテル内藤</td>
                 <td className="p-3 text-stone-600">山梨県甲府市相生2-3-16</td>
-                <td className="p-3 text-stone-600">甲府駅周辺</td>
+                <td className="p-3 text-stone-600">中央道甲府昭和ICより15分/JR甲府駅より徒歩約15分</td>
                 <td className="p-3 text-stone-600">１台/１泊1000円〜（普通車50台まで可）※大型車両につきましては事前にご連絡ください（別途料金）</td>
                 <td className="p-3 font-bold text-amber-600">★3.95（1958件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,500〜</td>
@@ -420,7 +420,7 @@ export default function AutumnBudgetKofuHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 天然温泉　甲斐路の湯　ドーミーイン甲府</td>
                 <td className="p-3 text-stone-600">山梨県甲府市中央1-14-3</td>
-                <td className="p-3 text-stone-600">甲府駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ 甲府駅南口より徒歩約１５分 詳細：平和通りを南へ下り、甲府署前交差点を左折、桜通中を右折するとすぐ！</td>
                 <td className="p-3 text-stone-600">1000円（15時-翌朝11時）先着順連泊時、途中出庫時の取り置き不可満車時は別提携駐車場をご案内。</td>
                 <td className="p-3 font-bold text-amber-600">★4.38（4980件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,102〜</td>
@@ -449,7 +449,7 @@ export default function AutumnBudgetKofuHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　19台　500円（税込み／泊）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.83 ／ 立地 ★3.6 ／ 部屋 ★3.57 ／ 設備 ★3.43 ／ 風呂 ★3.38 ／ 食事 ★3.91</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「コスパ抜群、手作り朝食と地ビールが最高ちょっと奥まった場所ですが、駅から徒歩でも問題ありません。設備は最低限ですが、「こちらで片付けるのでそのまま置いておいてもらって大丈夫です」というサービス精神…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「コスパ抜群、手作り朝食と地ビールが最高ちょっと奥まった場所ですが、駅から徒歩でも問題ありません。」
                   </blockquote>
                 </div>
               </div>
@@ -493,7 +493,7 @@ export default function AutumnBudgetKofuHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>駐車場有　800〜1000円（税込／泊）満車時は徒歩5分の提携コインパーキングへのご案内となります。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.09 ／ 立地 ★3.98 ／ 部屋 ★4.08 ／ 設備 ★3.99 ／ 風呂 ★3.93 ／ 食事 ★3.99</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「エアウィーヴとリファ完備で快適な空間プレミアムプラスルームに1泊しましたが、ベッドもピローもエアウィーブで快適でした!リファのドライヤーとカールアイロンも良かったですね。お部屋は清潔感がありも…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「エアウィーヴとリファ完備で快適な空間プレミアムプラスルームに1泊しましたが、ベッドもピローもエアウィーブで快適でした!リファのドライヤーとカールアイロンも良かったですね。」
                   </blockquote>
                 </div>
               </div>

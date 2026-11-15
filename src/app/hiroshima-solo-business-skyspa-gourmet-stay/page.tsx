@@ -426,7 +426,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. シェラトングランドホテル広島</td>
                 <td className="p-3 text-stone-600">広島県広島市東区若草町12-1</td>
-                <td className="p-3 text-stone-600">広島駅周辺</td>
+                <td className="p-3 text-stone-600">広島駅新幹線口より徒歩1分 広島空港リムジンバス乗り場から徒歩1分</td>
                 <td className="p-3 text-stone-600">当ホテルに駐車場はございません。最寄りのアクティブインターシティー駐車場をご利用下さい</td>
                 <td className="p-3 font-bold text-amber-600">★4.63（1558件）</td>
                 <td className="p-3 font-bold text-rose-600">¥13,000〜</td>
@@ -435,7 +435,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. ＣＡＮＤＥＯ　ＨＯＴＥＬＳ（カンデオホテルズ）広島八丁堀</td>
                 <td className="p-3 text-stone-600">広島県広島市中区八丁堀14-1</td>
-                <td className="p-3 text-stone-600">広島駅～車で約6分／市内電車：八丁堀電停～徒歩約1分/広島バスセンター</td>
+                <td className="p-3 text-stone-600">広島駅～車で約6分／市内電車：八丁堀電停～徒歩約1分/広島バスセンター・アストラムライン本通り駅～徒歩約10分</td>
                 <td className="p-3 text-stone-600">ホテル駐車場は無し、近隣に立体駐車場（提携ではない）あり</td>
                 <td className="p-3 font-bold text-amber-600">★4.33（1722件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,100〜</td>
@@ -444,7 +444,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 安芸の湯　ドーミーイン広島（２０２６年５月１日リニューアルＯＰＥＮ）</td>
                 <td className="p-3 text-stone-600">広島県広島市中区小町3－28</td>
-                <td className="p-3 text-stone-600">本通駅周辺</td>
+                <td className="p-3 text-stone-600">広島駅より広島電鉄1番広島港行き中電前駅より徒歩2分/エキまちループ白神社前より徒歩2分</td>
                 <td className="p-3 text-stone-600">先着順の提携駐車場　1泊￥1500（途中入出庫不可）　車体制限有り</td>
                 <td className="p-3 font-bold text-amber-600">★4.4（5844件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,825〜</td>
@@ -473,7 +473,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>当ホテルに駐車場はございません。最寄りのアクティブインターシティー駐車場をご利用下さい</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.68 ／ 立地 ★4.76 ／ 部屋 ★4.68 ／ 設備 ★4.62 ／ 風呂 ★4.58 ／ 食事 ★4.67</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「早めのチェックインと親切な対応に感謝チェックインの時間より早く着いたのですが、お部屋の用意は整っています。との事で早めに部屋に通していただきました。お部屋はとても綺麗で、浴室の小窓から外が見え…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「早めのチェックインと親切な対応に感謝チェックインの時間より早く着いたのですが、お部屋の用意は整っています。との事で早めに部屋に通していただきました。」
                   </blockquote>
                 </div>
               </div>

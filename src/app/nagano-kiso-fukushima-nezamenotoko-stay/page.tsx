@@ -253,7 +253,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 木曽路の宿　いわや</td>
                 <td className="p-3 text-stone-600">長野県木曽郡木曽町福島5169</td>
-                <td className="p-3 text-stone-600">木曽福島駅周辺</td>
+                <td className="p-3 text-stone-600">JR木曽福島駅より徒歩10分／中央自動車道：塩尻ICより60分、中津川ICより60分</td>
                 <td className="p-3 text-stone-600">有り　１５台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★3.96（99件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,700〜</td>
@@ -262,7 +262,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 料亭旅館　熱海　小嵐亭（旧　迎賓館　熱海小嵐亭）</td>
                 <td className="p-3 text-stone-600">静岡県熱海市小嵐町1-16</td>
-                <td className="p-3 text-stone-600">熱海駅周辺</td>
+                <td className="p-3 text-stone-600">車／東名厚木ICより小田原厚木道路経由（約60分） 電車／東京より東海道新幹線で熱海下車（約45分）</td>
                 <td className="p-3 text-stone-600">有り 15台　 ※ 有料／1台1泊ごとに1,000円（税込）</td>
                 <td className="p-3 font-bold text-amber-600">★4.38（120件）</td>
                 <td className="p-3 font-bold text-rose-600">¥32,000〜</td>
@@ -271,7 +271,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 旅館　鳥屋沢</td>
                 <td className="p-3 text-stone-600">長野県松本市奈川2562-2</td>
-                <td className="p-3 text-stone-600">松本駅周辺</td>
+                <td className="p-3 text-stone-600">松本駅よりバスにて５０分</td>
                 <td className="p-3 text-stone-600">有り　8台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4（16件）</td>
                 <td className="p-3 font-bold text-rose-600">¥9,700〜</td>
@@ -280,7 +280,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. きそふくしま温泉　街道浪漫　おん宿　蔦屋</td>
                 <td className="p-3 text-stone-600">長野県木曽郡木曽町福島本町5162</td>
-                <td className="p-3 text-stone-600">JR木曽福島駅～徒歩約10分【15：30分16：40分送迎有要予約】伊</td>
+                <td className="p-3 text-stone-600">JR木曽福島駅～徒歩約10分【15：30分16：40分送迎有要予約】伊那IC約40分塩尻IC約60分中津川I約70分</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.25（582件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,090〜</td>
@@ -289,7 +289,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. ねざめホテル</td>
                 <td className="p-3 text-stone-600">長野県木曽郡上松町上松1888</td>
-                <td className="p-3 text-stone-600">上松駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ中央線・上松駅／中央道・塩尻ＩＣ又は中津川ＩＣ～５０分</td>
                 <td className="p-3 text-stone-600">有り　５０台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.22（115件）</td>
                 <td className="p-3 font-bold text-rose-600">¥9,350〜</td>
@@ -298,7 +298,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">6. 木曽駒高原　森のホテル＜長野県＞</td>
                 <td className="p-3 text-stone-600">長野県木曽郡木曽町日義4898-553</td>
-                <td className="p-3 text-stone-600">木曽福島駅周辺</td>
+                <td className="p-3 text-stone-600">JR木曽福島駅から車で約10分。塩尻IC・中津川ICから車で60分。</td>
                 <td className="p-3 text-stone-600">有り　30台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.45（384件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,050〜</td>
@@ -327,7 +327,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１５台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの心遣いに感謝。食事も大満足子供の体調がいまいちでレストランで夕食を食べられず...「お部屋に運んで後で食べることもできますよ」と教えていただき、お部屋に持っていくことに。娘はお風呂に入る…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの心遣いに感謝。食事も大満足子供の体調がいまいちでレストランで夕食を食べられず...「お部屋に運んで後で食べることもできますよ」と教えていただき、お部屋に持っていくことに。」
                   </blockquote>
                 </div>
               </div>
@@ -349,7 +349,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り 15台　 ※ 有料／1台1泊ごとに1,000円（税込）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「心遣いと個室での食事が最高、お風呂は熱め私達夫婦と子供達2家族でそれぞれ離れを予約しました。到着するとすぐにお出迎え、離れではお茶も淹れてくださり、従業員の皆さんの心遣いがとても良かったです。夕食…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「心遣いと個室での食事が最高、お風呂は熱め私達夫婦と子供達2家族でそれぞれ離れを予約しました。到着するとすぐにお出迎え、離れではお茶も淹れてくださり、従業員の皆さんの心遣いがとても良かったです。」
                   </blockquote>
                 </div>
               </div>
@@ -393,7 +393,7 @@ export default function MicroTouristHubPage() {
                   <p>【長野・木曽福島＆寝覚の床・御嶽山：中山道関所宿場町・】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駐車場の案内が不親切で非常に危険だった駐車場について、隣の奥を案内されたが、バックで進入しなければならず非常に狭く危うく壁にぶつかりそうになった。後からチェックインした人が宿の前のスペースに駐車さ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駐車場の案内が不親切で非常に危険だった駐車場について、隣の奥を案内されたが、バックで進入しなければならず非常に狭く危うく壁にぶつかりそうになった。」
                   </blockquote>
                 </div>
               </div>
@@ -415,7 +415,7 @@ export default function MicroTouristHubPage() {
                   <p>【長野・木曽福島＆寝覚の床・御嶽山：中山道関所宿場町・】 <strong>【駐車場・マイカー利用】</strong>有り　５０台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「木曽路旅行の拠点に便利寝覚めの床のすぐそばの高台にあり、車なら奈良井、赤沢休養林、御嶽山、妻籠宿など、木曽の名所を観光できる好立地でした。スタッフの方々は皆さん親切で、お部屋も広く清潔でゆったりと…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「木曽路旅行の拠点に便利寝覚めの床のすぐそばの高台にあり、車なら奈良井、赤沢休養林、御嶽山、妻籠宿など、木曽の名所を観光できる好立地でした。」
                   </blockquote>
                 </div>
               </div>
@@ -437,7 +437,7 @@ export default function MicroTouristHubPage() {
                   <p>【長野・木曽福島＆寝覚の床・御嶽山：中山道関所宿場町・】 <strong>【駐車場・マイカー利用】</strong>有り　30台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「当日の22時までであればいつでもチェックイン可能の制度に助けられました、夜遅くのチェックインだったのにも関わらず丁寧に対応していただきありがとうございました、朝食のお肉がとても美味しかったですクチ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「当日の22時までであればいつでもチェックイン可能の制度に助けられました、夜遅くのチェックインだったのにも関わらず丁寧に対応していただきありがとうございました、朝食のお肉がとても美味しかったですクチ。」
                   </blockquote>
                 </div>
               </div>

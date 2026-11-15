@@ -337,8 +337,8 @@ export default function ArticlePage() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 白浜駅よりアクセス。JR白浜駅から車で約10分※無料送迎バス運行中／南紀白浜空港から車で約8分／大阪から車で阪和道南紀田辺IC経由で約2時間。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「白浜古賀の井リゾート＆スパ」にチェックイン。優雅に美しく贅沢な休日を。心から綺麗になるリゾート。新しい露天風呂やスパエリアも充実！などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「白浜古賀の井リゾート＆スパ」の湯処へ。優雅に美しく贅沢な休日を。心から綺麗になるリゾート。新しい露天風呂やスとともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「白浜古賀の井リゾート＆スパ」にチェックイン。優雅に美しく贅沢な休日を。心から綺麗になるリゾート。新しい露天風呂やスパエリアも充実！ 館内の設えを確かめながら、これからの滞在に備えてゆっくり休息する。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「白浜古賀の井リゾート＆スパ」の大浴場・露天風呂へ。日暮れの静けさの中で湯に浸かり、旅の緊張をゆっくりと解きほぐす。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「白浜古賀の井リゾート＆スパ」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -350,7 +350,7 @@ export default function ArticlePage() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「白浜古賀の井リゾート＆スパ」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「白浜古賀の井リゾート＆スパ」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「紀州・白浜温泉 むさし」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は「白浜古賀の井リゾート＆スパ」周辺の観光スポットや地元の名産店に立ち寄り、ご当地のお土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>
@@ -366,43 +366,43 @@ export default function ArticlePage() {
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">あわせて読みたい人気特集＆全国エリアガイド</h2>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
-            <a href="/aichi-chita-minamichita-himakajima-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/furusato-tax-shirahama-onsen-ocean-view-luxury-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">愛知・知多半島＆南知多温泉郷：内海千鳥ヶ浜・日間賀島タコふぐ＆知多牛宿 厳選ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">青い海と真っ白な砂浜！南紀白浜温泉の絶景オーシャンビュー露天風呂＆幻のクエ・熊野牛名門旅館×ふるさと納税完全攻略ガイド【2026年最新】むさし・海舟・シーモア！南紀白浜温泉の絶景オ</span>
             </a>
-            <a href="/autumn-budget-mie-yokkaichi-gozaisho-tonteki-hotels-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/izu-shimoda-car-free-travel-guide/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">四日市：御在所岳の三段紅葉とスタミナ四日市とんてき！2,000円台〜格安ホテル5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「伊豆・下田 車なし観光 1泊2日モデルコース」 伊豆急行＆路線バスで巡る白浜海岸・ペリーロード・金目鯛旅</span>
             </a>
-            <a href="/winter-aichi-gamagori-onsen-mikawawan-mehikari-akazaebi-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/mie-kumano-owase-onigajo-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12月愛知・三河湾蒲郡温泉郷の竹島夕日パノラマと冬の深海魚】名物メヒカリ＆幻のアカザエビ・極上三河牛と冬イルミを愉しむ海辺名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「三重・熊野＆尾鷲・鬼ヶ城」世界遺産鬼ヶ城・獅子岩＆熊野古道伊勢路・尾鷲ガスエビ宿 厳選ガイド</span>
             </a>
-            <a href="/winter-fukuoka-dazaifu-tenmangu-hatsumode-futsukaichi-beef-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/shizuoka-south-izu-shimoda-beach-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12・1月福岡】学問の神様・太宰府天満宮の合格祈願＆新春200万人初詣と名物「梅ヶ枝餅」・万葉の古湯二日市温泉と博多和牛の名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「静岡・南伊豆＆下田・ヒリゾ浜」開国の港街・白浜海岸＆秘境シュノーケリング・金目鯛宿 厳選ガイド</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
             <div className="flex flex-wrap gap-2">
               <Link
-                href="/prefectures/aichi/"
+                href="/prefectures/wakayama/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                愛知県の宿・温泉
+                和歌山県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/tokushima/"
+                href="/prefectures/kyoto/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                徳島県の宿・温泉
+                京都府の宿・温泉
               </Link>
               <Link
-                href="/prefectures/okinawa/"
+                href="/prefectures/osaka/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                沖縄県の宿・温泉
+                大阪府の宿・温泉
               </Link>
               <Link
                 href="/prefectures/hyogo/"
@@ -444,7 +444,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 白浜・温泉リゾート　海岳</td>
                 <td className="p-3 text-stone-600">和歌山県西牟婁郡白浜町3212-12</td>
-                <td className="p-3 text-stone-600">白浜駅周辺</td>
+                <td className="p-3 text-stone-600">白浜駅から車で8分、南紀白浜空港から車で15分</td>
                 <td className="p-3 text-stone-600">有り　30台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.5（15件）</td>
                 <td className="p-3 font-bold text-rose-600">¥12,000〜</td>
@@ -453,7 +453,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 白浜古賀の井リゾート＆スパ</td>
                 <td className="p-3 text-stone-600">和歌山県西牟婁郡白浜町3212-1</td>
-                <td className="p-3 text-stone-600">白浜駅周辺</td>
+                <td className="p-3 text-stone-600">JR白浜駅から車で約10分※無料送迎バス運行中／南紀白浜空港から車で約8分／大阪から車で阪和道南紀田辺IC経由で約2時間</td>
                 <td className="p-3 text-stone-600">110台（無料）</td>
                 <td className="p-3 font-bold text-amber-600">★4.42（5796件）</td>
                 <td className="p-3 font-bold text-rose-600">¥9,900〜</td>
@@ -462,7 +462,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 紀州・白浜温泉　むさし</td>
                 <td className="p-3 text-stone-600">和歌山県西牟婁郡白浜町868</td>
-                <td className="p-3 text-stone-600">白浜駅周辺</td>
+                <td className="p-3 text-stone-600">JR白浜駅より車で約10分／南紀白浜空港より車で約10分／アドベンチャーワールドより車で約15分</td>
                 <td className="p-3 text-stone-600">無料駐車場あり（２２０台）　ご到着時、当館玄関までお着け下さいませ</td>
                 <td className="p-3 font-bold text-amber-600">★4.3（2594件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,800〜</td>

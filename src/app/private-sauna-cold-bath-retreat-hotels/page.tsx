@@ -337,7 +337,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. ＭＯＳＳ十里木キャンプリゾート</td>
                 <td className="p-3 text-stone-600">静岡県裾野市須山2427-1</td>
-                <td className="p-3 text-stone-600">御殿場駅周辺</td>
+                <td className="p-3 text-stone-600">御殿場駅よりお車にて約４０分</td>
                 <td className="p-3 text-stone-600">無料で1台横付けできます。2台目以降1000円の追加料金がかかります。第2駐車場にお停めください。</td>
                 <td className="p-3 font-bold text-amber-600">★4.38（37件）</td>
                 <td className="p-3 font-bold text-rose-600">¥13,100〜</td>
@@ -346,7 +346,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. ＴＯＣＯＲＯ．Ｍｔ．Ｆｕｊｉ　ＣＡＭＰ＆ＧＬＡＭＰＩＮＧ</td>
                 <td className="p-3 text-stone-600">山梨県南都留郡富士河口湖町大石2533-1</td>
-                <td className="p-3 text-stone-600">河口湖駅周辺</td>
+                <td className="p-3 text-stone-600">河口湖駅から車で約20分 河口湖駅から施設までの無料送迎あり（要事前予約）ご利用の場合はご連絡下さい。</td>
                 <td className="p-3 text-stone-600">無料駐車場有り　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.8（11件）</td>
                 <td className="p-3 font-bold text-rose-600">¥19,405〜</td>
@@ -355,7 +355,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. ＨＯＴＥＬ　＆　ＳＡＵＮＡ　ＦＵＪＩＮＯＳ</td>
                 <td className="p-3 text-stone-600">静岡県富士市横割4-8-24</td>
-                <td className="p-3 text-stone-600">富士駅周辺</td>
+                <td className="p-3 text-stone-600">富士駅より徒歩約13分（JR東海道線・富士駅南口下車）｜新富士駅より徒歩約13分</td>
                 <td className="p-3 text-stone-600">有り　１３台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.48（112件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,275〜</td>
@@ -384,7 +384,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料で1台横付けできます。2台目以降1000円の追加料金がかかります。第2駐車場にお停めください。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「自然の中で新鮮な野菜を思う存分味わう自然を浴びるほど感じられるのと、フロントに野菜マルシェがあるので新鮮なお野菜を思う存分味わうことができます。また機会があればぜひ行きたい。他の画像や…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「自然の中で新鮮な野菜を思う存分味わう自然を浴びるほど感じられるのと、フロントに野菜マルシェがあるので新鮮なお野菜を思う存分味わうことができます。また機会があればぜひ行きたい。」
                   </blockquote>
                 </div>
               </div>

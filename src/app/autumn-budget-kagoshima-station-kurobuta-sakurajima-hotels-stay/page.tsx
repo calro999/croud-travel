@@ -384,7 +384,7 @@ export default function AutumnBudgetKagoshimaStationHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. ＨＯＴＥＬ　ＮＯＩＲ（ホテルノイル）鹿児島中央駅</td>
                 <td className="p-3 text-stone-600">鹿児島県鹿児島市中央町24-16</td>
-                <td className="p-3 text-stone-600">鹿児島中央駅周辺</td>
+                <td className="p-3 text-stone-600">鹿児島中央駅(東口／桜島口)より徒歩で約4分。Li-Kaから一番街経由で駅直結</td>
                 <td className="p-3 text-stone-600">有り・先着順(1500円) ファミリーカータイプ収納／立体18台、平面3台（障碍者用含む）</td>
                 <td className="p-3 font-bold text-amber-600">★4.14（491件）</td>
                 <td className="p-3 font-bold text-rose-600">¥2,500〜</td>
@@ -393,7 +393,7 @@ export default function AutumnBudgetKagoshimaStationHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. ネム〜ル　鹿児島中央駅</td>
                 <td className="p-3 text-stone-600">鹿児島県鹿児島市西田2-19-3</td>
-                <td className="p-3 text-stone-600">鹿児島中央駅周辺</td>
+                <td className="p-3 text-stone-600">鹿児島中央駅より徒歩にて約３分</td>
                 <td className="p-3 text-stone-600">無し</td>
                 <td className="p-3 font-bold text-amber-600">★4.36（376件）</td>
                 <td className="p-3 font-bold text-rose-600">¥2,900〜</td>
@@ -402,7 +402,7 @@ export default function AutumnBudgetKagoshimaStationHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. ホテル　ガストフ</td>
                 <td className="p-3 text-stone-600">鹿児島県鹿児島市中央町7-1</td>
-                <td className="p-3 text-stone-600">鹿児島中央駅周辺</td>
+                <td className="p-3 text-stone-600">鹿児島中央駅より徒歩5分/鹿児島空港よりバスで40分→徒歩5分/天文館より電車で7分→高見橋電停下車徒歩30秒</td>
                 <td className="p-3 text-stone-600">有り　48台　800円（税込み／泊）　要予約　事前のご予約をお願い致します。</td>
                 <td className="p-3 font-bold text-amber-600">★4.13（1221件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,000〜</td>
@@ -411,7 +411,7 @@ export default function AutumnBudgetKagoshimaStationHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 東横ＩＮＮ鹿児島中央駅西口</td>
                 <td className="p-3 text-stone-600">鹿児島県鹿児島市西田2-28-10</td>
-                <td className="p-3 text-stone-600">鹿児島中央駅周辺</td>
+                <td className="p-3 text-stone-600">JR鹿児島中央駅より徒歩１分 九州自動車道鹿児島ICより5.5km（車で約8分）</td>
                 <td className="p-3 text-stone-600">あり　800円/泊　立体60台先着順 (車高2.0ｍまで）　 身体障害者用１台のみ要予約</td>
                 <td className="p-3 font-bold text-amber-600">★4.07（921件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,938〜</td>
@@ -420,7 +420,7 @@ export default function AutumnBudgetKagoshimaStationHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 天然温泉かけ流し　絹肌の湯　シルクイン鹿児島</td>
                 <td className="p-3 text-stone-600">鹿児島県鹿児島市上之園町19-30</td>
-                <td className="p-3 text-stone-600">鹿児島中央駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ鹿児島中央駅より徒歩5分/鹿児島空港より空港連絡バスで約50分→鹿児島中央ターミナルビル下車→徒歩1分</td>
                 <td className="p-3 text-stone-600">有り　48台　料金：800円（税込み／泊）PM3:00～AM11:00</td>
                 <td className="p-3 font-bold text-amber-600">★4.35（2214件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,350〜</td>
@@ -449,7 +449,7 @@ export default function AutumnBudgetKagoshimaStationHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り・先着順(1500円) ファミリーカータイプ収納／立体18台、平面3台（障碍者用含む）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近で移動が楽、ベッドも広くて快適8月12日から14日まで利用しました。チェックインもチェックアウトもとてもスムーズでしたとてもキレイなホテルでベッドも広くとても寝やすかったです。鹿児…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近で移動が楽、ベッドも広くて快適8月12日から14日まで利用しました。チェックインもチェックアウトもとてもスムーズでしたとてもキレイなホテルでベッドも広くとても寝やすかったです。」
                   </blockquote>
                 </div>
               </div>
@@ -471,7 +471,7 @@ export default function AutumnBudgetKagoshimaStationHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無し</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.08 ／ 立地 ★4.19 ／ 部屋 ★4.43 ／ 設備 ★4.36 ／ 風呂 ★4.27</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「入館パスワードが届かず連絡も取れず困惑建物内の中に入るためのパスワードが送られて来ず、記載されている電話番号やメールアドレスにも返事がなく、かなり詰みでした。たまたま外出する方がいらっしゃったので…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「入館パスワードが届かず連絡も取れず困惑建物内の中に入るためのパスワードが送られて来ず、記載されている電話番号やメールアドレスにも返事がなく、かなり詰みでした。」
                   </blockquote>
                 </div>
               </div>
@@ -493,7 +493,7 @@ export default function AutumnBudgetKagoshimaStationHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　48台　800円（税込み／泊）　要予約　事前のご予約をお願い致します。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.11 ／ 立地 ★4.1 ／ 部屋 ★4.09 ／ 設備 ★3.96 ／ 風呂 ★3.92 ／ 食事 ★4.32</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食は美味しかったが風呂の設備が残念全体的に歴史を感じさせるため造り古いのは仕方無いにしても風呂がシャワーしか使えず、湯圧も低く最悪でした但し、朝食のバイキングはおかずの種類が多く味も…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食は美味しかったが風呂の設備が残念全体的に歴史を感じさせるため造り古いのは仕方無いにしても風呂がシャワーしか使えず、湯圧も低く最悪でした但し。」
                   </blockquote>
                 </div>
               </div>
@@ -515,7 +515,7 @@ export default function AutumnBudgetKagoshimaStationHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>あり　800円/泊　立体60台先着順 (車高2.0ｍまで）　 身体障害者用１台のみ要予約</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「無料とは思えない朝食のクオリティに大満足無料朝食とは思えないクオリティでした。おかずは品数がそこそこあり、それだけでも十分だったんですが、木箱に入ったパンが美味しくおかわりしました。たくさ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「無料とは思えない朝食のクオリティに大満足無料朝食とは思えないクオリティでした。おかずは品数がそこそこあり、それだけでも十分だったんですが、木箱に入ったパンが美味しくおかわりしました。」
                   </blockquote>
                 </div>
               </div>
@@ -537,7 +537,7 @@ export default function AutumnBudgetKagoshimaStationHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　48台　料金：800円（税込み／泊）PM3:00～AM11:00</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食と温泉に満足、また泊まりたい朝食バイキングは流石と思いました!天然温泉も良い湯でした!チェックアウト時に栄養ドリンクを頂きました!少し残念だったのは脱衣所の床に埃がありましたが、…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食と温泉に満足、また泊まりたい朝食バイキングは流石と思いました!天然温泉も良い湯でした!チェックアウト時に栄養ドリンクを頂きました!」
                   </blockquote>
                 </div>
               </div>

@@ -309,7 +309,7 @@ export default function AutumnBudgetTokushimaHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. ＣＯＺＹ　ＣＯＭＦＯＲＴＳ　ＨＯＴＥＬ（コージーコンフォーツホテル）２０２６年８月８日新規オープン</td>
                 <td className="p-3 text-stone-600">徳島県徳島市仲之町1-40</td>
-                <td className="p-3 text-stone-600">徳島駅周辺</td>
+                <td className="p-3 text-stone-600">JR徳島駅より車で約4分／徳島阿波おどり空港より車で約25分／徳島最大の歓楽街「秋田町」徒歩1分</td>
                 <td className="p-3 text-stone-600">ホテル専用P(先着順)または提携P（平日･日祝：1000円、金土･祝前：1500円）※お盆期間除く</td>
                 <td className="p-3 font-bold text-amber-600">★4.22（32件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,900〜</td>
@@ -318,7 +318,7 @@ export default function AutumnBudgetTokushimaHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. ＪＲホテルクレメント徳島</td>
                 <td className="p-3 text-stone-600">徳島県徳島市寺島本町西1-61</td>
-                <td className="p-3 text-stone-600">徳島駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ徳島駅直結０分・高速バス降り場より徒歩１分・徳島阿波おどり空港より車で約30分・徳島Ｉ．Ｃ．から車で１５分。</td>
                 <td className="p-3 text-stone-600">1泊1台1,300円(24時間入出庫可能)※2026/4/1より1,300円へ変更になりました</td>
                 <td className="p-3 font-bold text-amber-600">★4.34（5160件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,200〜</td>
@@ -327,7 +327,7 @@ export default function AutumnBudgetTokushimaHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 天空のスカイビューホテル　眉山海月</td>
                 <td className="p-3 text-stone-600">徳島県徳島市八万町中津山3-70</td>
-                <td className="p-3 text-stone-600">徳島駅周辺</td>
+                <td className="p-3 text-stone-600">JR徳島駅から車で約15分【駐車場無料】。無料送迎は徳島駅、眉山ロープウェイ 山頂駅にて（前日までの事前予約が必要）</td>
                 <td className="p-3 text-stone-600">有り　60台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.36（650件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,500〜</td>
@@ -336,7 +336,7 @@ export default function AutumnBudgetTokushimaHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. ホテル　グランドパレス徳島</td>
                 <td className="p-3 text-stone-600">徳島県徳島市寺島本町西1-60-1</td>
-                <td className="p-3 text-stone-600">徳島駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ徳島駅より徒歩３分。徳島空港より車で２０分。</td>
                 <td className="p-3 text-stone-600">有り　　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.33（1152件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,600〜</td>
@@ -365,7 +365,7 @@ export default function AutumnBudgetTokushimaHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>ホテル専用P(先着順)または提携P（平日･日祝：1000円、金土･祝前：1500円）※お盆期間除く</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.29 ／ 立地 ★4 ／ 部屋 ★4.22 ／ 設備 ★4.03 ／ 風呂 ★3.97</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食の豪華さとスタッフの対応に大満足コメントを残さずいられないくらい最高のホテルでした!初めての口コミです。初の徳島市内にての宿泊でしたが、こちらを選んでよかったです。シックで落ち…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食の豪華さとスタッフの対応に大満足コメントを残さずいられないくらい最高のホテルでした!初めての口コミです。初の徳島市内にての宿泊でしたが、こちらを選んでよかったです。」
                   </blockquote>
                 </div>
               </div>
@@ -409,7 +409,7 @@ export default function AutumnBudgetTokushimaHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　60台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.37 ／ 立地 ★4.49 ／ 部屋 ★4.35 ／ 設備 ★4.22 ／ 風呂 ★4.29 ／ 食事 ★4.5</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「価格とサービスのバランスに少し不満あり所々、リニューアルされていました。が、人手が足りていないと感じる場面が何度もありました。お風呂場は洗い場の排水が追いついていないのか?ザブザブと溜まっ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「価格とサービスのバランスに少し不満あり所々、リニューアルされていました。が、人手が足りていないと感じる場面が何度もありました。」
                   </blockquote>
                 </div>
               </div>
@@ -431,7 +431,7 @@ export default function AutumnBudgetTokushimaHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.36 ／ 立地 ★4.35 ／ 部屋 ★4.37 ／ 設備 ★4.27 ／ 風呂 ★4.17 ／ 食事 ★4.48</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食の混雑とスタッフの対応に不満朝食会場が、系列ホテルと共用のため6時台から非常に混雑していた。席を采配する女性スタッフから相席を打診されたため出直すと伝えたが、ロビーで待機する様に指示された。失…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食の混雑とスタッフの対応に不満朝食会場が、系列ホテルと共用のため6時台から非常に混雑していた。席を采配する女性スタッフから相席を打診されたため出直すと伝えたが、ロビーで待機する様に指示された。」
                   </blockquote>
                 </div>
               </div>

@@ -425,8 +425,8 @@ export default function Page() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 高屋駅よりアクセス。東京・仙台方面→東北自動車道→村田JCT→山形自動車道→山形北IC→国道13号→国道47号→宿。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「高見屋 最上川別邸 紅」にチェックイン。～名湯一門 高見屋～全ての窓から最上川の風雅な景色を眺める、寛ぎの温泉旅館-ＢＥＮＩ-などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「高見屋 最上川別邸 紅」の湯処へ。～名湯一門 高見屋～全ての窓から最上川の風雅な景色を眺める、寛ぎの温泉とともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「高見屋 最上川別邸 紅」にチェックイン。～名湯一門 高見屋～全ての窓から最上川の風雅な景色を眺める、寛ぎの温泉旅館-ＢＥＮＩ-が魅力の一軒。客室で荷物をほどいて穏やかな午後のひとときを。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「高見屋 最上川別邸 紅」の湯船で寛ぎタイム。季節の空気を感じながら手足を伸ばし、心豊かな夕方のリラックス時間を満喫。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「高見屋 最上川別邸 紅」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -438,7 +438,7 @@ export default function Page() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「高見屋 最上川別邸 紅」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「高見屋 最上川別邸 紅」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「ホテルルートイン富士中央公園東」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は「高見屋 最上川別邸 紅」周辺の観光スポットや地元の名産店に立ち寄り、ご当地のお土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>
@@ -566,7 +566,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 高見屋　最上川別邸　紅</td>
                 <td className="p-3 text-stone-600">山形県最上郡戸沢村古口3058</td>
-                <td className="p-3 text-stone-600">高屋駅周辺</td>
+                <td className="p-3 text-stone-600">東京・仙台方面→東北自動車道→村田JCT→山形自動車道→山形北IC→国道13号→国道47号→宿</td>
                 <td className="p-3 text-stone-600">有り　２０台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.25（405件）</td>
                 <td className="p-3 font-bold text-rose-600">¥10,450〜</td>
@@ -575,7 +575,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. ホテルルートイン富士中央公園東</td>
                 <td className="p-3 text-stone-600">静岡県富士市永田町2-81-1</td>
-                <td className="p-3 text-stone-600">富士駅周辺</td>
+                <td className="p-3 text-stone-600">東名高速道路『富士インター』より車で7分／ＪＲ東海道新幹線『新富士駅』より車で9分／JR東海道線『富士駅』より車で10分</td>
                 <td className="p-3 text-stone-600">無料　87台（敷地内自走式立体駐車場）　※制限あり（高さ制限2.1m）</td>
                 <td className="p-3 font-bold text-amber-600">★4.27（1028件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,300〜</td>
@@ -584,7 +584,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 国登録有形文化財の宿　人吉温泉　芳野旅館</td>
                 <td className="p-3 text-stone-600">熊本県人吉市上青井町180</td>
-                <td className="p-3 text-stone-600">人吉駅周辺</td>
+                <td className="p-3 text-stone-600">人吉ICより車で約8分</td>
                 <td className="p-3 text-stone-600">有り　30台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.37（135件）</td>
                 <td className="p-3 font-bold text-rose-600">¥12,100〜</td>
@@ -613,7 +613,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２０台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「川の眺めは良いが工事の視線が気になったお風呂が残念部屋から目の前の川がよく見える所でよかったが反対側で工事をしている作業員が10名ほどこれ以上言わなくてもわかると思いますがチェックイン…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「川の眺めは良いが工事の視線が気になったお風呂が残念部屋から目の前の川がよく見える所でよかったが反対側で工事をしている作業員が10名ほどこれ以上言わなくてもわかると思いますがチェックイン。」
                   </blockquote>
                 </div>
               </div>

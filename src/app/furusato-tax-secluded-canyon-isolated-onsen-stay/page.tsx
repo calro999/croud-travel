@@ -48,7 +48,7 @@ export default function FurusatoTaxPage() {
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* パンくずリスト */}
-      <nav className="border-b border-slate-800/80 bg-slate-900/60 backdrop-blur px-4 py-3 text-xs text-slate-400">
+      <nav className="border-b border-slate-800/80 bg-slate-900/60 backdrop-blur px-4 py-3 text-xs text-slate-200">
         <div className="max-w-6xl mx-auto flex items-center gap-2 overflow-x-auto whitespace-nowrap">
           <Link href="/" className="hover:text-amber-400 transition">ホーム</Link>
           <span>/</span>
@@ -581,8 +581,8 @@ export default function FurusatoTaxPage() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 宇奈月温泉駅よりアクセス。北陸新幹線黒部宇奈月温泉駅から富山地鉄乗り換え25分。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「黒部峡谷・宇奈月温泉 ホテル黒部」にチェックイン。『宇奈月温泉随一の眺望』四季折々の地元食材と透明な美肌湯を堪能などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「黒部峡谷・宇奈月温泉 ホテル黒部」の湯処へ。『宇奈月温泉随一の眺望』四季折々の地元食材と透明な美肌湯を堪能とともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「黒部峡谷・宇奈月温泉 ホテル黒部」にチェックイン。『宇奈月温泉随一の眺望』四季折々の地元食材と透明な美肌湯を堪能が魅力の一軒。客室で荷物をほどいて穏やかな午後のひとときを。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「黒部峡谷・宇奈月温泉 ホテル黒部」の湯船で寛ぎタイム。季節の空気を感じながら手足を伸ばし、心豊かな夕方のリラックス時間を満喫。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「黒部峡谷・宇奈月温泉 ホテル黒部」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -594,7 +594,7 @@ export default function FurusatoTaxPage() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「黒部峡谷・宇奈月温泉 ホテル黒部」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「黒部峡谷・宇奈月温泉 ホテル黒部」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「宇奈月温泉 延楽」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は「黒部峡谷・宇奈月温泉 ホテル黒部」周辺の観光スポットや地元の名産店に立ち寄り、ご当地のお土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>
@@ -722,7 +722,7 @@ export default function FurusatoTaxPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 黒部峡谷・宇奈月温泉　ホテル黒部</td>
                 <td className="p-3 text-stone-600">富山県黒部市宇奈月温泉７番地</td>
-                <td className="p-3 text-stone-600">宇奈月温泉駅周辺</td>
+                <td className="p-3 text-stone-600">北陸新幹線黒部宇奈月温泉駅から富山地鉄乗り換え25分。 宇奈月温泉駅から歩10分／北陸道 黒部ＩＣから約20分。</td>
                 <td className="p-3 text-stone-600">有り　40台　無料 （トロッコ観光中もお預かりいたします）</td>
                 <td className="p-3 font-bold text-amber-600">★4.55（1226件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,600〜</td>
@@ -731,7 +731,7 @@ export default function FurusatoTaxPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 宇奈月温泉　延楽</td>
                 <td className="p-3 text-stone-600">富山県黒部市宇奈月温泉347-1</td>
-                <td className="p-3 text-stone-600">宇奈月温泉駅周辺</td>
+                <td className="p-3 text-stone-600">富山地方鉄道「宇奈月温泉駅」より徒歩3分 / 北陸自動車道 黒部ICより約２０分</td>
                 <td className="p-3 text-stone-600">有り・4０台・無料・先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.58（558件）</td>
                 <td className="p-3 font-bold text-rose-600">¥31,900〜</td>
@@ -740,7 +740,7 @@ export default function FurusatoTaxPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 黒部・宇奈月温泉　やまのは（オリックスホテルズ＆リゾーツ）</td>
                 <td className="p-3 text-stone-600">富山県黒部市宇奈月温泉352番地7</td>
-                <td className="p-3 text-stone-600">宇奈月温泉駅周辺</td>
+                <td className="p-3 text-stone-600">富山地方鉄道「宇奈月温泉駅」下車徒歩３分 無料送迎バス有※要確認／北陸自動車道黒部IC下車約２０分</td>
                 <td className="p-3 text-stone-600">140台の無料駐車スペースがございます。</td>
                 <td className="p-3 font-bold text-amber-600">★4.31（4215件）</td>
                 <td className="p-3 font-bold text-rose-600">¥11,300〜</td>
@@ -749,7 +749,7 @@ export default function FurusatoTaxPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 新祖谷温泉　ホテルかずら橋</td>
                 <td className="p-3 text-stone-600">徳島県三好市西祖谷山村善徳３３－１</td>
-                <td className="p-3 text-stone-600">ＪＲのお客様 大歩危駅～路線バス20分（タクシー15分）・お車のお客様</td>
+                <td className="p-3 text-stone-600">ＪＲのお客様 大歩危駅～路線バス20分（タクシー15分）・お車のお客様 徳島自動車道井川池田ＩＣより大歩危経由で５０分</td>
                 <td className="p-3 text-stone-600">有り　３０台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.71（987件）</td>
                 <td className="p-3 font-bold text-rose-600">¥19,250〜</td>
@@ -758,7 +758,7 @@ export default function FurusatoTaxPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 白布温泉　中屋別館　不動閣</td>
                 <td className="p-3 text-stone-600">山形県米沢市白布温泉大字関1514</td>
-                <td className="p-3 text-stone-600">米沢駅周辺</td>
+                <td className="p-3 text-stone-600">JR米沢駅から路線バス（山交バス白布温泉行き）約50分。東北中央自動車道～米沢八幡原IC～国道13号～県道2号線約30分</td>
                 <td className="p-3 text-stone-600">有り　50台（宿泊者無料/先着順）</td>
                 <td className="p-3 font-bold text-amber-600">★4.37（315件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,470〜</td>
@@ -767,7 +767,7 @@ export default function FurusatoTaxPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">6. 須川高原温泉</td>
                 <td className="p-3 text-stone-600">岩手県一関市厳美町祭畤山国有林46林班ト</td>
-                <td className="p-3 text-stone-600">一ノ関駅周辺</td>
+                <td className="p-3 text-stone-600">一ノ関駅よりお車にて約９０分</td>
                 <td className="p-3 text-stone-600">有り　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.3（82件）</td>
                 <td className="p-3 font-bold text-rose-600">¥10,450〜</td>
@@ -796,7 +796,7 @@ export default function FurusatoTaxPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　40台　無料 （トロッコ観光中もお預かりいたします）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「昭和の雰囲気と鉄道部屋に子供が大喜び設備は所々歴史が感じられましたが、とても雰囲気が良く、所々で古き良き昭和を感じました。お部屋からトロッコ電車も観られました。プラレールと鉄道模型の鉄道部屋が…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「昭和の雰囲気と鉄道部屋に子供が大喜び設備は所々歴史が感じられましたが、とても雰囲気が良く、所々で古き良き昭和を感じました。お部屋からトロッコ電車も観られました。」
                   </blockquote>
                 </div>
               </div>
@@ -840,7 +840,7 @@ export default function FurusatoTaxPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>140台の無料駐車スペースがございます。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「景色とバイキングを満喫、日本酒の演出も最高電車からホテルが見えましたおかげで迷わずホテルへ行けましたロビーからの景色も良くフリードリンクでゆっくり過ごせましたマッサージチェアもありました…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「景色とバイキングを満喫、日本酒の演出も最高電車からホテルが見えましたおかげで迷わずホテルへ行けましたロビーからの景色も良くフリードリンクでゆっくり過ごせましたマッサージチェアもありました。」
                   </blockquote>
                 </div>
               </div>
@@ -862,7 +862,7 @@ export default function FurusatoTaxPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　３０台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「心配りが行き届き、かずら橋ツアーも最高スタッフの方、お料理、温泉等、みんな心配りが行き届いており、とても良かったです。両親もすごく満足してくれました。また、夜のかずら橋ツアーは、ホテルのボンネット…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「心配りが行き届き、かずら橋ツアーも最高スタッフの方、お料理、温泉等、みんな心配りが行き届いており、とても良かったです。両親もすごく満足してくれました。」
                   </blockquote>
                 </div>
               </div>
@@ -884,7 +884,7 @@ export default function FurusatoTaxPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　50台（宿泊者無料/先着順）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「渓谷の涼風と絶品黒毛和牛、最高の温泉体験宿の立地・環境は避暑には最適で、盛夏の15時でも建物の中は気温22度しかなく、渓谷から涼しい風が入ってきて別天地のようでした。建物は古くて年季が入ってま…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「渓谷の涼風と絶品黒毛和牛、最高の温泉体験宿の立地・環境は避暑には最適で、盛夏の15時でも建物の中は気温22度しかなく、渓谷から涼しい風が入ってきて別天地のようでした。」
                   </blockquote>
                 </div>
               </div>
@@ -906,7 +906,7 @@ export default function FurusatoTaxPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「天候は残念でしたが、温泉が最高でした評判の高いこちらの温泉を楽しみたくこちらのお宿にお世話になりました。宿泊当日の天候は2日間とも悪く霧と強風に雨と散々でした。お宿は年季の入った建物でしたが山の上…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「天候は残念でしたが、温泉が最高でした評判の高いこちらの温泉を楽しみたくこちらのお宿にお世話になりました。宿泊当日の天候は2日間とも悪く霧と強風に雨と散々でした。」
                   </blockquote>
                 </div>
               </div>

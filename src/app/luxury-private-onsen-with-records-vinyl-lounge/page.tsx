@@ -60,7 +60,7 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/179071/179071map.gif",
     "reviewCount": 1118,
     "reviewAverage": 3.86,
-    "userReview": "中禅寺湖を望む最高の立地と美味しい食事中禅寺湖が目の前でロケーションは最高です。華厳の滝まで歩きましたが、バス停も近くにあり、利用できます。食事も美味しく、また利用したいと思います。クチコミの。",
+    "userReview": "中禅寺湖を望む最高の立地と美味しい食事中禅寺湖が目の前でロケーションは最高です。華厳の滝まで歩きましたが、バス停も近くにあり、利用できます。食事も美味しく、また利用したいと思います。",
     "hotelMinCharge": 3520,
     "address1": "栃木県",
     "address2": "日光市中宮祠2484",
@@ -564,8 +564,8 @@ export default function FeatureDetailPage() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 作並駅よりアクセス。JR仙山線 作並駅（駅からの無料送迎あり）／東北自動車道 仙台宮城ICより３０分。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「作並温泉 湯の原ホテル」にチェックイン。食事クチコミ４．７５と高評価／源泉貸切風呂と「朝夕個室の美食宿」などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「作並温泉 湯の原ホテル」の湯処へ。食事クチコミ４．７５と高評価／源泉貸切風呂と「朝夕個室の美食宿」とともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「作並温泉 湯の原ホテル」にチェックイン。食事クチコミ４．７５と高評価／源泉貸切風呂と「朝夕個室の美食宿」が魅力の一軒。客室で荷物をほどいて穏やかな午後のひとときを。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「作並温泉 湯の原ホテル」の自慢の湯処へ。温かな湯気と落ち着いた雰囲気に癒やされながら、夕食前の贅沢なひとときを過ごす。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「作並温泉 湯の原ホテル」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -705,7 +705,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 作並温泉　湯の原ホテル</td>
                 <td className="p-3 text-stone-600">宮城県仙台市青葉区作並元木1</td>
-                <td className="p-3 text-stone-600">作並駅周辺</td>
+                <td className="p-3 text-stone-600">JR仙山線 作並駅（駅からの無料送迎あり）／東北自動車道 仙台宮城ICより３０分</td>
                 <td className="p-3 text-stone-600">有　６０台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.41（759件）</td>
                 <td className="p-3 font-bold text-rose-600">¥13,200〜</td>
@@ -714,7 +714,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. ゆとりろ日光</td>
                 <td className="p-3 text-stone-600">栃木県日光市中宮祠2484</td>
-                <td className="p-3 text-stone-600">東武日光駅周辺</td>
+                <td className="p-3 text-stone-600">東武日光駅よりお車にて約４５分／東武バスにて約４５分『中禅寺郵便局』下車後徒歩３分</td>
                 <td className="p-3 text-stone-600">無料駐車場有り　２０台　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★3.97（1163件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,720〜</td>
@@ -723,7 +723,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. しあわせひょうたんの宿　旅館水郷</td>
                 <td className="p-3 text-stone-600">鳥取県東伯郡湯梨浜町はわい温泉6-1</td>
-                <td className="p-3 text-stone-600">倉吉駅周辺</td>
+                <td className="p-3 text-stone-600">山陰本線倉吉駅より車で１０分。</td>
                 <td className="p-3 text-stone-600">駐車場無料。バイク歓迎、屋根付き部分あり。大型車可。自転車館内保管。</td>
                 <td className="p-3 font-bold text-amber-600">★3.5（147件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,000〜</td>
@@ -732,7 +732,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 泊まれる文化交流施設　盆宿Ｕ</td>
                 <td className="p-3 text-stone-600">秋田県雄勝郡羽後町西馬音内本町47</td>
-                <td className="p-3 text-stone-600">湯沢駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ湯沢駅／湯沢ＩＣより車で約１５分、ＪＲ大曲駅より車で約５０分、秋田空港より車で約１時間１０分</td>
                 <td className="p-3 text-stone-600">有り　１２台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★3.8（10件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,490〜</td>
@@ -741,7 +741,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 坂元家</td>
                 <td className="p-3 text-stone-600">京都府宮津市江尻70-3</td>
-                <td className="p-3 text-stone-600">天橋立駅周辺</td>
+                <td className="p-3 text-stone-600">京都丹後鉄道天橋立駅よりバスで20分下車徒歩1分。京都縦貫自動車道宮津天橋立出口より20分。</td>
                 <td className="p-3 text-stone-600">有り　１０台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★3.5（57件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,552〜</td>
@@ -770,7 +770,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有　６０台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.42 ／ 立地 ★4.16 ／ 部屋 ★4.26 ／ 設備 ★4.3 ／ 風呂 ★4.38 ／ 食事 ★4.56</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「家族全員で笑顔の接客と温泉を満喫!家族5人で利用しました。スタッフの皆さんも笑顔で対応していただき気持ちよく過ごせました。ご飯も美味しかった。温泉も肌あたりが良く、また宿泊したいと思います。…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「家族全員で笑顔の接客と温泉を満喫!家族5人で利用しました。スタッフの皆さんも笑顔で対応していただき気持ちよく過ごせました。ご飯も美味しかった。温泉も肌あたりが良く、また宿泊したいと思います。」
                   </blockquote>
                 </div>
               </div>
@@ -792,7 +792,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料駐車場有り　２０台　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.93 ／ 立地 ★4.3 ／ 部屋 ★4.05 ／ 設備 ★3.86 ／ 風呂 ★4.01 ／ 食事 ★4.08</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋も綺麗で食事と飲み放題を満喫!部屋も綺麗!お風呂も良かった。食事もコースでゆっくり食べられました。飲み放題なのでかなり飲んでしまいました。スタッフも丁寧て、楽しい夕食をいただきました。…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋も綺麗で食事と飲み放題を満喫!部屋も綺麗!お風呂も良かった。食事もコースでゆっくり食べられました。飲み放題なのでかなり飲んでしまいました。スタッフも丁寧て、楽しい夕食をいただきました。」
                   </blockquote>
                 </div>
               </div>

@@ -340,8 +340,8 @@ export default function ArticlePage() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 加賀温泉駅よりアクセス。立地NO.1 ＪＲ加賀温泉駅より（無料送迎・要連絡）、片山津ＩＣより車５分、小松空港より車１５分、金沢市内より車４５分。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「片山津温泉 湖畔の宿 森本」にチェックイン。白山を望む静かな湖畔の宿でのんびりゆっくり美食旅をなどの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「片山津温泉 湖畔の宿 森本」の湯処へ。白山を望む静かな湖畔の宿でのんびりゆっくり美食旅をとともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「片山津温泉 湖畔の宿 森本」にチェックイン。白山を望む静かな湖畔の宿でのんびりゆっくり美食旅をが魅力の一軒。客室で荷物をほどいて穏やかな午後のひとときを。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「片山津温泉 湖畔の宿 森本」の自慢の湯処へ。温かな湯気と落ち着いた雰囲気に癒やされながら、夕食前の贅沢なひとときを過ごす。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「片山津温泉 湖畔の宿 森本」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -353,7 +353,7 @@ export default function ArticlePage() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「片山津温泉 湖畔の宿 森本」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「片山津温泉 湖畔の宿 森本」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「加賀片山津温泉 佳水郷」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は宿周辺の散策とショッピングを満喫。地元の名産品やグルメを味わってから余裕をもって帰路につく。</li>
               </ul>
             </div>
           </div>
@@ -390,28 +390,28 @@ export default function ArticlePage() {
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
             <div className="flex flex-wrap gap-2">
               <Link
-                href="/prefectures/oita/"
+                href="/prefectures/ishikawa/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                大分県の宿・温泉
+                石川県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/okayama/"
+                href="/prefectures/nagano/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                岡山県の宿・温泉
+                長野県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/yamaguchi/"
+                href="/prefectures/yamanashi/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                山口県の宿・温泉
+                山梨県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/fukuoka/"
+                href="/prefectures/niigata/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                福岡県の宿・温泉
+                新潟県の宿・温泉
               </Link>
             </div>
           </div>
@@ -447,7 +447,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 加賀片山津温泉　佳水郷（アパホテルズ＆リゾーツ）</td>
                 <td className="p-3 text-stone-600">石川県加賀市潮津町イ72-1</td>
-                <td className="p-3 text-stone-600">加賀温泉駅周辺</td>
+                <td className="p-3 text-stone-600">【電車】JR加賀温泉駅から車で10分（無料送迎有、要予約）【車】片山津ICから5分【飛行機】小松空港から車で20分</td>
                 <td className="p-3 text-stone-600">250台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.43（1604件）</td>
                 <td className="p-3 font-bold text-rose-600">¥11,250〜</td>
@@ -456,7 +456,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 片山津温泉　源泉元湯の宿　かのや光楽苑</td>
                 <td className="p-3 text-stone-600">石川県加賀市片山津温泉乙64-1</td>
-                <td className="p-3 text-stone-600">加賀温泉駅周辺</td>
+                <td className="p-3 text-stone-600">JR加賀温泉駅より車で10分（無料送迎有／定時運行／要事前予約）、北陸自動車道片山津ＩＣより10分</td>
                 <td className="p-3 text-stone-600">有り　６０台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.14（746件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,800〜</td>
@@ -465,7 +465,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. ＡＮＡクラウンプラザホテル金沢　ｂｙ　ＩＨＧ</td>
                 <td className="p-3 text-stone-600">石川県金沢市昭和町16-3 JR金沢駅前</td>
-                <td className="p-3 text-stone-600">金沢駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ「金沢駅」東口より徒歩1分。もてなしドームから雨に濡れずにホテル到着。小松空港から車で４０分。コンビニ徒歩１分。</td>
                 <td className="p-3 text-stone-600">有（45台）　料金1500円(1泊15:00～翌11:00)</td>
                 <td className="p-3 font-bold text-amber-600">★4.32（3259件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,392〜</td>
@@ -474,7 +474,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. ガーデンホテル金沢</td>
                 <td className="p-3 text-stone-600">石川県金沢市本町2-16-16</td>
-                <td className="p-3 text-stone-600">金沢駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ金沢駅東口ガラスドーム正面－駅舎より横断歩道を１つ渡るだけ 徒歩1分です。金沢が初めての方でも迷わずご来館頂けます。</td>
                 <td className="p-3 text-stone-600">平地駐車場（7台）がホテル裏手にございます。1泊1,000円で先着順でございます。</td>
                 <td className="p-3 font-bold text-amber-600">★4.06（2145件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,000〜</td>
@@ -483,7 +483,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. アパホテル〈金沢駅前〉</td>
                 <td className="p-3 text-stone-600">石川県金沢市広岡1-9-28</td>
-                <td className="p-3 text-stone-600">金沢駅周辺</td>
+                <td className="p-3 text-stone-600">「金沢駅」西口を出て左手すぐ（徒歩1分）小松空港から金沢駅直通バスで40分 東京駅⇔金沢駅間 北陸新幹線にて2時間30分</td>
                 <td className="p-3 text-stone-600">78台 1泊/1,300円【車高1.9ｍ　先着順・予約不可】提携P：立体1,500台 1泊/800円</td>
                 <td className="p-3 font-bold text-amber-600">★4.08（8583件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,940〜</td>
@@ -534,7 +534,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　６０台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.13 ／ 立地 ★4.13 ／ 部屋 ★4.11 ／ 設備 ★3.94 ／ 風呂 ★4.16 ／ 食事 ★4.34</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事と温泉に大満足、また利用したい食事は色々な料理も大変美味しくいただきました温泉も大満足でした露天風呂の眺望が有ればもっと良いかな機会が有ればまた利用したいですクチコミの詳細はこ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事と温泉に大満足、また利用したい食事は色々な料理も大変美味しくいただきました温泉も大満足でした露天風呂の眺望が有ればもっと良いかな機会が有ればまた利用したいです」
                   </blockquote>
                 </div>
               </div>
@@ -556,7 +556,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有（45台）　料金1500円(1泊15:00～翌11:00)</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「清潔感のある部屋とライブキッチンの朝食歴史があるホテルですが、お部屋も清潔感があり快適に過ごせました。朝食もライブキッチンがあり、できたてのオムレツが食べれたり内容も充分でした。駅近でとても便…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「清潔感のある部屋とライブキッチンの朝食歴史があるホテルですが、お部屋も清潔感があり快適に過ごせました。朝食もライブキッチンがあり、できたてのオムレツが食べれたり内容も充分でした。」
                   </blockquote>
                 </div>
               </div>
@@ -578,7 +578,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>平地駐車場（7台）がホテル裏手にございます。1泊1,000円で先着順でございます。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食付きで格安、駅前でチェックアウトも遅め朝食もついて、めっちゃお安く泊まれました。駅前で場所も分かりやすく、チェックアウトが11時なのも良かったです。金沢に行く際は、泊まりたいホテルです…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食付きで格安、駅前でチェックアウトも遅め朝食もついて、めっちゃお安く泊まれました。駅前で場所も分かりやすく、チェックアウトが11時なのも良かったです。」
                   </blockquote>
                 </div>
               </div>

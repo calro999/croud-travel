@@ -253,7 +253,7 @@ export default function TargetAudienceHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 全室源泉かけ流し温泉付き旅館＆グランピング　美肌の湯　こしかの温泉</td>
                 <td className="p-3 text-stone-600">鹿児島県霧島市隼人町松永2625</td>
-                <td className="p-3 text-stone-600">日当山駅周辺</td>
+                <td className="p-3 text-stone-600">鹿児島空港より車で約15分【19時までなら鹿児島空港・国分駅まで無料送迎（要予約）】</td>
                 <td className="p-3 text-stone-600">有り（無料）</td>
                 <td className="p-3 font-bold text-amber-600">★4.58（525件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,620〜</td>
@@ -262,7 +262,7 @@ export default function TargetAudienceHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 土湯温泉　はるみや旅館</td>
                 <td className="p-3 text-stone-600">福島県福島市土湯温泉町杉ノ下72</td>
-                <td className="p-3 text-stone-600">福島（福島）駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ福島駅より福島交通バスにて４５分／東北自動車道 福島西ＩＣよりお車で１５分｜有料EV充電器２台</td>
                 <td className="p-3 text-stone-600">有り　無料　（有料EV充電器を２台設置。EV車でも安心してお越しください。）</td>
                 <td className="p-3 font-bold text-amber-600">★4.72（417件）</td>
                 <td className="p-3 font-bold text-rose-600">¥19,250〜</td>
@@ -271,7 +271,7 @@ export default function TargetAudienceHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 熱海温泉　古屋旅館</td>
                 <td className="p-3 text-stone-600">静岡県熱海市東海岸町5-24</td>
-                <td className="p-3 text-stone-600">熱海駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ熱海駅からタクシーで５分。徒歩１３分。熱海サンビーチまでは徒歩３分♪</td>
                 <td className="p-3 text-stone-600">有り　３５台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.86（573件）</td>
                 <td className="p-3 font-bold text-rose-600">¥39,930〜</td>
@@ -280,7 +280,7 @@ export default function TargetAudienceHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 白浜温泉　家族とすごす白浜の宿　柳屋</td>
                 <td className="p-3 text-stone-600">和歌山県西牟婁郡白浜町1870</td>
-                <td className="p-3 text-stone-600">白浜駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ白浜駅：車で約１１分／南紀白浜空港：車で約７分／南紀白浜ＩＣ：車で約１5分／アドベンチャーワールド：車で約１０分</td>
                 <td className="p-3 text-stone-600">有り　40台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.52（1292件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,050〜</td>
@@ -289,7 +289,7 @@ export default function TargetAudienceHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. オーベルジュ　箱根フォンテーヌブロー仙石亭</td>
                 <td className="p-3 text-stone-600">神奈川県足柄下郡箱根町仙石原1245-703</td>
-                <td className="p-3 text-stone-600">箱根湯本駅周辺</td>
+                <td className="p-3 text-stone-600">箱根仙石原。お車で：東名御殿場ＩＣより車で３０分。ＪＲで：小田原駅下車湖尻桃源台行バス「箱根カントリー入口」下車</td>
                 <td className="p-3 text-stone-600">有り　１２台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.85（675件）</td>
                 <td className="p-3 font-bold text-rose-600">¥19,800〜</td>
@@ -298,7 +298,7 @@ export default function TargetAudienceHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">6. いこいの村ヘリテイジ美の山</td>
                 <td className="p-3 text-stone-600">埼玉県秩父郡皆野町皆野3415</td>
-                <td className="p-3 text-stone-600">皆野駅周辺</td>
+                <td className="p-3 text-stone-600">関越花園IC約30分。皆野駅より15:00無料送迎（要予約）。西武秩父駅は10名以上で対応。</td>
                 <td className="p-3 text-stone-600">有り　１００台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.2（320件）</td>
                 <td className="p-3 font-bold text-rose-600">¥10,890〜</td>
@@ -349,7 +349,7 @@ export default function TargetAudienceHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　無料　（有料EV充電器を２台設置。EV車でも安心してお越しください。）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「慌ただしくのんびりできず、価格に見合わない内容宿までの道路がとても狭くて、こんな所に宿があるのかと思った。部屋食で、大浴場が全て貸し切りで、鍵が開いていたら自由に入れるという宿で、四カ所貸切風呂が…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「慌ただしくのんびりできず、価格に見合わない内容宿までの道路がとても狭くて、こんな所に宿があるのかと思った。」
                   </blockquote>
                 </div>
               </div>
@@ -371,7 +371,7 @@ export default function TargetAudienceHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　３５台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.91 ／ 立地 ★4.49 ／ 部屋 ★4.88 ／ 設備 ★4.81 ／ 風呂 ★4.85 ／ 食事 ★4.89</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「清潔で料理も美味しく、おもてなしに感動歴史ある旅館なのに、掃除が行き届いてとても清潔でした。夕・朝食とも大変おいしく大満足でした。量はもう少し少な目でも十分かもしれません。おもてなしの心が、細やか…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「清潔で料理も美味しく、おもてなしに感動歴史ある旅館なのに、掃除が行き届いてとても清潔でした。夕・朝食とも大変おいしく大満足でした。量はもう少し少な目でも十分かもしれません。」
                   </blockquote>
                 </div>
               </div>
@@ -393,7 +393,7 @@ export default function TargetAudienceHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　40台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「鮑の蒸し料理と丁寧な接客に大満足家族旅行で利用させていただきました。朝食・夕食ともにどれも美味しく、特に鮑の蒸し料理は最高でした。お部屋食だったため、周りを気にせず家族でゆっくり味わうことがで…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「鮑の蒸し料理と丁寧な接客に大満足家族旅行で利用させていただきました。朝食・夕食ともにどれも美味しく、特に鮑の蒸し料理は最高でした。」
                   </blockquote>
                 </div>
               </div>
@@ -415,7 +415,7 @@ export default function TargetAudienceHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１２台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「本格フレンチと半露天風呂で最高の箱根旅本格フレンチがいただけるホテルというよりもレストランです。もちろんお部屋も半露天の温泉が備わっており、設備、広さ、美しさともに申し分ありません。料理は…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「本格フレンチと半露天風呂で最高の箱根旅本格フレンチがいただけるホテルというよりもレストランです。もちろんお部屋も半露天の温泉が備わっており、設備、広さ、美しさともに申し分ありません。」
                   </blockquote>
                 </div>
               </div>
@@ -437,7 +437,7 @@ export default function TargetAudienceHubPage() {
                   <p>【大人のひとり温泉旅：お部屋食・客室露天風呂＆レイトア】 <strong>【駐車場・マイカー利用】</strong>有り　１００台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事は最高だが接客に大きな不満ありお食事は文句なしですお部屋の掃除も入浴施設もまあまあの及第点かな。接客についてはマイナス50点ぐらい?お客様をもてなすという宿泊施設の原点というか基本がな…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事は最高だが接客に大きな不満ありお食事は文句なしですお部屋の掃除も入浴施設もまあまあの及第点かな。」
                   </blockquote>
                 </div>
               </div>

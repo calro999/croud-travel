@@ -310,7 +310,7 @@ export default function AutumnBudgetHachinoheHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. ホテルリブマックス本八戸駅前</td>
                 <td className="p-3 text-stone-600">青森県八戸市城下1丁目8-9</td>
-                <td className="p-3 text-stone-600">本八戸駅周辺</td>
+                <td className="p-3 text-stone-600">JR八戸線「本八戸駅」北口徒歩1分</td>
                 <td className="p-3 text-stone-600">提携の駐車場はございません。 ホテル近隣のコインパーキングをご利用ください。</td>
                 <td className="p-3 font-bold text-amber-600">★4.04（116件）</td>
                 <td className="p-3 font-bold text-rose-600">¥2,550〜</td>
@@ -319,7 +319,7 @@ export default function AutumnBudgetHachinoheHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 八戸グランドホテル</td>
                 <td className="p-3 text-stone-600">青森県八戸市番町14</td>
-                <td className="p-3 text-stone-600">八戸駅周辺</td>
+                <td className="p-3 text-stone-600">東北新幹線八戸駅より車で約15分／JR八戸線本八戸駅より徒歩12分／三沢空港より車で約40分/八戸ＩＣより１５分</td>
                 <td className="p-3 text-stone-600">有り　80台　(先着順)　1台１泊￥５００ 円（税込み／泊）到着順で予約はできません。</td>
                 <td className="p-3 font-bold text-amber-600">★4.15（1363件）</td>
                 <td className="p-3 font-bold text-rose-600">¥2,720〜</td>
@@ -328,7 +328,7 @@ export default function AutumnBudgetHachinoheHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. ホテルイマルカ八戸</td>
                 <td className="p-3 text-stone-600">青森県八戸市馬場町14</td>
-                <td className="p-3 text-stone-600">本八戸駅周辺</td>
+                <td className="p-3 text-stone-600">本八戸駅より徒歩にて１０分</td>
                 <td className="p-3 text-stone-600">有り　２７台　１台５００円（税込み／泊）</td>
                 <td className="p-3 font-bold text-amber-600">★4.16（798件）</td>
                 <td className="p-3 font-bold text-rose-600">¥2,950〜</td>
@@ -337,7 +337,7 @@ export default function AutumnBudgetHachinoheHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. スーパーホテル八戸長横町</td>
                 <td className="p-3 text-stone-600">青森県八戸市長横町12-2</td>
-                <td className="p-3 text-stone-600">本八戸駅周辺</td>
+                <td className="p-3 text-stone-600">☆※注：八戸中心街は八戸駅前では御座いません⇒八戸駅より車で約２０分☆八戸中心街目前の好立地☆本八戸駅〜徒歩１５分☆</td>
                 <td className="p-3 text-stone-600">有／ホテル隣接⇒1泊６００円（12時〜翌12時）／バス・トラック徒歩３分（要予約）</td>
                 <td className="p-3 font-bold text-amber-600">★4.13（2075件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,000〜</td>
@@ -346,7 +346,7 @@ export default function AutumnBudgetHachinoheHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. アパホテル〈八戸中央〉</td>
                 <td className="p-3 text-stone-600">青森県八戸市廿六日町8</td>
-                <td className="p-3 text-stone-600">本八戸駅周辺</td>
+                <td className="p-3 text-stone-600">【八戸IC：車で約13分、周辺駐車場多数あり】八戸駅：車で約18分、二十三日町バス停：徒歩約3分、みろく横丁まで徒歩5分</td>
                 <td className="p-3 text-stone-600">八青パーキング※隣接、夜1時〜朝7時入出庫不可　・徒歩圏内に24時間入出庫可能な駐車場有り</td>
                 <td className="p-3 font-bold text-amber-600">★4.45（646件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,100〜</td>
@@ -375,7 +375,7 @@ export default function AutumnBudgetHachinoheHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>提携の駐車場はございません。 ホテル近隣のコインパーキングをご利用ください。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4 ／ 立地 ★3.94 ／ 部屋 ★3.96 ／ 設備 ★4.04 ／ 風呂 ★4.16</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「コスパ重視の旅に最適、大浴場とサウナが快適急遽思い立った旅行で利用しました。この系列はどこも壁が薄く、慣れない人には不満があるかもですが、知っていて泊まる分にはコスパ良く、利用しやすい宿だと思いま…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「コスパ重視の旅に最適、大浴場とサウナが快適急遽思い立った旅行で利用しました。」
                   </blockquote>
                 </div>
               </div>
@@ -397,7 +397,7 @@ export default function AutumnBudgetHachinoheHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　80台　(先着順)　1台１泊￥５００ 円（税込み／泊）到着順で予約はできません。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.21 ／ 立地 ★4.11 ／ 部屋 ★4.1 ／ 設備 ★3.96 ／ 風呂 ★3.92 ／ 食事 ★4.44</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋は綺麗で広かったが工事の音が残念素泊まりで利用させてもらいました!部屋は綺麗で広くよかったのですが風呂場の鍵の調子が悪かったのと朝九時位から会話ができないくらいの工事の音(外壁工事?)がし…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋は綺麗で広かったが工事の音が残念素泊まりで利用させてもらいました!」
                   </blockquote>
                 </div>
               </div>

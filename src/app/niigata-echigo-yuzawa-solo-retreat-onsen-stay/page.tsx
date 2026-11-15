@@ -337,8 +337,8 @@ export default function ArticlePage() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 越後湯沢駅よりアクセス。ＪＲ上越新幹線越後湯沢駅から車で3分（送迎バスあり／定時運行）、関越自動車道湯沢Ｉ．Ｃより５分。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「越後湯沢温泉 ＮＡＳＰＡニューオータニ」にチェックイン。窓からは雄大な自然が広がる客室。 滋味溢れる地元食材を楽しみ、天然温泉で疲れを癒してください。などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「越後湯沢温泉 ＮＡＳＰＡニューオータニ」の湯処へ。窓からは雄大な自然が広がる客室。 滋味溢れる地元食材を楽しみ、天然温泉とともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「越後湯沢温泉 ＮＡＳＰＡニューオータニ」にチェックイン。窓からは雄大な自然が広がる客室。 滋味溢れる地元食材を楽しみ、天然温泉で疲れを癒してください。 窓外に広がる景色を眺めながらチェックイン後の寛ぎ時間を。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「越後湯沢温泉 ＮＡＳＰＡニューオータニ」の自慢の湯処へ。温かな湯気と落ち着いた雰囲気に癒やされながら、夕食前の贅沢なひとときを過ごす。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「越後湯沢温泉 ＮＡＳＰＡニューオータニ」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -350,7 +350,7 @@ export default function ArticlePage() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「越後湯沢温泉 ＮＡＳＰＡニューオータニ」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「越後湯沢温泉 ＮＡＳＰＡニューオータニ」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「越後湯沢温泉 音羽屋旅館」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は宿周辺の散策とショッピングを満喫。地元の名産品やグルメを味わってから余裕をもって帰路につく。</li>
               </ul>
             </div>
           </div>
@@ -366,49 +366,49 @@ export default function ArticlePage() {
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">あわせて読みたい人気特集＆全国エリアガイド</h2>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
-            <a href="/tokyo-nagano-karuizawa-bus-vs-shinkansen/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/furusato-tax-tsukioka-onsen-emerald-bihada-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">東京から長野・軽井沢 安く行く方法：新幹線 vs 高速バス徹底比較！片道1,500円〜の1泊2日モデルコース</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">月岡温泉をふるさと納税でお得に旅する！国内随一のエメラルドグリーン硫黄泉＆極上越後会席！名門宿特集｜白玉の湯華鳳・白玉の湯泉慶・風鈴屋</span>
             </a>
-            <a href="/tokyo-shirahama-kumano-bus-vs-train-guide/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/niigata-echigo-yuzawa-solo-retreat-snow-country-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">東京・大阪〜南紀白浜・熊野古道：夜行バス vs 特急くろしお徹底比較！白良浜ビーチ＆世界遺産熊野古道1泊2日モデルコース</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「新潟・越後湯沢温泉ひとり旅・川端康成『雪国』の文学湯治おこもり」新幹線直結・谷川連峰一望の露天風呂・魚沼産コシヒカリ会席！白銀の温泉郷厳選3宿</span>
             </a>
-            <a href="/winter-chiba-tokyo-disney-resort-maihama-christmas-hotel-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/niigata-tsukioka-solo-retreat-emerald-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12・1月舞浜】東京ディズニーリゾート冬のクリスマス＆年末年始！直営・オフィシャルホテルで叶える夢の冬旅名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「新潟・月岡温泉ひとり旅・エメラルドグリーンの美肌湯おこもり」硫黄含有量全国屈指・自家源泉庭園露天・越後贅沢会席！名湯美肌ステイ厳選3宿</span>
             </a>
-            <a href="/winter-tokyo-roppongi-hills-azabudai-keyakizaka-illumination-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/traditional-sado-gold-mine-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12・1月東京】六本木けやき坂イルミネーション＆麻布台ヒルズ！東京タワー冬夜景と美食に酔いしれるラグジュアリーホテル5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「佐渡金山世界遺産登録記念（極上日本海海の幸と絶景夕日温泉宿5選）」佐渡金山世界遺産登録記念！極上日本海海の幸と絶景夕日温泉宿5選</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
             <div className="flex flex-wrap gap-2">
               <Link
-                href="/prefectures/tokyo/"
+                href="/prefectures/niigata/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                東京都の宿・温泉
+                新潟県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/miyazaki/"
+                href="/prefectures/nagano/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                宮崎県の宿・温泉
+                長野県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/kumamoto/"
+                href="/prefectures/yamanashi/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                熊本県の宿・温泉
+                山梨県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/okinawa/"
+                href="/prefectures/ishikawa/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                沖縄県の宿・温泉
+                石川県の宿・温泉
               </Link>
             </div>
           </div>
@@ -444,7 +444,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 越後湯沢温泉　ＮＡＳＰＡニューオータニ</td>
                 <td className="p-3 text-stone-600">新潟県南魚沼郡湯沢町湯沢2117-9</td>
-                <td className="p-3 text-stone-600">ＪＲ上越新幹線越後湯沢駅から車で3分（送迎バスあり／定時運行）、関越自</td>
+                <td className="p-3 text-stone-600">ＪＲ上越新幹線越後湯沢駅から車で3分（送迎バスあり／定時運行）、関越自動車道湯沢Ｉ．Ｃより５分</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.43（2152件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,800〜</td>
@@ -453,7 +453,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 越後湯沢温泉　和みのお宿　滝乃湯</td>
                 <td className="p-3 text-stone-600">新潟県南魚沼郡湯沢町大字湯沢345-1</td>
-                <td className="p-3 text-stone-600">越後湯沢駅周辺</td>
+                <td className="p-3 text-stone-600">越後湯沢駅西口から徒歩で７分 駅から随時無料送迎 約３分 025-784-3421 お電話くださいませ。湯沢ICから8分</td>
                 <td className="p-3 text-stone-600">有り　２５台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.21（269件）</td>
                 <td className="p-3 font-bold text-rose-600">¥15,500〜</td>
@@ -462,7 +462,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 越後湯沢温泉　音羽屋旅館</td>
                 <td className="p-3 text-stone-600">新潟県南魚沼郡湯沢町湯沢419</td>
-                <td className="p-3 text-stone-600">越後湯沢駅周辺</td>
+                <td className="p-3 text-stone-600">JR上越新幹線、越後湯沢駅西口より徒歩７分。関越自動車道、越後湯沢ＩＣより、越後湯沢駅方面に向かって約6分。駐車場完備。</td>
                 <td className="p-3 text-stone-600">有り　15台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.1（702件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,500〜</td>
@@ -513,7 +513,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２５台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.2 ／ 立地 ★4.16 ／ 部屋 ★4.17 ／ 設備 ★3.98 ／ 風呂 ★4.27 ／ 食事 ★4.32</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事も美味しくシャワーの水圧も快適10月6日から3泊しました。越後湯沢駅からは多少離れていますが、毎回マイクロバスで送迎してくれます。越後湯沢駅までは、気候が良ければ歩いて行かれる距離です。…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事も美味しくシャワーの水圧も快適10月6日から3泊しました。越後湯沢駅からは多少離れていますが、毎回マイクロバスで送迎してくれます。越後湯沢駅までは、気候が良ければ歩いて行かれる距離です。」
                   </blockquote>
                 </div>
               </div>
@@ -535,7 +535,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　15台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.96 ／ 立地 ★4.02 ／ 部屋 ★4.09 ／ 設備 ★3.94 ／ 風呂 ★4.21 ／ 食事 ★4.14</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「源泉掛け流しの温泉と地酒三昧に大満足新潟県『清津峡湯元温泉 清津館』宿泊(2026.8)清津峡は黒部峡谷・大杉と共に日本三大峡谷のひとつで名勝清津峡に一番近い清津峡温泉清津館!不便さと…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「源泉掛け流しの温泉と地酒三昧に大満足新潟県『清津峡湯元温泉 清津館』宿泊(2026.8)清津峡は黒部峡谷・大杉と共に日本三大峡谷のひとつで名勝清津峡に一番近い清津峡温泉清津館!」
                   </blockquote>
                 </div>
               </div>

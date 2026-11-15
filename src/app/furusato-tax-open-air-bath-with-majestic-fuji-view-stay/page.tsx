@@ -529,7 +529,7 @@ export default function FurusatoFeaturePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 富士河口湖温泉　富士山の見える温泉旅館　大池ホテル</td>
                 <td className="p-3 text-stone-600">山梨県南都留郡富士河口湖町船津6713-103</td>
-                <td className="p-3 text-stone-600">河口湖駅周辺</td>
+                <td className="p-3 text-stone-600">駅から無料送迎有■駐車場無料■河口湖駅から車で4分■富士急から車で7分河口湖ICから車で12分新宿駅からバスで約120分</td>
                 <td className="p-3 text-stone-600">無料駐車場50台・河口湖駅からの無料送迎有・バイク専用の駐車場無・富士急ハイランドまで車で7分</td>
                 <td className="p-3 font-bold text-amber-600">★4.36（5587件）</td>
                 <td className="p-3 font-bold text-rose-600">¥13,000〜</td>
@@ -538,7 +538,7 @@ export default function FurusatoFeaturePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 河口湖温泉　山岸旅館</td>
                 <td className="p-3 text-stone-600">山梨県南都留郡富士河口湖町船津4030-1</td>
-                <td className="p-3 text-stone-600">河口湖駅周辺</td>
+                <td className="p-3 text-stone-600">河口湖駅より徒歩7分（送迎有・駅到着時連絡）・河口湖インターチェンジより約３Ｋｍ車で７分</td>
                 <td className="p-3 text-stone-600">有　40台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★3.77（788件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,000〜</td>
@@ -547,7 +547,7 @@ export default function FurusatoFeaturePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 山梨県の温泉旅館　下部温泉郷　下部ホテル</td>
                 <td className="p-3 text-stone-600">山梨県南巨摩郡身延町上之平1900</td>
-                <td className="p-3 text-stone-600">下部温泉駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ身延線下部温泉駅徒歩１分／車：中部横断道下部温泉早川ＩＣより５分</td>
                 <td className="p-3 text-stone-600">有り　１００台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.36（1307件）</td>
                 <td className="p-3 font-bold text-rose-600">¥17,050〜</td>
@@ -556,7 +556,7 @@ export default function FurusatoFeaturePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. ホテルプリヴェ静岡</td>
                 <td className="p-3 text-stone-600">静岡県静岡市駿河区南町8-5</td>
-                <td className="p-3 text-stone-600">静岡駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ静岡駅より徒歩1分／東名静岡ＩＣより車で１０分 日本平久能山スマートICより約１２分。</td>
                 <td className="p-3 text-stone-600">20台有。1,430円（税込／泊）・先着順（予約不可）※満車の場合は、周辺パーキングご案内</td>
                 <td className="p-3 font-bold text-amber-600">★4.45（2748件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,140〜</td>
@@ -565,7 +565,7 @@ export default function FurusatoFeaturePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. ホテルルートイン清水インター</td>
                 <td className="p-3 text-stone-600">静岡県静岡市清水区八坂東1-20-20</td>
-                <td className="p-3 text-stone-600">清水（静岡）駅周辺</td>
+                <td className="p-3 text-stone-600">東名高速道路『清水インター』より車で1分／ＪＲ東海道線『清水駅』より車で10分</td>
                 <td className="p-3 text-stone-600">無料駐車場128台（敷地内104台、第2駐車場24台）</td>
                 <td className="p-3 font-bold text-amber-600">★4.22（1376件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,450〜</td>
@@ -574,7 +574,7 @@ export default function FurusatoFeaturePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">6. 強羅温泉　自家源泉掛け流しの宿　強羅環翠楼</td>
                 <td className="p-3 text-stone-600">神奈川県足柄下郡箱根町強羅1300-20</td>
-                <td className="p-3 text-stone-600">強羅駅周辺</td>
+                <td className="p-3 text-stone-600">箱根登山鉄道 強羅駅より徒歩３分</td>
                 <td className="p-3 text-stone-600">有り　２０台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.4（431件）</td>
                 <td className="p-3 font-bold text-rose-600">¥36,465〜</td>
@@ -603,7 +603,7 @@ export default function FurusatoFeaturePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料駐車場50台・河口湖駅からの無料送迎有・バイク専用の駐車場無・富士急ハイランドまで車で7分</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.5 ／ 立地 ★4.4 ／ 部屋 ★4.23 ／ 設備 ★4.29 ／ 風呂 ★4.31 ／ 食事 ★4.45</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「富士山が見えた瞬間に感動、料理も最高とても良いお部屋で最高でしたお部屋には浴衣や作務衣が全サイズ取り揃えてあり早速着替えてゆったりと過ごせましたお料理もどれも美味しく大満足でした富…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「富士山が見えた瞬間に感動、料理も最高とても良いお部屋で最高でしたお部屋には浴衣や作務衣が全サイズ取り揃えてあり早速着替えてゆったりと過ごせましたお料理もどれも美味しく大満足でした富。」
                   </blockquote>
                 </div>
               </div>
@@ -625,7 +625,7 @@ export default function FurusatoFeaturePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有　40台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「館内は清潔で食事も豪華、家族で大満足娘夫婦と孫2人と息子、6人で利用させて頂きました。老舗の旅館と言う風情ですが、とても、館内も綺麗にされていて、気持ちよく、お風呂も清潔感があり、とてもいいお…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「館内は清潔で食事も豪華、家族で大満足娘夫婦と孫2人と息子、6人で利用させて頂きました。」
                   </blockquote>
                 </div>
               </div>
@@ -647,7 +647,7 @@ export default function FurusatoFeaturePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１００台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.58 ／ 立地 ★4.31 ／ 部屋 ★4.27 ／ 設備 ★4.27 ／ 風呂 ★4.54 ／ 食事 ★4.45</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフのイベントが魅力的で大満足!8月のお盆休みで、子供達、孫達と宿泊させて頂きました。スタッフのイベントの取り組みが、いっぱいでとても魅力的で。楽しませてもらいましたも足湯も、とて…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフのイベントが魅力的で大満足!8月のお盆休みで、子供達、孫達と宿泊させて頂きました。スタッフのイベントの取り組みが、いっぱいでとても魅力的で。」
                   </blockquote>
                 </div>
               </div>
@@ -669,7 +669,7 @@ export default function FurusatoFeaturePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>20台有。1,430円（税込／泊）・先着順（予約不可）※満車の場合は、周辺パーキングご案内</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「静岡駅近で温泉も魅力、また利用したい静岡駅からすぐの好ロケーションで、温泉大浴場もあるということで今回利用させて頂きました。温泉はとても良かったのですが、やっぱりちょっと狭く、洗い場が5つくら…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「静岡駅近で温泉も魅力、また利用したい静岡駅からすぐの好ロケーションで、温泉大浴場もあるということで今回利用させて頂きました。」
                   </blockquote>
                 </div>
               </div>
@@ -691,7 +691,7 @@ export default function FurusatoFeaturePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料駐車場128台（敷地内104台、第2駐車場24台）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「障がい児への配慮と丁寧な対応に感謝障がいのある子供がある旨を伝えた所、お部屋の配慮をして頂きありがとうございました。とても疲れていましたが、インターから近いロケーションとチェックイン時の丁寧な…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「障がい児への配慮と丁寧な対応に感謝障がいのある子供がある旨を伝えた所、お部屋の配慮をして頂きありがとうございました。」
                   </blockquote>
                 </div>
               </div>

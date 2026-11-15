@@ -422,8 +422,8 @@ export default function Page() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 越後湯沢駅よりアクセス。塩沢石打ICより車で25分/湯沢ICより車で27分/十日町市内より35分。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「清津峡湯元温泉 清津館」にチェックイン。インスタ映え間違いなし☆十日町市人気No1スポット「清津峡トンネル」へ徒歩1分の秘湯の宿などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「清津峡湯元温泉 清津館」の湯処へ。インスタ映え間違いなし☆十日町市人気No1スポット「清津峡トンネル」へとともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「清津峡湯元温泉 清津館」にチェックイン。インスタ映え間違いなし☆十日町市人気No1スポット「清津峡トンネル」へ徒歩1分の秘湯の宿が魅力の一軒。客室で荷物をほどいて穏やかな午後のひとときを。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「清津峡湯元温泉 清津館」の自慢の湯処へ。温かな湯気と落ち着いた雰囲気に癒やされながら、夕食前の贅沢なひとときを過ごす。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「清津峡湯元温泉 清津館」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -435,7 +435,7 @@ export default function Page() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「清津峡湯元温泉 清津館」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「清津峡湯元温泉 清津館」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「旅館 大和屋」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は宿周辺の散策とショッピングを満喫。地元の名産品やグルメを味わってから余裕をもって帰路につく。</li>
               </ul>
             </div>
           </div>
@@ -563,7 +563,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 清津峡湯元温泉　清津館</td>
                 <td className="p-3 text-stone-600">新潟県十日町市小出癸2126-1</td>
-                <td className="p-3 text-stone-600">越後湯沢駅周辺</td>
+                <td className="p-3 text-stone-600">塩沢石打ICより車で25分/湯沢ICより車で27分/十日町市内より35分</td>
                 <td className="p-3 text-stone-600">有り　１２台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.05（85件）</td>
                 <td className="p-3 font-bold text-rose-600">¥10,400〜</td>
@@ -572,7 +572,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 旅館　大和屋</td>
                 <td className="p-3 text-stone-600">宮崎県西臼杵郡高千穂町三田井1148</td>
-                <td className="p-3 text-stone-600">高千穂バスセンターより徒歩５分　延岡駅より車で１時間（２１８号経由）</td>
+                <td className="p-3 text-stone-600">高千穂バスセンターより徒歩５分 延岡駅より車で１時間（２１８号経由） 熊本空港より車で１時間半（５７～３２５号線経由）</td>
                 <td className="p-3 text-stone-600">有り　20台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.38（362件）</td>
                 <td className="p-3 font-bold text-rose-600">¥19,800〜</td>
@@ -581,7 +581,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 層雲峡　朝陽亭</td>
                 <td className="p-3 text-stone-600">北海道上川郡上川町層雲峡温泉</td>
-                <td className="p-3 text-stone-600">上川駅周辺</td>
+                <td className="p-3 text-stone-600">上川層雲峡ICよりR39号線を北見方面に車で25分/JR上川駅よりバスで30分/札幌旭川送迎バス運行（3/31迄・要予約</td>
                 <td className="p-3 text-stone-600">有り　100台　先着順　無料</td>
                 <td className="p-3 font-bold text-amber-600">★3.89（1847件）</td>
                 <td className="p-3 font-bold text-rose-600">¥14,740〜</td>
@@ -610,7 +610,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１２台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「美味しい食事と貸切温泉、清津峡への好立地ご飯がとっても美味しかったです。貸切温泉も最高でした!お薬師さんの温泉もとても良かったです!清津峡入口まで徒歩2分ぐらいかな?クチコミの詳細はこ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「美味しい食事と貸切温泉、清津峡への好立地ご飯がとっても美味しかったです。貸切温泉も最高でした!お薬師さんの温泉もとても良かったです!清津峡入口まで徒歩2分ぐらいかな?」
                   </blockquote>
                 </div>
               </div>
@@ -632,7 +632,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　20台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「お風呂も食事も快適、マッサージ機が大好評そぼの部屋に宿泊しました。熊本地震の後での宿泊ということで土日の利用だったのにも関わらず宿泊者少なかったです。だからか他の方の口コミにあったようにお風呂…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「お風呂も食事も快適、マッサージ機が大好評そぼの部屋に宿泊しました。熊本地震の後での宿泊ということで土日の利用だったのにも関わらず宿泊者少なかったです。」
                   </blockquote>
                 </div>
               </div>
@@ -654,7 +654,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　100台　先着順　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「利き酒と館内謎解きで充実したひとときウエルカムドリンクの豊富さ、特に利き酒はよかった。自分好みのお酒を見つけることができた。他のお客さんも「お酒も無料なんて太っ腹ねー」と喜んでいた。謎解きも、…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「利き酒と館内謎解きで充実したひとときウエルカムドリンクの豊富さ、特に利き酒はよかった。自分好みのお酒を見つけることができた。他のお客さんも「お酒も無料なんて太っ腹ねー」と喜んでいた。」
                   </blockquote>
                 </div>
               </div>

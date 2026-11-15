@@ -439,7 +439,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 石和温泉　ホテル平安</td>
                 <td className="p-3 text-stone-600">山梨県笛吹市石和町川中島538</td>
-                <td className="p-3 text-stone-600">石和温泉駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ石和温泉駅：徒歩15分無料送迎5分（15～17時）有/中央道一宮・御坂IC車10分</td>
                 <td className="p-3 text-stone-600">有り　６０台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★3.48（212件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,800〜</td>
@@ -448,7 +448,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 石和温泉　石和びゅーほてる</td>
                 <td className="p-3 text-stone-600">山梨県笛吹市石和町川中島1607</td>
-                <td className="p-3 text-stone-600">石和温泉駅周辺</td>
+                <td className="p-3 text-stone-600">JR中央本線 石和温泉駅より車で5分／中央自動車道 一宮御坂ICより車で10分／中央高速バス 石和バス停より車で5分</td>
                 <td className="p-3 text-stone-600">有り 120台 無料 予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.06（1734件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,050〜</td>
@@ -457,7 +457,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. リブマックスリゾート石和温泉</td>
                 <td className="p-3 text-stone-600">山梨県笛吹市石和町川中島1607-40</td>
-                <td className="p-3 text-stone-600"></td>
+                <td className="p-3 text-stone-600">山梨県笛吹市石和町川中島1607-40 ／ 交通案内：</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★3.22（737件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,803〜</td>
@@ -508,7 +508,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り 120台 無料 予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「清潔感があり、犬連れでも快適に過ごせる温泉宿施設は少し年季が入っていますが、隅々まで掃除が行き届いていて、とても清潔感があり、気持ちよく過ごすことができました。スタッフの皆さんも親切で温かく、とて…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「清潔感があり、犬連れでも快適に過ごせる温泉宿施設は少し年季が入っていますが、隅々まで掃除が行き届いていて、とても清潔感があり、気持ちよく過ごすことができました。」
                   </blockquote>
                 </div>
               </div>

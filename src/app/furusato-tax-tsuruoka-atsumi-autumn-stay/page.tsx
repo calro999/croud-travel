@@ -439,7 +439,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 温海温泉　たちばなや</td>
                 <td className="p-3 text-stone-600">山形県鶴岡市湯温海丁3</td>
-                <td className="p-3 text-stone-600"></td>
+                <td className="p-3 text-stone-600">山形県鶴岡市湯温海丁3 ／ 交通案内：</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.43（1192件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,280〜</td>
@@ -448,7 +448,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 温海温泉　萬国屋</td>
                 <td className="p-3 text-stone-600">山形県鶴岡市湯温海丁1</td>
-                <td className="p-3 text-stone-600">日本海東北自動車道 あつみ温泉ICから車5分/ＪＲ羽越本線 あつみ温泉</td>
+                <td className="p-3 text-stone-600">日本海東北自動車道 あつみ温泉ICから車5分/ＪＲ羽越本線 あつみ温泉駅からタクシー５分/庄内空港から車40分</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.59（2668件）</td>
                 <td className="p-3 font-bold text-rose-600">¥11,000〜</td>
@@ -457,7 +457,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 高見屋別邸　久遠　－ＫＵＯＮ－</td>
                 <td className="p-3 text-stone-600">山形県鶴岡市湯温海湯之尻83-3</td>
-                <td className="p-3 text-stone-600"></td>
+                <td className="p-3 text-stone-600">山形県鶴岡市湯温海湯之尻83-3 ／ 交通案内：</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★3.91（1294件）</td>
                 <td className="p-3 font-bold text-rose-600">¥10,890〜</td>
@@ -508,7 +508,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「フロントの心温まる対応と温泉に大満足旅館に到着して同伴の方が乗り物酔いで体調崩してしまい困っていたところ、フロントの方に酔い止め薬を頂いてほんと助かりました。良いお湯の温泉で温まったうえに心温まる…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「フロントの心温まる対応と温泉に大満足旅館に到着して同伴の方が乗り物酔いで体調崩してしまい困っていたところ、フロントの方に酔い止め薬を頂いてほんと助かりました。」
                   </blockquote>
                 </div>
               </div>

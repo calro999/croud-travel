@@ -420,8 +420,8 @@ export default function Page() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> まつだい駅よりアクセス。ほくほく線まつだい駅より定時送迎あり（要予約）/ 関越道・塩沢石打ICより353号約50分/無料屋内駐車場（最大17台）。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「松之山温泉 ひなの宿 ちとせ」にチェックイン。日本三大薬湯、地産料理、里山朝ごはん、靴を脱いだら畳敷きの館内。素朴さが贅沢な心にも身体にも優しい宿などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「松之山温泉 ひなの宿 ちとせ」の湯処へ。日本三大薬湯、地産料理、里山朝ごはん、靴を脱いだら畳敷きの館内。素朴さとともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「松之山温泉 ひなの宿 ちとせ」にチェックイン。日本三大薬湯、地産料理、里山朝ごはん、靴を脱いだら畳敷きの館内。 まずは客室で移動の疲れをそっと癒やす。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「松之山温泉 ひなの宿 ちとせ」の自慢の湯処へ。温かな湯気と落ち着いた雰囲気に癒やされながら、夕食前の贅沢なひとときを過ごす。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「松之山温泉 ひなの宿 ちとせ」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -433,7 +433,7 @@ export default function Page() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「松之山温泉 ひなの宿 ちとせ」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「松之山温泉 ひなの宿 ちとせ」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「草津温泉 望雲」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は「松之山温泉 ひなの宿 ちとせ」周辺の観光スポットや地元の名産店に立ち寄り、ご当地のお土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>
@@ -561,7 +561,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 松之山温泉　ひなの宿　ちとせ</td>
                 <td className="p-3 text-stone-600">新潟県十日町市松之山湯本49-1</td>
-                <td className="p-3 text-stone-600">まつだい駅周辺</td>
+                <td className="p-3 text-stone-600">ほくほく線まつだい駅より定時送迎あり（要予約）/ 関越道・塩沢石打ICより353号約50分/無料屋内駐車場（最大17台）</td>
                 <td className="p-3 text-stone-600">地下駐車場を完備してございます。雨風の当らない場所でお預かりします。（１７台を超えると屋外の場合有）</td>
                 <td className="p-3 font-bold text-amber-600">★4.58（368件）</td>
                 <td className="p-3 font-bold text-rose-600">¥20,200〜</td>
@@ -570,7 +570,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 草津温泉　望雲</td>
                 <td className="p-3 text-stone-600">群馬県吾妻郡草津町433-1</td>
-                <td className="p-3 text-stone-600">長野原草津口駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ吾妻線長野原草津口駅から車で２０分。</td>
                 <td className="p-3 text-stone-600">有り　５０台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.64（1341件）</td>
                 <td className="p-3 font-bold text-rose-600">¥18,700〜</td>
@@ -579,7 +579,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 有馬温泉　兵衛向陽閣</td>
                 <td className="p-3 text-stone-600">兵庫県神戸市北区有馬町1904</td>
-                <td className="p-3 text-stone-600">有馬温泉駅周辺</td>
+                <td className="p-3 text-stone-600">神戸より電車で約３０分／神戸電鉄有馬温泉駅・バス有馬温泉駅より徒歩約６分／阪神高速道路北神戸線有馬口出口より約５分</td>
                 <td className="p-3 text-stone-600">有り：120台（無料・先着順）</td>
                 <td className="p-3 font-bold text-amber-600">★4.57（2640件）</td>
                 <td className="p-3 font-bold text-rose-600">¥17,600〜</td>
@@ -608,7 +608,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>地下駐車場を完備してございます。雨風の当らない場所でお預かりします。（１７台を超えると屋外の場合有）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ゆっくり過ごせる最高の宿夜ご飯、朝ご飯共に最高でした。お風呂もとても気持ちよかったです。 松之山温泉自体落ち着いた温泉街でとてもゆっくりできました。オススメの宿です。クチコミの詳細…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ゆっくり過ごせる最高の宿夜ご飯、朝ご飯共に最高でした。お風呂もとても気持ちよかったです。 松之山温泉自体落ち着いた温泉街でとてもゆっくりできました。オススメの宿です。」
                   </blockquote>
                 </div>
               </div>
@@ -630,7 +630,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　５０台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事と立地は最高、隣室の音が少し気になる8/27～28に滞在しました。安心感がありました。食事のすばらしさ、ロケーション(湯畑にも西の河原公園にも近い)は当然のこと、ほぼ満足でした。伝統とはこうい…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事と立地は最高、隣室の音が少し気になる8/27～28に滞在しました。安心感がありました。食事のすばらしさ、ロケーション(湯畑にも西の河原公園にも近い)は当然のこと、ほぼ満足でした。」
                   </blockquote>
                 </div>
               </div>
@@ -652,7 +652,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り：120台（無料・先着順）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.62 ／ 立地 ★4.48 ／ 部屋 ★4.49 ／ 設備 ★4.44 ／ 風呂 ★4.72 ／ 食事 ★4.64</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「両親と有馬温泉、食事と温泉に大満足「有馬温泉に行きたい」という高齢の両親を連れて利用しました。有馬温泉でも有名なお宿ということで選びましたが、どのスタッフの方もとても丁寧にご対応くださり、落ち着い…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「両親と有馬温泉、食事と温泉に大満足「有馬温泉に行きたい」という高齢の両親を連れて利用しました。」
                   </blockquote>
                 </div>
               </div>

@@ -565,8 +565,8 @@ export default function FeatureDetailPage() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 三河三谷駅よりアクセス。ＪＲ 三河三谷駅より車で５分。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「三谷温泉 ホテル明山荘」にチェックイン。2種類の源泉を使用しておりますなどの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「三谷温泉 ホテル明山荘」の湯処へ。2種類の源泉を使用しておりますとともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「三谷温泉 ホテル明山荘」にチェックイン。2種類の源泉を使用しておりますが魅力の一軒。客室で荷物をほどいて穏やかな午後のひとときを。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「三谷温泉 ホテル明山荘」の自慢の湯処へ。温かな湯気と落ち着いた雰囲気に癒やされながら、夕食前の贅沢なひとときを過ごす。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「三谷温泉 ホテル明山荘」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -578,7 +578,7 @@ export default function FeatureDetailPage() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「三谷温泉 ホテル明山荘」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「三谷温泉 ホテル明山荘」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「ホテルハーヴェスト浜名湖」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は宿周辺の散策とショッピングを満喫。地元の名産品やグルメを味わってから余裕をもって帰路につく。</li>
               </ul>
             </div>
           </div>
@@ -706,7 +706,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 三谷温泉　ホテル明山荘</td>
                 <td className="p-3 text-stone-600">愛知県蒲郡市三谷町鳶欠14-1</td>
-                <td className="p-3 text-stone-600">三河三谷駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ 三河三谷駅より車で５分</td>
                 <td className="p-3 text-stone-600">有り　２００台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.31（1396件）</td>
                 <td className="p-3 font-bold text-rose-600">¥10,450〜</td>
@@ -715,7 +715,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. ＳＨＩＲＡＨＡＭＡ　ＫＥＹ　ＴＥＲＲＡＣＥ　ＨＯＴＥＬ　ＳＥＡＭＯＲＥ（ホテルシーモア）</td>
                 <td className="p-3 text-stone-600">和歌山県西牟婁郡白浜町1821</td>
-                <td className="p-3 text-stone-600">南紀白浜空港駅周辺</td>
+                <td className="p-3 text-stone-600">JR白浜駅より車で約10分／南紀白浜空港より車で約7分</td>
                 <td className="p-3 text-stone-600">有り　２００台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.29（2411件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,500〜</td>
@@ -724,7 +724,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. ホテルハーヴェスト浜名湖</td>
                 <td className="p-3 text-stone-600">静岡県浜松市浜名区三ヶ日町大崎372</td>
-                <td className="p-3 text-stone-600">東都筑駅周辺</td>
+                <td className="p-3 text-stone-600">東名三ヶ日ICより車５分。天竜浜名湖線都筑駅・JR鷲津駅より無料送迎有。事前要予約</td>
                 <td className="p-3 text-stone-600">有り　１２０台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.19（451件）</td>
                 <td className="p-3 font-bold text-rose-600">¥13,276〜</td>
@@ -733,7 +733,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 内海温泉　いち豆</td>
                 <td className="p-3 text-stone-600">愛知県知多郡南知多町内海新田48</td>
-                <td className="p-3 text-stone-600">内海（愛知）駅周辺</td>
+                <td className="p-3 text-stone-600">■□名鉄内海駅より徒歩約１５分内海海水浴場の目の前■□選べる色浴衣や内海温泉の貸切露天風呂が無料■□</td>
                 <td className="p-3 text-stone-600">４０台あり■□赤ちゃん歓迎、記念日、宴会など多彩なプラン■□コンビニ・スーパー徒歩５分</td>
                 <td className="p-3 font-bold text-amber-600">★3.92（471件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,600〜</td>
@@ -742,7 +742,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. リブマックスリゾート伊東川奈</td>
                 <td className="p-3 text-stone-600">静岡県伊東市富戸三野原1301</td>
-                <td className="p-3 text-stone-600">富戸駅周辺</td>
+                <td className="p-3 text-stone-600">川奈駅から車で10分</td>
                 <td className="p-3 text-stone-600">各部屋1台分確保（40台）：普通車無料</td>
                 <td className="p-3 font-bold text-amber-600">★3.67（961件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,950〜</td>
@@ -771,7 +771,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２００台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.38 ／ 立地 ★4.3 ／ 部屋 ★4.15 ／ 設備 ★4.07 ／ 風呂 ★4.37 ／ 食事 ★4.42</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「海鮮料理と花火、細やかなサービスに大満足急きょ決めた旅行で直前に探したお宿でしたが、結果大満足でした。空室限定プランでの予約だったのであまり期待していませんでしたが、お部屋は十分な広さ。夕食は…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「海鮮料理と花火、細やかなサービスに大満足急きょ決めた旅行で直前に探したお宿でしたが、結果大満足でした。空室限定プランでの予約だったのであまり期待していませんでしたが、お部屋は十分な広さ。」
                   </blockquote>
                 </div>
               </div>
@@ -793,7 +793,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２００台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.33 ／ 立地 ★4.46 ／ 部屋 ★4.21 ／ 設備 ★4.22 ／ 風呂 ★4.36</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉の質と接客は最高、また利用したい宿総合評価が大変満足の訳を列挙します年間20回ほど温泉旅行を行いここ白浜及び当ホテル共に2回目の利用です。1,お風呂に体全体に刺青がある人が入って来…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉の質と接客は最高、また利用したい宿総合評価が大変満足の訳を列挙します年間20回ほど温泉旅行を行いここ白浜及び当ホテル共に2回目の利用です。」
                   </blockquote>
                 </div>
               </div>
@@ -837,7 +837,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>４０台あり■□赤ちゃん歓迎、記念日、宴会など多彩なプラン■□コンビニ・スーパー徒歩５分</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの気遣いと食事が良く、子連れに最適小学生の子どもと一緒に海水浴でお世話になりました。宿は築年数なりに古さはあるものの、スタッフさんのお気遣いなどもあり快適に過ごす事ができました。ご飯も…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの気遣いと食事が良く、子連れに最適小学生の子どもと一緒に海水浴でお世話になりました。宿は築年数なりに古さはあるものの、スタッフさんのお気遣いなどもあり快適に過ごす事ができました。」
                   </blockquote>
                 </div>
               </div>
@@ -859,7 +859,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>各部屋1台分確保（40台）：普通車無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「接客や食事は最高だが部屋の臭いが残念スタッフさんの接客良くてビュッフェの種類が多くてとても美味しかったです。チェックインしてからコーヒーやかき氷のサービスもあったし、お部屋もお風呂も良かったで…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「接客や食事は最高だが部屋の臭いが残念スタッフさんの接客良くてビュッフェの種類が多くてとても美味しかったです。」
                   </blockquote>
                 </div>
               </div>

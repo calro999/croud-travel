@@ -334,7 +334,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 信州善光寺　薬王院</td>
                 <td className="p-3 text-stone-600">長野県長野市元善町657</td>
-                <td className="p-3 text-stone-600">長野駅周辺</td>
+                <td className="p-3 text-stone-600">長野駅よりお車で10分。バスで15分（長野駅-善光寺西 180円。バス停から当院まで200m。）</td>
                 <td className="p-3 text-stone-600">有り　有料</td>
                 <td className="p-3 font-bold text-amber-600">★4.39（150件）</td>
                 <td className="p-3 font-bold text-rose-600">¥13,800〜</td>
@@ -343,7 +343,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 恵光院</td>
                 <td className="p-3 text-stone-600">和歌山県伊都郡高野町高野山497</td>
-                <td className="p-3 text-stone-600">極楽橋駅周辺</td>
+                <td className="p-3 text-stone-600">南海『難波駅』より南海電鉄高野線で『高野山駅』より南海バス10分</td>
                 <td className="p-3 text-stone-600">有り　30台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.5（596件）</td>
                 <td className="p-3 font-bold text-rose-600">¥35,000〜</td>
@@ -352,7 +352,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 大進坊</td>
                 <td className="p-3 text-stone-600">山形県鶴岡市羽黒町手向95</td>
-                <td className="p-3 text-stone-600">鶴岡駅周辺</td>
+                <td className="p-3 text-stone-600">羽越線鶴岡駅より車で20分／庄内空港より車で30分／山形自動車道 庄内あさひICより車で40分</td>
                 <td className="p-3 text-stone-600">屋外駐車場30台完備　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.22（41件）</td>
                 <td className="p-3 font-bold text-rose-600">¥11,000〜</td>
@@ -381,7 +381,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　有料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ベッドヘッドの埃と連絡のつかない対応に不安黒いベッドヘッドが埃で全面真っ白でした。拭き残しなどというレベルではありませんでしたので、気づいてないのかもしれませんが、拭いたお風呂タオルは真っ黒に…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ベッドヘッドの埃と連絡のつかない対応に不安黒いベッドヘッドが埃で全面真っ白でした。」
                   </blockquote>
                 </div>
               </div>
@@ -403,7 +403,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　30台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.56 ／ 立地 ★4.5 ／ 部屋 ★4.5 ／ 設備 ★4.5 ／ 風呂 ★4.33 ／ 食事 ★4.56</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「8年ぶりの再訪、非日常の体験に大満足家族で泊まりました。以前にも、恵光院さんへ泊まらせもらったあ事があったので2回目になりますが、8年ぶりでした。すべてにおいての、気づかいやお部屋の凄さにもビ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「8年ぶりの再訪、非日常の体験に大満足家族で泊まりました。以前にも、恵光院さんへ泊まらせもらったあ事があったので2回目になりますが、8年ぶりでした。」
                   </blockquote>
                 </div>
               </div>

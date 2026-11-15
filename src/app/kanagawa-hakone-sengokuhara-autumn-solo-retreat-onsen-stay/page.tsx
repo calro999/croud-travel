@@ -338,8 +338,8 @@ export default function ArticlePage() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 箱根湯本駅よりアクセス。箱根湯本駅よりお車にて約25分、東名高速道路御殿場ICからお車で約25分。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「全室露天風呂付客室 仙石原温泉 センチュリオン箱根別邸」にチェックイン。◆自然に囲まれた13室の隠れ温泉宿◆全室客室露天風呂完備 オーナーこだわりの世界をお愉しみ下さい。などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「全室露天風呂付客室 仙石原温泉 センチュリオン箱根別邸」の湯処へ。◆自然に囲まれた13室の隠れ温泉宿◆全室客室露天風呂完備 オーナーこだとともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「全室露天風呂付客室 仙石原温泉 センチュリオン箱根別邸」にチェックイン。◆自然に囲まれた13室の隠れ温泉宿◆全室客室露天風呂完備 オーナーこだわりの世界をお愉しみ下さい。 館内の設えを確かめながら、これからの滞在に備えてゆっくり休息する。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「全室露天風呂付客室 仙石原温泉 センチュリオン箱根別邸」の湯船で寛ぎタイム。季節の空気を感じながら手足を伸ばし、心豊かな夕方のリラックス時間を満喫。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「全室露天風呂付客室 仙石原温泉 センチュリオン箱根別邸」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -351,7 +351,7 @@ export default function ArticlePage() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「全室露天風呂付客室 仙石原温泉 センチュリオン箱根別邸」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「全室露天風呂付客室 仙石原温泉 センチュリオン箱根別邸」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「仙石原温泉 きたの風茶寮」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は「全室露天風呂付客室 仙石原温泉 センチュリオン箱根別邸」周辺の観光スポットや地元の名産店に立ち寄り、ご当地のお土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>
@@ -367,49 +367,49 @@ export default function ArticlePage() {
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">あわせて読みたい人気特集＆全国エリアガイド</h2>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
-            <a href="/winter-hokkaido-shikotsuko-luxury-aonoza-suizantei-shiraogyu-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/hakone-daytrip-hotspring-lunch-guide/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【支笏湖ブルーの初冬静寂と全室温泉露天付きラグジュアリースイート】2026-2027年11-12月の北海道・支笏湖！最高峰「碧の座」＆レイクサイド名宿・北海道産白老牛と冬の極上毛ガニ名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「箱根 日帰り温泉 ランチ付きおすすめ」 個室休憩＆貸切風呂・老舗旅館の贅沢プラン完全比較</span>
             </a>
-            <a href="/winter-hokkaido-wakkanai-soya-cape-sunrise-tako-shabu-soya-beef-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/hakone-rainy-day-indoor-model-course/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12・1月北海道】日本最北端「宗谷岬」冬の初日の出と氷門の詩情！極上「宗谷黒牛」＆名物タコしゃぶ・稚内天然温泉名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「箱根 雨の日の観光モデルコース」 ポーラ美術館・ガラスの森・彫刻の森室内＆早めチェックイン温泉おこもり旅</span>
             </a>
-            <a href="/autumn-budget-hokkaido-hakodate-station-goryokaku-asaichi-hotels-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/hakone-trip-packing-regrets-worst5-guide/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">函館駅前：五稜郭紅葉＆函館朝市・活イカ・塩ラーメン！2,000円台〜泊まれる格安ホテル5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「箱根旅行で後悔したことワースト5」 大涌谷ロープウェイ強風運休＆夕方カフェ難民！ 渋滞回避の知恵袋＆パッキング術</span>
             </a>
-            <a href="/autumn-budget-hokkaido-otaru-station-canal-sushi-hotels-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/japan-top-night-view-luxury-hotel-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">小樽駅前：小樽運河秋散歩＆秋シャコ・小樽寿司！2,000円台〜泊まれる格安ホテル5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「日本三大夜景＆摩天楼パノラマ宿」函館・長崎・神戸・横浜・東京高層ホテル 厳選ガイド</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
             <div className="flex flex-wrap gap-2">
               <Link
-                href="/prefectures/kumamoto/"
+                href="/prefectures/kanagawa/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                熊本県の宿・温泉
+                神奈川県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/nara/"
+                href="/prefectures/tokyo/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                奈良県の宿・温泉
+                東京都の宿・温泉
               </Link>
               <Link
-                href="/prefectures/gifu/"
+                href="/prefectures/chiba/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                岐阜県の宿・温泉
+                千葉県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/nagano/"
+                href="/prefectures/saitama/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                長野県の宿・温泉
+                埼玉県の宿・温泉
               </Link>
             </div>
           </div>
@@ -445,7 +445,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 全室露天風呂付客室　仙石原温泉　センチュリオン箱根別邸</td>
                 <td className="p-3 text-stone-600">神奈川県足柄下郡箱根町仙石原1285-389</td>
-                <td className="p-3 text-stone-600">箱根湯本駅周辺</td>
+                <td className="p-3 text-stone-600">箱根湯本駅よりお車にて約25分、東名高速道路御殿場ICからお車で約25分。</td>
                 <td className="p-3 text-stone-600">13台。スポーツカー等車高の低いお車でのお越しは事前にお知らせくださいませ。</td>
                 <td className="p-3 font-bold text-amber-600">★4.54（172件）</td>
                 <td className="p-3 font-bold text-rose-600">¥27,000〜</td>
@@ -454,7 +454,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 仙石原温泉　きたの風茶寮</td>
                 <td className="p-3 text-stone-600">神奈川県足柄下郡箱根町仙石原934-29</td>
-                <td className="p-3 text-stone-600">箱根湯本駅より箱根登山バスで約40分、新宿駅より高速バスで約2時間、「</td>
+                <td className="p-3 text-stone-600">箱根湯本駅より箱根登山バスで約40分、新宿駅より高速バスで約2時間、「仙郷楼前」徒歩1分。駐車場13台無料</td>
                 <td className="p-3 text-stone-600">有り　１３台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.46（106件）</td>
                 <td className="p-3 font-bold text-rose-600">¥49,400〜</td>
@@ -463,7 +463,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 箱根仙石原温泉　金時山荘</td>
                 <td className="p-3 text-stone-600">神奈川県足柄下郡箱根町仙石原1111</td>
-                <td className="p-3 text-stone-600">箱根湯本駅周辺</td>
+                <td className="p-3 text-stone-600">箱根湯本駅から箱根登山バス乗車３０分。「仙石バス亭」下車・御殿場方面に向かって徒歩１０分</td>
                 <td className="p-3 text-stone-600">有り　１０台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.33（18件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,000〜</td>

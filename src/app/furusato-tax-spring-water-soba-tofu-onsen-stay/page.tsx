@@ -661,7 +661,7 @@ export default function FurusatoFeaturePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 河口湖天然温泉「霊水の湯」ホテルルートイン河口湖</td>
                 <td className="p-3 text-stone-600">山梨県南都留郡富士河口湖町浅川366-1</td>
-                <td className="p-3 text-stone-600">河口湖駅周辺</td>
+                <td className="p-3 text-stone-600">富士急行河口湖駅から車で約5分 中央自動車道河口湖インターチェンジより車で約10分</td>
                 <td className="p-3 text-stone-600">有り　25台　無料　（駐車場スペース１区画を超える中型・大型車の駐車をご遠慮頂いております。）</td>
                 <td className="p-3 font-bold text-amber-600">★4.02（983件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,600〜</td>
@@ -670,7 +670,7 @@ export default function FurusatoFeaturePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 天然温泉　富士松の湯　富士松園ホテル</td>
                 <td className="p-3 text-stone-600">山梨県南都留郡山中湖村山中195</td>
-                <td className="p-3 text-stone-600">富士吉田駅周辺</td>
+                <td className="p-3 text-stone-600">最寄IC：山中湖IC（東富士五湖道路）最寄バス：TBS寮前（富士急行バス）・山中局入口（中央高速バス）</td>
                 <td className="p-3 text-stone-600">有　無料です</td>
                 <td className="p-3 font-bold text-amber-600">★3.96（447件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,600〜</td>
@@ -679,7 +679,7 @@ export default function FurusatoFeaturePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. カントリーホテル　スターダスト</td>
                 <td className="p-3 text-stone-600">山梨県南都留郡山中湖村平野2977</td>
-                <td className="p-3 text-stone-600">富士吉田駅周辺</td>
+                <td className="p-3 text-stone-600">山中湖ICより約10km、富士吉田駅から路線バス(約25分)、富士山山中湖下車お車5分（バス停からはタクシーが便利です）</td>
                 <td className="p-3 text-stone-600">有り　6台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.45（103件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,000〜</td>
@@ -688,7 +688,7 @@ export default function FurusatoFeaturePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 温泉ホテル安曇野アートキャビン</td>
                 <td className="p-3 text-stone-600">長野県安曇野市穂高有明2252-2</td>
-                <td className="p-3 text-stone-600">穂高駅周辺</td>
+                <td className="p-3 text-stone-600">穂高駅からお車で約７分／長野道安曇野ＩＣよりお車で約２０分／松本駅からお車で約５０分 ■館内にサウナ2室あり</td>
                 <td className="p-3 text-stone-600">屋根付き駐車場10台（無料）　屋外駐車場あり、電気自動車用のコンセント2カ所有り</td>
                 <td className="p-3 font-bold text-amber-600">★4.41（24件）</td>
                 <td className="p-3 font-bold text-rose-600">¥9,600〜</td>
@@ -697,7 +697,7 @@ export default function FurusatoFeaturePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 穂高温泉郷　安曇野穂高ビューホテル</td>
                 <td className="p-3 text-stone-600">長野県安曇野市穂高牧2200-3</td>
-                <td className="p-3 text-stone-600">松本駅周辺</td>
+                <td className="p-3 text-stone-600">長野自動車道【安曇野IC】よりお車で約25分。【松本IC】よりお車で約40分／JR大糸線穂高駅よりバスで約15分</td>
                 <td className="p-3 text-stone-600">有り　80台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.3（1339件）</td>
                 <td className="p-3 font-bold text-rose-600">¥12,700〜</td>
@@ -706,7 +706,7 @@ export default function FurusatoFeaturePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">6. ホテルルートインコート安曇野豊科駅南</td>
                 <td className="p-3 text-stone-600">長野県安曇野市豊科4677-1</td>
-                <td className="p-3 text-stone-600">豊科駅周辺</td>
+                <td className="p-3 text-stone-600">JR大糸線「豊科駅」より徒歩２分 /長野自動車道 豊科ICより車で５分</td>
                 <td className="p-3 text-stone-600">有り　平面駐車場　６３台　無料 ※2t車を超える中型車・大型車の駐車はお断りしています。</td>
                 <td className="p-3 font-bold text-amber-600">★4.06（591件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,950〜</td>
@@ -735,7 +735,7 @@ export default function FurusatoFeaturePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　25台　無料　（駐車場スペース１区画を超える中型・大型車の駐車をご遠慮頂いております。）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食の補充が早く、大浴場からの絶景に満足朝ごはん美味しかったです!補充も早く、食べたいと思ったものが食べられる印象!そして大浴場からの河口湖も絶景でした!天気があまり良くなかったのですけど…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食の補充が早く、大浴場からの絶景に満足朝ごはん美味しかったです!補充も早く、食べたいと思ったものが食べられる印象!そして大浴場からの河口湖も絶景でした!」
                   </blockquote>
                 </div>
               </div>
@@ -779,7 +779,7 @@ export default function FurusatoFeaturePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　6台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.57 ／ 立地 ★4.3 ／ 部屋 ★4.19 ／ 設備 ★4.24 ／ 風呂 ★4.38</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ジメジメした清潔感とバスルームの悪臭雨続きの9月だったのでやむを得ないかとは思うものの、宿全体がジメジメして清潔感にかけていた。特に部屋のバスルームには下水の悪臭が漂いとても使える状態ではなかった…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ジメジメした清潔感とバスルームの悪臭雨続きの9月だったのでやむを得ないかとは思うものの、宿全体がジメジメして清潔感にかけていた。」
                   </blockquote>
                 </div>
               </div>

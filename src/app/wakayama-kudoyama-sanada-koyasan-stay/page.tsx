@@ -253,7 +253,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 中川旅館　＜和歌山県＞</td>
                 <td className="p-3 text-stone-600">和歌山県伊都郡九度山町九度山1421</td>
-                <td className="p-3 text-stone-600">九度山駅周辺</td>
+                <td className="p-3 text-stone-600">南海電鉄高野線九度山駅下車徒歩７分</td>
                 <td className="p-3 text-stone-600">２台枠有り。1泊５００円予約要。隣接塩看板前横道路際とその隣。無料駐車広場は南へ15ｍ3台枠。</td>
                 <td className="p-3 font-bold text-amber-600">★3.5（75件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,000〜</td>
@@ -262,7 +262,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. くどやま旅館　玉川亭</td>
                 <td className="p-3 text-stone-600">和歌山県伊都郡九度山町九度山555-19</td>
-                <td className="p-3 text-stone-600">九度山駅周辺</td>
+                <td className="p-3 text-stone-600">南海高野線 九度山駅より徒歩にて約４分</td>
                 <td className="p-3 text-stone-600">有り　５台</td>
                 <td className="p-3 font-bold text-amber-600">★4.75（75件）</td>
                 <td className="p-3 font-bold text-rose-600">¥10,580〜</td>
@@ -271,7 +271,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. くどやま旅館　玉川亭町石道別館</td>
                 <td className="p-3 text-stone-600">和歌山県伊都郡九度山町入郷76-1</td>
-                <td className="p-3 text-stone-600">九度山駅周辺</td>
+                <td className="p-3 text-stone-600">チェックイン受付は九度山駅より300mのくどやま旅館玉川亭本館でお願い致します。</td>
                 <td className="p-3 text-stone-600">宿泊施設「別館」にはございません。くどやま旅館玉川亭本館に駐車場をご利用下さい。</td>
                 <td className="p-3 font-bold text-amber-600">高評価</td>
                 <td className="p-3 font-bold text-rose-600">プラン参照</td>
@@ -280,7 +280,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 〜真田昌幸・幸村父子の隠れ宿〜紀伊見荘</td>
                 <td className="p-3 text-stone-600">和歌山県橋本市矢倉脇115</td>
-                <td className="p-3 text-stone-600">紀見峠駅周辺</td>
+                <td className="p-3 text-stone-600">南海高野線 紀見峠駅から徒歩で４分</td>
                 <td className="p-3 text-stone-600">有り　３３台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★3.92（348件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,530〜</td>
@@ -289,7 +289,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. ホテル　ルートイン橋本</td>
                 <td className="p-3 text-stone-600">和歌山県橋本市市脇4-10-28</td>
-                <td className="p-3 text-stone-600">橋本（和歌山）駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ・南海高野線 橋本駅 TAXIにて約７分。/京奈和自動車道・橋本ICより約5分。 平面駐車場100台完備</td>
                 <td className="p-3 text-stone-600">有り　108台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.12（984件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,250〜</td>
@@ -298,7 +298,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">6. かめや旅館　＜和歌山県＞</td>
                 <td className="p-3 text-stone-600">和歌山県伊都郡かつらぎ町新田106</td>
-                <td className="p-3 text-stone-600">妙寺駅周辺</td>
+                <td className="p-3 text-stone-600">妙寺駅より徒歩にて２分</td>
                 <td className="p-3 text-stone-600">有り　５台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">高評価</td>
                 <td className="p-3 font-bold text-rose-600">プラン参照</td>
@@ -349,7 +349,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　５台</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「とても楽しい時間でした高野山に行くために前泊しました。初めての一人旅で常に迷いながら辿り着いたくどやま旅館さん。ご主人が暖かく迎えてくださいました。次の日の高野山のことも、とても詳しく…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「とても楽しい時間でした高野山に行くために前泊しました。初めての一人旅で常に迷いながら辿り着いたくどやま旅館さん。ご主人が暖かく迎えてくださいました。」
                   </blockquote>
                 </div>
               </div>
@@ -393,7 +393,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　３３台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.95 ／ 立地 ★3.85 ／ 部屋 ★3.92 ／ 設備 ★3.64 ／ 風呂 ★3.99 ／ 食事 ★4.13</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「お湯は良いが、日本酒や菓子の品質が残念お安い宿泊価格で努力されているのはすごく分かるが、日本酒はあけてから日数が経ちすぎてて気が抜けている。お菓子に至っては明らかに色が変な色に変わってて、おかきな…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「お湯は良いが、日本酒や菓子の品質が残念お安い宿泊価格で努力されているのはすごく分かるが、日本酒はあけてから日数が経ちすぎてて気が抜けている。」
                   </blockquote>
                 </div>
               </div>

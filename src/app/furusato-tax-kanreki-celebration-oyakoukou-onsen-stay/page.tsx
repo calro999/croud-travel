@@ -304,7 +304,7 @@ export default function FurusatoKanrekiCelebrationStayPage() {
                     淡路島・洲本温泉の海沿いに建ち、全室オーシャンビューを誇る総合リゾートホテル。館内はバリアフリー対応が進んでおり、車椅子の貸出やフラット設計の客室など三世代やシニア連れの旅行でもストレスなく快適に過ごせます。目の前に広がる穏やかな海の景色を眺めながらの名湯・洲本温泉入浴は開放感抜群。夕食には名物の淡路牛ステーキや鯛の宝楽焼きなど、淡路島の豊かな御食国（みけつくに）の美味を存分に堪能できるお祝いの宴が叶います。
                   </p>
                   <p className="text-stone-500 text-xs italic bg-stone-50 p-3 rounded-xl border border-stone-100 mb-4 leading-relaxed">
-                    「赤ちゃん連れに優しく荷物も減らせて快適赤ちゃん連れプランで予約しました。オムツや離乳食を用意してくださったので、荷物を少なく旅行することができました!貸切風呂もよかったですクチコミの詳細はこち…」
+                    「赤ちゃん連れに優しく荷物も減らせて快適赤ちゃん連れプランで予約しました。オムツや離乳食を用意してくださったので、荷物を少なく旅行することができました!貸切風呂もよかったです」
                   </p>
                   
                   <div className="bg-stone-50 rounded-xl p-3.5 border border-stone-200/60 mb-6 text-xs text-stone-600 space-y-1">
@@ -413,8 +413,8 @@ export default function FurusatoKanrekiCelebrationStayPage() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 有馬温泉駅よりアクセス。阪神高速北神線有馬口ICより5分/中国道西宮ICより10分/神戸電鉄・阪急バス『有馬温泉駅』。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「有馬温泉 御幸荘 花結び」にチェックイン。全室お部屋食|四季の花と旬のお料理、有馬温泉でも有数の金泉・銀泉2種の天然温泉を堪能する贅沢な寛ぎをなどの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「有馬温泉 御幸荘 花結び」の湯処へ。全室お部屋食|四季の花と旬のお料理、有馬温泉でも有数の金泉・銀泉2種のとともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「有馬温泉 御幸荘 花結び」にチェックイン。全室お部屋食|四季の花と旬のお料理、有馬温泉でも有数の金泉・銀泉2種の天然温泉を堪能する贅沢な寛ぎをが魅力の一軒。客室で荷物をほどいて穏やかな午後のひとときを。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「有馬温泉 御幸荘 花結び」の自慢の湯処へ。温かな湯気と落ち着いた雰囲気に癒やされながら、夕食前の贅沢なひとときを過ごす。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「有馬温泉 御幸荘 花結び」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -426,7 +426,7 @@ export default function FurusatoKanrekiCelebrationStayPage() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「有馬温泉 御幸荘 花結び」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「有馬温泉 御幸荘 花結び」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「金沢湯涌温泉 湯の出旅館」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は「有馬温泉 御幸荘 花結び」周辺の観光スポットや地元の名産店に立ち寄り、ご当地のお土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>

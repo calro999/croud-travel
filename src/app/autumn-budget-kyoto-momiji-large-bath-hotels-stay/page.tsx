@@ -342,7 +342,7 @@ export default function KyotoBudgetAutumnPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. ロワジールホテル京都東寺</td>
                 <td className="p-3 text-stone-600">京都府京都市南区西九条蔵王町 31-1</td>
-                <td className="p-3 text-stone-600">京都駅周辺</td>
+                <td className="p-3 text-stone-600">JR「京都駅」八条西口より徒歩12分、近鉄「東寺駅」より徒歩3分</td>
                 <td className="p-3 text-stone-600">無し/近隣パーキングをご利用ください</td>
                 <td className="p-3 font-bold text-amber-600">★4.32（599件）</td>
                 <td className="p-3 font-bold text-rose-600">¥2,980〜</td>
@@ -351,7 +351,7 @@ export default function KyotoBudgetAutumnPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 京都山科　ホテル山楽</td>
                 <td className="p-3 text-stone-600">京都府京都市山科区安朱桟敷町23</td>
-                <td className="p-3 text-stone-600">山科駅周辺</td>
+                <td className="p-3 text-stone-600">※新快速停車※京都・大津から約５分！ＪＲ琵琶湖線・湖西線／京阪京津線／市営地下鉄東西線 山科駅より地下道直結で徒歩1分！</td>
                 <td className="p-3 text-stone-600">専用駐車場なし。提携駐車場は3台限定です。先着順・ご予約制のためご希望の場合は、必ずお電話ください。</td>
                 <td className="p-3 font-bold text-amber-600">★4.5（770件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,333〜</td>
@@ -360,7 +360,7 @@ export default function KyotoBudgetAutumnPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. ベッセルホテルカンパーナ京都五条｜サウナ付大浴場（京都１号店）</td>
                 <td className="p-3 text-stone-600">京都府京都市下京区東洞院通五条下る下万寿寺町498</td>
-                <td className="p-3 text-stone-600">五条（京都市営）駅周辺</td>
+                <td className="p-3 text-stone-600">京都市営地下鉄烏丸線五条駅３番出口より徒歩１分■京都駅より徒歩約15分■新京都東ICから約16分■京都南ICから約21分</td>
                 <td className="p-3 text-stone-600">先着順 立体駐車場28台 高さ1.8ｍ　1泊2000円</td>
                 <td className="p-3 font-bold text-amber-600">★4.44（1956件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,125〜</td>
@@ -369,7 +369,7 @@ export default function KyotoBudgetAutumnPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. ホテルインターゲート京都　四条新町</td>
                 <td className="p-3 text-stone-600">京都府京都市中京区新町通錦小路上る百足屋町387</td>
-                <td className="p-3 text-stone-600">烏丸駅周辺</td>
+                <td className="p-3 text-stone-600">阪急京都線 烏丸駅・ 地下鉄烏丸線 四条駅より徒歩にて約５分</td>
                 <td className="p-3 text-stone-600">無し</td>
                 <td className="p-3 font-bold text-amber-600">★4.53（939件）</td>
                 <td className="p-3 font-bold text-rose-600">¥12,240〜</td>
@@ -442,7 +442,7 @@ export default function KyotoBudgetAutumnPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>先着順 立体駐車場28台 高さ1.8ｍ　1泊2000円</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.45 ／ 立地 ★4.31 ／ 部屋 ★4.43 ／ 設備 ★4.42 ／ 風呂 ★4.47 ／ 食事 ★4.52</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「観光に便利で子供向けイベントも充実駅から近く、観光に便利でした。子供向けのおもちゃの貸し出しや、夏休みの子供向けイベントもあり楽しくすごせました。朝食バイキングのハンバーグを子供が気に入ってた…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「観光に便利で子供向けイベントも充実駅から近く、観光に便利でした。子供向けのおもちゃの貸し出しや、夏休みの子供向けイベントもあり楽しくすごせました。」
                   </blockquote>
                 </div>
               </div>
@@ -464,7 +464,7 @@ export default function KyotoBudgetAutumnPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無し</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.46 ／ 立地 ★4.37 ／ 部屋 ★4.49 ／ 設備 ★4.49 ／ 風呂 ★4.36 ／ 食事 ★4.5</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ハッピーアワーの軽食サービスが嬉しい泊まった部屋は24m2という事でしたが、印象はもっと狭い感じ。朝食は和食メニュー少な目でしょうか。大浴場は湯舟はそれほど大きくはないものの、それほど混んでなかっ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ハッピーアワーの軽食サービスが嬉しい泊まった部屋は24m2という事でしたが、印象はもっと狭い感じ。朝食は和食メニュー少な目でしょうか。」
                   </blockquote>
                 </div>
               </div>

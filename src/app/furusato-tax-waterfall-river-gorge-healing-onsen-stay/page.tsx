@@ -48,7 +48,7 @@ export default function FurusatoTaxPage() {
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* パンくずリスト */}
-      <nav className="border-b border-slate-800/80 bg-slate-900/60 backdrop-blur px-4 py-3 text-xs text-slate-400">
+      <nav className="border-b border-slate-800/80 bg-slate-900/60 backdrop-blur px-4 py-3 text-xs text-slate-200">
         <div className="max-w-6xl mx-auto flex items-center gap-2 overflow-x-auto whitespace-nowrap">
           <Link href="/" className="hover:text-amber-400 transition">ホーム</Link>
           <span>/</span>
@@ -631,8 +631,8 @@ export default function FurusatoTaxPage() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 八戸駅よりアクセス。東北新幹線 八戸駅／無料送迎バス（要予約）、青森駅／有料送迎バス（要予約）、ＪＲバス 十和田湖行き、焼山下車。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「奥入瀬渓流ホテル ｂｙ 星野リゾート」にチェックイン。日本屈指の景勝地奥入瀬渓流。その畔に佇むリゾートホテルで大自然が演出する非日常空間をご堪能下さいなどの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「奥入瀬渓流ホテル ｂｙ 星野リゾート」の湯処へ。日本屈指の景勝地奥入瀬渓流。その畔に佇むリゾートホテルで大自然が演出すとともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「奥入瀬渓流ホテル ｂｙ 星野リゾート」にチェックイン。日本屈指の景勝地奥入瀬渓流。 まずは客室で移動の疲れをそっと癒やす。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「奥入瀬渓流ホテル ｂｙ 星野リゾート」の大浴場・露天風呂へ。日暮れの静けさの中で湯に浸かり、旅の緊張をゆっくりと解きほぐす。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「奥入瀬渓流ホテル ｂｙ 星野リゾート」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -644,7 +644,7 @@ export default function FurusatoTaxPage() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「奥入瀬渓流ホテル ｂｙ 星野リゾート」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「奥入瀬渓流ホテル ｂｙ 星野リゾート」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「八甲田城ヶ倉温泉 ホテル城ヶ倉－ＨＯＴＥＬ Ｊｏｇａｋｕｒａ－」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は宿周辺の散策とショッピングを満喫。地元の名産品やグルメを味わってから余裕をもって帰路につく。</li>
               </ul>
             </div>
           </div>

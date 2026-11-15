@@ -564,8 +564,8 @@ export default function FeatureDetailPage() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 鳴子温泉駅よりアクセス。東北自動車道古川ICより47号線を鳴子方面へ、岩下こけし資料館前交差点から108号線を秋田方面に入り約20分。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「鬼首温泉 リゾートパーク ホテル オニコウベ」にチェックイン。大自然に囲まれたリゾートホテル～宮城県北唯一プールのある施設などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「鬼首温泉 リゾートパーク ホテル オニコウベ」の湯処へ。大自然に囲まれたリゾートホテル～宮城県北唯一プールのある施設とともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「鬼首温泉 リゾートパーク ホテル オニコウベ」にチェックイン。大自然に囲まれたリゾートホテル～宮城県北唯一プールのある施設が魅力の一軒。客室で荷物をほどいて穏やかな午後のひとときを。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「鬼首温泉 リゾートパーク ホテル オニコウベ」の湯船で寛ぎタイム。季節の空気を感じながら手足を伸ばし、心豊かな夕方のリラックス時間を満喫。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「鬼首温泉 リゾートパーク ホテル オニコウベ」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -577,7 +577,7 @@ export default function FeatureDetailPage() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「鬼首温泉 リゾートパーク ホテル オニコウベ」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「鬼首温泉 リゾートパーク ホテル オニコウベ」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「ホテル四季の蔵 高台から海を臨む 貸切温泉のペットリゾート」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は「鬼首温泉 リゾートパーク ホテル オニコウベ」周辺の観光スポットや地元の名産店に立ち寄り、ご当地のお土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>
@@ -705,7 +705,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 鬼首温泉　リゾートパーク　ホテル　オニコウベ</td>
                 <td className="p-3 text-stone-600">宮城県大崎市鳴子温泉鬼首大清水26-29</td>
-                <td className="p-3 text-stone-600">鳴子温泉駅周辺</td>
+                <td className="p-3 text-stone-600">東北自動車道古川ICより47号線を鳴子方面へ、岩下こけし資料館前交差点から108号線を秋田方面に入り約20分</td>
                 <td className="p-3 text-stone-600">有り　８５台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.41（460件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,850〜</td>
@@ -723,7 +723,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 伊豆高原温泉　客室露天風呂付リゾートホテル　コルテラルゴ伊豆高原</td>
                 <td className="p-3 text-stone-600">静岡県伊東市富戸1038-73</td>
-                <td className="p-3 text-stone-600">伊豆高原駅周辺</td>
+                <td className="p-3 text-stone-600">伊豆急行線 伊豆高原駅より車にて１０分／東名 厚木ＩＣより小田原厚木道路経由、Ｒ１３５を下田方面へ１２０分</td>
                 <td className="p-3 text-stone-600">有り　９台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.88（402件）</td>
                 <td className="p-3 font-bold text-rose-600">¥21,360〜</td>
@@ -732,7 +732,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 白馬みずばしょう温泉　ホテル　シェラリゾート白馬</td>
                 <td className="p-3 text-stone-600">長野県北安曇郡白馬村北城14863-6</td>
-                <td className="p-3 text-stone-600">白馬駅周辺</td>
+                <td className="p-3 text-stone-600">JR白馬駅よりホテルバス（要予約）にて10分／長野道安曇野I.Cより60分／糸魚川I.Cより60分</td>
                 <td className="p-3 text-stone-600">乗用車約100台駐車可能。無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.63（1006件）</td>
                 <td className="p-3 font-bold text-rose-600">¥17,167〜</td>
@@ -741,7 +741,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 熱海温泉　ＲｅｌａｘＲｅｓｏｒｔＨｏｔｅｌ　リラックスリゾートホテル</td>
                 <td className="p-3 text-stone-600">静岡県熱海市咲見町6-41</td>
-                <td className="p-3 text-stone-600">熱海駅周辺</td>
+                <td className="p-3 text-stone-600">JＲ熱海駅～タクシーで5分／東名・厚木IC～70分／新東名・長泉沼津IC～40分</td>
                 <td className="p-3 text-stone-600">無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.53（711件）</td>
                 <td className="p-3 font-bold text-rose-600">¥11,235〜</td>
@@ -770,7 +770,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　８５台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「アンティークな空間と温泉、食事に満足重厚な造りの建物、家具調度品、古いのかもしれませんがかえってアンティークでシックな味になってました。あいにくの雨でしたがラウンジでケーキをいただきながら温泉プー…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「アンティークな空間と温泉、食事に満足重厚な造りの建物、家具調度品、古いのかもしれませんがかえってアンティークでシックな味になってました。」
                   </blockquote>
                 </div>
               </div>
@@ -792,7 +792,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「大型犬と一緒にどこへも行けて大満足うちの犬は25キロなのですが、そんな大きな犬も食事場所へも、貸切風呂へも、どこでも一緒にいけて、犬も安心して過ごせました。夜は無料の焼きマシュマロや綿あめを楽しん…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「大型犬と一緒にどこへも行けて大満足うちの犬は25キロなのですが、そんな大きな犬も食事場所へも、貸切風呂へも、どこでも一緒にいけて、犬も安心して過ごせました。」
                   </blockquote>
                 </div>
               </div>
@@ -814,7 +814,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　９台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.88 ／ 立地 ★4.63 ／ 部屋 ★4.82 ／ 設備 ★4.81 ／ 風呂 ★4.81 ／ 食事 ★4.88</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「サプライズの演出と心温まるおもてなしに感動大切な友人のお祝いで宿泊しました。以前からずっと泊まってみたかったのですが、なかなか予約が取れず...。今回たまたまキャンセル待ちで予約することが…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「サプライズの演出と心温まるおもてなしに感動大切な友人のお祝いで宿泊しました。以前からずっと泊まってみたかったのですが、なかなか予約が取れず...。」
                   </blockquote>
                 </div>
               </div>
@@ -836,7 +836,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>乗用車約100台駐車可能。無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「サービス充実、焼き立てパンケーキが絶品とても綺麗で素敵なホテルです。時間帯ごとに無料のアルコール、ドリンク、軽食などがあります。客室も清潔でベッドも快適、中庭が綺麗で癒されました。私達の宿泊した棟…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「サービス充実、焼き立てパンケーキが絶品とても綺麗で素敵なホテルです。時間帯ごとに無料のアルコール、ドリンク、軽食などがあります。客室も清潔でベッドも快適、中庭が綺麗で癒されました。」
                   </blockquote>
                 </div>
               </div>
@@ -858,7 +858,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.64 ／ 立地 ★4.4 ／ 部屋 ★4.49 ／ 設備 ★4.43 ／ 風呂 ★4.23 ／ 食事 ★4.67</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「お気に入りの宿。2回目の訪問。今回も満足夕食のイタリアンコース、前菜からウニのパスタ、デザートまでとっても美味しかったです。が、量が多すぎて食後はお腹が苦しかった(笑)ウニが好きなのでウニパス…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「お気に入りの宿。2回目の訪問。今回も満足夕食のイタリアンコース、前菜からウニのパスタ、デザートまでとっても美味しかったです。」
                   </blockquote>
                 </div>
               </div>

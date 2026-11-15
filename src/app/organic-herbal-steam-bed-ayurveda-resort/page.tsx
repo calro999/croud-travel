@@ -118,7 +118,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F153333%2F153333.html%26f_flg%3DPLAN",
     "hotelMinCharge": 21600,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/153333/153333.jpg",
-    "userReview": "ＨＯＴＥＬ　ＫＥＹＦＯＲＥＳＴ　ＨＯＫＵＴＯならではの立地と落ち着いた空間で、ゆったりとした滞在を楽しめたという声が寄せられています。",
+    "userReview": "ＨＯＴＥＬ ＫＥＹＦＯＲＥＳＴ ＨＯＫＵＴＯならではの立地と落ち着いた空間で、ゆったりとした滞在を楽しめたという声が寄せられています。",
     "reviewAverage": 4.83,
     "reviewCount": 31,
     "address": "山梨県北杜市小淵沢町10248-16",
@@ -283,8 +283,8 @@ export default function Page() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 那覇空港駅よりアクセス。車 那覇空港より約7分（那覇うみそらトンネル～西海岸道路経由） ゆいレール 「旭橋」駅下車、徒歩約15分。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「ロワジールスパタワー那覇」にチェックイン。天然温泉を24時間楽しめる客室有！全室バルコニー付、24時間利用できるフィットネスジム完備などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「ロワジールスパタワー那覇」の湯処へ。天然温泉を24時間楽しめる客室有！全室バルコニー付、24時間利用できるとともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「ロワジールスパタワー那覇」にチェックイン。天然温泉を24時間楽しめる客室有！ まずは客室で移動の疲れをそっと癒やす。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「ロワジールスパタワー那覇」の大浴場・露天風呂へ。日暮れの静けさの中で湯に浸かり、旅の緊張をゆっくりと解きほぐす。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「ロワジールスパタワー那覇」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -296,7 +296,7 @@ export default function Page() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「ロワジールスパタワー那覇」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「ロワジールスパタワー那覇」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「ＲｅＬａｂｏ ＭｅｄｉｃａｌＳｐａ＆Ｓｔａｙ」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は「ロワジールスパタワー那覇」周辺の観光スポットや地元の名産店に立ち寄り、ご当地のお土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>
@@ -424,7 +424,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. ロワジールスパタワー那覇</td>
                 <td className="p-3 text-stone-600">沖縄県那覇市西3-2-1</td>
-                <td className="p-3 text-stone-600">【車】那覇空港より約7分（那覇うみそらトンネル～西海岸道路経由）　【ゆ</td>
+                <td className="p-3 text-stone-600">【車】那覇空港より約7分（那覇うみそらトンネル～西海岸道路経由） 【ゆいレール】「旭橋」駅下車、徒歩約15分</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.35（695件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,368〜</td>
@@ -442,7 +442,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 洲本温泉　夢海游　淡路島</td>
                 <td className="p-3 text-stone-600">兵庫県洲本市山手1-1-50</td>
-                <td className="p-3 text-stone-600">舞子駅周辺</td>
+                <td className="p-3 text-stone-600">車：洲本ICから10分／高速バス：大阪120分・三宮80分で洲本BCへ</td>
                 <td className="p-3 text-stone-600">有り　１００台収容可・無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.43（2443件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,250〜</td>
@@ -451,7 +451,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. ＨＯＴＥＬ　ＫＥＹＦＯＲＥＳＴ　ＨＯＫＵＴＯ</td>
                 <td className="p-3 text-stone-600">山梨県北杜市小淵沢町10248-16</td>
-                <td className="p-3 text-stone-600">小淵沢ICより車で約5分／小淵沢駅より車で約７分（駅より無料送迎バス有</td>
+                <td className="p-3 text-stone-600">小淵沢ICより車で約5分／小淵沢駅より車で約７分（駅より無料送迎バス有／予約不要）</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.83（31件）</td>
                 <td className="p-3 font-bold text-rose-600">¥21,600〜</td>
@@ -460,7 +460,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 箱根リトリートｆｏｒｅ</td>
                 <td className="p-3 text-stone-600">神奈川県足柄下郡箱根町仙石原1286-116</td>
-                <td className="p-3 text-stone-600">小田原駅よりお車で約40分（週末は混雑しますので余裕をもってお越しくだ</td>
+                <td className="p-3 text-stone-600">小田原駅よりお車で約40分（週末は混雑しますので余裕をもってお越しください）</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.42（343件）</td>
                 <td className="p-3 font-bold text-rose-600">¥14,155〜</td>
@@ -511,7 +511,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「チェックアウト時間の表記が分かりにくいチェックアウトが午前7時のプランであるとチェックインの際に初め知った。よく見ればたしかに予約画面には「チェックアウト7時。早めの出発でも味わえるスマートス…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「チェックアウト時間の表記が分かりにくいチェックアウトが午前7時のプランであるとチェックインの際に初め知った。よく見ればたしかに予約画面には「チェックアウト7時。」
                   </blockquote>
                 </div>
               </div>
@@ -533,7 +533,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１００台収容可・無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.49 ／ 立地 ★4.49 ／ 部屋 ★4.42 ／ 設備 ★4.37 ／ 風呂 ★4.47 ／ 食事 ★4.52</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「料理も接客も素晴らしく、子供も大満足部屋も綺麗だったし接客も丁寧で夕食時の担当してくれた女性が子供にも優しくいい人でした。料理も美味しく7歳には子供会席、5歳にはお子様ランチで子供も美味しいと言っ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「料理も接客も素晴らしく、子供も大満足部屋も綺麗だったし接客も丁寧で夕食時の担当してくれた女性が子供にも優しくいい人でした。」
                   </blockquote>
                 </div>
               </div>

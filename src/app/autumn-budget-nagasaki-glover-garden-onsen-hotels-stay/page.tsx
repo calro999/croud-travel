@@ -342,7 +342,7 @@ export default function NagasakiBudgetAutumnPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. ｈｏｔｅｌ　Ｈ２　ホテルエイチツー長崎</td>
                 <td className="p-3 text-stone-600">長崎県長崎市築町5-11</td>
-                <td className="p-3 text-stone-600">長崎（長崎）駅周辺</td>
+                <td className="p-3 text-stone-600">空港バス「中央橋」下車徒歩約１分／長崎駅前より路面電車「西浜町」下車徒歩２分／長崎IC～出島道路出口から車で約3分</td>
                 <td className="p-3 text-stone-600">提携徒歩1分／築町パーキングビル1泊1,200円／095-827-3650※時間制限有（他2ヶ所）</td>
                 <td className="p-3 font-bold text-amber-600">★4.42（1483件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,700〜</td>
@@ -360,7 +360,7 @@ export default function NagasakiBudgetAutumnPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. ホテル　クオーレ長崎駅前</td>
                 <td className="p-3 text-stone-600">長崎県長崎市大黒町7-3</td>
-                <td className="p-3 text-stone-600">長崎（長崎）駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ長崎駅東口から徒歩約5分 高速バスターミナルより徒歩約１分</td>
                 <td className="p-3 text-stone-600">近隣駐車場有/15時から翌10時まで1,400円/先着順/車高2m以下/営業時間5時〜23時</td>
                 <td className="p-3 font-bold text-amber-600">★4.24（4692件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,600〜</td>
@@ -369,7 +369,7 @@ export default function NagasakiBudgetAutumnPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 長崎スカイホテル</td>
                 <td className="p-3 text-stone-600">長崎県長崎市江の浦町18-1</td>
-                <td className="p-3 text-stone-600">長崎（長崎）駅周辺</td>
+                <td className="p-3 text-stone-600">JR長崎駅より車で10分</td>
                 <td className="p-3 text-stone-600">有り　20台　お車１台につき、普通車800円/中型車1,600円/大型車2,000円（税込）</td>
                 <td className="p-3 font-bold text-amber-600">★4.16（417件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,980〜</td>
@@ -378,7 +378,7 @@ export default function NagasakiBudgetAutumnPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 天然温泉　鶴港の湯　ドーミーインＰＲＥＭＩＵＭ長崎駅前（ドーミーイン・御宿野乃　ホテルズグループ）</td>
                 <td className="p-3 text-stone-600">長崎県長崎市五島町2-29</td>
-                <td className="p-3 text-stone-600">長崎（長崎）駅周辺</td>
+                <td className="p-3 text-stone-600">長崎駅より徒歩にて約10分</td>
                 <td className="p-3 text-stone-600">1泊1,200円（機械式68台）入庫制限有（車高2.05m長さ5.05ｍ車幅1.91ｍ)先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.52（1541件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,300〜</td>
@@ -429,7 +429,7 @@ export default function NagasakiBudgetAutumnPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>1階はコインパーキング(普通車3台・小型2台・軽1台)　※管理外ですので空車情報は不明。有料です。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.24 ／ 立地 ★4.38 ／ 部屋 ★4.4 ／ 設備 ★4.38 ／ 風呂 ★4.3</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「長期滞在にも最適、設備が充実して快適ワンルームマンションのようなお部屋でした。キッチン(簡単なフライパンや食器もあり)、洗濯機、独立した洗面台と、洗い場付きのお風呂。快適でした。1泊だと勿…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「長期滞在にも最適、設備が充実して快適ワンルームマンションのようなお部屋でした。キッチン(簡単なフライパンや食器もあり)、洗濯機、独立した洗面台と、洗い場付きのお風呂。快適でした。」
                   </blockquote>
                 </div>
               </div>
@@ -473,7 +473,7 @@ export default function NagasakiBudgetAutumnPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　20台　お車１台につき、普通車800円/中型車1,600円/大型車2,000円（税込）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「長崎を一望できる絶景、部屋はリフォーム済み長崎が一望できるホテル 稲佐山展望台に行く必要がないレベル。施設は少し時間が経ってるようだが、今回泊まらせて頂いた部屋はリフォーム済みで素敵な空間で泊まれ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「長崎を一望できる絶景、部屋はリフォーム済み長崎が一望できるホテル 稲佐山展望台に行く必要がないレベル。」
                   </blockquote>
                 </div>
               </div>

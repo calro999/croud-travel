@@ -420,8 +420,8 @@ export default function Page() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 芦原温泉駅よりアクセス。車 北陸自動車道金津ICより約15分 電車 JR北陸本線芦原温泉駅より車で約10分 航空機 小松空港より車で約50分。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「あわら温泉 グランディア芳泉」にチェックイン。ラウンジ飲料は無料！5階天上のSPAは眺望随一★全33室庭園露天風呂付客室や和洋室タイプなど色々♪などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「あわら温泉 グランディア芳泉」の湯処へ。ラウンジ飲料は無料！5階天上のSPAは眺望随一★全33室庭園露天風呂付とともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「あわら温泉 グランディア芳泉」にチェックイン。ラウンジ飲料は無料！5階天上のSPAは眺望随一★全33室庭園露天風呂付客室や和洋室タイプなど色々♪ 館内の設えを確かめながら、これからの滞在に備えてゆっくり休息する。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「あわら温泉 グランディア芳泉」の自慢の湯処へ。温かな湯気と落ち着いた雰囲気に癒やされながら、夕食前の贅沢なひとときを過ごす。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「あわら温泉 グランディア芳泉」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -433,7 +433,7 @@ export default function Page() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「あわら温泉 グランディア芳泉」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「あわら温泉 グランディア芳泉」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「秩父七湯『御代の湯』 新木鉱泉旅館」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は「あわら温泉 グランディア芳泉」周辺の観光スポットや地元の名産店に立ち寄り、ご当地のお土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>
@@ -561,7 +561,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. あわら温泉　グランディア芳泉</td>
                 <td className="p-3 text-stone-600">福井県あわら市舟津43-26</td>
-                <td className="p-3 text-stone-600">芦原温泉駅周辺</td>
+                <td className="p-3 text-stone-600">【車】北陸自動車道金津ICより約15分【電車】JR北陸本線芦原温泉駅より車で約10分【航空機】小松空港より車で約50分</td>
                 <td className="p-3 text-stone-600">約300台（屋外／宿泊者無料）※正面玄関へお越しください。係が駐車場へご案内させていただきます。</td>
                 <td className="p-3 font-bold text-amber-600">★4.65（2583件）</td>
                 <td className="p-3 font-bold text-rose-600">¥20,240〜</td>
@@ -570,7 +570,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 十八楼離れ　宿いとう</td>
                 <td className="p-3 text-stone-600">岐阜県岐阜市元浜町35-6</td>
-                <td className="p-3 text-stone-600">岐阜駅周辺</td>
+                <td className="p-3 text-stone-600">JR岐阜駅よりタクシーの場合 約15分、在来線バスの場合 約20分</td>
                 <td className="p-3 text-stone-600">有り　各棟４台　無料　先着順　５台目以降は十八楼本館駐車場をご利用いただけます</td>
                 <td className="p-3 font-bold text-amber-600">★4.8（10件）</td>
                 <td className="p-3 font-bold text-rose-600">¥14,300〜</td>
@@ -579,7 +579,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 秩父七湯『御代の湯』　新木鉱泉旅館</td>
                 <td className="p-3 text-stone-600">埼玉県秩父市山田1538番地1</td>
-                <td className="p-3 text-stone-600">西武秩父駅周辺</td>
+                <td className="p-3 text-stone-600">◆送迎有◆その他、西武秩父駅よりタクシー10分又は定峰行きバス25分金昌寺下車徒歩4分●関越道花園ICより40分●</td>
                 <td className="p-3 text-stone-600">３０台　　【無料・予約不要】</td>
                 <td className="p-3 font-bold text-amber-600">★4.59（2169件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,220〜</td>
@@ -608,7 +608,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>約300台（屋外／宿泊者無料）※正面玄関へお越しください。係が駐車場へご案内させていただきます。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.72 ／ 立地 ★4.48 ／ 部屋 ★4.61 ／ 設備 ★4.6 ／ 風呂 ★4.6</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「美味しかったー!ホテルのスタッフ皆さんが素晴らしい接客。お部屋は綺麗に清掃されている。お風呂も心地よい。温度もよい。清潔感あり。食事は巨人軍の高評価があり期待して伺いました。期待通り、…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「美味しかったー!ホテルのスタッフ皆さんが素晴らしい接客。お部屋は綺麗に清掃されている。お風呂も心地よい。温度もよい。清潔感あり。食事は巨人軍の高評価があり期待して伺いました。」
                   </blockquote>
                 </div>
               </div>
@@ -652,7 +652,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>３０台　　【無料・予約不要】</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「源泉の質と料理に大満足、秩父の穴場宿歴史ある建物ですが清潔感があり安心。お風呂は源泉の質が抜群で、上がってから身体の芯からじんわり温まるタイプ。接客も大変丁寧でした。お料理も朝夕ともに大満足。一人…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「源泉の質と料理に大満足、秩父の穴場宿歴史ある建物ですが清潔感があり安心。お風呂は源泉の質が抜群で、上がってから身体の芯からじんわり温まるタイプ。接客も大変丁寧でした。お料理も朝夕ともに大満足。」
                   </blockquote>
                 </div>
               </div>

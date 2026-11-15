@@ -485,7 +485,7 @@ export default function FurusatoFeaturePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. スマイルホテル青森</td>
                 <td className="p-3 text-stone-600">青森県青森市本町2-4-7</td>
-                <td className="p-3 text-stone-600">青森駅周辺</td>
+                <td className="p-3 text-stone-600">JR・青い森鉄道青森駅から徒歩13分/JR新青森駅から車で約15分/青森中央I.C.から車10分/青森空港から車30分</td>
                 <td className="p-3 text-stone-600">提携駐車場あり1泊（15時〜翌10時） 600円〜、到着順。■バイク：不可。</td>
                 <td className="p-3 font-bold text-amber-600">★3.74（2391件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,700〜</td>
@@ -494,7 +494,7 @@ export default function FurusatoFeaturePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 花巻温泉郷　台温泉　いやしろの湯　ホテル三右ェ門</td>
                 <td className="p-3 text-stone-600">岩手県花巻市台２－４５</td>
-                <td className="p-3 text-stone-600">花巻駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ東北本線 花巻駅より車で１５分／東北新幹線 新花巻駅より車で２０分／花巻空港より車で１５分</td>
                 <td className="p-3 text-stone-600">有り　３０台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★3.94（364件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,700〜</td>
@@ -503,7 +503,7 @@ export default function FurusatoFeaturePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. ホテル狩野</td>
                 <td className="p-3 text-stone-600">岩手県花巻市大通り1-7-41</td>
-                <td className="p-3 text-stone-600">花巻駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ花巻駅より徒歩30秒</td>
                 <td className="p-3 text-stone-600">有り　１０台　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.21（56件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,900〜</td>
@@ -512,7 +512,7 @@ export default function FurusatoFeaturePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 花巻温泉　佳松園</td>
                 <td className="p-3 text-stone-600">岩手県花巻市湯本第1地割125-2</td>
-                <td className="p-3 text-stone-600">新花巻駅周辺</td>
+                <td className="p-3 text-stone-600">花巻IC：右折後直進4km（5分）、JR新花巻駅・JR花巻駅：無料送迎バス20分（定時運行・完全予約制）</td>
                 <td className="p-3 text-stone-600">有り　30台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.69（1120件）</td>
                 <td className="p-3 font-bold text-rose-600">¥18,700〜</td>
@@ -572,7 +572,7 @@ export default function FurusatoFeaturePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　３０台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.04 ／ 立地 ★3.83 ／ 部屋 ★3.89 ／ 設備 ★3.74 ／ 風呂 ★4.03 ／ 食事 ★4.11</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「設備は古めだが清潔で食事も美味しく満足設備は多少古い感じはしますが、十分綺麗に行き届いた感じになっております。食事も十分でおいしかったです。また機会がありましたら伺いたいと思います。大変満足いたし…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「設備は古めだが清潔で食事も美味しく満足設備は多少古い感じはしますが、十分綺麗に行き届いた感じになっております。食事も十分でおいしかったです。また機会がありましたら伺いたいと思います。」
                   </blockquote>
                 </div>
               </div>
@@ -594,7 +594,7 @@ export default function FurusatoFeaturePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１０台　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近で清掃が行き届き、素泊まりでも快適今回は朝が早かったため素泊まりにしましたが、いつも美味しい朝食をいただいています。年季の入った建物ではありますが、清掃は行き届いていますし駅も近く不便はありま…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近で清掃が行き届き、素泊まりでも快適今回は朝が早かったため素泊まりにしましたが、いつも美味しい朝食をいただいています。」
                   </blockquote>
                 </div>
               </div>
@@ -616,7 +616,7 @@ export default function FurusatoFeaturePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　30台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.74 ／ 立地 ★4.61 ／ 部屋 ★4.64 ／ 設備 ★4.68 ／ 風呂 ★4.79 ／ 食事 ★4.72</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの対応が良く、食事も温泉も大満足スタッフの皆さんの対応が感じよく、チェックインからチェックアウトまでとても気持ちよく過ごすことができました。食事も温泉もお部屋も満足で非日常の空間でリフレッ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの対応が良く、食事も温泉も大満足スタッフの皆さんの対応が感じよく、チェックインからチェックアウトまでとても気持ちよく過ごすことができました。」
                   </blockquote>
                 </div>
               </div>
@@ -638,7 +638,7 @@ export default function FurusatoFeaturePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「高遠湖の景色と温泉、スマートな接客に大満足高遠湖を臨むお部屋は、景色を眺めとてもリラックスすることができました。 美肌効果のある温泉はとっても気持ちよかったです。レストランは夕食 朝食ともに 、ち…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「高遠湖の景色と温泉、スマートな接客に大満足高遠湖を臨むお部屋は、景色を眺めとてもリラックスすることができました。 美肌効果のある温泉はとっても気持ちよかったです。」
                   </blockquote>
                 </div>
               </div>

@@ -422,8 +422,8 @@ export default function Page() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 武生駅よりアクセス。ハピラインふくい武生駅下車徒歩1分！ 北陸自動車道武生IC車で10分。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「ホテルクラウンヒルズ武生駅前」にチェックイン。ハピライン武生駅より徒歩1分以内の好立地。9Fスカイレストランからは、越前市街を一望できます。などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「ホテルクラウンヒルズ武生駅前」の湯処へ。ハピライン武生駅より徒歩1分以内の好立地。9Fスカイレストランからは、とともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「ホテルクラウンヒルズ武生駅前」にチェックイン。ハピライン武生駅より徒歩1分以内の好立地。9Fスカイレストランからは、越前市街を一望できます。 荷物を解き、落ち着いた室内でまず一息つく。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「ホテルクラウンヒルズ武生駅前」の大浴場・露天風呂へ。日暮れの静けさの中で湯に浸かり、旅の緊張をゆっくりと解きほぐす。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「ホテルクラウンヒルズ武生駅前」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -435,7 +435,7 @@ export default function Page() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「ホテルクラウンヒルズ武生駅前」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「ホテルクラウンヒルズ武生駅前」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「料理旅館いずみ荘」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は「ホテルクラウンヒルズ武生駅前」周辺の観光スポットや地元の名産店に立ち寄り、ご当地のお土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>
@@ -563,7 +563,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. ホテルクラウンヒルズ武生駅前（ＢＢＨホテルグループ）</td>
                 <td className="p-3 text-stone-600">福井県越前市府中1-2-3</td>
-                <td className="p-3 text-stone-600">武生駅周辺</td>
+                <td className="p-3 text-stone-600">ハピラインふくい武生駅下車徒歩1分！ 北陸自動車道武生IC車で10分</td>
                 <td className="p-3 text-stone-600">有り　40台　840円／泊</td>
                 <td className="p-3 font-bold text-amber-600">★4（915件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,400〜</td>
@@ -581,7 +581,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 土佐和紙工芸村「くらうど」</td>
                 <td className="p-3 text-stone-600">高知県吾川郡いの町鹿敷1226</td>
-                <td className="p-3 text-stone-600">伊野駅周辺</td>
+                <td className="p-3 text-stone-600">JR伊野駅より北部交通バスで15分、岩村下車すぐ/高知市内より車で30分</td>
                 <td className="p-3 text-stone-600">有り　９０台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.43（278件）</td>
                 <td className="p-3 font-bold text-rose-600">¥10,850〜</td>
@@ -610,7 +610,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　40台　840円／泊</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「花火会場への好立地と充実したサービスが魅力越前市サマーフェスティバルのために宿泊しました。花火会場に行くには立地は最高でした。部屋などはよくあるビジネスホテルといった感じで良くも悪くもなく…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「花火会場への好立地と充実したサービスが魅力越前市サマーフェスティバルのために宿泊しました。花火会場に行くには立地は最高でした。」
                   </blockquote>
                 </div>
               </div>
@@ -654,7 +654,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　９０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「接客とロケーションが最高、食事も大満足接客対応がとても素晴らしくロケーションも抜群でした。朝食、夕食ともとても美味しく是非また利用したいです。色々、高知の宿を迷いましたが、ここにして良かったです。…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「接客とロケーションが最高、食事も大満足接客対応がとても素晴らしくロケーションも抜群でした。朝食、夕食ともとても美味しく是非また利用したいです。色々、高知の宿を迷いましたが、ここにして良かったです。」
                   </blockquote>
                 </div>
               </div>

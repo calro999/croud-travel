@@ -401,7 +401,7 @@ export default function AutumnBudgetHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 松本駅から一番近い大浴場のある　ホテルニューステーション＜長野県＞</td>
                 <td className="p-3 text-stone-600">長野県松本市中央1-1-11</td>
-                <td className="p-3 text-stone-600">松本駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ松本駅北隣り徒歩１分。駅（東口）を出て左手４軒目。長野道松本ＩＣから車で１０分。松本バスターミナルから徒歩４分。</td>
                 <td className="p-3 text-stone-600">1000円/泊　アメニティパーク（中央1-15-25）高さ155cm以下　不適合車は別の場所へご案内</td>
                 <td className="p-3 font-bold text-amber-600">★4.14（3072件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,700〜</td>
@@ -410,7 +410,7 @@ export default function AutumnBudgetHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. いろはグランホテル松本駅前</td>
                 <td className="p-3 text-stone-600">長野県松本市中央1-14-9</td>
-                <td className="p-3 text-stone-600">松本駅周辺</td>
+                <td className="p-3 text-stone-600">JR松本駅より徒歩4分/長野自動車道松本ICより車で約10分/伊勢町通り沿いMウイング斜め前</td>
                 <td className="p-3 text-stone-600">有料提携駐車場有(詳細はホテルまでお問い合わせください)当館隣の病院は当駐車場ではありません</td>
                 <td className="p-3 font-bold text-amber-600">★4.41（1729件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,980〜</td>
@@ -419,7 +419,7 @@ export default function AutumnBudgetHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. スーパーホテル松本駅前</td>
                 <td className="p-3 text-stone-600">長野県松本市中央1-1-7</td>
-                <td className="p-3 text-stone-600">松本駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ松本駅より徒歩3分。松本駅お城口（東口）を出て左手に進みの1つ目の信号手前「SUPERHOTEL」の看板が目印です。</td>
                 <td className="p-3 text-stone-600">事前予約制（8台）　【1泊1,000円】※満車時は近隣の有料パーキングをご利用下さい。</td>
                 <td className="p-3 font-bold text-amber-600">★4.2（1073件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,625〜</td>
@@ -428,7 +428,7 @@ export default function AutumnBudgetHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 東横ＩＮＮ松本駅東口</td>
                 <td className="p-3 text-stone-600">長野県松本市深志1-1-4</td>
-                <td className="p-3 text-stone-600">松本駅周辺</td>
+                <td className="p-3 text-stone-600">松本駅東口より徒歩約3分</td>
                 <td className="p-3 text-stone-600">平置き：18台（ \1,000/1泊）先着順　※1台：身障者用</td>
                 <td className="p-3 font-bold text-amber-600">★4.04（425件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,198〜</td>
@@ -437,7 +437,7 @@ export default function AutumnBudgetHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 東横ＩＮＮ松本駅前本町</td>
                 <td className="p-3 text-stone-600">長野県松本市中央２－１－２３</td>
-                <td className="p-3 text-stone-600">松本駅周辺</td>
+                <td className="p-3 text-stone-600">JR松本駅より徒歩6分。【花時計公園】の目の前です。</td>
                 <td className="p-3 text-stone-600">有り（先着順）　500円/泊（立体）、1000円/泊（平地）。オートバイ 300円/泊</td>
                 <td className="p-3 font-bold text-amber-600">★4.05（908件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,195〜</td>
@@ -510,7 +510,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>事前予約制（8台）　【1泊1,000円】※満車時は近隣の有料パーキングをご利用下さい。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.28 ／ 立地 ★4.17 ／ 部屋 ★4.18 ／ 設備 ★4.11 ／ 風呂 ★4 ／ 食事 ★4.26</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「立地と接客は最高だがユニットバスが極狭駅から近くとても便利な立地にあります。2段ベットの部屋にしたものの想像以上の狭さでびっくり。部屋の狭さは我慢出来ましたがユニットバスの狭さが異常(笑)ユニット…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「立地と接客は最高だがユニットバスが極狭駅から近くとても便利な立地にあります。2段ベットの部屋にしたものの想像以上の狭さでびっくり。」
                   </blockquote>
                 </div>
               </div>
@@ -532,7 +532,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>平置き：18台（ \1,000/1泊）先着順　※1台：身障者用</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.98 ／ 立地 ★4.2 ／ 部屋 ★4.15 ／ 設備 ★4.02 ／ 風呂 ★3.97 ／ 食事 ★3.93</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「Perfect Location and Great Amenities for Us!We used a bus from Shinjyuku, Tokyo, to Matsumoto. Thi…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「Perfect Location and Great Amenities for Us!」
                   </blockquote>
                 </div>
               </div>

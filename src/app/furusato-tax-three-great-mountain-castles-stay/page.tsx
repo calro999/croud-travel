@@ -67,7 +67,7 @@ export default function Page() {
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/30961/30961map.gif",
     "reviewCount": 249,
     "reviewAverage": 4.3,
-    "userReview": "子供が多く騒がしく落ち着かない環境子供向け。大人同士で落ち着いて行くホテルじゃない。自分がいけないのだか。もっとよく口コミ観れば良かった。クチコミの詳細。",
+    "userReview": "子供が多く騒がしく落ち着かない環境子供向け。大人同士で落ち着いて行くホテルじゃない。自分がいけないのだか。もっとよく口コミ観れば良かった。",
     "hotelMinCharge": 9750,
     "address1": "岐阜県",
     "address2": "中津川市蛭川4467-4",
@@ -422,8 +422,8 @@ export default function Page() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 大和八木駅よりアクセス。大和八木駅より徒歩3分 ＜近鉄難波駅より特急で35分・京都駅より特急で50分＞吉野の紅葉まで特急で約50分♪。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「ＣＡＮＤＥＯ ＨＯＴＥＬＳ奈良橿原」にチェックイン。最上階に大展望風呂を備えるジャパンクールデザインホテル／全室禁煙などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「ＣＡＮＤＥＯ ＨＯＴＥＬＳ奈良橿原」の湯処へ。最上階に大展望風呂を備えるジャパンクールデザインホテル／全室禁煙とともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「ＣＡＮＤＥＯ ＨＯＴＥＬＳ奈良橿原」にチェックイン。最上階に大展望風呂を備えるジャパンクールデザインホテル／全室禁煙が魅力の一軒。客室で荷物をほどいて穏やかな午後のひとときを。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「ＣＡＮＤＥＯ ＨＯＴＥＬＳ奈良橿原」の湯船で寛ぎタイム。季節の空気を感じながら手足を伸ばし、心豊かな夕方のリラックス時間を満喫。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「ＣＡＮＤＥＯ ＨＯＴＥＬＳ奈良橿原」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -435,7 +435,7 @@ export default function Page() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「ＣＡＮＤＥＯ ＨＯＴＥＬＳ奈良橿原」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「ＣＡＮＤＥＯ ＨＯＴＥＬＳ奈良橿原」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「吉備高原リゾートホテル」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は「ＣＡＮＤＥＯ ＨＯＴＥＬＳ奈良橿原」周辺の観光スポットや地元の名産店に立ち寄り、ご当地のお土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>
@@ -485,49 +485,49 @@ export default function Page() {
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">あわせて読みたい人気特集＆全国エリアガイド</h2>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
-            <a href="/winter-tokyo-odaiba-toyosu-senkyakubanrai-yakei-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/winter-shimane-tsuwano-onsen-iwamigyu-jizake-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12・1月東京】お台場レインボー花火＆豊洲千客万来！冬の東京ベイ夜景と江戸前海鮮・天然温泉に寛ぐ名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">（metadata.title as string）</span>
             </a>
-            <a href="/autumn-tokyo-disney-resort-halloween-maihama-hotels-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/winter-tottori-daisen-kaike-onsen-matsubagani-snow-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">秋の東京ディズニーリゾート・ハロウィーン：ディズニー・ハロウィーン＆ヴィランズの饗宴！仮装・限定パレード・秋のグルメ＆舞浜オフィシャル・パートナー厳選名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">伯耆大山＆皆生温泉！ 白銀の「伯耆富士」絶景と大神山神社初詣・日本海の塩湯露天＆冬旬の松葉ガニ名宿5選</span>
             </a>
-            <a href="/furusato-tax-tokyo-disney-resort-official-hotel-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/winter-tottori-kaike-onsen-matsuba-crab-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">舞浜直結！東京ディズニーリゾート公式オフィシャルホテル×ふるさと納税極上旅ガイドシェラトン・ヒルトン・グランドニッコーで夢の国をお得に満喫</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12月皆生温泉の大山雪景色とカニ漁解禁】 日本海の美肌塩湯・11月解禁境港活松葉ガニ＆鳥取和牛の宿5選</span>
             </a>
-            <a href="/solo-luxury-club-lounge-reward-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/winter-tottori-sakaiminato-kaike-onsen-matsubagani-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">一人ホテルステイ・ご褒美宿泊：クラブラウンジアクセス付き！東京＆横浜の高層ラグジュアリーホテル 厳選3選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「11・12・1月鳥取」冬の味覚の王様・山陰松葉ガニ解禁！境港水産物直売センター＆水木しげるロードと皆生温泉「塩の湯」・大山冬景色を堪能する名宿5選</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
             <div className="flex flex-wrap gap-2">
               <Link
-                href="/prefectures/tokyo/"
+                href="/prefectures/tottori/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                東京都の宿・温泉
+                鳥取県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/fukui/"
+                href="/prefectures/hiroshima/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                福井県の宿・温泉
-              </Link>
-              <Link
-                href="/prefectures/kagoshima/"
-                className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
-              >
-                鹿児島県の宿・温泉
+                広島県の宿・温泉
               </Link>
               <Link
                 href="/prefectures/okayama/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 岡山県の宿・温泉
+              </Link>
+              <Link
+                href="/prefectures/shimane/"
+                className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
+              >
+                島根県の宿・温泉
               </Link>
             </div>
           </div>

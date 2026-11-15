@@ -48,7 +48,7 @@ export default function FurusatoTaxPage() {
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* パンくずリスト */}
-      <nav className="border-b border-slate-800/80 bg-slate-900/60 backdrop-blur px-4 py-3 text-xs text-slate-400">
+      <nav className="border-b border-slate-800/80 bg-slate-900/60 backdrop-blur px-4 py-3 text-xs text-slate-200">
         <div className="max-w-6xl mx-auto flex items-center gap-2 overflow-x-auto whitespace-nowrap">
           <Link href="/" className="hover:text-amber-400 transition">ホーム</Link>
           <span>/</span>
@@ -631,8 +631,8 @@ export default function FurusatoTaxPage() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 貴船口駅よりアクセス。叡山電車鞍馬線 貴船口駅より徒歩２０分（送迎有り・事前予約不要。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「京都“元祖川床”発祥の老舗料理旅館 貴船ふじや」にチェックイン。貴船・川床の元祖 創業天保年間 貴船神社門前に佇み、洛北の四季を盛り込んだ川魚生簀料理が自慢。などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「京都“元祖川床”発祥の老舗料理旅館 貴船ふじや」の湯処へ。貴船・川床の元祖 創業天保年間 貴船神社門前に佇み、洛北の四季を盛り込とともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「京都“元祖川床”発祥の老舗料理旅館 貴船ふじや」にチェックイン。貴船・川床の元祖 創業天保年間 貴船神社門前に佇み、洛北の四季を盛り込んだ川魚生簀料理が自慢。 館内の設えを確かめながら、これからの滞在に備えてゆっくり休息する。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「京都“元祖川床”発祥の老舗料理旅館 貴船ふじや」の自慢の湯処へ。温かな湯気と落ち着いた雰囲気に癒やされながら、夕食前の贅沢なひとときを過ごす。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「京都“元祖川床”発祥の老舗料理旅館 貴船ふじや」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -644,7 +644,7 @@ export default function FurusatoTaxPage() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「京都“元祖川床”発祥の老舗料理旅館 貴船ふじや」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「京都“元祖川床”発祥の老舗料理旅館 貴船ふじや」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「料理旅館 ひろ文」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は「京都“元祖川床”発祥の老舗料理旅館 貴船ふじや」周辺の観光スポットや地元の名産店に立ち寄り、ご当地のお土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>

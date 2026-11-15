@@ -76,7 +76,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F145332%2F145332.html%26f_flg%3DPLAN",
     "hotelMinCharge": 4300,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/145332/145332.jpg",
-    "userReview": "オーシャンビューと朝食に感動、コスパ最高!沖縄旅行2日目に2名で宿泊しました。夜到着のため朝起きて窓からの素晴らしいオーシャンビューに大感動しました。夜、宿泊者用専用の卓球やダーツを楽しみまし。",
+    "userReview": "オーシャンビューと朝食に感動、コスパ最高!沖縄旅行2日目に2名で宿泊しました。夜到着のため朝起きて窓からの素晴らしいオーシャンビューに大感動しました。夜、宿泊者用専用の卓球やダーツを楽しみました。",
     "reviewAverage": 4.18,
     "reviewCount": 1188,
     "address": "沖縄県うるま市与那城伊計1286",
@@ -132,7 +132,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F44112%2F44112.html%26f_flg%3DPLAN",
     "hotelMinCharge": 10098,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/44112/44112.jpg",
-    "userReview": "料理は期待外れで部屋の清掃も不十分ミニ懐石を期待していましたが美味しい料理が何一つ無かったです。伊東園の。",
+    "userReview": "料理は期待外れで部屋の清掃も不十分ミニ懐石を期待していましたが美味しい料理が何一つ無かったです。部屋もホコリだらけ、特に窓やドアのガラスはとても清掃しているとは思えない程汚いです。",
     "reviewAverage": 3.89,
     "reviewCount": 806,
     "address": "静岡県熱海市咲見町6-1",
@@ -284,7 +284,7 @@ export default function Page() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 那覇空港から沖縄自動車道利用で約９０分（沖縄北ＩＣより海中道路県道１０号経由約５０分）で現地へ到着。</li>
                 <li>・<strong className="text-stone-800">15:30〜</strong> 「伊計島温泉 AJリゾートアイランド伊計島」へチェックイン。落ち着いた空間で旅の荷を解き、ゆったりとした時間をスタート。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「伊計島温泉 AJリゾートアイランド伊計島」の湯処へ。日頃の疲れを癒やす湯浴みとともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「伊計島温泉 AJリゾートアイランド伊計島」の大浴場・露天風呂へ。日暮れの静けさの中で湯に浸かり、旅の緊張をゆっくりと解きほぐす。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「伊計島温泉 AJリゾートアイランド伊計島」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -296,7 +296,7 @@ export default function Page() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「伊計島温泉 AJリゾートアイランド伊計島」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「伊計島温泉 AJリゾートアイランド伊計島」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「ベイリゾートホテル小豆島」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は「伊計島温泉 AJリゾートアイランド伊計島」周辺の観光スポットや地元の名産店に立ち寄り、ご当地のお土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>
@@ -367,28 +367,28 @@ export default function Page() {
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
             <div className="flex flex-wrap gap-2">
               <Link
-                href="/prefectures/kanagawa/"
+                href="/prefectures/mie/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                神奈川県の宿・温泉
+                三重県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/yamaguchi/"
+                href="/prefectures/shizuoka/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                山口県の宿・温泉
+                静岡県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/ibaraki/"
+                href="/prefectures/gifu/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                茨城県の宿・温泉
+                岐阜県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/osaka/"
+                href="/prefectures/aichi/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                大阪府の宿・温泉
+                愛知県の宿・温泉
               </Link>
             </div>
           </div>
@@ -424,7 +424,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 伊計島温泉　AJリゾートアイランド伊計島</td>
                 <td className="p-3 text-stone-600">沖縄県うるま市与那城伊計1286</td>
-                <td className="p-3 text-stone-600">那覇空港から沖縄自動車道利用で約９０分（沖縄北ＩＣより海中道路県道１０</td>
+                <td className="p-3 text-stone-600">那覇空港から沖縄自動車道利用で約９０分（沖縄北ＩＣより海中道路県道１０号経由約５０分）</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.18（1188件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,300〜</td>
@@ -433,7 +433,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. ベイリゾートホテル小豆島</td>
                 <td className="p-3 text-stone-600">香川県小豆郡小豆島町古江乙16-3</td>
-                <td className="p-3 text-stone-600">坂出駅周辺</td>
+                <td className="p-3 text-stone-600">（車）坂手港3分/福田港30分/土庄港30分/草壁港10分/池田港20分★大部港以外の無料送迎有（2日前までに予約要）</td>
                 <td className="p-3 text-stone-600">有り　６０台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.26（1959件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,600〜</td>
@@ -442,7 +442,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 熱海温泉　ホテル大野屋（伊東園ホテルズ）</td>
                 <td className="p-3 text-stone-600">静岡県熱海市和田浜南町3-9</td>
-                <td className="p-3 text-stone-600">熱海駅より路線バス（乗り場７）にて、「マリンスパあたみ」下車　／　車で</td>
+                <td className="p-3 text-stone-600">熱海駅より路線バス（乗り場７）にて、「マリンスパあたみ」下車 ／ 車で「長泉IC」から伊豆縦貫・函熱道路で６０分</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★3.93（2145件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,898〜</td>
@@ -451,7 +451,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 熱海温泉　ウオミサキホテル（伊東園ホテルズ）</td>
                 <td className="p-3 text-stone-600">静岡県熱海市和田浜南町7-2</td>
-                <td className="p-3 text-stone-600">熱海駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ東海道新幹線 熱海駅よりバスに乗車、マリンスパあたみ下車で徒歩1分</td>
                 <td className="p-3 text-stone-600">有り　３０台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★3.68（1013件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,698〜</td>
@@ -460,7 +460,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 熱海温泉　アタミシーズンホテル（伊東園ホテルズ）</td>
                 <td className="p-3 text-stone-600">静岡県熱海市咲見町6-1</td>
-                <td className="p-3 text-stone-600">熱海駅周辺</td>
+                <td className="p-3 text-stone-600">JR 熱海駅より車で５分、徒歩１０分</td>
                 <td className="p-3 text-stone-600">有り　１３台　無料　予約不要（満車の場合は近隣の市営駐車場（ホテルより徒歩約10分）ご案内）</td>
                 <td className="p-3 font-bold text-amber-600">★3.88（825件）</td>
                 <td className="p-3 font-bold text-rose-600">¥10,098〜</td>
@@ -489,7 +489,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「オーシャンビューと朝食に感動、コスパ最高!沖縄旅行2日目に2名で宿泊しました。夜到着のため朝起きて窓からの素晴らしいオーシャンビューに大感動しました。夜、宿泊者用専用の卓球やダーツを楽しみまし…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「オーシャンビューと朝食に感動、コスパ最高!沖縄旅行2日目に2名で宿泊しました。夜到着のため朝起きて窓からの素晴らしいオーシャンビューに大感動しました。」
                   </blockquote>
                 </div>
               </div>
@@ -511,7 +511,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　６０台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.4 ／ 立地 ★4.48 ／ 部屋 ★4.25 ／ 設備 ★4.11 ／ 風呂 ★4.28 ／ 食事 ★4.23</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「雨の景色が残念、シャンプーバーは満足あいにくの雨だったのですが、晴れていたらどんなに景色が素敵なホテルだったかと思うと残念でした。お風呂の廊下が塩素臭かったのですが、お風呂ではあまり匂いは感じませ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「雨の景色が残念、シャンプーバーは満足あいにくの雨だったのですが、晴れていたらどんなに景色が素敵なホテルだったかと思うと残念でした。」
                   </blockquote>
                 </div>
               </div>
@@ -533,7 +533,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「館内の清掃不足と危険な温度設定に不満建物の老朽は致し方のないことですが、館内室内の清潔さは努力できると思います。ロビーに置かれた椅子は長年お客様に愛用されてきた暁なのでしょうか、背もたれの首の…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「館内の清掃不足と危険な温度設定に不満建物の老朽は致し方のないことですが、館内室内の清潔さは努力できると思います。」
                   </blockquote>
                 </div>
               </div>
@@ -555,7 +555,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　３０台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.74 ／ 立地 ★3.9 ／ 部屋 ★3.66 ／ 設備 ★3.52 ／ 風呂 ★3.82 ／ 食事 ★3.7</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋と風呂は良いが、臭いと料理の少なさが残念部屋と風呂は、最高に良かったです。但し、部屋に入るときは、臭いにおいが酷かった。臭いをなくして欲しい。バイキングの料理が少なかった。また…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋と風呂は良いが、臭いと料理の少なさが残念部屋と風呂は、最高に良かったです。但し、部屋に入るときは、臭いにおいが酷かった。臭いをなくして欲しい。バイキングの料理が少なかった。」
                   </blockquote>
                 </div>
               </div>
@@ -577,7 +577,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１３台　無料　予約不要（満車の場合は近隣の市営駐車場（ホテルより徒歩約10分）ご案内）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.86 ／ 立地 ★3.74 ／ 部屋 ★3.94 ／ 設備 ★3.69 ／ 風呂 ★3.77 ／ 食事 ★3.94</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「広々とした部屋と美味しいバイキングに大満足部屋が広く快適でした。ベットがふかふかでよく寝れました。バイキングもどれも美味しく、ビールが飲み放題なのは衝撃でした。また泊まりたいです。…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「広々とした部屋と美味しいバイキングに大満足部屋が広く快適でした。ベットがふかふかでよく寝れました。バイキングもどれも美味しく、ビールが飲み放題なのは衝撃でした。また泊まりたいです。」
                   </blockquote>
                 </div>
               </div>

@@ -334,7 +334,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. スーパーホテル仙台駅東口天然温泉</td>
                 <td className="p-3 text-stone-600">宮城県仙台市宮城野区名掛丁203-12</td>
-                <td className="p-3 text-stone-600">仙台駅周辺</td>
+                <td className="p-3 text-stone-600">仙台駅東口より徒歩で約５分/北部名掛丁自由通路」を通り出口を出てから徒歩2分/高速バス「仙台駅前」のりばから徒歩5分</td>
                 <td className="p-3 text-stone-600">無し（近隣コインパーキングをご利用ください）</td>
                 <td className="p-3 font-bold text-amber-600">★4.5（1152件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,540〜</td>
@@ -343,7 +343,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 天然温泉プレミアホテル―ＣＡＢＩＮ―旭川</td>
                 <td className="p-3 text-stone-600">北海道旭川市1条通7丁目</td>
-                <td className="p-3 text-stone-600">旭川駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ旭川駅『北口(西側)』より徒歩３分</td>
                 <td className="p-3 text-stone-600">先着順800円~1,100円車種により異なります。満車時とワゴン、バイクは徒歩圏内の提携先へご案内。</td>
                 <td className="p-3 font-bold text-amber-600">★4.2（5338件）</td>
                 <td className="p-3 font-bold text-rose-600">¥2,592〜</td>
@@ -352,7 +352,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 変なホテル大阪　なんば</td>
                 <td className="p-3 text-stone-600">大阪府大阪市中央区西心斎橋2-10-16</td>
-                <td className="p-3 text-stone-600">心斎橋駅周辺</td>
+                <td className="p-3 text-stone-600">大阪メトロ心斎橋駅8番出口より徒歩6分／なんば駅25番出口より徒歩6分／近鉄難波駅より徒歩9分 好立地で評価◎</td>
                 <td className="p-3 text-stone-600">近隣のコインパーキングをご利用下さいませ。</td>
                 <td className="p-3 font-bold text-amber-600">★4.08（745件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,070〜</td>
@@ -381,7 +381,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>無し（近隣コインパーキングをご利用ください）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.59 ／ 立地 ★4.44 ／ 部屋 ★4.47 ／ 設備 ★4.44 ／ 風呂 ★4.42 ／ 食事 ★4.43</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「無料の朝食が種類豊富で美味しく大満足お部屋も受付もよかったけど、一番いいなと思ったのは朝食です。朝食は無料で付いていたので、あまり期待はしていなかったんですが、焼きたてのパンやおかずも思ってた…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「無料の朝食が種類豊富で美味しく大満足お部屋も受付もよかったけど、一番いいなと思ったのは朝食です。」
                   </blockquote>
                 </div>
               </div>

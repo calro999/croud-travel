@@ -90,7 +90,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F31249%2F31249.html%26f_flg%3DPLAN",
     "hotelMinCharge": 8400,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/31249/31249.jpg",
-    "userReview": "施設は古いが清潔、記念日の心遣いに感動施設は古いですが館内は清潔で綺麗です。記念日の連絡はしませんでしたが、覚えていてくれたか赤飯のサービスと記念撮影をしていただきました。クチコミの詳細は。",
+    "userReview": "施設は古いが清潔、記念日の心遣いに感動施設は古いですが館内は清潔で綺麗です。記念日の連絡はしませんでしたが、覚えていてくれたか赤飯のサービスと記念撮影をしていただきました。",
     "reviewAverage": 4.17,
     "reviewCount": 1611,
     "address": "愛知県額田郡幸田町荻遠峰10",
@@ -284,7 +284,7 @@ export default function Page() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 北陸新幹線上田駅、中央線松本駅よりバスで50分/中央自動車道松本IC、上信越自動車道東部湯の丸ICよりお車で40分で現地へ到着。</li>
                 <li>・<strong className="text-stone-800">15:30〜</strong> 「鹿教湯温泉 旅館 斉北荘」へチェックイン。落ち着いた空間で旅の荷を解き、ゆったりとした時間をスタート。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「鹿教湯温泉 旅館 斉北荘」の湯処へ。日頃の疲れを癒やす湯浴みとともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「鹿教湯温泉 旅館 斉北荘」の大浴場・露天風呂へ。日暮れの静けさの中で湯に浸かり、旅の緊張をゆっくりと解きほぐす。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「鹿教湯温泉 旅館 斉北荘」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -296,7 +296,7 @@ export default function Page() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「鹿教湯温泉 旅館 斉北荘」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「鹿教湯温泉 旅館 斉北荘」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「蒲郡温泉 銀河伝説煌めく天空の宿 天の丸」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は「鹿教湯温泉 旅館 斉北荘」周辺の観光スポットや地元の名産店に立ち寄り、ご当地のお土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>
@@ -424,7 +424,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 鹿教湯温泉　旅館　斉北荘</td>
                 <td className="p-3 text-stone-600">長野県上田市西内1262</td>
-                <td className="p-3 text-stone-600">北陸新幹線上田駅、中央線松本駅よりバスで50分/中央自動車道松本IC、</td>
+                <td className="p-3 text-stone-600">北陸新幹線上田駅、中央線松本駅よりバスで50分/中央自動車道松本IC、上信越自動車道東部湯の丸ICよりお車で40分</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.15（201件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,250〜</td>
@@ -433,7 +433,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 蒲郡温泉　銀河伝説煌めく天空の宿　天の丸</td>
                 <td className="p-3 text-stone-600">愛知県額田郡幸田町荻遠峰10</td>
-                <td className="p-3 text-stone-600">ＪＲ東海道本線　蒲郡駅／東名岡崎ＩＣより県道２６号、国道２４８号経由三</td>
+                <td className="p-3 text-stone-600">ＪＲ東海道本線 蒲郡駅／東名岡崎ＩＣより県道２６号、国道２４８号経由三河湾スカイラインへ ※送迎バス送り10時発</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.17（1611件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,400〜</td>
@@ -442,7 +442,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 伊香保温泉　名物畳風呂と料理自慢の宿　ホテルきむら</td>
                 <td className="p-3 text-stone-600">群馬県渋川市伊香保町伊香保557-32</td>
-                <td className="p-3 text-stone-600">渋川駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ渋川駅→路線バス（30分）→伊香保バスターミナル下車、またはタクシー（15分）／関越自動車道・渋川伊香保ＩＣ～20分</td>
                 <td className="p-3 text-stone-600">車100台・バイクの方は屋根付き駐車場がございます。料金無料・予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★3.71（2118件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,700〜</td>
@@ -451,7 +451,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 四万温泉　源泉掛け流しの貸切風呂と囲炉裏料理宿　湯の宿　山ばと</td>
                 <td className="p-3 text-stone-600">群馬県吾妻郡中之条町四万4358-11</td>
-                <td className="p-3 text-stone-600">関越自動車道・渋川伊香保Ｉ.Ｃから国道353経由60分JR中之条駅から</td>
+                <td className="p-3 text-stone-600">関越自動車道・渋川伊香保Ｉ.Ｃから国道353経由60分JR中之条駅からバスで30分 終点から徒歩20分</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.61（243件）</td>
                 <td className="p-3 font-bold text-rose-600">¥14,000〜</td>
@@ -460,7 +460,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 下呂温泉　ホテルくさかべアルメリア</td>
                 <td className="p-3 text-stone-600">岐阜県下呂市幸田1811</td>
-                <td className="p-3 text-stone-600">下呂駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ高山線 下呂駅より車で３分（無料送迎バス有り）/東海環状道富加関ＩＣより７０分又は中央道中津川ＩＣより６０分</td>
                 <td className="p-3 text-stone-600">有り　２００台　無料　予約不要　電気自動車充電器あり（有料、要ケーブル持込み）</td>
                 <td className="p-3 font-bold text-amber-600">★4.21（4605件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,920〜</td>
@@ -489,7 +489,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ご飯と味噌汁が絶品、とてもくつろげた旅館の宣伝通り、ご飯と味噌汁がすごく美味しかった。お湯も滑らかで肌にも優しい感じがしました。設備は古いですが隅々まで清掃されており、また、旅館の人も親切で、とて…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ご飯と味噌汁が絶品、とてもくつろげた旅館の宣伝通り、ご飯と味噌汁がすごく美味しかった。お湯も滑らかで肌にも優しい感じがしました。」
                   </blockquote>
                 </div>
               </div>
@@ -511,7 +511,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「施設は古いが清潔、記念日の心遣いに感動施設は古いですが館内は清潔で綺麗です。記念日の連絡はしませんでしたが、覚えていてくれたか赤飯のサービスと記念撮影をしていただきました。クチコミの詳細は…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「施設は古いが清潔、記念日の心遣いに感動施設は古いですが館内は清潔で綺麗です。記念日の連絡はしませんでしたが、覚えていてくれたか赤飯のサービスと記念撮影をしていただきました。」
                   </blockquote>
                 </div>
               </div>
@@ -533,7 +533,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>車100台・バイクの方は屋根付き駐車場がございます。料金無料・予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.79 ／ 立地 ★3.7 ／ 部屋 ★3.64 ／ 設備 ★3.49 ／ 風呂 ★3.71 ／ 食事 ★3.86</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「愛犬と部屋食を満喫、露天風呂も最高でした15歳のトイプードルと妻と一泊しました。外観は昔ながらの旅館ですが、部屋出しの食事、部屋の広さに満足です。そして、なんと言っても、部屋にある露天風呂…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「愛犬と部屋食を満喫、露天風呂も最高でした15歳のトイプードルと妻と一泊しました。外観は昔ながらの旅館ですが、部屋出しの食事、部屋の広さに満足です。」
                   </blockquote>
                 </div>
               </div>
@@ -555,7 +555,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「奥四万ダムに近く、温泉と地産料理に癒される奥四万ダムから比較的近いです。料理は量がちょうどよく群馬の食材をつかっておりとても美味しかったです。温泉の湯質は最高でした。何もすることが…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「奥四万ダムに近く、温泉と地産料理に癒される奥四万ダムから比較的近いです。料理は量がちょうどよく群馬の食材をつかっておりとても美味しかったです。温泉の湯質は最高でした。」
                   </blockquote>
                 </div>
               </div>

@@ -422,8 +422,8 @@ export default function Page() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 松阪駅よりアクセス。ＪＲ・近鉄松阪駅北口より徒歩１分。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「エースイン・松阪」にチェックイン。日本百名谷・大杉谷峡谷への玄関口。松阪牛の名店巡りと無料朝食バイキングが魅力の快適ホテル。などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「エースイン・松阪」の湯処へ。日本百名谷・大杉谷峡谷への玄関口。松阪牛の名店巡りと無料朝食バイキングとともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「エースイン・松阪」にチェックイン。日本百名谷・大杉谷峡谷への玄関口。松阪牛の名店巡りと無料朝食バイキングが魅力の快適ホテル。 荷物を解き、落ち着いた室内でまず一息つく。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「エースイン・松阪」の湯船で寛ぎタイム。季節の空気を感じながら手足を伸ばし、心豊かな夕方のリラックス時間を満喫。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「エースイン・松阪」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -435,7 +435,7 @@ export default function Page() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「エースイン・松阪」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「エースイン・松阪」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「神戸牛と有馬温泉 天然金泉・銀泉の宿 有馬御苑」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は「エースイン・松阪」周辺の観光スポットや地元の名産店に立ち寄り、ご当地のお土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>
@@ -563,7 +563,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. エースイン・松阪</td>
                 <td className="p-3 text-stone-600">三重県松阪市京町516-1</td>
-                <td className="p-3 text-stone-600">松阪駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ・近鉄松阪駅北口より徒歩１分</td>
                 <td className="p-3 text-stone-600">有り　無料</td>
                 <td className="p-3 font-bold text-amber-600">★3.98（2890件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,200〜</td>
@@ -572,7 +572,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 神戸牛と有馬温泉　天然金泉・銀泉の宿　有馬御苑</td>
                 <td className="p-3 text-stone-600">兵庫県神戸市北区有馬町1296</td>
-                <td className="p-3 text-stone-600">有馬温泉駅周辺</td>
+                <td className="p-3 text-stone-600">神戸電鉄線有馬温泉駅から徒歩２分、阪急バス有馬停より徒歩２分、阪神高速有馬口ＩＣより車３分、中国道西宮北ＩＣより車１０分</td>
                 <td className="p-3 text-stone-600">有（50台）ご宿泊者様は利用室数分まで無料　※場所が分かりづらいため当館HPアクセスページ参照下さい</td>
                 <td className="p-3 font-bold text-amber-600">★4.39（2779件）</td>
                 <td className="p-3 font-bold text-rose-600">¥9,900〜</td>
@@ -581,7 +581,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 休暇村　近江八幡</td>
                 <td className="p-3 text-stone-600">滋賀県近江八幡市沖島町宮ヶ浜</td>
-                <td className="p-3 text-stone-600">JR　近江八幡駅より近江鉄道バス休暇村行きにて約43分　※近江鉄道バス</td>
+                <td className="p-3 text-stone-600">JR 近江八幡駅より近江鉄道バス休暇村行きにて約43分 ※近江鉄道バス休暇村行き、土日祝日運休</td>
                 <td className="p-3 text-stone-600">有り　５００台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.31（793件）</td>
                 <td className="p-3 font-bold text-rose-600">¥15,200〜</td>
@@ -632,7 +632,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有（50台）ご宿泊者様は利用室数分まで無料　※場所が分かりづらいため当館HPアクセスページ参照下さい</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「結婚40周年の記念に金泉と銀泉を堪能結婚40周年の記念に夫婦で利用させていただきました。金泉、銀泉を堪能出来、駐車場の利用も親切にナビして頂けたのと、別館の喫茶店オーロラでいただいたチャーシュー麺…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「結婚40周年の記念に金泉と銀泉を堪能結婚40周年の記念に夫婦で利用させていただきました。」
                   </blockquote>
                 </div>
               </div>

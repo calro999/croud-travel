@@ -374,7 +374,7 @@ export default function HighwayBusArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. ＡＢホテル金沢</td>
                 <td className="p-3 text-stone-600">石川県金沢市広岡１丁目９番２５号</td>
-                <td className="p-3 text-stone-600">金沢駅周辺</td>
+                <td className="p-3 text-stone-600">『北陸新幹線・ＪＲ金沢駅』西口より徒歩1分。北陸自動車道『金沢西・東インター』より車で約１５分の好アクセス！</td>
                 <td className="p-3 text-stone-600">有料　1,000円/泊(１５：００～１０：００)　ホテル隣接の『名鉄協商パーキング』　※出し入別料金</td>
                 <td className="p-3 font-bold text-amber-600">★4.16（3911件）</td>
                 <td className="p-3 font-bold text-rose-600">¥2,400〜</td>
@@ -383,7 +383,7 @@ export default function HighwayBusArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 三井ガーデンホテル金沢</td>
                 <td className="p-3 text-stone-600">石川県金沢市上堤町1-22</td>
-                <td className="p-3 text-stone-600">金沢駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ 金沢駅よりお車にて約8分</td>
                 <td className="p-3 text-stone-600">ホテルに専用駐車場はございません。提携駐車場はホテル公式HP「館内利用案内」の駐車場をご覧ください。</td>
                 <td className="p-3 font-bold text-amber-600">★4.58（829件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,040〜</td>
@@ -392,7 +392,7 @@ export default function HighwayBusArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. ホテルインターゲート金沢</td>
                 <td className="p-3 text-stone-600">石川県金沢市高岡町2-5</td>
-                <td className="p-3 text-stone-600">金沢駅周辺</td>
+                <td className="p-3 text-stone-600">JR金沢駅から北鉄バス「南町・尾山神社」迄7分下車1分｜小松空港からバスで「武蔵ヶ辻・近江町市場」迄50分下車7分</td>
                 <td className="p-3 text-stone-600">ホテルには駐車場がございません。周辺コインパーキング（ホテルから徒歩5～10分程）をご利用ください。</td>
                 <td className="p-3 font-bold text-amber-600">★4.48（1380件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,000〜</td>
@@ -401,7 +401,7 @@ export default function HighwayBusArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. ホテルルートイン金沢駅前</td>
                 <td className="p-3 text-stone-600">石川県金沢市昭和町22-5</td>
-                <td className="p-3 text-stone-600">金沢駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ北陸本線・新幹線 金沢駅より徒歩５分／北陸自動車道 金沢西ＩＣより５．５ｋｍ</td>
                 <td className="p-3 text-stone-600">有り　１６６台　１，０００円（税込み／泊）　先着順・高さ制限２．１M迄</td>
                 <td className="p-3 font-bold text-amber-600">★4.09（1990件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,825〜</td>
@@ -410,7 +410,7 @@ export default function HighwayBusArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 備長炭の湯　ホテルクラウンヒルズ金沢香林坊（ＢＢＨホテルグループ）</td>
                 <td className="p-3 text-stone-600">石川県金沢市片町1-2-44</td>
-                <td className="p-3 text-stone-600">金沢駅周辺</td>
+                <td className="p-3 text-stone-600">金沢駅よりお車にて８分 東口バス乗り場6・８・９・10番から香林坊下車徒歩２分</td>
                 <td className="p-3 text-stone-600">提携のセントラルパーキングを、一泊１０００円(１５：００－翌１０：００)にて利用可能。出し入れ不可。</td>
                 <td className="p-3 font-bold text-amber-600">★3.76（867件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,350〜</td>
@@ -483,7 +483,7 @@ export default function HighwayBusArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>ホテルには駐車場がございません。周辺コインパーキング（ホテルから徒歩5～10分程）をご利用ください。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食やサービスが充実、部屋も快適で最高朝食バイキングの種類が豊富でこの価格でウェルカムドリンクやお茶漬けサービスなど有りで更に大浴場は夜は混んでいそうだったので部屋のお風呂に入ったが洗い場…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食やサービスが充実、部屋も快適で最高朝食バイキングの種類が豊富でこの価格でウェルカムドリンクやお茶漬けサービスなど有りで更に大浴場は夜は混んでいそうだったので部屋のお風呂に入ったが洗い場。」
                   </blockquote>
                 </div>
               </div>
@@ -527,7 +527,7 @@ export default function HighwayBusArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>提携のセントラルパーキングを、一泊１０００円(１５：００－翌１０：００)にて利用可能。出し入れ不可。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「壁のカビと換気扇の不備、大浴場の管理に不安部屋のカーテンの裏の壁がカビだらけなのと、部屋の浴室の換気扇が動いておらず、トイレのにおいが充満していました。大浴場も男女入れ替え制で、入り口に鍵もな…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「壁のカビと換気扇の不備、大浴場の管理に不安部屋のカーテンの裏の壁がカビだらけなのと、部屋の浴室の換気扇が動いておらず、トイレのにおいが充満していました。」
                   </blockquote>
                 </div>
               </div>

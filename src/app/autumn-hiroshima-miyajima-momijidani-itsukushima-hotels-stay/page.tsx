@@ -342,7 +342,7 @@ export default function MiyajimaMomijidaniAutumnPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 宮島グランドホテル　有もと</td>
                 <td className="p-3 text-stone-600">広島県廿日市市宮島町南町364</td>
-                <td className="p-3 text-stone-600">宮島口駅周辺</td>
+                <td className="p-3 text-stone-600">宮島口桟橋よりフェリーで１０分～宮島桟橋よりマイクロバスにて送迎</td>
                 <td className="p-3 text-stone-600">有り　５台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.58（1299件）</td>
                 <td className="p-3 font-bold text-rose-600">¥29,050〜</td>
@@ -360,7 +360,7 @@ export default function MiyajimaMomijidaniAutumnPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 宮島　ホテル菊乃家</td>
                 <td className="p-3 text-stone-600">広島県廿日市市宮島町335</td>
-                <td className="p-3 text-stone-600">宮島口駅周辺</td>
+                <td className="p-3 text-stone-600">宮島桟橋より徒歩15分（ホテルより送迎あり。フェリー乗船前にお電話いただけましたらお迎えに参ります）</td>
                 <td className="p-3 text-stone-600">駐車場なし（フェリーご乗船前の一般の駐車場にお止めください）</td>
                 <td className="p-3 font-bold text-amber-600">★4.41（630件）</td>
                 <td className="p-3 font-bold text-rose-600">¥12,320〜</td>
@@ -369,7 +369,7 @@ export default function MiyajimaMomijidaniAutumnPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 宮浜温泉　湯の宿　宮浜グランドホテル</td>
                 <td className="p-3 text-stone-600">広島県廿日市市宮浜温泉2-5-4</td>
-                <td className="p-3 text-stone-600">大野浦駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ大野浦駅より送迎有り／山陽自動車道大野ＩＣより約７～８分</td>
                 <td className="p-3 text-stone-600">有り　３０台　先着順　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.2（756件）</td>
                 <td className="p-3 font-bold text-rose-600">¥10,890〜</td>
@@ -378,7 +378,7 @@ export default function MiyajimaMomijidaniAutumnPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 宮島ホテルまこと</td>
                 <td className="p-3 text-stone-600">広島県廿日市市宮島町755</td>
-                <td className="p-3 text-stone-600">宮島口駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ山陽本線または広島電鉄「宮島口駅」下車、宮島口桟橋より船にて約１０分。【厳島神社まで徒歩約10分】</td>
                 <td className="p-3 text-stone-600">有り(１０台無料)島内は交通規制がございますので宮島口の有料駐車場にお止め置き下さい。</td>
                 <td className="p-3 font-bold text-amber-600">★4.27（421件）</td>
                 <td className="p-3 font-bold text-rose-600">¥18,700〜</td>
@@ -495,7 +495,7 @@ export default function MiyajimaMomijidaniAutumnPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り(１０台無料)島内は交通規制がございますので宮島口の有料駐車場にお止め置き下さい。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.38 ／ 立地 ★4.25 ／ 部屋 ★4.18 ／ 設備 ★4.04 ／ 風呂 ★4 ／ 食事 ★4.33</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ロビー、受付、食事会場など、どこのスタッフの方々も雰囲気がよく、安心できるホテルでした。ただ1つ残念だったのがドライヤーです。髪の毛が乾く気がしませんでした。...それだけが残念でしたが、それでもよい…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ロビー、受付、食事会場など、どこのスタッフの方々も雰囲気がよく、安心できるホテルでした。ただ1つ残念だったのがドライヤーです。髪の毛が乾く気がしませんでした。」
                   </blockquote>
                 </div>
               </div>

@@ -339,8 +339,8 @@ export default function ArticlePage() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 河口湖駅よりアクセス。私鉄富士急行線 河口湖駅／中央自動車道 河口湖ＩＣより約４ｋｍ。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「富士河口湖温泉 湖南荘」にチェックイン。富士山が見える大浴場＆展望足湯。富士山側と河口湖側の露天風呂付や豊富な部屋タイプ。ご夕食はお部屋で。などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「富士河口湖温泉 湖南荘」の湯処へ。富士山が見える大浴場＆展望足湯。富士山側と河口湖側の露天風呂付や豊富なとともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「富士河口湖温泉 湖南荘」にチェックイン。富士山が見える大浴場＆展望足湯。富士山側と河口湖側の露天風呂付や豊富な部屋タイプ。ご夕食はお部屋で。 館内の設えを確かめながら、これからの滞在に備えてゆっくり休息する。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「富士河口湖温泉 湖南荘」の湯船で寛ぎタイム。季節の空気を感じながら手足を伸ばし、心豊かな夕方のリラックス時間を満喫。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「富士河口湖温泉 湖南荘」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -352,7 +352,7 @@ export default function ArticlePage() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「富士河口湖温泉 湖南荘」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「富士河口湖温泉 湖南荘」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「富士河口湖温泉 若草の宿 丸栄」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は「富士河口湖温泉 湖南荘」周辺の観光スポットや地元の名産店に立ち寄り、ご当地のお土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>
@@ -368,49 +368,49 @@ export default function ArticlePage() {
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">あわせて読みたい人気特集＆全国エリアガイド</h2>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
-            <a href="/gunma-kusatsu-solo-retreat-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/furusato-tax-kawaguchiko-fuji-view-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">草津温泉ひとり旅・名湯おこもり：湯畑源泉かけ流し・貸切風呂・上州和牛！日本三名泉の湯ヂカラに浸る贅沢ソロ温泉厳選3宿</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">富士河口湖温泉をふるさと納税でお得に旅する！富士山一望露天風呂＆逆さ富士ステイ！絶景客室で癒やされる宿特集｜秀峰閣湖月・若草の宿丸栄・富士レークホテル</span>
             </a>
-            <a href="/gunma-takasaki-solo-business-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/furusato-tax-seasonal-fruit-picking-vineyard-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">高崎出張・天然温泉サウナ：新幹線結節点・榛名の湯・高崎パスタ！上州ビジネスハブを制する厳選3宿</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">果樹園の旬フルーツ狩り＆名門ワイナリー・美肌温泉宿×ふるさと納税厳選ガイド石和・伊豆長岡・飯坂</span>
             </a>
-            <a href="/winter-gunma-kusatsu-onsen-yubatake-yukimi-joshugyu-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/furusato-tax-yamanakako-fuji-autumn-leaves-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12月群馬・草津温泉の湯畑雪景色と日本一の名湯】名物上州牛すき焼き＆湯もみ体験・冬の酸性美肌泉を愉しむ名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">富士山と紅葉の絶景コラボ！山中湖「夕焼けの渚紅葉まつり」＆忍野八海と温泉名宿×ふるさと納税厳選ガイド山梨</span>
             </a>
-            <a href="/winter-gunma-takasaki-haruna-shrine-hatsumode-isobe-onsen-joshugyu-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/spring-yamanashi-koshu-wine-beef-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12・1月群馬】奇岩の霊場「榛名神社」新春初詣と温泉記号発祥「磯部温泉」！下仁田ネギ・上州牛すき焼き名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「甲州ワインビーフ＆勝沼ワイナリー」芳醇ワインペアリングと石和温泉の美食宿5選</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
             <div className="flex flex-wrap gap-2">
               <Link
-                href="/prefectures/yamaguchi/"
+                href="/prefectures/yamanashi/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                山口県の宿・温泉
+                山梨県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/toyama/"
+                href="/prefectures/nagano/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                富山県の宿・温泉
+                長野県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/gunma/"
+                href="/prefectures/niigata/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                群馬県の宿・温泉
+                新潟県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/fukui/"
+                href="/prefectures/ishikawa/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                福井県の宿・温泉
+                石川県の宿・温泉
               </Link>
             </div>
           </div>
@@ -446,7 +446,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 富士河口湖温泉　湖南荘</td>
                 <td className="p-3 text-stone-600">山梨県南都留郡富士河口湖町船津4020</td>
-                <td className="p-3 text-stone-600">河口湖駅周辺</td>
+                <td className="p-3 text-stone-600">私鉄富士急行線 河口湖駅／中央自動車道 河口湖ＩＣより約４ｋｍ</td>
                 <td className="p-3 text-stone-600">有　4０台　無料　県営駐車場</td>
                 <td className="p-3 font-bold text-amber-600">★4.8（1824件）</td>
                 <td className="p-3 font-bold text-rose-600">¥27,500〜</td>
@@ -455,7 +455,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 富士河口湖温泉　若草の宿　丸栄</td>
                 <td className="p-3 text-stone-600">山梨県南都留郡富士河口湖町小立498</td>
-                <td className="p-3 text-stone-600">河口湖駅周辺</td>
+                <td className="p-3 text-stone-600">【電車・バス】河口湖駅より送迎有15～17時駅到着後要連絡【車】中央道河口湖ＩＣより10分／東名高速御殿場ＩＣより40分</td>
                 <td className="p-3 text-stone-600">専用駐車場有り　１００台／全て屋外　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.48（623件）</td>
                 <td className="p-3 font-bold text-rose-600">¥23,100〜</td>
@@ -464,7 +464,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. ホテルルートイン高崎駅西口</td>
                 <td className="p-3 text-stone-600">群馬県高崎市旭町128-4</td>
-                <td className="p-3 text-stone-600">高崎駅周辺</td>
+                <td className="p-3 text-stone-600">上越新幹線高崎駅から徒歩で10分 高崎インターより車で約15分</td>
                 <td className="p-3 text-stone-600">有り:無料　ただし、大型車(２Tトラック以上、またはレントゲン車、積載車)は有料となります。</td>
                 <td className="p-3 font-bold text-amber-600">★3.4（544件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,250〜</td>
@@ -473,7 +473,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 猿ヶ京温泉　猿ヶ京ホテル</td>
                 <td className="p-3 text-stone-600">群馬県利根郡みなかみ町猿ヶ京温泉1171</td>
-                <td className="p-3 text-stone-600">上毛高原駅周辺</td>
+                <td className="p-3 text-stone-600">【車】関越道月夜野IC～Ｒ17を新潟方面に約20分【電車】上越新幹線上毛高原駅～猿ケ京行きバスで35分※送迎有要問合</td>
                 <td className="p-3 text-stone-600">70台、無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.27（1519件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,491〜</td>
@@ -482,7 +482,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 水上温泉郷　湯檜曽温泉　天空の湯　なかや旅館</td>
                 <td className="p-3 text-stone-600">群馬県利根郡みなかみ町湯桧曽93</td>
-                <td className="p-3 text-stone-600">上毛高原駅周辺</td>
+                <td className="p-3 text-stone-600">車：水上ICから約15分 車以外：上越線ゆびそ駅より徒歩5分、又は水上駅よりバス・タクシーで約10分</td>
                 <td className="p-3 text-stone-600">有り　16台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.68（531件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,800〜</td>
@@ -533,7 +533,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>専用駐車場有り　１００台／全て屋外　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「フロントの親切な対応と屋上からの富士山一階の大浴場で、部屋にタオルを忘れたとき、フロントの方が快くバスタオルを貸し出してくださいました。屋上の展望台も、富士山がくっきり見えて、写真にも収められ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「フロントの親切な対応と屋上からの富士山一階の大浴場で、部屋にタオルを忘れたとき、フロントの方が快くバスタオルを貸し出してくださいました。」
                   </blockquote>
                 </div>
               </div>
@@ -555,7 +555,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り:無料　ただし、大型車(２Tトラック以上、またはレントゲン車、積載車)は有料となります。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.56 ／ 立地 ★3.33 ／ 部屋 ★3.42 ／ 設備 ★3.34 ／ 風呂 ★3.52 ／ 食事 ★3.51</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食や大浴場は満足だが階段の清掃が残念2泊しましたが朝食の内容が少し違っていて良かったです。大浴場があるのもうれしかったです。部屋も広くてゆっくりできました。駅から遠いのとコンビニや飲…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食や大浴場は満足だが階段の清掃が残念2泊しましたが朝食の内容が少し違っていて良かったです。大浴場があるのもうれしかったです。部屋も広くてゆっくりできました。」
                   </blockquote>
                 </div>
               </div>
@@ -577,7 +577,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>70台、無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.36 ／ 立地 ★4.13 ／ 部屋 ★4.1 ／ 設備 ★3.92 ／ 風呂 ★4.19 ／ 食事 ★4.36</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事の量も調整しやすく、お風呂も快適食事もテーブルにセットされてるもの+バイキングなので自分で食べる量を調節できるのが良いです。露天風呂は熱めと温めに分かれてるので熱いの苦手な私には嬉しかった…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事の量も調整しやすく、お風呂も快適食事もテーブルにセットされてるもの+バイキングなので自分で食べる量を調節できるのが良いです。」
                   </blockquote>
                 </div>
               </div>

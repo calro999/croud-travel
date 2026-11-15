@@ -338,8 +338,8 @@ export default function ArticlePage() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 那須塩原駅よりアクセス。那須塩原よりタクシーにて３５分/西那須野塩原ＩＣより国道４００号２０分。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「塩原温泉 山口屋旅館」にチェックイン。1日100トン湧く自家源泉★2007年に完成した露天風呂や無料の貸切風呂・拘りのお料理が大人気♪などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「塩原温泉 山口屋旅館」の湯処へ。1日100トン湧く自家源泉★2007年に完成した露天風呂や無料の貸切風とともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「塩原温泉 山口屋旅館」にチェックイン。1日100トン湧く自家源泉★2007年に完成した露天風呂や無料の貸切風呂・拘りのお料理が大人気♪ 窓外に広がる景色を眺めながらチェックイン後の寛ぎ時間を。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「塩原温泉 山口屋旅館」の湯船で寛ぎタイム。季節の空気を感じながら手足を伸ばし、心豊かな夕方のリラックス時間を満喫。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「塩原温泉 山口屋旅館」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -351,7 +351,7 @@ export default function ArticlePage() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「塩原温泉 山口屋旅館」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「塩原温泉 山口屋旅館」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「塩原温泉 湯守田中屋」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は宿周辺の散策とショッピングを満喫。地元の名産品やグルメを味わってから余裕をもって帰路につく。</li>
               </ul>
             </div>
           </div>
@@ -367,21 +367,21 @@ export default function ArticlePage() {
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">あわせて読みたい人気特集＆全国エリアガイド</h2>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
-            <a href="/spring-yamagata-cherry-picking-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/tochigi-nasu-highland-nature-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">2026年：ルビーのように輝く初夏の宝石！佐藤錦さくらんぼ狩り＆天童・かみのやま名湯宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「栃木・那須高原」茶臼岳・御用邸の森＆ベーカリー・温泉リゾート 厳選ガイド</span>
             </a>
-            <a href="/winter-yamagata-hijiori-onsen-snow-yamagatagyu-toji-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/tochigi-shiobara-eleven-hotsprings-valley-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12・1月山形】豪雪の奇跡・開湯1200年肘折温泉の黄金湯治と名物納豆汁＆極上山形牛・肘折幻想雪回廊を巡る名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「栃木・那須塩原」塩原十一湯名湯めぐり・もみじ谷大吊橋＆箒川渓谷露天宿 厳選ガイド</span>
             </a>
-            <a href="/winter-yamagata-shonai-kandara-atsumi-yunohama-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/winter-tochigi-ashikaga-flowerpark-sano-yakuyoke-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12・1月山形】庄内名物「寒鱈汁（どんがら汁）」と極上白子・寒ブリ・出羽三山雪景色＆名湯あつみ・湯野浜温泉を巡る厳選宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「11・12・1月栃木」日本一の光の祭典「あしかがフラワーパーク光の花の庭」・佐野厄除け大師初詣＆手打ち佐野ラーメン・とちおとめ苺ステイ宿5選</span>
             </a>
-            <a href="/yamagata-sakata-haguro-dewasanzan-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/winter-tochigi-nasu-onsen-shikanoyu-snow-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">山形・酒田＆羽黒山：山居倉庫・五重塔杉並木＆庄内浜寿司・宿坊 厳選ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12月那須温泉郷の初冬高原美と名湯】 茶臼岳雪化粧と開湯千三百年鹿の湯・最高峰那須与一牛＆高原温泉会席の宿5選</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">
@@ -445,7 +445,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 塩原温泉　山口屋旅館</td>
                 <td className="p-3 text-stone-600">栃木県那須塩原市塩原703</td>
-                <td className="p-3 text-stone-600">那須塩原駅周辺</td>
+                <td className="p-3 text-stone-600">那須塩原よりタクシーにて３５分/西那須野塩原ＩＣより国道４００号２０分</td>
                 <td className="p-3 text-stone-600">先着　３０台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.75（128件）</td>
                 <td className="p-3 font-bold text-rose-600">¥14,300〜</td>
@@ -454,7 +454,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 塩原温泉　やまの宿　下藤屋</td>
                 <td className="p-3 text-stone-600">栃木県那須塩原市湯本塩原11</td>
-                <td className="p-3 text-stone-600">那須塩原駅周辺</td>
+                <td className="p-3 text-stone-600">東北自動車道 西那須野塩原I.Cより35分。東北新幹線那須塩原より路線バス55分終点下車。送迎車有り、要予約。</td>
                 <td className="p-3 text-stone-600">有り　25台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.58（1268件）</td>
                 <td className="p-3 font-bold text-rose-600">¥21,780〜</td>
@@ -463,7 +463,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 塩原温泉　湯守田中屋</td>
                 <td className="p-3 text-stone-600">栃木県那須塩原市塩原6　（塩原温泉郷 大網温泉）</td>
-                <td className="p-3 text-stone-600">那須塩原駅周辺</td>
+                <td className="p-3 text-stone-600">東北新幹線 那須塩原駅より送迎（事前予約制／有料1,100円）あり 西那須野塩原ICより車約15分</td>
                 <td className="p-3 text-stone-600">有　30台　無料（車高が低い車や、大型車、車椅子利用時などは事前にご連絡ください）</td>
                 <td className="p-3 font-bold text-amber-600">★4.35（515件）</td>
                 <td className="p-3 font-bold text-rose-600">¥13,200〜</td>
@@ -492,7 +492,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>先着　３０台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「花火と温泉、猫との触れ合いに大満足今回は塩原温泉の花火大会に合わせて宿泊しました。宿の前の道路をほんの少しだけ歩いた所から約30分間の花火を観る事ができて大満足でした。大きな花火大会ではなくても夏…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「花火と温泉、猫との触れ合いに大満足今回は塩原温泉の花火大会に合わせて宿泊しました。宿の前の道路をほんの少しだけ歩いた所から約30分間の花火を観る事ができて大満足でした。」
                   </blockquote>
                 </div>
               </div>
@@ -514,7 +514,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　25台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.62 ／ 立地 ★4.13 ／ 部屋 ★4.43 ／ 設備 ★4.34 ／ 風呂 ★4.65 ／ 食事 ★4.7</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋は広くてベットも寝心地が良く快適でした。お風呂も清潔感があり、部屋から近くて何回も入りました。貸し切り露天風呂が宿から外に出て石段を上がるのですが下駄を借りて行くのですが雨で傘もさしていたし夜…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋は広くてベットも寝心地が良く快適でした。お風呂も清潔感があり、部屋から近くて何回も入りました。」
                   </blockquote>
                 </div>
               </div>
@@ -536,7 +536,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有　30台　無料（車高が低い車や、大型車、車椅子利用時などは事前にご連絡ください）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.46 ／ 立地 ★4.41 ／ 部屋 ★4.32 ／ 設備 ★4.28 ／ 風呂 ★4.48 ／ 食事 ★4.52</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「源泉掛け流しの風呂と部屋食に大満足お部屋にお風呂付、夕食と朝食があるプランでした。お風呂はすべて源泉掛け流しで、様々な形式のものがあります。食事も美味しかったです。夕食は部屋食で丁寧な…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「源泉掛け流しの風呂と部屋食に大満足お部屋にお風呂付、夕食と朝食があるプランでした。お風呂はすべて源泉掛け流しで、様々な形式のものがあります。食事も美味しかったです。」
                   </blockquote>
                 </div>
               </div>

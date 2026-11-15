@@ -35,7 +35,7 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/6000/6000map.gif",
     "reviewCount": 351,
     "reviewAverage": 4.07,
-    "userReview": "冬ならいいのかもですね。クチコミの詳細はこ。",
+    "userReview": "冬ならいいのかもですね。",
     "hotelMinCharge": 9900,
     "address1": "長崎県",
     "address2": "雲仙市小浜町雲仙318",
@@ -565,8 +565,8 @@ export default function FeatureDetailPage() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 諫早駅よりアクセス。JR長崎本線諌早駅よりバスにて80分（雲仙行）。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「雲仙温泉 名湯の宿 雲仙いわき旅館」にチェックイン。避暑にもオススメの雲仙エリア！ 雲仙地獄まで徒歩3分！源泉100%かけ流しの名湯をどうぞなどの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「雲仙温泉 名湯の宿 雲仙いわき旅館」の湯処へ。避暑にもオススメの雲仙エリア！ 雲仙地獄まで徒歩3分！源泉100%かけとともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「雲仙温泉 名湯の宿 雲仙いわき旅館」にチェックイン。【避暑にもオススメの雲仙エリア！ まずは客室で移動の疲れをそっと癒やす。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「雲仙温泉 名湯の宿 雲仙いわき旅館」の自慢の湯処へ。温かな湯気と落ち着いた雰囲気に癒やされながら、夕食前の贅沢なひとときを過ごす。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「雲仙温泉 名湯の宿 雲仙いわき旅館」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -578,7 +578,7 @@ export default function FeatureDetailPage() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「雲仙温泉 名湯の宿 雲仙いわき旅館」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「雲仙温泉 名湯の宿 雲仙いわき旅館」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「雲仙温泉・源泉かけ流し＆おしどりの池を望む美食の宿 東園」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は「雲仙温泉 名湯の宿 雲仙いわき旅館」周辺の観光スポットや地元の名産店に立ち寄り、ご当地のお土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>
@@ -628,49 +628,49 @@ export default function FeatureDetailPage() {
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">あわせて読みたい人気特集＆全国エリアガイド</h2>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
-            <a href="/fukushima-aizu-higashiyama-solo-retreat-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/nagasaki-hirado-sasebo-kujukushima-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">会津東山温泉ひとり旅・湯川渓谷美おこもり：竹久夢二・土方歳三ゆかりの自噴泉・会津郷土料理！会津藩の歴史薫る奥座敷厳選3宿</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「長崎・平戸＆佐世保・九十九島」世界遺産キリシタン史跡・平戸城＆九十九島遊覧・ヒラメ宿 厳選ガイド</span>
             </a>
-            <a href="/furusato-tax-fukushima-iwaki-yunodake-autumn-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/nagasaki-unzen-onsen-hell-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">福島・日本三古湯 いわき湯本温泉と湯の岳パノラマ紅葉！毎分5.5トンの美肌名湯＆常磐もの海鮮会席</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「長崎・雲仙温泉」雲仙地獄の湯けむり＆白濁硫黄泉・レトロ洋館宿 厳選ガイド</span>
             </a>
-            <a href="/silver-week-glamping-tohoku-sendai-fukushima-guide/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/saga-arita-imari-hasami-pottery-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">東北シルバーウィーク グランピング：宮城・福島・秋田の雄大な自然＆紅葉先取りステイ</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「佐賀＆長崎・有田＆伊万里・波佐見」日本磁器発祥の地・トンバイ塀の窯元＆伊万里牛宿 厳選ガイド</span>
             </a>
-            <a href="/winter-fukushima-bandai-atami-onsen-bihada-swan-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/traditional-nagasaki-hasami-yaki-porcelain-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12月磐梯熱海温泉の冬名湯と美肌ぬる湯】萩姫伝説の美人の湯・猪苗代湖白鳥飛来と極上福島牛＆会津新酒の宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「波佐見焼のモダン器美学」お洒落なうつわで味わう長崎創作フレンチ＆嬉野・雲仙温泉宿5選</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
             <div className="flex flex-wrap gap-2">
               <Link
-                href="/prefectures/fukushima/"
+                href="/prefectures/nagasaki/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                福島県の宿・温泉
+                長崎県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/hiroshima/"
+                href="/prefectures/fukuoka/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                広島県の宿・温泉
+                福岡県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/tokyo/"
+                href="/prefectures/oita/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                東京都の宿・温泉
+                大分県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/okinawa/"
+                href="/prefectures/kumamoto/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                沖縄県の宿・温泉
+                熊本県の宿・温泉
               </Link>
             </div>
           </div>
@@ -706,7 +706,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 雲仙温泉　名湯の宿　　雲仙いわき旅館</td>
                 <td className="p-3 text-stone-600">長崎県雲仙市小浜町雲仙318</td>
-                <td className="p-3 text-stone-600">諫早駅周辺</td>
+                <td className="p-3 text-stone-600">JR長崎本線諌早駅よりバスにて80分（雲仙行）</td>
                 <td className="p-3 text-stone-600">有り　25台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.05（339件）</td>
                 <td className="p-3 font-bold text-rose-600">¥9,900〜</td>
@@ -715,7 +715,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 雲仙温泉・源泉かけ流し＆おしどりの池を望む美食の宿　東園</td>
                 <td className="p-3 text-stone-600">長崎県雲仙市小浜町雲仙181</td>
-                <td className="p-3 text-stone-600">諫早駅周辺</td>
+                <td className="p-3 text-stone-600">諫早駅より路線バスで８０分</td>
                 <td className="p-3 text-stone-600">８０台収容の自社無料駐車場がございます。（予約不要）</td>
                 <td className="p-3 font-bold text-amber-600">★4.54（523件）</td>
                 <td className="p-3 font-bold text-rose-600">¥11,385〜</td>
@@ -724,7 +724,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 雲仙温泉　雲仙スカイホテル</td>
                 <td className="p-3 text-stone-600">長崎県雲仙市小浜町雲仙323-1</td>
-                <td className="p-3 text-stone-600">島鉄バス　雲仙営業所前／長崎自動車道　諫早インターより車にて６０分／島</td>
+                <td className="p-3 text-stone-600">島鉄バス 雲仙営業所前／長崎自動車道 諫早インターより車にて６０分／島原港より車にて４０分</td>
                 <td className="p-3 text-stone-600">有　２０台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★3.86（397件）</td>
                 <td className="p-3 font-bold text-rose-600">¥13,800〜</td>
@@ -733,7 +733,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 雲仙温泉　ゆやど　雲仙新湯</td>
                 <td className="p-3 text-stone-600">長崎県雲仙市小浜町雲仙320</td>
-                <td className="p-3 text-stone-600">諫早駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ諫早駅より車で60分、長崎空港から車で90分</td>
                 <td className="p-3 text-stone-600">５０台まで、無料でご利用いただけます。　※先着順でご案内</td>
                 <td className="p-3 font-bold text-amber-600">★4.5（698件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,893〜</td>
@@ -742,7 +742,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 雲仙温泉　雲仙宮崎旅館</td>
                 <td className="p-3 text-stone-600">長崎県雲仙市小浜町雲仙320番地</td>
-                <td className="p-3 text-stone-600">諫早駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ諫早駅下車バス８０分、長崎自動車道諫早ICより島原道路へ乗換え長野ICより車で５０分</td>
                 <td className="p-3 text-stone-600">有り　３９台　有料1台1泊500円</td>
                 <td className="p-3 font-bold text-amber-600">★4.91（868件）</td>
                 <td className="p-3 font-bold text-rose-600">¥24,530〜</td>
@@ -771,7 +771,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　25台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉と食事に大満足、お肌もツルツルに温泉の泉質が良いですお肌ツルツル若返りました。夕食のお刺身は新鮮でお肉も美味しかったですボリュームたっぷりで大満足地酒も堪能しました。朝食後…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉と食事に大満足、お肌もツルツルに温泉の泉質が良いですお肌ツルツル若返りました。夕食のお刺身は新鮮でお肉も美味しかったですボリュームたっぷりで大満足地酒も堪能しました。」
                   </blockquote>
                 </div>
               </div>
@@ -793,7 +793,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>８０台収容の自社無料駐車場がございます。（予約不要）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「良いお湯でした両親と2部屋でスタンダード和室に宿泊しました。古さは所々にみられましたが清掃が行き届いて快適に過ごせました。お部屋から大浴場まで少し距離があり、高齢の両親には負担かなと少し気…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「良いお湯でした両親と2部屋でスタンダード和室に宿泊しました。古さは所々にみられましたが清掃が行き届いて快適に過ごせました。」
                   </blockquote>
                 </div>
               </div>
@@ -837,7 +837,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>５０台まで、無料でご利用いただけます。　※先着順でご案内</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「新しく清潔な館内と心温まる接客に大満足建物全体が新しく掃除も行き届いていて気持ちよかったです。全体的に和風モダンでくつろげました。大浴場のお風呂はよく温まりすぎて汗がなかなか引かないのが快感、と夫…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「新しく清潔な館内と心温まる接客に大満足建物全体が新しく掃除も行き届いていて気持ちよかったです。全体的に和風モダンでくつろげました。」
                   </blockquote>
                 </div>
               </div>

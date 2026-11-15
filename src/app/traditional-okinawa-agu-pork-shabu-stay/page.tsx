@@ -565,8 +565,8 @@ export default function FeatureDetailPage() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 宮古空港駅よりアクセス。宮古島空港より車で約35分、みやこ下地島空港より車で約5分。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「ウォーターマークホテル沖縄 宮古島＜伊良部島＞」にチェックイン。日本の渚100選に選ばれた美しいビーチで、夕陽の名所ホテルより青い海も、夕陽も一望できます。などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「ウォーターマークホテル沖縄 宮古島＜伊良部島＞」の湯処へ。日本の渚100選に選ばれた美しいビーチで、夕陽の名所ホテルより青い海もとともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「ウォーターマークホテル沖縄 宮古島＜伊良部島＞」にチェックイン。日本の渚100選に選ばれた美しいビーチで、夕陽の名所ホテルより青い海も、夕陽も一望できます。 客室で身支度を整え、この宿ならではの滞在をスタート。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「ウォーターマークホテル沖縄 宮古島＜伊良部島＞」の大浴場・露天風呂へ。日暮れの静けさの中で湯に浸かり、旅の緊張をゆっくりと解きほぐす。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「ウォーターマークホテル沖縄 宮古島＜伊良部島＞」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -628,49 +628,49 @@ export default function FeatureDetailPage() {
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">あわせて読みたい人気特集＆全国エリアガイド</h2>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
-            <a href="/winter-chiba-tokyo-disney-resort-maihama-christmas-hotel-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/winter-mie-iga-ueno-castle-akame-48waterfalls-hyobaku-igagyu-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12・1月舞浜】東京ディズニーリゾート冬のクリスマス＆年末年始！直営・オフィシャルホテルで叶える夢の冬旅名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「三重・伊賀上野＆赤目四十八滝」 忍者の里「伊賀上野城」白銀の高石垣と上野天神宮新春初詣！ 神秘の「赤目四十八滝」氷瀑と幻の極上伊賀牛すき焼き名宿</span>
             </a>
-            <a href="/furusato-tax-chiba-boso-kamogawa-autumn-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/winter-okinawa-miyakojima-shigira-resort-sunrisepoint-miyakogyu-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">千葉・南房総 鴨川の太平洋オーシャンビュー温泉＆秋の鯛の浦！伊勢海老・金目鯛と里山棚田</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">冬の避寒リゾート＆宮古ブルー！ シギラリゾートの南国極上ステイと宮古牛名宿5選</span>
             </a>
-            <a href="/winter-chiba-minamiboso-onsen-ise-ebi-oceanview-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/winter-okinawa-nanjo-sefa-utaki-chinen-misaki-hatsuhinode-ryukyu-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12月千葉・南房総温泉郷の温暖避寒旅と旬の伊勢海老・房州地魚】太平洋パノラマ絶景露天＆貸切風呂の宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「琉球最高の聖地・斎場御嶽新春祈願と知念岬初日の出」2026-2027年冬の沖縄・南城！美ら海絶景と琉球温泉・あぐー豚名宿5選</span>
             </a>
-            <a href="/chiba-kamogawa-solo-retreat-ocean-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/airport-access-direct-resort-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">南房総・鴨川温泉ひとり旅・太平洋水平線おこもり：波音の露天風呂・地魚舟盛り・里山棚田ウォーキング！都心特急特等席の海リトリート厳選3宿</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「空港直行＆空港至近リゾート宿」羽田・成田・関空・福岡・那覇・千歳 厳選ガイド</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
             <div className="flex flex-wrap gap-2">
               <Link
-                href="/prefectures/chiba/"
+                href="/prefectures/okinawa/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                千葉県の宿・温泉
+                沖縄県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/okayama/"
+                href="/prefectures/fukuoka/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                岡山県の宿・温泉
+                福岡県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/niigata/"
+                href="/prefectures/oita/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                新潟県の宿・温泉
+                大分県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/tottori/"
+                href="/prefectures/kumamoto/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                鳥取県の宿・温泉
+                熊本県の宿・温泉
               </Link>
             </div>
           </div>
@@ -706,7 +706,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. ウォーターマークホテル沖縄　宮古島＜伊良部島＞</td>
                 <td className="p-3 text-stone-600">沖縄県宮古島市伊良部佐和田前原1725</td>
-                <td className="p-3 text-stone-600">宮古空港駅周辺</td>
+                <td className="p-3 text-stone-600">宮古島空港より車で約35分、みやこ下地島空港より車で約5分</td>
                 <td className="p-3 text-stone-600">有り　50台　1室につき1台無料　（予約不要）</td>
                 <td className="p-3 font-bold text-amber-600">★4.41（249件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,265〜</td>
@@ -733,7 +733,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. グランドメルキュール沖縄残波岬リゾート</td>
                 <td className="p-3 text-stone-600">沖縄県中頭郡読谷村宇座1575</td>
-                <td className="p-3 text-stone-600">那覇空港駅周辺</td>
+                <td className="p-3 text-stone-600">那覇空港より国道５８号線を名護方面へ読谷村伊良皆交差点を残波岬方面へ。車で70分。</td>
                 <td className="p-3 text-stone-600">有(無料）</td>
                 <td className="p-3 font-bold text-amber-600">★4.19（2121件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,075〜</td>
@@ -742,7 +742,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. ホーム・ステイ・ユミハ沖縄　ｂｙバンヤン・グループ</td>
                 <td className="p-3 text-stone-600">沖縄県国頭郡恩納村字山田2455-1</td>
-                <td className="p-3 text-stone-600">那覇空港駅周辺</td>
+                <td className="p-3 text-stone-600">那覇空港よりお車にて60分</td>
                 <td className="p-3 text-stone-600">有り　18台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.67（24件）</td>
                 <td className="p-3 font-bold text-rose-600">¥9,000〜</td>
@@ -793,7 +793,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>駐車場なし。近くのコインパーキングをご案内中。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.39 ／ 立地 ★4.4 ／ 部屋 ★4.27 ／ 設備 ★4.07 ／ 風呂 ★3.88 ／ 食事 ★3.95</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「クロミちゃんの部屋は快適、椅子があれば完璧おまかせプランでクロミちゃんの部屋に案内していただきました。総じて清潔感があり、現代的な部屋で満足です。 お風呂場にはバスタブがなかったので旅の疲…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「クロミちゃんの部屋は快適、椅子があれば完璧おまかせプランでクロミちゃんの部屋に案内していただきました。総じて清潔感があり、現代的な部屋で満足です。」
                   </blockquote>
                 </div>
               </div>
@@ -815,7 +815,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　７７台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.05 ／ 立地 ★4.09 ／ 部屋 ★4.07 ／ 設備 ★3.96 ／ 風呂 ★3.96 ／ 食事 ★4</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「2泊とまりました。今回は、レンタカーを利用したので、駐車場が無料でとめられてありがたかったです。朝食バイキングも、適量で美味しかったです。ホテル目の前に、散歩できるような公園があって私も散…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「2泊とまりました。今回は、レンタカーを利用したので、駐車場が無料でとめられてありがたかったです。朝食バイキングも、適量で美味しかったです。」
                   </blockquote>
                 </div>
               </div>
@@ -837,7 +837,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有(無料）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.11 ／ 立地 ★4.28 ／ 部屋 ★4.26 ／ 設備 ★4.05 ／ 風呂 ★4.16 ／ 食事 ★4.23</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ドリンクやおつまみの食べ飲み放題に大満足家族旅行で初めて宿泊しました。お酒含めたドリンクやおつまみ、お菓子の食べ飲み放題の時間があって、子供と一緒に楽しめました。特に申し分のないホテルでした。、…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ドリンクやおつまみの食べ飲み放題に大満足家族旅行で初めて宿泊しました。お酒含めたドリンクやおつまみ、お菓子の食べ飲み放題の時間があって、子供と一緒に楽しめました。特に申し分のないホテルでした。」
                   </blockquote>
                 </div>
               </div>
@@ -859,7 +859,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　18台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.6 ／ 立地 ★4.67 ／ 部屋 ★4.8 ／ 設備 ★4.8 ／ 風呂 ★4.6</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「広々とした部屋と迅速な対応で快適な時間部屋も広々していて、清掃も行き届いていて、ゆっくりとくつろげました!ウォーターサーバーの水が足りなくなると、フロントに電話するとすぐに補充してもらえて…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「広々とした部屋と迅速な対応で快適な時間部屋も広々していて、清掃も行き届いていて、ゆっくりとくつろげました!」
                   </blockquote>
                 </div>
               </div>

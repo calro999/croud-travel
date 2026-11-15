@@ -48,7 +48,7 @@ export default function FurusatoTaxPage() {
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* パンくずリスト */}
-      <nav className="border-b border-slate-800/80 bg-slate-900/60 backdrop-blur px-4 py-3 text-xs text-slate-400">
+      <nav className="border-b border-slate-800/80 bg-slate-900/60 backdrop-blur px-4 py-3 text-xs text-slate-200">
         <div className="max-w-6xl mx-auto flex items-center gap-2 overflow-x-auto whitespace-nowrap">
           <Link href="/" className="hover:text-amber-400 transition">ホーム</Link>
           <span>/</span>
@@ -626,8 +626,8 @@ export default function FurusatoTaxPage() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 木曽福島駅よりアクセス。JR木曽福島駅より徒歩10分／中央自動車道：塩尻ICより60分、中津川ICより60分。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「木曽路の宿 いわや」にチェックイン。宮家の方々や文人に愛された、木曽路で最も古い老舗。木曽川眺望、総檜造りのお部屋や展望露天など。などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「木曽路の宿 いわや」の湯処へ。宮家の方々や文人に愛された、木曽路で最も古い老舗。木曽川眺望、総檜造りとともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「木曽路の宿 いわや」にチェックイン。宮家の方々や文人に愛された、木曽路で最も古い老舗。木曽川眺望、総檜造りのお部屋や展望露天など。 館内の設えを確かめながら、これからの滞在に備えてゆっくり休息する。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「木曽路の宿 いわや」の大浴場・露天風呂へ。日暮れの静けさの中で湯に浸かり、旅の緊張をゆっくりと解きほぐす。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「木曽路の宿 いわや」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -639,7 +639,7 @@ export default function FurusatoTaxPage() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「木曽路の宿 いわや」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「木曽路の宿 いわや」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「普寛堂 くるみ沢旅館」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は「木曽路の宿 いわや」周辺の観光スポットや地元の名産店に立ち寄り、ご当地のお土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>
@@ -767,7 +767,7 @@ export default function FurusatoTaxPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 木曽路の宿　いわや</td>
                 <td className="p-3 text-stone-600">長野県木曽郡木曽町福島5169</td>
-                <td className="p-3 text-stone-600">木曽福島駅周辺</td>
+                <td className="p-3 text-stone-600">JR木曽福島駅より徒歩10分／中央自動車道：塩尻ICより60分、中津川ICより60分</td>
                 <td className="p-3 text-stone-600">有り　１５台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★3.96（99件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,700〜</td>
@@ -776,7 +776,7 @@ export default function FurusatoTaxPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 普寛堂　くるみ沢旅館</td>
                 <td className="p-3 text-stone-600">長野県木曽郡王滝村3297-6</td>
-                <td className="p-3 text-stone-600">木曽福島駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ中央西線「木曽福島駅」よりお車にて約２５分。</td>
                 <td className="p-3 text-stone-600">有り　２５台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.5（32件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,600〜</td>
@@ -785,7 +785,7 @@ export default function FurusatoTaxPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 宿とそば処　ふもと屋</td>
                 <td className="p-3 text-stone-600">長野県木曽郡木曽町開田高原末川2819</td>
-                <td className="p-3 text-stone-600">木曽福島駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ 木曽福島駅より開田高原行きバスにて「末川」下車徒歩０分</td>
                 <td className="p-3 text-stone-600">有り　１５台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.88（23件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,100〜</td>
@@ -794,7 +794,7 @@ export default function FurusatoTaxPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 料理旅館　準坊池</td>
                 <td className="p-3 text-stone-600">岐阜県中津川市付知町8593-24</td>
-                <td className="p-3 text-stone-600">中津川駅周辺</td>
+                <td className="p-3 text-stone-600">中央本線（東海）中津川より車で30分/中央道・中津川IC下車約27km</td>
                 <td className="p-3 text-stone-600">有り　１５台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4（15件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,000〜</td>
@@ -803,7 +803,7 @@ export default function FurusatoTaxPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 一棟貸切【広々９７平米】　定員８人　禁煙　駅徒歩９分　駐車場３台ＥＶ対応　日光杉並木街道の家　＾</td>
                 <td className="p-3 text-stone-600">栃木県日光市板橋175-79　日光市杉並木街道の家</td>
-                <td className="p-3 text-stone-600">下野大沢駅周辺</td>
+                <td className="p-3 text-stone-600">下野大沢駅から徒歩で約４分</td>
                 <td className="p-3 text-stone-600">有り</td>
                 <td className="p-3 font-bold text-amber-600">高評価</td>
                 <td className="p-3 font-bold text-rose-600">¥4,408〜</td>
@@ -812,7 +812,7 @@ export default function FurusatoTaxPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">6. トレイルイン日光今市（Ｔｒａｉｌ　ｉｎｎ　日光今市）</td>
                 <td className="p-3 text-stone-600">栃木県日光市芹沼1553-1 (ダイナム駐車場敷地内)</td>
-                <td className="p-3 text-stone-600">大谷向駅周辺</td>
+                <td className="p-3 text-stone-600">大谷向駅よりお車にて約5分</td>
                 <td className="p-3 text-stone-600">あり　無料　※4t車以上の場合は、事前にご相談くださいませ。</td>
                 <td className="p-3 font-bold text-amber-600">★4.17（98件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,200〜</td>
@@ -841,7 +841,7 @@ export default function FurusatoTaxPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１５台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの心遣いに感謝。食事も大満足子供の体調がいまいちでレストランで夕食を食べられず...「お部屋に運んで後で食べることもできますよ」と教えていただき、お部屋に持っていくことに。娘はお風呂に入る…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの心遣いに感謝。食事も大満足子供の体調がいまいちでレストランで夕食を食べられず...「お部屋に運んで後で食べることもできますよ」と教えていただき、お部屋に持っていくことに。」
                   </blockquote>
                 </div>
               </div>

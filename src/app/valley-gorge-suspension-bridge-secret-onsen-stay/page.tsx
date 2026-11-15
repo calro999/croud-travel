@@ -104,7 +104,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F11206%2F11206.html%26f_flg%3DPLAN",
     "hotelMinCharge": 40900,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/11206/11206.jpg",
-    "userReview": "名勝天龍峡温泉　渓谷に佇む隠れ宿　峡泉ならではの立地と落ち着いた空間で、ゆったりとした滞在を楽しめたという声が寄せられています。",
+    "userReview": "名勝天龍峡温泉 渓谷に佇む隠れ宿 峡泉ならではの立地と落ち着いた空間で、ゆったりとした滞在を楽しめたという声が寄せられています。",
     "reviewAverage": 5,
     "reviewCount": 209,
     "address": "長野県飯田市川路4942-2",
@@ -283,8 +283,8 @@ export default function Page() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 須坂駅よりアクセス。長野電鉄須坂駅または小布施駅下車、当館無料送迎バスをご利用ください（要事前予約）。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「松川渓谷に佇む宿 信州山田温泉 山田館」にチェックイン。全室渓谷ビュー。松川渓谷が織り成す絶景、心づくしのお料理と山田の湯で五感を潤すご滞在を叶えますなどの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「松川渓谷に佇む宿 信州山田温泉 山田館」の湯処へ。全室渓谷ビュー。松川渓谷が織り成す絶景、心づくしのお料理と山田の湯で五とともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「松川渓谷に佇む宿 信州山田温泉 山田館」にチェックイン。全室渓谷ビュー。松川渓谷が織り成す絶景、心づくしのお料理と山田の湯で五感を潤すご滞在を叶えますが魅力の一軒。客室で荷物をほどいて穏やかな午後のひとときを。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「松川渓谷に佇む宿 信州山田温泉 山田館」の湯船で寛ぎタイム。季節の空気を感じながら手足を伸ばし、心豊かな夕方のリラックス時間を満喫。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「松川渓谷に佇む宿 信州山田温泉 山田館」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -296,7 +296,7 @@ export default function Page() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「松川渓谷に佇む宿 信州山田温泉 山田館」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「松川渓谷に佇む宿 信州山田温泉 山田館」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「志賀高原 白い温泉 渓谷の湯」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は「松川渓谷に佇む宿 信州山田温泉 山田館」周辺の観光スポットや地元の名産店に立ち寄り、ご当地のお土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>
@@ -424,7 +424,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 松川渓谷に佇む宿　信州山田温泉　山田館</td>
                 <td className="p-3 text-stone-600">長野県上高井郡高山村山田温泉3604</td>
-                <td className="p-3 text-stone-600">長野電鉄須坂駅または小布施駅下車、当館無料送迎バスをご利用ください（要</td>
+                <td className="p-3 text-stone-600">長野電鉄須坂駅または小布施駅下車、当館無料送迎バスをご利用ください（要事前予約）</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.6（54件）</td>
                 <td className="p-3 font-bold text-rose-600">¥30,000〜</td>
@@ -433,7 +433,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 志賀高原　白い温泉　渓谷の湯</td>
                 <td className="p-3 text-stone-600">長野県下高井郡山ノ内町大字平穏7148 　※カーナビは【電話07】でご設定ください</td>
-                <td className="p-3 text-stone-600">信州中野ICお車30分　ナビは0269-34-2207でご設定下さい/</td>
+                <td className="p-3 text-stone-600">信州中野ICお車30分 ナビは0269-34-2207でご設定下さい/JR長野駅バス70分志賀高原山の駅下車、送迎有り</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.8（182件）</td>
                 <td className="p-3 font-bold text-rose-600">¥21,700〜</td>
@@ -442,7 +442,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 名勝天龍峡温泉　渓谷に佇む隠れ宿　峡泉</td>
                 <td className="p-3 text-stone-600">長野県飯田市川路4942-2</td>
-                <td className="p-3 text-stone-600">JR飯田線「天竜峡駅」より徒歩５分 / 天龍峡ICより車で３分 / 新</td>
+                <td className="p-3 text-stone-600">JR飯田線「天竜峡駅」より徒歩５分 / 天龍峡ICより車で３分 / 新宿・名古屋（高速バス）→飯田駅（JR）→天竜峡駅</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★5（209件）</td>
                 <td className="p-3 font-bold text-rose-600">¥40,900〜</td>
@@ -451,7 +451,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 全室温泉半露天風呂付リゾート　日光ガーデンホテル</td>
                 <td className="p-3 text-stone-600">栃木県那須塩原市塩原1330</td>
-                <td className="p-3 text-stone-600">JR那須塩原駅からお車で約35分　野岩鉄道 上三依塩原温泉口駅からバス</td>
+                <td className="p-3 text-stone-600">JR那須塩原駅からお車で約35分 野岩鉄道 上三依塩原温泉口駅からバスで20分</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.33（188件）</td>
                 <td className="p-3 font-bold text-rose-600">¥13,700〜</td>
@@ -460,7 +460,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. １１種類の貸切露天風呂　水上高原／奥利根温泉　ホテルサンバード</td>
                 <td className="p-3 text-stone-600">群馬県利根郡みなかみ町藤原4957-1</td>
-                <td className="p-3 text-stone-600">水上駅周辺</td>
+                <td className="p-3 text-stone-600">車で関越自動車道・水上ＩＣから３０分・ＪＲで上越線 水上駅より 湯ノ小屋行きバスで藤原スキー場入口下車900M</td>
                 <td className="p-3 text-stone-600">有り ３００台 無料 先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.04（825件）</td>
                 <td className="p-3 font-bold text-rose-600">¥9,900〜</td>
@@ -484,12 +484,12 @@ export default function Page() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/173176/173176.jpg" alt="松川渓谷に佇む宿　信州山田温泉　山田館 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
-                  <p><strong>【宿の特徴・魅力】</strong>「エメラルドグリーンの渓谷美と秘境吊り橋！大自然の峡谷露天風呂に癒やされる隠れ家温泉宿」掲載宿の所在地・アクセス・特徴データ一覧は、周辺の観光巡りにも便利で快適な滞在環境が整った宿泊施設です。</p>
+                  <p><strong>【宿の特徴・魅力】</strong>松川渓谷に佇む宿　信州山田温泉　山田館は、周辺の観光巡りにも便利で快適な滞在環境が整った宿泊施設です。</p>
                   <p><strong>【所在地・アクセス】</strong>交通案内：長野電鉄須坂駅または小布施駅下車、当館無料送迎バスをご利用ください（要事前予約）</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉好き必見、貸切状態でゆったり満喫温泉好きなら、一度は行っておきたい旅館我が家は善光寺など長野周辺の観光とセットにしました大きい建物で満室でしたが、客室が少なくほとんど他のお客さんと顔会…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉好き必見、貸切状態でゆったり満喫温泉好きなら、一度は行っておきたい旅館我が家は善光寺など長野周辺の観光とセットにしました大きい建物で満室でしたが、客室が少なくほとんど他のお客さんと顔会。」
                   </blockquote>
                 </div>
               </div>
@@ -511,7 +511,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「信州の懐かしい味と露天風呂で良い思い出にお食事が、丁寧で、美味しい。信州の名産をいただきました。私が北信出身で、成人した子達とトレッキング目的で宿泊しました。朝食のシソジュース、たけのこ汁、夕食の…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「信州の懐かしい味と露天風呂で良い思い出にお食事が、丁寧で、美味しい。信州の名産をいただきました。私が北信出身で、成人した子達とトレッキング目的で宿泊しました。」
                   </blockquote>
                 </div>
               </div>
@@ -555,7 +555,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「子供への細やかな配慮と対応に大満足家族あげての旅行で利用しました。 露天風呂は小さな子たちはお風呂のおもちゃで思う存分遊べて良かったです。あげく、お風呂におもちゃを忘れて連絡までいただき助かり…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「子供への細やかな配慮と対応に大満足家族あげての旅行で利用しました。 露天風呂は小さな子たちはお風呂のおもちゃで思う存分遊べて良かったです。」
                   </blockquote>
                 </div>
               </div>
@@ -577,7 +577,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り ３００台 無料 先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.03 ／ 立地 ★4.08 ／ 部屋 ★3.94 ／ 設備 ★3.75 ／ 風呂 ★4.19 ／ 食事 ★4.16</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「シルバーウィークにこの内容でみなかみでのラフティング目的で近くの宿を探し、シルバーウィークど真ん中なのにとてもお安く泊まれて、食事など正直あまり期待していなかったのですが良い意味で裏切られまし…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「シルバーウィークにこの内容でみなかみでのラフティング目的で近くの宿を探し、シルバーウィークど真ん中なのにとてもお安く泊まれて、食事など正直あまり期待していなかったのですが良い意味で裏切られました。」
                   </blockquote>
                 </div>
               </div>

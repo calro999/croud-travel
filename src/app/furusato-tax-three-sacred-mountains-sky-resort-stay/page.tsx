@@ -784,8 +784,8 @@ export default function Page() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 富士急ハイランド駅よりアクセス。富士急ハイランド駅より徒歩５分♪ 富士急行線河口湖駅より徒歩１６分 中央自動車道河口湖ICより車で１０分。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「ホテルマイステイズ富士山 展望温泉」にチェックイン。富士急ハイランドまで徒歩５分、大浴場・露天風呂あり！全室禁煙ですなどの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「ホテルマイステイズ富士山 展望温泉」の湯処へ。富士急ハイランドまで徒歩５分、大浴場・露天風呂あり！全室禁煙ですとともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「ホテルマイステイズ富士山 展望温泉」にチェックイン。富士急ハイランドまで徒歩５分、大浴場・露天風呂あり！ まずは客室で移動の疲れをそっと癒やす。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「ホテルマイステイズ富士山 展望温泉」の自慢の湯処へ。温かな湯気と落ち着いた雰囲気に癒やされながら、夕食前の贅沢なひとときを過ごす。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「ホテルマイステイズ富士山 展望温泉」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -797,7 +797,7 @@ export default function Page() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「ホテルマイステイズ富士山 展望温泉」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「ホテルマイステイズ富士山 展望温泉」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「富士河口湖温泉 富士山の見える温泉旅館 大池ホテル」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は宿周辺の散策とショッピングを満喫。地元の名産品やグルメを味わってから余裕をもって帰路につく。</li>
               </ul>
             </div>
           </div>

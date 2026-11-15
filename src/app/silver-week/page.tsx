@@ -264,7 +264,7 @@ export default function SilverWeekPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. ＡＮＡクラウンプラザホテルグランコート名古屋　ｂｙ　ＩＨＧ</td>
                 <td className="p-3 text-stone-600">愛知県名古屋市中区金山町1-1-1</td>
-                <td className="p-3 text-stone-600">金山（愛知）</td>
+                <td className="p-3 text-stone-600">名古屋駅から電車で3分「金山総合駅」下車。南口より徒歩1分。中部国際空港からは名鉄快速特急ミュースカイで最速２３分。</td>
                 <td className="p-3 text-stone-600">有り(車高2.1Ｍ以下) 1泊 2,500円 入庫から24時間</td>
                 <td className="p-3 font-bold text-amber-600">★4.46（4555件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,730〜</td>
@@ -273,7 +273,7 @@ export default function SilverWeekPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 富士屋ホテル</td>
                 <td className="p-3 text-stone-600">神奈川県足柄下郡箱根町宮ノ下359</td>
-                <td className="p-3 text-stone-600">宮ノ下</td>
+                <td className="p-3 text-stone-600">箱根登山鉄道「宮ノ下駅」より 徒歩７分 / 小田原厚木道路「箱根口IC」より国道1号線経由20分 （11㎞）</td>
                 <td className="p-3 text-stone-600">有り(無料)</td>
                 <td className="p-3 font-bold text-amber-600">★4.78（2257件）</td>
                 <td className="p-3 font-bold text-rose-600">¥22,220〜</td>
@@ -291,7 +291,7 @@ export default function SilverWeekPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 運河の宿　おたる　ふる川</td>
                 <td className="p-3 text-stone-600">北海道小樽市色内1-2-15</td>
-                <td className="p-3 text-stone-600"></td>
+                <td className="p-3 text-stone-600">ＪＲ小樽駅から徒歩約１３分（車で５分）</td>
                 <td className="p-3 text-stone-600">有り</td>
                 <td className="p-3 font-bold text-amber-600">★4.76（1104件）</td>
                 <td className="p-3 font-bold text-rose-600">¥11,500〜</td>
@@ -300,7 +300,7 @@ export default function SilverWeekPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. ホテル日航ハウステンボス</td>
                 <td className="p-3 text-stone-600">長崎県佐世保市ハウステンボス町6番地</td>
-                <td className="p-3 text-stone-600">ハウステンボス</td>
+                <td className="p-3 text-stone-600">●ＪＲハウステンボス駅から徒歩で10分●長崎市内から車で９０分●佐世保駅より車で30分</td>
                 <td className="p-3 text-stone-600">ホテル敷地内駐車場は有料となります。（1泊1台あたり1,000円）</td>
                 <td className="p-3 font-bold text-amber-600">★4.43（2998件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,500〜</td>
@@ -339,7 +339,7 @@ export default function SilverWeekPage() {
               <h4 className="text-sm font-bold text-stone-900">5. ホテル日航ハウステンボス（長崎県・4.43）</h4>
               <p><strong>【特徴】</strong>ハウステンボスまでは徒歩３分♪花と緑に囲まれたリゾートホテル</p>
               <p><strong>【交通・駐車場】</strong>●ＪＲハウステンボス駅から徒歩で10分●長崎市内から車で９０分●佐世保駅より車で30分 ／ 駐車場：ホテル敷地内駐車場は有料となります。（1泊1台あたり1,000円）</p>
-              <p className="italic text-stone-600">💬 宿泊者レビュー：「清潔な部屋とハウステンボス直結の利便性お部屋はコンパクトでしたが、清潔で気持ちよく滞在できました。ハウステンボスの専用出入り口がとても便利。お風呂も朝食も満足しています!クチコミの詳細はこ…」</p>
+              <p className="italic text-stone-600">💬 宿泊者レビュー：「清潔な部屋とハウステンボス直結の利便性お部屋はコンパクトでしたが、清潔で気持ちよく滞在できました。ハウステンボスの専用出入り口がとても便利。お風呂も朝食も満足しています!」</p>
             </div>
           </div>
           <div className="space-y-3 pt-4 border-t border-stone-200">

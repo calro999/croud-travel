@@ -384,7 +384,7 @@ export default function AutumnBudgetTakamatsuHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. ホテルエリアワン高松シティ（ホテルエリアワングループ）</td>
                 <td className="p-3 text-stone-600">香川県高松市内町2-20</td>
-                <td className="p-3 text-stone-600">高松（香川）駅周辺</td>
+                <td className="p-3 text-stone-600">JR高松駅より車3分・徒歩10分 高松空港リムジンバス「兵庫町」バス停より徒歩5分 高松中央IC・高松西ICより約20分</td>
                 <td className="p-3 text-stone-600">提携駐車場有　【丸亀町壱番街駐車場／香川県高松市内町2‐1】　1泊1,000円　※予約不可</td>
                 <td className="p-3 font-bold text-amber-600">★4.02（1178件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,700〜</td>
@@ -393,7 +393,7 @@ export default function AutumnBudgetTakamatsuHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 高松国際ホテル</td>
                 <td className="p-3 text-stone-600">香川県高松市木太町4区2191-1</td>
-                <td className="p-3 text-stone-600">高松（香川）駅周辺</td>
+                <td className="p-3 text-stone-600">JR高松駅より車で約15分 高松道高松中央IC、サンメッセ香川より車で約10分 市内バス(高松国際ホテル前)下車徒歩1分</td>
                 <td className="p-3 text-stone-600">【無料】平面駐車場200台　大型バス/トラック可　車で高松駅・サンメッセ15分、高松中央IC10分</td>
                 <td className="p-3 font-bold text-amber-600">★4.39（3248件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,700〜</td>
@@ -402,7 +402,7 @@ export default function AutumnBudgetTakamatsuHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. リーガホテルゼスト高松</td>
                 <td className="p-3 text-stone-600">香川県高松市古新町9-1</td>
-                <td className="p-3 text-stone-600">高松（香川）駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ高松駅…徒歩約１０分／あなぶきアリーナ香川…徒歩約１５分／高松空港よりリムジンバス…約３５分※兵庫町バス停ホテル正面</td>
                 <td className="p-3 text-stone-600">立体駐車場タワーパーキング30台　￥1,200（税込／泊）</td>
                 <td className="p-3 font-bold text-amber-600">★4.05（2056件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,600〜</td>
@@ -411,7 +411,7 @@ export default function AutumnBudgetTakamatsuHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 天然温泉　讃岐の湯　スーパーホテル高松・田町</td>
                 <td className="p-3 text-stone-600">香川県高松市田町1-1</td>
-                <td className="p-3 text-stone-600">瓦町駅周辺</td>
+                <td className="p-3 text-stone-600">◆高松駅より車で7分◆高松琴平電鉄琴平線「瓦町駅」より徒歩5分◆空港リムジンバス「県庁通り・中央公園前」下車、徒歩５分</td>
                 <td className="p-3 text-stone-600">提携Ｐ田町駐車場 ℡087-831-5590 立体・平面1泊1000円先着順（7：30～24：00）</td>
                 <td className="p-3 font-bold text-amber-600">★4.19（3545件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,240〜</td>
@@ -420,7 +420,7 @@ export default function AutumnBudgetTakamatsuHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. ＫＯＫＯ　ＨＯＴＥＬ　高松</td>
                 <td className="p-3 text-stone-600">香川県高松市瓦町2丁目2-3</td>
-                <td className="p-3 text-stone-600">瓦町駅周辺</td>
+                <td className="p-3 text-stone-600">琴平電鉄（ことでん）琴平線・長尾線 瓦町駅より徒歩2分。高松空港リムジンバス「高松駅行き」乗車、「瓦町駅」降車、徒歩2分</td>
                 <td className="p-3 text-stone-600">なし。徒歩圏内に提携駐車場あり(予約不可)。フロントにて割引券販売 ※途中出庫不可</td>
                 <td className="p-3 font-bold text-amber-600">★4.47（558件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,160〜</td>
@@ -449,7 +449,7 @@ export default function AutumnBudgetTakamatsuHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>提携駐車場有　【丸亀町壱番街駐車場／香川県高松市内町2‐1】　1泊1,000円　※予約不可</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.1 ／ 立地 ★3.97 ／ 部屋 ★3.94 ／ 設備 ★3.86 ／ 風呂 ★3.66 ／ 食事 ★4.15</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食のパンが絶品、コーヒーも美味しく大満足朝食大満足。パンは特に美味しかった。お客さんの入ってる状況によると思いますが、陳列するタイミングをある程度ふんだんに並べていただくとたくさん欲しい人にとっ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食のパンが絶品、コーヒーも美味しく大満足朝食大満足。パンは特に美味しかった。」
                   </blockquote>
                 </div>
               </div>
@@ -493,7 +493,7 @@ export default function AutumnBudgetTakamatsuHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>立体駐車場タワーパーキング30台　￥1,200（税込／泊）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食の出来立て卵料理が美味しすぎる駐車:ホテル管轄の駐車場がありますが、タワー式の立体駐車場のため大きい車は入れることができません。少し離れた所にある「丸亀町くるりん駐車場」に停めました。ホテ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食の出来立て卵料理が美味しすぎる駐車:ホテル管轄の駐車場がありますが、タワー式の立体駐車場のため大きい車は入れることができません。少し離れた所にある「丸亀町くるりん駐車場」に停めました。」
                   </blockquote>
                 </div>
               </div>
@@ -515,7 +515,7 @@ export default function AutumnBudgetTakamatsuHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>提携Ｐ田町駐車場 ℡087-831-5590 立体・平面1泊1000円先着順（7：30～24：00）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「2回目の利用も部屋と朝食に大満足2回目の宿泊。3部屋用意してくれて、ゆっくりできました。朝のバイキングも、部屋もとても綺麗で快適でした。また機会があれば、行かせてもらいます。クチコミの詳細はこ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「2回目の利用も部屋と朝食に大満足2回目の宿泊。3部屋用意してくれて、ゆっくりできました。朝のバイキングも、部屋もとても綺麗で快適でした。また機会があれば、行かせてもらいます。」
                   </blockquote>
                 </div>
               </div>
@@ -537,7 +537,7 @@ export default function AutumnBudgetTakamatsuHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>なし。徒歩圏内に提携駐車場あり(予約不可)。フロントにて割引券販売 ※途中出庫不可</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.49 ／ 立地 ★4.4 ／ 部屋 ★4.47 ／ 設備 ★4.43 ／ 風呂 ★4.42 ／ 食事 ★4.32</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近で清潔、お風呂も広くて快適な空間瓦町駅からとても近く、周りが飲食街で夕食には困らない。新しいホテルで清潔で快適。風呂とトイレが別々なのも良い。お風呂はとても広く快適。ただ、洗面所がとても狭く使…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近で清潔、お風呂も広くて快適な空間瓦町駅からとても近く、周りが飲食街で夕食には困らない。新しいホテルで清潔で快適。風呂とトイレが別々なのも良い。お風呂はとても広く快適。」
                   </blockquote>
                 </div>
               </div>

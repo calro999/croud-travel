@@ -278,7 +278,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 湯川温泉　萬鷹旅館</td>
                 <td className="p-3 text-stone-600">岩手県和賀郡西和賀町湯川52-108-1</td>
-                <td className="p-3 text-stone-600">ほっとゆだ駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ北上線 ほっとゆだ駅から車で５分又はゆけむりタクシー萬鷹前下車すぐ／秋田自動車道 湯田ＩＣから車で１０分</td>
                 <td className="p-3 text-stone-600">有り　１０台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.78（143件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,800〜</td>
@@ -287,7 +287,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. ホテル小田島</td>
                 <td className="p-3 text-stone-600">岩手県盛岡市中央通1-12-24</td>
-                <td className="p-3 text-stone-600">盛岡駅周辺</td>
+                <td className="p-3 text-stone-600">盛岡駅から車で5分徒歩17分。県庁、市役所まで徒歩5分 ☆1階のファミマが目印です♪☆彡</td>
                 <td className="p-3 text-stone-600">先着順40台迄　1泊880円（税込）14時〜翌11時  満車の際は契約駐車場へご案内</td>
                 <td className="p-3 font-bold text-amber-600">★4.09（2549件）</td>
                 <td className="p-3 font-bold text-rose-600">¥2,530〜</td>
@@ -296,7 +296,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 八幡平マウンテンホテル</td>
                 <td className="p-3 text-stone-600">岩手県八幡平市松尾寄木第1地割509-1</td>
-                <td className="p-3 text-stone-600">盛岡駅周辺</td>
+                <td className="p-3 text-stone-600">東北自動車道 松尾ICより15分。盛岡駅より岩手県北バスで約80分。</td>
                 <td className="p-3 text-stone-600">有り　200台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.34（774件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,500〜</td>
@@ -305,7 +305,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. ＪＲ東日本ホテルメッツ北上</td>
                 <td className="p-3 text-stone-600">岩手県北上市大通1-1-34</td>
-                <td className="p-3 text-stone-600">北上駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ東北本線・新幹線 北上駅西口から徒歩１分 国道４号線より車で３分</td>
                 <td className="p-3 text-stone-600">【 駐車料金：1泊800円 】敷地内17台。満車の場合は提携駐車場をご案内します。</td>
                 <td className="p-3 font-bold text-amber-600">★4.15（2255件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,450〜</td>
@@ -314,7 +314,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. ＡＮＡホリデイ・イン岩手北上　ｂｙ　ＩＨＧ（旧：ホテルシティプラザ北上）</td>
                 <td className="p-3 text-stone-600">岩手県北上市川岸1-14-1</td>
-                <td className="p-3 text-stone-600">北上駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ北上駅【東口】より徒歩約７分。いわて花巻空港より車で30分。北上江釣子インターより車で12分。</td>
                 <td className="p-3 text-stone-600">無料駐車場130台分（予約不要）※大型車は事前問い合わせ要</td>
                 <td className="p-3 font-bold text-amber-600">★4.26（2498件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,580〜</td>
@@ -343,7 +343,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「何度も訪れたくなる、特別なお宿です!萬鷹旅館さんの大ファンです。毎回、訪れても変わることのない素晴らしいおもてなしに、今回も到着した瞬間から心が解きほぐされました。お目当ての名物スッポ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「何度も訪れたくなる、特別なお宿です!萬鷹旅館さんの大ファンです。毎回、訪れても変わることのない素晴らしいおもてなしに、今回も到着した瞬間から心が解きほぐされました。」
                   </blockquote>
                 </div>
               </div>
@@ -431,7 +431,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料駐車場130台分（予約不要）※大型車は事前問い合わせ要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「随分室内の内装が変わっていましたHolidayInnの系列になり、前回宿泊時から内装が大きく変わって綺麗になっていました。浴槽や浴室の内装が変わっていなかったのが少し残念でした。川沿いでゆった…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「随分室内の内装が変わっていましたHolidayInnの系列になり、前回宿泊時から内装が大きく変わって綺麗になっていました。浴槽や浴室の内装が変わっていなかったのが少し残念でした。」
                   </blockquote>
                 </div>
               </div>

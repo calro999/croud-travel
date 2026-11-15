@@ -340,8 +340,8 @@ export default function ArticlePage() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 北海道川上郡弟子屈町川湯温泉1-5-48へ到着後、チェックイン前の散策へ。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「ＹＵＮＯＭＹ」にチェックイン。ひがし北海道の真ん中。弟子屈町・川湯温泉にあるゲストハウスです。などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「ＹＵＮＯＭＹ」の湯処へ。ひがし北海道の真ん中。弟子屈町・川湯温泉にあるゲストハウスです。とともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「ＹＵＮＯＭＹ」にチェックイン。ひがし北海道の真ん中。弟子屈町・川湯温泉にあるゲストハウスです。 荷物を解き、落ち着いた室内でまず一息つく。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「ＹＵＮＯＭＹ」の湯船で寛ぎタイム。季節の空気を感じながら手足を伸ばし、心豊かな夕方のリラックス時間を満喫。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「ＹＵＮＯＭＹ」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -353,7 +353,7 @@ export default function ArticlePage() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「ＹＵＮＯＭＹ」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「ＹＵＮＯＭＹ」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「川湯温泉 川湯観光ホテル」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は「ＹＵＮＯＭＹ」周辺の観光スポットや地元の名産店に立ち寄り、ご当地のお土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>
@@ -447,7 +447,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. ＹＵＮＯＭＹ（旧：川湯温泉ゲストハウスＮＯＭＹ）</td>
                 <td className="p-3 text-stone-600">北海道川上郡弟子屈町川湯温泉1-5-48</td>
-                <td className="p-3 text-stone-600"></td>
+                <td className="p-3 text-stone-600">北海道川上郡弟子屈町川湯温泉1-5-48 ／ 交通案内：</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.5（11件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,400〜</td>
@@ -456,7 +456,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 川湯温泉　ＨＯＴＥＬ　ＰＡＲＫＷＡＹ（ホテルパークウェイ）</td>
                 <td className="p-3 text-stone-600">北海道川上郡弟子屈町川湯駅前3-2-10</td>
-                <td className="p-3 text-stone-600">川湯温泉駅周辺</td>
+                <td className="p-3 text-stone-600">国道391号線沿い／JR川湯温泉駅より徒歩3分</td>
                 <td className="p-3 text-stone-600">有り　30台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.2（375件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,700〜</td>
@@ -465,7 +465,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 川湯温泉　川湯観光ホテル</td>
                 <td className="p-3 text-stone-600">北海道川上郡弟子屈町川湯温泉1-2-30</td>
-                <td className="p-3 text-stone-600"></td>
+                <td className="p-3 text-stone-600">北海道川上郡弟子屈町川湯温泉1-2-30 ／ 交通案内：</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.17（749件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,000〜</td>
@@ -516,7 +516,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　30台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.25 ／ 立地 ★4.12 ／ 部屋 ★3.96 ／ 設備 ★3.78 ／ 風呂 ★4.18 ／ 食事 ★4.19</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉の質とスタッフの心遣いに大満足川湯温泉は本当に穴場で、温泉の質も良いのに宿泊料金がお値打ちなので驚きます。設備は昭和っぽい作りの温泉旅館ホテル、中年には懐かしい感じです。夕食の膳は多す…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉の質とスタッフの心遣いに大満足川湯温泉は本当に穴場で、温泉の質も良いのに宿泊料金がお値打ちなので驚きます。設備は昭和っぽい作りの温泉旅館ホテル、中年には懐かしい感じです。」
                   </blockquote>
                 </div>
               </div>

@@ -617,7 +617,7 @@ export default function FurusatoFeaturePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 霧島温泉郷　霧島みやまホテル</td>
                 <td className="p-3 text-stone-600">鹿児島県霧島市牧園町高千穂3900-3</td>
-                <td className="p-3 text-stone-600">霧島神宮駅周辺</td>
+                <td className="p-3 text-stone-600">JR霧島神宮駅より車で15分/霧島温泉駅より車で15分 横川ICより車で20分/溝辺鹿児島空港ICより車で25分</td>
                 <td className="p-3 text-stone-600">有り　２０台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.36（551件）</td>
                 <td className="p-3 font-bold text-rose-600">¥10,350〜</td>
@@ -626,7 +626,7 @@ export default function FurusatoFeaturePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 指宿温泉　いぶすき秀水園</td>
                 <td className="p-3 text-stone-600">鹿児島県指宿市湯の浜5-27-27</td>
-                <td className="p-3 text-stone-600">指宿駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ指宿枕崎線指宿駅まで送迎あり／九州自動車道谷山インターより５０分</td>
                 <td className="p-3 text-stone-600">有り　50台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.68（547件）</td>
                 <td className="p-3 font-bold text-rose-600">¥26,400〜</td>
@@ -635,7 +635,7 @@ export default function FurusatoFeaturePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 指宿温泉　こらんの湯　錦江楼</td>
                 <td className="p-3 text-stone-600">鹿児島県指宿市西方4507</td>
-                <td className="p-3 text-stone-600">宮ヶ浜駅周辺</td>
+                <td className="p-3 text-stone-600">JR指宿枕崎線 宮ヶ浜駅より徒歩9分（宮ケ浜駅からの送迎サービス有※要連絡）九州道終点から国道226号線を走って50分</td>
                 <td className="p-3 text-stone-600">有り　ホテル前に車60台分のスペースあり　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.28（630件）</td>
                 <td className="p-3 font-bold text-rose-600">¥14,750〜</td>
@@ -644,7 +644,7 @@ export default function FurusatoFeaturePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 湯の瀬温泉　湯の瀬旅館</td>
                 <td className="p-3 text-stone-600">山形県鶴岡市戸沢神子谷103-2</td>
-                <td className="p-3 text-stone-600">あつみ温泉駅周辺</td>
+                <td className="p-3 text-stone-600">あつみ温泉駅・鶴岡駅からお車で３０分</td>
                 <td className="p-3 text-stone-600">有り　2０台　無料　予約不要　大型もOK</td>
                 <td className="p-3 font-bold text-amber-600">★4.43（102件）</td>
                 <td className="p-3 font-bold text-rose-600">¥11,700〜</td>
@@ -653,7 +653,7 @@ export default function FurusatoFeaturePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 温海温泉　川端の宿　東屋旅館</td>
                 <td className="p-3 text-stone-600">山形県鶴岡市湯温海甲171</td>
-                <td className="p-3 text-stone-600">あつみ温泉駅周辺</td>
+                <td className="p-3 text-stone-600">JR羽越線 あつみ温泉駅よりタクシーで約５分・バスで約８分／国道７号線 あつみ温泉入り口より約５分／庄内空港より５０分</td>
                 <td className="p-3 text-stone-600">有　８台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.26（88件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,800〜</td>
@@ -662,7 +662,7 @@ export default function FurusatoFeaturePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">6. 温海温泉　かしわや旅館</td>
                 <td className="p-3 text-stone-600">山形県鶴岡市湯温海甲191</td>
-                <td className="p-3 text-stone-600">あつみ温泉駅周辺</td>
+                <td className="p-3 text-stone-600">羽越本線 あつみ温泉駅から車で６分</td>
                 <td className="p-3 text-stone-600">有り　6台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">高評価</td>
                 <td className="p-3 font-bold text-rose-600">プラン参照</td>
@@ -691,7 +691,7 @@ export default function FurusatoFeaturePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「貸切温泉と美味しい朝食、立地も最高貸切温泉風呂が最高でした!犬飼の湯は広々していて星空、青空を見ながらゆったり浸かることができました。朝食もご飯が進むおいしいおかずばかりでおかわりいただきました。…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「貸切温泉と美味しい朝食、立地も最高貸切温泉風呂が最高でした!犬飼の湯は広々していて星空、青空を見ながらゆったり浸かることができました。朝食もご飯が進むおいしいおかずばかりでおかわりいただきました。」
                   </blockquote>
                 </div>
               </div>
@@ -713,7 +713,7 @@ export default function FurusatoFeaturePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　50台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.76 ／ 立地 ★4.55 ／ 部屋 ★4.55 ／ 設備 ★4.45 ／ 風呂 ★4.5 ／ 食事 ★4.79</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「期待値が高すぎたのか、普通に感じた前評判が良すぎて、期待しすぎていたのかもしれません。別に悪くはないんだけど、そんな絶賛するほどじゃなかったかな...というのが正直なところです。砂…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「期待値が高すぎたのか、普通に感じた前評判が良すぎて、期待しすぎていたのかもしれません。別に悪くはないんだけど、そんな絶賛するほどじゃなかったかな...というのが正直なところです。」
                   </blockquote>
                 </div>
               </div>
@@ -735,7 +735,7 @@ export default function FurusatoFeaturePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　ホテル前に車60台分のスペースあり　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.39 ／ 立地 ★4.16 ／ 部屋 ★4.29 ／ 設備 ★4.12 ／ 風呂 ★4.25 ／ 食事 ★4.38</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「新婚旅行で利用、妻も大満足の快適な時間新婚旅行で泊まらせてもらいました。妻がとても気に入ったみたいで私も快適に過ごせました。ご飯も美味しく、温泉最高でした。また泊まりたいなと思いました。ありがとう…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「新婚旅行で利用、妻も大満足の快適な時間新婚旅行で泊まらせてもらいました。妻がとても気に入ったみたいで私も快適に過ごせました。ご飯も美味しく、温泉最高でした。また泊まりたいなと思いました。」
                   </blockquote>
                 </div>
               </div>
@@ -779,7 +779,7 @@ export default function FurusatoFeaturePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有　８台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事と接客は最高、お風呂の蛇口が残念連泊しましたが、女将さんはじめスタッフの方々の対応は素晴らしかったです。朝食・夕食もとても美味しくいただきました。窓からの景色も癒される風景。少し残念なのは、お…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事と接客は最高、お風呂の蛇口が残念連泊しましたが、女将さんはじめスタッフの方々の対応は素晴らしかったです。朝食・夕食もとても美味しくいただきました。窓からの景色も癒される風景。」
                   </blockquote>
                 </div>
               </div>

@@ -425,8 +425,8 @@ export default function Page() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 万座・鹿沢口駅よりアクセス。上信越自動車道碓氷軽井沢ＩＣより車で９０分。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「万座温泉 日進舘」にチェックイン。標高1800ｍ万座温泉の老舗宿『日進舘』＜エントリーで最大ポイント15倍！得旅キャンペーン実施中！＞などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「万座温泉 日進舘」の湯処へ。標高1800ｍ万座温泉の老舗宿『日進舘』＜エントリーで最大ポイント15とともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「万座温泉 日進舘」にチェックイン。標高1800ｍ万座温泉の老舗宿『日進舘』＜エントリーで最大ポイント15倍！ まずは客室で移動の疲れをそっと癒やす。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「万座温泉 日進舘」の自慢の湯処へ。温かな湯気と落ち着いた雰囲気に癒やされながら、夕食前の贅沢なひとときを過ごす。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「万座温泉 日進舘」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -438,7 +438,7 @@ export default function Page() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「万座温泉 日進舘」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「万座温泉 日進舘」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「レンブラントプレミアム富士御殿場」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は「万座温泉 日進舘」周辺の観光スポットや地元の名産店に立ち寄り、ご当地のお土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>
@@ -566,7 +566,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 万座温泉　日進舘</td>
                 <td className="p-3 text-stone-600">群馬県吾妻郡嬬恋村大字干俣万座温泉２４０１</td>
-                <td className="p-3 text-stone-600">万座・鹿沢口駅周辺</td>
+                <td className="p-3 text-stone-600">上信越自動車道碓氷軽井沢ＩＣより車で９０分。</td>
                 <td className="p-3 text-stone-600">有り　１００台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.22（2592件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,770〜</td>
@@ -575,7 +575,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. レンブラントプレミアム富士御殿場</td>
                 <td className="p-3 text-stone-600">静岡県御殿場市深沢2571</td>
-                <td className="p-3 text-stone-600">御殿場駅周辺</td>
+                <td className="p-3 text-stone-600">御殿場駅より小田急箱根高速バス又はお車にて１０分</td>
                 <td className="p-3 text-stone-600">有り　３２台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.59（583件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,644〜</td>
@@ -584,7 +584,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 亀屋旅館＜岐阜県＞</td>
                 <td className="p-3 text-stone-600">岐阜県本巣市根尾樽見40-1</td>
-                <td className="p-3 text-stone-600">樽見駅周辺</td>
+                <td className="p-3 text-stone-600">樽見駅より徒歩にて約5分</td>
                 <td className="p-3 text-stone-600">有り　20台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4（12件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,650〜</td>

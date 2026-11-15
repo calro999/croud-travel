@@ -284,7 +284,7 @@ export default function Page() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 宮崎駅よりお車にて約６分、宮崎空港よりリムジンバスで１本「橘通り３丁目」下車徒歩３分、繁華街へ徒歩０分と好立地で現地へ到着。</li>
                 <li>・<strong className="text-stone-800">15:30〜</strong> 「天然温泉 ひなたの湯 スーパーホテルＰｒｅｍｉｅｒ宮崎一番街」へチェックイン。落ち着いた空間で旅の荷を解き、ゆったりとした時間をスタート。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「天然温泉 ひなたの湯 スーパーホテルＰｒｅｍｉｅｒ宮崎一番街」の湯処へ。日頃の疲れを癒やす湯浴みとともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「天然温泉 ひなたの湯 スーパーホテルＰｒｅｍｉｅｒ宮崎一番街」の大浴場・露天風呂へ。日暮れの静けさの中で湯に浸かり、旅の緊張をゆっくりと解きほぐす。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「天然温泉 ひなたの湯 スーパーホテルＰｒｅｍｉｅｒ宮崎一番街」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -296,7 +296,7 @@ export default function Page() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「天然温泉 ひなたの湯 スーパーホテルＰｒｅｍｉｅｒ宮崎一番街」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「天然温泉 ひなたの湯 スーパーホテルＰｒｅｍｉｅｒ宮崎一番街」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「湯田上温泉 ホテル小柳」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は宿周辺の散策とショッピングを満喫。地元の名産品やグルメを味わってから余裕をもって帰路につく。</li>
               </ul>
             </div>
           </div>
@@ -346,49 +346,49 @@ export default function Page() {
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">あわせて読みたい人気特集＆全国エリアガイド</h2>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
-            <a href="/tochigi-okunikko-yumoto-nature-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/winter-yamanashi-yamanakako-oshino-diamond-fuji-houtou-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">栃木・奥日光＆湯元温泉：男体山・戦場ヶ原＆乳白色硫黄泉・日光湯波宿 厳選ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「11・12・1月山梨」冬の澄天に輝く「ダイヤモンド富士」と雪化粧の忍野八海・熱々「甲州ほうとう鍋」＆富士山を望む絶景温泉宿5選</span>
             </a>
-            <a href="/winter-tochigi-nikko-chuzenji-lake-luxury-ritz-carlton-kanaya-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/yamaguchi-yuda-solo-business-onsen-gourmet-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【標高1200mの奥日光・中禅寺湖畔に佇む最高峰リゾート】2026-2027年11-12月初冬の栃木・日光中禅寺湖！「ザ・リッツ・カールトン日光」＆「中禅寺金谷ホテル」・男体山の初雪と日光湯元白濁硫黄泉・極上とちぎ和牛名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「山口・湯田温泉出張」白狐伝説の名湯・露天風呂サウナ・本場とらふく会席！県都ビジネスを豊かにととのえる厳選3宿</span>
             </a>
-            <a href="/winter-tochigi-yunishigawa-onsen-kamakura-irori-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/yamanashi-isawa-solo-retreat-wine-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12・1月栃木】平家落人の隠れ里・湯西川温泉の雪見露天風呂と名物平家囲炉裏会席＆日本夜景遺産かまくら祭を巡る名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「甲州・石和温泉ひとり旅・甲州ワインと名湯おこもり」広大な日本庭園露天風呂・甲州牛鉄板焼き・ワイナリー巡り！新宿特急90分の果樹郷厳選3宿</span>
             </a>
-            <a href="/furusato-tax-nasu-chause-autumn-leaves-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/akita-solo-business-kiritanpo-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">那須高原・茶臼岳の山岳紅葉ロープウェイ＆殺生石！那須温泉名湯・鹿の湯白濁泉×ふるさと納税厳選ガイド栃木</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「秋田出張＆美酒ひとり旅」秋田駅直結・天然温泉大浴場・比内地鶏きりたんぽ鍋！酒どころ秋田を満喫する極上ホテル 厳選3選</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
             <div className="flex flex-wrap gap-2">
               <Link
-                href="/prefectures/gunma/"
+                href="/prefectures/kyoto/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                群馬県の宿・温泉
+                京都府の宿・温泉
               </Link>
               <Link
-                href="/prefectures/kochi/"
+                href="/prefectures/osaka/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                高知県の宿・温泉
+                大阪府の宿・温泉
               </Link>
               <Link
-                href="/prefectures/nagano/"
+                href="/prefectures/hyogo/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                長野県の宿・温泉
+                兵庫県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/kanagawa/"
+                href="/prefectures/nara/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                神奈川県の宿・温泉
+                奈良県の宿・温泉
               </Link>
             </div>
           </div>
@@ -424,7 +424,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 天然温泉　ひなたの湯　スーパーホテルＰｒｅｍｉｅｒ宮崎一番街</td>
                 <td className="p-3 text-stone-600">宮崎県宮崎市中央通7-18</td>
-                <td className="p-3 text-stone-600">宮崎駅周辺</td>
+                <td className="p-3 text-stone-600">宮崎駅よりお車にて約６分、宮崎空港よりリムジンバスで１本「橘通り３丁目」下車徒歩３分、繁華街へ徒歩０分と好立地</td>
                 <td className="p-3 text-stone-600">有料1100円　先着順でご案内致します（予約不可）。料金は予告なく変更する場合がございます。</td>
                 <td className="p-3 font-bold text-amber-600">★4.44（1153件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,750〜</td>
@@ -433,7 +433,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 湯田上温泉　ホテル小柳</td>
                 <td className="p-3 text-stone-600">新潟県南蒲原郡田上町田上乙1322-1</td>
-                <td className="p-3 text-stone-600">新津駅周辺</td>
+                <td className="p-3 text-stone-600">関越道 三条・燕ICよりR403を車で30分／JR信越線 田上駅下車（無料送迎あり）</td>
                 <td className="p-3 text-stone-600">有り　100台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.3（1234件）</td>
                 <td className="p-3 font-bold text-rose-600">¥11,500〜</td>
@@ -442,7 +442,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 天然温泉　石鎚の湯　スーパーホテル伊予西条</td>
                 <td className="p-3 text-stone-600">愛媛県西条市朔日市777-1</td>
-                <td className="p-3 text-stone-600">伊予西条駅周辺</td>
+                <td className="p-3 text-stone-600">伊予西条駅よりお車にて約７分 伊予西条ICより車にて約15分</td>
                 <td className="p-3 text-stone-600">敷地内平面75台先着順無料。駐車場入り口は2ndstreetさんとくら寿司さんの間の道になります。</td>
                 <td className="p-3 font-bold text-amber-600">★4.39（679件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,510〜</td>
@@ -451,7 +451,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 鬼怒川温泉　鬼怒川プラザホテル</td>
                 <td className="p-3 text-stone-600">栃木県日光市鬼怒川温泉滝530</td>
-                <td className="p-3 text-stone-600">鬼怒川温泉駅周辺</td>
+                <td className="p-3 text-stone-600">東武鉄道 鬼怒川温泉駅から１ｋｍ（徒歩１５分、車５分）／日光宇都宮自動車道 今市ＩＣより国道１２１号で約３０分</td>
                 <td className="p-3 text-stone-600">あり　■乗用車（２００台収容）※無料</td>
                 <td className="p-3 font-bold text-amber-600">★3.71（4760件）</td>
                 <td className="p-3 font-bold text-rose-600">¥9,350〜</td>
@@ -460,7 +460,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 箱根湯本温泉　女性に優しい癒しの宿　ホテルマイユクール祥月</td>
                 <td className="p-3 text-stone-600">神奈川県足柄下郡箱根町湯本468-1</td>
-                <td className="p-3 text-stone-600">箱根湯本駅下車徒歩１２分／小田原厚木道路箱根口ＩＣから2ｋｍ　箱根神社</td>
+                <td className="p-3 text-stone-600">箱根湯本駅下車徒歩１２分／小田原厚木道路箱根口ＩＣから2ｋｍ 箱根神社約40分／箱根ターンパイク約10分</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.55（6648件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,500〜</td>
@@ -489,7 +489,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有料1100円　先着順でご案内致します（予約不可）。料金は予告なく変更する場合がございます。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.5 ／ 立地 ★4.4 ／ 部屋 ★4.41 ／ 設備 ★4.39 ／ 風呂 ★4.43 ／ 食事 ★4.31</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「繁華街への好立地と温泉、リファのドライヤーに大満足宮崎に行く時はいつも利用させていただいています。繁華街にもすぐ行けるし大変助かっています!トロトロの温泉も、好きな時間に何度も入れるので、夜に…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「繁華街への好立地と温泉、リファのドライヤーに大満足宮崎に行く時はいつも利用させていただいています。繁華街にもすぐ行けるし大変助かっています!」
                   </blockquote>
                 </div>
               </div>
@@ -511,7 +511,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　100台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「子連れへの配慮が細やかで安心して過ごせた1歳の子どもを連れての宿泊でした。ウェルカムベビーの宿とうたってはいないけど、ベビー用品の貸し出しがあったり食事ではエプロンや子ども用取り皿、ハイチェアなど…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「子連れへの配慮が細やかで安心して過ごせた1歳の子どもを連れての宿泊でした。」
                   </blockquote>
                 </div>
               </div>
@@ -533,7 +533,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>敷地内平面75台先着順無料。駐車場入り口は2ndstreetさんとくら寿司さんの間の道になります。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.42 ／ 立地 ★4.31 ／ 部屋 ★4.38 ／ 設備 ★4.36 ／ 風呂 ★4.35 ／ 食事 ★4.38</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「過去一の満足度、清掃と接客が素晴らしいこれまで他のスーパーホテルを利用したことはあったが、ここは過去一で良かった!部屋も含めて施設全体の隅々まで清掃が行き届いており、またスタッフ全員が笑顔で接…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「過去一の満足度、清掃と接客が素晴らしいこれまで他のスーパーホテルを利用したことはあったが、ここは過去一で良かった!」
                   </blockquote>
                 </div>
               </div>
@@ -555,7 +555,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>あり　■乗用車（２００台収容）※無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「角部屋の景色と子供への優しい対応に感謝お部屋お任せプランにしました。角部屋で、景色もよく満足しました。バイキングも子供が食べられるものがあり、助かりました。係の方も子供に優しく声をかけてくださり感…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「角部屋の景色と子供への優しい対応に感謝お部屋お任せプランにしました。角部屋で、景色もよく満足しました。バイキングも子供が食べられるものがあり、助かりました。」
                   </blockquote>
                 </div>
               </div>
@@ -577,7 +577,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「期待以上の素晴らしさで心身ともにリフレッシュ日頃の疲れを癒やすために宿泊しましたが、期待を大きく上回る素晴らしさでした。お部屋は清潔感があり広々としていて、到着時に用意していただいたウェルカム…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「期待以上の素晴らしさで心身ともにリフレッシュ日頃の疲れを癒やすために宿泊しましたが、期待を大きく上回る素晴らしさでした。」
                   </blockquote>
                 </div>
               </div>

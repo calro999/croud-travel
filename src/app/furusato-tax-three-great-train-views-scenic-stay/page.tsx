@@ -49,7 +49,7 @@ const hotels = [
     "reviewCount": 373,
     "address": "熊本県人吉市上青井町160",
     "access": "ＪＲ人吉駅より徒歩５分／九州自動車道人吉ＩＣより１０分 ※「カーナビ」目的地を「青井阿蘇神社」に設定してお越しください。",
-    "userReview": "歴史ある建物と温泉、おもてなしに大満足!歴史ある建物目当で宿泊しました。眼にも舌にも美味しいお料理、トロトロの温泉、ステキなおもてなしとあげればキリがないほど大満足!地震で大変なタイミングでし。",
+    "userReview": "歴史ある建物と温泉、おもてなしに大満足!歴史ある建物目当で宿泊しました。眼にも舌にも美味しいお料理、トロトロの温泉、ステキなおもてなしとあげればキリがないほど大満足!地震で大変なタイミングでした。",
     "label": "熊本県人吉市ふるさと納税・霧島連峰のパノラマを越える矢岳越え「肥薩線」登録有形文化財・人吉温泉人吉旅館",
     "spotTitle": "熊本県人吉市ふるさと納税：肥薩線の拠点・球磨川沿いに建つ登録有形文化財の名旅館「人吉温泉 人吉旅館」",
     "spotDesc": "創業昭和9年、国の登録有形文化財に指定された球磨川河畔の純和風旅館。源泉100%掛け流しの名湯と、人吉の旬魚アユや球磨焼酎とともに味わう繊細な会席料理が旅情をかき立てます。",
@@ -347,7 +347,7 @@ export default function FurusatoUpgradedPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 京都センチュリーホテル</td>
                 <td className="p-3 text-stone-600">京都府京都市下京区東塩小路町680</td>
-                <td className="p-3 text-stone-600">京都</td>
+                <td className="p-3 text-stone-600">JR京都駅中央口＜ニデック京都タワー＞より徒歩約2分。地下（JR烏丸東口・地下鉄京都駅）から”出口5”をご利用ください。</td>
                 <td className="p-3 text-stone-600">1泊￥2000(15：00-翌日12：00)(収容台数50台まで・予約不可) 時間外30分￥800</td>
                 <td className="p-3 font-bold text-amber-600">★4.48（4827件）</td>
                 <td className="p-3 font-bold text-rose-600">¥11,680〜</td>
@@ -365,7 +365,7 @@ export default function FurusatoUpgradedPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 伊東温泉　青山やまと</td>
                 <td className="p-3 text-stone-600">静岡県伊東市岡203</td>
-                <td className="p-3 text-stone-600">伊東</td>
+                <td className="p-3 text-stone-600">JR伊東駅より車で10分。13:30～17:30は30分間隔で送迎有り（予約不要）</td>
                 <td className="p-3 text-stone-600">有り：30台・無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.58（635件）</td>
                 <td className="p-3 font-bold text-rose-600">¥14,300〜</td>
@@ -374,7 +374,7 @@ export default function FurusatoUpgradedPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. ヒルトン東京ベイ</td>
                 <td className="p-3 text-stone-600">千葉県浦安市舞浜1-8</td>
-                <td className="p-3 text-stone-600">舞浜</td>
+                <td className="p-3 text-stone-600">舞浜駅→ディズニーリゾートライン「ベイサイドステーション」下車 バス／徒歩1分。 舞浜駅→無料送迎バスで約7分。</td>
                 <td className="p-3 text-stone-600">1泊 3,100円、 2泊 4,700円、3泊以上 6,300円</td>
                 <td className="p-3 font-bold text-amber-600">★4.4（13311件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,923〜</td>
@@ -395,7 +395,7 @@ export default function FurusatoUpgradedPage() {
               <h4 className="text-sm font-bold text-stone-900">2. 京都センチュリーホテル（京都府・4.48）</h4>
               <p><strong>【特徴】</strong>旅するように過ごす、京都駅前より新しい「旅」が始まります</p>
               <p><strong>【交通・駐車場】</strong>JR京都駅中央口＜ニデック京都タワー＞より徒歩約2分。地下（JR烏丸東口・地下鉄京都駅）から”出口5”をご利用ください。 ／ 駐車場：1泊￥2000(15：00-翌日12：00)(収容台数50台まで・予約不可) 時間外30分￥800</p>
-              <p className="italic text-stone-600">💬 宿泊者レビュー：「親切な対応は満足ですが設備が少し残念ホテルの方はとても親切で感じが良かったただお部屋は出入り口が狭く靴を置きにくく少し不便なのと 便座に暖房が入らない点が残念でしたクチコミの詳細はこち…」</p>
+              <p className="italic text-stone-600">💬 宿泊者レビュー：「親切な対応は満足ですが設備が少し残念ホテルの方はとても親切で感じが良かったただお部屋は出入り口が狭く靴を置きにくく少し不便なのと 便座に暖房が入らない点が残念でした」</p>
             </div>
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-200 space-y-2 text-xs text-stone-700 leading-relaxed">
               <h4 className="text-sm font-bold text-stone-900">3. ホテル金沢（・4.47）</h4>

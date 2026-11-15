@@ -409,8 +409,8 @@ export default function Page() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> つくばEXPRESS「浅草」駅A1出口(EV有り)より徒歩約4分、銀座線「浅草」駅1番出口(EV有り)より徒歩約8分で現地へ到着。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「天然温泉 凌天の湯 御宿 野乃浅草別邸」にチェックイン。天然温泉大浴場は浅草観音温泉の黒湯を使用♪セルフロウリュサウナ完備！などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「天然温泉 凌天の湯 御宿 野乃浅草別邸」の湯処へ。天然温泉大浴場は浅草観音温泉の黒湯を使用♪セルフロウリュサウナ完備！とともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「天然温泉 凌天の湯 御宿 野乃浅草別邸」にチェックイン。天然温泉大浴場は浅草観音温泉の黒湯を使用♪セルフロウリュサウナ完備！ 館内の設えを確かめながら、これからの滞在に備えてゆっくり休息する。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「天然温泉 凌天の湯 御宿 野乃浅草別邸」の大浴場・露天風呂へ。日暮れの静けさの中で湯に浸かり、旅の緊張をゆっくりと解きほぐす。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「天然温泉 凌天の湯 御宿 野乃浅草別邸」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -422,7 +422,7 @@ export default function Page() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「天然温泉 凌天の湯 御宿 野乃浅草別邸」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「天然温泉 凌天の湯 御宿 野乃浅草別邸」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「南郷温泉 二葉屋」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は「天然温泉 凌天の湯 御宿 野乃浅草別邸」周辺の観光スポットや地元の名産店に立ち寄り、ご当地のお土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>
@@ -550,7 +550,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 天然温泉　凌天の湯　御宿　野乃浅草別邸（ドーミーイン・御宿野乃　ホテルズグループ）</td>
                 <td className="p-3 text-stone-600">東京都台東区浅草2-7-26</td>
-                <td className="p-3 text-stone-600">浅草駅周辺</td>
+                <td className="p-3 text-stone-600">つくばEXPRESS「浅草」駅A1出口(EV有り)より徒歩約4分、銀座線「浅草」駅1番出口(EV有り)より徒歩約8分</td>
                 <td className="p-3 text-stone-600">無し</td>
                 <td className="p-3 font-bold text-amber-600">★4.62（167件）</td>
                 <td className="p-3 font-bold text-rose-600">¥11,667〜</td>
@@ -641,7 +641,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「アメニティ充実とシモンズのベッドで満足久しぶりのリピート宿泊。以前からの懸案事項の風呂の化粧水がなかった件は解消されていた。フロント前で自分でアメニティを選ぶ場所に化粧水、乳液、クレンジング、洗顔…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「アメニティ充実とシモンズのベッドで満足久しぶりのリピート宿泊。以前からの懸案事項の風呂の化粧水がなかった件は解消されていた。」
                   </blockquote>
                 </div>
               </div>

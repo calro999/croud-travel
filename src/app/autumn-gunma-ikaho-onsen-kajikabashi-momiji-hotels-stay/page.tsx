@@ -342,7 +342,7 @@ export default function IkahoOnsenAutumnPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 伊香保温泉　香雲館</td>
                 <td className="p-3 text-stone-600">群馬県渋川市伊香保町伊香保175</td>
-                <td className="p-3 text-stone-600">渋川駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ渋川駅から伊香保温泉行きバス乗車で２５分※バス停までは随時送迎可。到着時お電話下さい。</td>
                 <td className="p-3 text-stone-600">有り　２０台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.83（331件）</td>
                 <td className="p-3 font-bold text-rose-600">¥28,600〜</td>
@@ -351,7 +351,7 @@ export default function IkahoOnsenAutumnPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 伊香保温泉　和心の宿　大森</td>
                 <td className="p-3 text-stone-600">群馬県渋川市伊香保町伊香保58</td>
-                <td className="p-3 text-stone-600">渋川駅周辺</td>
+                <td className="p-3 text-stone-600">関越道『渋川伊香保IC』より12km/JR上越線『渋川駅』</td>
                 <td className="p-3 text-stone-600">有り　80台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.58（1542件）</td>
                 <td className="p-3 font-bold text-rose-600">¥19,250〜</td>
@@ -360,7 +360,7 @@ export default function IkahoOnsenAutumnPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 伊香保温泉　ホテル松本楼</td>
                 <td className="p-3 text-stone-600">群馬県渋川市伊香保町伊香保164</td>
-                <td className="p-3 text-stone-600">渋川駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ上越線渋川駅よりバスで見晴下下車／関越自動車道渋川・伊香保ＩＣより約１０ｋｍ</td>
                 <td className="p-3 text-stone-600">有り　100台　無料　余裕有り</td>
                 <td className="p-3 font-bold text-amber-600">★4.53（3311件）</td>
                 <td className="p-3 font-bold text-rose-600">¥14,500〜</td>
@@ -369,7 +369,7 @@ export default function IkahoOnsenAutumnPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 伊香保温泉　温泉宿　塚越屋七兵衛</td>
                 <td className="p-3 text-stone-600">群馬県渋川市伊香保町伊香保175</td>
-                <td className="p-3 text-stone-600">渋川駅周辺</td>
+                <td className="p-3 text-stone-600">関越自動車道 渋川・伊香保ICより車にて20分 ※路線バス・高速バスをご利用の際はバス停送迎有（到着時連絡）</td>
                 <td className="p-3 text-stone-600">有り　100台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.43（889件）</td>
                 <td className="p-3 font-bold text-rose-600">¥10,010〜</td>
@@ -378,7 +378,7 @@ export default function IkahoOnsenAutumnPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 伊香保温泉　いかほ秀水園</td>
                 <td className="p-3 text-stone-600">群馬県渋川市伊香保町伊香保557</td>
-                <td className="p-3 text-stone-600"></td>
+                <td className="p-3 text-stone-600">群馬県渋川市伊香保町伊香保557 ／ 交通案内：</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.3（573件）</td>
                 <td className="p-3 font-bold text-rose-600">¥9,350〜</td>
@@ -407,7 +407,7 @@ export default function IkahoOnsenAutumnPage() {
                   <p>【秋の伊香保温泉：河鹿橋の紅葉ライトアップと石段街レト】 <strong>【駐車場・マイカー利用】</strong>有り　２０台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.89 ／ 立地 ★4.65 ／ 部屋 ★4.78 ／ 設備 ★4.7 ／ 風呂 ★4.76 ／ 食事 ★4.89</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「接客とサービスが素晴らしい接客とサービスが素晴らしかったです。評価が高い理由を実感しました。本館のスタッフも丁寧な接客で、おもてなしが感じられました。夕食は全体的に優しいお味で、どれも美味しく…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「接客とサービスが素晴らしい接客とサービスが素晴らしかったです。評価が高い理由を実感しました。本館のスタッフも丁寧な接客で、おもてなしが感じられました。」
                   </blockquote>
                 </div>
               </div>
@@ -429,7 +429,7 @@ export default function IkahoOnsenAutumnPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　80台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.69 ／ 立地 ★4.43 ／ 部屋 ★4.44 ／ 設備 ★4.31 ／ 風呂 ★4.49 ／ 食事 ★4.65</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「屋上露天風呂の眺望と清潔な館内に大満足屋上露天風呂が眺望も綺麗で最高でした特に岩風呂の方は趣があって良かったお部屋、館内全てが清潔・綺麗で過ごしやすかったですお勧めの宿です…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「屋上露天風呂の眺望と清潔な館内に大満足屋上露天風呂が眺望も綺麗で最高でした特に岩風呂の方は趣があって良かったお部屋、館内全てが清潔・綺麗で過ごしやすかったですお勧めの宿です。」
                   </blockquote>
                 </div>
               </div>
@@ -451,7 +451,7 @@ export default function IkahoOnsenAutumnPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　100台　無料　余裕有り</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.65 ／ 立地 ★4.33 ／ 部屋 ★4.5 ／ 設備 ★4.47 ／ 風呂 ★4.59 ／ 食事 ★4.56</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「リピーター特典がなく残念、食事と接客は満足リピーターです。前回までは毎回リピーター特典があり、特別感を感じられて嬉しかったのですが、今回はなく少しがっかりしました。でも、相変わらずご飯…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「リピーター特典がなく残念、食事と接客は満足リピーターです。前回までは毎回リピーター特典があり、特別感を感じられて嬉しかったのですが、今回はなく少しがっかりしました。」
                   </blockquote>
                 </div>
               </div>
@@ -473,7 +473,7 @@ export default function IkahoOnsenAutumnPage() {
                   <p>【秋の伊香保温泉：河鹿橋の紅葉ライトアップと石段街レト】 <strong>【駐車場・マイカー利用】</strong>有り　100台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「リーズナブルで料理も温泉も大満足!家族4人で宿泊(子供は4歳と2歳)しました。お盆終盤の8/15(土)、宿泊当日の朝に予約しました。一泊2食付きでとてもリーズナブルな価格設定にびっくり。料理も…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「リーズナブルで料理も温泉も大満足!家族4人で宿泊(子供は4歳と2歳)しました。お盆終盤の8/15(土)、宿泊当日の朝に予約しました。一泊2食付きでとてもリーズナブルな価格設定にびっくり。」
                   </blockquote>
                 </div>
               </div>

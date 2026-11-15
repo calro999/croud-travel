@@ -384,7 +384,7 @@ export default function AutumnBudgetFuranoHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. ホテルムニン富良野（Ｈｏｔｅｌ　Ｍｕｎｉｎ　Ｆｕｒａｎｏ）</td>
                 <td className="p-3 text-stone-600">北海道富良野市北の峰町10-23</td>
-                <td className="p-3 text-stone-600">富良野駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ 富良野駅よりお車にて約８分</td>
                 <td className="p-3 text-stone-600">有り　隣接駐車場１７台(無料)　他、近隣に提携駐車場有(無料)</td>
                 <td className="p-3 font-bold text-amber-600">★4.6（232件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,720〜</td>
@@ -393,7 +393,7 @@ export default function AutumnBudgetFuranoHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 新富良野プリンスホテル</td>
                 <td className="p-3 text-stone-600">北海道富良野市中御料</td>
-                <td className="p-3 text-stone-600">富良野駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ富良野駅タクシー10分／道央自動車道 三笠ＩＣより車で約60分／旭川空港・新千歳空港から路線バスあり（終点当ホテル）</td>
                 <td className="p-3 text-stone-600">有　390台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.34（1555件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,834〜</td>
@@ -402,7 +402,7 @@ export default function AutumnBudgetFuranoHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. ＦＵＲＡＮＯ　ＮＡＴＵＬＵＸ　ＨＯＴＥＬ（富良野　ナチュラクス　ホテル）</td>
                 <td className="p-3 text-stone-600">北海道富良野市朝日町1-35</td>
-                <td className="p-3 text-stone-600">富良野駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ富良野駅より徒歩1分・札幌市よりお車で約2.5時間・旭川よりお車で約1時間/旭川空港～富良野駅直通バスあり</td>
                 <td className="p-3 text-stone-600">有り　30台 （ハイルーフ車もOK）　無料　予約不可</td>
                 <td className="p-3 font-bold text-amber-600">★4.1（1102件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,400〜</td>
@@ -411,7 +411,7 @@ export default function AutumnBudgetFuranoHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 富良野リゾートホテル　エーデルヴェルメ</td>
                 <td className="p-3 text-stone-600">北海道富良野市北の峰町9-20</td>
-                <td className="p-3 text-stone-600">富良野駅周辺</td>
+                <td className="p-3 text-stone-600">札幌ICから道央自動車道、三笠ICまで約30分、道道116号岩見沢三笠線/国道38号線、北の峰経由で約1時間30分</td>
                 <td className="p-3 text-stone-600">有り　５０台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.07（428件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,470〜</td>
@@ -420,7 +420,7 @@ export default function AutumnBudgetFuranoHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. ホテル　ナトゥールヴァルト富良野</td>
                 <td className="p-3 text-stone-600">北海道富良野市北の峰町14-46</td>
-                <td className="p-3 text-stone-600">富良野駅周辺</td>
+                <td className="p-3 text-stone-600">車札幌から約3時間、旭川・旭山動物園から約1時間/旭川空港 富良野バス（旭川-富良野駅）で1時間</td>
                 <td className="p-3 text-stone-600">有り（もちろんハイルーフ車もOK）　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.16（1382件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,250〜</td>
@@ -471,7 +471,7 @@ export default function AutumnBudgetFuranoHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有　390台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「期待外れな点もあったけど...もろもろ満足5階の部屋に3泊しました。高台にあるので眺めを期待していたのですが、木々とうっすら山が見える程度。少し残念でした。洗面台コーナーが狭いので仕方がないのです…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「期待外れな点もあったけど...もろもろ満足5階の部屋に3泊しました。高台にあるので眺めを期待していたのですが、木々とうっすら山が見える程度。少し残念でした。」
                   </blockquote>
                 </div>
               </div>
@@ -493,7 +493,7 @@ export default function AutumnBudgetFuranoHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　30台 （ハイルーフ車もOK）　無料　予約不可</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.23 ／ 立地 ★4.18 ／ 部屋 ★4.08 ／ 設備 ★4.07 ／ 風呂 ★3.99 ／ 食事 ★4.04</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「富良野に行くならここ、次もまた利用します富良野に行くときは、必ずここです。清潔感もあり、コーヒーなども部屋に置かれていますので、ゆっくりくつろげます。また、次ももちろん、ここです!クチコミの詳…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「富良野に行くならここ、次もまた利用します富良野に行くときは、必ずここです。清潔感もあり、コーヒーなども部屋に置かれていますので、ゆっくりくつろげます。また、次ももちろん、ここです!」
                   </blockquote>
                 </div>
               </div>
@@ -515,7 +515,7 @@ export default function AutumnBudgetFuranoHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　５０台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「満足です。夜ご飯のお肉が美味しかったです。スタッフの方の対応も良く、笑顔で対応してくれました。ウェルカムドリンクや、ポップコーンなど置いてあり、嬉しかったです。お部屋のゴミ箱に袋が設置…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「満足です。夜ご飯のお肉が美味しかったです。スタッフの方の対応も良く、笑顔で対応してくれました。ウェルカムドリンクや、ポップコーンなど置いてあり、嬉しかったです。」
                   </blockquote>
                 </div>
               </div>
@@ -537,7 +537,7 @@ export default function AutumnBudgetFuranoHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り（もちろんハイルーフ車もOK）　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「子どもに優しい宿。大人だけでの宿泊は...?スキー場の目の前で駐車スペースも広々でした。激安宿ではないため、外国人観光客も少なかったように感じました。遊び場コーナー・手持ち花火や縁日のサー…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「子どもに優しい宿。大人だけでの宿泊は...?スキー場の目の前で駐車スペースも広々でした。激安宿ではないため、外国人観光客も少なかったように感じました。」
                   </blockquote>
                 </div>
               </div>

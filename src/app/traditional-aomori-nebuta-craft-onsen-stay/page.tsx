@@ -565,8 +565,8 @@ export default function FeatureDetailPage() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 青森駅よりアクセス。七戸十和田駅よりお車にて１時間／青森駅よりお車にて1時間20分。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「蔦温泉旅館－足元から源泉湧出の自噴温泉－」にチェックイン。約千年前から源泉のやさしい湯が湧き出てくる全国でも希少な「源泉湧き流し」の湯をお楽しみ下さいなどの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「蔦温泉旅館－足元から源泉湧出の自噴温泉－」の湯処へ。約千年前から源泉のやさしい湯が湧き出てくる全国でも希少な「源泉湧き流しとともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「蔦温泉旅館－足元から源泉湧出の自噴温泉－」にチェックイン。約千年前から源泉のやさしい湯が湧き出てくる全国でも希少な「源泉湧き流し」の湯をお楽しみ下さいが魅力の一軒。客室で荷物をほどいて穏やかな午後のひとときを。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「蔦温泉旅館－足元から源泉湧出の自噴温泉－」の自慢の湯処へ。温かな湯気と落ち着いた雰囲気に癒やされながら、夕食前の贅沢なひとときを過ごす。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「蔦温泉旅館－足元から源泉湧出の自噴温泉－」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -578,7 +578,7 @@ export default function FeatureDetailPage() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「蔦温泉旅館－足元から源泉湧出の自噴温泉－」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「蔦温泉旅館－足元から源泉湧出の自噴温泉－」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「酸ヶ湯温泉旅館」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は宿周辺の散策とショッピングを満喫。地元の名産品やグルメを味わってから余裕をもって帰路につく。</li>
               </ul>
             </div>
           </div>
@@ -649,28 +649,28 @@ export default function FeatureDetailPage() {
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
             <div className="flex flex-wrap gap-2">
               <Link
-                href="/prefectures/tokushima/"
+                href="/prefectures/aomori/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                徳島県の宿・温泉
+                青森県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/hiroshima/"
+                href="/prefectures/hokkaido/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                広島県の宿・温泉
+                北海道の宿・温泉
               </Link>
               <Link
-                href="/prefectures/saitama/"
+                href="/prefectures/iwate/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                埼玉県の宿・温泉
+                岩手県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/niigata/"
+                href="/prefectures/miyagi/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                新潟県の宿・温泉
+                宮城県の宿・温泉
               </Link>
             </div>
           </div>
@@ -706,7 +706,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 蔦温泉旅館－足元から源泉湧出の自噴温泉－</td>
                 <td className="p-3 text-stone-600">青森県十和田市奥瀬蔦野湯1</td>
-                <td className="p-3 text-stone-600">青森駅周辺</td>
+                <td className="p-3 text-stone-600">七戸十和田駅よりお車にて１時間／青森駅よりお車にて1時間20分</td>
                 <td className="p-3 text-stone-600">有り　50台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.83（380件）</td>
                 <td className="p-3 font-bold text-rose-600">¥20,600〜</td>
@@ -715,7 +715,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 酸ヶ湯温泉旅館</td>
                 <td className="p-3 text-stone-600">青森県青森市荒川字南荒川山国有林小字酸湯沢50</td>
-                <td className="p-3 text-stone-600">青森駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ 青森駅より十和田湖行ＪＲバスで７０分</td>
                 <td className="p-3 text-stone-600">有り　１５０台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.4（1560件）</td>
                 <td className="p-3 font-bold text-rose-600">¥12,100〜</td>
@@ -724,7 +724,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 浅虫温泉　津軽藩本陣の宿　旅館柳の湯</td>
                 <td className="p-3 text-stone-600">青森県青森市大字浅虫字山下236</td>
-                <td className="p-3 text-stone-600">浅虫温泉駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ浅虫温泉駅から徒歩6分/東北自動車道青森東出口より10分【浅虫温泉駅⇔当館まで無料送迎OK(要予約）】</td>
                 <td className="p-3 text-stone-600">有り：15台(無料）</td>
                 <td className="p-3 font-bold text-amber-600">★4.23（524件）</td>
                 <td className="p-3 font-bold text-rose-600">¥11,350〜</td>
@@ -733,7 +733,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 沢渡温泉　まるほん旅館</td>
                 <td className="p-3 text-stone-600">群馬県吾妻郡中之条町上沢渡甲2301</td>
-                <td className="p-3 text-stone-600">中之条駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ 中之条駅よりバスで２５分</td>
                 <td className="p-3 text-stone-600">有り　２０台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.38（160件）</td>
                 <td className="p-3 font-bold text-rose-600">¥11,850〜</td>
@@ -742,7 +742,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 温湯温泉　飯塚旅館</td>
                 <td className="p-3 text-stone-600">青森県黒石市温湯鶴泉60</td>
-                <td className="p-3 text-stone-600">黒石（青森）駅周辺</td>
+                <td className="p-3 text-stone-600">黒石駅よりバスにて20分／東北道黒石ICより10分</td>
                 <td className="p-3 text-stone-600">無料の駐車場12台分ご用意しています（※要予約）</td>
                 <td className="p-3 font-bold text-amber-600">★4.4（85件）</td>
                 <td className="p-3 font-bold text-rose-600">¥14,300〜</td>
@@ -771,7 +771,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　50台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.82 ／ 立地 ★4.71 ／ 部屋 ★4.76 ／ 設備 ★4.64 ／ 風呂 ★4.87 ／ 食事 ★4.8</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「足の速い接客一番は外観、内装、温泉が醸し出すなんとも独特な雰囲気が最高です。風呂もそこからブクブク湧き出す温泉と総檜風呂が良かったです。料理は見た目も少し凝ったものもあり良かったです。…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「足の速い接客一番は外観、内装、温泉が醸し出すなんとも独特な雰囲気が最高です。風呂もそこからブクブク湧き出す温泉と総檜風呂が良かったです。料理は見た目も少し凝ったものもあり良かったです。」
                   </blockquote>
                 </div>
               </div>
@@ -793,7 +793,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１５０台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.32 ／ 立地 ★4.43 ／ 部屋 ★4.09 ／ 設備 ★4.14 ／ 風呂 ★4.65 ／ 食事 ★4.29</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ピカイチの泉質と濃厚な硫黄泉に大満足湯治館で湯治食のプランで滞在。洗面、トイレ共同のめちゃくちゃ昭和スタイルなお部屋(笑)。しかしこちらの醍醐味は温泉で、ピカイチの泉質にヒノキ作りの浴槽。天下…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ピカイチの泉質と濃厚な硫黄泉に大満足湯治館で湯治食のプランで滞在。洗面、トイレ共同のめちゃくちゃ昭和スタイルなお部屋(笑)。しかしこちらの醍醐味は温泉で、ピカイチの泉質にヒノキ作りの浴槽。」
                   </blockquote>
                 </div>
               </div>
@@ -815,7 +815,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り：15台(無料）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.3 ／ 立地 ★4.02 ／ 部屋 ★4 ／ 設備 ★3.94 ／ 風呂 ★4.34 ／ 食事 ★4.34</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「設備や案内に不満はあるが食事と温泉は満足お部屋は普通の温泉旅館って感じです。やや古さを感じます。洗面所はアパートの洗面所のような感じでした。タオルが使い古しのもので1枚しかなかったのがちょっと気に…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「設備や案内に不満はあるが食事と温泉は満足お部屋は普通の温泉旅館って感じです。やや古さを感じます。洗面所はアパートの洗面所のような感じでした。」
                   </blockquote>
                 </div>
               </div>

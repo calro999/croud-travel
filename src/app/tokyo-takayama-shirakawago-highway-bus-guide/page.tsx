@@ -369,7 +369,7 @@ export default function HighwayBusArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 飛騨高山　旅館　一の松</td>
                 <td className="p-3 text-stone-600">岐阜県高山市岡本町1-225-8</td>
-                <td className="p-3 text-stone-600">高山駅周辺</td>
+                <td className="p-3 text-stone-600">高山駅西口より徒歩にて約6分</td>
                 <td className="p-3 text-stone-600">有り　8台(1000円／１泊)　先着順※事前予約不可</td>
                 <td className="p-3 font-bold text-amber-600">★2.5（12件）</td>
                 <td className="p-3 font-bold text-rose-600">¥9,600〜</td>
@@ -378,7 +378,7 @@ export default function HighwayBusArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 飛騨高山　本陣平野屋　光風館（旧：飛騨高山　本陣平野屋　別館）</td>
                 <td className="p-3 text-stone-600">岐阜県高山市本町1-5</td>
-                <td className="p-3 text-stone-600">高山駅周辺</td>
+                <td className="p-3 text-stone-600">高山駅・バスセンターより徒歩10分 駅まで無料送迎：随時 車：東海北陸 高山ＩＣ～１０分・中央道 松本ＩＣ～120分</td>
                 <td className="p-3 text-stone-600">有 ５０台 無料 チェックイン前・チェックアウト後も無料でお車お預かり</td>
                 <td className="p-3 font-bold text-amber-600">★4.68（1403件）</td>
                 <td className="p-3 font-bold text-rose-600">¥21,252〜</td>
@@ -387,7 +387,7 @@ export default function HighwayBusArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 飛騨高山　本陣平野屋　花兆庵</td>
                 <td className="p-3 text-stone-600">岐阜県高山市本町1-34</td>
-                <td className="p-3 text-stone-600">高山駅周辺</td>
+                <td className="p-3 text-stone-600">高山駅より徒歩10分 駅まで無料送迎：随時 車：東海北陸 高山ＩＣ～10分・中央道 松本ＩＣ～120分</td>
                 <td className="p-3 text-stone-600">無料　50台　チェックイン前・チェックアウト後もお預かりいたします</td>
                 <td className="p-3 font-bold text-amber-600">★4.89（839件）</td>
                 <td className="p-3 font-bold text-rose-600">¥29,095〜</td>
@@ -396,7 +396,7 @@ export default function HighwayBusArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 奥飛騨　平湯温泉　岡田旅館</td>
                 <td className="p-3 text-stone-600">岐阜県高山市奥飛騨温泉郷平湯</td>
-                <td className="p-3 text-stone-600">平湯温泉方面行きバス乗車、「平湯温泉駅」下車／松本ＩＣより６０分／富山</td>
+                <td className="p-3 text-stone-600">平湯温泉方面行きバス乗車、「平湯温泉駅」下車／松本ＩＣより６０分／富山ＩＣより９０分／清見ＩＣより８０分</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★3.91（627件）</td>
                 <td className="p-3 font-bold text-rose-600">¥15,950〜</td>
@@ -405,7 +405,7 @@ export default function HighwayBusArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 料理旅館　奥飛騨山草庵　饗家（きょうや）</td>
                 <td className="p-3 text-stone-600">岐阜県高山市奥飛騨温泉郷一重ケ根212-84</td>
-                <td className="p-3 text-stone-600">高山駅周辺</td>
+                <td className="p-3 text-stone-600">JR高山線・高山駅～バスで70分「新平湯禅通寺前」下車徒歩3分／JR中央線・松本駅～バスで100分／東海北陸道・清見IC</td>
                 <td className="p-3 text-stone-600">有り　２０台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.76（301件）</td>
                 <td className="p-3 font-bold text-rose-600">¥28,860〜</td>
@@ -456,7 +456,7 @@ export default function HighwayBusArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有 ５０台 無料 チェックイン前・チェックアウト後も無料でお車お預かり</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.71 ／ 立地 ★4.68 ／ 部屋 ★4.54 ／ 設備 ★4.52 ／ 風呂 ★4.42 ／ 食事 ★4.75</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「教育の行き届いた接客と工夫された料理に感動従業員の皆さんに教育が行き届いていまして、気分よく過ごせました。料理もひと工夫されていて本当に美味しい料理でした。ありがとうございます。クチコミの詳細…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「教育の行き届いた接客と工夫された料理に感動従業員の皆さんに教育が行き届いていまして、気分よく過ごせました。料理もひと工夫されていて本当に美味しい料理でした。ありがとうございます。」
                   </blockquote>
                 </div>
               </div>
@@ -478,7 +478,7 @@ export default function HighwayBusArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料　50台　チェックイン前・チェックアウト後もお預かりいたします</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.92 ／ 立地 ★4.82 ／ 部屋 ★4.87 ／ 設備 ★4.79 ／ 風呂 ★4.69 ／ 食事 ★4.92</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「清潔感のある部屋と美味しい料理、露天風呂に満足お部屋が綺麗で、清潔感が有り、快適に過ごせました。料理が美味しかったです。別館の大浴場の露天風呂(屋上)は、とても気持ち良かったです。…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「清潔感のある部屋と美味しい料理、露天風呂に満足お部屋が綺麗で、清潔感が有り、快適に過ごせました。料理が美味しかったです。別館の大浴場の露天風呂(屋上)は、とても気持ち良かったです。」
                   </blockquote>
                 </div>
               </div>
@@ -500,7 +500,7 @@ export default function HighwayBusArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事と温泉は満足食事に関しては味も良く、囲炉裏の雰囲気もあり、食事対応の方の接客も好感が持ててよかった。温泉に関しては、浴槽の変色やヌメヌメ感、硫黄の匂いも強く、温泉らしい温泉に思えた。客…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事と温泉は満足食事に関しては味も良く、囲炉裏の雰囲気もあり、食事対応の方の接客も好感が持ててよかった。温泉に関しては、浴槽の変色やヌメヌメ感、硫黄の匂いも強く、温泉らしい温泉に思えた。」
                   </blockquote>
                 </div>
               </div>
@@ -522,7 +522,7 @@ export default function HighwayBusArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２０台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.72 ／ 立地 ★4.59 ／ 部屋 ★4.72 ／ 設備 ★4.76 ／ 風呂 ★4.83 ／ 食事 ★4.83</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「料理が最高で貸切風呂も充実、大人の隠れ家とにかく料理が最高でした。地の食材を使って見た目もきれいな一品ばかり。4か所あるお風呂はすべて貸し切りでゆっくり入れます。ただ、自分が入りたいタイミング…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「料理が最高で貸切風呂も充実、大人の隠れ家とにかく料理が最高でした。地の食材を使って見た目もきれいな一品ばかり。4か所あるお風呂はすべて貸し切りでゆっくり入れます。」
                   </blockquote>
                 </div>
               </div>

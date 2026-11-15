@@ -325,7 +325,7 @@ export default function FeaturePage() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 山形自動車道『山形蔵王IC』で下り、西蔵王高原ライン経由約30分／『山形駅』『上山駅』で現地へ到着。</li>
                 <li>・<strong className="text-stone-800">15:30〜</strong> 「蔵王温泉 ＪＵＲＩＮ」へチェックイン。落ち着いた空間で旅の荷を解き、ゆったりとした時間をスタート。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「蔵王温泉 ＪＵＲＩＮ」の湯処へ。日頃の疲れを癒やす湯浴みとともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「蔵王温泉 ＪＵＲＩＮ」の大浴場・露天風呂へ。日暮れの静けさの中で湯に浸かり、旅の緊張をゆっくりと解きほぐす。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「蔵王温泉 ＪＵＲＩＮ」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>

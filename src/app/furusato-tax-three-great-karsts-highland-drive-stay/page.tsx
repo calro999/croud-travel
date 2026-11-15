@@ -420,8 +420,8 @@ export default function Page() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 美祢駅よりアクセス。美祢インターより車で７分。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「美祢グランドホテル」にチェックイン。くつろぎの空間と真心こもったサービスで、快適なホテルライフをお楽しみ下さい。などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「美祢グランドホテル」の湯処へ。くつろぎの空間と真心こもったサービスで、快適なホテルライフをお楽しみ下とともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「美祢グランドホテル」にチェックイン。くつろぎの空間と真心こもったサービスで、快適なホテルライフをお楽しみ下さい。 窓外に広がる景色を眺めながらチェックイン後の寛ぎ時間を。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「美祢グランドホテル」の自慢の湯処へ。温かな湯気と落ち着いた雰囲気に癒やされながら、夕食前の贅沢なひとときを過ごす。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「美祢グランドホテル」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -433,7 +433,7 @@ export default function Page() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「美祢グランドホテル」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「美祢グランドホテル」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「星ふるヴィレッジＴＥＮＧＵ」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は宿周辺の散策とショッピングを満喫。地元の名産品やグルメを味わってから余裕をもって帰路につく。</li>
               </ul>
             </div>
           </div>
@@ -561,7 +561,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 美祢グランドホテル</td>
                 <td className="p-3 text-stone-600">山口県美祢市大嶺町東分270-1</td>
-                <td className="p-3 text-stone-600">美祢駅周辺</td>
+                <td className="p-3 text-stone-600">美祢インターより車で７分。美祢市役所に近く、美祢駅からは徒歩で８分、タクシーで３分。</td>
                 <td className="p-3 text-stone-600">有り　５０台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★3.51（316件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,060〜</td>
@@ -570,7 +570,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 星ふるヴィレッジＴＥＮＧＵ</td>
                 <td className="p-3 text-stone-600">高知県高岡郡津野町芳生野乙4921-22</td>
-                <td className="p-3 text-stone-600">須崎駅周辺</td>
+                <td className="p-3 text-stone-600">須崎東ICより国道197号線を津野町役場西庁舎目印に国道439号線へ。須崎東ICより約80分</td>
                 <td className="p-3 text-stone-600">有り　２００台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.43（376件）</td>
                 <td className="p-3 font-bold text-rose-600">¥13,600〜</td>
@@ -579,7 +579,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. ホテルルートイン苅田駅前</td>
                 <td className="p-3 text-stone-600">福岡県京都郡苅田町神田町1-8-1</td>
-                <td className="p-3 text-stone-600">苅田駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ日豊本線 苅田駅徒歩0分／北九州空港より車で約１5分</td>
                 <td className="p-3 text-stone-600">有り　83台　無料　先着順（予約不可）</td>
                 <td className="p-3 font-bold text-amber-600">★4.06（604件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,350〜</td>
@@ -608,7 +608,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　５０台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋は綺麗だが虫の出現と朝食の不備が残念長門に行く前泊として利用しました。2歳と5歳の子どもを連れて行きました。部屋は綺麗でしたが、子どもが少し大きな声を出すと外にまで聞こえるので気を遣いました。…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋は綺麗だが虫の出現と朝食の不備が残念長門に行く前泊として利用しました。2歳と5歳の子どもを連れて行きました。部屋は綺麗でしたが、子どもが少し大きな声を出すと外にまで聞こえるので気を遣いました。」
                   </blockquote>
                 </div>
               </div>
@@ -630,7 +630,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２００台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「道中は険しいが景色とサービスは満点!辿り着くのに道路が工事中だったり、片側一車線道路からセンターラインがなくなって離合不可の道を経ての到着。しかし、部屋の設備やらサービスはピカイチ!もちろ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「道中は険しいが景色とサービスは満点!辿り着くのに道路が工事中だったり、片側一車線道路からセンターラインがなくなって離合不可の道を経ての到着。しかし、部屋の設備やらサービスはピカイチ!」
                   </blockquote>
                 </div>
               </div>
@@ -652,7 +652,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　83台　無料　先着順（予約不可）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.12 ／ 立地 ★4.04 ／ 部屋 ★4.01 ／ 設備 ★3.97 ／ 風呂 ★4.01 ／ 食事 ★4.11</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食が豊富で割引や特典も充実朝食バイキングが豊富ですね。ホテル公式アプリから予約なら、ソフトドリンク無料コインが頂けます。JAF会員なので割引を活用してポンタポイントもありがたいですね…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食が豊富で割引や特典も充実朝食バイキングが豊富ですね。ホテル公式アプリから予約なら、ソフトドリンク無料コインが頂けます。」
                   </blockquote>
                 </div>
               </div>

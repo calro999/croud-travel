@@ -253,7 +253,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 長門湯本温泉　湯本観光ホテル　西京</td>
                 <td className="p-3 text-stone-600">山口県長門市深川湯本1051</td>
-                <td className="p-3 text-stone-600">長門湯本駅周辺</td>
+                <td className="p-3 text-stone-600">中国道美称ICより車で30分／JR美祢線長門湯本駅より徒歩10分</td>
                 <td className="p-3 text-stone-600">屋外駐車場有り（無料）、乗用車100台収容可能</td>
                 <td className="p-3 font-bold text-amber-600">★4（907件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,800〜</td>
@@ -262,7 +262,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 長門湯本温泉　山村別館</td>
                 <td className="p-3 text-stone-600">山口県長門市深川湯本字川尻533-1</td>
-                <td className="p-3 text-stone-600">長門湯本駅周辺</td>
+                <td className="p-3 text-stone-600">マイカー・中国縦貫自動車道美称ＩＣより長門湯本車で３０分 ＪＲ長門湯本駅より徒歩１３分（送迎あり）</td>
                 <td className="p-3 text-stone-600">有り60台 普通車無料※大型は11,000円</td>
                 <td className="p-3 font-bold text-amber-600">★4.25（1019件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,800〜</td>
@@ -300,7 +300,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>屋外駐車場有り（無料）、乗用車100台収容可能</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「お値段相応夏休み旅行で、安かったので泊まらせてもらいました。やはり、お値段相応で、館内はかなり古く清潔にはされてますがあちこちに古さを感じました。大浴場はかなり広く清潔にはされてましたが、露天風呂…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「お値段相応夏休み旅行で、安かったので泊まらせてもらいました。やはり、お値段相応で、館内はかなり古く清潔にはされてますがあちこちに古さを感じました。」
                   </blockquote>
                 </div>
               </div>
@@ -344,7 +344,7 @@ export default function MicroTouristHubPage() {
                   <p>【山口・長門湯本温泉＆元乃隅神社：日本海望む123基赤】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ふく料理と骨酒が最高、お風呂も充実朝夕共にお食事がふく料理でとっても美味しかったです。お酒の種類も色々あり選ぶ楽しみもあります。ふくの骨酒最高でした!貸切風呂や食事で宿を決めたい方に是非泊まってほ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ふく料理と骨酒が最高、お風呂も充実朝夕共にお食事がふく料理でとっても美味しかったです。お酒の種類も色々あり選ぶ楽しみもあります。ふくの骨酒最高でした!」
                   </blockquote>
                 </div>
               </div>

@@ -353,39 +353,7 @@ export default function Page() {
             </Link>
           </div>
         </section>
-        <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
-          <div className="flex items-center gap-3 mb-6">
-            <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】八幡平マウンテンホテルを拠点にするおすすめ滞在モデルコース</h2>
-          </div>
-          <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
-            <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
-              <div className="flex items-center gap-2">
-                <span className="bg-amber-600 text-white text-xs font-bold px-2.5 py-1 rounded">1日目</span>
-                <h3 className="font-bold text-stone-900 text-base md:text-lg">到着〜チェックインと名湯巡り</h3>
-              </div>
-              <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
-                <li>・<strong className="text-stone-800">14:00〜</strong> 盛岡駅よりアクセス。東北自動車道 松尾ICより15分。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「八幡平マウンテンホテル」にチェックイン。大自然のなかでアクティブな休日を！スキー場直結でお子様連れでも快適♪夏期はトレッキングが人気などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「八幡平マウンテンホテル」の湯処へ。大自然のなかでアクティブな休日を！スキー場直結でお子様連れでも快適♪夏とともに、夕暮れの特別な寛ぎを満喫。</li>
-                <li>・<strong className="text-stone-800">19:00〜</strong> 「八幡平マウンテンホテル」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
-              </ul>
-            </div>
-            <div className="border-l-2 border-teal-500 pl-4 md:pl-6 space-y-4">
-              <div className="flex items-center gap-2">
-                <span className="bg-teal-600 text-white text-xs font-bold px-2.5 py-1 rounded">2日目</span>
-                <h3 className="font-bold text-stone-900 text-base md:text-lg">爽快な朝湯〜周辺散策と帰路へ</h3>
-              </div>
-              <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
-                <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「八幡平マウンテンホテル」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
-                <li>・<strong className="text-stone-800">08:00〜</strong> 「八幡平マウンテンホテル」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「ＡＮＡクラウンプラザリゾート安比高原 ｂｙ ＩＨＧ」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
-              </ul>
-            </div>
-          </div>
-        </section>
-
-        {/* FAQ Section */}
+                {/* FAQ Section */}
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
@@ -450,28 +418,28 @@ export default function Page() {
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
             <div className="flex flex-wrap gap-2">
               <Link
-                href="/prefectures/nagasaki/"
+                href="/prefectures/iwate/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                長崎県の宿・温泉
+                岩手県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/osaka/"
+                href="/prefectures/hokkaido/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                大阪府の宿・温泉
+                北海道の宿・温泉
               </Link>
               <Link
-                href="/prefectures/tokushima/"
+                href="/prefectures/aomori/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                徳島県の宿・温泉
+                青森県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/okayama/"
+                href="/prefectures/miyagi/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                岡山県の宿・温泉
+                宮城県の宿・温泉
               </Link>
             </div>
           </div>
@@ -507,7 +475,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 八幡平マウンテンホテル</td>
                 <td className="p-3 text-stone-600">岩手県八幡平市松尾寄木第1地割509-1</td>
-                <td className="p-3 text-stone-600">盛岡駅周辺</td>
+                <td className="p-3 text-stone-600">東北自動車道 松尾ICより15分。盛岡駅より岩手県北バスで約80分。</td>
                 <td className="p-3 text-stone-600">有り　200台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.34（774件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,500〜</td>
@@ -516,7 +484,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. ＡＮＡクラウンプラザリゾート安比高原　ｂｙ　ＩＨＧ</td>
                 <td className="p-3 text-stone-600">岩手県八幡平市安比高原</td>
-                <td className="p-3 text-stone-600">安比高原駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ花輪線・安比高原駅／東北新幹線・盛岡駅より路線バス約60分／東北道・松尾八幡平IC～Ｒ282経由15ＫＭ</td>
                 <td className="p-3 text-stone-600">有り　２００台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★3.76（1451件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,174〜</td>
@@ -525,7 +493,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 八幡平ライジングサンホテル</td>
                 <td className="p-3 text-stone-600">岩手県八幡平市松尾寄木1-590-226</td>
-                <td className="p-3 text-stone-600">盛岡駅周辺</td>
+                <td className="p-3 text-stone-600">JR盛岡駅から岩手県北バスで約８０分「ライジングサンホテル前」下車／東北自動車道 松尾八幡平ＩＣから車で約１５分</td>
                 <td className="p-3 text-stone-600">有　５０台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.11（505件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,150〜</td>

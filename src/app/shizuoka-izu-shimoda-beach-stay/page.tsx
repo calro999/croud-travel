@@ -253,7 +253,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. Ｈｏｔｅｌ　Ｓｅａ　Ｓｈｅｌｌ</td>
                 <td className="p-3 text-stone-600">静岡県下田市白浜1755</td>
-                <td className="p-3 text-stone-600">伊豆急下田駅周辺</td>
+                <td className="p-3 text-stone-600">伊豆急下田駅よりバスにて15分。白浜神社前下車</td>
                 <td className="p-3 text-stone-600">有り　室数分　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.35（137件）</td>
                 <td className="p-3 font-bold text-rose-600">¥11,000〜</td>
@@ -262,7 +262,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 下田温泉　下田ベイクロシオ</td>
                 <td className="p-3 text-stone-600">静岡県下田市柿崎4-1</td>
-                <td className="p-3 text-stone-600">伊豆急下田駅周辺</td>
+                <td className="p-3 text-stone-600">伊豆急下田駅より送迎はご連絡をお願いいたします。お車はＲ135「柿崎西」信号付近のセブンイレブン横の坂を上る</td>
                 <td className="p-3 text-stone-600">有り　２５台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.7（513件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,200〜</td>
@@ -271,7 +271,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 野の花亭こむらさき</td>
                 <td className="p-3 text-stone-600">静岡県下田市西本郷1-5-30</td>
-                <td className="p-3 text-stone-600">伊豆急下田駅周辺</td>
+                <td className="p-3 text-stone-600">伊豆急下田駅から徒歩３分 降車改札を出て右に進む、線路沿いを進みビジネスホテルTSUMEKIの角を左に曲がり道路を渡る。</td>
                 <td className="p-3 text-stone-600">同敷地内旅館建物沿い裏手に屋外駐車場有り　宿泊者無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.18（57件）</td>
                 <td className="p-3 font-bold text-rose-600">¥9,900〜</td>
@@ -280,7 +280,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 絶景温泉と魚介満腹の宿　稲取東海ホテル湯苑</td>
                 <td className="p-3 text-stone-600">静岡県賀茂郡東伊豆町稲取1599-1</td>
-                <td className="p-3 text-stone-600">伊豆稲取駅周辺</td>
+                <td className="p-3 text-stone-600">伊豆急線伊豆稲取駅下車。徒歩約１５分。無料送迎バスあり ※要事前予約（13：30～18：00） 明朝は定期便あります。</td>
                 <td className="p-3 text-stone-600">有り　50台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.51（955件）</td>
                 <td className="p-3 font-bold text-rose-600">¥10,000〜</td>
@@ -309,7 +309,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　室数分　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「・車で行く人は結構道が狭いです。・歩きの方は坂がとにかくきついので注意が必要です。・ホテル内にエレベーターはありません。それでも素晴らしいホテルでした。おもてなしも素敵でしたし、客…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「・車で行く人は結構道が狭いです。・歩きの方は坂がとにかくきついので注意が必要です。・ホテル内にエレベーターはありません。それでも素晴らしいホテルでした。」
                   </blockquote>
                 </div>
               </div>
@@ -331,7 +331,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２５台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「景色と接客は最高、清掃面で少し残念お部屋の窓からの景色と海側露天風呂からの景色が最高でしたスタッフの方々の対応も穏やかでこちらもゆったりとした気分で過ごせました。子連れにも優しいサービスが…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「景色と接客は最高、清掃面で少し残念お部屋の窓からの景色と海側露天風呂からの景色が最高でしたスタッフの方々の対応も穏やかでこちらもゆったりとした気分で過ごせました。」
                   </blockquote>
                 </div>
               </div>
@@ -375,7 +375,7 @@ export default function MicroTouristHubPage() {
                   <p>【静岡・伊豆下田＆白浜海岸：エメラルドの海・白浜大浜＆】 <strong>【駐車場・マイカー利用】</strong>有り　50台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「間近で見る花火と美味しい食事に大満足部屋から海と花火が見たくて花火が近くて上がる日で予約しました。半露天の角部屋にグレードアップしていただき、間近で花火が見れて嬉しかったです。建物は年季が入ってい…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「間近で見る花火と美味しい食事に大満足部屋から海と花火が見たくて花火が近くて上がる日で予約しました。半露天の角部屋にグレードアップしていただき、間近で花火が見れて嬉しかったです。」
                   </blockquote>
                 </div>
               </div>

@@ -529,7 +529,7 @@ export default function FurusatoFeaturePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 湯の山温泉　旅館寿亭</td>
                 <td className="p-3 text-stone-600">三重県三重郡菰野町菰野8585</td>
-                <td className="p-3 text-stone-600">湯の山温泉駅周辺</td>
+                <td className="p-3 text-stone-600">【車】新名神：菰野ＩＣ（※ＥＴＣ専用）約１０分 東名阪：四日市ＩＣ約２５分【電車】湯の山温泉駅から無料送迎（約１０分）</td>
                 <td className="p-3 text-stone-600">有４０台無料　係員が駐車場までご案内します　Google map「寿亭専用駐車場」と検索してください</td>
                 <td className="p-3 font-bold text-amber-600">★4.61（1463件）</td>
                 <td className="p-3 font-bold text-rose-600">¥13,750〜</td>
@@ -538,7 +538,7 @@ export default function FurusatoFeaturePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 湯の山温泉　鹿の湯ホテル</td>
                 <td className="p-3 text-stone-600">三重県三重郡菰野町菰野8520-1</td>
-                <td className="p-3 text-stone-600">湯の山温泉駅周辺</td>
+                <td className="p-3 text-stone-600">湯の山駅まで無料送迎有（21時まで）／湯の山駅よりタクシー5分／新名神菰野ICより約5分（ナビでは湯の山郵便局で検索）</td>
                 <td className="p-3 text-stone-600">有り　３０台　先着順　（ナビでは湯の山郵便局で検索）</td>
                 <td className="p-3 font-bold text-amber-600">★4.5（822件）</td>
                 <td className="p-3 font-bold text-rose-600">¥9,900〜</td>
@@ -547,7 +547,7 @@ export default function FurusatoFeaturePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. リゾートヒルズ豊浜蒼空の風　～ＳＯＲＡ　ｎｏ　ＫＡＺＥ～</td>
                 <td className="p-3 text-stone-600">三重県鳥羽市相差町1471 ◆千鳥ヶ浜沿い高台／伊勢神宮３５分</td>
-                <td className="p-3 text-stone-600">鳥羽駅周辺</td>
+                <td className="p-3 text-stone-600">鳥羽南白木IC→15分【電車】鳥羽駅送迎(15時/16時30分前日までの予約必要)◆伊勢神宮35分◆ビーチすぐ</td>
                 <td className="p-3 text-stone-600">駐車場無料♪５０台C/IN前、OUT後の利用可。無料温水シャワー・ロッカー有◆海まで徒歩１分強</td>
                 <td className="p-3 font-bold text-amber-600">★4.55（1756件）</td>
                 <td className="p-3 font-bold text-rose-600">¥11,770〜</td>
@@ -565,7 +565,7 @@ export default function FurusatoFeaturePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. びわ湖畔　味覚の宿　双葉荘</td>
                 <td className="p-3 text-stone-600">滋賀県彦根市松原町網代口1377</td>
-                <td className="p-3 text-stone-600">JR琵琶湖線彦根駅下車、タクシー約7分　名神高速道路彦根ＩＣより湖岸方</td>
+                <td className="p-3 text-stone-600">JR琵琶湖線彦根駅下車、タクシー約7分 名神高速道路彦根ＩＣより湖岸方面へ10分 無料駐車場</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.6（131件）</td>
                 <td className="p-3 font-bold text-rose-600">¥10,450〜</td>
@@ -574,7 +574,7 @@ export default function FurusatoFeaturePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">6. 小野川温泉　湯杜　匠味庵　山川　ｙｕｍｏｒｉ－ｓｈｏｍｉａｎ　ＹＡＭＡＫＡＷＡ</td>
                 <td className="p-3 text-stone-600">山形県米沢市小野川町2436</td>
-                <td className="p-3 text-stone-600">米沢駅周辺</td>
+                <td className="p-3 text-stone-600">【山形新幹線】米沢駅より市内バスで小野川温泉へ約２５分【東北中央自動車道】米沢中央ICよりR１２１で約２０分</td>
                 <td className="p-3 text-stone-600">有り　敷地内・外に30台無料　共同駐車場100台無料。</td>
                 <td className="p-3 font-bold text-amber-600">★4.2（963件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,250〜</td>
@@ -625,7 +625,7 @@ export default function FurusatoFeaturePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　３０台　先着順　（ナビでは湯の山郵便局で検索）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.55 ／ 立地 ★4.3 ／ 部屋 ★4.5 ／ 設備 ★4.38 ／ 風呂 ★4.39 ／ 食事 ★4.54</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「子連れでも食事が美味しくのんびり満喫0歳児と3歳をつれていきましたが、とても過しやすく、大人はごはんが夕食も朝食も美味しくてのんびりできたのでとってもよかったです。またこのあたりに来る機会があ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「子連れでも食事が美味しくのんびり満喫0歳児と3歳をつれていきましたが、とても過しやすく、大人はごはんが夕食も朝食も美味しくてのんびりできたのでとってもよかったです。」
                   </blockquote>
                 </div>
               </div>
@@ -669,7 +669,7 @@ export default function FurusatoFeaturePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋付き露天風呂と心温まるおもてなし各部屋に信楽焼の温泉露天風呂がついています。シャワールームと繋がって露天風呂スペースとしては少し狭いですが、1人でお湯を楽しむには丁度良いです。館内畳敷なの…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋付き露天風呂と心温まるおもてなし各部屋に信楽焼の温泉露天風呂がついています。シャワールームと繋がって露天風呂スペースとしては少し狭いですが、1人でお湯を楽しむには丁度良いです。」
                   </blockquote>
                 </div>
               </div>
@@ -691,7 +691,7 @@ export default function FurusatoFeaturePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「お客様ファーストで食事も美味しい90点の宿家族経営の旅館は、基本?って思う所が多い中なか、双葉荘はちゃんとお客様ファーストのいい旅館でした。夜は近江牛、朝は地元の佃煮や温泉玉子、海苔、点数をつける…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「お客様ファーストで食事も美味しい90点の宿家族経営の旅館は、基本?って思う所が多い中なか、双葉荘はちゃんとお客様ファーストのいい旅館でした。」
                   </blockquote>
                 </div>
               </div>
@@ -713,7 +713,7 @@ export default function FurusatoFeaturePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　敷地内・外に30台無料　共同駐車場100台無料。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉は最高だが夏場の脱衣所に冷房が欲しい小野川温泉の「湯杜 匠味庵 山川」での宿泊は、素晴らしい体験でした。特にお食事が美味しく、和朝食の「源泉粥」はまろやかなコクが体に優しく染み渡るものでした。…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉は最高だが夏場の脱衣所に冷房が欲しい小野川温泉の「湯杜 匠味庵 山川」での宿泊は、素晴らしい体験でした。特にお食事が美味しく、和朝食の「源泉粥」はまろやかなコクが体に優しく染み渡るものでした。」
                   </blockquote>
                 </div>
               </div>

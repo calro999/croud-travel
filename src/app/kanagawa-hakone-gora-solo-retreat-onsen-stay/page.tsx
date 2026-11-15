@@ -337,8 +337,8 @@ export default function ArticlePage() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 箱根湯本駅よりアクセス。箱根湯本駅から箱根登山バスにて約３０分、箱根カントリー入口下車（バス停からは送迎有り・要予約）。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「絶景の癒しの湯宿 箱根 星のあかり」にチェックイン。温かみのあるおもてなしと絶景に心癒される湯宿。オープン。などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「絶景の癒しの湯宿 箱根 星のあかり」の湯処へ。温かみのあるおもてなしと絶景に心癒される湯宿。オーとともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「絶景の癒しの湯宿 箱根 星のあかり」にチェックイン。温かみのあるおもてなしと絶景に心癒される湯宿。オープン。 館内の設えを確かめながら、これからの滞在に備えてゆっくり休息する。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「絶景の癒しの湯宿 箱根 星のあかり」の自慢の湯処へ。温かな湯気と落ち着いた雰囲気に癒やされながら、夕食前の贅沢なひとときを過ごす。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「絶景の癒しの湯宿 箱根 星のあかり」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -366,49 +366,49 @@ export default function ArticlePage() {
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">あわせて読みたい人気特集＆全国エリアガイド</h2>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
-            <a href="/aomori-asamushi-solo-retreat-mutsubay-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/furusato-tax-firefly-viewing-hotaru-night-stream-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">青森の奥座敷・浅虫温泉ひとり旅・陸奥湾夕日おこもり：開湯1200年名湯・津軽三味線生演奏・名物陸奥湾ホタテづくし！青い森鉄道直通の海辺厳選3宿</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">闇夜に舞う無数の光の幻想！初夏のホタル観賞＆清流のせせらぎ温泉宿×ふるさと納税厳選ガイド熊本菊池・兵庫神鍋・神奈川湯河原</span>
             </a>
-            <a href="/autumn-budget-aomori-hachinohe-station-tanesashi-senbeijiru-hotels-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/furusato-tax-hakone-gora-autumn-leaves-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">八戸駅・本八戸：種差海岸の秋絶景＆館鼻岸壁朝市・せんべい汁！2,000円台〜泊まれる格安ホテル5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">箱根強羅温泉の登山鉄道紅葉トンネル＆箱根美術館苔庭！白濁にごり湯宿×ふるさと納税厳選ガイド神奈川</span>
             </a>
-            <a href="/furusato-tax-hakkoda-sukayu-autumn-leaves-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/furusato-tax-hakone-sengokuhara-pampas-luxury-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">八甲田山ロープウェーの錦秋パノラマ＆酸ヶ湯温泉ヒバ千人風呂！秘湯宿×ふるさと納税厳選ガイド青森</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">箱根仙石原温泉をふるさと納税でお得に旅する！黄金のすすき草原＆大涌谷美肌にごり湯！大人の高原リゾート厳選ガイド｜きたの風茶寮・仙郷楼・BLISSTIA箱根仙石原</span>
             </a>
-            <a href="/tokyo-aomori-bus-vs-shinkansen-guide/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/furusato-tax-lakeview-onsen-resort-hotel-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">東京〜青森・弘前：新幹線はやぶさ vs 夜行バス徹底比較！料金半額以下の夜行旅＆奥入瀬渓流・弘前城1泊2日モデルコース</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">静かな湖面と雄大な自然を望む絶景レイクビュー温泉リゾート名門ホテル×ふるさと納税厳選ガイド琵琶湖・洞爺湖・箱根芦ノ湖</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
             <div className="flex flex-wrap gap-2">
               <Link
-                href="/prefectures/aomori/"
+                href="/prefectures/kanagawa/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                青森県の宿・温泉
+                神奈川県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/shizuoka/"
+                href="/prefectures/tokyo/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                静岡県の宿・温泉
+                東京都の宿・温泉
               </Link>
               <Link
-                href="/prefectures/kochi/"
+                href="/prefectures/chiba/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                高知県の宿・温泉
+                千葉県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/wakayama/"
+                href="/prefectures/saitama/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                和歌山県の宿・温泉
+                埼玉県の宿・温泉
               </Link>
             </div>
           </div>
@@ -444,7 +444,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 箱根強羅温泉　コージーイン　箱根の山</td>
                 <td className="p-3 text-stone-600">神奈川県足柄下郡箱根町強羅1320　かみごうら</td>
-                <td className="p-3 text-stone-600">強羅駅周辺</td>
+                <td className="p-3 text-stone-600">強羅駅⇒ケーブルカー上強羅駅右側下車⇒坂道登り徒歩５分。バス⇒小田原駅発伊豆箱根バス『上強羅入り口』下車 下り歩２～３分</td>
                 <td className="p-3 text-stone-600">駐車可能台数制限有。要予約。無料。１２月〜３月スタッドレスタイヤ必須。降雪時公道まで除雪できません！</td>
                 <td className="p-3 font-bold text-amber-600">★5（339件）</td>
                 <td className="p-3 font-bold text-rose-600">¥18,590〜</td>
@@ -453,7 +453,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 強羅温泉　強羅　風の音</td>
                 <td className="p-3 text-stone-600">神奈川県足柄下郡箱根町強羅1320-526</td>
-                <td className="p-3 text-stone-600">強羅駅周辺</td>
+                <td className="p-3 text-stone-600">強羅駅から徒歩１５分 （坂道が多いため、強羅駅からケーブルカー公園下駅まで乗って頂くと比較的平坦な道でお越し頂けます）</td>
                 <td className="p-3 text-stone-600">2か所有（第一駐車場2台、第二駐車場16台：計18台）先着順、無料。ご利用は備考欄にご記入ください。</td>
                 <td className="p-3 font-bold text-amber-600">★4.61（515件）</td>
                 <td className="p-3 font-bold text-rose-600">¥13,900〜</td>
@@ -462,7 +462,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 絶景の癒しの湯宿　箱根　星のあかり</td>
                 <td className="p-3 text-stone-600">神奈川県足柄下郡箱根町仙石原1245-432</td>
-                <td className="p-3 text-stone-600">箱根湯本駅周辺</td>
+                <td className="p-3 text-stone-600">箱根湯本駅から箱根登山バスにて約３０分、箱根カントリー入口下車（バス停からは送迎有り・要予約）</td>
                 <td className="p-3 text-stone-600">有り　１４台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.48（651件）</td>
                 <td className="p-3 font-bold text-rose-600">¥24,035〜</td>
@@ -491,7 +491,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>駐車可能台数制限有。要予約。無料。１２月〜３月スタッドレスタイヤ必須。降雪時公道まで除雪できません！</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★5 ／ 立地 ★4.91 ／ 部屋 ★4.89 ／ 設備 ★4.84 ／ 風呂 ★5 ／ 食事 ★4.95</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「おしゃれな空間と手作りの食事が最高到着してすぐに、オーナーが優しく出迎えてくださいました。お部屋や共有スペースの調度品がおしゃれで雰囲気が良い。貸し切り露店風呂が2種類あります。順番制のため、…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「おしゃれな空間と手作りの食事が最高到着してすぐに、オーナーが優しく出迎えてくださいました。お部屋や共有スペースの調度品がおしゃれで雰囲気が良い。貸し切り露店風呂が2種類あります。」
                   </blockquote>
                 </div>
               </div>
@@ -513,7 +513,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>2か所有（第一駐車場2台、第二駐車場16台：計18台）先着順、無料。ご利用は備考欄にご記入ください。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.62 ／ 立地 ★4.18 ／ 部屋 ★4.52 ／ 設備 ★4.43 ／ 風呂 ★4.48 ／ 食事 ★4.66</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「親切なスタッフと美味しい料理で大満足とても静かで、ゆっくり過ごすことができました。お料理も美味しくて、皆んな大満足でした。何より、従業員の方がとても親切で、質問しても丁寧に答えていただいた…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「親切なスタッフと美味しい料理で大満足とても静かで、ゆっくり過ごすことができました。お料理も美味しくて、皆んな大満足でした。」
                   </blockquote>
                 </div>
               </div>
@@ -535,7 +535,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１４台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「露天風呂と食事が最高、必ずリピートします。今月27日に宿泊させていただきました。客室露天風呂(温泉)で食事も美味しく、リーズナブルな値段で宿泊できることに感動しました。特に露天風呂からの景…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「露天風呂と食事が最高、必ずリピートします。今月27日に宿泊させていただきました。客室露天風呂(温泉)で食事も美味しく、リーズナブルな値段で宿泊できることに感動しました。」
                   </blockquote>
                 </div>
               </div>

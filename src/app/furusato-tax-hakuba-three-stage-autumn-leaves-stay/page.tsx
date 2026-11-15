@@ -434,8 +434,8 @@ export default function Page() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 白馬駅よりアクセス。長野道 安曇野ICよりR148糸魚川方面へ50km1本道。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「白馬八方温泉 白馬 丸金旅館」にチェックイン。信州白馬八方の老舗旅館☆八方ゴンドラリフトまで徒歩７分☆白馬八方温泉は美肌効果に恵まれた温泉です。などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「白馬八方温泉 白馬 丸金旅館」の湯処へ。信州白馬八方の老舗旅館☆八方ゴンドラリフトまで徒歩７分☆白馬八方温泉はとともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「白馬八方温泉 白馬 丸金旅館」にチェックイン。信州白馬八方の老舗旅館☆八方ゴンドラリフトまで徒歩７分☆白馬八方温泉は美肌効果に恵まれた温泉です。 館内の設えを確かめながら、これからの滞在に備えてゆっくり休息する。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「白馬八方温泉 白馬 丸金旅館」の湯船で寛ぎタイム。季節の空気を感じながら手足を伸ばし、心豊かな夕方のリラックス時間を満喫。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「白馬八方温泉 白馬 丸金旅館」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -447,7 +447,7 @@ export default function Page() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「白馬八方温泉 白馬 丸金旅館」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「白馬八方温泉 白馬 丸金旅館」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「白馬八方温泉 白馬ピエモン ヤマジュウ」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は「白馬八方温泉 白馬 丸金旅館」周辺の観光スポットや地元の名産店に立ち寄り、ご当地のお土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>
@@ -484,28 +484,28 @@ export default function Page() {
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
             <div className="flex flex-wrap gap-2">
               <Link
-                href="/prefectures/oita/"
+                href="/prefectures/nagano/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                大分県の宿・温泉
+                長野県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/tottori/"
+                href="/prefectures/yamanashi/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                鳥取県の宿・温泉
+                山梨県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/shizuoka/"
+                href="/prefectures/niigata/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                静岡県の宿・温泉
+                新潟県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/kagawa/"
+                href="/prefectures/ishikawa/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                香川県の宿・温泉
+                石川県の宿・温泉
               </Link>
             </div>
           </div>

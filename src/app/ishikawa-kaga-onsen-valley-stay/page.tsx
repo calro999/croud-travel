@@ -253,7 +253,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 山中温泉　吉祥やまなか</td>
                 <td className="p-3 text-stone-600">石川県加賀市山中温泉東町1-ホ14-3</td>
-                <td className="p-3 text-stone-600">加賀温泉駅周辺</td>
+                <td className="p-3 text-stone-600">加賀温泉駅・小松空港から無料送迎あり（要予約/定時便）【車】加賀ICより14分。金沢・福井へは車で1時間</td>
                 <td className="p-3 text-stone-600">有（無料）２０台　※正面玄関前にお越しください。スタッフがご案内いたします。</td>
                 <td className="p-3 font-bold text-amber-600">★4.74（1683件）</td>
                 <td className="p-3 font-bold text-rose-600">¥19,500〜</td>
@@ -262,7 +262,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 山中温泉　かがり吉祥亭</td>
                 <td className="p-3 text-stone-600">石川県加賀市山中温泉こおろぎ町ニ1-1</td>
-                <td className="p-3 text-stone-600">加賀温泉駅周辺</td>
+                <td className="p-3 text-stone-600">加賀温泉駅・小松空港から無料送迎あり（要予約/定時便）【車】加賀ICより16分。金沢・福井へは車で1時間</td>
                 <td className="p-3 text-stone-600">有（無料）３０台  ※正面玄関へお越しください。スタッフが駐車場へご案内いたします。</td>
                 <td className="p-3 font-bold text-amber-600">★4.63（1925件）</td>
                 <td className="p-3 font-bold text-rose-600">¥16,000〜</td>
@@ -271,7 +271,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 山中温泉　厨八十八</td>
                 <td className="p-3 text-stone-600">石川県加賀市山中温泉菅谷町ロ62</td>
-                <td className="p-3 text-stone-600">加賀温泉駅周辺</td>
+                <td className="p-3 text-stone-600">加賀温泉駅より車で約20分（事前予約制の送迎がございます。時間など詳細よくある質問をご確認ください）</td>
                 <td className="p-3 text-stone-600">有り　３５台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.55（220件）</td>
                 <td className="p-3 font-bold text-rose-600">¥13,000〜</td>
@@ -280,7 +280,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 温泉めい想倶楽部　富士屋旅館</td>
                 <td className="p-3 text-stone-600">石川県加賀市山代温泉桔梗ヶ丘2-121-3</td>
-                <td className="p-3 text-stone-600">加賀温泉駅周辺</td>
+                <td className="p-3 text-stone-600">【ＪＲ】北陸本線加賀温泉駅より送迎有（１4：３０～１８：００）要事前予約／【車】北陸道加賀IC又は片山津ICより約20分</td>
                 <td className="p-3 text-stone-600">有り　５０台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★3.99（993件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,040〜</td>
@@ -289,7 +289,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 山代温泉　料理自慢の宿　ホテルききょう</td>
                 <td className="p-3 text-stone-600">石川県加賀市山代温泉16-162-5</td>
-                <td className="p-3 text-stone-600">加賀温泉駅周辺</td>
+                <td className="p-3 text-stone-600">◆JR加賀温泉駅より車で10分◆JR金沢駅より車で55分◆小松空港より車で25分</td>
                 <td className="p-3 text-stone-600">【有り】　50台  先着順/ 駐車料金　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.65（354件）</td>
                 <td className="p-3 font-bold text-rose-600">¥11,000〜</td>
@@ -298,7 +298,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">6. 山中温泉　白鷺湯たわらや</td>
                 <td className="p-3 text-stone-600">石川県加賀市山中温泉東町２丁目ヘ-1</td>
-                <td className="p-3 text-stone-600">加賀温泉駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ加賀温泉駅からバスで山中温泉バスターミナル２５分。さらに徒歩３分。（無料送迎有。要予約１４：００～１８：００）。</td>
                 <td className="p-3 text-stone-600">８０台分有り（無料）　※スタッフが場所をご案内しますので、正面玄関まで車をお寄せくださいませ。</td>
                 <td className="p-3 font-bold text-amber-600">★4.55（1008件）</td>
                 <td className="p-3 font-bold text-rose-600">¥12,100〜</td>
@@ -327,7 +327,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有（無料）２０台　※正面玄関前にお越しください。スタッフがご案内いたします。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.77 ／ 立地 ★4.51 ／ 部屋 ★4.54 ／ 設備 ★4.61 ／ 風呂 ★4.67 ／ 食事 ★4.79</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「パンケーキとカクテル、食事に大満足!2年ぶり2回目の利用です。パンケーキを楽しみにして来ました。また前回、タイミングが合わず飲めなかったカクテルも飲むことが出来ました。夜の食事も沢山あり、どれ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「パンケーキとカクテル、食事に大満足!2年ぶり2回目の利用です。パンケーキを楽しみにして来ました。また前回、タイミングが合わず飲めなかったカクテルも飲むことが出来ました。」
                   </blockquote>
                 </div>
               </div>
@@ -371,7 +371,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　３５台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「畳敷きの館内と温泉に癒やされる心地よい時間滞在中ゆったりと過ごすことができました。館内はすべて畳敷きで、良い香りが漂い心地よかったです。大浴場も広々としており、温泉に癒やされました。スタッフの皆様…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「畳敷きの館内と温泉に癒やされる心地よい時間滞在中ゆったりと過ごすことができました。館内はすべて畳敷きで、良い香りが漂い心地よかったです。大浴場も広々としており、温泉に癒やされました。」
                   </blockquote>
                 </div>
               </div>
@@ -393,7 +393,7 @@ export default function MicroTouristHubPage() {
                   <p>【石川・加賀温泉郷：山中温泉・山代温泉＆鶴仙渓川床・加】 <strong>【駐車場・マイカー利用】</strong>有り　５０台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.09 ／ 立地 ★3.81 ／ 部屋 ★3.96 ／ 設備 ★3.73 ／ 風呂 ★3.97 ／ 食事 ★4.26</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「サービスは満足だが準備不足が目立ち残念家族5人で宿泊しました。子供2人分はプラン通り無料でしたが、残り1人分は大人の半分(約1万)の追加料金が現地で支払い必要でした。楽天トラベルでは対応できない機…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「サービスは満足だが準備不足が目立ち残念家族5人で宿泊しました。子供2人分はプラン通り無料でしたが、残り1人分は大人の半分(約1万)の追加料金が現地で支払い必要でした。」
                   </blockquote>
                 </div>
               </div>
@@ -415,7 +415,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>【有り】　50台  先着順/ 駐車料金　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.54 ／ 立地 ★4.29 ／ 部屋 ★4.62 ／ 設備 ★4.53 ／ 風呂 ★4.57 ／ 食事 ★4.74</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「露天風呂と北陸の食材を満喫、また利用したい部屋の露天風呂が最高でした。大人2人でもゆったり入れました。お湯の温度もちょうど良く、しっとりした泉質で湯上がりはポカポカでした。食事も北陸の食材をし…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「露天風呂と北陸の食材を満喫、また利用したい部屋の露天風呂が最高でした。大人2人でもゆったり入れました。お湯の温度もちょうど良く、しっとりした泉質で湯上がりはポカポカでした。」
                   </blockquote>
                 </div>
               </div>
@@ -437,7 +437,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>８０台分有り（無料）　※スタッフが場所をご案内しますので、正面玄関まで車をお寄せくださいませ。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.59 ／ 立地 ★4.42 ／ 部屋 ★4.37 ／ 設備 ★4.34 ／ 風呂 ★4.55 ／ 食事 ★4.62</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「料理の質とサウナの動線が素晴らしい他の方もコメントがありますが、料理も一品一品非常凝っており料理長の自信がお品書きに表れていると思いますした。ただ会席料理でお酒を飲む者にとって、最後ごはんのタイミ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「料理の質とサウナの動線が素晴らしい他の方もコメントがありますが、料理も一品一品非常凝っており料理長の自信がお品書きに表れていると思いますした。」
                   </blockquote>
                 </div>
               </div>

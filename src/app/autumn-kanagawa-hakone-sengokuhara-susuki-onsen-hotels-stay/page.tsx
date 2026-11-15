@@ -342,7 +342,7 @@ export default function HakoneSengokuharaAutumnPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. ＢＬＩＳＳＴＩＡ箱根仙石原</td>
                 <td className="p-3 text-stone-600">神奈川県足柄下郡箱根町仙石原29-1</td>
-                <td className="p-3 text-stone-600">箱根湯本駅周辺</td>
+                <td className="p-3 text-stone-600">バス停「仙石原小学校前」徒歩2分／箱根湯本駅よりバスで約25分／バスタ新宿より高速バスにて約2時間</td>
                 <td className="p-3 text-stone-600">有り（53台／無料／屋外／予約不要）</td>
                 <td className="p-3 font-bold text-amber-600">★4.6（301件）</td>
                 <td className="p-3 font-bold text-rose-600">¥15,400〜</td>
@@ -351,7 +351,7 @@ export default function HakoneSengokuharaAutumnPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 全室露天風呂付客室　仙石原温泉　センチュリオン箱根別邸</td>
                 <td className="p-3 text-stone-600">神奈川県足柄下郡箱根町仙石原1285-389</td>
-                <td className="p-3 text-stone-600">箱根湯本駅周辺</td>
+                <td className="p-3 text-stone-600">箱根湯本駅よりお車にて約25分、東名高速道路御殿場ICからお車で約25分。</td>
                 <td className="p-3 text-stone-600">13台。スポーツカー等車高の低いお車でのお越しは事前にお知らせくださいませ。</td>
                 <td className="p-3 font-bold text-amber-600">★4.54（172件）</td>
                 <td className="p-3 font-bold text-rose-600">¥27,000〜</td>
@@ -360,7 +360,7 @@ export default function HakoneSengokuharaAutumnPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 箱根仙石原温泉　金時山荘</td>
                 <td className="p-3 text-stone-600">神奈川県足柄下郡箱根町仙石原1111</td>
-                <td className="p-3 text-stone-600">箱根湯本駅周辺</td>
+                <td className="p-3 text-stone-600">箱根湯本駅から箱根登山バス乗車３０分。「仙石バス亭」下車・御殿場方面に向かって徒歩１０分</td>
                 <td className="p-3 text-stone-600">有り　１０台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.33（18件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,000〜</td>
@@ -369,7 +369,7 @@ export default function HakoneSengokuharaAutumnPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 仙石原温泉　箱根ホテル花月園</td>
                 <td className="p-3 text-stone-600">神奈川県足柄下郡箱根町仙石原イタリ1244-2</td>
-                <td className="p-3 text-stone-600">小田原駅周辺</td>
+                <td className="p-3 text-stone-600">東名高速御殿場ＩＣより１３８号線で箱根方面へ。仙石原交差点（県道75号線分岐）を芦ノ湖方面へ。</td>
                 <td className="p-3 text-stone-600">有り　５０台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.09（1827件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,930〜</td>
@@ -378,7 +378,7 @@ export default function HakoneSengokuharaAutumnPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. フォートリート箱根仙石原</td>
                 <td className="p-3 text-stone-600">神奈川県足柄下郡箱根町仙石原1290</td>
-                <td className="p-3 text-stone-600">箱根湯本駅周辺</td>
+                <td className="p-3 text-stone-600">箱根湯本駅／箱根登山バス湖尻桃源台行約２５分、俵石・箱根ガラスの森前徒歩約１５分</td>
                 <td className="p-3 text-stone-600">無料駐車場有／満車の場合、有料駐車場にご案内いたします。駐輪場有／1泊1,000円頂戴いたします</td>
                 <td className="p-3 font-bold text-amber-600">★3.97（103件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,600〜</td>
@@ -495,7 +495,7 @@ export default function HakoneSengokuharaAutumnPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料駐車場有／満車の場合、有料駐車場にご案内いたします。駐輪場有／1泊1,000円頂戴いたします</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.95 ／ 立地 ★3.9 ／ 部屋 ★4.31 ／ 設備 ★3.93 ／ 風呂 ★3.66 ／ 食事 ★3.74</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「自然に囲まれた静かな環境で快適なひととき箱根仙石原の自然に囲まれた場所で、静かにゆっくり過ごすことができました。館内も落ち着いた雰囲気で、スタッフの方の対応も丁寧でした。お部屋やお風呂も特に気にな…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「自然に囲まれた静かな環境で快適なひととき箱根仙石原の自然に囲まれた場所で、静かにゆっくり過ごすことができました。館内も落ち着いた雰囲気で、スタッフの方の対応も丁寧でした。」
                   </blockquote>
                 </div>
               </div>

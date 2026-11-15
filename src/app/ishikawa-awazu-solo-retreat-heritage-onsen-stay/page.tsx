@@ -338,8 +338,8 @@ export default function ArticlePage() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 加賀温泉駅よりアクセス。北陸道加賀ＩＣより２５分 加賀温泉駅・粟津駅・小松空港までの送迎もお問い合わせください。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「粟津温泉 旅亭懐石 のとや」にチェックイン。伝統と現代の融合、700年こんこんと湧き続ける純生の湯の老舗宿！活蟹プラン販売中！などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「粟津温泉 旅亭懐石 のとや」の湯処へ。伝統と現代の融合、700年こんこんと湧き続ける純生の湯の老舗宿！活蟹プとともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「粟津温泉 旅亭懐石 のとや」にチェックイン。伝統と現代の融合、700年こんこんと湧き続ける純生の湯の老舗宿！活蟹プラン販売中！ 客室で身支度を整え、この宿ならではの滞在をスタート。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「粟津温泉 旅亭懐石 のとや」の自慢の湯処へ。温かな湯気と落ち着いた雰囲気に癒やされながら、夕食前の贅沢なひとときを過ごす。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「粟津温泉 旅亭懐石 のとや」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -351,7 +351,7 @@ export default function ArticlePage() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「粟津温泉 旅亭懐石 のとや」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「粟津温泉 旅亭懐石 のとや」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「粟津温泉 法師」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は宿周辺の散策とショッピングを満喫。地元の名産品やグルメを味わってから余裕をもって帰路につく。</li>
               </ul>
             </div>
           </div>
@@ -367,49 +367,49 @@ export default function ArticlePage() {
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">あわせて読みたい人気特集＆全国エリアガイド</h2>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
-            <a href="/iwate-sanriku-miyako-jodogahama-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/winter-ishikawa-kanazawa-yuwaku-onsen-koubako-crab-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">岩手・三陸宮古＆浄土ヶ浜：極楽浄土の白い奇岩・青の洞窟＆名物「瓶ドン」宿 厳選ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「11・12・1月金沢」兼六園の雪吊り冬景色と奥金沢「湯涌温泉」の秘湯情緒・冬限定香箱ガニ＆加能ガニ・金沢おでん・治部煮を味わう名宿5選</span>
             </a>
-            <a href="/winter-iwate-hanamaki-minami-namari-osawa-snow-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/winter-ishikawa-yamanaka-onsen-kakusenkei-kano-crab-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12月岩手・花巻南温泉郷】白銀の豊沢渓谷と宮沢賢治ゆかりの木造湯治宿・自噴立ち湯「白猿の湯」と極上前沢牛＆白金豚を堪能する名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12月加賀山中温泉の冬名湯と加能ガニ】 鶴仙渓雪景色・芭蕉ゆかりの美肌湯と青タグ加能蟹＆能登牛会席の宿5選</span>
             </a>
-            <a href="/winter-iwate-tsunagi-onsen-koiwai-illumination-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/furusato-tax-fujisan-view-luxury-open-air-bath-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12月盛岡つなぎ温泉の冬名湯と小岩井イルミ】銀河農場の夜・秀峰岩手山雪見露天と極上前沢牛会席の宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">富士山を望む絶景露天風呂＆天空テラスの至高の宿×ふるさと納税厳選ガイド河口湖・山中湖・西伊豆土肥</span>
             </a>
-            <a href="/furusato-tax-iwate-hachimantai-appikogen-autumn-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/furusato-tax-kanreki-celebration-oyakoukou-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">岩手・八幡平アスピーテラインの紅葉パノラマ＆安比高原！秘湯名湯と前沢牛・杜陵ポーク</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">還暦・古希・長寿祝い＆親孝行温泉旅に選ぶ極上名旅館×ふるさと納税厳選ガイド有馬・金沢湯涌・淡路島</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
             <div className="flex flex-wrap gap-2">
               <Link
-                href="/prefectures/saitama/"
+                href="/prefectures/ishikawa/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                埼玉県の宿・温泉
+                石川県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/tokyo/"
+                href="/prefectures/nagano/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                東京都の宿・温泉
+                長野県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/iwate/"
+                href="/prefectures/yamanashi/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                岩手県の宿・温泉
+                山梨県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/kagawa/"
+                href="/prefectures/niigata/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                香川県の宿・温泉
+                新潟県の宿・温泉
               </Link>
             </div>
           </div>
@@ -445,7 +445,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 粟津温泉　旅亭懐石　のとや</td>
                 <td className="p-3 text-stone-600">石川県小松市粟津温泉　ワ85</td>
-                <td className="p-3 text-stone-600">加賀温泉駅周辺</td>
+                <td className="p-3 text-stone-600">北陸道加賀ＩＣより２５分 加賀温泉駅・粟津駅・小松空港までの送迎もお問い合わせください</td>
                 <td className="p-3 text-stone-600">無料　（直接玄関前までお越しください・駐車場へご移動させていただきます）</td>
                 <td className="p-3 font-bold text-amber-600">★4.31（6380件）</td>
                 <td className="p-3 font-bold text-rose-600">¥14,014〜</td>
@@ -454,7 +454,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 粟津温泉　法師</td>
                 <td className="p-3 text-stone-600">石川県小松市粟津温泉ワ46</td>
-                <td className="p-3 text-stone-600">加賀温泉駅周辺</td>
+                <td className="p-3 text-stone-600">加賀温泉駅・粟津駅無料送迎有（要事前予約）／北陸自動車道 加賀ＩＣより２０分</td>
                 <td className="p-3 text-stone-600">有り　60台　無料　※3箇所有り</td>
                 <td className="p-3 font-bold text-amber-600">★4.07（1781件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,938〜</td>
@@ -463,7 +463,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. ホテル小田島</td>
                 <td className="p-3 text-stone-600">岩手県盛岡市中央通1-12-24</td>
-                <td className="p-3 text-stone-600">盛岡駅周辺</td>
+                <td className="p-3 text-stone-600">盛岡駅から車で5分徒歩17分。県庁、市役所まで徒歩5分 ☆1階のファミマが目印です♪☆彡</td>
                 <td className="p-3 text-stone-600">先着順40台迄　1泊880円（税込）14時〜翌11時  満車の際は契約駐車場へご案内</td>
                 <td className="p-3 font-bold text-amber-600">★4.09（2549件）</td>
                 <td className="p-3 font-bold text-rose-600">¥2,530〜</td>
@@ -472,7 +472,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 八幡平マウンテンホテル</td>
                 <td className="p-3 text-stone-600">岩手県八幡平市松尾寄木第1地割509-1</td>
-                <td className="p-3 text-stone-600">盛岡駅周辺</td>
+                <td className="p-3 text-stone-600">東北自動車道 松尾ICより15分。盛岡駅より岩手県北バスで約80分。</td>
                 <td className="p-3 text-stone-600">有り　200台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.34（774件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,500〜</td>
@@ -481,7 +481,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. ＪＲ東日本ホテルメッツ北上</td>
                 <td className="p-3 text-stone-600">岩手県北上市大通1-1-34</td>
-                <td className="p-3 text-stone-600">北上駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ東北本線・新幹線 北上駅西口から徒歩１分 国道４号線より車で３分</td>
                 <td className="p-3 text-stone-600">【 駐車料金：1泊800円 】敷地内17台。満車の場合は提携駐車場をご案内します。</td>
                 <td className="p-3 font-bold text-amber-600">★4.15（2255件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,450〜</td>
@@ -510,7 +510,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料　（直接玄関前までお越しください・駐車場へご移動させていただきます）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ナイトランタンと仲居さんの笑顔に癒された母と娘と3人で利用させていただきました。夕方の雨が運良く上がってナイトランタンは幻想的でとても綺麗でした。お食事がとても美味しく仲居さん…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ナイトランタンと仲居さんの笑顔に癒された母と娘と3人で利用させていただきました。夕方の雨が運良く上がってナイトランタンは幻想的でとても綺麗でした。」
                   </blockquote>
                 </div>
               </div>
@@ -532,7 +532,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　60台　無料　※3箇所有り</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.14 ／ 立地 ★4.12 ／ 部屋 ★4.01 ／ 設備 ★3.93 ／ 風呂 ★4.21</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「立派なお部屋だがカビ臭さが気になった温泉風呂付きのお部屋に泊まりましたが、とても立派なお部屋なのですが、とにかくカビ臭さが気になりました。月に1泊もしくは2泊ほど温泉旅館を巡っていますが、あれほど…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「立派なお部屋だがカビ臭さが気になった温泉風呂付きのお部屋に泊まりましたが、とても立派なお部屋なのですが、とにかくカビ臭さが気になりました。」
                   </blockquote>
                 </div>
               </div>

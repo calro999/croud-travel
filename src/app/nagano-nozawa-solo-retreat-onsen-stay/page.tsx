@@ -385,7 +385,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 中町にあるホテル　池田屋</td>
                 <td className="p-3 text-stone-600">長野県松本市中央3-4-6</td>
-                <td className="p-3 text-stone-600">松本駅周辺</td>
+                <td className="p-3 text-stone-600">●松本駅【お城口】徒歩12分●松本情緒溢れる「蔵の町中町」の女鳥羽川沿い8階建●松本城（徒歩5分）、芸術館、美術館至近</td>
                 <td className="p-3 text-stone-600">１台500円(込)／泊　●入出庫可●高さ制限無※大型車・バイクは駐車不可</td>
                 <td className="p-3 font-bold text-amber-600">★3.58（893件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,950〜</td>
@@ -394,7 +394,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 白馬東急ホテル</td>
                 <td className="p-3 text-stone-600">長野県北安曇郡白馬村北城4688</td>
-                <td className="p-3 text-stone-600">白馬駅周辺</td>
+                <td className="p-3 text-stone-600">白馬駅からお車で約8分。白馬八方バスターミナルからお車で約3分。送迎はご到着の1時間前までにご依頼ください。</td>
                 <td className="p-3 text-stone-600">有り 約70台無料。EV充電器2台分ございます。</td>
                 <td className="p-3 font-bold text-amber-600">★4.65（478件）</td>
                 <td className="p-3 font-bold text-rose-600">¥13,590〜</td>
@@ -403,7 +403,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 松本駅から一番近い大浴場のある　ホテルニューステーション＜長野県＞</td>
                 <td className="p-3 text-stone-600">長野県松本市中央1-1-11</td>
-                <td className="p-3 text-stone-600">松本駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ松本駅北隣り徒歩１分。駅（東口）を出て左手４軒目。長野道松本ＩＣから車で１０分。松本バスターミナルから徒歩４分。</td>
                 <td className="p-3 text-stone-600">1000円/泊　アメニティパーク（中央1-15-25）高さ155cm以下　不適合車は別の場所へご案内</td>
                 <td className="p-3 font-bold text-amber-600">★4.14（3072件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,700〜</td>
@@ -412,7 +412,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. ホテルタングラム　斑尾東急リゾート</td>
                 <td className="p-3 text-stone-600">長野県上水内郡信濃町古海3575-8</td>
-                <td className="p-3 text-stone-600">妙高高原駅周辺</td>
+                <td className="p-3 text-stone-600">JR黒姫駅より路線バス(有料） 上信越道信濃町ＩＣ又は妙高高原ＩＣから車で20分。</td>
                 <td className="p-3 text-stone-600">有り　1000台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.2（1776件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,900〜</td>
@@ -421,7 +421,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 白馬五竜　ホテル　ステラベラ</td>
                 <td className="p-3 text-stone-600">長野県北安曇郡白馬村神城22201-5</td>
-                <td className="p-3 text-stone-600">白馬駅周辺</td>
+                <td className="p-3 text-stone-600">JR神城駅,白馬五竜バス停(送迎：要事前予約）安曇野ICより車で45分</td>
                 <td className="p-3 text-stone-600">有り</td>
                 <td className="p-3 font-bold text-amber-600">★4.43（48件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,555〜</td>
@@ -450,7 +450,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>１台500円(込)／泊　●入出庫可●高さ制限無※大型車・バイクは駐車不可</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「立地や朝食の案内不足が少し残念コンビニが遠く、角にあるのと修繕中のため白いネットで覆われておりわかりませんでした。そこまで説明していただきたいです。朝ごはんの対応も何時までと記載してくださ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「立地や朝食の案内不足が少し残念コンビニが遠く、角にあるのと修繕中のため白いネットで覆われておりわかりませんでした。そこまで説明していただきたいです。」
                   </blockquote>
                 </div>
               </div>
@@ -472,7 +472,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り 約70台無料。EV充電器2台分ございます。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.6 ／ 立地 ★4.74 ／ 部屋 ★4.64 ／ 設備 ★4.55 ／ 風呂 ★4.41 ／ 食事 ★4.65</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉の泉質とゆったりとした暖炉が良かったです小雨が降る8月末の週末にお世話になりました。部屋から前庭越しに望める白馬の峰々を期待していたのですが、次回に持ち越しとなりました。楽しみにしてい…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉の泉質とゆったりとした暖炉が良かったです小雨が降る8月末の週末にお世話になりました。部屋から前庭越しに望める白馬の峰々を期待していたのですが、次回に持ち越しとなりました。」
                   </blockquote>
                 </div>
               </div>
@@ -516,7 +516,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　1000台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「コスパが良く子供も大満足、リピートありバイキングは少し種類が気持ち少ない、露天風呂の景色が特に自然を感じないのが、残念でしたが、お値段を考えると総合的に良く、リピートありです。子供もキッズ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「コスパが良く子供も大満足、リピートありバイキングは少し種類が気持ち少ない、露天風呂の景色が特に自然を感じないのが、残念でしたが、お値段を考えると総合的に良く、リピートありです。」
                   </blockquote>
                 </div>
               </div>

@@ -342,7 +342,7 @@ export default function NyutoOnsenAutumnPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 休暇村　乳頭温泉郷</td>
                 <td className="p-3 text-stone-600">秋田県仙北市田沢湖生保内駒ヶ岳2-1</td>
-                <td className="p-3 text-stone-600">田沢湖駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ 田沢湖駅より羽後交通乳頭温泉行「休暇村」下車、徒歩０分</td>
                 <td className="p-3 text-stone-600">有り　１００台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.55（563件）</td>
                 <td className="p-3 font-bold text-rose-600">¥15,500〜</td>
@@ -351,7 +351,7 @@ export default function NyutoOnsenAutumnPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 花心亭しらはま</td>
                 <td className="p-3 text-stone-600">秋田県仙北市田沢湖田沢春山145-15</td>
-                <td className="p-3 text-stone-600">田沢湖駅周辺</td>
+                <td className="p-3 text-stone-600">田沢湖駅からお車で約12分</td>
                 <td className="p-3 text-stone-600">当館正面、道路向かい側の春山第一駐車場に駐車し、そのままフロントへお越しください(無料・予約不要)</td>
                 <td className="p-3 font-bold text-amber-600">★4.69（291件）</td>
                 <td className="p-3 font-bold text-rose-600">¥16,500〜</td>
@@ -360,7 +360,7 @@ export default function NyutoOnsenAutumnPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 田沢湖水沢温泉郷セルリアンリゾートＡＯＮＩ</td>
                 <td className="p-3 text-stone-600">秋田県仙北市田沢湖生保内下高野73-13</td>
-                <td className="p-3 text-stone-600">田沢湖駅周辺</td>
+                <td className="p-3 text-stone-600">田沢湖駅よりバスで約２５分（乳頭線、水沢温泉郷で降車）、タクシーで約１５分</td>
                 <td className="p-3 text-stone-600">無料／40台／予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.22（340件）</td>
                 <td className="p-3 font-bold text-rose-600">¥18,000〜</td>
@@ -369,7 +369,7 @@ export default function NyutoOnsenAutumnPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 天然温泉　田沢湖レイクリゾート</td>
                 <td className="p-3 text-stone-600">秋田県仙北市田沢湖生保内字下高野82-117</td>
-                <td className="p-3 text-stone-600">田沢湖駅周辺</td>
+                <td className="p-3 text-stone-600">JR秋田新幹線田沢湖駅からバスで２０分、盛岡Ｉ．Ｃから５０分。田沢湖駅から送迎バスにて約15分（要事前予約）</td>
                 <td className="p-3 text-stone-600">有り　５００台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.17（2001件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,014〜</td>
@@ -378,7 +378,7 @@ export default function NyutoOnsenAutumnPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 亀の井ホテル　田沢湖</td>
                 <td className="p-3 text-stone-600">秋田県仙北市田沢湖生保内駒ケ岳2-32</td>
-                <td className="p-3 text-stone-600">田沢湖駅周辺</td>
+                <td className="p-3 text-stone-600">JR田沢湖駅より乳頭温泉行バス約35分「杉谷地」下車 駒ケ岳登山口行きバス停まで徒歩約10分 乳頭温泉まで車で約10分</td>
                 <td className="p-3 text-stone-600">有り　100台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.04（1705件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,195〜</td>
@@ -451,7 +451,7 @@ export default function NyutoOnsenAutumnPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料／40台／予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.26 ／ 立地 ★4 ／ 部屋 ★4.49 ／ 設備 ★4.21 ／ 風呂 ★4.15 ／ 食事 ★4.34</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「至れり尽くせりのサービスと温泉に感動大曲花火の為、8/29-30に1泊宿泊した。RakutenTravelに貼り付きずっと宿を探していて、偶々キャンセルが出たようで急いで予約した為、予約内容をあま…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「至れり尽くせりのサービスと温泉に感動大曲花火の為、8/29-30に1泊宿泊した。」
                   </blockquote>
                 </div>
               </div>
@@ -473,7 +473,7 @@ export default function NyutoOnsenAutumnPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　５００台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.19 ／ 立地 ★3.99 ／ 部屋 ★4.02 ／ 設備 ★4.01 ／ 風呂 ★4.09 ／ 食事 ★4.29</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ライブキッチンのステーキが絶品、料理も大満足バイキングのお料理が美味しかった。口コミの通り、ライブキッチンのステーキの味が良く、他のお料理もちゃんと作られている内容で満足でした。クチコミの詳細…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ライブキッチンのステーキが絶品、料理も大満足バイキングのお料理が美味しかった。口コミの通り、ライブキッチンのステーキの味が良く、他のお料理もちゃんと作られている内容で満足でした。」
                   </blockquote>
                 </div>
               </div>

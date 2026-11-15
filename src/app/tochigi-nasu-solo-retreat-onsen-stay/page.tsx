@@ -337,8 +337,8 @@ export default function ArticlePage() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 那須塩原駅よりアクセス。那須塩原駅より無料シャトルバス運行（定期・前日までの完全予約制）。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「那須温泉 ホテルハーヴェスト那須」にチェックイン。大人たちの癒しの森 会員制ホテルに併設されたホテルハーヴェスト那須。ロイヤルリゾートへようこそ。などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「那須温泉 ホテルハーヴェスト那須」の湯処へ。大人たちの癒しの森 会員制ホテルに併設されたホテルハーヴェスト那須。ロとともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「那須温泉 ホテルハーヴェスト那須」にチェックイン。大人たちの癒しの森 会員制ホテルに併設されたホテルハーヴェスト那須。ロイヤルリゾートへようこそ。 荷物を解き、落ち着いた室内でまず一息つく。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「那須温泉 ホテルハーヴェスト那須」の自慢の湯処へ。温かな湯気と落ち着いた雰囲気に癒やされながら、夕食前の贅沢なひとときを過ごす。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「那須温泉 ホテルハーヴェスト那須」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -350,7 +350,7 @@ export default function ArticlePage() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「那須温泉 ホテルハーヴェスト那須」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「那須温泉 ホテルハーヴェスト那須」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「那須温泉 ホテルフォレストヒルズ那須 ｗｉｔｈ ＤＯＧＳ」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は「那須温泉 ホテルハーヴェスト那須」周辺の観光スポットや地元の名産店に立ち寄り、ご当地のお土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>
@@ -366,49 +366,49 @@ export default function ArticlePage() {
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">あわせて読みたい人気特集＆全国エリアガイド</h2>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
-            <a href="/miyagi-matsushima-shiogama-bay-seafood-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/nikko-autumn-leaves-lightup-guide/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">宮城・松島＆塩竈：日本三景松島・塩竈生マグロ＆焼き牡蠣温泉宿 厳選ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「日光・いろは坂 紅葉2026見頃完全マップ」 大渋滞回避の時間帯・中禅寺湖ライトアップ＆奥日光硫黄泉の宿</span>
             </a>
-            <a href="/traditional-sendai-beef-tan-gourmet-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/nikko-kinugawa-solo-retreat-onsen-culture-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">2026最新：極上厚切り牛タン炭火焼き＆A5仙台牛会席！宮城・秋保＆松島の名湯美食宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「日光・鬼怒川ひとり旅・極上おこもり」空中庭園露天風呂・日光東照宮参道の名湯・現存最古のリゾートクラシック！渓谷と歴史の厳選3宿</span>
             </a>
-            <a href="/winter-miyagi-sakunami-onsen-yukimi-sendai-beef-serinabe-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/tochigi-itamuro-solo-retreat-therapeutic-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12月宮城・作並温泉＆仙台奥座敷の初冬広瀬川雪見露天と美女づくりの湯】極上A5仙台牛ステーキ＆名物仙台せり鍋会席を味わう老舗宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「那須塩原・板室温泉ひとり旅・下野の薬湯立ち湯おこもり」開湯1050年杖いらずの名湯・那珂川上流自然林・保養とアート！現代湯治リトリート厳選3宿</span>
             </a>
-            <a href="/furusato-tax-akiu-rairaikyo-autumn-leaves-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/tochigi-nasu-highland-nature-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">仙台の奥座敷・秋保温泉と磊々峡の奇岩紅葉！名瀑秋保大滝＆篝火露天風呂宿×ふるさと納税厳選ガイド宮城</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「栃木・那須高原」茶臼岳・御用邸の森＆ベーカリー・温泉リゾート 厳選ガイド</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
             <div className="flex flex-wrap gap-2">
               <Link
-                href="/prefectures/miyagi/"
+                href="/prefectures/tochigi/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                宮城県の宿・温泉
+                栃木県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/fukui/"
+                href="/prefectures/tokyo/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                福井県の宿・温泉
+                東京都の宿・温泉
               </Link>
               <Link
-                href="/prefectures/ehime/"
+                href="/prefectures/kanagawa/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                愛媛県の宿・温泉
+                神奈川県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/nagasaki/"
+                href="/prefectures/chiba/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                長崎県の宿・温泉
+                千葉県の宿・温泉
               </Link>
             </div>
           </div>
@@ -453,7 +453,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 那須温泉　旅館ニューおおたか</td>
                 <td className="p-3 text-stone-600">栃木県那須郡那須町湯本269</td>
-                <td className="p-3 text-stone-600">黒磯駅周辺</td>
+                <td className="p-3 text-stone-600">在来線：JR黒磯駅／新幹線：JR那須塩原駅／東北自動車道 那須ICより50分</td>
                 <td className="p-3 text-stone-600">有り　20台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.36（160件）</td>
                 <td className="p-3 font-bold text-rose-600">¥10,150〜</td>
@@ -462,7 +462,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 那須温泉　ホテルフォレストヒルズ那須　ｗｉｔｈ　ＤＯＧＳ</td>
                 <td className="p-3 text-stone-600">栃木県那須郡那須町高久乙1880</td>
-                <td className="p-3 text-stone-600">那須塩原駅周辺</td>
+                <td className="p-3 text-stone-600">安心＆安全な愛犬との旅をお約束＜全館 独立コテージタイプ・ペットと泊まる宿＞“北関東最大級”愛犬同伴の複合型リゾート♪</td>
                 <td className="p-3 text-stone-600">有り　60台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.34（943件）</td>
                 <td className="p-3 font-bold text-rose-600">¥17,600〜</td>
@@ -486,12 +486,12 @@ export default function ArticlePage() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/73998/73998.jpg" alt="那須温泉　ホテルハーヴェスト那須 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
-                  <p><strong>【宿の特徴・魅力】</strong>「那須温泉ひとり旅・御用邸高原おこもり」掲載宿の所在地・アクセス・特徴データ一覧は、周辺の観光巡りにも便利で快適な滞在環境が整った宿泊施設です。</p>
+                  <p><strong>【宿の特徴・魅力】</strong>那須温泉　ホテルハーヴェスト那須は、周辺の観光巡りにも便利で快適な滞在環境が整った宿泊施設です。</p>
                   <p><strong>【所在地・アクセス】</strong>交通案内：那須塩原駅より無料シャトルバス運行（定期・前日までの完全予約制）</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ゆったりとした食事会場と果てまで続く高原の眺望は得難いもの那須の同種の某リゾートより部屋数が多いしと期待値を下げていったのですが、広い分、ゆったり感は優っており、特に朝夕食会場のテーブルが余裕を持…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ゆったりとした食事会場と果てまで続く高原の眺望は得難いもの那須の同種の某リゾートより部屋数が多いしと期待値を下げていったのですが、広い分、ゆったり感は優っており、特に朝夕食会場のテーブルが余裕を持。」
                   </blockquote>
                 </div>
               </div>
@@ -513,7 +513,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　20台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事に大満足、親切な対応でリピート確定宿泊代金からすると、食事の内容に大満足で、従業員も親切丁寧、また昨年も泊まったことを覚えていたようで驚きました。那須に行くときはまた泊まりたいです。…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事に大満足、親切な対応でリピート確定宿泊代金からすると、食事の内容に大満足で、従業員も親切丁寧、また昨年も泊まったことを覚えていたようで驚きました。那須に行くときはまた泊まりたいです。」
                   </blockquote>
                 </div>
               </div>
@@ -535,7 +535,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　60台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.45 ／ 立地 ★4.35 ／ 部屋 ★4.2 ／ 設備 ★4.22 ／ 風呂 ★4.16 ／ 食事 ★4.59</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「犬連れへの配慮が素晴らしく大満足飼っている犬が吠えてしまう為、バイキング朝食をキャンセルしました。ですが部屋まで朝食を持ってきてくださり、大変満足いたしました。とても良いお宿だと思います。また行き…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「犬連れへの配慮が素晴らしく大満足飼っている犬が吠えてしまう為、バイキング朝食をキャンセルしました。ですが部屋まで朝食を持ってきてくださり、大変満足いたしました。とても良いお宿だと思います。」
                   </blockquote>
                 </div>
               </div>

@@ -426,7 +426,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. オークラアクトシティホテル浜松（オークラホテルズ＆リゾーツ）</td>
                 <td className="p-3 text-stone-600">静岡県浜松市中央区板屋町111-2</td>
-                <td className="p-3 text-stone-600">浜松駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ浜松駅２階メイワン改札より連絡通路で徒歩３分。浜松IC.浜松西ICより車で約20分。エコパから電車で約40分</td>
                 <td className="p-3 text-stone-600">有料：1台１泊 1,000円 （地下・予約不要・精算はフロント）</td>
                 <td className="p-3 font-bold text-amber-600">★4.56（5190件）</td>
                 <td className="p-3 font-bold text-rose-600">¥9,000〜</td>
@@ -435,7 +435,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. ＡＮＡクラウンプラザホテル浜松　ｂｙＩＨＧ（旧：ホテルクラウンパレス浜松）</td>
                 <td className="p-3 text-stone-600">静岡県浜松市中央区板屋町110-17</td>
-                <td className="p-3 text-stone-600">浜松駅周辺</td>
+                <td className="p-3 text-stone-600">駅北口・バスターミナルから地下道直結で徒歩3分。東名浜松ICから約20分。浜松西ICからは約30分。</td>
                 <td className="p-3 text-stone-600">1泊につき1台1000円（税込）</td>
                 <td className="p-3 font-bold text-amber-600">★4.16（2462件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,396〜</td>
@@ -444,7 +444,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. ホテルコンコルド浜松</td>
                 <td className="p-3 text-stone-600">静岡県浜松市中央区元城町109-18</td>
-                <td className="p-3 text-stone-600">浜松駅周辺</td>
+                <td className="p-3 text-stone-600">■駐車場無料／東名「三方原スマートIC」から約15分or「浜松IC」から約20分■JR浜松駅より路線バスで約6分</td>
                 <td className="p-3 text-stone-600">無料 200台2階建平面駐車場（大型バス・トラックは除く）。屋根付きだからバイクも安心</td>
                 <td className="p-3 font-bold text-amber-600">★4.3（4014件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,075〜</td>
@@ -495,7 +495,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>1泊につき1台1000円（税込）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.2 ／ 立地 ★4.31 ／ 部屋 ★4.22 ／ 設備 ★3.96 ／ 風呂 ★4.05 ／ 食事 ★4.13</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「リニューアルされた客室が明るく快適外観や廊下はレトロな雰囲気でしたが、客室はリニューアルされており、とても綺麗です。窓が大きく、日差したっぷりで明るいお部屋でした。駅から地下道でアクセスできるとい…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「リニューアルされた客室が明るく快適外観や廊下はレトロな雰囲気でしたが、客室はリニューアルされており、とても綺麗です。窓が大きく、日差したっぷりで明るいお部屋でした。」
                   </blockquote>
                 </div>
               </div>
@@ -517,7 +517,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料 200台2階建平面駐車場（大型バス・トラックは除く）。屋根付きだからバイクも安心</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.38 ／ 立地 ★4.35 ／ 部屋 ★4.24 ／ 設備 ★4.16 ／ 風呂 ★3.95 ／ 食事 ★4.52</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食に大満足、浜松城公園の散歩も最高金曜日の夜に一泊しました。部屋は清潔でしたが、若干の古さは否めない感じ。朝食は品数、味ともとても満足でした。隣が浜松城公園で朝食後に散歩をしました。とても気分が…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食に大満足、浜松城公園の散歩も最高金曜日の夜に一泊しました。部屋は清潔でしたが、若干の古さは否めない感じ。朝食は品数、味ともとても満足でした。隣が浜松城公園で朝食後に散歩をしました。」
                   </blockquote>
                 </div>
               </div>

@@ -439,7 +439,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 越後松之山温泉　凌雲閣</td>
                 <td className="p-3 text-stone-600">新潟県十日町市松之山天水越81</td>
-                <td className="p-3 text-stone-600"></td>
+                <td className="p-3 text-stone-600">新潟県十日町市松之山天水越81 ／ 交通案内：</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.13（248件）</td>
                 <td className="p-3 font-bold text-rose-600">¥11,000〜</td>
@@ -448,7 +448,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 松之山温泉　醸す森［ｋａｍｏｓｕ　ｍｏｒｉ］</td>
                 <td className="p-3 text-stone-600">新潟県十日町市松之山黒倉1879-4</td>
-                <td className="p-3 text-stone-600"></td>
+                <td className="p-3 text-stone-600">新潟県十日町市松之山黒倉1879-4 ／ 交通案内：</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.26（100件）</td>
                 <td className="p-3 font-bold text-rose-600">¥12,000〜</td>
@@ -457,7 +457,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 松之山温泉　和泉屋　＜新潟県＞</td>
                 <td className="p-3 text-stone-600">新潟県十日町市松之山湯本7-1</td>
-                <td className="p-3 text-stone-600"></td>
+                <td className="p-3 text-stone-600">新潟県十日町市松之山湯本7-1 ／ 交通案内：</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.67（95件）</td>
                 <td className="p-3 font-bold text-rose-600">¥15,125〜</td>

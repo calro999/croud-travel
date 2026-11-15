@@ -439,7 +439,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. ペンション　イグアナの森　ー絶品ジビエ料理と貸切那須温泉ー</td>
                 <td className="p-3 text-stone-600">栃木県那須郡那須町高久乙802-55</td>
-                <td className="p-3 text-stone-600"></td>
+                <td className="p-3 text-stone-600">栃木県那須郡那須町高久乙802-55 ／ 交通案内：</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.63（120件）</td>
                 <td className="p-3 font-bold text-rose-600">¥11,000〜</td>
@@ -448,7 +448,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 那須温泉山楽</td>
                 <td className="p-3 text-stone-600">栃木県那須郡那須町湯本206</td>
-                <td className="p-3 text-stone-600">那須塩原駅周辺</td>
+                <td className="p-3 text-stone-600">那須塩原駅より車で約３５分／東北自動車道 那須ＩＣより約１５分/無料送迎バスあり。要事前予約</td>
                 <td className="p-3 text-stone-600">駐車場５０台（無料、予約不要）</td>
                 <td className="p-3 font-bold text-amber-600">★4.67（388件）</td>
                 <td className="p-3 font-bold text-rose-600">¥27,500〜</td>
@@ -457,7 +457,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 那須温泉　那須ビレッジ</td>
                 <td className="p-3 text-stone-600">栃木県那須郡那須町高久乙2332</td>
-                <td className="p-3 text-stone-600"></td>
+                <td className="p-3 text-stone-600">栃木県那須郡那須町高久乙2332 ／ 交通案内：</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.53（68件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,280〜</td>
@@ -508,7 +508,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>駐車場５０台（無料、予約不要）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.61 ／ 立地 ★4.62 ／ 部屋 ★4.57 ／ 設備 ★4.57 ／ 風呂 ★4.72 ／ 食事 ★4.75</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「リファのドライヤーと充実したアメニティドライヤーがリファの高級品で、乾きも速く、贅沢な気持ちになれました。その他アメニティも良かったです。巾着も毎度風情が感じられて良いです。クチコミの詳細はこ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「リファのドライヤーと充実したアメニティドライヤーがリファの高級品で、乾きも速く、贅沢な気持ちになれました。その他アメニティも良かったです。巾着も毎度風情が感じられて良いです。」
                   </blockquote>
                 </div>
               </div>

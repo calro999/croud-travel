@@ -315,8 +315,8 @@ export default function FeaturePage() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 水上駅よりアクセス。ＪＲ水上駅より車で７分（送迎あり）、関越自動車道水上ＩＣより１５分。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「水上温泉郷 谷川温泉 旅館たにがわ」にチェックイン。太宰治ゆかりの宿 スタッフの笑顔と創作料理・おもてなしの心 ・貸切露天風呂・足湯も大好評などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「水上温泉郷 谷川温泉 旅館たにがわ」の湯処へ。太宰治ゆかりの宿 スタッフの笑顔と創作料理・おもてなしの心 ・貸切露天とともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「水上温泉郷 谷川温泉 旅館たにがわ」にチェックイン。太宰治ゆかりの宿 スタッフの笑顔と創作料理・おもてなしの心 ・貸切露天風呂・足湯も大好評が魅力の一軒。客室で荷物をほどいて穏やかな午後のひとときを。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「水上温泉郷 谷川温泉 旅館たにがわ」の大浴場・露天風呂へ。日暮れの静けさの中で湯に浸かり、旅の緊張をゆっくりと解きほぐす。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「水上温泉郷 谷川温泉 旅館たにがわ」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -328,7 +328,7 @@ export default function FeaturePage() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「水上温泉郷 谷川温泉 旅館たにがわ」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「水上温泉郷 谷川温泉 旅館たにがわ」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「水上温泉郷 湯檜曽温泉 天空の湯 なかや旅館」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は宿周辺の散策とショッピングを満喫。地元の名産品やグルメを味わってから余裕をもって帰路につく。</li>
               </ul>
             </div>
           </div>

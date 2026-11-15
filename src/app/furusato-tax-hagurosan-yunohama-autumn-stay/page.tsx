@@ -439,7 +439,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 湯野浜温泉　游水亭　いさごや</td>
                 <td className="p-3 text-stone-600">山形県鶴岡市湯野浜1-8-7</td>
-                <td className="p-3 text-stone-600"></td>
+                <td className="p-3 text-stone-600">山形県鶴岡市湯野浜1-8-7 ／ 交通案内：</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.38（710件）</td>
                 <td className="p-3 font-bold text-rose-600">¥15,488〜</td>
@@ -448,7 +448,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 湯野浜温泉　竹屋ホテル（鶴岡・酒田）</td>
                 <td className="p-3 text-stone-600">山形県鶴岡市湯野浜温泉1-9-25</td>
-                <td className="p-3 text-stone-600">鶴岡駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ 鶴岡駅から湯の浜温泉まで車で２０分、バスで３５分</td>
                 <td className="p-3 text-stone-600">有り　７０台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★3.8（469件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,800〜</td>
@@ -457,7 +457,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 湯野浜温泉　源泉付客室　浜泉荘</td>
                 <td className="p-3 text-stone-600">山形県鶴岡市湯野浜1-12-31</td>
-                <td className="p-3 text-stone-600"></td>
+                <td className="p-3 text-stone-600">山形県鶴岡市湯野浜1-12-31 ／ 交通案内：</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4（88件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,000〜</td>

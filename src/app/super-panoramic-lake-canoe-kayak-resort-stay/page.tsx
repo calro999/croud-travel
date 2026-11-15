@@ -283,8 +283,8 @@ export default function Page() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 河口湖駅よりアクセス。電車 富士急行線河口湖駅より車で約10分 車 河口湖ICより約3キロ・約15分。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「河口湖温泉 足和田ホテル」にチェックイン。人気のワイン風呂や星空露天寝湯、サウナも完備。河口湖畔に佇む当館でのんびり静かなひと時を。などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「河口湖温泉 足和田ホテル」の湯処へ。人気のワイン風呂や星空露天寝湯、サウナも完備。河口湖畔に佇む当館でのんとともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「河口湖温泉 足和田ホテル」にチェックイン。人気のワイン風呂や星空露天寝湯、サウナも完備。河口湖畔に佇む当館でのんびり静かなひと時を。 荷物を解き、落ち着いた室内でまず一息つく。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「河口湖温泉 足和田ホテル」の自慢の湯処へ。温かな湯気と落ち着いた雰囲気に癒やされながら、夕食前の贅沢なひとときを過ごす。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「河口湖温泉 足和田ホテル」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -296,7 +296,7 @@ export default function Page() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「河口湖温泉 足和田ホテル」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「河口湖温泉 足和田ホテル」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「河口湖温泉 ホテル湖龍」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は「河口湖温泉 足和田ホテル」周辺の観光スポットや地元の名産店に立ち寄り、ご当地のお土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>
@@ -424,7 +424,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 河口湖温泉　足和田ホテル</td>
                 <td className="p-3 text-stone-600">山梨県南都留郡富士河口湖町長浜395</td>
-                <td className="p-3 text-stone-600">河口湖駅周辺</td>
+                <td className="p-3 text-stone-600">【電車】富士急行線河口湖駅より車で約10分【車】河口湖ICより約3キロ・約15分。勝山から湖畔道路を大石方面へ湖畔沿いへ</td>
                 <td className="p-3 text-stone-600">有り　４０台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.34（946件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,425〜</td>
@@ -433,7 +433,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 河口湖温泉　ホテル湖龍</td>
                 <td className="p-3 text-stone-600">山梨県南都留郡富士河口湖町浅川630-1</td>
-                <td className="p-3 text-stone-600">河口湖駅周辺</td>
+                <td className="p-3 text-stone-600">中央線「大月駅」乗換、富士急行線終点「河口湖駅」よりお車・バスにて5分。中央高速河口湖ICより10分。</td>
                 <td className="p-3 text-stone-600">有り　50台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.31（390件）</td>
                 <td className="p-3 font-bold text-rose-600">¥10,197〜</td>
@@ -442,7 +442,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 富士河口湖温泉　河口湖パークホテル</td>
                 <td className="p-3 text-stone-600">山梨県南都留郡富士河口湖町船津6713-6</td>
-                <td className="p-3 text-stone-600">河口湖駅周辺</td>
+                <td className="p-3 text-stone-600">富士急行線 河口湖駅から徒歩17分（無料送迎あり）／中央道 河口湖ＩＣより約１０分</td>
                 <td className="p-3 text-stone-600">無料駐車場 約30台／電気自動車充電スタンド／河口湖駅⇔無料送迎</td>
                 <td className="p-3 font-bold text-amber-600">★4.34（275件）</td>
                 <td className="p-3 font-bold text-rose-600">¥12,000〜</td>
@@ -451,7 +451,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 洞爺湖温泉　ホテルグランド　トーヤ</td>
                 <td className="p-3 text-stone-600">北海道虻田郡洞爺湖町洞爺湖温泉 144</td>
-                <td className="p-3 text-stone-600">洞爺駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ室蘭本線洞爺駅より車で約15分／道央道虻田洞爺湖ＩＣより20分</td>
                 <td className="p-3 text-stone-600">有り　５０台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.07（498件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,500〜</td>
@@ -460,7 +460,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 山中湖旭日丘温泉　ホテル清渓</td>
                 <td className="p-3 text-stone-600">山梨県南都留郡山中湖村平野506-296</td>
-                <td className="p-3 text-stone-600">中央高速バス 山中湖旭日丘より徒歩約15分 ／ 東富士五湖道路山中湖Ｉ</td>
+                <td className="p-3 text-stone-600">中央高速バス 山中湖旭日丘より徒歩約15分 ／ 東富士五湖道路山中湖ＩＣを出て国道138号線を旭日丘方面乗用車約5分</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★3.86（524件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,750〜</td>
@@ -511,7 +511,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　50台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.48 ／ 立地 ★4.32 ／ 部屋 ★4.12 ／ 設備 ★4.09 ／ 風呂 ★4.19 ／ 食事 ★4.27</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事や温泉は惜しいが部屋は綺麗で快適チェックインが遅くなり、ウェルカムドリンクなどは楽しめませんでした。夕飯のビュッフェの料理はきちんと作られていましたが、冷めていてあまり美味しくありませんで…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事や温泉は惜しいが部屋は綺麗で快適チェックインが遅くなり、ウェルカムドリンクなどは楽しめませんでした。」
                   </blockquote>
                 </div>
               </div>
@@ -533,7 +533,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料駐車場 約30台／電気自動車充電スタンド／河口湖駅⇔無料送迎</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.56 ／ 立地 ★3.98 ／ 部屋 ★4.1 ／ 設備 ★4.12 ／ 風呂 ★4.08 ／ 食事 ★4.42</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「お風呂がとても綺麗で、お湯加減がとてもよく、きもちよかったです。館内も綺麗でスタッフさんも全員とても親切で優しいです。車での送迎も大変助かりました。また伺いたいと思います。クチコミの詳…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「お風呂がとても綺麗で、お湯加減がとてもよく、きもちよかったです。館内も綺麗でスタッフさんも全員とても親切で優しいです。車での送迎も大変助かりました。また伺いたいと思います。」
                   </blockquote>
                 </div>
               </div>
@@ -555,7 +555,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　５０台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.19 ／ 立地 ★4.24 ／ 部屋 ★4.03 ／ 設備 ★3.88 ／ 風呂 ★4.03 ／ 食事 ★3.98</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉は露天風呂と温度別の風呂がいくつかあり、クレンジングや洗顔もあったので良かったしかし、ドライヤーにホコリが溜まっており清掃が行き届いていないと感じた古さが感じられが、特に問題もなく泊まれた…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉は露天風呂と温度別の風呂がいくつかあり、クレンジングや洗顔もあったので良かったしかし、ドライヤーにホコリが溜まっており清掃が行き届いていないと感じた古さが感じられが、特に問題もなく泊まれた。」
                   </blockquote>
                 </div>
               </div>

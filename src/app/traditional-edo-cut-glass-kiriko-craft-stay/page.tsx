@@ -90,7 +90,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F31820%2F31820.html%26f_flg%3DPLAN",
     "hotelMinCharge": 9500,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/31820/31820.jpg",
-    "userReview": "五箇山　旅館　よしのや＜富山県＞ならではの立地と落ち着いた空間で、ゆったりとした滞在を楽しめたという声が寄せられています。",
+    "userReview": "五箇山 旅館 よしのや＜富山県＞ならではの立地と落ち着いた空間で、ゆったりとした滞在を楽しめたという声が寄せられています。",
     "reviewAverage": 4.57,
     "reviewCount": 77,
     "address": "富山県南砺市五箇山皆葎366",
@@ -104,7 +104,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F30788%2F30788.html%26f_flg%3DPLAN",
     "hotelMinCharge": 19800,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/30788/30788.jpg",
-    "userReview": "旅館　田邊ならではの立地と落ち着いた空間で、ゆったりとした滞在を楽しめたという声が寄せられています。",
+    "userReview": "旅館 田邊ならではの立地と落ち着いた空間で、ゆったりとした滞在を楽しめたという声が寄せられています。",
     "reviewAverage": 4.33,
     "reviewCount": 65,
     "address": "岐阜県高山市相生町58",
@@ -283,8 +283,8 @@ export default function Page() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 瀬見温泉駅よりお車にて２分、徒歩にて１０分で現地へ到着。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「瀬見温泉 旅館 小川屋」にチェックイン。口コミ総合評価4.6 個室食＆貸切風呂で安心♪山形牛、馬刺し…山形の ごっつぉ を堪能！などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「瀬見温泉 旅館 小川屋」の湯処へ。口コミ総合評価4.6 個室食＆貸切風呂で安心♪山形牛、馬刺し…山形の とともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「瀬見温泉 旅館 小川屋」にチェックイン。口コミ総合評価4.6 個室食＆貸切風呂で安心♪山形牛、馬刺し…山形の ごっつぉ を堪能！ 館内の設えを確かめながら、これからの滞在に備えてゆっくり休息する。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「瀬見温泉 旅館 小川屋」の大浴場・露天風呂へ。日暮れの静けさの中で湯に浸かり、旅の緊張をゆっくりと解きほぐす。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「瀬見温泉 旅館 小川屋」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -296,7 +296,7 @@ export default function Page() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「瀬見温泉 旅館 小川屋」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「瀬見温泉 旅館 小川屋」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「五箇山 旅館 よしのや＜富山県＞」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は「瀬見温泉 旅館 小川屋」周辺の観光スポットや地元の名産店に立ち寄り、ご当地のお土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>
@@ -433,7 +433,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 五箇山　旅館　よしのや＜富山県＞</td>
                 <td className="p-3 text-stone-600">富山県南砺市五箇山皆葎366</td>
-                <td className="p-3 text-stone-600">城端駅周辺</td>
+                <td className="p-3 text-stone-600">JR城端駅から車にて２５分・JR高岡駅からバスで130分／東海北陸自動車道 五箇山ICから10分</td>
                 <td className="p-3 text-stone-600">有　１０台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.5（78件）</td>
                 <td className="p-3 font-bold text-rose-600">¥9,500〜</td>
@@ -451,7 +451,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 山代温泉　ゆのくに天祥</td>
                 <td className="p-3 text-stone-600">石川県加賀市山代温泉19-49-1</td>
-                <td className="p-3 text-stone-600">【車】北陸自動車道加賀IC、片山津ICより約15分【電車】JR・IRい</td>
+                <td className="p-3 text-stone-600">【車】北陸自動車道加賀IC、片山津ICより約15分【電車】JR・IRいしかわ鉄道加賀温泉駅より無料送迎 予約制</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.5（3744件）</td>
                 <td className="p-3 font-bold text-rose-600">¥9,900〜</td>
@@ -460,7 +460,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 山陰湯村温泉　湧泉の宿　ゆあむ</td>
                 <td className="p-3 text-stone-600">兵庫県美方郡新温泉町湯1610</td>
-                <td className="p-3 text-stone-600">近畿豊岡道日高神鍋高原ICより約35分/大阪梅田より阪急特急バス「湯村</td>
+                <td className="p-3 text-stone-600">近畿豊岡道日高神鍋高原ICより約35分/大阪梅田より阪急特急バス「湯村温泉行」1日1～2便</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.47（1528件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,400〜</td>
@@ -489,7 +489,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「源泉掛け流しの湯と親切な接客に大満足素泊りで宿泊しました。まずは源泉掛け流しの湯が良いですね。貸切風呂の利用もできて大満足。ご家族経営かと思いますが、皆さんとても親切で接客も素晴らしい。次回は食事…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「源泉掛け流しの湯と親切な接客に大満足素泊りで宿泊しました。まずは源泉掛け流しの湯が良いですね。貸切風呂の利用もできて大満足。ご家族経営かと思いますが、皆さんとても親切で接客も素晴らしい。」
                   </blockquote>
                 </div>
               </div>
@@ -555,7 +555,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事も温泉も接客も最高、また来たい旅館大変満足した1日でした。夕食、朝食共に見栄えに味申し分ありません。朝食は胃にとてもやさしい味付け。お風呂もとても素敵でした。担当に付いてくれた…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事も温泉も接客も最高、また来たい旅館大変満足した1日でした。夕食、朝食共に見栄えに味申し分ありません。朝食は胃にとてもやさしい味付け。お風呂もとても素敵でした。」
                   </blockquote>
                 </div>
               </div>
@@ -577,7 +577,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの対応と地産地消の食事が最高従業員さんがとても素敵でした。食事も地産地消の食材を使ってとても美味しい!温泉もとてもいいお湯でした。雨で露天風呂が楽しめなかったのが残念でしたが2連泊だったの…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの対応と地産地消の食事が最高従業員さんがとても素敵でした。食事も地産地消の食材を使ってとても美味しい!温泉もとてもいいお湯でした。」
                   </blockquote>
                 </div>
               </div>

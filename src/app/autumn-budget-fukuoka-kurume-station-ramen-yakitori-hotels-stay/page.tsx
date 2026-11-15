@@ -401,7 +401,7 @@ export default function AutumnBudgetHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. いやし処ほてる寛楽　久留米駅前</td>
                 <td className="p-3 text-stone-600">福岡県久留米市通町108-4</td>
-                <td className="p-3 text-stone-600">西鉄久留米駅周辺</td>
+                <td className="p-3 text-stone-600">西鉄久留米駅より車で4分 徒歩7分</td>
                 <td className="p-3 text-stone-600">なし</td>
                 <td className="p-3 font-bold text-amber-600">★4.15（186件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,760〜</td>
@@ -410,7 +410,7 @@ export default function AutumnBudgetHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 東横ＩＮＮ西鉄久留米駅東口</td>
                 <td className="p-3 text-stone-600">福岡県久留米市天神町3-93-4</td>
-                <td className="p-3 text-stone-600">西鉄久留米駅周辺</td>
+                <td className="p-3 text-stone-600">西鉄久留米駅中央東口（東口広場方面）からリベールの横を通って古賀病院方向へ徒歩２分</td>
                 <td className="p-3 text-stone-600">５６台（立体駐車場）　　　５００円/泊　　先着順　　高さ制限あり（2ｍまで）</td>
                 <td className="p-3 font-bold text-amber-600">★4.01（756件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,883〜</td>
@@ -419,7 +419,7 @@ export default function AutumnBudgetHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 久留米ホテルエスプリ</td>
                 <td className="p-3 text-stone-600">福岡県久留米市東町339</td>
-                <td className="p-3 text-stone-600">西鉄久留米駅周辺</td>
+                <td className="p-3 text-stone-600">西鉄久留米駅から徒歩１分。JR久留米駅より車で5分。天神から電車で約30分。福岡空港より高速バスで約４５分</td>
                 <td className="p-3 text-stone-600">有り　15台　1,000円（税込み／泊）　先着順　※提携駐車場も有り</td>
                 <td className="p-3 font-bold text-amber-600">★3.9（1384件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,400〜</td>
@@ -428,7 +428,7 @@ export default function AutumnBudgetHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. ホテルマリターレ創世　久留米</td>
                 <td className="p-3 text-stone-600">福岡県久留米市東櫛原町900</td>
-                <td className="p-3 text-stone-600">久留米駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ久留米駅・西鉄久留米駅から車で約１０分</td>
                 <td className="p-3 text-stone-600">有り　２００台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.33（254件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,900〜</td>
@@ -437,7 +437,7 @@ export default function AutumnBudgetHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. ホテルニュープラザ久留米</td>
                 <td className="p-3 text-stone-600">福岡県久留米市六ッ門町16-1</td>
-                <td className="p-3 text-stone-600">久留米駅周辺</td>
+                <td className="p-3 text-stone-600">西鉄久留米駅から徒歩7分。JR久留米駅から車で5分。広又バス停まで徒歩２分</td>
                 <td className="p-3 text-stone-600">普通車200台　 550円（税込/泊）　/　大型車（バス･トラック）は事前にホテルへご確認下さい</td>
                 <td className="p-3 font-bold text-amber-600">★3.67（2628件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,500〜</td>
@@ -488,7 +488,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>５６台（立体駐車場）　　　５００円/泊　　先着順　　高さ制限あり（2ｍまで）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4 ／ 立地 ★4.04 ／ 部屋 ★4.08 ／ 設備 ★3.96 ／ 風呂 ★3.96 ／ 食事 ★3.97</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「静かな環境と清潔な部屋でぐっすり快眠周囲の騒音が全く気にならなかったので静かに過ごせました。部屋の嫌な臭いもなく清潔感が感じられたので良く眠れました。朝食会場は狭かったですが部屋で食べたい…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「静かな環境と清潔な部屋でぐっすり快眠周囲の騒音が全く気にならなかったので静かに過ごせました。部屋の嫌な臭いもなく清潔感が感じられたので良く眠れました。」
                   </blockquote>
                 </div>
               </div>
@@ -532,7 +532,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２００台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.39 ／ 立地 ★4.2 ／ 部屋 ★4.33 ／ 設備 ★4.25 ／ 風呂 ★4.3 ／ 食事 ★4.52</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「上品で丁寧な接客に感動、部屋も広く清潔普段はビジネスホテルに宿泊していますが、たまたま空きがあったので初めて宿泊しました。結婚式も出来るホテルのようで、従業員の方の対応がビジネスホテルとは全く…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「上品で丁寧な接客に感動、部屋も広く清潔普段はビジネスホテルに宿泊していますが、たまたま空きがあったので初めて宿泊しました。」
                   </blockquote>
                 </div>
               </div>
@@ -554,7 +554,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>普通車200台　 550円（税込/泊）　/　大型車（バス･トラック）は事前にホテルへご確認下さい</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.75 ／ 立地 ★3.66 ／ 部屋 ★3.59 ／ 設備 ★3.54 ／ 風呂 ★3.5 ／ 食事 ★3.75</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「設備が古くセキュリティや操作性に難あり設備が古過ぎですね。福岡市の繁華街に位置してるので、もう少しセキュリティ対策をして欲しいですね。エアコンのリモコンや目覚まし時計の表示が全く分かりませんでした…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「設備が古くセキュリティや操作性に難あり設備が古過ぎですね。福岡市の繁華街に位置してるので、もう少しセキュリティ対策をして欲しいですね。」
                   </blockquote>
                 </div>
               </div>

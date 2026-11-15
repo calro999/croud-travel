@@ -401,7 +401,7 @@ export default function AutumnBudgetHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. ハイパーイン高松駅前</td>
                 <td className="p-3 text-stone-600">香川県高松市西の丸町10-17</td>
-                <td className="p-3 text-stone-600">高松（香川）駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ 高松駅南口より徒歩にて3分</td>
                 <td className="p-3 text-stone-600">当館平面駐車場900円(予約不可)、近隣コインP500円〜</td>
                 <td className="p-3 font-bold text-amber-600">★3.88（722件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,700〜</td>
@@ -410,7 +410,7 @@ export default function AutumnBudgetHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. ＡＬＰＨＡＢＥＤ　ＩＮＮ　高松駅前</td>
                 <td className="p-3 text-stone-600">香川県高松市西内町2-6</td>
-                <td className="p-3 text-stone-600">高松（香川）駅周辺</td>
+                <td className="p-3 text-stone-600">高松駅より徒歩にて約３分</td>
                 <td className="p-3 text-stone-600">専用駐車場なし。ホテル目の前にコインパーキングあり</td>
                 <td className="p-3 font-bold text-amber-600">★4.12（91件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,570〜</td>
@@ -419,7 +419,7 @@ export default function AutumnBudgetHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. ホテルリブマックス高松駅前</td>
                 <td className="p-3 text-stone-600">香川県高松市錦町1-8-9</td>
-                <td className="p-3 text-stone-600">高松（香川）駅周辺</td>
+                <td className="p-3 text-stone-600">JR各線「高松」駅 徒歩5分 フェリー高松港徒歩7分 ことでん高松築港駅徒歩6分</td>
                 <td className="p-3 text-stone-600">無し※近隣にコインパーキング多数あり！</td>
                 <td className="p-3 font-bold text-amber-600">★3.73（197件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,400〜</td>
@@ -428,7 +428,7 @@ export default function AutumnBudgetHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 東横ＩＮＮ高松駅前</td>
                 <td className="p-3 text-stone-600">香川県高松市錦町1-1-6</td>
-                <td className="p-3 text-stone-600">高松（香川）駅周辺</td>
+                <td className="p-3 text-stone-600">JR高徳線・予讃線「高松駅」南口徒歩5分</td>
                 <td className="p-3 text-stone-600">有り　101台　1000円/泊　平置き7台(予約制)　　機械式：94台(先着順)</td>
                 <td className="p-3 font-bold text-amber-600">★4.29（236件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,828〜</td>
@@ -437,7 +437,7 @@ export default function AutumnBudgetHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. ＫＯＫＯ　ＨＯＴＥＬ　高松</td>
                 <td className="p-3 text-stone-600">香川県高松市瓦町2丁目2-3</td>
-                <td className="p-3 text-stone-600">瓦町駅周辺</td>
+                <td className="p-3 text-stone-600">琴平電鉄（ことでん）琴平線・長尾線 瓦町駅より徒歩2分。高松空港リムジンバス「高松駅行き」乗車、「瓦町駅」降車、徒歩2分</td>
                 <td className="p-3 text-stone-600">なし。徒歩圏内に提携駐車場あり(予約不可)。フロントにて割引券販売 ※途中出庫不可</td>
                 <td className="p-3 font-bold text-amber-600">★4.47（558件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,160〜</td>
@@ -466,7 +466,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>当館平面駐車場900円(予約不可)、近隣コインP500円〜</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.96 ／ 立地 ★4.04 ／ 部屋 ★3.77 ／ 設備 ★3.67 ／ 風呂 ★3.64 ／ 食事 ★3.92</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近で便利だが設備と価格のバランスが惜しい香川出張で利用しました。高松駅から徒歩4〜5分、すぐ近くにミニストップもあり立地は非常に便利です。スタッフの対応も丁寧で、部屋も清潔でした。ただ、…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近で便利だが設備と価格のバランスが惜しい香川出張で利用しました。高松駅から徒歩4〜5分、すぐ近くにミニストップもあり立地は非常に便利です。スタッフの対応も丁寧で、部屋も清潔でした。」
                   </blockquote>
                 </div>
               </div>
@@ -488,7 +488,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>専用駐車場なし。ホテル目の前にコインパーキングあり</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.76 ／ 立地 ★4.18 ／ 部屋 ★4.18 ／ 設備 ★3.82</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋は綺麗で駅近、エレベーターなしが難点3階に宿泊しました。部屋はリフォーム済でキレイでしたが、エレベーターがなかったので荷物を運ぶのが大変でした。駅から近くてリーズナブルなので、また…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋は綺麗で駅近、エレベーターなしが難点3階に宿泊しました。部屋はリフォーム済でキレイでしたが、エレベーターがなかったので荷物を運ぶのが大変でした。」
                   </blockquote>
                 </div>
               </div>
@@ -554,7 +554,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>なし。徒歩圏内に提携駐車場あり(予約不可)。フロントにて割引券販売 ※途中出庫不可</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.49 ／ 立地 ★4.4 ／ 部屋 ★4.47 ／ 設備 ★4.43 ／ 風呂 ★4.42 ／ 食事 ★4.32</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近で清潔、お風呂も広くて快適な空間瓦町駅からとても近く、周りが飲食街で夕食には困らない。新しいホテルで清潔で快適。風呂とトイレが別々なのも良い。お風呂はとても広く快適。ただ、洗面所がとても狭く使…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近で清潔、お風呂も広くて快適な空間瓦町駅からとても近く、周りが飲食街で夕食には困らない。新しいホテルで清潔で快適。風呂とトイレが別々なのも良い。お風呂はとても広く快適。」
                   </blockquote>
                 </div>
               </div>

@@ -253,7 +253,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. ビジネスホテル　河上</td>
                 <td className="p-3 text-stone-600">三重県熊野市井戸町446-15</td>
-                <td className="p-3 text-stone-600">熊野市駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ熊野市駅 徒歩５分／大泊IC下車～国道42号線 新宮方面 約10分</td>
                 <td className="p-3 text-stone-600">有り　５０台　無料  予約不要　但し大型車の場合は予約が必要になります</td>
                 <td className="p-3 font-bold text-amber-600">★3.92（278件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,300〜</td>
@@ -262,7 +262,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 里創人　熊野倶楽部</td>
                 <td className="p-3 text-stone-600">三重県 熊野市久生屋町1430</td>
-                <td className="p-3 text-stone-600">ＪＲ 熊野市駅よりお車で10分／送迎バス有り 【熊野古道まで車で15分</td>
+                <td className="p-3 text-stone-600">ＪＲ 熊野市駅よりお車で10分／送迎バス有り 【熊野古道まで車で15分】</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.55（1098件）</td>
                 <td className="p-3 font-bold text-rose-600">¥20,300〜</td>
@@ -271,7 +271,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. ホテル　季の座</td>
                 <td className="p-3 text-stone-600">三重県北牟婁郡紀北町東長島3043-4</td>
-                <td className="p-3 text-stone-600">紀伊長島駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ紀伊長島駅送迎バス１０分／紀勢自動車道紀勢・紀伊長島ＩＣより約6.5km</td>
                 <td className="p-3 text-stone-600">有　１００台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.42（912件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,776〜</td>
@@ -300,7 +300,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　５０台　無料  予約不要　但し大型車の場合は予約が必要になります</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事は美味しく立地も良いが隣室の音が響く夕飯、とても美味しかったです(^_^)。海岸線に近く観光スポットへのアクセスも良好。部屋の壁が薄いのか隣室の声が聞こえて来るのがマイナス。…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事は美味しく立地も良いが隣室の音が響く夕飯、とても美味しかったです(^_^)。海岸線に近く観光スポットへのアクセスも良好。部屋の壁が薄いのか隣室の声が聞こえて来るのがマイナス。」
                   </blockquote>
                 </div>
               </div>
@@ -322,7 +322,7 @@ export default function MicroTouristHubPage() {
                   <p>【三重・熊野＆尾鷲・鬼ヶ城：世界遺産鬼ヶ城・獅子岩＆熊】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「お部屋のアップグレードに母も大喜び母の療養をするための旅行でした。お部屋のランクをご厚意で上げていただき、本当にゆっくりできました。母もとても喜んでいて、完治した際はまた宿泊したいと思います。…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「お部屋のアップグレードに母も大喜び母の療養をするための旅行でした。お部屋のランクをご厚意で上げていただき、本当にゆっくりできました。母もとても喜んでいて、完治した際はまた宿泊したいと思います。」
                   </blockquote>
                 </div>
               </div>
@@ -344,7 +344,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有　１００台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「野生の鹿に子供も大喜び、炭火の干物も絶品景色など野生のシカがいてのどかでした!野生の鹿がいたのは子供が喜んでました!朝ごはんの干物を炭火で焼くのはとても美味しかったです!クチコミの詳細…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「野生の鹿に子供も大喜び、炭火の干物も絶品景色など野生のシカがいてのどかでした!野生の鹿がいたのは子供が喜んでました!朝ごはんの干物を炭火で焼くのはとても美味しかったです!」
                   </blockquote>
                 </div>
               </div>

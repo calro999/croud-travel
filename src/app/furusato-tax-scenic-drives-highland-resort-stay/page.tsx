@@ -338,7 +338,7 @@ export default function FurusatoUpgradedPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. ＥＮ　ＲＥＳＯＲＴ　Ｇｒａｎｄｅｃｏ　Ｈｏｔｅｌ（エンリゾート　グランデコ）</td>
                 <td className="p-3 text-stone-600">福島県耶麻郡北塩原村桧原荒砂沢山1082〔会津裏磐梯〕</td>
-                <td className="p-3 text-stone-600">猪苗代</td>
+                <td className="p-3 text-stone-600">磐越道「猪苗代磐梯高原ＩＣ」より、裏磐梯方面へお車で約２０分後、五色沼交差点より約１５分★ＪＲ猪苗代駅直通シャトルバス有</td>
                 <td className="p-3 text-stone-600">有り　100台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.43（1642件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,400〜</td>
@@ -365,7 +365,7 @@ export default function FurusatoUpgradedPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. グランドプリンスホテル大阪ベイ</td>
                 <td className="p-3 text-stone-600">大阪府大阪市住之江区南港北１丁目１３－１１</td>
-                <td className="p-3 text-stone-600">中ふ頭（大阪）</td>
+                <td className="p-3 text-stone-600">ニュートラムポートタウン線「中ふ頭駅」徒歩３分。無料送迎バスの運行有。</td>
                 <td className="p-3 text-stone-600">有り　約330台　2025年4月7日より　宿泊者有料１泊1000円（15：00まで）</td>
                 <td className="p-3 font-bold text-amber-600">★4.59（2887件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,464〜</td>
@@ -395,7 +395,7 @@ export default function FurusatoUpgradedPage() {
               <h4 className="text-sm font-bold text-stone-900">2. 宮古島東急ホテル＆リゾーツ＜宮古島＞（沖縄県・4.57）</h4>
               <p><strong>【特徴】</strong>東京（羽田空港）より直行便が就航しております。</p>
               <p><strong>【交通・駐車場】</strong>宮古空港より車で13分 ／ 駐車場：有り　215台　　無料</p>
-              <p className="italic text-stone-600">💬 宿泊者レビュー：「ハイハイできる畳の部屋とプールが最高畳のお部屋で、7ヶ月時がハイハイできる場所があってよかったです。お兄ちゃんたちもプール、ビーチが近くてチェックアウトギリギリまで楽しめましたクチコミの詳細は…」</p>
+              <p className="italic text-stone-600">💬 宿泊者レビュー：「ハイハイできる畳の部屋とプールが最高畳のお部屋で、7ヶ月時がハイハイできる場所があってよかったです。お兄ちゃんたちもプール、ビーチが近くてチェックアウトギリギリまで楽しめました」</p>
             </div>
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-200 space-y-2 text-xs text-stone-700 leading-relaxed">
               <h4 className="text-sm font-bold text-stone-900">3. 京都ブライトンホテル（・4.78）</h4>

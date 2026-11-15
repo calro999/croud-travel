@@ -353,39 +353,7 @@ export default function Page() {
             </Link>
           </div>
         </section>
-        <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
-          <div className="flex items-center gap-3 mb-6">
-            <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】高千穂 旅館 神仙を拠点にするおすすめ滞在モデルコース</h2>
-          </div>
-          <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
-            <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
-              <div className="flex items-center gap-2">
-                <span className="bg-amber-600 text-white text-xs font-bold px-2.5 py-1 rounded">1日目</span>
-                <h3 className="font-bold text-stone-900 text-base md:text-lg">到着〜チェックインと名湯巡り</h3>
-              </div>
-              <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
-                <li>・<strong className="text-stone-800">14:00〜</strong> 高千穂駅よりアクセス。高千穂バスセンターよりタクシーで５分／九州自動車道 松橋ＩＣより車で約１００分。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「高千穂 旅館 神仙」にチェックイン。＜クチコミ総合4.8＞最高の心のおもてなしと至福のひと時などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「高千穂 旅館 神仙」の湯処へ。＜クチコミ総合4.8＞最高の心のおもてなしと至福のひと時とともに、夕暮れの特別な寛ぎを満喫。</li>
-                <li>・<strong className="text-stone-800">19:00〜</strong> 「高千穂 旅館 神仙」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
-              </ul>
-            </div>
-            <div className="border-l-2 border-teal-500 pl-4 md:pl-6 space-y-4">
-              <div className="flex items-center gap-2">
-                <span className="bg-teal-600 text-white text-xs font-bold px-2.5 py-1 rounded">2日目</span>
-                <h3 className="font-bold text-stone-900 text-base md:text-lg">爽快な朝湯〜周辺散策と帰路へ</h3>
-              </div>
-              <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
-                <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「高千穂 旅館 神仙」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
-                <li>・<strong className="text-stone-800">08:00〜</strong> 「高千穂 旅館 神仙」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「ホテル高千穂」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
-              </ul>
-            </div>
-          </div>
-        </section>
-
-        {/* FAQ Section */}
+                {/* FAQ Section */}
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
@@ -429,49 +397,49 @@ export default function Page() {
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">あわせて読みたい人気特集＆全国エリアガイド</h2>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
-            <a href="/silver-week-glamping-hokkaido-sapporo-furano-guide/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/winter-miyazaki-hyuga-umagase-sea-cross-iseebi-miyazakigyu-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">北海道シルバーウィーク グランピング：札幌・富良野・トマム！秋晴れの爽快リゾートヴィラ</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">日向岬「馬ヶ背」断崖絶壁と「クルスの海」新春祈願！ 冬旬「日向灘伊勢海老」＆宮崎牛・延岡名宿5選</span>
             </a>
-            <a href="/winter-hokkaido-jozankei-onsen-snow-keikoku-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/winter-miyazaki-nichinan-udo-shrine-hatsumode-iseebi-wagyu-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12月定山渓温泉の雪渓谷美と名湯】札幌の奥座敷・ナトリウム塩化物泉と道産和牛＆北海道冬の三大蟹会席の宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">冬の鵜戸神宮新春開運初詣＆日南海岸絶景ドライブ！ 名物伊勢海老・極上宮崎牛と日南温泉名宿5選</span>
             </a>
-            <a href="/winter-hokkaido-otaru-canal-illumination-sushi-asarigawa-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/winter-toyama-shogawa-onsen-snow-cruise-crab-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12月北海道・小樽の青の運河イルミネーションと朝里川雪見露天】小樽前浜極上寿司＆道産牛会席を味わう冬の運河・温泉名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12月富山・庄川温泉郷】 雪見庄川峡遊覧船と富山湾紅ズワイガニ・寒ブリ・白えびの宿5選</span>
             </a>
-            <a href="/winter-hokkaido-sounkyo-onsen-snow-gorge-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/autumn-budget-miyazaki-takachiho-gourmet-hotels-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12月北海道・層雲峡温泉の初冬峡谷美と大雪山雪見露天】名湯硫黄泉＆上川十勝牛・オホーツク冬海鮮会席の宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「宮崎」高千穂峡紅葉＆本場チキン南蛮を満喫！2,000円台〜泊まれる格安・高コスパ宿5選</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
             <div className="flex flex-wrap gap-2">
               <Link
-                href="/prefectures/shimane/"
+                href="/prefectures/miyazaki/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                島根県の宿・温泉
+                宮崎県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/ibaraki/"
+                href="/prefectures/fukuoka/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                茨城県の宿・温泉
+                福岡県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/kyoto/"
+                href="/prefectures/oita/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                京都府の宿・温泉
+                大分県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/nara/"
+                href="/prefectures/kumamoto/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                奈良県の宿・温泉
+                熊本県の宿・温泉
               </Link>
             </div>
           </div>
@@ -507,7 +475,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 高千穂　旅館　神仙</td>
                 <td className="p-3 text-stone-600">宮崎県西臼杵郡高千穂町三田井1127-5</td>
-                <td className="p-3 text-stone-600">高千穂バスセンターよりタクシーで５分／九州自動車道　松橋ＩＣより車で約</td>
+                <td className="p-3 text-stone-600">高千穂バスセンターよりタクシーで５分／九州自動車道 松橋ＩＣより車で約１００分</td>
                 <td className="p-3 text-stone-600">有　２０台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.79（244件）</td>
                 <td className="p-3 font-bold text-rose-600">¥49,500〜</td>
@@ -516,7 +484,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. ホテル高千穂</td>
                 <td className="p-3 text-stone-600">宮崎県西臼杵郡高千穂町三田井1037-4</td>
-                <td className="p-3 text-stone-600">延岡駅周辺</td>
+                <td className="p-3 text-stone-600">熊本ICから南阿蘇経由で１時間半。阿蘇～高千穂周遊もおすすめ！延岡ICから４５分 高千穂峡から徒歩13分</td>
                 <td className="p-3 text-stone-600">必ず停めれて出入り自由。料金無料予約不要。正面以外に地下駐車場もございます。大型バスも可能（要予約）</td>
                 <td className="p-3 font-bold text-amber-600">★4.45（819件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,700〜</td>
@@ -525,7 +493,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. ソレスト高千穂ホテル</td>
                 <td className="p-3 text-stone-600">宮崎県西臼杵郡高千穂町三田井1261-1</td>
-                <td className="p-3 text-stone-600">延岡駅周辺</td>
+                <td className="p-3 text-stone-600">■高千穂神社まで徒歩約5分。高千穂バスセンターより徒歩約8分。延岡駅よりお車にて約１時間</td>
                 <td className="p-3 text-stone-600">有り　５５台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4（299件）</td>
                 <td className="p-3 font-bold text-rose-600">¥14,160〜</td>
@@ -576,7 +544,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>必ず停めれて出入り自由。料金無料予約不要。正面以外に地下駐車場もございます。大型バスも可能（要予約）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.44 ／ 立地 ★4.52 ／ 部屋 ★4.31 ／ 設備 ★4.31 ／ 風呂 ★4.18 ／ 食事 ★4.43</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「高千穂峡や神社へ徒歩圏内、食事も大満足お盆の最中に家族3人で伺いました。場所は高千穂峡と高千穂神社の間で、どちらにも歩いて行けます。ただし高千穂峡は15分から20分くらいはかかるかも。高千穂神…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「高千穂峡や神社へ徒歩圏内、食事も大満足お盆の最中に家族3人で伺いました。場所は高千穂峡と高千穂神社の間で、どちらにも歩いて行けます。ただし高千穂峡は15分から20分くらいはかかるかも。」
                   </blockquote>
                 </div>
               </div>

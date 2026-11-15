@@ -118,7 +118,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F56278%2F56278.html%26f_flg%3DPLAN",
     "hotelMinCharge": 0,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/56278/56278.jpg",
-    "userReview": "日奈久温泉　あたらし屋旅館ならではの立地と落ち着いた空間で、ゆったりとした滞在を楽しめたという声が寄せられています。",
+    "userReview": "日奈久温泉 あたらし屋旅館ならではの立地と落ち着いた空間で、ゆったりとした滞在を楽しめたという声が寄せられています。",
     "reviewAverage": 4.13,
     "reviewCount": 92,
     "address": "熊本県八代市日奈久中町283",
@@ -284,7 +284,7 @@ export default function Page() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 松本駅お城口から浅間温泉行きバスに乗車（約１時間に１便 ）湯坂下車徒歩５分で現地へ到着。</li>
                 <li>・<strong className="text-stone-800">15:30〜</strong> 「浅間温泉 かけ流し温泉の宿 栄の湯旅館」へチェックイン。落ち着いた空間で旅の荷を解き、ゆったりとした時間をスタート。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「浅間温泉 かけ流し温泉の宿 栄の湯旅館」の湯処へ。日頃の疲れを癒やす湯浴みとともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「浅間温泉 かけ流し温泉の宿 栄の湯旅館」の自慢の湯処へ。温かな湯気と落ち着いた雰囲気に癒やされながら、夕食前の贅沢なひとときを過ごす。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「浅間温泉 かけ流し温泉の宿 栄の湯旅館」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -296,7 +296,7 @@ export default function Page() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「浅間温泉 かけ流し温泉の宿 栄の湯旅館」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「浅間温泉 かけ流し温泉の宿 栄の湯旅館」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「酸ヶ湯温泉旅館」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は「浅間温泉 かけ流し温泉の宿 栄の湯旅館」周辺の観光スポットや地元の名産店に立ち寄り、ご当地のお土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>
@@ -424,7 +424,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 浅間温泉　かけ流し温泉の宿　栄の湯旅館</td>
                 <td className="p-3 text-stone-600">長野県松本市浅間温泉3-4-12</td>
-                <td className="p-3 text-stone-600">松本駅お城口から浅間温泉行きバスに乗車（約１時間に１便　）湯坂下車徒歩</td>
+                <td className="p-3 text-stone-600">松本駅お城口から浅間温泉行きバスに乗車（約１時間に１便 ）湯坂下車徒歩５分</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.35（341件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,150〜</td>
@@ -433,7 +433,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 酸ヶ湯温泉旅館</td>
                 <td className="p-3 text-stone-600">青森県青森市荒川字南荒川山国有林小字酸湯沢50</td>
-                <td className="p-3 text-stone-600">青森駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ 青森駅より十和田湖行ＪＲバスで７０分</td>
                 <td className="p-3 text-stone-600">有り　１５０台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.4（1560件）</td>
                 <td className="p-3 font-bold text-rose-600">¥12,100〜</td>
@@ -442,7 +442,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 戸倉上山田温泉　有田屋旅館</td>
                 <td className="p-3 text-stone-600">長野県千曲市上山田温泉1-69-1</td>
-                <td className="p-3 text-stone-600">戸倉駅周辺</td>
+                <td className="p-3 text-stone-600">長野駅より30分 上田駅より20分 更埴ICより20分 しなの鉄道戸倉駅より徒歩20分※送迎あり要予約</td>
                 <td className="p-3 text-stone-600">有り　６台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.86（121件）</td>
                 <td className="p-3 font-bold text-rose-600">¥9,900〜</td>
@@ -460,7 +460,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 三朝温泉　旅館　大橋</td>
                 <td className="p-3 text-stone-600">鳥取県東伯郡三朝町三朝302-1</td>
-                <td className="p-3 text-stone-600">JR山陰本線-倉吉駅下車～バス20分／中国道-院庄ICよりＲ１７９号を</td>
+                <td className="p-3 text-stone-600">JR山陰本線-倉吉駅下車～バス20分／中国道-院庄ICよりＲ１７９号を倉吉方面に約50分/ANA羽田～鳥取～バス～倉吉</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.42（278件）</td>
                 <td className="p-3 font-bold text-rose-600">¥14,300〜</td>
@@ -489,7 +489,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「建物は古いが清潔、温泉と食事に大満足 宿泊された皆さんが言われる様に建物はねんきが入っていますが、清潔で管理されていました 今回2階でしたが畳新しく水廻り新しい感じです移動に階段の上り下りが結…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「建物は古いが清潔、温泉と食事に大満足 宿泊された皆さんが言われる様に建物はねんきが入っていますが、清潔で管理されていました 今回2階でしたが畳新しく水廻り新しい感じです移動に階段の上り下りが結。」
                   </blockquote>
                 </div>
               </div>
@@ -511,7 +511,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１５０台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.32 ／ 立地 ★4.43 ／ 部屋 ★4.09 ／ 設備 ★4.14 ／ 風呂 ★4.65 ／ 食事 ★4.29</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ピカイチの泉質と濃厚な硫黄泉に大満足湯治館で湯治食のプランで滞在。洗面、トイレ共同のめちゃくちゃ昭和スタイルなお部屋(笑)。しかしこちらの醍醐味は温泉で、ピカイチの泉質にヒノキ作りの浴槽。天下…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ピカイチの泉質と濃厚な硫黄泉に大満足湯治館で湯治食のプランで滞在。洗面、トイレ共同のめちゃくちゃ昭和スタイルなお部屋(笑)。しかしこちらの醍醐味は温泉で、ピカイチの泉質にヒノキ作りの浴槽。」
                   </blockquote>
                 </div>
               </div>
@@ -533,7 +533,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　６台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.9 ／ 立地 ★4.64 ／ 部屋 ★4.76 ／ 設備 ★4.59 ／ 風呂 ★4.86 ／ 食事 ★4.83</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「レトロな空間と絶品料理、心温まるおもてなし夏の信州ひとり旅で、伺いました。建物自体には歴史があり昭和レトロな雰囲気ですが、どこも清潔に保たれており、かえってとても落ち着く空間でした。食事は…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「レトロな空間と絶品料理、心温まるおもてなし夏の信州ひとり旅で、伺いました。建物自体には歴史があり昭和レトロな雰囲気ですが、どこも清潔に保たれており、かえってとても落ち着く空間でした。」
                   </blockquote>
                 </div>
               </div>
@@ -577,7 +577,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「重要文化財の佇まいと最高の泉質に感動重要文化財の宿の廊下を歩いてると、外を歩いてる人々がカメラにおさめてました。正面玄関カッちょいーです。なんといってもお風呂!洞窟みたいなお風呂もさること…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「重要文化財の佇まいと最高の泉質に感動重要文化財の宿の廊下を歩いてると、外を歩いてる人々がカメラにおさめてました。正面玄関カッちょいーです。なんといってもお風呂!」
                   </blockquote>
                 </div>
               </div>

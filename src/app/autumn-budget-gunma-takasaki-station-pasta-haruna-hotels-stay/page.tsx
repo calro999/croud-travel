@@ -401,7 +401,7 @@ export default function AutumnBudgetHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 高崎駅前プラザホテル　慈光通り（ＢＢＨホテルグループ）</td>
                 <td className="p-3 text-stone-600">群馬県高崎市通町4</td>
-                <td className="p-3 text-stone-600">高崎駅周辺</td>
+                <td className="p-3 text-stone-600">JR高崎駅西口より徒歩7分、関越道高崎インターより車で約20分。徒歩3分にコンビニ有り。フロントは3Ｆにございます。</td>
                 <td className="p-3 text-stone-600">無し　近隣駐車場ご案内　有料</td>
                 <td className="p-3 font-bold text-amber-600">★3.44（1499件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,000〜</td>
@@ -410,7 +410,7 @@ export default function AutumnBudgetHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. ホテルルートイン高崎駅西口</td>
                 <td className="p-3 text-stone-600">群馬県高崎市旭町128-4</td>
-                <td className="p-3 text-stone-600">高崎駅周辺</td>
+                <td className="p-3 text-stone-600">上越新幹線高崎駅から徒歩で10分 高崎インターより車で約15分</td>
                 <td className="p-3 text-stone-600">有り:無料　ただし、大型車(２Tトラック以上、またはレントゲン車、積載車)は有料となります。</td>
                 <td className="p-3 font-bold text-amber-600">★3.4（544件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,250〜</td>
@@ -419,7 +419,7 @@ export default function AutumnBudgetHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. アパホテル〈高崎駅前〉</td>
                 <td className="p-3 text-stone-600">群馬県高崎市八島町232-8</td>
-                <td className="p-3 text-stone-600">高崎駅周辺</td>
+                <td className="p-3 text-stone-600">JR高崎駅西口から徒歩１分！（デッキ直結）高崎アリーナまで徒歩約８分！Ｇメッセ群馬にも車で約10分！</td>
                 <td className="p-3 text-stone-600">1階にコインパーキングあり。当館には提携している駐車場はございません。</td>
                 <td className="p-3 font-bold text-amber-600">★4.12（5786件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,230〜</td>
@@ -428,7 +428,7 @@ export default function AutumnBudgetHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. ニュー赤城＜高崎駅前＞</td>
                 <td className="p-3 text-stone-600">群馬県高崎市通町46</td>
-                <td className="p-3 text-stone-600">高崎駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ高崎駅・新幹線高崎駅より徒歩5分／関越自動車道・高崎ＩＣ～お車で２０分（シングル14平米）</td>
                 <td className="p-3 text-stone-600">有り　7台　５００円（税込／泊）　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★3.4（1325件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,100〜</td>
@@ -437,7 +437,7 @@ export default function AutumnBudgetHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. アパホテル＜高崎駅東口＞２０２６年１１月２日ＯＰＥＮ</td>
                 <td className="p-3 text-stone-600">群馬県高崎市東町48-6</td>
-                <td className="p-3 text-stone-600">高崎駅周辺</td>
+                <td className="p-3 text-stone-600">上越新幹線・北陸新幹線・JR各線・上信電鉄「高崎駅」（東口）より徒歩6分</td>
                 <td className="p-3 text-stone-600">近隣コインパーキングのご利用をお願いいたします。【ココパルク800　料金：1,000円／24H】</td>
                 <td className="p-3 font-bold text-amber-600">★4.23（13件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,780〜</td>
@@ -488,7 +488,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り:無料　ただし、大型車(２Tトラック以上、またはレントゲン車、積載車)は有料となります。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.56 ／ 立地 ★3.33 ／ 部屋 ★3.42 ／ 設備 ★3.34 ／ 風呂 ★3.52 ／ 食事 ★3.51</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食や大浴場は満足だが階段の清掃が残念2泊しましたが朝食の内容が少し違っていて良かったです。大浴場があるのもうれしかったです。部屋も広くてゆっくりできました。駅から遠いのとコンビニや飲…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食や大浴場は満足だが階段の清掃が残念2泊しましたが朝食の内容が少し違っていて良かったです。大浴場があるのもうれしかったです。部屋も広くてゆっくりできました。」
                   </blockquote>
                 </div>
               </div>

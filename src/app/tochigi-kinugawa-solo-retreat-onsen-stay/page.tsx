@@ -338,8 +338,8 @@ export default function ArticlePage() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 鬼怒川温泉駅よりアクセス。東北自動車道宇都宮ICから宇都宮・日光有料道路今市IC下車R121より30分。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「鬼怒川温泉 ホテルサンシャイン鬼怒川」にチェックイン。『でっかい。けど、あったかい。』これが、宿のスローガン！鬼怒川立岩は眼前☆全室渓谷沿いで風光明媚♪などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「鬼怒川温泉 ホテルサンシャイン鬼怒川」の湯処へ。『でっかい。けど、あったかい。』これが、宿のスローガン！鬼怒川立岩は眼とともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「鬼怒川温泉 ホテルサンシャイン鬼怒川」にチェックイン。『でっかい。けど、あったかい。』これが、宿のスローガン！鬼怒川立岩は眼前☆全室渓谷沿いで風光明媚♪ 館内の設えを確かめながら、これからの滞在に備えてゆっくり休息する。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「鬼怒川温泉 ホテルサンシャイン鬼怒川」の大浴場・露天風呂へ。日暮れの静けさの中で湯に浸かり、旅の緊張をゆっくりと解きほぐす。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「鬼怒川温泉 ホテルサンシャイン鬼怒川」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -351,7 +351,7 @@ export default function ArticlePage() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「鬼怒川温泉 ホテルサンシャイン鬼怒川」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「鬼怒川温泉 ホテルサンシャイン鬼怒川」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「鬼怒川温泉 鬼怒川グランドホテル 夢の季」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は「鬼怒川温泉 ホテルサンシャイン鬼怒川」周辺の観光スポットや地元の名産店に立ち寄り、ご当地のお土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>
@@ -388,28 +388,28 @@ export default function ArticlePage() {
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
             <div className="flex flex-wrap gap-2">
               <Link
+                href="/prefectures/tochigi/"
+                className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
+              >
+                栃木県の宿・温泉
+              </Link>
+              <Link
                 href="/prefectures/tokyo/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 東京都の宿・温泉
               </Link>
               <Link
-                href="/prefectures/yamaguchi/"
+                href="/prefectures/kanagawa/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                山口県の宿・温泉
+                神奈川県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/fukuoka/"
+                href="/prefectures/chiba/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                福岡県の宿・温泉
-              </Link>
-              <Link
-                href="/prefectures/shizuoka/"
-                className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
-              >
-                静岡県の宿・温泉
+                千葉県の宿・温泉
               </Link>
             </div>
           </div>
@@ -445,7 +445,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 鬼怒川温泉　ホテルサンシャイン鬼怒川</td>
                 <td className="p-3 text-stone-600">栃木県日光市鬼怒川温泉大原1437-1</td>
-                <td className="p-3 text-stone-600">鬼怒川温泉駅周辺</td>
+                <td className="p-3 text-stone-600">東北自動車道宇都宮ICから宇都宮・日光有料道路今市IC下車R121より30分</td>
                 <td className="p-3 text-stone-600">有り　100台　無料（先着順）</td>
                 <td className="p-3 font-bold text-amber-600">★4.16（2149件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,250〜</td>
@@ -454,7 +454,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 鬼怒川温泉　鬼怒川グランドホテル　夢の季（ゆめのとき）</td>
                 <td className="p-3 text-stone-600">栃木県日光市鬼怒川温泉大原1021</td>
-                <td className="p-3 text-stone-600">鬼怒川温泉駅周辺</td>
+                <td className="p-3 text-stone-600">鬼怒川温泉駅より徒歩8分／日光・宇都宮有料道路今市ＩＣより車で20分</td>
                 <td className="p-3 text-stone-600">有　無料先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.5（781件）</td>
                 <td className="p-3 font-bold text-rose-600">¥16,300〜</td>
@@ -463,7 +463,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 鬼怒川温泉ホテル</td>
                 <td className="p-3 text-stone-600">栃木県日光市鬼怒川温泉滝545</td>
-                <td className="p-3 text-stone-600">鬼怒川温泉駅周辺</td>
+                <td className="p-3 text-stone-600">東武「浅草駅」、ＪＲ「新宿駅」より特急で約2時間、「鬼怒川温泉駅」下車。ダイヤルバスにて約７分。</td>
                 <td className="p-3 text-stone-600">有130台（無料）※専用駐車場に移動させていただきます。ご自身で移動希望の方は係にお伝えください。</td>
                 <td className="p-3 font-bold text-amber-600">★4.54（4038件）</td>
                 <td className="p-3 font-bold text-rose-600">¥17,050〜</td>
@@ -514,7 +514,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有　無料先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.58 ／ 立地 ★4.35 ／ 部屋 ★4.53 ／ 設備 ★4.4 ／ 風呂 ★4.48 ／ 食事 ★4.62</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「価格以上の満足感、料理もお風呂も最高価格がかなり割引になっていたので、決めました。鬼怒川は以前働いていたので、よく知っているので高級ホテルと言う事は知っていました。料理もお風呂も満足です…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「価格以上の満足感、料理もお風呂も最高価格がかなり割引になっていたので、決めました。鬼怒川は以前働いていたので、よく知っているので高級ホテルと言う事は知っていました。」
                   </blockquote>
                 </div>
               </div>
@@ -536,7 +536,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有130台（無料）※専用駐車場に移動させていただきます。ご自身で移動希望の方は係にお伝えください。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「混雑時もスタッフが多く快適、サービスも充実盆明けであるがやや混んでいた。その分スタッフも多く利用に問題なかった。ウェルカムサービスもよく、1日ホテルにいても問題ないと思う。クチコミの詳細は…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「混雑時もスタッフが多く快適、サービスも充実盆明けであるがやや混んでいた。その分スタッフも多く利用に問題なかった。ウェルカムサービスもよく、1日ホテルにいても問題ないと思う。」
                   </blockquote>
                 </div>
               </div>

@@ -384,7 +384,7 @@ export default function AutumnBudgetAkitaStationHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. ＥＮ　ＨＯＴＥＬ　Ａｋｉｔａ</td>
                 <td className="p-3 text-stone-600">秋田県秋田市大町2-2-41</td>
-                <td className="p-3 text-stone-600">秋田駅周辺</td>
+                <td className="p-3 text-stone-600">JR秋田駅より徒歩14分、タクシーで5分、秋田空港リムジンバスはホテル目の前に発着！</td>
                 <td className="p-3 text-stone-600">あり　64台　1泊あたり1,000円(税込)　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.22（1155件）</td>
                 <td className="p-3 font-bold text-rose-600">¥2,800〜</td>
@@ -393,7 +393,7 @@ export default function AutumnBudgetAkitaStationHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. リッチモンドホテル秋田駅前</td>
                 <td className="p-3 text-stone-600">秋田県秋田市中通2-2-26</td>
-                <td className="p-3 text-stone-600">秋田駅周辺</td>
+                <td className="p-3 text-stone-600">◆ＪＲ秋田駅より徒歩7分◆秋田中央ＩＣより（秋田駅方面へ）車で20分◆秋田空港から秋田駅までリムジンバスで40分</td>
                 <td className="p-3 text-stone-600">先着順４６台　１泊１，０００円（税込）　満車時は近隣駐車場で現地精算をお願いします。</td>
                 <td className="p-3 font-bold text-amber-600">★4.41（3896件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,000〜</td>
@@ -402,7 +402,7 @@ export default function AutumnBudgetAkitaStationHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 東横ＩＮＮ秋田駅東口</td>
                 <td className="p-3 text-stone-600">秋田県秋田市東通仲町４－１</td>
-                <td className="p-3 text-stone-600">秋田駅周辺</td>
+                <td className="p-3 text-stone-600">ＪR奥羽本線・秋田新幹線秋田駅中央改札から直結徒歩2分、秋田空港リムジンバス停からも徒歩5分！</td>
                 <td className="p-3 text-stone-600">有り　１００台　夕方3時から明朝１０時迄、５２０円（税込み／泊）　出し入れ不可 高さ制限2.3M</td>
                 <td className="p-3 font-bold text-amber-600">★3.98（1662件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,618〜</td>
@@ -453,7 +453,7 @@ export default function AutumnBudgetAkitaStationHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>先着順４６台　１泊１，０００円（税込）　満車時は近隣駐車場で現地精算をお願いします。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.47 ／ 立地 ★4.33 ／ 部屋 ★4.44 ／ 設備 ★4.36 ／ 風呂 ★4.27 ／ 食事 ★4.42</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「秋田らしい雰囲気と充実のアメニティに満足お部屋も広く、とても寛げました。ロビーも秋田らしいしつらえで、なまはげや竿燈の飾りも気に入りました。アメニティか充実していて嬉しかったです。禁煙のお部屋が増…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「秋田らしい雰囲気と充実のアメニティに満足お部屋も広く、とても寛げました。ロビーも秋田らしいしつらえで、なまはげや竿燈の飾りも気に入りました。アメニティか充実していて嬉しかったです。」
                   </blockquote>
                 </div>
               </div>
@@ -475,7 +475,7 @@ export default function AutumnBudgetAkitaStationHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１００台　夕方3時から明朝１０時迄、５２０円（税込み／泊）　出し入れ不可 高さ制限2.3M</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.96 ／ 立地 ★4.04 ／ 部屋 ★4.03 ／ 設備 ★3.98 ／ 風呂 ★3.85 ／ 食事 ★3.83</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「なまはげバッヂが可愛い2泊しましたなまはげデザインの元気バッヂが可愛かったです秋田県の東横インは秋田駅東口の1店舗のみバッヂが買えてよかったです(しばらく品切れだったのが再販していた)…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「なまはげバッヂが可愛い2泊しましたなまはげデザインの元気バッヂが可愛かったです秋田県の東横インは秋田駅東口の1店舗のみバッヂが買えてよかったです(しばらく品切れだったのが再販していた)。」
                   </blockquote>
                 </div>
               </div>

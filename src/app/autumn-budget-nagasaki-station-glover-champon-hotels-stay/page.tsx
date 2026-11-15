@@ -401,7 +401,7 @@ export default function AutumnBudgetHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. Ｃｏｒｕｓｃａｎｔ　Ｈｏｔｅｌ　長崎駅３</td>
                 <td className="p-3 text-stone-600">長崎県長崎市筑後町1-1</td>
-                <td className="p-3 text-stone-600">長崎（長崎）駅周辺</td>
+                <td className="p-3 text-stone-600">長崎駅より徒歩約9分</td>
                 <td className="p-3 text-stone-600">1日1室限定の駐車場付きプランをご用意しております。◆◇ご予約はお早めに◇◆</td>
                 <td className="p-3 font-bold text-amber-600">★4.5（139件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,600〜</td>
@@ -428,7 +428,7 @@ export default function AutumnBudgetHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. グランドベース長崎駅前</td>
                 <td className="p-3 text-stone-600">長崎県長崎市西坂町7-1</td>
-                <td className="p-3 text-stone-600">長崎（長崎）駅周辺</td>
+                <td className="p-3 text-stone-600">JR長崎駅から徒歩5分。新地中華街からはバスで5分、長崎空港からはリムジンバスで43分で到着。</td>
                 <td className="p-3 text-stone-600">無し。近隣の有料コインパーキングをご利用ください。</td>
                 <td className="p-3 font-bold text-amber-600">★4.13（46件）</td>
                 <td className="p-3 font-bold text-rose-600">¥2,600〜</td>
@@ -437,7 +437,7 @@ export default function AutumnBudgetHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. アパホテル〈長崎駅前〉</td>
                 <td className="p-3 text-stone-600">長崎県長崎市大黒町2-1</td>
-                <td className="p-3 text-stone-600">長崎（長崎）駅周辺</td>
+                <td className="p-3 text-stone-600">JR「長崎駅」（東口）徒歩4分、路面電車・空港バス「長崎駅前」徒歩2分、県営バスターミナル隣</td>
                 <td className="p-3 text-stone-600">駐車場なし。周辺有料駐車場の場所をご案内対応となります。</td>
                 <td className="p-3 font-bold text-amber-600">★3.91（1217件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,500〜</td>
@@ -466,7 +466,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>1日1室限定の駐車場付きプランをご用意しております。◆◇ご予約はお早めに◇◆</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.37 ／ 立地 ★4.43 ／ 部屋 ★4.51 ／ 設備 ★4.49 ／ 風呂 ★4.32</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「洗濯機と浴室乾燥機が便利、ゆっくり寛げた仕事の出張で利用しました。会社の同僚や先輩から、オススメとのことでしたので利用しました。他のホテルだと洗濯にちょっと悩みますが、洗濯機と浴室乾燥機があっ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「洗濯機と浴室乾燥機が便利、ゆっくり寛げた仕事の出張で利用しました。会社の同僚や先輩から、オススメとのことでしたので利用しました。」
                   </blockquote>
                 </div>
               </div>
@@ -510,7 +510,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>1階はコインパーキング(普通車3台・小型2台・軽1台)　※管理外ですので空車情報は不明。有料です。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.24 ／ 立地 ★4.38 ／ 部屋 ★4.4 ／ 設備 ★4.38 ／ 風呂 ★4.3</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「長期滞在にも最適、設備が充実して快適ワンルームマンションのようなお部屋でした。キッチン(簡単なフライパンや食器もあり)、洗濯機、独立した洗面台と、洗い場付きのお風呂。快適でした。1泊だと勿…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「長期滞在にも最適、設備が充実して快適ワンルームマンションのようなお部屋でした。キッチン(簡単なフライパンや食器もあり)、洗濯機、独立した洗面台と、洗い場付きのお風呂。快適でした。」
                   </blockquote>
                 </div>
               </div>
@@ -532,7 +532,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無し。近隣の有料コインパーキングをご利用ください。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.8 ／ 立地 ★3.53 ／ 部屋 ★4.53 ／ 設備 ★4.13 ／ 風呂 ★4.2</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「案内が不十分でチェックインに苦戦した無人ホテルだが、案内が不十分でチェックインが出来なかったり、無料Wi-Fiの接続方法が分からずに困った。電話で問い合わせてなんとかなったが、遅い時間にチェックイ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「案内が不十分でチェックインに苦戦した無人ホテルだが、案内が不十分でチェックインが出来なかったり、無料Wi-Fiの接続方法が分からずに困った。」
                   </blockquote>
                 </div>
               </div>

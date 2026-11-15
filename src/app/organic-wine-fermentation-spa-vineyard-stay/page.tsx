@@ -76,7 +76,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F142842%2F142842.html%26f_flg%3DPLAN",
     "hotelMinCharge": 6600,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/142842/142842.jpg",
-    "userReview": "絶品夕食とオーシャンビューに大満足!夕食の絶品コース最高すぎました!何を食べても全部美味しかったです!作ってくれた方の手間と愛情をたっぷり受け取りました!",
+    "userReview": "絶品夕食とオーシャンビューに大満足!夕食の絶品コース最高すぎました!何を食べても全部美味しかったです!作ってくれた方の手間と愛情をたっぷり受け取りました!花火大会は残念でしたが、来て良かったです!",
     "reviewAverage": 4.29,
     "reviewCount": 161,
     "address": "福井県坂井市三国町梶26-45-1",
@@ -118,7 +118,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F8166%2F8166.html%26f_flg%3DPLAN",
     "hotelMinCharge": 7150,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/8166/8166.jpg",
-    "userReview": "天橋立温泉　旅館　松月＜京都府＞ならではの立地と落ち着いた空間で、ゆったりとした滞在を楽しめたという声が寄せられています。",
+    "userReview": "天橋立温泉 旅館 松月＜京都府＞ならではの立地と落ち着いた空間で、ゆったりとした滞在を楽しめたという声が寄せられています。",
     "reviewAverage": 4.46,
     "reviewCount": 170,
     "address": "京都府宮津市文珠460",
@@ -283,8 +283,8 @@ export default function Page() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 芦原温泉駅よりアクセス。ＪＲ 芦原温泉駅よりお車にて１０分。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「三国温泉 展望自慢の料理旅館 はれや旅館」にチェックイン。美しいオーシャンビューを独り占め！温泉展望露天風呂と新鮮魚介の会席料理が自慢の全15室の料理宿などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「三国温泉 展望自慢の料理旅館 はれや旅館」の湯処へ。美しいオーシャンビューを独り占め！温泉展望露天風呂と新鮮魚介の会席料理とともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「三国温泉 展望自慢の料理旅館 はれや旅館」にチェックイン。美しいオーシャンビューを独り占め！ まずは客室で移動の疲れをそっと癒やす。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「三国温泉 展望自慢の料理旅館 はれや旅館」の自慢の湯処へ。温かな湯気と落ち着いた雰囲気に癒やされながら、夕食前の贅沢なひとときを過ごす。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「三国温泉 展望自慢の料理旅館 はれや旅館」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -296,7 +296,7 @@ export default function Page() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「三国温泉 展望自慢の料理旅館 はれや旅館」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「三国温泉 展望自慢の料理旅館 はれや旅館」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「信州別所温泉 玉屋旅館」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は「三国温泉 展望自慢の料理旅館 はれや旅館」周辺の観光スポットや地元の名産店に立ち寄り、ご当地のお土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>
@@ -367,28 +367,28 @@ export default function Page() {
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
             <div className="flex flex-wrap gap-2">
               <Link
-                href="/prefectures/ibaraki/"
+                href="/prefectures/kyoto/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                茨城県の宿・温泉
+                京都府の宿・温泉
               </Link>
               <Link
-                href="/prefectures/nagasaki/"
+                href="/prefectures/osaka/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                長崎県の宿・温泉
+                大阪府の宿・温泉
               </Link>
               <Link
-                href="/prefectures/ehime/"
+                href="/prefectures/hyogo/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                愛媛県の宿・温泉
+                兵庫県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/kochi/"
+                href="/prefectures/nara/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                高知県の宿・温泉
+                奈良県の宿・温泉
               </Link>
             </div>
           </div>
@@ -433,7 +433,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 信州別所温泉　玉屋旅館</td>
                 <td className="p-3 text-stone-600">長野県上田市別所温泉227</td>
-                <td className="p-3 text-stone-600">上田（長野）駅周辺</td>
+                <td className="p-3 text-stone-600">北陸新幹線上田駅乗り換え、別所温泉駅より徒歩7分（14時～17時は無料送迎バス有）、上信越道「上田菅平IC」から車30分</td>
                 <td className="p-3 text-stone-600">有り　３０台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.77（670件）</td>
                 <td className="p-3 font-bold text-rose-600">¥26,400〜</td>
@@ -460,7 +460,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 美ヶ原温泉　追分屋旅館</td>
                 <td className="p-3 text-stone-600">長野県松本市里山辺1145</td>
-                <td className="p-3 text-stone-600">松本駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ松本駅よりバスで２０分／松本ＩＣより車で２５分</td>
                 <td className="p-3 text-stone-600">有　３０台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.47（363件）</td>
                 <td className="p-3 font-bold text-rose-600">¥16,500〜</td>
@@ -489,7 +489,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「絶品夕食とオーシャンビューに大満足!夕食の絶品コース最高すぎました!何を食べても全部美味しかったです!作ってくれた方の手間と愛情をたっぷり受け取りました!花火大会は残念でしたが、来て良かったです!…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「絶品夕食とオーシャンビューに大満足!夕食の絶品コース最高すぎました!何を食べても全部美味しかったです!作ってくれた方の手間と愛情をたっぷり受け取りました!花火大会は残念でしたが、来て良かったです!」
                   </blockquote>
                 </div>
               </div>
@@ -511,7 +511,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　３０台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.74 ／ 立地 ★4.48 ／ 部屋 ★4.71 ／ 設備 ★4.66 ／ 風呂 ★4.63 ／ 食事 ★4.79</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「松茸料理と源泉かけ流しの温泉に大満足いつもは蓼科高原に泊まるので、このあたりが松茸の産地だということを昨年知りました。昨年は時期が少し早くてお目にかかれず残念な思いをしたので、今年は是非にと思い松…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「松茸料理と源泉かけ流しの温泉に大満足いつもは蓼科高原に泊まるので、このあたりが松茸の産地だということを昨年知りました。」
                   </blockquote>
                 </div>
               </div>
@@ -533,7 +533,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「道中の小さな看板ででさらに迷ってしまったナビで車で向かったのですが途中で出てくる小さな看板に惑わされ狭い農道をうろうろすること20分 ナビの道に戻ったら何度もゴールがかきかえられドキドキしながら到…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「道中の小さな看板ででさらに迷ってしまったナビで車で向かったのですが途中で出てくる小さな看板に惑わされ狭い農道をうろうろすること20分 ナビの道に戻ったら何度もゴールがかきかえられドキドキしながら到。」
                   </blockquote>
                 </div>
               </div>
@@ -577,7 +577,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有　３０台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ワインセラーは見られず残念だが食事は最高ワインセラーがあるとのことで、ここの旅館に決めました。楽しみにしていたのてすが、夕方着いた時にはすでに閉まっていて、見せてもらうことができませんでした。お願…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ワインセラーは見られず残念だが食事は最高ワインセラーがあるとのことで、ここの旅館に決めました。楽しみにしていたのてすが、夕方着いた時にはすでに閉まっていて、見せてもらうことができませんでした。」
                   </blockquote>
                 </div>
               </div>

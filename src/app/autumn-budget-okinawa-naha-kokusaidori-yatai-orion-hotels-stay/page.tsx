@@ -413,7 +413,7 @@ export default function AutumnBudgetFeaturePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. ホテル　オーシャン（那覇国際通り）</td>
                 <td className="p-3 text-stone-600">沖縄県那覇市安里2-4-8</td>
-                <td className="p-3 text-stone-600">ゆいレール　【牧志駅より徒歩３分】　国際通りにあるので買い物や観光に最</td>
+                <td className="p-3 text-stone-600">ゆいレール 【牧志駅より徒歩３分】 国際通りにあるので買い物や観光に最適です。</td>
                 <td className="p-3 text-stone-600">有料立体駐車場有り。お車の高さ制限(160cm)があります。予約不可・先着順（1泊1,500円）</td>
                 <td className="p-3 font-bold text-amber-600">★4.61（1009件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,800〜</td>
@@ -422,7 +422,7 @@ export default function AutumnBudgetFeaturePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. ダイワロイネットホテル那覇国際通り</td>
                 <td className="p-3 text-stone-600">沖縄県那覇市安里2-1-1</td>
-                <td className="p-3 text-stone-600">那覇空港からゆいレールで約20分、「牧志」駅下車直結、徒歩約1分！！国</td>
+                <td className="p-3 text-stone-600">那覇空港からゆいレールで約20分、「牧志」駅下車直結、徒歩約1分！！国際通りに面しています。</td>
                 <td className="p-3 text-stone-600">当館裏手に提携駐車場（商業施設併設の立体駐車場）へのご案内（先着順：1泊1,500円／税込）</td>
                 <td className="p-3 font-bold text-amber-600">★4.3（1756件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,090〜</td>
@@ -431,7 +431,7 @@ export default function AutumnBudgetFeaturePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. アルファベッドイン那覇国際通りＥＡＳＴ</td>
                 <td className="p-3 text-stone-600">沖縄県那覇市壺屋１-18-46</td>
-                <td className="p-3 text-stone-600">那覇空港駅周辺</td>
+                <td className="p-3 text-stone-600">那覇空港よりゆいレール牧志駅まで約１６分／ 牧志駅徒歩９分／那覇空港車１３分</td>
                 <td className="p-3 text-stone-600">無し</td>
                 <td className="p-3 font-bold text-amber-600">★4.35（217件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,900〜</td>
@@ -440,7 +440,7 @@ export default function AutumnBudgetFeaturePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. ＨＯＴＥＬ　ＴＨＥ　ＣＵＢＥ　那覇国際通り</td>
                 <td className="p-3 text-stone-600">沖縄県那覇市牧志3-13-17</td>
-                <td className="p-3 text-stone-600">ゆいレール「牧志駅」より徒歩１分・国際通りまで徒歩0分♪那覇空港からホ</td>
+                <td className="p-3 text-stone-600">ゆいレール「牧志駅」より徒歩１分・国際通りまで徒歩0分♪那覇空港からホテルまでゆいレールで15分♪</td>
                 <td className="p-3 text-stone-600">無し</td>
                 <td className="p-3 font-bold text-amber-600">★3.89（361件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,400〜</td>
@@ -469,7 +469,7 @@ export default function AutumnBudgetFeaturePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有＊予約制＊1泊1,000円(税込)、2026年2月から￥1200円に改定</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スリッパの外出や清掃方法の改善を希望海外のお客様が館内で履くスリッパのまま外出されていました。入り口のスーツケースのタイヤを拭くタオルが乾いたタオルで拭けている気がしませんでした。コストはかか…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スリッパの外出や清掃方法の改善を希望海外のお客様が館内で履くスリッパのまま外出されていました。入り口のスーツケースのタイヤを拭くタオルが乾いたタオルで拭けている気がしませんでした。」
                   </blockquote>
                 </div>
               </div>
@@ -513,7 +513,7 @@ export default function AutumnBudgetFeaturePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>当館裏手に提携駐車場（商業施設併設の立体駐車場）へのご案内（先着順：1泊1,500円／税込）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.34 ／ 立地 ★4.44 ／ 部屋 ★4.35 ／ 設備 ★4.26 ／ 風呂 ★4.11 ／ 食事 ★4.32</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「国際通りと駅直結で便利、朝食も充実国際通り沿いなのと、ゆいレール牧志駅直結でとても便利。夕食は徒歩で栄町へ、お散歩も楽しかった。朝食は沖縄料理ビュッフェで種類も豊富だった。ビールのサービスはA…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「国際通りと駅直結で便利、朝食も充実国際通り沿いなのと、ゆいレール牧志駅直結でとても便利。夕食は徒歩で栄町へ、お散歩も楽しかった。朝食は沖縄料理ビュッフェで種類も豊富だった。」
                   </blockquote>
                 </div>
               </div>
@@ -557,7 +557,7 @@ export default function AutumnBudgetFeaturePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無し</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.08 ／ 立地 ★4.11 ／ 部屋 ★3.73 ／ 設備 ★3.77 ／ 風呂 ★3.63 ／ 食事 ★3.79</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの対応と清潔感、立地が素晴らしいスタッフの方が親切で気持ちが良いです。シャワールームとトイレの清潔感もバッチリです。また、ウェルカムドリンクのサービスが充実しています。夕方には泡盛3種類が…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの対応と清潔感、立地が素晴らしいスタッフの方が親切で気持ちが良いです。シャワールームとトイレの清潔感もバッチリです。また、ウェルカムドリンクのサービスが充実しています。」
                   </blockquote>
                 </div>
               </div>

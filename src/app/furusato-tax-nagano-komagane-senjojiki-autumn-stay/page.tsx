@@ -353,39 +353,7 @@ export default function Page() {
             </Link>
           </div>
         </section>
-        <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
-          <div className="flex items-center gap-3 mb-6">
-            <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】早太郎温泉 駒ヶ根高原リゾートリンクスを拠点にするおすすめ滞在モデルコース</h2>
-          </div>
-          <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
-            <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
-              <div className="flex items-center gap-2">
-                <span className="bg-amber-600 text-white text-xs font-bold px-2.5 py-1 rounded">1日目</span>
-                <h3 className="font-bold text-stone-900 text-base md:text-lg">到着〜チェックインと名湯巡り</h3>
-              </div>
-              <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
-                <li>・<strong className="text-stone-800">14:00〜</strong> 中央道駒ヶ根ICより車で３分 / JR飯田線駒ヶ根駅よりバス15分 / 左記まで無料送迎有り 10:00～17:00で現地へ到着。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「早太郎温泉 駒ヶ根高原リゾートリンクス」にチェックイン。自然に温泉にあっぷる豚に！！大人のリゾートホテルで寛ぎのひとときをどうぞ★などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「早太郎温泉 駒ヶ根高原リゾートリンクス」の湯処へ。自然に温泉にあっぷる豚に！！大人のリゾートホテルで寛ぎのひとときをどうとともに、夕暮れの特別な寛ぎを満喫。</li>
-                <li>・<strong className="text-stone-800">19:00〜</strong> 「早太郎温泉 駒ヶ根高原リゾートリンクス」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
-              </ul>
-            </div>
-            <div className="border-l-2 border-teal-500 pl-4 md:pl-6 space-y-4">
-              <div className="flex items-center gap-2">
-                <span className="bg-teal-600 text-white text-xs font-bold px-2.5 py-1 rounded">2日目</span>
-                <h3 className="font-bold text-stone-900 text-base md:text-lg">爽快な朝湯〜周辺散策と帰路へ</h3>
-              </div>
-              <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
-                <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「早太郎温泉 駒ヶ根高原リゾートリンクス」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
-                <li>・<strong className="text-stone-800">08:00〜</strong> 「早太郎温泉 駒ヶ根高原リゾートリンクス」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「早太郎温泉 山野草の宿 二人静」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
-              </ul>
-            </div>
-          </div>
-        </section>
-
-        {/* FAQ Section */}
+                {/* FAQ Section */}
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
@@ -429,49 +397,49 @@ export default function Page() {
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">あわせて読みたい人気特集＆全国エリアガイド</h2>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
-            <a href="/winter-hokkaido-tokachigawa-onsen-moor-swan-tokachi-beef-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/luxury-private-onsen-with-starry-astronomy-deck/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12月北海道・十勝川温泉の初冬白鳥飛来と美肌遺産モール温泉】極上十勝牛ステーキ＆十勝野チーズ会席を愉しむ名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「日本一の星空・阿智村（天体観測専用デッキ＆満天星露天風呂付き極上宿5選）」日本一の星空・阿智村！天体観測専用デッキ＆満天星露天風呂付き極上宿5選</span>
             </a>
-            <a href="/autumn-budget-hokkaido-hakodate-bay-kanemori-yakei-hotels-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/matsumoto-solo-retreat-mingei-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">函館ベイエリア：函館山世界三大夜景＆金森赤レンガ倉庫・海鮮！2,000円台〜泊まれる格安ホテル5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「松本ひとり旅・民芸おこもり」国宝松本城・民芸家具クラシック・美ヶ原温泉！北アルプスの麓で心を整える名宿 厳選3選</span>
             </a>
-            <a href="/autumn-budget-hokkaido-obihiro-tokachi-butadon-onsen-hotels-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/nagano-azumino-wasabi-hotaka-art-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">帯広：十勝平野の実りの秋と名物豚丼！植物性モール温泉・2,000円台〜ホテル5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「長野・安曇野＆大王わさび農場・穂高」常念岳絶景・蓼川水車小屋＆安曇野アート宿 厳選ガイド</span>
             </a>
-            <a href="/furusato-tax-hokkaido-shiraoi-noboribetsu-poroto-autumn-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/nagano-bessho-solo-retreat-temple-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">北海道・登別温泉＆白老ポロトコタン！地獄谷の紅葉・9種の多彩な名湯＆白老牛会席</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「信州の鎌倉・別所温泉ひとり旅・信州最古の名湯おこもり」信州サーモン＆松茸会席・木造建築文化財・国宝八角三重塔！上田電鉄で行く古刹厳選3宿</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
             <div className="flex flex-wrap gap-2">
               <Link
-                href="/prefectures/gifu/"
+                href="/prefectures/nagano/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                岐阜県の宿・温泉
+                長野県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/miyazaki/"
+                href="/prefectures/yamanashi/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                宮崎県の宿・温泉
+                山梨県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/toyama/"
+                href="/prefectures/niigata/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                富山県の宿・温泉
+                新潟県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/kumamoto/"
+                href="/prefectures/ishikawa/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                熊本県の宿・温泉
+                石川県の宿・温泉
               </Link>
             </div>
           </div>
@@ -507,7 +475,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 早太郎温泉　駒ヶ根高原リゾートリンクス</td>
                 <td className="p-3 text-stone-600">長野県駒ヶ根市赤穂5-1086</td>
-                <td className="p-3 text-stone-600">中央道駒ヶ根ICより車で３分 / JR飯田線駒ヶ根駅よりバス15分　/</td>
+                <td className="p-3 text-stone-600">中央道駒ヶ根ICより車で３分 / JR飯田線駒ヶ根駅よりバス15分 / 左記まで無料送迎有り 10:00～17:00</td>
                 <td className="p-3 text-stone-600">有り　６０台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.25（1098件）</td>
                 <td className="p-3 font-bold text-rose-600">¥13,800〜</td>
@@ -516,7 +484,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 早太郎温泉　山野草の宿　二人静</td>
                 <td className="p-3 text-stone-600">長野県駒ヶ根市赤穂4-161</td>
-                <td className="p-3 text-stone-600">駒ヶ根駅周辺</td>
+                <td className="p-3 text-stone-600">中央自動車道『駒ヶ根ＩＣ』より５分／ＪＲ飯田線『駒ヶ根駅』より車で１０分／高速バスで新宿より３時間半、名古屋より２時間半</td>
                 <td className="p-3 text-stone-600">有り　80台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.56（1907件）</td>
                 <td className="p-3 font-bold text-rose-600">¥15,000〜</td>
@@ -525,7 +493,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 早太郎温泉　駒ヶ根高原リトリート　すずらん颯</td>
                 <td className="p-3 text-stone-600">長野県駒ヶ根市赤穂5-1198</td>
-                <td className="p-3 text-stone-600">駒ヶ根駅周辺</td>
+                <td className="p-3 text-stone-600">電車：JR飯田線「駒ケ根駅」から車で約15分／車：中央自動車道「駒ケ根IC」から約5分</td>
                 <td className="p-3 text-stone-600">有り　３５台　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.02（119件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,800〜</td>
@@ -598,7 +566,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　３５台　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの対応が温かく、また泊まりたい今回2回目の利用でした。宿の方が本当に 優しい方ばかりで 急な要望も素早く対応して頂き今回も素敵な体験がたくさんできました。ありがとうございました。ま…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの対応が温かく、また泊まりたい今回2回目の利用でした。宿の方が本当に 優しい方ばかりで 急な要望も素早く対応して頂き今回も素敵な体験がたくさんできました。ありがとうございました。」
                   </blockquote>
                 </div>
               </div>

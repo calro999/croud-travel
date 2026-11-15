@@ -118,7 +118,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F78144%2F78144.html%26f_flg%3DPLAN",
     "hotelMinCharge": 44150,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/78144/78144.jpg",
-    "userReview": "人吉温泉　旅館たから湯ならではの立地と落ち着いた空間で、ゆったりとした滞在を楽しめたという声が寄せられています。",
+    "userReview": "人吉温泉 旅館たから湯ならではの立地と落ち着いた空間で、ゆったりとした滞在を楽しめたという声が寄せられています。",
     "reviewAverage": 4.4,
     "reviewCount": 17,
     "address": "熊本県人吉市温泉町2482",
@@ -283,8 +283,8 @@ export default function Page() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 阿蘇駅よりアクセス。肥後豊肥線 阿蘇駅より車で１５分程／肥後豊肥線 内牧駅より車で１５分程。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「阿蘇内牧温泉 御料理旅館 親和苑」にチェックイン。料理長が贈る美味しい芸術！ 源泉掛け流し 露天風呂（男女別）／貸切家族風呂／離れ露天風呂付客室ありなどの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「阿蘇内牧温泉 御料理旅館 親和苑」の湯処へ。料理長が贈る美味しい芸術！ 源泉掛け流し 露天風呂（男女別）／貸切家族とともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「阿蘇内牧温泉 御料理旅館 親和苑」にチェックイン。料理長が贈る美味しい芸術！ まずは客室で移動の疲れをそっと癒やす。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「阿蘇内牧温泉 御料理旅館 親和苑」の大浴場・露天風呂へ。日暮れの静けさの中で湯に浸かり、旅の緊張をゆっくりと解きほぐす。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「阿蘇内牧温泉 御料理旅館 親和苑」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -296,7 +296,7 @@ export default function Page() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「阿蘇内牧温泉 御料理旅館 親和苑」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「阿蘇内牧温泉 御料理旅館 親和苑」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「三国温泉 ばんこ旅館」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は「阿蘇内牧温泉 御料理旅館 親和苑」周辺の観光スポットや地元の名産店に立ち寄り、ご当地のお土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>
@@ -424,7 +424,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 阿蘇内牧温泉　御料理旅館　親和苑</td>
                 <td className="p-3 text-stone-600">熊本県阿蘇市内牧1354</td>
-                <td className="p-3 text-stone-600">阿蘇駅周辺</td>
+                <td className="p-3 text-stone-600">肥後豊肥線 阿蘇駅より車で１５分程／肥後豊肥線 内牧駅より車で１５分程</td>
                 <td className="p-3 text-stone-600">有り　２０台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.52（196件）</td>
                 <td className="p-3 font-bold text-rose-600">¥23,310〜</td>
@@ -433,7 +433,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 三国温泉　ばんこ旅館</td>
                 <td className="p-3 text-stone-600">福井県坂井市三国町宿3-7-25</td>
-                <td className="p-3 text-stone-600">三国港駅周辺</td>
+                <td className="p-3 text-stone-600">北陸新幹線「福井駅」→えちぜん鉄道「三国港駅」（最終駅）から徒歩で7分</td>
                 <td className="p-3 text-stone-600">有り　30台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.59（66件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,600〜</td>
@@ -451,7 +451,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 人吉温泉　旅館たから湯</td>
                 <td className="p-3 text-stone-600">熊本県人吉市温泉町2482</td>
-                <td className="p-3 text-stone-600">人吉駅周辺</td>
+                <td className="p-3 text-stone-600">人吉ICから国道445号線を八代方向へ。宝来町交差点を左折、道なりに進む。突きあたりを左折して右手</td>
                 <td className="p-3 text-stone-600">有り　１０台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">高評価</td>
                 <td className="p-3 font-bold text-rose-600">¥44,150〜</td>
@@ -460,7 +460,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 越後屋旅館　＜宮城県＞</td>
                 <td className="p-3 text-stone-600">宮城県大崎市鳴子温泉川渡24-9</td>
-                <td className="p-3 text-stone-600">車：古川ICより35分。電車：JR川渡温泉駅下車(suica不可)、徒</td>
+                <td className="p-3 text-stone-600">車：古川ICより35分。電車：JR川渡温泉駅下車(suica不可)、徒歩約20分（駅から無料送迎あり：要連絡）</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.66（183件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,850〜</td>
@@ -489,7 +489,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２０台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.68 ／ 立地 ★4.44 ／ 部屋 ★4.61 ／ 設備 ★4.46 ／ 風呂 ★4.18 ／ 食事 ★4.78</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「本当に全てのサービスが星5つ!!家族4人2泊3日でお世話になりました。館内・お部屋共に清潔に保たれており、床材がとても素敵でした。お風呂は家族風呂が無料で入ることができ、朝・夜とも入らせて…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「本当に全てのサービスが星5つ!!家族4人2泊3日でお世話になりました。館内・お部屋共に清潔に保たれており、床材がとても素敵でした。」
                   </blockquote>
                 </div>
               </div>
@@ -511,7 +511,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　30台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.68 ／ 立地 ★4.5 ／ 部屋 ★4.45 ／ 設備 ★4.41 ／ 風呂 ★4.59 ／ 食事 ★4.5</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉と食事が満足、立地も良い宿一泊二食のプランで利用しました。それでこのお値段はお安いと思います。小さめですが、内湯も温泉で24h入れますし。夕食も朝食もお腹いっぱいです。夕食時は、おしな…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉と食事が満足、立地も良い宿一泊二食のプランで利用しました。それでこのお値段はお安いと思います。小さめですが、内湯も温泉で24h入れますし。夕食も朝食もお腹いっぱいです。」
                   </blockquote>
                 </div>
               </div>
@@ -533,7 +533,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「源泉掛け流しの湯と親切な接客に大満足素泊りで宿泊しました。まずは源泉掛け流しの湯が良いですね。貸切風呂の利用もできて大満足。ご家族経営かと思いますが、皆さんとても親切で接客も素晴らしい。次回は食事…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「源泉掛け流しの湯と親切な接客に大満足素泊りで宿泊しました。まずは源泉掛け流しの湯が良いですね。貸切風呂の利用もできて大満足。ご家族経営かと思いますが、皆さんとても親切で接客も素晴らしい。」
                   </blockquote>
                 </div>
               </div>

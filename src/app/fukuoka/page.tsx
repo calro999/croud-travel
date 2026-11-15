@@ -184,7 +184,7 @@ export default function FukuokaHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. アパホテル＆リゾート〈博多駅東〉</td>
                 <td className="p-3 text-stone-600">福岡県福岡市博多区博多駅東1-18-1</td>
-                <td className="p-3 text-stone-600">博多駅周辺</td>
+                <td className="p-3 text-stone-600">福岡市営地下鉄空港線「博多駅」東7番出口から徒歩2分／JR各線「博多駅」筑紫口から徒歩4分</td>
                 <td className="p-3 text-stone-600">11台有、1,500円 / 1泊（15：00～翌11：00）※連泊の場合24時間　※予約不可先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.1（912件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,500〜</td>
@@ -193,7 +193,7 @@ export default function FukuokaHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. ＦＯＲＺＡ　ホテルフォルツァ博多駅筑紫口Ⅰ</td>
                 <td className="p-3 text-stone-600">福岡県福岡市博多区博多駅中央街4-16</td>
-                <td className="p-3 text-stone-600">博多駅周辺</td>
+                <td className="p-3 text-stone-600">JR博多駅新幹線側出口(筑紫口)より徒歩1分★福岡空港より地下鉄博多駅まで約5分★</td>
                 <td className="p-3 text-stone-600">当ホテルには専用駐車場のご用意がなく、また提携駐車場もございません。</td>
                 <td className="p-3 font-bold text-amber-600">★4.16（3527件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,500〜</td>
@@ -202,7 +202,7 @@ export default function FukuokaHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. FORZA　ホテルフォルツァ博多駅博多口</td>
                 <td className="p-3 text-stone-600">福岡県福岡市博多区博多駅前2-1-15</td>
-                <td className="p-3 text-stone-600">博多駅周辺</td>
+                <td className="p-3 text-stone-600">JR博多駅（博多口）より徒歩約3分。福岡空港より地下鉄博多駅まで約5分。福岡空港よりタクシーで約20分☆利便性抜群☆</td>
                 <td className="p-3 text-stone-600">ございません</td>
                 <td className="p-3 font-bold text-amber-600">★4.19（737件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,250〜</td>
@@ -211,7 +211,7 @@ export default function FukuokaHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. ＦＯＲＺＡ　ホテルフォルツァ博多駅筑紫口II</td>
                 <td className="p-3 text-stone-600">福岡県福岡市博多区博多駅東1-13-3</td>
-                <td className="p-3 text-stone-600">博多駅周辺</td>
+                <td className="p-3 text-stone-600">JR博多駅 筑紫口より徒歩にて約3分</td>
                 <td className="p-3 text-stone-600">無し</td>
                 <td className="p-3 font-bold text-amber-600">★4.47（64件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,000〜</td>
@@ -220,7 +220,7 @@ export default function FukuokaHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. ワシントンＲ＆Ｂホテル博多駅前第２</td>
                 <td className="p-3 text-stone-600">福岡県福岡市博多区博多駅前4-3-20</td>
-                <td className="p-3 text-stone-600">博多駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ 博多駅 博多口から徒歩にて約５分</td>
                 <td className="p-3 text-stone-600">無し</td>
                 <td className="p-3 font-bold text-amber-600">★3.92（1125件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,500〜</td>
@@ -229,7 +229,7 @@ export default function FukuokaHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">6. ９ＨＯＴＥＬ　ＨＡＫＡＴＡ</td>
                 <td className="p-3 text-stone-600">福岡県福岡市博多区冷泉町9-16</td>
-                <td className="p-3 text-stone-600">祇園（福岡）駅周辺</td>
+                <td className="p-3 text-stone-600">福岡空港から地下鉄祇園駅まで7分。祇園駅徒歩約5分。中洲川端駅徒歩6分、博多駅から徒歩約13分</td>
                 <td className="p-3 text-stone-600">なし</td>
                 <td className="p-3 font-bold text-amber-600">★3.77（213件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,000〜</td>
@@ -258,7 +258,7 @@ export default function FukuokaHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>11台有、1,500円 / 1泊（15：00～翌11：00）※連泊の場合24時間　※予約不可先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「大浴場で疲労回復、混雑以外は満足はじめてアパホテルに泊まりました。疲労回復のため大浴場付きのホテルにしましたが、正解でした。大浴場を利用した時間帯、脱衣所が混雑していたものの、それ以外は満…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「大浴場で疲労回復、混雑以外は満足はじめてアパホテルに泊まりました。疲労回復のため大浴場付きのホテルにしましたが、正解でした。」
                   </blockquote>
                 </div>
               </div>
@@ -302,7 +302,7 @@ export default function FukuokaHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>ございません</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「博多駅近くの便利なホテル博多駅から近くて、コンビニも隣にあるので便利です。部屋は少し狭い感じですが、リファのシャワーやナノケアのドライヤーやスチーマーなどがあり、良かったです。(全部屋なの…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「博多駅近くの便利なホテル博多駅から近くて、コンビニも隣にあるので便利です。部屋は少し狭い感じですが、リファのシャワーやナノケアのドライヤーやスチーマーなどがあり、良かったです。」
                   </blockquote>
                 </div>
               </div>
@@ -324,7 +324,7 @@ export default function FukuokaHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無し</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「空港近くで便利、部屋のテーブルは狭め福岡空港からの朝早い便を利用する為に子供と前泊。急遽、予約したので不安でしたが良いホテルでした。部屋によるのでしょうが、テーブルとして使えるスペースが狭…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「空港近くで便利、部屋のテーブルは狭め福岡空港からの朝早い便を利用する為に子供と前泊。急遽、予約したので不安でしたが良いホテルでした。」
                   </blockquote>
                 </div>
               </div>
@@ -346,7 +346,7 @@ export default function FukuokaHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無し</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.94 ／ 立地 ★3.95 ／ 部屋 ★3.91 ／ 設備 ★3.85 ／ 風呂 ★3.83 ／ 食事 ★3.6</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ユニットバスの排水が詰まり不潔で残念ホテル、お部屋自体は綺麗で何の不便もなかったのですが、ユニットバスの排水が詰まっており汚れや髪の毛が流れきれずすごく不潔な感じがして落ち着いてシャワーを浴びれま…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ユニットバスの排水が詰まり不潔で残念ホテル、お部屋自体は綺麗で何の不便もなかったのですが、ユニットバスの排水が詰まっており汚れや髪の毛が流れきれずすごく不潔な感じがして落ち着いてシャワーを浴びれま。」
                   </blockquote>
                 </div>
               </div>
@@ -368,7 +368,7 @@ export default function FukuokaHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>なし</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「清潔感があり貸出備品も充実、快適な滞在清潔感あるホテルでした。観光で食事なしの利用をしました。チェックイン前にホテルに寄り、荷物を預けてから出かけました。セブンイレブンが近くにあります。充電器やヘ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「清潔感があり貸出備品も充実、快適な滞在清潔感あるホテルでした。観光で食事なしの利用をしました。チェックイン前にホテルに寄り、荷物を預けてから出かけました。セブンイレブンが近くにあります。」
                   </blockquote>
                 </div>
               </div>

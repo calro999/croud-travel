@@ -351,7 +351,7 @@ export default function FurusatoUpgradedPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 大鰐温泉　不二やホテル</td>
                 <td className="p-3 text-stone-600">青森県南津軽郡大鰐町蔵館川原田63</td>
-                <td className="p-3 text-stone-600">大鰐温泉駅周辺</td>
+                <td className="p-3 text-stone-600">東北自動車道 大鰐・弘前ＩＣより約10分。 JR奥羽本線大鰐温泉駅下車 徒歩１５分</td>
                 <td className="p-3 text-stone-600">有り　５０台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.5（966件）</td>
                 <td className="p-3 font-bold text-rose-600">¥11,000〜</td>
@@ -360,7 +360,7 @@ export default function FurusatoUpgradedPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 男鹿温泉　結いの宿　別邸　つばき</td>
                 <td className="p-3 text-stone-600">秋田県男鹿市北浦湯本中里81</td>
-                <td className="p-3 text-stone-600">羽立駅周辺</td>
+                <td className="p-3 text-stone-600">JR男鹿線「羽立駅」～お車で20分／秋田道昭和男鹿半島ＩＣ～お車で40分／秋田空港より～エアポートライナーで2時間</td>
                 <td className="p-3 text-stone-600">有り　１００台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.58（484件）</td>
                 <td className="p-3 font-bold text-rose-600">¥17,160〜</td>
@@ -369,7 +369,7 @@ export default function FurusatoUpgradedPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 木曽路の宿　いわや</td>
                 <td className="p-3 text-stone-600">長野県木曽郡木曽町福島5169</td>
-                <td className="p-3 text-stone-600">木曽福島駅周辺</td>
+                <td className="p-3 text-stone-600">JR木曽福島駅より徒歩10分／中央自動車道：塩尻ICより60分、中津川ICより60分</td>
                 <td className="p-3 text-stone-600">有り　１５台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★3.96（99件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,700〜</td>
@@ -442,7 +442,7 @@ export default function FurusatoUpgradedPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１５台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの心遣いに感謝。食事も大満足子供の体調がいまいちでレストランで夕食を食べられず...「お部屋に運んで後で食べることもできますよ」と教えていただき、お部屋に持っていくことに。娘はお風呂に入る…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの心遣いに感謝。食事も大満足子供の体調がいまいちでレストランで夕食を食べられず...「お部屋に運んで後で食べることもできますよ」と教えていただき、お部屋に持っていくことに。」
                   </blockquote>
                 </div>
               </div>

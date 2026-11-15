@@ -342,7 +342,7 @@ export default function AchimuraHirugamiAutumnPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 昼神温泉四季の織　はなや（旧ホテルはなや）</td>
                 <td className="p-3 text-stone-600">長野県下伊那郡阿智村智里530-1</td>
-                <td className="p-3 text-stone-600">飯田（長野）駅周辺</td>
+                <td className="p-3 text-stone-600">飯田駅より路線バスにて３０分</td>
                 <td className="p-3 text-stone-600">有り　３０台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.57（364件）</td>
                 <td className="p-3 font-bold text-rose-600">¥22,990〜</td>
@@ -351,7 +351,7 @@ export default function AchimuraHirugamiAutumnPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 昼神温泉　ひるがみの森</td>
                 <td className="p-3 text-stone-600">長野県下伊那郡阿智村智里567-10</td>
-                <td className="p-3 text-stone-600">天竜峡駅周辺</td>
+                <td className="p-3 text-stone-600">中央自動車道・園原ICより車にて10分(名古屋・関西方面)、中央自動車道・飯田山本ICより車にて10分(関東・長野方面)</td>
                 <td className="p-3 text-stone-600">有り　150台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.36（905件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,800〜</td>
@@ -360,7 +360,7 @@ export default function AchimuraHirugamiAutumnPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 昼神温泉　癒楽（ゆら）の宿　清風苑</td>
                 <td className="p-3 text-stone-600">長野県下伊那郡阿智村智里338-19</td>
-                <td className="p-3 text-stone-600">中央道飯田山本ＩＣ～Ｒ１５３～R２５６（約10分）/　中央道園原IC～</td>
+                <td className="p-3 text-stone-600">中央道飯田山本ＩＣ～Ｒ１５３～R２５６（約10分）/ 中央道園原IC～（約10分）</td>
                 <td className="p-3 text-stone-600">有り：４０台（無料）ホテルの前と後にご用意がございます。</td>
                 <td className="p-3 font-bold text-amber-600">★4.4（1354件）</td>
                 <td className="p-3 font-bold text-rose-600">¥15,000〜</td>
@@ -398,7 +398,7 @@ export default function AchimuraHirugamiAutumnPage() {
                   <p>【秋の阿智村・昼神温泉：日本一の星空ナイトツアーと美肌】 <strong>【駐車場・マイカー利用】</strong>有り　３０台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.68 ／ 立地 ★4.38 ／ 部屋 ★4.47 ／ 設備 ★4.47 ／ 風呂 ★4.64 ／ 食事 ★4.62</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの対応と食事、温泉に大満足!特に良かった所は・スタッフの対応が、感じが良くて、分かり易く説明でした・夕食が現地素材で、味付けが私にピッタリ合い美味しい・温泉が家族風呂でアルカリ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの対応と食事、温泉に大満足!」
                   </blockquote>
                 </div>
               </div>
@@ -442,7 +442,7 @@ export default function AchimuraHirugamiAutumnPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り：４０台（無料）ホテルの前と後にご用意がございます。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温かいおもてなしと美味しい料理に大満足主人のお誕生日でお世話になりました。とても素敵なおもてなしをありがとうございました。スタッフさんはみなさんとても温かく、すれ違う方みなさん笑顔で挨拶をして…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温かいおもてなしと美味しい料理に大満足主人のお誕生日でお世話になりました。とても素敵なおもてなしをありがとうございました。」
                   </blockquote>
                 </div>
               </div>

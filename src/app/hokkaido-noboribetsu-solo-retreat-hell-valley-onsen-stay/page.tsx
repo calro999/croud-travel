@@ -340,8 +340,8 @@ export default function ArticlePage() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 登別駅よりアクセス。道央道登別東ICより約10分/JR室蘭本線登別駅。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「登別温泉 御やど清水屋」にチェックイン。檜香る名湯と、雅な和の寛ぎ。 お部屋で味わう旬の会席が、心ほどける贅沢なひとときを演出します。などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「登別温泉 御やど清水屋」の湯処へ。檜香る名湯と、雅な和の寛ぎ。 お部屋で味わう旬の会席が、心ほどける贅沢とともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「登別温泉 御やど清水屋」にチェックイン。檜香る名湯と、雅な和の寛ぎ。 お部屋で味わう旬の会席が、心ほどける贅沢なひとときを演出します。 窓外に広がる景色を眺めながらチェックイン後の寛ぎ時間を。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「登別温泉 御やど清水屋」の湯船で寛ぎタイム。季節の空気を感じながら手足を伸ばし、心豊かな夕方のリラックス時間を満喫。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「登別温泉 御やど清水屋」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -390,28 +390,28 @@ export default function ArticlePage() {
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
             <div className="flex flex-wrap gap-2">
               <Link
+                href="/prefectures/hokkaido/"
+                className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
+              >
+                北海道の宿・温泉
+              </Link>
+              <Link
+                href="/prefectures/aomori/"
+                className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
+              >
+                青森県の宿・温泉
+              </Link>
+              <Link
                 href="/prefectures/iwate/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 岩手県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/fukushima/"
+                href="/prefectures/miyagi/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                福島県の宿・温泉
-              </Link>
-              <Link
-                href="/prefectures/kumamoto/"
-                className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
-              >
-                熊本県の宿・温泉
-              </Link>
-              <Link
-                href="/prefectures/oita/"
-                className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
-              >
-                大分県の宿・温泉
+                宮城県の宿・温泉
               </Link>
             </div>
           </div>
@@ -447,7 +447,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 登別温泉　登別万世閣</td>
                 <td className="p-3 text-stone-600">北海道登別市登別温泉町21</td>
-                <td className="p-3 text-stone-600">登別駅周辺</td>
+                <td className="p-3 text-stone-600">JR登別駅より登別温泉行バス終点下車徒歩目の前</td>
                 <td className="p-3 text-stone-600">屋外駐車場をご用意しております。（無料）</td>
                 <td className="p-3 font-bold text-amber-600">★4.01（1280件）</td>
                 <td className="p-3 font-bold text-rose-600">¥11,116〜</td>
@@ -456,7 +456,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 登別温泉　名湯の宿　パークホテル雅亭</td>
                 <td className="p-3 text-stone-600">北海道登別市登別温泉町100</td>
-                <td className="p-3 text-stone-600">登別駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ登別駅～登別温泉行バス約15分+徒歩約７分/道央道～登別東ＩＣより約15分※JR特急札幌より約70分・千歳約50分</td>
                 <td className="p-3 text-stone-600">有り　１００台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★3.96（909件）</td>
                 <td className="p-3 font-bold text-rose-600">¥9,500〜</td>
@@ -465,7 +465,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 登別温泉　御やど清水屋</td>
                 <td className="p-3 text-stone-600">北海道登別市登別温泉町173</td>
-                <td className="p-3 text-stone-600">登別駅周辺</td>
+                <td className="p-3 text-stone-600">道央道登別東ICより約10分/JR室蘭本線登別駅</td>
                 <td className="p-3 text-stone-600">有り　30台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.34（576件）</td>
                 <td className="p-3 font-bold text-rose-600">¥19,800〜</td>
@@ -494,7 +494,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>屋外駐車場をご用意しております。（無料）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.02 ／ 立地 ★3.92 ／ 部屋 ★3.93 ／ 設備 ★3.88 ／ 風呂 ★3.93 ／ 食事 ★4.16</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「夕食の飲み放題は満足、露天風呂は落ち葉が残念家族3人で宿泊しました。部屋のお茶菓子は温泉まんじゅうだったらよかったなと個人的に思いました。接客は外国人の方が多い印象でしたが言葉等問題になる…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「夕食の飲み放題は満足、露天風呂は落ち葉が残念家族3人で宿泊しました。部屋のお茶菓子は温泉まんじゅうだったらよかったなと個人的に思いました。」
                   </blockquote>
                 </div>
               </div>
@@ -516,7 +516,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１００台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.08 ／ 立地 ★3.95 ／ 部屋 ★3.8 ／ 設備 ★3.74 ／ 風呂 ★4.31 ／ 食事 ★3.85</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「かに食べ放題に満足、大浴場の移動は不便バイキングのお料理でかにの食べ放題があり満足でした。大浴場が更衣室がB1て浴場がB2なので洋服を脱いで階段で浴場に行くのは少し抵抗がありました。…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「かに食べ放題に満足、大浴場の移動は不便バイキングのお料理でかにの食べ放題があり満足でした。大浴場が更衣室がB1て浴場がB2なので洋服を脱いで階段で浴場に行くのは少し抵抗がありました。」
                   </blockquote>
                 </div>
               </div>
@@ -538,7 +538,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　30台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.47 ／ 立地 ★4.19 ／ 部屋 ★4.11 ／ 設備 ★3.83 ／ 風呂 ★4.28 ／ 食事 ★4.64</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「観光地への好立地と夕食は満足、時間は注意観光地の近くで歩いて周辺を巡ることができました!夕食も美味しかったです!夕食の時間が先着順で一番遅い時間しか空いてないのは残念でした。他の画像やクチ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「観光地への好立地と夕食は満足、時間は注意観光地の近くで歩いて周辺を巡ることができました!夕食も美味しかったです!夕食の時間が先着順で一番遅い時間しか空いてないのは残念でした。」
                   </blockquote>
                 </div>
               </div>

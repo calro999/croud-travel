@@ -409,8 +409,8 @@ export default function Page() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 小樽駅よりアクセス。ＪＲ小樽駅より徒歩5分 悪天候時は都通り商店街(屋根付き)をお歩き下さい 近隣コインパーキングも多数。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「オーセントホテル小樽」にチェックイン。小樽駅より徒歩5分で観光便利♪海と街を望むノスタルジックなホテル。地産地消の美食も口コミ高評価！などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「オーセントホテル小樽」の湯処へ。小樽駅より徒歩5分で観光便利♪海と街を望むノスタルジックなホテル。地産とともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「オーセントホテル小樽」にチェックイン。小樽駅より徒歩5分で観光便利♪海と街を望むノスタルジックなホテル。地産地消の美食も口コミ高評価！ 館内の設えを確かめながら、これからの滞在に備えてゆっくり休息する。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「オーセントホテル小樽」の自慢の湯処へ。温かな湯気と落ち着いた雰囲気に癒やされながら、夕食前の贅沢なひとときを過ごす。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「オーセントホテル小樽」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -422,7 +422,7 @@ export default function Page() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「オーセントホテル小樽」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「オーセントホテル小樽」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「浅草ビューホテル アネックス 六区」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は「オーセントホテル小樽」周辺の観光スポットや地元の名産店に立ち寄り、ご当地のお土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>
@@ -550,7 +550,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. オーセントホテル小樽</td>
                 <td className="p-3 text-stone-600">北海道小樽市稲穂2-15-1</td>
-                <td className="p-3 text-stone-600"></td>
+                <td className="p-3 text-stone-600">北海道小樽市稲穂2-15-1 ／ 交通案内：</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.37（2052件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,100〜</td>
@@ -559,7 +559,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 浅草ビューホテル　アネックス　六区</td>
                 <td className="p-3 text-stone-600">東京都台東区浅草2丁目９番10号</td>
-                <td className="p-3 text-stone-600"></td>
+                <td className="p-3 text-stone-600">東京都台東区浅草2丁目９番10号 ／ 交通案内：</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.5（92件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,460〜</td>
@@ -568,7 +568,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. ＳＨＩＲＯＹＡＭＡ　ＨＯＴＥＬ　ｋａｇｏｓｈｉｍａ（城山ホテル鹿児島）</td>
                 <td className="p-3 text-stone-600">鹿児島県鹿児島市新照院町41-1</td>
-                <td className="p-3 text-stone-600">鹿児島中央からタクシー約１０分 鹿児島中央駅や天文館等を経由する無料の</td>
+                <td className="p-3 text-stone-600">鹿児島中央からタクシー約１０分 鹿児島中央駅や天文館等を経由する無料のシャトルバスを30分間隔で運行</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.63（3837件）</td>
                 <td className="p-3 font-bold text-rose-600">¥9,100〜</td>
@@ -597,7 +597,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「バーと朝食に大満足、また利用したいホテル内のバーがすごくよかったです。お酒が好きな主人との旅行でしたので、こちらのホテルを選ばせていただきました。朝食もおいしくフロントの女性の方の対応も大…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「バーと朝食に大満足、また利用したいホテル内のバーがすごくよかったです。お酒が好きな主人との旅行でしたので、こちらのホテルを選ばせていただきました。」
                   </blockquote>
                 </div>
               </div>
@@ -641,7 +641,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「大きな窓からの景色と美味しい朝食に大満足部屋の窓が大きく、景色も素晴らしい、朝食ビュッフェもとても美味しかったですスタッフのホスピタリティも最高ですこちらのホテルを選んで本当に良か…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「大きな窓からの景色と美味しい朝食に大満足部屋の窓が大きく、景色も素晴らしい、朝食ビュッフェもとても美味しかったですスタッフのホスピタリティも最高ですこちらのホテルを選んで本当に良か。」
                   </blockquote>
                 </div>
               </div>

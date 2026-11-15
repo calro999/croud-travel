@@ -251,7 +251,7 @@ export default function KyushuTravelNightsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 湯布院温泉　御宿　由布乃庄</td>
                 <td className="p-3 text-stone-600">大分県由布市湯布院町塚原1009</td>
-                <td className="p-3 text-stone-600">由布院駅周辺</td>
+                <td className="p-3 text-stone-600">大分自動車道（由布岳スマートＩＣの場合）５分※ＥＴＣ搭載車のみ（湯布院ＩＣの場合）湯布院交差点から塚原高原方面へ約１５分</td>
                 <td className="p-3 text-stone-600">◆駐車場有、予約不要◆ 送迎【要予約】（由布院駅お迎え16時もしくは17時）</td>
                 <td className="p-3 font-bold text-amber-600">★4.84（665件）</td>
                 <td className="p-3 font-bold text-rose-600">¥28,100〜</td>
@@ -260,7 +260,7 @@ export default function KyushuTravelNightsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 博多天然温泉「旅人の湯」ホテルルートイン博多駅前　－博多口－</td>
                 <td className="p-3 text-stone-600">福岡県福岡市博多区博多駅前1-1-20</td>
-                <td className="p-3 text-stone-600">博多駅周辺</td>
+                <td className="p-3 text-stone-600">JR博多駅より徒歩3分(博多口右のバスターミナル前)／福岡空港より地下鉄約10分／福岡都市高速呉服町ランプより車で約５分</td>
                 <td className="p-3 text-stone-600">《先着順でのご案内》　1500円（税込）／泊　　26台（普通車6台、ハイルーフ対応20台）</td>
                 <td className="p-3 font-bold text-amber-600">★3.96（3249件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,300〜</td>
@@ -269,7 +269,7 @@ export default function KyushuTravelNightsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. スーパーホテルＰｒｅｍｉｅｒ博多駅・筑紫口天然温泉</td>
                 <td className="p-3 text-stone-600">福岡県福岡市博多区博多駅南2-1-32</td>
-                <td className="p-3 text-stone-600">博多駅周辺</td>
+                <td className="p-3 text-stone-600">JR博多駅・筑紫口徒歩約８分！福岡空港から車で約10分！地下鉄博多駅東5番出口！博多駅東３丁目交差点セブンイレブン前</td>
                 <td className="p-3 text-stone-600">7台分（事前予約制） 1泊2，000円 ※高さ制限なし 　　近隣にコインパーキング多数あり</td>
                 <td className="p-3 font-bold text-amber-600">★4.26（2085件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,600〜</td>
@@ -278,7 +278,7 @@ export default function KyushuTravelNightsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 天然温泉　八百治の湯　八百治博多ホテル</td>
                 <td className="p-3 text-stone-600">福岡県福岡市博多区博多駅前4-9-2</td>
-                <td className="p-3 text-stone-600">博多駅周辺</td>
+                <td className="p-3 text-stone-600">博多駅博多口より徒歩５分（福岡空港から博多駅まで地下鉄で５分。）</td>
                 <td className="p-3 text-stone-600">契約駐車場　1,500円（税込）/14時～翌日14時</td>
                 <td className="p-3 font-bold text-amber-600">★4.18（4564件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,450〜</td>
@@ -287,7 +287,7 @@ export default function KyushuTravelNightsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 由布院温泉　旅館光の家</td>
                 <td className="p-3 text-stone-600">大分県由布市湯布院町川上2490</td>
-                <td className="p-3 text-stone-600">由布院駅周辺</td>
+                <td className="p-3 text-stone-600">由布院駅より車で５分／湯布院ＩＣから１０分</td>
                 <td className="p-3 text-stone-600">有り　２０台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.5（121件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,700〜</td>
@@ -296,7 +296,7 @@ export default function KyushuTravelNightsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">6. 由布院温泉　旅館　めばえ荘</td>
                 <td className="p-3 text-stone-600">大分県由布市湯布院町川南249-1</td>
-                <td className="p-3 text-stone-600">由布院駅周辺</td>
+                <td className="p-3 text-stone-600">由布院駅より車で５分</td>
                 <td className="p-3 text-stone-600">有り　２５台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.25（95件）</td>
                 <td className="p-3 font-bold text-rose-600">¥18,700〜</td>
@@ -325,7 +325,7 @@ export default function KyushuTravelNightsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>◆駐車場有、予約不要◆ 送迎【要予約】（由布院駅お迎え16時もしくは17時）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.88 ／ 立地 ★4.66 ／ 部屋 ★4.68 ／ 設備 ★4.68 ／ 風呂 ★4.82</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「おもてなしと食事、お風呂に心から癒やされるおもてなしから食事、お風呂まで全てが素晴らしかったです。山の中にあり、建物も多少年季が感じられますが、趣があり、施設内も手入れされており、快適でした。…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「おもてなしと食事、お風呂に心から癒やされるおもてなしから食事、お風呂まで全てが素晴らしかったです。山の中にあり、建物も多少年季が感じられますが、趣があり、施設内も手入れされており、快適でした。」
                   </blockquote>
                 </div>
               </div>
@@ -347,7 +347,7 @@ export default function KyushuTravelNightsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>《先着順でのご案内》　1500円（税込）／泊　　26台（普通車6台、ハイルーフ対応20台）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「博多駅直結で立地抜群、快適な滞在博多駅2Fから近隣のビルへ繋がる屋根付きの通路があり、ホテルへも濡れずに行くことができます。立地は言うこと無しですね!チェックアウトが10時でちょっと早いで…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「博多駅直結で立地抜群、快適な滞在博多駅2Fから近隣のビルへ繋がる屋根付きの通路があり、ホテルへも濡れずに行くことができます。立地は言うこと無しですね!」
                   </blockquote>
                 </div>
               </div>
@@ -369,7 +369,7 @@ export default function KyushuTravelNightsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>7台分（事前予約制） 1泊2，000円 ※高さ制限なし 　　近隣にコインパーキング多数あり</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「レディース部屋と充実のアメニティで快適福岡旅行で利用しました。レディース部屋で気兼ねなく過ごせました。ウェルカムバーも楽しめ、アメニティにパックもあって嬉しかったです。リファのドライヤー、シャワー…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「レディース部屋と充実のアメニティで快適福岡旅行で利用しました。レディース部屋で気兼ねなく過ごせました。ウェルカムバーも楽しめ、アメニティにパックもあって嬉しかったです。」
                   </blockquote>
                 </div>
               </div>
@@ -391,7 +391,7 @@ export default function KyushuTravelNightsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>契約駐車場　1,500円（税込）/14時～翌日14時</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「博多駅から15分、朝食や備品に不満あり何時もは市内にある天然温泉の違うホテルチェーンに泊まりますが今回は博多駅に近い温泉ホテルと言う事で選びました。近いと言っても真夏の暑い中キャリーバックを引きず…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「博多駅から15分、朝食や備品に不満あり何時もは市内にある天然温泉の違うホテルチェーンに泊まりますが今回は博多駅に近い温泉ホテルと言う事で選びました。」
                   </blockquote>
                 </div>
               </div>

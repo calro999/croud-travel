@@ -401,7 +401,7 @@ export default function AutumnBudgetHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 函館天然温泉ルートイングランティア函館駅前</td>
                 <td className="p-3 text-stone-600">北海道函館市若松町21-3</td>
-                <td className="p-3 text-stone-600">函館駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ 函館駅より徒歩２分／函館ＩＣより車で２０分／函館空港より車で２０分／函館港より車で２０分</td>
                 <td className="p-3 text-stone-600">１０２台５００円（税込/１泊）■身障者用、大型車等は事前連絡を。近隣にバス専用Ｐ有（当ホテル所轄外）</td>
                 <td className="p-3 font-bold text-amber-600">★4.16（2667件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,150〜</td>
@@ -419,7 +419,7 @@ export default function AutumnBudgetHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. アパホテル〈函館駅前〉</td>
                 <td className="p-3 text-stone-600">北海道函館市大手町19-13</td>
-                <td className="p-3 text-stone-600">函館駅周辺</td>
+                <td className="p-3 text-stone-600">JR函館本線 函館駅から徒歩5分</td>
                 <td className="p-3 text-stone-600">ホテル専用駐車場なし。提携駐車場あり：先着順 14台、予約不可、 1泊500円（15時から翌11時）</td>
                 <td className="p-3 font-bold text-amber-600">★4.09（714件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,600〜</td>
@@ -428,7 +428,7 @@ export default function AutumnBudgetHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. Ｔａｂｉｓｔ　ホテルテトラ函館駅前</td>
                 <td className="p-3 text-stone-600">北海道函館市若松町19-11</td>
-                <td className="p-3 text-stone-600">函館駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ函館駅から徒歩で5分。函館空港よりシャトルバスで20分。</td>
                 <td className="p-3 text-stone-600">1台１泊800円　 数に限りあり　 GWなど特別期間は別料金。</td>
                 <td className="p-3 font-bold text-amber-600">★3.74（1857件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,500〜</td>
@@ -437,7 +437,7 @@ export default function AutumnBudgetHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. フォーポイント　フレックス　ｂｙ　シェラトン　函館駅</td>
                 <td className="p-3 text-stone-600">北海道函館市若松町18-19</td>
-                <td className="p-3 text-stone-600">函館駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ函館駅より徒歩にて約５分</td>
                 <td className="p-3 text-stone-600">専用駐車場30台　800円／日（15時〜翌11時）</td>
                 <td className="p-3 font-bold text-amber-600">★3.8（503件）</td>
                 <td className="p-3 font-bold text-rose-600">¥2,904〜</td>
@@ -466,7 +466,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>１０２台５００円（税込/１泊）■身障者用、大型車等は事前連絡を。近隣にバス専用Ｐ有（当ホテル所轄外）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近で立地は最高、部屋の移動は要確認結婚記念日に3泊で利用しました。加熱式たばこOKのセミダブルの部屋を予約。予約時の備考欄に「景色のいい部屋を希望、レンタカー利用で駐車場希望」と書いたら…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近で立地は最高、部屋の移動は要確認結婚記念日に3泊で利用しました。加熱式たばこOKのセミダブルの部屋を予約。」
                   </blockquote>
                 </div>
               </div>
@@ -488,7 +488,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「海と電車の景色と朝食に大満足、また行きたい客室当日空きありでグレードアップしていただき海と電車の見えるお部屋で大変満足です 海の景色はいくら見ていても飽きませんでした 朝食も海鮮丼 蝦夷鹿のカレー…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「海と電車の景色と朝食に大満足、また行きたい客室当日空きありでグレードアップしていただき海と電車の見えるお部屋で大変満足です 海の景色はいくら見ていても飽きませんでした 朝食も海鮮丼 蝦夷鹿のカレー。」
                   </blockquote>
                 </div>
               </div>
@@ -532,7 +532,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>1台１泊800円　 数に限りあり　 GWなど特別期間は別料金。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.99 ／ 立地 ★3.78 ／ 部屋 ★3.42 ／ 設備 ★3.28 ／ 風呂 ★3.23</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「バイクツーリングで利用バイクツーリングに人気の宿とのことで素泊まり利用でしたが外観から古臭く昔のビジネスホテルという感じでベッドは硬めで好みの感じ枕は1つ枕元付近にコンセントあるのでスマホやCPA…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「バイクツーリングで利用バイクツーリングに人気の宿とのことで素泊まり利用でしたが外観から古臭く昔のビジネスホテルという感じでベッドは硬めで好みの感じ枕は1つ枕元付近にコンセントあるのでスマホやCPA。」
                   </blockquote>
                 </div>
               </div>

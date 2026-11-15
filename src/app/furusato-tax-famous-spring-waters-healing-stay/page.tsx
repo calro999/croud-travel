@@ -351,7 +351,7 @@ export default function FurusatoUpgradedPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 南阿蘇夢しずく温泉　別邸蘇庵</td>
                 <td className="p-3 text-stone-600">熊本県阿蘇郡南阿蘇村河陰5-56</td>
-                <td className="p-3 text-stone-600">白水高原駅周辺</td>
+                <td className="p-3 text-stone-600">【長陽大橋開通】熊本ICより57号線経由車で50分・【 俵山トンネル経由】 熊本空港より車で約30分</td>
                 <td className="p-3 text-stone-600">有り　２０台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.69（243件）</td>
                 <td className="p-3 font-bold text-rose-600">¥30,500〜</td>
@@ -360,7 +360,7 @@ export default function FurusatoUpgradedPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 穂高温泉郷　安曇野穂高ビューホテル</td>
                 <td className="p-3 text-stone-600">長野県安曇野市穂高牧2200-3</td>
-                <td className="p-3 text-stone-600">松本駅周辺</td>
+                <td className="p-3 text-stone-600">長野自動車道【安曇野IC】よりお車で約25分。【松本IC】よりお車で約40分／JR大糸線穂高駅よりバスで約15分</td>
                 <td className="p-3 text-stone-600">有り　80台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.3（1339件）</td>
                 <td className="p-3 font-bold text-rose-600">¥12,700〜</td>
@@ -369,7 +369,7 @@ export default function FurusatoUpgradedPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 富士山三島東急ホテル</td>
                 <td className="p-3 text-stone-600">静岡県三島市一番町17-1</td>
-                <td className="p-3 text-stone-600">三島駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ 三島駅（南口）／伊豆箱根鉄道 三島駅より徒歩にて約１分</td>
                 <td className="p-3 text-stone-600">提携駐車場／複合施設敷地内15台(屋外平面)1,500円/1泊(先着順)◆予約不可・途中出庫不可</td>
                 <td className="p-3 font-bold text-amber-600">★4.52（690件）</td>
                 <td className="p-3 font-bold text-rose-600">¥9,800〜</td>
@@ -398,7 +398,7 @@ export default function FurusatoUpgradedPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「すき焼きと釜炊きご飯が絶品、接客も丁寧露天風呂付き客室。風呂場は広いが湯船は少し狭い。自動湯はりシステムは、1度に出るお湯の量が少なく何度も出さなければならないのが少し面倒。ロケー…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「すき焼きと釜炊きご飯が絶品、接客も丁寧露天風呂付き客室。風呂場は広いが湯船は少し狭い。自動湯はりシステムは、1度に出るお湯の量が少なく何度も出さなければならないのが少し面倒。」
                   </blockquote>
                 </div>
               </div>

@@ -309,7 +309,7 @@ export default function AutumnBudgetTakasakiHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. アパホテル＜高崎駅東口＞２０２６年１１月２日ＯＰＥＮ</td>
                 <td className="p-3 text-stone-600">群馬県高崎市東町48-6</td>
-                <td className="p-3 text-stone-600">高崎駅周辺</td>
+                <td className="p-3 text-stone-600">上越新幹線・北陸新幹線・JR各線・上信電鉄「高崎駅」（東口）より徒歩6分</td>
                 <td className="p-3 text-stone-600">近隣コインパーキングのご利用をお願いいたします。【ココパルク800　料金：1,000円／24H】</td>
                 <td className="p-3 font-bold text-amber-600">★4.23（13件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,780〜</td>
@@ -318,7 +318,7 @@ export default function AutumnBudgetTakasakiHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. アパホテル〈高崎駅前〉</td>
                 <td className="p-3 text-stone-600">群馬県高崎市八島町232-8</td>
-                <td className="p-3 text-stone-600">高崎駅周辺</td>
+                <td className="p-3 text-stone-600">JR高崎駅西口から徒歩１分！（デッキ直結）高崎アリーナまで徒歩約８分！Ｇメッセ群馬にも車で約10分！</td>
                 <td className="p-3 text-stone-600">1階にコインパーキングあり。当館には提携している駐車場はございません。</td>
                 <td className="p-3 font-bold text-amber-600">★4.12（5786件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,230〜</td>
@@ -327,7 +327,7 @@ export default function AutumnBudgetTakasakiHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. ホテル１ー２ー３高崎</td>
                 <td className="p-3 text-stone-600">群馬県高崎市栄町2-23</td>
-                <td className="p-3 text-stone-600">高崎駅周辺</td>
+                <td className="p-3 text-stone-600">高崎駅東口より徒歩3分</td>
                 <td className="p-3 text-stone-600">事前に手配できる駐車場はございません。周辺のコインパーキングをご利用ください。</td>
                 <td className="p-3 font-bold text-amber-600">★4.17（2780件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,500〜</td>
@@ -336,7 +336,7 @@ export default function AutumnBudgetTakasakiHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 東横ＩＮＮ高崎駅西口１</td>
                 <td className="p-3 text-stone-600">群馬県高崎市鶴見町2-2</td>
-                <td className="p-3 text-stone-600">高崎駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ 高崎駅から徒歩5分</td>
                 <td className="p-3 text-stone-600">有料：立体駐車場1泊￥500</td>
                 <td className="p-3 font-bold text-amber-600">★4.03（952件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,408〜</td>
@@ -345,7 +345,7 @@ export default function AutumnBudgetTakasakiHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 高崎アーバンホテル</td>
                 <td className="p-3 text-stone-600">群馬県高崎市八島町58-1</td>
-                <td className="p-3 text-stone-600">高崎駅周辺</td>
+                <td className="p-3 text-stone-600">JR高崎駅西口の正面ビル。高崎駅西口より直接デッキでつながっている。徒歩１分。関越自動車道高崎インターよりお車で15分</td>
                 <td className="p-3 text-stone-600">ホテル南隣「駅前駐車場」1泊1000円。</td>
                 <td className="p-3 font-bold text-amber-600">★4.14（4300件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,600〜</td>
@@ -462,7 +462,7 @@ export default function AutumnBudgetTakasakiHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>ホテル南隣「駅前駐車場」1泊1000円。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.18 ／ 立地 ★4.25 ／ 部屋 ★4.11 ／ 設備 ★4.03 ／ 風呂 ★4 ／ 食事 ★4.1</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「おしぼりと青竹榛名湖マラソン参戦のため前泊。建物自体は古いのだろうがメンテがほぼ行き届いており快適。駅近でイオンからも近くロケーションは最高。独特だったのが、チェックイン時にいただいたおしぼりと部…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「おしぼりと青竹榛名湖マラソン参戦のため前泊。建物自体は古いのだろうがメンテがほぼ行き届いており快適。駅近でイオンからも近くロケーションは最高。」
                   </blockquote>
                 </div>
               </div>

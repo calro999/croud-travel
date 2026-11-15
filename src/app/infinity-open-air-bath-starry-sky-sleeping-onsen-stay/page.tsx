@@ -253,7 +253,7 @@ export default function StargazingHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 伊香保温泉　ホテルいかほ銀水</td>
                 <td className="p-3 text-stone-600">群馬県渋川市伊香保町伊香保557-23</td>
-                <td className="p-3 text-stone-600">渋川駅周辺</td>
+                <td className="p-3 text-stone-600">関越道 伊香保・渋川ＩＣより１５分。ＪＲ上越線「渋川駅」から乗り継ぎバス２０分。</td>
                 <td className="p-3 text-stone-600">有り：５０台（無料・予約制）</td>
                 <td className="p-3 font-bold text-amber-600">★3.38（335件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,980〜</td>
@@ -262,7 +262,7 @@ export default function StargazingHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 天空の大地　久住高原ホテル</td>
                 <td className="p-3 text-stone-600">大分県竹田市久住町久住4031</td>
-                <td className="p-3 text-stone-600">豊後竹田駅周辺</td>
+                <td className="p-3 text-stone-600">やまなみハイウェイ『瀬の本』から車で10分/豊後竹田駅より車で30分</td>
                 <td className="p-3 text-stone-600">有　200台　無料（事前予約不要）</td>
                 <td className="p-3 font-bold text-amber-600">★4.05（263件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,450〜</td>
@@ -271,7 +271,7 @@ export default function StargazingHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 久住温泉　フリューゲル久住　輝く星の大地</td>
                 <td className="p-3 text-stone-600">大分県竹田市久住町都野6049-89</td>
-                <td className="p-3 text-stone-600">豊後竹田駅周辺</td>
+                <td className="p-3 text-stone-600">豊後竹田駅からお車にて約３０分 大分自動車道湯布院ICから６０分 熊本空港から１時間３０分</td>
                 <td className="p-3 text-stone-600">有り　２０台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.64（199件）</td>
                 <td className="p-3 font-bold text-rose-600">¥37,400〜</td>
@@ -280,7 +280,7 @@ export default function StargazingHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. くじゅう高原温泉　レゾネイトクラブくじゅう</td>
                 <td className="p-3 text-stone-600">大分県竹田市久住町大字有氏字広内1773</td>
-                <td className="p-3 text-stone-600">豊後竹田駅周辺</td>
+                <td className="p-3 text-stone-600">JR豊後竹田駅から約３０分／大分道・日田ＩＣから約９０分</td>
                 <td className="p-3 text-stone-600">有り　屋外６０台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.21（715件）</td>
                 <td className="p-3 font-bold text-rose-600">¥16,065〜</td>
@@ -289,7 +289,7 @@ export default function StargazingHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. クアパーク長湯</td>
                 <td className="p-3 text-stone-600">大分県竹田市直入町長湯3041-1</td>
-                <td className="p-3 text-stone-600">豊後竹田駅周辺</td>
+                <td className="p-3 text-stone-600">JR豊後竹田駅よりお車にて約２０分</td>
                 <td className="p-3 text-stone-600">有り　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★3.78（86件）</td>
                 <td className="p-3 font-bold text-rose-600">¥15,300〜</td>
@@ -298,7 +298,7 @@ export default function StargazingHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">6. 奥日光湯元温泉　ゆの森</td>
                 <td className="p-3 text-stone-600">栃木県日光市湯元2549-3</td>
-                <td className="p-3 text-stone-600">東武日光駅周辺</td>
+                <td className="p-3 text-stone-600">東武日光駅から東武バス乗車、終点「湯元温泉」下車（約６０分） 日光東照宮まで車60分</td>
                 <td className="p-3 text-stone-600">有り　１２台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.76（116件）</td>
                 <td className="p-3 font-bold text-rose-600">¥41,800〜</td>
@@ -327,7 +327,7 @@ export default function StargazingHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り：５０台（無料・予約制）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ワンコと泊まれるホテル良い点ワンコと一緒に宿泊させていただきました。スタッフもとても感じが良い方ばかりです。特にお食事会場の仲居さんたちは皆さん笑顔でとても感じが良い方たちばかりでした。…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ワンコと泊まれるホテル良い点ワンコと一緒に宿泊させていただきました。スタッフもとても感じが良い方ばかりです。特にお食事会場の仲居さんたちは皆さん笑顔でとても感じが良い方たちばかりでした。」
                   </blockquote>
                 </div>
               </div>
@@ -371,7 +371,7 @@ export default function StargazingHubPage() {
                   <p>【満天の星空露天風呂＆寝湯インフィニティ宿：天然プラネ】 <strong>【駐車場・マイカー利用】</strong>有り　２０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「丁寧な対応とブルーベリー狩りでリフレッシュ到着から、丁寧な対応で、とても気持ち良く過ごせました。ブルーベリーが取り放題で、自然も豊かで、とてもリフレッシュ出来ました。お部屋には、要所要所に、イ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「丁寧な対応とブルーベリー狩りでリフレッシュ到着から、丁寧な対応で、とても気持ち良く過ごせました。ブルーベリーが取り放題で、自然も豊かで、とてもリフレッシュ出来ました。」
                   </blockquote>
                 </div>
               </div>
@@ -393,7 +393,7 @@ export default function StargazingHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　屋外６０台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.33 ／ 立地 ★4.36 ／ 部屋 ★4.19 ／ 設備 ★4.02 ／ 風呂 ★4.09 ／ 食事 ★4.44</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「静かな環境と美味しい食事に大満足9月末に妻と気分転換の為ご利用させて頂きました。利用するのは4,5回目。とても静かで景色も良くまた食事もとても美味しく是非また利用したいと思います。フロントの方…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「静かな環境と美味しい食事に大満足9月末に妻と気分転換の為ご利用させて頂きました。利用するのは4,5回目。とても静かで景色も良くまた食事もとても美味しく是非また利用したいと思います。」
                   </blockquote>
                 </div>
               </div>

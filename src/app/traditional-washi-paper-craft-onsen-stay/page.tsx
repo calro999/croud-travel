@@ -565,8 +565,8 @@ export default function FeatureDetailPage() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 伊野駅よりアクセス。JR伊野駅より北部交通バスで15分、岩村下車すぐ/高知市内より車で30分。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「土佐和紙工芸村「くらうど」」にチェックイン。夕食評価4.8 土佐の自然の恵みを、見て、味わって、体験して。仁淀川の隠れ宿。などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「土佐和紙工芸村「くらうど」」の湯処へ。夕食評価4.8 土佐の自然の恵みを、見て、味わって、体験して。仁淀川のとともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「土佐和紙工芸村「くらうど」」にチェックイン。夕食評価4.8 土佐の自然の恵みを、見て、味わって、体験して。仁淀川の隠れ宿。 荷物を解き、落ち着いた室内でまず一息つく。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「土佐和紙工芸村「くらうど」」の湯船で寛ぎタイム。季節の空気を感じながら手足を伸ばし、心豊かな夕方のリラックス時間を満喫。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「土佐和紙工芸村「くらうど」」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -578,7 +578,7 @@ export default function FeatureDetailPage() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「土佐和紙工芸村「くらうど」」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「土佐和紙工芸村「くらうど」」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「磐梯熱海温泉 萩姫の湯 栄楽館」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は「土佐和紙工芸村「くらうど」」周辺の観光スポットや地元の名産店に立ち寄り、ご当地のお土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>
@@ -706,7 +706,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 土佐和紙工芸村「くらうど」</td>
                 <td className="p-3 text-stone-600">高知県吾川郡いの町鹿敷1226</td>
-                <td className="p-3 text-stone-600">伊野駅周辺</td>
+                <td className="p-3 text-stone-600">JR伊野駅より北部交通バスで15分、岩村下車すぐ/高知市内より車で30分</td>
                 <td className="p-3 text-stone-600">有り　９０台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.43（278件）</td>
                 <td className="p-3 font-bold text-rose-600">¥10,850〜</td>
@@ -715,7 +715,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 磐梯熱海温泉　萩姫の湯　栄楽館</td>
                 <td className="p-3 text-stone-600">福島県郡山市熱海町熱海4-47</td>
-                <td className="p-3 text-stone-600">■郡山駅から磐越西線で15分　磐梯熱海駅から徒歩３分 ■磐越道 磐梯熱</td>
+                <td className="p-3 text-stone-600">■郡山駅から磐越西線で15分 磐梯熱海駅から徒歩３分 ■磐越道 磐梯熱海ＩＣ下車 車で約5分</td>
                 <td className="p-3 text-stone-600">有り　８０台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.13（1061件）</td>
                 <td className="p-3 font-bold text-rose-600">¥11,000〜</td>
@@ -724,7 +724,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 湯郷温泉　和モダンな宿　かつらぎ</td>
                 <td className="p-3 text-stone-600">岡山県美作市湯郷800</td>
-                <td className="p-3 text-stone-600">林野駅周辺</td>
+                <td className="p-3 text-stone-600">中国道「美作IC」から車で7分。津山市内まで約30分。《宿周辺にコンビニ＆居酒屋あり》</td>
                 <td className="p-3 text-stone-600">有り（無料）　約２０台</td>
                 <td className="p-3 font-bold text-amber-600">★3.77（1083件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,200〜</td>
@@ -733,7 +733,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 道後温泉　花ゆづき</td>
                 <td className="p-3 text-stone-600">愛媛県松山市道後湯月町4-16</td>
-                <td className="p-3 text-stone-600">松山（愛媛）駅周辺</td>
+                <td className="p-3 text-stone-600">道後温泉駅から徒歩5分・松山駅から市内電車で20分・道後温泉本館までは徒歩で1分！</td>
                 <td className="p-3 text-stone-600">野外平面駐車場◆バイク、普通車1台1泊につき1,100円※大型車などは応相談</td>
                 <td className="p-3 font-bold text-amber-600">★4（1517件）</td>
                 <td className="p-3 font-bold text-rose-600">¥10,450〜</td>
@@ -742,7 +742,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 人気の露天風呂客室と富山の旬菜美味　宇奈月温泉サン柳亭</td>
                 <td className="p-3 text-stone-600">富山県黒部市宇奈月温泉1397-2</td>
-                <td className="p-3 text-stone-600"></td>
+                <td className="p-3 text-stone-600">富山県黒部市宇奈月温泉1397-2 ／ 交通案内：</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.7（640件）</td>
                 <td className="p-3 font-bold text-rose-600">¥22,300〜</td>
@@ -771,7 +771,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　９０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「接客とロケーションが最高、食事も大満足接客対応がとても素晴らしくロケーションも抜群でした。朝食、夕食ともとても美味しく是非また利用したいです。色々、高知の宿を迷いましたが、ここにして良かったです。…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「接客とロケーションが最高、食事も大満足接客対応がとても素晴らしくロケーションも抜群でした。朝食、夕食ともとても美味しく是非また利用したいです。色々、高知の宿を迷いましたが、ここにして良かったです。」
                   </blockquote>
                 </div>
               </div>
@@ -815,7 +815,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り（無料）　約２０台</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.8 ／ 立地 ★3.62 ／ 部屋 ★3.69 ／ 設備 ★3.67 ／ 風呂 ★3.87 ／ 食事 ★3.88</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「お風呂と電子レンジが便利、また利用したい10/2~4の2泊しました。浴衣は男性用が中と女性用が小で用意されていてサイズが合わず使いませんでした。館内は下駄で移動でしたが履き慣れていないので妻は階段…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「お風呂と電子レンジが便利、また利用したい10/2~4の2泊しました。浴衣は男性用が中と女性用が小で用意されていてサイズが合わず使いませんでした。」
                   </blockquote>
                 </div>
               </div>
@@ -837,7 +837,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>野外平面駐車場◆バイク、普通車1台1泊につき1,100円※大型車などは応相談</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.98 ／ 立地 ★4.16 ／ 部屋 ★4.01 ／ 設備 ★3.82 ／ 風呂 ★4.03</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「道後温泉街へのアクセスが抜群で便利とても立地は良く、建物は古いが綺麗です。道後温泉駅から徒歩10分ぐらいでしょうか、とてもアクセスの良いところなので温泉街でお土産買うのも便利です。…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「道後温泉街へのアクセスが抜群で便利とても立地は良く、建物は古いが綺麗です。道後温泉駅から徒歩10分ぐらいでしょうか、とてもアクセスの良いところなので温泉街でお土産買うのも便利です。」
                   </blockquote>
                 </div>
               </div>

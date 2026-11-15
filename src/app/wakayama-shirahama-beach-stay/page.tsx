@@ -253,7 +253,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 白浜温泉　ホテル三楽荘</td>
                 <td className="p-3 text-stone-600">和歌山県西牟婁郡白浜町3078</td>
-                <td className="p-3 text-stone-600">白浜駅周辺</td>
+                <td className="p-3 text-stone-600">車：紀勢自動車道南紀白浜ICより県道34号線を白浜温泉方面へ約20分 電車：JR白浜駅よりバスで15分</td>
                 <td className="p-3 text-stone-600">有り　100台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.55（2591件）</td>
                 <td className="p-3 font-bold text-rose-600">¥12,100〜</td>
@@ -262,7 +262,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 白浜温泉　ホテルサンリゾート白浜</td>
                 <td className="p-3 text-stone-600">和歌山県西牟婁郡白浜町堅田2500-185</td>
-                <td className="p-3 text-stone-600">白浜駅周辺</td>
+                <td className="p-3 text-stone-600">JR白浜駅より車で約5分・南紀白浜空港より車で約10分・JR白浜駅より旅館組合運営無料シャトルバス運行（運休日あり）</td>
                 <td className="p-3 text-stone-600">有り　35台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★3.72（479件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,000〜</td>
@@ -271,7 +271,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 南紀白浜　和みの湯　花鳥風月</td>
                 <td className="p-3 text-stone-600">和歌山県西牟婁郡白浜町3729-32</td>
-                <td className="p-3 text-stone-600">白浜駅周辺</td>
+                <td className="p-3 text-stone-600">JR白浜駅より車で15分／南紀白浜空港より車で約15分／アドベンチャーワールドより車で約15分</td>
                 <td className="p-3 text-stone-600">24台（無料）</td>
                 <td className="p-3 font-bold text-amber-600">★4.59（486件）</td>
                 <td className="p-3 font-bold text-rose-600">¥15,400〜</td>
@@ -280,7 +280,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 白浜温泉　ＫＫＲ白浜　美浜荘（国家公務員共済組合連合会白浜保養所）</td>
                 <td className="p-3 text-stone-600">和歌山県西牟婁郡白浜町1564-2</td>
-                <td className="p-3 text-stone-600">白浜駅周辺</td>
+                <td className="p-3 text-stone-600">JRきのくに線 白浜駅下車 路線バス 温泉行き 白良浜バス停より徒歩２分 阪和自動車道を南紀田辺ＩＣ～車で25分</td>
                 <td className="p-3 text-stone-600">有　【20台】　　無料です。</td>
                 <td className="p-3 font-bold text-amber-600">★4.46（387件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,500〜</td>
@@ -309,7 +309,7 @@ export default function MicroTouristHubPage() {
                   <p>【和歌山・南紀白浜：白良浜・アドベンチャーワールド＆崎】 <strong>【駐車場・マイカー利用】</strong>有り　100台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「海が見える絶景とアドベンチャーワールドへの近さ部屋の窓から海が見えるので夕陽がみえてよかった。海にすぐ行けるのもいい。ご飯は普通でした。特別感がなかったし、種類も少なかった。アドベンチャーワールド…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「海が見える絶景とアドベンチャーワールドへの近さ部屋の窓から海が見えるので夕陽がみえてよかった。海にすぐ行けるのもいい。ご飯は普通でした。特別感がなかったし、種類も少なかった。」
                   </blockquote>
                 </div>
               </div>
@@ -331,7 +331,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　35台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「外観に驚くも食事とプールが大満足!オレンジ色のド派手な建物!なんか不安でしたが大当たりでした。スタッフも親切でセルフのお茶やご飯もやってくれました。1人でプールを貸し切りで満喫しました…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「外観に驚くも食事とプールが大満足!オレンジ色のド派手な建物!なんか不安でしたが大当たりでした。スタッフも親切でセルフのお茶やご飯もやってくれました。」
                   </blockquote>
                 </div>
               </div>
@@ -353,7 +353,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>24台（無料）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「毎年恒例の楽しみ、変わらぬ綺麗さと気配り3回目の宿泊で毎年楽しみにしている宿の一つとなりました。オープン当初と変わらずきれいな館内、部屋もとても綺麗で気持ちよく過ごすことができました。ちょっとした…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「毎年恒例の楽しみ、変わらぬ綺麗さと気配り3回目の宿泊で毎年楽しみにしている宿の一つとなりました。オープン当初と変わらずきれいな館内、部屋もとても綺麗で気持ちよく過ごすことができました。」
                   </blockquote>
                 </div>
               </div>

@@ -334,7 +334,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. プライベートプールヴィラもとぶ</td>
                 <td className="p-3 text-stone-600">沖縄県国頭郡本部町山川473-3</td>
-                <td className="p-3 text-stone-600">那覇空港駅周辺</td>
+                <td className="p-3 text-stone-600">那覇空港から、沖縄自動車道を経由して約１００分</td>
                 <td className="p-3 text-stone-600">有り/無料/予約不要＜デラックス：2台、エグゼクテイブ：3台＞</td>
                 <td className="p-3 font-bold text-amber-600">★4.25（16件）</td>
                 <td className="p-3 font-bold text-rose-600">¥12,005〜</td>
@@ -343,7 +343,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. フサキビーチリゾート　ホテル＆ヴィラズ　＜石垣島＞</td>
                 <td className="p-3 text-stone-600">沖縄県石垣市新川1625番地</td>
-                <td className="p-3 text-stone-600">石垣空港駅周辺</td>
+                <td className="p-3 text-stone-600">石垣空港より 車で約35分。石垣港より車で約15分。空港・ホテル間の無料送迎バスもございます。</td>
                 <td className="p-3 text-stone-600">有り（299台/先着順）：宿泊者無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.61（1573件）</td>
                 <td className="p-3 font-bold text-rose-600">¥11,490〜</td>
@@ -352,7 +352,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. ジ・ウザテラス　ビーチクラブヴィラズ</td>
                 <td className="p-3 text-stone-600">沖縄県中頭郡読谷村宇座630-1</td>
-                <td className="p-3 text-stone-600">那覇空港駅周辺</td>
+                <td className="p-3 text-stone-600">那覇空港より車またはタクシー利用で国道58号線経由または、沖縄自動車道石川I.C.経由で約70分</td>
                 <td className="p-3 text-stone-600">有料 1台につき1泊￥2,000（税込み）</td>
                 <td className="p-3 font-bold text-amber-600">★4.82（24件）</td>
                 <td className="p-3 font-bold text-rose-600">¥51,920〜</td>
@@ -403,7 +403,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り（299台/先着順）：宿泊者無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「リゾート感たっぷりのホテルで、小さなお子さんがいるご家庭には特におすすめです!プールやビーチなど、子どもたちと一緒に楽しめて、家族旅行の素敵な思い出になりました。食事については、少し好みが分か…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「リゾート感たっぷりのホテルで、小さなお子さんがいるご家庭には特におすすめです!プールやビーチなど、子どもたちと一緒に楽しめて、家族旅行の素敵な思い出になりました。」
                   </blockquote>
                 </div>
               </div>

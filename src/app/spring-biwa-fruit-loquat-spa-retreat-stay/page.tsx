@@ -35,7 +35,7 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/32247/32247map.gif",
     "reviewCount": 135,
     "reviewAverage": 3.3,
-    "userReview": "田舎の隠れ家で温泉を貸し切り気分で満喫隠れ家的な立地の田舎のおじいちゃんおばあちゃんの家、という感じの宿でした。24時間自由に入れる温泉を貸し切り同然で使えてラッキーでした。クチコミの詳細。",
+    "userReview": "田舎の隠れ家で温泉を貸し切り気分で満喫隠れ家的な立地の田舎のおじいちゃんおばあちゃんの家、という感じの宿でした。24時間自由に入れる温泉を貸し切り同然で使えてラッキーでした。",
     "hotelMinCharge": 4400,
     "address1": "千葉県",
     "address2": "南房総市富浦町豊岡124-1",
@@ -501,7 +501,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 南房総癒しの宿　聖山荘</td>
                 <td className="p-3 text-stone-600">千葉県南房総市富浦町豊岡124-1</td>
-                <td className="p-3 text-stone-600">富浦（千葉）駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ内房線 富浦駅／館山道 富浦ＩＣより５分／アクアライン～１２７号（１時間）</td>
                 <td className="p-3 text-stone-600">有　１０台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★3.38（136件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,400〜</td>
@@ -510,7 +510,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 美味しい温泉　夢みさき</td>
                 <td className="p-3 text-stone-600">千葉県南房総市千倉町瀬戸2980-133</td>
-                <td className="p-3 text-stone-600">千倉駅周辺</td>
+                <td className="p-3 text-stone-600">館山道富浦ＩＣより車で約２５分、ＪＲ千倉駅よりタクシーで３分位、ご宿泊のお客様はお迎えのバスあり（１４時～１８時）</td>
                 <td className="p-3 text-stone-600">無料駐車場あり　８０台（駐車場入り口は国道４１０号線沿い</td>
                 <td className="p-3 font-bold text-amber-600">★4.41（2555件）</td>
                 <td className="p-3 font-bold text-rose-600">¥14,800〜</td>
@@ -519,7 +519,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 弁天鉱泉</td>
                 <td className="p-3 text-stone-600">千葉県南房総市小浦487-3</td>
-                <td className="p-3 text-stone-600">岩井駅周辺</td>
+                <td className="p-3 text-stone-600">【車】岩井駅---施設(10分)。【車】館山自動車道鋸南富山IC---施設(20分)</td>
                 <td className="p-3 text-stone-600">有り　５台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.32（30件）</td>
                 <td className="p-3 font-bold text-rose-600">¥19,800〜</td>
@@ -548,7 +548,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有　１０台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.54 ／ 立地 ★3.21 ／ 部屋 ★3.17 ／ 設備 ★2.92 ／ 風呂 ★3.25 ／ 食事 ★3.88</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「田舎の隠れ家で温泉を貸し切り気分で満喫隠れ家的な立地の田舎のおじいちゃんおばあちゃんの家、という感じの宿でした。24時間自由に入れる温泉を貸し切り同然で使えてラッキーでした。クチコミの詳細…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「田舎の隠れ家で温泉を貸し切り気分で満喫隠れ家的な立地の田舎のおじいちゃんおばあちゃんの家、という感じの宿でした。24時間自由に入れる温泉を貸し切り同然で使えてラッキーでした。」
                   </blockquote>
                 </div>
               </div>
@@ -592,7 +592,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　５台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.22 ／ 立地 ★4.36 ／ 部屋 ★4.26 ／ 設備 ★4.08 ／ 風呂 ★4.38 ／ 食事 ★4.48</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「硫黄温泉と絶品の地魚料理に大満足硫黄温泉で温度も丁度良く、人数が少ないのでいつ行ってもゆっくり入れました。露天風呂は雨だったので富士山が見えなくて残念でしたが、海や対岸の三浦半島が見えて眺めはとて…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「硫黄温泉と絶品の地魚料理に大満足硫黄温泉で温度も丁度良く、人数が少ないのでいつ行ってもゆっくり入れました。」
                   </blockquote>
                 </div>
               </div>

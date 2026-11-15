@@ -420,8 +420,8 @@ export default function Page() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 湯沢駅よりアクセス。ＪＲ奥羽本線 湯沢駅から車で１５分／湯沢ＩＣから車で１０分。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「川原田館」にチェックイン。庭園を眺めながら、心温まる家庭的な雰囲気に包まれて、ゆったりとした時間をお過ごし頂けます。などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「川原田館」の湯処へ。庭園を眺めながら、心温まる家庭的な雰囲気に包まれて、ゆったりとした時間とともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「川原田館」にチェックイン。庭園を眺めながら、心温まる家庭的な雰囲気に包まれて、ゆったりとした時間をお過ごし頂けます。 窓外に広がる景色を眺めながらチェックイン後の寛ぎ時間を。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「川原田館」の湯船で寛ぎタイム。季節の空気を感じながら手足を伸ばし、心豊かな夕方のリラックス時間を満喫。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「川原田館」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -433,7 +433,7 @@ export default function Page() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「川原田館」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「川原田館」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「ビジネスホテル 郡上八幡インター」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は宿周辺の散策とショッピングを満喫。地元の名産品やグルメを味わってから余裕をもって帰路につく。</li>
               </ul>
             </div>
           </div>
@@ -561,7 +561,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 川原田館</td>
                 <td className="p-3 text-stone-600">秋田県雄勝郡羽後町西馬音内川原田81-1</td>
-                <td className="p-3 text-stone-600">湯沢駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ奥羽本線 湯沢駅から車で１５分／湯沢ＩＣから車で１０分</td>
                 <td className="p-3 text-stone-600">有り　１２台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.67（10件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,500〜</td>
@@ -570,7 +570,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. ビジネスホテル　郡上八幡インター</td>
                 <td className="p-3 text-stone-600">岐阜県郡上市八幡町五町3-1-15</td>
-                <td className="p-3 text-stone-600">郡上八幡駅周辺</td>
+                <td className="p-3 text-stone-600">郡上八幡駅から車で５分</td>
                 <td className="p-3 text-stone-600">有り　５０台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">高評価</td>
                 <td className="p-3 font-bold text-rose-600">プラン参照</td>
@@ -579,7 +579,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. ＪＲホテルクレメント徳島</td>
                 <td className="p-3 text-stone-600">徳島県徳島市寺島本町西1-61</td>
-                <td className="p-3 text-stone-600">徳島駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ徳島駅直結０分・高速バス降り場より徒歩１分・徳島阿波おどり空港より車で約30分・徳島Ｉ．Ｃ．から車で１５分。</td>
                 <td className="p-3 text-stone-600">1泊1台1,300円(24時間入出庫可能)※2026/4/1より1,300円へ変更になりました</td>
                 <td className="p-3 font-bold text-amber-600">★4.34（5160件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,200〜</td>

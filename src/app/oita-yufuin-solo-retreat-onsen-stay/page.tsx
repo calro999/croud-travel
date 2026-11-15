@@ -336,8 +336,8 @@ export default function ArticlePage() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 由布院駅よりアクセス。湯布院ＩＣより車で８分。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「由布院温泉 楓の小舎」にチェックイン。露天風呂、内湯完備の客室 由布院の小さな隠れ宿で過ごす寛ぎの時間。などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「由布院温泉 楓の小舎」の湯処へ。露天風呂、内湯完備の客室 由布院の小さな隠れ宿で過ごす寛ぎの時間。とともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「由布院温泉 楓の小舎」にチェックイン。露天風呂、内湯完備の客室 由布院の小さな隠れ宿で過ごす寛ぎの時間。 荷物を解き、落ち着いた室内でまず一息つく。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「由布院温泉 楓の小舎」の大浴場・露天風呂へ。日暮れの静けさの中で湯に浸かり、旅の緊張をゆっくりと解きほぐす。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「由布院温泉 楓の小舎」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -365,49 +365,49 @@ export default function ArticlePage() {
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">あわせて読みたい人気特集＆全国エリアガイド</h2>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
-            <a href="/furusato-tax-yoro-keikoku-autumn-leaves-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/oita-yufuin-kinrin-lake-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">関東で最も遅い紅葉！千葉・養老渓谷の粟又の滝＆房総黒湯温泉旅館×ふるさと納税厳選ガイド千葉</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「大分・由布院」金鱗湖・湯の坪街道＆由布岳パノラマ極上宿 厳選ガイド</span>
             </a>
-            <a href="/winter-chiba-naritasan-shinshoji-hatsumode-unagi-sawara-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/winter-oita-hita-amagase-onsen-mamedamachi-bungogyu-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12・1月千葉】成田山新勝寺の新春初詣＆表参道名物うなぎと北総小江戸・佐原の重伝建風情を巡る名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">（metadata.title as string）</span>
             </a>
-            <a href="/furusato-tax-boso-yorokeikoku-autumn-leaves-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/winter-oita-sujiyu-onsen-kuju-snow-bungo-beef-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">房総・養老渓谷の粟又の滝紅葉＆紅葉ライトアップ！名物黒湯温泉宿×ふるさと納税厳選ガイド千葉</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">標高1000mくじゅう連山の霧氷雪景色 日本一の打たせ湯と極上おおいた豊後牛名宿</span>
             </a>
-            <a href="/winter-chiba-minamiboso-kyonan-suisen-road-awa-shrine-hatsumode-iseebi-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/winter-oita-yufuin-onsen-kinrinko-asamiri-bungo-beef-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12・1月千葉】常春の南房総「江月水仙ロード」1000万本の水仙の香りと房総フラワーライン！日本三大金運神社「安房神社」新春初詣・野島埼灯台の初日の出＆房総伊勢海老・金目鯛厳選名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12月由布院温泉の冬名湯と金鱗湖の幻想朝霧】 由布岳冠雪・離れ露天風呂と極上豊後牛＆冠地鶏鍋会席の宿5選</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
             <div className="flex flex-wrap gap-2">
               <Link
-                href="/prefectures/tokyo/"
+                href="/prefectures/oita/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                東京都の宿・温泉
+                大分県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/yamaguchi/"
+                href="/prefectures/fukuoka/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                山口県の宿・温泉
+                福岡県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/osaka/"
+                href="/prefectures/kumamoto/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                大阪府の宿・温泉
+                熊本県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/chiba/"
+                href="/prefectures/kagoshima/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                千葉県の宿・温泉
+                鹿児島県の宿・温泉
               </Link>
             </div>
           </div>
@@ -443,7 +443,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 由布院いよとみ</td>
                 <td className="p-3 text-stone-600">大分県由布市湯布院町川南848番地</td>
-                <td className="p-3 text-stone-600">湯布院駅周辺</td>
+                <td className="p-3 text-stone-600">JR由布院駅より徒歩７分・車で２分/湯布院ICより１０分</td>
                 <td className="p-3 text-stone-600">有り　２０台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.07（288件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,900〜</td>
@@ -452,7 +452,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 由布院温泉　柚富の郷　彩岳館</td>
                 <td className="p-3 text-stone-600">大分県由布市湯布院町川上2378-1</td>
-                <td className="p-3 text-stone-600">由布院駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ由布院駅より車で５分。14：30から17：30まで無料送迎有（駅着後要TEL）／大分自動車道湯布院ＩＣより車で１２分</td>
                 <td className="p-3 text-stone-600">32台分の無料駐車場あり。予約不要です。（バスは要事前連絡）</td>
                 <td className="p-3 font-bold text-amber-600">★4.43（359件）</td>
                 <td className="p-3 font-bold text-rose-600">¥31,900〜</td>
@@ -461,7 +461,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 由布院温泉　楓の小舎</td>
                 <td className="p-3 text-stone-600">大分県由布市湯布院町川上1270-28</td>
-                <td className="p-3 text-stone-600">由布院駅周辺</td>
+                <td className="p-3 text-stone-600">湯布院ＩＣより車で８分。由布院駅よりタクシーで５分</td>
                 <td className="p-3 text-stone-600">有り　１０台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.54（283件）</td>
                 <td className="p-3 font-bold text-rose-600">¥24,200〜</td>
@@ -512,7 +512,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>32台分の無料駐車場あり。予約不要です。（バスは要事前連絡）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.39 ／ 立地 ★4.52 ／ 部屋 ★4.54 ／ 設備 ★4.35 ／ 風呂 ★4.59 ／ 食事 ★4.46</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「一生懸命な接客と温泉、無料サービスが充実従業員は海外の方が多いが、みんな一生懸命で丁寧に接客してくれました。部屋数も少なく宿泊客も少なかったので、温泉もゆったり入れました。談話室での習字書き放…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「一生懸命な接客と温泉、無料サービスが充実従業員は海外の方が多いが、みんな一生懸命で丁寧に接客してくれました。部屋数も少なく宿泊客も少なかったので、温泉もゆったり入れました。」
                   </blockquote>
                 </div>
               </div>
@@ -534,7 +534,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「お食事、お部屋の温泉共にとても良かったです。建物は多少古い感じはありましたが清掃は綺麗にされており、初めての湯布院の旅行がとても良い思い出になりました。またいつか機会があればお邪魔したいなと思う旅…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「お食事、お部屋の温泉共にとても良かったです。建物は多少古い感じはありましたが清掃は綺麗にされており、初めての湯布院の旅行がとても良い思い出になりました。」
                   </blockquote>
                 </div>
               </div>

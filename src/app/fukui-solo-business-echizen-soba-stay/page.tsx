@@ -402,8 +402,8 @@ export default function ArticlePage() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 福井（福井）駅よりアクセス。■JR福井駅西口から徒歩2分。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「コートヤード・バイ・マリオット福井」にチェックイン。JR福井駅西口から徒歩2分！&amp;amp;#12220;層ビルの17～28階にあり眺望◎などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「コートヤード・バイ・マリオット福井」の湯処へ。JR福井駅西口から徒歩2分！&amp;amp;#12220;層ビルの17～28とともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「コートヤード・バイ・マリオット福井」にチェックイン。JR福井駅西口から徒歩2分！&amp;amp;#12220;層ビルの17～28階にあり眺望◎が魅力の一軒。客室で荷物をほどいて穏やかな午後のひとときを。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「コートヤード・バイ・マリオット福井」の大浴場・露天風呂へ。日暮れの静けさの中で湯に浸かり、旅の緊張をゆっくりと解きほぐす。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「コートヤード・バイ・マリオット福井」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>

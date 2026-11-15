@@ -110,7 +110,7 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/16099/16099map.gif",
     "reviewCount": 787,
     "reviewAverage": 3.31,
-    "userReview": "囲炉裏の炭火焼きと温泉は最高だが設備は古め夕食、朝食の際に、囲炉裏で炭火で食材を焼くのは、独特で楽しい。また、温泉も眺めがよく、気持ち良い。クチコミの詳。",
+    "userReview": "囲炉裏の炭火焼きと温泉は最高だが設備は古め夕食、朝食の際に、囲炉裏で炭火で食材を焼くのは、独特で楽しい。また、温泉も眺めがよく、気持ち良い。",
     "hotelMinCharge": 4950,
     "address1": "長野県",
     "address2": "茅野市北山5522",
@@ -565,8 +565,8 @@ export default function FeatureDetailPage() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 清里駅よりアクセス。JR小海線・清里駅から車で5分／中央道・長坂ICから25分。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「八ヶ岳の恵みを味わうレストラン＆ホテル オーベルジュ清里」にチェックイン。自家農園野菜を使ったレストランが人気！牧場、工房、農園など体験も充実のホテルなどの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「八ヶ岳の恵みを味わうレストラン＆ホテル オーベルジュ清里」の湯処へ。自家農園野菜を使ったレストランが人気！牧場、工房、農園など体験も充実のとともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「八ヶ岳の恵みを味わうレストラン＆ホテル オーベルジュ清里」にチェックイン。自家農園野菜を使ったレストランが人気！ まずは客室で移動の疲れをそっと癒やす。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「八ヶ岳の恵みを味わうレストラン＆ホテル オーベルジュ清里」の大浴場・露天風呂へ。日暮れの静けさの中で湯に浸かり、旅の緊張をゆっくりと解きほぐす。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「八ヶ岳の恵みを味わうレストラン＆ホテル オーベルジュ清里」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -578,7 +578,7 @@ export default function FeatureDetailPage() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「八ヶ岳の恵みを味わうレストラン＆ホテル オーベルジュ清里」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「八ヶ岳の恵みを味わうレストラン＆ホテル オーベルジュ清里」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「八ヶ岳温泉 樅の木荘」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は「八ヶ岳の恵みを味わうレストラン＆ホテル オーベルジュ清里」周辺の観光スポットや地元の名産店に立ち寄り、ご当地のお土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>
@@ -706,7 +706,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 八ヶ岳の恵みを味わうレストラン＆ホテル　オーベルジュ清里</td>
                 <td className="p-3 text-stone-600">山梨県北杜市高根町清里３５４５－９４３　コートドゥヴェール内</td>
-                <td className="p-3 text-stone-600">清里駅周辺</td>
+                <td className="p-3 text-stone-600">JR小海線・清里駅から車で5分／中央道・長坂ICから25分</td>
                 <td className="p-3 text-stone-600">有り　５０台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★5（45件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,900〜</td>
@@ -715,7 +715,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 八ヶ岳温泉　樅の木荘</td>
                 <td className="p-3 text-stone-600">長野県諏訪郡原村原山17217-1729</td>
-                <td className="p-3 text-stone-600">茅野駅周辺</td>
+                <td className="p-3 text-stone-600">中央道諏訪南ＩＣより車で15分 ＪＲ茅野駅より車30分/JRすずらんの里駅より10分＜団体ご予約は送迎可能＞</td>
                 <td className="p-3 text-stone-600">有り　１００台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.29（338件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,800〜</td>
@@ -724,7 +724,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. １０００Ｍのおもてなし　八ヶ岳　ホテル風か</td>
                 <td className="p-3 text-stone-600">山梨県北杜市小淵沢町上の原3989-1</td>
-                <td className="p-3 text-stone-600">小淵沢駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ中央本線 小淵沢駅より車で7分／中央自動車道 小淵沢ＩＣより車で4分</td>
                 <td className="p-3 text-stone-600">有り　35台　無料　予約不要　満車の場合は第２駐車場をご利用下さい。</td>
                 <td className="p-3 font-bold text-amber-600">★4.52（1828件）</td>
                 <td className="p-3 font-bold text-rose-600">¥11,900〜</td>
@@ -733,7 +733,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 蓼科温泉　いろりの宿　蓼科パークホテル</td>
                 <td className="p-3 text-stone-600">長野県茅野市北山5522</td>
-                <td className="p-3 text-stone-600">茅野駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ茅野駅下車タクシー２０分バス３０分／中央道諏訪ＩＣより約３０分</td>
                 <td className="p-3 text-stone-600">■有り200台無料　■全館Wi-Fi対応　■禁煙・喫煙ルームあり</td>
                 <td className="p-3 font-bold text-amber-600">★3.3（814件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,950〜</td>
@@ -742,7 +742,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 芹ヶ沢温泉　白樺湖ビューホテル（伊東園ホテルズ）</td>
                 <td className="p-3 text-stone-600">長野県北佐久郡立科町芦田八ヶ野白樺湖1525</td>
-                <td className="p-3 text-stone-600">茅野駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ 茅野駅よりバス乗車約５０分、西白樺湖下車徒歩４分</td>
                 <td className="p-3 text-stone-600">有り　７0台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★3.68（854件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,248〜</td>
@@ -793,7 +793,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１００台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉が気持ち良い旧棟のほうで利用しました。難点を先に述べれば、二階建てなのでなんとかなりましたが、エレベーターがないので手持ちで荷物を上げなければなりません。また、部屋の壁が結構薄く、お隣がに…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉が気持ち良い旧棟のほうで利用しました。難点を先に述べれば、二階建てなのでなんとかなりましたが、エレベーターがないので手持ちで荷物を上げなければなりません。」
                   </blockquote>
                 </div>
               </div>
@@ -837,7 +837,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>■有り200台無料　■全館Wi-Fi対応　■禁煙・喫煙ルームあり</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.46 ／ 立地 ★3.48 ／ 部屋 ★3.14 ／ 設備 ★2.94 ／ 風呂 ★3.46 ／ 食事 ★3.61</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「感想全般食事は種類が豊富で満足。特に夕食の炉端焼きはホテルにしては珍しく美味でした。4階の洋室の窓から見る山々などの展望はグッド。ただ施設が古いので仕方がありませんが、洗面所の汚れやシミが目立ち気…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「感想全般食事は種類が豊富で満足。特に夕食の炉端焼きはホテルにしては珍しく美味でした。4階の洋室の窓から見る山々などの展望はグッド。」
                   </blockquote>
                 </div>
               </div>

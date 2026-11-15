@@ -565,8 +565,8 @@ export default function FeatureDetailPage() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 小海駅よりアクセス。上信越道→中部横断道八千穂高原ＩＣより２０分／中央自動車道須玉又は長坂ＩＣより５０分／ＪＲ小海線小海駅より車で２０分。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「リゾート イン ボンシック」にチェックイン。静かで落ち着く小粋な宿・地産地消のお料理自慢のゲストハウス・Wi-Fi完備などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「リゾート イン ボンシック」の湯処へ。静かで落ち着く小粋な宿・地産地消のお料理自慢のゲストハウス・Wi-Fiとともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「リゾート イン ボンシック」にチェックイン。静かで落ち着く小粋な宿・地産地消のお料理自慢のゲストハウス・Wi-Fi完備が魅力の一軒。客室で荷物をほどいて穏やかな午後のひとときを。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「リゾート イン ボンシック」の湯船で寛ぎタイム。季節の空気を感じながら手足を伸ばし、心豊かな夕方のリラックス時間を満喫。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「リゾート イン ボンシック」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -706,7 +706,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. ＴＨＥ　ＬＡＫＥ　河口湖暮らし</td>
                 <td className="p-3 text-stone-600">山梨県南都留郡富士河口湖町長浜388</td>
-                <td className="p-3 text-stone-600">河口湖駅周辺</td>
+                <td className="p-3 text-stone-600">河口湖駅：車で約15分 /バス停・長浜：徒歩で約5分</td>
                 <td className="p-3 text-stone-600">有り　１０台　無料　予約不要 ※足和田ホテルの駐車場をご利用ください</td>
                 <td className="p-3 font-bold text-amber-600">高評価</td>
                 <td className="p-3 font-bold text-rose-600">¥37,620〜</td>
@@ -715,7 +715,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. グランパークホテルエクセル福島恵比寿</td>
                 <td className="p-3 text-stone-600">福島県福島市曾根田町10-6</td>
-                <td className="p-3 text-stone-600">福島（福島）駅周辺</td>
+                <td className="p-3 text-stone-600">東北新幹線 福島駅東口から徒歩約5分</td>
                 <td className="p-3 text-stone-600">専用駐車場無し。近隣のコインパーキングをご利用ください。</td>
                 <td className="p-3 font-bold text-amber-600">★3.9（2513件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,000〜</td>
@@ -724,7 +724,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. リゾート　イン　ボンシック</td>
                 <td className="p-3 text-stone-600">長野県南佐久郡小海町豊里5907-1</td>
-                <td className="p-3 text-stone-600">小海駅周辺</td>
+                <td className="p-3 text-stone-600">上信越道→中部横断道八千穂高原ＩＣより２０分／中央自動車道須玉又は長坂ＩＣより５０分／ＪＲ小海線小海駅より車で２０分</td>
                 <td className="p-3 text-stone-600">無料　玄関と反対側の道路を挟んだ向かい側にあります。荷物積み下ろしは玄関前にお車をお付け下さい。</td>
                 <td className="p-3 font-bold text-amber-600">★4.47（182件）</td>
                 <td className="p-3 font-bold text-rose-600">¥12,000〜</td>
@@ -733,7 +733,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. シャレー　ラ・ネージュ＜群馬県＞</td>
                 <td className="p-3 text-stone-600">群馬県利根郡みなかみ町藤原3831-7</td>
-                <td className="p-3 text-stone-600">水上駅周辺</td>
+                <td className="p-3 text-stone-600">関越道水上Ｉ．Ｃよりお車で30分。ＪＲ上越線水上駅、もしくは、上越新幹線上毛高原駅よりバス。バス停まで送迎有。（要予約）</td>
                 <td className="p-3 text-stone-600">有り　２０台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.71（166件）</td>
                 <td className="p-3 font-bold text-rose-600">¥10,800〜</td>
@@ -742,7 +742,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 猿ヶ京温泉　山と湖の絶景に浮かぶ宿　料理旅館　樋口</td>
                 <td className="p-3 text-stone-600">群馬県利根郡みなかみ町猿ヶ京1167</td>
-                <td className="p-3 text-stone-600">上毛高原駅周辺</td>
+                <td className="p-3 text-stone-600">車 月夜野ＩＣから新潟方面へ２０分 猿ヶ京温泉信号右 新幹線⇒上毛高原駅 在来線⇒後閑駅下車</td>
                 <td className="p-3 text-stone-600">【無料】当館前に駐車　7台</td>
                 <td className="p-3 font-bold text-amber-600">★4.89（844件）</td>
                 <td className="p-3 font-bold text-rose-600">¥12,200〜</td>
@@ -815,7 +815,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料　玄関と反対側の道路を挟んだ向かい側にあります。荷物積み下ろしは玄関前にお車をお付け下さい。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「満天の星空とスタッフの温かいおもてなし高原のプチホテル、夜の満天の星空を眺めるだけでも、価値アリ!ホテルスタッフは少数みたいですが、一生懸命のおもてなしが、感じられる、気持ちの良い滞在でした!…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「満天の星空とスタッフの温かいおもてなし高原のプチホテル、夜の満天の星空を眺めるだけでも、価値アリ!ホテルスタッフは少数みたいですが、一生懸命のおもてなしが、感じられる、気持ちの良い滞在でした!」
                   </blockquote>
                 </div>
               </div>

@@ -342,7 +342,7 @@ export default function TakedaCastleAutumnPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 竹田城　城下町　ホテルＥＮ（えん）</td>
                 <td className="p-3 text-stone-600">兵庫県朝来市和田山町竹田上町西側363</td>
-                <td className="p-3 text-stone-600">竹田（兵庫）駅周辺</td>
+                <td className="p-3 text-stone-600">JR播但線 竹田駅より徒歩にて3分（駅より250ｍ）</td>
                 <td className="p-3 text-stone-600">竹田まちなか観光駐車場にお停めください。無料でご利用いただけます。</td>
                 <td className="p-3 font-bold text-amber-600">★4.67（219件）</td>
                 <td className="p-3 font-bold text-rose-600">¥22,594〜</td>
@@ -351,7 +351,7 @@ export default function TakedaCastleAutumnPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 竹田城下まち　朱々　‐ＳｈｕＳｈｕ‐</td>
                 <td className="p-3 text-stone-600">兵庫県朝来市和田山町竹田中町西側264-1</td>
-                <td className="p-3 text-stone-600">竹田（兵庫）駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ播但線 竹田駅より徒歩１分（約100ｍ）／北近畿自動車道和田山IC～竹田方面へお車５分</td>
                 <td className="p-3 text-stone-600">竹田まちなか観光駐車場 60台（無料）当宿より徒歩3分</td>
                 <td className="p-3 font-bold text-amber-600">★4.73（69件）</td>
                 <td className="p-3 font-bold text-rose-600">¥11,000〜</td>
@@ -360,7 +360,7 @@ export default function TakedaCastleAutumnPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 有斐軒</td>
                 <td className="p-3 text-stone-600">兵庫県朝来市和田山町和田山31</td>
-                <td className="p-3 text-stone-600">和田山駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ山陰本線 和田山駅より徒歩５分</td>
                 <td className="p-3 text-stone-600">有り　20台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.63（248件）</td>
                 <td className="p-3 font-bold text-rose-600">¥12,450〜</td>
@@ -369,7 +369,7 @@ export default function TakedaCastleAutumnPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 囲炉裏の宿　豊楽</td>
                 <td className="p-3 text-stone-600">兵庫県神崎郡神河町上小田332</td>
-                <td className="p-3 text-stone-600">寺前駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ播但線寺前駅より無料送迎15分。神崎南ICより峰山高原方向へ車で約15分。</td>
                 <td className="p-3 text-stone-600">50台有　無料　予約不要　大型バス、トラックも無料利用可能　電気自動車充電可（テスラも）</td>
                 <td className="p-3 font-bold text-amber-600">★4.25（100件）</td>
                 <td className="p-3 font-bold text-rose-600">¥14,000〜</td>
@@ -378,7 +378,7 @@ export default function TakedaCastleAutumnPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 竹田町屋　寺子屋　はな亭</td>
                 <td className="p-3 text-stone-600">兵庫県朝来市和田山町竹田中町西側250-1</td>
-                <td className="p-3 text-stone-600">竹田（兵庫）駅周辺</td>
+                <td className="p-3 text-stone-600">北近畿自動車道・播但有料道路和田山ＩＣから車で10分。ＪＲ和田山駅乗り換え7分のＪＲ竹田駅より徒歩にて１分</td>
                 <td className="p-3 text-stone-600">有り　6台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.18（217件）</td>
                 <td className="p-3 font-bold text-rose-600">¥9,900〜</td>
@@ -495,7 +495,7 @@ export default function TakedaCastleAutumnPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　6台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「竹田城観光に便利、食事も温泉も大満足竹田駅が近く、バスで竹田城へ行くのに便利だった。寺町通りも風情があり、散歩がてら楽しんだ。お宿は広々として清潔感もあり、のんびりくつろげました。お風呂は…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「竹田城観光に便利、食事も温泉も大満足竹田駅が近く、バスで竹田城へ行くのに便利だった。寺町通りも風情があり、散歩がてら楽しんだ。お宿は広々として清潔感もあり、のんびりくつろげました。」
                   </blockquote>
                 </div>
               </div>

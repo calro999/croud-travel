@@ -386,7 +386,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 盛岡つなぎ温泉　旅染屋　山いち</td>
                 <td className="p-3 text-stone-600">岩手県盛岡市繋舘市83-1</td>
-                <td className="p-3 text-stone-600">盛岡駅周辺</td>
+                <td className="p-3 text-stone-600">盛岡駅よりバスで約３５分／東北道盛岡ICより約１５分</td>
                 <td className="p-3 text-stone-600">有　５０台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.34（404件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,645〜</td>
@@ -395,7 +395,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. つなぎ温泉　清温荘</td>
                 <td className="p-3 text-stone-600">岩手県盛岡市繋字湯の舘33</td>
-                <td className="p-3 text-stone-600">盛岡駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ 盛岡駅より岩手県交通バスで約３５分</td>
                 <td className="p-3 text-stone-600">有り　７０台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.26（60件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,950〜</td>
@@ -404,7 +404,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 盛岡つなぎ温泉　旅やど</td>
                 <td className="p-3 text-stone-600">岩手県盛岡市繋字塗沢37-5</td>
-                <td className="p-3 text-stone-600">盛岡駅周辺</td>
+                <td className="p-3 text-stone-600">岩手県交通バスにてJR盛岡駅より約３０分、つなぎ温泉線終点「つなぎ温泉」下車</td>
                 <td className="p-3 text-stone-600">あり　10台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★3.85（27件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,000〜</td>
@@ -433,7 +433,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有　５０台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.36 ／ 立地 ★4.08 ／ 部屋 ★4.01 ／ 設備 ★3.91 ／ 風呂 ★4.31 ／ 食事 ★4.55</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「湯質と食事が最高、連泊でまた訪れたい静かな場所でとても良いのですが、階段の歩く音だけが気になりました。お部屋は人によると思いますが古き良きもの、客室露天風呂の湯質は凄く良い。夕食はボリュームが…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「湯質と食事が最高、連泊でまた訪れたい静かな場所でとても良いのですが、階段の歩く音だけが気になりました。お部屋は人によると思いますが古き良きもの、客室露天風呂の湯質は凄く良い。」
                   </blockquote>
                 </div>
               </div>
@@ -455,7 +455,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　７０台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.38 ／ 立地 ★4.39 ／ 部屋 ★4.41 ／ 設備 ★3.97 ／ 風呂 ★4.16 ／ 食事 ★4.18</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「清潔で快適な部屋とふかふかのお布団で快眠秋田駒ケ岳登山のため、盛岡ICから近い温泉宿ということに惹かれ、素泊まりで利用しました。清潔で、掃除がきちんとされていて、気持ちよく過ごせました。お布団もふ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「清潔で快適な部屋とふかふかのお布団で快眠秋田駒ケ岳登山のため、盛岡ICから近い温泉宿ということに惹かれ、素泊まりで利用しました。清潔で、掃除がきちんとされていて、気持ちよく過ごせました。」
                   </blockquote>
                 </div>
               </div>
@@ -477,7 +477,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>あり　10台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.86 ／ 立地 ★3.7 ／ 部屋 ★3.81 ／ 設備 ★3.7 ／ 風呂 ★3.85</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「お風呂の塩素臭と布団の臭いが気になった女性のお風呂はとても気持ちよかったとのこと。男性の風呂は、入り口からプールのようなにおいがしていて...。風呂から上がった後は、体が塩素臭くなりました…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「お風呂の塩素臭と布団の臭いが気になった女性のお風呂はとても気持ちよかったとのこと。男性の風呂は、入り口からプールのようなにおいがしていて...。」
                   </blockquote>
                 </div>
               </div>

@@ -384,7 +384,7 @@ export default function AutumnBudgetShizuokaStationHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. アパホテル〈静岡駅北〉</td>
                 <td className="p-3 text-stone-600">静岡県静岡市葵区昭和町4-5</td>
-                <td className="p-3 text-stone-600">静岡駅周辺</td>
+                <td className="p-3 text-stone-600">「静岡駅」北口から徒歩5分</td>
                 <td className="p-3 text-stone-600">提携駐車場『稲森パーキング』を1泊　1,800円（先着順） でご案内いたします。</td>
                 <td className="p-3 font-bold text-amber-600">★4.11（537件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,420〜</td>
@@ -393,7 +393,7 @@ export default function AutumnBudgetShizuokaStationHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 静鉄ホテルプレジオ　静岡駅南</td>
                 <td className="p-3 text-stone-600">静岡県静岡市駿河区南町13-21</td>
-                <td className="p-3 text-stone-600">静岡駅周辺</td>
+                <td className="p-3 text-stone-600">★JR静岡駅南口から徒歩２分の好立地★1階には便利なコンビニ併設★</td>
                 <td className="p-3 text-stone-600">近隣の有料駐車場をご利用ください。詳細は公式ホームページのアクセスページをご覧下さい。</td>
                 <td className="p-3 font-bold text-amber-600">★4.3（3278件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,956〜</td>
@@ -402,7 +402,7 @@ export default function AutumnBudgetShizuokaStationHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 東横ＩＮＮ静岡駅北口</td>
                 <td className="p-3 text-stone-600">静岡県静岡市葵区昭和町9-7</td>
-                <td className="p-3 text-stone-600">静岡駅周辺</td>
+                <td className="p-3 text-stone-600">JR東海道本線静岡駅北口から徒歩5分、JR東海道新幹線静岡駅北口から徒歩5分</td>
                 <td className="p-3 text-stone-600">立体14台・平置き2台　1泊1500円(先着順) ※大型バイク等駐輪は店舗へお問合せください</td>
                 <td className="p-3 font-bold text-amber-600">★4.08（102件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,883〜</td>
@@ -431,7 +431,7 @@ export default function AutumnBudgetShizuokaStationHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>提携駐車場『稲森パーキング』を1泊　1,800円（先着順） でご案内いたします。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「選べる朝食が良かった朝食が定食で選べて名物のかつおのたたきがあったので嬉しかった。屋上にお風呂があるのがアパホテルの良いところだと思っていたけど、ここはなかったのは残念でした。クチコミの詳…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「選べる朝食が良かった朝食が定食で選べて名物のかつおのたたきがあったので嬉しかった。屋上にお風呂があるのがアパホテルの良いところだと思っていたけど、ここはなかったのは残念でした。」
                   </blockquote>
                 </div>
               </div>
@@ -453,7 +453,7 @@ export default function AutumnBudgetShizuokaStationHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>近隣の有料駐車場をご利用ください。詳細は公式ホームページのアクセスページをご覧下さい。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋の場所は選択制にしてほしいごく普通なホテル 今まで利用したホテルの中では1番悪い評価になるがそれでも普通です。部屋が道路側と駐車場側の2種類あるが、選択時に選べるようにして欲しい どこ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋の場所は選択制にしてほしいごく普通なホテル 今まで利用したホテルの中では1番悪い評価になるがそれでも普通です。」
                   </blockquote>
                 </div>
               </div>

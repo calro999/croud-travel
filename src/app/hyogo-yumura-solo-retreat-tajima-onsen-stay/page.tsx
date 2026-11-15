@@ -340,8 +340,8 @@ export default function ArticlePage() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 浜坂駅よりアクセス。北近畿自動車道八鹿氷ノ山ＩＣより車で50分／大阪・三宮より特急バス約3時間／JR江原駅無料送迎あり(3日前までに要予約)。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「湯村温泉 佳泉郷 井づつや」にチェックイン。自家泉源の上質な天然温泉を使用した多彩なお風呂◆料理長厳選の料理と技を堪能◆鳥取砂丘まで車で約40分などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「湯村温泉 佳泉郷 井づつや」の湯処へ。自家泉源の上質な天然温泉を使用した多彩なお風呂◆料理長厳選の料理と技をとともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「湯村温泉 佳泉郷 井づつや」にチェックイン。自家泉源の上質な天然温泉を使用した多彩なお風呂◆料理長厳選の料理と技を堪能◆鳥取砂丘まで車で約40分が魅力の一軒。客室で荷物をほどいて穏やかな午後のひとときを。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「湯村温泉 佳泉郷 井づつや」の湯船で寛ぎタイム。季節の空気を感じながら手足を伸ばし、心豊かな夕方のリラックス時間を満喫。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「湯村温泉 佳泉郷 井づつや」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -353,7 +353,7 @@ export default function ArticlePage() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「湯村温泉 佳泉郷 井づつや」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「湯村温泉 佳泉郷 井づつや」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「湯村温泉郷 御宿コトブキ」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は「湯村温泉 佳泉郷 井づつや」周辺の観光スポットや地元の名産店に立ち寄り、ご当地のお土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>
@@ -369,49 +369,49 @@ export default function ArticlePage() {
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">あわせて読みたい人気特集＆全国エリアガイド</h2>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
-            <a href="/akita-solo-business-kiritanpo-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/winter-hyogo-arima-onsen-luxury-kinzan-gold-silver-kobe-beef-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">秋田出張＆美酒ひとり旅：秋田駅直結・天然温泉大浴場・比内地鶏きりたんぽ鍋！酒どころ秋田を満喫する極上ホテル 厳選3選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【日本最古の名湯・金湯銀湯を客室露天で独り占め】2026-2027年11-12月初冬の兵庫・有馬温泉！名門・欽山＆中の坊瑞苑・極上神戸牛ステーキと伝統会席・ミシュラン掲載の大人の最</span>
             </a>
-            <a href="/furusato-tax-oirase-towada-autumn-leaves-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/winter-hyogo-kasumi-onsen-shibayama-crab-matsuba-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">奥入瀬渓流の黄金紅葉トンネル＆十和田湖畔温泉！十和田荘・賑山亭・プリンスホテル×ふるさと納税厳選ガイド青森・秋田</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12月兵庫・香住温泉】 最高峰ブランド柴山ガニ＆香住松葉ガニ・但馬牛と海辺露天の宿5選</span>
             </a>
-            <a href="/winter-akita-kakunodate-bukeyashiki-snow-kiritanpo-hinaijidori-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/winter-hyogo-kobe-port-ikuta-shrine-luminarie-beef-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12・1月秋田】陸奥の小京都・角館武家屋敷の雪景色＆冬の田沢湖！本場比内地鶏きりたんぽ鍋と名湯に寛ぐ名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">生田神社新春開運初詣＆神戸ルミナリエ！ メリケンパーク冬夜景と極上神戸牛に酔いしれる名宿5選</span>
             </a>
-            <a href="/winter-akita-yuze-onsen-towada-kiritanpo-hinaijidori-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/winter-hyogo-tatsuno-murotsu-oyster-shinmaiko-sunset-aioi-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12月秋田・湯瀬温泉＆鹿角】日本三大美人の湯と米代川雪渓谷・本場きりたんぽ鍋と比内地鶏を味わう名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【播磨灘の初冬の味覚・室津牡蠣解禁と小京都たつの白壁散策】2026-2027年11-12月の兵庫・西播磨！加熱しても縮まない極上室津かき尽くしと新舞子海岸の絶景夕日・播磨灘オーシャ</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
             <div className="flex flex-wrap gap-2">
               <Link
-                href="/prefectures/okayama/"
+                href="/prefectures/hyogo/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                岡山県の宿・温泉
+                兵庫県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/akita/"
+                href="/prefectures/kyoto/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                秋田県の宿・温泉
+                京都府の宿・温泉
               </Link>
               <Link
-                href="/prefectures/kochi/"
+                href="/prefectures/osaka/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                高知県の宿・温泉
+                大阪府の宿・温泉
               </Link>
               <Link
-                href="/prefectures/tokyo/"
+                href="/prefectures/nara/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                東京都の宿・温泉
+                奈良県の宿・温泉
               </Link>
             </div>
           </div>
@@ -447,7 +447,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 湯村温泉　佳泉郷　井づつや</td>
                 <td className="p-3 text-stone-600">兵庫県美方郡新温泉町湯1535</td>
-                <td className="p-3 text-stone-600">浜坂駅周辺</td>
+                <td className="p-3 text-stone-600">北近畿自動車道八鹿氷ノ山ＩＣより車で50分／大阪・三宮より特急バス約3時間／JR江原駅無料送迎あり(3日前までに要予約)</td>
                 <td className="p-3 text-stone-600">無料駐車場あり（約80台）　電気自動車（EV）普通充電器を1台設置（要事前予約・ご宿泊者限定）</td>
                 <td className="p-3 font-bold text-amber-600">★4.57（1553件）</td>
                 <td className="p-3 font-bold text-rose-600">¥9,900〜</td>
@@ -456,7 +456,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 湯村温泉郷　御宿コトブキ</td>
                 <td className="p-3 text-stone-600">兵庫県美方郡新温泉町湯1561-1</td>
-                <td className="p-3 text-stone-600">浜坂駅周辺</td>
+                <td className="p-3 text-stone-600">JR浜坂駅よりバスで約15分 八鹿氷ノ山ICより車で50分（冬期は冬用タイヤの着用をお願いします）</td>
                 <td className="p-3 text-stone-600">有り　16台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.51（173件）</td>
                 <td className="p-3 font-bold text-rose-600">¥9,500〜</td>
@@ -465,7 +465,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. ホテルパールシティ秋田　川反（旧　ホテルパールシティ秋田）</td>
                 <td className="p-3 text-stone-600">秋田県秋田市大町3-4-18</td>
-                <td className="p-3 text-stone-600">秋田駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ秋田駅西口より車５分。バス（県庁・市役所行き５分）川反入口下車徒歩５分。秋田空港よりバス、川反入口下車徒歩５分。</td>
                 <td className="p-3 text-stone-600">要予約(予約順30台)1泊1台770円（税込）･満車時徒歩７分契約駐車場・大型車両、二輪車不可</td>
                 <td className="p-3 font-bold text-amber-600">★3.81（1642件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,900〜</td>
@@ -474,7 +474,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 縄文のふる里　大湯温泉　ホテル鹿角</td>
                 <td className="p-3 text-stone-600">秋田県鹿角市十和田大湯字中谷地５－１</td>
-                <td className="p-3 text-stone-600">十和田南駅周辺</td>
+                <td className="p-3 text-stone-600">■十和田湖より車で30分■ＪＲ花輪線十和田南駅から車で１２分■東北道十和田ＩＣから国道１０３号線を十和田湖方面へ１２分</td>
                 <td className="p-3 text-stone-600">有　２００台　無料　　　　　　　　　　　　　　　　★お得な宿泊プラン満載★</td>
                 <td className="p-3 font-bold text-amber-600">★4.17（1489件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,000〜</td>
@@ -483,7 +483,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. アルバートホテル秋田</td>
                 <td className="p-3 text-stone-600">秋田県秋田市大町4-3-22</td>
-                <td className="p-3 text-stone-600">秋田駅周辺</td>
+                <td className="p-3 text-stone-600">秋田駅西口から車で５分。秋田空港からリムジンバスで約４０分、北都銀行前下車、徒歩２分。</td>
                 <td className="p-3 text-stone-600">先着順 83台：800円(税込/泊)　 ※満車時は近隣パーキング(自己負担) 　※大型車は駐車不可</td>
                 <td className="p-3 font-bold text-amber-600">★4.11（3215件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,170〜</td>
@@ -512,7 +512,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料駐車場あり（約80台）　電気自動車（EV）普通充電器を1台設置（要事前予約・ご宿泊者限定）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「老舗旅館って感じでお部屋に生花をいけて下さったり、仲居さんも親切で素晴らしかったです。夕飯も全部美味しくてお腹いっぱいになりました。朝食もご飯のお供が沢山で良かったです。温泉も堪能しました。少し気にな…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「老舗旅館って感じでお部屋に生花をいけて下さったり、仲居さんも親切で素晴らしかったです。夕飯も全部美味しくてお腹いっぱいになりました。朝食もご飯のお供が沢山で良かったです。温泉も堪能しました。」
                   </blockquote>
                 </div>
               </div>
@@ -534,7 +534,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　16台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「シックな空間と囲炉裏会席に大満足部屋をはじめ建物内はシックで落ち着いた佇まいで非常に素晴らしいと思いました。夕食の囲炉裏会席は他では体験出来ない楽しいものでした。また、大変美味しくいただきまし…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「シックな空間と囲炉裏会席に大満足部屋をはじめ建物内はシックで落ち着いた佇まいで非常に素晴らしいと思いました。夕食の囲炉裏会席は他では体験出来ない楽しいものでした。」
                   </blockquote>
                 </div>
               </div>
@@ -578,7 +578,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有　２００台　無料　　　　　　　　　　　　　　　　★お得な宿泊プラン満載★</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温かい料理に大満足、また泊まりたい!夜ご飯も温かいものは温かいまま食べれましたし、量もお腹いっぱいになり満足です。綺麗でまた泊まりたいと思うホテルでした。ありがとうございました。クチコミの…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温かい料理に大満足、また泊まりたい!夜ご飯も温かいものは温かいまま食べれましたし、量もお腹いっぱいになり満足です。綺麗でまた泊まりたいと思うホテルでした。ありがとうございました。」
                   </blockquote>
                 </div>
               </div>
@@ -600,7 +600,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>先着順 83台：800円(税込/泊)　 ※満車時は近隣パーキング(自己負担) 　※大型車は駐車不可</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.09 ／ 立地 ★4.1 ／ 部屋 ★4.09 ／ 設備 ★4.02 ／ 風呂 ★4.01 ／ 食事 ★4.09</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「エアコンは3段階、清掃やタオル交換は有料エアコンの温度設定なし3段階スイッチ。連泊時のタオルの取替えは別途料金。清掃はなし。川反の飲み屋は近い。駐車場はすぐ埋まるが、近隣にもコインパーキングは有る…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「エアコンは3段階、清掃やタオル交換は有料エアコンの温度設定なし3段階スイッチ。連泊時のタオルの取替えは別途料金。清掃はなし。川反の飲み屋は近い。」
                   </blockquote>
                 </div>
               </div>

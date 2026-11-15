@@ -414,7 +414,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 東尋坊温泉　三国オーシャンリゾート＆ホテル（旧：三国観光ホテル）</td>
                 <td className="p-3 text-stone-600">福井県坂井市三国町緑ヶ丘4-4-8</td>
-                <td className="p-3 text-stone-600">芦原温泉駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ北陸新幹線・ハピライン芦原温泉下車 京福バス東尋坊経由 終点 龍翔博物館前下車</td>
                 <td className="p-3 text-stone-600">有り　２００台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.2（644件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,000〜</td>
@@ -423,7 +423,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. あわら温泉　伝統旅館のぬくもり　灰屋</td>
                 <td className="p-3 text-stone-600">福井県あわら市温泉2-205</td>
-                <td className="p-3 text-stone-600">芦原温泉駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ北陸本線芦原温泉駅から路線バスにて１５分/無料送迎あり。北陸道金津ＩＣより車で１５分。駐車場無料(係が案内します。)</td>
                 <td className="p-3 text-stone-600">有り　１００台　無料 （エントランスにはスロープもございます。係がご案内いたします。）</td>
                 <td className="p-3 font-bold text-amber-600">★4.42（756件）</td>
                 <td className="p-3 font-bold text-rose-600">¥15,950〜</td>
@@ -432,7 +432,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. ホテルクラウンヒルズ武生駅前（ＢＢＨホテルグループ）</td>
                 <td className="p-3 text-stone-600">福井県越前市府中1-2-3</td>
-                <td className="p-3 text-stone-600">武生駅周辺</td>
+                <td className="p-3 text-stone-600">ハピラインふくい武生駅下車徒歩1分！ 北陸自動車道武生IC車で10分</td>
                 <td className="p-3 text-stone-600">有り　40台　840円／泊</td>
                 <td className="p-3 font-bold text-amber-600">★4（915件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,400〜</td>
@@ -441,7 +441,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 北陸　福井　あわら温泉　美松</td>
                 <td className="p-3 text-stone-600">福井県あわら市舟津26-10</td>
-                <td className="p-3 text-stone-600">芦原温泉駅周辺</td>
+                <td className="p-3 text-stone-600">JR北陸新幹線芦原温泉駅より約15分（要予約）／北陸自動車道金津ICより約15分／小松空港より車で約50分</td>
                 <td className="p-3 text-stone-600">先着順の無料駐車場（100台）お体の不自由なお客様には駐車場の確保も致します。</td>
                 <td className="p-3 font-bold text-amber-600">★4.41（2961件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,800〜</td>
@@ -450,7 +450,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 若狭美浜温泉　悠久乃碧　ホテル湾彩</td>
                 <td className="p-3 text-stone-600">福井県三方郡美浜町久々子海岸</td>
-                <td className="p-3 text-stone-600">美浜駅周辺</td>
+                <td className="p-3 text-stone-600">JR美浜駅から車で５分。 敦賀ICから車で２０分。</td>
                 <td className="p-3 text-stone-600">有り　８０台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★3.96（1195件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,100〜</td>
@@ -479,7 +479,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２００台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「いいホテルです食事が思ったより残念でした。味とかは問題ではなく、こちらの過大な期待のせいだと思いますが..あと、夏休みの子供キャンプ?なのか子供が多すぎて、バイキング取りづらかった。更に引率の…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「いいホテルです食事が思ったより残念でした。味とかは問題ではなく、こちらの過大な期待のせいだと思いますが..あと、夏休みの子供キャンプ?なのか子供が多すぎて、バイキング取りづらかった。」
                   </blockquote>
                 </div>
               </div>
@@ -523,7 +523,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　40台　840円／泊</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「花火会場への好立地と充実したサービスが魅力越前市サマーフェスティバルのために宿泊しました。花火会場に行くには立地は最高でした。部屋などはよくあるビジネスホテルといった感じで良くも悪くもなく…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「花火会場への好立地と充実したサービスが魅力越前市サマーフェスティバルのために宿泊しました。花火会場に行くには立地は最高でした。」
                   </blockquote>
                 </div>
               </div>
@@ -545,7 +545,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>先着順の無料駐車場（100台）お体の不自由なお客様には駐車場の確保も致します。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「露天風呂は最高だが夕食のタレが辛すぎた夕食のしゃぶしゃぶのタレがゴマだれとポン酢だったのですが、どちらも辛すぎて何もつけずに食べたほうがよかったです。部屋付き露天風呂はとても気持ちよくて良かっ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「露天風呂は最高だが夕食のタレが辛すぎた夕食のしゃぶしゃぶのタレがゴマだれとポン酢だったのですが、どちらも辛すぎて何もつけずに食べたほうがよかったです。」
                   </blockquote>
                 </div>
               </div>

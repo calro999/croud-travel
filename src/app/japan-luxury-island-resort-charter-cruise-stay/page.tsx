@@ -253,7 +253,7 @@ export default function LuxuryPremiumHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. グランドメルキュール伊勢志摩リゾート＆スパ</td>
                 <td className="p-3 text-stone-600">三重県志摩市磯部町的矢笠取939-6</td>
-                <td className="p-3 text-stone-600">志摩磯部駅周辺</td>
+                <td className="p-3 text-stone-600">近鉄 鵜方駅より定時シャトルバス約15分(予約不要 定時運行 公式HP参照)／伊勢西ＩＣよりお車約45分</td>
                 <td className="p-3 text-stone-600">220台あり（無料・予約不可）</td>
                 <td className="p-3 font-bold text-amber-600">★3.94（4177件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,120〜</td>
@@ -262,7 +262,7 @@ export default function LuxuryPremiumHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. ＴＨＥ　ＨＩＲＡＭＡＴＳＵ　ＨＯＴＥＬＳ　＆　ＲＥＳＯＲＴＳ　賢島</td>
                 <td className="p-3 text-stone-600">三重県志摩市阿児町鵜方3618-52</td>
-                <td className="p-3 text-stone-600">賢島駅周辺</td>
+                <td className="p-3 text-stone-600">近鉄志摩線 賢島駅から車で 約１５分</td>
                 <td className="p-3 text-stone-600">有り　８台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.83（20件）</td>
                 <td className="p-3 font-bold text-rose-600">¥83,200〜</td>
@@ -271,7 +271,7 @@ export default function LuxuryPremiumHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 一楽温泉ホテル</td>
                 <td className="p-3 text-stone-600">三重県志摩市志摩町和具2582-66</td>
-                <td className="p-3 text-stone-600">賢島駅周辺</td>
+                <td className="p-3 text-stone-600">賢島駅よりお車にて約25分</td>
                 <td className="p-3 text-stone-600">有り １０～２０台 無料 予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.36（58件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,500〜</td>
@@ -280,7 +280,7 @@ export default function LuxuryPremiumHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 直島ふるさと海の家　つつじ荘　＜直島＞</td>
                 <td className="p-3 text-stone-600">香川県香川郡直島町352-1</td>
-                <td className="p-3 text-stone-600">【宮浦港】バス約15分・バス停「つつじ荘」目の前／車で約10分／自転車</td>
+                <td className="p-3 text-stone-600">【宮浦港】バス約15分・バス停「つつじ荘」目の前／車で約10分／自転車で約25分【直島港(本村)】徒歩で約25分</td>
                 <td className="p-3 text-stone-600">つつじ荘隣の公共駐車場をご利用いただけます。（無料/予約不要/直島町営）</td>
                 <td className="p-3 font-bold text-amber-600">★4.58（171件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,280〜</td>
@@ -289,7 +289,7 @@ export default function LuxuryPremiumHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. グランヴィリオリゾート石垣島　Ｏｃｅａｎ’ｓ　Ｗｉｎｇ　＆　Ｖｉｌｌａ　Ｇａｒｄｅｎ＜石垣島＞</td>
                 <td className="p-3 text-stone-600">沖縄県石垣市新川舟蔵2481-1</td>
-                <td className="p-3 text-stone-600">石垣空港駅周辺</td>
+                <td className="p-3 text-stone-600">新石垣空港より車で40分</td>
                 <td className="p-3 text-stone-600">有り　110台収容　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.47（1261件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,930〜</td>
@@ -406,7 +406,7 @@ export default function LuxuryPremiumHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　110台収容　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.53 ／ 立地 ★4.47 ／ 部屋 ★4.48 ／ 設備 ★4.41 ／ 風呂 ★4.38 ／ 食事 ★4.5</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「海が見えるプールと星空観賞で大満足部屋も綺麗で、天気良く景色も綺麗でした。リゾートホテルで前に海が見えて屋内、屋外プ一ルもあり孫も大喜びでした。タオルも浮き輪も無料で貸し出してもらえま…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「海が見えるプールと星空観賞で大満足部屋も綺麗で、天気良く景色も綺麗でした。リゾートホテルで前に海が見えて屋内、屋外プ一ルもあり孫も大喜びでした。」
                   </blockquote>
                 </div>
               </div>

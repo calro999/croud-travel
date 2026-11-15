@@ -401,7 +401,7 @@ export default function AutumnBudgetHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. ホテルルートイン　本八戸駅前</td>
                 <td className="p-3 text-stone-600">青森県八戸市内丸1-51-16</td>
-                <td className="p-3 text-stone-600">本八戸駅周辺</td>
+                <td className="p-3 text-stone-600">東北新幹線八戸駅経由 JR八戸線本八戸駅下車徒歩１分／八戸自動車道八戸ＩＣより車で１５分</td>
                 <td className="p-3 text-stone-600">有　６９台　料金無料　先着順。　２トン車以上の車、バス、２輪車、特殊車両は事前予約必要。</td>
                 <td className="p-3 font-bold text-amber-600">★4.16（830件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,750〜</td>
@@ -410,7 +410,7 @@ export default function AutumnBudgetHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. ホテルリブマックス本八戸駅前</td>
                 <td className="p-3 text-stone-600">青森県八戸市城下1丁目8-9</td>
-                <td className="p-3 text-stone-600">本八戸駅周辺</td>
+                <td className="p-3 text-stone-600">JR八戸線「本八戸駅」北口徒歩1分</td>
                 <td className="p-3 text-stone-600">提携の駐車場はございません。 ホテル近隣のコインパーキングをご利用ください。</td>
                 <td className="p-3 font-bold text-amber-600">★4.04（116件）</td>
                 <td className="p-3 font-bold text-rose-600">¥2,550〜</td>
@@ -419,7 +419,7 @@ export default function AutumnBudgetHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 八戸プラザホテル</td>
                 <td className="p-3 text-stone-600">青森県八戸市柏崎1-6-6</td>
-                <td className="p-3 text-stone-600">八戸駅周辺</td>
+                <td className="p-3 text-stone-600">八戸駅より車で約１５分。本八戸駅より徒歩7分。三沢空港よりお車で約４０分。</td>
                 <td className="p-3 text-stone-600">無料駐車場完備　（大型トラック・工事車両・バス駐車可能）</td>
                 <td className="p-3 font-bold text-amber-600">★3.76（809件）</td>
                 <td className="p-3 font-bold text-rose-600">¥2,800〜</td>
@@ -428,7 +428,7 @@ export default function AutumnBudgetHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. ホテルパールシティ八戸</td>
                 <td className="p-3 text-stone-600">青森県八戸市城下2-2-22</td>
-                <td className="p-3 text-stone-600">本八戸駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ八戸線本八戸駅北口より徒歩5分。ＪＲ八戸新幹線八戸駅より車２０分。三沢空港より車４０分。フェリー埠頭より車２０分</td>
                 <td className="p-3 text-stone-600">有り　30台　１泊330円（税込）　先着順となります</td>
                 <td className="p-3 font-bold text-amber-600">★3.82（622件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,700〜</td>
@@ -437,7 +437,7 @@ export default function AutumnBudgetHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. ホテルセレクトイン八戸中央</td>
                 <td className="p-3 text-stone-600">青森県八戸市十一日町52</td>
-                <td className="p-3 text-stone-600">本八戸駅周辺</td>
+                <td className="p-3 text-stone-600">八戸自動車道「八戸ＩＣ」より車で１５分 最寄り「本八戸駅」より徒歩15分 東北新幹線「JR八戸駅」より車で14分</td>
                 <td className="p-3 text-stone-600">有り(先着順、出入れ不可）35台無料　満車時は八日町中央パーキングも無料（翌朝10時半迄）</td>
                 <td className="p-3 font-bold text-amber-600">★3.82（1897件）</td>
                 <td className="p-3 font-bold text-rose-600">¥2,450〜</td>
@@ -488,7 +488,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>提携の駐車場はございません。 ホテル近隣のコインパーキングをご利用ください。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4 ／ 立地 ★3.94 ／ 部屋 ★3.96 ／ 設備 ★4.04 ／ 風呂 ★4.16</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「コスパ重視の旅に最適、大浴場とサウナが快適急遽思い立った旅行で利用しました。この系列はどこも壁が薄く、慣れない人には不満があるかもですが、知っていて泊まる分にはコスパ良く、利用しやすい宿だと思いま…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「コスパ重視の旅に最適、大浴場とサウナが快適急遽思い立った旅行で利用しました。」
                   </blockquote>
                 </div>
               </div>
@@ -532,7 +532,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　30台　１泊330円（税込）　先着順となります</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.9 ／ 立地 ★3.77 ／ 部屋 ★3.79 ／ 設備 ★3.69 ／ 風呂 ★3.67 ／ 食事 ★3.61</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「グラスの貸し出し対応が迅速で助かった部屋にグラスが常備されていればもっとよかった。缶ビールやお酒の氷割を飲むときに便利。しかしフロントに言ったら一つ用意してくれた。美味しく部屋で飲めました。ク…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「グラスの貸し出し対応が迅速で助かった部屋にグラスが常備されていればもっとよかった。缶ビールやお酒の氷割を飲むときに便利。しかしフロントに言ったら一つ用意してくれた。美味しく部屋で飲めました。」
                   </blockquote>
                 </div>
               </div>

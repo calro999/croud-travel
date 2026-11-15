@@ -336,8 +336,8 @@ export default function ArticlePage() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 武雄温泉駅よりアクセス。JR佐世保線「武雄温泉駅」より車で５分 / 長崎自動車道 武雄・北方ICより嬉野方面へ約５km。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「武雄温泉 御船山楽園ホテル」にチェックイン。１５万坪の雄大な敷地に自然と四季の花が溢れています。などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「武雄温泉 御船山楽園ホテル」の湯処へ。１５万坪の雄大な敷地に自然と四季の花が溢れています。とともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「武雄温泉 御船山楽園ホテル」にチェックイン。１５万坪の雄大な敷地に自然と四季の花が溢れています。 窓外に広がる景色を眺めながらチェックイン後の寛ぎ時間を。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「武雄温泉 御船山楽園ホテル」の湯船で寛ぎタイム。季節の空気を感じながら手足を伸ばし、心豊かな夕方のリラックス時間を満喫。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「武雄温泉 御船山楽園ホテル」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -349,7 +349,7 @@ export default function ArticlePage() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「武雄温泉 御船山楽園ホテル」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「武雄温泉 御船山楽園ホテル」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「セントラルホテル武雄温泉駅前」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は宿周辺の散策とショッピングを満喫。地元の名産品やグルメを味わってから余裕をもって帰路につく。</li>
               </ul>
             </div>
           </div>
@@ -365,49 +365,49 @@ export default function ArticlePage() {
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">あわせて読みたい人気特集＆全国エリアガイド</h2>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
-            <a href="/furusato-tax-hiraizumi-chusonji-hanamaki-autumn-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/winter-saga-furuyu-kumanokawa-onsen-nuruyu-sagagyu-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">世界遺産・平泉中尊寺の月見坂紅葉＆花巻温泉郷の名湯！佳松園・藤三旅館・廣美亭×ふるさと納税厳選ガイド岩手</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">（metadata.title as string）</span>
             </a>
-            <a href="/iwate-hiraizumi-ichinoseki-geibikei-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/winter-saga-takeo-onsen-romon-saga-beef-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">岩手・平泉＆一関・猊鼻渓：中尊寺金色堂・舟下り＆前沢牛・もち食宿 厳選ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12月武雄温泉の冬名湯と最高峰佐賀牛】 国重文・朱塗り楼門と1300年美肌古湯・御船山初冬風情＆極上佐賀牛会席の宿5選</span>
             </a>
-            <a href="/winter-iwate-appi-kogen-snow-resort-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/fukuoka-departure-daytrip-bus-tour-guide/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【12月オープン！安比高原シルキースノー】東北随一のビッグゲレンデと白樺美肌温泉宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「福岡・博多発 日帰りバスツアー」 呼子活イカ・由布院温泉街散策・阿蘇カルデラ絶景 の格安ツアー比較</span>
             </a>
-            <a href="/winter-iwate-sanriku-kotatsu-train-kaisen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/japan-top-brand-wagyu-beef-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12・1月岩手】三陸鉄道こたつ列車の冬絶景と浄土ヶ浜雪景色・名物瓶ドン＆極上三陸あわび・毛ガニを味わう海沿いの名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「日本五大ブランド和牛の宿」松阪牛・神戸牛・米沢牛・近江牛・佐賀牛極上会席 厳選ガイド</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
             <div className="flex flex-wrap gap-2">
               <Link
-                href="/prefectures/nara/"
+                href="/prefectures/saga/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                奈良県の宿・温泉
+                佐賀県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/iwate/"
+                href="/prefectures/fukuoka/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                岩手県の宿・温泉
+                福岡県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/akita/"
+                href="/prefectures/oita/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                秋田県の宿・温泉
+                大分県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/toyama/"
+                href="/prefectures/kumamoto/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                富山県の宿・温泉
+                熊本県の宿・温泉
               </Link>
             </div>
           </div>
@@ -443,7 +443,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 武雄温泉　御船山楽園ホテル</td>
                 <td className="p-3 text-stone-600">佐賀県武雄市武雄町武雄4100</td>
-                <td className="p-3 text-stone-600">武雄温泉駅周辺</td>
+                <td className="p-3 text-stone-600">JR佐世保線「武雄温泉駅」より車で５分 / 長崎自動車道 武雄・北方ICより嬉野方面へ約５km</td>
                 <td className="p-3 text-stone-600">有り　１００台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.57（1217件）</td>
                 <td className="p-3 font-bold text-rose-600">¥22,550〜</td>
@@ -452,7 +452,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. セントラルホテル武雄温泉駅前</td>
                 <td className="p-3 text-stone-600">佐賀県武雄市武雄町昭和16-12</td>
-                <td className="p-3 text-stone-600">武雄温泉駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ博多駅より１時間・ＪＲ新鳥栖駅より４０分・ＪＲ武雄温泉駅より徒歩１分/高速武雄北方ＩＣより車で７分！</td>
                 <td className="p-3 text-stone-600">有り 約70台 無料 先着順（一区画内に収まらない車両の駐車は、ご遠慮いただいております）</td>
                 <td className="p-3 font-bold text-amber-600">★4.17（2441件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,300〜</td>
@@ -461,7 +461,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 武雄温泉　星の華</td>
                 <td className="p-3 text-stone-600">佐賀県武雄市武雄町大字武雄3688</td>
-                <td className="p-3 text-stone-600">佐賀空港駅周辺</td>
+                <td className="p-3 text-stone-600">武雄温泉駅からお車で約5分 長崎空港からお車で約50分 佐賀空港（九州佐賀国際空港）から約一時間です</td>
                 <td className="p-3 text-stone-600">母屋向かい・隣に宿泊者様専用の無料駐車場がございます。 （ご予約不要・13台分のスペースあり）</td>
                 <td className="p-3 font-bold text-amber-600">★4.48（72件）</td>
                 <td className="p-3 font-bold text-rose-600">¥16,500〜</td>
@@ -490,7 +490,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１００台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.51 ／ 立地 ★4.29 ／ 部屋 ★4.24 ／ 設備 ★4.25 ／ 風呂 ★4.74 ／ 食事 ★4.72</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事大満足です。」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事は美味しく、温泉がとても素敵食事はとても美味しかったです。何より温泉が素敵で長時間楽しむことができました。またいつか再訪したくなる場所です。」
                   </blockquote>
                 </div>
               </div>
@@ -512,7 +512,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り 約70台 無料 先着順（一区画内に収まらない車両の駐車は、ご遠慮いただいております）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「身体に染み渡るほど最高な温泉でしたお風呂が私の身体に染み込むくらい良かったです!朝食はビュッフェスタイルで満足ですが、席が少ないのと、エレベーターが一つなので混み合う時間帯は大変です!…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「身体に染み渡るほど最高な温泉でしたお風呂が私の身体に染み込むくらい良かったです!朝食はビュッフェスタイルで満足ですが、席が少ないのと、エレベーターが一つなので混み合う時間帯は大変です!」
                   </blockquote>
                 </div>
               </div>
@@ -534,7 +534,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>母屋向かい・隣に宿泊者様専用の無料駐車場がございます。 （ご予約不要・13台分のスペースあり）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「売店や設備、食事内容の改善を希望とても良いのだけど、もう少し売店を充実してほしいのと、あとは、仕方ないとはいえ虫が多かった。あとは2人別々に物書きをする机がちょっと欲しいと思いました。いろ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「売店や設備、食事内容の改善を希望とても良いのだけど、もう少し売店を充実してほしいのと、あとは、仕方ないとはいえ虫が多かった。あとは2人別々に物書きをする机がちょっと欲しいと思いました。」
                   </blockquote>
                 </div>
               </div>

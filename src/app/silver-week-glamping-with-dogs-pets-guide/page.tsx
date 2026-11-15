@@ -469,7 +469,7 @@ export default function SilverWeekGlampingWithDogsPetsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 里山グランピングむすび</td>
                 <td className="p-3 text-stone-600">岐阜県瑞浪市日吉町3768</td>
-                <td className="p-3 text-stone-600">瑞浪駅周辺</td>
+                <td className="p-3 text-stone-600">瑞浪駅よりお車で約12分</td>
                 <td className="p-3 text-stone-600">あり　4台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">高評価</td>
                 <td className="p-3 font-bold text-rose-600">¥9,315〜</td>
@@ -478,7 +478,7 @@ export default function SilverWeekGlampingWithDogsPetsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. キャメルホテル＆グランピングリゾート</td>
                 <td className="p-3 text-stone-600">千葉県夷隅郡御宿町上布施3360</td>
-                <td className="p-3 text-stone-600">御宿駅周辺</td>
+                <td className="p-3 text-stone-600">お車：圏央道市原鶴舞IC下車３５分 電車：外房線御宿駅下車 ９：００～１７：００送迎可※要事前予約 タクシー１３分要予約</td>
                 <td className="p-3 text-stone-600">有り　２００台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.24（1336件）</td>
                 <td className="p-3 font-bold text-rose-600">¥10,000〜</td>
@@ -487,7 +487,7 @@ export default function SilverWeekGlampingWithDogsPetsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. グランピングリゾート　ブリリアントヴィレッジ日光</td>
                 <td className="p-3 text-stone-600">栃木県日光市瀬尾2010</td>
-                <td className="p-3 text-stone-600">東武日光駅周辺</td>
+                <td className="p-3 text-stone-600">日光有料道路今市インターから車で約１５分、東武日光線下今市駅から車で約１５分</td>
                 <td className="p-3 text-stone-600">18台の無料駐車場有り／ご予約不要／他臨時駐車場有</td>
                 <td className="p-3 font-bold text-amber-600">★4.87（76件）</td>
                 <td className="p-3 font-bold text-rose-600">¥16,000〜</td>
@@ -496,7 +496,7 @@ export default function SilverWeekGlampingWithDogsPetsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. ファームグランピング　ルクロ　かいづかいぶきヴィレッジ</td>
                 <td className="p-3 text-stone-600">大阪府貝塚市馬場3081</td>
-                <td className="p-3 text-stone-600">水間駅周辺</td>
+                <td className="p-3 text-stone-600">大阪方面より阪和自動車道経由、約45分で貝塚ICへ。貝塚ICより約4分/水間鉄道水間観音駅より徒歩約３０分</td>
                 <td className="p-3 text-stone-600">有り　６０台　無料　ご予約不要　※テント横まで車を横付けできます。</td>
                 <td className="p-3 font-bold text-amber-600">★4.23（152件）</td>
                 <td className="p-3 font-bold text-rose-600">¥12,100〜</td>
@@ -505,7 +505,7 @@ export default function SilverWeekGlampingWithDogsPetsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. オーシャングランピング日立</td>
                 <td className="p-3 text-stone-600">茨城県日立市旭町3-15-2</td>
-                <td className="p-3 text-stone-600">日立駅周辺</td>
+                <td className="p-3 text-stone-600">日立駅より徒歩約７分</td>
                 <td className="p-3 text-stone-600">有り　4台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4（27件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,000〜</td>
@@ -556,7 +556,7 @@ export default function SilverWeekGlampingWithDogsPetsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２００台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「停電時の案内がなく不安、対応に改善を望む部屋やロケーション最高に良かったです。子どもたちも大満足でした。しかし夜の11時頃に停電があり、その時ちょうど温泉に入っていたのですが、放送や案内など一切な…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「停電時の案内がなく不安、対応に改善を望む部屋やロケーション最高に良かったです。子どもたちも大満足でした。」
                   </blockquote>
                 </div>
               </div>

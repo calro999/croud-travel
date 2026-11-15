@@ -445,8 +445,8 @@ export default function FurusatoAutumnSengokuharaSilverGrassStayPage() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 小田原駅よりアクセス。小田原駅よりバスで４０分／箱根湯本よりバスで３０分 仙石案内所前バス停下車、徒歩３分で当館に到着します。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「箱根仙石原温泉 万寿屋旅館」にチェックイン。大涌谷の源泉１００％掛け流しの白濁天然温泉がございます。２４時間入浴可です。などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「箱根仙石原温泉 万寿屋旅館」の湯処へ。大涌谷の源泉１００％掛け流しの白濁天然温泉がございます。２４時間入浴可とともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「箱根仙石原温泉 万寿屋旅館」にチェックイン。大涌谷の源泉１００％掛け流しの白濁天然温泉がございます。２４時間入浴可です。 館内の設えを確かめながら、これからの滞在に備えてゆっくり休息する。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「箱根仙石原温泉 万寿屋旅館」の湯船で寛ぎタイム。季節の空気を感じながら手足を伸ばし、心豊かな夕方のリラックス時間を満喫。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「箱根仙石原温泉 万寿屋旅館」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -458,7 +458,7 @@ export default function FurusatoAutumnSengokuharaSilverGrassStayPage() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「箱根仙石原温泉 万寿屋旅館」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「箱根仙石原温泉 万寿屋旅館」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「仙石原温泉 箱根ホテル花月園」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は「箱根仙石原温泉 万寿屋旅館」周辺の観光スポットや地元の名産店に立ち寄り、ご当地のお土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>

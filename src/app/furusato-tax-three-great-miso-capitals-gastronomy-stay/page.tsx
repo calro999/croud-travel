@@ -91,7 +91,7 @@ export default function Page() {
     "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/28670/28670_heya.jpg",
     "reviewCount": 1824,
     "reviewAverage": 4.55,
-    "userReview": "料理も露天風呂も最高、また利用したいチェックインからゆっくり過ごさせていただきました。お料理もとても美味しく頂きました。露天風呂も良かったです!また利用させていただきたいです!クチコミの詳。",
+    "userReview": "料理も露天風呂も最高、また利用したいチェックインからゆっくり過ごさせていただきました。お料理もとても美味しく頂きました。露天風呂も良かったです!また利用させていただきたいです!",
     "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F28670%2F28670.html",
     "access": "最寄駅／ＪＲ仙山線「作並駅」無料送迎あり【要事前予約】　仙台駅～作並駅（快速約30分）作並駅～一の坊（送迎車で約5分）",
     "label": "宮城県仙台市ふるさと納税・伊達政宗が御塩噌蔵を築いた赤色辛口本醸造「仙台味噌の里」作並温泉ゆづくしSalon一の坊",
@@ -409,8 +409,8 @@ export default function Page() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 上諏訪駅よりアクセス。電車 上諏訪駅下車徒歩10分（予約制無料送迎） お車 諏訪ICから車で15分または諏訪湖スマートICから車で10分。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「上諏訪温泉 ホテル紅や」にチェックイン。温泉展望浴場や岩盤浴など施設充実の温泉リゾート。和室・洋室選べるお部屋プランも多彩。などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「上諏訪温泉 ホテル紅や」の湯処へ。温泉展望浴場や岩盤浴など施設充実の温泉リゾート。和室・洋室選べるお部屋とともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「上諏訪温泉 ホテル紅や」にチェックイン。温泉展望浴場や岩盤浴など施設充実の温泉リゾート。和室・洋室選べるお部屋プランも多彩。 客室で身支度を整え、この宿ならではの滞在をスタート。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「上諏訪温泉 ホテル紅や」の湯船で寛ぎタイム。季節の空気を感じながら手足を伸ばし、心豊かな夕方のリラックス時間を満喫。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「上諏訪温泉 ホテル紅や」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -422,7 +422,7 @@ export default function Page() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「上諏訪温泉 ホテル紅や」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「上諏訪温泉 ホテル紅や」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「ホテルトレンド岡崎駅前」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は宿周辺の散策とショッピングを満喫。地元の名産品やグルメを味わってから余裕をもって帰路につく。</li>
               </ul>
             </div>
           </div>

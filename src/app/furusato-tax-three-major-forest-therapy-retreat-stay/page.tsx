@@ -529,7 +529,7 @@ export default function FurusatoFeaturePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. ホテルオーベルジュ＜屋久島＞</td>
                 <td className="p-3 text-stone-600">鹿児島県熊毛郡屋久島町安房410-165</td>
-                <td className="p-3 text-stone-600">屋久島空港駅周辺</td>
+                <td className="p-3 text-stone-600">安房バス停より徒歩１０分／安房港より徒歩２分</td>
                 <td className="p-3 text-stone-600">有り　８台　無料　要予約</td>
                 <td className="p-3 font-bold text-amber-600">★4.27（157件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,830〜</td>
@@ -538,7 +538,7 @@ export default function FurusatoFeaturePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. ｓａｍａｎａ　ｈｏｔｅｌ　Ｙａｋｕｓｈｉｍａ（旧・ホテル屋久島）＜屋久島＞</td>
                 <td className="p-3 text-stone-600">鹿児島県熊毛郡屋久島町尾之間136-2</td>
-                <td className="p-3 text-stone-600">屋久島空港駅周辺</td>
+                <td className="p-3 text-stone-600">宮之浦港より車で５０分／屋久島空港より４０分</td>
                 <td className="p-3 text-stone-600">有り　35台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.92（288件）</td>
                 <td className="p-3 font-bold text-rose-600">¥18,060〜</td>
@@ -547,7 +547,7 @@ export default function FurusatoFeaturePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. ホテル　屋久島山荘　＜屋久島＞</td>
                 <td className="p-3 text-stone-600">鹿児島県熊毛郡屋久町安房2364-35</td>
-                <td className="p-3 text-stone-600">屋久島空港駅周辺</td>
+                <td className="p-3 text-stone-600">屋久島安房港より徒歩約１０分</td>
                 <td className="p-3 text-stone-600">有り　３０台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★3.45（159件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,800〜</td>
@@ -556,7 +556,7 @@ export default function FurusatoFeaturePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 昼神温泉　癒楽（ゆら）の宿　清風苑</td>
                 <td className="p-3 text-stone-600">長野県下伊那郡阿智村智里338-19</td>
-                <td className="p-3 text-stone-600">中央道飯田山本ＩＣ～Ｒ１５３～R２５６（約10分）/　中央道園原IC～</td>
+                <td className="p-3 text-stone-600">中央道飯田山本ＩＣ～Ｒ１５３～R２５６（約10分）/ 中央道園原IC～（約10分）</td>
                 <td className="p-3 text-stone-600">有り：４０台（無料）ホテルの前と後にご用意がございます。</td>
                 <td className="p-3 font-bold text-amber-600">★4.4（1354件）</td>
                 <td className="p-3 font-bold text-rose-600">¥15,000〜</td>
@@ -565,7 +565,7 @@ export default function FurusatoFeaturePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 八甲田城ヶ倉温泉　ホテル城ヶ倉－ＨＯＴＥＬ　Ｊｏｇａｋｕｒａ－</td>
                 <td className="p-3 text-stone-600">青森県青森市荒川八甲田山中</td>
-                <td className="p-3 text-stone-600">青森駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ 青森駅よりＪＲバス十和田湖行き乗車後、城ヶ倉温泉前にて下車</td>
                 <td className="p-3 text-stone-600">有り　１００台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.51（403件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,200〜</td>
@@ -574,7 +574,7 @@ export default function FurusatoFeaturePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">6. 浅虫温泉　絶景の宿　浅虫さくら観光ホテル</td>
                 <td className="p-3 text-stone-600">青森県青森市浅虫坂本51-1</td>
-                <td className="p-3 text-stone-600">浅虫温泉駅周辺</td>
+                <td className="p-3 text-stone-600">浅虫温泉駅／青森自動車道 青森東ＩＣよりＲ４経由、約１５分</td>
                 <td className="p-3 text-stone-600">有り　８０台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★3.99（790件）</td>
                 <td className="p-3 font-bold text-rose-600">¥13,130〜</td>
@@ -603,7 +603,7 @@ export default function FurusatoFeaturePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　８台　無料　要予約</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「オナ親切オナが明るく楽しい方で、近くの美味しいお店や観光ポイント等、いろいろ気軽に教えて頂けて助かりました。朝食も簡素ですがとても美味しかったです。野菜がもっとあるともっと嬉しいなと思います。…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「オナ親切オナが明るく楽しい方で、近くの美味しいお店や観光ポイント等、いろいろ気軽に教えて頂けて助かりました。朝食も簡素ですがとても美味しかったです。野菜がもっとあるともっと嬉しいなと思います。」
                   </blockquote>
                 </div>
               </div>
@@ -669,7 +669,7 @@ export default function FurusatoFeaturePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り：４０台（無料）ホテルの前と後にご用意がございます。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温かいおもてなしと美味しい料理に大満足主人のお誕生日でお世話になりました。とても素敵なおもてなしをありがとうございました。スタッフさんはみなさんとても温かく、すれ違う方みなさん笑顔で挨拶をして…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温かいおもてなしと美味しい料理に大満足主人のお誕生日でお世話になりました。とても素敵なおもてなしをありがとうございました。」
                   </blockquote>
                 </div>
               </div>
@@ -691,7 +691,7 @@ export default function FurusatoFeaturePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１００台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「素晴らしい大変癒された旅になりました。同伴の誕生日記念に宿泊しました。クマ騒動がありましたが、自然のなかでとても満足しています特に食事は本当に素晴らしかったですクチコミの詳細はこち…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「素晴らしい大変癒された旅になりました。同伴の誕生日記念に宿泊しました。」
                   </blockquote>
                 </div>
               </div>
@@ -713,7 +713,7 @@ export default function FurusatoFeaturePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　８０台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.01 ／ 立地 ★4.35 ／ 部屋 ★4.05 ／ 設備 ★3.93 ／ 風呂 ★4.13 ／ 食事 ★4.11</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「還暦祝いの眺望と食事、三味線に満足還暦祝いの旅行で利用しました。部屋からの眺めも良く食事も美味しかったです。津軽三味線の生演奏も良かった。露天風呂の床が滑りやすかったのが残念です。クチコミの詳…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「還暦祝いの眺望と食事、三味線に満足還暦祝いの旅行で利用しました。部屋からの眺めも良く食事も美味しかったです。津軽三味線の生演奏も良かった。露天風呂の床が滑りやすかったのが残念です。」
                   </blockquote>
                 </div>
               </div>

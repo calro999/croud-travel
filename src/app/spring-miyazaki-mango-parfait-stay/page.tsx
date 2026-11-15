@@ -565,8 +565,8 @@ export default function FeatureDetailPage() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 油津駅よりアクセス。JR日南線油津駅より徒歩７分、宮崎ICより車約50分。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「マンゴーホテル日南」にチェックイン。日南の市街地、国道沿いに位置しアクセス抜群。都会的なシンプルなデザインと清潔感あふれる内装。などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「マンゴーホテル日南」の湯処へ。日南の市街地、国道沿いに位置しアクセス抜群。都会的なシンプルなデザインとともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「マンゴーホテル日南」にチェックイン。日南の市街地、国道沿いに位置しアクセス抜群。都会的なシンプルなデザインと清潔感あふれる内装。 客室で身支度を整え、この宿ならではの滞在をスタート。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「マンゴーホテル日南」の自慢の湯処へ。温かな湯気と落ち着いた雰囲気に癒やされながら、夕食前の贅沢なひとときを過ごす。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「マンゴーホテル日南」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -578,7 +578,7 @@ export default function FeatureDetailPage() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「マンゴーホテル日南」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「マンゴーホテル日南」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「ホテルシーズン日南」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は宿周辺の散策とショッピングを満喫。地元の名産品やグルメを味わってから余裕をもって帰路につく。</li>
               </ul>
             </div>
           </div>
@@ -628,49 +628,49 @@ export default function FeatureDetailPage() {
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">あわせて読みたい人気特集＆全国エリアガイド</h2>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
-            <a href="/autumn-miyagi-naruko-gorge-onsen-momiji-hotels-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/furusato-tax-takachiho-manainotaki-autumn-leaves-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【10月下旬〜11月上旬！宮城鳴子峡の紅葉】大深沢橋列車ビューと名湯鳴子温泉郷の宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">神話の里・高千穂峡の真名井の滝紅葉ボート＆高千穂神社夜神楽！極上高千穂牛宿×ふるさと納税厳選ガイド宮崎</span>
             </a>
-            <a href="/miyagi-akiu-sakunami-sendai-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/miyazaki-nichinan-aoshima-coast-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">宮城・秋保温泉＆作並温泉：仙台奥座敷・磊々峡＆ニッカウヰスキー・仙台牛宿 厳選ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「宮崎・日南海岸＆青島」青島神社・鬼の洗濯板＆サンメッセ日南モアイ・宮崎牛宿 厳選ガイド</span>
             </a>
-            <a href="/silver-week-glamping-tohoku-sendai-fukushima-guide/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/miyazaki-takachiho-gorge-myth-power-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">東北シルバーウィーク グランピング：宮城・福島・秋田の雄大な自然＆紅葉先取りステイ</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「宮崎・高千穂峡＆天岩戸神社」真名井の滝貸ボート・八百万の神天安河原＆高千穂牛宿 厳選ガイド</span>
             </a>
-            <a href="/winter-miyagi-matsushima-shiogama-shrine-hatsumode-sanriku-oyster-higashimono-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/winter-miyazaki-aoshima-onsen-miyazakigyu-iseebi-resort-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12・1月宮城】陸奥総鎮守「鹽竈神社」新春初詣と日本三景「松島」雪景色！冬旬「三陸松島かき」・極上ひがしもの鮪＆松島温泉名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">南国温暖避寒と鬼の洗濯板絶景 最高峰宮崎牛・伊勢海老＆美肌炭酸泉リゾートの宿5選</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
             <div className="flex flex-wrap gap-2">
               <Link
-                href="/prefectures/aichi/"
+                href="/prefectures/miyazaki/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                愛知県の宿・温泉
+                宮崎県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/miyagi/"
+                href="/prefectures/fukuoka/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                宮城県の宿・温泉
+                福岡県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/yamaguchi/"
+                href="/prefectures/oita/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                山口県の宿・温泉
+                大分県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/ishikawa/"
+                href="/prefectures/kumamoto/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                石川県の宿・温泉
+                熊本県の宿・温泉
               </Link>
             </div>
           </div>
@@ -706,7 +706,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. マンゴーホテル宮崎</td>
                 <td className="p-3 text-stone-600">宮崎県宮崎市橘通東1-5-8</td>
-                <td className="p-3 text-stone-600">宮崎駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ日豊本線 宮崎駅から車で約１０分。宮崎空港から空港リムジンバスで約１５分。</td>
                 <td className="p-3 text-stone-600">有/有料【普通車まで】1泊1000円/予約不可先着順【中型車】1泊3000円/要予約【駐輪】無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.04（153件）</td>
                 <td className="p-3 font-bold text-rose-600">¥2,925〜</td>
@@ -715,7 +715,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. マンゴーホテル日南（旧：日南第一ホテル）</td>
                 <td className="p-3 text-stone-600">宮崎県日南市岩崎3-3-13</td>
-                <td className="p-3 text-stone-600">油津駅周辺</td>
+                <td className="p-3 text-stone-600">JR日南線油津駅より徒歩７分、宮崎ICより車約50分。宮崎空港より車で約50分。</td>
                 <td className="p-3 text-stone-600">有り　43台　1泊1台：1000円　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★3.72（92件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,400〜</td>
@@ -724,7 +724,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. ホテルシーズン日南</td>
                 <td className="p-3 text-stone-600">宮崎県日南市園田3-11-1</td>
-                <td className="p-3 text-stone-600">油津駅周辺</td>
+                <td className="p-3 text-stone-600">宮崎ICから車で約40分/宮崎空港より車で約50分・宮崎交通バス梅ヶ浜下車徒歩3分/日南線JR油津駅より車で約3分</td>
                 <td className="p-3 text-stone-600">有　第一駐車場38台　第二駐車場12台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.07（770件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,050〜</td>
@@ -733,7 +733,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. ホテルルートイン熊本駅前</td>
                 <td className="p-3 text-stone-600">熊本県熊本市西区春日1-14-19</td>
-                <td className="p-3 text-stone-600">熊本駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ熊本駅白川口(東口)より徒歩3分！熊本ＩＣから車で35分、熊本空港からリムジンバス50分</td>
                 <td className="p-3 text-stone-600">自走式立体駐車場６０台完備・立体に比べ楽々出庫　1000円（税込/泊）　高さ制限２．１Ｍ　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★3.93（1605件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,950〜</td>
@@ -742,7 +742,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. ＴＨＥ　ＭＥＩＢＩＡ　ＭＩＹＡＺＡＫＩ（ザ・メイビア宮崎）</td>
                 <td className="p-3 text-stone-600">宮崎県宮崎市下原町247-18</td>
-                <td className="p-3 text-stone-600">宮崎駅周辺</td>
+                <td className="p-3 text-stone-600">宮崎駅東口から徒歩10分。宮崎駅から要予約で送迎可。(16時～18時/9時～12時)宮崎自動車道宮崎ＩＣから車で20分。</td>
                 <td className="p-3 text-stone-600">平面駐車場完備(無料)/24時間出し入れ自由。</td>
                 <td className="p-3 font-bold text-amber-600">★4.63（160件）</td>
                 <td className="p-3 font-bold text-rose-600">¥11,900〜</td>
@@ -771,7 +771,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有/有料【普通車まで】1泊1000円/予約不可先着順【中型車】1泊3000円/要予約【駐輪】無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.88 ／ 立地 ★3.88 ／ 部屋 ★4.07 ／ 設備 ★4 ／ 風呂 ★3.83 ／ 食事 ★3.77</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ベッドが広く快適、無料のアイスも絶品大人2、子供3での宿泊でセミダブルベット4つあり2泊したのでゆっくり過ごせて快適でしたマンゴウアイスが宿泊者無料でとても美味しかったです…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ベッドが広く快適、無料のアイスも絶品大人2、子供3での宿泊でセミダブルベット4つあり2泊したのでゆっくり過ごせて快適でしたマンゴウアイスが宿泊者無料でとても美味しかったです。」
                   </blockquote>
                 </div>
               </div>
@@ -815,7 +815,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有　第一駐車場38台　第二駐車場12台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「海の景色と朝食は最高だが水回りが残念お部屋からの海の景色が窓全面に広がってとても綺麗で朝日も素晴らしく癒されました。朝食はオムレツが好きなので洋食にしました。サラダやスープなどもついて美味しく…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「海の景色と朝食は最高だが水回りが残念お部屋からの海の景色が窓全面に広がってとても綺麗で朝日も素晴らしく癒されました。朝食はオムレツが好きなので洋食にしました。」
                   </blockquote>
                 </div>
               </div>
@@ -837,7 +837,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>自走式立体駐車場６０台完備・立体に比べ楽々出庫　1000円（税込/泊）　高さ制限２．１Ｍ　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅前で迷わず到着、快適に過ごせました市内での仕事の関係で、初めて利用しました。レンタカーで移動してましたが、駅前のため迷う事無く到着出来ました。エレベーターが背面での2台設置で、珍しいな?と思いま…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅前で迷わず到着、快適に過ごせました市内での仕事の関係で、初めて利用しました。レンタカーで移動してましたが、駅前のため迷う事無く到着出来ました。」
                   </blockquote>
                 </div>
               </div>

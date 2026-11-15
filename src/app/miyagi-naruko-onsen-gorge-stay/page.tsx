@@ -253,7 +253,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 旅館　なんぶ屋</td>
                 <td className="p-3 text-stone-600">宮城県大崎市鳴子温泉鷲の巣90-18</td>
-                <td className="p-3 text-stone-600">鳴子御殿湯駅周辺</td>
+                <td className="p-3 text-stone-600">鳴子御殿湯駅から徒歩で３分</td>
                 <td className="p-3 text-stone-600">施設前に無料駐車場あり。40台まで。予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.55（190件）</td>
                 <td className="p-3 font-bold text-rose-600">¥13,000〜</td>
@@ -262,7 +262,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 鳴子・中山平温泉　旅館　三之亟湯（さんのじょうゆ）</td>
                 <td className="p-3 text-stone-600">宮城県大崎市鳴子温泉星沼77-53</td>
-                <td className="p-3 text-stone-600">中山平温泉駅周辺</td>
+                <td className="p-3 text-stone-600">JR陸羽東線「中山平温泉駅」より徒歩約5分／東北自動車道・古川ICより約43分</td>
                 <td className="p-3 text-stone-600">有り　20台　無料　先着順  バイク用車庫有り 無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.67（745件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,700〜</td>
@@ -271,7 +271,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 鳴子温泉郷　極上の貸切露天風呂　旅館大沼</td>
                 <td className="p-3 text-stone-600">宮城県大崎市鳴子温泉赤湯34</td>
-                <td className="p-3 text-stone-600">東北新幹線『古川駅』よりＪＲ陸羽東線に乗り換え、『鳴子御殿湯駅』下車、</td>
+                <td className="p-3 text-stone-600">東北新幹線『古川駅』よりＪＲ陸羽東線に乗り換え、『鳴子御殿湯駅』下車、徒歩５分。鳴子温泉からはタクシーで約5分。</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.58（614件）</td>
                 <td className="p-3 font-bold text-rose-600">¥13,530〜</td>
@@ -280,7 +280,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 赤倉温泉　みどりや旅館</td>
                 <td className="p-3 text-stone-600">山形県最上郡最上町富沢847</td>
-                <td className="p-3 text-stone-600">赤倉温泉駅周辺</td>
+                <td className="p-3 text-stone-600">JR陸羽東線赤倉温泉駅下車、車で5分。東北自動車道古川ICより車で50分</td>
                 <td className="p-3 text-stone-600">有り　１０台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★5（15件）</td>
                 <td className="p-3 font-bold text-rose-600">¥14,900〜</td>
@@ -289,7 +289,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 鳴子温泉　和みの湯　民宿旅館　二宮荘</td>
                 <td className="p-3 text-stone-600">宮城県大崎市鳴子温泉136</td>
-                <td className="p-3 text-stone-600">鳴子御殿湯駅周辺</td>
+                <td className="p-3 text-stone-600">鳴子御殿湯駅からお車で５分</td>
                 <td className="p-3 text-stone-600">有り　１５台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.08（86件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,600〜</td>
@@ -298,7 +298,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">6. 鳴子温泉　鳴子旅館</td>
                 <td className="p-3 text-stone-600">宮城県大崎市鳴子温泉車湯54-11</td>
-                <td className="p-3 text-stone-600">ＪＲ陸羽東線　鳴子温泉駅より徒歩１７分位／東北道古川ＩＣより国道４７号</td>
+                <td className="p-3 text-stone-600">ＪＲ陸羽東線 鳴子温泉駅より徒歩１７分位／東北道古川ＩＣより国道４７号線（約３０ｋｍ）</td>
                 <td className="p-3 text-stone-600">有　２０台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.67（49件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,370〜</td>
@@ -349,7 +349,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　20台　無料　先着順  バイク用車庫有り 無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「バイクガレージ完備、温泉も料理も大満足東北ツーリングではいつも宿泊していましたが、7/29に2年ぶりの宿泊となりました。雨天でもシャッター付きのガレージにバイクを置かせていただけるのでありがた…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「バイクガレージ完備、温泉も料理も大満足東北ツーリングではいつも宿泊していましたが、7/29に2年ぶりの宿泊となりました。」
                   </blockquote>
                 </div>
               </div>
@@ -371,7 +371,7 @@ export default function MicroTouristHubPage() {
                   <p>【宮城・鳴子温泉郷＆鳴子峡：日本屈指の多彩な泉質・紅葉】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「またゆきたい設備は古いが、清潔に保たれてます。夕食とても美味しかったです。離れた所にある露天風呂も良い。蒸し風呂(サウナ)に入れます方法が内湯から入れるようになると入りやすいと思います…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「またゆきたい設備は古いが、清潔に保たれてます。夕食とても美味しかったです。離れた所にある露天風呂も良い。」
                   </blockquote>
                 </div>
               </div>

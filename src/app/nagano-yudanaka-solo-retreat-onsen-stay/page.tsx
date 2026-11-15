@@ -338,8 +338,8 @@ export default function ArticlePage() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 湯田中駅よりアクセス。長野電鉄 湯田中駅より徒歩２分／上信越自動車道 信州中野ＩＣよりＲ２９２経由で１５分。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「信州・湯田中温泉 清風荘」にチェックイン。★無料貸切風呂や天然温泉の露天風呂。卓球台もあります。人気の信州牛も☆食事は個室などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「信州・湯田中温泉 清風荘」の湯処へ。★無料貸切風呂や天然温泉の露天風呂。卓球台もあります。人気の信州牛も☆とともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「信州・湯田中温泉 清風荘」にチェックイン。★無料貸切風呂や天然温泉の露天風呂。 まずは客室で移動の疲れをそっと癒やす。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「信州・湯田中温泉 清風荘」の湯船で寛ぎタイム。季節の空気を感じながら手足を伸ばし、心豊かな夕方のリラックス時間を満喫。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「信州・湯田中温泉 清風荘」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -367,49 +367,49 @@ export default function ArticlePage() {
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">あわせて読みたい人気特集＆全国エリアガイド</h2>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
-            <a href="/iwate-morioka-tsunagi-solo-retreat-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/nagano-shibu-onsen-retro-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">盛岡つなぎ温泉ひとり旅・御所湖畔と岩手山おこもり：源泉かけ流し単純硫黄泉・前沢牛＆盛岡冷麺・南部鉄器文化！新幹線盛岡駅25分の名湯厳選3宿</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「長野・信州渋温泉」九湯めぐり＆金具屋・スノーモンキー極上宿 厳選ガイド</span>
             </a>
-            <a href="/winter-iwate-hachimantai-matsukawa-onsen-snow-maesawagyu-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/nagano-shigakogen-shibutoge-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12月岩手・八幡平温泉郷＆松川温泉】白銀の樹氷と乳白色雪見秘湯・極上前沢牛と南部鉄器すき焼きを堪能する名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「長野・志賀高原＆渋峠」日本国道最高地点・雲海テラス＆パウダースノー極上宿 厳選ガイド</span>
             </a>
-            <a href="/winter-iwate-sanriku-miyako-jodogahama-kegani-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/nagano-suwa-lake-onbashira-shrine-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12・1月岩手】白銀の浄土ヶ浜と冬の三陸海鮮紀行！旬を迎える「三陸毛ガニ・寒アワビ・名物瓶ドン」と太平洋絶景オーシャンビュー名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「長野・諏訪湖＆諏訪大社・上諏訪」諏訪大社四社まいり・片倉館千人風呂＆五蔵酒蔵宿 厳選ガイド</span>
             </a>
-            <a href="/furusato-tax-hiraizumi-chusonji-hanamaki-autumn-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/organic-forest-infinity-panoramic-sauna-chubu/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">世界遺産・平泉中尊寺の月見坂紅葉＆花巻温泉郷の名湯！佳松園・藤三旅館・廣美亭×ふるさと納税厳選ガイド岩手</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「信州・白馬アルプス森林サウナ」北アルプス絶景パノラマ＆白樺水風呂の極上リゾート宿5選</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
             <div className="flex flex-wrap gap-2">
               <Link
-                href="/prefectures/nara/"
+                href="/prefectures/nagano/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                奈良県の宿・温泉
+                長野県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/wakayama/"
+                href="/prefectures/yamanashi/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                和歌山県の宿・温泉
+                山梨県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/fukuoka/"
+                href="/prefectures/niigata/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                福岡県の宿・温泉
+                新潟県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/iwate/"
+                href="/prefectures/ishikawa/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                岩手県の宿・温泉
+                石川県の宿・温泉
               </Link>
             </div>
           </div>
@@ -445,7 +445,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 信州湯田中温泉　華灯りの宿　加命の湯</td>
                 <td className="p-3 text-stone-600">長野県下高井郡山ノ内町平隠3174</td>
-                <td className="p-3 text-stone-600">湯田中駅周辺</td>
+                <td className="p-3 text-stone-600">長野電鉄 湯田中駅より徒歩で５分 【竜王スキーパーク ソラテラスまで車で20分】</td>
                 <td className="p-3 text-stone-600">宿敷地内に駐車スペースがあります。冬期はスタッドレスタイヤもしくはタイヤチェーンをご用意ください。</td>
                 <td className="p-3 font-bold text-amber-600">★4.61（200件）</td>
                 <td className="p-3 font-bold text-rose-600">¥19,950〜</td>
@@ -454,7 +454,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 信州・湯田中温泉　清風荘</td>
                 <td className="p-3 text-stone-600">長野県下高井郡山ノ内町平穏3268</td>
-                <td className="p-3 text-stone-600">湯田中駅周辺</td>
+                <td className="p-3 text-stone-600">長野電鉄 湯田中駅より徒歩２分／上信越自動車道 信州中野ＩＣよりＲ２９２経由で１５分。</td>
                 <td className="p-3 text-stone-600">有り 10台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.43（107件）</td>
                 <td className="p-3 font-bold text-rose-600">¥11,000〜</td>
@@ -463,7 +463,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. ホテル小田島</td>
                 <td className="p-3 text-stone-600">岩手県盛岡市中央通1-12-24</td>
-                <td className="p-3 text-stone-600">盛岡駅周辺</td>
+                <td className="p-3 text-stone-600">盛岡駅から車で5分徒歩17分。県庁、市役所まで徒歩5分 ☆1階のファミマが目印です♪☆彡</td>
                 <td className="p-3 text-stone-600">先着順40台迄　1泊880円（税込）14時〜翌11時  満車の際は契約駐車場へご案内</td>
                 <td className="p-3 font-bold text-amber-600">★4.09（2549件）</td>
                 <td className="p-3 font-bold text-rose-600">¥2,530〜</td>
@@ -472,7 +472,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 八幡平マウンテンホテル</td>
                 <td className="p-3 text-stone-600">岩手県八幡平市松尾寄木第1地割509-1</td>
-                <td className="p-3 text-stone-600">盛岡駅周辺</td>
+                <td className="p-3 text-stone-600">東北自動車道 松尾ICより15分。盛岡駅より岩手県北バスで約80分。</td>
                 <td className="p-3 text-stone-600">有り　200台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.34（774件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,500〜</td>
@@ -481,7 +481,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. ＪＲ東日本ホテルメッツ北上</td>
                 <td className="p-3 text-stone-600">岩手県北上市大通1-1-34</td>
-                <td className="p-3 text-stone-600">北上駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ東北本線・新幹線 北上駅西口から徒歩１分 国道４号線より車で３分</td>
                 <td className="p-3 text-stone-600">【 駐車料金：1泊800円 】敷地内17台。満車の場合は提携駐車場をご案内します。</td>
                 <td className="p-3 font-bold text-amber-600">★4.15（2255件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,450〜</td>
@@ -510,7 +510,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>宿敷地内に駐車スペースがあります。冬期はスタッドレスタイヤもしくはタイヤチェーンをご用意ください。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.7 ／ 立地 ★4.48 ／ 部屋 ★4.48 ／ 設備 ★4.52 ／ 風呂 ★4.7 ／ 食事 ★4.57</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「センスある空間と美味しい朝食に大満足同級生4名の女子旅です。宿はこぢんまりとしながらも随所にセンスあるインテリアで整えられ、お部屋は広くとても居心地の良いものでした。よろずやさんの姉妹館となってい…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「センスある空間と美味しい朝食に大満足同級生4名の女子旅です。宿はこぢんまりとしながらも随所にセンスあるインテリアで整えられ、お部屋は広くとても居心地の良いものでした。」
                   </blockquote>
                 </div>
               </div>

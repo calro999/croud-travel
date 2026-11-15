@@ -152,7 +152,7 @@ export default function WinterTravelSpecialPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. ホテル　インターコンチネンタル東京ベイ　ｂｙ　ＩＨＧ</td>
                 <td className="p-3 text-stone-600">東京都港区海岸1-16-2</td>
-                <td className="p-3 text-stone-600">浜松町</td>
+                <td className="p-3 text-stone-600">ゆりかもめ竹芝駅直結・JR浜松町駅徒歩8分・羽田空港から30分・成田空港リムジンバス120分。</td>
                 <td className="p-3 text-stone-600">有り　177台　3000円（税込）</td>
                 <td className="p-3 font-bold text-amber-600">★4.61（4212件）</td>
                 <td className="p-3 font-bold text-rose-600">¥19,334〜</td>
@@ -170,7 +170,7 @@ export default function WinterTravelSpecialPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 熱海温泉　湯の宿　平鶴（ひらつる）</td>
                 <td className="p-3 text-stone-600">静岡県熱海市下多賀493</td>
-                <td className="p-3 text-stone-600">網代</td>
+                <td className="p-3 text-stone-600">国道１３５号線を熱海より伊東方面へ７ｋｍ ＪＲ伊東線網代駅下車徒歩５分 海は目の前 国道よりも海よりの温泉旅館</td>
                 <td className="p-3 text-stone-600">有り　５０台　有料　乗用車1台1泊700円（税別）</td>
                 <td className="p-3 font-bold text-amber-600">★4.54（1103件）</td>
                 <td className="p-3 font-bold text-rose-600">¥14,200〜</td>
@@ -188,7 +188,7 @@ export default function WinterTravelSpecialPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 三朝温泉　三朝館</td>
                 <td className="p-3 text-stone-600">鳥取県東伯郡三朝町山田174</td>
-                <td className="p-3 text-stone-600">倉吉</td>
+                <td className="p-3 text-stone-600">中国道院庄ＩＣ下車、国道１７９号利用７０分／倉吉駅～三朝温泉行バスにて約２０分・タクシーで約１５分</td>
                 <td className="p-3 text-stone-600">有り　１００台</td>
                 <td className="p-3 font-bold text-amber-600">★4.45（2254件）</td>
                 <td className="p-3 font-bold text-rose-600">¥10,395〜</td>

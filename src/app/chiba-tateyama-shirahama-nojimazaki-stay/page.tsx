@@ -253,7 +253,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 南房総白浜温泉　白浜オーシャンリゾート</td>
                 <td className="p-3 text-stone-600">千葉県南房総市白浜町白浜2784</td>
-                <td className="p-3 text-stone-600">館山駅周辺</td>
+                <td className="p-3 text-stone-600">JR内房線「館山駅西口」より無料送迎バスで30分（要予約）/ 館山自動車道富浦ICより約40分</td>
                 <td className="p-3 text-stone-600">有り　５５台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★3.97（3446件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,930〜</td>
@@ -262,7 +262,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. グランドホテル太陽</td>
                 <td className="p-3 text-stone-600">千葉県南房総市白浜町白浜3535-5</td>
-                <td className="p-3 text-stone-600">お車で：アクアラインより館山自動車道経由富浦ICから約３０分／電車で：</td>
+                <td className="p-3 text-stone-600">お車で：アクアラインより館山自動車道経由富浦ICから約３０分／電車で：白浜バス停より徒歩にて７分</td>
                 <td className="p-3 text-stone-600">有り　５０台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★3.64（873件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,050〜</td>
@@ -271,7 +271,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. たてやま温泉　夕日海岸　昇鶴</td>
                 <td className="p-3 text-stone-600">千葉県館山市八幡822</td>
-                <td className="p-3 text-stone-600">館山駅周辺</td>
+                <td className="p-3 text-stone-600">東関道館山富浦ICよりお車で約10分／JR内房線 館山駅よりタクシーで5分、徒歩で20分 ／館山駅より送迎有り（要予約）</td>
                 <td className="p-3 text-stone-600">有り　40台　無料　先着順　◇◆必ず駐車できます◆◇</td>
                 <td className="p-3 font-bold text-amber-600">★4.04（402件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,700〜</td>
@@ -280,7 +280,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 館山温泉　おさしみの宿　たろべ</td>
                 <td className="p-3 text-stone-600">千葉県館山市塩見225</td>
-                <td className="p-3 text-stone-600">館山駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ 館山駅よりＪＲバスで２０分、車で１３分</td>
                 <td className="p-3 text-stone-600">有り　３０台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.61（254件）</td>
                 <td className="p-3 font-bold text-rose-600">¥12,100〜</td>
@@ -289,7 +289,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. お魚料理の宿　魚拓荘　鈴木屋</td>
                 <td className="p-3 text-stone-600">千葉県南房総市千倉町北朝夷2801</td>
-                <td className="p-3 text-stone-600">千倉駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ内房線・千倉駅～タクシーにて約５分／富津館山道・富浦ＩＣ～国道127号～128号～410号線経由、約25分</td>
                 <td className="p-3 text-stone-600">有り　15台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.53（575件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,050〜</td>
@@ -298,7 +298,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">6. 妊婦さんにも赤ちゃんにも優しい宿　南房総白浜　季粋の宿　紋屋</td>
                 <td className="p-3 text-stone-600">千葉県南房総市白浜町白浜232</td>
-                <td className="p-3 text-stone-600">館山駅周辺</td>
+                <td className="p-3 text-stone-600">JR＞内房線 館山駅から路線バスで40分 高速バス＞東京駅より房総なのはな号で160分 車＞館山道 富浦ＩＣより30分</td>
                 <td className="p-3 text-stone-600">有り　20台／無料 （敷地内の白線に沿ってお停めください）</td>
                 <td className="p-3 font-bold text-amber-600">★4.26（821件）</td>
                 <td className="p-3 font-bold text-rose-600">¥10,170〜</td>
@@ -327,7 +327,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　５５台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「オーシャンビューと網焼きバイキングを満喫お部屋は犬連れOKのお部屋でしたが、畳はボロボロで毛羽立ちがありましたので裸足で歩く際はお気をつけください。犬用のアメニティーもあります。ロケー…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「オーシャンビューと網焼きバイキングを満喫お部屋は犬連れOKのお部屋でしたが、畳はボロボロで毛羽立ちがありましたので裸足で歩く際はお気をつけください。犬用のアメニティーもあります。」
                   </blockquote>
                 </div>
               </div>
@@ -371,7 +371,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　40台　無料　先着順　◇◆必ず駐車できます◆◇</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋は清潔で良いが、食事とベッドに難あり夕食の量は我々には多すぎ。鮑と赤海老のアヒージョの鮑は3分の1にエリンギでカサ増し、海老は食べづらく手がベトベト。刺身は寿司用のネタの大きさで食べづらい。金…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋は清潔で良いが、食事とベッドに難あり夕食の量は我々には多すぎ。鮑と赤海老のアヒージョの鮑は3分の1にエリンギでカサ増し、海老は食べづらく手がベトベト。刺身は寿司用のネタの大きさで食べづらい。」
                   </blockquote>
                 </div>
               </div>
@@ -393,7 +393,7 @@ export default function MicroTouristHubPage() {
                   <p>【千葉・館山＆白浜・野島崎：房総最南端白亜の灯台・フラ】 <strong>【駐車場・マイカー利用】</strong>有り　３０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「リピ宿泊。お食事がとても美味しく、どこもとても清潔で管理されています。お風呂も熱すぎないので海を眺めてゆっくりしまくれる。海の目の前で海で遊んで、宿泊者専用のトイレやシャワー(水です)が利用できるのも…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「リピ宿泊。お食事がとても美味しく、どこもとても清潔で管理されています。お風呂も熱すぎないので海を眺めてゆっくりしまくれる。」
                   </blockquote>
                 </div>
               </div>
@@ -437,7 +437,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　20台／無料 （敷地内の白線に沿ってお停めください）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事も接客もお風呂も最高でしたお夕食も朝食も女性の私が食べきれないくらい豪華で、主人も大満足してました!お家であまり離乳食を食べない娘も紋屋さんの手作り離乳食はパクパク食べていて感動し…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事も接客もお風呂も最高でしたお夕食も朝食も女性の私が食べきれないくらい豪華で、主人も大満足してました!」
                   </blockquote>
                 </div>
               </div>

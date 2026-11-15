@@ -253,7 +253,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 浜名湖かんざんじ温泉　ホテル鞠水亭</td>
                 <td className="p-3 text-stone-600">静岡県浜松市中央区舘山寺町398番地</td>
-                <td className="p-3 text-stone-600">浜松駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ浜松駅より路線バスで４５分（舘山寺温泉行き） 東名高速、舘山寺スマートＩＣより約５分</td>
                 <td className="p-3 text-stone-600">有り　乗用車　80台　大型　4台，無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.41（832件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,250〜</td>
@@ -262,7 +262,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. ホテル　ウェルシーズン浜名湖</td>
                 <td className="p-3 text-stone-600">静岡県浜松市中央区舘山寺町1891</td>
-                <td className="p-3 text-stone-600">浜松駅周辺</td>
+                <td className="p-3 text-stone-600">■東名高速道路『舘山寺スマートIC』より約5分 ■JR浜松駅より路線バスで約45分</td>
                 <td className="p-3 text-stone-600">あり（宿泊当日〜出発日迄無料／予約不要）　※車いす駐車場有（要問合せ）※バイク用屋根付き有</td>
                 <td className="p-3 font-bold text-amber-600">★4.53（3569件）</td>
                 <td className="p-3 font-bold text-rose-600">¥11,550〜</td>
@@ -271,7 +271,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 旅館ふじや</td>
                 <td className="p-3 text-stone-600">静岡県浜松市中央区舘山寺町2268</td>
-                <td className="p-3 text-stone-600">浜松駅周辺</td>
+                <td className="p-3 text-stone-600">東名高速浜松西ICから15分、舘山寺スマートICから5分 ＪＲ浜松駅からバスで45分</td>
                 <td className="p-3 text-stone-600">有り　10台　無料（大人の人数の半数台まで無料）　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.4（162件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,250〜</td>
@@ -280,7 +280,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 愛知渥美半島　伊良湖温泉　魚と貝のうまい宿　玉川</td>
                 <td className="p-3 text-stone-600">愛知県田原市福江町中紺屋瀬古22-1</td>
-                <td className="p-3 text-stone-600">豊橋駅周辺</td>
+                <td className="p-3 text-stone-600">豊橋よりバスにて６０分～福江バス停で下車～徒歩１分／当館の入口は、通りに面したレンガの壁が目印です</td>
                 <td className="p-3 text-stone-600">有り　２０台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.26（145件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,400〜</td>
@@ -309,7 +309,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　乗用車　80台　大型　4台，無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「飾らない雰囲気と親切な対応で何度も利用何度も利用させて頂いてます。いつも、昼前に車を置かせてもらい、近くの鰻屋さんで昼呑みしながら、美味しい鰻を食べてます。飾らない雰囲気が良いし、係の方も皆、親切…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「飾らない雰囲気と親切な対応で何度も利用何度も利用させて頂いてます。いつも、昼前に車を置かせてもらい、近くの鰻屋さんで昼呑みしながら、美味しい鰻を食べてます。」
                   </blockquote>
                 </div>
               </div>
@@ -331,7 +331,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>あり（宿泊当日〜出発日迄無料／予約不要）　※車いす駐車場有（要問合せ）※バイク用屋根付き有</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.62 ／ 立地 ★4.43 ／ 部屋 ★4.43 ／ 設備 ★4.47 ／ 風呂 ★4.45 ／ 食事 ★4.64</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「パルパル直結で静岡グルメも満喫!パルパル直結で子供と遊ぶのに最高の立地でした。小さい子供と旅行に行くとご当地グルメのお店には立ち寄りにくいのですが、夕食、朝食バイキングで静岡ならではの料理を色々と…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「パルパル直結で静岡グルメも満喫!パルパル直結で子供と遊ぶのに最高の立地でした。」
                   </blockquote>
                 </div>
               </div>
@@ -375,7 +375,7 @@ export default function MicroTouristHubPage() {
                   <p>【静岡・浜名湖＆舘山寺温泉：湖畔パノラマ・ロープウェイ】 <strong>【駐車場・マイカー利用】</strong>有り　２０台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「伊勢湾フェリーの利用に便利、魚料理も絶品翌日に伊勢湾フェリーを利用するために、宿泊しました。一階部分の食堂で夕飯を頂きました。直距離の運転だったので、ビールが最高に旨かったです。魚料理は、お刺身が…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「伊勢湾フェリーの利用に便利、魚料理も絶品翌日に伊勢湾フェリーを利用するために、宿泊しました。一階部分の食堂で夕飯を頂きました。直距離の運転だったので、ビールが最高に旨かったです。」
                   </blockquote>
                 </div>
               </div>

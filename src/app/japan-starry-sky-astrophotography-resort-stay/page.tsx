@@ -253,7 +253,7 @@ export default function ScenicViewHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 昼神温泉　昼神グランドホテル天心</td>
                 <td className="p-3 text-stone-600">長野県下伊那郡阿智村智里331-5</td>
-                <td className="p-3 text-stone-600">飯田（長野）駅周辺</td>
+                <td className="p-3 text-stone-600">中央自動車道 (名古屋方面から)園原ICより車で約10分 (東京・長野方面から)飯田山本インターより車で約10分</td>
                 <td className="p-3 text-stone-600">有り　70台　無料　予約不要 【EV・PHEV用の充電器1台あり(普通充電200V)】</td>
                 <td className="p-3 font-bold text-amber-600">★4.16（845件）</td>
                 <td className="p-3 font-bold text-rose-600">プラン参照</td>
@@ -262,7 +262,7 @@ export default function ScenicViewHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 八ヶ岳グレイスホテル</td>
                 <td className="p-3 text-stone-600">長野県南佐久郡南牧村野辺山217-1</td>
-                <td className="p-3 text-stone-600">野辺山駅周辺</td>
+                <td className="p-3 text-stone-600">野辺山駅より車で約5分（無料送迎あり・予約制／お電話または公式HPのご予約フォームより） 中央道・長坂ICより約20分</td>
                 <td className="p-3 text-stone-600">有り　７０台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.54（2185件）</td>
                 <td className="p-3 font-bold text-rose-600">¥10,200〜</td>
@@ -271,7 +271,7 @@ export default function ScenicViewHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 八ヶ岳・清里高原　清泉寮　ホテル＆コテージ</td>
                 <td className="p-3 text-stone-600">山梨県北杜市高根町清里3545</td>
-                <td className="p-3 text-stone-600">清里駅周辺</td>
+                <td className="p-3 text-stone-600">中央自動車道長坂ICより２０分 ／ JR小海線清里駅 ※無料送迎便(ご予約制)あり</td>
                 <td className="p-3 text-stone-600">有り　２００台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.38（563件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,200〜</td>
@@ -280,7 +280,7 @@ export default function ScenicViewHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 八ヶ岳南麓　バーク清里</td>
                 <td className="p-3 text-stone-600">山梨県北杜市高根町清里3545　清里の森1-3-11</td>
-                <td className="p-3 text-stone-600">清里駅周辺</td>
+                <td className="p-3 text-stone-600">JR清里駅下車、徒歩２５分。お車は中央道長坂・須玉各インターから約25分</td>
                 <td className="p-3 text-stone-600">有り、終日無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.93（331件）</td>
                 <td className="p-3 font-bold text-rose-600">¥15,400〜</td>
@@ -289,7 +289,7 @@ export default function ScenicViewHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 八ヶ岳温泉　樅の木荘</td>
                 <td className="p-3 text-stone-600">長野県諏訪郡原村原山17217-1729</td>
-                <td className="p-3 text-stone-600">茅野駅周辺</td>
+                <td className="p-3 text-stone-600">中央道諏訪南ＩＣより車で15分 ＪＲ茅野駅より車30分/JRすずらんの里駅より10分＜団体ご予約は送迎可能＞</td>
                 <td className="p-3 text-stone-600">有り　１００台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.29（338件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,800〜</td>
@@ -298,7 +298,7 @@ export default function ScenicViewHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">6. リゾートイン西表島＜西表島＞</td>
                 <td className="p-3 text-stone-600">沖縄県八重山郡竹富町上原681-64</td>
-                <td className="p-3 text-stone-600">石垣空港駅周辺</td>
+                <td className="p-3 text-stone-600">西表島上原港から徒歩5分（石垣港離島ターミナルより西表島上原行きのフェリーに約50分乗船）</td>
                 <td className="p-3 text-stone-600">有り　無料　先着順（4台）</td>
                 <td className="p-3 font-bold text-amber-600">★3.91（175件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,940〜</td>
@@ -327,7 +327,7 @@ export default function ScenicViewHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　70台　無料　予約不要 【EV・PHEV用の充電器1台あり(普通充電200V)】</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「従業員の育成が行き届いており、また来たい昨年に続いて2度目の宿泊。サービスも決して過剰でなく、平日の宿泊であったためかゆったりと時間を過ごすことができた。昨年は、外国人の従業員とのコミュニケーショ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「従業員の育成が行き届いており、また来たい昨年に続いて2度目の宿泊。サービスも決して過剰でなく、平日の宿泊であったためかゆったりと時間を過ごすことができた。」
                   </blockquote>
                 </div>
               </div>
@@ -349,7 +349,7 @@ export default function ScenicViewHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　７０台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「雨でも星ソムリエの解説で大満足!満点の星空を見たくて予約しましたが、あいにく一晩中、雨でした。しかし、このホテルの売りの星ソムリエの方が、室内の簡易プラネタリウムで、ここから見える夜空を開設してい…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「雨でも星ソムリエの解説で大満足!満点の星空を見たくて予約しましたが、あいにく一晩中、雨でした。」
                   </blockquote>
                 </div>
               </div>
@@ -371,7 +371,7 @@ export default function ScenicViewHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２００台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「新鮮な地元野菜とラウンジでの寛ぎに大満足バイキングのサラダが地元のお野菜をふんだんに使っていて、新鮮で美味しかったです。他の肉や魚のお料理も美味しかったです。館内のコーヒー、紅茶の飲み物は…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「新鮮な地元野菜とラウンジでの寛ぎに大満足バイキングのサラダが地元のお野菜をふんだんに使っていて、新鮮で美味しかったです。他の肉や魚のお料理も美味しかったです。」
                   </blockquote>
                 </div>
               </div>
@@ -415,7 +415,7 @@ export default function ScenicViewHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１００台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉が気持ち良い旧棟のほうで利用しました。難点を先に述べれば、二階建てなのでなんとかなりましたが、エレベーターがないので手持ちで荷物を上げなければなりません。また、部屋の壁が結構薄く、お隣がに…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉が気持ち良い旧棟のほうで利用しました。難点を先に述べれば、二階建てなのでなんとかなりましたが、エレベーターがないので手持ちで荷物を上げなければなりません。」
                   </blockquote>
                 </div>
               </div>
@@ -437,7 +437,7 @@ export default function ScenicViewHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　無料　先着順（4台）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「アクティビティ拠点に最適、寝るだけなら十分上原港から5分、アクティビティの拠点にぴったりです。ただし、お部屋は清潔ですが眺望もなくベッド以外の寛いだり食事をとるスペースも無いので、寝に帰るだけです…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「アクティビティ拠点に最適、寝るだけなら十分上原港から5分、アクティビティの拠点にぴったりです。」
                   </blockquote>
                 </div>
               </div>

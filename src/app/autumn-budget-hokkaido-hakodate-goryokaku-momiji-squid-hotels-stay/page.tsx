@@ -319,7 +319,7 @@ export default function AutumnBudgetHakodateHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. ホテルオールインステイ函館</td>
                 <td className="p-3 text-stone-600">北海道函館市若松町32-8</td>
-                <td className="p-3 text-stone-600">函館駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ 函館駅から0.7K徒歩にて約７分。函館空港より車15分、空港より函館駅までシャトルバス有り</td>
                 <td className="p-3 text-stone-600">1階が12台（先着順）他に第2、第3駐車場がございます。お車の出し入れは自由です。1泊500円/台</td>
                 <td className="p-3 font-bold text-amber-600">★4.42（219件）</td>
                 <td className="p-3 font-bold text-rose-600">¥2,500〜</td>
@@ -346,7 +346,7 @@ export default function AutumnBudgetHakodateHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. ホテル法華クラブ函館</td>
                 <td className="p-3 text-stone-600">北海道函館市本町27-1</td>
-                <td className="p-3 text-stone-600">函館駅周辺</td>
+                <td className="p-3 text-stone-600">函館駅からタクシーで約10分、函館空港からタクシーで約15分。市電五稜郭公園前から徒歩1分。</td>
                 <td className="p-3 text-stone-600">◆1泊 800円（先着順）地下（10台）屋外（40台）※バイク500円　バス・トラック2400円</td>
                 <td className="p-3 font-bold text-amber-600">★4.38（3179件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,600〜</td>
@@ -375,7 +375,7 @@ export default function AutumnBudgetHakodateHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　※２０２４年５月１日より新規予約分から１泊１台５００円　（大型車両はご連絡下さい）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.15 ／ 立地 ★4.06 ／ 部屋 ★4.26 ／ 設備 ★4.11 ／ 風呂 ★3.99 ／ 食事 ★4.03</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食は美味しく価格も満足、部屋は狭めサービスの朝食は手作りで美味しかったので、満足です。接客も悪くなかったですが、部屋が狭かったのでキャリーバッグの扱いがしにくかったです。お風呂はもう少し…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食は美味しく価格も満足、部屋は狭めサービスの朝食は手作りで美味しかったので、満足です。接客も悪くなかったですが、部屋が狭かったのでキャリーバッグの扱いがしにくかったです。」
                   </blockquote>
                 </div>
               </div>
@@ -419,7 +419,7 @@ export default function AutumnBudgetHakodateHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>1泊1台700円（先着順）　近隣有料駐車場あり</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.27 ／ 立地 ★4.19 ／ 部屋 ★4.31 ／ 設備 ★4.22 ／ 風呂 ★4.24 ／ 食事 ★4.29</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅直結で温泉と豪華な朝食バイキングを満喫黒松内町へ行く用事があり、青森から来る方と函館北斗駅で待ち合わせ。駅に隣接しているこちらのホテルだったので、移動の負担もなく、そのままスムーズにチェックイン…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅直結で温泉と豪華な朝食バイキングを満喫黒松内町へ行く用事があり、青森から来る方と函館北斗駅で待ち合わせ。」
                   </blockquote>
                 </div>
               </div>
@@ -441,7 +441,7 @@ export default function AutumnBudgetHakodateHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>1泊 800円（立体駐車場14台・先着順）事前予約不可　近隣に有料駐車場あり</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.33 ／ 立地 ★4.32 ／ 部屋 ★4.4 ／ 設備 ★4.31 ／ 風呂 ★4.26 ／ 食事 ★4.34</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ビジネスマン向け安パイホテル立地が良くビジネスマンにとって必要十分な設備がある安定したホテルです。個人的に有線LANがあるのがありがたいです。朝食のカレーが美味しいです。クチコミの詳細…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ビジネスマン向け安パイホテル立地が良くビジネスマンにとって必要十分な設備がある安定したホテルです。個人的に有線LANがあるのがありがたいです。朝食のカレーが美味しいです。」
                   </blockquote>
                 </div>
               </div>

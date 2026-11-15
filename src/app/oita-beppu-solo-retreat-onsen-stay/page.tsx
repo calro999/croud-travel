@@ -336,8 +336,8 @@ export default function ArticlePage() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 別府（大分）駅よりアクセス。JR別府駅より徒歩にて約10分（タクシーにて約3分）／別府国際観光港よりタクシーにて約6分／別府ICより車で約10分。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「別府温泉 ホテル三泉閣」にチェックイン。2025年5月全館リニューアルオープン 別府の歴史と文化が息づく地に新たな温泉リゾートなどの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「別府温泉 ホテル三泉閣」の湯処へ。2025年5月全館リニューアルオープン 別府の歴史と文化が息づく地に新とともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「別府温泉 ホテル三泉閣」にチェックイン。2025年5月全館リニューアルオープン 別府の歴史と文化が息づく地に新たな温泉リゾートが魅力の一軒。客室で荷物をほどいて穏やかな午後のひとときを。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「別府温泉 ホテル三泉閣」の大浴場・露天風呂へ。日暮れの静けさの中で湯に浸かり、旅の緊張をゆっくりと解きほぐす。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「別府温泉 ホテル三泉閣」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -365,21 +365,21 @@ export default function ArticlePage() {
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">あわせて読みたい人気特集＆全国エリアガイド</h2>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
-            <a href="/yamagata-sakata-haguro-dewasanzan-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/winter-oita-beppu-jigokumushi-hotspring-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">山形・酒田＆羽黒山：山居倉庫・五重塔杉並木＆庄内浜寿司・宿坊 厳選ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「冬こそ温まる！別府八湯地獄めぐり＆地獄蒸し」日本一の湧出量と湯けむり展望露天宿5選</span>
             </a>
-            <a href="/yamagata-yunohama-solo-retreat-sunset-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/winter-oita-hita-onsen-mamedamachi-river-mist-hita-yakisoba-oita-wagyu-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">山形・湯野浜温泉ひとり旅・日本海夕陽おこもり：日本の夕陽百選・オーシャン露天・庄内浜鮮魚！波音に包まれる海辺のソロリトリート厳選3宿</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【水郷日田の初冬川霧と天領小京都・豆田町の白壁通り散策】2026-2027年11-12月初冬の大分・日田温泉！三隈川の川霧を望む屋形船情緒と名物日田焼きそば・おおいた和牛と美肌の名</span>
             </a>
-            <a href="/furusato-tax-akayu-wine-grape-autumn-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/winter-oita-usa-jingu-kunisaki-hatsumode-bungogyu-seafood-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">山形ワイン＆ぶどうの郷「南陽・赤湯温泉」開湯920年の名湯と米沢牛ステーキ・ワイナリー巡り</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">全国八幡宮総本宮・宇佐神宮新春開運初詣＆国東六郷満山！ 豊前海天然車海老と極上豊後牛の名宿5選</span>
             </a>
-            <a href="/furusato-tax-yamagata-zao-onsen-okama-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/winter-oita-yunohira-onsen-ishidatami-bungogyu-kamonabe-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">エメラルドの火口湖「御釜」と冬の樹氷スノーモンスター！山形蔵王温泉の乳白色強酸性硫黄泉＆極上山形牛名門宿×ふるさと納税完全攻略ガイド【2026年最新】蔵王国際・四季のホテル・高見屋！山形蔵王温泉の乳白色強酸性硫黄泉＆極上山形牛名門宿×ふるさと納税極上旅ガイド蔵王国際・四季のホテル・高見屋</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">（metadata.title as string）</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">
@@ -443,7 +443,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 別府温泉　ホテル三泉閣</td>
                 <td className="p-3 text-stone-600">大分県別府市北浜3-6-23</td>
-                <td className="p-3 text-stone-600">別府（大分）駅周辺</td>
+                <td className="p-3 text-stone-600">JR別府駅より徒歩にて約10分（タクシーにて約3分）／別府国際観光港よりタクシーにて約6分／別府ICより車で約10分</td>
                 <td className="p-3 text-stone-600">有り（500円／泊）予約不可・先着順。※トキハ駐車場は途中出庫不可・チェックイン時に駐車券を要提示</td>
                 <td className="p-3 font-bold text-amber-600">★4.52（216件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,710〜</td>
@@ -452,7 +452,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 別府温泉　悠彩の宿　望海</td>
                 <td className="p-3 text-stone-600">大分県別府市北浜3-8-7</td>
-                <td className="p-3 text-stone-600">別府（大分）駅周辺</td>
+                <td className="p-3 text-stone-600">JR別府駅より徒歩15分またはタクシーで3分。別府ＩＣより車で15分。大分空港よりバスで45分-バス停より徒歩5分。</td>
                 <td className="p-3 text-stone-600">有　３０台（無料）お車はスタッフが駐車場までご移動しますので、玄関前にお着けください</td>
                 <td className="p-3 font-bold text-amber-600">★4.49（651件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,700〜</td>
@@ -461,7 +461,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 別府城島温泉　城島高原ホテル</td>
                 <td className="p-3 text-stone-600">大分県別府市城島高原123番地</td>
-                <td className="p-3 text-stone-600">別府（大分）駅周辺</td>
+                <td className="p-3 text-stone-600">大分空港より車にて60分／JR別府駅より車にて25分／別府ICより車にて15分/JR由布院駅より車にて15分</td>
                 <td className="p-3 text-stone-600">82台　（ご宿泊のお客様は無料でご利用いただけます。）</td>
                 <td className="p-3 font-bold text-amber-600">★4.3（978件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,160〜</td>
@@ -490,7 +490,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り（500円／泊）予約不可・先着順。※トキハ駐車場は途中出庫不可・チェックイン時に駐車券を要提示</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉三昧と赤ちゃん連れに優しい環境で大満足温泉好きな夫の誕生日に、夫婦と赤ちゃんの3人で宿泊しました。館内に2箇所温泉があり、朝と夕で男女入れ替えで2箇所とも楽しめたのに加えて、徒歩圏内の姉妹…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉三昧と赤ちゃん連れに優しい環境で大満足温泉好きな夫の誕生日に、夫婦と赤ちゃんの3人で宿泊しました。」
                   </blockquote>
                 </div>
               </div>
@@ -512,7 +512,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有　３０台（無料）お車はスタッフが駐車場までご移動しますので、玄関前にお着けください</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事は最高、お風呂の種類は少し物足りない夕食は部屋食でゆっくり食事ができました。料理はすき焼きやフグの刺身などとても美味しく、量もあったので大満足でした。朝食も和食でご飯は一人ひとり釜焚きでこちら…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事は最高、お風呂の種類は少し物足りない夕食は部屋食でゆっくり食事ができました。料理はすき焼きやフグの刺身などとても美味しく、量もあったので大満足でした。」
                   </blockquote>
                 </div>
               </div>
@@ -534,7 +534,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>82台　（ご宿泊のお客様は無料でご利用いただけます。）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.35 ／ 立地 ★4.32 ／ 部屋 ★4.29 ／ 設備 ★4.11 ／ 風呂 ★4.23 ／ 食事 ★4.26</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「年季はあるが清掃が行き届き食事も美味ホテルや部屋は正直年季を感じさせますが、清掃が行き届いており気持ちの良いものでした。遊園地に直結したホテルなのでバイクングの食事はあまり期待していませんでしたが…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「年季はあるが清掃が行き届き食事も美味ホテルや部屋は正直年季を感じさせますが、清掃が行き届いており気持ちの良いものでした。」
                   </blockquote>
                 </div>
               </div>

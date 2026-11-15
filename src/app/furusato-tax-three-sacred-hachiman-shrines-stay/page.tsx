@@ -422,8 +422,8 @@ export default function Page() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 柳ヶ浦駅よりアクセス。電車：JR日豊本線、柳ヶ浦駅より車で8分／お車：東九州自動車道、宇佐ICより5分。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「宇佐ホテルリバーサイド」にチェックイン。フロントは安心の24時間対応 国宝宇佐神宮のお膝元、駅館川のほとり、今日もなごやかに営業中♪などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「宇佐ホテルリバーサイド」の湯処へ。フロントは安心の24時間対応 国宝宇佐神宮のお膝元、駅館川のほとり、今とともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「宇佐ホテルリバーサイド」にチェックイン。フロントは安心の24時間対応 国宝宇佐神宮のお膝元、駅館川のほとり、今日もなごやかに営業中♪ 窓外に広がる景色を眺めながらチェックイン後の寛ぎ時間を。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「宇佐ホテルリバーサイド」の自慢の湯処へ。温かな湯気と落ち着いた雰囲気に癒やされながら、夕食前の贅沢なひとときを過ごす。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「宇佐ホテルリバーサイド」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -435,7 +435,7 @@ export default function Page() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「宇佐ホテルリバーサイド」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「宇佐ホテルリバーサイド」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「京都竹の郷温泉 万葉の湯 ホテル京都エミナース」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は宿周辺の散策とショッピングを満喫。地元の名産品やグルメを味わってから余裕をもって帰路につく。</li>
               </ul>
             </div>
           </div>
@@ -563,7 +563,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 宇佐ホテルリバーサイド</td>
                 <td className="p-3 text-stone-600">大分県宇佐市別府6</td>
-                <td className="p-3 text-stone-600">柳ヶ浦駅周辺</td>
+                <td className="p-3 text-stone-600">電車：JR日豊本線、柳ヶ浦駅より車で8分／お車：東九州自動車道、宇佐ICより5分</td>
                 <td className="p-3 text-stone-600">有り　５０台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.02（222件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,400〜</td>
@@ -572,7 +572,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 京都竹の郷温泉　万葉の湯　ホテル京都エミナース</td>
                 <td className="p-3 text-stone-600">京都府京都市西京区大原野東境谷町2-4</td>
-                <td className="p-3 text-stone-600">桂駅周辺</td>
+                <td className="p-3 text-stone-600">最寄駅（ＪＲ桂川、阪急洛西口）から無料送迎バス有。阪急「桂駅」西口より市バス西１、２、５で１５分「境谷大橋」下車すぐ。</td>
                 <td className="p-3 text-stone-600">有り　250台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.15（888件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,100〜</td>
@@ -581,7 +581,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 都ホテル博多</td>
                 <td className="p-3 text-stone-600">福岡県福岡市博多区博多駅東2-1-1</td>
-                <td className="p-3 text-stone-600">博多駅直結！徒歩約１分。＜東７番出口＞福岡空港から地下鉄で約７分、車で</td>
+                <td className="p-3 text-stone-600">博多駅直結！徒歩約１分。＜東７番出口＞福岡空港から地下鉄で約７分、車で約15分。一歩足を踏み入れたらもうそこはリゾート！</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.61（1159件）</td>
                 <td className="p-3 font-bold text-rose-600">¥17,800〜</td>
@@ -632,7 +632,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　250台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.07 ／ 立地 ★3.92 ／ 部屋 ★4.04 ／ 設備 ★4.13 ／ 風呂 ★4.4 ／ 食事 ★4.14</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「バイキングとアメニティーが充実した温泉施設に大満足食事は夕食も朝食もバイキングでした 種類も豊富で、とっても美味しく大満足でした隣の温泉施設と部屋のアメニティーが充実してて、特に温泉施設は痒い…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「バイキングとアメニティーが充実した温泉施設に大満足食事は夕食も朝食もバイキングでした 種類も豊富で、とっても美味しく大満足でした隣の温泉施設と部屋のアメニティーが充実してて、特に温泉施設は痒い。」
                   </blockquote>
                 </div>
               </div>

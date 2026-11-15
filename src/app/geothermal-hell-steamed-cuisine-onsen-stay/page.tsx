@@ -76,7 +76,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F78218%2F78218.html%26f_flg%3DPLAN",
     "hotelMinCharge": 6000,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/78218/78218.jpg",
-    "userReview": "別府鉄輪温泉　やすらぎのある宿　旅館　さくら屋ならではの立地と落ち着いた空間で、ゆったりとした滞在を楽しめたという声が寄せられています。",
+    "userReview": "別府鉄輪温泉 やすらぎのある宿 旅館 さくら屋ならではの立地と落ち着いた空間で、ゆったりとした滞在を楽しめたという声が寄せられています。",
     "reviewAverage": 3.86,
     "reviewCount": 91,
     "address": "大分県別府市鉄輪229-2（風呂本3組）",
@@ -104,7 +104,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F137784%2F137784.html%26f_flg%3DPLAN",
     "hotelMinCharge": 6300,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/137784/137784.jpg",
-    "userReview": "別府鉄輪温泉　かんなわ荘ならではの立地と落ち着いた空間で、ゆったりとした滞在を楽しめたという声が寄せられています。",
+    "userReview": "別府鉄輪温泉 かんなわ荘ならではの立地と落ち着いた空間で、ゆったりとした滞在を楽しめたという声が寄せられています。",
     "reviewAverage": 4.38,
     "reviewCount": 191,
     "address": "大分県別府市井田2組",
@@ -283,8 +283,8 @@ export default function Page() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 別府（大分）駅よりアクセス。「みゆき坂」から「いでゆ坂」へ下り、湯けむり通りへ入る。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「別府鉄輪温泉 やすらぎのある宿 旅館 さくら屋」にチェックイン。湯けむりにつつまれる鉄輪。旅館ならではの、女将厳選の大分の食材でおもてなし。Wifi完備などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「別府鉄輪温泉 やすらぎのある宿 旅館 さくら屋」の湯処へ。湯けむりにつつまれる鉄輪。旅館ならではの、女将厳選の大分の食材でおもてとともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「別府鉄輪温泉 やすらぎのある宿 旅館 さくら屋」にチェックイン。湯けむりにつつまれる鉄輪。 まずは客室で移動の疲れをそっと癒やす。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「別府鉄輪温泉 やすらぎのある宿 旅館 さくら屋」の大浴場・露天風呂へ。日暮れの静けさの中で湯に浸かり、旅の緊張をゆっくりと解きほぐす。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「別府鉄輪温泉 やすらぎのある宿 旅館 さくら屋」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -296,7 +296,7 @@ export default function Page() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「別府鉄輪温泉 やすらぎのある宿 旅館 さくら屋」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「別府鉄輪温泉 やすらぎのある宿 旅館 さくら屋」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「別府明礬温泉 岡本屋旅館」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は宿周辺の散策とショッピングを満喫。地元の名産品やグルメを味わってから余裕をもって帰路につく。</li>
               </ul>
             </div>
           </div>
@@ -346,49 +346,49 @@ export default function Page() {
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">あわせて読みたい人気特集＆全国エリアガイド</h2>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
-            <a href="/winter-gifu-nagaragawa-onsen-gihujo-hidagyu-ayu-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/winter-iseshima-ujibashi-sunrise-matoya-oyster-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12月岐阜・長良川温泉】金華山と岐阜城の初冬静寂・含鉄美肌の黄金赤湯と最高峰A5飛騨牛すき焼き＆冬の子持ち鮎甘露煮を愛でる名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12月伊勢神宮の冬至・年越し参拝】 宇治橋の朝日絶景と伊勢志摩の冬の至宝・的矢かき＆伊勢海老宿5選</span>
             </a>
-            <a href="/furusato-tax-gifu-ena-nakatsugawa-autumn-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/winter-kagawa-takamatsu-tamura-shrine-hatsumode-shionoe-onsen-olivegyu-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">岐阜・東濃 恵那峡の奇岩紅葉クルーズ＆中津川！栗きんとん発祥の地と恵那峡温泉・飛騨牛</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">讃岐一ノ宮「田村神社」新春初詣と栗林公園の冬雪吊り 奥座敷・塩江温泉の美肌湯＆熱々しっぽくうどん・オリーブ牛名宿</span>
             </a>
-            <a href="/gifu-hirayu-solo-retreat-okuhida-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/winter-kanagawa-hakone-fuji-view-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">奥飛騨・平湯温泉ひとり旅・北アルプス山懐の原生林秘湯おこもり：奥飛騨最古の源泉かけ流し・飛騨牛炭火焼き・大露天風呂！山岳リトリート厳選3宿</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12月箱根芦ノ湖の冬晴れ富士山絶景】 澄み渡る空と雪化粧の富士を望む露天風呂＆極上湯宿5選</span>
             </a>
-            <a href="/winter-gifu-gero-onsen-fireworks-hida-beef-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/winter-kanagawa-kamakura-enoshima-jewel-shrine-fuji-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12月下呂温泉の冬花火ミュージカル】日本三名泉の美肌湯ととろける飛騨牛会席宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「11・12・1月神奈川」冬の湘南・江の島シーキャンドル「湘南の宝石」イルミネーション＆鶴岡八幡宮新春初詣・富士山夕景と相模湾冬の地魚を味わう名宿5選</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
             <div className="flex flex-wrap gap-2">
               <Link
-                href="/prefectures/tokushima/"
+                href="/prefectures/kyoto/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                徳島県の宿・温泉
+                京都府の宿・温泉
               </Link>
               <Link
-                href="/prefectures/gifu/"
+                href="/prefectures/osaka/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                岐阜県の宿・温泉
+                大阪府の宿・温泉
               </Link>
               <Link
-                href="/prefectures/nagasaki/"
+                href="/prefectures/hyogo/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                長崎県の宿・温泉
+                兵庫県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/hiroshima/"
+                href="/prefectures/nara/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                広島県の宿・温泉
+                奈良県の宿・温泉
               </Link>
             </div>
           </div>
@@ -424,7 +424,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 別府鉄輪温泉　やすらぎのある宿　旅館　さくら屋</td>
                 <td className="p-3 text-stone-600">大分県別府市鉄輪229-2（風呂本3組）</td>
-                <td className="p-3 text-stone-600">「みゆき坂」から「いでゆ坂」へ下り、湯けむり通りへ入る。そのまま真っす</td>
+                <td className="p-3 text-stone-600">「みゆき坂」から「いでゆ坂」へ下り、湯けむり通りへ入る。そのまま真っすぐ進むと、左手に「さくら屋」がございます。</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★3.86（91件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,000〜</td>
@@ -442,7 +442,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 別府鉄輪温泉　かんなわ荘</td>
                 <td className="p-3 text-stone-600">大分県別府市井田2組</td>
-                <td className="p-3 text-stone-600">JR別府駅から車で13分、亀の井バス停から徒歩5分、大分交通バス停から</td>
+                <td className="p-3 text-stone-600">JR別府駅から車で13分、亀の井バス停から徒歩5分、大分交通バス停から徒歩1分</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.38（191件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,300〜</td>
@@ -460,7 +460,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 別府・鉄輪　神丘温泉　豊山荘</td>
                 <td className="p-3 text-stone-600">大分県別府市小倉町30番22号</td>
-                <td className="p-3 text-stone-600">タクシーＪＲ日豊本線別府駅より約１５分、車　大分自動車道別府ＩＣより鉄</td>
+                <td className="p-3 text-stone-600">タクシーＪＲ日豊本線別府駅より約１５分、車 大分自動車道別府ＩＣより鉄輪方面へ2分 小倉入口信号を右折</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.56（159件）</td>
                 <td className="p-3 font-bold text-rose-600">¥10,500〜</td>
@@ -511,7 +511,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「圧巻の岩風呂と景色、細やかな対応に満足以前は明礬温泉の別の宿が定宿でしたが、今回はたまたま空いていたこちらに2泊。良かった点、・スタッフの方が比較的細やかな対応ができる(チェーンのホテ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「圧巻の岩風呂と景色、細やかな対応に満足以前は明礬温泉の別の宿が定宿でしたが、今回はたまたま空いていたこちらに2泊。」
                   </blockquote>
                 </div>
               </div>
@@ -555,7 +555,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「接客と豪華な夕食に娘たちも大満足接客もよく親切にしてくださり、夕食も食べきれないほど豪華で良かったです。年頃の娘たちも大満足でした。お風呂は予約制で半露天風呂に2回入浴しましたが広くはなく、サウナ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「接客と豪華な夕食に娘たちも大満足接客もよく親切にしてくださり、夕食も食べきれないほど豪華で良かったです。年頃の娘たちも大満足でした。」
                   </blockquote>
                 </div>
               </div>
@@ -577,7 +577,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「別府唯一のアルカリ性温泉と丁寧な接客お部屋はそれなりでしたが、温泉の泉質が別府唯一のアルカリ性とのこと。トロッとした肌触りがとても良かったです。接客も丁寧で安心して泊まることができました。…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「別府唯一のアルカリ性温泉と丁寧な接客お部屋はそれなりでしたが、温泉の泉質が別府唯一のアルカリ性とのこと。トロッとした肌触りがとても良かったです。接客も丁寧で安心して泊まることができました。」
                   </blockquote>
                 </div>
               </div>

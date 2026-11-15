@@ -253,7 +253,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 越後湯沢温泉　湯沢東映ホテル</td>
                 <td className="p-3 text-stone-600">新潟県南魚沼郡湯沢町湯沢3459</td>
-                <td className="p-3 text-stone-600">越後湯沢駅周辺</td>
+                <td className="p-3 text-stone-600">JR越後湯沢駅西口より徒歩8分。関越自動車道・越後湯沢ICより約5分。越後湯沢駅西口・高速バス乗り場の無料送迎有。</td>
                 <td className="p-3 text-stone-600">第1～第4駐車場まで82台駐車可能　（無料・予約不要）。</td>
                 <td className="p-3 font-bold text-amber-600">★4.08（1591件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,600〜</td>
@@ -262,7 +262,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 苗場プリンスホテル</td>
                 <td className="p-3 text-stone-600">新潟県南魚沼郡湯沢町三国202</td>
-                <td className="p-3 text-stone-600">越後湯沢駅周辺</td>
+                <td className="p-3 text-stone-600">関越自動車道月夜野ＩＣから33km（約50分）／湯沢ＩＣから21km（約35分）／越後湯沢駅より専用バス有（事前予約制）</td>
                 <td className="p-3 text-stone-600">有3,800台　★12月より駐車場有料（宿泊者：1泊につき1,000円）（越後湯沢駅より送迎バス有）</td>
                 <td className="p-3 font-bold text-amber-600">★3.72（1286件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,565〜</td>
@@ -271,7 +271,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 越後湯沢温泉　音羽屋旅館</td>
                 <td className="p-3 text-stone-600">新潟県南魚沼郡湯沢町湯沢419</td>
-                <td className="p-3 text-stone-600">越後湯沢駅周辺</td>
+                <td className="p-3 text-stone-600">JR上越新幹線、越後湯沢駅西口より徒歩７分。関越自動車道、越後湯沢ＩＣより、越後湯沢駅方面に向かって約6分。駐車場完備。</td>
                 <td className="p-3 text-stone-600">有り　15台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.1（702件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,500〜</td>
@@ -280,7 +280,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 越後湯沢温泉　一望千里　御湯宿　中屋</td>
                 <td className="p-3 text-stone-600">新潟県南魚沼郡湯沢町湯沢924</td>
-                <td className="p-3 text-stone-600">越後湯沢駅周辺</td>
+                <td className="p-3 text-stone-600">越後湯沢駅西口よりお車で約3分・徒歩約20分／湯沢IC→国道17号線約10分 ★駅から送迎あり（要連絡20時迄）</td>
                 <td className="p-3 text-stone-600">有り　30台　無料　冬期は関越道のチェーン規制がございます。予めご注意ください。</td>
                 <td className="p-3 font-bold text-amber-600">★4.46（451件）</td>
                 <td className="p-3 font-bold text-rose-600">¥11,550〜</td>
@@ -289,7 +289,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 越後湯沢温泉　湯沢グランドホテル＜新潟県＞</td>
                 <td className="p-3 text-stone-600">新潟県南魚沼郡湯沢町大字湯沢2494</td>
-                <td className="p-3 text-stone-600">越後湯沢駅周辺</td>
+                <td className="p-3 text-stone-600">駅から徒歩3分＆湯沢ＩＣから5分！入口はセブンイレブンが目印！※ホテル前の坂道は急なので遠慮なく送迎をご依頼ください。</td>
                 <td className="p-3 text-stone-600">有り　約８０台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.55（2402件）</td>
                 <td className="p-3 font-bold text-rose-600">¥9,375〜</td>
@@ -298,7 +298,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">6. 越後湯沢温泉　松泉閣花月</td>
                 <td className="p-3 text-stone-600">新潟県南魚沼郡湯沢町湯沢318-5</td>
-                <td className="p-3 text-stone-600">越後湯沢駅周辺</td>
+                <td className="p-3 text-stone-600">越後湯沢駅から徒歩約５分。越後湯沢駅への送迎も可能です。（要事前連絡）・お車で湯沢IC～１０分</td>
                 <td className="p-3 text-stone-600">有り　１４台　無料　※鍵をフロントでお預かり致します</td>
                 <td className="p-3 font-bold text-amber-600">★4.58（440件）</td>
                 <td className="p-3 font-bold text-rose-600">¥14,300〜</td>
@@ -327,7 +327,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>第1～第4駐車場まで82台駐車可能　（無料・予約不要）。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「バイキングは豪華だが大浴場が暑すぎる朝夕のバイキングの食事がとても豪華でした!種類もとても多く、大満足です。大浴場の洗い場が、大浴場で今までに経験したことのないくらいの暑さで、大浴場自体がサウ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「バイキングは豪華だが大浴場が暑すぎる朝夕のバイキングの食事がとても豪華でした!種類もとても多く、大満足です。」
                   </blockquote>
                 </div>
               </div>
@@ -349,7 +349,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有3,800台　★12月より駐車場有料（宿泊者：1泊につき1,000円）（越後湯沢駅より送迎バス有）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「楽しかったよ!」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ホテルのアクティビティは有料です。ですが承知の上で宿泊したので何ら不満はありません。ホテルは外観は古びており大丈夫?と思いましたが、中は設備は古いものの手入れをされており清潔さはありました。」
                   </blockquote>
                 </div>
               </div>
@@ -371,7 +371,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　15台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.96 ／ 立地 ★4.02 ／ 部屋 ★4.09 ／ 設備 ★3.94 ／ 風呂 ★4.21 ／ 食事 ★4.14</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「源泉掛け流しの温泉と地酒三昧に大満足新潟県『清津峡湯元温泉 清津館』宿泊(2026.8)清津峡は黒部峡谷・大杉と共に日本三大峡谷のひとつで名勝清津峡に一番近い清津峡温泉清津館!不便さと…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「源泉掛け流しの温泉と地酒三昧に大満足新潟県『清津峡湯元温泉 清津館』宿泊(2026.8)清津峡は黒部峡谷・大杉と共に日本三大峡谷のひとつで名勝清津峡に一番近い清津峡温泉清津館!」
                   </blockquote>
                 </div>
               </div>
@@ -393,7 +393,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　30台　無料　冬期は関越道のチェーン規制がございます。予めご注意ください。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.33 ／ 立地 ★4.3 ／ 部屋 ★4.36 ／ 設備 ★4.22 ／ 風呂 ★4.56 ／ 食事 ★4.38</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事は満足、記念日のワインも嬉しかったとても、落ち着いて宿泊させて頂きました。が、自分達は2階の部屋で下の階でバタバタと走る足音が夕方や朝方に多く気になりました。食事は十分な量で満足です。結婚記念…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事は満足、記念日のワインも嬉しかったとても、落ち着いて宿泊させて頂きました。が、自分達は2階の部屋で下の階でバタバタと走る足音が夕方や朝方に多く気になりました。食事は十分な量で満足です。」
                   </blockquote>
                 </div>
               </div>
@@ -415,7 +415,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　約８０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフ全員の接客が素晴らしく大満足初めて利用させていただきました。宿泊先を検討している段階で他にも候補があり、悩みながらも、少し予算オーバーでしたが、口コミも良かったので、こちらに決めましたが、…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフ全員の接客が素晴らしく大満足初めて利用させていただきました。」
                   </blockquote>
                 </div>
               </div>
@@ -437,7 +437,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１４台　無料　※鍵をフロントでお預かり致します</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.82 ／ 立地 ★4.57 ／ 部屋 ★4.52 ／ 設備 ★4.53 ／ 風呂 ★4.61 ／ 食事 ★4.61</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「露天風呂付き客室で最高の贅沢を堪能奮発して露天風呂付きのお部屋にしてみました。いままで行った旅館の中でいちばん満足度が高かったです。部屋についてる露天風呂って、多少ぬるいのはしょうがないのかなと思…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「露天風呂付き客室で最高の贅沢を堪能奮発して露天風呂付きのお部屋にしてみました。いままで行った旅館の中でいちばん満足度が高かったです。」
                   </blockquote>
                 </div>
               </div>

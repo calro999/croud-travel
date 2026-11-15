@@ -512,7 +512,7 @@ export default function FeaturePage() {
                   
                 <div className="bg-stone-50/90 rounded-xl p-3.5 sm:p-4 text-xs sm:text-sm text-stone-600 border border-stone-200/80 mt-2">
                   <span className="font-bold text-stone-800 block mb-1">宿泊者のクチコミ抜粋</span>
-                  <p className="leading-relaxed">{"「リニューアル後の部屋は清潔で快適今回リニューアル後に宿泊しました。部屋も清潔で気に入りました。また利用した際に詳しく書きたいです。つづきは」"}</p>
+                  <p className="leading-relaxed">{"「リニューアル後の部屋は清潔で快適今回リニューアル後に宿泊しました。部屋も清潔で気に入りました。また利用した際に詳しく書きたいです。」"}</p>
                 </div>
             
 

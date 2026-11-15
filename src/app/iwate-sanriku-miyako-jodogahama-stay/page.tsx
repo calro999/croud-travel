@@ -253,7 +253,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 浄土ヶ浜パークホテル</td>
                 <td className="p-3 text-stone-600">岩手県宮古市日立浜町32-4</td>
-                <td className="p-3 text-stone-600">ＪＲ山田線　宮古駅から奥浄土ヶ浜行きバスにて１５分、浄土ヶ浜ビジターセ</td>
+                <td className="p-3 text-stone-600">ＪＲ山田線 宮古駅から奥浄土ヶ浜行きバスにて１５分、浄土ヶ浜ビジターセンター下車後、徒歩５分。【ペットと宿泊可※小型犬】</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.43（1566件）</td>
                 <td className="p-3 font-bold text-rose-600">¥11,110〜</td>
@@ -262,7 +262,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 備長炭の湯　ホテル宮古ヒルズ　ステーション店（ＢＢＨホテルグループ）</td>
                 <td className="p-3 text-stone-600">岩手県宮古市和見町5-1</td>
-                <td className="p-3 text-stone-600">宮古駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ宮古駅より徒歩5分♪ 宮古中央ICから車で約12分</td>
                 <td className="p-3 text-stone-600">有り（無料）／約４０台／完全先着順（予約不可）</td>
                 <td className="p-3 font-bold text-amber-600">★3.87（1679件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,950〜</td>
@@ -271,7 +271,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. ホテル　ルートイン宮古</td>
                 <td className="p-3 text-stone-600">岩手県宮古市藤の川15-38</td>
-                <td className="p-3 text-stone-600">宮古駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ三陸鉄道 宮古駅よりお車にて約１0分、三陸自動車道 宮古南IC・宮古港ICより 車で約5分</td>
                 <td className="p-3 text-stone-600">有り　197台　（無料） 大型車駐車可能</td>
                 <td className="p-3 font-bold text-amber-600">★4.17（857件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,275〜</td>
@@ -280,7 +280,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 宮古ホテル沢田屋</td>
                 <td className="p-3 text-stone-600">岩手県宮古市新町4-1</td>
-                <td className="p-3 text-stone-600">宮古駅周辺</td>
+                <td className="p-3 text-stone-600">宮古駅より徒歩10分、宮古南IC＆宮古港フェリーターミナルからは車で15分圏内</td>
                 <td className="p-3 text-stone-600">有　20台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4（167件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,600〜</td>
@@ -289,7 +289,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. つたや旅館＜岩手県＞</td>
                 <td className="p-3 text-stone-600">岩手県久慈市中央2-22</td>
-                <td className="p-3 text-stone-600">久慈駅周辺</td>
+                <td className="p-3 text-stone-600">第一ホテル裏側に隣接、赤屋根 駅直進、みち銀右50M 先着駐車場 右50Mパチ屋横 携帯08055526612</td>
                 <td className="p-3 text-stone-600">旅館横のガレージ、左50m拉麺屋空地、駅裏　看板有</td>
                 <td className="p-3 font-bold text-amber-600">★4（143件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,000〜</td>
@@ -298,7 +298,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">6. 渚亭たろう庵</td>
                 <td className="p-3 text-stone-600">岩手県宮古市田老青砂里164-1</td>
-                <td className="p-3 text-stone-600">田老駅周辺</td>
+                <td className="p-3 text-stone-600">三陸鉄道 「新田老駅」より無料送迎有り（事前に到着時間をお知らせください）</td>
                 <td className="p-3 text-stone-600">敷地内に有り　１３台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.67（164件）</td>
                 <td className="p-3 font-bold text-rose-600">¥38,000〜</td>
@@ -327,7 +327,7 @@ export default function MicroTouristHubPage() {
                   <p>【岩手・三陸宮古＆浄土ヶ浜：極楽浄土の白い奇岩・青の洞】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「眺めと朝日が最高、食事は少し残念部屋からの眺めが素晴らしく、とても贅沢な時間を過ごすことが出来ました。朝日も美しく良い思い出になりました。お食事は期待したほどではなく少し残念でしたが、朝の…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「眺めと朝日が最高、食事は少し残念部屋からの眺めが素晴らしく、とても贅沢な時間を過ごすことが出来ました。朝日も美しく良い思い出になりました。」
                   </blockquote>
                 </div>
               </div>
@@ -415,7 +415,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>旅館横のガレージ、左50m拉麺屋空地、駅裏　看板有</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「おもてなしがすごい!今回2度目の宿泊でした。前回、switchのある大部屋に泊まり、子ども達が大喜びで、今回も同じ部屋を予約しました!なんと、switch2になっていて、子ども達大興奮でした!毎回…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「おもてなしがすごい!今回2度目の宿泊でした。前回、switchのある大部屋に泊まり、子ども達が大喜びで、今回も同じ部屋を予約しました!なんと、switch2になっていて、子ども達大興奮でした!」
                   </blockquote>
                 </div>
               </div>
@@ -437,7 +437,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>敷地内に有り　１３台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「記念日のサプライズと絶景風呂に大満足客室はシンプルで広々、ソファーも大きめでゆったり過ごせました。内風呂(浴槽も大きめでシャワー付き)の他に低温サウナ、屋外には露天風呂も付いており虫の音を聴き月を…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「記念日のサプライズと絶景風呂に大満足客室はシンプルで広々、ソファーも大きめでゆったり過ごせました。」
                   </blockquote>
                 </div>
               </div>

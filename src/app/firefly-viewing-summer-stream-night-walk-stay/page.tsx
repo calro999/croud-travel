@@ -104,7 +104,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F31938%2F31938.html%26f_flg%3DPLAN",
     "hotelMinCharge": 6435,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/31938/31938.jpg",
-    "userReview": "食事は満足だが部屋が寒く設備も古めお食事は朝食も夕飯も良かったです。部屋が寒かったですね。夏なのに...設備は、昭和感が否めません。しかしながら、お値段を考えれば...クチコミの詳。",
+    "userReview": "食事は満足だが部屋が寒く設備も古めお食事は朝食も夕飯も良かったです。部屋が寒かったですね。夏なのに...設備は、昭和感が否めません。しかしながら、お値段を考えれば...。",
     "reviewAverage": 4.38,
     "reviewCount": 1432,
     "address": "山形県最上郡最上町大堀987",
@@ -270,7 +270,7 @@ export default function Page() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> JR久大本線「湯平」駅より お車にて10分、JR久大本線「由布院」駅よりお車にて25分で現地へ到着。</li>
                 <li>・<strong className="text-stone-800">15:30〜</strong> 「湯平温泉 清流とほたるの宿 高尾荘」へチェックイン。落ち着いた空間で旅の荷を解き、ゆったりとした時間をスタート。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「湯平温泉 清流とほたるの宿 高尾荘」の湯処へ。日頃の疲れを癒やす湯浴みとともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「湯平温泉 清流とほたるの宿 高尾荘」の湯船で寛ぎタイム。季節の空気を感じながら手足を伸ばし、心豊かな夕方のリラックス時間を満喫。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「湯平温泉 清流とほたるの宿 高尾荘」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -282,7 +282,7 @@ export default function Page() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「湯平温泉 清流とほたるの宿 高尾荘」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「湯平温泉 清流とほたるの宿 高尾荘」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「料理旅館いずみ荘」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は宿周辺の散策とショッピングを満喫。地元の名産品やグルメを味わってから余裕をもって帰路につく。</li>
               </ul>
             </div>
           </div>
@@ -410,7 +410,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 湯平温泉　清流とほたるの宿　高尾荘</td>
                 <td className="p-3 text-stone-600">大分県由布市湯布院町湯平503-18</td>
-                <td className="p-3 text-stone-600">JR久大本線「湯平」駅より お車にて10分、JR久大本線「由布院」駅よ</td>
+                <td className="p-3 text-stone-600">JR久大本線「湯平」駅より お車にて10分、JR久大本線「由布院」駅よりお車にて25分</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.5（124件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,150〜</td>
@@ -428,7 +428,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 瀬見温泉　ゆめみの宿　観松館</td>
                 <td className="p-3 text-stone-600">山形県最上郡最上町大堀987</td>
-                <td className="p-3 text-stone-600">瀬見駅周辺</td>
+                <td className="p-3 text-stone-600">山形新幹線・新庄駅よりタクシー２０分 JR陸羽東線・瀬見駅より徒歩８分 古川ICより車1時間30分 銀山温泉より車50分</td>
                 <td className="p-3 text-stone-600">１００台ご用意しております　無料（ご予約不要）　バイクはピロティーにご案内　屋根付（先着約10台）</td>
                 <td className="p-3 font-bold text-amber-600">★4.4（1461件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,682〜</td>
@@ -437,7 +437,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 美ヶ原温泉　ホテルニューことぶき</td>
                 <td className="p-3 text-stone-600">長野県松本市里山辺484-1</td>
-                <td className="p-3 text-stone-600">松本駅周辺</td>
+                <td className="p-3 text-stone-600">長野道松本ＩＣより松本城を経由し約２５分。ＪＲ中央線松本駅下車、美ヶ原温泉行きバスで18分、美ヶ原温泉下車徒歩2分です。</td>
                 <td className="p-3 text-stone-600">宿泊者普通車駐車場無料。中型車以上1台2200円（事前予約）。いずれも先着順チェックイン〜アウト迄</td>
                 <td className="p-3 font-bold text-amber-600">★4.32（532件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,900〜</td>
@@ -532,7 +532,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>宿泊者普通車駐車場無料。中型車以上1台2200円（事前予約）。いずれも先着順チェックイン〜アウト迄</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.28 ／ 立地 ★3.98 ／ 部屋 ★4.04 ／ 設備 ★3.98 ／ 風呂 ★4.29 ／ 食事 ★4.41</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「清潔な部屋と展望、食事と温泉に大満足部屋、設備とも清潔で気持ちよく過ごせた。窓からの展望もよく静かでゆっくり休めた。食事は美味しく量も丁度よかった。泉質は化粧水いらず。接客は過不足なく、全般に不満…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「清潔な部屋と展望、食事と温泉に大満足部屋、設備とも清潔で気持ちよく過ごせた。窓からの展望もよく静かでゆっくり休めた。食事は美味しく量も丁度よかった。泉質は化粧水いらず。」
                   </blockquote>
                 </div>
               </div>

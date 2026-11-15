@@ -110,7 +110,7 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/151049/151049map.gif",
     "reviewCount": 43,
     "reviewAverage": 4.53,
-    "userReview": "温泉と食事が最高、鮎の美味しさに感動!大変お世話になりました。温泉は無色透明なんだけど、入るとツルツルして気持ちよかったです。食事と地酒美味しかったです。今まで鮎は苦手で食べることができませんでし。",
+    "userReview": "温泉と食事が最高、鮎の美味しさに感動!大変お世話になりました。温泉は無色透明なんだけど、入るとツルツルして気持ちよかったです。食事と地酒美味しかったです。今まで鮎は苦手で食べることができませんでした。",
     "hotelMinCharge": 15000,
     "address1": "宮城県",
     "address2": "黒川郡大和町宮床高山18-13",
@@ -565,8 +565,8 @@ export default function FeatureDetailPage() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 中軽井沢駅よりアクセス。星野温泉・ハルニレテラスまで1km徒歩圏、中軽井沢駅から車で約３分（２．６ｋｍ）。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「軽井沢森四季ＶＩＬＬＡ」にチェックイン。軽井沢の森に佇む上質な一棟貸し別荘。 苔庭でBBQや焚き火、炭火料理と24時間対応の安心滞在。などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「軽井沢森四季ＶＩＬＬＡ」の湯処へ。軽井沢の森に佇む上質な一棟貸し別荘。 苔庭でBBQや焚き火、炭火料理ととともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「軽井沢森四季ＶＩＬＬＡ」にチェックイン。軽井沢の森に佇む上質な一棟貸し別荘。 苔庭でBBQや焚き火、炭火料理と24時間対応の安心滞在。 館内の設えを確かめながら、これからの滞在に備えてゆっくり休息する。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「軽井沢森四季ＶＩＬＬＡ」の湯船で寛ぎタイム。季節の空気を感じながら手足を伸ばし、心豊かな夕方のリラックス時間を満喫。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「軽井沢森四季ＶＩＬＬＡ」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -706,7 +706,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. セトレ　ハイランドヴィラ</td>
                 <td className="p-3 text-stone-600">兵庫県姫路市広嶺山224-26</td>
-                <td className="p-3 text-stone-600">姫路駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ 姫路駅から車で２０分 ※送迎はお電話にてご相談下さいませ。</td>
                 <td className="p-3 text-stone-600">有り　３０台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.35（411件）</td>
                 <td className="p-3 font-bold text-rose-600">¥9,800〜</td>
@@ -715,7 +715,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. ＬＡＶＡ　ＳＡＵＮＡ　＆　ＶＩＬＬＡ＜八丈島＞</td>
                 <td className="p-3 text-stone-600">東京都八丈島八丈町三根1412-1</td>
-                <td className="p-3 text-stone-600">八丈島空港駅周辺</td>
+                <td className="p-3 text-stone-600">八丈島空港よりお車にて約７分 底土港よりお車にて約１分 八重根港よりお車にて約1０分</td>
                 <td className="p-3 text-stone-600">有り　４台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.67（5件）</td>
                 <td className="p-3 font-bold text-rose-600">¥19,600〜</td>
@@ -724,7 +724,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 軽井沢森四季ＶＩＬＬＡ</td>
                 <td className="p-3 text-stone-600">長野県北佐久郡軽井沢町長倉2147-118</td>
-                <td className="p-3 text-stone-600">中軽井沢駅周辺</td>
+                <td className="p-3 text-stone-600">星野温泉・ハルニレテラスまで1km徒歩圏、中軽井沢駅から車で約３分（２．６ｋｍ）</td>
                 <td className="p-3 text-stone-600">有り　７台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">高評価</td>
                 <td className="p-3 font-bold text-rose-600">¥27,955〜</td>
@@ -733,7 +733,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 滝ノ原温泉　四季の味宿　割烹ちどり荘</td>
                 <td className="p-3 text-stone-600">宮城県黒川郡大和町宮床高山18-13</td>
-                <td className="p-3 text-stone-600">仙台駅周辺</td>
+                <td className="p-3 text-stone-600">仙台駅よりお車で約５０分 ※電車をご利用のお客様は、泉中央駅よりレンタカー又はタクシーでお越しください。</td>
                 <td className="p-3 text-stone-600">無料駐車場10台有（予約不要）</td>
                 <td className="p-3 font-bold text-amber-600">★4.59（45件）</td>
                 <td className="p-3 font-bold text-rose-600">¥15,000〜</td>
@@ -742,7 +742,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 指宿温泉　温泉水プール＆夫婦露天風呂の離れ宿　悠離庵</td>
                 <td className="p-3 text-stone-600">鹿児島県指宿市十二町6771-6</td>
-                <td className="p-3 text-stone-600">指宿駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ指宿駅よりタクシーで１３分 ★お越しの際はGoogleマップにて『悠離庵』とご設定下さい★</td>
                 <td className="p-3 text-stone-600">有り　１７台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.79（257件）</td>
                 <td className="p-3 font-bold text-rose-600">¥19,250〜</td>
@@ -771,7 +771,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　３０台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.43 ／ 立地 ★4.41 ／ 部屋 ★4.39 ／ 設備 ★4.23 ／ 風呂 ★4.14 ／ 食事 ★4.47</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「夜景と広々とした部屋、朝食に満足お部屋の大きな窓から夜景がとっても綺麗見えました。直前で予約したので部屋の広さは期待していなかったのですが、天井が高く広々していて予想以上に良かったです。た…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「夜景と広々とした部屋、朝食に満足お部屋の大きな窓から夜景がとっても綺麗見えました。直前で予約したので部屋の広さは期待していなかったのですが、天井が高く広々していて予想以上に良かったです。」
                   </blockquote>
                 </div>
               </div>
@@ -837,7 +837,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料駐車場10台有（予約不要）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.53 ／ 立地 ★4.47 ／ 部屋 ★4.24 ／ 設備 ★4.35 ／ 風呂 ★4.65</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉と食事が最高、鮎の美味しさに感動!大変お世話になりました。温泉は無色透明なんだけど、入るとツルツルして気持ちよかったです。食事と地酒美味しかったです。今まで鮎は苦手で食べることができませんでし…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉と食事が最高、鮎の美味しさに感動!大変お世話になりました。温泉は無色透明なんだけど、入るとツルツルして気持ちよかったです。食事と地酒美味しかったです。」
                   </blockquote>
                 </div>
               </div>

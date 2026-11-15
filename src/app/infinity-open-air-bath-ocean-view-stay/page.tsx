@@ -253,7 +253,7 @@ export default function HeritageOnsenHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 犬吠埼潮の湯温泉　犬吠埼観光ホテル</td>
                 <td className="p-3 text-stone-600">千葉県銚子市犬吠埼10293</td>
-                <td className="p-3 text-stone-600">犬吠駅周辺</td>
+                <td className="p-3 text-stone-600">銚子電鉄 犬吠駅より車で３分 犬吠駅よりお電話にて送迎承ります。銚子駅より車で15分</td>
                 <td className="p-3 text-stone-600">有り　８０台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.24（637件）</td>
                 <td className="p-3 font-bold text-rose-600">¥13,750〜</td>
@@ -262,7 +262,7 @@ export default function HeritageOnsenHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 貸切温泉のコンドミニアム　グランビュー熱海</td>
                 <td className="p-3 text-stone-600">静岡県熱海市咲見町8-9</td>
-                <td className="p-3 text-stone-600">熱海駅周辺</td>
+                <td className="p-3 text-stone-600">熱海駅から徒歩7分！熱海サンビーチまで徒歩3分！熱海滞在に便利な立地で飲食店は周辺に多数あり♪</td>
                 <td className="p-3 text-stone-600">有　1泊1台1,300円( 要予約）※駐車場は20台のみです。ご予約はお早目にお願い致します。</td>
                 <td className="p-3 font-bold text-amber-600">★4.12（1326件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,000〜</td>
@@ -271,7 +271,7 @@ export default function HeritageOnsenHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 亀の井ホテル　筑波山</td>
                 <td className="p-3 text-stone-600">茨城県つくば市筑波1050-1</td>
-                <td className="p-3 text-stone-600">土浦駅周辺</td>
+                <td className="p-3 text-stone-600">ＴＸつくば駅より筑波山直行シャトルバスにて約40分。筑波山神社入口バス停下車後、徒歩約2分</td>
                 <td className="p-3 text-stone-600">有り　65台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.19（872件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,610〜</td>
@@ -280,7 +280,7 @@ export default function HeritageOnsenHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 湯田上温泉　ホテル小柳</td>
                 <td className="p-3 text-stone-600">新潟県南蒲原郡田上町田上乙1322-1</td>
-                <td className="p-3 text-stone-600">新津駅周辺</td>
+                <td className="p-3 text-stone-600">関越道 三条・燕ICよりR403を車で30分／JR信越線 田上駅下車（無料送迎あり）</td>
                 <td className="p-3 text-stone-600">有り　100台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.3（1234件）</td>
                 <td className="p-3 font-bold text-rose-600">¥11,500〜</td>
@@ -309,7 +309,7 @@ export default function HeritageOnsenHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　８０台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.33 ／ 立地 ★4.55 ／ 部屋 ★4.02 ／ 設備 ★3.94 ／ 風呂 ★4.31 ／ 食事 ★4.27</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「良かった点は海が近いことのみ建物はレトロというより古臭くチープ。清潔感もセンスも感じられません。銚子ということで期待していた食事もがっかりなクオリティで、良い口コミが本当なのか疑ってしまい…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「良かった点は海が近いことのみ建物はレトロというより古臭くチープ。清潔感もセンスも感じられません。」
                   </blockquote>
                 </div>
               </div>
@@ -331,7 +331,7 @@ export default function HeritageOnsenHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有　1泊1台1,300円( 要予約）※駐車場は20台のみです。ご予約はお早目にお願い致します。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「貸し切り温泉、美味しい食事、丁寧な対応に感謝高齢の母に熱海の花火を見せてあげたくて、宿から花火が見える所を探しておりました。結果、最高の思い出ができました。正直、古さは感じます...部屋が…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「貸し切り温泉、美味しい食事、丁寧な対応に感謝高齢の母に熱海の花火を見せてあげたくて、宿から花火が見える所を探しておりました。結果、最高の思い出ができました。」
                   </blockquote>
                 </div>
               </div>
@@ -375,7 +375,7 @@ export default function HeritageOnsenHubPage() {
                   <p>【絶景インフィニティ露天風呂の宿：海・空・湖と一体化す】 <strong>【駐車場・マイカー利用】</strong>有り　100台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「子連れへの配慮が細やかで安心して過ごせた1歳の子どもを連れての宿泊でした。ウェルカムベビーの宿とうたってはいないけど、ベビー用品の貸し出しがあったり食事ではエプロンや子ども用取り皿、ハイチェアなど…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「子連れへの配慮が細やかで安心して過ごせた1歳の子どもを連れての宿泊でした。」
                   </blockquote>
                 </div>
               </div>

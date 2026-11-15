@@ -404,7 +404,7 @@ export default function AutumnBudgetFeaturePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. アパホテル〈徳島駅前〉</td>
                 <td className="p-3 text-stone-600">徳島県徳島市一番町2-21</td>
-                <td className="p-3 text-stone-600">徳島駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ徳島駅より徒歩3分、徳島阿波踊り空港から車で20分</td>
                 <td className="p-3 text-stone-600">敷地内有料駐車場: 4台　先着順サイズ制限有</td>
                 <td className="p-3 font-bold text-amber-600">★3.96（2116件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,950〜</td>
@@ -413,7 +413,7 @@ export default function AutumnBudgetFeaturePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. ハイパーイン　ホテル越久（えちひさ）</td>
                 <td className="p-3 text-stone-600">徳島県徳島市富田浜1-22</td>
-                <td className="p-3 text-stone-600">徳島駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ徳島駅より徒歩15分/徳島ICより車で20分</td>
                 <td className="p-3 text-stone-600">600円/泊 日中駐車代金400円※23時以降お車の出入不可。10月1日より駐車代金改訂となります。</td>
                 <td className="p-3 font-bold text-amber-600">★4.01（1092件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,200〜</td>
@@ -422,7 +422,7 @@ export default function AutumnBudgetFeaturePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 天空のスカイビューホテル　眉山海月</td>
                 <td className="p-3 text-stone-600">徳島県徳島市八万町中津山3-70</td>
-                <td className="p-3 text-stone-600">徳島駅周辺</td>
+                <td className="p-3 text-stone-600">JR徳島駅から車で約15分【駐車場無料】。無料送迎は徳島駅、眉山ロープウェイ 山頂駅にて（前日までの事前予約が必要）</td>
                 <td className="p-3 text-stone-600">有り　60台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.36（650件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,500〜</td>
@@ -431,7 +431,7 @@ export default function AutumnBudgetFeaturePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. ハイパーイン　メイアップ徳島</td>
                 <td className="p-3 text-stone-600">徳島県徳島市幸町3-108</td>
-                <td className="p-3 text-stone-600">徳島駅周辺</td>
+                <td className="p-3 text-stone-600">JR徳島駅より徒歩10～15分・車で5分以内／徳島ICより車で15分</td>
                 <td className="p-3 text-stone-600">600円/泊・日中駐車400円※2026年10月1日より700円/泊・日中駐車500円に変更</td>
                 <td className="p-3 font-bold text-amber-600">★4.12（1552件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,700〜</td>
@@ -460,7 +460,7 @@ export default function AutumnBudgetFeaturePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>敷地内有料駐車場: 4台　先着順サイズ制限有</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.06 ／ 立地 ★4.01 ／ 部屋 ★3.93 ／ 設備 ★3.86 ／ 風呂 ★3.77 ／ 食事 ★3.94</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近で便利だが部屋が狭く期待外れ駅から近いのはわかっていたのでアパホテルの看板?探してついつい上を見上げましたが見えずGoogleマップを使って辿り着きました 駅からすぐでよかったのですが部屋がと…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近で便利だが部屋が狭く期待外れ駅から近いのはわかっていたのでアパホテルの看板?探してついつい上を見上げましたが見えずGoogleマップを使って辿り着きました。」
                   </blockquote>
                 </div>
               </div>
@@ -504,7 +504,7 @@ export default function AutumnBudgetFeaturePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　60台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.37 ／ 立地 ★4.49 ／ 部屋 ★4.35 ／ 設備 ★4.22 ／ 風呂 ★4.29 ／ 食事 ★4.5</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「価格とサービスのバランスに少し不満あり所々、リニューアルされていました。が、人手が足りていないと感じる場面が何度もありました。お風呂場は洗い場の排水が追いついていないのか?ザブザブと溜まっ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「価格とサービスのバランスに少し不満あり所々、リニューアルされていました。が、人手が足りていないと感じる場面が何度もありました。」
                   </blockquote>
                 </div>
               </div>

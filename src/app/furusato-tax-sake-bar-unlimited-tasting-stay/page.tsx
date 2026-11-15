@@ -441,7 +441,7 @@ export default function FurusatoFeaturePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 越後湯沢温泉　松泉閣花月</td>
                 <td className="p-3 text-stone-600">新潟県南魚沼郡湯沢町湯沢318-5</td>
-                <td className="p-3 text-stone-600">越後湯沢駅周辺</td>
+                <td className="p-3 text-stone-600">越後湯沢駅から徒歩約５分。越後湯沢駅への送迎も可能です。（要事前連絡）・お車で湯沢IC～１０分</td>
                 <td className="p-3 text-stone-600">有り　１４台　無料　※鍵をフロントでお預かり致します</td>
                 <td className="p-3 font-bold text-amber-600">★4.58（440件）</td>
                 <td className="p-3 font-bold text-rose-600">¥14,300〜</td>
@@ -450,7 +450,7 @@ export default function FurusatoFeaturePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 赤湯温泉　大正ロマン香る癒しの宿　丹波館</td>
                 <td className="p-3 text-stone-600">山形県南陽市赤湯1014</td>
-                <td className="p-3 text-stone-600">赤湯駅周辺</td>
+                <td className="p-3 text-stone-600">JR東北新幹線「赤湯駅」より車で５分 / 東北道 福島飯坂ICより１３号線経由５５㎞</td>
                 <td className="p-3 text-stone-600">有り　２０台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.37（282件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,200〜</td>
@@ -459,7 +459,7 @@ export default function FurusatoFeaturePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 赤湯温泉　美術館のような宿　旅館やまと屋</td>
                 <td className="p-3 text-stone-600">山形県南陽市赤湯972</td>
-                <td className="p-3 text-stone-600">赤湯駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ赤湯駅よりタクシーで５分、徒歩２０分 高畠南陽ICより車で10分ほど</td>
                 <td className="p-3 text-stone-600">有り　60台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.03（321件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,750〜</td>
@@ -468,7 +468,7 @@ export default function FurusatoFeaturePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 奏　伏見稲荷大社前</td>
                 <td className="p-3 text-stone-600">京都府京都市伏見区深草祓川町11-29</td>
-                <td className="p-3 text-stone-600">伏見稲荷駅周辺</td>
+                <td className="p-3 text-stone-600">京阪本線「伏見稲荷」駅、JR奈良線「稲荷」駅徒歩約３分</td>
                 <td className="p-3 text-stone-600">無し</td>
                 <td className="p-3 font-bold text-amber-600">高評価</td>
                 <td className="p-3 font-bold text-rose-600">¥5,313〜</td>
@@ -497,7 +497,7 @@ export default function FurusatoFeaturePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１４台　無料　※鍵をフロントでお預かり致します</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.82 ／ 立地 ★4.57 ／ 部屋 ★4.52 ／ 設備 ★4.53 ／ 風呂 ★4.61 ／ 食事 ★4.61</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「露天風呂付き客室で最高の贅沢を堪能奮発して露天風呂付きのお部屋にしてみました。いままで行った旅館の中でいちばん満足度が高かったです。部屋についてる露天風呂って、多少ぬるいのはしょうがないのかなと思…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「露天風呂付き客室で最高の贅沢を堪能奮発して露天風呂付きのお部屋にしてみました。いままで行った旅館の中でいちばん満足度が高かったです。」
                   </blockquote>
                 </div>
               </div>
@@ -519,7 +519,7 @@ export default function FurusatoFeaturePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２０台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「大正ロマンを感じる風情ある空間でゆっくり電車が運休になって急遽一泊することになりました。丁寧な案内があって二階の昔は蔵だったところのベッドのお部屋でした。食堂の上だったり少し音はしますが私は気にな…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「大正ロマンを感じる風情ある空間でゆっくり電車が運休になって急遽一泊することになりました。丁寧な案内があって二階の昔は蔵だったところのベッドのお部屋でした。」
                   </blockquote>
                 </div>
               </div>
@@ -541,7 +541,7 @@ export default function FurusatoFeaturePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　60台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「建物や温泉の衛生面が気になり、布団も硬めお世話になりました気になったことをいくつか建物に一歩入った時から何かの臭いが気になりチェックアウト後もらってしばらく鼻についてしまって 温泉の匂いと…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「建物や温泉の衛生面が気になり、布団も硬めお世話になりました気になったことをいくつか建物に一歩入った時から何かの臭いが気になりチェックアウト後もらってしばらく鼻についてしまって満足です。」
                   </blockquote>
                 </div>
               </div>

@@ -342,7 +342,7 @@ export default function SapporoBudgetAutumnPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. ベッセルホテルカンパーナすすきの｜サウナ付大浴場（札幌・すすきの）</td>
                 <td className="p-3 text-stone-600">北海道札幌市中央区南五条西6-16-1</td>
-                <td className="p-3 text-stone-600">すすきの駅周辺</td>
+                <td className="p-3 text-stone-600">すすきの駅より徒歩にて約４分</td>
                 <td className="p-3 text-stone-600">立体駐車場(先着順)／８０台１5００円（税込／泊）　平面駐車場(要予約)／２台１５００円(税込／泊)</td>
                 <td className="p-3 font-bold text-amber-600">★4.59（738件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,866〜</td>
@@ -351,7 +351,7 @@ export default function SapporoBudgetAutumnPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. ティアラホテル札幌すすきの</td>
                 <td className="p-3 text-stone-600">北海道札幌市中央区南8条西3-7-19</td>
-                <td className="p-3 text-stone-600">すすきの駅周辺</td>
+                <td className="p-3 text-stone-600">地下鉄南北線 すすきの駅から徒歩７分、中島公園駅から徒歩4分。地下鉄東豊線 豊水すすきの駅から徒歩７分。</td>
                 <td className="p-3 text-stone-600">提携駐車場　1泊/1,600円　入庫後出入不可/予約不可</td>
                 <td className="p-3 font-bold text-amber-600">★4.11（2525件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,850〜</td>
@@ -360,7 +360,7 @@ export default function SapporoBudgetAutumnPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. ホテル京阪　札幌</td>
                 <td className="p-3 text-stone-600">北海道札幌市北区北6条西6丁目1-9</td>
-                <td className="p-3 text-stone-600">札幌駅周辺</td>
+                <td className="p-3 text-stone-600">【新千歳空港からホテルまで約44分】JR「札幌」駅西口より徒歩約4分★詳しくはアクセスページをご覧ください。</td>
                 <td className="p-3 text-stone-600">20台有り予約不可・先着順　一泊1,500円　満車時は同料金にて提携駐車場をご案内いたします</td>
                 <td className="p-3 font-bold text-amber-600">★4.38（3638件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,000〜</td>
@@ -369,7 +369,7 @@ export default function SapporoBudgetAutumnPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. ホテルリソルトリニティ札幌</td>
                 <td className="p-3 text-stone-600">北海道札幌市中央区大通西5丁目3</td>
-                <td className="p-3 text-stone-600">札幌駅周辺</td>
+                <td className="p-3 text-stone-600">地下鉄大通駅②より徒歩1分(南大通)・新千歳空港連絡バス停留所は正面にあり(停留所：ホテルリソルトリニティ札幌前)</td>
                 <td className="p-3 text-stone-600">ホテル立体(1泊1800円)・提携(1泊1500円)車高2m/幅1.8ｍ以内・予約不可(当日案内)</td>
                 <td className="p-3 font-bold text-amber-600">★4.46（3278件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,590〜</td>
@@ -398,7 +398,7 @@ export default function SapporoBudgetAutumnPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>立体駐車場(先着順)／８０台１5００円（税込／泊）　平面駐車場(要予約)／２台１５００円(税込／泊)</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「清潔感ある部屋と高級感あるエントランスお部屋の使い勝手が良かったです。コンパクトで、清潔感もありました。大浴場も空いてる時間に入ったので良かったです。ホテルのエントランスが高級感ありました。機会が…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「清潔感ある部屋と高級感あるエントランスお部屋の使い勝手が良かったです。コンパクトで、清潔感もありました。大浴場も空いてる時間に入ったので良かったです。ホテルのエントランスが高級感ありました。」
                   </blockquote>
                 </div>
               </div>
@@ -420,7 +420,7 @@ export default function SapporoBudgetAutumnPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>提携駐車場　1泊/1,600円　入庫後出入不可/予約不可</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「リーズナブルで綺麗、立地も良く快適な滞在リーズナブルな金額の割にホテルが綺麗でゆっくりできます!場所も良く近隣駐車場も目の前にありすんなり宿泊出来ます。すすきのに立地しているためご飯に困ることなく…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「リーズナブルで綺麗、立地も良く快適な滞在リーズナブルな金額の割にホテルが綺麗でゆっくりできます!場所も良く近隣駐車場も目の前にありすんなり宿泊出来ます。」
                   </blockquote>
                 </div>
               </div>
@@ -442,7 +442,7 @@ export default function SapporoBudgetAutumnPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>20台有り予約不可・先着順　一泊1,500円　満車時は同料金にて提携駐車場をご案内いたします</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「札幌駅チカで駐車場あり、スタッフの対応も丁寧比較的札幌駅チカ駐車場がある宿ということで利用しました。ホテルの駐車場は車高が高い車だと使えない場合がありますが、近隣の駐車場を案内してもらえます。…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「札幌駅チカで駐車場あり、スタッフの対応も丁寧比較的札幌駅チカ駐車場がある宿ということで利用しました。ホテルの駐車場は車高が高い車だと使えない場合がありますが、近隣の駐車場を案内してもらえます。」
                   </blockquote>
                 </div>
               </div>

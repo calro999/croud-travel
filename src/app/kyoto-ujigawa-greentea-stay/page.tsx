@@ -253,7 +253,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 宇治壱番宿にがうり</td>
                 <td className="p-3 text-stone-600">京都府宇治市宇治里尻2-17</td>
-                <td className="p-3 text-stone-600">宇治（京都）駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ宇治駅及び京阪宇治駅より徒歩にて約５分</td>
                 <td className="p-3 text-stone-600">★徒歩2分以内に専用駐車場がございます(無料)★</td>
                 <td className="p-3 font-bold text-amber-600">★4.13（94件）</td>
                 <td className="p-3 font-bold text-rose-600">¥10,500〜</td>
@@ -262,7 +262,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 旅館あづまや　＜京都府＞</td>
                 <td className="p-3 text-stone-600">京都府京都市下京区堀川通り七条上ル（西本願寺前）</td>
-                <td className="p-3 text-stone-600">京都駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ 京都駅より徒歩にて約12分</td>
                 <td className="p-3 text-stone-600">なし</td>
                 <td className="p-3 font-bold text-amber-600">★4.17（418件）</td>
                 <td className="p-3 font-bold text-rose-600">¥2,970〜</td>
@@ -271,7 +271,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. ホテル日航大阪</td>
                 <td className="p-3 text-stone-600">大阪府大阪市中央区西心斎橋1-3-3</td>
-                <td className="p-3 text-stone-600">心斎橋駅周辺</td>
+                <td className="p-3 text-stone-600">大阪メトロ御堂筋線、長堀鶴見緑地線「心斎橋駅」8番出口直結、梅田、難波、京セラドームなど主要エリアへ抜群のアクセスです。</td>
                 <td className="p-3 text-stone-600">有り　 ご宿泊のお客様は１泊 3000円（12：00～翌12：00まで）にて利用可能！　１６０台</td>
                 <td className="p-3 font-bold text-amber-600">★4.51（5584件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,525〜</td>
@@ -280,7 +280,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 京都タワーホテルアネックス</td>
                 <td className="p-3 text-stone-600">京都府京都市下京区新町通七条下る東塩小路町 595-1</td>
-                <td className="p-3 text-stone-600">京都駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ京都駅徒歩約3分。京都市営地下鉄京都駅(C10出口)徒歩約1分。チェックイン前＆チェックアウト後の荷物預かりOK！</td>
                 <td className="p-3 text-stone-600">無し（提携駐車場もございません。周辺コインパーキングをご利用ください。）</td>
                 <td className="p-3 font-bold text-amber-600">★4.12（2164件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,420〜</td>
@@ -340,7 +340,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>なし</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.33 ／ 立地 ★4.25 ／ 部屋 ★4.06 ／ 設備 ★4 ／ 風呂 ★4.05</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「施設は古いが子供向けサービスが充実子供連れでの利用でした。施設は古いですが、子供向けの寝間着やお菓子などサービスは色々と充実していて、満足でした。宿泊客に対して、大浴場があまり大きくないの…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「施設は古いが子供向けサービスが充実子供連れでの利用でした。施設は古いですが、子供向けの寝間着やお菓子などサービスは色々と充実していて、満足でした。」
                   </blockquote>
                 </div>
               </div>
@@ -406,7 +406,7 @@ export default function MicroTouristHubPage() {
                   <p>【京都・宇治：平等院鳳凰堂・宇治茶＆源氏物語ゆかりの川】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近で便利、駐車場の手配もスムーズJR宇治駅から1番近いですが、今回は仕事で訪れました。車で向かう予定でしたので事前にその旨を伝えたところ、駐車場の手配もして頂きありがとうございます。公共…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近で便利、駐車場の手配もスムーズJR宇治駅から1番近いですが、今回は仕事で訪れました。車で向かう予定でしたので事前にその旨を伝えたところ、駐車場の手配もして頂きありがとうございます。」
                   </blockquote>
                 </div>
               </div>

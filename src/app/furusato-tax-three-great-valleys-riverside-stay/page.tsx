@@ -49,7 +49,7 @@ const hotels = [
     "reviewCount": 80,
     "address": "広島県山県郡安芸太田町中筒賀才之峠280",
     "access": "中国自動車道戸河内ＩＣから約５分",
-    "userReview": "年季とノスタルジー、高台からの絶景少し年季が入っていますが、その分ノスタルジーを感じられました。掃除は行き届いていましたし、高台にあるので部屋や大浴場からの景色はとても良かったです。クチコミの。",
+    "userReview": "年季とノスタルジー、高台からの絶景少し年季が入っていますが、その分ノスタルジーを感じられました。掃除は行き届いていましたし、高台にあるので部屋や大浴場からの景色はとても良かったです。",
     "label": "広島県安芸太田町ふるさと納税・国の特別名勝・三段峡の玄関口「温井温泉 温井スプリングス」",
     "spotTitle": "広島県安芸太田町ふるさと納税：国の特別名勝・三段峡観光の拠点「筒賀温泉 グリーンスパつつが」",
     "spotDesc": "西中国山地国定公園の特別名勝・三段峡の豊かな自然に囲まれた温泉宿。四季折々の山菜料理や地元食材を使用した和食会席とともに、肌に優しい天然ラドン温泉で心ゆくまで癒やされます。",
@@ -347,7 +347,7 @@ export default function FurusatoUpgradedPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. シーサイドホテル舞子ビラ神戸</td>
                 <td className="p-3 text-stone-600">兵庫県神戸市垂水区東舞子町18-11</td>
-                <td className="p-3 text-stone-600">舞子</td>
+                <td className="p-3 text-stone-600">ＪＲ神戸線「舞子駅」から徒歩で7分。ＪＲ舞子駅はＪＲ三宮駅から約１９分。</td>
                 <td className="p-3 text-stone-600">有り　300台　1泊24時間　800円（2025年4月1日より）</td>
                 <td className="p-3 font-bold text-amber-600">★4.45（5429件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,700〜</td>
@@ -356,7 +356,7 @@ export default function FurusatoUpgradedPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 金沢東急ホテル</td>
                 <td className="p-3 text-stone-600">石川県金沢市香林坊2-1-1</td>
-                <td className="p-3 text-stone-600">金沢</td>
+                <td className="p-3 text-stone-600">ＪＲ金沢駅からタクシーで約8分、バスで約10分。北陸道金沢西又は東ＩＣより車15分。</td>
                 <td className="p-3 text-stone-600">ホテル隣【香林坊地下駐車場】200台　1泊1,500円(14時-翌11時)左記以外は30分150円</td>
                 <td className="p-3 font-bold text-amber-600">★4.56（2359件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,100〜</td>
@@ -365,7 +365,7 @@ export default function FurusatoUpgradedPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. プレミアホテル－ＴＳＵＢＡＫＩ－札幌</td>
                 <td className="p-3 text-stone-600">北海道札幌市豊平区豊平4条1丁目1-1</td>
-                <td className="p-3 text-stone-600">札幌</td>
+                <td className="p-3 text-stone-600">《新千歳空港から》空港連絡バス「プレミアホテルTSUBAKI」下車 《お車》地下駐車場有《JR札幌駅から》シャトルバス有</td>
                 <td className="p-3 text-stone-600">地下駐車場200台◇1泊1台1000円◇高さ制限2.1m◇24時間出し入れ自由</td>
                 <td className="p-3 font-bold text-amber-600">★4.45（2189件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,400〜</td>

@@ -262,7 +262,7 @@ export default function SeasonalFeaturePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 銀山温泉　能登屋旅館</td>
                 <td className="p-3 text-stone-600">山形県尾花沢市大字銀山新畑446</td>
-                <td className="p-3 text-stone-600">大石田駅周辺</td>
+                <td className="p-3 text-stone-600">JR大石田駅よりバス40分、東北中央道東根IC尾花沢方面へ50分、尾花沢バス停より市営バスで35分</td>
                 <td className="p-3 text-stone-600">有り　20台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">高評価</td>
                 <td className="p-3 font-bold text-rose-600">プラン参照</td>
@@ -271,7 +271,7 @@ export default function SeasonalFeaturePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 渋温泉　歴史の宿　金具屋</td>
                 <td className="p-3 text-stone-600">長野県下高井郡山ノ内町平穏2202</td>
-                <td className="p-3 text-stone-600">湯田中駅周辺</td>
+                <td className="p-3 text-stone-600">長野電鉄線 湯田中駅／上信越自動車道 信州中野ＩＣより国道２９２号線を志賀高原方面へ約１５分</td>
                 <td className="p-3 text-stone-600">有　３０台　無料　屋外のみ　マイクロバス以上は有料</td>
                 <td className="p-3 font-bold text-amber-600">★4.54（981件）</td>
                 <td className="p-3 font-bold text-rose-600">¥18,700〜</td>
@@ -280,7 +280,7 @@ export default function SeasonalFeaturePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 渋温泉かどや</td>
                 <td className="p-3 text-stone-600">長野県下高井郡山ノ内町大字平穏2201</td>
-                <td className="p-3 text-stone-600">湯田中駅周辺</td>
+                <td className="p-3 text-stone-600">長野電鉄湯田中駅からバスで7分</td>
                 <td className="p-3 text-stone-600">渋温泉公共駐車場(湯めぐりパーキング)をご利用ください（1000円/24時間）</td>
                 <td className="p-3 font-bold text-amber-600">★3.46（26件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,000〜</td>
@@ -289,7 +289,7 @@ export default function SeasonalFeaturePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 伊東温泉　陽気館</td>
                 <td className="p-3 text-stone-600">静岡県伊東市末広町2-24</td>
-                <td className="p-3 text-stone-600">伊東駅周辺</td>
+                <td className="p-3 text-stone-600">＜電車＞JR「伊東駅」より徒歩12分／＜お車＞東名厚木IC→小田原厚木道路経由→国道135号線、約90分</td>
                 <td className="p-3 text-stone-600">有り　20台　無料　※カーナビは名称・電話ではなく住所（静岡県伊東市末広町1－21）で検索して下さい</td>
                 <td className="p-3 font-bold text-amber-600">★4.33（702件）</td>
                 <td className="p-3 font-bold text-rose-600">¥14,300〜</td>
@@ -358,7 +358,7 @@ export default function SeasonalFeaturePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有　３０台　無料　屋外のみ　マイクロバス以上は有料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「5種類の貸切風呂と親切な接客に大満足9月1日宿泊、貸切風呂が5種類ありました。外には無料で入れるお風呂が沢山あり2箇所行きました。男女分かれていて外のお風呂は熱めです。お肌スベスベになりました。ま…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「5種類の貸切風呂と親切な接客に大満足9月1日宿泊、貸切風呂が5種類ありました。外には無料で入れるお風呂が沢山あり2箇所行きました。男女分かれていて外のお風呂は熱めです。お肌スベスベになりました。」
                   </blockquote>
                 </div>
               </div>
@@ -402,7 +402,7 @@ export default function SeasonalFeaturePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　20台　無料　※カーナビは名称・電話ではなく住所（静岡県伊東市末広町1－21）で検索して下さい</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝日と海を望む絶景と美味しい食事に大満足伊豆シャボテン公園への旅行で利用させて頂きました。高台のお部屋は眺めも良くて朝日と海が見えました。夕食と朝食、とても美味しくて中でもお刺身 鯵の干物が格別で…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝日と海を望む絶景と美味しい食事に大満足伊豆シャボテン公園への旅行で利用させて頂きました。高台のお部屋は眺めも良くて朝日と海が見えました。」
                   </blockquote>
                 </div>
               </div>
@@ -446,7 +446,7 @@ export default function SeasonalFeaturePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　５台　無料　お手数ですがチェックイン前に一度お電話下さい。ご案内します。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「外湯巡りに便利な立地と豪華な夕食に大満足隠れ屋というだけあって民宿をホテルのように個室にした雰囲気でたいへん綺麗で落ち着いたお宿でした。場所は全外湯の中心の一の湯付近にあって巡るのには便利でした。…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「外湯巡りに便利な立地と豪華な夕食に大満足隠れ屋というだけあって民宿をホテルのように個室にした雰囲気でたいへん綺麗で落ち着いたお宿でした。場所は全外湯の中心の一の湯付近にあって巡るのには便利でした。」
                   </blockquote>
                 </div>
               </div>

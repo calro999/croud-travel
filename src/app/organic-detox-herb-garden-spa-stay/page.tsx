@@ -85,7 +85,7 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/19237/19237map.gif",
     "reviewCount": 2012,
     "reviewAverage": 4.47,
-    "userReview": "モール温泉と食事を満喫、アメニティは要改善客室露天風呂付きのお部屋に泊まりたくて利用しました。お迎えからスタッフさんは笑顔でさわやかに迎えて下さり、受付もスムーズで案内も丁寧でとても好印象でし。",
+    "userReview": "モール温泉と食事を満喫、アメニティは要改善客室露天風呂付きのお部屋に泊まりたくて利用しました。お迎えからスタッフさんは笑顔でさわやかに迎えて下さり、受付もスムーズで案内も丁寧でとても好印象でした。",
     "hotelMinCharge": 13750,
     "address1": "北海道",
     "address2": "河東郡音更町十勝川温泉南14-2",
@@ -564,8 +564,8 @@ export default function FeatureDetailPage() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 猪苗代駅よりアクセス。磐越西線猪苗代駅より送迎バス有※前日17:00までに要予約 磐越自動車道猪苗代ICより１０分。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「ホテルリステル猪苗代ウイングタワー」にチェックイン。ヨーロピアンクラシカル調の高層ホテル。全室より猪苗代湖を一望する四季のパノラマが魅力です。などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「ホテルリステル猪苗代ウイングタワー」の湯処へ。ヨーロピアンクラシカル調の高層ホテル。全室より猪苗代湖を一望する四季のとともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「ホテルリステル猪苗代ウイングタワー」にチェックイン。ヨーロピアンクラシカル調の高層ホテル。全室より猪苗代湖を一望する四季のパノラマが魅力です。 館内の設えを確かめながら、これからの滞在に備えてゆっくり休息する。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「ホテルリステル猪苗代ウイングタワー」の自慢の湯処へ。温かな湯気と落ち着いた雰囲気に癒やされながら、夕食前の贅沢なひとときを過ごす。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「ホテルリステル猪苗代ウイングタワー」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -577,7 +577,7 @@ export default function FeatureDetailPage() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「ホテルリステル猪苗代ウイングタワー」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「ホテルリステル猪苗代ウイングタワー」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「十勝川温泉 観月苑」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は「ホテルリステル猪苗代ウイングタワー」周辺の観光スポットや地元の名産店に立ち寄り、ご当地のお土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>
@@ -705,7 +705,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. ホテルリステル猪苗代ウイングタワー</td>
                 <td className="p-3 text-stone-600">福島県耶麻郡猪苗代町大字川桁字天王坂2414</td>
-                <td className="p-3 text-stone-600">猪苗代駅周辺</td>
+                <td className="p-3 text-stone-600">磐越西線猪苗代駅より送迎バス有※前日17:00までに要予約 磐越自動車道猪苗代ICより１０分</td>
                 <td className="p-3 text-stone-600">有り　敷地内各駐車場合計　450台　無料　（先着順予約無し）</td>
                 <td className="p-3 font-bold text-amber-600">★4.1（3696件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,800〜</td>
@@ -714,7 +714,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. たきのうえホテル渓谷</td>
                 <td className="p-3 text-stone-600">北海道紋別郡滝上町元町</td>
-                <td className="p-3 text-stone-600">旭川駅周辺</td>
+                <td className="p-3 text-stone-600">JR旭川駅より紋別行都市間バスで約140分「滝上」下車</td>
                 <td className="p-3 text-stone-600">有り　40台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.25（162件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,500〜</td>
@@ -723,7 +723,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 十勝川温泉　観月苑</td>
                 <td className="p-3 text-stone-600">北海道河東郡音更町十勝川温泉南14-2</td>
-                <td className="p-3 text-stone-600">帯広駅周辺</td>
+                <td className="p-3 text-stone-600">【バス】JR帯広駅より30分（観月苑前下車）｜【お車】帯広駅より20分、音更帯広ICより20分、帯広空港より40分</td>
                 <td className="p-3 text-stone-600">有り　１００台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.46（1976件）</td>
                 <td className="p-3 font-bold text-rose-600">¥19,030〜</td>
@@ -732,7 +732,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. ＡＮＡクラウンプラザホテル神戸　ｂｙ　ＩＨＧ</td>
                 <td className="p-3 text-stone-600">兵庫県神戸市中央区北野町1</td>
-                <td className="p-3 text-stone-600">新神戸駅周辺</td>
+                <td className="p-3 text-stone-600">新幹線・地下鉄「新神戸駅」直結 。三宮まで１駅2分。大阪まで約25分。</td>
                 <td className="p-3 text-stone-600">650台(1台1,500円/泊)　※クラブフロア宿泊者は1室1台無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.14（6588件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,288〜</td>
@@ -741,7 +741,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. セトレ　ハイランドヴィラ</td>
                 <td className="p-3 text-stone-600">兵庫県姫路市広嶺山224-26</td>
-                <td className="p-3 text-stone-600">姫路駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ 姫路駅から車で２０分 ※送迎はお電話にてご相談下さいませ。</td>
                 <td className="p-3 text-stone-600">有り　３０台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.35（411件）</td>
                 <td className="p-3 font-bold text-rose-600">¥9,800〜</td>
@@ -770,7 +770,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　敷地内各駐車場合計　450台　無料　（先着順予約無し）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.09 ／ 立地 ★4.21 ／ 部屋 ★4.13 ／ 設備 ★3.99 ／ 風呂 ★3.93 ／ 食事 ★4.1</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「郡山からでていたシャトルバスが懐かしい リステル猪苗代とご縁があってから15年が過ぎました。以前はレストラン「ファムネット」で夕食をとる機会が多く、当時のレストランの顔ともいうべき高感度抜群の背の…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「郡山からでていたシャトルバスが懐かしい リステル猪苗代とご縁があってから15年が過ぎました。」
                   </blockquote>
                 </div>
               </div>
@@ -836,7 +836,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>650台(1台1,500円/泊)　※クラブフロア宿泊者は1室1台無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「お盆休みに宿泊しました。夕食のマグロの解体も息子が大変喜んでくれました。夜景も綺麗でホテル近くから行ける布引ハーブ園からの眺めも最高でした。来年も機会が有れば宿泊しようと思います。従業…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「お盆休みに宿泊しました。夕食のマグロの解体も息子が大変喜んでくれました。夜景も綺麗でホテル近くから行ける布引ハーブ園からの眺めも最高でした。来年も機会が有れば宿泊しようと思います。」
                   </blockquote>
                 </div>
               </div>
@@ -858,7 +858,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　３０台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.43 ／ 立地 ★4.41 ／ 部屋 ★4.39 ／ 設備 ★4.23 ／ 風呂 ★4.14 ／ 食事 ★4.47</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「夜景と広々とした部屋、朝食に満足お部屋の大きな窓から夜景がとっても綺麗見えました。直前で予約したので部屋の広さは期待していなかったのですが、天井が高く広々していて予想以上に良かったです。た…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「夜景と広々とした部屋、朝食に満足お部屋の大きな窓から夜景がとっても綺麗見えました。直前で予約したので部屋の広さは期待していなかったのですが、天井が高く広々していて予想以上に良かったです。」
                   </blockquote>
                 </div>
               </div>

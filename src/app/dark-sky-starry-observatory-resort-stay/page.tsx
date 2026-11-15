@@ -334,7 +334,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 昼神温泉　ひるがみの森</td>
                 <td className="p-3 text-stone-600">長野県下伊那郡阿智村智里567-10</td>
-                <td className="p-3 text-stone-600">天竜峡駅周辺</td>
+                <td className="p-3 text-stone-600">中央自動車道・園原ICより車にて10分(名古屋・関西方面)、中央自動車道・飯田山本ICより車にて10分(関東・長野方面)</td>
                 <td className="p-3 text-stone-600">有り　150台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.36（905件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,800〜</td>
@@ -343,7 +343,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 昼神温泉　石苔亭いしだ</td>
                 <td className="p-3 text-stone-600">長野県下伊那郡阿智村智里332-3</td>
-                <td className="p-3 text-stone-600">飯田（長野）駅周辺</td>
+                <td className="p-3 text-stone-600">中央道・飯田山本ＩＣより約７分／ＪＲ飯田駅より無料送迎約２５分（要事前予約）／名古屋より高速バスで約１２０分</td>
                 <td className="p-3 text-stone-600">有り　３０台まで　屋外　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.71（330件）</td>
                 <td className="p-3 font-bold text-rose-600">¥36,300〜</td>
@@ -352,7 +352,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 昼神温泉四季の織　はなや（旧ホテルはなや）</td>
                 <td className="p-3 text-stone-600">長野県下伊那郡阿智村智里530-1</td>
-                <td className="p-3 text-stone-600">飯田（長野）駅周辺</td>
+                <td className="p-3 text-stone-600">飯田駅より路線バスにて３０分</td>
                 <td className="p-3 text-stone-600">有り　３０台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.57（364件）</td>
                 <td className="p-3 font-bold text-rose-600">¥22,990〜</td>
@@ -403,7 +403,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　３０台まで　屋外　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.85 ／ 立地 ★4.7 ／ 部屋 ★4.72 ／ 設備 ★4.76 ／ 風呂 ★4.73 ／ 食事 ★4.81</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋の露天風呂は残念だが接客には満足露天ぶろ付きの部屋に宿泊させていただいたのですが部屋の泉質が大浴場の泉質より薄くガッカリ。仕方ないので大浴場で我慢をした次第です。それ以外は仲居さんの気遣いサー…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋の露天風呂は残念だが接客には満足露天ぶろ付きの部屋に宿泊させていただいたのですが部屋の泉質が大浴場の泉質より薄くガッカリ。仕方ないので大浴場で我慢をした次第です。」
                   </blockquote>
                 </div>
               </div>
@@ -425,7 +425,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　３０台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.68 ／ 立地 ★4.38 ／ 部屋 ★4.47 ／ 設備 ★4.47 ／ 風呂 ★4.64 ／ 食事 ★4.62</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの対応と食事、温泉に大満足!特に良かった所は・スタッフの対応が、感じが良くて、分かり易く説明でした・夕食が現地素材で、味付けが私にピッタリ合い美味しい・温泉が家族風呂でアルカリ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの対応と食事、温泉に大満足!」
                   </blockquote>
                 </div>
               </div>

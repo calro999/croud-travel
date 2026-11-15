@@ -253,7 +253,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 旅館　横倉　宿坊（旧十輪院）</td>
                 <td className="p-3 text-stone-600">長野県長野市戸隠中社3347</td>
-                <td className="p-3 text-stone-600">長野駅周辺</td>
+                <td className="p-3 text-stone-600">JR長野駅より車・バスで1時間『戸隠中社宮前』下車</td>
                 <td className="p-3 text-stone-600">有り　10台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4（147件）</td>
                 <td className="p-3 font-bold text-rose-600">¥10,545〜</td>
@@ -262,7 +262,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 黒姫高原　ホテル若月＜長野県＞</td>
                 <td className="p-3 text-stone-600">長野県上水内郡信濃町黒姫高原</td>
-                <td className="p-3 text-stone-600">黒姫駅周辺</td>
+                <td className="p-3 text-stone-600">しなの鉄道北しなの線・黒姫駅からバス【黒姫高原行き】若月前下車徒歩３分／上信越道・信濃町ＩＣから黒姫高原方面約５ｋｍ</td>
                 <td className="p-3 text-stone-600">有り　３０台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★5（7件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,500〜</td>
@@ -271,7 +271,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. ホテルナガノアベニュー</td>
                 <td className="p-3 text-stone-600">長野県長野市南千歳2-8-5</td>
-                <td className="p-3 text-stone-600">長野駅周辺</td>
+                <td className="p-3 text-stone-600">JR長野駅（善光寺口）を出て駅を背にして長野大通りを右（北上）へまっすぐ徒歩7～8分◆上信越自動車道長野ICより３０分</td>
                 <td className="p-3 text-stone-600">ホテルより徒歩4分TOiGOパーキング入庫より24時間出し入れなし800円（高さ制限2.1M）</td>
                 <td className="p-3 font-bold text-amber-600">★4.2（3766件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,700〜</td>
@@ -280,7 +280,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 宿坊旅館　大西</td>
                 <td className="p-3 text-stone-600">長野県長野市戸隠3500</td>
-                <td className="p-3 text-stone-600">長野駅周辺</td>
+                <td className="p-3 text-stone-600">長野道長野ICより車で1時間</td>
                 <td className="p-3 text-stone-600">有り　30台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★3.33（26件）</td>
                 <td className="p-3 font-bold text-rose-600">¥10,200〜</td>

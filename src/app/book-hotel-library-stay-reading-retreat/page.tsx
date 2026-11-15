@@ -253,7 +253,7 @@ export default function WomenSoloRetreatHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. ＳＹＬＡ　ＨＯＴＥＬ　箱根強羅　ＷＥＳＴ</td>
                 <td className="p-3 text-stone-600">神奈川県足柄下郡箱根町強羅1300-763</td>
-                <td className="p-3 text-stone-600">強羅駅周辺</td>
+                <td className="p-3 text-stone-600">強羅駅より徒歩約８分</td>
                 <td className="p-3 text-stone-600">お客様専用の駐車場あり　無料　徒歩2分</td>
                 <td className="p-3 font-bold text-amber-600">高評価</td>
                 <td className="p-3 font-bold text-rose-600">¥5,605〜</td>
@@ -262,7 +262,7 @@ export default function WomenSoloRetreatHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. ＳＹＬＡ　ＨＯＴＥＬ　箱根強羅　ＥＡＳＴ</td>
                 <td className="p-3 text-stone-600">神奈川県足柄下郡箱根町強羅1300-45</td>
-                <td className="p-3 text-stone-600">強羅駅周辺</td>
+                <td className="p-3 text-stone-600">強羅駅より徒歩約８分</td>
                 <td className="p-3 text-stone-600">お客様専用の駐車場あり　無料　徒歩2分</td>
                 <td className="p-3 font-bold text-amber-600">★5（6件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,700〜</td>
@@ -271,7 +271,7 @@ export default function WomenSoloRetreatHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 箱根湯本温泉　伊東園ホテル　箱根湯本</td>
                 <td className="p-3 text-stone-600">神奈川県足柄下郡箱根町湯本茶屋95-1</td>
-                <td className="p-3 text-stone-600">箱根湯本駅周辺</td>
+                <td className="p-3 text-stone-600">小田急 箱根湯本駅より徒歩２０分、バス５分、車で５分.カーナビは0460-85-5743小田原湯本カントリークラブ途中。</td>
                 <td className="p-3 text-stone-600">屋根付きあり　収容台数36台　1部屋あたり1台までとさせていただいております</td>
                 <td className="p-3 font-bold text-amber-600">★4（642件）</td>
                 <td className="p-3 font-bold text-rose-600">¥9,548〜</td>
@@ -280,7 +280,7 @@ export default function WomenSoloRetreatHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 箱根湯本温泉　女性に優しい癒しの宿　ホテルマイユクール祥月</td>
                 <td className="p-3 text-stone-600">神奈川県足柄下郡箱根町湯本468-1</td>
-                <td className="p-3 text-stone-600">箱根湯本駅下車徒歩１２分／小田原厚木道路箱根口ＩＣから2ｋｍ　箱根神社</td>
+                <td className="p-3 text-stone-600">箱根湯本駅下車徒歩１２分／小田原厚木道路箱根口ＩＣから2ｋｍ 箱根神社約40分／箱根ターンパイク約10分</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.55（6648件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,500〜</td>
@@ -289,7 +289,7 @@ export default function WomenSoloRetreatHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 指宿温泉　指宿ロイヤルホテル　～すべての女性へ美と健康を楽しむホテル～</td>
                 <td className="p-3 text-stone-600">鹿児島県指宿市十二町4232-1</td>
-                <td className="p-3 text-stone-600">指宿駅周辺</td>
+                <td className="p-3 text-stone-600">鹿児島空港→指宿駅 空港バス約１１０分。指宿駅→タクシー約５分。屋久島、霧島、大隅、南薩等指宿を拠点に観光がおすすめ</td>
                 <td className="p-3 text-stone-600">無料駐車場完備（全50台）バイク・大型車両OK予約不要。指宿を観光するなら車での移動がおすすめ</td>
                 <td className="p-3 font-bold text-amber-600">★4.49（1607件）</td>
                 <td className="p-3 font-bold text-rose-600">¥10,752〜</td>
@@ -298,7 +298,7 @@ export default function WomenSoloRetreatHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">6. ねをはす　Ｂｏｏｋ＆Ｈｏｔｅｌ</td>
                 <td className="p-3 text-stone-600">山口県下関市秋根西町2-7-2</td>
-                <td className="p-3 text-stone-600">新下関駅周辺</td>
+                <td className="p-3 text-stone-600">JR新下関駅西口より徒歩6分、中国自動車道・下関ICより車で約10分</td>
                 <td className="p-3 text-stone-600">無料／33台　※駐車可能車両サイズ：長さ5.0ｍ、車幅2.0ｍ以内　※トラック不可　※満車の場合有</td>
                 <td className="p-3 font-bold text-amber-600">★4.74（161件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,800〜</td>
@@ -393,7 +393,7 @@ export default function WomenSoloRetreatHubPage() {
                   <p>【週末おこもり・読書＆ブックホテル：数万冊の本に囲まれ】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「期待以上の素晴らしさで心身ともにリフレッシュ日頃の疲れを癒やすために宿泊しましたが、期待を大きく上回る素晴らしさでした。お部屋は清潔感があり広々としていて、到着時に用意していただいたウェルカム…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「期待以上の素晴らしさで心身ともにリフレッシュ日頃の疲れを癒やすために宿泊しましたが、期待を大きく上回る素晴らしさでした。」
                   </blockquote>
                 </div>
               </div>
@@ -415,7 +415,7 @@ export default function WomenSoloRetreatHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料駐車場完備（全50台）バイク・大型車両OK予約不要。指宿を観光するなら車での移動がおすすめ</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの温かい心遣いに感動、また訪れたい滞在中は、最初から最後までとても快適に過ごすことができました。子ども向けのサービスも充実していて、ミニ縁日ではスタッフの方と楽しくゲームをしたり、…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの温かい心遣いに感動、また訪れたい滞在中は、最初から最後までとても快適に過ごすことができました。」
                   </blockquote>
                 </div>
               </div>
@@ -437,7 +437,7 @@ export default function WomenSoloRetreatHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料／33台　※駐車可能車両サイズ：長さ5.0ｍ、車幅2.0ｍ以内　※トラック不可　※満車の場合有</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「念願の部屋でマンガ三昧、接客も丁寧で大満足三月にも来ましたが、今回は念願の「文」部屋へ2連泊!部屋にテレビはありませんが、スマホで音楽流しながらマンガ三昧でき、良かったですアメニティや部屋…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「念願の部屋でマンガ三昧、接客も丁寧で大満足三月にも来ましたが、今回は念願の「文」部屋へ2連泊!」
                   </blockquote>
                 </div>
               </div>

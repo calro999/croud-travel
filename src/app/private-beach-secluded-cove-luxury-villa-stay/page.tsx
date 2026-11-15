@@ -76,7 +76,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F194799%2F194799.html%26f_flg%3DPLAN",
     "hotelMinCharge": 10440,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/194799/194799.jpg",
-    "userReview": "プライベートビーチ付きの宿　海の家　＾ならではの立地と落ち着いた空間で、ゆったりとした滞在を楽しめたという声が寄せられています。",
+    "userReview": "プライベートビーチ付きの宿 海の家 ＾ならではの立地と落ち着いた空間で、ゆったりとした滞在を楽しめたという声が寄せられています。",
     "reviewAverage": 4.4,
     "reviewCount": 100,
     "address": "沖縄県島尻郡久米島町嘉手苅10-6　海小屋",
@@ -90,7 +90,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F141029%2F141029.html%26f_flg%3DPLAN",
     "hotelMinCharge": 22950,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/141029/141029.jpg",
-    "userReview": "クリスタルヴィラ宮古島砂山ビーチ　＜宮古島＞ならではの立地と落ち着いた空間で、ゆったりとした滞在を楽しめたという声が寄せられています。",
+    "userReview": "クリスタルヴィラ宮古島砂山ビーチ ＜宮古島＞ならではの立地と落ち着いた空間で、ゆったりとした滞在を楽しめたという声が寄せられています。",
     "reviewAverage": 5,
     "reviewCount": 33,
     "address": "沖縄県宮古島市平良荷川取628",
@@ -132,7 +132,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F49245%2F49245.html%26f_flg%3DPLAN",
     "hotelMinCharge": 53200,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/49245/49245.jpg",
-    "userReview": "Ｖｉｌｌａｂｕ　Ｒｅｓｏｒｔ　ヴィラブ　リゾート　＜伊良部島＞ならではの立地と落ち着いた空間で、ゆったりとした滞在を楽しめたという声が寄せられています。",
+    "userReview": "Ｖｉｌｌａｂｕ Ｒｅｓｏｒｔ ヴィラブ リゾート ＜伊良部島＞ならではの立地と落ち着いた空間で、ゆったりとした滞在を楽しめたという声が寄せられています。",
     "reviewAverage": 5,
     "reviewCount": 36,
     "address": "沖縄県宮古島市伊良部字伊良部817",
@@ -284,7 +284,7 @@ export default function Page() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 久米島空港から車で約１６分で現地へ到着。</li>
                 <li>・<strong className="text-stone-800">15:30〜</strong> 「プライベートビーチ付きの宿 海の家 ＾」へチェックイン。落ち着いた空間で旅の荷を解き、ゆったりとした時間をスタート。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「プライベートビーチ付きの宿 海の家 ＾」の湯処へ。日頃の疲れを癒やす湯浴みとともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「プライベートビーチ付きの宿 海の家 ＾」の湯船で寛ぎタイム。季節の空気を感じながら手足を伸ばし、心豊かな夕方のリラックス時間を満喫。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「プライベートビーチ付きの宿 海の家 ＾」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -296,7 +296,7 @@ export default function Page() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「プライベートビーチ付きの宿 海の家 ＾」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「プライベートビーチ付きの宿 海の家 ＾」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「クリスタルヴィラ宮古島砂山ビーチ ＜宮古島＞」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は「プライベートビーチ付きの宿 海の家 ＾」周辺の観光スポットや地元の名産店に立ち寄り、ご当地のお土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>
@@ -460,7 +460,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. Ｖｉｌｌａｂｕ　Ｒｅｓｏｒｔ　ヴィラブ　リゾート　＜伊良部島＞</td>
                 <td className="p-3 text-stone-600">沖縄県宮古島市伊良部字伊良部817</td>
-                <td className="p-3 text-stone-600">宮古空港からタクシーまたはレンタカーで約25分（伊良部大橋経由） ※タ</td>
+                <td className="p-3 text-stone-600">宮古空港からタクシーまたはレンタカーで約25分（伊良部大橋経由） ※タクシーご利用の場合、費用3,000円程</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★5（36件）</td>
                 <td className="p-3 font-bold text-rose-600">¥53,200〜</td>

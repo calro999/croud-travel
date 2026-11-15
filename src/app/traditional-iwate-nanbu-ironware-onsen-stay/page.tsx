@@ -565,8 +565,8 @@ export default function FeatureDetailPage() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 新花巻駅よりアクセス。東北自動車道花巻ＩＣより5分・JR花巻空港駅よりタクシーで15分・東北新幹線新花巻駅より無料送迎バスあり（要プラン確認）。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「花巻温泉 割烹旅館 廣美亭」にチェックイン。花巻温泉で唯一の割烹旅館。岩手の旬の素材を使った本格会席料理が自慢の宿。などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「花巻温泉 割烹旅館 廣美亭」の湯処へ。花巻温泉で唯一の割烹旅館。岩手の旬の素材を使った本格会席料理が自慢の宿とともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「花巻温泉 割烹旅館 廣美亭」にチェックイン。花巻温泉で唯一の割烹旅館。岩手の旬の素材を使った本格会席料理が自慢の宿。 客室で身支度を整え、この宿ならではの滞在をスタート。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「花巻温泉 割烹旅館 廣美亭」の湯船で寛ぎタイム。季節の空気を感じながら手足を伸ばし、心豊かな夕方のリラックス時間を満喫。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「花巻温泉 割烹旅館 廣美亭」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -578,7 +578,7 @@ export default function FeatureDetailPage() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「花巻温泉 割烹旅館 廣美亭」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「花巻温泉 割烹旅館 廣美亭」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「花巻温泉 佳松園」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は宿周辺の散策とショッピングを満喫。地元の名産品やグルメを味わってから余裕をもって帰路につく。</li>
               </ul>
             </div>
           </div>
@@ -649,28 +649,28 @@ export default function FeatureDetailPage() {
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
             <div className="flex flex-wrap gap-2">
               <Link
-                href="/prefectures/kochi/"
+                href="/prefectures/iwate/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                高知県の宿・温泉
+                岩手県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/chiba/"
+                href="/prefectures/hokkaido/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                千葉県の宿・温泉
+                北海道の宿・温泉
               </Link>
               <Link
-                href="/prefectures/yamaguchi/"
+                href="/prefectures/aomori/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                山口県の宿・温泉
+                青森県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/hiroshima/"
+                href="/prefectures/miyagi/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                広島県の宿・温泉
+                宮城県の宿・温泉
               </Link>
             </div>
           </div>
@@ -706,7 +706,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 花巻温泉　割烹旅館　廣美亭</td>
                 <td className="p-3 text-stone-600">岩手県花巻市湯本1-88-1</td>
-                <td className="p-3 text-stone-600">東北自動車道花巻ＩＣより5分・JR花巻空港駅よりタクシーで15分・東北</td>
+                <td className="p-3 text-stone-600">東北自動車道花巻ＩＣより5分・JR花巻空港駅よりタクシーで15分・東北新幹線新花巻駅より無料送迎バスあり（要プラン確認）</td>
                 <td className="p-3 text-stone-600">有り　２０台　先着順　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.59（328件）</td>
                 <td className="p-3 font-bold text-rose-600">¥15,400〜</td>
@@ -715,7 +715,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 花巻温泉　佳松園</td>
                 <td className="p-3 text-stone-600">岩手県花巻市湯本第1地割125-2</td>
-                <td className="p-3 text-stone-600">新花巻駅周辺</td>
+                <td className="p-3 text-stone-600">花巻IC：右折後直進4km（5分）、JR新花巻駅・JR花巻駅：無料送迎バス20分（定時運行・完全予約制）</td>
                 <td className="p-3 text-stone-600">有り　30台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.69（1120件）</td>
                 <td className="p-3 font-bold text-rose-600">¥18,700〜</td>
@@ -724,7 +724,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 岩手　花巻温泉郷　鉛温泉　藤三旅館</td>
                 <td className="p-3 text-stone-600">岩手県花巻市鉛中平75-1</td>
-                <td className="p-3 text-stone-600">花巻駅周辺</td>
+                <td className="p-3 text-stone-600">新花巻駅より４０分・花巻駅より３０分（送迎バスあり、協力金：片道100円、予約必須）。花巻南ＩＣよりお車で２０分。</td>
                 <td className="p-3 text-stone-600">有り　60台先着順無料　湯治部のご利用は第2駐車場をご利用ください</td>
                 <td className="p-3 font-bold text-amber-600">★4.43（2692件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,600〜</td>
@@ -733,7 +733,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 岩手花巻　台温泉　旅館　ほっと・彩　そめや</td>
                 <td className="p-3 text-stone-600">岩手県花巻市台2-62</td>
-                <td className="p-3 text-stone-600">花巻駅周辺</td>
+                <td className="p-3 text-stone-600">花巻駅より車で１５分／花巻空港より車で１５分</td>
                 <td className="p-3 text-stone-600">有り　２０台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.33（84件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,000〜</td>
@@ -742,7 +742,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 花巻温泉郷　台温泉　中嶋旅館</td>
                 <td className="p-3 text-stone-600">岩手県花巻市台1-190</td>
-                <td className="p-3 text-stone-600">花巻駅周辺</td>
+                <td className="p-3 text-stone-600">東北自動車道花巻I．Cから車で10分、新花巻駅からタクシーで25分</td>
                 <td className="p-3 text-stone-600">有り　１５台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★3.92（184件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,800〜</td>
@@ -771,7 +771,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２０台　先着順　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「静かな環境と丁寧な接客、美味しいお部屋食花巻温泉郷から離れた所にあり、幹線道路からも離れており非常に静かな所にあります。建物、お部屋等も清潔で気持ちが良いです。従業員の方々もとても丁寧な応対をして…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「静かな環境と丁寧な接客、美味しいお部屋食花巻温泉郷から離れた所にあり、幹線道路からも離れており非常に静かな所にあります。建物、お部屋等も清潔で気持ちが良いです。」
                   </blockquote>
                 </div>
               </div>
@@ -793,7 +793,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　30台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.74 ／ 立地 ★4.61 ／ 部屋 ★4.64 ／ 設備 ★4.68 ／ 風呂 ★4.79 ／ 食事 ★4.72</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの対応が良く、食事も温泉も大満足スタッフの皆さんの対応が感じよく、チェックインからチェックアウトまでとても気持ちよく過ごすことができました。食事も温泉もお部屋も満足で非日常の空間でリフレッ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの対応が良く、食事も温泉も大満足スタッフの皆さんの対応が感じよく、チェックインからチェックアウトまでとても気持ちよく過ごすことができました。」
                   </blockquote>
                 </div>
               </div>

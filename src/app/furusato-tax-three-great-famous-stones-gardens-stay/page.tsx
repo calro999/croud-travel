@@ -420,8 +420,8 @@ export default function Page() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 直江津駅よりアクセス。JR新潟駅→佐渡汽船新潟港～佐渡両津港→車で６０分。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「小木温泉 旅館かもめ荘 ＜佐渡島＞」にチェックイン。100％源泉かけ流し天然温泉×新鮮な魚介類を堪能♪港近くの静かな住宅地に建つペンション風の平屋建て。などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「小木温泉 旅館かもめ荘 ＜佐渡島＞」の湯処へ。100％源泉かけ流し天然温泉×新鮮な魚介類を堪能♪港近くの静かな住宅地とともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「小木温泉 旅館かもめ荘 ＜佐渡島＞」にチェックイン。100％源泉かけ流し天然温泉×新鮮な魚介類を堪能♪港近くの静かな住宅地に建つペンション風の平屋建て。 窓外に広がる景色を眺めながらチェックイン後の寛ぎ時間を。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「小木温泉 旅館かもめ荘 ＜佐渡島＞」の湯船で寛ぎタイム。季節の空気を感じながら手足を伸ばし、心豊かな夕方のリラックス時間を満喫。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「小木温泉 旅館かもめ荘 ＜佐渡島＞」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -433,7 +433,7 @@ export default function Page() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「小木温泉 旅館かもめ荘 ＜佐渡島＞」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「小木温泉 旅館かもめ荘 ＜佐渡島＞」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「養老温泉 滝元館 遊季の里」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は宿周辺の散策とショッピングを満喫。地元の名産品やグルメを味わってから余裕をもって帰路につく。</li>
               </ul>
             </div>
           </div>
@@ -561,7 +561,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 小木温泉　旅館かもめ荘　＜佐渡島＞</td>
                 <td className="p-3 text-stone-600">新潟県佐渡市小木町11-7</td>
-                <td className="p-3 text-stone-600">直江津駅周辺</td>
+                <td className="p-3 text-stone-600">JR新潟駅→佐渡汽船新潟港～佐渡両津港→車で６０分。JR北陸本線直江津駅→佐渡汽船直江津港～小木港より徒歩１０分</td>
                 <td className="p-3 text-stone-600">有　２０台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★3.86（235件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,150〜</td>
@@ -570,7 +570,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 養老温泉　滝元館　遊季の里</td>
                 <td className="p-3 text-stone-600">岐阜県養老郡養老町養老公園1290-167</td>
-                <td className="p-3 text-stone-600">養老駅周辺</td>
+                <td className="p-3 text-stone-600">名神高速道路養老JCTより東海環状自動車道養老ICを降り石畑左折、養老公園東右折、養老の滝方面へ(名古屋方面）</td>
                 <td className="p-3 text-stone-600">有り　11台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.2（190件）</td>
                 <td className="p-3 font-bold text-rose-600">¥25,700〜</td>
@@ -579,7 +579,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 嵐山温泉彩四季の宿　花筏</td>
                 <td className="p-3 text-stone-600">京都府京都市西京区嵐山中尾下町57</td>
-                <td className="p-3 text-stone-600">嵯峨嵐山駅周辺</td>
+                <td className="p-3 text-stone-600">阪急嵐山駅より徒歩５分（渡月橋渡らず）、ＪＲ嵯峨嵐山駅より徒歩約１５分(渡月橋渡る)。JR京都駅３０分、阪急梅田駅５０分</td>
                 <td className="p-3 text-stone-600">有り　１０台　無料　要予約。最寄りICは大原野IC(花筏まで１５分）</td>
                 <td className="p-3 font-bold text-amber-600">★4.29（318件）</td>
                 <td className="p-3 font-bold text-rose-600">¥26,400〜</td>
@@ -608,7 +608,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有　２０台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「リーズナブルで美味しい食事に大満足!初めての佐渡島家族旅行でした。観光は大変記念になりました。宿泊した宿もリーズナブルだけどおいしい食事で大変満足しました。また来たいです。クチコミの詳細はこち…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「リーズナブルで美味しい食事に大満足!初めての佐渡島家族旅行でした。観光は大変記念になりました。宿泊した宿もリーズナブルだけどおいしい食事で大変満足しました。また来たいです。」
                   </blockquote>
                 </div>
               </div>
@@ -630,7 +630,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　11台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.27 ／ 立地 ★4.53 ／ 部屋 ★4.53 ／ 設備 ★4.13 ／ 風呂 ★4</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「景観や接客は最高だが道中の山道が難点旅館に着くまでの道のりが大変でした。狭い山道で養老の滝から降りてこられる車とのすれ違うのに四苦八苦します。帰りも時間帯を気にしたほうがいいと思います。旅…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「景観や接客は最高だが道中の山道が難点旅館に着くまでの道のりが大変でした。狭い山道で養老の滝から降りてこられる車とのすれ違うのに四苦八苦します。帰りも時間帯を気にしたほうがいいと思います。」
                   </blockquote>
                 </div>
               </div>
@@ -652,7 +652,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１０台　無料　要予約。最寄りICは大原野IC(花筏まで１５分）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.2 ／ 立地 ★4.48 ／ 部屋 ★4.2 ／ 設備 ★3.98 ／ 風呂 ★4.14 ／ 食事 ★4.59</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋風呂と食事に大満足、最高の思い出に9月11日に5名で宿泊させて頂きました。部屋も綺麗で女性陣の部屋には風呂付きで予約したのですが話を聞くとかなり良い部屋風呂だったみたく大浴場には一度も行かず部…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋風呂と食事に大満足、最高の思い出に9月11日に5名で宿泊させて頂きました。」
                   </blockquote>
                 </div>
               </div>

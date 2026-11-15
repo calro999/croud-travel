@@ -310,7 +310,7 @@ export default function AutumnBudgetNaganoCityHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. シティガーデン　ホテル信濃路</td>
                 <td className="p-3 text-stone-600">長野県長野市中御所岡田町131-4</td>
-                <td className="p-3 text-stone-600">長野駅周辺</td>
+                <td className="p-3 text-stone-600">電車：JR長野駅善光寺口より徒歩8分 車：長野ICより県庁方面 ”中御所北”信号左折所要時間約20分</td>
                 <td className="p-3 text-stone-600">平面駐車場およそ100台☆無料☆ （※準中型車以上は有料　2000円/1泊）</td>
                 <td className="p-3 font-bold text-amber-600">★4.28（682件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,700〜</td>
@@ -319,7 +319,7 @@ export default function AutumnBudgetNaganoCityHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. ＴＨＥ　ＳＡＩＨＯＫＵＫＡＮ　ＨＯＴＥＬ（長野ホテル犀北館）</td>
                 <td className="p-3 text-stone-600">長野県長野市県町528-1</td>
-                <td className="p-3 text-stone-600">長野駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ長野駅より車５分。県庁、善光寺、繁華街近く。</td>
                 <td className="p-3 text-stone-600">無料　６０台有</td>
                 <td className="p-3 font-bold text-amber-600">★4.19（2983件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,120〜</td>
@@ -328,7 +328,7 @@ export default function AutumnBudgetNaganoCityHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 天然温泉ホテルリブマックスＰＲＥＭＩＵＭ長野駅前</td>
                 <td className="p-3 text-stone-600">長野県長野市大字栗田2145</td>
-                <td className="p-3 text-stone-600">長野駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ信越線／北陸新幹線 長野駅より徒歩にて約３分</td>
                 <td className="p-3 text-stone-600">無し</td>
                 <td className="p-3 font-bold text-amber-600">★4.07（234件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,400〜</td>
@@ -337,7 +337,7 @@ export default function AutumnBudgetNaganoCityHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. ホテルナガノアベニュー</td>
                 <td className="p-3 text-stone-600">長野県長野市南千歳2-8-5</td>
-                <td className="p-3 text-stone-600">長野駅周辺</td>
+                <td className="p-3 text-stone-600">JR長野駅（善光寺口）を出て駅を背にして長野大通りを右（北上）へまっすぐ徒歩7～8分◆上信越自動車道長野ICより３０分</td>
                 <td className="p-3 text-stone-600">ホテルより徒歩4分TOiGOパーキング入庫より24時間出し入れなし800円（高さ制限2.1M）</td>
                 <td className="p-3 font-bold text-amber-600">★4.2（3766件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,700〜</td>
@@ -346,7 +346,7 @@ export default function AutumnBudgetNaganoCityHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. ホテルＪＡＬシティ長野</td>
                 <td className="p-3 text-stone-600">長野県長野市問御所町1221</td>
-                <td className="p-3 text-stone-600">長野駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ長野駅（善光寺口）より徒歩７分。</td>
                 <td className="p-3 text-stone-600">隣接駐車場は先着順（45台収容可　税込1,000円/泊） ※満車の場合は契約駐車場をご案内します。</td>
                 <td className="p-3 font-bold text-amber-600">★4.28（5814件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,075〜</td>
@@ -397,7 +397,7 @@ export default function AutumnBudgetNaganoCityHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料　６０台有</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの対応と朝食に大満足フロントスタッフ、食事会場のスタッフ、とても対応が素晴らしく、老舗ホテルそのものでした。お部屋も清掃が行き届いており、居心地よく過ごせました。朝食も1つ1つがとても…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの対応と朝食に大満足フロントスタッフ、食事会場のスタッフ、とても対応が素晴らしく、老舗ホテルそのものでした。お部屋も清掃が行き届いており、居心地よく過ごせました。」
                   </blockquote>
                 </div>
               </div>
@@ -463,7 +463,7 @@ export default function AutumnBudgetNaganoCityHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>隣接駐車場は先着順（45台収容可　税込1,000円/泊） ※満車の場合は契約駐車場をご案内します。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「初めて利用しました。長野は、3回目ですが今回は、1人旅でした。こちらのホテルには、初めて泊まりましたが、眺望は、期待通りで良かったです。善光寺、長野県立美術館、軽井沢にも電車で行きました。無料のド…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「初めて利用しました。長野は、3回目ですが今回は、1人旅でした。こちらのホテルには、初めて泊まりましたが、眺望は、期待通りで良かったです。善光寺、長野県立美術館、軽井沢にも電車で行きました。」
                   </blockquote>
                 </div>
               </div>

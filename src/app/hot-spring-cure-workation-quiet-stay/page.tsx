@@ -253,7 +253,7 @@ export default function WellnessRetreatHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. トロトロ美肌湯と朝ごはんの宿　入船荘（メルヘン村・忍者村提携旅館）（旧：「心ほぐす宿」入船荘）</td>
                 <td className="p-3 text-stone-600">佐賀県嬉野市嬉野町下宿乙2330</td>
-                <td className="p-3 text-stone-600">武雄温泉駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ武雄温泉駅よりバスで嬉野温泉まで３０分</td>
                 <td className="p-3 text-stone-600">有り　８０台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.01（980件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,810〜</td>
@@ -262,7 +262,7 @@ export default function WellnessRetreatHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 中町にあるホテル　池田屋</td>
                 <td className="p-3 text-stone-600">長野県松本市中央3-4-6</td>
-                <td className="p-3 text-stone-600">松本駅周辺</td>
+                <td className="p-3 text-stone-600">●松本駅【お城口】徒歩12分●松本情緒溢れる「蔵の町中町」の女鳥羽川沿い8階建●松本城（徒歩5分）、芸術館、美術館至近</td>
                 <td className="p-3 text-stone-600">１台500円(込)／泊　●入出庫可●高さ制限無※大型車・バイクは駐車不可</td>
                 <td className="p-3 font-bold text-amber-600">★3.58（893件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,950〜</td>
@@ -271,7 +271,7 @@ export default function WellnessRetreatHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 山代温泉　吉田屋　山王閣</td>
                 <td className="p-3 text-stone-600">石川県加賀市山代温泉13-1</td>
-                <td className="p-3 text-stone-600">加賀温泉駅周辺</td>
+                <td className="p-3 text-stone-600">北陸自動車道加賀ＩＣ（関西・中京方面の方）または片山津ＩＣ（金沢方面の方）。JR加賀温泉駅より無料送迎有、要予約。</td>
                 <td className="p-3 text-stone-600">無料駐車場有あり。バイク向け屋根付きスペースも有あり。</td>
                 <td className="p-3 font-bold text-amber-600">★4.5（2200件）</td>
                 <td className="p-3 font-bold text-rose-600">¥11,000〜</td>
@@ -280,7 +280,7 @@ export default function WellnessRetreatHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. ほったらかしの宿　ゆうふり伊豆高原</td>
                 <td className="p-3 text-stone-600">静岡県伊東市富戸1317-2132</td>
-                <td className="p-3 text-stone-600">伊豆高原駅周辺</td>
+                <td className="p-3 text-stone-600">伊豆急行線 伊豆高原駅／国道１３５号線より遠笠山道路経由シャボテン公園方面へ</td>
                 <td className="p-3 text-stone-600">有　80台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.11（917件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,591〜</td>
@@ -289,7 +289,7 @@ export default function WellnessRetreatHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 綾ニセコ</td>
                 <td className="p-3 text-stone-600">北海道虻田郡倶知安町ニセコひらふ1条4丁目4番5号</td>
-                <td className="p-3 text-stone-600">倶知安駅周辺</td>
+                <td className="p-3 text-stone-600">倶知安駅よりお車にて約１５分</td>
                 <td className="p-3 text-stone-600">有り　約25台　無料　(先着順）</td>
                 <td className="p-3 font-bold text-amber-600">★4.67（52件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,450〜</td>
@@ -298,7 +298,7 @@ export default function WellnessRetreatHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">6. 箱根リトリート　ｖｉｌｌａ　１／ｆ</td>
                 <td className="p-3 text-stone-600">神奈川県足柄下郡箱根町仙石原1286-116</td>
-                <td className="p-3 text-stone-600">小田原駅周辺</td>
+                <td className="p-3 text-stone-600">小田原駅から、 バスで約４０分、 「俵石・ガラスの森」バス停下車、徒歩約５分</td>
                 <td className="p-3 text-stone-600">有り　４５台　宿泊のお客様ならびにお食事をご利用のお客様は無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">高評価</td>
                 <td className="p-3 font-bold text-rose-600">¥38,426〜</td>
@@ -327,7 +327,7 @@ export default function WellnessRetreatHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　８０台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「従業員の方の接客が良かったです、大変ゆっくり過ごせました。温泉の質が素晴らしく、トロトロで肌がすべすべになります。設備は確かに最新ではありませんが、予約した2部屋とも和洋室で広々して快適に過ごせました…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「従業員の方の接客が良かったです、大変ゆっくり過ごせました。温泉の質が素晴らしく、トロトロで肌がすべすべになります。」
                   </blockquote>
                 </div>
               </div>
@@ -349,7 +349,7 @@ export default function WellnessRetreatHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>１台500円(込)／泊　●入出庫可●高さ制限無※大型車・バイクは駐車不可</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「立地や朝食の案内不足が少し残念コンビニが遠く、角にあるのと修繕中のため白いネットで覆われておりわかりませんでした。そこまで説明していただきたいです。朝ごはんの対応も何時までと記載してくださ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「立地や朝食の案内不足が少し残念コンビニが遠く、角にあるのと修繕中のため白いネットで覆われておりわかりませんでした。そこまで説明していただきたいです。」
                   </blockquote>
                 </div>
               </div>

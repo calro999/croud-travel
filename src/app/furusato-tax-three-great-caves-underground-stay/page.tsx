@@ -338,7 +338,7 @@ export default function FurusatoUpgradedPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 札幌グランドホテル</td>
                 <td className="p-3 text-stone-600">北海道札幌市中央区北1条西4丁目</td>
-                <td className="p-3 text-stone-600">札幌</td>
+                <td className="p-3 text-stone-600">★地下歩行空間8番出口横にてホテル直結★JR札幌駅南口より徒歩10分、地下鉄大通駅より徒歩5分</td>
                 <td className="p-3 text-stone-600">立体/屋外180台、立体：1泊2500円/台(先着順)、屋外：1泊3500円/台</td>
                 <td className="p-3 font-bold text-amber-600">★4.45（6671件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,780〜</td>
@@ -347,7 +347,7 @@ export default function FurusatoUpgradedPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. グリーンヒルホテル尾道</td>
                 <td className="p-3 text-stone-600">広島県尾道市東御所町9-1</td>
-                <td className="p-3 text-stone-600">尾道</td>
+                <td className="p-3 text-stone-600">山陽本線尾道駅駅前 山陽新幹線新尾道駅より車で７分 山陽自動車道福山西・尾道ＩＣより約２０分</td>
                 <td className="p-3 text-stone-600">専用駐車場無し。駅前港湾駐車場 2000円/1日 1000円の割引券あり。＊満車の場合有</td>
                 <td className="p-3 font-bold text-amber-600">★4.4（1503件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,486〜</td>
@@ -365,7 +365,7 @@ export default function FurusatoUpgradedPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 熱海温泉　月の栖　熱海聚楽ホテル</td>
                 <td className="p-3 text-stone-600">静岡県熱海市田原本町2-19</td>
-                <td className="p-3 text-stone-600">熱海</td>
+                <td className="p-3 text-stone-600">ＪＲ東海道線「熱海駅」～仲見世通り商店街を抜けて徒歩３分。高台に建つ和風旅館。海と街の景色が人気。露天風呂付客室3室有り</td>
                 <td className="p-3 text-stone-600">有り（有料）１泊　1760円（税込）　お車は当館の玄関前に直接お寄せください。</td>
                 <td className="p-3 font-bold text-amber-600">★4.4（2598件）</td>
                 <td className="p-3 font-bold text-rose-600">¥17,600〜</td>

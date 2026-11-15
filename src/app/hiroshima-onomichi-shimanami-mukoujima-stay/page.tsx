@@ -253,7 +253,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 町家旅館　航　ＨＯＴＥＬ　ｗａｔａｒｉ</td>
                 <td className="p-3 text-stone-600">広島県尾道市久保3-11-11-2</td>
-                <td className="p-3 text-stone-600">尾道駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ『尾道』駅から徒歩約２３分 、『福山西ＩＣ』から車で約１５分</td>
                 <td className="p-3 text-stone-600">有り　１台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">高評価</td>
                 <td className="p-3 font-bold text-rose-600">¥10,426〜</td>
@@ -262,7 +262,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 鞆の浦温泉　ホテル鴎風亭</td>
                 <td className="p-3 text-stone-600">広島県福山市鞆町鞆136</td>
-                <td className="p-3 text-stone-600">福山駅周辺</td>
+                <td className="p-3 text-stone-600">福山駅南口～予約制シャトルバス1日3便12：00／14：45／16：15 福山東IC・福山西IC共に車で30分</td>
                 <td className="p-3 text-stone-600">有り　５０台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.52（868件）</td>
                 <td className="p-3 font-bold text-rose-600">¥22,000〜</td>
@@ -271,7 +271,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 鞆の浦温泉　景勝館　漣亭</td>
                 <td className="p-3 text-stone-600">広島県福山市鞆町鞆421</td>
-                <td className="p-3 text-stone-600">福山駅周辺</td>
+                <td className="p-3 text-stone-600">福山駅～予約制シャトルバス1日3便12：00／14：45／16：15 福山東IC・福山西IC共に車で30分</td>
                 <td className="p-3 text-stone-600">無料。 敷地内にはございません。約400ｍ離れた場所にございます。スタッフでご移動かご誘導します。</td>
                 <td className="p-3 font-bold text-amber-600">★4.15（954件）</td>
                 <td className="p-3 font-bold text-rose-600">¥16,500〜</td>
@@ -280,7 +280,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 尾道やすらぎの宿　しーそー</td>
                 <td className="p-3 text-stone-600">広島県尾道市向島町84-2</td>
-                <td className="p-3 text-stone-600"></td>
+                <td className="p-3 text-stone-600">広島県尾道市向島町84-2 ／ 交通案内：</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.75（91件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,400〜</td>
@@ -289,7 +289,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 尾道第一ホテル</td>
                 <td className="p-3 text-stone-600">広島県尾道市西御所町4-7</td>
-                <td className="p-3 text-stone-600">尾道駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ尾道駅より徒歩３分、新尾道駅より車で７分。</td>
                 <td className="p-3 text-stone-600">無料駐車場有り　３０台。　※トラックや大型バスなどは有料。（要事前相談）</td>
                 <td className="p-3 font-bold text-amber-600">★3.73（901件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,963〜</td>
@@ -298,7 +298,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">6. グリーンヒルホテル尾道</td>
                 <td className="p-3 text-stone-600">広島県尾道市東御所町9-1</td>
-                <td className="p-3 text-stone-600">尾道駅周辺</td>
+                <td className="p-3 text-stone-600">山陽本線尾道駅駅前 山陽新幹線新尾道駅より車で７分 山陽自動車道福山西・尾道ＩＣより約２０分</td>
                 <td className="p-3 text-stone-600">専用駐車場無し。駅前港湾駐車場 2000円/1日 1000円の割引券あり。＊満車の場合有</td>
                 <td className="p-3 font-bold text-amber-600">★4.4（1503件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,486〜</td>
@@ -349,7 +349,7 @@ export default function MicroTouristHubPage() {
                   <p>【広島・尾道＆しまなみ海道向島：千光寺坂の街・猫の細道】 <strong>【駐車場・マイカー利用】</strong>有り　５０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ロケーションと料理が最高、清掃も完璧こちらの旅館が1番の楽しみで来ました。まず、クチコミ通りロケーションが素晴らしくお料理も大変美味しかったです。フロントさんの接客も丁寧でおはようございますや…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ロケーションと料理が最高、清掃も完璧こちらの旅館が1番の楽しみで来ました。まず、クチコミ通りロケーションが素晴らしくお料理も大変美味しかったです。」
                   </blockquote>
                 </div>
               </div>

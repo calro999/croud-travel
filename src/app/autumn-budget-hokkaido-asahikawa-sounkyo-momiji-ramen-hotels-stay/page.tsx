@@ -310,7 +310,7 @@ export default function AutumnBudgetAsahikawaHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 天然温泉プレミアホテル―ＣＡＢＩＮ―旭川</td>
                 <td className="p-3 text-stone-600">北海道旭川市1条通7丁目</td>
-                <td className="p-3 text-stone-600">旭川駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ旭川駅『北口(西側)』より徒歩３分</td>
                 <td className="p-3 text-stone-600">先着順800円~1,100円車種により異なります。満車時とワゴン、バイクは徒歩圏内の提携先へご案内。</td>
                 <td className="p-3 font-bold text-amber-600">★4.2（5338件）</td>
                 <td className="p-3 font-bold text-rose-600">¥2,592〜</td>
@@ -319,7 +319,7 @@ export default function AutumnBudgetAsahikawaHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. ＫＯＫＯ　ＨＯＴＥＬ　旭川駅前</td>
                 <td className="p-3 text-stone-600">北海道旭川市宮下通7-3112</td>
-                <td className="p-3 text-stone-600">旭川駅周辺</td>
+                <td className="p-3 text-stone-600">旭川駅より徒歩にて約2分</td>
                 <td className="p-3 text-stone-600">契約駐車場（イオンモール旭川駅前）1泊1000円。出庫毎に料金がかかります。フロントにてご精算下さい</td>
                 <td className="p-3 font-bold text-amber-600">★4.17（1630件）</td>
                 <td className="p-3 font-bold text-rose-600">¥2,805〜</td>
@@ -328,7 +328,7 @@ export default function AutumnBudgetAsahikawaHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. ホテルアマネク旭川</td>
                 <td className="p-3 text-stone-600">北海道旭川市1条通8丁目218</td>
-                <td className="p-3 text-stone-600">旭川駅周辺</td>
+                <td className="p-3 text-stone-600">JR旭川駅徒歩3分</td>
                 <td className="p-3 text-stone-600">提携のD-Parkingが３Fホテルロビーと直結。普通車24時間迄1000円</td>
                 <td className="p-3 font-bold text-amber-600">★4.27（1005件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,033〜</td>
@@ -337,7 +337,7 @@ export default function AutumnBudgetAsahikawaHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. ホテルクレッセント旭川</td>
                 <td className="p-3 text-stone-600">北海道旭川市５条８丁目緑橋通</td>
-                <td className="p-3 text-stone-600">旭川駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ函館本線旭川駅より徒歩約１２分。道央道旭川鷹栖ＩＣから車で１５分。旭川空港からのバス停留所も徒歩２分にございます。</td>
                 <td className="p-3 text-stone-600">有り １２台 ８００円／他契約駐車場有り ８００円　※バス、トラックなどの大型車両は停められません。</td>
                 <td className="p-3 font-bold text-amber-600">★4.04（1732件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,100〜</td>
@@ -346,7 +346,7 @@ export default function AutumnBudgetAsahikawaHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. ワイズホテル　旭川駅前</td>
                 <td className="p-3 text-stone-600">北海道旭川市宮下通9-2-17</td>
-                <td className="p-3 text-stone-600">旭川駅周辺</td>
+                <td className="p-3 text-stone-600">JR旭川駅隣接、旭山動物園や旭川空港行が発着するバス停はホテル目の前の好立地♪</td>
                 <td className="p-3 text-stone-600">有料駐車場有 ホテル裏（タイムズツルハビル旭川駅前）１泊１２００円　マップコード「79343232」</td>
                 <td className="p-3 font-bold text-amber-600">★4.3（1426件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,900〜</td>
@@ -419,7 +419,7 @@ export default function AutumnBudgetAsahikawaHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>提携のD-Parkingが３Fホテルロビーと直結。普通車24時間迄1000円</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.22 ／ 立地 ★4.35 ／ 部屋 ★4.31 ／ 設備 ★4.26 ／ 風呂 ★4.17 ／ 食事 ★4.33</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食会場の接客に驚き、部屋は狭め驚いたのが、朝食会場に入る時の受付の子。エレベーター降りてまっすぐにお客様から見える位置に立っていましたが、平気でリップを塗っていましたwwwその後もスマホ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食会場の接客に驚き、部屋は狭め驚いたのが、朝食会場に入る時の受付の子。」
                   </blockquote>
                 </div>
               </div>
@@ -441,7 +441,7 @@ export default function AutumnBudgetAsahikawaHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り １２台 ８００円／他契約駐車場有り ８００円　※バス、トラックなどの大型車両は停められません。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.08 ／ 立地 ★4 ／ 部屋 ★3.99 ／ 設備 ★3.87 ／ 風呂 ★3.81 ／ 食事 ★4.26</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ざんねん...フロントの方はとても親切丁寧な対応をしてくださり感謝しています。ただ部屋の状態が良くありませんでした。リニューアルした部屋を選択したので見た目は良かったのですが、パッと見でわ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ざんねん...フロントの方はとても親切丁寧な対応をしてくださり感謝しています。ただ部屋の状態が良くありませんでした。」
                   </blockquote>
                 </div>
               </div>
@@ -463,7 +463,7 @@ export default function AutumnBudgetAsahikawaHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有料駐車場有 ホテル裏（タイムズツルハビル旭川駅前）１泊１２００円　マップコード「79343232」</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.3 ／ 立地 ★4.39 ／ 部屋 ★4.34 ／ 設備 ★4.28 ／ 風呂 ★4.27 ／ 食事 ★4.26</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「立地が良く朝食の海鮮丼に大満足朝食付きツインルームを予約した。窓からは駅前ターミナルが見え、イオンが真向かいで便利な立地だった。狭すぎないツインルームである事、ある程度のレベルの朝食が出る事が条件…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「立地が良く朝食の海鮮丼に大満足朝食付きツインルームを予約した。窓からは駅前ターミナルが見え、イオンが真向かいで便利な立地だった。」
                   </blockquote>
                 </div>
               </div>

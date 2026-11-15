@@ -253,7 +253,7 @@ export default function RailwayActivityHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. ホテル琵琶レイクオーツカ</td>
                 <td className="p-3 text-stone-600">滋賀県大津市南小松1054-3</td>
-                <td className="p-3 text-stone-600">近江舞子駅周辺</td>
+                <td className="p-3 text-stone-600">JR近江舞子駅より徒歩５分 京都東ＩC経由、志賀バイパス近江舞子ランプ5分</td>
                 <td className="p-3 text-stone-600">有り　３５台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.56（205件）</td>
                 <td className="p-3 font-bold text-rose-600">¥12,650〜</td>
@@ -262,7 +262,7 @@ export default function RailwayActivityHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 蔵王温泉　堺屋森のホテルヴァルトベルク</td>
                 <td className="p-3 text-stone-600">山形県山形市蔵王温泉清水坂889-1</td>
-                <td className="p-3 text-stone-600">山形駅周辺</td>
+                <td className="p-3 text-stone-600">山形駅よりバスで蔵王温泉行終点まで約40分。下車徒歩15分／バスターミナル送迎有り（要予約）</td>
                 <td className="p-3 text-stone-600">有り　５０台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.38（904件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,250〜</td>
@@ -271,7 +271,7 @@ export default function RailwayActivityHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 竜王マウンテンホテル</td>
                 <td className="p-3 text-stone-600">長野県下高井郡山ノ内町大字夜間瀬字戸ヶ崎11700-243</td>
-                <td className="p-3 text-stone-600">湯田中駅周辺</td>
+                <td className="p-3 text-stone-600">長野電鉄湯田中駅からタクシーにて約15分/上信越自動車道・中野ICより中野有料道路経由にて約20分</td>
                 <td className="p-3 text-stone-600">冬季シーズンはゲレンデ内となる為、竜王スキーパークの駐車場をご利用ください。</td>
                 <td className="p-3 font-bold text-amber-600">★3（18件）</td>
                 <td className="p-3 font-bold text-rose-600">プラン参照</td>
@@ -280,7 +280,7 @@ export default function RailwayActivityHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 信州湯田中温泉　ホテルゆだなか　～大浴場「吉の湯」～</td>
                 <td className="p-3 text-stone-600">長野県下高井郡山ノ内町平穏3246-2　湯田中温泉</td>
-                <td className="p-3 text-stone-600">湯田中駅周辺</td>
+                <td className="p-3 text-stone-600">長野電鉄 湯田中駅から車で１分、徒歩で３分『ホテルゆだなか』ソラテラスやスノーモンキーアクセス抜群</td>
                 <td className="p-3 text-stone-600">有り　６０台　無料　コンビニまで徒歩5分　 湯田中駅徒歩3分</td>
                 <td className="p-3 font-bold text-amber-600">★3.71（281件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,380〜</td>
@@ -289,7 +289,7 @@ export default function RailwayActivityHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 湯田中温泉　一茶のこみち　美湯の宿</td>
                 <td className="p-3 text-stone-600">長野県下高井郡山ノ内町平穏2951-1　湯田中温泉</td>
-                <td className="p-3 text-stone-600">湯田中駅周辺</td>
+                <td className="p-3 text-stone-600">旧ロマンスカー走る長野電鉄の湯田中駅より徒歩７分／北陸自動車道 信州中野I.C.より志賀高原方面へ向かって約２０分。</td>
                 <td className="p-3 text-stone-600">旅館前にあり事前予約は必要ございません。バイクの駐車も可能。</td>
                 <td className="p-3 font-bold text-amber-600">★4.19（419件）</td>
                 <td className="p-3 font-bold text-rose-600">¥16,900〜</td>
@@ -298,7 +298,7 @@ export default function RailwayActivityHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">6. 信州・湯田中温泉　清風荘</td>
                 <td className="p-3 text-stone-600">長野県下高井郡山ノ内町平穏3268</td>
-                <td className="p-3 text-stone-600">湯田中駅周辺</td>
+                <td className="p-3 text-stone-600">長野電鉄 湯田中駅より徒歩２分／上信越自動車道 信州中野ＩＣよりＲ２９２経由で１５分。</td>
                 <td className="p-3 text-stone-600">有り 10台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.43（107件）</td>
                 <td className="p-3 font-bold text-rose-600">¥11,000〜</td>
@@ -327,7 +327,7 @@ export default function RailwayActivityHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　３５台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋と食事に満足、目の前の海で海水浴を満喫部屋も食事も満足でした。ホテルの目の前ですぐ泳げるのも最高。日の出時間を教えてもらって早起きしたのに雲で見えなかったのは残念でした。クチコミの詳細はこ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋と食事に満足、目の前の海で海水浴を満喫部屋も食事も満足でした。ホテルの目の前ですぐ泳げるのも最高。日の出時間を教えてもらって早起きしたのに雲で見えなかったのは残念でした。」
                   </blockquote>
                 </div>
               </div>
@@ -349,7 +349,7 @@ export default function RailwayActivityHubPage() {
                   <p>【絶景ロープウェイ＆山頂テラス宿：びわ湖バレイ・蔵王・】 <strong>【駐車場・マイカー利用】</strong>有り　５０台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「リピートしているが今回は少し残念な内容蔵王ではお気に入りのホテルで何度かリピートしております。今回は野天風呂が利用出来ず残念でした。料理もいつもに比べるとお米の味が落ちたように感じました。…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「リピートしているが今回は少し残念な内容蔵王ではお気に入りのホテルで何度かリピートしております。今回は野天風呂が利用出来ず残念でした。料理もいつもに比べるとお米の味が落ちたように感じました。」
                   </blockquote>
                 </div>
               </div>

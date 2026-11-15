@@ -342,7 +342,7 @@ export default function HakodateBudgetAutumnPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. ホテルエノエ函館</td>
                 <td className="p-3 text-stone-600">北海道函館市宝来町22-15</td>
-                <td className="p-3 text-stone-600">宝来町駅周辺</td>
+                <td className="p-3 text-stone-600">函館市電『宝来町』徒歩約3分・『十字街』徒歩約5分、JR函館駅より車で約5分、函館空港よりバスにて約40分</td>
                 <td className="p-3 text-stone-600">有り：44台￥1,000-（税込み／泊）　先着順となり予約は不可となります。</td>
                 <td className="p-3 font-bold text-amber-600">★4.45（660件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,230〜</td>
@@ -351,7 +351,7 @@ export default function HakodateBudgetAutumnPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. ホテルオールインステイ函館</td>
                 <td className="p-3 text-stone-600">北海道函館市若松町32-8</td>
-                <td className="p-3 text-stone-600">函館駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ 函館駅から0.7K徒歩にて約７分。函館空港より車15分、空港より函館駅までシャトルバス有り</td>
                 <td className="p-3 text-stone-600">1階が12台（先着順）他に第2、第3駐車場がございます。お車の出し入れは自由です。1泊500円/台</td>
                 <td className="p-3 font-bold text-amber-600">★4.42（219件）</td>
                 <td className="p-3 font-bold text-rose-600">¥2,500〜</td>
@@ -369,7 +369,7 @@ export default function HakodateBudgetAutumnPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 函館大沼プリンスホテル</td>
                 <td className="p-3 text-stone-600">北海道亀田郡七飯町西大沼温泉</td>
-                <td className="p-3 text-stone-600">函館空港駅周辺</td>
+                <td className="p-3 text-stone-600">函館空港から車で約31分／新函館北斗駅から車で約17分／大沼公園駅から定期無料送迎バス運行/屋外無料駐車場完備</td>
                 <td className="p-3 text-stone-600">有り　２３０台　先着順　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.16（1152件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,354〜</td>
@@ -378,7 +378,7 @@ export default function HakodateBudgetAutumnPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. イマジンホテル＆リゾート函館</td>
                 <td className="p-3 text-stone-600">北海道函館市湯川町3-1-17</td>
-                <td className="p-3 text-stone-600">函館駅周辺</td>
+                <td className="p-3 text-stone-600">『函館空港』からお車にて約6分/『函館駅』よりお車にて約12分/バス停『熱帯植物園前』から徒歩約3分</td>
                 <td className="p-3 text-stone-600">有り　無料　約90台　湯の川最大級青空平面</td>
                 <td className="p-3 font-bold text-amber-600">★4.44（2336件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,259〜</td>
@@ -407,7 +407,7 @@ export default function HakodateBudgetAutumnPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り：44台￥1,000-（税込み／泊）　先着順となり予約は不可となります。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.45 ／ 立地 ★4.34 ／ 部屋 ★4.48 ／ 設備 ★4.35 ／ 風呂 ★4.17</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「広い部屋と日の出、海鮮丼に大満足!お部屋が広く、ゆったりと過ごすことができました。部屋の窓からは日の出が見え、とてもいい思い出になりました。朝食は自分で海鮮丼を作り、イカ飯や五島軒のカレーなど…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「広い部屋と日の出、海鮮丼に大満足!お部屋が広く、ゆったりと過ごすことができました。部屋の窓からは日の出が見え、とてもいい思い出になりました。」
                   </blockquote>
                 </div>
               </div>
@@ -451,7 +451,7 @@ export default function HakodateBudgetAutumnPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>1泊 800円（立体駐車場14台・先着順）事前予約不可　近隣に有料駐車場あり</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.33 ／ 立地 ★4.32 ／ 部屋 ★4.4 ／ 設備 ★4.31 ／ 風呂 ★4.26 ／ 食事 ★4.34</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ビジネスマン向け安パイホテル立地が良くビジネスマンにとって必要十分な設備がある安定したホテルです。個人的に有線LANがあるのがありがたいです。朝食のカレーが美味しいです。クチコミの詳細…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ビジネスマン向け安パイホテル立地が良くビジネスマンにとって必要十分な設備がある安定したホテルです。個人的に有線LANがあるのがありがたいです。朝食のカレーが美味しいです。」
                   </blockquote>
                 </div>
               </div>
@@ -473,7 +473,7 @@ export default function HakodateBudgetAutumnPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２３０台　先着順　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.11 ／ 立地 ★4.23 ／ 部屋 ★4.16 ／ 設備 ★3.98 ／ 風呂 ★4.09 ／ 食事 ★4.1</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「快適なホテルライフ駒ヶ岳登山の前泊で利用。お部屋からも駒ヶ岳がみえて、テンション上がりました。プリンスのコースが久しぶりに食べたくて、こちらにしましたが、楽天さんのプランだけなのか分かりません…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「快適なホテルライフ駒ヶ岳登山の前泊で利用。お部屋からも駒ヶ岳がみえて、テンション上がりました。」
                   </blockquote>
                 </div>
               </div>
@@ -495,7 +495,7 @@ export default function HakodateBudgetAutumnPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　無料　約90台　湯の川最大級青空平面</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋のグレードアップと美味しい食事に大満足訳あり1階のプランで宿泊したのですが、空き部屋があったとのことで3階のオーシャンビューの部屋にグレードアップしてもらえました!波の音をききながら眠りにつく…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋のグレードアップと美味しい食事に大満足訳あり1階のプランで宿泊したのですが、空き部屋があったとのことで3階のオーシャンビューの部屋にグレードアップしてもらえました!」
                   </blockquote>
                 </div>
               </div>

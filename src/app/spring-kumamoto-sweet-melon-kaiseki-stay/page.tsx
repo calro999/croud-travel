@@ -60,7 +60,7 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/52882/52882map.gif",
     "reviewCount": 1575,
     "reviewAverage": 4.26,
-    "userReview": "食事とアルコール飲み放題に大満足夕・朝食バイキング、内容にも大変満足しました。夜、アルコールがフリーなのも良いですね。少し施設が古いところはしょうがない。また利用したいと思います。クチコミの詳。",
+    "userReview": "食事とアルコール飲み放題に大満足夕・朝食バイキング、内容にも大変満足しました。夜、アルコールがフリーなのも良いですね。少し施設が古いところはしょうがない。また利用したいと思います。",
     "hotelMinCharge": 12540,
     "address1": "熊本県",
     "address2": "阿蘇郡南阿蘇村下野147-10",
@@ -565,8 +565,8 @@ export default function FeatureDetailPage() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 阿蘇駅よりアクセス。肥後豊肥線 阿蘇駅より車で１５分程／肥後豊肥線 内牧駅より車で１５分程。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「阿蘇内牧温泉 御料理旅館 親和苑」にチェックイン。料理長が贈る美味しい芸術！ 源泉掛け流し 露天風呂（男女別）／貸切家族風呂／離れ露天風呂付客室ありなどの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「阿蘇内牧温泉 御料理旅館 親和苑」の湯処へ。料理長が贈る美味しい芸術！ 源泉掛け流し 露天風呂（男女別）／貸切家族とともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「阿蘇内牧温泉 御料理旅館 親和苑」にチェックイン。料理長が贈る美味しい芸術！ まずは客室で移動の疲れをそっと癒やす。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「阿蘇内牧温泉 御料理旅館 親和苑」の自慢の湯処へ。温かな湯気と落ち着いた雰囲気に癒やされながら、夕食前の贅沢なひとときを過ごす。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「阿蘇内牧温泉 御料理旅館 親和苑」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -578,7 +578,7 @@ export default function FeatureDetailPage() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「阿蘇内牧温泉 御料理旅館 親和苑」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「阿蘇内牧温泉 御料理旅館 親和苑」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「阿蘇 梅園 ＳＰＡ ＲＥＳＯＲＴ」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は「阿蘇内牧温泉 御料理旅館 親和苑」周辺の観光スポットや地元の名産店に立ち寄り、ご当地のお土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>
@@ -628,38 +628,26 @@ export default function FeatureDetailPage() {
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">あわせて読みたい人気特集＆全国エリアガイド</h2>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
-            <a href="/tokyo-osaka-bus-vs-shinkansen-guide/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/kumamoto-solo-business-skyspa-gourmet-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">東京から大阪 安く行く方法：新幹線 vs 夜行バス徹底比較！差額2万円でUSJ・道頓堀1泊2日モデルコース</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「熊本出張＆城下町ひとり旅」最上階展望スカイスパ・天然温泉・熊本城ビュー！名物馬刺しを満喫する極上宿 厳選3選</span>
             </a>
-            <a href="/tokyo-subway-ticket-24h-golden-route/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/silver-week-glamping-kyushu-fukuoka-kumamoto-guide/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">東京メトロ24時間券 活用厳選ガイド：600円で都内観光乗り倒し！元を取るコスパ最強ルート＆駅チカ宿</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「九州シルバーウィーク グランピング」 阿蘇カルデラ・糸島ビーチ・別府由布院 源泉かけ流し温泉＆九州黒毛和牛BBQステイ</span>
             </a>
-            <a href="/winter-tokyo-marunouchi-illumination-luxury-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/winter-kumamoto-amakusa-shimoda-onsen-sunset-seafood-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12月！丸の内シャンパンゴールド夜景】大手町・銀座の煌めきと極上クラブラウンジ宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12月天草・下田温泉の冬名湯と夕陽海鮮】 東シナ海サンセット露天と白鷺古湯・冬の伊勢海老＆天然車海老会席の宿5選</span>
             </a>
-            <a href="/winter-tokyo-takao-yakuoin-shrine-hatsumode-fuji-tororo-soba-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/winter-kumamoto-hitoyoshi-onsen-kumagawa-mist-wagyu-ayu-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12・1月東京】霊峰「高尾山薬王院」新春初詣と冬晴れのダイヤモンド富士！名物自然薯とろろそば＆極楽湯・八王子厳選名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12月熊本・人吉温泉郷】球磨川初冬朝霧絶景と美肌名湯 名物子持ち落ち鮎塩焼き＆極上球磨黒毛和牛・球磨焼酎会席を味わう老舗宿5選</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
             <div className="flex flex-wrap gap-2">
-              <Link
-                href="/prefectures/nagasaki/"
-                className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
-              >
-                長崎県の宿・温泉
-              </Link>
-              <Link
-                href="/prefectures/tokyo/"
-                className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
-              >
-                東京都の宿・温泉
-              </Link>
               <Link
                 href="/prefectures/kumamoto/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
@@ -667,10 +655,22 @@ export default function FeatureDetailPage() {
                 熊本県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/shimane/"
+                href="/prefectures/fukuoka/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                島根県の宿・温泉
+                福岡県の宿・温泉
+              </Link>
+              <Link
+                href="/prefectures/oita/"
+                className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
+              >
+                大分県の宿・温泉
+              </Link>
+              <Link
+                href="/prefectures/kagoshima/"
+                className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
+              >
+                鹿児島県の宿・温泉
               </Link>
             </div>
           </div>
@@ -706,7 +706,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 阿蘇内牧温泉　御料理旅館　親和苑</td>
                 <td className="p-3 text-stone-600">熊本県阿蘇市内牧1354</td>
-                <td className="p-3 text-stone-600">阿蘇駅周辺</td>
+                <td className="p-3 text-stone-600">肥後豊肥線 阿蘇駅より車で１５分程／肥後豊肥線 内牧駅より車で１５分程</td>
                 <td className="p-3 text-stone-600">有り　２０台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.52（196件）</td>
                 <td className="p-3 font-bold text-rose-600">¥23,310〜</td>
@@ -715,7 +715,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 阿蘇　梅園　ＳＰＡ　ＲＥＳＯＲＴ</td>
                 <td className="p-3 text-stone-600">熊本県阿蘇郡南阿蘇村下野147-10</td>
-                <td className="p-3 text-stone-600">赤水駅周辺</td>
+                <td className="p-3 text-stone-600">熊本インターより車で約45分・阿蘇くまもと空港より車で約45分 ※ＪＲ赤水駅よりタクシーで約３分。</td>
                 <td className="p-3 text-stone-600">有り　１００台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.26（1556件）</td>
                 <td className="p-3 font-bold text-rose-600">¥12,540〜</td>
@@ -724,7 +724,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 黒川温泉　湯峡の響き　優彩</td>
                 <td className="p-3 text-stone-600">熊本県阿蘇郡南小国町満願寺北黒川6554-1</td>
-                <td className="p-3 text-stone-600">阿蘇駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ豊肥線 阿蘇駅より別府行バスで約５０分 黒川温泉下車徒歩１０分</td>
                 <td className="p-3 text-stone-600">有　５０台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.3（2010件）</td>
                 <td className="p-3 font-bold text-rose-600">¥15,400〜</td>
@@ -733,7 +733,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 阿蘇リトリートＨＯＮＯ　ｂｙ温故知新</td>
                 <td className="p-3 text-stone-600">熊本県阿蘇郡南阿蘇村河陰5298-1</td>
-                <td className="p-3 text-stone-600">熊本空港駅周辺</td>
+                <td className="p-3 text-stone-600">熊本空港からお車で約30分、南阿蘇鉄道/長陽駅よりお車で約9分</td>
                 <td className="p-3 text-stone-600">あり 14台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">高評価</td>
                 <td className="p-3 font-bold text-rose-600">プラン参照</td>
@@ -742,7 +742,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. ＣＡＮＤＥＯ　ＨＯＴＥＬＳ（カンデオホテルズ）大津熊本空港</td>
                 <td className="p-3 text-stone-600">熊本県菊池郡大津町室736-1</td>
-                <td className="p-3 text-stone-600">肥後大津駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ豊肥本線 肥後大津駅から徒歩１５分／阿蘇くまもと空港から車で１０分</td>
                 <td className="p-3 text-stone-600">有り　１００台　無料　大型車有料　事前予約制 　※満車の場合は臨時駐車場（徒歩1分）</td>
                 <td className="p-3 font-bold text-amber-600">★4.08（1479件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,980〜</td>
@@ -771,7 +771,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２０台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.68 ／ 立地 ★4.44 ／ 部屋 ★4.61 ／ 設備 ★4.46 ／ 風呂 ★4.18 ／ 食事 ★4.78</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「本当に全てのサービスが星5つ!!家族4人2泊3日でお世話になりました。館内・お部屋共に清潔に保たれており、床材がとても素敵でした。お風呂は家族風呂が無料で入ることができ、朝・夜とも入らせて…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「本当に全てのサービスが星5つ!!家族4人2泊3日でお世話になりました。館内・お部屋共に清潔に保たれており、床材がとても素敵でした。」
                   </blockquote>
                 </div>
               </div>
@@ -793,7 +793,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１００台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ラウンジのドリンクバーと温泉の眺望が良かったチェックイン時のフロントの方がとても感じが良く、丁寧に対応してくださり好感が持てました。ロビーラウンジの椅子が座り心地良く、素敵な庭園を眺めながらゆ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ラウンジのドリンクバーと温泉の眺望が良かったチェックイン時のフロントの方がとても感じが良く、丁寧に対応してくださり好感が持てました。」
                   </blockquote>
                 </div>
               </div>
@@ -815,7 +815,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有　５０台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋も従業員のアフターフォローも不快なもの就寝前に部屋にゴキブリが出現。フロントに電話すると殺虫剤を渡され、退散された...自ら殺虫剤をかけて死滅させた後、床に殺虫剤が付着したから拭き物を…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋も従業員のアフターフォローも不快なもの就寝前に部屋にゴキブリが出現。」
                   </blockquote>
                 </div>
               </div>

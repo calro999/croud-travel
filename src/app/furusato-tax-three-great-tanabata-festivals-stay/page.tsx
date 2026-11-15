@@ -420,8 +420,8 @@ export default function Page() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 仙台駅よりアクセス。仙台駅東口より徒歩で約５分/北部名掛丁自由通路」を通り出口を出てから徒歩2分/高速バス「仙台駅前」のりばから徒歩5分。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「スーパーホテル仙台駅東口天然温泉」にチェックイン。仙台駅徒歩5分の好立地 天然温泉◆無料健康朝食とウェルカムバー◆ぐっすり眠れるホテル◆全館禁煙などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「スーパーホテル仙台駅東口天然温泉」の湯処へ。仙台駅徒歩5分の好立地 天然温泉◆無料健康朝食とウェルカムバー◆ぐっすとともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「スーパーホテル仙台駅東口天然温泉」にチェックイン。仙台駅徒歩5分の好立地 天然温泉◆無料健康朝食とウェルカムバー◆ぐっすり眠れるホテル◆全館禁煙が魅力の一軒。客室で荷物をほどいて穏やかな午後のひとときを。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「スーパーホテル仙台駅東口天然温泉」の湯船で寛ぎタイム。季節の空気を感じながら手足を伸ばし、心豊かな夕方のリラックス時間を満喫。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「スーパーホテル仙台駅東口天然温泉」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -433,7 +433,7 @@ export default function Page() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「スーパーホテル仙台駅東口天然温泉」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「スーパーホテル仙台駅東口天然温泉」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「ホテルリブマックスＢＵＤＧＥＴ平塚駅前」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は「スーパーホテル仙台駅東口天然温泉」周辺の観光スポットや地元の名産店に立ち寄り、ご当地のお土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>
@@ -561,7 +561,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. スーパーホテル仙台駅東口天然温泉</td>
                 <td className="p-3 text-stone-600">宮城県仙台市宮城野区名掛丁203-12</td>
-                <td className="p-3 text-stone-600">仙台駅周辺</td>
+                <td className="p-3 text-stone-600">仙台駅東口より徒歩で約５分/北部名掛丁自由通路」を通り出口を出てから徒歩2分/高速バス「仙台駅前」のりばから徒歩5分</td>
                 <td className="p-3 text-stone-600">無し（近隣コインパーキングをご利用ください）</td>
                 <td className="p-3 font-bold text-amber-600">★4.5（1152件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,540〜</td>
@@ -570,7 +570,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. ホテルリブマックスＢＵＤＧＥＴ平塚駅前</td>
                 <td className="p-3 text-stone-600">神奈川県平塚市明石町1-26</td>
-                <td className="p-3 text-stone-600">平塚駅周辺</td>
+                <td className="p-3 text-stone-600">JR平塚駅北口から徒歩で5分 車：新湘南バイパス～茅ヶ崎西IC～国道1号線を平塚方面へ（東京・名古屋方面同じ）</td>
                 <td className="p-3 text-stone-600">無し/周辺のコインパーキングをご利用ください。</td>
                 <td className="p-3 font-bold text-amber-600">★3.71（1413件）</td>
                 <td className="p-3 font-bold text-rose-600">¥2,763〜</td>
@@ -579,7 +579,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. アパホテル〈尾張一宮駅前〉</td>
                 <td className="p-3 text-stone-600">愛知県一宮市栄3-3-10</td>
-                <td className="p-3 text-stone-600">尾張一宮駅周辺</td>
+                <td className="p-3 text-stone-600">JR東海道本線『尾張一宮駅』・名鉄本線『名鉄一宮駅』東口より徒歩2分、名神一宮ＩＣ・東海北陸道西一宮ＩＣより車で10分</td>
                 <td className="p-3 text-stone-600">1泊600円/1台（先着順予約不可)　満車時、提携駐車場（1泊1,200円）※出し入れ不可。</td>
                 <td className="p-3 font-bold text-amber-600">★3.88（1209件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,400〜</td>
@@ -608,7 +608,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>無し（近隣コインパーキングをご利用ください）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.59 ／ 立地 ★4.44 ／ 部屋 ★4.47 ／ 設備 ★4.44 ／ 風呂 ★4.42 ／ 食事 ★4.43</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「無料の朝食が種類豊富で美味しく大満足お部屋も受付もよかったけど、一番いいなと思ったのは朝食です。朝食は無料で付いていたので、あまり期待はしていなかったんですが、焼きたてのパンやおかずも思ってた…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「無料の朝食が種類豊富で美味しく大満足お部屋も受付もよかったけど、一番いいなと思ったのは朝食です。」
                   </blockquote>
                 </div>
               </div>
@@ -630,7 +630,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>無し/周辺のコインパーキングをご利用ください。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅から近く、周りにもお店が多くて便利駅から近く、周りにもお店が多い。部屋もシンプルで、Youtubeなども見れる。仕事で泊まるのみなら良い。少し汚れがあった気がする。クチコミの詳細…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅から近く、周りにもお店が多くて便利駅から近く、周りにもお店が多い。部屋もシンプルで、Youtubeなども見れる。仕事で泊まるのみなら良い。少し汚れがあった気がする。」
                   </blockquote>
                 </div>
               </div>

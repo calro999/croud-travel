@@ -342,7 +342,7 @@ export default function KorankeiAutumnPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. しあわせ隠れ里　猿投温泉　癒しの宿　金泉閣</td>
                 <td className="p-3 text-stone-600">愛知県豊田市加納町馬道通21</td>
-                <td className="p-3 text-stone-600">保見駅周辺</td>
+                <td className="p-3 text-stone-600">東名高速、名古屋ICから車で30分。猿投グリーンロード加納IC下車。</td>
                 <td className="p-3 text-stone-600">有り　200台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.59（257件）</td>
                 <td className="p-3 font-bold text-rose-600">¥17,600〜</td>
@@ -351,7 +351,7 @@ export default function KorankeiAutumnPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. せせらぎの宿　木もれ日</td>
                 <td className="p-3 text-stone-600">愛知県豊田市和合町羽左之窪30</td>
-                <td className="p-3 text-stone-600">豊田市駅周辺</td>
+                <td className="p-3 text-stone-600">お車で新東名高速道路 新城I.Cより約１時間。岡崎東I.Cより約４５分</td>
                 <td className="p-3 text-stone-600">有り　4台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★5（7件）</td>
                 <td className="p-3 font-bold text-rose-600">¥9,350〜</td>
@@ -360,7 +360,7 @@ export default function KorankeiAutumnPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 川澄屋　茶房宿</td>
                 <td className="p-3 text-stone-600">愛知県豊田市下川口町水汲218</td>
-                <td className="p-3 text-stone-600">猿投駅周辺</td>
+                <td className="p-3 text-stone-600">豊田市駅より（おいでんバス）小渡（おど）行き乗車（加茂橋下駅）下車徒歩1分(東海環状自動車道、豊田藤岡インターから15分</td>
                 <td className="p-3 text-stone-600">有り　１５台　無料　先着順　大型可 予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.64（303件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,450〜</td>
@@ -369,7 +369,7 @@ export default function KorankeiAutumnPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 名鉄トヨタホテル</td>
                 <td className="p-3 text-stone-600">愛知県豊田市喜多町1-140</td>
-                <td className="p-3 text-stone-600">豊田市駅周辺</td>
+                <td className="p-3 text-stone-600">名鉄 豊田市駅から徒歩１分</td>
                 <td className="p-3 text-stone-600">有り　５００台　無料(市営提携駐車場『フリーパーキング』）</td>
                 <td className="p-3 font-bold text-amber-600">★4.25（753件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,637〜</td>
@@ -378,7 +378,7 @@ export default function KorankeiAutumnPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. ホテルルートイン豊田陣中</td>
                 <td className="p-3 text-stone-600">愛知県豊田市陣中町2-18-13</td>
-                <td className="p-3 text-stone-600">豊田市駅周辺</td>
+                <td className="p-3 text-stone-600">名鉄三河線 梅平駅より徒歩約１０分／名鉄三河線 豊田市駅より徒歩約２０分</td>
                 <td className="p-3 text-stone-600">有り　７８台　無料　予約不要　中型車・大型車受入不可</td>
                 <td className="p-3 font-bold text-amber-600">★4.2（684件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,800〜</td>
@@ -451,7 +451,7 @@ export default function KorankeiAutumnPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１５台　無料　先着順　大型可 予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.75 ／ 立地 ★4.54 ／ 部屋 ★4.5 ／ 設備 ★4.33 ／ 風呂 ★4.39 ／ 食事 ★4.87</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「暖かさの残る宿ジブリパークの前泊で利用しました。ご家族(夫婦)で経営されているようです。リーズナブルな価格設定でしたが、ご飯も非常に美味しく、たくさんいただきました。少しジブリパークか…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「暖かさの残る宿ジブリパークの前泊で利用しました。ご家族(夫婦)で経営されているようです。リーズナブルな価格設定でしたが、ご飯も非常に美味しく、たくさんいただきました。」
                   </blockquote>
                 </div>
               </div>
@@ -473,7 +473,7 @@ export default function KorankeiAutumnPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　５００台　無料(市営提携駐車場『フリーパーキング』）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近で快適な部屋、コーヒーの備品が惜しい豊田駅までは傘いらずで行けるホテルの立地が良い。部屋も非常に清掃されており快適に過ごせました。ただ、部屋にコーヒードリップ機械があるものの、コーヒードリップ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近で快適な部屋、コーヒーの備品が惜しい豊田駅までは傘いらずで行けるホテルの立地が良い。部屋も非常に清掃されており快適に過ごせました。」
                   </blockquote>
                 </div>
               </div>
@@ -495,7 +495,7 @@ export default function KorankeiAutumnPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　７８台　無料　予約不要　中型車・大型車受入不可</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.33 ／ 立地 ★4.06 ／ 部屋 ★4.17 ／ 設備 ★4.14 ／ 風呂 ★4.24 ／ 食事 ★4.25</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「大浴場と朝食に満足、部屋の配置も快適大浴場のあるホテルを探していたので 良かったです朝食バイキングも充実していました3人で宿泊しシングルを3部屋にしました隣り合わせと向い合わせの3…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「大浴場と朝食に満足、部屋の配置も快適大浴場のあるホテルを探していたので 良かったです朝食バイキングも充実していました3人で宿泊しシングルを3部屋にしました隣り合わせと向い合わせの3。」
                   </blockquote>
                 </div>
               </div>

@@ -253,7 +253,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 伊勢シティホテル</td>
                 <td className="p-3 text-stone-600">三重県伊勢市吹上1-11-31</td>
-                <td className="p-3 text-stone-600">伊勢市駅周辺</td>
+                <td className="p-3 text-stone-600">■近鉄「伊勢市駅」徒歩3分、「宇治山田駅」徒歩5分※JRでお越しの方は近鉄改札口をご利用下さい ■「伊勢西IC」8分</td>
                 <td className="p-3 text-stone-600">35台（無料、先着順、予約不可）※チェックアウト後の駐車不可</td>
                 <td className="p-3 font-bold text-amber-600">★3.61（3078件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,650〜</td>
@@ -262,7 +262,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. ホテルキャッスルイン伊勢夫婦岩（旧：ホテルリゾートイン二見）</td>
                 <td className="p-3 text-stone-600">三重県伊勢市二見町茶屋537-20</td>
-                <td className="p-3 text-stone-600">二見浦駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ参宮線 二見浦駅より徒歩10分／伊勢市駅より無料送迎あり(要予約)／伊勢神宮(内宮)よりお車で15分</td>
                 <td className="p-3 text-stone-600">有り　無料の自走式平面駐車場80台</td>
                 <td className="p-3 font-bold text-amber-600">★3.92（2293件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,400〜</td>
@@ -271,7 +271,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. ホテルキャッスルイン伊勢</td>
                 <td className="p-3 text-stone-600">三重県伊勢市神久3-5-55</td>
-                <td className="p-3 text-stone-600">宇治山田駅周辺</td>
+                <td className="p-3 text-stone-600">伊勢自動車道 伊勢西I・Cから車で9分 無料平面駐車場140台 伊勢市駅より無料送迎あり（要予約）</td>
                 <td className="p-3 text-stone-600">有り　120台　無料　大型の場合、お電話で問い合わせ下さい</td>
                 <td className="p-3 font-bold text-amber-600">★3.75（2925件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,704〜</td>
@@ -280,7 +280,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. ホテル　キャッスルイン津</td>
                 <td className="p-3 text-stone-600">三重県津市港町15-22</td>
-                <td className="p-3 text-stone-600">津駅周辺</td>
+                <td className="p-3 text-stone-600">近鉄・ＪＲ 津駅よりバスで１５分</td>
                 <td className="p-3 text-stone-600">無料駐車場80台。ご利用は先着順となります。</td>
                 <td className="p-3 font-bold text-amber-600">★4.11（1474件）</td>
                 <td className="p-3 font-bold text-rose-600">¥2,688〜</td>
@@ -289,7 +289,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 鳥羽ビューホテル　花真珠</td>
                 <td className="p-3 text-stone-600">三重県鳥羽市安楽島町1075-98</td>
-                <td className="p-3 text-stone-600">鳥羽駅周辺</td>
+                <td className="p-3 text-stone-600">伊勢神宮より車で３０分/近鉄 鳥羽駅から車で8分／伊勢自動車道伊勢西ＩＣより２５分</td>
                 <td className="p-3 text-stone-600">有り　50台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.39（1717件）</td>
                 <td className="p-3 font-bold text-rose-600">¥15,884〜</td>
@@ -298,7 +298,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">6. おもてなし処　龍宮之宿（旧　伊良湖リゾートホテル　龍宮之宿）</td>
                 <td className="p-3 text-stone-600">愛知県田原市伊良湖町宮下3000-63</td>
-                <td className="p-3 text-stone-600">豊橋駅周辺</td>
+                <td className="p-3 text-stone-600">JR豊橋駅よりバス伊良湖岬行きシーパーク前下車約90分 東名高速豊川ICより約90分 伊良湖岬</td>
                 <td className="p-3 text-stone-600">有り　30台　無料　(正面駐車場が満車の際は、建物すぐ裏の駐車場をご利用くださいませ。)</td>
                 <td className="p-3 font-bold text-amber-600">★4.31（186件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,200〜</td>
@@ -327,7 +327,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>35台（無料、先着順、予約不可）※チェックアウト後の駐車不可</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「外宮近くで便利、フロントの対応も丁寧伊勢神宮外宮の近くという理由で選びました。部屋はビジネスホテルと同じくらい。ただトイレは古いタイプのチャンネルを回すような仕組みで、使いやすくはないかな。フ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「外宮近くで便利、フロントの対応も丁寧伊勢神宮外宮の近くという理由で選びました。部屋はビジネスホテルと同じくらい。ただトイレは古いタイプのチャンネルを回すような仕組みで、使いやすくはないかな。」
                   </blockquote>
                 </div>
               </div>
@@ -349,7 +349,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　無料の自走式平面駐車場80台</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.9 ／ 立地 ★4.07 ／ 部屋 ★3.88 ／ 設備 ★3.78 ／ 風呂 ★3.82 ／ 食事 ★4.05</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「夫婦岩への散歩と貸切風呂が快適夫婦岩まで徒歩で15分ほどの立地です天気が良ければ日の出を楽しむこともできるそうで早起きして出かけるのにもちょうど良い距離です貸切風呂がとても良かったです…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「夫婦岩への散歩と貸切風呂が快適夫婦岩まで徒歩で15分ほどの立地です天気が良ければ日の出を楽しむこともできるそうで早起きして出かけるのにもちょうど良い距離です貸切風呂がとても良かったです。」
                   </blockquote>
                 </div>
               </div>
@@ -371,7 +371,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　120台　無料　大型の場合、お電話で問い合わせ下さい</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.81 ／ 立地 ★3.66 ／ 部屋 ★3.67 ／ 設備 ★3.67 ／ 風呂 ★3.77 ／ 食事 ★3.48</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「清掃が行き届いておらず清潔感に欠ける2泊しました。まずロビーが下水臭い。そして部屋に入ると床に前の宿泊者の物なのかのど飴が落ちていて、拾うのも嫌だったので多めに見ましたがお風呂…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「清掃が行き届いておらず清潔感に欠ける2泊しました。まずロビーが下水臭い。」
                   </blockquote>
                 </div>
               </div>
@@ -393,7 +393,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料駐車場80台。ご利用は先着順となります。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.2 ／ 立地 ★3.99 ／ 部屋 ★4.07 ／ 設備 ★4.03 ／ 風呂 ★4.13 ／ 食事 ★3.77</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「周辺環境は便利だがユニットバスが狭い隣にコンビニやスーパー、ドラッグストアがあり、ちょっとした買い物には困らなかった。飲みに行くにはお店が限られるけど、駅の方までタクシーでいけば5分くらいで色々な…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「周辺環境は便利だがユニットバスが狭い隣にコンビニやスーパー、ドラッグストアがあり、ちょっとした買い物には困らなかった。」
                   </blockquote>
                 </div>
               </div>
@@ -415,7 +415,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　50台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.56 ／ 立地 ★4.4 ／ 部屋 ★4.23 ／ 設備 ★4.21 ／ 風呂 ★4.23 ／ 食事 ★4.55</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「親切な接客と選べる干物朝食に大満足チェックインから皆様とても親切にしてくださって心地よかったです。晩御飯の際にも様々なお話をしてくださりとても暖かくほっこりしました。朝ごはんも自分で干物を…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「親切な接客と選べる干物朝食に大満足チェックインから皆様とても親切にしてくださって心地よかったです。晩御飯の際にも様々なお話をしてくださりとても暖かくほっこりしました。」
                   </blockquote>
                 </div>
               </div>
@@ -437,7 +437,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　30台　無料　(正面駐車場が満車の際は、建物すぐ裏の駐車場をご利用くださいませ。)</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「補修跡や騒音、食事の塩分が気になった部屋のクロスが剥がれていて養生テープで補修されていた。もう少し目立たない方法はなかったのか?階段の昇り降りの音がテレビつけていても気になった。お風呂の温度は…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「補修跡や騒音、食事の塩分が気になった部屋のクロスが剥がれていて養生テープで補修されていた。もう少し目立たない方法はなかったのか?階段の昇り降りの音がテレビつけていても気になった。」
                   </blockquote>
                 </div>
               </div>

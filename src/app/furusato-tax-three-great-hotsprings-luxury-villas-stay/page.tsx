@@ -409,8 +409,8 @@ export default function Page() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 軽井沢駅よりアクセス。ＪＲ長野原草津口駅よりＪＲバスで草温泉へ２５分、下車後送迎バスあり。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「草津温泉 奈良屋」にチェックイン。湯畑すぐ。草津最古の源泉『白旗の湯』を楽しめる老舗宿。などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「草津温泉 奈良屋」の湯処へ。湯畑すぐ。草津最古の源泉『白旗の湯』を楽しめる老舗宿。とともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「草津温泉 奈良屋」にチェックイン。湯畑すぐ。草津最古の源泉『白旗の湯』を楽しめる老舗宿。 館内の設えを確かめながら、これからの滞在に備えてゆっくり休息する。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「草津温泉 奈良屋」の大浴場・露天風呂へ。日暮れの静けさの中で湯に浸かり、旅の緊張をゆっくりと解きほぐす。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「草津温泉 奈良屋」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -422,7 +422,7 @@ export default function Page() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「草津温泉 奈良屋」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「草津温泉 奈良屋」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「有馬温泉 中の坊 瑞苑」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は「草津温泉 奈良屋」周辺の観光スポットや地元の名産店に立ち寄り、ご当地のお土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>
@@ -550,7 +550,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 草津温泉　奈良屋</td>
                 <td className="p-3 text-stone-600">群馬県吾妻郡草津町草津396</td>
-                <td className="p-3 text-stone-600">軽井沢駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ長野原草津口駅よりＪＲバスで草温泉へ２５分、下車後送迎バスあり。（原則 8:30～18:00 ）</td>
                 <td className="p-3 text-stone-600">無料（敷地内に駐車場はございません）</td>
                 <td className="p-3 font-bold text-amber-600">★4.67（941件）</td>
                 <td className="p-3 font-bold text-rose-600">¥44,104〜</td>
@@ -559,7 +559,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 有馬温泉　中の坊　瑞苑</td>
                 <td className="p-3 text-stone-600">兵庫県神戸市北区有馬町808</td>
-                <td className="p-3 text-stone-600">神戸電鉄 有馬温泉駅より徒歩５分以内 ／ 大阪より１時間・神戸より３０</td>
+                <td className="p-3 text-stone-600">神戸電鉄 有馬温泉駅より徒歩５分以内 ／ 大阪より１時間・神戸より３０分</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.72（787件）</td>
                 <td className="p-3 font-bold text-rose-600">¥28,750〜</td>
@@ -568,7 +568,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 下呂温泉　水明館</td>
                 <td className="p-3 text-stone-600">岐阜県下呂市幸田1268</td>
-                <td className="p-3 text-stone-600">下呂駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ高山本線下呂駅より徒歩３分【下呂駅まで随時送迎バス有】／中央自動車道 中津川ＩＣよりＲ２５７で約６０分</td>
                 <td className="p-3 text-stone-600">有り ２００台 【無料】 ※大型車の駐車も可能です。</td>
                 <td className="p-3 font-bold text-amber-600">★4.36（6417件）</td>
                 <td className="p-3 font-bold text-rose-600">¥9,350〜</td>
@@ -641,7 +641,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り ２００台 【無料】 ※大型車の駐車も可能です。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.38 ／ 立地 ★4.38 ／ 部屋 ★4.32 ／ 設備 ★4.26 ／ 風呂 ★4.53 ／ 食事 ★4.36</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「リニューアルされた綺麗な部屋と美味しい食事部屋からの眺めはイマイチだったけど、リニューアルされたお部屋は綺麗で快適でした!畳の空間もあって良き!お夕食もリズミカルに出てきて、食べやすかった…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「リニューアルされた綺麗な部屋と美味しい食事部屋からの眺めはイマイチだったけど、リニューアルされたお部屋は綺麗で快適でした!畳の空間もあって良き!」
                   </blockquote>
                 </div>
               </div>

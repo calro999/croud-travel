@@ -310,7 +310,7 @@ export default function AutumnBudgetFukushimaHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 福島駅東口から徒歩３分　ホテル板倉</td>
                 <td className="p-3 text-stone-600">福島県福島市早稲町5-17</td>
-                <td className="p-3 text-stone-600">福島（福島）駅周辺</td>
+                <td className="p-3 text-stone-600">JR福島駅東口より徒歩3分 東北自動車道福島西IC,飯坂ICより車で15分</td>
                 <td className="p-3 text-stone-600">普通車30台まで駐車可能（1室につき1台まで）、大型車（全長8m）2台まで。大型車は有料、要予約</td>
                 <td className="p-3 font-bold text-amber-600">★4.09（193件）</td>
                 <td className="p-3 font-bold text-rose-600">¥2,950〜</td>
@@ -319,7 +319,7 @@ export default function AutumnBudgetFukushimaHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. アパホテル〈福島駅前〉</td>
                 <td className="p-3 text-stone-600">福島県福島市太田町8-20</td>
-                <td className="p-3 text-stone-600">福島（福島）駅周辺</td>
+                <td className="p-3 text-stone-600">■JR「福島駅」西口徒歩1分 ■東北自動車道「福島西IC」から15分・「福島飯坂IC」から20分</td>
                 <td className="p-3 text-stone-600">近隣大型コインパーキング有【提携外】　フロントで近隣パーキングの場所をご案内しております。</td>
                 <td className="p-3 font-bold text-amber-600">★4.31（2199件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,690〜</td>
@@ -328,7 +328,7 @@ export default function AutumnBudgetFukushimaHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. リッチモンドホテル福島駅前</td>
                 <td className="p-3 text-stone-600">福島県福島市三河南町1-15</td>
-                <td className="p-3 text-stone-600">福島（福島）駅周辺</td>
+                <td className="p-3 text-stone-600">◆福島駅西口徒歩1分（東口からは地下通路で徒歩5分）◆「コラッセふくしま」隣◆コンビニ敷地内◆提携駐車場隣接（先着順）◆</td>
                 <td className="p-3 text-stone-600">専用駐車場無：提携駐車場700円　満車時は周辺駐車場にて現地精算お願いします</td>
                 <td className="p-3 font-bold text-amber-600">★4.4（4465件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,300〜</td>
@@ -337,7 +337,7 @@ export default function AutumnBudgetFukushimaHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. ＪＲ東日本ホテルメッツ福島</td>
                 <td className="p-3 text-stone-600">福島県福島市栄町1-1</td>
-                <td className="p-3 text-stone-600">福島（福島）駅周辺</td>
+                <td className="p-3 text-stone-600">■ＪＲ福島駅隣接・東口徒歩1分♪■ 福島駅に一番近いホテル～雨に濡れずにチェックイン！</td>
                 <td className="p-3 text-stone-600">150台可、1泊1台1,000円</td>
                 <td className="p-3 font-bold text-amber-600">★4.13（2970件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,200〜</td>
@@ -346,7 +346,7 @@ export default function AutumnBudgetFukushimaHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. ＨＯＴＥＬ　ＳＡＮＫＹＯ　ＦＵＫＵＳＨＩＭＡ　ホテルサンキョウフクシマ</td>
                 <td className="p-3 text-stone-600">福島県福島市大町7-11</td>
-                <td className="p-3 text-stone-600">福島（福島）駅周辺</td>
+                <td className="p-3 text-stone-600">JR 福島駅東口から徒歩10分。東北道 福島西ＩCおよび飯坂ICより車で15分</td>
                 <td className="p-3 text-stone-600">立体駐車場118台／先着順／1泊税込1000円／車高制限有155cm迄※RV・ワゴン車は提携駐車場</td>
                 <td className="p-3 font-bold text-amber-600">★4.26（1101件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,900〜</td>
@@ -375,7 +375,7 @@ export default function AutumnBudgetFukushimaHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>普通車30台まで駐車可能（1室につき1台まで）、大型車（全長8m）2台まで。大型車は有料、要予約</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.12 ／ 立地 ★4.07 ／ 部屋 ★4 ／ 設備 ★3.79 ／ 風呂 ★3.99 ／ 食事 ★4.18</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「お風呂最高本館宿泊でお世話になりました。お風呂がとても気持ち良く、市内でも大好きなホテルです。今回少し残念と感じたのは、お部屋に入った瞬間からくしゃみが止まらなかった事と、チェック…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「お風呂最高本館宿泊でお世話になりました。お風呂がとても気持ち良く、市内でも大好きなホテルです。」
                   </blockquote>
                 </div>
               </div>
@@ -419,7 +419,7 @@ export default function AutumnBudgetFukushimaHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>専用駐車場無：提携駐車場700円　満車時は周辺駐車場にて現地精算お願いします</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.44 ／ 立地 ★4.4 ／ 部屋 ★4.46 ／ 設備 ★4.36 ／ 風呂 ★4.3 ／ 食事 ★4.08</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近で清潔、ドリップコーヒーが嬉しい駅近で、とてもきれいなホテルでした。アメニティも豊富で、素泊まりでしたがドリップコーヒーが置いてあり、ドリンクバーよりうれしかったです。夜も静かで、…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近で清潔、ドリップコーヒーが嬉しい駅近で、とてもきれいなホテルでした。アメニティも豊富で、素泊まりでしたがドリップコーヒーが置いてあり、ドリンクバーよりうれしかったです。」
                   </blockquote>
                 </div>
               </div>

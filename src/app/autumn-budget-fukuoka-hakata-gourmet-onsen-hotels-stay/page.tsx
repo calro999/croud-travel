@@ -342,7 +342,7 @@ export default function FukuokaBudgetAutumnPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. ホテル・トリフィート博多祇園</td>
                 <td className="p-3 text-stone-600">福岡県福岡市博多区冷泉町8-24</td>
-                <td className="p-3 text-stone-600">祇園（福岡）駅周辺</td>
+                <td className="p-3 text-stone-600">■地下鉄「祇園駅」徒歩5分■西鉄バス停「奥の堂」徒歩3分■福岡空港 地下鉄利用で最短15分■マリンメッセまでバスで7分</td>
                 <td className="p-3 text-stone-600">有り（屋外/高さ制限無し）　7台　1980円（税込み/泊）　先着順（事前予約不可）</td>
                 <td className="p-3 font-bold text-amber-600">★4.18（767件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,850〜</td>
@@ -351,7 +351,7 @@ export default function FukuokaBudgetAutumnPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. スーパーホテルＰｒｅｍｉｅｒ博多駅・筑紫口天然温泉</td>
                 <td className="p-3 text-stone-600">福岡県福岡市博多区博多駅南2-1-32</td>
-                <td className="p-3 text-stone-600">博多駅周辺</td>
+                <td className="p-3 text-stone-600">JR博多駅・筑紫口徒歩約８分！福岡空港から車で約10分！地下鉄博多駅東5番出口！博多駅東３丁目交差点セブンイレブン前</td>
                 <td className="p-3 text-stone-600">7台分（事前予約制） 1泊2，000円 ※高さ制限なし 　　近隣にコインパーキング多数あり</td>
                 <td className="p-3 font-bold text-amber-600">★4.26（2085件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,600〜</td>
@@ -360,7 +360,7 @@ export default function FukuokaBudgetAutumnPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. ＫＯＫＯ　ＨＯＴＥＬ　博多新幹線口</td>
                 <td className="p-3 text-stone-600">福岡県福岡市博多区博多駅東1-17-17</td>
-                <td className="p-3 text-stone-600">博多駅周辺</td>
+                <td className="p-3 text-stone-600">JR博多駅より徒歩4分。地下鉄空港線博多駅 東6出口より徒歩2分。都市高速博多駅東ICまで1分！</td>
                 <td className="p-3 text-stone-600">提携駐車場有　里馨(リカ)パーキング(24時間1500円の駐車券をフロント販売、当館から徒歩3分）</td>
                 <td className="p-3 font-bold text-amber-600">★3.97（346件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,940〜</td>
@@ -369,7 +369,7 @@ export default function FukuokaBudgetAutumnPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. アパホテル＆リゾート〈博多駅東〉</td>
                 <td className="p-3 text-stone-600">福岡県福岡市博多区博多駅東1-18-1</td>
-                <td className="p-3 text-stone-600">博多駅周辺</td>
+                <td className="p-3 text-stone-600">福岡市営地下鉄空港線「博多駅」東7番出口から徒歩2分／JR各線「博多駅」筑紫口から徒歩4分</td>
                 <td className="p-3 text-stone-600">11台有、1,500円 / 1泊（15：00～翌11：00）※連泊の場合24時間　※予約不可先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.1（912件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,500〜</td>
@@ -378,7 +378,7 @@ export default function FukuokaBudgetAutumnPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 天然温泉　八百治の湯　八百治博多ホテル</td>
                 <td className="p-3 text-stone-600">福岡県福岡市博多区博多駅前4-9-2</td>
-                <td className="p-3 text-stone-600">博多駅周辺</td>
+                <td className="p-3 text-stone-600">博多駅博多口より徒歩５分（福岡空港から博多駅まで地下鉄で５分。）</td>
                 <td className="p-3 text-stone-600">契約駐車場　1,500円（税込）/14時～翌日14時</td>
                 <td className="p-3 font-bold text-amber-600">★4.18（4564件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,450〜</td>
@@ -407,7 +407,7 @@ export default function FukuokaBudgetAutumnPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り（屋外/高さ制限無し）　7台　1980円（税込み/泊）　先着順（事前予約不可）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋を含めた設備はWEB掲載通りで期待外れはありませんでした。風呂はマイナスコメント多くありましたが十分に広く空いていました。フロントの方も親切に対応頂きました。朝食は大満足です。一点マイナスは廊下に…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋を含めた設備はWEB掲載通りで期待外れはありませんでした。風呂はマイナスコメント多くありましたが十分に広く空いていました。フロントの方も親切に対応頂きました。朝食は大満足です。」
                   </blockquote>
                 </div>
               </div>
@@ -429,7 +429,7 @@ export default function FukuokaBudgetAutumnPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>7台分（事前予約制） 1泊2，000円 ※高さ制限なし 　　近隣にコインパーキング多数あり</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「レディース部屋と充実のアメニティで快適福岡旅行で利用しました。レディース部屋で気兼ねなく過ごせました。ウェルカムバーも楽しめ、アメニティにパックもあって嬉しかったです。リファのドライヤー、シャワー…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「レディース部屋と充実のアメニティで快適福岡旅行で利用しました。レディース部屋で気兼ねなく過ごせました。ウェルカムバーも楽しめ、アメニティにパックもあって嬉しかったです。」
                   </blockquote>
                 </div>
               </div>
@@ -451,7 +451,7 @@ export default function FukuokaBudgetAutumnPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>提携駐車場有　里馨(リカ)パーキング(24時間1500円の駐車券をフロント販売、当館から徒歩3分）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.1 ／ 立地 ★4.21 ／ 部屋 ★4.08 ／ 設備 ★3.92 ／ 風呂 ★3.97</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「大浴場は空いていて快適、コーヒーも無料きれいなホテルで良かったです。大浴場は狭いですが、16時と6時に行った時は無人で貸切状態でした。部屋のテレビで混雑状況がわかります。朝のパンは無料なの…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「大浴場は空いていて快適、コーヒーも無料きれいなホテルで良かったです。大浴場は狭いですが、16時と6時に行った時は無人で貸切状態でした。部屋のテレビで混雑状況がわかります。」
                   </blockquote>
                 </div>
               </div>
@@ -473,7 +473,7 @@ export default function FukuokaBudgetAutumnPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>11台有、1,500円 / 1泊（15：00～翌11：00）※連泊の場合24時間　※予約不可先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「大浴場で疲労回復、混雑以外は満足はじめてアパホテルに泊まりました。疲労回復のため大浴場付きのホテルにしましたが、正解でした。大浴場を利用した時間帯、脱衣所が混雑していたものの、それ以外は満…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「大浴場で疲労回復、混雑以外は満足はじめてアパホテルに泊まりました。疲労回復のため大浴場付きのホテルにしましたが、正解でした。」
                   </blockquote>
                 </div>
               </div>
@@ -495,7 +495,7 @@ export default function FukuokaBudgetAutumnPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>契約駐車場　1,500円（税込）/14時～翌日14時</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「博多駅から15分、朝食や備品に不満あり何時もは市内にある天然温泉の違うホテルチェーンに泊まりますが今回は博多駅に近い温泉ホテルと言う事で選びました。近いと言っても真夏の暑い中キャリーバックを引きず…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「博多駅から15分、朝食や備品に不満あり何時もは市内にある天然温泉の違うホテルチェーンに泊まりますが今回は博多駅に近い温泉ホテルと言う事で選びました。」
                   </blockquote>
                 </div>
               </div>

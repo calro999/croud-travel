@@ -425,8 +425,8 @@ export default function Page() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 大野浦駅よりアクセス。ＪＲ大野浦駅より送迎有り／山陽自動車道大野ＩＣより約７～８分。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「宮浜温泉 湯の宿 宮浜グランドホテル」にチェックイン。展望大浴場と旬の素材を使った料理が好評。宮島口から車で12分。無料駐車場有！などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「宮浜温泉 湯の宿 宮浜グランドホテル」の湯処へ。展望大浴場と旬の素材を使った料理が好評。宮島口から車で12分。無料駐車とともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「宮浜温泉 湯の宿 宮浜グランドホテル」にチェックイン。展望大浴場と旬の素材を使った料理が好評。宮島口から車で12分。無料駐車場有！ 荷物を解き、落ち着いた室内でまず一息つく。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「宮浜温泉 湯の宿 宮浜グランドホテル」の大浴場・露天風呂へ。日暮れの静けさの中で湯に浸かり、旅の緊張をゆっくりと解きほぐす。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「宮浜温泉 湯の宿 宮浜グランドホテル」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -438,7 +438,7 @@ export default function Page() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「宮浜温泉 湯の宿 宮浜グランドホテル」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「宮浜温泉 湯の宿 宮浜グランドホテル」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「東横ＩＮＮ富士山大月駅」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は「宮浜温泉 湯の宿 宮浜グランドホテル」周辺の観光スポットや地元の名産店に立ち寄り、ご当地のお土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>
@@ -566,7 +566,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 宮浜温泉　湯の宿　宮浜グランドホテル</td>
                 <td className="p-3 text-stone-600">広島県廿日市市宮浜温泉2-5-4</td>
-                <td className="p-3 text-stone-600">大野浦駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ大野浦駅より送迎有り／山陽自動車道大野ＩＣより約７～８分</td>
                 <td className="p-3 text-stone-600">有り　３０台　先着順　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.2（756件）</td>
                 <td className="p-3 font-bold text-rose-600">¥10,890〜</td>
@@ -575,7 +575,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 東横ＩＮＮ富士山大月駅</td>
                 <td className="p-3 text-stone-600">山梨県大月市御太刀2-3-1</td>
-                <td className="p-3 text-stone-600">大月駅周辺</td>
+                <td className="p-3 text-stone-600">JR中央本線・富士急行線「大月駅」から徒歩5分</td>
                 <td className="p-3 text-stone-600">有り／136台／無料／先着順　※内、大型バス2台／予約制</td>
                 <td className="p-3 font-bold text-amber-600">★4.05（468件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,347〜</td>
@@ -584,7 +584,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 日光金谷ホテル</td>
                 <td className="p-3 text-stone-600">栃木県日光市上鉢石町1300</td>
-                <td className="p-3 text-stone-600">東武日光駅周辺</td>
+                <td className="p-3 text-stone-600">東武・ＪＲ日光駅よりバス約５分、神橋バス停下車／日光－宇都宮有料道路日光ＩＣより神橋交差点近く 日光東照宮より徒歩15分</td>
                 <td className="p-3 text-stone-600">有り（屋外）　６０台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.47（912件）</td>
                 <td className="p-3 font-bold text-rose-600">¥17,500〜</td>
@@ -657,7 +657,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り（屋外）　６０台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.51 ／ 立地 ★4.53 ／ 部屋 ★4.37 ／ 設備 ★4.19 ／ 風呂 ★3.99 ／ 食事 ★4.65</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「趣ある空間と親切な接客、朝食の提供タイミングが残念リゾートホテルの草分けらしく、建物や内装に趣きがあり、ゆったりした時間を過ごせました。スタッフのみなさんもとても親切で癒されました。和朝食も美…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「趣ある空間と親切な接客、朝食の提供タイミングが残念リゾートホテルの草分けらしく、建物や内装に趣きがあり、ゆったりした時間を過ごせました。スタッフのみなさんもとても親切で癒されました。」
                   </blockquote>
                 </div>
               </div>

@@ -338,8 +338,8 @@ export default function ArticlePage() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> JR城崎温泉駅より徒歩で３分で現地へ到着。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「城崎温泉 但馬牛極みの宿 小宿 縁」にチェックイン。日本で唯一の但馬玄一頭買い肉専門の宿。貸切風呂はじめ湯上りラウンジはビールやワインが楽しめる大人の宿などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「城崎温泉 但馬牛極みの宿 小宿 縁」の湯処へ。日本で唯一の但馬玄一頭買い肉専門の宿。貸切風呂はじめ湯上りラウンジはビとともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「城崎温泉 但馬牛極みの宿 小宿 縁」にチェックイン。日本で唯一の但馬玄一頭買い肉専門の宿。 まずは客室で移動の疲れをそっと癒やす。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「城崎温泉 但馬牛極みの宿 小宿 縁」の大浴場・露天風呂へ。日暮れの静けさの中で湯に浸かり、旅の緊張をゆっくりと解きほぐす。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「城崎温泉 但馬牛極みの宿 小宿 縁」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -351,7 +351,7 @@ export default function ArticlePage() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「城崎温泉 但馬牛極みの宿 小宿 縁」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「城崎温泉 但馬牛極みの宿 小宿 縁」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「城崎温泉 風月魚匠」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は宿周辺の散策とショッピングを満喫。地元の名産品やグルメを味わってから余裕をもって帰路につく。</li>
               </ul>
             </div>
           </div>
@@ -367,49 +367,49 @@ export default function ArticlePage() {
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">あわせて読みたい人気特集＆全国エリアガイド</h2>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
-            <a href="/winter-tochigi-nikko-chuzenji-lake-luxury-ritz-carlton-kanaya-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/furusato-tax-retro-onsen-town-yukata-walk-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【標高1200mの奥日光・中禅寺湖畔に佇む最高峰リゾート】2026-2027年11-12月初冬の栃木・日光中禅寺湖！「ザ・リッツ・カールトン日光」＆「中禅寺金谷ホテル」・男体山の初雪と日光湯元白濁硫黄泉・極上とちぎ和牛名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">色浴衣と下駄で外湯めぐり＆レトロ温泉街歩き情緒の名宿×ふるさと納税厳選ガイド城崎・渋・銀山</span>
             </a>
-            <a href="/winter-tochigi-yunishigawa-onsen-kamakura-irori-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/furusato-tax-shosenkyo-kofu-autumn-leaves-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12・1月栃木】平家落人の隠れ里・湯西川温泉の雪見露天風呂と名物平家囲炉裏会席＆日本夜景遺産かまくら祭を巡る名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">甲府・御岳昇仙峡の覚円峰奇岩紅葉＆仙娥滝！信玄の隠し湯・湯村温泉×ふるさと納税厳選ガイド山梨</span>
             </a>
-            <a href="/furusato-tax-nasu-chause-autumn-leaves-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/furusato-tax-strawberry-buffet-sweets-resort-hotel-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">那須高原・茶臼岳の山岳紅葉ロープウェイ＆殺生石！那須温泉名湯・鹿の湯白濁泉×ふるさと納税厳選ガイド栃木</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">甘酸っぱい贅沢！いちごスイーツビュッフェ＆高級リゾートホテルステイ×ふるさと納税厳選ガイド那須・神戸・幕張</span>
             </a>
-            <a href="/tochigi-nasu-shiobara-itamuro-kuroiso-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/himeji-castle-solo-business-onsen-sauna-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">栃木・那須塩原＆板室・黒磯：茶臼岳・板室立ち湯＆黒磯カフェ・那須牛宿 厳選ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「姫路出張・天然温泉サウナ」世界遺産姫路城ビュー・天然温泉白鷺の湯・播州美食！山陽新幹線拠点を制する厳選3宿</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
             <div className="flex flex-wrap gap-2">
               <Link
-                href="/prefectures/tochigi/"
+                href="/prefectures/hyogo/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                栃木県の宿・温泉
+                兵庫県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/gifu/"
+                href="/prefectures/kyoto/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                岐阜県の宿・温泉
+                京都府の宿・温泉
               </Link>
               <Link
-                href="/prefectures/tokushima/"
+                href="/prefectures/osaka/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                徳島県の宿・温泉
+                大阪府の宿・温泉
               </Link>
               <Link
-                href="/prefectures/okayama/"
+                href="/prefectures/nara/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                岡山県の宿・温泉
+                奈良県の宿・温泉
               </Link>
             </div>
           </div>
@@ -445,7 +445,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 城崎温泉　但馬牛極みの宿　小宿　縁</td>
                 <td className="p-3 text-stone-600">兵庫県豊岡市城崎町湯島219</td>
-                <td className="p-3 text-stone-600">JR城崎温泉駅より徒歩で３分 。北近畿豊岡道但馬空港ICより国道３１２</td>
+                <td className="p-3 text-stone-600">JR城崎温泉駅より徒歩で３分 。北近畿豊岡道但馬空港ICより国道３１２号線、県道３号線経由で城崎温泉まで約３０分。</td>
                 <td className="p-3 text-stone-600">車1台1泊1000円 バイク1泊500円　利用時間：15：00〜チェックアウト日11：30まで</td>
                 <td className="p-3 font-bold text-amber-600">★4.65（297件）</td>
                 <td className="p-3 font-bold text-rose-600">¥19,250〜</td>
@@ -454,7 +454,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 城崎温泉　風月魚匠（ふうげつぎょしょう）</td>
                 <td className="p-3 text-stone-600">兵庫県豊岡市城崎町湯島636-1</td>
-                <td className="p-3 text-stone-600">ＪＲ：城崎温泉駅より徒歩20分/旅館組合乗合送迎バスあり　お車：北近畿</td>
+                <td className="p-3 text-stone-600">ＪＲ：城崎温泉駅より徒歩20分/旅館組合乗合送迎バスあり お車：北近畿豊岡道 豊岡出石ICでお降り下さい</td>
                 <td className="p-3 text-stone-600">無料駐車場有　（10台予約不要）</td>
                 <td className="p-3 font-bold text-amber-600">★4.62（789件）</td>
                 <td className="p-3 font-bold text-rose-600">¥15,400〜</td>
@@ -463,7 +463,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 那須温泉　ホテルフォレストヒルズ那須　ｗｉｔｈ　ＤＯＧＳ</td>
                 <td className="p-3 text-stone-600">栃木県那須郡那須町高久乙1880</td>
-                <td className="p-3 text-stone-600">那須塩原駅周辺</td>
+                <td className="p-3 text-stone-600">安心＆安全な愛犬との旅をお約束＜全館 独立コテージタイプ・ペットと泊まる宿＞“北関東最大級”愛犬同伴の複合型リゾート♪</td>
                 <td className="p-3 text-stone-600">有り　60台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.34（943件）</td>
                 <td className="p-3 font-bold text-rose-600">¥17,600〜</td>
@@ -472,7 +472,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 湯西川温泉　彩り湯かしき　花と華</td>
                 <td className="p-3 text-stone-600">栃木県日光市湯西川601</td>
-                <td className="p-3 text-stone-600">湯西川温泉駅周辺</td>
+                <td className="p-3 text-stone-600">東武鉄道・野岩鉄道にて湯西川温泉駅下車。路線バスにて20分。（1日1回無料送迎バス運行有※要事前電話予約）</td>
                 <td className="p-3 text-stone-600">【無料】車50台・バス5台の十分な広さで御座いますので、ご安心してお越し下さい。</td>
                 <td className="p-3 font-bold text-amber-600">★4.08（1753件）</td>
                 <td className="p-3 font-bold text-rose-600">¥16,000〜</td>
@@ -481,7 +481,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 大江戸温泉物語Ｐｒｅｍｉｕｍ　ホテルニュー塩原</td>
                 <td className="p-3 text-stone-600">栃木県那須塩原市塩原705</td>
-                <td className="p-3 text-stone-600">那須塩原駅周辺</td>
+                <td className="p-3 text-stone-600">JR那須塩原駅下車 送迎バス運行 迎え13：50 送り10：30（予約制 ※電話予約要・定員あり）</td>
                 <td className="p-3 text-stone-600">有り　２００台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.03（6219件）</td>
                 <td className="p-3 font-bold text-rose-600">¥13,100〜</td>
@@ -510,7 +510,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>車1台1泊1000円 バイク1泊500円　利用時間：15：00〜チェックアウト日11：30まで</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.68 ／ 立地 ★4.54 ／ 部屋 ★4.6 ／ 設備 ★4.57 ／ 風呂 ★4.56 ／ 食事 ★4.69</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「お部屋は綺麗で食事も美味しく満足お部屋はとても綺麗で、設備も十分整っていました。電気消すところが若干初めてだとわかりづらさもありましたが、マイナスするほどでもありません。お風呂は貸切風呂が2つ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「お部屋は綺麗で食事も美味しく満足お部屋はとても綺麗で、設備も十分整っていました。電気消すところが若干初めてだとわかりづらさもありましたが、マイナスするほどでもありません。」
                   </blockquote>
                 </div>
               </div>
@@ -532,7 +532,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料駐車場有　（10台予約不要）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「教えたくないほどお気に入りの場所いろんなところに旅行に行っていますが今のところ自分の1番気に入っている宿などで今回は結婚が決まり最初の旅行で旅行に行くならここに行きたいと思っていてやはり今…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「教えたくないほどお気に入りの場所いろんなところに旅行に行っていますが今のところ自分の1番気に入っている宿などで今回は結婚が決まり最初の旅行で旅行に行くならここに行きたいと思っていてやはり今。」
                   </blockquote>
                 </div>
               </div>
@@ -554,7 +554,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　60台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.45 ／ 立地 ★4.35 ／ 部屋 ★4.2 ／ 設備 ★4.22 ／ 風呂 ★4.16 ／ 食事 ★4.59</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「犬連れへの配慮が素晴らしく大満足飼っている犬が吠えてしまう為、バイキング朝食をキャンセルしました。ですが部屋まで朝食を持ってきてくださり、大変満足いたしました。とても良いお宿だと思います。また行き…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「犬連れへの配慮が素晴らしく大満足飼っている犬が吠えてしまう為、バイキング朝食をキャンセルしました。ですが部屋まで朝食を持ってきてくださり、大変満足いたしました。とても良いお宿だと思います。」
                   </blockquote>
                 </div>
               </div>
@@ -598,7 +598,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２００台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.02 ／ 立地 ★3.94 ／ 部屋 ★3.95 ／ 設備 ★3.95 ／ 風呂 ★4.11</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「価格に見合わないサービスと衛生面に不満プレミアムと名が付いていて決してお安くはないのに、とても微妙でした。エレベーターは全然来ない、バイキング会場のテーブル、お皿汚い、ライブキッチンのステーキ、切…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「価格に見合わないサービスと衛生面に不満プレミアムと名が付いていて決してお安くはないのに、とても微妙でした。」
                   </blockquote>
                 </div>
               </div>

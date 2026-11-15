@@ -253,7 +253,7 @@ export default function HistoryHeritageHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 高野山別格本山　宿坊　西門院</td>
                 <td className="p-3 text-stone-600">和歌山県伊都郡高野町高野山447</td>
-                <td className="p-3 text-stone-600">南海高野山駅より「奥の院」行きバスで１３分。「小田原通り」下車すぐ前。</td>
+                <td className="p-3 text-stone-600">南海高野山駅より「奥の院」行きバスで１３分。「小田原通り」下車すぐ前。タクシーで約８分。</td>
                 <td className="p-3 text-stone-600">有り　１５台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4（95件）</td>
                 <td className="p-3 font-bold text-rose-600">¥20,800〜</td>
@@ -262,7 +262,7 @@ export default function HistoryHeritageHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 高野山　宿坊　大明王院</td>
                 <td className="p-3 text-stone-600">和歌山県伊都郡高野町高野山482</td>
-                <td className="p-3 text-stone-600">極楽橋駅周辺</td>
+                <td className="p-3 text-stone-600">南海電鉄高野山駅よりバスにて約１５分。最寄りのバス停（苅萱堂前）から徒歩約３分</td>
                 <td className="p-3 text-stone-600">有り　５台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">高評価</td>
                 <td className="p-3 font-bold text-rose-600">¥17,600〜</td>
@@ -280,7 +280,7 @@ export default function HistoryHeritageHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 高野山　宿坊　宝城院</td>
                 <td className="p-3 text-stone-600">和歌山県伊都郡高野町高野山156</td>
-                <td className="p-3 text-stone-600">極楽橋駅周辺</td>
+                <td className="p-3 text-stone-600">南海電鉄高野山駅より公共交通機関（バス）にて約15分。最寄りのバス停（金剛峯寺前）から徒歩約5分。</td>
                 <td className="p-3 text-stone-600">有り　10台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">高評価</td>
                 <td className="p-3 font-bold text-rose-600">¥16,500〜</td>
@@ -289,7 +289,7 @@ export default function HistoryHeritageHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 川湯温泉　山水館　川湯みどりや</td>
                 <td className="p-3 text-stone-600">和歌山県田辺市本宮町川湯13</td>
-                <td className="p-3 text-stone-600">新宮駅周辺</td>
+                <td className="p-3 text-stone-600">大阪から阪和道「南紀田辺IC」経由で約3時間／JR「新宮駅」よりバスで約60分／JR「紀伊田辺駅」よりバスで約120分</td>
                 <td className="p-3 text-stone-600">60台（無料）／バイク利用の方には屋根付き駐車場有</td>
                 <td className="p-3 font-bold text-amber-600">★4.17（1082件）</td>
                 <td className="p-3 font-bold text-rose-600">¥9,240〜</td>
@@ -298,7 +298,7 @@ export default function HistoryHeritageHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">6. 民宿　すみ家</td>
                 <td className="p-3 text-stone-600">和歌山県田辺市本宮町川湯1429</td>
-                <td className="p-3 text-stone-600">新宮駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ 新宮駅よりお車にて約６０分</td>
                 <td className="p-3 text-stone-600">無し　近隣徒歩200mに公共無料駐車場あり　近隣徒歩100mに有料駐車場あり</td>
                 <td className="p-3 font-bold text-amber-600">★4.33（36件）</td>
                 <td className="p-3 font-bold text-rose-600">¥10,000〜</td>
@@ -327,7 +327,7 @@ export default function HistoryHeritageHubPage() {
                   <p>【世界遺産・霊場巡り＆宿坊体験宿：高野山宿坊・熊野古道】 <strong>【駐車場・マイカー利用】</strong>有り　１５台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.58 ／ 立地 ★4 ／ 部屋 ★3.68 ／ 設備 ★3.71 ／ 風呂 ★3.44 ／ 食事 ★4.53</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「精進料理が美味しく、部屋もグレードアップ西門院さんの精進料理美味しかったです!シルバーウィーク明けでたまたま宿泊客が少なかったせいか、お部屋はトイレなし→トイレありにグレードアップしていただい…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「精進料理が美味しく、部屋もグレードアップ西門院さんの精進料理美味しかったです!」
                   </blockquote>
                 </div>
               </div>
@@ -415,7 +415,7 @@ export default function HistoryHeritageHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>60台（無料）／バイク利用の方には屋根付き駐車場有</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「また行きたい部屋は広く窓の外は川と、とても気持ちが良かったです。ただトイレの壁紙が湿気とカビで浮いておりカビ臭い。トイレの度に残念な気分になりましたがそれ以外は満足です。何より喫煙可の部屋はかなり…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「また行きたい部屋は広く窓の外は川と、とても気持ちが良かったです。ただトイレの壁紙が湿気とカビで浮いておりカビ臭い。トイレの度に残念な気分になりましたがそれ以外は満足です。」
                   </blockquote>
                 </div>
               </div>

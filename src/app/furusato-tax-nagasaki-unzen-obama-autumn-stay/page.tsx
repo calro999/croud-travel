@@ -353,39 +353,7 @@ export default function Page() {
             </Link>
           </div>
         </section>
-        <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
-          <div className="flex items-center gap-3 mb-6">
-            <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】雲仙観光ホテルを拠点にするおすすめ滞在モデルコース</h2>
-          </div>
-          <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
-            <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
-              <div className="flex items-center gap-2">
-                <span className="bg-amber-600 text-white text-xs font-bold px-2.5 py-1 rounded">1日目</span>
-                <h3 className="font-bold text-stone-900 text-base md:text-lg">到着〜チェックインと名湯巡り</h3>
-              </div>
-              <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
-                <li>・<strong className="text-stone-800">14:00〜</strong> 諫早駅よりアクセス。ＪＲ諫早駅よりバスで８０分／諫早ＩＣより車で６０分／島原外港より車・バスで４０分。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「雲仙観光ホテル」にチェックイン。昭和10年創業。 過去と現在、そして未来へ。紡がれる伝統とくつろぎ｜進化するおもてなし。などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「雲仙観光ホテル」の湯処へ。昭和10年創業。 過去と現在、そして未来へ。紡がれる伝統とくつろぎ｜進とともに、夕暮れの特別な寛ぎを満喫。</li>
-                <li>・<strong className="text-stone-800">19:00〜</strong> 「雲仙観光ホテル」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
-              </ul>
-            </div>
-            <div className="border-l-2 border-teal-500 pl-4 md:pl-6 space-y-4">
-              <div className="flex items-center gap-2">
-                <span className="bg-teal-600 text-white text-xs font-bold px-2.5 py-1 rounded">2日目</span>
-                <h3 className="font-bold text-stone-900 text-base md:text-lg">爽快な朝湯〜周辺散策と帰路へ</h3>
-              </div>
-              <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
-                <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「雲仙観光ホテル」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
-                <li>・<strong className="text-stone-800">08:00〜</strong> 「雲仙観光ホテル」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「雲仙温泉 雲仙宮崎旅館」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
-              </ul>
-            </div>
-          </div>
-        </section>
-
-        {/* FAQ Section */}
+                {/* FAQ Section */}
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
@@ -507,7 +475,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 雲仙観光ホテル</td>
                 <td className="p-3 text-stone-600">長崎県雲仙市小浜町雲仙320</td>
-                <td className="p-3 text-stone-600">諫早駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ諫早駅よりバスで８０分／諫早ＩＣより車で６０分／島原外港より車・バスで４０分</td>
                 <td className="p-3 text-stone-600">無料にてご用意がございます。約30台・ 屋外駐車場のみ・ヴァレーパーキング：一部可</td>
                 <td className="p-3 font-bold text-amber-600">★4.73（240件）</td>
                 <td className="p-3 font-bold text-rose-600">¥29,590〜</td>
@@ -516,7 +484,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 雲仙温泉　雲仙宮崎旅館</td>
                 <td className="p-3 text-stone-600">長崎県雲仙市小浜町雲仙320番地</td>
-                <td className="p-3 text-stone-600">諫早駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ諫早駅下車バス８０分、長崎自動車道諫早ICより島原道路へ乗換え長野ICより車で５０分</td>
                 <td className="p-3 text-stone-600">有り　３９台　有料1台1泊500円</td>
                 <td className="p-3 font-bold text-amber-600">★4.91（868件）</td>
                 <td className="p-3 font-bold text-rose-600">¥24,530〜</td>
@@ -525,7 +493,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 雲仙九州ホテル</td>
                 <td className="p-3 text-stone-600">長崎県雲仙市小浜町雲仙320</td>
-                <td className="p-3 text-stone-600">諫早駅周辺</td>
+                <td className="p-3 text-stone-600">諫早ICより車で60分。JR諫早駅よりバスで80分。</td>
                 <td className="p-3 text-stone-600">無料/30台</td>
                 <td className="p-3 font-bold text-amber-600">★4.56（761件）</td>
                 <td className="p-3 font-bold text-rose-600">¥23,100〜</td>
@@ -554,7 +522,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料にてご用意がございます。約30台・ 屋外駐車場のみ・ヴァレーパーキング：一部可</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.8 ／ 立地 ★4.69 ／ 部屋 ★4.78 ／ 設備 ★4.64 ／ 風呂 ★4.71 ／ 食事 ★4.82</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「夕食のフレンチが絶品、また食べに行きたい夕食のフレンチコースが地産のもので構成されていて盛り付けも良いし味も絶品でした。びっくりするくらいに美味しかったです。全国のクラシックホテルを訪れていて、今…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「夕食のフレンチが絶品、また食べに行きたい夕食のフレンチコースが地産のもので構成されていて盛り付けも良いし味も絶品でした。びっくりするくらいに美味しかったです。」
                   </blockquote>
                 </div>
               </div>
@@ -598,7 +566,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料/30台</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉は良かったが清掃と異臭が気になるお部屋にお風呂があるのは最高でした。ただ、湯船の端にある黒カビが気になりました。あとお部屋のエアコンの風が出てくるところの埃もたっぷり見えてしまって。。そして1…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉は良かったが清掃と異臭が気になるお部屋にお風呂があるのは最高でした。ただ、湯船の端にある黒カビが気になりました。あとお部屋のエアコンの風が出てくるところの埃もたっぷり見えてしまって。。」
                   </blockquote>
                 </div>
               </div>

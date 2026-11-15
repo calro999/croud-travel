@@ -253,7 +253,7 @@ export default function ThemeParkActivityHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. ホテルヨーロッパ　ハウステンボス</td>
                 <td className="p-3 text-stone-600">長崎県佐世保市ハウステンボス町7-7</td>
-                <td className="p-3 text-stone-600">ハウステンボス駅周辺</td>
+                <td className="p-3 text-stone-600">博多駅→特急約100分／長崎駅→快速約90分／長崎空港→高速船約45分・バス約60分</td>
                 <td className="p-3 text-stone-600">フロントにて無料券を発行しますので「宿泊者専用駐車場」をご利用ください。必ず出庫前にご精算ください。</td>
                 <td className="p-3 font-bold text-amber-600">★4.62（2434件）</td>
                 <td className="p-3 font-bold text-rose-600">¥16,400〜</td>
@@ -262,7 +262,7 @@ export default function ThemeParkActivityHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. ホテルアムステルダム　ハウステンボス</td>
                 <td className="p-3 text-stone-600">長崎県佐世保市ハウステンボス町7-7</td>
-                <td className="p-3 text-stone-600">ハウステンボス駅周辺</td>
+                <td className="p-3 text-stone-600">博多駅→特急約100分／長崎駅→快速約90分／長崎空港→高速船約45分・バス約60分</td>
                 <td className="p-3 text-stone-600">フロントにて無料券を発行しますので「宿泊者専用駐車場」をご利用ください。必ず出庫前にご精算ください。</td>
                 <td className="p-3 font-bold text-amber-600">★4.6（2569件）</td>
                 <td className="p-3 font-bold text-rose-600">¥16,200〜</td>
@@ -271,7 +271,7 @@ export default function ThemeParkActivityHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. フォレストヴィラ　ハウステンボス</td>
                 <td className="p-3 text-stone-600">長崎県佐世保市ハウステンボス町7-7</td>
-                <td className="p-3 text-stone-600">ハウステンボス駅周辺</td>
+                <td className="p-3 text-stone-600">博多駅→特急約100分／長崎駅→快速約90分／長崎空港→高速船約45分・バス約60分</td>
                 <td className="p-3 text-stone-600">フロントにて無料券を発行しますので「宿泊者専用駐車場」をご利用ください。必ず出庫前にご精算ください。</td>
                 <td className="p-3 font-bold text-amber-600">★4.41（1075件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,900〜</td>
@@ -280,7 +280,7 @@ export default function ThemeParkActivityHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. ホテルオークラＪＲハウステンボス</td>
                 <td className="p-3 text-stone-600">長崎県佐世保市ハウステンボス町10</td>
-                <td className="p-3 text-stone-600">ハウステンボス駅周辺</td>
+                <td className="p-3 text-stone-600">西九州自動車道 佐世保大塔ICより車で15分/長崎空港よりバスで70分／JR博多駅より特急ハウステンボス号で110分</td>
                 <td className="p-3 text-stone-600">有、1泊1台あたり1000円 *到着日の朝から翌日正午まで。*2027年4月1日より1500円</td>
                 <td className="p-3 font-bold text-amber-600">★4.59（3289件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,750〜</td>
@@ -289,7 +289,7 @@ export default function ThemeParkActivityHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 弓張の丘ホテル</td>
                 <td className="p-3 text-stone-600">長崎県佐世保市鵜渡越町510</td>
-                <td className="p-3 text-stone-600">佐世保駅周辺</td>
+                <td className="p-3 text-stone-600">佐世保中央ＩＣよりお車で約10分 佐世保駅より無料シャトルバス運行</td>
                 <td className="p-3 text-stone-600">有り：１００台（無料）</td>
                 <td className="p-3 font-bold text-amber-600">★4.43（1716件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,336〜</td>
@@ -298,7 +298,7 @@ export default function ThemeParkActivityHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">6. 長崎スカイホテル</td>
                 <td className="p-3 text-stone-600">長崎県長崎市江の浦町18-1</td>
-                <td className="p-3 text-stone-600">長崎（長崎）駅周辺</td>
+                <td className="p-3 text-stone-600">JR長崎駅より車で10分</td>
                 <td className="p-3 text-stone-600">有り　20台　お車１台につき、普通車800円/中型車1,600円/大型車2,000円（税込）</td>
                 <td className="p-3 font-bold text-amber-600">★4.16（417件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,980〜</td>
@@ -327,7 +327,7 @@ export default function ThemeParkActivityHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>フロントにて無料券を発行しますので「宿泊者専用駐車場」をご利用ください。必ず出庫前にご精算ください。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「重厚感ある空間で夢のような特別な思い出すべてが素敵なお宿でキラキラしていて、特別な思い出になりました。お部屋もフロントも重厚感があり夢の国のようでした。ありがとうございます。クチコミの…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「重厚感ある空間で夢のような特別な思い出すべてが素敵なお宿でキラキラしていて、特別な思い出になりました。お部屋もフロントも重厚感があり夢の国のようでした。ありがとうございます。」
                   </blockquote>
                 </div>
               </div>
@@ -349,7 +349,7 @@ export default function ThemeParkActivityHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>フロントにて無料券を発行しますので「宿泊者専用駐車場」をご利用ください。必ず出庫前にご精算ください。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.6 ／ 立地 ★4.68 ／ 部屋 ★4.6 ／ 設備 ★4.42 ／ 風呂 ★4.28 ／ 食事 ★4.55</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ハウステンボス出入り自由で利便性も最高ハウステンボス出入り自由で今まで泊まったホテルの中でも一番良かったです子供達もおお喜びとにかく利便性がよくスタッフの方の対応もよかったです…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ハウステンボス出入り自由で利便性も最高ハウステンボス出入り自由で今まで泊まったホテルの中でも一番良かったです子供達もおお喜びとにかく利便性がよくスタッフの方の対応もよかったです。」
                   </blockquote>
                 </div>
               </div>
@@ -371,7 +371,7 @@ export default function ThemeParkActivityHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>フロントにて無料券を発行しますので「宿泊者専用駐車場」をご利用ください。必ず出庫前にご精算ください。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「家族5人で広々、朝食も満足の美味しさ大人5人家族で宿泊。リビングも広く、ベッドルームも2部屋あったので、ゆっくり休む事ができました。朝食のクチコミがあまり良くなかったですが、そんなことなかった…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「家族5人で広々、朝食も満足の美味しさ大人5人家族で宿泊。リビングも広く、ベッドルームも2部屋あったので、ゆっくり休む事ができました。」
                   </blockquote>
                 </div>
               </div>
@@ -393,7 +393,7 @@ export default function ThemeParkActivityHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有、1泊1台あたり1000円 *到着日の朝から翌日正午まで。*2027年4月1日より1500円</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.63 ／ 立地 ★4.65 ／ 部屋 ★4.61 ／ 設備 ★4.53 ／ 風呂 ★4.47 ／ 食事 ★4.65</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「さすがオークラ、全てが完璧で大満足!娘と孫との利用でした。全てにおいて完璧で、さすがオークラって感じでした!ハイキングも種類が多く3泊しましたが、食べてない物もありました、とても美味しかっ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「さすがオークラ、全てが完璧で大満足!娘と孫との利用でした。全てにおいて完璧で、さすがオークラって感じでした!」
                   </blockquote>
                 </div>
               </div>
@@ -415,7 +415,7 @@ export default function ThemeParkActivityHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り：１００台（無料）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「景色は最高だが設備やサービスに不満あり綺麗なホテルでした。売店もお菓子から焼き物まで種類が多く、佐世保駅で買う予定を変更したほど満足しました。朝食2970円は高いお部屋にティッシュ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「景色は最高だが設備やサービスに不満あり綺麗なホテルでした。売店もお菓子から焼き物まで種類が多く、佐世保駅で買う予定を変更したほど満足しました。」
                   </blockquote>
                 </div>
               </div>
@@ -437,7 +437,7 @@ export default function ThemeParkActivityHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　20台　お車１台につき、普通車800円/中型車1,600円/大型車2,000円（税込）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「長崎を一望できる絶景、部屋はリフォーム済み長崎が一望できるホテル 稲佐山展望台に行く必要がないレベル。施設は少し時間が経ってるようだが、今回泊まらせて頂いた部屋はリフォーム済みで素敵な空間で泊まれ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「長崎を一望できる絶景、部屋はリフォーム済み長崎が一望できるホテル 稲佐山展望台に行く必要がないレベル。」
                   </blockquote>
                 </div>
               </div>

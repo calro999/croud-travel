@@ -557,8 +557,8 @@ export default function FeatureDetailPage() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 雄琴駅よりアクセス。ＪＲ湖西線おごと温泉駅下車、車5分(送迎有) 名神高速道路、京都東ＩＣより湖西道路経由仰木雄琴より5分無料駐車場有り。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「琵琶湖グランドホテル・京近江」にチェックイン。お1人様～カップル・ファミリー・グループ様大歓迎。大切な方と琵琶湖ステイ。京都や延暦寺へアクセス良好などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「琵琶湖グランドホテル・京近江」の湯処へ。お1人様～カップル・ファミリー・グループ様大歓迎。大切な方と琵琶湖ステとともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「琵琶湖グランドホテル・京近江」にチェックイン。お1人様～カップル・ファミリー・グループ様大歓迎。大切な方と琵琶湖ステイ。京都や延暦寺へアクセス良好が魅力の一軒。客室で荷物をほどいて穏やかな午後のひとときを。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「琵琶湖グランドホテル・京近江」の自慢の湯処へ。温かな湯気と落ち着いた雰囲気に癒やされながら、夕食前の贅沢なひとときを過ごす。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「琵琶湖グランドホテル・京近江」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -570,7 +570,7 @@ export default function FeatureDetailPage() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「琵琶湖グランドホテル・京近江」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「琵琶湖グランドホテル・京近江」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「琵琶湖ホテル」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は「琵琶湖グランドホテル・京近江」周辺の観光スポットや地元の名産店に立ち寄り、ご当地のお土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>
@@ -620,49 +620,49 @@ export default function FeatureDetailPage() {
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">あわせて読みたい人気特集＆全国エリアガイド</h2>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
-            <a href="/winter-aomori-oirase-hakkoda-onsen-frozen-waterfall-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/fukuoka-hakata-early-morning-ramen-breakfast-guide/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12月奥入瀬渓流温泉と八甲田山樹氷の初冬秘湯】幻想的な氷瀑ライトアップ・白濁名湯露天風呂と青森倉石牛＆陸奥湾ホタテ会席の宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「博多・天神 早朝から食べられる長浜ラーメン＆朝食ビュッフェ」 朝6時台オープンの市場めし完全版</span>
             </a>
-            <a href="/aomori-oirase-towada-nature-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/furusato-tax-kotousanzan-hikone-autumn-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">青森・十和田湖＆奥入瀬渓流：苔むす清流・銚子大滝＆青森りんご極上宿 厳選ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">湖東三山（百済寺・金剛輪寺・西明寺）名刹の紅葉巡り＆国宝彦根城・本場近江牛すき焼き会席｜ふるさと納税で泊まれる名宿ガイド</span>
             </a>
-            <a href="/autumn-budget-aomori-hirosaki-castle-momiji-hotels-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/furusato-tax-omihachiman-suigo-autumn-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">秋の弘前×格安：弘前城菊と紅葉まつりと焼きたてアップルパイ！大浴場付き1泊4,000円〜7,000円台のコスパ最強ホテル5選「2026最新」！大浴場付き1泊4,000円〜7,000円台のコスパ最強ホテル5選「2026最新」</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">近江八幡の水郷めぐり手漕ぎ舟紅葉＆八幡堀の白壁土蔵！近江牛会席の宿×ふるさと納税厳選ガイド滋賀</span>
             </a>
-            <a href="/furusato-tax-oirase-towada-autumn-leaves-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/hikone-omihachiman-solo-business-castle-beef-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">奥入瀬渓流の黄金紅葉トンネル＆十和田湖畔温泉！十和田荘・賑山亭・プリンスホテル×ふるさと納税厳選ガイド青森・秋田</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「彦根・近江八幡出張」国宝彦根城ビュー・名湯城見風呂・極上近江牛グルメ！湖東ビジネスを格上げする厳選3宿</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
             <div className="flex flex-wrap gap-2">
               <Link
-                href="/prefectures/mie/"
+                href="/prefectures/shiga/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                三重県の宿・温泉
+                滋賀県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/oita/"
+                href="/prefectures/kyoto/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                大分県の宿・温泉
+                京都府の宿・温泉
               </Link>
               <Link
-                href="/prefectures/aomori/"
+                href="/prefectures/osaka/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                青森県の宿・温泉
+                大阪府の宿・温泉
               </Link>
               <Link
-                href="/prefectures/okayama/"
+                href="/prefectures/hyogo/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                岡山県の宿・温泉
+                兵庫県の宿・温泉
               </Link>
             </div>
           </div>
@@ -698,7 +698,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 琵琶湖ホテル</td>
                 <td className="p-3 text-stone-600">滋賀県大津市浜町2-40</td>
-                <td className="p-3 text-stone-600">大津駅周辺</td>
+                <td className="p-3 text-stone-600">JR大津駅より徒歩約15分／京阪びわ湖浜大津駅より徒歩約5分／名神大津ICより約10分／無料駐車場</td>
                 <td className="p-3 text-stone-600">有り　155台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.53（2672件）</td>
                 <td className="p-3 font-bold text-rose-600">¥10,200〜</td>
@@ -707,7 +707,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 琵琶湖マリオットホテル</td>
                 <td className="p-3 text-stone-600">滋賀県守山市今浜町十軒家2876</td>
-                <td className="p-3 text-stone-600">堅田駅周辺</td>
+                <td className="p-3 text-stone-600">JR堅田駅より無料シャトルバス運行【時刻表等の詳細はホテルHPへ】</td>
                 <td className="p-3 text-stone-600">駐車場有 185台 2026年8月1日より有料となります。500円/1泊　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.27（613件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,660〜</td>
@@ -716,7 +716,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 奥琵琶湖マキノグランドパークホテル</td>
                 <td className="p-3 text-stone-600">滋賀県高島市マキノ町西浜763-2</td>
-                <td className="p-3 text-stone-600">マキノ（滋賀）駅周辺</td>
+                <td className="p-3 text-stone-600">JR湖西線『マキノ駅』下車、徒歩約12分 無料駐車場</td>
                 <td className="p-3 text-stone-600">有り　150台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★3.95（594件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,000〜</td>
@@ -725,7 +725,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. グランドメルキュール琵琶湖リゾート＆スパ</td>
                 <td className="p-3 text-stone-600">滋賀県長浜市大島町38</td>
-                <td className="p-3 text-stone-600">長浜駅周辺</td>
+                <td className="p-3 text-stone-600">長浜駅から(西出口)徒歩約10分(無料定時送迎有）米原駅から車約20分 長浜ＩＣから車約15分 米原ＩＣから車約20分</td>
                 <td className="p-3 text-stone-600">屋外150台有料：普通車1泊500円（大型要問合せ）</td>
                 <td className="p-3 font-bold text-amber-600">★4.05（5347件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,961〜</td>
@@ -734,7 +734,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 琵琶湖グランドホテル・京近江</td>
                 <td className="p-3 text-stone-600">滋賀県大津市雄琴6-5-1</td>
-                <td className="p-3 text-stone-600">雄琴駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ湖西線おごと温泉駅下車、車5分(送迎有) 名神高速道路、京都東ＩＣより湖西道路経由仰木雄琴より5分無料駐車場有り</td>
                 <td className="p-3 text-stone-600">有り　３５０台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.16（828件）</td>
                 <td className="p-3 font-bold text-rose-600">¥12,540〜</td>
@@ -763,7 +763,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　155台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「「琵琶湖を一望できる素敵なホテル」「家族旅行で利用しました。ホテルから見える琵琶湖の景色がとてもきれいで、ゆっくり過ごすことができました。お部屋も清潔感があり、スタッフの方々の対応も丁寧で気持ちよ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「「琵琶湖を一望できる素敵なホテル」「家族旅行で利用しました。ホテルから見える琵琶湖の景色がとてもきれいで、ゆっくり過ごすことができました。」
                   </blockquote>
                 </div>
               </div>
@@ -785,7 +785,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>駐車場有 185台 2026年8月1日より有料となります。500円/1泊　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「期待していたサービスや清潔感に欠ける内容プールやプラネタリウムなど、館内の施設がほとんど追加料金制だったのが残念でした。駐車場も有料。この価格帯であれば、同程度の料金でオールインクルーシブのホテル…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「期待していたサービスや清潔感に欠ける内容プールやプラネタリウムなど、館内の施設がほとんど追加料金制だったのが残念でした。駐車場も有料。」
                   </blockquote>
                 </div>
               </div>
@@ -829,7 +829,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>屋外150台有料：普通車1泊500円（大型要問合せ）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「レイクビューとラウンジのお酒に感動レイクビューの部屋に宿泊しました!部屋は綺麗で景色も最高でした!夜のラウンジを利用しました。お酒の種類の多さに感動してついつい飲みすぎました!ただ、おつまみの…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「レイクビューとラウンジのお酒に感動レイクビューの部屋に宿泊しました!部屋は綺麗で景色も最高でした!夜のラウンジを利用しました。お酒の種類の多さに感動してついつい飲みすぎました!」
                   </blockquote>
                 </div>
               </div>

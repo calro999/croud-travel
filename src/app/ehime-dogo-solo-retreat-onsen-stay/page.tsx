@@ -383,7 +383,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 道後温泉　にぎたつ会館</td>
                 <td className="p-3 text-stone-600">愛媛県松山市道後姫塚118-2</td>
-                <td className="p-3 text-stone-600">道後温泉駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ松山駅より路面電車２０分→道後温泉駅下車→徒歩５分 伊佐爾波神社の右手</td>
                 <td className="p-3 text-stone-600">有り　78台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.02（1724件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,800〜</td>
@@ -392,7 +392,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 道後温泉　ホテル椿館</td>
                 <td className="p-3 text-stone-600">愛媛県松山市道後鷺谷町5-32</td>
-                <td className="p-3 text-stone-600">松山（愛媛）駅周辺</td>
+                <td className="p-3 text-stone-600">JR松山駅より伊予鉄道にて道後温泉駅下車 / 松山自動車道 松山ICより３０分</td>
                 <td className="p-3 text-stone-600">100台。車：1泊1台880円　バイク：550円</td>
                 <td className="p-3 font-bold text-amber-600">★4.52（2228件）</td>
                 <td className="p-3 font-bold text-rose-600">¥9,900〜</td>
@@ -401,7 +401,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 道後温泉　八千代</td>
                 <td className="p-3 text-stone-600">愛媛県松山市道後多幸町6-34</td>
-                <td className="p-3 text-stone-600">道後温泉駅周辺</td>
+                <td className="p-3 text-stone-600">道後温泉駅より徒歩にて約5分 松山空港から車で35分！</td>
                 <td className="p-3 text-stone-600">有り　２3台　８００円（税別／泊）　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.79（507件）</td>
                 <td className="p-3 font-bold text-rose-600">¥23,100〜</td>
@@ -452,7 +452,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>100台。車：1泊1台880円　バイク：550円</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.6 ／ 立地 ★4.45 ／ 部屋 ★4.52 ／ 設備 ★4.44 ／ 風呂 ★4.48 ／ 食事 ★4.66</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「全てが最高、スタッフの気配りに感動!立地、内観、外観、大浴場、サービス全て最高!店内の売店も充実していて良い!エレベーターに乗ろうとすると毎回スタッフが先にエレベーターを用意してくれていて素晴らし…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「全てが最高、スタッフの気配りに感動!立地、内観、外観、大浴場、サービス全て最高!店内の売店も充実していて良い!」
                   </blockquote>
                 </div>
               </div>
@@ -474,7 +474,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２3台　８００円（税別／泊）　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「帰省のたびに利用、変わらぬ素晴らしいサービスもう何年も、いつも帰省の際に利用させて頂いてますが変わらず素晴らしいサービスを提供していただきありがとうございます」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「帰省のたびに利用、変わらぬ素晴らしいサービスもう何年も、いつも帰省の際に利用させて頂いてますが変わらず素晴らしいサービスを提供していただきありがとうございますh。」
                   </blockquote>
                 </div>
               </div>

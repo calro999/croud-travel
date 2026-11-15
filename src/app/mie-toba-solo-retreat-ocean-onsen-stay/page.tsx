@@ -337,8 +337,8 @@ export default function ArticlePage() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 鳥羽駅よりアクセス。ＪＲ／近鉄鳥羽駅①番出口※送迎バス①15：40②16：40（要予約）／伊勢自動車道伊勢西ＩＣ→鳥羽二見ライン経由約30分。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「ＫＫＲ鳥羽 いそぶえ荘」にチェックイン。国家公務員共済組合連合会が組合員等の利用を目的として運営する宿泊施設です※全室禁煙などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「ＫＫＲ鳥羽 いそぶえ荘」の湯処へ。国家公務員共済組合連合会が組合員等の利用を目的として運営する宿泊施設でとともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「ＫＫＲ鳥羽 いそぶえ荘」にチェックイン。国家公務員共済組合連合会が組合員等の利用を目的として運営する宿泊施設です※全室禁煙が魅力の一軒。客室で荷物をほどいて穏やかな午後のひとときを。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「ＫＫＲ鳥羽 いそぶえ荘」の湯船で寛ぎタイム。季節の空気を感じながら手足を伸ばし、心豊かな夕方のリラックス時間を満喫。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「ＫＫＲ鳥羽 いそぶえ荘」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -350,7 +350,7 @@ export default function ArticlePage() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「ＫＫＲ鳥羽 いそぶえ荘」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「ＫＫＲ鳥羽 いそぶえ荘」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「伊勢神宮のお膝元 鳥羽 胡蝶蘭」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は「ＫＫＲ鳥羽 いそぶえ荘」周辺の観光スポットや地元の名産店に立ち寄り、ご当地のお土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>
@@ -366,49 +366,49 @@ export default function ArticlePage() {
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">あわせて読みたい人気特集＆全国エリアガイド</h2>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
-            <a href="/traditional-fukushima-aizu-urushi-craft-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/winter-kanagawa-yugawara-onsen-bungo-kaiseki-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">会津漆器の艶やかな器と郷土会席：伝統美学！東山温泉・芦ノ牧温泉の歴史名湯宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12月湯河原温泉の名湯と奥湯河原晩秋紅葉】 文豪が愛した万葉の隠れ家・相模湾の伊勢海老＆地魚会席の宿5選</span>
             </a>
-            <a href="/winter-fukushima-bandaiatami-onsen-hagihime-fukushimagyu-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/winter-mie-ago-bay-luxury-basara-shimanokaze-matsusaka-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12月福島・磐梯熱海温泉】萩姫伝説の美肌ぬる湯・初冬猪苗代湖の白鳥と極上福島牛・地酒を味わう名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【英虞湾の夕景リアス美と全室離れ露天風呂スイート】2026-2027年11-12月の三重・志摩賢島！「汀渚 ばさら邸」＆ベイスイート・冬の伊勢志摩天然伊勢海老・極上松阪牛名宿5選</span>
             </a>
-            <a href="/winter-fukushima-urabandai-onsen-goshikinuma-snow-fukushimagyu-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/winter-mie-ise-jingu-hatsumode-okageyokocho-iseebi-matsusaka-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12月福島・裏磐梯温泉郷の五色沼初雪ウォークと磐梯山雪景色】極上福島牛ステーキ＆会津地鶏鍋・桧原湖ワカサギを味わう高原リゾート名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「11・12・1月三重」伊勢神宮新春初詣とおかげ横丁・五十鈴川の朝霧と神域参拝・冬の極上伊勢海老＆松阪牛会席を味わう伊勢名宿5選</span>
             </a>
-            <a href="/fukushima-bandaiatami-solo-retreat-clearskin-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/winter-mie-nabana-no-sato-illumination-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">会津郡山・磐梯熱海温泉ひとり旅・萩姫伝説の美肌湯おこもり：pH9超とろとろアルカリ泉・地酒王国ふくしま・清流五百川！郡山新幹線20分の隠れ里厳選3宿</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12月！なばなの里イルミネーション】光のトンネルと湯の山温泉・長島リゾート宿5選</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
             <div className="flex flex-wrap gap-2">
               <Link
-                href="/prefectures/chiba/"
+                href="/prefectures/mie/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                千葉県の宿・温泉
+                三重県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/fukushima/"
+                href="/prefectures/shizuoka/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                福島県の宿・温泉
+                静岡県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/niigata/"
+                href="/prefectures/gifu/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                新潟県の宿・温泉
+                岐阜県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/yamaguchi/"
+                href="/prefectures/aichi/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                山口県の宿・温泉
+                愛知県の宿・温泉
               </Link>
             </div>
           </div>
@@ -444,7 +444,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. ＫＫＲ鳥羽　いそぶえ荘（国家公務員共済組合連合会鳥羽保養所）</td>
                 <td className="p-3 text-stone-600">三重県鳥羽市安楽島町1075</td>
-                <td className="p-3 text-stone-600">鳥羽駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ／近鉄鳥羽駅①番出口※送迎バス①15：40②16：40（要予約）／伊勢自動車道伊勢西ＩＣ→鳥羽二見ライン経由約30分</td>
                 <td className="p-3 text-stone-600">有り・３０台・無料※急こう配にご注意ください◆バイクはフロント横「屋根付き駐車場」へ</td>
                 <td className="p-3 font-bold text-amber-600">★4.56（217件）</td>
                 <td className="p-3 font-bold text-rose-600">¥14,500〜</td>
@@ -453,7 +453,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 伊勢神宮のお膝元　鳥羽　胡蝶蘭</td>
                 <td className="p-3 text-stone-600">三重県鳥羽市小浜町237-1</td>
-                <td className="p-3 text-stone-600">鳥羽駅周辺</td>
+                <td className="p-3 text-stone-600">鳥羽駅よりお車で5分・近鉄鳥羽駅無料送迎あり(14:45～18:00)・ 伊勢IC～伊勢二見鳥羽ライン経由25分程</td>
                 <td className="p-3 text-stone-600">有　30台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.42（1472件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,250〜</td>
@@ -462,7 +462,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 湯めぐり海百景　鳥羽シーサイドホテル</td>
                 <td className="p-3 text-stone-600">三重県鳥羽市安楽島町1084</td>
-                <td className="p-3 text-stone-600">鳥羽駅周辺</td>
+                <td className="p-3 text-stone-600">近鉄・ＪＲ鳥羽駅より車で１０分（無料送迎有・定期運行）／伊勢自動車道 伊勢ＩＣ→伊勢二見鳥羽ライン２５分</td>
                 <td className="p-3 text-stone-600">有り　２００台　無料　先着順 カーナビ検索は０５９９－２５－５１５１で</td>
                 <td className="p-3 font-bold text-amber-600">★4.41（1634件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,700〜</td>
@@ -535,7 +535,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２００台　無料　先着順 カーナビ検索は０５９９－２５－５１５１で</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.48 ／ 立地 ★4.53 ／ 部屋 ★4.36 ／ 設備 ★4.24 ／ 風呂 ★4.48 ／ 食事 ★4.4</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「古き良き温泉と朝食バイキングに大満足高齢の母と姪との女子旅でした、昭和の時代の古き良きリゾートホテルという感じで湯めぐりと名のつく3つあるお風呂の1つは閉まってましたがあとの2つの温泉で人も多くな…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「古き良き温泉と朝食バイキングに大満足高齢の母と姪との女子旅でした、昭和の時代の古き良きリゾートホテルという感じで湯めぐりと名のつく3つあるお風呂の1つは閉まってましたがあとの2つの温泉で人も多くな。」
                   </blockquote>
                 </div>
               </div>

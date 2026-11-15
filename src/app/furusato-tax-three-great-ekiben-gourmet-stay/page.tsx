@@ -409,8 +409,8 @@ export default function Page() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> JR磯部駅から徒歩５分／上信越高速道 松井田・妙義IC～R18号で10分／北陸新幹線 安中棒名駅～タクシー25分で現地へ到着。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「磯部温泉 舌切雀のお宿 ホテル磯部ガーデン」にチェックイン。只今割引クーポン配布中 富岡製糸場・軽井沢の近く舌切雀伝説のお宿。4つの大浴場、露天付客室も充実などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「磯部温泉 舌切雀のお宿 ホテル磯部ガーデン」の湯処へ。只今割引クーポン配布中 富岡製糸場・軽井沢の近く舌切雀伝説のお宿。4つとともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「磯部温泉 舌切雀のお宿 ホテル磯部ガーデン」にチェックイン。【只今割引クーポン配布中】富岡製糸場・軽井沢の近く舌切雀伝説のお宿。 まずは客室で移動の疲れをそっと癒やす。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「磯部温泉 舌切雀のお宿 ホテル磯部ガーデン」の大浴場・露天風呂へ。日暮れの静けさの中で湯に浸かり、旅の緊張をゆっくりと解きほぐす。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「磯部温泉 舌切雀のお宿 ホテル磯部ガーデン」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -422,7 +422,7 @@ export default function Page() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「磯部温泉 舌切雀のお宿 ホテル磯部ガーデン」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「磯部温泉 舌切雀のお宿 ホテル磯部ガーデン」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「ラ・ジェント・ステイ函館駅前」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は宿周辺の散策とショッピングを満喫。地元の名産品やグルメを味わってから余裕をもって帰路につく。</li>
               </ul>
             </div>
           </div>

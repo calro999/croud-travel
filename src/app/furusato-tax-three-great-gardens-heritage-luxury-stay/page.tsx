@@ -420,8 +420,8 @@ export default function Page() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 金沢駅よりアクセス。ＪＲ金沢駅兼六園口より徒歩３分。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「加賀屋グループ 料理旅館 金沢茶屋」にチェックイン。金沢駅から徒歩3分の料理旅館。などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「加賀屋グループ 料理旅館 金沢茶屋」の湯処へ。金沢駅から徒歩3分の料理旅館。とともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「加賀屋グループ 料理旅館 金沢茶屋」にチェックイン。金沢駅から徒歩3分の料理旅館。 館内の設えを確かめながら、これからの滞在に備えてゆっくり休息する。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「加賀屋グループ 料理旅館 金沢茶屋」の自慢の湯処へ。温かな湯気と落ち着いた雰囲気に癒やされながら、夕食前の贅沢なひとときを過ごす。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「加賀屋グループ 料理旅館 金沢茶屋」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -433,7 +433,7 @@ export default function Page() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「加賀屋グループ 料理旅館 金沢茶屋」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「加賀屋グループ 料理旅館 金沢茶屋」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「ホテルグランヴィア岡山」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は「加賀屋グループ 料理旅館 金沢茶屋」周辺の観光スポットや地元の名産店に立ち寄り、ご当地のお土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>
@@ -561,7 +561,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 加賀屋グループ　料理旅館　金沢茶屋</td>
                 <td className="p-3 text-stone-600">石川県金沢市本町2-17-21</td>
-                <td className="p-3 text-stone-600">金沢駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ金沢駅兼六園口より徒歩３分。</td>
                 <td className="p-3 text-stone-600">有り（1,000円／泊）</td>
                 <td className="p-3 font-bold text-amber-600">★4.68（182件）</td>
                 <td className="p-3 font-bold text-rose-600">¥25,300〜</td>
@@ -570,7 +570,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. ホテルグランヴィア岡山</td>
                 <td className="p-3 text-stone-600">岡山県岡山市北区駅元町1-5</td>
-                <td className="p-3 text-stone-600">岡山駅周辺</td>
+                <td className="p-3 text-stone-600">JR岡山駅直結（徒歩1分）／山陽自動車道 岡山ICより車で20分／岡山空港より車で30分</td>
                 <td className="p-3 text-stone-600">ホテル地下に有り　171台　24時間1,300円　事前予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.44（6596件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,450〜</td>
@@ -579,7 +579,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. ホテル・ザ・ウエストヒルズ・水戸（リッチモンドホテルズ提携ホテル）</td>
                 <td className="p-3 text-stone-600">茨城県水戸市大工町1-2-1</td>
-                <td className="p-3 text-stone-600">水戸駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ水戸駅から路線バス大工町下車（約10分）◇常磐道水戸I.Cより約15分、北関東自動車道水戸南I.Cより約25分</td>
                 <td className="p-3 text-stone-600">自走式立体駐車場、700円（１泊1台）車高制限2.1m、予約不可（満車時は近隣提携駐車場案内）</td>
                 <td className="p-3 font-bold text-amber-600">★4.43（1794件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,500〜</td>
@@ -608,7 +608,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り（1,000円／泊）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「接客と料理が最高、子供も大満足の金沢旅行幼児連れの家族で一泊しました。ホスピタリティ溢れた接客がありがたかったです。部屋は掃除が行き届いており、水回りも綺麗で気持ちよく使えました。1番楽しみに…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「接客と料理が最高、子供も大満足の金沢旅行幼児連れの家族で一泊しました。ホスピタリティ溢れた接客がありがたかったです。部屋は掃除が行き届いており、水回りも綺麗で気持ちよく使えました。」
                   </blockquote>
                 </div>
               </div>
@@ -652,7 +652,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>自走式立体駐車場、700円（１泊1台）車高制限2.1m、予約不可（満車時は近隣提携駐車場案内）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「水回りが清潔でリファのシャワーも最高水回りがとても良かった。お風呂が家のお風呂のようにきちんと洗い場もあって、しかもシャワーヘッドはリファ!台風の中到着したので、ゆったりと入浴できました。…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「水回りが清潔でリファのシャワーも最高水回りがとても良かった。お風呂が家のお風呂のようにきちんと洗い場もあって、しかもシャワーヘッドはリファ!台風の中到着したので、ゆったりと入浴できました。」
                   </blockquote>
                 </div>
               </div>

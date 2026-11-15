@@ -253,7 +253,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 下呂温泉　下呂ロイヤルホテル雅亭</td>
                 <td className="p-3 text-stone-600">岐阜県下呂市湯之島758-15</td>
-                <td className="p-3 text-stone-600">下呂駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ下呂駅より徒歩５分（送迎あり）【温泉街にある宿】 【団体客なし】 【お部屋食】 【コンビニ徒歩１分】</td>
                 <td className="p-3 text-stone-600">無料駐車場完備</td>
                 <td className="p-3 font-bold text-amber-600">★4.22（2534件）</td>
                 <td className="p-3 font-bold text-rose-600">¥12,500〜</td>
@@ -262,7 +262,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 桜　Ｒｉｖｅｒ　Ｓｉｄｅ　Ｓｔａｙ　下呂温泉</td>
                 <td className="p-3 text-stone-600">岐阜県下呂市湯之島868-1</td>
-                <td className="p-3 text-stone-600">下呂駅周辺</td>
+                <td className="p-3 text-stone-600">JR下呂駅より徒歩9分</td>
                 <td className="p-3 text-stone-600">有り　10台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★3.58（97件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,200〜</td>
@@ -271,7 +271,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 下呂温泉　温泉ビジネスホテル富喜屋</td>
                 <td className="p-3 text-stone-600">岐阜県下呂市幸田1185</td>
-                <td className="p-3 text-stone-600">下呂駅周辺</td>
+                <td className="p-3 text-stone-600">中央道・中津川ＩＣ／Ｒ２５７～５０分。名神・小牧ＩＣ／Ｒ４１～１０５分。ＪＲ高山線・下呂駅～北方向100ｍ・徒歩２分。</td>
                 <td className="p-3 text-stone-600">当館無料Ｐ満車の際は、隣接の「下呂温泉栄パーキング」をご利用ください。当館にて半額補助いたします</td>
                 <td className="p-3 font-bold text-amber-600">★3.79（112件）</td>
                 <td className="p-3 font-bold text-rose-600">¥9,000〜</td>
@@ -280,7 +280,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 下呂温泉　ホテルくさかべアルメリア</td>
                 <td className="p-3 text-stone-600">岐阜県下呂市幸田1811</td>
-                <td className="p-3 text-stone-600">下呂駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ高山線 下呂駅より車で３分（無料送迎バス有り）/東海環状道富加関ＩＣより７０分又は中央道中津川ＩＣより６０分</td>
                 <td className="p-3 text-stone-600">有り　２００台　無料　予約不要　電気自動車充電器あり（有料、要ケーブル持込み）</td>
                 <td className="p-3 font-bold text-amber-600">★4.21（4605件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,920〜</td>
@@ -289,7 +289,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 下呂温泉　水明館</td>
                 <td className="p-3 text-stone-600">岐阜県下呂市幸田1268</td>
-                <td className="p-3 text-stone-600">下呂駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ高山本線下呂駅より徒歩３分【下呂駅まで随時送迎バス有】／中央自動車道 中津川ＩＣよりＲ２５７で約６０分</td>
                 <td className="p-3 text-stone-600">有り ２００台 【無料】 ※大型車の駐車も可能です。</td>
                 <td className="p-3 font-bold text-amber-600">★4.36（6417件）</td>
                 <td className="p-3 font-bold text-rose-600">¥9,350〜</td>
@@ -298,7 +298,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">6. 下呂温泉　紗々羅</td>
                 <td className="p-3 text-stone-600">岐阜県下呂市森1412-1</td>
-                <td className="p-3 text-stone-600">下呂駅周辺</td>
+                <td className="p-3 text-stone-600">JR高山本線「下呂駅」よりタクシーで3分（タクシー代は当社持ち）。中央道 中津川ICよりR257経由で60分。</td>
                 <td className="p-3 text-stone-600">有り　40台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.15（1146件）</td>
                 <td className="p-3 font-bold text-rose-600">¥10,670〜</td>
@@ -327,7 +327,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料駐車場完備</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「丁寧な接客と食事、設備は老朽化が目立つ丁寧な接客をしていただきました。夕食を部屋食にしていただいたのですが、食事処も綺麗だったので、そちらでも良かったです。最上階の大浴場、露天風呂は、畳敷…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「丁寧な接客と食事、設備は老朽化が目立つ丁寧な接客をしていただきました。夕食を部屋食にしていただいたのですが、食事処も綺麗だったので、そちらでも良かったです。」
                   </blockquote>
                 </div>
               </div>
@@ -349,7 +349,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　10台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.69 ／ 立地 ★3.89 ／ 部屋 ★3.75 ／ 設備 ★3.61 ／ 風呂 ★3.71 ／ 食事 ★3.95</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「飛騨川の景色と温泉、絶品料理に癒される天気も良く、窓から見える飛騨川のキラキラした水面と川の音に心が癒されました。今回で3回目の宿泊でしたが、何度食べてもまた食べたくなるスペアリブとトロト…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「飛騨川の景色と温泉、絶品料理に癒される天気も良く、窓から見える飛騨川のキラキラした水面と川の音に心が癒されました。」
                   </blockquote>
                 </div>
               </div>
@@ -371,7 +371,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>当館無料Ｐ満車の際は、隣接の「下呂温泉栄パーキング」をご利用ください。当館にて半額補助いたします</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「立地は最高だが設備に難あり駅から近くで部屋からは川が望め、コンビニもすぐ隣にあり立地は最高です。内装も綺麗にしておりいい感じなのですが、壁が薄くて音が響きやすい、洗面にハンドソープがない、冷蔵…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「立地は最高だが設備に難あり駅から近くで部屋からは川が望め、コンビニもすぐ隣にあり立地は最高です。」
                   </blockquote>
                 </div>
               </div>
@@ -415,7 +415,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り ２００台 【無料】 ※大型車の駐車も可能です。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.38 ／ 立地 ★4.38 ／ 部屋 ★4.32 ／ 設備 ★4.26 ／ 風呂 ★4.53 ／ 食事 ★4.36</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「リニューアルされた綺麗な部屋と美味しい食事部屋からの眺めはイマイチだったけど、リニューアルされたお部屋は綺麗で快適でした!畳の空間もあって良き!お夕食もリズミカルに出てきて、食べやすかった…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「リニューアルされた綺麗な部屋と美味しい食事部屋からの眺めはイマイチだったけど、リニューアルされたお部屋は綺麗で快適でした!畳の空間もあって良き!」
                   </blockquote>
                 </div>
               </div>
@@ -437,7 +437,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　40台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.18 ／ 立地 ★4.12 ／ 部屋 ★4.22 ／ 設備 ★4.06 ／ 風呂 ★4.26 ／ 食事 ★4.24</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事も接客も五つ星、全てが快適で大満足お食事、もてなし、清潔さ、お風呂全て快適で綺麗で申し分ないです。案内も対応も五つ星です!お部屋担当の方にはとても親切にして頂きました。ありがと…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事も接客も五つ星、全てが快適で大満足お食事、もてなし、清潔さ、お風呂全て快適で綺麗で申し分ないです。案内も対応も五つ星です!お部屋担当の方にはとても親切にして頂きました。」
                   </blockquote>
                 </div>
               </div>

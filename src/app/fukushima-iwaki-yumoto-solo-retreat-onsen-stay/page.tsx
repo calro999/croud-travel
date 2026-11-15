@@ -338,8 +338,8 @@ export default function ArticlePage() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 湯本駅よりアクセス。ＪＲ常磐線 湯本駅よりタクシー５分／常磐自動車道 湯本ＩＣより約１５分。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「いわき湯本温泉 吹の湯旅館」にチェックイン。赤松林に囲まれた閑静なお宿です。湯量豊富な温泉と、丁寧に仕上げたお料理が自慢です。などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「いわき湯本温泉 吹の湯旅館」の湯処へ。赤松林に囲まれた閑静なお宿です。湯量豊富な温泉と、丁寧に仕上げたお料理とともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「いわき湯本温泉 吹の湯旅館」にチェックイン。赤松林に囲まれた閑静なお宿です。湯量豊富な温泉と、丁寧に仕上げたお料理が自慢です。 客室で身支度を整え、この宿ならではの滞在をスタート。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「いわき湯本温泉 吹の湯旅館」の自慢の湯処へ。温かな湯気と落ち着いた雰囲気に癒やされながら、夕食前の贅沢なひとときを過ごす。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「いわき湯本温泉 吹の湯旅館」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -351,7 +351,7 @@ export default function ArticlePage() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「いわき湯本温泉 吹の湯旅館」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「いわき湯本温泉 吹の湯旅館」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「いわき湯本温泉 鮮の宿 柏」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は宿周辺の散策とショッピングを満喫。地元の名産品やグルメを味わってから余裕をもって帰路につく。</li>
               </ul>
             </div>
           </div>
@@ -454,7 +454,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. いわき湯本温泉　鮮の宿　柏</td>
                 <td className="p-3 text-stone-600">福島県いわき市常磐湯本町三函196</td>
-                <td className="p-3 text-stone-600">湯本駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ常磐線 湯本駅より徒歩５分／常磐自動車道 いわき湯本ＩＣよりお車で１０分 ハワイアンズまでお車で10分</td>
                 <td className="p-3 text-stone-600">有り　３０台　（無料）</td>
                 <td className="p-3 font-bold text-amber-600">★4.3（429件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,800〜</td>
@@ -463,7 +463,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. いわき湯本温泉　雨情の宿　新つた</td>
                 <td className="p-3 text-stone-600">福島県いわき市常磐湯本町吹谷58</td>
-                <td className="p-3 text-stone-600">湯本駅周辺</td>
+                <td className="p-3 text-stone-600">常磐線・湯本駅より徒歩７分／常磐自動車道・湯本ＩＣよりお車で１０分</td>
                 <td className="p-3 text-stone-600">有り　４０台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.33（947件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,650〜</td>
@@ -492,7 +492,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉の泉質が最高、食事も景色も大満足歴史がある宿、温泉の泉質が最高でした!!食事も高齢者には丁度良い量で美味しくいただきました。お部屋は角部屋で自然の景色で癒されました。また紅葉の季節にう…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉の泉質が最高、食事も景色も大満足歴史がある宿、温泉の泉質が最高でした!!食事も高齢者には丁度良い量で美味しくいただきました。お部屋は角部屋で自然の景色で癒されました。」
                   </blockquote>
                 </div>
               </div>
@@ -514,7 +514,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　３０台　（無料）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「施設は古いが温泉が良く、食事も大満足皆さん投稿されてるように、古い施設ですが特に気になりませんでした。お風呂は良かったです!四回入りました。初めての湯本温泉でしたが、温泉街の風情がなくてがっかりし…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「施設は古いが温泉が良く、食事も大満足皆さん投稿されてるように、古い施設ですが特に気になりませんでした。お風呂は良かったです!四回入りました。」
                   </blockquote>
                 </div>
               </div>
@@ -536,7 +536,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　４０台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「快適に過ごせました以前は和室に宿泊しましたが、今回はリニューアルした部屋を利用しました。上階だったこともあり、空が見えて木々とのバランスが良く開放的でした。子供がいたからか夕食は個室で対応して頂き…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「快適に過ごせました以前は和室に宿泊しましたが、今回はリニューアルした部屋を利用しました。上階だったこともあり、空が見えて木々とのバランスが良く開放的でした。」
                   </blockquote>
                 </div>
               </div>

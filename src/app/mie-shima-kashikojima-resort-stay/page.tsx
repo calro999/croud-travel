@@ -253,7 +253,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 志摩観光ホテル　ザ　クラシック</td>
                 <td className="p-3 text-stone-600">三重県志摩市阿児町神明731</td>
-                <td className="p-3 text-stone-600">賢島駅周辺</td>
+                <td className="p-3 text-stone-600">近鉄「賢島駅」から徒歩約5分、シャトルバス2分。（定時運行・予約不要）</td>
                 <td className="p-3 text-stone-600">屋外、無料、66台</td>
                 <td className="p-3 font-bold text-amber-600">★4.72（959件）</td>
                 <td className="p-3 font-bold text-rose-600">¥16,005〜</td>
@@ -262,7 +262,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. クインテッサホテル伊勢志摩</td>
                 <td className="p-3 text-stone-600">三重県志摩市阿児町鵜方1210-1</td>
-                <td className="p-3 text-stone-600">鵜方駅周辺</td>
+                <td className="p-3 text-stone-600">車:伊勢西ＩＣを降り伊勢道路&amp;amp;国道１６７号経由で約４５分 電車:近鉄鵜方駅(特急停車駅)から徒歩約12分</td>
                 <td className="p-3 text-stone-600">無料先着70台※地上43台 地下27台 高さ2.3mまで※トラック・バスは事前予約制（有料）</td>
                 <td className="p-3 font-bold text-amber-600">★4.24（1662件）</td>
                 <td className="p-3 font-bold text-rose-600">¥2,835〜</td>
@@ -271,7 +271,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 志摩観光ホテル　ザ　ベイスイート</td>
                 <td className="p-3 text-stone-600">三重県志摩市阿児町神明731</td>
-                <td className="p-3 text-stone-600">賢島駅周辺</td>
+                <td className="p-3 text-stone-600">近鉄「賢島駅」まで個別送迎にて約3分（電車の到着時間をご連絡ください）、徒歩約10分。</td>
                 <td className="p-3 text-stone-600">屋外、無料、49台</td>
                 <td className="p-3 font-bold text-amber-600">★4.89（295件）</td>
                 <td className="p-3 font-bold text-rose-600">¥25,509〜</td>
@@ -280,7 +280,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. フレックスホテル（FREX　HOTEL）</td>
                 <td className="p-3 text-stone-600">三重県松阪市中央町36-18</td>
-                <td className="p-3 text-stone-600">松阪駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ・近鉄松阪駅北口から直進徒歩５分。松阪ICより約１５分。伊勢神宮内宮まで約２９キロ、鈴鹿まで約３５キロ。</td>
                 <td className="p-3 text-stone-600">無料駐車場約300台あり！ホテル建物周りおよび建物裏に有ります。</td>
                 <td className="p-3 font-bold text-amber-600">★3.91（2120件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,750〜</td>
@@ -289,7 +289,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. ホテル志摩スペイン村</td>
                 <td className="p-3 text-stone-600">三重県志摩市磯部町坂崎</td>
-                <td className="p-3 text-stone-600">志摩赤崎駅周辺</td>
+                <td className="p-3 text-stone-600">伊勢自動車道伊勢西ICより約40分／近鉄鵜方駅より三交バスにて約13分</td>
                 <td className="p-3 text-stone-600">有り　170台　先着順　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.5（2571件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,000〜</td>
@@ -298,7 +298,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">6. 石鏡温泉源泉の宿　ホテルいじか荘</td>
                 <td className="p-3 text-stone-600">三重県鳥羽市石鏡町368-2</td>
-                <td className="p-3 text-stone-600">鳥羽駅周辺</td>
+                <td className="p-3 text-stone-600">近鉄・鳥羽駅〜ホテルバス１日２便(15:15と16:15（要予約）)／パールロード経由にて鳥羽駅より約25分</td>
                 <td className="p-3 text-stone-600">有り　30台</td>
                 <td className="p-3 font-bold text-amber-600">★4.46（450件）</td>
                 <td className="p-3 font-bold text-rose-600">¥17,100〜</td>
@@ -327,7 +327,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>屋外、無料、66台</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.72 ／ 立地 ★4.81 ／ 部屋 ★4.73 ／ 設備 ★4.69 ／ 風呂 ★4.43 ／ 食事 ★4.76</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「サミットの歴史ありサミットの歴史を感じました静かな場所でくつろぎの時間を満喫できます食事やラウンジもよかったですお風呂は部屋のみですが展望ができるのが嬉しいですクチコミの詳細はこち…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「サミットの歴史ありサミットの歴史を感じました静かな場所でくつろぎの時間を満喫できます食事やラウンジもよかったですお風呂は部屋のみですが展望ができるのが嬉しいです。」
                   </blockquote>
                 </div>
               </div>
@@ -349,7 +349,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料先着70台※地上43台 地下27台 高さ2.3mまで※トラック・バスは事前予約制（有料）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの対応と朝食は満足、清掃面は改善希望8月18日に朝食付き伊勢シーパラダイス入場券付きのプランで和室8畳の部屋に家族4人で1泊しました。スタッフの方々接客は、研修中のスタッフの方もいらっ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの対応と朝食は満足、清掃面は改善希望8月18日に朝食付き伊勢シーパラダイス入場券付きのプランで和室8畳の部屋に家族4人で1泊しました。」
                   </blockquote>
                 </div>
               </div>
@@ -415,7 +415,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　170台　先着順　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「パルケエスパーニャを満喫、バイキングは残念2日目は朝からパルケエスパーニャでアトラクション、ショー、パレードと楽しみました。新アトラクションのバーチャル火星旅行は初めての体験で私は少し大変でしたが…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「パルケエスパーニャを満喫、バイキングは残念2日目は朝からパルケエスパーニャでアトラクション、ショー、パレードと楽しみました。」
                   </blockquote>
                 </div>
               </div>

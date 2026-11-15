@@ -336,8 +336,8 @@ export default function ArticlePage() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 中之条駅よりアクセス。ＪＲ吾妻線中之条駅。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「四万温泉 あやめや旅館」にチェックイン。☆お子様の温泉デビューもお勧め！もう一度「ただいま」したくなる手作りのおもてなしなどの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「四万温泉 あやめや旅館」の湯処へ。☆お子様の温泉デビューもお勧め！もう一度「ただいま」したくなる手作りのとともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「四万温泉 あやめや旅館」にチェックイン。☆お子様の温泉デビューもお勧め！ まずは客室で移動の疲れをそっと癒やす。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「四万温泉 あやめや旅館」の大浴場・露天風呂へ。日暮れの静けさの中で湯に浸かり、旅の緊張をゆっくりと解きほぐす。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「四万温泉 あやめや旅館」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -349,7 +349,7 @@ export default function ArticlePage() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「四万温泉 あやめや旅館」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「四万温泉 あやめや旅館」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「四万温泉 料理旅館くれない」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は宿周辺の散策とショッピングを満喫。地元の名産品やグルメを味わってから余裕をもって帰路につく。</li>
               </ul>
             </div>
           </div>
@@ -443,7 +443,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 四万温泉　あやめや旅館</td>
                 <td className="p-3 text-stone-600">群馬県吾妻郡中之条町四万4238-45</td>
-                <td className="p-3 text-stone-600">中之条駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ吾妻線中之条駅</td>
                 <td className="p-3 text-stone-600">有り（無料）　12台　先着順   ご利用のお客様は、四万温泉入り口で事前にお電話お願いいたします。</td>
                 <td className="p-3 font-bold text-amber-600">★4.62（445件）</td>
                 <td className="p-3 font-bold text-rose-600">¥10,460〜</td>
@@ -452,7 +452,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 叶　ＫＡＮＯＵＹＡ　四万温泉</td>
                 <td className="p-3 text-stone-600">群馬県吾妻郡中之条町四万4139-12</td>
-                <td className="p-3 text-stone-600">中之条駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ吾妻線 中之条駅／四万温泉行バス40分→終点下車徒歩15分（終点バス停まで送迎あり要予約）</td>
                 <td className="p-3 text-stone-600">有り 無料 先着順 　5台→叶前、6台以上→ルルド駐車場</td>
                 <td className="p-3 font-bold text-amber-600">★4.51（41件）</td>
                 <td className="p-3 font-bold text-rose-600">¥18,150〜</td>
@@ -461,7 +461,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 四万温泉　料理旅館くれない</td>
                 <td className="p-3 text-stone-600">群馬県吾妻郡中之条町四万4143-2</td>
-                <td className="p-3 text-stone-600">中之条駅周辺</td>
+                <td className="p-3 text-stone-600">中之条駅よりバスにて４０分、バス下車後徒歩２分</td>
                 <td className="p-3 text-stone-600">有り　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.45（48件）</td>
                 <td className="p-3 font-bold text-rose-600">¥13,900〜</td>
@@ -512,7 +512,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り 無料 先着順 　5台→叶前、6台以上→ルルド駐車場</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.51 ／ 立地 ★4.43 ／ 部屋 ★4.51 ／ 設備 ★4.4 ／ 風呂 ★4.63 ／ 食事 ★4.52</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「究極の調和を感じる、完璧なご褒美旅日常のご褒美として、平日に1人でお世話になりました。今までの一人旅のなかで奮発した宿泊でしたが、結論から言って「本当にお金を払う価値がある、完璧な宿」でした。温泉…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「究極の調和を感じる、完璧なご褒美旅日常のご褒美として、平日に1人でお世話になりました。今までの一人旅のなかで奮発した宿泊でしたが、結論から言って「本当にお金を払う価値がある、完璧な宿」でした。」
                   </blockquote>
                 </div>
               </div>

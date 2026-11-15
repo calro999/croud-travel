@@ -253,7 +253,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 花巻温泉　佳松園</td>
                 <td className="p-3 text-stone-600">岩手県花巻市湯本第1地割125-2</td>
-                <td className="p-3 text-stone-600">新花巻駅周辺</td>
+                <td className="p-3 text-stone-600">花巻IC：右折後直進4km（5分）、JR新花巻駅・JR花巻駅：無料送迎バス20分（定時運行・完全予約制）</td>
                 <td className="p-3 text-stone-600">有り　30台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.69（1120件）</td>
                 <td className="p-3 font-bold text-rose-600">¥18,700〜</td>
@@ -262,7 +262,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 祭畤温泉　かみくら</td>
                 <td className="p-3 text-stone-600">岩手県一ノ関市厳美町祭畤32</td>
-                <td className="p-3 text-stone-600">一ノ関駅周辺</td>
+                <td className="p-3 text-stone-600">【公共交通】タクシーのみ 【乗用車】一関駅よりお車にて約45分／世界遺産「平泉」へ約35分</td>
                 <td className="p-3 text-stone-600">有り　２５台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.67（341件）</td>
                 <td className="p-3 font-bold text-rose-600">¥22,000〜</td>
@@ -271,7 +271,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 旅館　舞鶴＜岩手県＞</td>
                 <td className="p-3 text-stone-600">岩手県西磐井郡平泉町平泉志羅山130</td>
-                <td className="p-3 text-stone-600">平泉駅周辺</td>
+                <td className="p-3 text-stone-600">平泉駅より徒歩にて約8分</td>
                 <td className="p-3 text-stone-600">有り　２０台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.49（279件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,500〜</td>
@@ -280,7 +280,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 奥州・平泉温泉旅館　ＩＴＳＵＭＵ</td>
                 <td className="p-3 text-stone-600">岩手県奥州市衣川日向60-2</td>
-                <td className="p-3 text-stone-600">平泉駅周辺</td>
+                <td className="p-3 text-stone-600">平泉駅より車で約７分、東北自動車道平泉・前沢ＩＣより車で約３分</td>
                 <td className="p-3 text-stone-600">有り　４０台　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.35（90件）</td>
                 <td className="p-3 font-bold text-rose-600">¥13,200〜</td>
@@ -289,7 +289,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 奥州平泉温泉　そば庵　しづか亭</td>
                 <td className="p-3 text-stone-600">岩手県西磐井郡平泉町平泉長倉10-5</td>
-                <td className="p-3 text-stone-600">平泉駅周辺</td>
+                <td className="p-3 text-stone-600">中尊寺より奥へ約６キロ懐かしい里山にぽつんと佇む一軒宿。平泉駅から車１０分。平泉にある唯一の源泉かけ流し 露天風呂あり</td>
                 <td className="p-3 text-stone-600">有り　２０台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.24（433件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,031〜</td>
@@ -327,7 +327,7 @@ export default function MicroTouristHubPage() {
                   <p>【岩手・平泉中尊寺＆厳美渓：世界遺産金色堂・空飛ぶだん】 <strong>【駐車場・マイカー利用】</strong>有り　30台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.74 ／ 立地 ★4.61 ／ 部屋 ★4.64 ／ 設備 ★4.68 ／ 風呂 ★4.79 ／ 食事 ★4.72</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの対応が良く、食事も温泉も大満足スタッフの皆さんの対応が感じよく、チェックインからチェックアウトまでとても気持ちよく過ごすことができました。食事も温泉もお部屋も満足で非日常の空間でリフレッ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの対応が良く、食事も温泉も大満足スタッフの皆さんの対応が感じよく、チェックインからチェックアウトまでとても気持ちよく過ごすことができました。」
                   </blockquote>
                 </div>
               </div>
@@ -349,7 +349,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２５台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「栗駒山麓の温泉と絶品ジャパニーズフレンチに大満足栗駒山麓の静かな場所で都会の喧騒を忘れてのんびりと温泉を堪能できる宿でした。スタッフ一同ホスピタリティが素晴らしく、食事も地産地消にこだわったジャパ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「栗駒山麓の温泉と絶品ジャパニーズフレンチに大満足栗駒山麓の静かな場所で都会の喧騒を忘れてのんびりと温泉を堪能できる宿でした。」
                   </blockquote>
                 </div>
               </div>
@@ -371,7 +371,7 @@ export default function MicroTouristHubPage() {
                   <p>【岩手・平泉中尊寺＆厳美渓：世界遺産金色堂・空飛ぶだん】 <strong>【駐車場・マイカー利用】</strong>有り　２０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「美味しい料理とご主人の説明に大満足中尊寺金色堂と毛越寺の観光にこちらの旅館を利用しました。ごはんが美味しいという口コミ通り、趣向を凝らした先付に新鮮なお刺身、美味しいお肉、お餅とどれも大変美味…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「美味しい料理とご主人の説明に大満足中尊寺金色堂と毛越寺の観光にこちらの旅館を利用しました。」
                   </blockquote>
                 </div>
               </div>
@@ -393,7 +393,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　４０台　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「すべてが素晴らしく最高の思い出になったとても思い出に残る素敵な時間を過ごすことができました。お部屋は隅々まで清潔感があり、落ち着いてゆっくり過ごせる空間でした。スタッフの皆さんも終始丁…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「すべてが素晴らしく最高の思い出になったとても思い出に残る素敵な時間を過ごすことができました。お部屋は隅々まで清潔感があり、落ち着いてゆっくり過ごせる空間でした。」
                   </blockquote>
                 </div>
               </div>
@@ -437,7 +437,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　８０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「掃除が行き届き、従業員の対応も好印象前日の午前中でしたが、予約でき良かったです。楽天のクーポンを使ってお安く宿泊できました。他のレビューにもあるとおり、古めのお宿でしたが掃除は行き届いてい…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「掃除が行き届き、従業員の対応も好印象前日の午前中でしたが、予約でき良かったです。楽天のクーポンを使ってお安く宿泊できました。」
                   </blockquote>
                 </div>
               </div>

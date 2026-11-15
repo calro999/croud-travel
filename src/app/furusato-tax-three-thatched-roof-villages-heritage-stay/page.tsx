@@ -420,8 +420,8 @@ export default function Page() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 園部駅よりアクセス。JR山陰線 日吉駅よりバス60分、京都縦貫自動車道 園部ICより車50分、京都市内より車90分。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「京都美山 料理旅館 枕川楼」にチェックイン。美山川を望む料理宿 こころ洗われる風景と美食と星空露天風呂を満喫。＜ベビー＆キッズ大歓迎！＞などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「京都美山 料理旅館 枕川楼」の湯処へ。美山川を望む料理宿 こころ洗われる風景と美食と星空露天風呂を満喫。＜ベとともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「京都美山 料理旅館 枕川楼」にチェックイン。【美山川を望む料理宿】こころ洗われる風景と美食と星空露天風呂を満喫。 まずは客室で移動の疲れをそっと癒やす。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「京都美山 料理旅館 枕川楼」の大浴場・露天風呂へ。日暮れの静けさの中で湯に浸かり、旅の緊張をゆっくりと解きほぐす。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「京都美山 料理旅館 枕川楼」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -433,7 +433,7 @@ export default function Page() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「京都美山 料理旅館 枕川楼」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「京都美山 料理旅館 枕川楼」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「会津湯野上温泉 ホテル大坂屋」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は宿周辺の散策とショッピングを満喫。地元の名産品やグルメを味わってから余裕をもって帰路につく。</li>
               </ul>
             </div>
           </div>
@@ -561,7 +561,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 京都美山　料理旅館　枕川楼</td>
                 <td className="p-3 text-stone-600">京都府南丹市美山町中上前26</td>
-                <td className="p-3 text-stone-600">JR山陰線　日吉駅よりバス60分、京都縦貫自動車道　園部ICより車50</td>
+                <td className="p-3 text-stone-600">JR山陰線 日吉駅よりバス60分、京都縦貫自動車道 園部ICより車50分、京都市内より車90分。</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4（48件）</td>
                 <td className="p-3 font-bold text-rose-600">¥22,000〜</td>
@@ -570,7 +570,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 会津湯野上温泉　ホテル大坂屋</td>
                 <td className="p-3 text-stone-600">福島県南会津郡下郷町湯野上居平乙766-2</td>
-                <td className="p-3 text-stone-600">会津鉄道「湯野上温泉駅」より徒歩約12分。会津若松I.C.より約60分</td>
+                <td className="p-3 text-stone-600">会津鉄道「湯野上温泉駅」より徒歩約12分。会津若松I.C.より約60分。</td>
                 <td className="p-3 text-stone-600">有り：15台　（先着順）</td>
                 <td className="p-3 font-bold text-amber-600">★4（43件）</td>
                 <td className="p-3 font-bold text-rose-600">¥9,680〜</td>
@@ -579,7 +579,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 天然温泉白川郷の湯</td>
                 <td className="p-3 text-stone-600">岐阜県大野郡白川村荻町337</td>
-                <td className="p-3 text-stone-600">高山駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ高山駅から濃飛バス利用、もしくはＪＲ高岡駅から加越能バス利用 「白川郷」停より徒歩1分。</td>
                 <td className="p-3 text-stone-600">有り　２５台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.33（330件）</td>
                 <td className="p-3 font-bold text-rose-600">¥15,800〜</td>
@@ -652,7 +652,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２５台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「一生懸命な接客と美味しい食事に大満足スタッフに在留生が多いが皆さんニコニコしてて大変気持ちいいし、接客も一生懸命で非常にもてなされた気分をいただきました。食事も美味しく山の中の宿らしいメニューです…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「一生懸命な接客と美味しい食事に大満足スタッフに在留生が多いが皆さんニコニコしてて大変気持ちいいし、接客も一生懸命で非常にもてなされた気分をいただきました。」
                   </blockquote>
                 </div>
               </div>

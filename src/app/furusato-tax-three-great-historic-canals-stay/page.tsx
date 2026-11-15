@@ -409,8 +409,8 @@ export default function Page() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 北海道小樽市色内1-2-15へ到着後、チェックイン前の散策へ。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「運河の宿 おたる ふる川」にチェックイン。天然温泉『小樽運河前の温泉宿』 明治時代の商家を再現。おもてなし溢れる空間で寛ぎの一日を。などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「運河の宿 おたる ふる川」の湯処へ。天然温泉『小樽運河前の温泉宿』 明治時代の商家を再現。おもてなし溢れるとともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「運河の宿 おたる ふる川」にチェックイン。天然温泉『小樽運河前の温泉宿』 明治時代の商家を再現。おもてなし溢れる空間で寛ぎの一日を。 客室で身支度を整え、この宿ならではの滞在をスタート。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「運河の宿 おたる ふる川」の湯船で寛ぎタイム。季節の空気を感じながら手足を伸ばし、心豊かな夕方のリラックス時間を満喫。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「運河の宿 おたる ふる川」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -422,7 +422,7 @@ export default function Page() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「運河の宿 おたる ふる川」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「運河の宿 おたる ふる川」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「あぶと倉敷館」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は宿周辺の散策とショッピングを満喫。地元の名産品やグルメを味わってから余裕をもって帰路につく。</li>
               </ul>
             </div>
           </div>
@@ -550,7 +550,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 運河の宿　おたる　ふる川</td>
                 <td className="p-3 text-stone-600">北海道小樽市色内1-2-15</td>
-                <td className="p-3 text-stone-600"></td>
+                <td className="p-3 text-stone-600">北海道小樽市色内1-2-15 ／ 交通案内：</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.76（1104件）</td>
                 <td className="p-3 font-bold text-rose-600">¥11,500〜</td>
@@ -559,7 +559,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. あぶと倉敷館</td>
                 <td className="p-3 text-stone-600">岡山県倉敷市船倉町1252-5</td>
-                <td className="p-3 text-stone-600"></td>
+                <td className="p-3 text-stone-600">岡山県倉敷市船倉町1252-5 ／ 交通案内：</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.5（51件）</td>
                 <td className="p-3 font-bold text-rose-600">¥11,500〜</td>
@@ -568,7 +568,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 休暇村　近江八幡</td>
                 <td className="p-3 text-stone-600">滋賀県近江八幡市沖島町宮ヶ浜</td>
-                <td className="p-3 text-stone-600">JR　近江八幡駅より近江鉄道バス休暇村行きにて約43分　※近江鉄道バス</td>
+                <td className="p-3 text-stone-600">JR 近江八幡駅より近江鉄道バス休暇村行きにて約43分 ※近江鉄道バス休暇村行き、土日祝日運休</td>
                 <td className="p-3 text-stone-600">有り　５００台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.31（793件）</td>
                 <td className="p-3 font-bold text-rose-600">¥15,200〜</td>
@@ -597,7 +597,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「毎年恒例の宿、朝食時間の配慮に感謝毎年北海道旅行の最終日に宿泊する宿です。去年から部屋をグレードアップし満足度がよりあがりました。今年は午前中の飛行機を予約したのでチェックアウトが速くなったのが残…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「毎年恒例の宿、朝食時間の配慮に感謝毎年北海道旅行の最終日に宿泊する宿です。去年から部屋をグレードアップし満足度がよりあがりました。」
                   </blockquote>
                 </div>
               </div>

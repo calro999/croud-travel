@@ -283,8 +283,8 @@ export default function Page() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 湯田中駅よりアクセス。長野電鉄 湯田中駅より徒歩にて約5分。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「湯田中渋温泉郷 ホテル水明館」にチェックイン。東に志賀高原の山並み、西に北アルプスを一望.源泉掛け流しの大浴場・露天風呂。湯の香漂うおもてなしなどの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「湯田中渋温泉郷 ホテル水明館」の湯処へ。東に志賀高原の山並み、西に北アルプスを一望.源泉掛け流しの大浴場・露天とともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「湯田中渋温泉郷 ホテル水明館」にチェックイン。東に志賀高原の山並み、西に北アルプスを一望.源泉掛け流しの大浴場・露天風呂。湯の香漂うおもてなしが魅力の一軒。客室で荷物をほどいて穏やかな午後のひとときを。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「湯田中渋温泉郷 ホテル水明館」の自慢の湯処へ。温かな湯気と落ち着いた雰囲気に癒やされながら、夕食前の贅沢なひとときを過ごす。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「湯田中渋温泉郷 ホテル水明館」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -296,7 +296,7 @@ export default function Page() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「湯田中渋温泉郷 ホテル水明館」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「湯田中渋温泉郷 ホテル水明館」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「湯川テラス」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は「湯田中渋温泉郷 ホテル水明館」周辺の観光スポットや地元の名産店に立ち寄り、ご当地のお土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>
@@ -442,7 +442,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 都ホテル博多</td>
                 <td className="p-3 text-stone-600">福岡県福岡市博多区博多駅東2-1-1</td>
-                <td className="p-3 text-stone-600">博多駅直結！徒歩約１分。＜東７番出口＞福岡空港から地下鉄で約７分、車で</td>
+                <td className="p-3 text-stone-600">博多駅直結！徒歩約１分。＜東７番出口＞福岡空港から地下鉄で約７分、車で約15分。一歩足を踏み入れたらもうそこはリゾート！</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.61（1159件）</td>
                 <td className="p-3 font-bold text-rose-600">¥17,800〜</td>
@@ -460,7 +460,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 伊豆ホテル　リゾート＆スパ</td>
                 <td className="p-3 text-stone-600">静岡県賀茂郡東伊豆町奈良本1457-30　リゾートパーク伊豆あたがわ別荘地内</td>
-                <td className="p-3 text-stone-600">【電車】伊豆熱川駅より送迎車（予約制）にて約15分　【お車】国道135</td>
+                <td className="p-3 text-stone-600">【電車】伊豆熱川駅より送迎車（予約制）にて約15分 【お車】国道135号からの道は公式HPのアクセス情報をご確認ください</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.61（77件）</td>
                 <td className="p-3 font-bold text-rose-600">¥42,500〜</td>
@@ -577,7 +577,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの対応と朝食は最高、夕食は改善の余地あり台風が近づいていてお天気が心配でしたが、晴れ間があり景色を楽しむことができました。スタッフの方々は皆さま大変丁寧で感じがよかったです。ウェルカム…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの対応と朝食は最高、夕食は改善の余地あり台風が近づいていてお天気が心配でしたが、晴れ間があり景色を楽しむことができました。スタッフの方々は皆さま大変丁寧で感じがよかったです。」
                   </blockquote>
                 </div>
               </div>

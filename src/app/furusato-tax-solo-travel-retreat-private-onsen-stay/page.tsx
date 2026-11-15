@@ -186,7 +186,7 @@ export default function FurusatoSoloTravelRetreatStayPage() {
                     箱根湯本駅から車で約7分、須雲川のせせらぎと緑豊かな山々に包まれた落ち着きある温泉ホテル。一人旅歓迎の露天風呂付き客室プランが用意されており、テラスの信楽焼浴槽で箱根の天然温泉を独り占めできます。アルカリ性単純温泉のやわらかな湯は美肌効果が高く、長時間の入浴でも疲れ知らず。夕食はお部屋または個室風の落ち着いた食事処で季節の会席料理を味わえ、周囲を気にせずマイペースに寛ぐ大人のリトリートステイに最適です。
                   </p>
                   <p className="text-stone-500 text-xs italic bg-stone-50 p-3 rounded-xl border border-stone-100 mb-4 leading-relaxed">
-                    「露天風呂付き客室とサービスに大満足大大大満足の旅行でした。クーポン利用で安くなりとても助かりました。私たちは露天風呂付き客室が絶対条件。今回2回目なので部屋タイプはお任せにし、前回とは… つづきは」
+                    「露天風呂付き客室とサービスに大満足大大大満足の旅行でした。クーポン利用で安くなりとても助かりました。私たちは露天風呂付き客室が絶対条件。」
                   </p>
                   
                   <div className="bg-stone-50 rounded-xl p-3.5 border border-stone-200/60 mb-6 text-xs text-stone-600 space-y-1">
@@ -411,8 +411,8 @@ export default function FurusatoSoloTravelRetreatStayPage() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 箱根湯本駅よりアクセス。箱根湯本駅より有料旅館共同バス７分片道大人２００円小学生１００円。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「箱根湯本温泉 ホテル南風荘」にチェックイン。花崗や青石をふんだんに用いた大浴場や露天風呂で箱根の自然を満喫 旬の味覚を揃えたお料理をご堪能下さいなどの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「箱根湯本温泉 ホテル南風荘」の湯処へ。花崗や青石をふんだんに用いた大浴場や露天風呂で箱根の自然を満喫 旬の味とともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「箱根湯本温泉 ホテル南風荘」にチェックイン。花崗や青石をふんだんに用いた大浴場や露天風呂で箱根の自然を満喫 旬の味覚を揃えたお料理をご堪能下さいが魅力の一軒。客室で荷物をほどいて穏やかな午後のひとときを。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「箱根湯本温泉 ホテル南風荘」の湯船で寛ぎタイム。季節の空気を感じながら手足を伸ばし、心豊かな夕方のリラックス時間を満喫。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「箱根湯本温泉 ホテル南風荘」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -424,7 +424,7 @@ export default function FurusatoSoloTravelRetreatStayPage() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「箱根湯本温泉 ホテル南風荘」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「箱根湯本温泉 ホテル南風荘」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「草津温泉 薬師の湯 湯元館」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は「箱根湯本温泉 ホテル南風荘」周辺の観光スポットや地元の名産店に立ち寄り、ご当地のお土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>

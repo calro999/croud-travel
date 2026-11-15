@@ -334,7 +334,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. Ｗｉｎｅｒｙｓｔａｙ　ＴＲＡＶＩＧＮＥ</td>
                 <td className="p-3 text-stone-600">新潟県新潟市西蒲区角田浜1661　カーブドッチ</td>
-                <td className="p-3 text-stone-600">内野駅周辺</td>
+                <td className="p-3 text-stone-600">JR越後線内野駅からタクシーでカーブドッチへ約20～30分程</td>
                 <td className="p-3 text-stone-600">有り　10台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★5（25件）</td>
                 <td className="p-3 font-bold text-rose-600">¥55,920〜</td>
@@ -343,7 +343,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 信玄の湯　湯村温泉　常磐ホテル</td>
                 <td className="p-3 text-stone-600">山梨県甲府市湯村2-5-21</td>
-                <td className="p-3 text-stone-600">甲府駅周辺</td>
+                <td className="p-3 text-stone-600">中央自動車道、甲府昭和ICから20分／甲府駅南口バスターミナル4番線15分「湯村温泉入口」下車。武田神社は車で15分</td>
                 <td className="p-3 text-stone-600">有り　２５０台　無料　EV対応　普通充電器［交流 8ｋW］4基　１回1000円　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.78（1584件）</td>
                 <td className="p-3 font-bold text-rose-600">¥23,100〜</td>
@@ -403,7 +403,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２５０台　無料　EV対応　普通充電器［交流 8ｋW］4基　１回1000円　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.82 ／ 立地 ★4.67 ／ 部屋 ★4.75 ／ 設備 ★4.68 ／ 風呂 ★4.62 ／ 食事 ★4.79</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「完璧な接客と料理、価格以上の価値ある体験立地、食事、温泉、スタッフの気配り、笑顔どれをとってもほぼ完璧でした。出すぎず、でも必要なときは横にいてくれる感覚。スタッフの都合より宿泊客がどう快適に過ご…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「完璧な接客と料理、価格以上の価値ある体験立地、食事、温泉、スタッフの気配り、笑顔どれをとってもほぼ完璧でした。出すぎず、でも必要なときは横にいてくれる感覚。」
                   </blockquote>
                 </div>
               </div>

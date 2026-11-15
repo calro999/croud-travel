@@ -337,8 +337,8 @@ export default function ArticlePage() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 渋川駅よりアクセス。渋川駅より伊香保温泉行きバス30分、終点伊香保温泉下車。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「伊香保温泉 福一」にチェックイン。創業440年。石段街最上段「黄金の湯」「白銀の湯」二湯を有す数少ない宿。などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「伊香保温泉 福一」の湯処へ。創業440年。石段街最上段「黄金の湯」「白銀の湯」二湯を有す数少ない宿とともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「伊香保温泉 福一」にチェックイン。創業440年。石段街最上段「黄金の湯」「白銀の湯」二湯を有す数少ない宿。 荷物を解き、落ち着いた室内でまず一息つく。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「伊香保温泉 福一」の湯船で寛ぎタイム。季節の空気を感じながら手足を伸ばし、心豊かな夕方のリラックス時間を満喫。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「伊香保温泉 福一」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -366,49 +366,49 @@ export default function ArticlePage() {
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">あわせて読みたい人気特集＆全国エリアガイド</h2>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
-            <a href="/furusato-tax-naruko-gorge-kawatabi-autumn-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/furusato-tax-minakami-tanigawadake-autumn-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">鳴子峡の大紅葉と鳴子温泉郷！日本随一の多彩な泉質めぐり・仙台牛と宮城新米を味わう秋の東北旅</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">谷川岳一ノ倉沢の岩壁紅葉と利根川渓谷美＆みなかみ温泉郷の源泉湯宿・上州牛会席｜ふるさと納税で泊まれる名宿ガイド</span>
             </a>
-            <a href="/miyagi-matsushima-shiogama-shrine-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/furusato-tax-shima-onsen-retro-sekizenkan-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">宮城・松島＆塩竈：日本三景松島クルーズ・塩竈神社＆生マグロ・牡蠣宿 厳選ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">四万温泉をふるさと納税でお得に旅する！昭和レトロな重要文化財「元禄の湯」＆清流四万川！渓谷美湯宿ガイド｜積善館・やまぐち館・四万たむら</span>
             </a>
-            <a href="/winter-miyagi-akiu-onsen-sendai-beef-serinabe-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/furusato-tax-snow-view-open-air-bath-winter-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12月秋保温泉の初冬渓谷美と名湯】伊達政宗公ゆかりの奥座敷・最高峰A5仙台牛＆名物せり鍋の宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">白銀の銀世界に浸る絶景雪見露天風呂＆冬の秘湯名旅館×ふるさと納税厳選ガイド万座・越後湯沢・定山渓</span>
             </a>
-            <a href="/winter-miyagi-sendai-city-hikarino-pageant-zundamochi-sendaigyu-kaki-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/furusato-tax-toba-ise-shima-iseebi-autumn-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">冬の仙台市内・光のページェント厳選ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">鳥羽・伊勢志摩の秋味覚「伊勢海老漁解禁」＆リアス海岸美・絶景オーシャンビュー温泉｜ふるさと納税で泊まれる名宿ガイド</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
             <div className="flex flex-wrap gap-2">
               <Link
-                href="/prefectures/miyagi/"
+                href="/prefectures/gunma/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                宮城県の宿・温泉
+                群馬県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/tokushima/"
+                href="/prefectures/tokyo/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                徳島県の宿・温泉
+                東京都の宿・温泉
               </Link>
               <Link
-                href="/prefectures/saitama/"
+                href="/prefectures/kanagawa/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                埼玉県の宿・温泉
+                神奈川県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/mie/"
+                href="/prefectures/chiba/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                三重県の宿・温泉
+                千葉県の宿・温泉
               </Link>
             </div>
           </div>
@@ -444,7 +444,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 伊香保温泉　和心の宿　大森</td>
                 <td className="p-3 text-stone-600">群馬県渋川市伊香保町伊香保58</td>
-                <td className="p-3 text-stone-600">渋川駅周辺</td>
+                <td className="p-3 text-stone-600">関越道『渋川伊香保IC』より12km/JR上越線『渋川駅』</td>
                 <td className="p-3 text-stone-600">有り　80台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.58（1542件）</td>
                 <td className="p-3 font-bold text-rose-600">¥19,250〜</td>
@@ -453,7 +453,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 伊香保温泉　旅館　春日楼</td>
                 <td className="p-3 text-stone-600">群馬県渋川市伊香保町伊香保329-10</td>
-                <td className="p-3 text-stone-600">渋川駅周辺</td>
+                <td className="p-3 text-stone-600">渋川駅からバスで約２０分、渋川伊香保ICから約２０分</td>
                 <td className="p-3 text-stone-600">あり　20台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.47（15件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,250〜</td>
@@ -462,7 +462,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 伊香保温泉　福一</td>
                 <td className="p-3 text-stone-600">群馬県渋川市伊香保町伊香保香湯5-4</td>
-                <td className="p-3 text-stone-600">渋川駅周辺</td>
+                <td className="p-3 text-stone-600">渋川駅より伊香保温泉行きバス30分、終点伊香保温泉下車。新宿駅新南口発着の高速バス有※バス停から徒歩数分バス停まで送迎有</td>
                 <td className="p-3 text-stone-600">建物地下駐車場約50台 ※満車の場合は近隣駐車場を使う場合がございます</td>
                 <td className="p-3 font-bold text-amber-600">★4.29（1704件）</td>
                 <td className="p-3 font-bold text-rose-600">¥9,636〜</td>
@@ -491,7 +491,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　80台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.69 ／ 立地 ★4.43 ／ 部屋 ★4.44 ／ 設備 ★4.31 ／ 風呂 ★4.49 ／ 食事 ★4.65</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「屋上露天風呂の眺望と清潔な館内に大満足屋上露天風呂が眺望も綺麗で最高でした特に岩風呂の方は趣があって良かったお部屋、館内全てが清潔・綺麗で過ごしやすかったですお勧めの宿です…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「屋上露天風呂の眺望と清潔な館内に大満足屋上露天風呂が眺望も綺麗で最高でした特に岩風呂の方は趣があって良かったお部屋、館内全てが清潔・綺麗で過ごしやすかったですお勧めの宿です。」
                   </blockquote>
                 </div>
               </div>
@@ -513,7 +513,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>あり　20台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.44 ／ 立地 ★4.07 ／ 部屋 ★4.4 ／ 設備 ★4.33 ／ 風呂 ★4.47</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの温かい対応に感謝、また利用したいスタッフの方の対応がすごく有り難かったです。雨の中オートバイで伺い、カッパのまま玄関まで入っていくとすぐにタオルを用意して応対してくれました。受付…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの温かい対応に感謝、また利用したいスタッフの方の対応がすごく有り難かったです。雨の中オートバイで伺い、カッパのまま玄関まで入っていくとすぐにタオルを用意して応対してくれました。」
                   </blockquote>
                 </div>
               </div>
@@ -535,7 +535,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>建物地下駐車場約50台 ※満車の場合は近隣駐車場を使う場合がございます</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋は綺麗でラボットに子供も大喜び!部屋もとても綺麗で、ロビーには子供が喜ぶラボットがいました。石段街へのアクセスも抜群に良く、大変満足でした。また機会があれば利用したいと思います。クチコミの…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋は綺麗でラボットに子供も大喜び!部屋もとても綺麗で、ロビーには子供が喜ぶラボットがいました。石段街へのアクセスも抜群に良く、大変満足でした。また機会があれば利用したいと思います。」
                   </blockquote>
                 </div>
               </div>

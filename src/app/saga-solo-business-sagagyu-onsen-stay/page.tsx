@@ -393,8 +393,8 @@ export default function ArticlePage() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 佐賀駅よりアクセス。JR佐賀駅より車にて8分、空港バス利用～県庁前バス停下車～徒歩にて約10分、佐賀空港より車にて20分。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「ホテルニューオータニ佐賀」にチェックイン。佐賀県唯一のシティホテル。歴史とモダンが調和する上質なひとときを。などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「ホテルニューオータニ佐賀」の湯処へ。佐賀県唯一のシティホテル。歴史とモダンが調和する上質なひとときを。とともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「ホテルニューオータニ佐賀」にチェックイン。佐賀県唯一のシティホテル。歴史とモダンが調和する上質なひとときを。 窓外に広がる景色を眺めながらチェックイン後の寛ぎ時間を。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「ホテルニューオータニ佐賀」の自慢の湯処へ。温かな湯気と落ち着いた雰囲気に癒やされながら、夕食前の贅沢なひとときを過ごす。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「ホテルニューオータニ佐賀」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -479,7 +479,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. ホテルニューオータニ佐賀</td>
                 <td className="p-3 text-stone-600">佐賀県佐賀市与賀町1-2</td>
-                <td className="p-3 text-stone-600">佐賀駅周辺</td>
+                <td className="p-3 text-stone-600">JR佐賀駅より車にて8分、空港バス利用～県庁前バス停下車～徒歩にて約10分、佐賀空港より車にて20分</td>
                 <td className="p-3 text-stone-600">有り　100台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.22（956件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,300〜</td>
@@ -488,7 +488,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. コンフォートホテル佐賀</td>
                 <td className="p-3 text-stone-600">佐賀県佐賀市駅前中央1-14-38</td>
-                <td className="p-3 text-stone-600">佐賀駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ「佐賀駅」徒歩１分◆佐賀空港からバスにて佐賀駅バスセンター下車徒歩３分◆長崎自動車道「佐賀大和ＩＣ」約１０分</td>
                 <td className="p-3 text-stone-600">提携駐車場20台◆1泊800円・先着順◆入出庫不可◆幅2.0m　長さ5.0m　※大型不可</td>
                 <td className="p-3 font-bold text-amber-600">★4.13（3525件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,200〜</td>
@@ -497,7 +497,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. アパホテル〈佐賀駅南口〉</td>
                 <td className="p-3 text-stone-600">佐賀県佐賀市駅前中央1-164</td>
-                <td className="p-3 text-stone-600">佐賀駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ佐賀駅南口から徒歩３分、 博多駅から列車で約35分、福岡空港からバスで65分</td>
                 <td className="p-3 text-stone-600">平面駐車場25台　1000円/1泊　大型車要予約　マイクロ2000円〜/1泊</td>
                 <td className="p-3 font-bold text-amber-600">★4.01（2417件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,500〜</td>
@@ -506,7 +506,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 武雄温泉　大正浪漫の宿　京都屋</td>
                 <td className="p-3 text-stone-600">佐賀県武雄市武雄町大字武雄7266-7</td>
-                <td className="p-3 text-stone-600">武雄温泉駅周辺</td>
+                <td className="p-3 text-stone-600">JR佐世保線武雄温泉駅下車徒歩8分</td>
                 <td className="p-3 text-stone-600">有り　60台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.31（493件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,480〜</td>
@@ -515,7 +515,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 竹崎かにと日本酒の宿　鶴荘</td>
                 <td className="p-3 text-stone-600">佐賀県藤津郡太良町大浦丙928</td>
-                <td className="p-3 text-stone-600">肥前大浦駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ長崎線肥前大浦駅下車無料送迎あり（要予約）／九州自動車道長崎武雄北方ＩＣ下車国道２０７を塩田、鹿島へ1時間</td>
                 <td className="p-3 text-stone-600">有　３０台(無料)　先着順＊満車の場合、近くの無料駐車場にご案内します</td>
                 <td className="p-3 font-bold text-amber-600">★4.64（303件）</td>
                 <td className="p-3 font-bold text-rose-600">¥10,450〜</td>
@@ -544,7 +544,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　100台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.32 ／ 立地 ★4.26 ／ 部屋 ★4.11 ／ 設備 ★4.08 ／ 風呂 ★3.99 ／ 食事 ★4.38</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「広くて清潔な部屋と丁寧な接客に大満足素泊まりで利用させていただきました。お部屋は広くて清潔感があり、とても快適に過ごすことができました。また、フロントのスタッフの方々も非常に丁寧で親切にご対応…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「広くて清潔な部屋と丁寧な接客に大満足素泊まりで利用させていただきました。お部屋は広くて清潔感があり、とても快適に過ごすことができました。」
                   </blockquote>
                 </div>
               </div>
@@ -610,7 +610,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　60台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「景観と温泉に癒やされ、部屋も広く快適景観もよく、温泉も泉質がよくリラックスできて良かったです!空室があったからか、部屋もアップグレードしてもらえたみたいです。部屋も思ったより広く快適に過ご…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「景観と温泉に癒やされ、部屋も広く快適景観もよく、温泉も泉質がよくリラックスできて良かったです!空室があったからか、部屋もアップグレードしてもらえたみたいです。」
                   </blockquote>
                 </div>
               </div>
@@ -632,7 +632,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有　３０台(無料)　先着順＊満車の場合、近くの無料駐車場にご案内します</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.74 ／ 立地 ★4.46 ／ 部屋 ★4.66 ／ 設備 ★4.54 ／ 風呂 ★4.42 ／ 食事 ★4.72</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「有明海を望む静かな宿、食事も温泉も大満足有明海を望む好立地にも関わらず静かで穏やかな宿です。最近リニューアルされた内装は木材の良さを生かした落ち着きがありそれでいて明るく快適でした。客室には独特な…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「有明海を望む静かな宿、食事も温泉も大満足有明海を望む好立地にも関わらず静かで穏やかな宿です。最近リニューアルされた内装は木材の良さを生かした落ち着きがありそれでいて明るく快適でした。」
                   </blockquote>
                 </div>
               </div>

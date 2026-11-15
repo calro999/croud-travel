@@ -338,8 +338,8 @@ export default function ArticlePage() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 琴平駅よりアクセス。全室Wi-Fi無料/ＪＲ琴平駅下車、徒歩約15分（無料送迎有・要予約）。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「こんぴら温泉 琴平グランドホテル 桜の抄」にチェックイン。金刀比羅宮に続く参道まで徒歩1分で参拝に便利な温泉宿。和洋約50種類の朝食バイキング好評。などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「こんぴら温泉 琴平グランドホテル 桜の抄」の湯処へ。金刀比羅宮に続く参道まで徒歩1分で参拝に便利な温泉宿。和洋約50種類のとともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「こんぴら温泉 琴平グランドホテル 桜の抄」にチェックイン。金刀比羅宮に続く参道まで徒歩1分で参拝に便利な温泉宿。和洋約50種類の朝食バイキング好評。 客室で身支度を整え、この宿ならではの滞在をスタート。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「こんぴら温泉 琴平グランドホテル 桜の抄」の大浴場・露天風呂へ。日暮れの静けさの中で湯に浸かり、旅の緊張をゆっくりと解きほぐす。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「こんぴら温泉 琴平グランドホテル 桜の抄」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -351,7 +351,7 @@ export default function ArticlePage() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「こんぴら温泉 琴平グランドホテル 桜の抄」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「こんぴら温泉 琴平グランドホテル 桜の抄」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「湯元こんぴら温泉華の湯 紅梅亭」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は宿周辺の散策とショッピングを満喫。地元の名産品やグルメを味わってから余裕をもって帰路につく。</li>
               </ul>
             </div>
           </div>
@@ -367,49 +367,49 @@ export default function ArticlePage() {
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">あわせて読みたい人気特集＆全国エリアガイド</h2>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
-            <a href="/fukui-mikatagoko-rainbow-line-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/autumn-kagawa-shodoshima-kankakei-momiji-hotels-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">福井・三方五湖＆レインボーライン：天空テラス・五色水鏡＆三方口細うなぎ・若狭ふぐ宿 厳選ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11月見頃！日本三大渓谷美・小豆島寒霞渓の紅葉】奇岩ロープウェイと絶景オリーブ温泉宿5選</span>
             </a>
-            <a href="/winter-fukui-echizen-coast-suisen-crab-misaki-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/furusato-tax-shodoshima-kankakei-olive-autumn-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【12・1月福井】越前海岸＆越前町！日本海に咲く「越前水仙まつり」群生美と越前岬灯台・黄色タグ付き本場「越前がに」フルコース＆絶景温泉宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">小豆島・寒霞渓の奇岩紅葉ロープウェイとオリーブ収穫祭！瀬戸内海一望の海辺温泉・オリーブ牛と地魚会席｜ふるさと納税で泊まれる名宿ガイド</span>
             </a>
-            <a href="/autumn-budget-fukui-station-castle-oroshisoba-hotels-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/kagawa-marugame-sakaide-seto-bridge-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">福井駅前：福井城跡秋散歩＆越前おろしそば・ソースカツ丼！3,000円台〜泊まれる格安ホテル5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「香川・丸亀＆坂出・瀬戸大橋」石垣の名城丸亀城・元祖骨付鳥＆瀬戸大橋パノラマ宿 厳選ガイド</span>
             </a>
-            <a href="/fukui-tojinbo-awara-onsen-crab-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/organic-olive-farm-mediterranean-spa-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">福井・東尋坊＆あわら温泉：日本海断崖絶壁・越前ガニ宿 厳選ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「日本の地中海・小豆島（搾りたてオリーブオイル会席＆極上オリーブスパの海宿5選）」日本の地中海・小豆島！搾りたてオリーブオイル会席＆極上オリーブスパの海宿5選</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
             <div className="flex flex-wrap gap-2">
               <Link
-                href="/prefectures/fukui/"
+                href="/prefectures/kagawa/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                福井県の宿・温泉
-              </Link>
-              <Link
-                href="/prefectures/ehime/"
-                className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
-              >
-                愛媛県の宿・温泉
-              </Link>
-              <Link
-                href="/prefectures/yamaguchi/"
-                className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
-              >
-                山口県の宿・温泉
+                香川県の宿・温泉
               </Link>
               <Link
                 href="/prefectures/hiroshima/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 広島県の宿・温泉
+              </Link>
+              <Link
+                href="/prefectures/okayama/"
+                className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
+              >
+                岡山県の宿・温泉
+              </Link>
+              <Link
+                href="/prefectures/shimane/"
+                className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
+              >
+                島根県の宿・温泉
               </Link>
             </div>
           </div>
@@ -445,7 +445,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. こんぴら温泉　琴平グランドホテル　桜の抄</td>
                 <td className="p-3 text-stone-600">香川県仲多度郡琴平町977-1</td>
-                <td className="p-3 text-stone-600">琴平駅周辺</td>
+                <td className="p-3 text-stone-600">全室Wi-Fi無料/ＪＲ琴平駅下車、徒歩約15分（無料送迎有・要予約）。車/善通寺ＩＣより約15分 高松空港より約40分</td>
                 <td className="p-3 text-stone-600">40台（有料）・利用時間14時〜翌11時・予約必須・詳細は桜の抄公式HPをご確認ください</td>
                 <td className="p-3 font-bold text-amber-600">★4.59（2051件）</td>
                 <td className="p-3 font-bold text-rose-600">¥14,850〜</td>
@@ -454,7 +454,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 湯元こんぴら温泉華の湯　紅梅亭</td>
                 <td className="p-3 text-stone-600">香川県仲多度郡琴平町556-1</td>
-                <td className="p-3 text-stone-600">琴平駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ琴平駅下車、徒歩5分（無料送迎有・要予約）。車：道善通寺ＩＣ下車約15分。高松空港より約40分</td>
                 <td className="p-3 text-stone-600">有り：70台（無料）／EV充電器設置</td>
                 <td className="p-3 font-bold text-amber-600">★4.58（1798件）</td>
                 <td className="p-3 font-bold text-rose-600">¥15,400〜</td>
@@ -463,7 +463,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 虎屋旅館</td>
                 <td className="p-3 text-stone-600">香川県仲多度郡琴平町957-1</td>
-                <td className="p-3 text-stone-600">琴平駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ琴平駅より徒歩約10分 高松自動車道「善通寺」ICよりR319経由で15分</td>
                 <td className="p-3 text-stone-600">有り　20台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.33（17件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,300〜</td>
@@ -492,7 +492,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>40台（有料）・利用時間14時〜翌11時・予約必須・詳細は桜の抄公式HPをご確認ください</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.59 ／ 立地 ★4.49 ／ 部屋 ★4.59 ／ 設備 ★4.51 ／ 風呂 ★4.56 ／ 食事 ★4.66</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「2回目の宿泊。大人も子どもも楽しめる宿1歳と3歳の子どもを連れて、2回目の宿泊でした。部屋はきれいで、窓や客室露天風呂からこんぴらさんを眺められるのがとても良かったです。客室露天風呂なので、子ども…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「2回目の宿泊。大人も子どもも楽しめる宿1歳と3歳の子どもを連れて、2回目の宿泊でした。部屋はきれいで、窓や客室露天風呂からこんぴらさんを眺められるのがとても良かったです。」
                   </blockquote>
                 </div>
               </div>
@@ -514,7 +514,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り：70台（無料）／EV充電器設置</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.67 ／ 立地 ★4.52 ／ 部屋 ★4.58 ／ 設備 ★4.52 ／ 風呂 ★4.66 ／ 食事 ★4.66</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「幸せな非日常な優雅な時間お食事が朝夕共とっても美味しかったです。夕食の最後に白ごはんか卵かけご飯か選べるのも良いなあと思いました。私達は卵かけご飯の方をいただきましたが卵が新鮮で大満足でし…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「幸せな非日常な優雅な時間お食事が朝夕共とっても美味しかったです。夕食の最後に白ごはんか卵かけご飯か選べるのも良いなあと思いました。」
                   </blockquote>
                 </div>
               </div>

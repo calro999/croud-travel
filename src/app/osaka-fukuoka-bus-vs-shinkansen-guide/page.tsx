@@ -382,7 +382,7 @@ export default function HighwayBusArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 博多天然温泉「旅人の湯」ホテルルートイン博多駅前　－博多口－</td>
                 <td className="p-3 text-stone-600">福岡県福岡市博多区博多駅前1-1-20</td>
-                <td className="p-3 text-stone-600">博多駅周辺</td>
+                <td className="p-3 text-stone-600">JR博多駅より徒歩3分(博多口右のバスターミナル前)／福岡空港より地下鉄約10分／福岡都市高速呉服町ランプより車で約５分</td>
                 <td className="p-3 text-stone-600">《先着順でのご案内》　1500円（税込）／泊　　26台（普通車6台、ハイルーフ対応20台）</td>
                 <td className="p-3 font-bold text-amber-600">★3.96（3249件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,300〜</td>
@@ -391,7 +391,7 @@ export default function HighwayBusArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 天然温泉　八百治の湯　八百治博多ホテル</td>
                 <td className="p-3 text-stone-600">福岡県福岡市博多区博多駅前4-9-2</td>
-                <td className="p-3 text-stone-600">博多駅周辺</td>
+                <td className="p-3 text-stone-600">博多駅博多口より徒歩５分（福岡空港から博多駅まで地下鉄で５分。）</td>
                 <td className="p-3 text-stone-600">契約駐車場　1,500円（税込）/14時～翌日14時</td>
                 <td className="p-3 font-bold text-amber-600">★4.18（4564件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,450〜</td>
@@ -400,7 +400,7 @@ export default function HighwayBusArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 西鉄ホテル　クルーム博多</td>
                 <td className="p-3 text-stone-600">福岡県福岡市博多区博多駅前一丁目１７番６号</td>
-                <td className="p-3 text-stone-600">博多駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ 博多駅「博多口」より徒歩約４分 地下鉄 博多駅「西４番出口」より徒歩約４分</td>
                 <td className="p-3 text-stone-600">１泊1台２，０００円（税込）14:30～翌12：30</td>
                 <td className="p-3 font-bold text-amber-600">★4.24（6869件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,600〜</td>
@@ -429,7 +429,7 @@ export default function HighwayBusArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>《先着順でのご案内》　1500円（税込）／泊　　26台（普通車6台、ハイルーフ対応20台）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「博多駅直結で立地抜群、快適な滞在博多駅2Fから近隣のビルへ繋がる屋根付きの通路があり、ホテルへも濡れずに行くことができます。立地は言うこと無しですね!チェックアウトが10時でちょっと早いで…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「博多駅直結で立地抜群、快適な滞在博多駅2Fから近隣のビルへ繋がる屋根付きの通路があり、ホテルへも濡れずに行くことができます。立地は言うこと無しですね!」
                   </blockquote>
                 </div>
               </div>
@@ -451,7 +451,7 @@ export default function HighwayBusArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>契約駐車場　1,500円（税込）/14時～翌日14時</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「博多駅から15分、朝食や備品に不満あり何時もは市内にある天然温泉の違うホテルチェーンに泊まりますが今回は博多駅に近い温泉ホテルと言う事で選びました。近いと言っても真夏の暑い中キャリーバックを引きず…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「博多駅から15分、朝食や備品に不満あり何時もは市内にある天然温泉の違うホテルチェーンに泊まりますが今回は博多駅に近い温泉ホテルと言う事で選びました。」
                   </blockquote>
                 </div>
               </div>
@@ -473,7 +473,7 @@ export default function HighwayBusArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>１泊1台２，０００円（税込）14:30～翌12：30</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ユニットバスの臭いが気になるが全体的に満足気になったのは、物っ凄くユニットバスが臭かった点です。何が臭いのか分からず備え付けのスプレーをかけても、不快感は拭えなかった。手の届く範囲で、拭いて取れる…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ユニットバスの臭いが気になるが全体的に満足気になったのは、物っ凄くユニットバスが臭かった点です。何が臭いのか分からず備え付けのスプレーをかけても、不快感は拭えなかった。」
                   </blockquote>
                 </div>
               </div>

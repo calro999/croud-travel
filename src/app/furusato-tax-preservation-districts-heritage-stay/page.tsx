@@ -351,7 +351,7 @@ export default function FurusatoUpgradedPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 料理旅館　鶴形</td>
                 <td className="p-3 text-stone-600">岡山県倉敷市中央1-3-15</td>
-                <td className="p-3 text-stone-600">倉敷駅周辺</td>
+                <td className="p-3 text-stone-600">倉敷駅から徒歩で約15分／お車で約5分</td>
                 <td className="p-3 text-stone-600">有※倉敷国際ホテル駐車場（徒歩約5分）をご利用いただきます。</td>
                 <td className="p-3 font-bold text-amber-600">★4.9（162件）</td>
                 <td className="p-3 font-bold text-rose-600">¥23,050〜</td>
@@ -360,7 +360,7 @@ export default function FurusatoUpgradedPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 萩温泉郷　萩城三の丸　北門屋敷</td>
                 <td className="p-3 text-stone-600">山口県萩市堀内210-12</td>
-                <td className="p-3 text-stone-600">東萩駅周辺</td>
+                <td className="p-3 text-stone-600">JR東萩駅から車で約8分／世界遺産「萩城下町」の立地。城下町、萩城跡までも徒歩圏内／小郡萩道路絵堂ICから車で約25分</td>
                 <td className="p-3 text-stone-600">30台（無料）／予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.53（606件）</td>
                 <td className="p-3 font-bold text-rose-600">¥24,310〜</td>
@@ -369,7 +369,7 @@ export default function FurusatoUpgradedPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 大和橿原シティホテル</td>
                 <td className="p-3 text-stone-600">奈良県橿原市八木町1-8-16</td>
-                <td className="p-3 text-stone-600">大和八木駅周辺</td>
+                <td className="p-3 text-stone-600">★大和八木駅より徒歩４分★八木西口駅より徒歩３分★ＪＲ畝傍駅より徒歩４分★南阪奈道路葛城ICより約１５分★</td>
                 <td className="p-3 text-stone-600">１６台　無料　先着順　R２４『南八木』交差点東側　当館より徒歩２～３分　詳細はフロントにてご案内。</td>
                 <td className="p-3 font-bold text-amber-600">★3（716件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,500〜</td>
@@ -420,7 +420,7 @@ export default function FurusatoUpgradedPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>30台（無料）／予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「掃除が行き届いていて心からくつろげた娘と宿泊しました。私は若干の潔癖症があり、ホテルや旅館ではくつろげないのですが、北門屋敷さんは掃除が行き届いていて、畳の上でも、ベッドの中でも、なんの心配も…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「掃除が行き届いていて心からくつろげた娘と宿泊しました。」
                   </blockquote>
                 </div>
               </div>
@@ -442,7 +442,7 @@ export default function FurusatoUpgradedPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>１６台　無料　先着順　R２４『南八木』交差点東側　当館より徒歩２～３分　詳細はフロントにてご案内。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「素泊まりには便利だが清掃と備品に難あり素泊まりには十分。駅周辺でもあり、飲食店は多いので困らない。無料駐車場は限られてて、若干狭い、少し歩く必要あり。有料も周辺にあるので困る事はない。部屋…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「素泊まりには便利だが清掃と備品に難あり素泊まりには十分。駅周辺でもあり、飲食店は多いので困らない。無料駐車場は限られてて、若干狭い、少し歩く必要あり。有料も周辺にあるので困る事はない。」
                   </blockquote>
                 </div>
               </div>

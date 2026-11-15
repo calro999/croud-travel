@@ -426,7 +426,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. ＣＡＮＤＥＯ　ＨＯＴＥＬＳ（カンデオホテルズ）宇都宮</td>
                 <td className="p-3 text-stone-600">栃木県宇都宮市宮みらい1-1</td>
-                <td className="p-3 text-stone-600">宇都宮駅周辺</td>
+                <td className="p-3 text-stone-600">JR宇都宮駅から徒歩2分</td>
                 <td className="p-3 text-stone-600">提携駐車場：なし　併設の宇都宮テラス駐車場：24時間毎最大料金 上層1,100円、下層1,300円</td>
                 <td className="p-3 font-bold text-amber-600">★4.45（2356件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,120〜</td>
@@ -435,7 +435,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. ＪＲ東日本ホテルメッツ宇都宮</td>
                 <td className="p-3 text-stone-600">栃木県宇都宮市川向町1-23</td>
-                <td className="p-3 text-stone-600">宇都宮駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ宇都宮駅西口から徒歩1分。東武宇都宮駅から徒歩20分。日光東照宮まで’電車で45分・車で60分。</td>
                 <td className="p-3 text-stone-600">専用駐車場無し（提携駐車場あり・有料・詳しくはプラン詳細をご覧ください）</td>
                 <td className="p-3 font-bold text-amber-600">★4.38（2491件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,450〜</td>
@@ -444,7 +444,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. ホテルマイステイズ宇都宮</td>
                 <td className="p-3 text-stone-600">栃木県宇都宮市東宿郷2-4-1</td>
-                <td className="p-3 text-stone-600">宇都宮駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ宇都宮駅東口より徒歩３分という好立地。1階にコンビニ併設でビジネスユースにピッタリ。</td>
                 <td className="p-3 text-stone-600">58台(全高1.55m迄の制限あり)1泊1100円/泊 先着順。入庫不可時は徒歩5分の駐車場を案内。</td>
                 <td className="p-3 font-bold text-amber-600">★4.21（2607件）</td>
                 <td className="p-3 font-bold text-rose-600">¥2,820〜</td>
@@ -473,7 +473,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>提携駐車場：なし　併設の宇都宮テラス駐車場：24時間毎最大料金 上層1,100円、下層1,300円</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.4 ／ 立地 ★4.57 ／ 部屋 ★4.54 ／ 設備 ★4.44 ／ 風呂 ★4.49 ／ 食事 ★4.32</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「見晴らしの良いロビーと朝食の美味しさに感動ロビーが13階、12階以下が客室という少し変わったつくり。チェックインすべくエレベーターを降りたら明るく見晴らしのいいロビーが広がっていて、気分が上がりま…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「見晴らしの良いロビーと朝食の美味しさに感動ロビーが13階、12階以下が客室という少し変わったつくり。」
                   </blockquote>
                 </div>
               </div>
@@ -517,7 +517,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>58台(全高1.55m迄の制限あり)1泊1100円/泊 先着順。入庫不可時は徒歩5分の駐車場を案内。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.32 ／ 立地 ★4.25 ／ 部屋 ★4.1 ／ 設備 ★3.99 ／ 風呂 ★3.92 ／ 食事 ★4.21</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食は美味しく、設備は古く空調が寒め朝食は美味しく、レモン牛乳や、コーヒー牛乳など他では珍しいジュース類もたくさんありました。部屋も綺麗でしたが、全体的に設備が古い印象で、エアコン一括調整だっ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食は美味しく、設備は古く空調が寒め朝食は美味しく、レモン牛乳や、コーヒー牛乳など他では珍しいジュース類もたくさんありました。」
                   </blockquote>
                 </div>
               </div>

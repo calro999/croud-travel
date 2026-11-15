@@ -253,7 +253,7 @@ export default function LuxuryPremiumHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. ホテルシギラミラージュ＜宮古島＞</td>
                 <td className="p-3 text-stone-600">沖縄県宮古島市上野新里1405-201</td>
-                <td className="p-3 text-stone-600">宮古空港駅周辺</td>
+                <td className="p-3 text-stone-600">宮古空港ーホテル：シャトルバス空港カウンター受付（１０時ー１７時３０分）、下地島空港ーホテル：公式サイトをご確認ください</td>
                 <td className="p-3 text-stone-600">無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.76（417件）</td>
                 <td className="p-3 font-bold text-rose-600">¥38,050〜</td>
@@ -262,7 +262,7 @@ export default function LuxuryPremiumHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 石垣島ＴＨＥ　ＭＩＹＡＲＡ　ＧＡＲＤＥＮ（ザミヤラガーデン）＜石垣島＞</td>
                 <td className="p-3 text-stone-600">沖縄県石垣市宮良1025-7</td>
-                <td className="p-3 text-stone-600">石垣空港駅周辺</td>
+                <td className="p-3 text-stone-600">新石垣空港よりお車にて約１０分。空港と市街地の真ん中の便利な宮良地区です。</td>
                 <td className="p-3 text-stone-600">有り　施設合計６台　各棟２台まで　駐車料金は無料　予約不要。</td>
                 <td className="p-3 font-bold text-amber-600">★5（19件）</td>
                 <td className="p-3 font-bold text-rose-600">¥16,000〜</td>
@@ -271,7 +271,7 @@ export default function LuxuryPremiumHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. オーシャンビュー石垣　－　プール付き新築ヴィラ　＾</td>
                 <td className="p-3 text-stone-600">沖縄県石垣市川平1216-627、681　オーシャンビュー石垣</td>
-                <td className="p-3 text-stone-600">石垣空港駅周辺</td>
+                <td className="p-3 text-stone-600">石垣空港から車で約３０分</td>
                 <td className="p-3 text-stone-600">有り</td>
                 <td className="p-3 font-bold text-amber-600">高評価</td>
                 <td className="p-3 font-bold text-rose-600">¥34,638〜</td>
@@ -280,7 +280,7 @@ export default function LuxuryPremiumHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 伊豆河津浜　磯あるきの湯宿　潮雲</td>
                 <td className="p-3 text-stone-600">静岡県賀茂郡河津町浜357</td>
-                <td className="p-3 text-stone-600">河津駅周辺</td>
+                <td className="p-3 text-stone-600">東名 厚木ＩＣより１５０分。伊豆急行「河津駅」より徒歩3分。</td>
                 <td className="p-3 text-stone-600">有り：7台（無料）</td>
                 <td className="p-3 font-bold text-amber-600">★4.55（129件）</td>
                 <td className="p-3 font-bold text-rose-600">¥24,750〜</td>
@@ -289,7 +289,7 @@ export default function LuxuryPremiumHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 伊豆一碧湖レイクサイドテラス</td>
                 <td className="p-3 text-stone-600">静岡県伊東市吉田839-91</td>
-                <td className="p-3 text-stone-600">伊東駅周辺</td>
+                <td className="p-3 text-stone-600">東京方面：小田原厚木道小田原東ICより約90分／名古屋方面：東名沼津ICより約90分／伊豆急川奈駅より送迎有り（要予約）</td>
                 <td className="p-3 text-stone-600">有り　30台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★3.9（695件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,300〜</td>
@@ -318,7 +318,7 @@ export default function LuxuryPremiumHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの案内が最高、朝食も充実で大満足チェックインの時から最高です!何が食べたいかで周辺の食事処を案内してくれたり、滞在中のスケジュールからオススメのスポットなども併せて教えてくれます。朝食…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの案内が最高、朝食も充実で大満足チェックインの時から最高です!何が食べたいかで周辺の食事処を案内してくれたり、滞在中のスケジュールからオススメのスポットなども併せて教えてくれます。」
                   </blockquote>
                 </div>
               </div>
@@ -384,7 +384,7 @@ export default function LuxuryPremiumHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り：7台（無料）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉三昧ができ部屋の中でも波の音が聞こえる静かな篭れるよき宿一人旅の2泊目に宿泊しました。露天付き客室に個室お食事処、目の前で海が見える1人でも泊まれる貴重なお宿です。駅と宿を結ぶ送迎は…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉三昧ができ部屋の中でも波の音が聞こえる静かな篭れるよき宿一人旅の2泊目に宿泊しました。露天付き客室に個室お食事処、目の前で海が見える1人でも泊まれる貴重なお宿です。」
                   </blockquote>
                 </div>
               </div>
@@ -406,7 +406,7 @@ export default function LuxuryPremiumHubPage() {
                   <p>【客室プライベートプール付きオールスイートヴィラ：沖縄】 <strong>【駐車場・マイカー利用】</strong>有り　30台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「写真と異なり設備が古く虫も多い19人と犬2匹なので犬オッケーの部屋2部屋と普通の部屋1部屋借りました。写真はキレイな部屋だったので、ここにしましたが、到着してみると外観は昭和のボロアパートで中…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「写真と異なり設備が古く虫も多い19人と犬2匹なので犬オッケーの部屋2部屋と普通の部屋1部屋借りました。」
                   </blockquote>
                 </div>
               </div>

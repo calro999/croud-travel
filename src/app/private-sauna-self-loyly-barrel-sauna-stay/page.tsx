@@ -76,7 +76,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F186136%2F186136.html%26f_flg%3DPLAN",
     "hotelMinCharge": 20880,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/186136/186136.jpg",
-    "userReview": "富士山一望　サウナ、ＢＢＱ、露天風呂を楽しむ大型高級貸切別荘　ｔｊ　ｒｅｓｏｒｔ　【最大２５名／民泊ならではの立地と落ち着いた空間で、ゆったりとした滞在を楽しめたという声が寄せられています。",
+    "userReview": "富士山一望 サウナ、ＢＢＱ、露天風呂を楽しむ大型高級貸切別荘 ｔｊ ｒｅｓｏｒｔ 【最大２５名／民泊ならではの立地と落ち着いた空間で、ゆったりとした滞在を楽しめたという声が寄せられています。",
     "reviewAverage": 4.4,
     "reviewCount": 100,
     "address": "山梨県南都留郡山中湖村平野寺吉政684-32　富士山一望　サウナ、ＢＢＱ、露天風呂を楽しむ大型高級貸切別荘　ｔｊ　ｒｅｓｏｒｔ　【最大25名】",
@@ -284,7 +284,7 @@ export default function Page() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 駿河小山駅から車で約２７分で現地へ到着。</li>
                 <li>・<strong className="text-stone-800">15:30〜</strong> 「富士山一望 サウナ、ＢＢＱ、露天風呂を楽しむ大型高級貸切別荘 ｔｊ ｒｅｓｏｒｔ 【最大２５名／民泊」へチェックイン。落ち着いた空間で旅の荷を解き、ゆったりとした時間をスタート。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「富士山一望 サウナ、ＢＢＱ、露天風呂を楽しむ大型高級貸切別荘 ｔｊ ｒｅｓｏｒｔ 【最大２５名／民泊」の湯処へ。日頃の疲れを癒やす湯浴みとともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「富士山一望 サウナ、ＢＢＱ、露天風呂を楽しむ大型高級貸切別荘 ｔｊ ｒｅｓｏｒｔ 【最大２５名／民泊」の自慢の湯処へ。温かな湯気と落ち着いた雰囲気に癒やされながら、夕食前の贅沢なひとときを過ごす。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「富士山一望 サウナ、ＢＢＱ、露天風呂を楽しむ大型高級貸切別荘 ｔｊ ｒｅｓｏｒｔ 【最大２５名／民泊」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -296,7 +296,7 @@ export default function Page() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「富士山一望 サウナ、ＢＢＱ、露天風呂を楽しむ大型高級貸切別荘 ｔｊ ｒｅｓｏｒｔ 【最大２５名／民泊」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「富士山一望 サウナ、ＢＢＱ、露天風呂を楽しむ大型高級貸切別荘 ｔｊ ｒｅｓｏｒｔ 【最大２５名／民泊」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「ベル・ザ・キャット 貸切温泉５サウナ付２豚しゃぶお酒食べ飲み放題」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は宿周辺の散策とショッピングを満喫。地元の名産品やグルメを味わってから余裕をもって帰路につく。</li>
               </ul>
             </div>
           </div>

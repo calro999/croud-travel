@@ -565,8 +565,8 @@ export default function FeatureDetailPage() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 豊栄駅よりアクセス。ＪＲ月岡駅より車で約５分／ＪＲ豊栄駅より車で１５分／磐越道 安田ＩＣより車で約１５分。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「月岡温泉 ホテル清風苑」にチェックイン。5つ星の宿〇プロが選ぶ日本の旅館１００選受賞！ビュッフェスタイルから特撰会席まで多彩なお料理をご用意などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「月岡温泉 ホテル清風苑」の湯処へ。5つ星の宿〇プロが選ぶ日本の旅館１００選受賞！ビュッフェスタイルから特とともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「月岡温泉 ホテル清風苑」にチェックイン。5つ星の宿〇プロが選ぶ日本の旅館１００選受賞！ まずは客室で移動の疲れをそっと癒やす。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「月岡温泉 ホテル清風苑」の湯船で寛ぎタイム。季節の空気を感じながら手足を伸ばし、心豊かな夕方のリラックス時間を満喫。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「月岡温泉 ホテル清風苑」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -578,7 +578,7 @@ export default function FeatureDetailPage() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「月岡温泉 ホテル清風苑」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「月岡温泉 ホテル清風苑」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「月岡温泉 白玉の湯 泉慶」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は「月岡温泉 ホテル清風苑」周辺の観光スポットや地元の名産店に立ち寄り、ご当地のお土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>
@@ -649,28 +649,28 @@ export default function FeatureDetailPage() {
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
             <div className="flex flex-wrap gap-2">
               <Link
-                href="/prefectures/tokushima/"
+                href="/prefectures/niigata/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                徳島県の宿・温泉
+                新潟県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/shizuoka/"
+                href="/prefectures/nagano/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                静岡県の宿・温泉
+                長野県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/kagawa/"
+                href="/prefectures/yamanashi/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                香川県の宿・温泉
+                山梨県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/fukui/"
+                href="/prefectures/ishikawa/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                福井県の宿・温泉
+                石川県の宿・温泉
               </Link>
             </div>
           </div>
@@ -706,7 +706,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 月岡温泉　ホテル清風苑</td>
                 <td className="p-3 text-stone-600">新潟県新発田市月岡278-2</td>
-                <td className="p-3 text-stone-600">豊栄駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ月岡駅より車で約５分／ＪＲ豊栄駅より車で１５分／磐越道 安田ＩＣより車で約１５分</td>
                 <td className="p-3 text-stone-600">有り　３５０台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.19（1736件）</td>
                 <td className="p-3 font-bold text-rose-600">¥11,000〜</td>
@@ -715,7 +715,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 月岡温泉　割烹の宿　いま井　五十嵐邸　結</td>
                 <td className="p-3 text-stone-600">新潟県新発田市月岡温泉350</td>
-                <td className="p-3 text-stone-600">月岡（新潟）駅周辺</td>
+                <td className="p-3 text-stone-600">豊栄駅・新発田駅より車で２０分、月岡駅より１０分（豊栄駅に限り無料送迎有り、３日前まで要連絡）</td>
                 <td className="p-3 text-stone-600">有り　１５台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.52（204件）</td>
                 <td className="p-3 font-bold text-rose-600">¥21,390〜</td>
@@ -724,7 +724,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 月岡温泉　白玉の湯華鳳　別邸越の里</td>
                 <td className="p-3 text-stone-600">新潟県新発田市月岡温泉134</td>
-                <td className="p-3 text-stone-600">豊栄駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ新潟駅より月岡温泉行きの路線バスあり（片道1,500円/現金のみ）</td>
                 <td className="p-3 text-stone-600">有り　１５０台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.64（201件）</td>
                 <td className="p-3 font-bold text-rose-600">¥41,800〜</td>
@@ -733,7 +733,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 月岡温泉　白玉の湯　泉慶</td>
                 <td className="p-3 text-stone-600">新潟県新発田市月岡温泉453番地</td>
-                <td className="p-3 text-stone-600">月岡（新潟）駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ月岡駅より車で１０分／ＪＲ豊栄駅より車で２０分／磐越道 安田ＩＣより車で２０分</td>
                 <td className="p-3 text-stone-600">有　１５０台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.74（1803件）</td>
                 <td className="p-3 font-bold text-rose-600">¥17,600〜</td>
@@ -742,7 +742,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 月岡温泉　白玉の湯　華鳳</td>
                 <td className="p-3 text-stone-600">新潟県新発田市月岡温泉134</td>
-                <td className="p-3 text-stone-600">豊栄駅周辺</td>
+                <td className="p-3 text-stone-600">新潟駅や空港から最も近い温泉地／JR新発田駅より有料定時シャトルバス運行</td>
                 <td className="p-3 text-stone-600">有り　１５０台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.76（1609件）</td>
                 <td className="p-3 font-bold text-rose-600">¥23,100〜</td>
@@ -771,7 +771,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　３５０台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「泉質と朝食は満足だが洗面所の清掃が残念良かったところ・泉質がよかったです。・朝食のおかずがかなり多く、味も良く楽しめました。・施設は古いですが、スタッフさんの接遇はしっかりされていまし…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「泉質と朝食は満足だが洗面所の清掃が残念良かったところ・泉質がよかったです。・朝食のおかずがかなり多く、味も良く楽しめました。」
                   </blockquote>
                 </div>
               </div>
@@ -815,7 +815,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１５０台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.79 ／ 立地 ★4.72 ／ 部屋 ★4.85 ／ 設備 ★4.83 ／ 風呂 ★4.85 ／ 食事 ★4.64</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「落ち着いた雰囲気だが部屋からの眺望は期待外れ別邸越の里に宿泊。充分なプライベート感で落ち着いた雰囲気のなかゆっくりできました。ただし部屋からのビュー感は期待ハズレが否なめませんでした。クチ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「落ち着いた雰囲気だが部屋からの眺望は期待外れ別邸越の里に宿泊。充分なプライベート感で落ち着いた雰囲気のなかゆっくりできました。ただし部屋からのビュー感は期待ハズレが否なめませんでした。」
                   </blockquote>
                 </div>
               </div>
@@ -837,7 +837,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有　１５０台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「良い時間を過ごせましたスタッフの方々に温かく迎え入れていただき、清潔で美しい館内で気持ちよく滞在できました。子ども向けのお菓子のサービスや、子ども用の作務衣があるのもとてもありがたかっ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「良い時間を過ごせましたスタッフの方々に温かく迎え入れていただき、清潔で美しい館内で気持ちよく滞在できました。」
                   </blockquote>
                 </div>
               </div>

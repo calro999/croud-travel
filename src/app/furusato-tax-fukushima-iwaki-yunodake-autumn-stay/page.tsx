@@ -353,39 +353,7 @@ export default function Page() {
             </Link>
           </div>
         </section>
-        <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
-          <div className="flex items-center gap-3 mb-6">
-            <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】いわき湯本温泉 ホテルパームスプリングを拠点にするおすすめ滞在モデルコース</h2>
-          </div>
-          <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
-            <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
-              <div className="flex items-center gap-2">
-                <span className="bg-amber-600 text-white text-xs font-bold px-2.5 py-1 rounded">1日目</span>
-                <h3 className="font-bold text-stone-900 text-base md:text-lg">到着〜チェックインと名湯巡り</h3>
-              </div>
-              <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
-                <li>・<strong className="text-stone-800">14:00〜</strong> 湯本駅よりアクセス。ＪＲ湯本駅から車で7分／常磐道いわき湯本ＩＣより車で５分。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「いわき湯本温泉 ホテルパームスプリング」にチェックイン。ハワイアンズ車5分と好アクセス！源泉100％掛け流し檜香る温泉に旬の食材を使用した料理長特製の和食膳などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「いわき湯本温泉 ホテルパームスプリング」の湯処へ。ハワイアンズ車5分と好アクセス！源泉100％掛け流し檜香る温泉に旬の食とともに、夕暮れの特別な寛ぎを満喫。</li>
-                <li>・<strong className="text-stone-800">19:00〜</strong> 「いわき湯本温泉 ホテルパームスプリング」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
-              </ul>
-            </div>
-            <div className="border-l-2 border-teal-500 pl-4 md:pl-6 space-y-4">
-              <div className="flex items-center gap-2">
-                <span className="bg-teal-600 text-white text-xs font-bold px-2.5 py-1 rounded">2日目</span>
-                <h3 className="font-bold text-stone-900 text-base md:text-lg">爽快な朝湯〜周辺散策と帰路へ</h3>
-              </div>
-              <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
-                <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「いわき湯本温泉 ホテルパームスプリング」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
-                <li>・<strong className="text-stone-800">08:00〜</strong> 「いわき湯本温泉 ホテルパームスプリング」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「いわき湯本温泉 旅館 こいと」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
-              </ul>
-            </div>
-          </div>
-        </section>
-
-        {/* FAQ Section */}
+                {/* FAQ Section */}
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
@@ -450,28 +418,28 @@ export default function Page() {
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
             <div className="flex flex-wrap gap-2">
               <Link
-                href="/prefectures/aichi/"
+                href="/prefectures/fukushima/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                愛知県の宿・温泉
+                福島県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/osaka/"
+                href="/prefectures/hokkaido/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                大阪府の宿・温泉
+                北海道の宿・温泉
               </Link>
               <Link
-                href="/prefectures/shizuoka/"
+                href="/prefectures/aomori/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                静岡県の宿・温泉
+                青森県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/okayama/"
+                href="/prefectures/iwate/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                岡山県の宿・温泉
+                岩手県の宿・温泉
               </Link>
             </div>
           </div>
@@ -507,7 +475,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. いわき湯本温泉　ホテルパームスプリング</td>
                 <td className="p-3 text-stone-600">福島県いわき市常磐白鳥町壱丁田18</td>
-                <td className="p-3 text-stone-600">湯本駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ湯本駅から車で7分／常磐道いわき湯本ＩＣより車で５分</td>
                 <td className="p-3 text-stone-600">有り 90台 無料 先着順 *ただし４トン車以上の大型車は有料となります。</td>
                 <td className="p-3 font-bold text-amber-600">★4.45（1801件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,200〜</td>
@@ -516,7 +484,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. いわき湯本温泉　旅館　こいと</td>
                 <td className="p-3 text-stone-600">福島県いわき市常磐湯本町笠井1</td>
-                <td className="p-3 text-stone-600">湯本駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ常磐線湯本駅より徒歩８分 常磐自動車道いわき湯本ＩＣから４ｋｍ（車で７分） ハワイアンズまで車で約７分</td>
                 <td className="p-3 text-stone-600">普通乗用車タイプ28台、無料、道路を挟んで旅館の向かい側。</td>
                 <td className="p-3 font-bold text-amber-600">★4.36（295件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,700〜</td>
@@ -525,7 +493,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. いわき湯本温泉　雨情の宿　新つた</td>
                 <td className="p-3 text-stone-600">福島県いわき市常磐湯本町吹谷58</td>
-                <td className="p-3 text-stone-600">湯本駅周辺</td>
+                <td className="p-3 text-stone-600">常磐線・湯本駅より徒歩７分／常磐自動車道・湯本ＩＣよりお車で１０分</td>
                 <td className="p-3 text-stone-600">有り　４０台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.33（947件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,650〜</td>
@@ -576,7 +544,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>普通乗用車タイプ28台、無料、道路を挟んで旅館の向かい側。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.39 ／ 立地 ★4.38 ／ 部屋 ★4.22 ／ 設備 ★4.19 ／ 風呂 ★4.6 ／ 食事 ★4.54</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉は良かったが混雑時のマナーが残念素泊まりで利用しました。宿泊当日にマラソン大会が開催されるとのことで、フロントから「ランナーの方が温泉を利用するため、混み合う可能性がある」と説明を受け…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉は良かったが混雑時のマナーが残念素泊まりで利用しました。」
                   </blockquote>
                 </div>
               </div>
@@ -598,7 +566,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　４０台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「快適に過ごせました以前は和室に宿泊しましたが、今回はリニューアルした部屋を利用しました。上階だったこともあり、空が見えて木々とのバランスが良く開放的でした。子供がいたからか夕食は個室で対応して頂き…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「快適に過ごせました以前は和室に宿泊しましたが、今回はリニューアルした部屋を利用しました。上階だったこともあり、空が見えて木々とのバランスが良く開放的でした。」
                   </blockquote>
                 </div>
               </div>

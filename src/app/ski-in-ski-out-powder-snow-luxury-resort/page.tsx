@@ -118,7 +118,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F181791%2F181791.html%26f_flg%3DPLAN",
     "hotelMinCharge": 9600,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/181791/181791.jpg",
-    "userReview": "ＷＨＩＴＥ　ＨＯＴＥＬ　ＧＲＡＮＤ　ＨＡＫＵＢＡならではの立地と落ち着いた空間で、ゆったりとした滞在を楽しめたという声が寄せられています。",
+    "userReview": "ＷＨＩＴＥ ＨＯＴＥＬ ＧＲＡＮＤ ＨＡＫＵＢＡならではの立地と落ち着いた空間で、ゆったりとした滞在を楽しめたという声が寄せられています。",
     "reviewAverage": 4.4,
     "reviewCount": 12,
     "address": "長野県大町市平23370",
@@ -283,8 +283,8 @@ export default function Page() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 越後湯沢駅よりアクセス。ＪＲ上越新幹線越後湯沢駅から車で3分（送迎バスあり／定時運行）、関越自動車道湯沢Ｉ．Ｃより５分。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「越後湯沢温泉 ＮＡＳＰＡニューオータニ」にチェックイン。窓からは雄大な自然が広がる客室。 滋味溢れる地元食材を楽しみ、天然温泉で疲れを癒してください。などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「越後湯沢温泉 ＮＡＳＰＡニューオータニ」の湯処へ。窓からは雄大な自然が広がる客室。 滋味溢れる地元食材を楽しみ、天然温泉とともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「越後湯沢温泉 ＮＡＳＰＡニューオータニ」にチェックイン。窓からは雄大な自然が広がる客室。 滋味溢れる地元食材を楽しみ、天然温泉で疲れを癒してください。 館内の設えを確かめながら、これからの滞在に備えてゆっくり休息する。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「越後湯沢温泉 ＮＡＳＰＡニューオータニ」の湯船で寛ぎタイム。季節の空気を感じながら手足を伸ばし、心豊かな夕方のリラックス時間を満喫。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「越後湯沢温泉 ＮＡＳＰＡニューオータニ」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -296,7 +296,7 @@ export default function Page() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「越後湯沢温泉 ＮＡＳＰＡニューオータニ」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「越後湯沢温泉 ＮＡＳＰＡニューオータニ」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「ホテルアルペンブリック」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は「越後湯沢温泉 ＮＡＳＰＡニューオータニ」周辺の観光スポットや地元の名産店に立ち寄り、ご当地のお土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>
@@ -424,7 +424,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 越後湯沢温泉　ＮＡＳＰＡニューオータニ</td>
                 <td className="p-3 text-stone-600">新潟県南魚沼郡湯沢町湯沢2117-9</td>
-                <td className="p-3 text-stone-600">ＪＲ上越新幹線越後湯沢駅から車で3分（送迎バスあり／定時運行）、関越自</td>
+                <td className="p-3 text-stone-600">ＪＲ上越新幹線越後湯沢駅から車で3分（送迎バスあり／定時運行）、関越自動車道湯沢Ｉ．Ｃより５分</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.43（2152件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,800〜</td>
@@ -433,7 +433,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. ホテルアルペンブリック</td>
                 <td className="p-3 text-stone-600">新潟県妙高市関川2452</td>
-                <td className="p-3 text-stone-600">妙高高原駅周辺</td>
+                <td className="p-3 text-stone-600">北しなの線 妙高高原駅より車で10分／上信越道 妙高高原ＩＣ～国道１８号線を通過、直進後突き当りを左折し、2.5キロ先</td>
                 <td className="p-3 text-stone-600">有り / 200台 / 宿泊者無料</td>
                 <td className="p-3 font-bold text-amber-600">★4（724件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,500〜</td>
@@ -442,7 +442,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 蔵王温泉　ＪＵＲＩＮ</td>
                 <td className="p-3 text-stone-600">山形県山形市蔵王温泉814</td>
-                <td className="p-3 text-stone-600">山形自動車道『山形蔵王IC』で下り、西蔵王高原ライン経由約30分／『山</td>
+                <td className="p-3 text-stone-600">山形自動車道『山形蔵王IC』で下り、西蔵王高原ライン経由約30分／『山形駅』『上山駅』</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.28（814件）</td>
                 <td className="p-3 font-bold text-rose-600">¥12,100〜</td>
@@ -451,7 +451,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. ＷＨＩＴＥ　ＨＯＴＥＬ　ＧＲＡＮＤ　ＨＡＫＵＢＡ</td>
                 <td className="p-3 text-stone-600">長野県大町市平23370</td>
-                <td className="p-3 text-stone-600">南神城駅周辺</td>
+                <td className="p-3 text-stone-600">JR大糸線簗場（やなば）駅より送迎１０分／長野自動車道｜安曇野ＩＣ・上信越自動車道｜長野ＩＣより約６０分</td>
                 <td className="p-3 text-stone-600">敷地内に無料駐車場をご用意しております。</td>
                 <td className="p-3 font-bold text-amber-600">★4.29（14件）</td>
                 <td className="p-3 font-bold text-rose-600">¥11,050〜</td>
@@ -460,7 +460,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 郡上ヴァカンス村ホテル</td>
                 <td className="p-3 text-stone-600">岐阜県郡上市高鷲町鷲見2363-395</td>
-                <td className="p-3 text-stone-600">長良川鉄道「美濃白鳥駅」より車で約30分／東海北陸自動車道「ひるがの高</td>
+                <td className="p-3 text-stone-600">長良川鉄道「美濃白鳥駅」より車で約30分／東海北陸自動車道「ひるがの高原SAスマートＩＣ」より６Ｋｍ（約７分）</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★3.95（283件）</td>
                 <td className="p-3 font-bold text-rose-600">¥2,160〜</td>
@@ -511,7 +511,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り / 200台 / 宿泊者無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.96 ／ 立地 ★4.1 ／ 部屋 ★4 ／ 設備 ★3.73 ／ 風呂 ★4.1 ／ 食事 ★4.15</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「豪華なバイキングと秘湯のような露天風呂夕飯はバスで送迎してくれます。バイキングの内容が豪華でとても良かったです。朝食はホテル内でしたが、こちらも内容満足でよかったです。お風呂は露天風呂が階…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「豪華なバイキングと秘湯のような露天風呂夕飯はバスで送迎してくれます。バイキングの内容が豪華でとても良かったです。朝食はホテル内でしたが、こちらも内容満足でよかったです。」
                   </blockquote>
                 </div>
               </div>
@@ -533,7 +533,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉と食事に大満足、また行きたい!温泉は言わずもがな、最高でしたさすが蔵王温泉です、4回くらい入りました夕飯の芋煮、朝飯の豚汁どちらも具がたくさんでとてもとても美味しかったです夕飯時ア…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉と食事に大満足、また行きたい!」
                   </blockquote>
                 </div>
               </div>
@@ -577,7 +577,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事も美味しく、スタッフの対応も親切ご飯が美味しかったです。子ども達の対応にも、店員さんが皆親切にしてくださいました。団体さんがおられました。迷路は大人でも難しく、良い運動になります。ありがとうご…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事も美味しく、スタッフの対応も親切ご飯が美味しかったです。子ども達の対応にも、店員さんが皆親切にしてくださいました。団体さんがおられました。迷路は大人でも難しく、良い運動になります。」
                   </blockquote>
                 </div>
               </div>

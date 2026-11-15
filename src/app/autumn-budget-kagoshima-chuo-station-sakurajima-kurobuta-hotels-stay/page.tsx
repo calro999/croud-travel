@@ -401,7 +401,7 @@ export default function AutumnBudgetHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. ＨＯＴＥＬ　ＮＯＩＲ（ホテルノイル）鹿児島中央駅</td>
                 <td className="p-3 text-stone-600">鹿児島県鹿児島市中央町24-16</td>
-                <td className="p-3 text-stone-600">鹿児島中央駅周辺</td>
+                <td className="p-3 text-stone-600">鹿児島中央駅(東口／桜島口)より徒歩で約4分。Li-Kaから一番街経由で駅直結</td>
                 <td className="p-3 text-stone-600">有り・先着順(1500円) ファミリーカータイプ収納／立体18台、平面3台（障碍者用含む）</td>
                 <td className="p-3 font-bold text-amber-600">★4.14（491件）</td>
                 <td className="p-3 font-bold text-rose-600">¥2,500〜</td>
@@ -410,7 +410,7 @@ export default function AutumnBudgetHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. アパホテル〈鹿児島中央駅前西口〉</td>
                 <td className="p-3 text-stone-600">鹿児島県鹿児島市西田2-20-14</td>
-                <td className="p-3 text-stone-600">鹿児島中央駅周辺</td>
+                <td className="p-3 text-stone-600">九州新幹線・JR鹿児島本線「鹿児島中央駅」（西口）徒歩3分</td>
                 <td className="p-3 text-stone-600">ホテルから徒歩1分「NEO西田パーキング」122台（先着順）1泊最大1,100円</td>
                 <td className="p-3 font-bold text-amber-600">★4.27（320件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,960〜</td>
@@ -419,7 +419,7 @@ export default function AutumnBudgetHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. アパホテル〈鹿児島中央駅前〉</td>
                 <td className="p-3 text-stone-600">鹿児島県鹿児島市西田2-21-22</td>
-                <td className="p-3 text-stone-600">鹿児島中央駅周辺</td>
+                <td className="p-3 text-stone-600">鹿児島中央駅から徒歩1分！天文館まで路面電車で5分！鹿児島ICから車で10分！</td>
                 <td className="p-3 text-stone-600">立体駐車場58台完備。15：00～翌11：00まで1100円、先着順。高さ制限あり。</td>
                 <td className="p-3 font-bold text-amber-600">★4.25（1321件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,230〜</td>
@@ -428,7 +428,7 @@ export default function AutumnBudgetHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 東横ＩＮＮ鹿児島中央駅東口</td>
                 <td className="p-3 text-stone-600">鹿児島県鹿児島市中央町26-25</td>
-                <td className="p-3 text-stone-600">鹿児島中央駅周辺</td>
+                <td className="p-3 text-stone-600">JR九州新幹線・鹿児島本線・日豊本線・指宿枕崎線 鹿児島中央駅東口より徒歩３分</td>
                 <td className="p-3 text-stone-600">立体60台(高さ２M幅１．８５Mまで）1,000円/泊 平置駐車場のみ予約制　1,000円/泊</td>
                 <td className="p-3 font-bold text-amber-600">★4.26（630件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,638〜</td>
@@ -437,7 +437,7 @@ export default function AutumnBudgetHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. ネム〜ル　鹿児島中央駅</td>
                 <td className="p-3 text-stone-600">鹿児島県鹿児島市西田2-19-3</td>
-                <td className="p-3 text-stone-600">鹿児島中央駅周辺</td>
+                <td className="p-3 text-stone-600">鹿児島中央駅より徒歩にて約３分</td>
                 <td className="p-3 text-stone-600">無し</td>
                 <td className="p-3 font-bold text-amber-600">★4.36（376件）</td>
                 <td className="p-3 font-bold text-rose-600">¥2,900〜</td>
@@ -466,7 +466,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り・先着順(1500円) ファミリーカータイプ収納／立体18台、平面3台（障碍者用含む）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近で移動が楽、ベッドも広くて快適8月12日から14日まで利用しました。チェックインもチェックアウトもとてもスムーズでしたとてもキレイなホテルでベッドも広くとても寝やすかったです。鹿児…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近で移動が楽、ベッドも広くて快適8月12日から14日まで利用しました。チェックインもチェックアウトもとてもスムーズでしたとてもキレイなホテルでベッドも広くとても寝やすかったです。」
                   </blockquote>
                 </div>
               </div>
@@ -510,7 +510,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>立体駐車場58台完備。15：00～翌11：00まで1100円、先着順。高さ制限あり。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近で高コスパ駅からこの距離でこの価格、言う事なしです。空調は一括管理ですと書いてあって、一瞬調整できないかと思うのですがそうではなく、冷房か暖房かが選べないだけで、その中での調整は普通に…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近で高コスパ駅からこの距離でこの価格、言う事なしです。」
                   </blockquote>
                 </div>
               </div>
@@ -532,7 +532,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>立体60台(高さ２M幅１．８５Mまで）1,000円/泊 平置駐車場のみ予約制　1,000円/泊</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「無料のサービスとロボットが便利で接客も親切無料のコーヒーサービスやお水のサービスがありとても助かりました ロボットのご飯盛り付けロボットもありとても便利でした。従業員の方もとても親しみやすくフレン…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「無料のサービスとロボットが便利で接客も親切無料のコーヒーサービスやお水のサービスがありとても助かりました ロボットのご飯盛り付けロボットもありとても便利でした。」
                   </blockquote>
                 </div>
               </div>
@@ -554,7 +554,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無し</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.08 ／ 立地 ★4.19 ／ 部屋 ★4.43 ／ 設備 ★4.36 ／ 風呂 ★4.27</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「入館パスワードが届かず連絡も取れず困惑建物内の中に入るためのパスワードが送られて来ず、記載されている電話番号やメールアドレスにも返事がなく、かなり詰みでした。たまたま外出する方がいらっしゃったので…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「入館パスワードが届かず連絡も取れず困惑建物内の中に入るためのパスワードが送られて来ず、記載されている電話番号やメールアドレスにも返事がなく、かなり詰みでした。」
                   </blockquote>
                 </div>
               </div>

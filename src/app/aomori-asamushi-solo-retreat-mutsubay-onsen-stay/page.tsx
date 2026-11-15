@@ -339,8 +339,8 @@ export default function ArticlePage() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 浅虫温泉駅よりアクセス。青い森鉄道 浅虫温泉駅より 徒歩約2分。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「浅虫温泉 南部屋・海扇閣」にチェックイン。2024年4月リニューアルオープン！１階ロビーにて津軽三味線ショー毎晩開催などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「浅虫温泉 南部屋・海扇閣」の湯処へ。2024年4月リニューアルオープン！１階ロビーにて津軽三味線ショー毎晩とともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「浅虫温泉 南部屋・海扇閣」にチェックイン。2024年4月リニューアルオープン！１階ロビーにて津軽三味線ショー毎晩開催が魅力の一軒。客室で荷物をほどいて穏やかな午後のひとときを。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「浅虫温泉 南部屋・海扇閣」の湯船で寛ぎタイム。季節の空気を感じながら手足を伸ばし、心豊かな夕方のリラックス時間を満喫。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「浅虫温泉 南部屋・海扇閣」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -352,7 +352,7 @@ export default function ArticlePage() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「浅虫温泉 南部屋・海扇閣」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「浅虫温泉 南部屋・海扇閣」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「浅虫温泉 椿館」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は「浅虫温泉 南部屋・海扇閣」周辺の観光スポットや地元の名産店に立ち寄り、ご当地のお土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>
@@ -389,28 +389,28 @@ export default function ArticlePage() {
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
             <div className="flex flex-wrap gap-2">
               <Link
-                href="/prefectures/tokyo/"
+                href="/prefectures/aomori/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                東京都の宿・温泉
+                青森県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/nagasaki/"
+                href="/prefectures/hokkaido/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                長崎県の宿・温泉
+                北海道の宿・温泉
               </Link>
               <Link
-                href="/prefectures/akita/"
+                href="/prefectures/iwate/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                秋田県の宿・温泉
+                岩手県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/ishikawa/"
+                href="/prefectures/miyagi/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                石川県の宿・温泉
+                宮城県の宿・温泉
               </Link>
             </div>
           </div>
@@ -446,7 +446,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 浅虫温泉　南部屋・海扇閣（なんぶや・かいせんかく）</td>
                 <td className="p-3 text-stone-600">青森県青森市浅虫蛍谷31</td>
-                <td className="p-3 text-stone-600">浅虫温泉駅周辺</td>
+                <td className="p-3 text-stone-600">青い森鉄道 浅虫温泉駅より 徒歩約2分。</td>
                 <td className="p-3 text-stone-600">有り　60台　宿泊者無料（先着順）</td>
                 <td className="p-3 font-bold text-amber-600">★4.64（1225件）</td>
                 <td className="p-3 font-bold text-rose-600">¥16,900〜</td>
@@ -455,7 +455,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. アートホテル弘前シティ</td>
                 <td className="p-3 text-stone-600">青森県弘前市大町1-1-2</td>
-                <td className="p-3 text-stone-600">弘前駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ弘前駅中央口より徒歩1分、青森空港より車で約６０分、東北自動車道（大鰐・弘前ＩＣ）より車で約１５分</td>
                 <td className="p-3 text-stone-600">先着順　ホテル駐車場・提携先駐車場は普通車1泊700円、満車の際は近隣有料駐車場をご案内。</td>
                 <td className="p-3 font-bold text-amber-600">★4.17（2261件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,780〜</td>
@@ -464,7 +464,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. スマイルホテル青森</td>
                 <td className="p-3 text-stone-600">青森県青森市本町2-4-7</td>
-                <td className="p-3 text-stone-600">青森駅周辺</td>
+                <td className="p-3 text-stone-600">JR・青い森鉄道青森駅から徒歩13分/JR新青森駅から車で約15分/青森中央I.C.から車10分/青森空港から車30分</td>
                 <td className="p-3 text-stone-600">提携駐車場あり1泊（15時〜翌10時） 600円〜、到着順。■バイク：不可。</td>
                 <td className="p-3 font-bold text-amber-600">★3.74（2391件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,700〜</td>
@@ -473,7 +473,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. むつパークホテル</td>
                 <td className="p-3 text-stone-600">青森県むつ市田名部町9-10</td>
-                <td className="p-3 text-stone-600">田名部駅周辺</td>
+                <td className="p-3 text-stone-600">JR大湊線下北駅より お車又は路線バスにて約10分。下北交通バスをご利用の方はバス停（むつ）下車後、徒歩１分！</td>
                 <td className="p-3 text-stone-600">有り　70台　無料　予約不要　青空駐車場　トラック等大型車要予約　屋根のあるスペースはありません。</td>
                 <td className="p-3 font-bold text-amber-600">★4.18（1170件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,500〜</td>
@@ -482,7 +482,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. ホテルＪＡＬシティ青森</td>
                 <td className="p-3 text-stone-600">青森県青森市安方2-4-12</td>
-                <td className="p-3 text-stone-600">青森駅周辺</td>
+                <td className="p-3 text-stone-600">●青森駅から徒歩6分●東北自動車道青森中央ICから15分●青森空港からバス約40分「県庁通り」下車徒歩2分</td>
                 <td className="p-3 text-stone-600">立体駐車場・提携パラカ駐車場にて750円/泊</td>
                 <td className="p-3 font-bold text-amber-600">★4.29（3653件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,075〜</td>
@@ -511,7 +511,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　60台　宿泊者無料（先着順）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.64 ／ 立地 ★4.6 ／ 部屋 ★4.54 ／ 設備 ★4.55 ／ 風呂 ★4.56</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「バイキングの工夫と三味線ライブが楽しい天ぷらを天丼にできたり、ソフトクリームをパフェにできたり、ただチョイスするだけのバイキングではなく好きなようやに変化できるのが楽しかったです。また、多くの口コ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「バイキングの工夫と三味線ライブが楽しい天ぷらを天丼にできたり、ソフトクリームをパフェにできたり、ただチョイスするだけのバイキングではなく好きなようやに変化できるのが楽しかったです。」
                   </blockquote>
                 </div>
               </div>
@@ -577,7 +577,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　70台　無料　予約不要　青空駐車場　トラック等大型車要予約　屋根のあるスペースはありません。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「飲み屋街が近く部屋も広くて快適、対応に感謝ホテルの立地は田辺部神社の飲み屋街が近く、レトロな街並みは昭和にタイムスリップしたようだった。部屋が広くてのんびりできた。大浴場があったらもっと良かった。…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「飲み屋街が近く部屋も広くて快適、対応に感謝ホテルの立地は田辺部神社の飲み屋街が近く、レトロな街並みは昭和にタイムスリップしたようだった。部屋が広くてのんびりできた。大浴場があったらもっと良かった。」
                   </blockquote>
                 </div>
               </div>
@@ -599,7 +599,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>立体駐車場・提携パラカ駐車場にて750円/泊</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.31 ／ 立地 ★4.21 ／ 部屋 ★4.25 ／ 設備 ★4.17 ／ 風呂 ★4.11 ／ 食事 ★4.44</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近で便利、部屋も広くお風呂も快適青森駅や観光名所のアスパムにほど近くローソンも近くにあって便利な立地かと思います。ウエルカムドリンクでコーヒーとレモン主体の水も置いてあり(時間あり)好感が持てま…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近で便利、部屋も広くお風呂も快適青森駅や観光名所のアスパムにほど近くローソンも近くにあって便利な立地かと思います。」
                   </blockquote>
                 </div>
               </div>

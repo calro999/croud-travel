@@ -90,7 +90,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F6116%2F6116.html%26f_flg%3DPLAN",
     "hotelMinCharge": 5500,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/6116/6116.jpg",
-    "userReview": "露天風呂の宿　開運の湯　ロイヤルホテル河口湖ならではの立地と落ち着いた空間で、ゆったりとした滞在を楽しめたという声が寄せられています。",
+    "userReview": "露天風呂の宿 開運の湯 ロイヤルホテル河口湖ならではの立地と落ち着いた空間で、ゆったりとした滞在を楽しめたという声が寄せられています。",
     "reviewAverage": 3.2,
     "reviewCount": 493,
     "address": "山梨県南都留郡富士河口湖町船津6713-22",
@@ -283,8 +283,8 @@ export default function Page() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 水上駅よりアクセス。車で関越自動車道・水上ＩＣから３０分・ＪＲで上越線 水上駅より 湯ノ小屋行きバスで藤原スキー場入口下車900M。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「１１種類の貸切露天風呂 水上高原／奥利根温泉 ホテルサンバード」にチェックイン。１１種の貸切露天風呂や滝を望む高台の露天風呂など湯めぐりを満喫！高原ＢＢＱプランも大人気！などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「１１種類の貸切露天風呂 水上高原／奥利根温泉 ホテルサンバード」の湯処へ。１１種の貸切露天風呂や滝を望む高台の露天風呂など湯めぐりを満喫！高原Ｂとともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「１１種類の貸切露天風呂 水上高原／奥利根温泉 ホテルサンバード」にチェックイン。１１種の貸切露天風呂や滝を望む高台の露天風呂など湯めぐりを満喫！高原ＢＢＱプランも大人気！ 窓外に広がる景色を眺めながらチェックイン後の寛ぎ時間を。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「１１種類の貸切露天風呂 水上高原／奥利根温泉 ホテルサンバード」の湯船で寛ぎタイム。季節の空気を感じながら手足を伸ばし、心豊かな夕方のリラックス時間を満喫。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「１１種類の貸切露天風呂 水上高原／奥利根温泉 ホテルサンバード」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -296,7 +296,7 @@ export default function Page() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「１１種類の貸切露天風呂 水上高原／奥利根温泉 ホテルサンバード」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「１１種類の貸切露天風呂 水上高原／奥利根温泉 ホテルサンバード」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「露天風呂の宿 開運の湯 ロイヤルホテル河口湖」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は宿周辺の散策とショッピングを満喫。地元の名産品やグルメを味わってから余裕をもって帰路につく。</li>
               </ul>
             </div>
           </div>
@@ -424,7 +424,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. １１種類の貸切露天風呂　水上高原／奥利根温泉　ホテルサンバード</td>
                 <td className="p-3 text-stone-600">群馬県利根郡みなかみ町藤原4957-1</td>
-                <td className="p-3 text-stone-600">水上駅周辺</td>
+                <td className="p-3 text-stone-600">車で関越自動車道・水上ＩＣから３０分・ＪＲで上越線 水上駅より 湯ノ小屋行きバスで藤原スキー場入口下車900M</td>
                 <td className="p-3 text-stone-600">有り ３００台 無料 先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.04（825件）</td>
                 <td className="p-3 font-bold text-rose-600">¥9,900〜</td>
@@ -442,7 +442,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 熱川温泉　絶景と露天風呂の宿　たかみホテル</td>
                 <td className="p-3 text-stone-600">静岡県賀茂郡東伊豆町熱川1271</td>
-                <td className="p-3 text-stone-600">電車：伊豆急線・伊豆熱川駅から徒歩10分（送迎あり）／お車：東名高速・</td>
+                <td className="p-3 text-stone-600">電車：伊豆急線・伊豆熱川駅から徒歩10分（送迎あり）／お車：東名高速・厚木IC→熱海（R135）→熱川温泉</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★3.76（772件）</td>
                 <td className="p-3 font-bold text-rose-600">¥11,000〜</td>
@@ -451,7 +451,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. わたらせ温泉　ホテルささゆり</td>
                 <td className="p-3 text-stone-600">和歌山県田辺市本宮町渡瀬45-1</td>
-                <td className="p-3 text-stone-600">無料送迎バス有【JR白浜駅】お迎え 13：00／お送り 10：30　※</td>
+                <td className="p-3 text-stone-600">無料送迎バス有【JR白浜駅】お迎え 13：00／お送り 10：30 ※前日までの要予約</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.56（300件）</td>
                 <td className="p-3 font-bold text-rose-600">¥20,350〜</td>
@@ -460,7 +460,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. わたらせ温泉　ホテルやまゆり</td>
                 <td className="p-3 text-stone-600">和歌山県田辺市本宮町渡瀬45-1</td>
-                <td className="p-3 text-stone-600">新宮駅周辺</td>
+                <td className="p-3 text-stone-600">無料送迎バス有【JR白浜駅】お迎え 13：00／お送り 10：30 ※前日までの要予約</td>
                 <td className="p-3 text-stone-600">有り　２００台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.58（445件）</td>
                 <td className="p-3 font-bold text-rose-600">¥14,850〜</td>
@@ -489,7 +489,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り ３００台 無料 先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.03 ／ 立地 ★4.08 ／ 部屋 ★3.94 ／ 設備 ★3.75 ／ 風呂 ★4.19 ／ 食事 ★4.16</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「シルバーウィークにこの内容でみなかみでのラフティング目的で近くの宿を探し、シルバーウィークど真ん中なのにとてもお安く泊まれて、食事など正直あまり期待していなかったのですが良い意味で裏切られまし…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「シルバーウィークにこの内容でみなかみでのラフティング目的で近くの宿を探し、シルバーウィークど真ん中なのにとてもお安く泊まれて、食事など正直あまり期待していなかったのですが良い意味で裏切られました。」
                   </blockquote>
                 </div>
               </div>
@@ -533,7 +533,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「絶景と露天風呂に癒やされ、心身ともにリラックスお部屋からの景色がとてもきれいで、ゆっくり過ごすことができました。特に露天風呂が気持ちよく、温泉を楽しみながらリラックスできたのが良かったです。スタッ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「絶景と露天風呂に癒やされ、心身ともにリラックスお部屋からの景色がとてもきれいで、ゆっくり過ごすことができました。特に露天風呂が気持ちよく、温泉を楽しみながらリラックスできたのが良かったです。」
                   </blockquote>
                 </div>
               </div>
@@ -555,7 +555,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「静かな環境と美味しい食事、開放感ある露天風呂とても静かな場所でゆっくり過ごせました。フロントや食事場所のスタッフさんもとても丁寧に対応してくださって気持ち良く宿泊出来ました。食事も美味しくてボリュ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「静かな環境と美味しい食事、開放感ある露天風呂とても静かな場所でゆっくり過ごせました。フロントや食事場所のスタッフさんもとても丁寧に対応してくださって気持ち良く宿泊出来ました。」
                   </blockquote>
                 </div>
               </div>
@@ -577,7 +577,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２００台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉と送迎が充実、夕食の胡麻豆腐が絶品ささゆりとやまゆりのお風呂に入れる。ロビーにコーヒーサービスがある。サイトに記載されていた白浜駅への送迎に加えて、発心門王子や熊野本宮大社への送迎サー…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉と送迎が充実、夕食の胡麻豆腐が絶品ささゆりとやまゆりのお風呂に入れる。ロビーにコーヒーサービスがある。」
                   </blockquote>
                 </div>
               </div>

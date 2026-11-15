@@ -662,7 +662,7 @@ export default function FurusatoFeaturePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 河口湖カントリーコテージＢａｎ＆グランピングリゾート</td>
                 <td className="p-3 text-stone-600">山梨県南都留郡富士河口湖町河口2092</td>
-                <td className="p-3 text-stone-600">河口湖駅周辺</td>
+                <td className="p-3 text-stone-600">中央道河口湖ＩＣ10分、富士急河口湖駅から車10分＜10名様以上河口湖駅より無料送迎あり(要予約） ＞</td>
                 <td className="p-3 text-stone-600">大型駐車場有り　60台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.35（345件）</td>
                 <td className="p-3 font-bold text-rose-600">¥9,100〜</td>
@@ -671,7 +671,7 @@ export default function FurusatoFeaturePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. ＨＡＮＺ　ＯＵＴＤＯＯＲ　ＲＥＳＯＲＴ（旧：グランピングヴィラハンズ河口湖）</td>
                 <td className="p-3 text-stone-600">山梨県南都留郡富士河口湖町勝山3283－1</td>
-                <td className="p-3 text-stone-600">河口湖駅周辺</td>
+                <td className="p-3 text-stone-600">河口湖ＩＣよりお車にて約９分</td>
                 <td className="p-3 text-stone-600">有り　２７台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.27（187件）</td>
                 <td className="p-3 font-bold text-rose-600">¥24,300〜</td>
@@ -680,7 +680,7 @@ export default function FurusatoFeaturePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. Ｍｔ．Ｆｕｊｉグランピングテラス嶺乃華　＾</td>
                 <td className="p-3 text-stone-600">山梨県南都留郡富士河口湖町河口2044　Ｍｔ．Ｆｕｊｉグランピングテラス嶺乃華</td>
-                <td className="p-3 text-stone-600">河口湖駅周辺</td>
+                <td className="p-3 text-stone-600">河口湖駅から車で約１４分</td>
                 <td className="p-3 text-stone-600">駐車場 敷地内有(第2駐車場もあり)</td>
                 <td className="p-3 font-bold text-amber-600">高評価</td>
                 <td className="p-3 font-bold text-rose-600">¥29,000〜</td>
@@ -689,7 +689,7 @@ export default function FurusatoFeaturePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 南阿蘇　Ｂｌｕｅ　Ｂｅｅ　Ｇａｒｄｅｎ</td>
                 <td className="p-3 text-stone-600">熊本県阿蘇郡南阿蘇村長野1874-1</td>
-                <td className="p-3 text-stone-600">立野（熊本）駅周辺</td>
+                <td className="p-3 text-stone-600">九州自動車道熊本ICより車で約40分</td>
                 <td className="p-3 text-stone-600">無料駐車場有り15台程度備えております</td>
                 <td className="p-3 font-bold text-amber-600">★4.59（54件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,950〜</td>
@@ -698,7 +698,7 @@ export default function FurusatoFeaturePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 南阿蘇フィールドホテル</td>
                 <td className="p-3 text-stone-600">熊本県阿蘇郡南阿蘇村河陰3624</td>
-                <td className="p-3 text-stone-600">長陽駅周辺</td>
+                <td className="p-3 text-stone-600">阿蘇くまもと空港より車で20分 長陽駅より歩いて20分</td>
                 <td className="p-3 text-stone-600">あり　64台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.55（31件）</td>
                 <td className="p-3 font-bold text-rose-600">¥15,004〜</td>
@@ -707,7 +707,7 @@ export default function FurusatoFeaturePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">6. 南阿蘇ＳＴＡＹＨＡＰＰＹ</td>
                 <td className="p-3 text-stone-600">熊本県阿蘇郡南阿蘇村河陽5953-1</td>
-                <td className="p-3 text-stone-600">長陽駅周辺</td>
+                <td className="p-3 text-stone-600">JR立野駅から車で6分。熊本ICから車で35分。阿蘇山上から33分、白川水源から15分</td>
                 <td className="p-3 text-stone-600">有り　20台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★3.29（7件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,750〜</td>
@@ -736,7 +736,7 @@ export default function FurusatoFeaturePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>大型駐車場有り　60台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「開放的なロッジと後片付け不要のBBQロッジ内は天井が高くて開放的。大きな木のテーブルも雰囲気がありステキでした。夕飯はバーベキュー、後片付けもやって貰えるのでとてもいい。量も十分です。おにぎり、と…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「開放的なロッジと後片付け不要のBBQロッジ内は天井が高くて開放的。大きな木のテーブルも雰囲気がありステキでした。夕飯はバーベキュー、後片付けもやって貰えるのでとてもいい。量も十分です。」
                   </blockquote>
                 </div>
               </div>
@@ -758,7 +758,7 @@ export default function FurusatoFeaturePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２７台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「BBQと露天風呂に羽アリが大量発生全体的にはいい施設だと思います。ただ、夏だからだとは思いますが、BBQ中、羽アリが大量発生して正直気持ち悪かったです...バスタブの中にも大量にいたので、露天…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「BBQと露天風呂に羽アリが大量発生全体的にはいい施設だと思います。」
                   </blockquote>
                 </div>
               </div>
@@ -802,7 +802,7 @@ export default function FurusatoFeaturePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料駐車場有り15台程度備えております</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「孫と愛犬がドッグランで大はしゃぎ!今回初めて孫達とわんちゃん連れて宿泊しました。広いドッグランや専用庭で走り回ってわんちゃん達も孫も楽しめました。スタッフの方の対応が皆さん良かったです。…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「孫と愛犬がドッグランで大はしゃぎ!今回初めて孫達とわんちゃん連れて宿泊しました。広いドッグランや専用庭で走り回ってわんちゃん達も孫も楽しめました。スタッフの方の対応が皆さん良かったです。」
                   </blockquote>
                 </div>
               </div>

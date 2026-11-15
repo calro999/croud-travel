@@ -253,7 +253,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 雲仙温泉　雲仙宮崎旅館</td>
                 <td className="p-3 text-stone-600">長崎県雲仙市小浜町雲仙320番地</td>
-                <td className="p-3 text-stone-600">諫早駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ諫早駅下車バス８０分、長崎自動車道諫早ICより島原道路へ乗換え長野ICより車で５０分</td>
                 <td className="p-3 text-stone-600">有り　３９台　有料1台1泊500円</td>
                 <td className="p-3 font-bold text-amber-600">★4.91（868件）</td>
                 <td className="p-3 font-bold text-rose-600">¥24,530〜</td>
@@ -262,7 +262,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 雲仙温泉　雲仙スカイホテル</td>
                 <td className="p-3 text-stone-600">長崎県雲仙市小浜町雲仙323-1</td>
-                <td className="p-3 text-stone-600">島鉄バス　雲仙営業所前／長崎自動車道　諫早インターより車にて６０分／島</td>
+                <td className="p-3 text-stone-600">島鉄バス 雲仙営業所前／長崎自動車道 諫早インターより車にて６０分／島原港より車にて４０分</td>
                 <td className="p-3 text-stone-600">有　２０台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★3.86（397件）</td>
                 <td className="p-3 font-bold text-rose-600">¥13,800〜</td>
@@ -271,7 +271,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 雲仙観光ホテル</td>
                 <td className="p-3 text-stone-600">長崎県雲仙市小浜町雲仙320</td>
-                <td className="p-3 text-stone-600">諫早駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ諫早駅よりバスで８０分／諫早ＩＣより車で６０分／島原外港より車・バスで４０分</td>
                 <td className="p-3 text-stone-600">無料にてご用意がございます。約30台・ 屋外駐車場のみ・ヴァレーパーキング：一部可</td>
                 <td className="p-3 font-bold text-amber-600">★4.73（240件）</td>
                 <td className="p-3 font-bold text-rose-600">¥29,590〜</td>
@@ -280,7 +280,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 小浜温泉　小浜ビジネスホテル</td>
                 <td className="p-3 text-stone-600">長崎県雲仙市小浜町北本町114-12</td>
-                <td className="p-3 text-stone-600">諫早駅周辺</td>
+                <td className="p-3 text-stone-600">JR諫早駅または長崎道 諫早ICより雲仙・小浜方面約50分。長崎市または長崎空港から約1時間30分。長洲港から約50分。</td>
                 <td className="p-3 text-stone-600">無料駐車場あり　バイクのお客様には屋根付きの第二駐車場あります</td>
                 <td className="p-3 font-bold text-amber-600">★4.05（284件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,100〜</td>
@@ -353,7 +353,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料にてご用意がございます。約30台・ 屋外駐車場のみ・ヴァレーパーキング：一部可</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.8 ／ 立地 ★4.69 ／ 部屋 ★4.78 ／ 設備 ★4.64 ／ 風呂 ★4.71 ／ 食事 ★4.82</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「夕食のフレンチが絶品、また食べに行きたい夕食のフレンチコースが地産のもので構成されていて盛り付けも良いし味も絶品でした。びっくりするくらいに美味しかったです。全国のクラシックホテルを訪れていて、今…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「夕食のフレンチが絶品、また食べに行きたい夕食のフレンチコースが地産のもので構成されていて盛り付けも良いし味も絶品でした。びっくりするくらいに美味しかったです。」
                   </blockquote>
                 </div>
               </div>

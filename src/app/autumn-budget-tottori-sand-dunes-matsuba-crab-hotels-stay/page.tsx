@@ -310,7 +310,7 @@ export default function AutumnBudgetTottoriHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. スーパーホテル鳥取駅前</td>
                 <td className="p-3 text-stone-600">鳥取県鳥取市扇町5</td>
-                <td className="p-3 text-stone-600">鳥取駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ山陰本線 鳥取駅南口より徒歩１分</td>
                 <td className="p-3 text-stone-600">４２台　先着順　６００円（税込み／泊） ※立体駐車場のため全高・横幅・車高、入出庫の時間制限あり</td>
                 <td className="p-3 font-bold text-amber-600">★4.21（1853件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,540〜</td>
@@ -319,7 +319,7 @@ export default function AutumnBudgetTottoriHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. ＨＯＴＥＬ　ＴＲＥＳＴ（旧　ホテルナショナル）</td>
                 <td className="p-3 text-stone-600">鳥取県鳥取市永楽温泉町159</td>
-                <td className="p-3 text-stone-600">鳥取駅周辺</td>
+                <td className="p-3 text-stone-600">鳥取駅より徒歩３分</td>
                 <td className="p-3 text-stone-600">駐車場のご案内：ホテル敷地内6台可能有料800円/泊　近隣パーキングＮＰＣ（800円/泊）徒歩1分</td>
                 <td className="p-3 font-bold text-amber-600">★4.03（523件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,700〜</td>
@@ -328,7 +328,7 @@ export default function AutumnBudgetTottoriHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. ホテルＲＥＳＨ　鳥取駅前</td>
                 <td className="p-3 text-stone-600">鳥取県鳥取市栄町752</td>
-                <td className="p-3 text-stone-600">鳥取駅周辺</td>
+                <td className="p-3 text-stone-600">JR鳥取駅より徒歩約2分。丸由百貨店（旧鳥取大丸）東側です／鳥取西道路・鳥取西ICより車で約8分</td>
                 <td className="p-3 text-stone-600">近隣に契約駐車場があります。(有料）</td>
                 <td className="p-3 font-bold text-amber-600">★4.05（1656件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,060〜</td>
@@ -337,7 +337,7 @@ export default function AutumnBudgetTottoriHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. スーパーホテル鳥取駅北口禁煙館</td>
                 <td className="p-3 text-stone-600">鳥取県鳥取市今町2-382</td>
-                <td className="p-3 text-stone-600">鳥取駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ山陰本線 鳥取駅北口から西へ徒歩5分</td>
                 <td className="p-3 text-stone-600">有り33台　700円※15:00からの先着順ご予約不可。徒歩5分に提携駐車場あり(1泊600円)</td>
                 <td className="p-3 font-bold text-amber-600">★4.08（1772件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,450〜</td>
@@ -346,7 +346,7 @@ export default function AutumnBudgetTottoriHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. アパホテル〈鳥取駅前〉</td>
                 <td className="p-3 text-stone-600">鳥取県鳥取市富安2-165</td>
-                <td className="p-3 text-stone-600">鳥取駅周辺</td>
+                <td className="p-3 text-stone-600">JR山陰本線「鳥取駅」（南口）より徒歩2分 鳥取の観光やビジネスにアクセス便利な好立地！</td>
                 <td className="p-3 text-stone-600">敷地内は車椅子使用者用駐車場1台のみ（要予約）、提携駐車場あり（徒歩約5分）</td>
                 <td className="p-3 font-bold text-amber-600">★4.18（490件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,500〜</td>
@@ -375,7 +375,7 @@ export default function AutumnBudgetTottoriHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>４２台　先着順　６００円（税込み／泊） ※立体駐車場のため全高・横幅・車高、入出庫の時間制限あり</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.31 ／ 立地 ★4.22 ／ 部屋 ★4.18 ／ 設備 ★4.12 ／ 風呂 ★4.03 ／ 食事 ★4.23</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「飲食店が近くにあり、無料朝食も便利チェックインが遅くなりましたが、すぐ近くに遅くまでやっている飲食店があったのでよかったです。日曜日ということもあってか、朝食会場が混んでいて待ち時間が少しあり…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「飲食店が近くにあり、無料朝食も便利チェックインが遅くなりましたが、すぐ近くに遅くまでやっている飲食店があったのでよかったです。」
                   </blockquote>
                 </div>
               </div>
@@ -397,7 +397,7 @@ export default function AutumnBudgetTottoriHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>駐車場のご案内：ホテル敷地内6台可能有料800円/泊　近隣パーキングＮＰＣ（800円/泊）徒歩1分</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.17 ／ 立地 ★3.97 ／ 部屋 ★4.03 ／ 設備 ★3.84 ／ 風呂 ★3.74</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「400円とは思えない充実した朝食に期待大朝食は今回利用しませんでしたが、すこしだけ覗かせて貰うと、とても400円とは思えない充実した感じでした。次回があれば、食べてみたいと思います!クチコミの…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「400円とは思えない充実した朝食に期待大朝食は今回利用しませんでしたが、すこしだけ覗かせて貰うと、とても400円とは思えない充実した感じでした。次回があれば、食べてみたいと思います!」
                   </blockquote>
                 </div>
               </div>
@@ -419,7 +419,7 @@ export default function AutumnBudgetTottoriHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>近隣に契約駐車場があります。(有料）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.12 ／ 立地 ★4.14 ／ 部屋 ★3.95 ／ 設備 ★4 ／ 風呂 ★4.05</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「立地は最高だが、コンセントと空調に難ありとても立地は良く、ご飯を食べに行くのにもよかったです。お部屋ですが枕元にコンセントが少ないのと、クーラーがうるさかったです。クチコミの詳細はこち…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「立地は最高だが、コンセントと空調に難ありとても立地は良く、ご飯を食べに行くのにもよかったです。お部屋ですが枕元にコンセントが少ないのと、クーラーがうるさかったです。」
                   </blockquote>
                 </div>
               </div>
@@ -441,7 +441,7 @@ export default function AutumnBudgetTottoriHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り33台　700円※15:00からの先着順ご予約不可。徒歩5分に提携駐車場あり(1泊600円)</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.15 ／ 立地 ★4.02 ／ 部屋 ★4.07 ／ 設備 ★4.03 ／ 風呂 ★3.97 ／ 食事 ★4.07</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「清潔な部屋で快適だがベッド周りに電源がない清潔な部屋で快適でしたがベッドの近くにコンセントやUSBが無かった事が残念です。遅い時間であったためか大浴場は空いており、快適でした。…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「清潔な部屋で快適だがベッド周りに電源がない清潔な部屋で快適でしたがベッドの近くにコンセントやUSBが無かった事が残念です。遅い時間であったためか大浴場は空いており、快適でした。」
                   </blockquote>
                 </div>
               </div>
@@ -463,7 +463,7 @@ export default function AutumnBudgetTottoriHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>敷地内は車椅子使用者用駐車場1台のみ（要予約）、提携駐車場あり（徒歩約5分）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.21 ／ 立地 ★4.23 ／ 部屋 ★4.25 ／ 設備 ★4.23 ／ 風呂 ★4.18 ／ 食事 ★3.59</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「Great location, but check-in is quite tedious.Excellent location for a trip to Tottori. Very close…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「Great location, but check-in is quite tedious.Excellent location for a trip to Tottori. Very close。」
                   </blockquote>
                 </div>
               </div>

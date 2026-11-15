@@ -76,7 +76,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F76918%2F76918.html%26f_flg%3DPLAN",
     "hotelMinCharge": 7600,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/76918/76918.jpg",
-    "userReview": "肘折温泉　松井旅館ならではの立地と落ち着いた空間で、ゆったりとした滞在を楽しめたという声が寄せられています。",
+    "userReview": "肘折温泉 松井旅館ならではの立地と落ち着いた空間で、ゆったりとした滞在を楽しめたという声が寄せられています。",
     "reviewAverage": 4.5,
     "reviewCount": 47,
     "address": "山形県最上郡大蔵村南山491",
@@ -283,8 +283,8 @@ export default function Page() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 新庄駅よりアクセス。ＪＲ 新庄駅より車にて４０分。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「肘折温泉 松井旅館」にチェックイン。～貸切温泉は24時間入浴可能♪～ノスタルジックな当館をお楽しみください～などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「肘折温泉 松井旅館」の湯処へ。～貸切温泉は24時間入浴可能♪～ノスタルジックな当館をお楽しみくださいとともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「肘折温泉 松井旅館」にチェックイン。～貸切温泉は24時間入浴可能♪～ノスタルジックな当館をお楽しみください～が魅力の一軒。客室で荷物をほどいて穏やかな午後のひとときを。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「肘折温泉 松井旅館」の湯船で寛ぎタイム。季節の空気を感じながら手足を伸ばし、心豊かな夕方のリラックス時間を満喫。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「肘折温泉 松井旅館」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -296,7 +296,7 @@ export default function Page() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「肘折温泉 松井旅館」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「肘折温泉 松井旅館」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「沢渡温泉 宮田屋旅館」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は「肘折温泉 松井旅館」周辺の観光スポットや地元の名産店に立ち寄り、ご当地のお土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>
@@ -346,49 +346,49 @@ export default function Page() {
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">あわせて読みたい人気特集＆全国エリアガイド</h2>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
-            <a href="/furusato-tax-tsuruoka-atsumi-autumn-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/furusato-tax-tamatsukuri-autumn-leaves-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">あつみ温泉の湯けむりと温海川の鮭遡上！出羽の秋味覚（庄内柿・山形牛・日本海地魚）と老舗温泉街の秋旅</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">神々の集う神在月の出雲大社＆美肌の湯・玉造温泉！11月解禁松葉ガニ宿×ふるさと納税厳選ガイド島根</span>
             </a>
-            <a href="/spring-yamagata-cherry-picking-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/shimane-tamatsukuri-solo-retreat-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">2026年：ルビーのように輝く初夏の宝石！佐藤錦さくらんぼ狩り＆天童・かみのやま名湯宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「出雲・玉造温泉ひとり旅・美肌神湯おこもり」日本最古の美肌温泉・玉湯川足湯・しまね和牛会席！出雲大社参拝と縁結びの温泉郷厳選3宿</span>
             </a>
-            <a href="/winter-yamagata-hijiori-onsen-snow-yamagatagyu-toji-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/winter-shimane-izumo-taisha-kamiarizuki-shimane-wagyu-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12・1月山形】豪雪の奇跡・開湯1200年肘折温泉の黄金湯治と名物納豆汁＆極上山形牛・肘折幻想雪回廊を巡る名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12月島根・出雲大社周辺温泉】 神在月参拝と初冬解禁日本海の幸・しまね和牛＆絶景露天の宿5選</span>
             </a>
-            <a href="/winter-yamagata-shonai-kandara-atsumi-yunohama-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/winter-shimane-tsuwano-onsen-iwamigyu-jizake-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12・1月山形】庄内名物「寒鱈汁（どんがら汁）」と極上白子・寒ブリ・出羽三山雪景色＆名湯あつみ・湯野浜温泉を巡る厳選宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">（metadata.title as string）</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
             <div className="flex flex-wrap gap-2">
               <Link
-                href="/prefectures/shizuoka/"
+                href="/prefectures/shimane/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                静岡県の宿・温泉
+                島根県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/wakayama/"
+                href="/prefectures/hiroshima/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                和歌山県の宿・温泉
+                広島県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/kochi/"
+                href="/prefectures/okayama/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                高知県の宿・温泉
+                岡山県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/mie/"
+                href="/prefectures/tottori/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                三重県の宿・温泉
+                鳥取県の宿・温泉
               </Link>
             </div>
           </div>
@@ -424,7 +424,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 肘折温泉　松井旅館</td>
                 <td className="p-3 text-stone-600">山形県最上郡大蔵村南山491</td>
-                <td className="p-3 text-stone-600">新庄駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ 新庄駅より車にて４０分</td>
                 <td className="p-3 text-stone-600">有り　１５台　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.4（49件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,600〜</td>
@@ -433,7 +433,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 沢渡温泉　宮田屋旅館</td>
                 <td className="p-3 text-stone-600">群馬県吾妻郡中之条町大字上沢渡2163-3</td>
-                <td className="p-3 text-stone-600">中之条駅周辺</td>
+                <td className="p-3 text-stone-600">【お車】関越道、渋川伊香保ＩＣ→国道３５３号（草津方面）で約５０分【電車】JR吾妻線中之条駅→沢渡温泉行きバス約３０分</td>
                 <td className="p-3 text-stone-600">有り　３０台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.48（268件）</td>
                 <td className="p-3 font-bold text-rose-600">¥9,800〜</td>
@@ -442,7 +442,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. えびすや（えびすや旅館）</td>
                 <td className="p-3 text-stone-600">新潟県南魚沼郡湯沢町土樽1305番地2</td>
-                <td className="p-3 text-stone-600">越後湯沢駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ上越新幹線 越後湯沢駅より無料送迎（約７分）／関越道 湯沢ＩＣより約６分</td>
                 <td className="p-3 text-stone-600">有り　１０台　無料　要予約</td>
                 <td className="p-3 font-bold text-amber-600">★4.5（58件）</td>
                 <td className="p-3 font-bold text-rose-600">¥9,900〜</td>
@@ -451,7 +451,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 石和温泉　ホテル花いさわ</td>
                 <td className="p-3 text-stone-600">山梨県笛吹市石和町松本1409</td>
-                <td className="p-3 text-stone-600">石和温泉駅周辺</td>
+                <td className="p-3 text-stone-600">JR中央本線 石和温泉駅より徒歩5分／中央自動車道 一宮御坂ICより車で10分／中央高速バス 石和バス停より徒歩10分</td>
                 <td className="p-3 text-stone-600">有り（一部、屋根有り） 100台 無料 予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.02（1509件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,600〜</td>
@@ -460,7 +460,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 甲府の夜景を独占する温泉　１１種類の風呂　ホテル神の湯温泉</td>
                 <td className="p-3 text-stone-600">山梨県甲斐市竜地17</td>
-                <td className="p-3 text-stone-600">双葉ICから２分ETC限定。甲府昭和ICから車約20分。JR竜王駅（無</td>
+                <td className="p-3 text-stone-600">双葉ICから２分ETC限定。甲府昭和ICから車約20分。JR竜王駅（無料送迎14：30～20：00）甲府駅より車15分</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★3.96（1167件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,600〜</td>
@@ -511,7 +511,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　３０台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.45 ／ 立地 ★4.41 ／ 部屋 ★4.37 ／ 設備 ★4.28 ／ 風呂 ★4.71 ／ 食事 ★4.65</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉と食事に大満足、心も身体もリフレッシュ温泉は滞在中ずっと入れます。景色もよく露天風呂もあります。紅葉にはまだ早かったのですが、もうすぐ色付きそうなくらい朝晩冷えていました。温泉が好きな人にオス…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉と食事に大満足、心も身体もリフレッシュ温泉は滞在中ずっと入れます。景色もよく露天風呂もあります。紅葉にはまだ早かったのですが、もうすぐ色付きそうなくらい朝晩冷えていました。」
                   </blockquote>
                 </div>
               </div>
@@ -555,7 +555,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り（一部、屋根有り） 100台 無料 予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.01 ／ 立地 ★4.07 ／ 部屋 ★3.9 ／ 設備 ★3.79 ／ 風呂 ★4.19 ／ 食事 ★4.06</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「徒歩圏内で便利、温泉巡りも楽しめて快適駅前からの送迎バスもあるが徒歩でも余裕でいける距離にあるのが魅力。また通常のチェックイン/チェックアウトも14:00-11:00なのでゆっくりしたい人には…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「徒歩圏内で便利、温泉巡りも楽しめて快適駅前からの送迎バスもあるが徒歩でも余裕でいける距離にあるのが魅力。」
                   </blockquote>
                 </div>
               </div>
@@ -577,7 +577,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「格安で温泉も最高、部屋も綺麗で快適通常料金よりかなり安い価格でしたので予約しました。客室に案内されると部屋にトイレは無く、部屋の構造から推測するに2人部屋の従業員用の部屋を客室に流用しているように。」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「格安で温泉も最高、部屋も綺麗で快適通常料金よりかなり安い価格でしたので予約しました。」
                   </blockquote>
                 </div>
               </div>

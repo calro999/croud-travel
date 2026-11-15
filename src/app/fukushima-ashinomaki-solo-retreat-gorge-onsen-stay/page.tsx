@@ -339,8 +339,8 @@ export default function ArticlePage() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 芦ノ牧温泉駅よりアクセス。会津若松ＩＣより約40分／芦ノ牧温泉駅より送迎有り（要予約）／大内宿まで約20分／鶴ヶ城まで約25分／飯盛山まで約30分。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「会津芦ノ牧温泉 大川荘」にチェックイン。★渓流を望む源泉掛け流しの絶景露天風呂と会津ならではのお食事★などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「会津芦ノ牧温泉 大川荘」の湯処へ。★渓流を望む源泉掛け流しの絶景露天風呂と会津ならではのお食事★とともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「会津芦ノ牧温泉 大川荘」にチェックイン。★渓流を望む源泉掛け流しの絶景露天風呂と会津ならではのお食事★が魅力の一軒。客室で荷物をほどいて穏やかな午後のひとときを。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「会津芦ノ牧温泉 大川荘」の大浴場・露天風呂へ。日暮れの静けさの中で湯に浸かり、旅の緊張をゆっくりと解きほぐす。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「会津芦ノ牧温泉 大川荘」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -352,7 +352,7 @@ export default function ArticlePage() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「会津芦ノ牧温泉 大川荘」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「会津芦ノ牧温泉 大川荘」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「芦ノ牧温泉 不動館 小谷の湯」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は宿周辺の散策とショッピングを満喫。地元の名産品やグルメを味わってから余裕をもって帰路につく。</li>
               </ul>
             </div>
           </div>
@@ -368,49 +368,49 @@ export default function ArticlePage() {
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">あわせて読みたい人気特集＆全国エリアガイド</h2>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
-            <a href="/winter-yamagata-hijiori-onsen-heavy-snow-toji-yamagata-beef-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/furusato-tax-aizu-urabandai-goshikinuma-autumn-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12月山形・肘折温泉の豪雪秘湯】開湯1200年の霊泉と朝市情緒・極上山形牛＆名物芋煮鍋に心温まる名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">福島・裏磐梯五色沼の錦秋紅葉＆桧原湖！磐梯山ジオパーク美肌温泉と会津郷土美食｜ふるさと納税で泊まれる名宿ガイド</span>
             </a>
-            <a href="/winter-yamagata-shonai-hagurosan-sakata-kandarajiru-yunohama-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/furusato-tax-fukushima-iwaki-yunodake-autumn-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12・1月山形】羽黒山「国宝五重塔」雪景色と酒田山居倉庫！冬名物「寒鱈どんがら汁」・日本海寒魚＆湯野浜・あつみ温泉名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">福島・日本三古湯 いわき湯本温泉と湯の岳パノラマ紅葉！毎分5.5トンの美肌名湯＆常磐もの海鮮会席｜ふるさと納税で泊まれる名宿ガイド</span>
             </a>
-            <a href="/yamagata-kaminoyama-solo-retreat-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/furusato-tax-seasonal-fruit-picking-vineyard-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">かみのやま温泉ひとり旅・蔵王連峰パノラマおこもり：城下町足湯・山形牛会席・ワイン王国！奥羽三楽郷の名湯に癒やされる厳選3宿</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">果樹園の旬フルーツ狩り＆名門ワイナリー・美肌温泉宿×ふるさと納税厳選ガイド石和・伊豆長岡・飯坂</span>
             </a>
-            <a href="/yamagata-tsuruoka-hagurosan-dewasanzan-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/furusato-tax-urabandai-goshikinuma-autumn-leaves-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">山形・鶴岡＆羽黒山・出羽三山：国宝羽黒山五重塔・杉並木＆精進料理・庄内浜宿 厳選ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">裏磐梯五色沼の神秘の湖沼群紅葉＆磐梯山ゴールドライン！高原リゾート温泉×ふるさと納税厳選ガイド福島</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
             <div className="flex flex-wrap gap-2">
               <Link
-                href="/prefectures/gunma/"
-                className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
-              >
-                群馬県の宿・温泉
-              </Link>
-              <Link
-                href="/prefectures/kagoshima/"
-                className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
-              >
-                鹿児島県の宿・温泉
-              </Link>
-              <Link
-                href="/prefectures/toyama/"
-                className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
-              >
-                富山県の宿・温泉
-              </Link>
-              <Link
                 href="/prefectures/fukushima/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 福島県の宿・温泉
+              </Link>
+              <Link
+                href="/prefectures/hokkaido/"
+                className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
+              >
+                北海道の宿・温泉
+              </Link>
+              <Link
+                href="/prefectures/aomori/"
+                className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
+              >
+                青森県の宿・温泉
+              </Link>
+              <Link
+                href="/prefectures/iwate/"
+                className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
+              >
+                岩手県の宿・温泉
               </Link>
             </div>
           </div>
@@ -446,7 +446,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 会津芦ノ牧温泉　大川荘</td>
                 <td className="p-3 text-stone-600">福島県会津若松市大戸町大字芦ノ牧字下夕平984</td>
-                <td className="p-3 text-stone-600">芦ノ牧温泉駅周辺</td>
+                <td className="p-3 text-stone-600">会津若松ＩＣより約40分／芦ノ牧温泉駅より送迎有り（要予約）／大内宿まで約20分／鶴ヶ城まで約25分／飯盛山まで約30分</td>
                 <td className="p-3 text-stone-600">有　１００台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.54（2366件）</td>
                 <td className="p-3 font-bold text-rose-600">¥11,000〜</td>
@@ -455,7 +455,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 芦ノ牧温泉　不動館　小谷の湯</td>
                 <td className="p-3 text-stone-600">福島県会津若松市大戸町大字小谷湯ノ平２４９８－２</td>
-                <td className="p-3 text-stone-600">芦ノ牧温泉駅周辺</td>
+                <td className="p-3 text-stone-600">芦ノ牧温泉駅より車で８分（無料送迎あり） 駐車場有。（徒歩1分ほど離れた第2駐車場ご利用の場合がございます）</td>
                 <td className="p-3 text-stone-600">あり　20台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.46（54件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,700〜</td>
@@ -464,7 +464,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 山形グランドホテル</td>
                 <td className="p-3 text-stone-600">山形県山形市本町1-7-42</td>
-                <td className="p-3 text-stone-600">山形駅周辺</td>
+                <td className="p-3 text-stone-600">JR山形駅から車で5分。市内中心街に立地。中心街１００円循環バスで山形駅より５分。（運行時間/9:30～18:30）</td>
                 <td className="p-3 text-stone-600">1泊1,000円。先着順となります（予約不可）※大型車は駐車出来ません</td>
                 <td className="p-3 font-bold text-amber-600">★3.99（1630件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,227〜</td>
@@ -473,7 +473,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. ホテルリッチ＆ガーデン酒田</td>
                 <td className="p-3 text-stone-600">山形県酒田市若竹町1-1-1</td>
-                <td className="p-3 text-stone-600">酒田駅周辺</td>
+                <td className="p-3 text-stone-600">■庄内空港よりバス30分 庄内空港行きはホテル道路沿いより運行 ■■酒田駅 車で６分■■酒田ＩＣ １０分</td>
                 <td className="p-3 text-stone-600">約80台無料駐車場</td>
                 <td className="p-3 font-bold text-amber-600">★4.19（1764件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,700〜</td>
@@ -482,7 +482,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 白布温泉　中屋別館　不動閣</td>
                 <td className="p-3 text-stone-600">山形県米沢市白布温泉大字関1514</td>
-                <td className="p-3 text-stone-600">米沢駅周辺</td>
+                <td className="p-3 text-stone-600">JR米沢駅から路線バス（山交バス白布温泉行き）約50分。東北中央自動車道～米沢八幡原IC～国道13号～県道2号線約30分</td>
                 <td className="p-3 text-stone-600">有り　50台（宿泊者無料/先着順）</td>
                 <td className="p-3 font-bold text-amber-600">★4.37（315件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,470〜</td>
@@ -533,7 +533,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>あり　20台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「細やかな配慮と防災への備えに安心感入浴後の冷たいお水や電気ポットの脇に差し水用の容器があったりと、細部にわたり配慮が見えました。夜、非常階段の扉の点検もして回るなど、災害の備えも心がけており、…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「細やかな配慮と防災への備えに安心感入浴後の冷たいお水や電気ポットの脇に差し水用の容器があったりと、細部にわたり配慮が見えました。」
                   </blockquote>
                 </div>
               </div>
@@ -555,7 +555,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>1泊1,000円。先着順となります（予約不可）※大型車は駐車出来ません</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.11 ／ 立地 ★3.96 ／ 部屋 ★3.98 ／ 設備 ★3.86 ／ 風呂 ★3.69</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「設備が充実し、駐車場も多くて便利飛び込みでの素泊まりしました。宿泊面での設備は充実しており部屋にあるコーヒーマシンを使わせていただきました。周囲に駐車場も多く存在して訪問しやすいです。…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「設備が充実し、駐車場も多くて便利飛び込みでの素泊まりしました。宿泊面での設備は充実しており部屋にあるコーヒーマシンを使わせていただきました。周囲に駐車場も多く存在して訪問しやすいです。」
                   </blockquote>
                 </div>
               </div>
@@ -577,7 +577,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>約80台無料駐車場</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.18 ／ 立地 ★4.16 ／ 部屋 ★4.13 ／ 設備 ★4 ／ 風呂 ★4.03 ／ 食事 ★4.36</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「最上川と鳥海山を望む絶景、また来ます3泊しました...8階の部屋で、最上川が綺麗に見えました...6月に宿泊した際は「出羽富士(鳥海山)」が見える同じ8階の反対側でした...また、お世話になります…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「最上川と鳥海山を望む絶景、また来ます3泊しました...8階の部屋で、最上川が綺麗に見えました...6月に宿泊した際は「出羽富士(鳥海山)」が見える同じ8階の反対側でした...また、お世話になります。」
                   </blockquote>
                 </div>
               </div>
@@ -599,7 +599,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　50台（宿泊者無料/先着順）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「渓谷の涼風と絶品黒毛和牛、最高の温泉体験宿の立地・環境は避暑には最適で、盛夏の15時でも建物の中は気温22度しかなく、渓谷から涼しい風が入ってきて別天地のようでした。建物は古くて年季が入ってま…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「渓谷の涼風と絶品黒毛和牛、最高の温泉体験宿の立地・環境は避暑には最適で、盛夏の15時でも建物の中は気温22度しかなく、渓谷から涼しい風が入ってきて別天地のようでした。」
                   </blockquote>
                 </div>
               </div>

@@ -108,7 +108,7 @@ export default function Page() {
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/18924/18924map.gif",
     "reviewCount": 580,
     "reviewAverage": 3.86,
-    "userReview": "以前は鯛などの大きい魚も真ん中の大きい水槽の側で掬えましたが、現在は木の踏み台の腐食を理由にアコウ、アジなどの小さい水槽に移し、小さい網でし。",
+    "userReview": "以前は鯛などの大きい魚も真ん中の大きい水槽の側で掬えましたが、現在は木の踏み台の腐食を理由にアコウ、アジなどの小さい水槽に移し、小さい網でした。",
     "hotelMinCharge": 11860,
     "address1": "兵庫県",
     "address2": "赤穂市さつき町35-5",
@@ -334,7 +334,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 熱海温泉　古屋旅館</td>
                 <td className="p-3 text-stone-600">静岡県熱海市東海岸町5-24</td>
-                <td className="p-3 text-stone-600">熱海駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ熱海駅からタクシーで５分。徒歩１３分。熱海サンビーチまでは徒歩３分♪</td>
                 <td className="p-3 text-stone-600">有り　３５台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.86（573件）</td>
                 <td className="p-3 font-bold text-rose-600">¥39,930〜</td>
@@ -343,7 +343,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 赤穂温泉　割烹旅館　鹿久居荘　赤穂店</td>
                 <td className="p-3 text-stone-600">兵庫県赤穂市さつき町35-5</td>
-                <td className="p-3 text-stone-600">ＪＲ播州赤穂。送迎バスの御利用は、お電話でお申し込み下さい。　お迎え1</td>
+                <td className="p-3 text-stone-600">ＪＲ播州赤穂。送迎バスの御利用は、お電話でお申し込み下さい。 お迎え15時４0分・16時４0分 朝送り10時</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★3.86（580件）</td>
                 <td className="p-3 font-bold text-rose-600">¥11,860〜</td>
@@ -352,7 +352,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 白骨温泉　お宿つるや　（旧：つるや旅館）</td>
                 <td className="p-3 text-stone-600">長野県松本市安曇4202-6</td>
-                <td className="p-3 text-stone-600">松本ICより沢渡経由で車で60分。国道158号線→沢渡（さわんど）より</td>
+                <td className="p-3 text-stone-600">松本ICより沢渡経由で車で60分。国道158号線→沢渡（さわんど）より県道300号線が最短ルートです。</td>
                 <td className="p-3 text-stone-600">有り　約２０台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.06（611件）</td>
                 <td className="p-3 font-bold text-rose-600">¥9,900〜</td>
@@ -381,7 +381,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　３５台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.91 ／ 立地 ★4.49 ／ 部屋 ★4.88 ／ 設備 ★4.81 ／ 風呂 ★4.85 ／ 食事 ★4.89</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「清潔で料理も美味しく、おもてなしに感動歴史ある旅館なのに、掃除が行き届いてとても清潔でした。夕・朝食とも大変おいしく大満足でした。量はもう少し少な目でも十分かもしれません。おもてなしの心が、細やか…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「清潔で料理も美味しく、おもてなしに感動歴史ある旅館なのに、掃除が行き届いてとても清潔でした。夕・朝食とも大変おいしく大満足でした。量はもう少し少な目でも十分かもしれません。」
                   </blockquote>
                 </div>
               </div>
@@ -403,7 +403,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「水槽の魚掬いが制限されており残念三度目の利用でした。以前は鯛などの大きい魚も真ん中の大きい水槽の側で掬えましたが、現在は木の踏み台の腐食を理由にアコウ、アジなどの小さい水槽に移し、小さい網でし…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「水槽の魚掬いが制限されており残念三度目の利用でした。」
                   </blockquote>
                 </div>
               </div>
@@ -425,7 +425,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　約２０台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「泉質と涼しさが最高、来年の再訪が楽しみ色々古いですが、それでもリピート確定なお宿です。お風呂はまさに好み。泉質がよくぬるめで、開放感もあり、いつまでも入っていられます。食事もおいしいし、連…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「泉質と涼しさが最高、来年の再訪が楽しみ色々古いですが、それでもリピート確定なお宿です。お風呂はまさに好み。泉質がよくぬるめで、開放感もあり、いつまでも入っていられます。」
                   </blockquote>
                 </div>
               </div>

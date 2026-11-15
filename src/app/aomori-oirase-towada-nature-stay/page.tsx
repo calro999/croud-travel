@@ -253,7 +253,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 奥入瀬渓流ホテル　ｂｙ　星野リゾート</td>
                 <td className="p-3 text-stone-600">青森県十和田市奥瀬栃久保231</td>
-                <td className="p-3 text-stone-600">八戸駅周辺</td>
+                <td className="p-3 text-stone-600">東北新幹線 八戸駅／無料送迎バス（要予約）、青森駅／有料送迎バス（要予約）、ＪＲバス 十和田湖行き、奥入瀬渓流館下車</td>
                 <td className="p-3 text-stone-600">有り　１００台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.28（1276件）</td>
                 <td className="p-3 font-bold text-rose-600">¥29,500〜</td>
@@ -262,7 +262,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 十和田湖畔温泉　ホテル十和田荘</td>
                 <td className="p-3 text-stone-600">青森県十和田市大字奥瀬字十和田湖畔休屋３４０</td>
-                <td className="p-3 text-stone-600">東北自動車道十和田ICから車で45分　JR八戸駅、JR青森駅から車で1</td>
+                <td className="p-3 text-stone-600">東北自動車道十和田ICから車で45分 JR八戸駅、JR青森駅から車で120分</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★3.87（0件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,700〜</td>
@@ -271,7 +271,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 縄文のふる里　大湯温泉　ホテル鹿角</td>
                 <td className="p-3 text-stone-600">秋田県鹿角市十和田大湯字中谷地５－１</td>
-                <td className="p-3 text-stone-600">十和田南駅周辺</td>
+                <td className="p-3 text-stone-600">■十和田湖より車で30分■ＪＲ花輪線十和田南駅から車で１２分■東北道十和田ＩＣから国道１０３号線を十和田湖方面へ１２分</td>
                 <td className="p-3 text-stone-600">有　２００台　無料　　　　　　　　　　　　　　　　★お得な宿泊プラン満載★</td>
                 <td className="p-3 font-bold text-amber-600">★4.17（1489件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,000〜</td>
@@ -280,7 +280,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 十和田湖畔温泉　とわだこ賑山亭</td>
                 <td className="p-3 text-stone-600">秋田県鹿角郡小坂町十和田湖休平35</td>
-                <td className="p-3 text-stone-600">ＪＲ八戸駅より十和田湖行きＪＲバスで140分、終点十和田湖下車、徒歩4</td>
+                <td className="p-3 text-stone-600">ＪＲ八戸駅より十和田湖行きＪＲバスで140分、終点十和田湖下車、徒歩4分／東北自動車道小坂ＩＣより４０分</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.1（0件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,250〜</td>
@@ -289,7 +289,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 十和田シティホテル</td>
                 <td className="p-3 text-stone-600">青森県十和田市東三番町3-16</td>
-                <td className="p-3 text-stone-600">十和田市駅周辺</td>
+                <td className="p-3 text-stone-600">七戸十和田駅から車で20分</td>
                 <td className="p-3 text-stone-600">当館のすぐ隣に駐車場あり！！　５０台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★3.78（849件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,300〜</td>
@@ -298,7 +298,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">6. 奥入瀬渓流温泉　野の花　焼山荘</td>
                 <td className="p-3 text-stone-600">青森県十和田市法量字焼山64</td>
-                <td className="p-3 text-stone-600">十和田市駅周辺</td>
+                <td className="p-3 text-stone-600">東北自動車道十和田ＩＣより１時間３０分／奥入瀬渓流温泉（バス停）</td>
                 <td className="p-3 text-stone-600">有り ５０台 無料 先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.61（518件）</td>
                 <td className="p-3 font-bold text-rose-600">¥10,150〜</td>
@@ -327,7 +327,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１００台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.24 ／ 立地 ★4.47 ／ 部屋 ★4.48 ／ 設備 ★4.33 ／ 風呂 ★4.23 ／ 食事 ★4.36</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「おしゃれな空間と丁寧な接客紅葉が少しずつ色づき始めた10月初旬にお伺いしました。ホテルの外観、内観、どこを見てもとにかくおしゃれです。ガヤガヤよりも大人の方が多い印象で静かにゆったり過ごせてよ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「おしゃれな空間と丁寧な接客紅葉が少しずつ色づき始めた10月初旬にお伺いしました。ホテルの外観、内観、どこを見てもとにかくおしゃれです。」
                   </blockquote>
                 </div>
               </div>
@@ -371,7 +371,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有　２００台　無料　　　　　　　　　　　　　　　　★お得な宿泊プラン満載★</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温かい料理に大満足、また泊まりたい!夜ご飯も温かいものは温かいまま食べれましたし、量もお腹いっぱいになり満足です。綺麗でまた泊まりたいと思うホテルでした。ありがとうございました。クチコミの…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温かい料理に大満足、また泊まりたい!夜ご飯も温かいものは温かいまま食べれましたし、量もお腹いっぱいになり満足です。綺麗でまた泊まりたいと思うホテルでした。ありがとうございました。」
                   </blockquote>
                 </div>
               </div>

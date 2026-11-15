@@ -253,7 +253,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 会津芦ノ牧温泉　丸峰観光ホテル</td>
                 <td className="p-3 text-stone-600">福島県会津若松市大戸町芦ノ牧下夕平1128</td>
-                <td className="p-3 text-stone-600">会津若松駅周辺</td>
+                <td className="p-3 text-stone-600">会津鉄道・芦ノ牧温泉駅／JR会津若松駅～タクシーで40分／磐越道・会津若松IC～40分/東北道・白河ＩＣ～60分</td>
                 <td className="p-3 text-stone-600">有り　１７０台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.31（3388件）</td>
                 <td className="p-3 font-bold text-rose-600">¥11,000〜</td>
@@ -262,7 +262,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 東山温泉　元湯有馬屋</td>
                 <td className="p-3 text-stone-600">福島県会津若松市東山町湯本居平118</td>
-                <td className="p-3 text-stone-600">会津若松駅周辺</td>
+                <td className="p-3 text-stone-600">JR磐越西線会津若松駅よりバスで20分／磐越自動車道会津若松ICより車で15分</td>
                 <td className="p-3 text-stone-600">有り　20台　先着順　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.63（80件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,250〜</td>
@@ -271,7 +271,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 会津東山温泉　くつろぎ宿　新滝</td>
                 <td className="p-3 text-stone-600">福島県会津若松市東山町湯本川向222</td>
-                <td className="p-3 text-stone-600">会津若松駅周辺</td>
+                <td className="p-3 text-stone-600">【お車】会津若松ＩＣ～約２０分【会津若松駅より】タクシー１３分／周遊バス「あかべぇ」１６分「東山温泉駅バス停」～徒歩３分</td>
                 <td className="p-3 text-stone-600">駐車場は80台まで無料で可能です★予約は不要です★大型車でのご来館は事前にご相談ください★</td>
                 <td className="p-3 font-bold text-amber-600">★4.65（2487件）</td>
                 <td className="p-3 font-bold text-rose-600">¥14,800〜</td>
@@ -289,7 +289,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 会津東山温泉　いろりの宿　芦名</td>
                 <td className="p-3 text-stone-600">福島県会津若松市東山町湯本下原232-1</td>
-                <td className="p-3 text-stone-600">会津若松駅周辺</td>
+                <td className="p-3 text-stone-600">最寄駅：会津若松駅からタクシー又は「東山温泉」へ向かう路線バスで約20分 最寄IC:会津若松から約15分</td>
                 <td className="p-3 text-stone-600">有り　10台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.3（203件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,470〜</td>
@@ -318,7 +318,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１７０台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.35 ／ 立地 ★4.31 ／ 部屋 ★4.26 ／ 設備 ★4.19 ／ 風呂 ★4.34 ／ 食事 ★4.39</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「景色と食事は良いが天ぷらと土瓶蒸しが残念別館7階の部屋から川と山が見え綺麗でした。大浴場も大きく広い窓ガラスから山が見えます。ホテルも部屋も清潔で良いです。夕食は美味しく種類も豊富でした。ただ天ぷ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「景色と食事は良いが天ぷらと土瓶蒸しが残念別館7階の部屋から川と山が見え綺麗でした。大浴場も大きく広い窓ガラスから山が見えます。ホテルも部屋も清潔で良いです。夕食は美味しく種類も豊富でした。」
                   </blockquote>
                 </div>
               </div>
@@ -362,7 +362,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>駐車場は80台まで無料で可能です★予約は不要です★大型車でのご来館は事前にご相談ください★</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.62 ／ 立地 ★4.49 ／ 部屋 ★4.66 ／ 設備 ★4.57 ／ 風呂 ★4.7 ／ 食事 ★4.72</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「料理と温泉は最高だが部屋のタバコ臭が残念お料理は郷土料理が中心でとても満足しました!アルコール類もたくさんあり今回は飲み比べをチョイスし大満足です。お風呂は種類もあり各々のお風呂にタオルも用意され…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「料理と温泉は最高だが部屋のタバコ臭が残念お料理は郷土料理が中心でとても満足しました!アルコール類もたくさんあり今回は飲み比べをチョイスし大満足です。」
                   </blockquote>
                 </div>
               </div>
@@ -384,7 +384,7 @@ export default function MicroTouristHubPage() {
                   <p>【福島・会津若松＆芦ノ牧温泉：鶴ヶ城・大内宿ねぎそば＆】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「接客と温泉が素晴らしく、また必ず伺いたい2回目の宿泊でした。前回は冬でしたので違う季節を楽しみに伺いました。川霧は幻想的で子どももはしゃいでました。食事は朝夕とても美味しくて、温泉はと…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「接客と温泉が素晴らしく、また必ず伺いたい2回目の宿泊でした。前回は冬でしたので違う季節を楽しみに伺いました。川霧は幻想的で子どももはしゃいでました。」
                   </blockquote>
                 </div>
               </div>

@@ -439,7 +439,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 飛騨古川桃源郷温泉　ホテル　季古里</td>
                 <td className="p-3 text-stone-600">岐阜県飛騨市古川町黒内1400-1</td>
-                <td className="p-3 text-stone-600"></td>
+                <td className="p-3 text-stone-600">岐阜県飛騨市古川町黒内1400-1 ／ 交通案内：</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.26（407件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,700〜</td>
@@ -448,7 +448,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 料亭旅館　八ツ三館</td>
                 <td className="p-3 text-stone-600">岐阜県飛騨市古川町向町1-8-27</td>
-                <td className="p-3 text-stone-600"></td>
+                <td className="p-3 text-stone-600">岐阜県飛騨市古川町向町1-8-27 ／ 交通案内：</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.86（956件）</td>
                 <td className="p-3 font-bold text-rose-600">¥29,500〜</td>
@@ -457,7 +457,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 料理旅館　蕪水亭</td>
                 <td className="p-3 text-stone-600">岐阜県飛騨市古川町向町3-8-1</td>
-                <td className="p-3 text-stone-600"></td>
+                <td className="p-3 text-stone-600">岐阜県飛騨市古川町向町3-8-1 ／ 交通案内：</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4（22件）</td>
                 <td className="p-3 font-bold text-rose-600">¥14,915〜</td>

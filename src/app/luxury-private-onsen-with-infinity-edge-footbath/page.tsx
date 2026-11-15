@@ -269,8 +269,8 @@ export default function Page() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 白浜駅よりアクセス。JR白浜駅より車で約13分／南紀白浜空港より車で約7分。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「白浜温泉 ホテル天山閣 海ゆぅ庭」にチェックイン。高台から望む全室オーシャンビュー。全室露天風呂付きの宿で紀州の幸を贅沢に味わうなどの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「白浜温泉 ホテル天山閣 海ゆぅ庭」の湯処へ。高台から望む全室オーシャンビュー。全室露天風呂付きの宿で紀州の幸を贅沢とともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「白浜温泉 ホテル天山閣 海ゆぅ庭」にチェックイン。高台から望む全室オーシャンビュー。 まずは客室で移動の疲れをそっと癒やす。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「白浜温泉 ホテル天山閣 海ゆぅ庭」の自慢の湯処へ。温かな湯気と落ち着いた雰囲気に癒やされながら、夕食前の贅沢なひとときを過ごす。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「白浜温泉 ホテル天山閣 海ゆぅ庭」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -282,7 +282,7 @@ export default function Page() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「白浜温泉 ホテル天山閣 海ゆぅ庭」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「白浜温泉 ホテル天山閣 海ゆぅ庭」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「伊香保温泉 ホテル松本楼」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は「白浜温泉 ホテル天山閣 海ゆぅ庭」周辺の観光スポットや地元の名産店に立ち寄り、ご当地のお土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>
@@ -410,7 +410,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 白浜温泉　ホテル天山閣　海ゆぅ庭</td>
                 <td className="p-3 text-stone-600">和歌山県西牟婁郡白浜町2020</td>
-                <td className="p-3 text-stone-600">白浜駅周辺</td>
+                <td className="p-3 text-stone-600">JR白浜駅より車で約13分／南紀白浜空港より車で約7分</td>
                 <td className="p-3 text-stone-600">有　24台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.51（1600件）</td>
                 <td className="p-3 font-bold text-rose-600">¥11,000〜</td>
@@ -419,7 +419,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 伊香保温泉　ホテル松本楼</td>
                 <td className="p-3 text-stone-600">群馬県渋川市伊香保町伊香保164</td>
-                <td className="p-3 text-stone-600">渋川駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ上越線渋川駅よりバスで見晴下下車／関越自動車道渋川・伊香保ＩＣより約１０ｋｍ</td>
                 <td className="p-3 text-stone-600">有り　100台　無料　余裕有り</td>
                 <td className="p-3 font-bold text-amber-600">★4.53（3311件）</td>
                 <td className="p-3 font-bold text-rose-600">¥14,500〜</td>
@@ -437,7 +437,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. ＨＯＴＥＬ　ＯＯＳＡＤＯ＜佐渡島＞</td>
                 <td className="p-3 text-stone-600">新潟県佐渡市相川鹿伏288番地2</td>
-                <td className="p-3 text-stone-600">佐渡空港駅周辺</td>
+                <td className="p-3 text-stone-600">両津港から車で50分。バスは本線相川行き佐渡市相川支所にて下車後、送迎あり（要連絡）。小木港から車で65分</td>
                 <td className="p-3 text-stone-600">有り　100台　先着順　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.43（735件）</td>
                 <td className="p-3 font-bold text-rose-600">¥16,790〜</td>
@@ -488,7 +488,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　100台　無料　余裕有り</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.65 ／ 立地 ★4.33 ／ 部屋 ★4.5 ／ 設備 ★4.47 ／ 風呂 ★4.59 ／ 食事 ★4.56</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「リピーター特典がなく残念、食事と接客は満足リピーターです。前回までは毎回リピーター特典があり、特別感を感じられて嬉しかったのですが、今回はなく少しがっかりしました。でも、相変わらずご飯…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「リピーター特典がなく残念、食事と接客は満足リピーターです。前回までは毎回リピーター特典があり、特別感を感じられて嬉しかったのですが、今回はなく少しがっかりしました。」
                   </blockquote>
                 </div>
               </div>
@@ -510,7 +510,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「少し気になる点がありましたラウンジがあるのはありがたかったですが、席数が少ないのですぐいっぱいでした。部屋にめちゃくちゃ大きいムカデが出ました、、、(    )3歳の子供がいたので夜とか寝…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「少し気になる点がありましたラウンジがあるのはありがたかったですが、席数が少ないのですぐいっぱいでした。」
                   </blockquote>
                 </div>
               </div>
@@ -532,7 +532,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　100台　先着順　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「価格に見合わない内容と子連れへの配慮不足が残念でした お盆直後に割引前85,000円(割引後約7万円)で宿泊しました。景色や温泉は良く、丁寧に対応してくださるスタッフもいらっしゃいましたが、人によ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「価格に見合わない内容と子連れへの配慮不足が残念でした お盆直後に割引前85,000円(割引後約7万円)で宿泊しました。」
                   </blockquote>
                 </div>
               </div>

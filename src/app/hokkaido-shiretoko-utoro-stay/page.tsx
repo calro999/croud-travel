@@ -253,7 +253,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. ウトロ温泉　ホテル知床</td>
                 <td className="p-3 text-stone-600">北海道斜里郡斜里町ウトロ香川37</td>
-                <td className="p-3 text-stone-600">知床斜里駅周辺</td>
+                <td className="p-3 text-stone-600">知床斜里駅より路線バスで50分（ウトロ温泉バス停下車）下車後ホテルへＴＥＬにて送迎あり</td>
                 <td className="p-3 text-stone-600">有　２００台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.32（1139件）</td>
                 <td className="p-3 font-bold text-rose-600">¥11,550〜</td>
@@ -262,7 +262,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. ウトロ温泉　知床第一ホテル</td>
                 <td className="p-3 text-stone-600">北海道斜里郡斜里町ウトロ香川 306</td>
-                <td className="p-3 text-stone-600">知床斜里駅周辺</td>
+                <td className="p-3 text-stone-600">女満別空港から車で約2時間、ＪＲ知床斜里駅より車で50分。</td>
                 <td className="p-3 text-stone-600">有り　１２０台　無料　到着順にご案内</td>
                 <td className="p-3 font-bold text-amber-600">★4.43（1818件）</td>
                 <td className="p-3 font-bold text-rose-600">¥15,400〜</td>
@@ -271,7 +271,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. ウトロ温泉　ホテル季風クラブ知床</td>
                 <td className="p-3 text-stone-600">北海道斜里郡斜里町ウトロ東318</td>
-                <td className="p-3 text-stone-600">知床斜里駅周辺</td>
+                <td className="p-3 text-stone-600">『JR知床斜里駅』より斜里バス『知床ウトロ温泉行』</td>
                 <td className="p-3 text-stone-600">有り　30台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.67（194件）</td>
                 <td className="p-3 font-bold text-rose-600">¥18,150〜</td>
@@ -280,7 +280,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. レンブラントリゾート知床（旧：知床ノーブルホテル）</td>
                 <td className="p-3 text-stone-600">北海道斜里郡斜里町ウトロ東3</td>
-                <td className="p-3 text-stone-600">知床斜里駅周辺</td>
+                <td className="p-3 text-stone-600">国道334号線ウトロ道の駅前、JR知床斜里駅よりバスにて50分</td>
                 <td className="p-3 text-stone-600">40台（無料：予約不要）</td>
                 <td className="p-3 font-bold text-amber-600">★3.84（594件）</td>
                 <td className="p-3 font-bold text-rose-600">¥10,350〜</td>
@@ -289,7 +289,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. さんご草の郷　能取の荘　かがり屋</td>
                 <td className="p-3 text-stone-600">北海道網走市卯原内60-3</td>
-                <td className="p-3 text-stone-600">網走駅周辺</td>
+                <td className="p-3 text-stone-600">網走市内～国道２３８号線で常呂方面へ卯原内まで１４ｋｍ 網走駅より車で１５分 女満別空港より車で２５分</td>
                 <td className="p-3 text-stone-600">有り　２０台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.3（681件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,800〜</td>
@@ -318,7 +318,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有　２００台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事が美味しい広くて部屋がわかりにくかったけどバイキングが美味しかった特に高齢者にはカートを貸してくださり一人で選ぶことができて良かったです 10名と大人数でしたが朝食には席を用意しておいてく…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事が美味しい広くて部屋がわかりにくかったけどバイキングが美味しかった特に高齢者にはカートを貸してくださり一人で選ぶことができて良かったです 10名と大人数でしたが朝食には席を用意しておいてく。」
                   </blockquote>
                 </div>
               </div>
@@ -340,7 +340,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１２０台　無料　到着順にご案内</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.47 ／ 立地 ★4.48 ／ 部屋 ★4.48 ／ 設備 ★4.33 ／ 風呂 ★4.48 ／ 食事 ★4.6</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「バイキングの種類が豊富でアルコールも充実バイキングはたくさん種類があって食べきれないほどです秋刀魚のお寿司があって嬉しかったですアルコールフリーで満足ソラチが飲めたのが良かったです…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「バイキングの種類が豊富でアルコールも充実バイキングはたくさん種類があって食べきれないほどです秋刀魚のお寿司があって嬉しかったですアルコールフリーで満足ソラチが飲めたのが良かったです。」
                   </blockquote>
                 </div>
               </div>
@@ -362,7 +362,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　30台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「An unexpectedly wonderful stay. We booked a lodge equipped with a compact kitchen. The onsen ameniti…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「An unexpectedly wonderful stay. We booked a lodge equipped with a compact kitchen. The onsen ameniti。」
                   </blockquote>
                 </div>
               </div>
@@ -384,7 +384,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>40台（無料：予約不要）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「海が見える広い部屋と親切な対応に大満足海のみえる景色で部屋もとても広く綺麗でした。ドリンクコーナーには生ビールもあり、飲みすぎてしまいました。フロントの方も親切で、傘やiPhoneが調子悪かっ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「海が見える広い部屋と親切な対応に大満足海のみえる景色で部屋もとても広く綺麗でした。ドリンクコーナーには生ビールもあり、飲みすぎてしまいました。」
                   </blockquote>
                 </div>
               </div>

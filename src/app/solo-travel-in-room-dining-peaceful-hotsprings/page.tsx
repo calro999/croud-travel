@@ -337,7 +337,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 四万温泉　あやめや旅館</td>
                 <td className="p-3 text-stone-600">群馬県吾妻郡中之条町四万4238-45</td>
-                <td className="p-3 text-stone-600">中之条駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ吾妻線中之条駅</td>
                 <td className="p-3 text-stone-600">有り（無料）　12台　先着順   ご利用のお客様は、四万温泉入り口で事前にお電話お願いいたします。</td>
                 <td className="p-3 font-bold text-amber-600">★4.62（445件）</td>
                 <td className="p-3 font-bold text-rose-600">¥10,460〜</td>
@@ -346,7 +346,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 四万温泉　豊島屋</td>
                 <td className="p-3 text-stone-600">群馬県吾妻郡中之条町四万3887</td>
-                <td className="p-3 text-stone-600">中之条駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ吾妻線 中之条駅から関越交通バス「四万温泉行き」乗車→山口バス停下車、徒歩１分</td>
                 <td className="p-3 text-stone-600">有り　２０台　無料　予約不要  (当社駐車場内、EV用普通充電器あり。要予約。）</td>
                 <td className="p-3 font-bold text-amber-600">★4.5（978件）</td>
                 <td className="p-3 font-bold text-rose-600">¥14,900〜</td>
@@ -355,7 +355,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 四万温泉　鹿覗きの湯つるや</td>
                 <td className="p-3 text-stone-600">群馬県吾妻郡中之条町四万4372-1</td>
-                <td className="p-3 text-stone-600">中之条駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ吾妻線 中之条駅／四万温泉行バス40分→終点下車徒歩25分（終点バス停まで送迎あり要予約）</td>
                 <td className="p-3 text-stone-600">有り　17台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.6（298件）</td>
                 <td className="p-3 font-bold text-rose-600">¥20,900〜</td>
@@ -406,7 +406,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２０台　無料　予約不要  (当社駐車場内、EV用普通充電器あり。要予約。）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「地酒と朝食に感動、柔軟な対応にも大満足地酒の飲み比べがとってもリーズナブルで美味しくておかわりしてしまいました!浴衣のサイズが合って無かったので、お伝えした所有料の所無料で変えてくれたりととっ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「地酒と朝食に感動、柔軟な対応にも大満足地酒の飲み比べがとってもリーズナブルで美味しくておかわりしてしまいました!」
                   </blockquote>
                 </div>
               </div>

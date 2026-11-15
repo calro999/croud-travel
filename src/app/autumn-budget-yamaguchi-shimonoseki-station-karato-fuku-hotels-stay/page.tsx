@@ -401,7 +401,7 @@ export default function AutumnBudgetHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 下関駅西ワシントンホテルプラザ</td>
                 <td className="p-3 text-stone-600">山口県下関市大和町1-4-1</td>
-                <td className="p-3 text-stone-600">下関駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ下関駅西口より徒歩2分。</td>
                 <td className="p-3 text-stone-600">有り　14時から10時　700円~1100円（税込み／泊）　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★3.88（1724件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,700〜</td>
@@ -410,7 +410,7 @@ export default function AutumnBudgetHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. ネットルーム下関駅前．キャビンホテル</td>
                 <td className="p-3 text-stone-600">山口県下関市竹崎町3-7-10</td>
-                <td className="p-3 text-stone-600">下関駅周辺</td>
+                <td className="p-3 text-stone-600">下関駅より徒歩2分</td>
                 <td className="p-3 text-stone-600">駐車場は無料ですが、4台しか無い為、必ず電話確認して下さい。（出入口が狭い為普プリウス位まで）</td>
                 <td className="p-3 font-bold text-amber-600">★4.08（12件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,000〜</td>
@@ -419,7 +419,7 @@ export default function AutumnBudgetHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. ＫＯＫＯ　ＳＴＡＹ　下関</td>
                 <td className="p-3 text-stone-600">山口県下関市竹崎町3-11-2</td>
-                <td className="p-3 text-stone-600">下関駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ下関駅西口より徒歩２分。下関Ｉ・Ｃより市街地方面に進み車で約１５分。山口宇部空港よりバスで75分。</td>
                 <td className="p-3 text-stone-600">平面駐車場先着順（普通車700円〜）／大型車事前電話予約必須￥1400〜￥2800</td>
                 <td className="p-3 font-bold text-amber-600">★3.86（1557件）</td>
                 <td className="p-3 font-bold text-rose-600">¥2,921〜</td>
@@ -428,7 +428,7 @@ export default function AutumnBudgetHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. スマイルホテル下関</td>
                 <td className="p-3 text-stone-600">山口県下関市竹崎町4-4-1</td>
-                <td className="p-3 text-stone-600">下関駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ下関駅より徒歩にて約２分.</td>
                 <td className="p-3 text-stone-600">シーモール下関駐車場 　ご一泊500円</td>
                 <td className="p-3 font-bold text-amber-600">★3.68（1231件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,400〜</td>
@@ -437,7 +437,7 @@ export default function AutumnBudgetHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. プラザホテル下関</td>
                 <td className="p-3 text-stone-600">山口県下関市岬之町11-10</td>
-                <td className="p-3 text-stone-600">下関駅周辺</td>
+                <td className="p-3 text-stone-600">下関駅①～④バス乗り場から４分三百目バス停下車すぐ☆下関ＩＣより車で１0分</td>
                 <td className="p-3 text-stone-600">600円/日　ご宿泊予約時に備考欄に記載ください。※記載がない場合はお取りできません。ご了承ください</td>
                 <td className="p-3 font-bold text-amber-600">★4.13（1547件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,500〜</td>
@@ -466,7 +466,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　14時から10時　700円~1100円（税込み／泊）　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.88 ／ 立地 ★3.91 ／ 部屋 ★3.91 ／ 設備 ★3.83 ／ 風呂 ★3.83 ／ 食事 ★3.72</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「夜、廊下で部屋のドアを開けっぱなしで大声でしゃべらないで欲しいものですフロントの方々の対応は親切でしたが、韓国人の団体が廊下で部屋のドアをあけたままずっとしゃべっていて、うるさくて眠れませんでした…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「夜、廊下で部屋のドアを開けっぱなしで大声でしゃべらないで欲しいものですフロントの方々の対応は親切でしたが、韓国人の団体が廊下で部屋のドアをあけたままずっとしゃべっていて、うるさくて眠れませんでした。」
                   </blockquote>
                 </div>
               </div>

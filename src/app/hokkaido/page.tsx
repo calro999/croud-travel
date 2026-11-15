@@ -224,7 +224,7 @@ export default function HokkaidoHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. ホテルルートイン　札幌駅前北口</td>
                 <td className="p-3 text-stone-600">北海道札幌市北区北7条西4-2-2</td>
-                <td className="p-3 text-stone-600">札幌駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ札幌駅下車、北口より徒歩１分。新千歳空港からJR線快速列車で４０分</td>
                 <td className="p-3 text-stone-600">ご到着順にてご案内。ご予約は承れません。１泊につき１５００円／１台。ハイルーフタイプ用もございます。</td>
                 <td className="p-3 font-bold text-amber-600">★4.05（3969件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,250〜</td>
@@ -233,7 +233,7 @@ export default function HokkaidoHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. ＦＯＲＺＡ　ホテルフォルツァ札幌駅前</td>
                 <td className="p-3 text-stone-600">北海道札幌市中央区北三条西2丁目1-1</td>
-                <td className="p-3 text-stone-600">札幌駅周辺</td>
+                <td className="p-3 text-stone-600">JR札幌駅南口より徒歩にて約４分</td>
                 <td className="p-3 text-stone-600">近隣の提携駐車場をご案内いたします。詳細は公式ホームページ内「周辺提携駐車場情報」をご確認ください。</td>
                 <td className="p-3 font-bold text-amber-600">★4.44（1105件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,750〜</td>
@@ -242,7 +242,7 @@ export default function HokkaidoHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. リッチモンドホテル札幌駅前</td>
                 <td className="p-3 text-stone-600">北海道札幌市中央区北3西1丁目1-7</td>
-                <td className="p-3 text-stone-600">札幌駅周辺</td>
+                <td className="p-3 text-stone-600">◆ＪＲ札幌駅南口より徒歩7分（地下鉄東豊線22番出口徒歩0分！荷物の多い方は23番出口がおすすめ）</td>
                 <td className="p-3 text-stone-600">有り　30台　1,400円（税込／泊）</td>
                 <td className="p-3 font-bold text-amber-600">★4.32（4788件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,150〜</td>
@@ -251,7 +251,7 @@ export default function HokkaidoHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. ホテルグレイスリー札幌</td>
                 <td className="p-3 text-stone-600">北海道札幌市中央区北4条西4丁目</td>
-                <td className="p-3 text-stone-600">札幌駅周辺</td>
+                <td className="p-3 text-stone-600">札幌駅地下街（アピア・フードウォーク）より直結。JR札幌駅南口より徒歩1分とアクセス抜群。北海道読売新聞ビル7階</td>
                 <td className="p-3 text-stone-600">有料 (但し、オートバイは利用不可）</td>
                 <td className="p-3 font-bold text-amber-600">★4.36（5383件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,450〜</td>
@@ -260,7 +260,7 @@ export default function HokkaidoHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. プレミアホテル－ＴＳＵＢＡＫＩ－札幌</td>
                 <td className="p-3 text-stone-600">北海道札幌市豊平区豊平4条1丁目1-1</td>
-                <td className="p-3 text-stone-600">札幌駅周辺</td>
+                <td className="p-3 text-stone-600">《新千歳空港から》空港連絡バス「プレミアホテルTSUBAKI」下車 《お車》地下駐車場有《JR札幌駅から》シャトルバス有</td>
                 <td className="p-3 text-stone-600">地下駐車場200台◇1泊1台1000円◇高さ制限2.1m◇24時間出し入れ自由</td>
                 <td className="p-3 font-bold text-amber-600">★4.45（2189件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,400〜</td>
@@ -269,7 +269,7 @@ export default function HokkaidoHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">6. ホテル京阪　札幌</td>
                 <td className="p-3 text-stone-600">北海道札幌市北区北6条西6丁目1-9</td>
-                <td className="p-3 text-stone-600">札幌駅周辺</td>
+                <td className="p-3 text-stone-600">【新千歳空港からホテルまで約44分】JR「札幌」駅西口より徒歩約4分★詳しくはアクセスページをご覧ください。</td>
                 <td className="p-3 text-stone-600">20台有り予約不可・先着順　一泊1,500円　満車時は同料金にて提携駐車場をご案内いたします</td>
                 <td className="p-3 font-bold text-amber-600">★4.38（3638件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,000〜</td>
@@ -298,7 +298,7 @@ export default function HokkaidoHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>ご到着順にてご案内。ご予約は承れません。１泊につき１５００円／１台。ハイルーフタイプ用もございます。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食は種類も多く、美味しかったルートインさんは部屋の作りが同じだと思っていたが、違っていたので残念狭いし、ベッドも何か違うし、寝心地悪かった急遽予約する必要があり、慌てて予約した為確認…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食は種類も多く、美味しかったルートインさんは部屋の作りが同じだと思っていたが、違っていたので残念狭いし、ベッドも何か違うし、寝心地悪かった急遽予約する必要があり、慌てて予約した為確認。」
                   </blockquote>
                 </div>
               </div>
@@ -320,7 +320,7 @@ export default function HokkaidoHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>近隣の提携駐車場をご案内いたします。詳細は公式ホームページ内「周辺提携駐車場情報」をご確認ください。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.4 ／ 立地 ★4.45 ／ 部屋 ★4.44 ／ 設備 ★4.4 ／ 風呂 ★4.35 ／ 食事 ★4.4</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近で便利、いつも安心して利用できる出張で何度か利用しています。駅から近くて便利です。フロントの方も丁寧でQRでスムーズにチェックインできます。アメニティはエレベーター前で必要分だけピックアップし…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近で便利、いつも安心して利用できる出張で何度か利用しています。駅から近くて便利です。フロントの方も丁寧でQRでスムーズにチェックインできます。」
                   </blockquote>
                 </div>
               </div>
@@ -364,7 +364,7 @@ export default function HokkaidoHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有料 (但し、オートバイは利用不可）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「フロントの案内が不親切で非常に不快フロントスタッフの当たり外れが大きい。自動チェックイン機がかなり混雑している状態でようやく自分の順番がきたところフロントに行くような指示が書かれたレシートが発…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「フロントの案内が不親切で非常に不快フロントスタッフの当たり外れが大きい。」
                   </blockquote>
                 </div>
               </div>
@@ -408,7 +408,7 @@ export default function HokkaidoHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>20台有り予約不可・先着順　一泊1,500円　満車時は同料金にて提携駐車場をご案内いたします</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「札幌駅チカで駐車場あり、スタッフの対応も丁寧比較的札幌駅チカ駐車場がある宿ということで利用しました。ホテルの駐車場は車高が高い車だと使えない場合がありますが、近隣の駐車場を案内してもらえます。…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「札幌駅チカで駐車場あり、スタッフの対応も丁寧比較的札幌駅チカ駐車場がある宿ということで利用しました。ホテルの駐車場は車高が高い車だと使えない場合がありますが、近隣の駐車場を案内してもらえます。」
                   </blockquote>
                 </div>
               </div>

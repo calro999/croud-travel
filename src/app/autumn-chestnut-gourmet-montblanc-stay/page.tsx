@@ -76,7 +76,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F40731%2F40731.html%26f_flg%3DPLAN",
     "hotelMinCharge": 17100,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/40731/40731.jpg",
-    "userReview": "長湯温泉　丸長旅館ならではの立地と落ち着いた空間で、ゆったりとした滞在を楽しめたという声が寄せられています。",
+    "userReview": "長湯温泉 丸長旅館ならではの立地と落ち着いた空間で、ゆったりとした滞在を楽しめたという声が寄せられています。",
     "reviewAverage": 4.85,
     "reviewCount": 54,
     "address": "大分県竹田市直入町長湯温泉７９９５－２",
@@ -118,7 +118,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F18924%2F18924.html%26f_flg%3DPLAN",
     "hotelMinCharge": 11860,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/18924/18924.jpg",
-    "userReview": "以前は鯛などの大きい魚も真ん中の大きい水槽の側で掬えましたが、現在は木の踏み台の腐食を理由にアコウ、アジなどの小さい水槽に移し、小さい網でし。",
+    "userReview": "以前は鯛などの大きい魚も真ん中の大きい水槽の側で掬えましたが、現在は木の踏み台の腐食を理由にアコウ、アジなどの小さい水槽に移し、小さい網でした。",
     "reviewAverage": 3.86,
     "reviewCount": 580,
     "address": "兵庫県赤穂市さつき町35-5",
@@ -283,8 +283,8 @@ export default function Page() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 豊後竹田駅よりアクセス。◆湯布院IC国道210号を湯平温泉経由で広域農道50分◆ＪＲ豊肥本線 豊後竹田駅から車（タクシー）で３０分。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「長湯温泉 丸長旅館」にチェックイン。長湯温泉「ガニ湯」を一望できる純和風旅館。小さくてもいい宝石のような宿を目指しおもてなし致します♪などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「長湯温泉 丸長旅館」の湯処へ。長湯温泉「ガニ湯」を一望できる純和風旅館。小さくてもいい宝石のような宿とともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「長湯温泉 丸長旅館」にチェックイン。長湯温泉「ガニ湯」を一望できる純和風旅館。小さくてもいい宝石のような宿を目指しおもてなし致します♪ 荷物を解き、落ち着いた室内でまず一息つく。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「長湯温泉 丸長旅館」の大浴場・露天風呂へ。日暮れの静けさの中で湯に浸かり、旅の緊張をゆっくりと解きほぐす。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「長湯温泉 丸長旅館」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -296,7 +296,7 @@ export default function Page() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「長湯温泉 丸長旅館」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「長湯温泉 丸長旅館」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「大阪の絶景温泉旅館 ホテルセイリュウ」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は「長湯温泉 丸長旅館」周辺の観光スポットや地元の名産店に立ち寄り、ご当地のお土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>
@@ -424,7 +424,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 長湯温泉　丸長旅館</td>
                 <td className="p-3 text-stone-600">大分県竹田市直入町長湯温泉７９９５－２</td>
-                <td className="p-3 text-stone-600">◆湯布院IC国道210号を湯平温泉経由で広域農道50分◆ＪＲ豊肥本線</td>
+                <td className="p-3 text-stone-600">◆湯布院IC国道210号を湯平温泉経由で広域農道50分◆ＪＲ豊肥本線 豊後竹田駅から車（タクシー）で３０分</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.85（54件）</td>
                 <td className="p-3 font-bold text-rose-600">¥17,100〜</td>
@@ -433,7 +433,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 大阪の絶景温泉旅館　ホテルセイリュウ</td>
                 <td className="p-3 text-stone-600">大阪府東大阪市上石切町1-11-12</td>
-                <td className="p-3 text-stone-600">石切駅周辺</td>
+                <td className="p-3 text-stone-600">阪神高速東大阪線 水走出口より車で約５分 第２阪道路 石切出口より約５分/近鉄奈良線石切駅より徒歩5分</td>
                 <td className="p-3 text-stone-600">有り　６０台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★3.89（401件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,800〜</td>
@@ -442,7 +442,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 有福温泉　旅館ぬしや</td>
                 <td className="p-3 text-stone-600">島根県江津市有福温泉町955</td>
-                <td className="p-3 text-stone-600">山陰道浜田東ＩＣより車で約２０分　山陰本線波子駅よりタクシーで約10分</td>
+                <td className="p-3 text-stone-600">山陰道浜田東ＩＣより車で約２０分 山陰本線波子駅よりタクシーで約10分 料金は約4000円 事前のご予約をおすすめします</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.59（279件）</td>
                 <td className="p-3 font-bold text-rose-600">¥11,700〜</td>
@@ -451,7 +451,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 赤穂温泉　割烹旅館　鹿久居荘　赤穂店</td>
                 <td className="p-3 text-stone-600">兵庫県赤穂市さつき町35-5</td>
-                <td className="p-3 text-stone-600">ＪＲ播州赤穂。送迎バスの御利用は、お電話でお申し込み下さい。　お迎え1</td>
+                <td className="p-3 text-stone-600">ＪＲ播州赤穂。送迎バスの御利用は、お電話でお申し込み下さい。 お迎え15時４0分・16時４0分 朝送り10時</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★3.86（580件）</td>
                 <td className="p-3 font-bold text-rose-600">¥11,860〜</td>
@@ -460,7 +460,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 美又温泉　かめや旅館＜島根県＞</td>
                 <td className="p-3 text-stone-600">島根県浜田市金城町追原7-2</td>
-                <td className="p-3 text-stone-600">浜田駅周辺</td>
+                <td className="p-3 text-stone-600">Ｊ浜田道「旭IC」より車で約10分／「JR浜田駅」より車で約25分／「しまね海洋館アクアス」より車で約40分</td>
                 <td className="p-3 text-stone-600">無料駐車場　９台完備／予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.39（138件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,350〜</td>
@@ -511,7 +511,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　６０台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.09 ／ 立地 ★4.15 ／ 部屋 ★3.91 ／ 設備 ★3.66 ／ 風呂 ★3.78 ／ 食事 ★4.06</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「景色と大浴場は良いホテル高層からの景色は平野が見渡せよかった。駅からホテルの間の道路からでもすでに景色はよかった。 風呂は、大浴場は広くてよい。露天風呂はお湯熱めでよい。朝食は、握りたてお…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「景色と大浴場は良いホテル高層からの景色は平野が見渡せよかった。駅からホテルの間の道路からでもすでに景色はよかった。 風呂は、大浴場は広くてよい。露天風呂はお湯熱めでよい。」
                   </blockquote>
                 </div>
               </div>
@@ -555,7 +555,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「水槽の魚掬いが制限されており残念三度目の利用でした。以前は鯛などの大きい魚も真ん中の大きい水槽の側で掬えましたが、現在は木の踏み台の腐食を理由にアコウ、アジなどの小さい水槽に移し、小さい網でし…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「水槽の魚掬いが制限されており残念三度目の利用でした。」
                   </blockquote>
                 </div>
               </div>

@@ -253,7 +253,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 長門湯本温泉　湯本観光ホテル　西京</td>
                 <td className="p-3 text-stone-600">山口県長門市深川湯本1051</td>
-                <td className="p-3 text-stone-600">長門湯本駅周辺</td>
+                <td className="p-3 text-stone-600">中国道美称ICより車で30分／JR美祢線長門湯本駅より徒歩10分</td>
                 <td className="p-3 text-stone-600">屋外駐車場有り（無料）、乗用車100台収容可能</td>
                 <td className="p-3 font-bold text-amber-600">★4（907件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,800〜</td>
@@ -262,7 +262,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 磐梯熱海温泉　萩姫の湯　栄楽館</td>
                 <td className="p-3 text-stone-600">福島県郡山市熱海町熱海4-47</td>
-                <td className="p-3 text-stone-600">■郡山駅から磐越西線で15分　磐梯熱海駅から徒歩３分 ■磐越道 磐梯熱</td>
+                <td className="p-3 text-stone-600">■郡山駅から磐越西線で15分 磐梯熱海駅から徒歩３分 ■磐越道 磐梯熱海ＩＣ下車 車で約5分</td>
                 <td className="p-3 text-stone-600">有り　８０台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.13（1061件）</td>
                 <td className="p-3 font-bold text-rose-600">¥11,000〜</td>
@@ -271,7 +271,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 萩温泉郷　夕景の宿　海のゆりかご　萩小町</td>
                 <td className="p-3 text-stone-600">山口県萩市椿東越ヶ浜6509</td>
-                <td className="p-3 text-stone-600">東萩駅周辺</td>
+                <td className="p-3 text-stone-600">「JR東萩駅」より車で10分／世界遺産「松下村塾」より車で10分／無料送迎サービスも有り！詳細はお気軽に問合せ下さい。</td>
                 <td className="p-3 text-stone-600">60台（無料）／予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.36（5230件）</td>
                 <td className="p-3 font-bold text-rose-600">¥11,000〜</td>
@@ -280,7 +280,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 萩温泉郷　萩の宿・常茂恵</td>
                 <td className="p-3 text-stone-600">山口県萩市土原弘法寺608-53</td>
-                <td className="p-3 text-stone-600">東萩駅周辺</td>
+                <td className="p-3 text-stone-600">「JR東萩駅」より車で約3分／世界遺産「松下村塾」より車で約7分／「美祢東JCT」経由「絵堂IC」より車で約20分</td>
                 <td className="p-3 text-stone-600">25台（無料）／予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.71（496件）</td>
                 <td className="p-3 font-bold text-rose-600">¥21,000〜</td>
@@ -289,7 +289,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 四万温泉　柏屋旅館</td>
                 <td className="p-3 text-stone-600">群馬県吾妻郡中之条町四万3829</td>
-                <td className="p-3 text-stone-600">中之条駅周辺</td>
+                <td className="p-3 text-stone-600">車：関越道渋川伊香保ICよりR17、353を四万温泉方面６０分。電車：中之条駅から四万温泉行バス３５分、清流の湯入口下車</td>
                 <td className="p-3 text-stone-600">有り　15台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.55（568件）</td>
                 <td className="p-3 font-bold text-rose-600">¥21,000〜</td>
@@ -327,7 +327,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>屋外駐車場有り（無料）、乗用車100台収容可能</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「お値段相応夏休み旅行で、安かったので泊まらせてもらいました。やはり、お値段相応で、館内はかなり古く清潔にはされてますがあちこちに古さを感じました。大浴場はかなり広く清潔にはされてましたが、露天風呂…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「お値段相応夏休み旅行で、安かったので泊まらせてもらいました。やはり、お値段相応で、館内はかなり古く清潔にはされてますがあちこちに古さを感じました。」
                   </blockquote>
                 </div>
               </div>
@@ -371,7 +371,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>60台（無料）／予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「料理が美味しく、静かにのんびり過ごせた料理がすごく美味しいです。夕日が見える温泉、当日は小雨で夕日が見られませんでしたが、とても気持ちのよいお風呂でした。宿はとても広いのですが、他の客とあ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「料理が美味しく、静かにのんびり過ごせた料理がすごく美味しいです。夕日が見える温泉、当日は小雨で夕日が見られませんでしたが、とても気持ちのよいお風呂でした。」
                   </blockquote>
                 </div>
               </div>
@@ -415,7 +415,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　15台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「女子旅に最適、料理も温泉も大満足!女子旅には最高の宿でした。お食事も夏野菜満載の工夫を凝らしてありどれも美味しかったです。接客のスタッフの方も感じが良く心地良かった。貸切風呂も中々風情があり気持ち…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「女子旅に最適、料理も温泉も大満足!女子旅には最高の宿でした。お食事も夏野菜満載の工夫を凝らしてありどれも美味しかったです。接客のスタッフの方も感じが良く心地良かった。」
                   </blockquote>
                 </div>
               </div>
@@ -437,7 +437,7 @@ export default function MicroTouristHubPage() {
                   <p>【山口・萩＆長門湯本温泉：維新の城下町・川床テラス＆元】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ふく料理と骨酒が最高、お風呂も充実朝夕共にお食事がふく料理でとっても美味しかったです。お酒の種類も色々あり選ぶ楽しみもあります。ふくの骨酒最高でした!貸切風呂や食事で宿を決めたい方に是非泊まってほ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ふく料理と骨酒が最高、お風呂も充実朝夕共にお食事がふく料理でとっても美味しかったです。お酒の種類も色々あり選ぶ楽しみもあります。ふくの骨酒最高でした!」
                   </blockquote>
                 </div>
               </div>

@@ -37,7 +37,7 @@ export default function Page() {
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/135889/135889map.gif",
     "reviewCount": 346,
     "reviewAverage": 4.26,
-    "userReview": "スタッフの優しさと露天風呂に癒されるとても癒されるました!スタッフの方もとても優しくて嬉しかったです。温泉も最高に気持ちよかったです。露天風呂がかなり良かったです。クチコミの詳細は。",
+    "userReview": "スタッフの優しさと露天風呂に癒されるとても癒されるました!スタッフの方もとても優しくて嬉しかったです。温泉も最高に気持ちよかったです。露天風呂がかなり良かったです。",
     "hotelMinCharge": 9000,
     "address1": "鹿児島県",
     "address2": "姶良市蒲生町久末434-1",
@@ -422,8 +422,8 @@ export default function Page() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 重富駅よりアクセス。九州自動車道 姶良インターよりお車で10分◆鹿児島空港より25分◆ ＪＲ日豊線 重富駅からお車で15分（約１０ｋｍ）。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「フォンタナの丘かもう」にチェックイン。クチコミ★4!地域の健康交流拠点として親しまれる温泉ホテルですなどの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「フォンタナの丘かもう」の湯処へ。クチコミ★4!地域の健康交流拠点として親しまれる温泉ホテルですとともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「フォンタナの丘かもう」にチェックイン。クチコミ★4!地域の健康交流拠点として親しまれる温泉ホテルですが魅力の一軒。客室で荷物をほどいて穏やかな午後のひとときを。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「フォンタナの丘かもう」の大浴場・露天風呂へ。日暮れの静けさの中で湯に浸かり、旅の緊張をゆっくりと解きほぐす。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「フォンタナの丘かもう」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -435,7 +435,7 @@ export default function Page() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「フォンタナの丘かもう」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「フォンタナの丘かもう」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「神山温泉 ホテル四季の里＆いやしの湯」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は「フォンタナの丘かもう」周辺の観光スポットや地元の名産店に立ち寄り、ご当地のお土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>
@@ -563,7 +563,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. フォンタナの丘かもう</td>
                 <td className="p-3 text-stone-600">鹿児島県姶良市蒲生町久末434-1</td>
-                <td className="p-3 text-stone-600">重富駅周辺</td>
+                <td className="p-3 text-stone-600">【九州自動車道】姶良インターよりお車で10分◆鹿児島空港より25分◆【ＪＲ日豊線】重富駅からお車で15分（約１０ｋｍ）</td>
                 <td className="p-3 text-stone-600">有り　１４６台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.26（346件）</td>
                 <td className="p-3 font-bold text-rose-600">¥9,000〜</td>
@@ -572,7 +572,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 神山温泉　ホテル四季の里＆いやしの湯</td>
                 <td className="p-3 text-stone-600">徳島県名西郡神山町神領本上角80-2</td>
-                <td className="p-3 text-stone-600">徳島駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ徳島駅よりバスにて約60分／徳島自動車道藍住ＩＣより45分／高松自動車道坂野ＩＣより55分</td>
                 <td className="p-3 text-stone-600">有り120台（無料・先着順）</td>
                 <td className="p-3 font-bold text-amber-600">★4.36（263件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,490〜</td>
@@ -581,7 +581,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 黄金崎不老ふ死温泉</td>
                 <td className="p-3 text-stone-600">青森県西津軽郡深浦町舮作下清滝15</td>
-                <td className="p-3 text-stone-600">ウェスパ椿山駅周辺</td>
+                <td className="p-3 text-stone-600">ウェスパ椿山駅よりお車で５分。</td>
                 <td className="p-3 text-stone-600">有り　100台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.49（1294件）</td>
                 <td className="p-3 font-bold text-rose-600">¥10,450〜</td>
@@ -610,7 +610,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１４６台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの優しさと露天風呂に癒されるとても癒されるました!スタッフの方もとても優しくて嬉しかったです。温泉も最高に気持ちよかったです。露天風呂がかなり良かったです。クチコミの詳細は…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの優しさと露天風呂に癒されるとても癒されるました!スタッフの方もとても優しくて嬉しかったです。温泉も最高に気持ちよかったです。露天風呂がかなり良かったです。」
                   </blockquote>
                 </div>
               </div>
@@ -632,7 +632,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り120台（無料・先着順）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「邪馬台国阿波説探訪邪馬台国阿波説探訪に丁度良い温泉ホテルでした。近くに上一宮大粟神社や雨乞の滝もあり、日本の田舎の夏を満喫致しました。又、邪馬台国阿波説探訪に是非訪れたいと思っております。有難うご…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「邪馬台国阿波説探訪邪馬台国阿波説探訪に丁度良い温泉ホテルでした。近くに上一宮大粟神社や雨乞の滝もあり、日本の田舎の夏を満喫致しました。又、邪馬台国阿波説探訪に是非訪れたいと思っております。」
                   </blockquote>
                 </div>
               </div>

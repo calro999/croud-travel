@@ -420,8 +420,8 @@ export default function Page() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 宮古駅よりアクセス。ＪＲ山田線 宮古駅から奥浄土ヶ浜行きバスにて１５分、浄土ヶ浜ビジターセンター下車後、徒歩５分。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「浄土ヶ浜パークホテル」にチェックイン。浄土ヶ浜の高台に建つ和の景観と四季の恵みあふれるホテル。三陸の海の幸をご用意してお待ちしておりますなどの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「浄土ヶ浜パークホテル」の湯処へ。浄土ヶ浜の高台に建つ和の景観と四季の恵みあふれるホテル。三陸の海の幸をとともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「浄土ヶ浜パークホテル」にチェックイン。浄土ヶ浜の高台に建つ和の景観と四季の恵みあふれるホテル。 まずは客室で移動の疲れをそっと癒やす。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「浄土ヶ浜パークホテル」の自慢の湯処へ。温かな湯気と落ち着いた雰囲気に癒やされながら、夕食前の贅沢なひとときを過ごす。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「浄土ヶ浜パークホテル」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -433,7 +433,7 @@ export default function Page() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「浄土ヶ浜パークホテル」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「浄土ヶ浜パークホテル」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「オーベルジュ 土佐山」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は宿周辺の散策とショッピングを満喫。地元の名産品やグルメを味わってから余裕をもって帰路につく。</li>
               </ul>
             </div>
           </div>
@@ -561,7 +561,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 浄土ヶ浜パークホテル</td>
                 <td className="p-3 text-stone-600">岩手県宮古市日立浜町32-4</td>
-                <td className="p-3 text-stone-600">ＪＲ山田線　宮古駅から奥浄土ヶ浜行きバスにて１５分、浄土ヶ浜ビジターセ</td>
+                <td className="p-3 text-stone-600">ＪＲ山田線 宮古駅から奥浄土ヶ浜行きバスにて１５分、浄土ヶ浜ビジターセンター下車後、徒歩５分。【ペットと宿泊可※小型犬】</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.43（1566件）</td>
                 <td className="p-3 font-bold text-rose-600">¥11,110〜</td>
@@ -570,7 +570,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. オーベルジュ　土佐山</td>
                 <td className="p-3 text-stone-600">高知県高知市土佐山東川661</td>
-                <td className="p-3 text-stone-600">高知駅周辺</td>
+                <td className="p-3 text-stone-600">高知駅よりお車にて約４０分</td>
                 <td className="p-3 text-stone-600">駐車場　約５０台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.64（249件）</td>
                 <td className="p-3 font-bold text-rose-600">¥30,580〜</td>
@@ -579,7 +579,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 山口県　長門湯本温泉　大谷山荘</td>
                 <td className="p-3 text-stone-600">山口県長門市深川湯本2208</td>
-                <td className="p-3 text-stone-600">長門湯本駅周辺</td>
+                <td className="p-3 text-stone-600">お車で角島・JR新山口駅へ60分／宇部空港へ70分／絶景元乃隅神社・萩へ35分／JR長門湯本駅より無料送迎5分</td>
                 <td className="p-3 text-stone-600">無料　90台 収容　屋内駐車場もございます。背の高いお車でもご安心ください。</td>
                 <td className="p-3 font-bold text-amber-600">★4.78（1468件）</td>
                 <td className="p-3 font-bold text-rose-600">¥23,100〜</td>
@@ -608,7 +608,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「眺めと朝日が最高、食事は少し残念部屋からの眺めが素晴らしく、とても贅沢な時間を過ごすことが出来ました。朝日も美しく良い思い出になりました。お食事は期待したほどではなく少し残念でしたが、朝の…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「眺めと朝日が最高、食事は少し残念部屋からの眺めが素晴らしく、とても贅沢な時間を過ごすことが出来ました。朝日も美しく良い思い出になりました。」
                   </blockquote>
                 </div>
               </div>
@@ -630,7 +630,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>駐車場　約５０台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.65 ／ 立地 ★4.59 ／ 部屋 ★4.56 ／ 設備 ★4.56 ／ 風呂 ★4.52 ／ 食事 ★4.74</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事も星空の露天風呂も最高朝食、夕食ともにとても美味しかったです。オールインクルーシブだったのでチェックイン後にドリンクとご当地スナックも楽しむことができました。また、露天風呂は田舎ならで…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事も星空の露天風呂も最高朝食、夕食ともにとても美味しかったです。オールインクルーシブだったのでチェックイン後にドリンクとご当地スナックも楽しむことができました。」
                   </blockquote>
                 </div>
               </div>

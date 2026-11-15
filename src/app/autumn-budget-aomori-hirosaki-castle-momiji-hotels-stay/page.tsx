@@ -342,7 +342,7 @@ export default function HirosakiBudgetAutumnPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. アートホテル弘前シティ</td>
                 <td className="p-3 text-stone-600">青森県弘前市大町1-1-2</td>
-                <td className="p-3 text-stone-600">弘前駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ弘前駅中央口より徒歩1分、青森空港より車で約６０分、東北自動車道（大鰐・弘前ＩＣ）より車で約１５分</td>
                 <td className="p-3 text-stone-600">先着順　ホテル駐車場・提携先駐車場は普通車1泊700円、満車の際は近隣有料駐車場をご案内。</td>
                 <td className="p-3 font-bold text-amber-600">★4.17（2261件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,780〜</td>
@@ -351,7 +351,7 @@ export default function HirosakiBudgetAutumnPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. スーパーホテル弘前</td>
                 <td className="p-3 text-stone-600">青森県弘前市土手町148</td>
-                <td className="p-3 text-stone-600">弘前駅周辺</td>
+                <td className="p-3 text-stone-600">弘前駅より徒歩約１2分 100円バスで6分 東北自動車道路「大鰐弘前ＩＣ」より20分 駐車場は先着順（1台500円/泊）</td>
                 <td className="p-3 text-stone-600">有　徒歩３分　５２台　１区画５００円／先着順(１５時〜翌朝１０時）。満車の場合は周辺駐車場をご案内。</td>
                 <td className="p-3 font-bold text-amber-600">★4.08（2862件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,450〜</td>
@@ -360,7 +360,7 @@ export default function HirosakiBudgetAutumnPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. ホテルルートイン弘前城東</td>
                 <td className="p-3 text-stone-600">青森県弘前市城東中央5-5-6</td>
-                <td className="p-3 text-stone-600">弘前駅周辺</td>
+                <td className="p-3 text-stone-600">JR奥羽本線弘前駅城東口より約2km/東北自動車道大鰐・弘前ICより約8km/青森空港より弘前バスターミナルまで約60分</td>
                 <td className="p-3 text-stone-600">有り　１４５台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.07（1102件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,600〜</td>
@@ -369,7 +369,7 @@ export default function HirosakiBudgetAutumnPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 天然温泉　岩木桜の湯　ドーミーイン弘前（ドーミーイン・御宿野乃　ホテルズグループ）</td>
                 <td className="p-3 text-stone-600">青森県弘前市大字本町71-1</td>
-                <td className="p-3 text-stone-600">中央弘前駅周辺</td>
+                <td className="p-3 text-stone-600">JR弘前駅より車で約10分</td>
                 <td className="p-3 text-stone-600">有料先着順 普通車700円（1泊）満車時は近隣駐車場へ別途料金にてご案内。大型車は要問合せ。</td>
                 <td className="p-3 font-bold text-amber-600">★4.36（4520件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,215〜</td>
@@ -451,7 +451,7 @@ export default function HirosakiBudgetAutumnPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１４５台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.07 ／ 立地 ★3.98 ／ 部屋 ★4.08 ／ 設備 ★4.05 ／ 風呂 ★4.02 ／ 食事 ★4.03</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「トラブル時の丁寧な対応と朝食の改善に満足システムの不都合が起きたにも関わらず、丁寧に接客していただいた。前回泊まった際、朝食に対し相当な不満があったが、改善されていた点が非常に良かったです。…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「トラブル時の丁寧な対応と朝食の改善に満足システムの不都合が起きたにも関わらず、丁寧に接客していただいた。前回泊まった際、朝食に対し相当な不満があったが、改善されていた点が非常に良かったです。」
                   </blockquote>
                 </div>
               </div>
@@ -473,7 +473,7 @@ export default function HirosakiBudgetAutumnPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有料先着順 普通車700円（1泊）満車時は近隣駐車場へ別途料金にてご案内。大型車は要問合せ。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.29 ／ 立地 ★4.29 ／ 部屋 ★4.32 ／ 設備 ★4.31 ／ 風呂 ★4.42 ／ 食事 ★4.32</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「素晴らしすぎて言葉にできない心地よさすごく丁寧とか、何が素晴らしいとか、どこか特化したところがあるかと言われたら多すぎて言い切れませんので、体感するべきかと思います。心地よく面白かったです。ク…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「素晴らしすぎて言葉にできない心地よさすごく丁寧とか、何が素晴らしいとか、どこか特化したところがあるかと言われたら多すぎて言い切れませんので、体感するべきかと思います。心地よく面白かったです。」
                   </blockquote>
                 </div>
               </div>
@@ -495,7 +495,7 @@ export default function HirosakiBudgetAutumnPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>約２０台の無料駐車場有り（先着順）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.24 ／ 立地 ★4.09 ／ 部屋 ★4.1 ／ 設備 ★3.95 ／ 風呂 ★4 ／ 食事 ★4.59</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「また泊まりたいお部屋が広くてきれいで快適に過ごせました。朝食も地元の食材をふんだんに使っていておいしかったです。従業員の方々の接客も丁寧で、また泊まりたいお宿でした。バス停がすぐそばにあるので車が…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「また泊まりたいお部屋が広くてきれいで快適に過ごせました。朝食も地元の食材をふんだんに使っていておいしかったです。従業員の方々の接客も丁寧で、また泊まりたいお宿でした。」
                   </blockquote>
                 </div>
               </div>

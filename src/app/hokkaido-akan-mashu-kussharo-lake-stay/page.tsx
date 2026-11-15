@@ -253,7 +253,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 阿寒湖温泉　あかん鶴雅別荘鄙の座</td>
                 <td className="p-3 text-stone-600">北海道釧路市阿寒町阿寒湖温泉2丁目8-1</td>
-                <td className="p-3 text-stone-600">釧路駅周辺</td>
+                <td className="p-3 text-stone-600">釧路空港より車で約６０分／女満別空港より車で約９０分。 ※アクセスの詳細は公式サイトの「アクセスページ」をご覧ください。</td>
                 <td className="p-3 text-stone-600">有り　３０台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.87（249件）</td>
                 <td className="p-3 font-bold text-rose-600">¥42,531〜</td>
@@ -262,7 +262,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. あかん遊久の里鶴雅</td>
                 <td className="p-3 text-stone-600">北海道釧路市阿寒町阿寒湖温泉4-6-10</td>
-                <td className="p-3 text-stone-600">釧路駅周辺</td>
+                <td className="p-3 text-stone-600">釧路空港より車で約６０分／女満別空港より車で約９０分。 ※アクセスの詳細は公式サイトの「アクセスページ」をご覧ください。</td>
                 <td className="p-3 text-stone-600">有り（無料）150台※駐車場は当館から離れた場所にあります（駐車場とホテル間はシャトルバス運行あり）</td>
                 <td className="p-3 font-bold text-amber-600">★4.49（1917件）</td>
                 <td className="p-3 font-bold text-rose-600">¥14,520〜</td>
@@ -271,7 +271,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 知床天然温泉ルートイングランティア知床斜里駅前</td>
                 <td className="p-3 text-stone-600">北海道斜里郡斜里町港町16-10</td>
-                <td className="p-3 text-stone-600">知床斜里駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ釧網本線 知床斜里駅より徒歩にて1分 、 斜里バスターミナルより徒歩にて1分</td>
                 <td className="p-3 text-stone-600">有り　６４台（敷地内２０台・第２駐車場４４台）　無料　予約不要（先着順）</td>
                 <td className="p-3 font-bold text-amber-600">★4.19（1038件）</td>
                 <td className="p-3 font-bold text-rose-600">¥10,450〜</td>
@@ -280,7 +280,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. お宿欣喜湯　別邸　すいかずら</td>
                 <td className="p-3 text-stone-600">北海道川上郡弟子屈町川湯温泉1丁目2-3</td>
-                <td className="p-3 text-stone-600">川湯温泉駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ川湯温泉駅より8分 女満別空港より車で60分</td>
                 <td className="p-3 text-stone-600">有り　40台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.2（458件）</td>
                 <td className="p-3 font-bold text-rose-600">¥12,000〜</td>
@@ -289,7 +289,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. ファームイン　トーチ　Ｂ棟　＾</td>
                 <td className="p-3 text-stone-600">北海道阿寒郡鶴居村字雪裡原野北26線西13-3　Ｆａｒｍ　ｉｎ　Ｔｏｒｃｈ　Ｂ</td>
-                <td className="p-3 text-stone-600">茅沼駅周辺</td>
+                <td className="p-3 text-stone-600">釧路駅から車で約４０分</td>
                 <td className="p-3 text-stone-600">有り</td>
                 <td className="p-3 font-bold text-amber-600">高評価</td>
                 <td className="p-3 font-bold text-rose-600">¥9,512〜</td>
@@ -318,7 +318,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　３０台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.87 ／ 立地 ★4.78 ／ 部屋 ★4.83 ／ 設備 ★4.78 ／ 風呂 ★4.74 ／ 食事 ★4.96</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「大満足の誕生日彼の誕生日で宿泊しました。彼が、今までで一番かもと、とっても喜んでくれました。清掃が行き届いていたり、スタッフさんの心遣いだったり、その他諸々が本当に良すぎました。食事は…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「大満足の誕生日彼の誕生日で宿泊しました。彼が、今までで一番かもと、とっても喜んでくれました。清掃が行き届いていたり、スタッフさんの心遣いだったり、その他諸々が本当に良すぎました。」
                   </blockquote>
                 </div>
               </div>
@@ -362,7 +362,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　６４台（敷地内２０台・第２駐車場４４台）　無料　予約不要（先着順）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「グランティアに期待外れ、割高感が残る釧網線の鉄旅で利用しました。前日に北見のフツーのルートインに宿泊しました。温泉大浴場もあり、とてもいいホテルでした。翌日に斜里のルートインに宿泊したので…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「グランティアに期待外れ、割高感が残る釧網線の鉄旅で利用しました。前日に北見のフツーのルートインに宿泊しました。温泉大浴場もあり、とてもいいホテルでした。」
                   </blockquote>
                 </div>
               </div>
@@ -384,7 +384,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　40台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「酸性の温泉が素晴らしく、食事も大満足!体験したことのない酸性の素晴らしい温泉でした。ビュッフェのクオリティも高く、地元の牛乳を使ったプリンやアイスなど大変美味しかったです!クチコミの詳細はこち…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「酸性の温泉が素晴らしく、食事も大満足!体験したことのない酸性の素晴らしい温泉でした。ビュッフェのクオリティも高く、地元の牛乳を使ったプリンやアイスなど大変美味しかったです!」
                   </blockquote>
                 </div>
               </div>

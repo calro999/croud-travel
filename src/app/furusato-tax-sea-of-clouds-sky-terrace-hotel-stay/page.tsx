@@ -48,7 +48,7 @@ export default function FurusatoTaxPage() {
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* パンくずリスト */}
-      <nav className="border-b border-slate-800/80 bg-slate-900/60 backdrop-blur px-4 py-3 text-xs text-slate-400">
+      <nav className="border-b border-slate-800/80 bg-slate-900/60 backdrop-blur px-4 py-3 text-xs text-slate-200">
         <div className="max-w-6xl mx-auto flex items-center gap-2 overflow-x-auto whitespace-nowrap">
           <Link href="/" className="hover:text-amber-400 transition">ホーム</Link>
           <span>/</span>
@@ -531,8 +531,8 @@ export default function FurusatoTaxPage() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> トマム駅よりアクセス。富良野から：約６０ｋｍ/札幌・小樽から高速・道東道トマムＩＣ下車５分/。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「ペンション イング・トマム」にチェックイン。大自然に囲まれ、豊富なアウトドアメニューが四季を通し楽しめる。清潔・清楚な温泉付きペンション。などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「ペンション イング・トマム」の湯処へ。大自然に囲まれ、豊富なアウトドアメニューが四季を通し楽しめる。清潔・清とともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「ペンション イング・トマム」にチェックイン。大自然に囲まれ、豊富なアウトドアメニューが四季を通し楽しめる。清潔・清楚な温泉付きペンション。 館内の設えを確かめながら、これからの滞在に備えてゆっくり休息する。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「ペンション イング・トマム」の大浴場・露天風呂へ。日暮れの静けさの中で湯に浸かり、旅の緊張をゆっくりと解きほぐす。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「ペンション イング・トマム」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -544,7 +544,7 @@ export default function FurusatoTaxPage() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「ペンション イング・トマム」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「ペンション イング・トマム」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「志賀高原 癒しの宿幸の湯」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は「ペンション イング・トマム」周辺の観光スポットや地元の名産店に立ち寄り、ご当地のお土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>
@@ -672,7 +672,7 @@ export default function FurusatoTaxPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. ペンション　イング・トマム</td>
                 <td className="p-3 text-stone-600">北海道勇払郡占冠村上トマム</td>
-                <td className="p-3 text-stone-600">トマム駅周辺</td>
+                <td className="p-3 text-stone-600">富良野から：約６０ｋｍ/札幌・小樽から高速・道東道トマムＩＣ下車５分/</td>
                 <td className="p-3 text-stone-600">有り　３０台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.5（148件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,500〜</td>
@@ -681,7 +681,7 @@ export default function FurusatoTaxPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 志賀高原　癒しの宿幸の湯</td>
                 <td className="p-3 text-stone-600">長野県下高井郡山ノ内町志賀高原平床</td>
-                <td className="p-3 text-stone-600">湯田中駅周辺</td>
+                <td className="p-3 text-stone-600">JR長野駅より志賀高原行き直通バスで約70分。上信越自動車道・信州中野ICより約40分</td>
                 <td className="p-3 text-stone-600">有り　30台　無料　（冬季：10台）</td>
                 <td className="p-3 font-bold text-amber-600">★4.5（16件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,939〜</td>
@@ -690,7 +690,7 @@ export default function FurusatoTaxPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 志賀高原ロッヂ</td>
                 <td className="p-3 text-stone-600">長野県下高井郡山ノ内町平穏7148-23</td>
-                <td className="p-3 text-stone-600">湯田中駅周辺</td>
+                <td className="p-3 text-stone-600">湯田中駅からバスで45分ほたる温泉下車徒歩5分。信州中野ICから車で約40分。</td>
                 <td className="p-3 text-stone-600">有り　20台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.33（58件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,600〜</td>
@@ -699,7 +699,7 @@ export default function FurusatoTaxPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 天然温泉　旅人の湯（源泉名：延徳温泉）ホテルルートインＧｒａｎｄ中野小布施－信州中野駅前－</td>
                 <td className="p-3 text-stone-600">長野県中野市西1-3-27</td>
-                <td className="p-3 text-stone-600">信州中野駅周辺</td>
+                <td className="p-3 text-stone-600">信州中野駅より徒歩で約3分</td>
                 <td className="p-3 text-stone-600">有り　109台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.41（205件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,200〜</td>
@@ -708,7 +708,7 @@ export default function FurusatoTaxPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 蔵王温泉　最上高湯　善七乃湯（旧：蔵王温泉　大平ホテル）</td>
                 <td className="p-3 text-stone-600">山形県山形市蔵王温泉825</td>
-                <td className="p-3 text-stone-600">山形駅周辺</td>
+                <td className="p-3 text-stone-600">JR山形駅より定期バス45分／山形蔵王ICより車で25分／山形駅からの無料送迎（予約サイト・EGBY12月～3月）</td>
                 <td className="p-3 text-stone-600">普通車40台（無料）</td>
                 <td className="p-3 font-bold text-amber-600">★4.49（665件）</td>
                 <td className="p-3 font-bold text-rose-600">¥16,500〜</td>
@@ -803,7 +803,7 @@ export default function FurusatoTaxPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　109台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「綺麗な館内と豊富な朝食、充電器完備で快適すごく綺麗なホテルでした朝食いただきましたが、種類も豊富で美味しくとても良かったです。お部屋に各種充電コードもあって助かりました。子供達と宿泊し…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「綺麗な館内と豊富な朝食、充電器完備で快適すごく綺麗なホテルでした朝食いただきましたが、種類も豊富で美味しくとても良かったです。お部屋に各種充電コードもあって助かりました。」
                   </blockquote>
                 </div>
               </div>
@@ -825,7 +825,7 @@ export default function FurusatoTaxPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>普通車40台（無料）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.48 ／ 立地 ★4.33 ／ 部屋 ★4.28 ／ 設備 ★4.18 ／ 風呂 ★4.6 ／ 食事 ★4.54</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「愛犬と楽しむ旅、芋煮が最高でしたワンコと泊まれるホテルで探して遥々愛知県からお邪魔しました。ワンコ大好き仲居さんの振る舞いが犬にも人にもとてもフレンドリーで良かったです。ごはんと一緒に芋煮が出てき…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「愛犬と楽しむ旅、芋煮が最高でしたワンコと泊まれるホテルで探して遥々愛知県からお邪魔しました。ワンコ大好き仲居さんの振る舞いが犬にも人にもとてもフレンドリーで良かったです。」
                   </blockquote>
                 </div>
               </div>

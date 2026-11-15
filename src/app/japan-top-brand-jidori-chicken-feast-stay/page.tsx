@@ -253,7 +253,7 @@ export default function GourmetCuisineHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 効能溢れる癒しの湯治宿　玉川温泉</td>
                 <td className="p-3 text-stone-600">秋田県仙北市田沢湖玉川渋黒沢国有林第3014林班ロ小班</td>
-                <td className="p-3 text-stone-600">田沢湖駅周辺</td>
+                <td className="p-3 text-stone-600">JR田沢湖駅前から路線バスで約70分。お車でお越しの場合盛岡IC～田沢湖経由で約100分。</td>
                 <td className="p-3 text-stone-600">宿から5分ほど離れた場所にあります。当日係がご案内致します。</td>
                 <td className="p-3 font-bold text-amber-600">★4.42（1012件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,830〜</td>
@@ -262,7 +262,7 @@ export default function GourmetCuisineHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 縄文のふる里　大湯温泉　ホテル鹿角</td>
                 <td className="p-3 text-stone-600">秋田県鹿角市十和田大湯字中谷地５－１</td>
-                <td className="p-3 text-stone-600">十和田南駅周辺</td>
+                <td className="p-3 text-stone-600">■十和田湖より車で30分■ＪＲ花輪線十和田南駅から車で１２分■東北道十和田ＩＣから国道１０３号線を十和田湖方面へ１２分</td>
                 <td className="p-3 text-stone-600">有　２００台　無料　　　　　　　　　　　　　　　　★お得な宿泊プラン満載★</td>
                 <td className="p-3 font-bold text-amber-600">★4.17（1489件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,000〜</td>
@@ -271,7 +271,7 @@ export default function GourmetCuisineHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 男鹿温泉　湯けむりリゾート　セイコーグランドホテル</td>
                 <td className="p-3 text-stone-600">秋田県男鹿市北浦湯本草木原50-1</td>
-                <td className="p-3 text-stone-600">羽立駅周辺</td>
+                <td className="p-3 text-stone-600">秋田自動車道秋田北IC下車６０ｋｍ７０分／JR羽立駅～路線バスで４５分／JR男鹿駅～無料送迎バスあり詳しくは公式HPへ</td>
                 <td className="p-3 text-stone-600">有り　２０台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.09（708件）</td>
                 <td className="p-3 font-bold text-rose-600">¥11,770〜</td>
@@ -289,7 +289,7 @@ export default function GourmetCuisineHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 犬山温泉　旬樹庵　八勝閣みづのを</td>
                 <td className="p-3 text-stone-600">愛知県岐阜県各務原市鵜沼南町6-264</td>
-                <td className="p-3 text-stone-600">犬山遊園駅周辺</td>
+                <td className="p-3 text-stone-600">名鉄犬山線犬山遊園駅より徒歩7分</td>
                 <td className="p-3 text-stone-600">有り　15台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.15（477件）</td>
                 <td className="p-3 font-bold text-rose-600">¥11,000〜</td>
@@ -298,7 +298,7 @@ export default function GourmetCuisineHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">6. 旅館　薩摩の里</td>
                 <td className="p-3 text-stone-600">鹿児島県薩摩川内市樋脇町市比野4134</td>
-                <td className="p-3 text-stone-600">川内（鹿児島）駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ川内駅より車で２０分</td>
                 <td className="p-3 text-stone-600">有り　６０台　先着順　無料　　バイクの場合は屋根付きスペースを確保します（要連絡）</td>
                 <td className="p-3 font-bold text-amber-600">★4.23（630件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,500〜</td>
@@ -327,7 +327,7 @@ export default function GourmetCuisineHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>宿から5分ほど離れた場所にあります。当日係がご案内致します。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「日本一の強酸温泉と絶品料理に大満足日本一の強酸温泉。ロケーション・泉質・食事どれをとっても掛け値なしに素晴らしいです。天然岩盤浴はロケーション含めて、本当に気持ちよく帰りたくなくなります。…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「日本一の強酸温泉と絶品料理に大満足日本一の強酸温泉。ロケーション・泉質・食事どれをとっても掛け値なしに素晴らしいです。天然岩盤浴はロケーション含めて、本当に気持ちよく帰りたくなくなります。」
                   </blockquote>
                 </div>
               </div>
@@ -349,7 +349,7 @@ export default function GourmetCuisineHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有　２００台　無料　　　　　　　　　　　　　　　　★お得な宿泊プラン満載★</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温かい料理に大満足、また泊まりたい!夜ご飯も温かいものは温かいまま食べれましたし、量もお腹いっぱいになり満足です。綺麗でまた泊まりたいと思うホテルでした。ありがとうございました。クチコミの…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温かい料理に大満足、また泊まりたい!夜ご飯も温かいものは温かいまま食べれましたし、量もお腹いっぱいになり満足です。綺麗でまた泊まりたいと思うホテルでした。ありがとうございました。」
                   </blockquote>
                 </div>
               </div>
@@ -415,7 +415,7 @@ export default function GourmetCuisineHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　15台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「豪華な食事と広々とした部屋で大満足食事は大変豪華で食べきれないほどでした。お風呂もこじんまりとしていましたが貸し切り状態だったのでゆったりと入れました。お部屋はコネクティングルームだったの…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「豪華な食事と広々とした部屋で大満足食事は大変豪華で食べきれないほどでした。お風呂もこじんまりとしていましたが貸し切り状態だったのでゆったりと入れました。」
                   </blockquote>
                 </div>
               </div>
@@ -437,7 +437,7 @@ export default function GourmetCuisineHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　６０台　先着順　無料　　バイクの場合は屋根付きスペースを確保します（要連絡）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「昭和の雰囲気とラドン湯で湯治気分を満喫昭和の雰囲気漂う山里の宿で、ゆっくり温泉に浸かり味わい深い手料理を堪能するのに格好の場所です。周辺に飲み歩く場所やコンビニはありません。ラドン湯の泉質…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「昭和の雰囲気とラドン湯で湯治気分を満喫昭和の雰囲気漂う山里の宿で、ゆっくり温泉に浸かり味わい深い手料理を堪能するのに格好の場所です。周辺に飲み歩く場所やコンビニはありません。」
                   </blockquote>
                 </div>
               </div>

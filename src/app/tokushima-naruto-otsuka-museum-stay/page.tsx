@@ -253,7 +253,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. ベイリゾートホテル　鳴門海月</td>
                 <td className="p-3 text-stone-600">徳島県鳴門市鳴門町土佐泊浦福池65-7</td>
-                <td className="p-3 text-stone-600">鳴門駅周辺</td>
+                <td className="p-3 text-stone-600">高速道路 鳴門北ICより車で６分。高速バス鳴門公園口より徒歩10分。大塚美術館バス停などからシャトルバス送迎有。要予約</td>
                 <td className="p-3 text-stone-600">有３０台　無料　予約不要。当館まではアクセスページに掲載の写真付き道順をご覧ください</td>
                 <td className="p-3 font-bold text-amber-600">★4.45（3088件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,000〜</td>
@@ -262,7 +262,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. アオアヲナルトリゾート</td>
                 <td className="p-3 text-stone-600">徳島県 鳴門市鳴門町土佐泊浦字大毛16-45</td>
-                <td className="p-3 text-stone-600">神戸淡路鳴門自動車道 鳴門北ＩＣより１分 ＪＲ鳴門駅より車で約１０分</td>
+                <td className="p-3 text-stone-600">神戸淡路鳴門自動車道 鳴門北ＩＣより１分 ＪＲ鳴門駅より車で約１０分 大塚美術館まで車で3分</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.46（4254件）</td>
                 <td className="p-3 font-bold text-rose-600">¥16,500〜</td>
@@ -271,7 +271,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. グランドメルキュール淡路島リゾート＆スパ</td>
                 <td className="p-3 text-stone-600">兵庫県南あわじ市福良丙317</td>
-                <td className="p-3 text-stone-600">鳴門駅周辺</td>
+                <td className="p-3 text-stone-600">【淡路島南】車約10分、【西淡三原】車約20分（コンビニ等経由はこちら）</td>
                 <td className="p-3 text-stone-600">有／240台（無料・先着順）優先駐車場（妊婦様含む）有電気自動車用充電器×4基（有料）</td>
                 <td className="p-3 font-bold text-amber-600">★4.15（5571件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,200〜</td>
@@ -300,7 +300,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有３０台　無料　予約不要。当館まではアクセスページに掲載の写真付き道順をご覧ください</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「手入れの行き届いた空間と充実したサービス建物自体はふるいようですが、手入れと管理が行き届いていて不便なく過ごせました。周りにあまり店や食事処がないので、立地があまりよくないのかもしれませんが、なる…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「手入れの行き届いた空間と充実したサービス建物自体はふるいようですが、手入れと管理が行き届いていて不便なく過ごせました。」
                   </blockquote>
                 </div>
               </div>
@@ -322,7 +322,7 @@ export default function MicroTouristHubPage() {
                   <p>【徳島・鳴門＆大塚国際美術館：世界三大潮流・鳴門の渦潮】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「子供も大人も大満足、海辺の遊びと食事を満喫家族で伺いました。チェックインは15時でしたが.12時にホテルにつきチェックインまで海辺や、釣りぼり、職業体験などでとても楽しむことができました。…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「子供も大人も大満足、海辺の遊びと食事を満喫家族で伺いました。チェックインは15時でしたが.12時にホテルにつきチェックインまで海辺や、釣りぼり、職業体験などでとても楽しむことができました。」
                   </blockquote>
                 </div>
               </div>

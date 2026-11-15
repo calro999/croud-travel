@@ -339,8 +339,8 @@ export default function ArticlePage() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 釧路駅よりアクセス。釧路空港より車で約６０分／女満別空港より車で約９０分。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「阿寒湖温泉 あかん鶴雅別荘鄙の座」にチェックイン。全25室 温泉露天風呂付き客室 鄙とは故郷のこと。鄙の座は皆様のこころの故郷としてお迎えいたしますなどの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「阿寒湖温泉 あかん鶴雅別荘鄙の座」の湯処へ。全25室 温泉露天風呂付き客室 鄙とは故郷のこと。鄙の座は皆様のこころとともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「阿寒湖温泉 あかん鶴雅別荘鄙の座」にチェックイン。【全25室 温泉露天風呂付き客室】鄙とは故郷のこと。 まずは客室で移動の疲れをそっと癒やす。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「阿寒湖温泉 あかん鶴雅別荘鄙の座」の湯船で寛ぎタイム。季節の空気を感じながら手足を伸ばし、心豊かな夕方のリラックス時間を満喫。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「阿寒湖温泉 あかん鶴雅別荘鄙の座」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -352,7 +352,7 @@ export default function ArticlePage() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「阿寒湖温泉 あかん鶴雅別荘鄙の座」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「阿寒湖温泉 あかん鶴雅別荘鄙の座」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「あかん遊久の里鶴雅」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は「阿寒湖温泉 あかん鶴雅別荘鄙の座」周辺の観光スポットや地元の名産店に立ち寄り、ご当地のお土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>
@@ -389,28 +389,28 @@ export default function ArticlePage() {
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
             <div className="flex flex-wrap gap-2">
               <Link
-                href="/prefectures/mie/"
+                href="/prefectures/hokkaido/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                三重県の宿・温泉
+                北海道の宿・温泉
               </Link>
               <Link
-                href="/prefectures/kagawa/"
+                href="/prefectures/aomori/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                香川県の宿・温泉
+                青森県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/ibaraki/"
+                href="/prefectures/iwate/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                茨城県の宿・温泉
+                岩手県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/chiba/"
+                href="/prefectures/miyagi/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                千葉県の宿・温泉
+                宮城県の宿・温泉
               </Link>
             </div>
           </div>
@@ -446,7 +446,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 阿寒湖温泉　あかん鶴雅別荘鄙の座</td>
                 <td className="p-3 text-stone-600">北海道釧路市阿寒町阿寒湖温泉2丁目8-1</td>
-                <td className="p-3 text-stone-600">釧路駅周辺</td>
+                <td className="p-3 text-stone-600">釧路空港より車で約６０分／女満別空港より車で約９０分。 ※アクセスの詳細は公式サイトの「アクセスページ」をご覧ください。</td>
                 <td className="p-3 text-stone-600">有り　３０台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.87（249件）</td>
                 <td className="p-3 font-bold text-rose-600">¥42,531〜</td>
@@ -455,7 +455,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. あかん遊久の里鶴雅</td>
                 <td className="p-3 text-stone-600">北海道釧路市阿寒町阿寒湖温泉4-6-10</td>
-                <td className="p-3 text-stone-600">釧路駅周辺</td>
+                <td className="p-3 text-stone-600">釧路空港より車で約６０分／女満別空港より車で約９０分。 ※アクセスの詳細は公式サイトの「アクセスページ」をご覧ください。</td>
                 <td className="p-3 text-stone-600">有り（無料）150台※駐車場は当館から離れた場所にあります（駐車場とホテル間はシャトルバス運行あり）</td>
                 <td className="p-3 font-bold text-amber-600">★4.49（1917件）</td>
                 <td className="p-3 font-bold text-rose-600">¥14,520〜</td>
@@ -464,7 +464,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. ＴＨＥ　ＦＯＲＥＳＴ阿寒　ＴＳＵＲＵＧＡＲＥＳＯＲＴ（旧：阿寒の森鶴雅リゾート花ゆう香）</td>
                 <td className="p-3 text-stone-600">北海道釧路市阿寒町阿寒湖温泉1-6-1</td>
-                <td className="p-3 text-stone-600">釧路駅周辺</td>
+                <td className="p-3 text-stone-600">釧路空港より車で約６０分／女満別空港より車で約９０分。 ※アクセスの詳細は公式サイトの「アクセスページ」をご覧ください。</td>
                 <td className="p-3 text-stone-600">※駐車場は当館から離れた場所にあります（無料）正面玄関車寄せにて係が駐車場までの行き方をご案内します</td>
                 <td className="p-3 font-bold text-amber-600">★4.14（561件）</td>
                 <td className="p-3 font-bold text-rose-600">¥12,644〜</td>
@@ -493,7 +493,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　３０台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.87 ／ 立地 ★4.78 ／ 部屋 ★4.83 ／ 設備 ★4.78 ／ 風呂 ★4.74 ／ 食事 ★4.96</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「大満足の誕生日彼の誕生日で宿泊しました。彼が、今までで一番かもと、とっても喜んでくれました。清掃が行き届いていたり、スタッフさんの心遣いだったり、その他諸々が本当に良すぎました。食事は…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「大満足の誕生日彼の誕生日で宿泊しました。彼が、今までで一番かもと、とっても喜んでくれました。清掃が行き届いていたり、スタッフさんの心遣いだったり、その他諸々が本当に良すぎました。」
                   </blockquote>
                 </div>
               </div>

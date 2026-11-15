@@ -91,7 +91,7 @@ export default function Page() {
     "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/72715/72715_wa.jpg",
     "reviewCount": 812,
     "reviewAverage": 3.96,
-    "userReview": "湖を望む絶景のお部屋で素敵なひととき湖が目の前に広がるお部屋でとても素敵な時間を過ごすことができました。今回は1泊でしたが、今度はもっとゆっくり滞在したいと思いました。クチコミの詳細はこち。",
+    "userReview": "湖を望む絶景のお部屋で素敵なひととき湖が目の前に広がるお部屋でとても素敵な時間を過ごすことができました。今回は1泊でしたが、今度はもっとゆっくり滞在したいと思いました。",
     "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F72715%2F72715.html",
     "access": "ＪＲ：三方駅よりお車で20分。車：舞鶴若狭自動車道 若狭三方ＩＣで降りて20分。",
     "label": "福井県若狭町ふるさと納税・年縞が刻む奇跡の地球史「三方五湖・水月湖」若狭きらら温泉水月花",
@@ -409,8 +409,8 @@ export default function Page() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> JR大津駅より徒歩約15分／京阪びわ湖浜大津駅より徒歩約5分／名神大津ICより約10分／無料駐車場で現地へ到着。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「琵琶湖ホテル」にチェックイン。全室レイクビュー 天然温泉・露天風呂も楽しめる湖畔のリゾートホテルなどの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「琵琶湖ホテル」の湯処へ。全室レイクビュー 天然温泉・露天風呂も楽しめる湖畔のリゾートホテルとともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「琵琶湖ホテル」にチェックイン。全室レイクビュー 天然温泉・露天風呂も楽しめる湖畔のリゾートホテルが魅力の一軒。客室で荷物をほどいて穏やかな午後のひとときを。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「琵琶湖ホテル」の自慢の湯処へ。温かな湯気と落ち着いた雰囲気に癒やされながら、夕食前の贅沢なひとときを過ごす。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「琵琶湖ホテル」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -422,7 +422,7 @@ export default function Page() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「琵琶湖ホテル」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「琵琶湖ホテル」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「上諏訪温泉 しんゆ」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は宿周辺の散策とショッピングを満喫。地元の名産品やグルメを味わってから余裕をもって帰路につく。</li>
               </ul>
             </div>
           </div>
@@ -550,7 +550,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 琵琶湖ホテル</td>
                 <td className="p-3 text-stone-600">滋賀県大津市浜町2-40</td>
-                <td className="p-3 text-stone-600">大津駅周辺</td>
+                <td className="p-3 text-stone-600">JR大津駅より徒歩約15分／京阪びわ湖浜大津駅より徒歩約5分／名神大津ICより約10分／無料駐車場</td>
                 <td className="p-3 text-stone-600">有り　155台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.53（2672件）</td>
                 <td className="p-3 font-bold text-rose-600">¥10,200〜</td>
@@ -559,7 +559,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 上諏訪温泉　しんゆ（親湯）</td>
                 <td className="p-3 text-stone-600">長野県諏訪市湖岸通り2-6-30</td>
-                <td className="p-3 text-stone-600">上諏訪駅周辺</td>
+                <td className="p-3 text-stone-600">JR上諏訪駅より徒歩10分(送迎バス有。最終17時)、中央道諏訪ICより車10分。諏訪湖目の前。</td>
                 <td className="p-3 text-stone-600">無料50台。バイク利用は屋根下確定。当館敷地内。</td>
                 <td className="p-3 font-bold text-amber-600">★4.58（2140件）</td>
                 <td className="p-3 font-bold text-rose-600">¥13,640〜</td>
@@ -568,7 +568,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 若狭みかた　きらら温泉　水月花</td>
                 <td className="p-3 text-stone-600">福井県三方上中郡若狭町海山51-13</td>
-                <td className="p-3 text-stone-600">ＪＲ：三方駅よりお車で20分。車：舞鶴若狭自動車道 若狭三方ＩＣで降り</td>
+                <td className="p-3 text-stone-600">ＪＲ：三方駅よりお車で20分。車：舞鶴若狭自動車道 若狭三方ＩＣで降りて20分。</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★3.96（812件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,800〜</td>
@@ -597,7 +597,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　155台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「「琵琶湖を一望できる素敵なホテル」「家族旅行で利用しました。ホテルから見える琵琶湖の景色がとてもきれいで、ゆっくり過ごすことができました。お部屋も清潔感があり、スタッフの方々の対応も丁寧で気持ちよ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「「琵琶湖を一望できる素敵なホテル」「家族旅行で利用しました。ホテルから見える琵琶湖の景色がとてもきれいで、ゆっくり過ごすことができました。」
                   </blockquote>
                 </div>
               </div>
@@ -619,7 +619,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料50台。バイク利用は屋根下確定。当館敷地内。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「早期予約でお得に、4社巡りツアーも大満足早期予約で割安で予約が取れました。老舗旅館らしい良さが接客や料理など随所に感じられました。地場野菜を多く使った食事は美味しく頂けました。特に気に入ったのは、…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「早期予約でお得に、4社巡りツアーも大満足早期予約で割安で予約が取れました。老舗旅館らしい良さが接客や料理など随所に感じられました。地場野菜を多く使った食事は美味しく頂けました。」
                   </blockquote>
                 </div>
               </div>
@@ -641,7 +641,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「湖を望む絶景のお部屋で素敵なひととき湖が目の前に広がるお部屋でとても素敵な時間を過ごすことができました。今回は1泊でしたが、今度はもっとゆっくり滞在したいと思いました。クチコミの詳細はこち…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「湖を望む絶景のお部屋で素敵なひととき湖が目の前に広がるお部屋でとても素敵な時間を過ごすことができました。今回は1泊でしたが、今度はもっとゆっくり滞在したいと思いました。」
                   </blockquote>
                 </div>
               </div>

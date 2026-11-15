@@ -60,7 +60,7 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/15060/15060map.gif",
     "reviewCount": 556,
     "reviewAverage": 4.46,
-    "userReview": "オオサンショウウオと日本酒を楽しめる宿オオサンショウウオの生息地が近くにあり、オオサンショウウオをモチーフにしたものがたくさんありました。もともと酒造だったそうで、日本酒の試飲や品揃えが良かっ。",
+    "userReview": "オオサンショウウオと日本酒を楽しめる宿オオサンショウウオの生息地が近くにあり、オオサンショウウオをモチーフにしたものがたくさんありました。もともと酒造だったそうで、日本酒の試飲や品揃えが良かったです。",
     "hotelMinCharge": 8800,
     "address1": "岡山県",
     "address2": "真庭市湯原温泉144",
@@ -558,8 +558,8 @@ export default function FeatureDetailPage() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 中国勝山駅よりアクセス。米子自動車道 湯原ＩＣ下車。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「湯原温泉 湯めぐりの宿 松の家花泉」にチェックイン。10の湯めぐりが楽しめる湯めぐりの宿。料理長が厳選した食材で造る創作懐石も魅力。などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「湯原温泉 湯めぐりの宿 松の家花泉」の湯処へ。10の湯めぐりが楽しめる湯めぐりの宿。料理長が厳選した食材で造る創作懐とともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「湯原温泉 湯めぐりの宿 松の家花泉」にチェックイン。10の湯めぐりが楽しめる湯めぐりの宿。料理長が厳選した食材で造る創作懐石も魅力。 荷物を解き、落ち着いた室内でまず一息つく。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「湯原温泉 湯めぐりの宿 松の家花泉」の自慢の湯処へ。温かな湯気と落ち着いた雰囲気に癒やされながら、夕食前の贅沢なひとときを過ごす。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「湯原温泉 湯めぐりの宿 松の家花泉」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -621,26 +621,32 @@ export default function FeatureDetailPage() {
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">あわせて読みたい人気特集＆全国エリアガイド</h2>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
-            <a href="/aomori-hirosaki-castle-cherry-apple-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/mie-toba-shima-kashikojima-pearl-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【青森・弘前】弘前城桜・津軽りんご＆三味線宿 完全ガイド ｜ 日本全国・旅宿クラウド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「三重・鳥羽＆志摩・賢島」英虞湾リアス式夕日・ミキモト真珠島＆伊勢海老海女小屋宿 厳選ガイド</span>
             </a>
-            <a href="/autumn-budget-aomori-hachinohe-tanesashi-senbeijiru-hotels-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/okayama-kurashiki-solo-retreat-culture-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">八戸：種差海岸の秋風散策と八戸せんべい汁！2,000円台〜泊まれる格安ホテル5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「岡山・倉敷ひとり旅＆出張」岡山駅直結・倉敷美観地区・大浴場！白壁の街と日本庭園に癒やされる大人のおこもり宿 厳選3選</span>
             </a>
-            <a href="/furusato-tax-hirosaki-castle-autumn-leaves-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/spring-okayama-muscat-sweets-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">弘前城の天守と水鏡紅葉＆弘前城菊と紅葉まつり！津軽名湯ホテル×ふるさと納税厳選ガイド青森</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「フルーツ王国岡山」シャインマスカット贅沢パフェ＆美作三湯！湯原・奥津・湯郷の美食温泉宿5選</span>
             </a>
-            <a href="/traditional-aomori-nebuta-craft-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/winter-okayama-kibiji-soja-saijo-inari-hatsumode-chiyagyu-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">2026年：勇壮なねぶたの熱気に包まれる！ねぶたアート空間＆青森ヒバ名湯と海鮮極上宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">岡山・吉備路・総社＆最上稲荷 最上稲荷の新春初詣＆国宝吉備津神社の400m廻廊！ 備中国分寺五重塔と幻の千屋牛を味わう厳選名宿5選</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
             <div className="flex flex-wrap gap-2">
+              <Link
+                href="/prefectures/okayama/"
+                className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
+              >
+                岡山県の宿・温泉
+              </Link>
               <Link
                 href="/prefectures/hiroshima/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
@@ -648,22 +654,16 @@ export default function FeatureDetailPage() {
                 広島県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/kyoto/"
+                href="/prefectures/shimane/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                京都府の宿・温泉
+                島根県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/aomori/"
+                href="/prefectures/tottori/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                青森県の宿・温泉
-              </Link>
-              <Link
-                href="/prefectures/hyogo/"
-                className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
-              >
-                兵庫県の宿・温泉
+                鳥取県の宿・温泉
               </Link>
             </div>
           </div>
@@ -699,7 +699,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 湯原温泉　湯めぐりの宿　松の家花泉</td>
                 <td className="p-3 text-stone-600">岡山県真庭市湯原温泉320-1</td>
-                <td className="p-3 text-stone-600">中国勝山駅周辺</td>
+                <td className="p-3 text-stone-600">米子自動車道 湯原ＩＣ下車</td>
                 <td className="p-3 text-stone-600">有り（無料）３０台まで　河川敷のため無舗装路。駐車が不安な方はスタッフにお申し出くださいませ。</td>
                 <td className="p-3 font-bold text-amber-600">★3.96（771件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,000〜</td>
@@ -708,7 +708,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 湯原温泉　湯の蔵　つるや</td>
                 <td className="p-3 text-stone-600">岡山県真庭市湯原温泉144</td>
-                <td className="p-3 text-stone-600">中国勝山駅周辺</td>
+                <td className="p-3 text-stone-600">米子道「湯原IC」より湯原温泉方面へ5分。中国銀行手前右折50ｍ。お車は向かいの市営駐車場へ無料完備</td>
                 <td className="p-3 text-stone-600">有り 約７０台 市営駐車場を無料で完備</td>
                 <td className="p-3 font-bold text-amber-600">★4.49（563件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,800〜</td>
@@ -717,7 +717,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 湯原温泉　元禄旅籠　油屋</td>
                 <td className="p-3 text-stone-600">岡山県真庭市湯原温泉29</td>
-                <td className="p-3 text-stone-600">中国勝山駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ 姫新線 中国勝山駅よりバスで４９分湯原温泉バス停下車 バス停までの送迎あります。</td>
                 <td className="p-3 text-stone-600">有り　無料にてご利用いただけます。ご到着されましたらご案内させていただきます。</td>
                 <td className="p-3 font-bold text-amber-600">★4.47（122件）</td>
                 <td className="p-3 font-bold text-rose-600">¥12,810〜</td>
@@ -726,7 +726,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 湯原温泉　旅館　かじか荘</td>
                 <td className="p-3 text-stone-600">岡山県真庭市湯原温泉13-6</td>
-                <td className="p-3 text-stone-600">中国勝山駅周辺</td>
+                <td className="p-3 text-stone-600">中国勝山駅よりバスで４５分</td>
                 <td className="p-3 text-stone-600">有り　５台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.64（249件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,260〜</td>
@@ -764,7 +764,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り（無料）３０台まで　河川敷のため無舗装路。駐車が不安な方はスタッフにお申し出くださいませ。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.98 ／ 立地 ★3.71 ／ 部屋 ★3.89 ／ 設備 ★3.7 ／ 風呂 ★4.3 ／ 食事 ★4.19</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「感動の泉質とオオサンショウウオ探しに夢中地元にもいいお湯がありますが、こんなにいいお湯があるのかと感動でした。湯上がりがローションを使ったかのようにしっとりして、朝風呂も最高に気持ちよかったです!…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「感動の泉質とオオサンショウウオ探しに夢中地元にもいいお湯がありますが、こんなにいいお湯があるのかと感動でした。湯上がりがローションを使ったかのようにしっとりして、朝風呂も最高に気持ちよかったです!」
                   </blockquote>
                 </div>
               </div>
@@ -786,7 +786,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り 約７０台 市営駐車場を無料で完備</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.61 ／ 立地 ★4.14 ／ 部屋 ★4.29 ／ 設備 ★4.22 ／ 風呂 ★4.57 ／ 食事 ★4.54</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「露天風呂と美味しい食事、ふかふかの布団に大満足今回初めてつるやさんに宿泊しました檜の露天風呂付きだったので、いつでも入れるし、なんといっても広いので足が伸ばせる!めっちゃ気持ちよかったです!あとご…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「露天風呂と美味しい食事、ふかふかの布団に大満足今回初めてつるやさんに宿泊しました檜の露天風呂付きだったので、いつでも入れるし、なんといっても広いので足が伸ばせる!めっちゃ気持ちよかったです!」
                   </blockquote>
                 </div>
               </div>
@@ -808,7 +808,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　無料にてご利用いただけます。ご到着されましたらご案内させていただきます。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.72 ／ 立地 ★4.18 ／ 部屋 ★4.17 ／ 設備 ★4.17 ／ 風呂 ★4.89</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「大浴場と露天風呂、美味しい食事に大満足夫婦で宿泊しました。大浴場は思ったより大きく、屋上露天風呂もとても気持ちよく入りました。また部屋のお風呂も景色がよく、ゆっくり入浴することができました。夕食は…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「大浴場と露天風呂、美味しい食事に大満足夫婦で宿泊しました。大浴場は思ったより大きく、屋上露天風呂もとても気持ちよく入りました。また部屋のお風呂も景色がよく、ゆっくり入浴することができました。」
                   </blockquote>
                 </div>
               </div>

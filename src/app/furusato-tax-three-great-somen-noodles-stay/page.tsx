@@ -422,8 +422,8 @@ export default function Page() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 大和八木駅よりアクセス。★大和八木駅より徒歩４分★八木西口駅より徒歩３分★ＪＲ畝傍駅より徒歩４分★南阪奈道路葛城ICより約１５分★。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「大和橿原シティホテル」にチェックイン。橿原市の中央街で、ビジネス・観光のベースとして好適です。近鉄大和八木駅より徒歩４分。などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「大和橿原シティホテル」の湯処へ。橿原市の中央街で、ビジネス・観光のベースとして好適です。近鉄大和八木駅とともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「大和橿原シティホテル」にチェックイン。橿原市の中央街で、ビジネス・観光のベースとして好適です。近鉄大和八木駅より徒歩４分。 窓外に広がる景色を眺めながらチェックイン後の寛ぎ時間を。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「大和橿原シティホテル」の湯船で寛ぎタイム。季節の空気を感じながら手足を伸ばし、心豊かな夕方のリラックス時間を満喫。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「大和橿原シティホテル」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -435,7 +435,7 @@ export default function Page() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「大和橿原シティホテル」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「大和橿原シティホテル」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「ＨＯＴＥＬ万葉岬」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は宿周辺の散策とショッピングを満喫。地元の名産品やグルメを味わってから余裕をもって帰路につく。</li>
               </ul>
             </div>
           </div>
@@ -563,7 +563,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 大和橿原シティホテル</td>
                 <td className="p-3 text-stone-600">奈良県橿原市八木町1-8-16</td>
-                <td className="p-3 text-stone-600">大和八木駅周辺</td>
+                <td className="p-3 text-stone-600">★大和八木駅より徒歩４分★八木西口駅より徒歩３分★ＪＲ畝傍駅より徒歩４分★南阪奈道路葛城ICより約１５分★</td>
                 <td className="p-3 text-stone-600">１６台　無料　先着順　R２４『南八木』交差点東側　当館より徒歩２～３分　詳細はフロントにてご案内。</td>
                 <td className="p-3 font-bold text-amber-600">★3（716件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,500〜</td>
@@ -572,7 +572,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. ＨＯＴＥＬ万葉岬</td>
                 <td className="p-3 text-stone-600">兵庫県相生市相生金ケ崎5321</td>
-                <td className="p-3 text-stone-600">相生（兵庫）駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ 相生駅より送迎有り（予約制）</td>
                 <td className="p-3 text-stone-600">有り　４０台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.37（528件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,550〜</td>
@@ -581,7 +581,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. アクアホテル小豆島リゾート＜小豆島＞</td>
                 <td className="p-3 text-stone-600">香川県小豆郡小豆島町吉田乙276-2</td>
-                <td className="p-3 text-stone-600">高松空港駅周辺</td>
+                <td className="p-3 text-stone-600">小豆島福田港よりお車で約８分、小豆島土庄港よりお車で約４０分</td>
                 <td className="p-3 text-stone-600">有り　１６台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.62（34件）</td>
                 <td className="p-3 font-bold text-rose-600">¥10,659〜</td>
@@ -610,7 +610,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>１６台　無料　先着順　R２４『南八木』交差点東側　当館より徒歩２～３分　詳細はフロントにてご案内。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「素泊まりには便利だが清掃と備品に難あり素泊まりには十分。駅周辺でもあり、飲食店は多いので困らない。無料駐車場は限られてて、若干狭い、少し歩く必要あり。有料も周辺にあるので困る事はない。部屋…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「素泊まりには便利だが清掃と備品に難あり素泊まりには十分。駅周辺でもあり、飲食店は多いので困らない。無料駐車場は限られてて、若干狭い、少し歩く必要あり。有料も周辺にあるので困る事はない。」
                   </blockquote>
                 </div>
               </div>

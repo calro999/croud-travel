@@ -85,7 +85,7 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/180797/180797map.gif",
     "reviewCount": 86,
     "reviewAverage": 4.56,
-    "userReview": "初のグランピング、設備も食事も大満足!初のグランピングで利用させていただきました。結果、とても良かったです!部屋もとても綺麗で広く、冷房もあり、快適に過ごせました!冷蔵庫もついていたので良かっ。",
+    "userReview": "初のグランピング、設備も食事も大満足!初のグランピングで利用させていただきました。結果、とても良かったです!部屋もとても綺麗で広く、冷房もあり、快適に過ごせました!冷蔵庫もついていたので良かったです。",
     "hotelMinCharge": 17725,
     "address1": "大分県",
     "address2": "由布市湯布院町川上1996-1",
@@ -565,8 +565,8 @@ export default function FeatureDetailPage() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 日当山駅よりアクセス。鹿児島空港より車で約15分 19時までなら鹿児島空港・国分駅まで無料送迎（要予約）。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「全室源泉かけ流し温泉付き旅館＆グランピング 美肌の湯 こしかの温泉」にチェックイン。温泉宿・グランピング全室で源泉掛け流しの天然炭酸泉が満喫できます。ペットOKの客室もございます。などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「全室源泉かけ流し温泉付き旅館＆グランピング 美肌の湯 こしかの温泉」の湯処へ。温泉宿・グランピング全室で源泉掛け流しの天然炭酸泉が満喫できます。とともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「全室源泉かけ流し温泉付き旅館＆グランピング 美肌の湯 こしかの温泉」にチェックイン。温泉宿・グランピング全室で源泉掛け流しの天然炭酸泉が満喫できます。ペットOKの客室もございます。 館内の設えを確かめながら、これからの滞在に備えてゆっくり休息する。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「全室源泉かけ流し温泉付き旅館＆グランピング 美肌の湯 こしかの温泉」の大浴場・露天風呂へ。日暮れの静けさの中で湯に浸かり、旅の緊張をゆっくりと解きほぐす。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「全室源泉かけ流し温泉付き旅館＆グランピング 美肌の湯 こしかの温泉」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -578,7 +578,7 @@ export default function FeatureDetailPage() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「全室源泉かけ流し温泉付き旅館＆グランピング 美肌の湯 こしかの温泉」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「全室源泉かけ流し温泉付き旅館＆グランピング 美肌の湯 こしかの温泉」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「由布院温泉グランピング 風の響き」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は「全室源泉かけ流し温泉付き旅館＆グランピング 美肌の湯 こしかの温泉」周辺の観光スポットや地元の名産店に立ち寄り、ご当地のお土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>
@@ -706,7 +706,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 全室源泉かけ流し温泉付き旅館＆グランピング　美肌の湯　こしかの温泉</td>
                 <td className="p-3 text-stone-600">鹿児島県霧島市隼人町松永2625</td>
-                <td className="p-3 text-stone-600">日当山駅周辺</td>
+                <td className="p-3 text-stone-600">鹿児島空港より車で約15分【19時までなら鹿児島空港・国分駅まで無料送迎（要予約）】</td>
                 <td className="p-3 text-stone-600">有り（無料）</td>
                 <td className="p-3 font-bold text-amber-600">★4.58（525件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,620〜</td>
@@ -724,7 +724,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. Ｔｈｅ　Ｖｉｌｌａｇｅ由布院　温泉グランピング</td>
                 <td className="p-3 text-stone-600">大分県由布市湯布院町川上1996-1</td>
-                <td className="p-3 text-stone-600">JR由布院駅から車で6分。湯布院インターチェンジから車で12分。金鱗湖</td>
+                <td className="p-3 text-stone-600">JR由布院駅から車で6分。湯布院インターチェンジから車で12分。金鱗湖まで車で8分。</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.56（86件）</td>
                 <td className="p-3 font-bold text-rose-600">¥17,725〜</td>
@@ -733,7 +733,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. ＳＰＲＩＮＧＳ　ＶＩＬＬＡＧＥ　足柄・丹沢　温泉リゾート＆グランピング</td>
                 <td className="p-3 text-stone-600">神奈川県足柄上郡山北町中川448-2</td>
-                <td className="p-3 text-stone-600">新松田駅またはＪＲ谷峨駅から富士急湘南バス丹沢ホテル時之栖入口駅下車徒</td>
+                <td className="p-3 text-stone-600">新松田駅またはＪＲ谷峨駅から富士急湘南バス丹沢ホテル時之栖入口駅下車徒歩3分 車の場合大井松田ＩＣより車で30分</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★3.39（236件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,100〜</td>
@@ -742,7 +742,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 那須温泉グランピング　Ｎｅｎｎ（ネン）</td>
                 <td className="p-3 text-stone-600">栃木県那須郡那須町高久甲5461-1</td>
-                <td className="p-3 text-stone-600">那須塩原駅周辺</td>
+                <td className="p-3 text-stone-600">JR那須塩原駅より車で30分</td>
                 <td className="p-3 text-stone-600">有り　20台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.3（219件）</td>
                 <td className="p-3 font-bold text-rose-600">¥10,200〜</td>
@@ -815,7 +815,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「初のグランピング、設備も食事も大満足!初のグランピングで利用させていただきました。結果、とても良かったです!部屋もとても綺麗で広く、冷房もあり、快適に過ごせました!冷蔵庫もついていたので良かっ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「初のグランピング、設備も食事も大満足!初のグランピングで利用させていただきました。結果、とても良かったです!部屋もとても綺麗で広く、冷房もあり、快適に過ごせました!」
                   </blockquote>
                 </div>
               </div>
@@ -859,7 +859,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　20台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「アクアパッツァが絶品、温泉も最高でしたアクアパッツァがとても美味しかったです。椎茸との相性がバツグンでした。お肉を食べるのにタレがあるとなお良いかと思いました。温泉もとても良かったです。…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「アクアパッツァが絶品、温泉も最高でしたアクアパッツァがとても美味しかったです。椎茸との相性がバツグンでした。お肉を食べるのにタレがあるとなお良いかと思いました。温泉もとても良かったです。」
                   </blockquote>
                 </div>
               </div>

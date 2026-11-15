@@ -253,7 +253,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 道後温泉　道後グランドホテル</td>
                 <td className="p-3 text-stone-600">愛媛県松山市道後湯之町16-21</td>
-                <td className="p-3 text-stone-600">松山空港駅周辺</td>
+                <td className="p-3 text-stone-600">伊予鉄道後温泉駅より徒歩5分・ 松山インターより車にて２５分・ 松山空港より車にて30分</td>
                 <td className="p-3 text-stone-600">1台1,000円／1日当たり・税込（トラック・キャンピングカー不可）全50台（バレーサービス式）</td>
                 <td className="p-3 font-bold text-amber-600">★4.21（3015件）</td>
                 <td className="p-3 font-bold text-rose-600">¥10,450〜</td>
@@ -262,7 +262,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 道後温泉　旅亭　うめ乃や</td>
                 <td className="p-3 text-stone-600">愛媛県松山市上市2-8-9</td>
-                <td className="p-3 text-stone-600">道後温泉駅周辺</td>
+                <td className="p-3 text-stone-600">伊予鉄松山市駅・JR松山駅から伊予鉄で道後温泉駅へ。道後温泉駅・道後温泉本館から徒歩5分。</td>
                 <td className="p-3 text-stone-600">有り　８台　無料　予約必要</td>
                 <td className="p-3 font-bold text-amber-600">★4.65（137件）</td>
                 <td className="p-3 font-bold text-rose-600">¥25,000〜</td>
@@ -271,7 +271,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 道後温泉　ふなや</td>
                 <td className="p-3 text-stone-600">愛媛県松山市道後湯之町1-33</td>
-                <td className="p-3 text-stone-600">松山市駅周辺</td>
+                <td className="p-3 text-stone-600">道後温泉駅から徒歩3分 松山ＩＣより車で25分 ＪＲ松山駅前から市内電車で30分 空港からリムジンバスで35分</td>
                 <td className="p-3 text-stone-600">有料・予約不要（乗用車＠880円/1日）★二輪車（＠440円/1日）屋根付きガレージも完備。</td>
                 <td className="p-3 font-bold text-amber-600">★4.73（2054件）</td>
                 <td className="p-3 font-bold text-rose-600">¥25,300〜</td>
@@ -280,7 +280,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 道後温泉　道後舘</td>
                 <td className="p-3 text-stone-600">愛媛県松山市道後多幸町7-26</td>
-                <td className="p-3 text-stone-600">松山（愛媛）駅周辺</td>
+                <td className="p-3 text-stone-600">◆道後温泉本館まで徒歩５分◆飛鳥乃湯泉は坂道降りてすぐ徒歩３分◆道後温泉駅徒歩７分◆</td>
                 <td className="p-3 text-stone-600">有り　６０台　有料（１台880円）となります。</td>
                 <td className="p-3 font-bold text-amber-600">★4.66（2091件）</td>
                 <td className="p-3 font-bold text-rose-600">¥17,050〜</td>
@@ -289,7 +289,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 道後プリンスホテル～旬華趣湯　あったらいいな、が湧く湯宿～</td>
                 <td className="p-3 text-stone-600">愛媛県松山市道後姫塚100</td>
-                <td className="p-3 text-stone-600">松山（愛媛）駅周辺</td>
+                <td className="p-3 text-stone-600">【車】松山道松山ICより30分。【リムジンバス】松山空港より40分。松山観光港より45分。道後温泉駅到着後、電話で送迎有</td>
                 <td className="p-3 text-stone-600">【ハイルーフも安心】平面大駐車場♪(1泊につき770円/台) 当館正面玄関前にお車をお付け下さい</td>
                 <td className="p-3 font-bold text-amber-600">★4.47（2240件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,700〜</td>
@@ -298,7 +298,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">6. 奥道後　壱湯の守（いちゆのもり）</td>
                 <td className="p-3 text-stone-600">愛媛県松山市末町267</td>
-                <td className="p-3 text-stone-600">松山（愛媛）駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ松山駅よりお車もしくは伊予鉄バス(奥道後行)で３０分／松山ＩＣから国道３１７号線を通って今治方面に４０分</td>
                 <td className="p-3 text-stone-600">無料駐車場300台完備(先着順)</td>
                 <td className="p-3 font-bold text-amber-600">★4.4（2723件）</td>
                 <td className="p-3 font-bold text-rose-600">¥11,700〜</td>
@@ -327,7 +327,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>1台1,000円／1日当たり・税込（トラック・キャンピングカー不可）全50台（バレーサービス式）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.37 ／ 立地 ★4.11 ／ 部屋 ★4.09 ／ 設備 ★3.97 ／ 風呂 ★4.18 ／ 食事 ★4.35</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「チェックインの時間よりも2時間近く前に車で到着してしまったのですが、停めさせて頂くことが出来、お陰様で道後温泉周辺をゆっくり観光出来ました。夕食のお刺身の種類も多く、とにかくボリュームが凄かったです。…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「チェックインの時間よりも2時間近く前に車で到着してしまったのですが、停めさせて頂くことが出来、お陰様で道後温泉周辺をゆっくり観光出来ました。夕食のお刺身の種類も多く、とにかくボリュームが凄かったです。」
                   </blockquote>
                 </div>
               </div>
@@ -349,7 +349,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　８台　無料　予約必要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.82 ／ 立地 ★4.76 ／ 部屋 ★4.47 ／ 設備 ★4.35 ／ 風呂 ★4.65 ／ 食事 ★4.88</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「趣ある建物と丁寧な対応、美味しい料理に満足趣きのある建物で、部屋の雰囲気も良かったです。従業員の方々も、どなたも明るく感じの良い対応でした。料理も出汁に拘っておられ、とても美味しく頂きまし…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「趣ある建物と丁寧な対応、美味しい料理に満足趣きのある建物で、部屋の雰囲気も良かったです。従業員の方々も、どなたも明るく感じの良い対応でした。」
                   </blockquote>
                 </div>
               </div>
@@ -415,7 +415,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>【ハイルーフも安心】平面大駐車場♪(1泊につき770円/台) 当館正面玄関前にお車をお付け下さい</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「リピーターです2回目の利用。お風呂は大浴場が広くてお湯も温度が私にはちょうど良く(40度ぐらい)気持ちいいです。シャンプーの種類が豊富で悩ましい。朝食は美味しくつい食べ過ぎてしまいます。だし巻…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「リピーターです2回目の利用。お風呂は大浴場が広くてお湯も温度が私にはちょうど良く(40度ぐらい)気持ちいいです。シャンプーの種類が豊富で悩ましい。朝食は美味しくつい食べ過ぎてしまいます。」
                   </blockquote>
                 </div>
               </div>
@@ -437,7 +437,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料駐車場300台完備(先着順)</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.5 ／ 立地 ★4.36 ／ 部屋 ★4.25 ／ 設備 ★4.12 ／ 風呂 ★4.53 ／ 食事 ★4.47</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「お湯とバイキングは最高、階段移動は大変お部屋タイプおまかせのプランでしたが、腰痛に配慮して洋室にしてもらえ、当日は色浴衣の無料デーだったのもとてもうれしいポイントでした。到着時に駐車場に誰もお…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「お湯とバイキングは最高、階段移動は大変お部屋タイプおまかせのプランでしたが、腰痛に配慮して洋室にしてもらえ、当日は色浴衣の無料デーだったのもとてもうれしいポイントでした。」
                   </blockquote>
                 </div>
               </div>

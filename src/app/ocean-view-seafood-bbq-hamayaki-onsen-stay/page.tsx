@@ -76,7 +76,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F73924%2F73924.html%26f_flg%3DPLAN",
     "hotelMinCharge": 8800,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/73924/73924.jpg",
-    "userReview": "料理と温泉を満喫、砂浜での花火も最高の思い出料理も美味しく、温泉もたくさんあって良かった色んな旅館が協力して、砂浜で家族で花火も出来たのも思い出になった。",
+    "userReview": "料理と温泉を満喫、砂浜での花火も最高の思い出料理も美味しく、温泉もたくさんあって良かった色んな旅館が協力して、砂浜で家族で花火も出来たのも思い出になったhttp。",
     "reviewAverage": 4.44,
     "reviewCount": 564,
     "address": "静岡県熱海市下多賀1484-19",
@@ -283,8 +283,8 @@ export default function Page() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 伊豆多賀駅よりアクセス。■ＪＲ伊東線 伊豆多賀駅より＜徒歩5分＞急坂あり ■熱海駅～バス２５分 バス停「長浜」目の前。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「熱海温泉 海辺の宿 長濱苑」にチェックイン。潮風に吹かれる温泉宿で伊豆の新鮮な海の幸を堪能！天然温泉の貸切風呂で優雅なひと時をお過ごしください。などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「熱海温泉 海辺の宿 長濱苑」の湯処へ。潮風に吹かれる温泉宿で伊豆の新鮮な海の幸を堪能！天然温泉の貸切風呂で優とともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「熱海温泉 海辺の宿 長濱苑」にチェックイン。潮風に吹かれる温泉宿で伊豆の新鮮な海の幸を堪能！天然温泉の貸切風呂で優雅なひと時をお過ごしください。 窓外に広がる景色を眺めながらチェックイン後の寛ぎ時間を。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「熱海温泉 海辺の宿 長濱苑」の大浴場・露天風呂へ。日暮れの静けさの中で湯に浸かり、旅の緊張をゆっくりと解きほぐす。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「熱海温泉 海辺の宿 長濱苑」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -296,7 +296,7 @@ export default function Page() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「熱海温泉 海辺の宿 長濱苑」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「熱海温泉 海辺の宿 長濱苑」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「湯野浜温泉 竹屋ホテル」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は宿周辺の散策とショッピングを満喫。地元の名産品やグルメを味わってから余裕をもって帰路につく。</li>
               </ul>
             </div>
           </div>
@@ -424,7 +424,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 熱海温泉　海辺の宿　長濱苑</td>
                 <td className="p-3 text-stone-600">静岡県熱海市下多賀1484-19</td>
-                <td className="p-3 text-stone-600">■ＪＲ伊東線　伊豆多賀駅より＜徒歩5分＞急坂あり　■熱海駅～バス２５分</td>
+                <td className="p-3 text-stone-600">■ＪＲ伊東線 伊豆多賀駅より＜徒歩5分＞急坂あり ■熱海駅～バス２５分 バス停「長浜」目の前</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.44（564件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,800〜</td>
@@ -433,7 +433,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 湯野浜温泉　竹屋ホテル（鶴岡・酒田）</td>
                 <td className="p-3 text-stone-600">山形県鶴岡市湯野浜温泉1-9-25</td>
-                <td className="p-3 text-stone-600">鶴岡駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ 鶴岡駅から湯の浜温泉まで車で２０分、バスで３５分</td>
                 <td className="p-3 text-stone-600">有り　７０台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★3.8（469件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,800〜</td>
@@ -442,7 +442,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 越後湯沢温泉　湯沢グランドホテル＜新潟県＞</td>
                 <td className="p-3 text-stone-600">新潟県南魚沼郡湯沢町大字湯沢2494</td>
-                <td className="p-3 text-stone-600">越後湯沢駅周辺</td>
+                <td className="p-3 text-stone-600">駅から徒歩3分＆湯沢ＩＣから5分！入口はセブンイレブンが目印！※ホテル前の坂道は急なので遠慮なく送迎をご依頼ください。</td>
                 <td className="p-3 text-stone-600">有り　約８０台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.55（2402件）</td>
                 <td className="p-3 font-bold text-rose-600">¥9,375〜</td>
@@ -451,7 +451,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 内海温泉　いち豆</td>
                 <td className="p-3 text-stone-600">愛知県知多郡南知多町内海新田48</td>
-                <td className="p-3 text-stone-600">内海（愛知）駅周辺</td>
+                <td className="p-3 text-stone-600">■□名鉄内海駅より徒歩約１５分内海海水浴場の目の前■□選べる色浴衣や内海温泉の貸切露天風呂が無料■□</td>
                 <td className="p-3 text-stone-600">４０台あり■□赤ちゃん歓迎、記念日、宴会など多彩なプラン■□コンビニ・スーパー徒歩５分</td>
                 <td className="p-3 font-bold text-amber-600">★3.92（471件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,600〜</td>
@@ -489,7 +489,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「料理と温泉を満喫、砂浜での花火も最高の思い出料理も美味しく、温泉もたくさんあって良かった色んな旅館が協力して、砂浜で家族で花火も出来たのも思い出になった」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「料理と温泉を満喫、砂浜での花火も最高の思い出料理も美味しく、温泉もたくさんあって良かった色んな旅館が協力して、砂浜で家族で花火も出来たのも思い出になったhttp。」
                   </blockquote>
                 </div>
               </div>
@@ -533,7 +533,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　約８０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフ全員の接客が素晴らしく大満足初めて利用させていただきました。宿泊先を検討している段階で他にも候補があり、悩みながらも、少し予算オーバーでしたが、口コミも良かったので、こちらに決めましたが、…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフ全員の接客が素晴らしく大満足初めて利用させていただきました。」
                   </blockquote>
                 </div>
               </div>
@@ -555,7 +555,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>４０台あり■□赤ちゃん歓迎、記念日、宴会など多彩なプラン■□コンビニ・スーパー徒歩５分</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの気遣いと食事が良く、子連れに最適小学生の子どもと一緒に海水浴でお世話になりました。宿は築年数なりに古さはあるものの、スタッフさんのお気遣いなどもあり快適に過ごす事ができました。ご飯も…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの気遣いと食事が良く、子連れに最適小学生の子どもと一緒に海水浴でお世話になりました。宿は築年数なりに古さはあるものの、スタッフさんのお気遣いなどもあり快適に過ごす事ができました。」
                   </blockquote>
                 </div>
               </div>
@@ -577,7 +577,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「清掃が行き届いておらずほこりだらけ設備は古く階段のアップダウンがあるので足の悪い方にはおすすめできません。その辺りは事前に調べればわかるので問題なかったのですが、清掃が全く行き届いておらず、共有の…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「清掃が行き届いておらずほこりだらけ設備は古く階段のアップダウンがあるので足の悪い方にはおすすめできません。」
                   </blockquote>
                 </div>
               </div>

@@ -337,8 +337,8 @@ export default function ArticlePage() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 鳴子温泉駅よりアクセス。JR鳴子温泉駅より徒歩にて５分。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「鳴子温泉 名湯の宿 鳴子ホテル」にチェックイン。様々な色に変化するとろとろ美肌の湯は自然が奏でる温泉美。創業明治６年の湯治文化を伝承する温泉宿。などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「鳴子温泉 名湯の宿 鳴子ホテル」の湯処へ。様々な色に変化するとろとろ美肌の湯は自然が奏でる温泉美。創業明治６年のとともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「鳴子温泉 名湯の宿 鳴子ホテル」にチェックイン。様々な色に変化するとろとろ美肌の湯は自然が奏でる温泉美。創業明治６年の湯治文化を伝承する温泉宿。 館内の設えを確かめながら、これからの滞在に備えてゆっくり休息する。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「鳴子温泉 名湯の宿 鳴子ホテル」の自慢の湯処へ。温かな湯気と落ち着いた雰囲気に癒やされながら、夕食前の贅沢なひとときを過ごす。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「鳴子温泉 名湯の宿 鳴子ホテル」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -350,7 +350,7 @@ export default function ArticlePage() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「鳴子温泉 名湯の宿 鳴子ホテル」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「鳴子温泉 名湯の宿 鳴子ホテル」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「鳴子温泉 源蔵の湯 鳴子観光ホテル」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は「鳴子温泉 名湯の宿 鳴子ホテル」周辺の観光スポットや地元の名産店に立ち寄り、ご当地のお土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>
@@ -387,28 +387,28 @@ export default function ArticlePage() {
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
             <div className="flex flex-wrap gap-2">
               <Link
-                href="/prefectures/yamanashi/"
+                href="/prefectures/miyagi/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                山梨県の宿・温泉
+                宮城県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/okayama/"
+                href="/prefectures/hokkaido/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                岡山県の宿・温泉
+                北海道の宿・温泉
               </Link>
               <Link
-                href="/prefectures/nagano/"
+                href="/prefectures/aomori/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                長野県の宿・温泉
+                青森県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/gifu/"
+                href="/prefectures/iwate/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                岐阜県の宿・温泉
+                岩手県の宿・温泉
               </Link>
             </div>
           </div>
@@ -444,7 +444,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 鳴子温泉　名湯の宿　鳴子ホテル</td>
                 <td className="p-3 text-stone-600">宮城県大崎市鳴子温泉湯元36</td>
-                <td className="p-3 text-stone-600">鳴子温泉駅周辺</td>
+                <td className="p-3 text-stone-600">JR鳴子温泉駅より徒歩にて５分。仙台駅から古川駅経由で電車で60分。</td>
                 <td className="p-3 text-stone-600">有り　１００台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.43（2693件）</td>
                 <td className="p-3 font-bold text-rose-600">¥9,900〜</td>
@@ -453,7 +453,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 鳴子温泉　源蔵の湯　鳴子観光ホテル</td>
                 <td className="p-3 text-stone-600">宮城県大崎市鳴子温泉湯元</td>
-                <td className="p-3 text-stone-600">鳴子温泉駅周辺</td>
+                <td className="p-3 text-stone-600">古川(東北新幹線)→鳴子温泉駅(陸羽東線)</td>
                 <td className="p-3 text-stone-600">有り　200台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.25（1108件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,250〜</td>
@@ -462,7 +462,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 仙台国際ホテル</td>
                 <td className="p-3 text-stone-600">宮城県仙台市青葉区中央4-6-1</td>
-                <td className="p-3 text-stone-600">仙台駅周辺</td>
+                <td className="p-3 text-stone-600">東北新幹線「仙台駅」徒歩10分。SS30ビルホテル棟。</td>
                 <td className="p-3 text-stone-600">ホテル地下2階に駐車場「タイムズSS30」あり</td>
                 <td className="p-3 font-bold text-amber-600">★4.14（3252件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,130〜</td>
@@ -471,7 +471,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. ホテルＪＡＬシティ仙台</td>
                 <td className="p-3 text-stone-600">宮城県仙台市青葉区花京院1-2-12</td>
-                <td className="p-3 text-stone-600">仙台駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ仙台駅西口側ペデストリアンデッキを使用し徒歩約3分・地下鉄仙台駅徒歩7分・駅前バスターミナル徒歩5分</td>
                 <td className="p-3 text-stone-600">有　1泊1500円／現金精算のみ※予約はお受けしておりません。満車時は契約駐車場をご案内いたします。</td>
                 <td className="p-3 font-bold text-amber-600">★4.19（5973件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,950〜</td>
@@ -480,7 +480,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 松島温泉　ホテル大松荘</td>
                 <td className="p-3 text-stone-600">宮城県宮城郡松島町松島字町内25</td>
-                <td className="p-3 text-stone-600">松島海岸駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ松島海岸駅より徒歩１分。東北自動車道仙台南IC～南部道路～三陸自動車道 松島海岸ICより３分</td>
                 <td className="p-3 text-stone-600">有り　50台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★3.97（598件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,800〜</td>
@@ -509,7 +509,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１００台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「滝の湯への好立地と豪華な食事に大満足滝の湯目当て鳴子に宿泊します。坂の上ホテルなのでこちらのホテルは不便かな?とおもつており初めての利用でした。ホテルからエレベーターで1階まで下がれば滝の湯まで直…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「滝の湯への好立地と豪華な食事に大満足滝の湯目当て鳴子に宿泊します。坂の上ホテルなのでこちらのホテルは不便かな?とおもつており初めての利用でした。」
                   </blockquote>
                 </div>
               </div>
@@ -531,7 +531,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　200台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「夕食が美味しく、オールインクルーシブを満喫「鳴子」へは行ったことがなく、調べたら有名なホテルであるようなので、このホテルに宿泊しました。夕食がとても美味しかったです。飲み物も自由に飲めて、オールイ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「夕食が美味しく、オールインクルーシブを満喫「鳴子」へは行ったことがなく、調べたら有名なホテルであるようなので、このホテルに宿泊しました。夕食がとても美味しかったです。」
                   </blockquote>
                 </div>
               </div>
@@ -575,7 +575,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有　1泊1500円／現金精算のみ※予約はお受けしておりません。満車時は契約駐車場をご案内いたします。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「親切な電話対応と便利な立地で大満足直近で急に予約したため心配で電話問い合わせした際に、とても親切で丁寧な対応をしていただき安心して行くことが出来ました。駐車場もすぐ近くてどこに行くにも便利で、家族…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「親切な電話対応と便利な立地で大満足直近で急に予約したため心配で電話問い合わせした際に、とても親切で丁寧な対応をしていただき安心して行くことが出来ました。」
                   </blockquote>
                 </div>
               </div>
@@ -597,7 +597,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　50台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「好立地で清掃も行き届くが設備に難あり夏に素泊まりの利用でした。写真は部屋からの景色です。駅から徒歩3分もかからず、なお車なら駐車場も無料利用が可能な好立地のホテル。福浦橋までが割と歩きます…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「好立地で清掃も行き届くが設備に難あり夏に素泊まりの利用でした。写真は部屋からの景色です。駅から徒歩3分もかからず、なお車なら駐車場も無料利用が可能な好立地のホテル。」
                   </blockquote>
                 </div>
               </div>

@@ -118,7 +118,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F19409%2F19409.html%26f_flg%3DPLAN",
     "hotelMinCharge": 14600,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/19409/19409.jpg",
-    "userReview": "薬師湯温泉　旅館　竹屋敷ならではの立地と落ち着いた空間で、ゆったりとした滞在を楽しめたという声が寄せられています。",
+    "userReview": "薬師湯温泉 旅館 竹屋敷ならではの立地と落ち着いた空間で、ゆったりとした滞在を楽しめたという声が寄せられています。",
     "reviewAverage": 4.56,
     "reviewCount": 54,
     "address": "香川県さぬき市多和竹屋敷123-1",
@@ -284,7 +284,7 @@ export default function Page() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 小田急線本厚木駅よりバスで飯山温泉入口下車徒歩3分/東名厚木ICより厚木方面へ向い国道129号線厚木市立病院前左折10分で現地へ到着。</li>
                 <li>・<strong className="text-stone-800">15:30〜</strong> 「厚木飯山温泉 元湯旅館」へチェックイン。落ち着いた空間で旅の荷を解き、ゆったりとした時間をスタート。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「厚木飯山温泉 元湯旅館」の湯処へ。日頃の疲れを癒やす湯浴みとともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「厚木飯山温泉 元湯旅館」の自慢の湯処へ。温かな湯気と落ち着いた雰囲気に癒やされながら、夕食前の贅沢なひとときを過ごす。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「厚木飯山温泉 元湯旅館」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -296,7 +296,7 @@ export default function Page() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「厚木飯山温泉 元湯旅館」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「厚木飯山温泉 元湯旅館」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「洞川温泉 いろは旅館＜奈良県＞」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は宿周辺の散策とショッピングを満喫。地元の名産品やグルメを味わってから余裕をもって帰路につく。</li>
               </ul>
             </div>
           </div>
@@ -424,7 +424,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 厚木飯山温泉　元湯旅館</td>
                 <td className="p-3 text-stone-600">神奈川県厚木市飯山4916</td>
-                <td className="p-3 text-stone-600">小田急線本厚木駅よりバスで飯山温泉入口下車徒歩3分/東名厚木ICより厚</td>
+                <td className="p-3 text-stone-600">小田急線本厚木駅よりバスで飯山温泉入口下車徒歩3分/東名厚木ICより厚木方面へ向い国道129号線厚木市立病院前左折10分</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.63（404件）</td>
                 <td className="p-3 font-bold text-rose-600">¥20,850〜</td>
@@ -433,7 +433,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 洞川温泉　いろは旅館＜奈良県＞</td>
                 <td className="p-3 text-stone-600">奈良県吉野郡天川村洞川248</td>
-                <td className="p-3 text-stone-600">下市口駅周辺</td>
+                <td className="p-3 text-stone-600">近鉄 下市口駅より奈良交通バス（洞川温泉行き）終点</td>
                 <td className="p-3 text-stone-600">有り　１０台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.62（224件）</td>
                 <td className="p-3 font-bold text-rose-600">¥14,500〜</td>
@@ -442,7 +442,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 塩田温泉旅館　湯元　うえやま</td>
                 <td className="p-3 text-stone-600">兵庫県姫路市夢前町塩田287</td>
-                <td className="p-3 text-stone-600">姫路駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ姫路→神姫バス塩田温泉〜前之庄３５分 中国道福崎ＩＣ２０分 山陽道姫路西ＩＣ２５分 中国道夢前スマートＩＣ５分</td>
                 <td className="p-3 text-stone-600">有り　50台</td>
                 <td className="p-3 font-bold text-amber-600">★4.49（218件）</td>
                 <td className="p-3 font-bold text-rose-600">¥15,950〜</td>
@@ -451,7 +451,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 薬師湯温泉　旅館　竹屋敷</td>
                 <td className="p-3 text-stone-600">香川県さぬき市多和竹屋敷123-1</td>
-                <td className="p-3 text-stone-600">高松空港より車で約50分/高松自動車道さぬき志度ICより30分/徳島自</td>
+                <td className="p-3 text-stone-600">高松空港より車で約50分/高松自動車道さぬき志度ICより30分/徳島自動車道脇町ICより30分</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.56（54件）</td>
                 <td className="p-3 font-bold text-rose-600">¥14,600〜</td>
@@ -489,7 +489,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「3年連続で通うほどお気に入りの美人の湯お墓参りの帰りに、今年も寄らせてもらいました!気づけば3年連続です。大女将さんも女将さんも本当に愛嬌があって、いつも温かく迎えてくださるから、日頃の疲…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「3年連続で通うほどお気に入りの美人の湯お墓参りの帰りに、今年も寄らせてもらいました!気づけば3年連続です。」
                   </blockquote>
                 </div>
               </div>
@@ -511,7 +511,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１０台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.65 ／ 立地 ★4.56 ／ 部屋 ★4.44 ／ 設備 ★4.38 ／ 風呂 ★4.48 ／ 食事 ★4.71</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「洞川温泉の風情と鮎料理、地酒に癒やされる行きたかった洞川温泉。初めて行きましたが、とても良かったです。宿も床の木の軋む音など、昔の宿の良さを感じました。鮎も美味しかったです。2階の部屋でしたが、通…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「洞川温泉の風情と鮎料理、地酒に癒やされる行きたかった洞川温泉。初めて行きましたが、とても良かったです。宿も床の木の軋む音など、昔の宿の良さを感じました。鮎も美味しかったです。」
                   </blockquote>
                 </div>
               </div>

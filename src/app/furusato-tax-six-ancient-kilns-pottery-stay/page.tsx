@@ -351,7 +351,7 @@ export default function FurusatoUpgradedPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 備前ホテル陶</td>
                 <td className="p-3 text-stone-600">岡山県備前市伊部1774-1</td>
-                <td className="p-3 text-stone-600">伊部駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ 赤穂線 伊部駅 から徒歩約５分、ＪＲ 岡山駅から車で約５０分</td>
                 <td className="p-3 text-stone-600">有り　5台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★3.5（5件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,270〜</td>
@@ -360,7 +360,7 @@ export default function FurusatoUpgradedPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. ホテル　レイクヴィラ</td>
                 <td className="p-3 text-stone-600">滋賀県甲賀市信楽町多羅尾1</td>
-                <td className="p-3 text-stone-600">伊賀上野駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ伊賀上野駅から送迎有り（要事前予約3日前迄11:00～17：00 20分/新名神信楽ICより35分</td>
                 <td className="p-3 text-stone-600">有　２００台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.45（333件）</td>
                 <td className="p-3 font-bold text-rose-600">¥21,450〜</td>
@@ -369,7 +369,7 @@ export default function FurusatoUpgradedPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 丹波篠山　近又</td>
                 <td className="p-3 text-stone-600">兵庫県丹波篠山市二階町81</td>
-                <td className="p-3 text-stone-600">篠山口駅周辺</td>
+                <td className="p-3 text-stone-600">舞鶴若狭自動車道「丹南篠山口I.C」より3km/JR福知山線「篠山口」駅よりバス約15分</td>
                 <td className="p-3 text-stone-600">有り　4台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.42（88件）</td>
                 <td className="p-3 font-bold text-rose-600">¥15,600〜</td>
@@ -420,7 +420,7 @@ export default function FurusatoUpgradedPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有　２００台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「もう20年近く毎年夏にロッジを利用しているが、室内は清潔で手入れが行き届いており、係りの皆さんのホスピタリティにも満足している。温泉、食事とも素晴らしく私はイチオシにしたい宿だと思っている。…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「もう20年近く毎年夏にロッジを利用しているが、室内は清潔で手入れが行き届いており、係りの皆さんのホスピタリティにも満足している。温泉、食事とも素晴らしく私はイチオシにしたい宿だと思っている。」
                   </blockquote>
                 </div>
               </div>
@@ -442,7 +442,7 @@ export default function FurusatoUpgradedPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　4台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「篠山の由緒ある旅館400年の老舗旅館。篠山城に近く一番にぎやかな通りに位置しており、歴史ある街歩きを楽しめました。夕食のボタン鍋はしっ地元のお野菜たくさんで、しっかり味噌味でしたが胃にももたれずと…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「篠山の由緒ある旅館400年の老舗旅館。篠山城に近く一番にぎやかな通りに位置しており、歴史ある街歩きを楽しめました。」
                   </blockquote>
                 </div>
               </div>

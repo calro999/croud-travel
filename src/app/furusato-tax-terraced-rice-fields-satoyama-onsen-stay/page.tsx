@@ -529,7 +529,7 @@ export default function FurusatoFeaturePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 越後松之山温泉　旅館明星</td>
                 <td className="p-3 text-stone-600">新潟県十日町市松之山天水越88-2</td>
-                <td className="p-3 text-stone-600">松代駅周辺</td>
+                <td className="p-3 text-stone-600">ほくほく線 松代駅より路線バスにて２０分 只今、松代駅へ送迎は停止させて頂きます。</td>
                 <td className="p-3 text-stone-600">有り　３０台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">高評価</td>
                 <td className="p-3 font-bold text-rose-600">プラン参照</td>
@@ -538,7 +538,7 @@ export default function FurusatoFeaturePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 山中温泉　吉祥やまなか</td>
                 <td className="p-3 text-stone-600">石川県加賀市山中温泉東町1-ホ14-3</td>
-                <td className="p-3 text-stone-600">加賀温泉駅周辺</td>
+                <td className="p-3 text-stone-600">加賀温泉駅・小松空港から無料送迎あり（要予約/定時便）【車】加賀ICより14分。金沢・福井へは車で1時間</td>
                 <td className="p-3 text-stone-600">有（無料）２０台　※正面玄関前にお越しください。スタッフがご案内いたします。</td>
                 <td className="p-3 font-bold text-amber-600">★4.74（1683件）</td>
                 <td className="p-3 font-bold text-rose-600">¥19,500〜</td>
@@ -547,7 +547,7 @@ export default function FurusatoFeaturePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 禄光旅館</td>
                 <td className="p-3 text-stone-600">石川県珠洲市狼煙町</td>
-                <td className="p-3 text-stone-600">珠洲駅周辺</td>
+                <td className="p-3 text-stone-600">奥能登観光バスで狼煙下車、徒歩３分</td>
                 <td className="p-3 text-stone-600">有り　２０台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.34（94件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,000〜</td>
@@ -556,7 +556,7 @@ export default function FurusatoFeaturePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 和倉温泉　ホテル海望</td>
                 <td className="p-3 text-stone-600">石川県七尾市和倉町和歌崎部12-3</td>
-                <td className="p-3 text-stone-600">和倉温泉駅周辺</td>
+                <td className="p-3 text-stone-600">JR和倉温泉駅から当館無料送迎バスで5分。金沢から「のと里山海道」徳田大津JCT、和倉IC経由、車で約1時間。</td>
                 <td className="p-3 text-stone-600">ホテル海望と湯っ足りパークの間に、海を望む無料駐車場がございます。全150台。</td>
                 <td className="p-3 font-bold text-amber-600">★4.51（1065件）</td>
                 <td className="p-3 font-bold text-rose-600">¥9,900〜</td>
@@ -565,7 +565,7 @@ export default function FurusatoFeaturePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 鴨川グランドタワー</td>
                 <td className="p-3 text-stone-600">千葉県鴨川市広場834</td>
-                <td className="p-3 text-stone-600">安房鴨川駅周辺</td>
+                <td className="p-3 text-stone-600">東京駅よりＪＲ外房線特急「わかしお」で約2時間。安房鴨川駅より徒歩15分 アクアライン君津ＩＣより50分</td>
                 <td className="p-3 text-stone-600">駐車場有り（100台・無料・先着順）※先にフロントで「駐車券」を必ずお受取りの上、駐車願います</td>
                 <td className="p-3 font-bold text-amber-600">★4.3（700件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,600〜</td>
@@ -574,7 +574,7 @@ export default function FurusatoFeaturePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">6. 鴨川館</td>
                 <td className="p-3 text-stone-600">千葉県鴨川市西町1179</td>
-                <td className="p-3 text-stone-600">安房鴨川駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ外房線 安房鴨川駅よりお車にて約５分（送迎あり、要予約）</td>
                 <td className="p-3 text-stone-600">有り100台・無料・予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.61（1492件）</td>
                 <td className="p-3 font-bold text-rose-600">¥12,650〜</td>
@@ -625,7 +625,7 @@ export default function FurusatoFeaturePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有（無料）２０台　※正面玄関前にお越しください。スタッフがご案内いたします。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.77 ／ 立地 ★4.51 ／ 部屋 ★4.54 ／ 設備 ★4.61 ／ 風呂 ★4.67 ／ 食事 ★4.79</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「パンケーキとカクテル、食事に大満足!2年ぶり2回目の利用です。パンケーキを楽しみにして来ました。また前回、タイミングが合わず飲めなかったカクテルも飲むことが出来ました。夜の食事も沢山あり、どれ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「パンケーキとカクテル、食事に大満足!2年ぶり2回目の利用です。パンケーキを楽しみにして来ました。また前回、タイミングが合わず飲めなかったカクテルも飲むことが出来ました。」
                   </blockquote>
                 </div>
               </div>
@@ -647,7 +647,7 @@ export default function FurusatoFeaturePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「老朽化と光漏れが気になるが食事は美味全体的に老朽化が目立つ感じでした。部屋から街灯が差し込み、少し寝づらかった。ご飯は美味しかった。魚のフライがフワフワ。宿の人も優しかった。ク…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「老朽化と光漏れが気になるが食事は美味全体的に老朽化が目立つ感じでした。部屋から街灯が差し込み、少し寝づらかった。ご飯は美味しかった。魚のフライがフワフワ。宿の人も優しかった。」
                   </blockquote>
                 </div>
               </div>
@@ -669,7 +669,7 @@ export default function FurusatoFeaturePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>ホテル海望と湯っ足りパークの間に、海を望む無料駐車場がございます。全150台。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.6 ／ 立地 ★4.72 ／ 部屋 ★4.48 ／ 設備 ★4.23 ／ 風呂 ★4.41 ／ 食事 ★4.71</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食の品数が豊富で大満足の美味しさ復興途中故に露天風呂などが使えない点を除けば非常に良かったです。朝食は品数が非常に多く、ご飯もおかわりできるようで非常に良かったです。クチコミの詳細はこち…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食の品数が豊富で大満足の美味しさ復興途中故に露天風呂などが使えない点を除けば非常に良かったです。朝食は品数が非常に多く、ご飯もおかわりできるようで非常に良かったです。」
                   </blockquote>
                 </div>
               </div>
@@ -691,7 +691,7 @@ export default function FurusatoFeaturePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>駐車場有り（100台・無料・先着順）※先にフロントで「駐車券」を必ずお受取りの上、駐車願います</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「海が見える広い部屋で連泊に最適海沿いのタワーマンションに宿泊というなかなかできない環境で楽しめました。【眺望】14階でしたが海が見渡せました。夜景もそれなりに良かったですがのどかな場所なので明…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「海が見える広い部屋で連泊に最適海沿いのタワーマンションに宿泊というなかなかできない環境で楽しめました。【眺望】14階でしたが海が見渡せました。」
                   </blockquote>
                 </div>
               </div>
@@ -713,7 +713,7 @@ export default function FurusatoFeaturePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り100台・無料・予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.61 ／ 立地 ★4.63 ／ 部屋 ★4.66 ／ 設備 ★4.62 ／ 風呂 ★4.61 ／ 食事 ★4.59</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「掃除が行き届いた部屋と美味しい西洋コースいつも5階に宿泊。掃除が綺麗に行き届いて 気持ち良く過ごせました。今回は朝食有り 夕食なしなのでダイニングMAIWAIで 天ぷら、寿司、西洋コースを頼み…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「掃除が行き届いた部屋と美味しい西洋コースいつも5階に宿泊。掃除が綺麗に行き届いて 気持ち良く過ごせました。」
                   </blockquote>
                 </div>
               </div>

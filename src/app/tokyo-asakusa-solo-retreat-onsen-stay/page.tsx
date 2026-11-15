@@ -390,8 +390,8 @@ export default function ArticlePage() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 田原町（東京）駅よりアクセス。地下鉄銀座線 田原町駅３番出口より徒歩2分。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「ホテルサンルート浅草」にチェックイン。『銀座線田原町駅』から徒歩2分！世界のベッド！シモンズ社製ベッドとロフテー社オリジナル製枕で快眠を！などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「ホテルサンルート浅草」の湯処へ。『銀座線田原町駅』から徒歩2分！世界のベッド！シモンズ社製ベッドとロフとともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「ホテルサンルート浅草」にチェックイン。『銀座線田原町駅』から徒歩2分！世界のベッド！シモンズ社製ベッドとロフテー社オリジナル製枕で快眠を！ 客室で身支度を整え、この宿ならではの滞在をスタート。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「ホテルサンルート浅草」の自慢の湯処へ。温かな湯気と落ち着いた雰囲気に癒やされながら、夕食前の贅沢なひとときを過ごす。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「ホテルサンルート浅草」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -476,7 +476,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 展望大浴場あさひ湯　ドーミーインＥＸＰＲＥＳＳ浅草（ドーミーイン・御宿野乃　ホテルズグループ）</td>
                 <td className="p-3 text-stone-600">東京都台東区花川戸1-3-4</td>
-                <td className="p-3 text-stone-600">浅草駅周辺</td>
+                <td className="p-3 text-stone-600">★東武線・地下鉄銀座線「浅草駅」5番出口より徒歩1分、都営浅草線「浅草駅」A5番出口から徒歩5分</td>
                 <td className="p-3 text-stone-600">無し</td>
                 <td className="p-3 font-bold text-amber-600">★4.18（3984件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,232〜</td>
@@ -485,7 +485,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. ホテルサンルート浅草</td>
                 <td className="p-3 text-stone-600">東京都台東区雷門1-8-5</td>
-                <td className="p-3 text-stone-600">田原町（東京）駅周辺</td>
+                <td className="p-3 text-stone-600">地下鉄銀座線 田原町駅３番出口より徒歩2分</td>
                 <td className="p-3 text-stone-600">【完全電話予約制】車幅は一律180cmまで（車高155cm以上は4台のみ）2,500円/1泊</td>
                 <td className="p-3 font-bold text-amber-600">★4.37（1492件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,950〜</td>
@@ -494,7 +494,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. アパホテル〈浅草　蔵前〉</td>
                 <td className="p-3 text-stone-600">東京都台東区駒形2-4-6</td>
-                <td className="p-3 text-stone-600">蔵前駅周辺</td>
+                <td className="p-3 text-stone-600">■大江戸線「蔵前駅」～徒歩2分■浅草線「蔵前駅」～徒歩4分■浅草線「浅草駅」～徒歩4分■メトロ銀座線「浅草駅」～徒歩9分</td>
                 <td className="p-3 text-stone-600">立体駐車場26台　先着順予約不可　入庫から24時間2,000円（税込）　車高制限2.0m</td>
                 <td className="p-3 font-bold text-amber-600">★4.08（3708件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,960〜</td>
@@ -545,7 +545,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>【完全電話予約制】車幅は一律180cmまで（車高155cm以上は4台のみ）2,500円/1泊</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.47 ／ 立地 ★4.4 ／ 部屋 ★4.39 ／ 設備 ★4.24 ／ 風呂 ★4.23 ／ 食事 ★3.89</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「早朝のアラームで起こされ寝不足にチェックイン・チェックアウトや荷物の預かりなどとてもスムーズで、部屋や浴槽も広めで使いやすく、立地も良かったため、快適に宿泊となりそうだなと思っていたのですが、、、…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「早朝のアラームで起こされ寝不足にチェックイン・チェックアウトや荷物の預かりなどとてもスムーズで、部屋や浴槽も広めで使いやすく、立地も良かったため。」
                   </blockquote>
                 </div>
               </div>

@@ -565,8 +565,8 @@ export default function FeatureDetailPage() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 富士急ハイランド駅よりアクセス。富士急ハイランド駅より徒歩５分♪ 富士急行線河口湖駅より徒歩１６分 中央自動車道河口湖ICより車で１０分。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「ホテルマイステイズ富士山 展望温泉」にチェックイン。富士急ハイランドまで徒歩５分、大浴場・露天風呂あり！全室禁煙ですなどの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「ホテルマイステイズ富士山 展望温泉」の湯処へ。富士急ハイランドまで徒歩５分、大浴場・露天風呂あり！全室禁煙ですとともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「ホテルマイステイズ富士山 展望温泉」にチェックイン。富士急ハイランドまで徒歩５分、大浴場・露天風呂あり！ まずは客室で移動の疲れをそっと癒やす。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「ホテルマイステイズ富士山 展望温泉」の自慢の湯処へ。温かな湯気と落ち着いた雰囲気に癒やされながら、夕食前の贅沢なひとときを過ごす。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「ホテルマイステイズ富士山 展望温泉」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -578,7 +578,7 @@ export default function FeatureDetailPage() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「ホテルマイステイズ富士山 展望温泉」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「ホテルマイステイズ富士山 展望温泉」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「ＣＡＮＤＥＯ ＨＯＴＥＬＳ松山大街道」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は「ホテルマイステイズ富士山 展望温泉」周辺の観光スポットや地元の名産店に立ち寄り、ご当地のお土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>
@@ -706,7 +706,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. ホテルマイステイズ富士山　展望温泉</td>
                 <td className="p-3 text-stone-600">山梨県富士吉田市新倉2654</td>
-                <td className="p-3 text-stone-600">富士急ハイランド駅周辺</td>
+                <td className="p-3 text-stone-600">富士急ハイランド駅より徒歩５分♪ 富士急行線河口湖駅より徒歩１６分 中央自動車道河口湖ICより車で１０分</td>
                 <td className="p-3 text-stone-600">有　７４台　無料　事前のご連絡不要　空いてる区画スペースにお停めください。</td>
                 <td className="p-3 font-bold text-amber-600">★4.35（1136件）</td>
                 <td className="p-3 font-bold text-rose-600">¥12,290〜</td>
@@ -715,7 +715,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. ＣＡＮＤＥＯ　ＨＯＴＥＬＳ（カンデオホテルズ）亀山</td>
                 <td className="p-3 text-stone-600">三重県亀山市小野町北割532-2</td>
-                <td className="p-3 text-stone-600">亀山（三重）駅周辺</td>
+                <td className="p-3 text-stone-600">亀山ＩＣより大津方面へ車で１分 ＪＲ亀山駅よりタクシーで１０分 ＪＲ関駅よりタクシーで５分 目の前のコンビニが目印！</td>
                 <td className="p-3 text-stone-600">106台まで無料（平面・予約不要）、大型車（4トン以上クラス）は有料</td>
                 <td className="p-3 font-bold text-amber-600">★4.25（2397件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,165〜</td>
@@ -724,7 +724,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 天空のスカイビューホテル　眉山海月</td>
                 <td className="p-3 text-stone-600">徳島県徳島市八万町中津山3-70</td>
-                <td className="p-3 text-stone-600">徳島駅周辺</td>
+                <td className="p-3 text-stone-600">JR徳島駅から車で約15分【駐車場無料】。無料送迎は徳島駅、眉山ロープウェイ 山頂駅にて（前日までの事前予約が必要）</td>
                 <td className="p-3 text-stone-600">有り　60台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.36（650件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,500〜</td>
@@ -733,7 +733,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. ＣＡＮＤＥＯ　ＨＯＴＥＬＳ（カンデオホテルズ）松山大街道</td>
                 <td className="p-3 text-stone-600">愛媛県松山市大街道2-5-12</td>
-                <td className="p-3 text-stone-600">松山空港よりリムジンバス乗車約25分、一番町下車徒歩約3分。松山市駅よ</td>
+                <td className="p-3 text-stone-600">松山空港よりリムジンバス乗車約25分、一番町下車徒歩約3分。松山市駅より伊予鉄道利用、大街道駅より徒歩1分。</td>
                 <td className="p-3 text-stone-600">駐車場無。有料提携駐車場（お城下パーキング2番町、フラワーパーキング2番町など）をご利用ください。</td>
                 <td className="p-3 font-bold text-amber-600">★4.21（2332件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,600〜</td>
@@ -742,7 +742,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 八甲田城ヶ倉温泉　ホテル城ヶ倉－ＨＯＴＥＬ　Ｊｏｇａｋｕｒａ－</td>
                 <td className="p-3 text-stone-600">青森県青森市荒川八甲田山中</td>
-                <td className="p-3 text-stone-600">青森駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ 青森駅よりＪＲバス十和田湖行き乗車後、城ヶ倉温泉前にて下車</td>
                 <td className="p-3 text-stone-600">有り　１００台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.51（403件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,200〜</td>
@@ -771,7 +771,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有　７４台　無料　事前のご連絡不要　空いてる区画スペースにお停めください。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.37 ／ 立地 ★4.43 ／ 部屋 ★4.32 ／ 設備 ★4.31 ／ 風呂 ★4.27 ／ 食事 ★4.4</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋の清掃不備とコンビニまでの距離が難点平日に泊まりましたがほとんど外国人観光客の方でした。部屋の広さは二人で荷物入れたらちょうどいいくらいでした。部屋の清掃なのですがパッと見は綺麗でした…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋の清掃不備とコンビニまでの距離が難点平日に泊まりましたがほとんど外国人観光客の方でした。部屋の広さは二人で荷物入れたらちょうどいいくらいでした。」
                   </blockquote>
                 </div>
               </div>
@@ -815,7 +815,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　60台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.37 ／ 立地 ★4.49 ／ 部屋 ★4.35 ／ 設備 ★4.22 ／ 風呂 ★4.29 ／ 食事 ★4.5</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「価格とサービスのバランスに少し不満あり所々、リニューアルされていました。が、人手が足りていないと感じる場面が何度もありました。お風呂場は洗い場の排水が追いついていないのか?ザブザブと溜まっ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「価格とサービスのバランスに少し不満あり所々、リニューアルされていました。が、人手が足りていないと感じる場面が何度もありました。」
                   </blockquote>
                 </div>
               </div>
@@ -859,7 +859,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１００台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「素晴らしい大変癒された旅になりました。同伴の誕生日記念に宿泊しました。クマ騒動がありましたが、自然のなかでとても満足しています特に食事は本当に素晴らしかったですクチコミの詳細はこち…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「素晴らしい大変癒された旅になりました。同伴の誕生日記念に宿泊しました。」
                   </blockquote>
                 </div>
               </div>

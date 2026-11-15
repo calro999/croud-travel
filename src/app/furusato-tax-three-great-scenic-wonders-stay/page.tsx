@@ -49,7 +49,7 @@ const hotels = [
     "reviewCount": 108,
     "address": "大分県中津市耶馬溪町深耶馬3155-16",
     "access": "ＪＲ　豊後森駅から車で１５分（バスで３０分）／中津駅より５０分（バスで１時間３０分）",
-    "userReview": "風呂は貸し切りで良かったですね。",
+    "userReview": "貸切風呂は良かったが衛生面と臭いが気になるすみませんが衛生面がなんともいいがたし、部屋はかび臭いのできになりました。風呂は貸し切りで良かったですね",
     "label": "大分県中津市ふるさと納税・日本新三景・奇岩と紅葉の渓谷美「耶馬渓」中津温泉ステイ",
     "spotTitle": "大分県中津市ふるさと納税：日本新三景・奇岩怪石の耶馬渓に抱かれた静寂の宿「耶馬渓山荘 えぼしや」",
     "spotDesc": "名勝・耶馬渓の渓谷沿いにひっそりと佇む山荘宿。奇岩怪石が織りなす絶景の自然美を愛でながら、滋味あふれる郷土会席料理とアットホームな温泉ステイを堪能できます。",
@@ -351,7 +351,7 @@ export default function FurusatoUpgradedPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 妙義温泉　妙義グリーンホテル＆テラス</td>
                 <td className="p-3 text-stone-600">群馬県富岡市妙義町菅原2678</td>
-                <td className="p-3 text-stone-600">松井田駅周辺</td>
+                <td className="p-3 text-stone-600">JR松井田駅よりタクシー12分／磯部駅よりタクシー17分／松井田妙義IC（上信越自動車道）より１２分</td>
                 <td className="p-3 text-stone-600">有　２００台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.28（1935件）</td>
                 <td className="p-3 font-bold text-rose-600">¥9,900〜</td>
@@ -360,7 +360,7 @@ export default function FurusatoUpgradedPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 耶馬渓山荘　えぼしや</td>
                 <td className="p-3 text-stone-600">大分県中津市耶馬溪町深耶馬3155-16</td>
-                <td className="p-3 text-stone-600">豊後森駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ 豊後森駅から車で１５分（バスで３０分）／中津駅より５０分（バスで１時間３０分）</td>
                 <td className="p-3 text-stone-600">有り　１５台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★3.39（108件）</td>
                 <td className="p-3 font-bold text-rose-600">¥2,000〜</td>
@@ -369,7 +369,7 @@ export default function FurusatoUpgradedPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 小豆島国際ホテル　＜小豆島＞</td>
                 <td className="p-3 text-stone-600">香川県小豆郡土庄町　甲　24-67</td>
-                <td className="p-3 text-stone-600">高松（香川）駅周辺</td>
+                <td className="p-3 text-stone-600">土庄港よりお車にて約７分</td>
                 <td className="p-3 text-stone-600">有り　乗用車６０台・バス１２台　無料（宿泊者以外の利用はお断りいたします）</td>
                 <td className="p-3 font-bold text-amber-600">★4.38（2087件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,800〜</td>
@@ -442,7 +442,7 @@ export default function FurusatoUpgradedPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　乗用車６０台・バス１２台　無料（宿泊者以外の利用はお断りいたします）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「エンジェルロードを望む絶景と美味しいご飯エンジェルロード真横で部屋から状況が見れるのがとても良かったです!晩御飯のお魚もとっても美味しくて、醤油の名産地ということもあり3種類準備されていて色ん…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「エンジェルロードを望む絶景と美味しいご飯エンジェルロード真横で部屋から状況が見れるのがとても良かったです!」
                   </blockquote>
                 </div>
               </div>

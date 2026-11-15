@@ -253,7 +253,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 鬼怒川温泉　山楽</td>
                 <td className="p-3 text-stone-600">栃木県日光市鬼怒川温泉大原1060-399</td>
-                <td className="p-3 text-stone-600">鬼怒川温泉駅周辺</td>
+                <td className="p-3 text-stone-600">電車◆鬼怒川温泉駅より徒歩10分（無料送迎有※ご到着時TEL） 車◆今市ICより鬼怒川方面に25分（無料駐車場80台）</td>
                 <td className="p-3 text-stone-600">有り：80台（無料・先着順・滞在中出し入れ自由）</td>
                 <td className="p-3 font-bold text-amber-600">★4.19（667件）</td>
                 <td className="p-3 font-bold text-rose-600">¥29,400〜</td>
@@ -262,7 +262,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 鬼怒川温泉　鬼怒川グランドホテル　夢の季（ゆめのとき）</td>
                 <td className="p-3 text-stone-600">栃木県日光市鬼怒川温泉大原1021</td>
-                <td className="p-3 text-stone-600">鬼怒川温泉駅周辺</td>
+                <td className="p-3 text-stone-600">鬼怒川温泉駅より徒歩8分／日光・宇都宮有料道路今市ＩＣより車で20分</td>
                 <td className="p-3 text-stone-600">有　無料先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.5（781件）</td>
                 <td className="p-3 font-bold text-rose-600">¥16,300〜</td>
@@ -271,7 +271,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 鬼怒川温泉　ほてる白河湯の蔵</td>
                 <td className="p-3 text-stone-600">栃木県日光市鬼怒川温泉滝483</td>
-                <td className="p-3 text-stone-600">鬼怒川温泉駅周辺</td>
+                <td className="p-3 text-stone-600">東武鉄道 鬼怒川温泉駅より1km（徒歩／約15分）（各旅館巡回バス／約10分 ＊大人300円・小人150円）</td>
                 <td className="p-3 text-stone-600">有り／無料　（予約不要）</td>
                 <td className="p-3 font-bold text-amber-600">★4.17（537件）</td>
                 <td className="p-3 font-bold text-rose-600">¥11,200〜</td>
@@ -280,7 +280,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 鬼怒川金谷ホテル</td>
                 <td className="p-3 text-stone-600">栃木県日光市鬼怒川温泉大原1394</td>
-                <td className="p-3 text-stone-600">鬼怒川温泉駅周辺</td>
+                <td className="p-3 text-stone-600">東武線鬼怒川温泉駅より徒歩３分/今市ICより国道１２１号で約２０分</td>
                 <td className="p-3 text-stone-600">有り　３０台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.45（391件）</td>
                 <td className="p-3 font-bold text-rose-600">¥46,200〜</td>
@@ -289,7 +289,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 鬼怒川温泉　鬼怒川ロイヤルホテル（伊東園ホテルズ）</td>
                 <td className="p-3 text-stone-600">栃木県日光市鬼怒川温泉大原1426－2</td>
-                <td className="p-3 text-stone-600">鬼怒川温泉駅周辺</td>
+                <td className="p-3 text-stone-600">鬼怒川温泉駅から車で3分、徒歩10分</td>
                 <td className="p-3 text-stone-600">有　80台(無料・予約不要)</td>
                 <td className="p-3 font-bold text-amber-600">★3.87（1496件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,348〜</td>
@@ -298,7 +298,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">6. 鬼怒川温泉　ホテルサンシャイン鬼怒川</td>
                 <td className="p-3 text-stone-600">栃木県日光市鬼怒川温泉大原1437-1</td>
-                <td className="p-3 text-stone-600">鬼怒川温泉駅周辺</td>
+                <td className="p-3 text-stone-600">東北自動車道宇都宮ICから宇都宮・日光有料道路今市IC下車R121より30分</td>
                 <td className="p-3 text-stone-600">有り　100台　無料（先着順）</td>
                 <td className="p-3 font-bold text-amber-600">★4.16（2149件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,250〜</td>
@@ -349,7 +349,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有　無料先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.58 ／ 立地 ★4.35 ／ 部屋 ★4.53 ／ 設備 ★4.4 ／ 風呂 ★4.48 ／ 食事 ★4.62</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「価格以上の満足感、料理もお風呂も最高価格がかなり割引になっていたので、決めました。鬼怒川は以前働いていたので、よく知っているので高級ホテルと言う事は知っていました。料理もお風呂も満足です…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「価格以上の満足感、料理もお風呂も最高価格がかなり割引になっていたので、決めました。鬼怒川は以前働いていたので、よく知っているので高級ホテルと言う事は知っていました。」
                   </blockquote>
                 </div>
               </div>
@@ -371,7 +371,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り／無料　（予約不要）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.25 ／ 立地 ★4.22 ／ 部屋 ★4.12 ／ 設備 ★4.01 ／ 風呂 ★4.3 ／ 食事 ★4.29</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ウェルカムベビーのプランで快適な家族旅行赤ちゃんと初めての旅行だったのでウェルカムベビーのプランで滞在しました。少し駅からありますが歩けない訳ではないので散歩がてら歩きました。赤ちゃん用の…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ウェルカムベビーのプランで快適な家族旅行赤ちゃんと初めての旅行だったのでウェルカムベビーのプランで滞在しました。少し駅からありますが歩けない訳ではないので散歩がてら歩きました。」
                   </blockquote>
                 </div>
               </div>
@@ -393,7 +393,7 @@ export default function MicroTouristHubPage() {
                   <p>【栃木・鬼怒川温泉：渓谷美・鬼怒楯岩大吊橋＆ライン下り】 <strong>【駐車場・マイカー利用】</strong>有り　３０台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「鬼怒川の絶景と創作料理、心温まる接客に感動クラブフロアのスイートの部屋に宿泊しました。部屋のお風呂、大きな窓から眼下に広がる鬼怒川の景観が素晴らしく、厳選された素材を使っての創作料理もとても美…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「鬼怒川の絶景と創作料理、心温まる接客に感動クラブフロアのスイートの部屋に宿泊しました。」
                   </blockquote>
                 </div>
               </div>
@@ -415,7 +415,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有　80台(無料・予約不要)</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.89 ／ 立地 ★3.81 ／ 部屋 ★3.71 ／ 設備 ★3.64 ／ 風呂 ★3.8 ／ 食事 ★3.9</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「大吊橋の夜景と飲み放題のコスパが最高ホテル近くの大吊橋のライトアップが良かった夕食のアルコール、ソフトドリンクの飲み放題のコスパがお得小鉢のお刺身が小さくもう少し大きくしてもらいたい…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「大吊橋の夜景と飲み放題のコスパが最高ホテル近くの大吊橋のライトアップが良かった夕食のアルコール、ソフトドリンクの飲み放題のコスパがお得小鉢のお刺身が小さくもう少し大きくしてもらいたい。」
                   </blockquote>
                 </div>
               </div>

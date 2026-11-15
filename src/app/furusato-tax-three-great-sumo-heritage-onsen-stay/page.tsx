@@ -234,7 +234,7 @@ export default function FurusatoRound65ArticlePage() {
                   <div className="text-xs text-stone-500 font-medium mb-1">所在地: 島根県 松江市玉湯町玉造44-2</div>
                   <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">出雲・玉造温泉　白石家</h3>
                   <p className="text-stone-600 text-sm leading-relaxed mb-4">
-                    「スタッフの温かい心遣いに感動しましたスタッフのかたの教育がしっかりされていて、気持ちよく過ごせます。食事の席や車にスタッフのかたからの素敵なご挨拶が書いてありあたたかい気持ちになりました。… つづきはこちら」
+                    「スタッフの温かい心遣いに感動しましたスタッフのかたの教育がしっかりされていて、気持ちよく過ごせます。食事の席や車にスタッフのかたからの素敵なご挨拶が書いてありあたたかい気持ちになりました。」
                   </p>
                   
                   <div className="bg-stone-50 rounded-xl p-3.5 border border-stone-200/60 mb-6 text-xs text-stone-600 space-y-1">
@@ -396,7 +396,7 @@ export default function FurusatoRound65ArticlePage() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 都営地下鉄大江戸線両国駅直結(A1出入口)、JR総武線両国駅より徒歩8分で現地へ到着。</li>
                 <li>・<strong className="text-stone-800">15:30〜</strong> 「第一ホテル両国」へチェックイン。落ち着いた空間で旅の荷を解き、ゆったりとした時間をスタート。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「第一ホテル両国」の湯処へ。日頃の疲れを癒やす湯浴みとともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「第一ホテル両国」の大浴場・露天風呂へ。日暮れの静けさの中で湯に浸かり、旅の緊張をゆっくりと解きほぐす。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「第一ホテル両国」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -408,7 +408,7 @@ export default function FurusatoRound65ArticlePage() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「第一ホテル両国」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「第一ホテル両国」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「出雲・玉造温泉 白石家」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は宿周辺の散策とショッピングを満喫。地元の名産品やグルメを味わってから余裕をもって帰路につく。</li>
               </ul>
             </div>
           </div>

@@ -253,7 +253,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. グレースヴィラ宮古島＜宮古島＞</td>
                 <td className="p-3 text-stone-600">沖縄県宮古島市下地字嘉手苅283-5</td>
-                <td className="p-3 text-stone-600">宮古空港駅周辺</td>
+                <td className="p-3 text-stone-600">宮古空港より車で約13分、下地島空港より車で約30分</td>
                 <td className="p-3 text-stone-600">有り　10台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4（10件）</td>
                 <td className="p-3 font-bold text-rose-600">¥9,540〜</td>
@@ -271,7 +271,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. ＨＯＴＥＬ　Ｋｕｕ＜伊良部島＞</td>
                 <td className="p-3 text-stone-600">沖縄県【本館】宮古島市伊良部前里添594-2　【Sarahama別館】宮古島市伊良部前里添1708-2</td>
-                <td className="p-3 text-stone-600">宮古空港駅周辺</td>
+                <td className="p-3 text-stone-600">下地島空港よりお車にて約10分、宮古島空港よりお車にて約30分 マップコード721 309 689*76</td>
                 <td className="p-3 text-stone-600">有り　本館24台、 別館10台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.29（73件）</td>
                 <td className="p-3 font-bold text-rose-600">¥2,850〜</td>
@@ -289,7 +289,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. ウォーターマークホテル沖縄　宮古島＜伊良部島＞</td>
                 <td className="p-3 text-stone-600">沖縄県宮古島市伊良部佐和田前原1725</td>
-                <td className="p-3 text-stone-600">宮古空港駅周辺</td>
+                <td className="p-3 text-stone-600">宮古島空港より車で約35分、みやこ下地島空港より車で約5分</td>
                 <td className="p-3 text-stone-600">有り　50台　1室につき1台無料　（予約不要）</td>
                 <td className="p-3 font-bold text-amber-600">★4.41（249件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,265〜</td>
@@ -298,7 +298,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">6. ｔｈｅ　ｒｅｓｃａｐｅ（ザ・リスケープ）＜宮古島＞</td>
                 <td className="p-3 text-stone-600">沖縄県宮古島市城辺長間1901-1</td>
-                <td className="p-3 text-stone-600">宮古空港駅周辺</td>
+                <td className="p-3 text-stone-600">宮古空港よりお車にて約１５分｜下地島空港から車で45分</td>
                 <td className="p-3 text-stone-600">有り　５０台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.68（123件）</td>
                 <td className="p-3 font-bold text-rose-600">¥21,220〜</td>
@@ -393,7 +393,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>★有り★　約10台無料　予約不要！</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋のニオイと清掃状況に不満、対応も残念部屋に入ると男性用制汗剤のような強烈なニオイ。カビのニオイなのか室内にあった芳香剤のにおいなのかわからないがとにかくきつかった。布団カバーのキルトは…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋のニオイと清掃状況に不満、対応も残念部屋に入ると男性用制汗剤のような強烈なニオイ。カビのニオイなのか室内にあった芳香剤のにおいなのかわからないがとにかくきつかった。」
                   </blockquote>
                 </div>
               </div>

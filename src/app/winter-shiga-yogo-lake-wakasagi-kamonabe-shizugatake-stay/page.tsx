@@ -247,7 +247,7 @@ export default function FeaturePage() {
                     
                 <div className="bg-stone-50/90 rounded-xl p-3.5 sm:p-4 text-xs sm:text-sm text-stone-600 border border-stone-200/80 mt-2">
                   <span className="font-bold text-stone-800 block mb-1">宿泊者のクチコミ抜粋</span>
-                  <p className="leading-relaxed">{"「夕食の提供が遅く、価格に見合わない内容夕食のスタッフが不足しており、なかなか出てこなかった。総合的に普通だが、宿泊代は安くはないため星2とした。クチコミの…」"}</p>
+                  <p className="leading-relaxed">{"「夕食の提供が遅く、価格に見合わない内容夕食のスタッフが不足しており、なかなか出てこなかった。総合的に普通だが、宿泊代は安くはないため星2とした。」"}</p>
                 </div>
             
                   </div>

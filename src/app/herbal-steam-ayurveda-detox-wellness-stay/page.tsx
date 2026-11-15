@@ -363,8 +363,8 @@ export default function Page() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 篠ノ井駅よりアクセス。長野駅より車で２０分約９㎞、JR今井駅より車で５分約２.５ｋｍ、長野Ｉ．Ｃより車で１５分。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「中尾山温泉松仙閣＜長野県＞」にチェックイン。お夕食と肌スベ天然温泉が人気。お見合い露天風呂」やカラオケ風呂のユニーク風呂も♪無線LAN可能などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「中尾山温泉松仙閣＜長野県＞」の湯処へ。お夕食と肌スベ天然温泉が人気。お見合い露天風呂」やカラオケ風呂のユニーとともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「中尾山温泉松仙閣＜長野県＞」にチェックイン。お夕食と肌スベ天然温泉が人気。 まずは客室で移動の疲れをそっと癒やす。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「中尾山温泉松仙閣＜長野県＞」の自慢の湯処へ。温かな湯気と落ち着いた雰囲気に癒やされながら、夕食前の贅沢なひとときを過ごす。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「中尾山温泉松仙閣＜長野県＞」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -376,7 +376,7 @@ export default function Page() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「中尾山温泉松仙閣＜長野県＞」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「中尾山温泉松仙閣＜長野県＞」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「旅館 励明園」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は宿周辺の散策とショッピングを満喫。地元の名産品やグルメを味わってから余裕をもって帰路につく。</li>
               </ul>
             </div>
           </div>

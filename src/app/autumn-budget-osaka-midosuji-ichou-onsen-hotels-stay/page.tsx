@@ -342,7 +342,7 @@ export default function OsakaBudgetAutumnPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 湯元「花乃井」スーパーホテル大阪天然温泉</td>
                 <td className="p-3 text-stone-600">大阪府大阪市西区江戸堀3-6-35</td>
-                <td className="p-3 text-stone-600">阿波座駅周辺</td>
+                <td className="p-3 text-stone-600">地下鉄中央線・千日前線【阿波座駅】出口⑨右へ徒歩約5分/JR【大阪駅】大阪市営バス88系天保山行「土佐堀三丁目」下車</td>
                 <td className="p-3 text-stone-600">近隣の一般コインパーキングのご案内となります。</td>
                 <td className="p-3 font-bold text-amber-600">★4.4（7012件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,900〜</td>
@@ -351,7 +351,7 @@ export default function OsakaBudgetAutumnPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 天然温泉　秀吉ゆかりの天下取りの湯　スーパーホテルＪＲ新大阪東口</td>
                 <td className="p-3 text-stone-600">大阪府大阪市東淀川区東中島1-13-26</td>
-                <td className="p-3 text-stone-600">新大阪駅周辺</td>
+                <td className="p-3 text-stone-600">JR新大阪駅 【東口】から徒歩約5分、地下鉄御堂筋線新大阪駅から徒歩10分、大阪梅田・なんば・天王寺へもアクセス抜群</td>
                 <td className="p-3 text-stone-600">２台、要電話予約、連泊利用不可</td>
                 <td className="p-3 font-bold text-amber-600">★4.21（3487件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,480〜</td>
@@ -360,7 +360,7 @@ export default function OsakaBudgetAutumnPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 天然温泉　四季彩の湯　スーパーホテルＰｒｅｍｉｅｒ大阪本町駅前</td>
                 <td className="p-3 text-stone-600">大阪府大阪市西区西本町1-5-10</td>
-                <td className="p-3 text-stone-600">本町駅周辺</td>
+                <td className="p-3 text-stone-600">大阪メトロ 四つ橋線 西梅田駅から2駅！なんば駅から2駅！四つ橋線・御堂筋線本町駅２４号出口ほぼ直結♪</td>
                 <td className="p-3 text-stone-600">専用駐車場はございません。周辺コインパーキングをご利用ください。</td>
                 <td className="p-3 font-bold text-amber-600">★4.43（1774件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,600〜</td>
@@ -369,7 +369,7 @@ export default function OsakaBudgetAutumnPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. シティプラザ大阪〜ＨＯＴＥＬ＆ＳＰＡ〜</td>
                 <td className="p-3 text-stone-600">大阪府大阪市中央区本町橋2-31</td>
-                <td className="p-3 text-stone-600">堺筋本町駅周辺</td>
+                <td className="p-3 text-stone-600">大阪メトロ「堺筋本町駅（12-1番出口）」より徒歩6分／大阪メトロ「谷町四丁目（4号出口）」より徒歩7分</td>
                 <td className="p-3 text-stone-600">有り（予約不要）170台 1,000円／24時間（車高制限2.1ｍ以下） バイク・自転車駐輪場なし</td>
                 <td className="p-3 font-bold text-amber-600">★4.33（4387件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,020〜</td>
@@ -378,7 +378,7 @@ export default function OsakaBudgetAutumnPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. リーベルホテル大阪</td>
                 <td className="p-3 text-stone-600">大阪府大阪市此花区桜島1丁目1番35号</td>
-                <td className="p-3 text-stone-600">桜島駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲゆめ咲線 桜島駅より徒歩1分 テーマパークまで徒歩約13分、ユニバーサルシティ駅1分1駅 大阪駅まで電車で最短14分</td>
                 <td className="p-3 text-stone-600">ご宿泊当日12:00〜翌12:00迄3,000円 上記時間外は500円/30分</td>
                 <td className="p-3 font-bold text-amber-600">★4.71（7119件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,000〜</td>
@@ -429,7 +429,7 @@ export default function OsakaBudgetAutumnPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>２台、要電話予約、連泊利用不可</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.32 ／ 立地 ★4.12 ／ 部屋 ★4.17 ／ 設備 ★4.17 ／ 風呂 ★4.02 ／ 食事 ★4.2</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事は満足だが温泉と部屋の段差が不便ウエルカムドリンクや朝食が充実していました温泉は時間帯別で女性・男性が入替制19時から23時は女性専用で実質男性が温泉を使うことが難しいと感じました …」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事は満足だが温泉と部屋の段差が不便ウエルカムドリンクや朝食が充実していました温泉は時間帯別で女性・男性が入替制19時から23時は女性専用で実質男性が温泉を使うことが難しいと感じました。」
                   </blockquote>
                 </div>
               </div>
@@ -495,7 +495,7 @@ export default function OsakaBudgetAutumnPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>ご宿泊当日12:00〜翌12:00迄3,000円 上記時間外は500円/30分</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.69 ／ 立地 ★4.71 ／ 部屋 ★4.73 ／ 設備 ★4.71 ／ 風呂 ★4.72 ／ 食事 ★4.71</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「新鮮なサラダと気持ちいいお風呂に満足朝食のサラダの種類が多い上フレッシュで、普段苦手な私でも美味しく頂けました。お風呂もとても気持ちよかったです。接客対応は人によりけりでしたが、電話で子供…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「新鮮なサラダと気持ちいいお風呂に満足朝食のサラダの種類が多い上フレッシュで、普段苦手な私でも美味しく頂けました。お風呂もとても気持ちよかったです。」
                   </blockquote>
                 </div>
               </div>

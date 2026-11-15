@@ -324,8 +324,8 @@ export default function FeaturePage() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 伊豆高原駅よりアクセス。伊豆高原駅よりバス17分 バス停より徒歩10分。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「ＳＫＹ－ＨＩＬＬ ＨＯＴＥＬ 伊豆高原」にチェックイン。伊豆シャボテン動物公園がゼロ距離！大室山を身近に体感できる全室オーシャンビューのホテルなどの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「ＳＫＹ－ＨＩＬＬ ＨＯＴＥＬ 伊豆高原」の湯処へ。伊豆シャボテン動物公園がゼロ距離！大室山を身近に体感できる全室オーシャとともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「ＳＫＹ－ＨＩＬＬ ＨＯＴＥＬ 伊豆高原」にチェックイン。伊豆シャボテン動物公園がゼロ距離！ まずは客室で移動の疲れをそっと癒やす。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「ＳＫＹ－ＨＩＬＬ ＨＯＴＥＬ 伊豆高原」の大浴場・露天風呂へ。日暮れの静けさの中で湯に浸かり、旅の緊張をゆっくりと解きほぐす。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「ＳＫＹ－ＨＩＬＬ ＨＯＴＥＬ 伊豆高原」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -337,7 +337,7 @@ export default function FeaturePage() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「ＳＫＹ－ＨＩＬＬ ＨＯＴＥＬ 伊豆高原」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「ＳＫＹ－ＨＩＬＬ ＨＯＴＥＬ 伊豆高原」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「伊豆ホテル リゾート＆スパ」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は「ＳＫＹ－ＨＩＬＬ ＨＯＴＥＬ 伊豆高原」周辺の観光スポットや地元の名産店に立ち寄り、ご当地のお土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>

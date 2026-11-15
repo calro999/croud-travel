@@ -253,7 +253,7 @@ export default function LuxuryPremiumHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 綾ニセコ</td>
                 <td className="p-3 text-stone-600">北海道虻田郡倶知安町ニセコひらふ1条4丁目4番5号</td>
-                <td className="p-3 text-stone-600">倶知安駅周辺</td>
+                <td className="p-3 text-stone-600">倶知安駅よりお車にて約１５分</td>
                 <td className="p-3 text-stone-600">有り　約25台　無料　(先着順）</td>
                 <td className="p-3 font-bold text-amber-600">★4.67（52件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,450〜</td>
@@ -262,7 +262,7 @@ export default function LuxuryPremiumHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. ホテルルートインコート山梨</td>
                 <td className="p-3 text-stone-600">山梨県山梨市上石森字吉原187番3号</td>
-                <td className="p-3 text-stone-600">山梨市駅周辺</td>
+                <td className="p-3 text-stone-600">中央道一宮御坂I.C/勝沼I.Cより車で約15分。山梨市駅より車で約5分。</td>
                 <td className="p-3 text-stone-600">有り　45台　無料　（大型車・中型車は駐車できません）</td>
                 <td className="p-3 font-bold text-amber-600">★3.65（470件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,150〜</td>
@@ -271,7 +271,7 @@ export default function LuxuryPremiumHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 勝沼ぶどう郷ユースホステル</td>
                 <td className="p-3 text-stone-600">山梨県甲州市勝沼町菱山861-2</td>
-                <td className="p-3 text-stone-600">勝沼ぶどう郷駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ中央線 勝沼ぶどう郷駅より徒歩１３分／中央道 勝沼ＩＣより車で１０分</td>
                 <td className="p-3 text-stone-600">有り　７台　無料　要予約</td>
                 <td className="p-3 font-bold text-amber-600">★4.67（87件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,400〜</td>
@@ -280,7 +280,7 @@ export default function LuxuryPremiumHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 湯村温泉　湯志摩の郷　楽水園</td>
                 <td className="p-3 text-stone-600">山梨県甲府市湯村1-11-5</td>
-                <td className="p-3 text-stone-600">甲府駅周辺</td>
+                <td className="p-3 text-stone-600">JR中央線・甲府駅より車で約10分／中央自動車道 甲府昭和ICより約20分</td>
                 <td className="p-3 text-stone-600">有り　15台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.26（312件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,000〜</td>
@@ -289,7 +289,7 @@ export default function LuxuryPremiumHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 富士山石和温泉郷　春日居びゅーほてる</td>
                 <td className="p-3 text-stone-600">山梨県笛吹市春日居町鎮目178</td>
-                <td className="p-3 text-stone-600">石和温泉駅周辺</td>
+                <td className="p-3 text-stone-600">JR中央本線 石和温泉駅より車で5分／中央自動車道 一宮御坂ICより車で10分／中央高速バス 石和バス停より車で5分</td>
                 <td className="p-3 text-stone-600">有り 100台 無料 予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★3.99（1238件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,250〜</td>
@@ -298,7 +298,7 @@ export default function LuxuryPremiumHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">6. 信州車山高原の宿泊できるレストラン　オーベルジュ　ラ・メイジュ</td>
                 <td className="p-3 text-stone-600">長野県茅野市　車山高原</td>
-                <td className="p-3 text-stone-600">茅野駅周辺</td>
+                <td className="p-3 text-stone-600">お車の場合・中央自動車道諏訪ＩＣより約４０分、諏訪南ＩＣより約４０分 バスの場合・JR茅野駅→車山高原約６０分</td>
                 <td className="p-3 text-stone-600">有り　10台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.63（216件）</td>
                 <td className="p-3 font-bold text-rose-600">¥19,250〜</td>
@@ -349,7 +349,7 @@ export default function LuxuryPremiumHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　45台　無料　（大型車・中型車は駐車できません）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「男女交代制のお風呂で入浴時間に気を使う大きいお風呂を使う際、男女交代制の為入浴時間が設けられているので、時間をきにしながら外での夕食に気を使いました。我が家は、男性は先に入浴済ませそれからみん…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「男女交代制のお風呂で入浴時間に気を使う大きいお風呂を使う際、男女交代制の為入浴時間が設けられているので、時間をきにしながら外での夕食に気を使いました。」
                   </blockquote>
                 </div>
               </div>
@@ -393,7 +393,7 @@ export default function LuxuryPremiumHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　15台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「黒毛和牛が絶品、部屋も広くて快適黒毛和牛の肉が柔らかく絶品でした。夕食・朝食とも品数が多く満足でした。また、部屋は2部屋あり寝室は広くゆったりし空調が行き届いて快適でした。(南側に広い廊下ある…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「黒毛和牛が絶品、部屋も広くて快適黒毛和牛の肉が柔らかく絶品でした。夕食・朝食とも品数が多く満足でした。また、部屋は2部屋あり寝室は広くゆったりし空調が行き届いて快適でした。」
                   </blockquote>
                 </div>
               </div>

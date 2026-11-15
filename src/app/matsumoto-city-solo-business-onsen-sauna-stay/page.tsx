@@ -336,8 +336,8 @@ export default function ArticlePage() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 松本駅よりアクセス。JR松本駅より徒歩8分・長野県中央自動車道 松本ICより１５分・まつもと市民芸術館・市美術館・相澤病院に最短ホテル。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「手づくり朝食と大浴場が人気のホテル 松本ツーリストホテル」にチェックイン。手作り健康朝食と大浴場が自慢のホテル 全館シモンズベッド・Wi-Fi完備 長野県松本市立地抜群などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「手づくり朝食と大浴場が人気のホテル 松本ツーリストホテル」の湯処へ。手作り健康朝食と大浴場が自慢のホテル 全館シモンズベッド・Wi-Fi完とともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「手づくり朝食と大浴場が人気のホテル 松本ツーリストホテル」にチェックイン。手作り健康朝食と大浴場が自慢のホテル 全館シモンズベッド・Wi-Fi完備 長野県松本市立地抜群が魅力の一軒。客室で荷物をほどいて穏やかな午後のひとときを。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「手づくり朝食と大浴場が人気のホテル 松本ツーリストホテル」の大浴場・露天風呂へ。日暮れの静けさの中で湯に浸かり、旅の緊張をゆっくりと解きほぐす。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「手づくり朝食と大浴場が人気のホテル 松本ツーリストホテル」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -365,21 +365,21 @@ export default function ArticlePage() {
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">あわせて読みたい人気特集＆全国エリアガイド</h2>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
-            <a href="/furusato-tax-yamagata-zao-onsen-okama-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/autumn-budget-nagano-zenkoji-momiji-shinshu-apple-hotels-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">エメラルドの火口湖「御釜」と冬の樹氷スノーモンスター！山形蔵王温泉の乳白色強酸性硫黄泉＆極上山形牛名門宿×ふるさと納税完全攻略ガイド【2026年最新】蔵王国際・四季のホテル・高見屋！山形蔵王温泉の乳白色強酸性硫黄泉＆極上山形牛名門宿×ふるさと納税極上旅ガイド蔵王国際・四季のホテル・高見屋</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「長野」善光寺の紅葉＆信州新そばを満喫！5,000円台〜泊まれる格安・高コスパ宿5選</span>
             </a>
-            <a href="/winter-yamagata-akayu-onsen-yonezawa-beef-wine-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/autumn-nagano-kamikochi-shirahone-onsen-autumn-hotels-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12月山形・赤湯温泉の置賜盆地雲海と開湯920年名湯】特選米沢牛すき焼き・日本最古級赤湯ワイン＆自家源泉掛け流しの宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「秋の上高地・白骨温泉」カラマツ黄葉と乳白色の秘湯！閉山前に訪れたい絶景名宿5選</span>
             </a>
-            <a href="/winter-yamagata-onogawa-yonezawa-beef-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/furusato-tax-cave-bath-natural-grotto-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12月米沢牛すき焼きと小野川温泉】小野小町ゆかりの美肌名湯とかまくら雪見宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">荒波迫る海食洞窟と神秘の巨岩風呂！全国の天然洞窟温泉＆名湯旅館×ふるさと納税厳選ガイド南紀勝浦・湯の峰・上諏訪</span>
             </a>
-            <a href="/winter-yamagata-zao-onsen-snow-jyuhyo-beef-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/furusato-tax-hakuba-three-stage-autumn-leaves-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12月山形蔵王温泉の冬名湯と白銀の樹氷】初雪の強酸性硫黄泉露天と蔵王ロープウェイ・極上山形牛すき焼き＆郷土芋煮会席の宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">白馬八方尾根・北アルプス冠雪と山麓紅葉の「三段紅葉」＆日本屈指の強アルカリ美肌温泉ステイ｜ふるさと納税で泊まれる名宿ガイド</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">
@@ -443,7 +443,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 天然温泉　あづみの湯　御宿　野乃松本（ドーミーイン・御宿野乃　ホテルズグループ）</td>
                 <td className="p-3 text-stone-600">長野県松本市深志1-5-17</td>
-                <td className="p-3 text-stone-600">松本駅周辺</td>
+                <td className="p-3 text-stone-600">松本駅 徒歩5分</td>
                 <td className="p-3 text-stone-600">有28台(15:00〜翌12:00）1泊1400円/台(途中出庫は有料）バイクは詳細確認ください</td>
                 <td className="p-3 font-bold text-amber-600">★4.62（1124件）</td>
                 <td className="p-3 font-bold text-rose-600">¥13,277〜</td>
@@ -452,7 +452,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 手づくり朝食と大浴場が人気のホテル　松本ツーリストホテル</td>
                 <td className="p-3 text-stone-600">長野県松本市深志2-4-24</td>
-                <td className="p-3 text-stone-600">松本駅周辺</td>
+                <td className="p-3 text-stone-600">JR松本駅より徒歩8分・長野県中央自動車道 松本ICより１５分・まつもと市民芸術館・市美術館・相澤病院に最短ホテル</td>
                 <td className="p-3 text-stone-600">普通乗用車　900円／泊 二輪車(露天駐輪場)　450円／泊 ※大型車 要お問い合わせ</td>
                 <td className="p-3 font-bold text-amber-600">★4.19（5677件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,400〜</td>
@@ -461,7 +461,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 山形グランドホテル</td>
                 <td className="p-3 text-stone-600">山形県山形市本町1-7-42</td>
-                <td className="p-3 text-stone-600">山形駅周辺</td>
+                <td className="p-3 text-stone-600">JR山形駅から車で5分。市内中心街に立地。中心街１００円循環バスで山形駅より５分。（運行時間/9:30～18:30）</td>
                 <td className="p-3 text-stone-600">1泊1,000円。先着順となります（予約不可）※大型車は駐車出来ません</td>
                 <td className="p-3 font-bold text-amber-600">★3.99（1630件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,227〜</td>
@@ -470,7 +470,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. ホテルリッチ＆ガーデン酒田</td>
                 <td className="p-3 text-stone-600">山形県酒田市若竹町1-1-1</td>
-                <td className="p-3 text-stone-600">酒田駅周辺</td>
+                <td className="p-3 text-stone-600">■庄内空港よりバス30分 庄内空港行きはホテル道路沿いより運行 ■■酒田駅 車で６分■■酒田ＩＣ １０分</td>
                 <td className="p-3 text-stone-600">約80台無料駐車場</td>
                 <td className="p-3 font-bold text-amber-600">★4.19（1764件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,700〜</td>
@@ -479,7 +479,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 白布温泉　中屋別館　不動閣</td>
                 <td className="p-3 text-stone-600">山形県米沢市白布温泉大字関1514</td>
-                <td className="p-3 text-stone-600">米沢駅周辺</td>
+                <td className="p-3 text-stone-600">JR米沢駅から路線バス（山交バス白布温泉行き）約50分。東北中央自動車道～米沢八幡原IC～国道13号～県道2号線約30分</td>
                 <td className="p-3 text-stone-600">有り　50台（宿泊者無料/先着順）</td>
                 <td className="p-3 font-bold text-amber-600">★4.37（315件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,470〜</td>
@@ -508,7 +508,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有28台(15:00〜翌12:00）1泊1400円/台(途中出庫は有料）バイクは詳細確認ください</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.63 ／ 立地 ★4.49 ／ 部屋 ★4.62 ／ 設備 ★4.61 ／ 風呂 ★4.61 ／ 食事 ★4.73</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「眺望が期待外れで少し残念な気分禁煙ダブルルームで予約しました。眺望なしではないプランなのに目の前はスーパーホテルが丸見えでした。ほんの少しですが、眺望なしより値段が高いのでだまされた気分で…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「眺望が期待外れで少し残念な気分禁煙ダブルルームで予約しました。眺望なしではないプランなのに目の前はスーパーホテルが丸見えでした。」
                   </blockquote>
                 </div>
               </div>
@@ -552,7 +552,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>1泊1,000円。先着順となります（予約不可）※大型車は駐車出来ません</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.11 ／ 立地 ★3.96 ／ 部屋 ★3.98 ／ 設備 ★3.86 ／ 風呂 ★3.69</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「設備が充実し、駐車場も多くて便利飛び込みでの素泊まりしました。宿泊面での設備は充実しており部屋にあるコーヒーマシンを使わせていただきました。周囲に駐車場も多く存在して訪問しやすいです。…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「設備が充実し、駐車場も多くて便利飛び込みでの素泊まりしました。宿泊面での設備は充実しており部屋にあるコーヒーマシンを使わせていただきました。周囲に駐車場も多く存在して訪問しやすいです。」
                   </blockquote>
                 </div>
               </div>
@@ -574,7 +574,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>約80台無料駐車場</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.18 ／ 立地 ★4.16 ／ 部屋 ★4.13 ／ 設備 ★4 ／ 風呂 ★4.03 ／ 食事 ★4.36</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「最上川と鳥海山を望む絶景、また来ます3泊しました...8階の部屋で、最上川が綺麗に見えました...6月に宿泊した際は「出羽富士(鳥海山)」が見える同じ8階の反対側でした...また、お世話になります…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「最上川と鳥海山を望む絶景、また来ます3泊しました...8階の部屋で、最上川が綺麗に見えました...6月に宿泊した際は「出羽富士(鳥海山)」が見える同じ8階の反対側でした...また、お世話になります。」
                   </blockquote>
                 </div>
               </div>
@@ -596,7 +596,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　50台（宿泊者無料/先着順）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「渓谷の涼風と絶品黒毛和牛、最高の温泉体験宿の立地・環境は避暑には最適で、盛夏の15時でも建物の中は気温22度しかなく、渓谷から涼しい風が入ってきて別天地のようでした。建物は古くて年季が入ってま…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「渓谷の涼風と絶品黒毛和牛、最高の温泉体験宿の立地・環境は避暑には最適で、盛夏の15時でも建物の中は気温22度しかなく、渓谷から涼しい風が入ってきて別天地のようでした。」
                   </blockquote>
                 </div>
               </div>

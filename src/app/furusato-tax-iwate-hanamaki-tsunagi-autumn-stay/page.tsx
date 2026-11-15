@@ -352,39 +352,7 @@ export default function Page() {
             </Link>
           </div>
         </section>
-        <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
-          <div className="flex items-center gap-3 mb-6">
-            <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】花巻温泉 佳松園を拠点にするおすすめ滞在モデルコース</h2>
-          </div>
-          <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
-            <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
-              <div className="flex items-center gap-2">
-                <span className="bg-amber-600 text-white text-xs font-bold px-2.5 py-1 rounded">1日目</span>
-                <h3 className="font-bold text-stone-900 text-base md:text-lg">到着〜チェックインと名湯巡り</h3>
-              </div>
-              <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
-                <li>・<strong className="text-stone-800">14:00〜</strong> 新花巻駅よりアクセス。花巻IC：右折後直進4km（5分）、JR新花巻駅・JR花巻駅：無料送迎バス20分（定時運行・完全予約制）。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「花巻温泉 佳松園」にチェックイン。とろとろの湯と心に残るおもてなし。特別な日を佳松園で過ごす愉しみ。花巻ICよりわずか5分の別世界。などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「花巻温泉 佳松園」の湯処へ。とろとろの湯と心に残るおもてなし。特別な日を佳松園で過ごす愉しみ。花巻とともに、夕暮れの特別な寛ぎを満喫。</li>
-                <li>・<strong className="text-stone-800">19:00〜</strong> 「花巻温泉 佳松園」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
-              </ul>
-            </div>
-            <div className="border-l-2 border-teal-500 pl-4 md:pl-6 space-y-4">
-              <div className="flex items-center gap-2">
-                <span className="bg-teal-600 text-white text-xs font-bold px-2.5 py-1 rounded">2日目</span>
-                <h3 className="font-bold text-stone-900 text-base md:text-lg">爽快な朝湯〜周辺散策と帰路へ</h3>
-              </div>
-              <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
-                <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「花巻温泉 佳松園」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
-                <li>・<strong className="text-stone-800">08:00〜</strong> 「花巻温泉 佳松園」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「花巻温泉 ホテル紅葉館」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
-              </ul>
-            </div>
-          </div>
-        </section>
-
-        {/* FAQ Section */}
+                {/* FAQ Section */}
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
@@ -449,28 +417,28 @@ export default function Page() {
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
             <div className="flex flex-wrap gap-2">
               <Link
-                href="/prefectures/fukui/"
+                href="/prefectures/iwate/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                福井県の宿・温泉
+                岩手県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/fukuoka/"
+                href="/prefectures/hokkaido/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                福岡県の宿・温泉
+                北海道の宿・温泉
               </Link>
               <Link
-                href="/prefectures/saitama/"
+                href="/prefectures/aomori/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                埼玉県の宿・温泉
+                青森県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/toyama/"
+                href="/prefectures/miyagi/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                富山県の宿・温泉
+                宮城県の宿・温泉
               </Link>
             </div>
           </div>
@@ -506,7 +474,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 花巻温泉　佳松園</td>
                 <td className="p-3 text-stone-600">岩手県花巻市湯本第1地割125-2</td>
-                <td className="p-3 text-stone-600">新花巻駅周辺</td>
+                <td className="p-3 text-stone-600">花巻IC：右折後直進4km（5分）、JR新花巻駅・JR花巻駅：無料送迎バス20分（定時運行・完全予約制）</td>
                 <td className="p-3 text-stone-600">有り　30台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.69（1120件）</td>
                 <td className="p-3 font-bold text-rose-600">¥18,700〜</td>
@@ -515,7 +483,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 花巻温泉　ホテル紅葉館</td>
                 <td className="p-3 text-stone-600">岩手県花巻市湯本第1地割125</td>
-                <td className="p-3 text-stone-600">新花巻駅周辺</td>
+                <td className="p-3 text-stone-600">花巻IC：右折後直進4km（5分）、JR新花巻駅・JR花巻駅：無料送迎バス20分（定時運行・完全予約制）</td>
                 <td className="p-3 text-stone-600">有り　600台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.31（3653件）</td>
                 <td className="p-3 font-bold text-rose-600">¥9,900〜</td>
@@ -524,7 +492,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 花巻温泉　割烹旅館　廣美亭</td>
                 <td className="p-3 text-stone-600">岩手県花巻市湯本1-88-1</td>
-                <td className="p-3 text-stone-600">東北自動車道花巻ＩＣより5分・JR花巻空港駅よりタクシーで15分・東北</td>
+                <td className="p-3 text-stone-600">東北自動車道花巻ＩＣより5分・JR花巻空港駅よりタクシーで15分・東北新幹線新花巻駅より無料送迎バスあり（要プラン確認）</td>
                 <td className="p-3 text-stone-600">有り　２０台　先着順　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.59（328件）</td>
                 <td className="p-3 font-bold text-rose-600">¥15,400〜</td>
@@ -553,7 +521,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　30台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.74 ／ 立地 ★4.61 ／ 部屋 ★4.64 ／ 設備 ★4.68 ／ 風呂 ★4.79 ／ 食事 ★4.72</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの対応が良く、食事も温泉も大満足スタッフの皆さんの対応が感じよく、チェックインからチェックアウトまでとても気持ちよく過ごすことができました。食事も温泉もお部屋も満足で非日常の空間でリフレッ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの対応が良く、食事も温泉も大満足スタッフの皆さんの対応が感じよく、チェックインからチェックアウトまでとても気持ちよく過ごすことができました。」
                   </blockquote>
                 </div>
               </div>
@@ -575,7 +543,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　600台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「丁寧な対応に感謝、次は薔薇の時期に再訪したいお世話になりました。夕食会場を間違ったにもかかわらず、丁寧な対応でありがたかったです。今度は薔薇が1番素敵な時期に訪れたいです。クチコミの詳細はこち…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「丁寧な対応に感謝、次は薔薇の時期に再訪したいお世話になりました。夕食会場を間違ったにもかかわらず、丁寧な対応でありがたかったです。今度は薔薇が1番素敵な時期に訪れたいです。」
                   </blockquote>
                 </div>
               </div>
@@ -597,7 +565,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２０台　先着順　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「静かな環境と丁寧な接客、美味しいお部屋食花巻温泉郷から離れた所にあり、幹線道路からも離れており非常に静かな所にあります。建物、お部屋等も清潔で気持ちが良いです。従業員の方々もとても丁寧な応対をして…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「静かな環境と丁寧な接客、美味しいお部屋食花巻温泉郷から離れた所にあり、幹線道路からも離れており非常に静かな所にあります。建物、お部屋等も清潔で気持ちが良いです。」
                   </blockquote>
                 </div>
               </div>

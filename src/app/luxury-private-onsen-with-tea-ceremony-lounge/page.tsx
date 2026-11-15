@@ -85,7 +85,7 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/38847/38847map.gif",
     "reviewCount": 417,
     "reviewAverage": 4.7,
-    "userReview": "十数年ぶりに利用させていだだいたのですが、おもてなしなど変わる事なく、今回の滞在も、のんびりとくつろぐ事ができ、家族にも喜んでもらうことができました。また、利用させていただきたいです。クチコミ。",
+    "userReview": "十数年ぶりに利用させていだだいたのですが、おもてなしなど変わる事なく、今回の滞在も、のんびりとくつろぐ事ができ、家族にも喜んでもらうことができました。また、利用させていただきたいです。",
     "hotelMinCharge": 20625,
     "address1": "石川県",
     "address2": "能美市辰口町3-1",
@@ -565,8 +565,8 @@ export default function FeatureDetailPage() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 宮津（京都）駅よりアクセス。車：京都縦貫自動車道宮津天橋立ＩＣより約５分 電車：京都丹後鉄道宮津駅より徒歩１０分 高速バス：キセンバ港館より徒歩７分。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「宮津温泉 料理旅館 茶六別館」にチェックイン。天橋立を望む数奇屋造りの料理宿。春夏には岩牡蠣など丹後の海の幸を生かした京風会席をご堪能下さい。などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「宮津温泉 料理旅館 茶六別館」の湯処へ。天橋立を望む数奇屋造りの料理宿。春夏には岩牡蠣など丹後の海の幸を生かしとともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「宮津温泉 料理旅館 茶六別館」にチェックイン。天橋立を望む数奇屋造りの料理宿。春夏には岩牡蠣など丹後の海の幸を生かした京風会席をご堪能下さい。 荷物を解き、落ち着いた室内でまず一息つく。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「宮津温泉 料理旅館 茶六別館」の湯船で寛ぎタイム。季節の空気を感じながら手足を伸ばし、心豊かな夕方のリラックス時間を満喫。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「宮津温泉 料理旅館 茶六別館」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -578,7 +578,7 @@ export default function FeatureDetailPage() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「宮津温泉 料理旅館 茶六別館」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「宮津温泉 料理旅館 茶六別館」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「浅虫温泉 椿館」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は「宮津温泉 料理旅館 茶六別館」周辺の観光スポットや地元の名産店に立ち寄り、ご当地のお土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>
@@ -706,7 +706,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 宮津温泉　料理旅館　茶六別館</td>
                 <td className="p-3 text-stone-600">京都府宮津市島崎2039-4</td>
-                <td className="p-3 text-stone-600">宮津（京都）駅周辺</td>
+                <td className="p-3 text-stone-600">車：京都縦貫自動車道宮津天橋立ＩＣより約５分 電車：京都丹後鉄道宮津駅より徒歩１０分 高速バス：キセンバ港館より徒歩７分</td>
                 <td className="p-3 text-stone-600">有り　１２台　無料　宿の左斜め前にございます</td>
                 <td className="p-3 font-bold text-amber-600">★4.56（206件）</td>
                 <td className="p-3 font-bold text-rose-600">¥18,700〜</td>
@@ -715,7 +715,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 金沢辰口温泉　まつさき</td>
                 <td className="p-3 text-stone-600">石川県能美市辰口町3-1</td>
-                <td className="p-3 text-stone-600">小松駅周辺</td>
+                <td className="p-3 text-stone-600">関東方面：IR松任駅より車20分、関西方面：JR小松駅より車20分 小松空港より車25分 ※要予約で送迎がございます</td>
                 <td className="p-3 text-stone-600">有り　８０台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.68（415件）</td>
                 <td className="p-3 font-bold text-rose-600">¥20,625〜</td>
@@ -724,7 +724,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 庭園と感動の宿　富士山温泉　ホテル鐘山苑</td>
                 <td className="p-3 text-stone-600">山梨県富士吉田市上吉田東9-1-18</td>
-                <td className="p-3 text-stone-600">富士吉田駅周辺</td>
+                <td className="p-3 text-stone-600">富士急行線富士山駅より１３時～１８時の間無料送迎あり／車８分／駅到着時にお電話下さい／翌日のお送りは８：００より３０分毎</td>
                 <td className="p-3 text-stone-600">有り　5００台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.69（1165件）</td>
                 <td className="p-3 font-bold text-rose-600">¥22,000〜</td>
@@ -733,7 +733,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 浅虫温泉　椿館</td>
                 <td className="p-3 text-stone-600">青森県青森市浅虫内野14</td>
-                <td className="p-3 text-stone-600">浅虫温泉駅周辺</td>
+                <td className="p-3 text-stone-600">青い森鉄道「浅虫温泉駅」下車 / 東北自動車道 青森東ICより1５分 / 青森空港より５０分</td>
                 <td className="p-3 text-stone-600">有り　35台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.55（622件）</td>
                 <td className="p-3 font-bold text-rose-600">¥13,200〜</td>
@@ -742,7 +742,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 有馬温泉　高山荘　華野</td>
                 <td className="p-3 text-stone-600">兵庫県神戸市北区有馬町400-1</td>
-                <td className="p-3 text-stone-600">有馬温泉駅周辺</td>
+                <td className="p-3 text-stone-600">大阪より約60分/三ノ宮・新神戸より約30分／神戸電鉄、バス 有馬温泉駅から徒歩10分 送迎有(要電話)</td>
                 <td className="p-3 text-stone-600">無料駐車場12台（15:00～翌朝11:00迄）完全予約制　満車時は近隣駐車場 送迎有。大型車不可。</td>
                 <td className="p-3 font-bold text-amber-600">★4.44（359件）</td>
                 <td className="p-3 font-bold text-rose-600">¥17,545〜</td>
@@ -793,7 +793,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　８０台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「心温まるおもてなしで最高の思い出に妊娠中に2人で最後の思い出に、、と思い伺いました。食事の変更など柔軟に対応してくださり、体調面も気にかけていただき、安心して過ごせました。またお部屋もグレ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「心温まるおもてなしで最高の思い出に妊娠中に2人で最後の思い出に、、と思い伺いました。食事の変更など柔軟に対応してくださり、体調面も気にかけていただき、安心して過ごせました。」
                   </blockquote>
                 </div>
               </div>
@@ -815,7 +815,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　5００台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.69 ／ 立地 ★4.71 ／ 部屋 ★4.64 ／ 設備 ★4.6 ／ 風呂 ★4.73 ／ 食事 ★4.75</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事と温泉は最高だが運営姿勢に疑問あり〇お食事:素晴らしい。いわゆる温泉旅館ランキング上位の旅館だということが他の上位旅館に実際宿泊して比較してみて理解できた。夕飯のお肉は少し残念。温かく出してほ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事と温泉は最高だが運営姿勢に疑問あり〇お食事:素晴らしい。いわゆる温泉旅館ランキング上位の旅館だということが他の上位旅館に実際宿泊して比較してみて理解できた。夕飯のお肉は少し残念。」
                   </blockquote>
                 </div>
               </div>

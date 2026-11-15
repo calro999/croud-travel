@@ -310,7 +310,7 @@ export default function AutumnBudgetAkitaHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. いやし処ほてる寛楽　秋田川反</td>
                 <td className="p-3 text-stone-600">秋田県秋田市南通亀の町4-40</td>
-                <td className="p-3 text-stone-600">秋田駅周辺</td>
+                <td className="p-3 text-stone-600">秋田駅西口より車6分／秋田南ICより車15分／秋田中央ICより車25分／リムジンバス「北都銀行前」下車・徒歩約6分</td>
                 <td className="p-3 text-stone-600">契約駐車場：800円（税込み／泊）先着順＊近隣コインパーキング有</td>
                 <td className="p-3 font-bold text-amber-600">★4.25（677件）</td>
                 <td className="p-3 font-bold text-rose-600">¥2,800〜</td>
@@ -319,7 +319,7 @@ export default function AutumnBudgetAkitaHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. ＥＮ　ＨＯＴＥＬ　Ａｋｉｔａ</td>
                 <td className="p-3 text-stone-600">秋田県秋田市大町2-2-41</td>
-                <td className="p-3 text-stone-600">秋田駅周辺</td>
+                <td className="p-3 text-stone-600">JR秋田駅より徒歩14分、タクシーで5分、秋田空港リムジンバスはホテル目の前に発着！</td>
                 <td className="p-3 text-stone-600">あり　64台　1泊あたり1,000円(税込)　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.22（1155件）</td>
                 <td className="p-3 font-bold text-rose-600">¥2,800〜</td>
@@ -328,7 +328,7 @@ export default function AutumnBudgetAkitaHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. アルバートホテル秋田</td>
                 <td className="p-3 text-stone-600">秋田県秋田市大町4-3-22</td>
-                <td className="p-3 text-stone-600">秋田駅周辺</td>
+                <td className="p-3 text-stone-600">秋田駅西口から車で５分。秋田空港からリムジンバスで約４０分、北都銀行前下車、徒歩２分。</td>
                 <td className="p-3 text-stone-600">先着順 83台：800円(税込/泊)　 ※満車時は近隣パーキング(自己負担) 　※大型車は駐車不可</td>
                 <td className="p-3 font-bold text-amber-600">★4.11（3215件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,170〜</td>
@@ -337,7 +337,7 @@ export default function AutumnBudgetAkitaHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. ユーランドホテル八橋</td>
                 <td className="p-3 text-stone-600">秋田県秋田市八橋イサノ2-16-29</td>
-                <td className="p-3 text-stone-600">秋田駅周辺</td>
+                <td className="p-3 text-stone-600">秋田駅より車で約１０分</td>
                 <td className="p-3 text-stone-600">平面・立体合わせて約130台の大型駐車場が完全無料！大型トラックやバイクも駐車可能です！</td>
                 <td className="p-3 font-bold text-amber-600">★4.2（727件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,000〜</td>
@@ -346,7 +346,7 @@ export default function AutumnBudgetAkitaHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. リッチモンドホテル秋田駅前</td>
                 <td className="p-3 text-stone-600">秋田県秋田市中通2-2-26</td>
-                <td className="p-3 text-stone-600">秋田駅周辺</td>
+                <td className="p-3 text-stone-600">◆ＪＲ秋田駅より徒歩7分◆秋田中央ＩＣより（秋田駅方面へ）車で20分◆秋田空港から秋田駅までリムジンバスで40分</td>
                 <td className="p-3 text-stone-600">先着順４６台　１泊１，０００円（税込）　満車時は近隣駐車場で現地精算をお願いします。</td>
                 <td className="p-3 font-bold text-amber-600">★4.41（3896件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,000〜</td>
@@ -375,7 +375,7 @@ export default function AutumnBudgetAkitaHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>契約駐車場：800円（税込み／泊）先着順＊近隣コインパーキング有</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.25 ／ 立地 ★4.21 ／ 部屋 ★4.34 ／ 設備 ★4.3 ／ 風呂 ★4.24</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「家族3人で快適に過ごせました夫婦+3歳の子供で宿泊しました。フロントの方の説明が過不足なしでわかりやすく、お部屋も綺麗でした。1階の浴場も椅子3つと少々こぢんまりですが、19時頃に利用した…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「家族3人で快適に過ごせました夫婦+3歳の子供で宿泊しました。フロントの方の説明が過不足なしでわかりやすく、お部屋も綺麗でした。」
                   </blockquote>
                 </div>
               </div>
@@ -419,7 +419,7 @@ export default function AutumnBudgetAkitaHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>先着順 83台：800円(税込/泊)　 ※満車時は近隣パーキング(自己負担) 　※大型車は駐車不可</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.09 ／ 立地 ★4.1 ／ 部屋 ★4.09 ／ 設備 ★4.02 ／ 風呂 ★4.01 ／ 食事 ★4.09</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「エアコンは3段階、清掃やタオル交換は有料エアコンの温度設定なし3段階スイッチ。連泊時のタオルの取替えは別途料金。清掃はなし。川反の飲み屋は近い。駐車場はすぐ埋まるが、近隣にもコインパーキングは有る…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「エアコンは3段階、清掃やタオル交換は有料エアコンの温度設定なし3段階スイッチ。連泊時のタオルの取替えは別途料金。清掃はなし。川反の飲み屋は近い。」
                   </blockquote>
                 </div>
               </div>
@@ -441,7 +441,7 @@ export default function AutumnBudgetAkitaHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>平面・立体合わせて約130台の大型駐車場が完全無料！大型トラックやバイクも駐車可能です！</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.11 ／ 立地 ★3.94 ／ 部屋 ★4.11 ／ 設備 ★4.13 ／ 風呂 ★4.26 ／ 食事 ★4.26</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「大浴場が使い放題で、徒歩でも苦にならない立地スーパー銭湯併設の宿泊施設。宿泊者は滞在中、ほぼ時間制限なく大浴場を使えるのがいいです。徒歩利用の場合、最寄り駅から20分程度歩きますが坂も無い…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「大浴場が使い放題で、徒歩でも苦にならない立地スーパー銭湯併設の宿泊施設。宿泊者は滞在中、ほぼ時間制限なく大浴場を使えるのがいいです。」
                   </blockquote>
                 </div>
               </div>
@@ -463,7 +463,7 @@ export default function AutumnBudgetAkitaHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>先着順４６台　１泊１，０００円（税込）　満車時は近隣駐車場で現地精算をお願いします。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.47 ／ 立地 ★4.33 ／ 部屋 ★4.44 ／ 設備 ★4.36 ／ 風呂 ★4.27 ／ 食事 ★4.42</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「秋田らしい雰囲気と充実のアメニティに満足お部屋も広く、とても寛げました。ロビーも秋田らしいしつらえで、なまはげや竿燈の飾りも気に入りました。アメニティか充実していて嬉しかったです。禁煙のお部屋が増…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「秋田らしい雰囲気と充実のアメニティに満足お部屋も広く、とても寛げました。ロビーも秋田らしいしつらえで、なまはげや竿燈の飾りも気に入りました。アメニティか充実していて嬉しかったです。」
                   </blockquote>
                 </div>
               </div>

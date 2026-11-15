@@ -48,7 +48,7 @@ export default function FurusatoTaxPage() {
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* パンくずリスト */}
-      <nav className="border-b border-slate-800/80 bg-slate-900/60 backdrop-blur px-4 py-3 text-xs text-slate-400">
+      <nav className="border-b border-slate-800/80 bg-slate-900/60 backdrop-blur px-4 py-3 text-xs text-slate-200">
         <div className="max-w-6xl mx-auto flex items-center gap-2 overflow-x-auto whitespace-nowrap">
           <Link href="/" className="hover:text-amber-400 transition">ホーム</Link>
           <span>/</span>
@@ -531,8 +531,8 @@ export default function FurusatoTaxPage() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 金沢駅よりアクセス。ＪＲ金沢駅兼六園口より徒歩３分。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「加賀屋グループ 料理旅館 金沢茶屋」にチェックイン。金沢駅から徒歩3分の料理旅館。などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「加賀屋グループ 料理旅館 金沢茶屋」の湯処へ。金沢駅から徒歩3分の料理旅館。とともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「加賀屋グループ 料理旅館 金沢茶屋」にチェックイン。金沢駅から徒歩3分の料理旅館。 館内の設えを確かめながら、これからの滞在に備えてゆっくり休息する。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「加賀屋グループ 料理旅館 金沢茶屋」の湯船で寛ぎタイム。季節の空気を感じながら手足を伸ばし、心豊かな夕方のリラックス時間を満喫。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「加賀屋グループ 料理旅館 金沢茶屋」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -544,7 +544,7 @@ export default function FurusatoTaxPage() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「加賀屋グループ 料理旅館 金沢茶屋」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「加賀屋グループ 料理旅館 金沢茶屋」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「アパホテル〈金沢駅前〉」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は「加賀屋グループ 料理旅館 金沢茶屋」周辺の観光スポットや地元の名産店に立ち寄り、ご当地のお土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>
@@ -672,7 +672,7 @@ export default function FurusatoTaxPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 加賀屋グループ　料理旅館　金沢茶屋</td>
                 <td className="p-3 text-stone-600">石川県金沢市本町2-17-21</td>
-                <td className="p-3 text-stone-600">金沢駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ金沢駅兼六園口より徒歩３分。</td>
                 <td className="p-3 text-stone-600">有り（1,000円／泊）</td>
                 <td className="p-3 font-bold text-amber-600">★4.68（182件）</td>
                 <td className="p-3 font-bold text-rose-600">¥25,300〜</td>
@@ -681,7 +681,7 @@ export default function FurusatoTaxPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. アパホテル〈金沢駅前〉</td>
                 <td className="p-3 text-stone-600">石川県金沢市広岡1-9-28</td>
-                <td className="p-3 text-stone-600">金沢駅周辺</td>
+                <td className="p-3 text-stone-600">「金沢駅」西口を出て左手すぐ（徒歩1分）小松空港から金沢駅直通バスで40分 東京駅⇔金沢駅間 北陸新幹線にて2時間30分</td>
                 <td className="p-3 text-stone-600">78台 1泊/1,300円【車高1.9ｍ　先着順・予約不可】提携P：立体1,500台 1泊/800円</td>
                 <td className="p-3 font-bold text-amber-600">★4.08（8583件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,940〜</td>
@@ -690,7 +690,7 @@ export default function FurusatoTaxPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 金沢マンテンホテル駅前（マンテンホテルグループ）</td>
                 <td className="p-3 text-stone-600">石川県金沢市北安江1-6-1</td>
-                <td className="p-3 text-stone-600">金沢駅周辺</td>
+                <td className="p-3 text-stone-600">JR金沢駅金沢港口（西口）より徒歩5分／金沢東・西ICより車で10分／コンビニ1分（ATM）／兼六園車で15分</td>
                 <td className="p-3 text-stone-600">134台先着順　1泊1,000円(入庫より24時間)　大型車駐車可(要予約)　車椅子専用P有</td>
                 <td className="p-3 font-bold text-amber-600">★4.23（6926件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,900〜</td>
@@ -699,7 +699,7 @@ export default function FurusatoTaxPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. ホテルアベストグランデ岡山　なごみの湯</td>
                 <td className="p-3 text-stone-600">岡山県岡山市北区駅前町1-8-5</td>
-                <td className="p-3 text-stone-600">岡山駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ岡山駅より徒歩5分◆岡山駅前商店街アーケードよりICOTNICOT西エレベーターにて6階フロント</td>
                 <td className="p-3 text-stone-600">有料提携駐車場：服部パーキング・Qパーキング　1200円（15時～翌10時途中出庫なし）</td>
                 <td className="p-3 font-bold text-amber-600">★4.26（2057件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,500〜</td>
@@ -708,7 +708,7 @@ export default function FurusatoTaxPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 内原鉱泉　湯泉荘</td>
                 <td className="p-3 text-stone-600">茨城県水戸市三湯町1105</td>
-                <td className="p-3 text-stone-600">内原駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ内原駅より徒歩にて約１０分、お車にて約３分。水戸ICから約１０分。</td>
                 <td className="p-3 text-stone-600">有り　３０台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.67（104件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,490〜</td>
@@ -737,7 +737,7 @@ export default function FurusatoTaxPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り（1,000円／泊）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「接客と料理が最高、子供も大満足の金沢旅行幼児連れの家族で一泊しました。ホスピタリティ溢れた接客がありがたかったです。部屋は掃除が行き届いており、水回りも綺麗で気持ちよく使えました。1番楽しみに…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「接客と料理が最高、子供も大満足の金沢旅行幼児連れの家族で一泊しました。ホスピタリティ溢れた接客がありがたかったです。部屋は掃除が行き届いており、水回りも綺麗で気持ちよく使えました。」
                   </blockquote>
                 </div>
               </div>
@@ -803,7 +803,7 @@ export default function FurusatoTaxPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有料提携駐車場：服部パーキング・Qパーキング　1200円（15時～翌10時途中出庫なし）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「えやこ」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「アクセス良好で大浴場や朝食も大満足駐車場お得プランで予約しました。」
                   </blockquote>
                 </div>
               </div>

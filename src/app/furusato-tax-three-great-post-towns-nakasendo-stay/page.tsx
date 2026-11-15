@@ -436,8 +436,8 @@ export default function Page() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 木曽福島駅よりアクセス。JR木曽福島駅～徒歩約10分 15：30分16：40分送迎有要予約 伊那IC約40分塩尻IC約60分中津川I約70分。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「きそふくしま温泉 街道浪漫 おん宿 蔦屋」にチェックイン。創業300年☆評判料理と木曽川沿い露天風呂 きそふくしま温泉 で心もからだもリフレッシュ♪などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「きそふくしま温泉 街道浪漫 おん宿 蔦屋」の湯処へ。創業300年☆評判料理と木曽川沿い露天風呂 きそふくしま温泉 で心もかとともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「きそふくしま温泉 街道浪漫 おん宿 蔦屋」にチェックイン。創業300年☆評判料理と木曽川沿い露天風呂 きそふくしま温泉 で心もからだもリフレッシュ♪ 客室で身支度を整え、この宿ならではの滞在をスタート。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「きそふくしま温泉 街道浪漫 おん宿 蔦屋」の自慢の湯処へ。温かな湯気と落ち着いた雰囲気に癒やされながら、夕食前の贅沢なひとときを過ごす。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「きそふくしま温泉 街道浪漫 おん宿 蔦屋」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -449,7 +449,7 @@ export default function Page() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「きそふくしま温泉 街道浪漫 おん宿 蔦屋」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「きそふくしま温泉 街道浪漫 おん宿 蔦屋」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「ホテル花更紗」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は宿周辺の散策とショッピングを満喫。地元の名産品やグルメを味わってから余裕をもって帰路につく。</li>
               </ul>
             </div>
           </div>
@@ -550,7 +550,7 @@ export default function Page() {
       </main>
 
       {/* フッター */}
-      <footer className="bg-slate-900 text-slate-400 py-8 px-4 text-xs text-center border-t border-slate-800 mt-16">
+      <footer className="bg-slate-900 text-slate-200 py-8 px-4 text-xs text-center border-t border-slate-800 mt-16">
         <div className="max-w-5xl mx-auto space-y-3">
           <p>© 2026 トラベルポータル All Rights Reserved. 掲載の宿情報・画像は楽天トラベルAPIより取得しています。</p>
           <p>ふるさと納税クーポンの利用条件や最新の空室状況は楽天トラベル公式サイトをご確認ください。</p>

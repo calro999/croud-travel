@@ -310,7 +310,7 @@ export default function AutumnBudgetNaraHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. ＡＢホテル奈良</td>
                 <td className="p-3 text-stone-600">奈良県奈良市三条本町4-30</td>
-                <td className="p-3 text-stone-600">奈良駅周辺</td>
+                <td className="p-3 text-stone-600">JR奈良駅より徒歩約２分 近鉄奈良駅より14分</td>
                 <td className="p-3 text-stone-600">有り　２３台　８００円（税込み／泊）　先着順 ※途中での入出庫の場合、別料金となります。</td>
                 <td className="p-3 font-bold text-amber-600">★4.12（2837件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,000〜</td>
@@ -319,7 +319,7 @@ export default function AutumnBudgetNaraHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. センチュリオンホテルクラシック奈良</td>
                 <td className="p-3 text-stone-600">奈良県奈良市油阪町1-51</td>
-                <td className="p-3 text-stone-600">奈良駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ奈良駅より徒歩にて約５分 近鉄奈良駅より徒歩にて約10分</td>
                 <td className="p-3 text-stone-600">有り（1000円/日）【要電話予約制】【台数制限あり】　※お電話が無い場合には駐車いただけません</td>
                 <td className="p-3 font-bold text-amber-600">★4.32（1160件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,250〜</td>
@@ -328,7 +328,7 @@ export default function AutumnBudgetNaraHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. スーパーホテルＪＲ奈良駅前・三条通り</td>
                 <td className="p-3 text-stone-600">奈良県奈良市三条町500-1</td>
-                <td className="p-3 text-stone-600">奈良駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ奈良駅目の前！近鉄奈良駅4番出口より徒歩１２分</td>
                 <td className="p-3 text-stone-600">提携駐車場はございません。恐れ入りますが近隣コインパーキングのご利用をお願い致します。</td>
                 <td className="p-3 font-bold text-amber-600">★4.15（1411件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,400〜</td>
@@ -337,7 +337,7 @@ export default function AutumnBudgetNaraHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. ベーカリーホテル　シャトードール</td>
                 <td className="p-3 text-stone-600">奈良県奈良市東向北町15</td>
-                <td className="p-3 text-stone-600">近鉄奈良駅周辺</td>
+                <td className="p-3 text-stone-600">近鉄奈良駅①番出口より徒歩2分/奈良公園より徒歩5分!!</td>
                 <td className="p-3 text-stone-600">近隣の有料コインパーキング　（24時間最大￥850）・三井のリパーク 近鉄奈良駅前 第２</td>
                 <td className="p-3 font-bold text-amber-600">★4.36（646件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,150〜</td>
@@ -346,7 +346,7 @@ export default function AutumnBudgetNaraHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. アパホテル〈近鉄奈良駅前〉</td>
                 <td className="p-3 text-stone-600">奈良県奈良市上三条町29-1</td>
-                <td className="p-3 text-stone-600">近鉄奈良駅周辺</td>
+                <td className="p-3 text-stone-600">近鉄奈良線「近鉄奈良駅」（4番出口）徒歩4分、JR関西本線・奈良線「奈良駅」（東口）徒歩8分</td>
                 <td className="p-3 text-stone-600">無し</td>
                 <td className="p-3 font-bold text-amber-600">★4.29（580件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,500〜</td>
@@ -397,7 +397,7 @@ export default function AutumnBudgetNaraHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り（1000円/日）【要電話予約制】【台数制限あり】　※お電話が無い場合には駐車いただけません</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.39 ／ 立地 ★4.19 ／ 部屋 ★4.31 ／ 設備 ★4.22 ／ 風呂 ★4.06 ／ 食事 ★4.36</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「奈良の風情と地元の朝食、足湯も楽しめる奈良の風情にマッチした、シックで清潔感があり、観光拠点にベストです。朝食メニューは地元の食材を生かした名物がいただけます、ウェルカムドリンク、足湯サービスもい…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「奈良の風情と地元の朝食、足湯も楽しめる奈良の風情にマッチした、シックで清潔感があり、観光拠点にベストです。」
                   </blockquote>
                 </div>
               </div>
@@ -441,7 +441,7 @@ export default function AutumnBudgetNaraHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>近隣の有料コインパーキング　（24時間最大￥850）・三井のリパーク 近鉄奈良駅前 第２</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.39 ／ 立地 ★4.46 ／ 部屋 ★4.18 ／ 設備 ★4.17 ／ 風呂 ★3.94 ／ 食事 ★4.39</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近でコスパ抜群、また利用したい!近鉄奈良駅から近く、部屋はコンパクトでバス・トイレ付、朝食(厚切りトーストとミニサラダとドリンク)まで付いてとてもコスパの良いホテルだと思いました。チェックア…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近でコスパ抜群、また利用したい!近鉄奈良駅から近く、部屋はコンパクトでバス・トイレ付、朝食(厚切りトーストとミニサラダとドリンク)まで付いてとてもコスパの良いホテルだと思いました。」
                   </blockquote>
                 </div>
               </div>
@@ -463,7 +463,7 @@ export default function AutumnBudgetNaraHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無し</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.36 ／ 立地 ★4.13 ／ 部屋 ★4.3 ／ 設備 ★4.17 ／ 風呂 ★4.14 ／ 食事 ★4.32</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「大画面での映画鑑賞が奈良観光に最適10月4日、東大寺と春日大社の拝観のために利用。奈良では、神社仏閣の閉門の後、ホテルにいる時間が長くなるため、大画面で映画鑑賞との相性が良いと思います。…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「大画面での映画鑑賞が奈良観光に最適10月4日、東大寺と春日大社の拝観のために利用。奈良では、神社仏閣の閉門の後、ホテルにいる時間が長くなるため、大画面で映画鑑賞との相性が良いと思います。」
                   </blockquote>
                 </div>
               </div>

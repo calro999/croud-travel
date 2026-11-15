@@ -310,7 +310,7 @@ export default function AutumnBudgetOkayamaHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 岡山ビューホテル</td>
                 <td className="p-3 text-stone-600">岡山県岡山市北区中山下1-11-17</td>
-                <td className="p-3 text-stone-600">岡山駅周辺</td>
+                <td className="p-3 text-stone-600">バス「天満屋」下車徒歩約2分◆JR岡山駅東口より車で約5分◆路面電車「清輝橋行」「郵便局前」下車徒歩約3分</td>
                 <td className="p-3 text-stone-600">ホテル１Ｆ(フロントは2F)　約20台収容　一泊800~1000円　高さ2.5m迄2t車も可　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.15（2550件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,600〜</td>
@@ -319,7 +319,7 @@ export default function AutumnBudgetOkayamaHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. ホテルエクセル岡山＜後楽園・岡山城前＞</td>
                 <td className="p-3 text-stone-600">岡山県岡山市北区石関町5-1</td>
-                <td className="p-3 text-stone-600">岡山駅周辺</td>
+                <td className="p-3 text-stone-600">岡山駅 後楽園口から路面電車（東山行き）に乗車、「しろした電停」下車徒歩1分／[E2]山陽道 岡山ICより約25分</td>
                 <td className="p-3 text-stone-600">専用駐車場1泊1000円（先着予約制）満車の場合は各提携駐車場へご案内致します。</td>
                 <td className="p-3 font-bold text-amber-600">★4.27（3250件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,400〜</td>
@@ -328,7 +328,7 @@ export default function AutumnBudgetOkayamaHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 倉敷シーサイドホテル</td>
                 <td className="p-3 text-stone-600">岡山県倉敷市児島塩生2767-21</td>
-                <td className="p-3 text-stone-600">児島駅周辺</td>
+                <td className="p-3 text-stone-600">■水島ICから車15分■水島工場C地区に隣接■鷲羽山ハイランドまで車10分■倉敷由加山まで車30分■駐車場無料■</td>
                 <td className="p-3 text-stone-600">有り　100台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.17（1646件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,200〜</td>
@@ -337,7 +337,7 @@ export default function AutumnBudgetOkayamaHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. ホテルグランヴィア岡山</td>
                 <td className="p-3 text-stone-600">岡山県岡山市北区駅元町1-5</td>
-                <td className="p-3 text-stone-600">岡山駅周辺</td>
+                <td className="p-3 text-stone-600">JR岡山駅直結（徒歩1分）／山陽自動車道 岡山ICより車で20分／岡山空港より車で30分</td>
                 <td className="p-3 text-stone-600">ホテル地下に有り　171台　24時間1,300円　事前予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.44（6596件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,450〜</td>
@@ -346,7 +346,7 @@ export default function AutumnBudgetOkayamaHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. ダイヤモンド瀬戸内マリンホテル</td>
                 <td className="p-3 text-stone-600">岡山県玉野市渋川2-12-1</td>
-                <td className="p-3 text-stone-600">児島駅周辺</td>
+                <td className="p-3 text-stone-600">(車)瀬戸中央自動車道・児島ICよりＲ430経由25分(JR)岡山駅下車「玉野・渋川」行きバス（②乗場）終点下車徒歩0分</td>
                 <td className="p-3 text-stone-600">有：普通車９０台　無料　予約不可先着順　※渋川観光駐車場は２１時間無料（２１時間以降はお客様ご負担）</td>
                 <td className="p-3 font-bold text-amber-600">★4.02（2502件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,000〜</td>
@@ -375,7 +375,7 @@ export default function AutumnBudgetOkayamaHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>ホテル１Ｆ(フロントは2F)　約20台収容　一泊800~1000円　高さ2.5m迄2t車も可　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.2 ／ 立地 ★3.95 ／ 部屋 ★4.18 ／ 設備 ★3.99 ／ 風呂 ★3.91</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食が美味しく、床でくつろげる空間が最高岡山に用事があって、前回も泊まらせていただき朝食が記憶に残っていたので今回リピートしました。ベットではなく床でくつろげる空間よかったです。岡山駅から…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食が美味しく、床でくつろげる空間が最高岡山に用事があって、前回も泊まらせていただき朝食が記憶に残っていたので今回リピートしました。ベットではなく床でくつろげる空間よかったです。」
                   </blockquote>
                 </div>
               </div>
@@ -463,7 +463,7 @@ export default function AutumnBudgetOkayamaHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有：普通車９０台　無料　予約不可先着順　※渋川観光駐車場は２１時間無料（２１時間以降はお客様ご負担）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.04 ／ 立地 ★4.16 ／ 部屋 ★3.93 ／ 設備 ★3.83 ／ 風呂 ★3.99 ／ 食事 ★4.05</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「接客は丁寧だが、ステーキの提供状態に難あり接客が丁寧でした。夕食のステーキは出来立てを取れればとても美味しいですが、、、しょうがなく少し時間が経っているのを頂くと硬くて美味しくありません。…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「接客は丁寧だが、ステーキの提供状態に難あり接客が丁寧でした。夕食のステーキは出来立てを取れればとても美味しいですが、、、しょうがなく少し時間が経っているのを頂くと硬くて美味しくありません。」
                   </blockquote>
                 </div>
               </div>

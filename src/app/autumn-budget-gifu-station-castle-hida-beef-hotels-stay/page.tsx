@@ -401,7 +401,7 @@ export default function AutumnBudgetHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 天然温泉　金華の湯　ドーミーイン岐阜駅前（ドーミーイン・御宿野乃　ホテルズグループ）</td>
                 <td className="p-3 text-stone-600">岐阜県岐阜市吉野町6-31</td>
-                <td className="p-3 text-stone-600">岐阜駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ 岐阜駅「中央北口」より徒歩約8分／名鉄岐阜駅より徒歩約10分</td>
                 <td className="p-3 text-stone-600">なし（普通車のみホテル提携駐車場￥1,000/1泊先着順・入出庫不可）※バス、トラック、バイク不可</td>
                 <td className="p-3 font-bold text-amber-600">★4.43（2468件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,340〜</td>
@@ -410,7 +410,7 @@ export default function AutumnBudgetHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. ホテルリブマックス岐阜駅前</td>
                 <td className="p-3 text-stone-600">岐阜県岐阜市金町7-11-1</td>
-                <td className="p-3 text-stone-600">岐阜駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ東海道本線 岐阜駅中央北口/名鉄岐阜駅より徒歩にて約５分</td>
                 <td className="p-3 text-stone-600">近隣に有料パーキングあり　※提携はしておりません　満車の場合はご容赦下さい。</td>
                 <td className="p-3 font-bold text-amber-600">★3.85（354件）</td>
                 <td className="p-3 font-bold text-rose-600">¥2,890〜</td>
@@ -419,7 +419,7 @@ export default function AutumnBudgetHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. ＡＢホテル岐阜</td>
                 <td className="p-3 text-stone-600">岐阜県岐阜市金町7-12-1</td>
-                <td className="p-3 text-stone-600">岐阜駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ／名鉄 岐阜駅より徒歩にて約5分</td>
                 <td className="p-3 text-stone-600">提携駐車場：500円（1泊＝15：00から翌10：00）予約不可・出入別料金・台数制限有</td>
                 <td className="p-3 font-bold text-amber-600">★4.16（2383件）</td>
                 <td className="p-3 font-bold text-rose-600">¥2,800〜</td>
@@ -428,7 +428,7 @@ export default function AutumnBudgetHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. ダイワロイネットホテル岐阜</td>
                 <td className="p-3 text-stone-600">岐阜県岐阜市神田町8-5</td>
-                <td className="p-3 text-stone-600">岐阜駅周辺</td>
+                <td className="p-3 text-stone-600">JR「岐阜駅」長良川口より徒歩約7分／「名鉄岐阜駅」より徒歩約2分／名古屋国際空港より特急で「名鉄岐阜駅」へ約60分</td>
                 <td className="p-3 text-stone-600">提携立体駐車場／44台／一泊（14時〜翌12時）1,200円税込／車高制限有／営業時間外入出庫不可</td>
                 <td className="p-3 font-bold text-amber-600">★4.43（5144件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,220〜</td>
@@ -437,7 +437,7 @@ export default function AutumnBudgetHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. コンフォートホテル岐阜（２０２６年３月３１日　リニューアル）</td>
                 <td className="p-3 text-stone-600">岐阜県岐阜市吉野町6-6</td>
-                <td className="p-3 text-stone-600">岐阜駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ岐阜駅北口より約３分（駅前立地）◆名鉄岐阜駅より約６分◆東海北陸自動車道「岐阜各務原IC」約３０分</td>
                 <td className="p-3 text-stone-600">なし。近隣のコインパーキングにご駐車ください。</td>
                 <td className="p-3 font-bold text-amber-600">★3.99（5972件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,700〜</td>
@@ -466,7 +466,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>なし（普通車のみホテル提携駐車場￥1,000/1泊先着順・入出庫不可）※バス、トラック、バイク不可</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.44 ／ 立地 ★4.35 ／ 部屋 ★4.4 ／ 設備 ★4.4 ／ 風呂 ★4.51 ／ 食事 ★4.48</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「夜泣きそばやアイスなどサービスが充実ビジネスで宿泊しました。他のドーミーインもよく利用させていただきます。夜泣きそば、アイス、マッサージ機とてもありがたいです!クチコミの詳細はこち…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「夜泣きそばやアイスなどサービスが充実ビジネスで宿泊しました。他のドーミーインもよく利用させていただきます。夜泣きそば、アイス、マッサージ機とてもありがたいです!」
                   </blockquote>
                 </div>
               </div>
@@ -488,7 +488,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>近隣に有料パーキングあり　※提携はしておりません　満車の場合はご容赦下さい。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.92 ／ 立地 ★3.92 ／ 部屋 ★3.79 ／ 設備 ★3.88 ／ 風呂 ★3.84</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「親切な対応と冷水や洗濯機が助かりましたフロントの方の説明がとても穏やかな口調で親切でした。猛暑日が続いている中、ロビーにある冷水がとても助かりました。洗濯機も利用でき、汗をかいた衣服を洗う…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「親切な対応と冷水や洗濯機が助かりましたフロントの方の説明がとても穏やかな口調で親切でした。猛暑日が続いている中、ロビーにある冷水がとても助かりました。」
                   </blockquote>
                 </div>
               </div>
@@ -532,7 +532,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>提携立体駐車場／44台／一泊（14時〜翌12時）1,200円税込／車高制限有／営業時間外入出庫不可</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.42 ／ 立地 ★4.38 ／ 部屋 ★4.48 ／ 設備 ★4.42 ／ 風呂 ★4.34 ／ 食事 ★4.21</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの丁寧な案内で飛騨牛を堪能駅が近いことで、夜の繁華街が活気に溢れていました。ホテルの人に夕食の美味しい店をお聞きしたところ、大変丁寧にA4サイズのマップを頂き説明してくれました。お…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの丁寧な案内で飛騨牛を堪能駅が近いことで、夜の繁華街が活気に溢れていました。ホテルの人に夕食の美味しい店をお聞きしたところ、大変丁寧にA4サイズのマップを頂き説明してくれました。」
                   </blockquote>
                 </div>
               </div>

@@ -48,7 +48,7 @@ export default function FurusatoTaxPage() {
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* パンくずリスト */}
-      <nav className="border-b border-slate-800/80 bg-slate-900/60 backdrop-blur px-4 py-3 text-xs text-slate-400">
+      <nav className="border-b border-slate-800/80 bg-slate-900/60 backdrop-blur px-4 py-3 text-xs text-slate-200">
         <div className="max-w-6xl mx-auto flex items-center gap-2 overflow-x-auto whitespace-nowrap">
           <Link href="/" className="hover:text-amber-400 transition">ホーム</Link>
           <span>/</span>
@@ -581,8 +581,8 @@ export default function FurusatoTaxPage() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 木曽福島駅よりアクセス。木曽福島駅よりバスにて約５０分。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「プチリゾート アピア」にチェックイン。開田高原にたたずむプチリゾートホテル「Aｐｐｅａｒ」。癒しの空間で、贅沢な時間を◎などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「プチリゾート アピア」の湯処へ。開田高原にたたずむプチリゾートホテル「Aｐｐｅａｒ」。癒しの空間で、贅とともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「プチリゾート アピア」にチェックイン。開田高原にたたずむプチリゾートホテル「Aｐｐｅａｒ」。 まずは客室で移動の疲れをそっと癒やす。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「プチリゾート アピア」の自慢の湯処へ。温かな湯気と落ち着いた雰囲気に癒やされながら、夕食前の贅沢なひとときを過ごす。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「プチリゾート アピア」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -594,7 +594,7 @@ export default function FurusatoTaxPage() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「プチリゾート アピア」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「プチリゾート アピア」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「修善寺温泉 国の登録文化財の宿 新井旅館」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は宿周辺の散策とショッピングを満喫。地元の名産品やグルメを味わってから余裕をもって帰路につく。</li>
               </ul>
             </div>
           </div>
@@ -722,7 +722,7 @@ export default function FurusatoTaxPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. プチリゾート　アピア</td>
                 <td className="p-3 text-stone-600">長野県木曽郡木曽町開田高原西野8064-2</td>
-                <td className="p-3 text-stone-600">木曽福島駅周辺</td>
+                <td className="p-3 text-stone-600">木曽福島駅よりバスにて約５０分</td>
                 <td className="p-3 text-stone-600">有り　１０台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.33（42件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,000〜</td>
@@ -731,7 +731,7 @@ export default function FurusatoTaxPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 修善寺温泉　国の登録文化財の宿　新井旅館</td>
                 <td className="p-3 text-stone-600">静岡県伊豆市修善寺970</td>
-                <td className="p-3 text-stone-600">修善寺駅周辺</td>
+                <td className="p-3 text-stone-600">伊豆箱根鉄道線 修善寺駅よりバスまたはタクシーで10分／東名・新東名高速 沼津ICより伊豆縦貫道経由45分</td>
                 <td className="p-3 text-stone-600">あり　40台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.56（267件）</td>
                 <td className="p-3 font-bold text-rose-600">¥24,420〜</td>
@@ -740,7 +740,7 @@ export default function FurusatoTaxPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 長岡温泉　伊豆長岡金城館（伊東園ホテルズ）</td>
                 <td className="p-3 text-stone-600">静岡県伊豆の国市長岡1035-1</td>
-                <td className="p-3 text-stone-600">伊豆長岡駅周辺</td>
+                <td className="p-3 text-stone-600">伊豆長岡駅よりお車にて約１０分</td>
                 <td className="p-3 text-stone-600">有り　７０台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★3.78（507件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,348〜</td>
@@ -749,7 +749,7 @@ export default function FurusatoTaxPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 伊豆長岡温泉　ホテル茜</td>
                 <td className="p-3 text-stone-600">静岡県伊豆の国市長岡123</td>
-                <td className="p-3 text-stone-600">伊豆長岡駅周辺</td>
+                <td className="p-3 text-stone-600">直通特急（踊り子号）をご利用の場合、東京から伊豆長岡まで約２時間</td>
                 <td className="p-3 text-stone-600">有り　５０台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.37（187件）</td>
                 <td className="p-3 font-bold text-rose-600">¥12,160〜</td>
@@ -758,7 +758,7 @@ export default function FurusatoTaxPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. オーセントホテル小樽</td>
                 <td className="p-3 text-stone-600">北海道小樽市稲穂2-15-1</td>
-                <td className="p-3 text-stone-600"></td>
+                <td className="p-3 text-stone-600">北海道小樽市稲穂2-15-1 ／ 交通案内：</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.37（2052件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,100〜</td>
@@ -767,7 +767,7 @@ export default function FurusatoTaxPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">6. アールジェイホテルズ＜小樽＞</td>
                 <td className="p-3 text-stone-600">北海道小樽市稲穂5-7-8</td>
-                <td className="p-3 text-stone-600">小樽駅周辺</td>
+                <td className="p-3 text-stone-600">小樽駅 徒歩約１３分 ／ 北運河まで徒歩7分 小樽ICより車で5分</td>
                 <td className="p-3 text-stone-600">有り　４０台　無料円（税込み／泊）　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.29（97件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,500〜</td>
@@ -818,7 +818,7 @@ export default function FurusatoTaxPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>あり　40台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.67 ／ 立地 ★4.67 ／ 部屋 ★4.72 ／ 設備 ★4.56 ／ 風呂 ★4.72 ／ 食事 ★4.56</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「よくメンテされた登録文化財施設は漸次更新されており(文化財なので許認可大変だと思います)食事も美味しく仲居さんもフレッシュで素晴らしいと思います。ただし、寝具類がせんべい布団で朝が来るのが待ち…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「よくメンテされた登録文化財施設は漸次更新されており(文化財なので許認可大変だと思います)食事も美味しく仲居さんもフレッシュで素晴らしいと思います。」
                   </blockquote>
                 </div>
               </div>
@@ -840,7 +840,7 @@ export default function FurusatoTaxPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　７０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ゴルフ利用に最適、飲み放題が嬉しいゴルフの時、利用させてもらっています。安いので十分です。お風呂は、本館より別館のほうが良いと思います。料理は普通くらい、飲み放題がうれしいです。クチコミの詳細…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ゴルフ利用に最適、飲み放題が嬉しいゴルフの時、利用させてもらっています。安いので十分です。お風呂は、本館より別館のほうが良いと思います。料理は普通くらい、飲み放題がうれしいです。」
                   </blockquote>
                 </div>
               </div>
@@ -862,7 +862,7 @@ export default function FurusatoTaxPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　５０台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事も接客も大満足、家族で最高の夏休み夕食、朝食ともに大満足でした。スタッフの方の気配りもありがたく、子供達もご飯は美味しかったし旅行が楽しかった!!と夏休み最後の旅行を楽しむことが出来ました。近…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事も接客も大満足、家族で最高の夏休み夕食、朝食ともに大満足でした。スタッフの方の気配りもありがたく、子供達もご飯は美味しかったし旅行が楽しかった!!と夏休み最後の旅行を楽しむことが出来ました。」
                   </blockquote>
                 </div>
               </div>
@@ -884,7 +884,7 @@ export default function FurusatoTaxPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「バーと朝食に大満足、また利用したいホテル内のバーがすごくよかったです。お酒が好きな主人との旅行でしたので、こちらのホテルを選ばせていただきました。朝食もおいしくフロントの女性の方の対応も大…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「バーと朝食に大満足、また利用したいホテル内のバーがすごくよかったです。お酒が好きな主人との旅行でしたので、こちらのホテルを選ばせていただきました。」
                   </blockquote>
                 </div>
               </div>

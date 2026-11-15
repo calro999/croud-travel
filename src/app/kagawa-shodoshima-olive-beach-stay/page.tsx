@@ -253,7 +253,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 海辺の宿　入舟　＜香川県・小豆島＞</td>
                 <td className="p-3 text-stone-600">香川県小豆郡土庄町甲1171-14</td>
-                <td className="p-3 text-stone-600">高松（香川）駅周辺</td>
+                <td className="p-3 text-stone-600">土庄港より１８００ｍ、／小豆島バス「銀波浦バス停前」下車 食料持ち込みOK！</td>
                 <td className="p-3 text-stone-600">有り　１０台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★2.33（84件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,200〜</td>
@@ -262,7 +262,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. ベイリゾートホテル小豆島</td>
                 <td className="p-3 text-stone-600">香川県小豆郡小豆島町古江乙16-3</td>
-                <td className="p-3 text-stone-600">坂出駅周辺</td>
+                <td className="p-3 text-stone-600">（車）坂手港3分/福田港30分/土庄港30分/草壁港10分/池田港20分★大部港以外の無料送迎有（2日前までに予約要）</td>
                 <td className="p-3 text-stone-600">有り　６０台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.26（1959件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,600〜</td>
@@ -271,7 +271,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. ホテルグリーンプラザ小豆島＜小豆島＞</td>
                 <td className="p-3 text-stone-600">香川県小豆郡土庄町伊喜末2464</td>
-                <td className="p-3 text-stone-600">高松（香川）駅周辺</td>
+                <td className="p-3 text-stone-600">小豆島 土庄港より車で7分、池田港より車で11分、福田港より車で38分 土庄港へは無料送迎もございます ※要予約</td>
                 <td className="p-3 text-stone-600">有り　50台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.25（200件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,500〜</td>
@@ -280,7 +280,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. ヴィラ汐音＜小豆島＞</td>
                 <td className="p-3 text-stone-600">香川県小豆郡小豆島町坂手甲1686-5</td>
-                <td className="p-3 text-stone-600">瓦町駅周辺</td>
+                <td className="p-3 text-stone-600">小豆島坂手港より車で約５分、徒歩２５分（1.7km）</td>
                 <td className="p-3 text-stone-600">有り　２台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">高評価</td>
                 <td className="p-3 font-bold text-rose-600">¥10,200〜</td>
@@ -289,7 +289,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. ホテル　パールガーデン</td>
                 <td className="p-3 text-stone-600">香川県高松市福岡町2-2-1</td>
-                <td className="p-3 text-stone-600">高松（香川）駅周辺</td>
+                <td className="p-3 text-stone-600">JR高松駅より徒歩約30分(車で約10分)又は路線パスで約5分/高松中央ICより5km（約25分）</td>
                 <td className="p-3 text-stone-600">有り　２１７台　無料　予約不要。マイクロバス、中型、大型バス、トラック等は有料</td>
                 <td className="p-3 font-bold text-amber-600">★4.41（1712件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,100〜</td>
@@ -340,7 +340,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　６０台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.4 ／ 立地 ★4.48 ／ 部屋 ★4.25 ／ 設備 ★4.11 ／ 風呂 ★4.28 ／ 食事 ★4.23</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「雨の景色が残念、シャンプーバーは満足あいにくの雨だったのですが、晴れていたらどんなに景色が素敵なホテルだったかと思うと残念でした。お風呂の廊下が塩素臭かったのですが、お風呂ではあまり匂いは感じませ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「雨の景色が残念、シャンプーバーは満足あいにくの雨だったのですが、晴れていたらどんなに景色が素敵なホテルだったかと思うと残念でした。」
                   </blockquote>
                 </div>
               </div>
@@ -406,7 +406,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２１７台　無料　予約不要。マイクロバス、中型、大型バス、トラック等は有料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.39 ／ 立地 ★4.23 ／ 部屋 ★4.47 ／ 設備 ★4.38 ／ 風呂 ★4.38 ／ 食事 ★4.49</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事は満足だが料金が2年前の1.5倍に驚きリピーターです。今回も夕朝食付プランで宿泊しました。夕食も朝食もともに美味しく満足しました。ただ、料金が2年前に比べて1.5倍にアップしていて驚きまし…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事は満足だが料金が2年前の1.5倍に驚きリピーターです。今回も夕朝食付プランで宿泊しました。夕食も朝食もともに美味しく満足しました。」
                   </blockquote>
                 </div>
               </div>

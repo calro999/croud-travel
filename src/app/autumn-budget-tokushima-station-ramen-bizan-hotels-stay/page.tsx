@@ -384,7 +384,7 @@ export default function AutumnBudgetTokushimaStationHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. アパホテル〈徳島駅前〉</td>
                 <td className="p-3 text-stone-600">徳島県徳島市一番町2-21</td>
-                <td className="p-3 text-stone-600">徳島駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ徳島駅より徒歩3分、徳島阿波踊り空港から車で20分</td>
                 <td className="p-3 text-stone-600">敷地内有料駐車場: 4台　先着順サイズ制限有</td>
                 <td className="p-3 font-bold text-amber-600">★3.96（2116件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,950〜</td>
@@ -393,7 +393,7 @@ export default function AutumnBudgetTokushimaStationHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. スマイルホテル徳島</td>
                 <td className="p-3 text-stone-600">徳島県徳島市元町1-24</td>
-                <td className="p-3 text-stone-600">徳島駅周辺</td>
+                <td className="p-3 text-stone-600">JR徳島駅より徒歩約5分／徳島ICより約15分／徳島阿波おどり空港よりリムジンバスにて徳島駅まで約30分</td>
                 <td className="p-3 text-stone-600">15時〜翌日10時…1,000円／18時〜翌日9時…500円／時間外・途中出入1時間…300円</td>
                 <td className="p-3 font-bold text-amber-600">★4.03（2325件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,500〜</td>
@@ -402,7 +402,7 @@ export default function AutumnBudgetTokushimaStationHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 東横ＩＮＮ徳島駅眉山口</td>
                 <td className="p-3 text-stone-600">徳島県徳島市東大工町2-7</td>
-                <td className="p-3 text-stone-600">徳島駅周辺</td>
+                <td className="p-3 text-stone-600">JR徳島駅より徒歩9分。R11号を徳島駅方面へ右折後元町交差点を左折、阿波踊り会館手前を左折</td>
                 <td className="p-3 text-stone-600">立体駐車場80台先着順１泊500円。満車の際は近隣の駐車場へご案内。詳しくは注意事項へ。</td>
                 <td className="p-3 font-bold text-amber-600">★3.96（1260件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,935〜</td>
@@ -411,7 +411,7 @@ export default function AutumnBudgetTokushimaStationHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 東横ＩＮＮ徳島駅前</td>
                 <td className="p-3 text-stone-600">徳島県徳島市両国本町１－５</td>
-                <td className="p-3 text-stone-600">徳島駅周辺</td>
+                <td className="p-3 text-stone-600">JR徳島駅より徒歩４分</td>
                 <td className="p-3 text-stone-600">立体駐車場先着30台1泊500円(15時〜翌10時)満車時は近隣の契約駐車場ご案内。バイクの駐輪不可</td>
                 <td className="p-3 font-bold text-amber-600">★4.07（548件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,040〜</td>
@@ -420,7 +420,7 @@ export default function AutumnBudgetTokushimaStationHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. ダイワロイネットホテル徳島駅前</td>
                 <td className="p-3 text-stone-600">徳島県徳島市寺島本町東3丁目8番地</td>
-                <td className="p-3 text-stone-600">徳島駅周辺</td>
+                <td className="p-3 text-stone-600">JR「徳島駅」より徒歩約1分 。「徳島阿波おどり空港」よりリムジンバスで（約30分）「徳島駅」下車、徒歩約1分。</td>
                 <td className="p-3 text-stone-600">提携駐車場 先着順1泊(14時〜翌11時)1,000円／税込※車高2.0m以下・22時〜7時入庫不可</td>
                 <td className="p-3 font-bold text-amber-600">★4.35（1996件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,700〜</td>
@@ -449,7 +449,7 @@ export default function AutumnBudgetTokushimaStationHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>敷地内有料駐車場: 4台　先着順サイズ制限有</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.06 ／ 立地 ★4.01 ／ 部屋 ★3.93 ／ 設備 ★3.86 ／ 風呂 ★3.77 ／ 食事 ★3.94</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近で便利だが部屋が狭く期待外れ駅から近いのはわかっていたのでアパホテルの看板?探してついつい上を見上げましたが見えずGoogleマップを使って辿り着きました 駅からすぐでよかったのですが部屋がと…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近で便利だが部屋が狭く期待外れ駅から近いのはわかっていたのでアパホテルの看板?探してついつい上を見上げましたが見えずGoogleマップを使って辿り着きました。」
                   </blockquote>
                 </div>
               </div>
@@ -493,7 +493,7 @@ export default function AutumnBudgetTokushimaStationHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>立体駐車場80台先着順１泊500円。満車の際は近隣の駐車場へご案内。詳しくは注意事項へ。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.02 ／ 立地 ★3.92 ／ 部屋 ★4.02 ／ 設備 ★3.94 ／ 風呂 ★3.87 ／ 食事 ★3.96</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋は綺麗で快適、朝食会場は混雑気味部屋はとても綺麗にしてくれていました。また是非利用したいです。朝食は可もなく不可もなくです。私が宿泊先した時は宿泊者が多くて混雑していたのでゆっくり食事って感じ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋は綺麗で快適、朝食会場は混雑気味部屋はとても綺麗にしてくれていました。また是非利用したいです。朝食は可もなく不可もなくです。」
                   </blockquote>
                 </div>
               </div>
@@ -515,7 +515,7 @@ export default function AutumnBudgetTokushimaStationHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>立体駐車場先着30台1泊500円(15時〜翌10時)満車時は近隣の契約駐車場ご案内。バイクの駐輪不可</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.06 ／ 立地 ★4.01 ／ 部屋 ★4.07 ／ 設備 ★4.02 ／ 風呂 ★3.92 ／ 食事 ★3.96</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「急な予約でも親切な対応で快適に過ごせた当日の夕方に急遽予約をしましたが問題なく泊まることができました。チェックイン時には親切にご説明していただき快適に過ごすことができました。ありがとうございました…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「急な予約でも親切な対応で快適に過ごせた当日の夕方に急遽予約をしましたが問題なく泊まることができました。チェックイン時には親切にご説明していただき快適に過ごすことができました。」
                   </blockquote>
                 </div>
               </div>
@@ -537,7 +537,7 @@ export default function AutumnBudgetTokushimaStationHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>提携駐車場 先着順1泊(14時〜翌11時)1,000円／税込※車高2.0m以下・22時〜7時入庫不可</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.35 ／ 立地 ★4.39 ／ 部屋 ★4.38 ／ 設備 ★4.31 ／ 風呂 ★4.29 ／ 食事 ★4.16</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「立地は最高だがチェックインの説明が難解駅の眼の前で立地は最高でした。チェックイン時の説明が分かりづらかった。ホテル利用に慣れていない人には伝わらないかも...お部屋や設備はよかったです。…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「立地は最高だがチェックインの説明が難解駅の眼の前で立地は最高でした。チェックイン時の説明が分かりづらかった。ホテル利用に慣れていない人には伝わらないかも...お部屋や設備はよかったです。」
                   </blockquote>
                 </div>
               </div>

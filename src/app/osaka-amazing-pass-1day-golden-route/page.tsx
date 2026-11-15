@@ -453,49 +453,49 @@ export default function OsakaAmazingPassPage() {
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">あわせて読みたい人気特集＆全国エリアガイド</h2>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
-            <a href="/winter-gunma-kusatsu-onsen-yubatake-joshu-beef-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/winter-osaka-usj-bayarea-christmas-countdown-official-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12月草津温泉の冬名湯と湯畑ライトアップ】湯畑の冬幻想イルミ・湯けむり露天と極上上州牛すき焼き・群馬地酒の宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">USJ冬のクリスマス＆ベイエリア夜景！ 天然温泉スパと絶景オフィシャルホテル名宿5選</span>
             </a>
-            <a href="/winter-gunma-shima-onsen-shima-blue-sekizenkan-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/autumn-budget-osaka-midosuji-ichou-onsen-hotels-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12月群馬・四万温泉の神秘の四万ブルーと千二百年霊泉】積善館の歴史情緒・上州牛会席＆清流雪見露天の宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「秋の大阪×格安」御堂筋の黄金イチョウ並木と道頓堀グルメ！天然温泉＆大浴場付き1泊3,000円〜6,000円台のコスパ最強ホテル5選</span>
             </a>
-            <a href="/furusato-tax-shima-onsen-autumn-leaves-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/furusato-tax-minoh-falls-arima-autumn-leaves-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">奇跡の四万ブルーと奥四万湖の錦秋カヌー！千と千尋のモデル積善館＆名湯宿×ふるさと納税厳選ガイド群馬</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">日本の滝百選・箕面大滝の紅葉美＆日本最古の名湯・有馬温泉金泉銀泉名宿×ふるさと納税厳選ガイド関西</span>
             </a>
-            <a href="/gunma-kusatsu-solo-retreat-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/furusato-tax-usj-osaka-official-partner-hotel-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">草津温泉ひとり旅・名湯おこもり：湯畑源泉かけ流し・貸切風呂・上州和牛！日本三名泉の湯ヂカラに浸る贅沢ソロ温泉厳選3宿</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">パーク徒歩圏＆天然温泉！USJオフィシャルホテル×ふるさと納税極上旅ガイド近鉄・京阪タワー・リーベルで大阪旅行をお得に満喫</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
             <div className="flex flex-wrap gap-2">
               <Link
-                href="/prefectures/yamanashi/"
+                href="/prefectures/osaka/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                山梨県の宿・温泉
+                大阪府の宿・温泉
               </Link>
               <Link
-                href="/prefectures/gunma/"
+                href="/prefectures/kyoto/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                群馬県の宿・温泉
+                京都府の宿・温泉
               </Link>
               <Link
-                href="/prefectures/toyama/"
+                href="/prefectures/hyogo/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                富山県の宿・温泉
+                兵庫県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/okayama/"
+                href="/prefectures/nara/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                岡山県の宿・温泉
+                奈良県の宿・温泉
               </Link>
             </div>
           </div>
@@ -531,7 +531,7 @@ export default function OsakaAmazingPassPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. アンカード・バイ・リーガ　大阪なんば（リーガロイヤルホテルズ）</td>
                 <td className="p-3 text-stone-600">大阪府大阪市浪速区日本橋5-6-16</td>
-                <td className="p-3 text-stone-600">なんば駅周辺</td>
+                <td className="p-3 text-stone-600">関西国際空港から電車で約50分、大阪メトロ堺筋線「恵美須町」駅から徒歩２分、南海電車「なんば」駅 から 徒歩約15分</td>
                 <td className="p-3 text-stone-600">なし</td>
                 <td className="p-3 font-bold text-amber-600">★4.42（97件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,712〜</td>
@@ -540,7 +540,7 @@ export default function OsakaAmazingPassPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. アパホテル＆リゾート〈大阪なんば駅前タワー〉</td>
                 <td className="p-3 text-stone-600">大阪府大阪市浪速区湊町1-2-13</td>
-                <td className="p-3 text-stone-600">ＪＲ難波駅周辺</td>
+                <td className="p-3 text-stone-600">JR難波駅徒歩1分／大阪メトロ御堂筋線・四つ橋線・千日前線なんば駅（30番出口）徒歩2分</td>
                 <td className="p-3 text-stone-600">機械式立体駐車場　2,000円（入庫から24時間）　2階レストラン利用時2時間無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.34（2250件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,870〜</td>
@@ -549,7 +549,7 @@ export default function OsakaAmazingPassPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. ＣＡＮＤＥＯ　ＨＯＴＥＬＳ（カンデオホテルズ）大阪なんば</td>
                 <td className="p-3 text-stone-600">大阪府大阪市中央区東心斎橋2-2-5</td>
-                <td className="p-3 text-stone-600">日本橋（大阪）駅周辺</td>
+                <td className="p-3 text-stone-600">心斎橋駅、なんば駅より徒歩にて約15分、日本橋駅より徒歩にて約5分、長堀橋駅より徒歩にて約4分</td>
                 <td className="p-3 text-stone-600">有り　料金：3,200円/1泊(13:00～翌13:00)</td>
                 <td className="p-3 font-bold text-amber-600">★4（330件）</td>
                 <td className="p-3 font-bold text-rose-600">¥10,300〜</td>
@@ -558,7 +558,7 @@ export default function OsakaAmazingPassPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. アスティルホテル十三　プレシャス</td>
                 <td className="p-3 text-stone-600">大阪府大阪市淀川区十三本町1-10-13</td>
-                <td className="p-3 text-stone-600">梅田から約5分、新大阪から約15分。阪急「十三駅」西口より徒歩約2分の</td>
+                <td className="p-3 text-stone-600">梅田から約5分、新大阪から約15分。阪急「十三駅」西口より徒歩約2分の好立地です。</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.5（1199件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,250〜</td>
@@ -587,7 +587,7 @@ export default function OsakaAmazingPassPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>なし</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「館内は綺麗で快適だが、ガチャガチャは不要新しいホテルなのでとても綺麗でした。快適に過ごせました。チェックインする時のガチャガチャのサービスはわれわれシニアには全く不要でした。クチコミの詳細…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「館内は綺麗で快適だが、ガチャガチャは不要新しいホテルなのでとても綺麗でした。快適に過ごせました。チェックインする時のガチャガチャのサービスはわれわれシニアには全く不要でした。」
                   </blockquote>
                 </div>
               </div>
@@ -663,7 +663,7 @@ export default function OsakaAmazingPassPage() {
       </main>
 
       {/* Footer */}
-      <footer className="bg-slate-900 text-slate-400 py-10 px-4 text-center text-xs">
+      <footer className="bg-slate-900 text-slate-200 py-10 px-4 text-center text-xs">
         <div className="max-w-4xl mx-auto space-y-2">
           <p>© 日本全国・旅宿クラウド (croud-travel) / All Rights Reserved.</p>
           <p>※大阪周遊パスの無料対象施設、利用条件、営業時間等は変更される場合があります。利用前に公式サイトの最新情報をご確認ください。</p>

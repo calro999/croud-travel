@@ -439,7 +439,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 袋田温泉　思い出浪漫館</td>
                 <td className="p-3 text-stone-600">茨城県久慈郡大子町袋田978</td>
-                <td className="p-3 text-stone-600"></td>
+                <td className="p-3 text-stone-600">茨城県久慈郡大子町袋田978 ／ 交通案内：</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.46（2012件）</td>
                 <td className="p-3 font-bold text-rose-600">¥9,000〜</td>
@@ -457,7 +457,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 大子温泉　やみぞ</td>
                 <td className="p-3 text-stone-600">茨城県久慈郡大子町矢田524-2</td>
-                <td className="p-3 text-stone-600"></td>
+                <td className="p-3 text-stone-600">茨城県久慈郡大子町矢田524-2 ／ 交通案内：</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.38（377件）</td>
                 <td className="p-3 font-bold text-rose-600">¥16,500〜</td>

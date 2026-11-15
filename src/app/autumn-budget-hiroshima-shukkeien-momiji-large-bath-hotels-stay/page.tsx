@@ -342,7 +342,7 @@ export default function HiroshimaBudgetAutumnPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. アパホテル〈広島駅前大橋〉</td>
                 <td className="p-3 text-stone-600">広島県広島市南区京橋町2-26</td>
-                <td className="p-3 text-stone-600">広島駅周辺</td>
+                <td className="p-3 text-stone-600">［山陽新幹線＋JR各線］広島駅南口8番出口から徒歩4分［市内電車］広島電停から徒歩6分 ［空港］広島駅から直通バス50分</td>
                 <td className="p-3 text-stone-600">先着順　入庫から24時間で1500円　入出庫：7：00-22：00　大きさ制限あり　詳細はホテルへ</td>
                 <td className="p-3 font-bold text-amber-600">★4.25（5088件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,500〜</td>
@@ -351,7 +351,7 @@ export default function HiroshimaBudgetAutumnPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. トラストホテル</td>
                 <td className="p-3 text-stone-600">広島県広島市東区光町1-14-10</td>
-                <td className="p-3 text-stone-600">広島駅周辺</td>
+                <td className="p-3 text-stone-600">広島駅より徒歩6分</td>
                 <td className="p-3 text-stone-600">最大2台まで。電話予約受付（082-569-6433）高さ制限2ｍ以下　1泊1100円</td>
                 <td className="p-3 font-bold text-amber-600">★4.2（753件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,600〜</td>
@@ -360,7 +360,7 @@ export default function HiroshimaBudgetAutumnPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 広島パシフィックホテル</td>
                 <td className="p-3 text-stone-600">広島県広島市中区上八丁堀8-16</td>
-                <td className="p-3 text-stone-600">広島駅周辺</td>
+                <td className="p-3 text-stone-600">JR広島駅からタクシー約5分。路面電車なら「女学院前」徒歩1分。迷わず着ける好立地。</td>
                 <td className="p-3 text-stone-600">鯉城ガレージ1泊1,200円税込(15時〜翌11時出入れなし）</td>
                 <td className="p-3 font-bold text-amber-600">★4.13（2859件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,075〜</td>
@@ -369,7 +369,7 @@ export default function HiroshimaBudgetAutumnPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. アパホテル〈広島駅前新幹線口〉</td>
                 <td className="p-3 text-stone-600">広島県広島市東区上大須賀町2-29</td>
-                <td className="p-3 text-stone-600">広島駅周辺</td>
+                <td className="p-3 text-stone-600">山陽新幹線・JR各線「広島駅」新幹線口（北口）徒歩4分</td>
                 <td className="p-3 text-stone-600">16台（先着順、予約不可）、【料金】入庫から24時間 1,500円【時間外】 30分につき200円</td>
                 <td className="p-3 font-bold text-amber-600">★4.15（636件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,275〜</td>
@@ -378,7 +378,7 @@ export default function HiroshimaBudgetAutumnPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 天然温泉　芸州の湯　ドーミーイン広島ＡＮＮＥＸ（ドーミーイン・御宿野乃　ホテルズグループ）</td>
                 <td className="p-3 text-stone-600">広島県広島市中区田中町5-9</td>
-                <td className="p-3 text-stone-600">広島駅周辺</td>
+                <td className="p-3 text-stone-600">バス：広島電鉄 エキまちループ線「田中町」下車1分、路面電車：広島電鉄「銀山町(かなやまちょう）」電停より徒歩約10分。</td>
                 <td className="p-3 text-stone-600">【先着順】機械式立体駐車場18台 平面車椅子利用者用駐車場1台（1泊15時－翌11時 2,300円）</td>
                 <td className="p-3 font-bold text-amber-600">★4.41（965件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,384〜</td>
@@ -407,7 +407,7 @@ export default function HiroshimaBudgetAutumnPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>先着順　入庫から24時間で1500円　入出庫：7：00-22：00　大きさ制限あり　詳細はホテルへ</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近で迷わず到着、事前チェックインでスムーズ駅から見える場所にあったので、迷わず辿り着けました。午前中に荷物を預けに行ったのですがその際、「今日は予約が多いから事前チェックインを」と進めてくだ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近で迷わず到着、事前チェックインでスムーズ駅から見える場所にあったので、迷わず辿り着けました。」
                   </blockquote>
                 </div>
               </div>
@@ -429,7 +429,7 @@ export default function HiroshimaBudgetAutumnPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>最大2台まで。電話予約受付（082-569-6433）高さ制限2ｍ以下　1泊1100円</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.18 ／ 立地 ★4.2 ／ 部屋 ★4.21 ／ 設備 ★4.12 ／ 風呂 ★4.09 ／ 食事 ★4.21</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「荷物を預けて身軽に観光、部屋のアメニティ希望チェックイン前でしたが、荷物を預かっていただいたおかげで予定の場所へ身軽で行くことができ、楽しい時間を過ごすことができました。大浴場にはありましたが…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「荷物を預けて身軽に観光、部屋のアメニティ希望チェックイン前でしたが、荷物を預かっていただいたおかげで予定の場所へ身軽で行くことができ、楽しい時間を過ごすことができました。」
                   </blockquote>
                 </div>
               </div>
@@ -473,7 +473,7 @@ export default function HiroshimaBudgetAutumnPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>16台（先着順、予約不可）、【料金】入庫から24時間 1,500円【時間外】 30分につき200円</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近で便利、大浴場とコンパクトな部屋が快適部屋はキレイでアパホテルらしくコンパクトにまとまっている。大浴場があるのは嬉しくてホテルを選ぶ選択肢になるのですが、ホテルの大きさの割に少し小さいかな…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近で便利、大浴場とコンパクトな部屋が快適部屋はキレイでアパホテルらしくコンパクトにまとまっている。」
                   </blockquote>
                 </div>
               </div>
@@ -495,7 +495,7 @@ export default function HiroshimaBudgetAutumnPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>【先着順】機械式立体駐車場18台 平面車椅子利用者用駐車場1台（1泊15時－翌11時 2,300円）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.41 ／ 立地 ★4.24 ／ 部屋 ★4.39 ／ 設備 ★4.39 ／ 風呂 ★4.46 ／ 食事 ★4.46</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋や設備自体は素晴らしいんですが...。チェックインして最上階の温泉に直行して身体を洗っていると、全身タトゥーの男が身体を洗いもせずに浴槽に直行しており、気持ち悪くなって退散しました。…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋や設備自体は素晴らしいんですが...。チェックインして最上階の温泉に直行して身体を洗っていると、全身タトゥーの男が身体を洗いもせずに浴槽に直行しており、気持ち悪くなって退散しました。」
                   </blockquote>
                 </div>
               </div>

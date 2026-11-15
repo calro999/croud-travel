@@ -337,8 +337,8 @@ export default function ArticlePage() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 宇久井駅よりアクセス。送迎バス（要予約）。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「勝浦温泉 休暇村 南紀勝浦」にチェックイン。熊野灘の潮騒と朝陽に癒される高台のリゾートホテルなどの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「勝浦温泉 休暇村 南紀勝浦」の湯処へ。熊野灘の潮騒と朝陽に癒される高台のリゾートホテルとともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「勝浦温泉 休暇村 南紀勝浦」にチェックイン。熊野灘の潮騒と朝陽に癒される高台のリゾートホテルが魅力の一軒。客室で荷物をほどいて穏やかな午後のひとときを。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「勝浦温泉 休暇村 南紀勝浦」の湯船で寛ぎタイム。季節の空気を感じながら手足を伸ばし、心豊かな夕方のリラックス時間を満喫。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「勝浦温泉 休暇村 南紀勝浦」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -350,7 +350,7 @@ export default function ArticlePage() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「勝浦温泉 休暇村 南紀勝浦」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「勝浦温泉 休暇村 南紀勝浦」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「南紀勝浦温泉 ホテルなぎさや」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は「勝浦温泉 休暇村 南紀勝浦」周辺の観光スポットや地元の名産店に立ち寄り、ご当地のお土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>
@@ -366,49 +366,49 @@ export default function ArticlePage() {
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">あわせて読みたい人気特集＆全国エリアガイド</h2>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
-            <a href="/tochigi-nasu-solo-retreat-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/japan-sacred-pilgrimage-koyasan-shukubo-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">那須温泉ひとり旅・御用邸高原おこもり：茶臼岳絶景露天・鹿の湯白濁泉・那須黒毛和牛！森の静寂に包まれる高原リゾート厳選3宿</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「世界遺産・霊場巡り＆宿坊体験宿」高野山宿坊・熊野古道・比叡山延暦寺 厳選ガイド</span>
             </a>
-            <a href="/winter-tochigi-nasu-onsen-shikanoyu-snow-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/nanki-shirahama-solo-retreat-ocean-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12月那須温泉郷の初冬高原美と名湯】茶臼岳雪化粧と開湯千三百年鹿の湯・最高峰那須与一牛＆高原温泉会席の宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「南紀白浜ひとり旅・海望おこもり」太平洋オーシャンビュー・古都白浜温泉・インフィニティ足湯！南国の絶景に癒やされる厳選3宿</span>
             </a>
-            <a href="/winter-tochigi-yunishigawa-onsen-heike-irori-snow-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/spring-wakayama-nanki-ume-spa-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12月栃木・日光湯西川温泉の初雪渓谷美と平家落人伝説】名物囲炉裏会席・平家狩場焼＆とちぎ和牛・源泉かけ流し雪見露天名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「南高梅スイーツ＆梅酒BAR」紀州特産南高梅のフルコースと白浜名湯！和歌山・南紀白浜の癒やし宿5選</span>
             </a>
-            <a href="/furusato-tax-kinugawa-ryuokyo-autumn-leaves-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/wakayama-kudoyama-sanada-koyasan-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">鬼怒川温泉の龍王峡紅葉ハイキング＆ライン下り！鬼怒川渓谷露天風呂宿×ふるさと納税厳選ガイド栃木</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「和歌山・高野山山麓＆九度山」真田幸村蟄居の地・善名称院＆世界遺産慈尊院・富有柿宿 厳選ガイド</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
             <div className="flex flex-wrap gap-2">
               <Link
-                href="/prefectures/okinawa/"
+                href="/prefectures/wakayama/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                沖縄県の宿・温泉
+                和歌山県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/saitama/"
+                href="/prefectures/kyoto/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                埼玉県の宿・温泉
+                京都府の宿・温泉
               </Link>
               <Link
-                href="/prefectures/miyazaki/"
+                href="/prefectures/osaka/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                宮崎県の宿・温泉
+                大阪府の宿・温泉
               </Link>
               <Link
-                href="/prefectures/tochigi/"
+                href="/prefectures/hyogo/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                栃木県の宿・温泉
+                兵庫県の宿・温泉
               </Link>
             </div>
           </div>
@@ -444,7 +444,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 勝浦温泉　休暇村　南紀勝浦</td>
                 <td className="p-3 text-stone-600">和歌山県東牟婁郡那智勝浦町宇久井719</td>
-                <td className="p-3 text-stone-600">宇久井駅周辺</td>
+                <td className="p-3 text-stone-600">送迎バス（要予約）</td>
                 <td className="p-3 text-stone-600">有り　５０台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.35（644件）</td>
                 <td className="p-3 font-bold text-rose-600">¥15,100〜</td>
@@ -453,7 +453,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 南紀勝浦温泉　ホテルなぎさや</td>
                 <td className="p-3 text-stone-600">和歌山県東牟婁郡那智勝浦町大字湯川955番地の1</td>
-                <td className="p-3 text-stone-600">紀伊勝浦駅周辺</td>
+                <td className="p-3 text-stone-600">JR「紀伊勝浦駅」より車で約5分（事前予約で送迎サービス有）／大阪から紀勢自動車道「すさみ南IC」経由で約3時間半</td>
                 <td className="p-3 text-stone-600">50台（無料）</td>
                 <td className="p-3 font-bold text-amber-600">★3.94（697件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,800〜</td>
@@ -462,7 +462,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 碧き島の宿　熊野別邸　中の島</td>
                 <td className="p-3 text-stone-600">和歌山県東牟婁郡那智勝浦町勝浦1179-9</td>
-                <td className="p-3 text-stone-600">紀伊勝浦駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ紀勢本線紀伊勝浦駅から徒歩７分。観光桟橋より専用船約5分</td>
                 <td className="p-3 text-stone-600">有・無料＞カーナビTEL番号の場合、0735-52-1110（客船待合処）をご入力下さい</td>
                 <td className="p-3 font-bold text-amber-600">★4.79（1555件）</td>
                 <td className="p-3 font-bold text-rose-600">¥38,110〜</td>
@@ -491,7 +491,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　５０台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.4 ／ 立地 ★4.42 ／ 部屋 ★4.29 ／ 設備 ★4.21 ／ 風呂 ★4.45 ／ 食事 ★4.39</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「バイキングの味に感動、温泉と景色も最高バイキングすごく美味しかったです。海鮮もカレーも、ただ者ではない味でした。温泉も清潔で露天風呂も心地よく、へやからの景観も良かったです。クチコミの…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「バイキングの味に感動、温泉と景色も最高バイキングすごく美味しかったです。海鮮もカレーも、ただ者ではない味でした。温泉も清潔で露天風呂も心地よく、へやからの景観も良かったです。」
                   </blockquote>
                 </div>
               </div>
@@ -513,7 +513,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>50台（無料）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.9 ／ 立地 ★4.14 ／ 部屋 ★3.71 ／ 設備 ★3.59 ／ 風呂 ★4.05 ／ 食事 ★4.03</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「露天風呂への移動が怖く食事も不便潮見の湯という露天風呂は、大浴場から また衣服を着て移動します。その経路が夜間は1人では怖い気がします。また、露天風呂からの海の眺めは期待したほどではなかっ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「露天風呂への移動が怖く食事も不便潮見の湯という露天風呂は、大浴場から また衣服を着て移動します。その経路が夜間は1人では怖い気がします。」
                   </blockquote>
                 </div>
               </div>
@@ -535,7 +535,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有・無料＞カーナビTEL番号の場合、0735-52-1110（客船待合処）をご入力下さい</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.84 ／ 立地 ★4.84 ／ 部屋 ★4.77 ／ 設備 ★4.75 ／ 風呂 ★4.82 ／ 食事 ★4.79</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの気配りが素晴らしくまた来たい9月29日より2泊でお世話になりました。到着日台風26号の影響で雨天、だいぶ早いが濡れながら連絡船乗り場に向かう。かなり早いがお部屋に案内して頂き本当に助かり…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの気配りが素晴らしくまた来たい9月29日より2泊でお世話になりました。到着日台風26号の影響で雨天、だいぶ早いが濡れながら連絡船乗り場に向かう。」
                   </blockquote>
                 </div>
               </div>

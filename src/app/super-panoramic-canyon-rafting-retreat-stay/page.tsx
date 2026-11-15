@@ -564,8 +564,8 @@ export default function FeatureDetailPage() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 人吉駅よりアクセス。人吉ICより車で約8分。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「国登録有形文化財の宿 人吉温泉 芳野旅館」にチェックイン。国登録有形文化財の宿 歴史感じる純和風旅館 源泉掛け流し天然温泉と旬の会席料理で心和むひと時をなどの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「国登録有形文化財の宿 人吉温泉 芳野旅館」の湯処へ。国登録有形文化財の宿 歴史感じる純和風旅館 源泉掛け流し天然温泉と旬のとともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「国登録有形文化財の宿 人吉温泉 芳野旅館」にチェックイン。国登録有形文化財の宿 歴史感じる純和風旅館 源泉掛け流し天然温泉と旬の会席料理で心和むひと時をが魅力の一軒。客室で荷物をほどいて穏やかな午後のひとときを。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「国登録有形文化財の宿 人吉温泉 芳野旅館」の自慢の湯処へ。温かな湯気と落ち着いた雰囲気に癒やされながら、夕食前の贅沢なひとときを過ごす。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「国登録有形文化財の宿 人吉温泉 芳野旅館」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -577,7 +577,7 @@ export default function FeatureDetailPage() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「国登録有形文化財の宿 人吉温泉 芳野旅館」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「国登録有形文化財の宿 人吉温泉 芳野旅館」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「１１種類の貸切露天風呂 水上高原／奥利根温泉 ホテルサンバード」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は「国登録有形文化財の宿 人吉温泉 芳野旅館」周辺の観光スポットや地元の名産店に立ち寄り、ご当地のお土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>
@@ -705,7 +705,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 国登録有形文化財の宿　人吉温泉　芳野旅館</td>
                 <td className="p-3 text-stone-600">熊本県人吉市上青井町180</td>
-                <td className="p-3 text-stone-600">人吉駅周辺</td>
+                <td className="p-3 text-stone-600">人吉ICより車で約8分</td>
                 <td className="p-3 text-stone-600">有り　30台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.37（135件）</td>
                 <td className="p-3 font-bold text-rose-600">¥12,100〜</td>
@@ -714,7 +714,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. １１種類の貸切露天風呂　水上高原／奥利根温泉　ホテルサンバード</td>
                 <td className="p-3 text-stone-600">群馬県利根郡みなかみ町藤原4957-1</td>
-                <td className="p-3 text-stone-600">水上駅周辺</td>
+                <td className="p-3 text-stone-600">車で関越自動車道・水上ＩＣから３０分・ＪＲで上越線 水上駅より 湯ノ小屋行きバスで藤原スキー場入口下車900M</td>
                 <td className="p-3 text-stone-600">有り ３００台 無料 先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.04（825件）</td>
                 <td className="p-3 font-bold text-rose-600">¥9,900〜</td>
@@ -723,7 +723,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 水上温泉郷　水上高原ホテル２００</td>
                 <td className="p-3 text-stone-600">群馬県利根郡みなかみ町藤原6152-1</td>
-                <td className="p-3 text-stone-600">上毛高原駅周辺</td>
+                <td className="p-3 text-stone-600">関越自動車道「水上ＩＣ」から19ｋｍ（30分）／上越新幹線「上毛高原駅」から送迎シャトルバス有(3日前までの要事前予約)</td>
                 <td className="p-3 text-stone-600">有　７００台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.16（2324件）</td>
                 <td className="p-3 font-bold text-rose-600">¥10,450〜</td>
@@ -732,7 +732,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 湯宿くったり温泉レイク・イン</td>
                 <td className="p-3 text-stone-600">北海道上川郡新得町屈足808番地</td>
-                <td className="p-3 text-stone-600">新得駅周辺</td>
+                <td className="p-3 text-stone-600">新得駅から車で約20分／札幌北IC～高速トマムIC経由：約2時間30分／千歳東IC～高速トマムIC経由：約2時間</td>
                 <td className="p-3 text-stone-600">有り　60台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.2（709件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,000〜</td>
@@ -741,7 +741,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 瓜島温泉　翠紅苑さくら</td>
                 <td className="p-3 text-stone-600">静岡県富士宮市内房385</td>
-                <td className="p-3 text-stone-600">芝川駅周辺</td>
+                <td className="p-3 text-stone-600">新東名新清水インターよりお車で７分。東名高速富士川サービスエリアよりお車で２０分。ＪＲ芝川駅よりタクシーで１０分</td>
                 <td className="p-3 text-stone-600">有り　１０台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.6（71件）</td>
                 <td className="p-3 font-bold text-rose-600">¥20,480〜</td>
@@ -792,7 +792,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り ３００台 無料 先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.03 ／ 立地 ★4.08 ／ 部屋 ★3.94 ／ 設備 ★3.75 ／ 風呂 ★4.19 ／ 食事 ★4.16</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「シルバーウィークにこの内容でみなかみでのラフティング目的で近くの宿を探し、シルバーウィークど真ん中なのにとてもお安く泊まれて、食事など正直あまり期待していなかったのですが良い意味で裏切られまし…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「シルバーウィークにこの内容でみなかみでのラフティング目的で近くの宿を探し、シルバーウィークど真ん中なのにとてもお安く泊まれて、食事など正直あまり期待していなかったのですが良い意味で裏切られました。」
                   </blockquote>
                 </div>
               </div>
@@ -814,7 +814,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有　７００台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「11時頃に仮チェックインを済ませました。その際、「チェックインの説明はすでに終わっているので、15時以降に仮チェックインの列に並び、鍵を受け取ってください」と案内されたため、15時以降にその列に並…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「11時頃に仮チェックインを済ませました。」
                   </blockquote>
                 </div>
               </div>
@@ -836,7 +836,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　60台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.15 ／ 立地 ★4.08 ／ 部屋 ★4.2 ／ 設備 ★4.07 ／ 風呂 ★4.3 ／ 食事 ★4.25</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「館内の虫や設備の古さが気になり金庫もなし山の中なので仕方がありませんが館内にはクモや虫がいます4人部屋でしたが古さを感じます部屋に金庫はありません温泉はまあまあですが寝湯ではエアーが出…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「館内の虫や設備の古さが気になり金庫もなし山の中なので仕方がありませんが館内にはクモや虫がいます4人部屋でしたが古さを感じます部屋に金庫はありません温泉はまあまあですが寝湯ではエアーが出。」
                   </blockquote>
                 </div>
               </div>

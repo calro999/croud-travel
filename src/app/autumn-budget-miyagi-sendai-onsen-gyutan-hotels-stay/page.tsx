@@ -342,7 +342,7 @@ export default function SendaiBudgetAutumnPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. スーパーホテル仙台駅東口天然温泉</td>
                 <td className="p-3 text-stone-600">宮城県仙台市宮城野区名掛丁203-12</td>
-                <td className="p-3 text-stone-600">仙台駅周辺</td>
+                <td className="p-3 text-stone-600">仙台駅東口より徒歩で約５分/北部名掛丁自由通路」を通り出口を出てから徒歩2分/高速バス「仙台駅前」のりばから徒歩5分</td>
                 <td className="p-3 text-stone-600">無し（近隣コインパーキングをご利用ください）</td>
                 <td className="p-3 font-bold text-amber-600">★4.5（1152件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,540〜</td>
@@ -351,7 +351,7 @@ export default function SendaiBudgetAutumnPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 天然温泉　弦月の湯　スーパーホテル仙台・広瀬通り</td>
                 <td className="p-3 text-stone-600">宮城県仙台市青葉区中央2-9-23</td>
-                <td className="p-3 text-stone-600">仙台駅周辺</td>
+                <td className="p-3 text-stone-600">地下鉄 広瀬通り駅より徒歩で約3分／ＪＲ 仙台駅より徒歩で15分 繁華街国分町徒歩10分</td>
                 <td className="p-3 text-stone-600">当館に駐車場はございませんので、予約等は一切承っておりません。</td>
                 <td className="p-3 font-bold text-amber-600">★4.22（3929件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,203〜</td>
@@ -360,7 +360,7 @@ export default function SendaiBudgetAutumnPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. スーパーホテルＰｒｅｍｉｅｒ仙台国分町天然温泉</td>
                 <td className="p-3 text-stone-600">宮城県仙台市青葉区国分町2-13-5</td>
-                <td className="p-3 text-stone-600">勾当台公園駅周辺</td>
+                <td className="p-3 text-stone-600">地下鉄南北線「勾当台公園駅」南出口3より徒歩6分/地下鉄東西線「青葉通一番町」より徒歩10分/「仙台宮城IC」より車6分</td>
                 <td className="p-3 text-stone-600">提携駐車場●大仙台駐車場 1200円/1泊●松葉屋駐車場1300円～/1泊【駐輪場はございません】</td>
                 <td className="p-3 font-bold text-amber-600">★4.4（1428件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,650〜</td>
@@ -369,7 +369,7 @@ export default function SendaiBudgetAutumnPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 天然温泉　萩の湯　ドーミーイン仙台駅前（ドーミーイン・御宿野乃　ホテルズグループ）</td>
                 <td className="p-3 text-stone-600">宮城県仙台市青葉区本町1-5-38</td>
-                <td className="p-3 text-stone-600">仙台駅周辺</td>
+                <td className="p-3 text-stone-600">JR仙台駅西口より徒歩約5分。東北道宮城ＩＣより１５分。仙台空港線で約３０分。高速バス停留所より徒歩２分。駅前通沿い。</td>
                 <td className="p-3 text-stone-600">平面駐車場１泊2,000円(15台分)高さ２．３ｍ以下まで（要電話予約）満車時は近隣駐車場案内</td>
                 <td className="p-3 font-bold text-amber-600">★4.2（5694件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,600〜</td>
@@ -398,7 +398,7 @@ export default function SendaiBudgetAutumnPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無し（近隣コインパーキングをご利用ください）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.59 ／ 立地 ★4.44 ／ 部屋 ★4.47 ／ 設備 ★4.44 ／ 風呂 ★4.42 ／ 食事 ★4.43</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「無料の朝食が種類豊富で美味しく大満足お部屋も受付もよかったけど、一番いいなと思ったのは朝食です。朝食は無料で付いていたので、あまり期待はしていなかったんですが、焼きたてのパンやおかずも思ってた…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「無料の朝食が種類豊富で美味しく大満足お部屋も受付もよかったけど、一番いいなと思ったのは朝食です。」
                   </blockquote>
                 </div>
               </div>
@@ -420,7 +420,7 @@ export default function SendaiBudgetAutumnPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>当館に駐車場はございませんので、予約等は一切承っておりません。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋は快適だが水回りの狭さがもったいない部屋はベッドなどは非常に良かったが、ユニットバスが狭すぎてトイレを利用するのも大変だった。温泉は3人でいっぱいになるくらいの広さしかなく、少し狭いと感じ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋は快適だが水回りの狭さがもったいない部屋はベッドなどは非常に良かったが、ユニットバスが狭すぎてトイレを利用するのも大変だった。」
                   </blockquote>
                 </div>
               </div>
@@ -442,7 +442,7 @@ export default function SendaiBudgetAutumnPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>提携駐車場●大仙台駐車場 1200円/1泊●松葉屋駐車場1300円～/1泊【駐輪場はございません】</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「風呂上がりにスリッパが盗まれていて困惑温泉は良かったてすが、風呂上がりに帰ろうと、スリッパをはこうしたら、スリッパが無かった。(風呂に入っ居る人は、自分の他に一人しかいなかった)アイツが自…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「風呂上がりにスリッパが盗まれていて困惑温泉は良かったてすが、風呂上がりに帰ろうと、スリッパをはこうしたら、スリッパが無かった。」
                   </blockquote>
                 </div>
               </div>

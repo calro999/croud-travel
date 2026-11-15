@@ -60,7 +60,7 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/16099/16099map.gif",
     "reviewCount": 787,
     "reviewAverage": 3.31,
-    "userReview": "囲炉裏の炭火焼きと温泉は最高だが設備は古め夕食、朝食の際に、囲炉裏で炭火で食材を焼くのは、独特で楽しい。また、温泉も眺めがよく、気持ち良い。クチコミの詳。",
+    "userReview": "囲炉裏の炭火焼きと温泉は最高だが設備は古め夕食、朝食の際に、囲炉裏で炭火で食材を焼くのは、独特で楽しい。また、温泉も眺めがよく、気持ち良い。",
     "hotelMinCharge": 4950,
     "address1": "長野県",
     "address2": "茅野市北山5522",
@@ -565,8 +565,8 @@ export default function FeatureDetailPage() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 千歳（北海道）駅よりアクセス。ＪＲ千歳駅／新千歳空港より車で５０分、札幌市内、エスコンフィールド、苫小牧港から車で６０分。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「奥札幌の秘湯 湖畔の宿支笏湖 丸駒温泉旅館」にチェックイン。2024,2025年連続アワード受賞宿 2024年リニューアル、国立公園の絶景温泉とサウナが自慢などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「奥札幌の秘湯 湖畔の宿支笏湖 丸駒温泉旅館」の湯処へ。2024,2025年連続アワード受賞宿 2024年リニューアル、国立公とともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「奥札幌の秘湯 湖畔の宿支笏湖 丸駒温泉旅館」にチェックイン。2024,2025年連続アワード受賞宿 2024年リニューアル、国立公園の絶景温泉とサウナが自慢が魅力の一軒。客室で荷物をほどいて穏やかな午後のひとときを。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「奥札幌の秘湯 湖畔の宿支笏湖 丸駒温泉旅館」の大浴場・露天風呂へ。日暮れの静けさの中で湯に浸かり、旅の緊張をゆっくりと解きほぐす。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「奥札幌の秘湯 湖畔の宿支笏湖 丸駒温泉旅館」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -578,7 +578,7 @@ export default function FeatureDetailPage() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「奥札幌の秘湯 湖畔の宿支笏湖 丸駒温泉旅館」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「奥札幌の秘湯 湖畔の宿支笏湖 丸駒温泉旅館」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「蓼科温泉 いろりの宿 蓼科パークホテル」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は宿周辺の散策とショッピングを満喫。地元の名産品やグルメを味わってから余裕をもって帰路につく。</li>
               </ul>
             </div>
           </div>
@@ -706,7 +706,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 奥札幌の秘湯　湖畔の宿支笏湖　丸駒温泉旅館</td>
                 <td className="p-3 text-stone-600">北海道千歳市幌美内7番地</td>
-                <td className="p-3 text-stone-600">千歳（北海道）駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ千歳駅／新千歳空港より車で５０分、札幌市内、エスコンフィールド、苫小牧港から車で６０分</td>
                 <td className="p-3 text-stone-600">駐車場は50台分ございます。料金は無料です。</td>
                 <td className="p-3 font-bold text-amber-600">★4.45（966件）</td>
                 <td className="p-3 font-bold text-rose-600">¥10,000〜</td>
@@ -715,7 +715,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 蓼科温泉　いろりの宿　蓼科パークホテル</td>
                 <td className="p-3 text-stone-600">長野県茅野市北山5522</td>
-                <td className="p-3 text-stone-600">茅野駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ茅野駅下車タクシー２０分バス３０分／中央道諏訪ＩＣより約３０分</td>
                 <td className="p-3 text-stone-600">■有り200台無料　■全館Wi-Fi対応　■禁煙・喫煙ルームあり</td>
                 <td className="p-3 font-bold text-amber-600">★3.3（814件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,950〜</td>
@@ -724,7 +724,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 岳温泉　陽日の郷(ゆいのさと)あづま館</td>
                 <td className="p-3 text-stone-600">福島県二本松市岳温泉1-5</td>
-                <td className="p-3 text-stone-600">郡山（福島）駅周辺</td>
+                <td className="p-3 text-stone-600">東北新幹線「郡山駅」乗換え、東北本線「二本松駅」下車 バス２５分 東北自動車道二本松ＩＣより１５分 福島空港より車６０分</td>
                 <td className="p-3 text-stone-600">有り　１００台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.31（1779件）</td>
                 <td className="p-3 font-bold text-rose-600">¥11,000〜</td>
@@ -733,7 +733,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 大芝高原温泉　道の駅【癒しと健康の森】　信州大芝高原</td>
                 <td className="p-3 text-stone-600">長野県上伊那郡南箕輪村2358-5</td>
-                <td className="p-3 text-stone-600">伊那北駅周辺</td>
+                <td className="p-3 text-stone-600">伊那北駅よりお車で15分／伊那ICよりお車で約5分</td>
                 <td className="p-3 text-stone-600">有り　５０台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.21（54件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,300〜</td>
@@ -742,7 +742,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 宝船温泉　湯元　ことぶき</td>
                 <td className="p-3 text-stone-600">滋賀県高島市安曇川町下小川2248-2</td>
-                <td className="p-3 text-stone-600">近江高島駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ近江高島駅よりタクシーにて5分（駅からの送迎有。（要予約））/京都よりＲ161号線（今津・敦賀方面）55分</td>
                 <td className="p-3 text-stone-600">有り　５台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★3.2（64件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,500〜</td>
@@ -793,7 +793,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>■有り200台無料　■全館Wi-Fi対応　■禁煙・喫煙ルームあり</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.46 ／ 立地 ★3.48 ／ 部屋 ★3.14 ／ 設備 ★2.94 ／ 風呂 ★3.46 ／ 食事 ★3.61</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「感想全般食事は種類が豊富で満足。特に夕食の炉端焼きはホテルにしては珍しく美味でした。4階の洋室の窓から見る山々などの展望はグッド。ただ施設が古いので仕方がありませんが、洗面所の汚れやシミが目立ち気…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「感想全般食事は種類が豊富で満足。特に夕食の炉端焼きはホテルにしては珍しく美味でした。4階の洋室の窓から見る山々などの展望はグッド。」
                   </blockquote>
                 </div>
               </div>
@@ -815,7 +815,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１００台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.34 ／ 立地 ★4 ／ 部屋 ★4.28 ／ 設備 ★4.23 ／ 風呂 ★4.41 ／ 食事 ★4.33</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「今回、平日にもうすぐ8ヶ月の赤ちゃんがいるので、ベビープランで1泊しました。食事するときも広いスペースを用意してもいまた、ベビーカーを用意してましたがハイチェアやベビーチェアが用意されており必要無…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「今回、平日にもうすぐ8ヶ月の赤ちゃんがいるので、ベビープランで1泊しました。」
                   </blockquote>
                 </div>
               </div>
@@ -837,7 +837,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　５０台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.05 ／ 立地 ★4.53 ／ 部屋 ★4.37 ／ 設備 ★3.89 ／ 風呂 ★4.21</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「景色とバーベキューは最高だが深夜の騒音が残念空気も美味しい、景色も綺麗で、避暑地に来たようでした。専用のバーベキューガーデンで火起こしして、美味しいビールや日本酒を飲みながら、お肉や野菜を焼いて食…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「景色とバーベキューは最高だが深夜の騒音が残念空気も美味しい、景色も綺麗で、避暑地に来たようでした。」
                   </blockquote>
                 </div>
               </div>

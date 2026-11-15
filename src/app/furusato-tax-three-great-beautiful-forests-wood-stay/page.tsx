@@ -420,8 +420,8 @@ export default function Page() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 下北駅よりアクセス。JR大湊線下北駅から車で８分。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「むつグランドホテル 斗南温泉」にチェックイン。Ｗｉ-Ｆｉ利用可 むつ市の東部に位置し、下北を一望できるホテルです。などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「むつグランドホテル 斗南温泉」の湯処へ。Ｗｉ-Ｆｉ利用可 むつ市の東部に位置し、下北を一望できるホテルです。とともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「むつグランドホテル 斗南温泉」にチェックイン。Ｗｉ-Ｆｉ利用可 むつ市の東部に位置し、下北を一望できるホテルです。 館内の設えを確かめながら、これからの滞在に備えてゆっくり休息する。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「むつグランドホテル 斗南温泉」の大浴場・露天風呂へ。日暮れの静けさの中で湯に浸かり、旅の緊張をゆっくりと解きほぐす。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「むつグランドホテル 斗南温泉」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -433,7 +433,7 @@ export default function Page() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「むつグランドホテル 斗南温泉」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「むつグランドホテル 斗南温泉」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「大館ぽかぽか温泉ホテル」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は「むつグランドホテル 斗南温泉」周辺の観光スポットや地元の名産店に立ち寄り、ご当地のお土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>
@@ -561,7 +561,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. むつグランドホテル　斗南温泉</td>
                 <td className="p-3 text-stone-600">青森県むつ市田名部下道4</td>
-                <td className="p-3 text-stone-600">下北駅周辺</td>
+                <td className="p-3 text-stone-600">JR大湊線下北駅から車で８分</td>
                 <td className="p-3 text-stone-600">有り 500台 無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.15（946件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,350〜</td>
@@ -570,7 +570,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 大館ぽかぽか温泉ホテル</td>
                 <td className="p-3 text-stone-600">秋田県大館市清水4-4-34</td>
-                <td className="p-3 text-stone-600">大館駅周辺</td>
+                <td className="p-3 text-stone-600">JR大館駅より徒歩12分/秋田道大館北ICより車で10分/大館能代空港よりリムジンバス約40分「清水四丁目」下車目の前</td>
                 <td className="p-3 text-stone-600">無料平面駐車場１００台完備</td>
                 <td className="p-3 font-bold text-amber-600">★4.14（490件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,190〜</td>
@@ -579,7 +579,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. きそふくしま温泉　街道浪漫　おん宿　蔦屋</td>
                 <td className="p-3 text-stone-600">長野県木曽郡木曽町福島本町5162</td>
-                <td className="p-3 text-stone-600">JR木曽福島駅～徒歩約10分【15：30分16：40分送迎有要予約】伊</td>
+                <td className="p-3 text-stone-600">JR木曽福島駅～徒歩約10分【15：30分16：40分送迎有要予約】伊那IC約40分塩尻IC約60分中津川I約70分</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.25（582件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,090〜</td>
@@ -608,7 +608,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り 500台 無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「絶景の温泉と青森グルメを堪能できる宿むつグランドホテルの温泉はピカイチ。斗南温泉の宿泊者専用浴場は静かで、トロっとした泉質が肌に優しく、露天風呂からは釜臥山の雄大な景色が広がります。春には桜吹雪も…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「絶景の温泉と青森グルメを堪能できる宿むつグランドホテルの温泉はピカイチ。斗南温泉の宿泊者専用浴場は静かで、トロっとした泉質が肌に優しく、露天風呂からは釜臥山の雄大な景色が広がります。」
                   </blockquote>
                 </div>
               </div>
@@ -630,7 +630,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料平面駐車場１００台完備</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「次回帰省時も利用したい、温泉が最高でしたお盆の帰省で利用しました。新館、素泊まりです。到着時すでにお布団が敷いてありました。部屋広さは二人に対して十分広く、テーブル、椅子一脚ありました。テレビ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「次回帰省時も利用したい、温泉が最高でしたお盆の帰省で利用しました。新館、素泊まりです。到着時すでにお布団が敷いてありました。部屋広さは二人に対して十分広く、テーブル、椅子一脚ありました。」
                   </blockquote>
                 </div>
               </div>
@@ -652,7 +652,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駐車場の案内が不親切で非常に危険だった駐車場について、隣の奥を案内されたが、バックで進入しなければならず非常に狭く危うく壁にぶつかりそうになった。後からチェックインした人が宿の前のスペースに駐車さ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駐車場の案内が不親切で非常に危険だった駐車場について、隣の奥を案内されたが、バックで進入しなければならず非常に狭く危うく壁にぶつかりそうになった。」
                   </blockquote>
                 </div>
               </div>

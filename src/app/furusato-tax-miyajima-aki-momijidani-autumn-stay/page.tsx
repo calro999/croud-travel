@@ -439,7 +439,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. リブマックスリゾート宮浜温泉Ｏｃｅａｎ</td>
                 <td className="p-3 text-stone-600">広島県廿日市市宮浜温泉2-13-10</td>
-                <td className="p-3 text-stone-600">山陽本線 [大野浦駅]から車で5分・[玖波駅]から車で5分・[宮島口駅</td>
+                <td className="p-3 text-stone-600">山陽本線 [大野浦駅]から車で5分・[玖波駅]から車で5分・[宮島口駅]から車で15分 岩国空港から車で30分</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.21（911件）</td>
                 <td className="p-3 font-bold text-rose-600">¥12,250〜</td>
@@ -448,7 +448,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 宮浜温泉　湯の宿　宮浜グランドホテル</td>
                 <td className="p-3 text-stone-600">広島県廿日市市宮浜温泉2-5-4</td>
-                <td className="p-3 text-stone-600">大野浦駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ大野浦駅より送迎有り／山陽自動車道大野ＩＣより約７～８分</td>
                 <td className="p-3 text-stone-600">有り　３０台　先着順　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.2（756件）</td>
                 <td className="p-3 font-bold text-rose-600">¥10,890〜</td>
@@ -457,7 +457,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 宮浜温泉　旅館　かんざき</td>
                 <td className="p-3 text-stone-600">広島県廿日市市宮浜温泉1-21-42</td>
-                <td className="p-3 text-stone-600">大野浦駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ山陽本線 大野浦駅からタクシーで５分（送迎あり）</td>
                 <td className="p-3 text-stone-600">有り：１５台（無料）</td>
                 <td className="p-3 font-bold text-amber-600">★4.6（282件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,250〜</td>
@@ -486,7 +486,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋は広々快適だが食事会場は混雑気味オーシャンスイートに泊まりました。部屋は広々しており居心地も良く設備等含め快適でした。食事はバイキング会場が狭く隣との間隔があまりないので、テーブルを仕切っ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋は広々快適だが食事会場は混雑気味オーシャンスイートに泊まりました。部屋は広々しており居心地も良く設備等含め快適でした。」
                   </blockquote>
                 </div>
               </div>
@@ -530,7 +530,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り：１５台（無料）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.64 ／ 立地 ★4.52 ／ 部屋 ★4.52 ／ 設備 ★4.48 ／ 風呂 ★4.39 ／ 食事 ★4.67</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「雰囲気の良い旅館で、食事も部屋も大満足家族4人でお世話になりました。ザ・温泉旅館という感じで、とてもいい雰囲気のお宿でした。中庭も手入れが行き届いてとても綺麗でよかったです。広いお部屋…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「雰囲気の良い旅館で、食事も部屋も大満足家族4人でお世話になりました。ザ・温泉旅館という感じで、とてもいい雰囲気のお宿でした。中庭も手入れが行き届いてとても綺麗でよかったです。」
                   </blockquote>
                 </div>
               </div>

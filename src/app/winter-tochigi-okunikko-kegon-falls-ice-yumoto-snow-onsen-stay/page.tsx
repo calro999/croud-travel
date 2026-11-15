@@ -582,7 +582,7 @@ export default function WinterFeaturePage() {
                     <h5 className="text-xs font-bold text-cyan-950 mb-1 flex items-center gap-1.5"><Award className="w-3.5 h-3.5 text-cyan-700" />
                       宿泊者の生の声・クチコミ抜粋</h5>
                     <p className="text-xs text-stone-600 italic leading-relaxed">
-                      「6回目の滞在、お湯も料理も最高で癒やされる6回目の宿泊ですスタッフの方もきさくで優しく、館内は清潔、お湯もお料理も最高!静かな奥湯元こちらのホテルにはただただ癒されまクチコミの詳細」
+                      「6回目の滞在、お湯も料理も最高で癒やされる6回目の宿泊ですスタッフの方もきさくで優しく、館内は清潔、お湯もお料理も最高!静かな奥湯元こちらのホテルにはただただ癒されま」
                     </p>
                   </div>
                   <div className="pt-2">

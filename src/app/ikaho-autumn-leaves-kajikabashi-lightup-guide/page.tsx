@@ -473,49 +473,49 @@ export default function IkahoAutumnLeavesGuidePage() {
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">あわせて読みたい人気特集＆全国エリアガイド</h2>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
-            <a href="/tochigi-nasu-solo-retreat-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/furusato-tax-kusatsu-onsen-yubatake-heritage-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">那須温泉ひとり旅・御用邸高原おこもり：茶臼岳絶景露天・鹿の湯白濁泉・那須黒毛和牛！森の静寂に包まれる高原リゾート厳選3宿</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">草津温泉をふるさと納税でお得に旅する！湯畑徒歩圏内の老舗名宿特集！源泉かけ流しと名湯巡り厳選ガイド｜望雲・ホテル一井・奈良屋</span>
             </a>
-            <a href="/winter-tochigi-nasu-onsen-shikanoyu-snow-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/furusato-tax-manza-onsen-milky-sulfur-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12月那須温泉郷の初冬高原美と名湯】茶臼岳雪化粧と開湯千三百年鹿の湯・最高峰那須与一牛＆高原温泉会席の宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">万座温泉をふるさと納税でお得に旅する！日本一の高濃度硫黄泉！標高1800mの雲上露天風呂＆満天星空ステイガイド｜万座プリンスホテル・万座高原ホテル・日進舘</span>
             </a>
-            <a href="/winter-tochigi-yunishigawa-onsen-heike-irori-snow-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/furusato-tax-minakami-tanigawadake-autumn-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12月栃木・日光湯西川温泉の初雪渓谷美と平家落人伝説】名物囲炉裏会席・平家狩場焼＆とちぎ和牛・源泉かけ流し雪見露天名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">谷川岳一ノ倉沢の岩壁紅葉と利根川渓谷美＆みなかみ温泉郷の源泉湯宿・上州牛会席｜ふるさと納税で泊まれる名宿ガイド</span>
             </a>
-            <a href="/furusato-tax-kinugawa-ryuokyo-autumn-leaves-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/gunma-ikaho-solo-retreat-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">鬼怒川温泉の龍王峡紅葉ハイキング＆ライン下り！鬼怒川渓谷露天風呂宿×ふるさと納税厳選ガイド栃木</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「伊香保温泉ひとり旅・石段街おこもり」黄金の湯・白銀の湯・屋上絶景露天！レトロな石段街で情緒と癒やしを味わう厳選3宿</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
             <div className="flex flex-wrap gap-2">
               <Link
-                href="/prefectures/toyama/"
+                href="/prefectures/gunma/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                富山県の宿・温泉
+                群馬県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/tottori/"
+                href="/prefectures/tokyo/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                鳥取県の宿・温泉
+                東京都の宿・温泉
               </Link>
               <Link
-                href="/prefectures/tochigi/"
+                href="/prefectures/kanagawa/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                栃木県の宿・温泉
+                神奈川県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/shiga/"
+                href="/prefectures/chiba/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                滋賀県の宿・温泉
+                千葉県の宿・温泉
               </Link>
             </div>
           </div>
@@ -551,7 +551,7 @@ export default function IkahoAutumnLeavesGuidePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 伊香保温泉　名物畳風呂と料理自慢の宿　ホテルきむら</td>
                 <td className="p-3 text-stone-600">群馬県渋川市伊香保町伊香保557-32</td>
-                <td className="p-3 text-stone-600">渋川駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ渋川駅→路線バス（30分）→伊香保バスターミナル下車、またはタクシー（15分）／関越自動車道・渋川伊香保ＩＣ～20分</td>
                 <td className="p-3 text-stone-600">車100台・バイクの方は屋根付き駐車場がございます。料金無料・予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★3.71（2118件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,700〜</td>
@@ -560,7 +560,7 @@ export default function IkahoAutumnLeavesGuidePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 伊香保温泉　人気の露天風呂付客室と美味に和む宿　かのうや</td>
                 <td className="p-3 text-stone-600">群馬県渋川市伊香保町伊香保591</td>
-                <td className="p-3 text-stone-600">渋川駅周辺</td>
+                <td className="p-3 text-stone-600">関越自動車道「渋川伊香保IC」より30分 ※電車・高速バスでお越しの際は伊香保町内お迎えいたします（14～18時）</td>
                 <td className="p-3 text-stone-600">有　30台（無料） ※迷われる方が多いので事前に当館HP「交通アクセス」をご覧くださいませ</td>
                 <td className="p-3 font-bold text-amber-600">★4.32（1504件）</td>
                 <td className="p-3 font-bold text-rose-600">¥15,015〜</td>
@@ -569,7 +569,7 @@ export default function IkahoAutumnLeavesGuidePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 伊香保温泉　伊香保グランドホテル（伊東園ホテルズ）</td>
                 <td className="p-3 text-stone-600">群馬県渋川市伊香保町伊香保550</td>
-                <td className="p-3 text-stone-600">渋川駅周辺</td>
+                <td className="p-3 text-stone-600">車：関越自動車道 渋川伊香保I.Cより20分 公共交通機関：ＪＲ渋川駅よりバスで２０分</td>
                 <td className="p-3 text-stone-600">有り　250台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★3.85（1396件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,348〜</td>
@@ -578,7 +578,7 @@ export default function IkahoAutumnLeavesGuidePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 伊香保温泉　とどろき（伊東園ホテルズ）</td>
                 <td className="p-3 text-stone-600">群馬県渋川市伊香保町伊香保106</td>
-                <td className="p-3 text-stone-600">渋川駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ上越線 渋川駅よりバス（伊香保榛名口行、八千代坂下バス停降車）又はお車にて２5分</td>
                 <td className="p-3 text-stone-600">当館より離れた場所にございます。午後1時より案内開始となります。一度玄関前にお越しください。（無料）</td>
                 <td className="p-3 font-bold text-amber-600">★3.88（1254件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,448〜</td>
@@ -607,7 +607,7 @@ export default function IkahoAutumnLeavesGuidePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>車100台・バイクの方は屋根付き駐車場がございます。料金無料・予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.79 ／ 立地 ★3.7 ／ 部屋 ★3.64 ／ 設備 ★3.49 ／ 風呂 ★3.71 ／ 食事 ★3.86</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「愛犬と部屋食を満喫、露天風呂も最高でした15歳のトイプードルと妻と一泊しました。外観は昔ながらの旅館ですが、部屋出しの食事、部屋の広さに満足です。そして、なんと言っても、部屋にある露天風呂…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「愛犬と部屋食を満喫、露天風呂も最高でした15歳のトイプードルと妻と一泊しました。外観は昔ながらの旅館ですが、部屋出しの食事、部屋の広さに満足です。」
                   </blockquote>
                 </div>
               </div>
@@ -629,7 +629,7 @@ export default function IkahoAutumnLeavesGuidePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有　30台（無料） ※迷われる方が多いので事前に当館HP「交通アクセス」をご覧くださいませ</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋風呂の景色と脱衣所の構造が残念南館【ビューバス(温泉)付和洋室】(和室+ツイン)301お部屋自体は清潔感あってよかったのですが、部屋風呂が少しがっかりでした。部屋風呂からの景色…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋風呂の景色と脱衣所の構造が残念南館【ビューバス(温泉)付和洋室】(和室+ツイン)301お部屋自体は清潔感あってよかったのですが、部屋風呂が少しがっかりでした。」
                   </blockquote>
                 </div>
               </div>
@@ -673,7 +673,7 @@ export default function IkahoAutumnLeavesGuidePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>当館より離れた場所にございます。午後1時より案内開始となります。一度玄関前にお越しください。（無料）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.89 ／ 立地 ★3.99 ／ 部屋 ★3.87 ／ 設備 ★3.74 ／ 風呂 ★3.99 ／ 食事 ★3.78</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋はとても広く清潔感がありました。夕食は食べ放題でアルコールも飲めてとても良かったです。露天風呂は少し湯がぬるめでしたが、とても綺麗でした。伊香保の観光名所もすぐ近くで立地もとてもいいと…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋はとても広く清潔感がありました。夕食は食べ放題でアルコールも飲めてとても良かったです。露天風呂は少し湯がぬるめでしたが、とても綺麗でした。」
                   </blockquote>
                 </div>
               </div>

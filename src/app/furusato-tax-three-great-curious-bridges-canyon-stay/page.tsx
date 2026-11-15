@@ -420,8 +420,8 @@ export default function Page() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 岩国駅よりアクセス。JR山陽本線「岩国駅」（西口）より徒歩5分。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「アパホテル〈山口岩国駅前西〉」にチェックイン。JR山陽本線「岩国駅」徒歩5分の好立地！50型大型テレビ、Wi-Fi6完備のビジネス・観光の新拠点！などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「アパホテル〈山口岩国駅前西〉」の湯処へ。JR山陽本線「岩国駅」徒歩5分の好立地！50型大型テレビ、Wi-Fi6とともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「アパホテル〈山口岩国駅前西〉」にチェックイン。JR山陽本線「岩国駅」徒歩5分の好立地！50型大型テレビ、Wi-Fi6完備のビジネス・観光の新拠点！ 館内の設えを確かめながら、これからの滞在に備えてゆっくり休息する。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「アパホテル〈山口岩国駅前西〉」の自慢の湯処へ。温かな湯気と落ち着いた雰囲気に癒やされながら、夕食前の贅沢なひとときを過ごす。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「アパホテル〈山口岩国駅前西〉」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -433,7 +433,7 @@ export default function Page() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「アパホテル〈山口岩国駅前西〉」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「アパホテル〈山口岩国駅前西〉」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「石和温泉 ホテル平安」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は「アパホテル〈山口岩国駅前西〉」周辺の観光スポットや地元の名産店に立ち寄り、ご当地のお土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>
@@ -561,7 +561,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. アパホテル〈山口岩国駅前西〉（２０２６年６月プレオープン）</td>
                 <td className="p-3 text-stone-600">山口県岩国市麻里布町2-9-30</td>
-                <td className="p-3 text-stone-600">岩国駅周辺</td>
+                <td className="p-3 text-stone-600">JR山陽本線「岩国駅」（西口）より徒歩5分</td>
                 <td className="p-3 text-stone-600">【駐車場38台】入庫後24時間以内出庫500円　※先着順、予約不可</td>
                 <td className="p-3 font-bold text-amber-600">★3.68（79件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,420〜</td>
@@ -570,7 +570,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 石和温泉　ホテル平安</td>
                 <td className="p-3 text-stone-600">山梨県笛吹市石和町川中島538</td>
-                <td className="p-3 text-stone-600">石和温泉駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ石和温泉駅：徒歩15分無料送迎5分（15～17時）有/中央道一宮・御坂IC車10分</td>
                 <td className="p-3 text-stone-600">有り　６０台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★3.48（212件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,800〜</td>
@@ -579,7 +579,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 新祖谷温泉　ホテルかずら橋</td>
                 <td className="p-3 text-stone-600">徳島県三好市西祖谷山村善徳３３－１</td>
-                <td className="p-3 text-stone-600">ＪＲのお客様 大歩危駅～路線バス20分（タクシー15分）・お車のお客様</td>
+                <td className="p-3 text-stone-600">ＪＲのお客様 大歩危駅～路線バス20分（タクシー15分）・お車のお客様 徳島自動車道井川池田ＩＣより大歩危経由で５０分</td>
                 <td className="p-3 text-stone-600">有り　３０台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.71（987件）</td>
                 <td className="p-3 font-bold text-rose-600">¥19,250〜</td>
@@ -608,7 +608,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>【駐車場38台】入庫後24時間以内出庫500円　※先着順、予約不可</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.74 ／ 立地 ★3.68 ／ 部屋 ★3.6 ／ 設備 ★3.62 ／ 風呂 ★3.49</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「リニューアルで綺麗だがリニューアル中で先月来たときに工事中だったフロアがリニューアルが終わってましたシリンダーキーからカードキーに変わってたのと、シャワーとトイレが本家と同じになってました…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「リニューアルで綺麗だがリニューアル中で先月来たときに工事中だったフロアがリニューアルが終わってましたシリンダーキーからカードキーに変わってたのと、シャワーとトイレが本家と同じになってました。」
                   </blockquote>
                 </div>
               </div>
@@ -652,7 +652,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　３０台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「心配りが行き届き、かずら橋ツアーも最高スタッフの方、お料理、温泉等、みんな心配りが行き届いており、とても良かったです。両親もすごく満足してくれました。また、夜のかずら橋ツアーは、ホテルのボンネット…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「心配りが行き届き、かずら橋ツアーも最高スタッフの方、お料理、温泉等、みんな心配りが行き届いており、とても良かったです。両親もすごく満足してくれました。」
                   </blockquote>
                 </div>
               </div>

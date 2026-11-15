@@ -393,7 +393,7 @@ export default function AutumnBudgetMatsuyamaOkaidoHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. レフ松山市駅　ｂｙ　ベッセルホテルズ｜ＲＥＦ松山市駅｜サウナ付大浴場（松山市駅隣接）</td>
                 <td className="p-3 text-stone-600">愛媛県松山市湊町5-2-2</td>
-                <td className="p-3 text-stone-600">松山市駅周辺</td>
+                <td className="p-3 text-stone-600">伊予鉄「松山市駅」から徒歩1分■松山空港から約24分 ■松山自動車道松山ICから車で約15分■松山港から約26分</td>
                 <td className="p-3 text-stone-600">伊予鉄市駅西駐車場（レフ松山市駅から徒歩2分）（自走式立体駐車場 / 先着順）1,000円/泊</td>
                 <td className="p-3 font-bold text-amber-600">★4.49（1125件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,570〜</td>
@@ -402,7 +402,7 @@ export default function AutumnBudgetMatsuyamaOkaidoHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. リーガロイヤルホテル新居浜</td>
                 <td className="p-3 text-stone-600">愛媛県新居浜市前田町6-9</td>
-                <td className="p-3 text-stone-600">新居浜駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ「新居浜駅」よりタクシーで約10分、新居浜ICより２０分</td>
                 <td className="p-3 text-stone-600">200台収容の駐車場【無料】バス駐車場についてはお問い合わせください。</td>
                 <td className="p-3 font-bold text-amber-600">★4.13（1358件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,914〜</td>
@@ -411,7 +411,7 @@ export default function AutumnBudgetMatsuyamaOkaidoHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. ホテルカジワラ</td>
                 <td className="p-3 text-stone-600">愛媛県松山市大手町2-9-10</td>
-                <td className="p-3 text-stone-600">松山（愛媛）駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ松山駅から徒歩5分、松山空港から車で約15分、松山観光港から車で約20分</td>
                 <td className="p-3 text-stone-600">事前予約が必要です。普通車１泊 800円〜　※満車時は近隣コインPのご紹介となります。</td>
                 <td className="p-3 font-bold text-amber-600">★3.83（1485件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,650〜</td>
@@ -420,7 +420,7 @@ export default function AutumnBudgetMatsuyamaOkaidoHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 道後温泉　ホテルパティオ・ドウゴ</td>
                 <td className="p-3 text-stone-600">愛媛県松山市道後湯之町20-12</td>
-                <td className="p-3 text-stone-600">松山空港駅周辺</td>
+                <td className="p-3 text-stone-600">先ずは道後温泉本館を目指して下さい。ホテルは道後温泉本館の北側真向かい。温泉とホテルの間にある石畳の道へお入り下さい。</td>
                 <td className="p-3 text-stone-600">■先着順（予約不可）隣接の立体と屋外平面（かなり急な坂の上）約50台。1泊1台に付き800円。</td>
                 <td className="p-3 font-bold text-amber-600">★4.4（2020件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,600〜</td>
@@ -493,7 +493,7 @@ export default function AutumnBudgetMatsuyamaOkaidoHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>200台収容の駐車場【無料】バス駐車場についてはお問い合わせください。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.12 ／ 立地 ★3.98 ／ 部屋 ★4.13 ／ 設備 ★3.99 ／ 風呂 ★3.94</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「窓の汚れと備え付けの紙コップにがっかり窓の内側が手の跡だらけで汚かった。窓拭きしたことがないという感じでした。洗面所のコップが紙コップなのはまだしも、部屋のグラスやマグカップもなく、紙コップと…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「窓の汚れと備え付けの紙コップにがっかり窓の内側が手の跡だらけで汚かった。窓拭きしたことがないという感じでした。」
                   </blockquote>
                 </div>
               </div>
@@ -515,7 +515,7 @@ export default function AutumnBudgetMatsuyamaOkaidoHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>事前予約が必要です。普通車１泊 800円〜　※満車時は近隣コインPのご紹介となります。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.86 ／ 立地 ★3.91 ／ 部屋 ★3.81 ／ 設備 ★3.72 ／ 風呂 ★3.63 ／ 食事 ★3.72</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「JR松山駅から徒歩圏内、静かでリーズナブル松山空港からバスで、JR松山駅まで行き、そこから歩いて2~3分と便利なところでした。部屋は古い感じでしたが、そんなに汚れもなく問題なく過ごせます。…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「JR松山駅から徒歩圏内、静かでリーズナブル松山空港からバスで、JR松山駅まで行き、そこから歩いて2~3分と便利なところでした。部屋は古い感じでしたが、そんなに汚れもなく問題なく過ごせます。」
                   </blockquote>
                 </div>
               </div>

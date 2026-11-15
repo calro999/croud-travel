@@ -283,8 +283,8 @@ export default function Page() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 西武秩父駅よりアクセス。西武秩父駅よりお車で約１５分 西武秩父駅より終点バス停（定峰）から徒歩1分 関越自動車道花園ＩＣよりお車で約３０分。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「星空と清流の森 グランピングＩＲＯＤＯＲＩ」にチェックイン。秩父の森の中を流れる、清流に沿った古民家やグランピングに宿泊！アクティビティ体験型リゾートです。などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「星空と清流の森 グランピングＩＲＯＤＯＲＩ」の湯処へ。秩父の森の中を流れる、清流に沿った古民家やグランピングに宿泊！アクティとともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「星空と清流の森 グランピングＩＲＯＤＯＲＩ」にチェックイン。秩父の森の中を流れる、清流に沿った古民家やグランピングに宿泊！アクティビティ体験型リゾートです。 荷物を解き、落ち着いた室内でまず一息つく。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「星空と清流の森 グランピングＩＲＯＤＯＲＩ」の湯船で寛ぎタイム。季節の空気を感じながら手足を伸ばし、心豊かな夕方のリラックス時間を満喫。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「星空と清流の森 グランピングＩＲＯＤＯＲＩ」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -296,7 +296,7 @@ export default function Page() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「星空と清流の森 グランピングＩＲＯＤＯＲＩ」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「星空と清流の森 グランピングＩＲＯＤＯＲＩ」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「ホテル 白竜湖リゾート」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は「星空と清流の森 グランピングＩＲＯＤＯＲＩ」周辺の観光スポットや地元の名産店に立ち寄り、ご当地のお土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>
@@ -424,7 +424,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 星空と清流の森　グランピングＩＲＯＤＯＲＩ</td>
                 <td className="p-3 text-stone-600">埼玉県秩父市定峰245</td>
-                <td className="p-3 text-stone-600">西武秩父駅よりお車で約１５分　西武秩父駅より終点バス停（定峰）から徒歩</td>
+                <td className="p-3 text-stone-600">西武秩父駅よりお車で約１５分 西武秩父駅より終点バス停（定峰）から徒歩1分 関越自動車道花園ＩＣよりお車で約３０分</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.25（74件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,000〜</td>
@@ -433,7 +433,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. ホテル　白竜湖リゾート</td>
                 <td className="p-3 text-stone-600">広島県三原市大和町箱川4007-7</td>
-                <td className="p-3 text-stone-600">山陽本線　河内駅より車で約１０分　　広島空港より車で約２０分　　山陽道</td>
+                <td className="p-3 text-stone-600">山陽本線 河内駅より車で約１０分 広島空港より車で約２０分 山陽道河内ＩＣより車で約25分</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.56（192件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,600〜</td>
@@ -442,7 +442,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 八ヶ岳グレイスホテル</td>
                 <td className="p-3 text-stone-600">長野県南佐久郡南牧村野辺山217-1</td>
-                <td className="p-3 text-stone-600">野辺山駅周辺</td>
+                <td className="p-3 text-stone-600">野辺山駅より車で約5分（無料送迎あり・予約制／お電話または公式HPのご予約フォームより） 中央道・長坂ICより約20分</td>
                 <td className="p-3 text-stone-600">有り　７０台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.54（2185件）</td>
                 <td className="p-3 font-bold text-rose-600">¥10,200〜</td>
@@ -451,7 +451,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. ホテル一宮シーサイドオーツカ</td>
                 <td className="p-3 text-stone-600">千葉県長生郡一宮町一宮10000</td>
-                <td className="p-3 text-stone-600">JR外房線「上総一ノ宮駅」タクシー約7分（定時送迎バス有）九十九里有料</td>
+                <td className="p-3 text-stone-600">JR外房線「上総一ノ宮駅」タクシー約7分（定時送迎バス有）九十九里有料道路終点（一宮）より約3ｋｍ/ドイツ村まで60分</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.5（594件）</td>
                 <td className="p-3 font-bold text-rose-600">¥11,495〜</td>
@@ -460,7 +460,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. ウォーターマークホテル沖縄　宮古島＜伊良部島＞</td>
                 <td className="p-3 text-stone-600">沖縄県宮古島市伊良部佐和田前原1725</td>
-                <td className="p-3 text-stone-600">宮古空港駅周辺</td>
+                <td className="p-3 text-stone-600">宮古島空港より車で約35分、みやこ下地島空港より車で約5分</td>
                 <td className="p-3 text-stone-600">有り　50台　1室につき1台無料　（予約不要）</td>
                 <td className="p-3 font-bold text-amber-600">★4.41（249件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,265〜</td>
@@ -489,7 +489,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「せっかく自然の多い秩父に泊まるということで、雰囲気の良さげな宿を予約しました。風呂トイレは共用ですが、部屋の数が3部屋のみのため混みあうこともなく、風呂は時間帯で交代性でとても良かったです。夜はバ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「せっかく自然の多い秩父に泊まるということで、雰囲気の良さげな宿を予約しました。風呂トイレは共用ですが、部屋の数が3部屋のみのため混みあうこともなく、風呂は時間帯で交代性でとても良かったです。」
                   </blockquote>
                 </div>
               </div>
@@ -511,7 +511,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「近くのゴルフ場が雷の為中断になり早めにチェックインさせて頂きました助かりました。料理も量もちょうどよくとてもおいしかったです。スタッフの方達も皆さん 感じがよく安いプランなどあれば…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「近くのゴルフ場が雷の為中断になり早めにチェックインさせて頂きました助かりました。料理も量もちょうどよくとてもおいしかったです。」
                   </blockquote>
                 </div>
               </div>
@@ -533,7 +533,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　７０台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「雨でも星ソムリエの解説で大満足!満点の星空を見たくて予約しましたが、あいにく一晩中、雨でした。しかし、このホテルの売りの星ソムリエの方が、室内の簡易プラネタリウムで、ここから見える夜空を開設してい…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「雨でも星ソムリエの解説で大満足!満点の星空を見たくて予約しましたが、あいにく一晩中、雨でした。」
                   </blockquote>
                 </div>
               </div>
@@ -555,7 +555,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「送迎や細やかな心遣いに感謝、最高の旅行に電車で行きましたが、駅までお迎えに来てくださりありがとうございました。お部屋は広くて快適で、窓から海が見え、朝食もとてもおいしかったです。次の日は大雨の…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「送迎や細やかな心遣いに感謝、最高の旅行に電車で行きましたが、駅までお迎えに来てくださりありがとうございました。お部屋は広くて快適で、窓から海が見え、朝食もとてもおいしかったです。」
                   </blockquote>
                 </div>
               </div>

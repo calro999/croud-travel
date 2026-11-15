@@ -401,7 +401,7 @@ export default function AutumnBudgetHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. リッチモンドホテル宇都宮駅前</td>
                 <td className="p-3 text-stone-600">栃木県宇都宮市駅前通り3-5-12</td>
-                <td className="p-3 text-stone-600">宇都宮駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ宇都宮駅(西口側)南口より徒歩2分。東北自動車道 鹿沼ＩＣより車で約35分</td>
                 <td className="p-3 text-stone-600">◇先着順◇立体駐車場：88台(ハイルーフ対応：20台)◇1泊税込1200円◇</td>
                 <td className="p-3 font-bold text-amber-600">★4.33（5605件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,000〜</td>
@@ -410,7 +410,7 @@ export default function AutumnBudgetHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. アパホテル〈宇都宮駅前〉</td>
                 <td className="p-3 text-stone-600">栃木県宇都宮市東宿郷2-4-4</td>
-                <td className="p-3 text-stone-600">宇都宮駅周辺</td>
+                <td className="p-3 text-stone-600">JR宇都宮駅東口より徒歩5分 ライトレール（LRT）東宿郷停留場より徒歩2分 東北道宇都宮ICより車で30分</td>
                 <td className="p-3 text-stone-600">1,000円（税込）　15時〜翌11時　地下12台・屋外36台　先着順でのご案内です　※取り置き不可</td>
                 <td className="p-3 font-bold text-amber-600">★4.14（2236件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,500〜</td>
@@ -419,7 +419,7 @@ export default function AutumnBudgetHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. リッチモンドホテル宇都宮駅前アネックス</td>
                 <td className="p-3 text-stone-600">栃木県宇都宮市駅前通り3-6-5</td>
-                <td className="p-3 text-stone-600">宇都宮駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ 宇都宮駅(西口側)南口から徒歩2分</td>
                 <td className="p-3 text-stone-600">有り　72台(立体駐車場　全ハイルーフ車対応）　1,200円（税込み／泊）　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.54（3013件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,900〜</td>
@@ -428,7 +428,7 @@ export default function AutumnBudgetHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. ほてる寛楽プレミア　宇都宮駅東口（２０２６年７月３日ＯＰＥＮ）</td>
                 <td className="p-3 text-stone-600">栃木県宇都宮市元今泉1-2-2</td>
-                <td className="p-3 text-stone-600">宇都宮駅周辺</td>
+                <td className="p-3 text-stone-600">JR宇都宮駅東口より徒歩7分</td>
                 <td className="p-3 text-stone-600">なし※提携コインパーキング有￥1500円/1泊(ファーストパーク宇都宮宮みらい第一または第三)</td>
                 <td className="p-3 font-bold text-amber-600">★4（253件）</td>
                 <td className="p-3 font-bold text-rose-600">¥2,820〜</td>
@@ -437,7 +437,7 @@ export default function AutumnBudgetHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 東横ＩＮＮ宇都宮駅前１</td>
                 <td className="p-3 text-stone-600">栃木県宇都宮市今泉１－４－２９</td>
-                <td className="p-3 text-stone-600">宇都宮駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ宇都宮駅西口より徒歩1分</td>
                 <td className="p-3 text-stone-600">有り　平地35台：1,000円（税込み／泊）　立体駐車場64台：500円／泊　　※先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.09（1185件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,145〜</td>
@@ -466,7 +466,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>◇先着順◇立体駐車場：88台(ハイルーフ対応：20台)◇1泊税込1200円◇</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅から近いので大変便利夜は、鯛茶漬けをいただいた。鯛だけ食べても、出汁を入れて食べても美味しかった。おそらく百人ほど並んでいたが列を整える方も配膳いただいた方の接客も丁寧でよかった。…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅から近いので大変便利夜は、鯛茶漬けをいただいた。鯛だけ食べても、出汁を入れて食べても美味しかった。おそらく百人ほど並んでいたが列を整える方も配膳いただいた方の接客も丁寧でよかった。」
                   </blockquote>
                 </div>
               </div>

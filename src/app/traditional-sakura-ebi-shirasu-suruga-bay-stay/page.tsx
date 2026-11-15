@@ -118,7 +118,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F17912%2F17912.html%26f_flg%3DPLAN",
     "hotelMinCharge": 20900,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/17912/17912.jpg",
-    "userReview": "おもてなしの接客からお食事、温泉、客室まで全てにおいて完璧でした。非常に快適な宿泊になりました、ありがとうございます。急遽予約しての宿泊で、前後の移動もありバタバタとした宿泊になってしまいまし。",
+    "userReview": "おもてなしの接客からお食事、温泉、客室まで全てにおいて完璧でした。非常に快適な宿泊になりました、ありがとうございます。急遽予約しての宿泊で、前後の移動もありバタバタとした宿泊になってしまいました。",
     "reviewAverage": 4.74,
     "reviewCount": 769,
     "address": "島根県安来市古川町478-1",
@@ -132,7 +132,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F192089%2F192089.html%26f_flg%3DPLAN",
     "hotelMinCharge": 33892,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/192089/192089.jpg",
-    "userReview": "箱根リトリート　ｖｉｌｌａ　１／ｆならではの立地と落ち着いた空間で、ゆったりとした滞在を楽しめたという声が寄せられています。",
+    "userReview": "箱根リトリート ｖｉｌｌａ １／ｆならではの立地と落ち着いた空間で、ゆったりとした滞在を楽しめたという声が寄せられています。",
     "reviewAverage": 4.4,
     "reviewCount": 2,
     "address": "神奈川県足柄下郡箱根町仙石原1286-116",
@@ -283,8 +283,8 @@ export default function Page() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 熱海駅よりアクセス。ＪＲ熱海駅からタクシーで５分。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「熱海温泉 古屋旅館」にチェックイン。創業220周年 安心の全室部屋食！2026年7月新タイプの露天付き客室OPEN！源泉かけ流し温泉などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「熱海温泉 古屋旅館」の湯処へ。創業220周年 安心の全室部屋食！2026年7月新タイプの露天付き客室とともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「熱海温泉 古屋旅館」にチェックイン。【創業220周年】安心の全室部屋食！ まずは客室で移動の疲れをそっと癒やす。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「熱海温泉 古屋旅館」の湯船で寛ぎタイム。季節の空気を感じながら手足を伸ばし、心豊かな夕方のリラックス時間を満喫。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「熱海温泉 古屋旅館」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -296,7 +296,7 @@ export default function Page() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「熱海温泉 古屋旅館」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「熱海温泉 古屋旅館」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「料理旅館わたなべ」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は宿周辺の散策とショッピングを満喫。地元の名産品やグルメを味わってから余裕をもって帰路につく。</li>
               </ul>
             </div>
           </div>
@@ -424,7 +424,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 熱海温泉　古屋旅館</td>
                 <td className="p-3 text-stone-600">静岡県熱海市東海岸町5-24</td>
-                <td className="p-3 text-stone-600">熱海駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ熱海駅からタクシーで５分。徒歩１３分。熱海サンビーチまでは徒歩３分♪</td>
                 <td className="p-3 text-stone-600">有り　３５台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.86（573件）</td>
                 <td className="p-3 font-bold text-rose-600">¥39,930〜</td>
@@ -433,7 +433,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 料理旅館わたなべ</td>
                 <td className="p-3 text-stone-600">愛知県名古屋市千種区千種2-1-17</td>
-                <td className="p-3 text-stone-600">◆名古屋駅より地下鉄＋徒歩で２０分（地下鉄東山線「千種駅」下車徒歩１０</td>
+                <td className="p-3 text-stone-600">◆名古屋駅より地下鉄＋徒歩で２０分（地下鉄東山線「千種駅」下車徒歩１０分） ◆名古屋高速１号線吹上インターから降りてすぐ</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★3.88（126件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,250〜</td>
@@ -442,7 +442,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 縄文のふる里　大湯温泉　ホテル鹿角</td>
                 <td className="p-3 text-stone-600">秋田県鹿角市十和田大湯字中谷地５－１</td>
-                <td className="p-3 text-stone-600">十和田南駅周辺</td>
+                <td className="p-3 text-stone-600">■十和田湖より車で30分■ＪＲ花輪線十和田南駅から車で１２分■東北道十和田ＩＣから国道１０３号線を十和田湖方面へ１２分</td>
                 <td className="p-3 text-stone-600">有　２００台　無料　　　　　　　　　　　　　　　　★お得な宿泊プラン満載★</td>
                 <td className="p-3 font-bold text-amber-600">★4.17（1489件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,000〜</td>
@@ -460,7 +460,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 箱根リトリート　ｖｉｌｌａ　１／ｆ</td>
                 <td className="p-3 text-stone-600">神奈川県足柄下郡箱根町仙石原1286-116</td>
-                <td className="p-3 text-stone-600">小田原駅周辺</td>
+                <td className="p-3 text-stone-600">小田原駅から、 バスで約４０分、 「俵石・ガラスの森」バス停下車、徒歩約５分</td>
                 <td className="p-3 text-stone-600">有り　４５台　宿泊のお客様ならびにお食事をご利用のお客様は無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">高評価</td>
                 <td className="p-3 font-bold text-rose-600">¥38,426〜</td>
@@ -489,7 +489,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　３５台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.91 ／ 立地 ★4.49 ／ 部屋 ★4.88 ／ 設備 ★4.81 ／ 風呂 ★4.85 ／ 食事 ★4.89</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「清潔で料理も美味しく、おもてなしに感動歴史ある旅館なのに、掃除が行き届いてとても清潔でした。夕・朝食とも大変おいしく大満足でした。量はもう少し少な目でも十分かもしれません。おもてなしの心が、細やか…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「清潔で料理も美味しく、おもてなしに感動歴史ある旅館なのに、掃除が行き届いてとても清潔でした。夕・朝食とも大変おいしく大満足でした。量はもう少し少な目でも十分かもしれません。」
                   </blockquote>
                 </div>
               </div>
@@ -511,7 +511,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「個室での食事と広いお部屋で大満足!家族4人で宿泊しました。夕食は家族だけで食べられる個室のようなところで、順番に運んでいただいたのですが、大好きなお刺身はもちろんどれもとっても美味しかったです…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「個室での食事と広いお部屋で大満足!家族4人で宿泊しました。」
                   </blockquote>
                 </div>
               </div>
@@ -533,7 +533,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有　２００台　無料　　　　　　　　　　　　　　　　★お得な宿泊プラン満載★</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温かい料理に大満足、また泊まりたい!夜ご飯も温かいものは温かいまま食べれましたし、量もお腹いっぱいになり満足です。綺麗でまた泊まりたいと思うホテルでした。ありがとうございました。クチコミの…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温かい料理に大満足、また泊まりたい!夜ご飯も温かいものは温かいまま食べれましたし、量もお腹いっぱいになり満足です。綺麗でまた泊まりたいと思うホテルでした。ありがとうございました。」
                   </blockquote>
                 </div>
               </div>
@@ -555,7 +555,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「おもてなしの接客からお食事、温泉、客室まで全てにおいて完璧でした。非常に快適な宿泊になりました、ありがとうございます。急遽予約しての宿泊で、前後の移動もありバタバタとした宿泊になってしまいまし…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「おもてなしの接客からお食事、温泉、客室まで全てにおいて完璧でした。非常に快適な宿泊になりました、ありがとうございます。」
                   </blockquote>
                 </div>
               </div>

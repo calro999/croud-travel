@@ -253,7 +253,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 阿蘇内牧温泉　御料理旅館　親和苑</td>
                 <td className="p-3 text-stone-600">熊本県阿蘇市内牧1354</td>
-                <td className="p-3 text-stone-600">阿蘇駅周辺</td>
+                <td className="p-3 text-stone-600">肥後豊肥線 阿蘇駅より車で１５分程／肥後豊肥線 内牧駅より車で１５分程</td>
                 <td className="p-3 text-stone-600">有り　２０台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.52（196件）</td>
                 <td className="p-3 font-bold text-rose-600">¥23,310〜</td>
@@ -262,7 +262,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 南阿蘇夢しずく温泉　別邸蘇庵</td>
                 <td className="p-3 text-stone-600">熊本県阿蘇郡南阿蘇村河陰5-56</td>
-                <td className="p-3 text-stone-600">白水高原駅周辺</td>
+                <td className="p-3 text-stone-600">【長陽大橋開通】熊本ICより57号線経由車で50分・【 俵山トンネル経由】 熊本空港より車で約30分</td>
                 <td className="p-3 text-stone-600">有り　２０台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.69（243件）</td>
                 <td className="p-3 font-bold text-rose-600">¥30,500〜</td>
@@ -271,7 +271,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 南阿蘇　白久水温泉　夢しずく</td>
                 <td className="p-3 text-stone-600">熊本県阿蘇郡南阿蘇村河陰5-56</td>
-                <td className="p-3 text-stone-600">白水高原駅周辺</td>
+                <td className="p-3 text-stone-600">【長陽大橋開通】熊本ICより57号線経由車で50分・【俵山トンネル経由】 熊本空港より車で約30分</td>
                 <td className="p-3 text-stone-600">有り　１２０台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.6（231件）</td>
                 <td className="p-3 font-bold text-rose-600">¥23,310〜</td>
@@ -280,7 +280,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 南阿蘇フィールドホテル</td>
                 <td className="p-3 text-stone-600">熊本県阿蘇郡南阿蘇村河陰3624</td>
-                <td className="p-3 text-stone-600">長陽駅周辺</td>
+                <td className="p-3 text-stone-600">阿蘇くまもと空港より車で20分 長陽駅より歩いて20分</td>
                 <td className="p-3 text-stone-600">あり　64台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.55（31件）</td>
                 <td className="p-3 font-bold text-rose-600">¥15,004〜</td>
@@ -289,7 +289,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 阿蘇ＣＡＮＹＯＮ　ＴＥＲＲＡＣＥ＆ＬＯＤＧＥ【温泉宿】</td>
                 <td className="p-3 text-stone-600">熊本県阿蘇郡南阿蘇村河陽4369-1</td>
-                <td className="p-3 text-stone-600">肥後大津駅周辺</td>
+                <td className="p-3 text-stone-600">阿蘇くまもと空港から車で約25分・JR肥後大津駅から車で約15分</td>
                 <td className="p-3 text-stone-600">有り　196台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.02（196件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,650〜</td>
@@ -298,7 +298,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">6. 南阿蘇俵山温泉　旅館　みな和</td>
                 <td className="p-3 text-stone-600">熊本県阿蘇郡南阿蘇村河陰2510</td>
-                <td className="p-3 text-stone-600">長陽駅周辺</td>
+                <td className="p-3 text-stone-600">阿蘇くまもと空港より（俵山トンネルルート）車で約30分・JR立野駅から車で約15分</td>
                 <td className="p-3 text-stone-600">有り　２０台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.71（508件）</td>
                 <td className="p-3 font-bold text-rose-600">¥25,000〜</td>
@@ -327,7 +327,7 @@ export default function MicroTouristHubPage() {
                   <p>【熊本・阿蘇カルデラ＆南阿蘇：大観峰・草千里ヶ浜＆あか】 <strong>【駐車場・マイカー利用】</strong>有り　２０台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.68 ／ 立地 ★4.44 ／ 部屋 ★4.61 ／ 設備 ★4.46 ／ 風呂 ★4.18 ／ 食事 ★4.78</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「本当に全てのサービスが星5つ!!家族4人2泊3日でお世話になりました。館内・お部屋共に清潔に保たれており、床材がとても素敵でした。お風呂は家族風呂が無料で入ることができ、朝・夜とも入らせて…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「本当に全てのサービスが星5つ!!家族4人2泊3日でお世話になりました。館内・お部屋共に清潔に保たれており、床材がとても素敵でした。」
                   </blockquote>
                 </div>
               </div>
@@ -349,7 +349,7 @@ export default function MicroTouristHubPage() {
                   <p>【熊本・阿蘇カルデラ＆南阿蘇：大観峰・草千里ヶ浜＆あか】 <strong>【駐車場・マイカー利用】</strong>有り　２０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「すき焼きと釜炊きご飯が絶品、接客も丁寧露天風呂付き客室。風呂場は広いが湯船は少し狭い。自動湯はりシステムは、1度に出るお湯の量が少なく何度も出さなければならないのが少し面倒。ロケー…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「すき焼きと釜炊きご飯が絶品、接客も丁寧露天風呂付き客室。風呂場は広いが湯船は少し狭い。自動湯はりシステムは、1度に出るお湯の量が少なく何度も出さなければならないのが少し面倒。」
                   </blockquote>
                 </div>
               </div>
@@ -371,7 +371,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１２０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「景色とスタッフの対応が素晴らしい昨年のお盆に引き続き二度目の宿泊です。立地などは宿情報に記載の通り、阿蘇五岳が見え、気持ちの良い場所にあります。特筆すべきはスタッフさんのホスピタリティが素…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「景色とスタッフの対応が素晴らしい昨年のお盆に引き続き二度目の宿泊です。立地などは宿情報に記載の通り、阿蘇五岳が見え、気持ちの良い場所にあります。」
                   </blockquote>
                 </div>
               </div>
@@ -437,7 +437,7 @@ export default function MicroTouristHubPage() {
                   <p>【熊本・阿蘇カルデラ＆南阿蘇：大観峰・草千里ヶ浜＆あか】 <strong>【駐車場・マイカー利用】</strong>有り　２０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「バースデー旅行 バースデー旅行で、前日にケーキをお願いして用意していただきました。 夕飯も美味しく、量もたくさんあるので、お部屋でケーキを食べました。いつでも温泉に入れるのは、本当に嬉しか…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「バースデー旅行 バースデー旅行で、前日にケーキをお願いして用意していただきました。 夕飯も美味しく、量もたくさんあるので、お部屋でケーキを食べました。」
                   </blockquote>
                 </div>
               </div>

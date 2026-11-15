@@ -340,8 +340,8 @@ export default function ArticlePage() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 甲府駅よりアクセス。JR中央線・甲府駅より車で約10分／中央自動車道 甲府昭和ICより約20分。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「湯村温泉 湯志摩の郷 楽水園」にチェックイン。全14室「生そば処 らくすい」隣接★天然温泉と生蕎麦自慢の湯宿などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「湯村温泉 湯志摩の郷 楽水園」の湯処へ。全14室「生そば処 らくすい」隣接★天然温泉と生蕎麦自慢の湯宿とともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「湯村温泉 湯志摩の郷 楽水園」にチェックイン。全14室「生そば処 らくすい」隣接★天然温泉と生蕎麦自慢の湯宿が魅力の一軒。客室で荷物をほどいて穏やかな午後のひとときを。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「湯村温泉 湯志摩の郷 楽水園」の大浴場・露天風呂へ。日暮れの静けさの中で湯に浸かり、旅の緊張をゆっくりと解きほぐす。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「湯村温泉 湯志摩の郷 楽水園」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -447,7 +447,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 湯村温泉　湯志摩の郷　楽水園</td>
                 <td className="p-3 text-stone-600">山梨県甲府市湯村1-11-5</td>
-                <td className="p-3 text-stone-600">甲府駅周辺</td>
+                <td className="p-3 text-stone-600">JR中央線・甲府駅より車で約10分／中央自動車道 甲府昭和ICより約20分</td>
                 <td className="p-3 text-stone-600">有り　15台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.26（312件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,000〜</td>
@@ -456,7 +456,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. ナチュラルファームシティ農園ホテル　＜秩父の街並みを眼下に望むロケーション＞</td>
                 <td className="p-3 text-stone-600">埼玉県秩父市大宮5911-1</td>
-                <td className="p-3 text-stone-600">秩父駅周辺</td>
+                <td className="p-3 text-stone-600">西武池袋線、西武秩父駅より車で約７分（無料送迎有）、関越自動車道 花園Ｉ．Ｃから皆野寄居バイパス経由約４０分</td>
                 <td className="p-3 text-stone-600">有り　100台　無料　本館前Ｐ　第二駐車場　※先着順</td>
                 <td className="p-3 font-bold text-amber-600">★3.94（1768件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,500〜</td>
@@ -465,7 +465,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 渋沢栄一翁命名の宿　養浩亭</td>
                 <td className="p-3 text-stone-600">埼玉県秩父郡長瀞町長瀞1446</td>
-                <td className="p-3 text-stone-600">上長瀞駅周辺</td>
+                <td className="p-3 text-stone-600">電車：秩父鉄道・上長瀞駅より徒歩５分 車：関越自動車道・花園ＩＣより、国道１４０号長瀞方面へ約２０ｋｍ、約２５分</td>
                 <td className="p-3 text-stone-600">有り　１３台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.12（190件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,500〜</td>
@@ -474,7 +474,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 旅館　きん藤</td>
                 <td className="p-3 text-stone-600">埼玉県深谷市本住町7‐52</td>
-                <td className="p-3 text-stone-600">深谷駅周辺</td>
+                <td className="p-3 text-stone-600">深谷駅北側徒歩７分、旧中山道沿い、花園ＩＣより【２５分】１０ｋｍ</td>
                 <td className="p-3 text-stone-600">無料駐車場アリ、大型車・マイクロもＯＫ、（15台）</td>
                 <td className="p-3 font-bold text-amber-600">★4.67（340件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,810〜</td>
@@ -483,7 +483,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 秩父七湯『御代の湯』　新木鉱泉旅館</td>
                 <td className="p-3 text-stone-600">埼玉県秩父市山田1538番地1</td>
-                <td className="p-3 text-stone-600">西武秩父駅周辺</td>
+                <td className="p-3 text-stone-600">◆送迎有◆その他、西武秩父駅よりタクシー10分又は定峰行きバス25分金昌寺下車徒歩4分●関越道花園ICより40分●</td>
                 <td className="p-3 text-stone-600">３０台　　【無料・予約不要】</td>
                 <td className="p-3 font-bold text-amber-600">★4.59（2169件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,220〜</td>
@@ -512,7 +512,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　15台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「黒毛和牛が絶品、部屋も広くて快適黒毛和牛の肉が柔らかく絶品でした。夕食・朝食とも品数が多く満足でした。また、部屋は2部屋あり寝室は広くゆったりし空調が行き届いて快適でした。(南側に広い廊下ある…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「黒毛和牛が絶品、部屋も広くて快適黒毛和牛の肉が柔らかく絶品でした。夕食・朝食とも品数が多く満足でした。また、部屋は2部屋あり寝室は広くゆったりし空調が行き届いて快適でした。」
                   </blockquote>
                 </div>
               </div>
@@ -534,7 +534,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　100台　無料　本館前Ｐ　第二駐車場　※先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事も景色も最高農園ホテルということで食事(野菜と果物)をかなり期待していましたが、私たちにはイマイチでした。美味しくない訳ではありません。こちらが勝手にハードルを上げて宿泊を楽しみにしていたので…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事も景色も最高農園ホテルということで食事(野菜と果物)をかなり期待していましたが、私たちにはイマイチでした。美味しくない訳ではありません。」
                   </blockquote>
                 </div>
               </div>
@@ -556,7 +556,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１３台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.16 ／ 立地 ★4.04 ／ 部屋 ★3.86 ／ 設備 ★3.66 ／ 風呂 ★3.84 ／ 食事 ★4.19</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「親切な対応と美味しい食事で良い思い出に建物は歴史を感じますが、お掃除は行き届いていました。お宿の方も親切丁寧でした。お食事はアユの塩焼きとても美味しかったです。炊きものも、丁寧な味つけで美味しかっ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「親切な対応と美味しい食事で良い思い出に建物は歴史を感じますが、お掃除は行き届いていました。お宿の方も親切丁寧でした。お食事はアユの塩焼きとても美味しかったです。」
                   </blockquote>
                 </div>
               </div>
@@ -578,7 +578,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料駐車場アリ、大型車・マイクロもＯＫ、（15台）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「美味しい食事と貸切風呂で家族大満足子ども二人と宿泊しました。みなさんの口コミを拝見して、二食付きのプランにして大正解でした。本当においしいご飯でした。子どもたちも「美味しいね」と口々に話していて、…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「美味しい食事と貸切風呂で家族大満足子ども二人と宿泊しました。みなさんの口コミを拝見して、二食付きのプランにして大正解でした。本当においしいご飯でした。」
                   </blockquote>
                 </div>
               </div>
@@ -600,7 +600,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>３０台　　【無料・予約不要】</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「源泉の質と料理に大満足、秩父の穴場宿歴史ある建物ですが清潔感があり安心。お風呂は源泉の質が抜群で、上がってから身体の芯からじんわり温まるタイプ。接客も大変丁寧でした。お料理も朝夕ともに大満足。一人…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「源泉の質と料理に大満足、秩父の穴場宿歴史ある建物ですが清潔感があり安心。お風呂は源泉の質が抜群で、上がってから身体の芯からじんわり温まるタイプ。接客も大変丁寧でした。お料理も朝夕ともに大満足。」
                   </blockquote>
                 </div>
               </div>

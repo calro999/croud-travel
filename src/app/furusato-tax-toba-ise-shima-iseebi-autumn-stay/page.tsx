@@ -353,39 +353,7 @@ export default function Page() {
             </Link>
           </div>
         </section>
-        <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
-          <div className="flex items-center gap-3 mb-6">
-            <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】鳥羽国際ホテルを拠点にするおすすめ滞在モデルコース</h2>
-          </div>
-          <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
-            <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
-              <div className="flex items-center gap-2">
-                <span className="bg-amber-600 text-white text-xs font-bold px-2.5 py-1 rounded">1日目</span>
-                <h3 className="font-bold text-stone-900 text-base md:text-lg">到着〜チェックインと名湯巡り</h3>
-              </div>
-              <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
-                <li>・<strong className="text-stone-800">14:00〜</strong> 鳥羽駅よりアクセス。ＪＲ及び近鉄「鳥羽駅」より車で3分。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「鳥羽国際ホテル」にチェックイン。鳥羽駅からシャトルバスで5分。神宮から車で約20分。などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「鳥羽国際ホテル」の湯処へ。鳥羽駅からシャトルバスで5分。神宮から車で約20分。とともに、夕暮れの特別な寛ぎを満喫。</li>
-                <li>・<strong className="text-stone-800">19:00〜</strong> 「鳥羽国際ホテル」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
-              </ul>
-            </div>
-            <div className="border-l-2 border-teal-500 pl-4 md:pl-6 space-y-4">
-              <div className="flex items-center gap-2">
-                <span className="bg-teal-600 text-white text-xs font-bold px-2.5 py-1 rounded">2日目</span>
-                <h3 className="font-bold text-stone-900 text-base md:text-lg">爽快な朝湯〜周辺散策と帰路へ</h3>
-              </div>
-              <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
-                <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「鳥羽国際ホテル」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
-                <li>・<strong className="text-stone-800">08:00〜</strong> 「鳥羽国際ホテル」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「湯めぐり海百景 鳥羽シーサイドホテル」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
-              </ul>
-            </div>
-          </div>
-        </section>
-
-        {/* FAQ Section */}
+                {/* FAQ Section */}
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
@@ -507,7 +475,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 鳥羽国際ホテル</td>
                 <td className="p-3 text-stone-600">三重県鳥羽市鳥羽1-23-1</td>
-                <td className="p-3 text-stone-600">鳥羽駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ及び近鉄「鳥羽駅」より車で3分。近鉄鳥羽駅から無料シャトルバス有。（12:30～18:00の間毎時0分・30分）</td>
                 <td className="p-3 text-stone-600">有り 100台 （無料 ・ご予約不要）</td>
                 <td className="p-3 font-bold text-amber-600">★4.42（1085件）</td>
                 <td className="p-3 font-bold text-rose-600">¥12,100〜</td>
@@ -516,7 +484,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 湯めぐり海百景　鳥羽シーサイドホテル</td>
                 <td className="p-3 text-stone-600">三重県鳥羽市安楽島町1084</td>
-                <td className="p-3 text-stone-600">鳥羽駅周辺</td>
+                <td className="p-3 text-stone-600">近鉄・ＪＲ鳥羽駅より車で１０分（無料送迎有・定期運行）／伊勢自動車道 伊勢ＩＣ→伊勢二見鳥羽ライン２５分</td>
                 <td className="p-3 text-stone-600">有り　２００台　無料　先着順 カーナビ検索は０５９９－２５－５１５１で</td>
                 <td className="p-3 font-bold text-amber-600">★4.41（1634件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,700〜</td>
@@ -525,7 +493,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 伊勢志摩国立公園　／　鳥羽温泉郷　戸田家</td>
                 <td className="p-3 text-stone-600">三重県鳥羽市鳥羽1丁目24-26</td>
-                <td className="p-3 text-stone-600">鳥羽駅周辺</td>
+                <td className="p-3 text-stone-600">【電車】近鉄・JR鳥羽駅より徒歩3分（送迎有）【お車】伊勢道伊勢ICより伊勢二見鳥羽ライン経由約15分</td>
                 <td className="p-3 text-stone-600">有150台（無料）・電気自動車（EV・PHV）【EV充電エネチェンジ】</td>
                 <td className="p-3 font-bold text-amber-600">★4.42（2326件）</td>
                 <td className="p-3 font-bold text-rose-600">¥9,240〜</td>
@@ -554,7 +522,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り 100台 （無料 ・ご予約不要）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「アクセスもサービスも最高、花火も楽しめた30分に1回程度駅までのシャトルバスを出して下さっていたり、潮路亭まで送迎して下さったりと、特にアクセスに関してはとてもホスピタリティが行き届いており、炎天…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「アクセスもサービスも最高、花火も楽しめた30分に1回程度駅までのシャトルバスを出して下さっていたり、潮路亭まで送迎して下さったりと、特にアクセスに関してはとてもホスピタリティが行き届いており、炎天。」
                   </blockquote>
                 </div>
               </div>
@@ -576,7 +544,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２００台　無料　先着順 カーナビ検索は０５９９－２５－５１５１で</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.48 ／ 立地 ★4.53 ／ 部屋 ★4.36 ／ 設備 ★4.24 ／ 風呂 ★4.48 ／ 食事 ★4.4</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「古き良き温泉と朝食バイキングに大満足高齢の母と姪との女子旅でした、昭和の時代の古き良きリゾートホテルという感じで湯めぐりと名のつく3つあるお風呂の1つは閉まってましたがあとの2つの温泉で人も多くな…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「古き良き温泉と朝食バイキングに大満足高齢の母と姪との女子旅でした、昭和の時代の古き良きリゾートホテルという感じで湯めぐりと名のつく3つあるお風呂の1つは閉まってましたがあとの2つの温泉で人も多くな。」
                   </blockquote>
                 </div>
               </div>
@@ -598,7 +566,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有150台（無料）・電気自動車（EV・PHV）【EV充電エネチェンジ】</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.51 ／ 立地 ★4.47 ／ 部屋 ★4.39 ／ 設備 ★4.24 ／ 風呂 ★4.33 ／ 食事 ★4.56</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ビュッフェも接客も最高、また行きたい宿すごくすごくよかったです。滞在中、ずっと素敵な楽しい気持ちでいられる宿でした。ビュッフェは何食べてもおいしいですし(特にアップルパイが美味しかったです…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ビュッフェも接客も最高、また行きたい宿すごくすごくよかったです。滞在中、ずっと素敵な楽しい気持ちでいられる宿でした。」
                   </blockquote>
                 </div>
               </div>

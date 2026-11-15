@@ -253,7 +253,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 湖畔の宿　吉田家　＜佐渡島＞</td>
                 <td className="p-3 text-stone-600">新潟県佐渡市両津夷261-1</td>
-                <td className="p-3 text-stone-600">佐渡空港駅周辺</td>
+                <td className="p-3 text-stone-600">佐渡汽船 両津港よりお車にて５分。無料送迎バス有り（要予約）</td>
                 <td className="p-3 text-stone-600">有り　６０台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.26（462件）</td>
                 <td className="p-3 font-bold text-rose-600">¥9,680〜</td>
@@ -262,7 +262,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 小木温泉　旅館かもめ荘　＜佐渡島＞</td>
                 <td className="p-3 text-stone-600">新潟県佐渡市小木町11-7</td>
-                <td className="p-3 text-stone-600">直江津駅周辺</td>
+                <td className="p-3 text-stone-600">JR新潟駅→佐渡汽船新潟港～佐渡両津港→車で６０分。JR北陸本線直江津駅→佐渡汽船直江津港～小木港より徒歩１０分</td>
                 <td className="p-3 text-stone-600">有　２０台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★3.86（235件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,150〜</td>
@@ -271,7 +271,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. ふれあいハウス　潮津の里　＜佐渡島＞</td>
                 <td className="p-3 text-stone-600">新潟県佐渡市背合38</td>
-                <td className="p-3 text-stone-600">佐渡空港駅周辺</td>
+                <td className="p-3 text-stone-600">両津港から車で４０分・赤泊より４０分・小木より３０分。</td>
                 <td className="p-3 text-stone-600">無料　　3０台</td>
                 <td className="p-3 font-bold text-amber-600">★2.75（56件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,155〜</td>
@@ -280,7 +280,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 尖閣荘　＜佐渡島＞</td>
                 <td className="p-3 text-stone-600">新潟県佐渡市姫津1431-2</td>
-                <td className="p-3 text-stone-600">車…佐渡汽船「両津港」より車で６０分、「小木港」より車で８０分／バス…</td>
+                <td className="p-3 text-stone-600">車…佐渡汽船「両津港」より車で６０分、「小木港」より車で８０分／バス…海府線「姫津南」下車すぐ</td>
                 <td className="p-3 text-stone-600">有　３０台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4（241件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,600〜</td>
@@ -289,7 +289,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 佐和田温泉　旅館入海　＜佐渡島＞</td>
                 <td className="p-3 text-stone-600">新潟県佐渡市窪田782</td>
-                <td className="p-3 text-stone-600">佐渡空港駅周辺</td>
+                <td className="p-3 text-stone-600">入海は佐渡両津港より車で３０分。海岸まで３０ｍの海辺の黒い温泉。</td>
                 <td className="p-3 text-stone-600">有り　30台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.28（179件）</td>
                 <td className="p-3 font-bold text-rose-600">¥15,950〜</td>
@@ -327,7 +327,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　６０台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「清潔で広い部屋と蟹づくし、最高のロケーション建物の経年感はあるもののとても清潔で気持ちよく過ごせました。家族5人で利用しましたがとても広い部屋でゆっくりすることができました。スタッフの方の対応も素…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「清潔で広い部屋と蟹づくし、最高のロケーション建物の経年感はあるもののとても清潔で気持ちよく過ごせました。家族5人で利用しましたがとても広い部屋でゆっくりすることができました。」
                   </blockquote>
                 </div>
               </div>
@@ -349,7 +349,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有　２０台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「リーズナブルで美味しい食事に大満足!初めての佐渡島家族旅行でした。観光は大変記念になりました。宿泊した宿もリーズナブルだけどおいしい食事で大変満足しました。また来たいです。クチコミの詳細はこち…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「リーズナブルで美味しい食事に大満足!初めての佐渡島家族旅行でした。観光は大変記念になりました。宿泊した宿もリーズナブルだけどおいしい食事で大変満足しました。また来たいです。」
                   </blockquote>
                 </div>
               </div>
@@ -393,7 +393,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有　３０台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「絶景と新鮮な魚介、親切な対応に大満足とても眺めがよく、夕飯はお腹いっぱいになるほどの量でした。旅館の従業員や女将さんもとても親切です。追加でさサザエの刺身を注文したところ、なかなかこないなぁと…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「絶景と新鮮な魚介、親切な対応に大満足とても眺めがよく、夕飯はお腹いっぱいになるほどの量でした。旅館の従業員や女将さんもとても親切です。」
                   </blockquote>
                 </div>
               </div>
@@ -437,7 +437,7 @@ export default function MicroTouristHubPage() {
                   <p>【新潟・佐渡島＆相川金山：世界遺産佐渡金山・たらい舟＆】 <strong>【駐車場・マイカー利用】</strong>有り　１０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「新鮮な魚介と花火、温泉で癒やされる旅夕食も朝食も魚介がたくさんで美味しかったです。ちょうど両津港の花火も宿の前の浜からみることができよかったです。温泉も泉質がよく日焼けした肌が癒されました。ク…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「新鮮な魚介と花火、温泉で癒やされる旅夕食も朝食も魚介がたくさんで美味しかったです。ちょうど両津港の花火も宿の前の浜からみることができよかったです。温泉も泉質がよく日焼けした肌が癒されました。」
                   </blockquote>
                 </div>
               </div>

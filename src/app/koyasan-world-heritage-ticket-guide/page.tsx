@@ -473,49 +473,49 @@ export default function KoyasanPassPage() {
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">あわせて読みたい人気特集＆全国エリアガイド</h2>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
-            <a href="/winter-fukushima-urabandai-onsen-goshikinuma-snow-fukushimagyu-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/zen-meditation-shojin-cuisine-temple-retreat-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12月福島・裏磐梯温泉郷の五色沼初雪ウォークと磐梯山雪景色】極上福島牛ステーキ＆会津地鶏鍋・桧原湖ワカサギを味わう高原リゾート名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">禅寺坐禅体験＆精進料理宿坊厳選ガイド「高野山・永平寺・京都リトリート」</span>
             </a>
-            <a href="/fukushima-bandaiatami-solo-retreat-clearskin-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/chiba-kamogawa-katsuura-boso-seafood-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">会津郡山・磐梯熱海温泉ひとり旅・萩姫伝説の美肌湯おこもり：pH9超とろとろアルカリ泉・地酒王国ふくしま・清流五百川！郡山新幹線20分の隠れ里厳選3宿</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「千葉・鴨川＆勝浦・南房総」シャチパフォーマンス・勝浦四百年朝市＆地金目鯛宿 厳選ガイド</span>
             </a>
-            <a href="/furusato-tax-ouchijuku-yunokami-autumn-leaves-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/furusato-tax-cave-bath-natural-grotto-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">会津・大内宿の茅葺き宿場町紅葉＆塔のへつり！湯野上温泉渓谷露天宿×ふるさと納税厳選ガイド福島</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">荒波迫る海食洞窟と神秘の巨岩風呂！全国の天然洞窟温泉＆名湯旅館×ふるさと納税厳選ガイド南紀勝浦・湯の峰・上諏訪</span>
             </a>
-            <a href="/winter-fukushima-aizu-ashinomaki-higashiyama-luxury-ookawaso-mukaitaki-snow-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/furusato-tax-katsuura-kumano-kodo-autumn-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">winter-fukushima-aizu-ashinomaki-higashiyama-luxury-ookawaso-mukaitaki-snow-stay</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">世界遺産・熊野古道の大門坂紅葉＆那智の滝！南紀勝浦の大洞窟露天風呂宿×ふるさと納税厳選ガイド和歌山</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
             <div className="flex flex-wrap gap-2">
               <Link
-                href="/prefectures/kumamoto/"
+                href="/prefectures/wakayama/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                熊本県の宿・温泉
+                和歌山県の宿・温泉
+              </Link>
+              <Link
+                href="/prefectures/kyoto/"
+                className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
+              >
+                京都府の宿・温泉
+              </Link>
+              <Link
+                href="/prefectures/osaka/"
+                className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
+              >
+                大阪府の宿・温泉
               </Link>
               <Link
                 href="/prefectures/hyogo/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 兵庫県の宿・温泉
-              </Link>
-              <Link
-                href="/prefectures/okinawa/"
-                className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
-              >
-                沖縄県の宿・温泉
-              </Link>
-              <Link
-                href="/prefectures/fukushima/"
-                className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
-              >
-                福島県の宿・温泉
               </Link>
             </div>
           </div>
@@ -551,7 +551,7 @@ export default function KoyasanPassPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 高野山温泉　福智院</td>
                 <td className="p-3 text-stone-600">和歌山県伊都郡高野町高野山657</td>
-                <td className="p-3 text-stone-600">極楽橋駅周辺</td>
+                <td className="p-3 text-stone-600">金剛峯寺前バス停から徒歩5分(2024年8月26日から変更)</td>
                 <td className="p-3 text-stone-600">20台（無料）</td>
                 <td className="p-3 font-bold text-amber-600">★4（336件）</td>
                 <td className="p-3 font-bold text-rose-600">¥12,000〜</td>
@@ -560,7 +560,7 @@ export default function KoyasanPassPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 高野山　持明院</td>
                 <td className="p-3 text-stone-600">和歌山県伊都郡高野町高野山455</td>
-                <td className="p-3 text-stone-600">極楽橋駅周辺</td>
+                <td className="p-3 text-stone-600">南海電車林間高野線『極楽橋駅』</td>
                 <td className="p-3 text-stone-600">有り　30台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.55（354件）</td>
                 <td className="p-3 font-bold text-rose-600">¥13,200〜</td>
@@ -569,7 +569,7 @@ export default function KoyasanPassPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 宿坊　桜池院</td>
                 <td className="p-3 text-stone-600">和歌山県伊都郡高野町高野山293</td>
-                <td className="p-3 text-stone-600">極楽橋駅周辺</td>
+                <td className="p-3 text-stone-600">南海・難波駅より高野線にて高野山駅下車、タクシーにて約10分 /お車の方はR24笠田駅前交差点より高野山方面へ</td>
                 <td className="p-3 text-stone-600">有り　10台（大型バス3台）　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.82（46件）</td>
                 <td className="p-3 font-bold text-rose-600">¥22,000〜</td>
@@ -578,7 +578,7 @@ export default function KoyasanPassPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. ホテル　ルートイン橋本</td>
                 <td className="p-3 text-stone-600">和歌山県橋本市市脇4-10-28</td>
-                <td className="p-3 text-stone-600">橋本（和歌山）駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ・南海高野線 橋本駅 TAXIにて約７分。/京奈和自動車道・橋本ICより約5分。 平面駐車場100台完備</td>
                 <td className="p-3 text-stone-600">有り　108台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.12（984件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,250〜</td>
@@ -587,7 +587,7 @@ export default function KoyasanPassPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. ホステルイン橋本</td>
                 <td className="p-3 text-stone-600">和歌山県橋本市古佐田2-61-4</td>
-                <td className="p-3 text-stone-600">橋本（和歌山）駅周辺</td>
+                <td className="p-3 text-stone-600">南海高野線／ＪＲ和歌山線 橋本駅より徒歩にて約1分</td>
                 <td className="p-3 text-stone-600">有り（要予約）ご利用の方はご連絡下さい</td>
                 <td className="p-3 font-bold text-amber-600">★4.23（53件）</td>
                 <td className="p-3 font-bold text-rose-600">¥9,600〜</td>
@@ -616,7 +616,7 @@ export default function KoyasanPassPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>20台（無料）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.93 ／ 立地 ★4.24 ／ 部屋 ★3.7 ／ 設備 ★3.81 ／ 風呂 ★4.03 ／ 食事 ★4.14</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉は最高、庭の風情と食事も満足宿坊だからかもしれないけど 長い廊下延々と続き 宿内もたくさん歩いた。浴室内の洗い場が少なく 洗い場が空くのを待つ時間があったけど 温泉がすばらしかった。お庭も風情…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉は最高、庭の風情と食事も満足宿坊だからかもしれないけど 長い廊下延々と続き 宿内もたくさん歩いた。浴室内の洗い場が少なく 洗い場が空くのを待つ時間があったけど 温泉がすばらしかった。」
                   </blockquote>
                 </div>
               </div>
@@ -638,7 +638,7 @@ export default function KoyasanPassPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　30台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「お寺の雰囲気や食事は最高だが隣の音が響くとても綺麗にされているお寺で、お料理やお風呂、お部屋やスタッフの方も親切で、朝のお勤めも見学させて貰えました。ただお寺はどこもそうだとは思いますが、壁がうす…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「お寺の雰囲気や食事は最高だが隣の音が響くとても綺麗にされているお寺で、お料理やお風呂、お部屋やスタッフの方も親切で、朝のお勤めも見学させて貰えました。」
                   </blockquote>
                 </div>
               </div>
@@ -714,7 +714,7 @@ export default function KoyasanPassPage() {
       </main>
 
       {/* Footer */}
-      <footer className="bg-slate-900 text-slate-400 py-10 px-4 text-center text-xs">
+      <footer className="bg-slate-900 text-slate-200 py-10 px-4 text-center text-xs">
         <div className="max-w-4xl mx-auto space-y-2">
           <p>© 日本全国・旅宿クラウド (croud-travel) / All Rights Reserved.</p>
           <p>※掲載の運賃および施設料金は改定される場合があります。最新の運行情報・料金は南海電鉄公式サイトをご確認ください。</p>

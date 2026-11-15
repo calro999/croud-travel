@@ -337,8 +337,8 @@ export default function ArticlePage() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 伊豆稲取駅よりアクセス。伊豆稲取駅より送迎バスにて約5分、徒歩約15分。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「海一望絶景の宿 いなとり荘」にチェックイン。全室オーシャンビュー！レイトチェックアウト12時まで心からのんびり♪などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「海一望絶景の宿 いなとり荘」の湯処へ。全室オーシャンビュー！レイトチェックアウト12時まで心からのんびり♪とともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「海一望絶景の宿 いなとり荘」にチェックイン。全室オーシャンビュー！レイトチェックアウト12時まで心からのんびり♪ 館内の設えを確かめながら、これからの滞在に備えてゆっくり休息する。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「海一望絶景の宿 いなとり荘」の湯船で寛ぎタイム。季節の空気を感じながら手足を伸ばし、心豊かな夕方のリラックス時間を満喫。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「海一望絶景の宿 いなとり荘」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -350,7 +350,7 @@ export default function ArticlePage() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「海一望絶景の宿 いなとり荘」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「海一望絶景の宿 いなとり荘」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「絶景温泉と魚介満腹の宿 稲取東海ホテル湯苑」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は「海一望絶景の宿 いなとり荘」周辺の観光スポットや地元の名産店に立ち寄り、ご当地のお土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>
@@ -387,28 +387,28 @@ export default function ArticlePage() {
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
             <div className="flex flex-wrap gap-2">
               <Link
-                href="/prefectures/kochi/"
+                href="/prefectures/shizuoka/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                高知県の宿・温泉
+                静岡県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/wakayama/"
+                href="/prefectures/gifu/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                和歌山県の宿・温泉
+                岐阜県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/kyoto/"
+                href="/prefectures/aichi/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                京都府の宿・温泉
+                愛知県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/hiroshima/"
+                href="/prefectures/mie/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                広島県の宿・温泉
+                三重県の宿・温泉
               </Link>
             </div>
           </div>
@@ -444,7 +444,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 海一望絶景の宿　いなとり荘</td>
                 <td className="p-3 text-stone-600">静岡県賀茂郡東伊豆町稲取1531</td>
-                <td className="p-3 text-stone-600">伊豆稲取駅周辺</td>
+                <td className="p-3 text-stone-600">伊豆稲取駅より送迎バスにて約5分、徒歩約15分</td>
                 <td className="p-3 text-stone-600">有　５０台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.6（1317件）</td>
                 <td className="p-3 font-bold text-rose-600">¥16,500〜</td>
@@ -453,7 +453,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 絶景温泉と魚介満腹の宿　稲取東海ホテル湯苑</td>
                 <td className="p-3 text-stone-600">静岡県賀茂郡東伊豆町稲取1599-1</td>
-                <td className="p-3 text-stone-600">伊豆稲取駅周辺</td>
+                <td className="p-3 text-stone-600">伊豆急線伊豆稲取駅下車。徒歩約１５分。無料送迎バスあり ※要事前予約（13：30～18：00） 明朝は定期便あります。</td>
                 <td className="p-3 text-stone-600">有り　50台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.51（955件）</td>
                 <td className="p-3 font-bold text-rose-600">¥10,000〜</td>
@@ -462,7 +462,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 稲取温泉　石花海（せのうみ）</td>
                 <td className="p-3 text-stone-600">静岡県賀茂郡東伊豆町稲取1604-1</td>
-                <td className="p-3 text-stone-600">伊豆稲取駅周辺</td>
+                <td className="p-3 text-stone-600">伊豆稲取駅より徒歩にて１５分／お車にて５分</td>
                 <td className="p-3 text-stone-600">有り　３０台　有料・無料あり　有料駐車場は要予約</td>
                 <td className="p-3 font-bold text-amber-600">★3.23（321件）</td>
                 <td className="p-3 font-bold text-rose-600">¥18,700〜</td>
@@ -513,7 +513,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　50台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「間近で見る花火と美味しい食事に大満足部屋から海と花火が見たくて花火が近くて上がる日で予約しました。半露天の角部屋にグレードアップしていただき、間近で花火が見れて嬉しかったです。建物は年季が入ってい…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「間近で見る花火と美味しい食事に大満足部屋から海と花火が見たくて花火が近くて上がる日で予約しました。半露天の角部屋にグレードアップしていただき、間近で花火が見れて嬉しかったです。」
                   </blockquote>
                 </div>
               </div>
@@ -535,7 +535,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　３０台　有料・無料あり　有料駐車場は要予約</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「海を望む露天風呂に大満足とにかく、ロケーションが最高です。海が目の前で、露天風呂から眺める大海原と波の音が最高でした。大浴場からの眺めも最高で、アメニティーやドライヤー、カールアイロンもありとても…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「海を望む露天風呂に大満足とにかく、ロケーションが最高です。海が目の前で、露天風呂から眺める大海原と波の音が最高でした。」
                   </blockquote>
                 </div>
               </div>

@@ -529,7 +529,7 @@ export default function FurusatoFeaturePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 飛騨高山温泉　飛騨の里　旅館　むら山</td>
                 <td className="p-3 text-stone-600">岐阜県高山市西之一色町3-829</td>
-                <td className="p-3 text-stone-600">高山駅周辺</td>
+                <td className="p-3 text-stone-600">高山駅・濃飛バスセンターよりさるぼぼバスにて約１０分（飛騨の里下下車）徒歩１分。</td>
                 <td className="p-3 text-stone-600">有り　12台　無料　駐輪OK！</td>
                 <td className="p-3 font-bold text-amber-600">★4.61（288件）</td>
                 <td className="p-3 font-bold text-rose-600">¥19,250〜</td>
@@ -538,7 +538,7 @@ export default function FurusatoFeaturePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 料理旅館　備前屋</td>
                 <td className="p-3 text-stone-600">岐阜県郡上市八幡町柳町264</td>
-                <td className="p-3 text-stone-600">郡上八幡駅周辺</td>
+                <td className="p-3 text-stone-600">長良川鉄道 郡上八幡駅より岐阜バス「城下町プラザ」下車３分</td>
                 <td className="p-3 text-stone-600">有り　８台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.73（69件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,700〜</td>
@@ -547,7 +547,7 @@ export default function FurusatoFeaturePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 日本の宿　ひだ高山　倭乃里</td>
                 <td className="p-3 text-stone-600">岐阜県高山市一之宮町1682</td>
-                <td className="p-3 text-stone-600">高山駅周辺</td>
+                <td className="p-3 text-stone-600">高山駅よりお車で20分 （高山駅⇔倭乃里送迎あり／7日前までの予約制）</td>
                 <td className="p-3 text-stone-600">有り　（10台／無料／予約不要）</td>
                 <td className="p-3 font-bold text-amber-600">★5（73件）</td>
                 <td className="p-3 font-bold text-rose-600">¥40,700〜</td>
@@ -556,7 +556,7 @@ export default function FurusatoFeaturePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 岩手　花巻温泉郷　鉛温泉　藤三旅館</td>
                 <td className="p-3 text-stone-600">岩手県花巻市鉛中平75-1</td>
-                <td className="p-3 text-stone-600">花巻駅周辺</td>
+                <td className="p-3 text-stone-600">新花巻駅より４０分・花巻駅より３０分（送迎バスあり、協力金：片道100円、予約必須）。花巻南ＩＣよりお車で２０分。</td>
                 <td className="p-3 text-stone-600">有り　60台先着順無料　湯治部のご利用は第2駐車場をご利用ください</td>
                 <td className="p-3 font-bold text-amber-600">★4.43（2692件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,600〜</td>
@@ -565,7 +565,7 @@ export default function FurusatoFeaturePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 花巻温泉郷　台温泉　いやしろの湯　ホテル三右ェ門</td>
                 <td className="p-3 text-stone-600">岩手県花巻市台２－４５</td>
-                <td className="p-3 text-stone-600">花巻駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ東北本線 花巻駅より車で１５分／東北新幹線 新花巻駅より車で２０分／花巻空港より車で１５分</td>
                 <td className="p-3 text-stone-600">有り　３０台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★3.94（364件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,700〜</td>
@@ -574,7 +574,7 @@ export default function FurusatoFeaturePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">6. 豆家</td>
                 <td className="p-3 text-stone-600">兵庫県丹波篠山市立町15</td>
-                <td className="p-3 text-stone-600">篠山口駅周辺</td>
+                <td className="p-3 text-stone-600">篠山口駅よりお車で約１３分、舞鶴若狭自動車道丹南篠山口ＩＣより約１１分</td>
                 <td className="p-3 text-stone-600">有り　３台　無料　要予約</td>
                 <td className="p-3 font-bold text-amber-600">高評価</td>
                 <td className="p-3 font-bold text-rose-600">¥38,900〜</td>
@@ -691,7 +691,7 @@ export default function FurusatoFeaturePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　３０台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.04 ／ 立地 ★3.83 ／ 部屋 ★3.89 ／ 設備 ★3.74 ／ 風呂 ★4.03 ／ 食事 ★4.11</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「設備は古めだが清潔で食事も美味しく満足設備は多少古い感じはしますが、十分綺麗に行き届いた感じになっております。食事も十分でおいしかったです。また機会がありましたら伺いたいと思います。大変満足いたし…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「設備は古めだが清潔で食事も美味しく満足設備は多少古い感じはしますが、十分綺麗に行き届いた感じになっております。食事も十分でおいしかったです。また機会がありましたら伺いたいと思います。」
                   </blockquote>
                 </div>
               </div>

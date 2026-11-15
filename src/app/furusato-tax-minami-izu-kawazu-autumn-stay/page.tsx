@@ -448,7 +448,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. ホテル河内屋　伊豆下賀茂温泉　１００％源泉かけ流しの湯</td>
                 <td className="p-3 text-stone-600">静岡県賀茂郡南伊豆町下賀茂436-1</td>
-                <td className="p-3 text-stone-600"></td>
+                <td className="p-3 text-stone-600">静岡県賀茂郡南伊豆町下賀茂436-1 ／ 交通案内：</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.24（521件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,400〜</td>
@@ -457,7 +457,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 下賀茂温泉　温泉民宿　南伊豆</td>
                 <td className="p-3 text-stone-600">静岡県賀茂郡南伊豆町下賀茂</td>
-                <td className="p-3 text-stone-600"></td>
+                <td className="p-3 text-stone-600">静岡県賀茂郡南伊豆町下賀茂 ／ 交通案内：</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.69（176件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,200〜</td>

@@ -573,7 +573,7 @@ export default function FurusatoFeaturePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. アンワインドホテルアンドバー小樽（ＵＮＷＩＮＤ　ＨＯＴＥＬ　＆　ＢＡＲ　小樽）</td>
                 <td className="p-3 text-stone-600">北海道小樽市色内1-8-25</td>
-                <td className="p-3 text-stone-600">小樽駅周辺</td>
+                <td className="p-3 text-stone-600">小樽駅より徒歩にて約10分</td>
                 <td className="p-3 text-stone-600">有り　5台　1500円（1泊1台分）　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.56（275件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,510〜</td>
@@ -582,7 +582,7 @@ export default function FurusatoFeaturePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. オーセントホテル小樽</td>
                 <td className="p-3 text-stone-600">北海道小樽市稲穂2-15-1</td>
-                <td className="p-3 text-stone-600"></td>
+                <td className="p-3 text-stone-600">北海道小樽市稲穂2-15-1 ／ 交通案内：</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.37（2052件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,100〜</td>
@@ -591,7 +591,7 @@ export default function FurusatoFeaturePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. グリッズプレミアムホテル小樽</td>
                 <td className="p-3 text-stone-600">北海道小樽市稲穂1丁目3-13</td>
-                <td className="p-3 text-stone-600">小樽駅周辺</td>
+                <td className="p-3 text-stone-600">小樽駅より徒歩9分、新千歳空港からお車にて約90分</td>
                 <td className="p-3 text-stone-600">有り　45台　1500円（税込／１泊）　先着順（事前予約不可）</td>
                 <td className="p-3 font-bold text-amber-600">★4.32（705件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,740〜</td>
@@ -600,7 +600,7 @@ export default function FurusatoFeaturePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 八ヶ岳の恵みを味わうレストラン＆ホテル　オーベルジュ清里</td>
                 <td className="p-3 text-stone-600">山梨県北杜市高根町清里３５４５－９４３　コートドゥヴェール内</td>
-                <td className="p-3 text-stone-600">清里駅周辺</td>
+                <td className="p-3 text-stone-600">JR小海線・清里駅から車で5分／中央道・長坂ICから25分</td>
                 <td className="p-3 text-stone-600">有り　５０台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★5（45件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,900〜</td>
@@ -609,7 +609,7 @@ export default function FurusatoFeaturePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. ナチュラルファームシティ農園ホテル　＜秩父の街並みを眼下に望むロケーション＞</td>
                 <td className="p-3 text-stone-600">埼玉県秩父市大宮5911-1</td>
-                <td className="p-3 text-stone-600">秩父駅周辺</td>
+                <td className="p-3 text-stone-600">西武池袋線、西武秩父駅より車で約７分（無料送迎有）、関越自動車道 花園Ｉ．Ｃから皆野寄居バイパス経由約４０分</td>
                 <td className="p-3 text-stone-600">有り　100台　無料　本館前Ｐ　第二駐車場　※先着順</td>
                 <td className="p-3 font-bold text-amber-600">★3.94（1768件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,500〜</td>
@@ -618,7 +618,7 @@ export default function FurusatoFeaturePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">6. ＮＩＰＰＯＮＩＡ　秩父　門前町</td>
                 <td className="p-3 text-stone-600">埼玉県秩父市宮側町17-5（MARUJU棟）</td>
-                <td className="p-3 text-stone-600">西武秩父駅周辺</td>
+                <td className="p-3 text-stone-600">西武鉄道 西武秩父駅より徒歩にて約15分/秩父鉄道 秩父駅より徒歩にて約5分</td>
                 <td className="p-3 text-stone-600">有り（MARUJU棟に4台駐車場可能です。満車時は近隣の提携駐車場をご案内いたします。）</td>
                 <td className="p-3 font-bold text-amber-600">★4（67件）</td>
                 <td className="p-3 font-bold text-rose-600">¥29,246〜</td>
@@ -647,7 +647,7 @@ export default function FurusatoFeaturePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　5台　1500円（1泊1台分）　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食とワイン、おしゃれな空間で小樽を満喫朝食のモーニングハイティーのクオリティがとても高く、大満足でした。また、夕方にはワインバーのサービスを無料で利用でき、小樽や富良野のワインをゆっくりと楽しむ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食とワイン、おしゃれな空間で小樽を満喫朝食のモーニングハイティーのクオリティがとても高く、大満足でした。」
                   </blockquote>
                 </div>
               </div>
@@ -669,7 +669,7 @@ export default function FurusatoFeaturePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「バーと朝食に大満足、また利用したいホテル内のバーがすごくよかったです。お酒が好きな主人との旅行でしたので、こちらのホテルを選ばせていただきました。朝食もおいしくフロントの女性の方の対応も大…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「バーと朝食に大満足、また利用したいホテル内のバーがすごくよかったです。お酒が好きな主人との旅行でしたので、こちらのホテルを選ばせていただきました。」
                   </blockquote>
                 </div>
               </div>
@@ -691,7 +691,7 @@ export default function FurusatoFeaturePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　45台　1500円（税込／１泊）　先着順（事前予約不可）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「新しく快適オープンして3年程度のため新しくてきれいです。客室のベッドは高め、下にスーツケースが入る仕様。硬めのマットレスです。朝食はパンやサラダ、フルーツなどのほかにバラちらしなどの魚介、オハ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「新しく快適オープンして3年程度のため新しくてきれいです。客室のベッドは高め、下にスーツケースが入る仕様。硬めのマットレスです。」
                   </blockquote>
                 </div>
               </div>
@@ -735,7 +735,7 @@ export default function FurusatoFeaturePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　100台　無料　本館前Ｐ　第二駐車場　※先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事も景色も最高農園ホテルということで食事(野菜と果物)をかなり期待していましたが、私たちにはイマイチでした。美味しくない訳ではありません。こちらが勝手にハードルを上げて宿泊を楽しみにしていたので…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事も景色も最高農園ホテルということで食事(野菜と果物)をかなり期待していましたが、私たちにはイマイチでした。美味しくない訳ではありません。」
                   </blockquote>
                 </div>
               </div>

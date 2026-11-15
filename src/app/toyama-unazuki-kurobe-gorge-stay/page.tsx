@@ -253,7 +253,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 黒部峡谷・宇奈月温泉　ホテル黒部</td>
                 <td className="p-3 text-stone-600">富山県黒部市宇奈月温泉７番地</td>
-                <td className="p-3 text-stone-600">宇奈月温泉駅周辺</td>
+                <td className="p-3 text-stone-600">北陸新幹線黒部宇奈月温泉駅から富山地鉄乗り換え25分。 宇奈月温泉駅から歩10分／北陸道 黒部ＩＣから約20分。</td>
                 <td className="p-3 text-stone-600">有り　40台　無料 （トロッコ観光中もお預かりいたします）</td>
                 <td className="p-3 font-bold text-amber-600">★4.55（1226件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,600〜</td>
@@ -262,7 +262,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 宇奈月温泉　延楽</td>
                 <td className="p-3 text-stone-600">富山県黒部市宇奈月温泉347-1</td>
-                <td className="p-3 text-stone-600">宇奈月温泉駅周辺</td>
+                <td className="p-3 text-stone-600">富山地方鉄道「宇奈月温泉駅」より徒歩3分 / 北陸自動車道 黒部ICより約２０分</td>
                 <td className="p-3 text-stone-600">有り・4０台・無料・先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.58（558件）</td>
                 <td className="p-3 font-bold text-rose-600">¥31,900〜</td>
@@ -271,7 +271,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 黒部・宇奈月温泉　やまのは（オリックスホテルズ＆リゾーツ）</td>
                 <td className="p-3 text-stone-600">富山県黒部市宇奈月温泉352番地7</td>
-                <td className="p-3 text-stone-600">宇奈月温泉駅周辺</td>
+                <td className="p-3 text-stone-600">富山地方鉄道「宇奈月温泉駅」下車徒歩３分 無料送迎バス有※要確認／北陸自動車道黒部IC下車約２０分</td>
                 <td className="p-3 text-stone-600">140台の無料駐車スペースがございます。</td>
                 <td className="p-3 font-bold text-amber-600">★4.31（4215件）</td>
                 <td className="p-3 font-bold text-rose-600">¥11,300〜</td>
@@ -280,7 +280,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. ＴＯＧＥＮ　黒部　宇奈月温泉</td>
                 <td className="p-3 text-stone-600">富山県黒部市宇奈月温泉22-1</td>
-                <td className="p-3 text-stone-600">宇奈月温泉駅周辺</td>
+                <td className="p-3 text-stone-600">富山地方鉄道「宇奈月温泉駅」より徒歩５分。北陸HW黒部ＩＣより２０分。立山・黒部アルペンルート立山駅まで約８０分。</td>
                 <td className="p-3 text-stone-600">有り　50台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.41（1180件）</td>
                 <td className="p-3 font-bold text-rose-600">¥25,300〜</td>
@@ -289,7 +289,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 宇奈月温泉の老舗旅館　延対寺荘</td>
                 <td className="p-3 text-stone-600">富山県黒部市宇奈月温泉53</td>
-                <td className="p-3 text-stone-600"></td>
+                <td className="p-3 text-stone-600">富山県黒部市宇奈月温泉53 ／ 交通案内：</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.3（1570件）</td>
                 <td className="p-3 font-bold text-rose-600">¥13,200〜</td>
@@ -298,7 +298,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">6. 生地温泉　たなかや</td>
                 <td className="p-3 text-stone-600">富山県黒部市生地吉田新230</td>
-                <td className="p-3 text-stone-600">生地駅周辺</td>
+                <td className="p-3 text-stone-600">北陸自動車道「黒部インター」より車で20分／北陸新幹線「黒部宇奈月駅」・あいの風とやま鉄道「生地駅」から無料送迎あり／</td>
                 <td className="p-3 text-stone-600">有り　５０台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.2（169件）</td>
                 <td className="p-3 font-bold text-rose-600">¥17,523〜</td>
@@ -327,7 +327,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　40台　無料 （トロッコ観光中もお預かりいたします）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「昭和の雰囲気と鉄道部屋に子供が大喜び設備は所々歴史が感じられましたが、とても雰囲気が良く、所々で古き良き昭和を感じました。お部屋からトロッコ電車も観られました。プラレールと鉄道模型の鉄道部屋が…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「昭和の雰囲気と鉄道部屋に子供が大喜び設備は所々歴史が感じられましたが、とても雰囲気が良く、所々で古き良き昭和を感じました。お部屋からトロッコ電車も観られました。」
                   </blockquote>
                 </div>
               </div>
@@ -371,7 +371,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>140台の無料駐車スペースがございます。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「景色とバイキングを満喫、日本酒の演出も最高電車からホテルが見えましたおかげで迷わずホテルへ行けましたロビーからの景色も良くフリードリンクでゆっくり過ごせましたマッサージチェアもありました…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「景色とバイキングを満喫、日本酒の演出も最高電車からホテルが見えましたおかげで迷わずホテルへ行けましたロビーからの景色も良くフリードリンクでゆっくり過ごせましたマッサージチェアもありました。」
                   </blockquote>
                 </div>
               </div>
@@ -393,7 +393,7 @@ export default function MicroTouristHubPage() {
                   <p>【富山・黒部宇奈月温泉：トロッコ電車・黒部峡谷断崖美＆】 <strong>【駐車場・マイカー利用】</strong>有り　50台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.49 ／ 立地 ★4.47 ／ 部屋 ★4.34 ／ 設備 ★4.27 ／ 風呂 ★4.37 ／ 食事 ★4.52</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事は満腹、24時間入れる熱めのお風呂お料理に重点を置いたホテル 夕朝食共にお腹いっぱいになりましたお風呂は24時間入れるところが良かった(男女入れ替え清掃時間有り)温度は熱め…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事は満腹、24時間入れる熱めのお風呂お料理に重点を置いたホテル 夕朝食共にお腹いっぱいになりましたお風呂は24時間入れるところが良かった(男女入れ替え清掃時間有り)温度は熱め。」
                   </blockquote>
                 </div>
               </div>
@@ -437,7 +437,7 @@ export default function MicroTouristHubPage() {
                   <p>【富山・黒部宇奈月温泉：トロッコ電車・黒部峡谷断崖美＆】 <strong>【駐車場・マイカー利用】</strong>有り　５０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事は美味しく接客も良いが設備に難あり夕食は、とても美味しかったですお風呂のシャワーが、とても古い感じで、温度調整が、出来ません部屋の洗面所の排水が、悪くなかなか流れなかったです庭…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事は美味しく接客も良いが設備に難あり夕食は、とても美味しかったですお風呂のシャワーが、とても古い感じで、温度調整が、出来ません部屋の洗面所の排水が、悪くなかなか流れなかったです庭。」
                   </blockquote>
                 </div>
               </div>

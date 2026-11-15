@@ -334,7 +334,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 那須温泉　大丸温泉旅館</td>
                 <td className="p-3 text-stone-600">栃木県那須郡那須町湯本269</td>
-                <td className="p-3 text-stone-600">那須塩原駅周辺</td>
+                <td className="p-3 text-stone-600">那須塩原駅・黒磯駅より、路線バス有料送迎サービス有約70分(2日前迄に要予約）／東北自動車道《那須IC》より車で約30分</td>
                 <td className="p-3 text-stone-600">有　３０台　無料　※旅館手前の県営大丸駐車場になります。</td>
                 <td className="p-3 font-bold text-amber-600">★4.61（488件）</td>
                 <td className="p-3 font-bold text-rose-600">¥16,800〜</td>
@@ -343,7 +343,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 美ヶ原温泉　旅館すぎもと</td>
                 <td className="p-3 text-stone-600">長野県松本市里山辺451-7</td>
-                <td className="p-3 text-stone-600">松本駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ 松本駅よりお車で１５分</td>
                 <td className="p-3 text-stone-600">有り　３０台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.64（222件）</td>
                 <td className="p-3 font-bold text-rose-600">¥14,040〜</td>
@@ -352,7 +352,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 料理旅館　奥飛騨山草庵　饗家（きょうや）</td>
                 <td className="p-3 text-stone-600">岐阜県高山市奥飛騨温泉郷一重ケ根212-84</td>
-                <td className="p-3 text-stone-600">高山駅周辺</td>
+                <td className="p-3 text-stone-600">JR高山線・高山駅～バスで70分「新平湯禅通寺前」下車徒歩3分／JR中央線・松本駅～バスで100分／東海北陸道・清見IC</td>
                 <td className="p-3 text-stone-600">有り　２０台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.76（301件）</td>
                 <td className="p-3 font-bold text-rose-600">¥28,860〜</td>
@@ -403,7 +403,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　３０台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.74 ／ 立地 ★4.24 ／ 部屋 ★4.67 ／ 設備 ★4.33 ／ 風呂 ★4.4 ／ 食事 ★4.79</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「夕食は美味しく、フロントの案内も親切夕食は、質が良く高価で美味しくいただきました。フロントの方には帰り道で景色の良いところや寒天製造所など案内していただき感謝です。黒部ダムで260の階段と…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「夕食は美味しく、フロントの案内も親切夕食は、質が良く高価で美味しくいただきました。フロントの方には帰り道で景色の良いところや寒天製造所など案内していただき感謝です。」
                   </blockquote>
                 </div>
               </div>
@@ -425,7 +425,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２０台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.72 ／ 立地 ★4.59 ／ 部屋 ★4.72 ／ 設備 ★4.76 ／ 風呂 ★4.83 ／ 食事 ★4.83</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「料理が最高で貸切風呂も充実、大人の隠れ家とにかく料理が最高でした。地の食材を使って見た目もきれいな一品ばかり。4か所あるお風呂はすべて貸し切りでゆっくり入れます。ただ、自分が入りたいタイミング…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「料理が最高で貸切風呂も充実、大人の隠れ家とにかく料理が最高でした。地の食材を使って見た目もきれいな一品ばかり。4か所あるお風呂はすべて貸し切りでゆっくり入れます。」
                   </blockquote>
                 </div>
               </div>

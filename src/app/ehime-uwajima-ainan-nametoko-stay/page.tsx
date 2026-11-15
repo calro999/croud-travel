@@ -253,7 +253,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. ＣＡＮＤＥＯ　ＨＯＴＥＬＳ（カンデオホテルズ）松山大街道</td>
                 <td className="p-3 text-stone-600">愛媛県松山市大街道2-5-12</td>
-                <td className="p-3 text-stone-600">松山空港よりリムジンバス乗車約25分、一番町下車徒歩約3分。松山市駅よ</td>
+                <td className="p-3 text-stone-600">松山空港よりリムジンバス乗車約25分、一番町下車徒歩約3分。松山市駅より伊予鉄道利用、大街道駅より徒歩1分。</td>
                 <td className="p-3 text-stone-600">駐車場無。有料提携駐車場（お城下パーキング2番町、フラワーパーキング2番町など）をご利用ください。</td>
                 <td className="p-3 font-bold text-amber-600">★4.21（2332件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,600〜</td>
@@ -262,7 +262,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. ホテルイシバシ</td>
                 <td className="p-3 text-stone-600">愛媛県宇和島市栄町港2-4-14</td>
-                <td className="p-3 text-stone-600">宇和島駅周辺</td>
+                <td className="p-3 text-stone-600">JR≪宇和島駅≫より徒歩10分｜宇和島朝日ICより車で3分｜宇和島新内港まで徒歩3分</td>
                 <td className="p-3 text-stone-600">無料・20台　※予約不要・先着順</td>
                 <td className="p-3 font-bold text-amber-600">★3.71（143件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,500〜</td>
@@ -271,7 +271,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 道後ｈａｋｕｒｏ</td>
                 <td className="p-3 text-stone-600">愛媛県松山市道後鷺谷町3-1</td>
-                <td className="p-3 text-stone-600">道後温泉駅周辺</td>
+                <td className="p-3 text-stone-600">道後温泉駅より徒歩にて約5分 ／ 松山自動車道 松山ICより車で約30分 ／ 道後温泉本館まで徒歩約3分</td>
                 <td className="p-3 text-stone-600">平面駐車場【有料】1泊 普通車770円・バイク 550円 ※大型車は駐車できません</td>
                 <td className="p-3 font-bold text-amber-600">★4.56（1368件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,480〜</td>
@@ -280,7 +280,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 奥道後　壱湯の守（いちゆのもり）</td>
                 <td className="p-3 text-stone-600">愛媛県松山市末町267</td>
-                <td className="p-3 text-stone-600">松山（愛媛）駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ松山駅よりお車もしくは伊予鉄バス(奥道後行)で３０分／松山ＩＣから国道３１７号線を通って今治方面に４０分</td>
                 <td className="p-3 text-stone-600">無料駐車場300台完備(先着順)</td>
                 <td className="p-3 font-bold text-amber-600">★4.4（2723件）</td>
                 <td className="p-3 font-bold text-rose-600">¥11,700〜</td>
@@ -289,7 +289,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 宇和島オリエンタルホテル</td>
                 <td className="p-3 text-stone-600">愛媛県宇和島市鶴島町6-10</td>
-                <td className="p-3 text-stone-600">宇和島駅周辺</td>
+                <td className="p-3 text-stone-600">JR宇和島駅から徒歩5分｜松山自動車道宇和島朝日町ＩＣから車3分 │ コンビニ徒歩5分</td>
                 <td className="p-3 text-stone-600">1泊1台あたり700円　先着順でご案内いたします。</td>
                 <td className="p-3 font-bold text-amber-600">★4.16（2994件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,150〜</td>
@@ -298,7 +298,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">6. 道後温泉　旅亭　うめ乃や</td>
                 <td className="p-3 text-stone-600">愛媛県松山市上市2-8-9</td>
-                <td className="p-3 text-stone-600">道後温泉駅周辺</td>
+                <td className="p-3 text-stone-600">伊予鉄松山市駅・JR松山駅から伊予鉄で道後温泉駅へ。道後温泉駅・道後温泉本館から徒歩5分。</td>
                 <td className="p-3 text-stone-600">有り　８台　無料　予約必要</td>
                 <td className="p-3 font-bold text-amber-600">★4.65（137件）</td>
                 <td className="p-3 font-bold text-rose-600">¥25,000〜</td>
@@ -393,7 +393,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料駐車場300台完備(先着順)</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.5 ／ 立地 ★4.36 ／ 部屋 ★4.25 ／ 設備 ★4.12 ／ 風呂 ★4.53 ／ 食事 ★4.47</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「お湯とバイキングは最高、階段移動は大変お部屋タイプおまかせのプランでしたが、腰痛に配慮して洋室にしてもらえ、当日は色浴衣の無料デーだったのもとてもうれしいポイントでした。到着時に駐車場に誰もお…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「お湯とバイキングは最高、階段移動は大変お部屋タイプおまかせのプランでしたが、腰痛に配慮して洋室にしてもらえ、当日は色浴衣の無料デーだったのもとてもうれしいポイントでした。」
                   </blockquote>
                 </div>
               </div>
@@ -415,7 +415,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>1泊1台あたり700円　先着順でご案内いたします。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.25 ／ 立地 ★4.11 ／ 部屋 ★4.12 ／ 設備 ★4.06 ／ 風呂 ★4</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「入浴剤やドリンクのサービスが充実駐車場の予約が出来ない為、ホテルの前に付けるとフロント係が来て誘導してくれます。敷地内と少し離れた場所で、宿泊中は指定駐車です。宇和島駅からは少し歩きます。…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「入浴剤やドリンクのサービスが充実駐車場の予約が出来ない為、ホテルの前に付けるとフロント係が来て誘導してくれます。敷地内と少し離れた場所で、宿泊中は指定駐車です。宇和島駅からは少し歩きます。」
                   </blockquote>
                 </div>
               </div>
@@ -437,7 +437,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　８台　無料　予約必要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.82 ／ 立地 ★4.76 ／ 部屋 ★4.47 ／ 設備 ★4.35 ／ 風呂 ★4.65 ／ 食事 ★4.88</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「趣ある建物と丁寧な対応、美味しい料理に満足趣きのある建物で、部屋の雰囲気も良かったです。従業員の方々も、どなたも明るく感じの良い対応でした。料理も出汁に拘っておられ、とても美味しく頂きまし…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「趣ある建物と丁寧な対応、美味しい料理に満足趣きのある建物で、部屋の雰囲気も良かったです。従業員の方々も、どなたも明るく感じの良い対応でした。」
                   </blockquote>
                 </div>
               </div>

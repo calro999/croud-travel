@@ -271,7 +271,7 @@ export default function TargetAudienceHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 伊香保温泉　森秋旅館</td>
                 <td className="p-3 text-stone-600">群馬県渋川市伊香保町伊香保60</td>
-                <td className="p-3 text-stone-600">渋川駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ渋川駅下車バスで25分！新宿から高速バスで2時間半！伊香保の名物石段街から徒歩３分と好立地♪散策に抜群の好立地</td>
                 <td className="p-3 text-stone-600">有（無料）</td>
                 <td className="p-3 font-bold text-amber-600">★4.26（2256件）</td>
                 <td className="p-3 font-bold text-rose-600">¥14,100〜</td>
@@ -280,7 +280,7 @@ export default function TargetAudienceHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 赤穂温泉　料理旅館　呑海楼</td>
                 <td className="p-3 text-stone-600">兵庫県赤穂市御崎131</td>
-                <td className="p-3 text-stone-600">播州赤穂駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ 播州赤穂駅よりお車にて約１０分（無料送迎バス有り）。</td>
                 <td className="p-3 text-stone-600">有り　２５台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.49（763件）</td>
                 <td className="p-3 font-bold text-rose-600">¥12,100〜</td>
@@ -289,7 +289,7 @@ export default function TargetAudienceHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 赤穂温泉　絶景露天風呂の宿　銀波荘</td>
                 <td className="p-3 text-stone-600">兵庫県 赤穂市御崎2-8</td>
-                <td className="p-3 text-stone-600">JR山陽本線・播州赤穂駅より路線バス約20分「御崎バス停」より徒歩1分</td>
+                <td className="p-3 text-stone-600">JR山陽本線・播州赤穂駅より路線バス約20分「御崎バス停」より徒歩1分・無料送迎あり／山陽自動車道・赤穂ＩＣより約10分</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.45（1381件）</td>
                 <td className="p-3 font-bold text-rose-600">¥13,200〜</td>
@@ -298,7 +298,7 @@ export default function TargetAudienceHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">6. 湯田川温泉　つかさや旅館</td>
                 <td className="p-3 text-stone-600">山形県鶴岡市湯田川乙52</td>
-                <td className="p-3 text-stone-600">ＪＲ　鶴岡駅よりタクシーにて２０分／バスにて３０分　庄内空港より車30</td>
+                <td className="p-3 text-stone-600">ＪＲ 鶴岡駅よりタクシーにて２０分／バスにて３０分 庄内空港より車30分</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.83（104件）</td>
                 <td className="p-3 font-bold text-rose-600">¥9,350〜</td>
@@ -349,7 +349,7 @@ export default function TargetAudienceHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　25台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.46 ／ 立地 ★4.15 ／ 部屋 ★4.45 ／ 設備 ★4.33 ／ 風呂 ★4.51 ／ 食事 ★4.59</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「夕食は量が多く、朝食の方がバランス良好夕食については食事の量が大変多く食べきれないぐらいありましたが、内容については 特筆するものはなかったと思います。朝食の方がバランスが取れてて良かったと思…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「夕食は量が多く、朝食の方がバランス良好夕食については食事の量が大変多く食べきれないぐらいありましたが、内容については 特筆するものはなかったと思います。」
                   </blockquote>
                 </div>
               </div>
@@ -371,7 +371,7 @@ export default function TargetAudienceHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有（無料）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「石段への好立地とスタッフの温かいおもてなし伊香保温泉の石段までのアクセスが近く初めての伊香保温泉観光を満喫出来ました。お料理も美味しくて何よりスタッフの方のおもてなしは素晴らしかったです。リピ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「石段への好立地とスタッフの温かいおもてなし伊香保温泉の石段までのアクセスが近く初めての伊香保温泉観光を満喫出来ました。お料理も美味しくて何よりスタッフの方のおもてなしは素晴らしかったです。」
                   </blockquote>
                 </div>
               </div>
@@ -393,7 +393,7 @@ export default function TargetAudienceHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２５台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.55 ／ 立地 ★4.63 ／ 部屋 ★4.49 ／ 設備 ★4.28 ／ 風呂 ★4.45 ／ 食事 ★4.59</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「瀬戸内の絶景と清潔な館内、温泉に癒される旅播州赤穂温泉に予定して瀬戸内を望む旅館で呑海楼に決めました!大きな客室からは壮大な海の景色で天候に恵まれて綺麗な風景に癒されました^^古い旅館と仰…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「瀬戸内の絶景と清潔な館内、温泉に癒される旅播州赤穂温泉に予定して瀬戸内を望む旅館で呑海楼に決めました!」
                   </blockquote>
                 </div>
               </div>

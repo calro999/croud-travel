@@ -565,8 +565,8 @@ export default function FeatureDetailPage() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 泊（富山）駅よりアクセス。北陸自動車道朝日インター下車２０分。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「富山の奥座敷、秘湯の一軒宿 小川温泉元湯 ホテルおがわ」にチェックイン。開湯400周年を優に超える越中四名湯にも数えられた歴史ある小川温泉 山間の一軒宿 ホテルおがわなどの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「富山の奥座敷、秘湯の一軒宿 小川温泉元湯 ホテルおがわ」の湯処へ。開湯400周年を優に超える越中四名湯にも数えられた歴史ある小川温泉 山とともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「富山の奥座敷、秘湯の一軒宿 小川温泉元湯 ホテルおがわ」にチェックイン。開湯400周年を優に超える越中四名湯にも数えられた歴史ある小川温泉 山間の一軒宿 ホテルおがわが魅力の一軒。客室で荷物をほどいて穏やかな午後のひとときを。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「富山の奥座敷、秘湯の一軒宿 小川温泉元湯 ホテルおがわ」の大浴場・露天風呂へ。日暮れの静けさの中で湯に浸かり、旅の緊張をゆっくりと解きほぐす。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「富山の奥座敷、秘湯の一軒宿 小川温泉元湯 ホテルおがわ」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -578,7 +578,7 @@ export default function FeatureDetailPage() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「富山の奥座敷、秘湯の一軒宿 小川温泉元湯 ホテルおがわ」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「富山の奥座敷、秘湯の一軒宿 小川温泉元湯 ホテルおがわ」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「鳴子温泉郷 極上の貸切露天風呂 旅館大沼」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は宿周辺の散策とショッピングを満喫。地元の名産品やグルメを味わってから余裕をもって帰路につく。</li>
               </ul>
             </div>
           </div>
@@ -706,7 +706,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 富山の奥座敷、秘湯の一軒宿　小川温泉元湯　ホテルおがわ</td>
                 <td className="p-3 text-stone-600">富山県下新川郡朝日町湯ノ瀬１</td>
-                <td className="p-3 text-stone-600">泊（富山）駅周辺</td>
+                <td className="p-3 text-stone-600">北陸自動車道朝日インター下車２０分。無料送迎サービスあり（北陸新幹線黒部宇奈月温泉駅、あいの風鉄道泊駅）</td>
                 <td className="p-3 text-stone-600">有り　１００台　無料　北陸自動車道朝日ＩＣより１５分。</td>
                 <td className="p-3 font-bold text-amber-600">★4.2（887件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,800〜</td>
@@ -715,7 +715,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 鳴子温泉郷　極上の貸切露天風呂　旅館大沼</td>
                 <td className="p-3 text-stone-600">宮城県大崎市鳴子温泉赤湯34</td>
-                <td className="p-3 text-stone-600">東北新幹線『古川駅』よりＪＲ陸羽東線に乗り換え、『鳴子御殿湯駅』下車、</td>
+                <td className="p-3 text-stone-600">東北新幹線『古川駅』よりＪＲ陸羽東線に乗り換え、『鳴子御殿湯駅』下車、徒歩５分。鳴子温泉からはタクシーで約5分。</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.58（614件）</td>
                 <td className="p-3 font-bold text-rose-600">¥13,530〜</td>
@@ -724,7 +724,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. ニセコ五色温泉旅館</td>
                 <td className="p-3 text-stone-600">北海道磯谷郡蘭越町字湯里六七三番地</td>
-                <td className="p-3 text-stone-600">ニセコ駅周辺</td>
+                <td className="p-3 text-stone-600">ニセコ駅よりニセコバス「山の家行き」に乗車、終点下車で徒歩にて５分(夏季のみ運行)</td>
                 <td className="p-3 text-stone-600">有り　５０台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4（239件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,000〜</td>
@@ -733,7 +733,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 俵山温泉　泉屋旅館</td>
                 <td className="p-3 text-stone-600">山口県長門市俵山温泉湯町5139</td>
-                <td className="p-3 text-stone-600">長門湯本駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ美祢線 長門湯本駅よりバスにて２０分、「俵山温泉」下車、徒歩１分</td>
                 <td className="p-3 text-stone-600">有り　２０台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★3.63（121件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,080〜</td>
@@ -742,7 +742,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 白骨温泉　お宿つるや　（旧：つるや旅館）</td>
                 <td className="p-3 text-stone-600">長野県松本市安曇4202-6</td>
-                <td className="p-3 text-stone-600">松本ICより沢渡経由で車で60分。国道158号線→沢渡（さわんど）より</td>
+                <td className="p-3 text-stone-600">松本ICより沢渡経由で車で60分。国道158号線→沢渡（さわんど）より県道300号線が最短ルートです。</td>
                 <td className="p-3 text-stone-600">有り　約２０台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.06（611件）</td>
                 <td className="p-3 font-bold text-rose-600">¥9,900〜</td>
@@ -771,7 +771,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１００台　無料　北陸自動車道朝日ＩＣより１５分。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.32 ／ 立地 ★4.31 ／ 部屋 ★4.34 ／ 設備 ★3.96 ／ 風呂 ★4.3 ／ 食事 ★4.12</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「50年ぶりの再訪、食事と温泉に感激!50年ぶりに泊まらせていただきましたが、昔とはお風呂が変わっていましたが懐かしくて感激しました!夕食のすき焼きのお肉がとても美味しく、朝食も大満足でした。大…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「50年ぶりの再訪、食事と温泉に感激!50年ぶりに泊まらせていただきましたが、昔とはお風呂が変わっていましたが懐かしくて感激しました!夕食のすき焼きのお肉がとても美味しく、朝食も大満足でした。」
                   </blockquote>
                 </div>
               </div>
@@ -793,7 +793,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「またゆきたい設備は古いが、清潔に保たれてます。夕食とても美味しかったです。離れた所にある露天風呂も良い。蒸し風呂(サウナ)に入れます方法が内湯から入れるようになると入りやすいと思います…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「またゆきたい設備は古いが、清潔に保たれてます。夕食とても美味しかったです。離れた所にある露天風呂も良い。」
                   </blockquote>
                 </div>
               </div>
@@ -837,7 +837,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「風情ある空間と手料理に癒やされるひとときとても風情があり、昭和の古き良き時代を思い出させてくれるお宿でした。お料理もすべて手作りで、温かみがあり全部美味しくいただきました。昼間は蝉の声と風鈴の音、…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「風情ある空間と手料理に癒やされるひとときとても風情があり、昭和の古き良き時代を思い出させてくれるお宿でした。お料理もすべて手作りで、温かみがあり全部美味しくいただきました。」
                   </blockquote>
                 </div>
               </div>
@@ -859,7 +859,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　約２０台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「泉質と涼しさが最高、来年の再訪が楽しみ色々古いですが、それでもリピート確定なお宿です。お風呂はまさに好み。泉質がよくぬるめで、開放感もあり、いつまでも入っていられます。食事もおいしいし、連…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「泉質と涼しさが最高、来年の再訪が楽しみ色々古いですが、それでもリピート確定なお宿です。お風呂はまさに好み。泉質がよくぬるめで、開放感もあり、いつまでも入っていられます。」
                   </blockquote>
                 </div>
               </div>

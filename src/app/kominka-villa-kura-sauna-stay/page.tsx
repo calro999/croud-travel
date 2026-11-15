@@ -253,7 +253,7 @@ export default function HeritageOnsenHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 古民家宿　ＡＫＩＹＡ　ｃｏｒｎｅｒｓｔｏｎｅ　淡路島</td>
                 <td className="p-3 text-stone-600">兵庫県淡路市浅野南574-6</td>
-                <td className="p-3 text-stone-600">林崎松江海岸駅周辺</td>
+                <td className="p-3 text-stone-600">北淡ＩＣから車で約５分。観光にも便利な淡路島の西海岸から少し入った静かな立地のバケーションレンタル。</td>
                 <td className="p-3 text-stone-600">有り　２台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">高評価</td>
                 <td className="p-3 font-bold text-rose-600">¥13,680〜</td>
@@ -262,7 +262,7 @@ export default function HeritageOnsenHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 離れのある囲炉裏温泉旅館　早水荘</td>
                 <td className="p-3 text-stone-600">鹿児島県伊佐市菱刈川北2280-14</td>
-                <td className="p-3 text-stone-600">栗野駅周辺</td>
+                <td className="p-3 text-stone-600">肥薩線 栗野駅より南国交通バスで１２～１３分／鹿児島本線 水俣駅より南国交通バスで１時間</td>
                 <td className="p-3 text-stone-600">有り　２０台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.5（93件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,800〜</td>
@@ -271,7 +271,7 @@ export default function HeritageOnsenHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 古民家宿　むかしのいえ</td>
                 <td className="p-3 text-stone-600">岡山県津山市加茂町物見162</td>
-                <td className="p-3 text-stone-600">岡山駅周辺</td>
+                <td className="p-3 text-stone-600">岡山駅よりお車で約２時間、中国自動車道津山ＩＣより約３０分、</td>
                 <td className="p-3 text-stone-600">有り　３台　無料　要予約</td>
                 <td className="p-3 font-bold text-amber-600">高評価</td>
                 <td className="p-3 font-bold text-rose-600">プラン参照</td>
@@ -280,7 +280,7 @@ export default function HeritageOnsenHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 一里野高原ホテル　ろあん</td>
                 <td className="p-3 text-stone-600">石川県白山市尾添チ70-4</td>
-                <td className="p-3 text-stone-600">小松空港駅周辺</td>
+                <td className="p-3 text-stone-600">金沢駅より車で９０分｜北陸自動車道白山ＩＣ６０分｜北陸鉄道バス瀬女まで無料送迎可（前日までの予約制）</td>
                 <td className="p-3 text-stone-600">有り45台/無料（EV充電スポット2ヶ所）</td>
                 <td className="p-3 font-bold text-amber-600">★4.12（152件）</td>
                 <td className="p-3 font-bold text-rose-600">¥15,530〜</td>
@@ -289,7 +289,7 @@ export default function HeritageOnsenHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 兜家旅館</td>
                 <td className="p-3 text-stone-600">東京都西多摩郡檜原村数馬2612</td>
-                <td className="p-3 text-stone-600">武蔵五日市駅周辺</td>
+                <td className="p-3 text-stone-600">武蔵五日市駅より西東京バス「数馬行き」乗車１時間。終点下車徒歩１０分</td>
                 <td className="p-3 text-stone-600">有り　５０台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.56（232件）</td>
                 <td className="p-3 font-bold text-rose-600">¥19,800〜</td>
@@ -298,7 +298,7 @@ export default function HeritageOnsenHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">6. 『　モダン町家　一棟貸し　一日一組限定　』京都中心エリア　　＾</td>
                 <td className="p-3 text-stone-600">京都府京都市中京区壬生相合町4-9　ｋｏｍｏｒｅｂｉ</td>
-                <td className="p-3 text-stone-600">四条大宮駅周辺</td>
+                <td className="p-3 text-stone-600">四条大宮駅から徒歩で約３分</td>
                 <td className="p-3 text-stone-600">無し</td>
                 <td className="p-3 font-bold text-amber-600">高評価</td>
                 <td className="p-3 font-bold text-rose-600">¥8,700〜</td>
@@ -349,7 +349,7 @@ export default function HeritageOnsenHubPage() {
                   <p>【古民家一棟貸し・蔵サウナの宿：築100年再生邸宅・プ】 <strong>【駐車場・マイカー利用】</strong>有り　２０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「愛犬と一緒に離れに泊まりました。直前に人数変更があったり、当日、到着予定時刻がズレて夕食開始時間も変更していただきましたが、笑顔で対応してくださいました。ありがとうございました。ご飯は、量もあ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「愛犬と一緒に離れに泊まりました。直前に人数変更があったり、当日、到着予定時刻がズレて夕食開始時間も変更していただきましたが、笑顔で対応してくださいました。ありがとうございました。」
                   </blockquote>
                 </div>
               </div>
@@ -393,7 +393,7 @@ export default function HeritageOnsenHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り45台/無料（EV充電スポット2ヶ所）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「炉端焼とロボット接客に子供も大満足家族4人で避暑目的でお得に泊まれる宿を探していたところ、夕飯の炉端焼に惹かれて予約しました。建物自体は古いのですが、趣味のよい小物も多く、趣あるホテルといった…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「炉端焼とロボット接客に子供も大満足家族4人で避暑目的でお得に泊まれる宿を探していたところ、夕飯の炉端焼に惹かれて予約しました。」
                   </blockquote>
                 </div>
               </div>

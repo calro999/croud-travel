@@ -253,7 +253,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 貸別荘　桃源郷　　旅館　　＾</td>
                 <td className="p-3 text-stone-600">三重県伊勢市二見町松下1790-16　ホテル旅館　桃源郷</td>
-                <td className="p-3 text-stone-600">池の浦駅周辺</td>
+                <td className="p-3 text-stone-600">池の浦駅から徒歩で約４分</td>
                 <td className="p-3 text-stone-600">有り</td>
                 <td className="p-3 font-bold text-amber-600">高評価</td>
                 <td className="p-3 font-bold text-rose-600">¥8,097〜</td>
@@ -262,7 +262,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 浜辺のお宿　相差パシフィックホテル</td>
                 <td className="p-3 text-stone-600">三重県鳥羽市相差町1522-31</td>
-                <td className="p-3 text-stone-600">鳥羽駅周辺</td>
+                <td className="p-3 text-stone-600">近鉄鳥羽駅（送迎要予約）伊勢ＩＣ～二見鳥羽ラインより第２伊勢道路にて３０分！スペイン村車15分★伊勢神宮は車で40分</td>
                 <td className="p-3 text-stone-600">有り５０台無料★バイク利用の方地下駐車場あり（要予約）★女性の願い事が叶う【石神さん】徒歩１０分！</td>
                 <td className="p-3 font-bold text-amber-600">★3.9（1066件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,000〜</td>
@@ -271,7 +271,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 南鳥羽相差　味覚の宿　幸洋荘</td>
                 <td className="p-3 text-stone-600">三重県鳥羽市相差町1110-1</td>
-                <td className="p-3 text-stone-600">鳥羽駅周辺</td>
+                <td className="p-3 text-stone-600">伊勢二見鳥羽ライン～第二伊勢道路へ終点左折～松尾交差点右折約１５分／近鉄鳥羽駅から無料送迎あり（事前予約制）車で約３０分</td>
                 <td className="p-3 text-stone-600">有り　約20台　無料です。</td>
                 <td className="p-3 font-bold text-amber-600">★4.32（165件）</td>
                 <td className="p-3 font-bold text-rose-600">¥15,950〜</td>
@@ -280,7 +280,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 安楽島温泉　湯元　海女乃島</td>
                 <td className="p-3 text-stone-600">三重県鳥羽市安楽島町1075-100</td>
-                <td className="p-3 text-stone-600">鳥羽駅周辺</td>
+                <td className="p-3 text-stone-600">JR・近鉄「鳥羽駅」下車（無料送迎バス有・要予約） / 伊勢自動車道 伊勢ICより車で２０分</td>
                 <td className="p-3 text-stone-600">有り　５０台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.19（1049件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,850〜</td>
@@ -289,7 +289,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. ニューはまぐち屋旅館</td>
                 <td className="p-3 text-stone-600">三重県度会郡南伊勢町礫浦184-5</td>
-                <td className="p-3 text-stone-600">宇治山田駅周辺</td>
+                <td className="p-3 text-stone-600">宇治山田駅より三交バス相賀行き乗車、礫浦バス停下車</td>
                 <td className="p-3 text-stone-600">有り　２５台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.58（131件）</td>
                 <td className="p-3 font-bold text-rose-600">¥9,500〜</td>
@@ -298,7 +298,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">6. 活鮮旅館　志摩半島</td>
                 <td className="p-3 text-stone-600">三重県志摩市志摩町越賀1922-4</td>
-                <td className="p-3 text-stone-600">賢島駅周辺</td>
+                <td className="p-3 text-stone-600">伊勢自動車道伊勢西ＩＣよりＲ１６７・２６０で６０分。電車の場合は、近鉄賢島駅下車し、定期船をご利用ください。</td>
                 <td className="p-3 text-stone-600">有り：２０台（無料・先着順）</td>
                 <td className="p-3 font-bold text-amber-600">★4.41（56件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,850〜</td>
@@ -349,7 +349,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り５０台無料★バイク利用の方地下駐車場あり（要予約）★女性の願い事が叶う【石神さん】徒歩１０分！</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「料理が美味しく海も近くて最高の夏の思い出海水浴メインで宿泊しましたが、料理も朝、夕共にたいへん美味しくたくさんおかわりしました。海へのアクセスも非常に近くスタッフの方も親切ですごく良い夏の思い…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「料理が美味しく海も近くて最高の夏の思い出海水浴メインで宿泊しましたが、料理も朝、夕共にたいへん美味しくたくさんおかわりしました。」
                   </blockquote>
                 </div>
               </div>
@@ -371,7 +371,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　約20台　無料です。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「料理と温泉は最高、アワビに大満足高齢の母が「美味しいアワビが食べたい」と言うので料理の美味しい宿を探して伺いましたが、部屋のお風呂に髪の毛が数本落ちていて掃除されていない感じでした。部屋からの…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「料理と温泉は最高、アワビに大満足高齢の母が「美味しいアワビが食べたい」と言うので料理の美味しい宿を探して伺いましたが、部屋のお風呂に髪の毛が数本落ちていて掃除されていない感じでした。」
                   </blockquote>
                 </div>
               </div>
@@ -393,7 +393,7 @@ export default function MicroTouristHubPage() {
                   <p>【三重・鳥羽温泉郷：鳥羽水族館・ミキモト真珠島＆伊勢海】 <strong>【駐車場・マイカー利用】</strong>有り　５０台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「眺望と食事と温泉は最高、館内は暑めお部屋から見える眺望が素晴らしくて、夜には花火がよく見えました。鮑と松阪牛つきの夕食は高齢の私には少し多いかなと思っていましたが、とても美味しくてペロリといただき…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「眺望と食事と温泉は最高、館内は暑めお部屋から見える眺望が素晴らしくて、夜には花火がよく見えました。」
                   </blockquote>
                 </div>
               </div>
@@ -415,7 +415,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２５台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.63 ／ 立地 ★4.84 ／ 部屋 ★4.47 ／ 設備 ★4.16 ／ 風呂 ★4.26 ／ 食事 ★4.67</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「鯛しゃぶと女将さんの心遣いに大満足コメントにあった鯛しゃぶがとても美味しかったのと、女将さん達の応対が本当に素晴らしかったです。高齢者と一緒に行きましたが、部屋に案内されるとすぐに座椅子を運んでい…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「鯛しゃぶと女将さんの心遣いに大満足コメントにあった鯛しゃぶがとても美味しかったのと、女将さん達の応対が本当に素晴らしかったです。」
                   </blockquote>
                 </div>
               </div>
@@ -437,7 +437,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り：２０台（無料・先着順）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「お客様増えるからあんまり行かんといて日本海側の温泉に伺う事が多かったのですが今回太平洋側を選び伊勢志摩にしました。この活鮮旅館志摩半島さんを選び本当に良かったです。60過ぎの夫婦でしたが今度は子供…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「お客様増えるからあんまり行かんといて日本海側の温泉に伺う事が多かったのですが今回太平洋側を選び伊勢志摩にしました。この活鮮旅館志摩半島さんを選び本当に良かったです。」
                   </blockquote>
                 </div>
               </div>

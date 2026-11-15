@@ -573,7 +573,7 @@ export default function FurusatoFeaturePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 湯野温泉　芳山園</td>
                 <td className="p-3 text-stone-600">山口県周南市湯野4255-1</td>
-                <td className="p-3 text-stone-600">戸田（山口）駅周辺</td>
+                <td className="p-3 text-stone-600">新幹線徳山駅→ＪＲ山陽本線 戸田駅より車で7分／山陽自動車道徳山西ＩＣ下車６分</td>
                 <td className="p-3 text-stone-600">有り　４０台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.51（514件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,800〜</td>
@@ -582,7 +582,7 @@ export default function FurusatoFeaturePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 宮浜温泉　湯の宿　宮浜グランドホテル</td>
                 <td className="p-3 text-stone-600">広島県廿日市市宮浜温泉2-5-4</td>
-                <td className="p-3 text-stone-600">大野浦駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ大野浦駅より送迎有り／山陽自動車道大野ＩＣより約７～８分</td>
                 <td className="p-3 text-stone-600">有り　３０台　先着順　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.2（756件）</td>
                 <td className="p-3 font-bold text-rose-600">¥10,890〜</td>
@@ -591,7 +591,7 @@ export default function FurusatoFeaturePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 大江戸温泉物語Ｐｒｅｍｉｕｍ　長崎ホテル清風（２０２６年４月２９日リニューアルオープン）</td>
                 <td className="p-3 text-stone-600">長崎県長崎市大鳥町523</td>
-                <td className="p-3 text-stone-600">長崎（長崎）駅周辺</td>
+                <td className="p-3 text-stone-600">JR長崎駅より送迎バスで約15分、長崎自動車道 長崎ICより約20分</td>
                 <td className="p-3 text-stone-600">あり　約80台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.05（111件）</td>
                 <td className="p-3 font-bold text-rose-600">¥10,500〜</td>
@@ -600,7 +600,7 @@ export default function FurusatoFeaturePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 長崎バスターミナルホテル</td>
                 <td className="p-3 text-stone-600">長崎県長崎市新地町1-14</td>
-                <td className="p-3 text-stone-600">長崎（長崎）駅周辺</td>
+                <td className="p-3 text-stone-600">【ＪＲ長崎駅】車で約7分／【路面電車】新地中華街電停から徒歩約1分／【長崎空港】空港リムジンバス『新地中華街』下車正面</td>
                 <td className="p-3 text-stone-600">32台／1泊1,000円　※制限超、満車時は提携駐車場をご案内致します（1泊1,000円～）</td>
                 <td className="p-3 font-bold text-amber-600">★3.89（2237件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,300〜</td>
@@ -609,7 +609,7 @@ export default function FurusatoFeaturePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 稲佐山温泉　ホテルアマンディ　〜長崎の日本三大夜景を一望〜</td>
                 <td className="p-3 text-stone-600">長崎県長崎市曙町39-38</td>
-                <td className="p-3 text-stone-600">長崎（長崎）駅周辺</td>
+                <td className="p-3 text-stone-600">JR長崎駅からお車で7分。長崎バス5番系統「稲佐山」または「稲佐山中腹」行きバス乗車 無料送迎バス有</td>
                 <td className="p-3 text-stone-600">有り　１２０台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★3.94（747件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,500〜</td>
@@ -618,7 +618,7 @@ export default function FurusatoFeaturePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">6. ホテルイースト２１東京（オークラホテルズ＆リゾーツ）</td>
                 <td className="p-3 text-stone-600">東京都江東区東陽6-3-3</td>
-                <td className="p-3 text-stone-600">東陽町駅周辺</td>
+                <td className="p-3 text-stone-600">東京メトロ東西線「東陽町駅」1番出口より徒歩約７分、JR錦糸町駅から都営バスで約15分</td>
                 <td className="p-3 text-stone-600">有（地下駐車場 車高2.1Ｍまで)1泊1台1,500円</td>
                 <td className="p-3 font-bold text-amber-600">★4.42（4943件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,088〜</td>
@@ -647,7 +647,7 @@ export default function FurusatoFeaturePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　４０台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋や露天風呂は良いがサービスに不満あり良い箇所は部屋の作り、特に柱、梁は素晴らしく、日本間も15畳の落ち着いた快適な部屋、露天風呂も良い!改良して欲しい箇所、特別室の(幸)に宿泊、歯ブラシ等…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋や露天風呂は良いがサービスに不満あり良い箇所は部屋の作り、特に柱、梁は素晴らしく、日本間も15畳の落ち着いた快適な部屋、露天風呂も良い!」
                   </blockquote>
                 </div>
               </div>
@@ -691,7 +691,7 @@ export default function FurusatoFeaturePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>あり　約80台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「長崎の夜景が最高、食事も接客も満足とにかく夜景が最高でした!部屋からもラウンジからも展望温泉からも長崎の夜景が美しかったです。食事も美味しく、接客も丁寧でした。設備はリニューアルし…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「長崎の夜景が最高、食事も接客も満足とにかく夜景が最高でした!部屋からもラウンジからも展望温泉からも長崎の夜景が美しかったです。食事も美味しく、接客も丁寧でした。」
                   </blockquote>
                 </div>
               </div>
@@ -713,7 +713,7 @@ export default function FurusatoFeaturePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>32台／1泊1,000円　※制限超、満車時は提携駐車場をご案内致します（1泊1,000円～）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「喫煙可でも爽やか、お風呂とトイレは別で快適喫煙可の部屋でしたが、白基調で爽やかに過ごせました。残念だったのは、空気清浄機が稼働すると棚の下の物に振動が伝わるみたいで音が凄かったので、…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「喫煙可でも爽やか、お風呂とトイレは別で快適喫煙可の部屋でしたが、白基調で爽やかに過ごせました。」
                   </blockquote>
                 </div>
               </div>
@@ -735,7 +735,7 @@ export default function FurusatoFeaturePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１２０台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.99 ／ 立地 ★4.12 ／ 部屋 ★3.87 ／ 設備 ★3.7 ／ 風呂 ★3.99 ／ 食事 ★4.03</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「直前割でお得に利用、大浴場と夜景を満喫急な法事で長崎に行くことになったため、比較的お手頃な値段で探したところ、直前割プランと楽天のクーポンで通常よりかなり安くなっており助かりました。和室でベッ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「直前割でお得に利用、大浴場と夜景を満喫急な法事で長崎に行くことになったため、比較的お手頃な値段で探したところ、直前割プランと楽天のクーポンで通常よりかなり安くなっており助かりました。」
                   </blockquote>
                 </div>
               </div>
@@ -757,7 +757,7 @@ export default function FurusatoFeaturePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有（地下駐車場 車高2.1Ｍまで)1泊1台1,500円</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの笑顔と広くて綺麗な部屋に満足スタッフの皆さんはいつもにこやかに対応してくださいますお部屋も広くてきれいで良心的なチャージですので何回も利用させていただいていますクチコミの詳細…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの笑顔と広くて綺麗な部屋に満足スタッフの皆さんはいつもにこやかに対応してくださいますお部屋も広くてきれいで良心的なチャージですので何回も利用させていただいています。」
                   </blockquote>
                 </div>
               </div>

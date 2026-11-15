@@ -440,49 +440,49 @@ export default function TokyoBirthdaySurpriseHotelPage() {
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">あわせて読みたい人気特集＆全国エリアガイド</h2>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
-            <a href="/winter-ibaraki-tsukubasan-shrine-hatsumode-yakei-onsen-hitachigyu-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/tokyo-departure-daytrip-bus-tour-guide/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12・1月筑波山】冬の筑波山神社新春初詣＆スターダスト夜景！名湯筑波山温泉と極上常陸牛に寛ぐ厳選宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「東京・新宿発 日帰りバスツアーおすすめ2026」 季節のフルーツ狩り・絶景温泉・食べ放題 の最強プラン徹底比較</span>
             </a>
-            <a href="/winter-ibaraki-fukuroda-waterfall-ice-onsen-shamo-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/tokyo-fujikawaguchiko-highway-bus-guide/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12・1月茨城】日本三名瀑・袋田の滝の完全凍結「氷瀑」と奥久慈温泉郷・名物奥久慈軍鶏鍋＆常陸牛を堪能する冬の名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「新宿・東京から富士急・河口湖 直行バス」電車とどっちが安い？料金・時間比較＆絶景1泊2日モデルコース</span>
             </a>
-            <a href="/autumn-budget-ibaraki-mito-kairakuen-momiji-ankou-hotels-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/tokyo-iwate-morioka-bus-vs-shinkansen-guide/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">水戸：偕楽園もみじ谷ライトアップと旬のあんこう鍋！2,000円台〜格安ホテル5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「東京〜盛岡・花巻」新幹線はやぶさ vs 夜行バス徹底比較！片道3,500円〜行く三大麺爆食＆花巻温泉郷1泊2日モデルコース</span>
             </a>
-            <a href="/winter-ibaraki-kashima-jingu-hatsumode-itako-hamaguri-hitachigyu-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/tokyo-kusatsu-onsen-highway-bus-guide/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">関東最古の霊場・鹿島神宮新春初詣と水郷の冬景色：2026-2027年冬の茨城・鹿島＆潮来！鹿島灘はまぐりと極上常陸牛名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「東京・新宿から草津温泉 直行バス厳選ガイド」電車とどっちが安い？料金・時間比較＆湯畑1泊2日モデルコース</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
             <div className="flex flex-wrap gap-2">
               <Link
-                href="/prefectures/ibaraki/"
+                href="/prefectures/tokyo/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                茨城県の宿・温泉
+                東京都の宿・温泉
               </Link>
               <Link
-                href="/prefectures/kagoshima/"
+                href="/prefectures/kanagawa/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                鹿児島県の宿・温泉
+                神奈川県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/nagasaki/"
+                href="/prefectures/chiba/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                長崎県の宿・温泉
+                千葉県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/shizuoka/"
+                href="/prefectures/saitama/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                静岡県の宿・温泉
+                埼玉県の宿・温泉
               </Link>
             </div>
           </div>
@@ -518,7 +518,7 @@ export default function TokyoBirthdaySurpriseHotelPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. ホテルイースト２１東京（オークラホテルズ＆リゾーツ）</td>
                 <td className="p-3 text-stone-600">東京都江東区東陽6-3-3</td>
-                <td className="p-3 text-stone-600">東陽町駅周辺</td>
+                <td className="p-3 text-stone-600">東京メトロ東西線「東陽町駅」1番出口より徒歩約７分、JR錦糸町駅から都営バスで約15分</td>
                 <td className="p-3 text-stone-600">有（地下駐車場 車高2.1Ｍまで)1泊1台1,500円</td>
                 <td className="p-3 font-bold text-amber-600">★4.42（4943件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,088〜</td>
@@ -527,7 +527,7 @@ export default function TokyoBirthdaySurpriseHotelPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 舞浜ビューホテル　ｂｙ　ＨＵＬＩＣ</td>
                 <td className="p-3 text-stone-600">千葉県浦安市舞浜1-34</td>
-                <td className="p-3 text-stone-600">舞浜駅周辺</td>
+                <td className="p-3 text-stone-600">JR舞浜駅より無料送迎バス約5分/ディズニーリゾートライン「ベイサイド・ステーション」より約4分</td>
                 <td className="p-3 text-stone-600">1泊3300円 2泊4700円 3泊以上6100円  到着日0時〜出発日14時まで／超過は別料金</td>
                 <td className="p-3 font-bold text-amber-600">★4.49（11992件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,398〜</td>
@@ -536,7 +536,7 @@ export default function TokyoBirthdaySurpriseHotelPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 東京ステーションホテル</td>
                 <td className="p-3 text-stone-600">東京都千代田区丸の内1-9-1</td>
-                <td className="p-3 text-stone-600">東京駅周辺</td>
+                <td className="p-3 text-stone-600">JR東京駅丸の内南口直結。東京メトロ丸ノ内線東京駅より徒歩約3分。</td>
                 <td className="p-3 text-stone-600">有り。宿泊者一泊￥2,100（税金込） 予約不可</td>
                 <td className="p-3 font-bold text-amber-600">★4.85（954件）</td>
                 <td className="p-3 font-bold text-rose-600">¥34,787〜</td>
@@ -545,7 +545,7 @@ export default function TokyoBirthdaySurpriseHotelPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. ホテル　インターコンチネンタル東京ベイ　ｂｙ　ＩＨＧ</td>
                 <td className="p-3 text-stone-600">東京都港区海岸1-16-2</td>
-                <td className="p-3 text-stone-600">浜松町駅周辺</td>
+                <td className="p-3 text-stone-600">ゆりかもめ竹芝駅直結・JR浜松町駅徒歩8分・羽田空港から30分・成田空港リムジンバス120分。</td>
                 <td className="p-3 text-stone-600">有り　177台　3000円（税込）</td>
                 <td className="p-3 font-bold text-amber-600">★4.61（4212件）</td>
                 <td className="p-3 font-bold text-rose-600">¥19,334〜</td>
@@ -554,7 +554,7 @@ export default function TokyoBirthdaySurpriseHotelPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. ラビスタ東京ベイ（共立リゾート）</td>
                 <td className="p-3 text-stone-600">東京都江東区豊洲6-4-40</td>
-                <td className="p-3 text-stone-600">豊洲駅周辺</td>
+                <td className="p-3 text-stone-600">羽田空港より約40分・成田空港より約90分・東京駅より約30分・新交通ゆりかもめ「市場前駅」より徒歩約1分</td>
                 <td className="p-3 text-stone-600">提携駐車場有　75台　有料（予約不可／先着順）※満車時は近隣駐車場となります</td>
                 <td className="p-3 font-bold text-amber-600">★4.59（1765件）</td>
                 <td className="p-3 font-bold text-rose-600">¥13,460〜</td>
@@ -583,7 +583,7 @@ export default function TokyoBirthdaySurpriseHotelPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有（地下駐車場 車高2.1Ｍまで)1泊1台1,500円</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの笑顔と広くて綺麗な部屋に満足スタッフの皆さんはいつもにこやかに対応してくださいますお部屋も広くてきれいで良心的なチャージですので何回も利用させていただいていますクチコミの詳細…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの笑顔と広くて綺麗な部屋に満足スタッフの皆さんはいつもにこやかに対応してくださいますお部屋も広くてきれいで良心的なチャージですので何回も利用させていただいています。」
                   </blockquote>
                 </div>
               </div>
@@ -605,7 +605,7 @@ export default function TokyoBirthdaySurpriseHotelPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>1泊3300円 2泊4700円 3泊以上6100円  到着日0時〜出発日14時まで／超過は別料金</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.52 ／ 立地 ★4.45 ／ 部屋 ★4.53 ／ 設備 ★4.42 ／ 風呂 ★4.42 ／ 食事 ★4.49</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋のお風呂が大きく、また利用したい1部屋4人(子供1人含む)で宿泊しました。部屋にあったお風呂は大きめでよかったです。女性用の化粧水乳液は問い合わせないと頂けない仕様になっていました。…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋のお風呂が大きく、また利用したい1部屋4人(子供1人含む)で宿泊しました。部屋にあったお風呂は大きめでよかったです。女性用の化粧水乳液は問い合わせないと頂けない仕様になっていました。」
                   </blockquote>
                 </div>
               </div>
@@ -649,7 +649,7 @@ export default function TokyoBirthdaySurpriseHotelPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　177台　3000円（税込）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「誕生日記念でクラブラウンジにアクセスできるお部屋に泊まりました。リバービューでしたがスカイツリーが見えて夜景がとても綺麗でした。ラウンジでチェックイン後シャンパンとアフタヌーンティーを出…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「誕生日記念誕生日記念でクラブラウンジにアクセスできるお部屋に泊まりました。リバービューでしたがスカイツリーが見えて夜景がとても綺麗でした。」
                   </blockquote>
                 </div>
               </div>
@@ -671,7 +671,7 @@ export default function TokyoBirthdaySurpriseHotelPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>提携駐車場有　75台　有料（予約不可／先着順）※満車時は近隣駐車場となります</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.51 ／ 立地 ★4.66 ／ 部屋 ★4.62 ／ 設備 ★4.61 ／ 風呂 ★4.65 ／ 食事 ★4.67</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食と大浴場が最高でリピート確実朝食は、海鮮丼から洋食、デザートまで充実!ここまで充実した朝食はなかなか無いと思いました。強いてあげるとドリンクは、ファミレスのドリンクバーと同レベル。大浴場は…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食と大浴場が最高でリピート確実朝食は、海鮮丼から洋食、デザートまで充実!ここまで充実した朝食はなかなか無いと思いました。強いてあげるとドリンクは、ファミレスのドリンクバーと同レベル。」
                   </blockquote>
                 </div>
               </div>

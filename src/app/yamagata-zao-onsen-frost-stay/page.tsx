@@ -253,7 +253,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 蔵王温泉　堺屋森のホテルヴァルトベルク</td>
                 <td className="p-3 text-stone-600">山形県山形市蔵王温泉清水坂889-1</td>
-                <td className="p-3 text-stone-600">山形駅周辺</td>
+                <td className="p-3 text-stone-600">山形駅よりバスで蔵王温泉行終点まで約40分。下車徒歩15分／バスターミナル送迎有り（要予約）</td>
                 <td className="p-3 text-stone-600">有り　５０台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.38（904件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,250〜</td>
@@ -262,7 +262,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 蔵王温泉　岩清水料理の宿　季の里</td>
                 <td className="p-3 text-stone-600">山形県山形市蔵王温泉1271-1</td>
-                <td className="p-3 text-stone-600">山形駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ山形駅よりバスで４０分／山形自動車道→山形蔵王ＩＣより３０分 蔵王温泉スキー場徒歩５分</td>
                 <td className="p-3 text-stone-600">有り　２０台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.58（444件）</td>
                 <td className="p-3 font-bold text-rose-600">¥11,400〜</td>
@@ -271,7 +271,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 蔵王温泉　最上高湯　善七乃湯（旧：蔵王温泉　大平ホテル）</td>
                 <td className="p-3 text-stone-600">山形県山形市蔵王温泉825</td>
-                <td className="p-3 text-stone-600">山形駅周辺</td>
+                <td className="p-3 text-stone-600">JR山形駅より定期バス45分／山形蔵王ICより車で25分／山形駅からの無料送迎（予約サイト・EGBY12月～3月）</td>
                 <td className="p-3 text-stone-600">普通車40台（無料）</td>
                 <td className="p-3 font-bold text-amber-600">★4.49（665件）</td>
                 <td className="p-3 font-bold text-rose-600">¥16,500〜</td>
@@ -280,7 +280,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 蔵王温泉　たかみや瑠璃倶楽リゾート　‐ＲＵＲＩＫＵＲＡ　ＲＥＳＯＲＴ‐</td>
                 <td className="p-3 text-stone-600">山形県山形市蔵王温泉三度川1118-7</td>
-                <td className="p-3 text-stone-600">山形駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ 山形駅よりバスにて４５分、蔵王バスターミナル下車 蔵王バスターミナルから無料送迎有</td>
                 <td className="p-3 text-stone-600">有り　２０台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.44（987件）</td>
                 <td className="p-3 font-bold text-rose-600">¥11,000〜</td>
@@ -289,7 +289,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 蔵王温泉　蔵王・和歌（うた）の宿　わかまつや</td>
                 <td className="p-3 text-stone-600">山形県山形市蔵王温泉951-1</td>
-                <td className="p-3 text-stone-600">山形駅周辺</td>
+                <td className="p-3 text-stone-600">JR山形新幹線「山形駅」より蔵王温泉行バス45分 バス停から随時送迎 / 山形道 山形蔵王ICより16km(25分）</td>
                 <td className="p-3 text-stone-600">有り　６０台　無料　先着順 第１駐車場（自動消雪）は建物の目の前　蔵王温泉バスターミナル随時送迎</td>
                 <td className="p-3 font-bold text-amber-600">★4.75（815件）</td>
                 <td className="p-3 font-bold text-rose-600">¥14,850〜</td>
@@ -318,7 +318,7 @@ export default function MicroTouristHubPage() {
                   <p>【山形・蔵王温泉：樹氷スノーモンスター・強酸性硫黄泉＆】 <strong>【駐車場・マイカー利用】</strong>有り　５０台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「リピートしているが今回は少し残念な内容蔵王ではお気に入りのホテルで何度かリピートしております。今回は野天風呂が利用出来ず残念でした。料理もいつもに比べるとお米の味が落ちたように感じました。…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「リピートしているが今回は少し残念な内容蔵王ではお気に入りのホテルで何度かリピートしております。今回は野天風呂が利用出来ず残念でした。料理もいつもに比べるとお米の味が落ちたように感じました。」
                   </blockquote>
                 </div>
               </div>
@@ -340,7 +340,7 @@ export default function MicroTouristHubPage() {
                   <p>【山形・蔵王温泉：樹氷スノーモンスター・強酸性硫黄泉＆】 <strong>【駐車場・マイカー利用】</strong>有り　２０台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの温かい対応に感謝1歳と5歳の子どもを連れて宿泊しました。とにかくスタッフの皆さんが子どもたちに優しく、たくさん声をかけて可愛がってくださったことがとても嬉しかったです。子連れでも安心…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの温かい対応に感謝1歳と5歳の子どもを連れて宿泊しました。とにかくスタッフの皆さんが子どもたちに優しく、たくさん声をかけて可愛がってくださったことがとても嬉しかったです。」
                   </blockquote>
                 </div>
               </div>
@@ -362,7 +362,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>普通車40台（無料）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.48 ／ 立地 ★4.33 ／ 部屋 ★4.28 ／ 設備 ★4.18 ／ 風呂 ★4.6 ／ 食事 ★4.54</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「愛犬と楽しむ旅、芋煮が最高でしたワンコと泊まれるホテルで探して遥々愛知県からお邪魔しました。ワンコ大好き仲居さんの振る舞いが犬にも人にもとてもフレンドリーで良かったです。ごはんと一緒に芋煮が出てき…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「愛犬と楽しむ旅、芋煮が最高でしたワンコと泊まれるホテルで探して遥々愛知県からお邪魔しました。ワンコ大好き仲居さんの振る舞いが犬にも人にもとてもフレンドリーで良かったです。」
                   </blockquote>
                 </div>
               </div>
@@ -384,7 +384,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２０台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「蔵王温泉と山形牛、お米も美味しく大満足蔵王温泉初めてでしたが最高でした。温泉が最高によかった。ホテルのスタッフさん笑顔でとても感じよく、夕飯の山形牛なども美味しく、お米が美味い。朝食も種類豊富で、…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「蔵王温泉と山形牛、お米も美味しく大満足蔵王温泉初めてでしたが最高でした。温泉が最高によかった。ホテルのスタッフさん笑顔でとても感じよく、夕飯の山形牛なども美味しく、お米が美味い。」
                   </blockquote>
                 </div>
               </div>
@@ -406,7 +406,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　６０台　無料　先着順 第１駐車場（自動消雪）は建物の目の前　蔵王温泉バスターミナル随時送迎</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「家族風呂や食事など子連れに優しく大満足1歳児連れで連泊しました。予約不要の家族風呂で周りに気兼ねなくゆっくり入浴できました。温泉で日頃の肩こりなどがほぐれました。ウェルカム・モーニングサー…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「家族風呂や食事など子連れに優しく大満足1歳児連れで連泊しました。予約不要の家族風呂で周りに気兼ねなくゆっくり入浴できました。温泉で日頃の肩こりなどがほぐれました。」
                   </blockquote>
                 </div>
               </div>

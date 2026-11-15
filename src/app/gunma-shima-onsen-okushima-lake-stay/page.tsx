@@ -253,7 +253,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 四万温泉　積善館　佳松亭・山荘</td>
                 <td className="p-3 text-stone-600">群馬県吾妻郡中之条町四万甲4236</td>
-                <td className="p-3 text-stone-600">中之条駅周辺</td>
+                <td className="p-3 text-stone-600">中之条駅からバス４０分終点下車・車で２５分／渋川伊香保ＩＣ→Ｒ１７→Ｒ３５３で約３９ｋｍ６０分</td>
                 <td className="p-3 text-stone-600">有り　５０台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.66（1224件）</td>
                 <td className="p-3 font-bold text-rose-600">¥23,100〜</td>
@@ -262,7 +262,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 四万温泉　春木亭　なかざわ旅館</td>
                 <td className="p-3 text-stone-600">群馬県吾妻郡中之条町大字四万4238-41</td>
-                <td className="p-3 text-stone-600">関越自動車道『渋川伊香保IC』→R１７→R３５３で５０分　JR吾妻線『</td>
+                <td className="p-3 text-stone-600">関越自動車道『渋川伊香保IC』→R１７→R３５３で５０分 JR吾妻線『中之条駅』下車バス四万温泉『桐の木平』下車徒歩２分</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.82（704件）</td>
                 <td className="p-3 font-bold text-rose-600">¥13,650〜</td>
@@ -271,7 +271,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 四万温泉　源泉掛け流しの貸切風呂と囲炉裏料理宿　湯の宿　山ばと</td>
                 <td className="p-3 text-stone-600">群馬県吾妻郡中之条町四万4358-11</td>
-                <td className="p-3 text-stone-600">関越自動車道・渋川伊香保Ｉ.Ｃから国道353経由60分JR中之条駅から</td>
+                <td className="p-3 text-stone-600">関越自動車道・渋川伊香保Ｉ.Ｃから国道353経由60分JR中之条駅からバスで30分 終点から徒歩20分</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.61（243件）</td>
                 <td className="p-3 font-bold text-rose-600">¥14,000〜</td>
@@ -280,7 +280,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 四万温泉　四万グランドホテル</td>
                 <td className="p-3 text-stone-600">群馬県吾妻郡中之条町四万4228</td>
-                <td className="p-3 text-stone-600">中之条駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ吾妻線中之条駅／関越交通四万温泉行き終点１分／関越道渋川伊香保ＩＣより約３９ｋｍ６０分</td>
                 <td className="p-3 text-stone-600">有り　８０台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★3.91（2549件）</td>
                 <td className="p-3 font-bold text-rose-600">¥9,900〜</td>
@@ -289,7 +289,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. ＳＨＩＮ　湯治　ＨＯＴＥＬ　ＬＵＬＵＤ</td>
                 <td className="p-3 text-stone-600">群馬県吾妻郡中之条町四万4138-1</td>
-                <td className="p-3 text-stone-600">中之条駅周辺</td>
+                <td className="p-3 text-stone-600">四万温泉バス停より徒歩10分 JR中之条駅より車20分</td>
                 <td className="p-3 text-stone-600">当館の目の前に5台ほど。もしくは当館の向かい側駐車場をご利用ください。無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.26（132件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,260〜</td>
@@ -298,7 +298,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">6. 四万温泉　料理旅館くれない</td>
                 <td className="p-3 text-stone-600">群馬県吾妻郡中之条町四万4143-2</td>
-                <td className="p-3 text-stone-600">中之条駅周辺</td>
+                <td className="p-3 text-stone-600">中之条駅よりバスにて４０分、バス下車後徒歩２分</td>
                 <td className="p-3 text-stone-600">有り　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.45（48件）</td>
                 <td className="p-3 font-bold text-rose-600">¥13,900〜</td>
@@ -349,7 +349,7 @@ export default function MicroTouristHubPage() {
                   <p>【群馬・四万温泉＆奥四万湖：奇跡の四万ブルー・千と千尋】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉を堪能し、女将さんの想いに感銘を受けたその節はありがとうございました。全ての貸切風呂にも入ることができましたし、部屋の温泉にも入りたい時に入れましたし、本当に温泉を堪能することができました…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉を堪能し、女将さんの想いに感銘を受けたその節はありがとうございました。」
                   </blockquote>
                 </div>
               </div>
@@ -371,7 +371,7 @@ export default function MicroTouristHubPage() {
                   <p>【群馬・四万温泉＆奥四万湖：奇跡の四万ブルー・千と千尋】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「奥四万ダムに近く、温泉と地産料理に癒される奥四万ダムから比較的近いです。料理は量がちょうどよく群馬の食材をつかっておりとても美味しかったです。温泉の湯質は最高でした。何もすることが…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「奥四万ダムに近く、温泉と地産料理に癒される奥四万ダムから比較的近いです。料理は量がちょうどよく群馬の食材をつかっておりとても美味しかったです。温泉の湯質は最高でした。」
                   </blockquote>
                 </div>
               </div>
@@ -393,7 +393,7 @@ export default function MicroTouristHubPage() {
                   <p>【群馬・四万温泉＆奥四万湖：奇跡の四万ブルー・千と千尋】 <strong>【駐車場・マイカー利用】</strong>有り　８０台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「2回の角部屋でした。洗面所の窓がそのままでカーテンもなく外から丸見えな感じで嫌でした。 夕食は、バイキングで楽しんでいたねに、まだ食べ物があるのに下げられて不快でした。風呂上がりに牛乳、コ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「2回の角部屋でした。洗面所の窓がそのままでカーテンもなく外から丸見えな感じで嫌でした。 夕食は、バイキングで楽しんでいたねに、まだ食べ物があるのに下げられて不快でした。」
                   </blockquote>
                 </div>
               </div>
@@ -415,7 +415,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>当館の目の前に5台ほど。もしくは当館の向かい側駐車場をご利用ください。無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「お洒落で無駄のない空間、コスパも最高とても綺麗でお洒落なデザインのホテルでした。無駄なものがない。至れり尽くせりのサービスを期待している人にはちょっと物足りないかもしれないけど、私にはこれくらいが…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「お洒落で無駄のない空間、コスパも最高とても綺麗でお洒落なデザインのホテルでした。無駄なものがない。」
                   </blockquote>
                 </div>
               </div>

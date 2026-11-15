@@ -480,7 +480,7 @@ export default function SilverWeekGlampingKyushuFukuokaKumamotoPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 全室源泉かけ流し温泉付き旅館＆グランピング　美肌の湯　こしかの温泉</td>
                 <td className="p-3 text-stone-600">鹿児島県霧島市隼人町松永2625</td>
-                <td className="p-3 text-stone-600">日当山駅周辺</td>
+                <td className="p-3 text-stone-600">鹿児島空港より車で約15分【19時までなら鹿児島空港・国分駅まで無料送迎（要予約）】</td>
                 <td className="p-3 text-stone-600">有り（無料）</td>
                 <td className="p-3 font-bold text-amber-600">★4.58（525件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,620〜</td>
@@ -489,7 +489,7 @@ export default function SilverWeekGlampingKyushuFukuokaKumamotoPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. ザ・リトリート</td>
                 <td className="p-3 text-stone-600">福岡県飯塚市仁保8-37</td>
-                <td className="p-3 text-stone-600">新飯塚駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ 新飯塚駅よりお車にて約１５分</td>
                 <td className="p-3 text-stone-600">有り　８０台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.47（152件）</td>
                 <td className="p-3 font-bold text-rose-600">¥10,375〜</td>
@@ -498,7 +498,7 @@ export default function SilverWeekGlampingKyushuFukuokaKumamotoPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. グランシア別府鉄輪</td>
                 <td className="p-3 text-stone-600">大分県別府市鶴見照湯1409-1</td>
-                <td className="p-3 text-stone-600">別府（大分）駅周辺</td>
+                <td className="p-3 text-stone-600">別府駅西口より「APU立命館アジア太平洋大学」行のバスにご乗車頂き、「照湯」で下車後、徒歩1分。</td>
                 <td className="p-3 text-stone-600">【無料駐車場あり】100台・予約不要・当施設前の有料駐車場に停車後、駐車券を受付へお持ちください。</td>
                 <td className="p-3 font-bold text-amber-600">★4.56（44件）</td>
                 <td className="p-3 font-bold text-rose-600">¥12,960〜</td>
@@ -549,7 +549,7 @@ export default function SilverWeekGlampingKyushuFukuokaKumamotoPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　８０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「館内の縁日と宝探しで子供も大満足子連れにオススメです。夜の縁日もホテル内なので、小さな子供がいても、わざわざどこかに行く必要も無く楽しめて良かったです。宝探しも楽しかったです。クチコミの詳細は…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「館内の縁日と宝探しで子供も大満足子連れにオススメです。夜の縁日もホテル内なので、小さな子供がいても、わざわざどこかに行く必要も無く楽しめて良かったです。宝探しも楽しかったです。」
                   </blockquote>
                 </div>
               </div>
@@ -571,7 +571,7 @@ export default function SilverWeekGlampingKyushuFukuokaKumamotoPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>【無料駐車場あり】100台・予約不要・当施設前の有料駐車場に停車後、駐車券を受付へお持ちください。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「家族みんな、また行きたい!と言ってます(^^) 小3と中1の息子達と、初めてグランピングをしました。  下の子は軽度の知的障害があるため、お部屋にたくさんの幼児向けの遊具を用意してくださってい…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「家族みんな、また行きたい!と言ってます(^^) 小3と中1の息子達と、初めてグランピングをしました。」
                   </blockquote>
                 </div>
               </div>

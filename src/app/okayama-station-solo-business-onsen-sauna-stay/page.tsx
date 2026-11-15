@@ -368,8 +368,8 @@ export default function ArticlePage() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 岡山駅よりアクセス。■JR東海道・山陽新幹線・山陽本線・赤穂線「岡山」駅 東口（エスカレーターあり） 徒歩 約7分。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「天然温泉 吉備の湯 ドーミーイン岡山」にチェックイン。最上階11階には天然温泉大浴場完備、高温サウナにはセルフロウリュ完備。朝食バイキングも人気！などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「天然温泉 吉備の湯 ドーミーイン岡山」の湯処へ。最上階11階には天然温泉大浴場完備、高温サウナにはセルフロウリュ完備。とともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「天然温泉 吉備の湯 ドーミーイン岡山」にチェックイン。最上階11階には天然温泉大浴場完備、高温サウナにはセルフロウリュ完備。朝食バイキングも人気！ 客室で身支度を整え、この宿ならではの滞在をスタート。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「天然温泉 吉備の湯 ドーミーイン岡山」の自慢の湯処へ。温かな湯気と落ち着いた雰囲気に癒やされながら、夕食前の贅沢なひとときを過ごす。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「天然温泉 吉備の湯 ドーミーイン岡山」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -454,7 +454,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 天然温泉　吉備の湯　ドーミーイン岡山（ドーミーイン・御宿野乃　ホテルズグループ）</td>
                 <td className="p-3 text-stone-600">岡山県岡山市北区錦町8-1</td>
-                <td className="p-3 text-stone-600">岡山駅周辺</td>
+                <td className="p-3 text-stone-600">■JR東海道・山陽新幹線・山陽本線・赤穂線「岡山」駅 東口（エスカレーターあり） 徒歩 約7分</td>
                 <td className="p-3 text-stone-600">敷地内機械式立体駐車場(高さ2.05ｍ)先着順1泊1,300円。満車の際は近隣駐車場をご案内致します</td>
                 <td className="p-3 font-bold text-amber-600">★4.51（718件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,192〜</td>
@@ -463,7 +463,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 天然温泉　備前の湯　スーパーホテル岡山駅東口</td>
                 <td className="p-3 text-stone-600">岡山県岡山市北区桑田町17-10</td>
-                <td className="p-3 text-stone-600">岡山駅周辺</td>
+                <td className="p-3 text-stone-600">岡山駅東口より徒歩にて約１０分！岡山空港よりバスで約３０分！岡山ICより車で約２０分！</td>
                 <td className="p-3 text-stone-600">近隣提携駐車場をご案内しております（1500円/泊）　満車時は近隣コインパーキングのご案内。</td>
                 <td className="p-3 font-bold text-amber-600">★4.39（1767件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,250〜</td>
@@ -472,7 +472,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. アパホテル＆リゾート〈岡山駅新幹線口〉（２０２６年８月ＯＰＥＮ）</td>
                 <td className="p-3 text-stone-600">岡山県岡山市北区桑田町1-10</td>
-                <td className="p-3 text-stone-600">岡山駅周辺</td>
+                <td className="p-3 text-stone-600">山陽新幹線・JR各線「岡山駅」後楽園口(東口)から徒歩7分</td>
                 <td className="p-3 text-stone-600">・駐車場56台　1500円/1泊　・提携駐車場【タイムズ岡山下石井第2】88台　1400円/24時間</td>
                 <td className="p-3 font-bold text-amber-600">★4.21（399件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,500〜</td>
@@ -501,7 +501,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>敷地内機械式立体駐車場(高さ2.05ｍ)先着順1泊1,300円。満車の際は近隣駐車場をご案内致します</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.52 ／ 立地 ★4.4 ／ 部屋 ★4.5 ／ 設備 ★4.5 ／ 風呂 ★4.57 ／ 食事 ★4.59</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食のサワラと温泉に満足、エレベーターは混雑岡山の出張は、空いていれば、ドーミーさんと決めています。朝食のサワラのお刺身美味しかったです。温泉も良かったです。少し気になった点は、エレベーターが2基…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食のサワラと温泉に満足、エレベーターは混雑岡山の出張は、空いていれば、ドーミーさんと決めています。朝食のサワラのお刺身美味しかったです。温泉も良かったです。」
                   </blockquote>
                 </div>
               </div>
@@ -545,7 +545,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>・駐車場56台　1500円/1泊　・提携駐車場【タイムズ岡山下石井第2】88台　1400円/24時間</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.22 ／ 立地 ★4.16 ／ 部屋 ★4.24 ／ 設備 ★4.24 ／ 風呂 ★4.23 ／ 食事 ★4.02</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「大浴場の設備に不満、部屋は綺麗で快適大浴場が殺伐としています。部屋のお風呂を使用すれば良かったと後悔するほど。。大浴場の洗い場にタオルを置く場所が無い。濡れないように、高い場所に置きたいのに。…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「大浴場の設備に不満、部屋は綺麗で快適大浴場が殺伐としています。部屋のお風呂を使用すれば良かったと後悔するほど。。大浴場の洗い場にタオルを置く場所が無い。濡れないように、高い場所に置きたいのに。」
                   </blockquote>
                 </div>
               </div>

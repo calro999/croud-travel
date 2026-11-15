@@ -253,7 +253,7 @@ export default function TransitStyleHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 四万温泉　源泉掛け流しの貸切風呂と囲炉裏料理宿　湯の宿　山ばと</td>
                 <td className="p-3 text-stone-600">群馬県吾妻郡中之条町四万4358-11</td>
-                <td className="p-3 text-stone-600">関越自動車道・渋川伊香保Ｉ.Ｃから国道353経由60分JR中之条駅から</td>
+                <td className="p-3 text-stone-600">関越自動車道・渋川伊香保Ｉ.Ｃから国道353経由60分JR中之条駅からバスで30分 終点から徒歩20分</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.61（243件）</td>
                 <td className="p-3 font-bold text-rose-600">¥14,000〜</td>
@@ -262,7 +262,7 @@ export default function TransitStyleHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 岸権旅館　石段街隣接　希少源泉「黄金の湯」の宿</td>
                 <td className="p-3 text-stone-600">群馬県渋川市伊香保町伊香保甲48</td>
-                <td className="p-3 text-stone-600">渋川駅周辺</td>
+                <td className="p-3 text-stone-600">関越自動車道 渋川伊香保ＩＣから車で２０分 上越線渋川駅下車バスで３０分、タクシー１５分</td>
                 <td className="p-3 text-stone-600">無料駐車場150台あり。旅館専用駐車場は伊香保小学校の道向かいにあり。専用駐車場から送迎いたします。</td>
                 <td className="p-3 font-bold text-amber-600">★4.44（1716件）</td>
                 <td className="p-3 font-bold text-rose-600">¥13,200〜</td>
@@ -271,7 +271,7 @@ export default function TransitStyleHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 東横ＩＮＮ前橋駅前</td>
                 <td className="p-3 text-stone-600">群馬県前橋市南町3-9-1</td>
-                <td className="p-3 text-stone-600">前橋駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ両毛線 前橋駅 南口を出ますと目の前にあります！</td>
                 <td className="p-3 text-stone-600">立体50台（大きさ制限あり）￥500／泊、平置き29台￥300／泊。いずれも先着順。</td>
                 <td className="p-3 font-bold text-amber-600">★4.06（754件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,145〜</td>
@@ -280,7 +280,7 @@ export default function TransitStyleHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 河口湖温泉　ホテルレジーナ河口湖</td>
                 <td className="p-3 text-stone-600">山梨県南都留郡富士河口湖町船津5239-1</td>
-                <td className="p-3 text-stone-600">河口湖駅周辺</td>
+                <td className="p-3 text-stone-600">富士急行線「河口湖駅」・高速バスバス停「河口湖駅・富士急ハイランド」より無料送迎。（要ＴＥＬ）</td>
                 <td className="p-3 text-stone-600">有り　71台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.38（1649件）</td>
                 <td className="p-3 font-bold text-rose-600">¥13,200〜</td>
@@ -289,7 +289,7 @@ export default function TransitStyleHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. ザ　グラン　リゾート　プリンセス富士河口湖</td>
                 <td className="p-3 text-stone-600">山梨県南都留郡富士河口湖町小立3919</td>
-                <td className="p-3 text-stone-600">河口湖駅周辺</td>
+                <td className="p-3 text-stone-600">河口湖駅より無料送迎（17時半まで）。中央道 河口湖I.Cより車で10分。新宿駅より特急や高速バスで約2時間</td>
                 <td className="p-3 text-stone-600">有り　２８台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★3.8（303件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,600〜</td>
@@ -298,7 +298,7 @@ export default function TransitStyleHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">6. くれたけイン御殿場インター／ＧＯＬＤ　ＣＡＢＩＮ</td>
                 <td className="p-3 text-stone-600">静岡県御殿場市東田中1243-6</td>
-                <td className="p-3 text-stone-600">御殿場駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ御殿場駅より車で5分！東名御殿場ＩＣ第一出口より３０秒</td>
                 <td className="p-3 text-stone-600">有り　45台　乗用車無料　予約不要　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.02（1418件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,000〜</td>
@@ -327,7 +327,7 @@ export default function TransitStyleHubPage() {
                   <p>【高速バス直行・バスターミナル直結温泉宿：乗り換えなし】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「奥四万ダムに近く、温泉と地産料理に癒される奥四万ダムから比較的近いです。料理は量がちょうどよく群馬の食材をつかっておりとても美味しかったです。温泉の湯質は最高でした。何もすることが…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「奥四万ダムに近く、温泉と地産料理に癒される奥四万ダムから比較的近いです。料理は量がちょうどよく群馬の食材をつかっておりとても美味しかったです。温泉の湯質は最高でした。」
                   </blockquote>
                 </div>
               </div>
@@ -349,7 +349,7 @@ export default function TransitStyleHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料駐車場150台あり。旅館専用駐車場は伊香保小学校の道向かいにあり。専用駐車場から送迎いたします。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.44 ／ 立地 ★4.46 ／ 部屋 ★4.39 ／ 設備 ★4.27 ／ 風呂 ★4.49 ／ 食事 ★4.49</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「接客と料理は最高だがスリッパ紛失が残念伊香保温泉は仕事では来た事があったが、泊まった事が無かった為、今回妻と宿泊先を検討し石段沿いの岸権旅館さんにお世話になる事としました。宿は老舗旅館らしく建…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「接客と料理は最高だがスリッパ紛失が残念伊香保温泉は仕事では来た事があったが、泊まった事が無かった為、今回妻と宿泊先を検討し石段沿いの岸権旅館さんにお世話になる事としました。」
                   </blockquote>
                 </div>
               </div>
@@ -371,7 +371,7 @@ export default function TransitStyleHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>立体50台（大きさ制限あり）￥500／泊、平置き29台￥300／泊。いずれも先着順。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.13 ／ 立地 ★4.17 ／ 部屋 ★4.06 ／ 設備 ★4.02 ／ 風呂 ★3.91 ／ 食事 ★3.98</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食と接客は満足、ベッドの音が少し残念快適に過ごせました が、ベッドに座るとギシギシ音がしましたその点だけ下げてます朝食美味しくいただきましたスタッフさんの丁寧な対応は評価します…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食と接客は満足、ベッドの音が少し残念快適に過ごせました が、ベッドに座るとギシギシ音がしましたその点だけ下げてます朝食美味しくいただきましたスタッフさんの丁寧な対応は評価します。」
                   </blockquote>
                 </div>
               </div>
@@ -415,7 +415,7 @@ export default function TransitStyleHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２８台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ロケーションと朝食は満足、会場の混雑が残念当日予約でトリプルルームが空いててクーポン使ってかなりお安く泊まれました。ロケーションがかなり良くて曇ってなければ富士山が見える素敵なお部屋でした。トイレ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ロケーションと朝食は満足、会場の混雑が残念当日予約でトリプルルームが空いててクーポン使ってかなりお安く泊まれました。ロケーションがかなり良くて曇ってなければ富士山が見える素敵なお部屋でした。」
                   </blockquote>
                 </div>
               </div>
@@ -437,7 +437,7 @@ export default function TransitStyleHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　45台　乗用車無料　予約不要　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「低料金で満足、キャビン形式も快適でした初めてキャビン形式の客室を利用しましたが、思ったほどの不便さはなく、むしろ低料金で利用できて満足しています。欲を言えばチェックイン時刻をもう少し早く設定してほ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「低料金で満足、キャビン形式も快適でした初めてキャビン形式の客室を利用しましたが、思ったほどの不便さはなく、むしろ低料金で利用できて満足しています。」
                   </blockquote>
                 </div>
               </div>

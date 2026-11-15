@@ -104,7 +104,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F184275%2F184275.html%26f_flg%3DPLAN",
     "hotelMinCharge": 9900,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/184275/184275.jpg",
-    "userReview": "ブッフェがどれもおいしく種類も豊富でとても良い旅行になりました。部屋も綺麗で広い。備付の設備も充実していました。強いて言えば温泉や大浴場が無いので部屋の風呂が広いと嬉しかったです。クチコミ。",
+    "userReview": "ブッフェがどれもおいしく種類も豊富でとても良い旅行になりました。部屋も綺麗で広い。備付の設備も充実していました。強いて言えば温泉や大浴場が無いので部屋の風呂が広いと嬉しかったです。",
     "reviewAverage": 4.7,
     "reviewCount": 878,
     "address": "石川県金沢市尾張町1丁目1番1号",
@@ -118,7 +118,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F179887%2F179887.html%26f_flg%3DPLAN",
     "hotelMinCharge": 5800,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/179887/179887.jpg",
-    "userReview": "また、ユニットバスがベッドからガラスとカーテンで仕切られラブホテルのようだった。",
+    "userReview": "チェックインの対応が不快、部屋の造りも残念チェックイン時の対応が不快極まりなかった。また、ユニットバスがベッドからガラスとカーテンで仕切られラブホテルのようだった。",
     "reviewAverage": 4.41,
     "reviewCount": 1242,
     "address": "山形県酒田市幸町1-10-20",
@@ -284,7 +284,7 @@ export default function Page() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> ●ゆいレール「県庁前」駅徒歩5分／●「国際通り」徒歩0分で現地へ到着。</li>
                 <li>・<strong className="text-stone-800">15:30〜</strong> 「ホテルグレイスリー那覇」へチェックイン。落ち着いた空間で旅の荷を解き、ゆったりとした時間をスタート。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「ホテルグレイスリー那覇」の湯処へ。日頃の疲れを癒やす湯浴みとともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「ホテルグレイスリー那覇」の湯船で寛ぎタイム。季節の空気を感じながら手足を伸ばし、心豊かな夕方のリラックス時間を満喫。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「ホテルグレイスリー那覇」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -296,7 +296,7 @@ export default function Page() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「ホテルグレイスリー那覇」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「ホテルグレイスリー那覇」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「アートホテル大阪ベイタワー」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は「ホテルグレイスリー那覇」周辺の観光スポットや地元の名産店に立ち寄り、ご当地のお土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>
@@ -424,7 +424,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. ホテルグレイスリー那覇</td>
                 <td className="p-3 text-stone-600">沖縄県那覇市松尾1-3-6</td>
-                <td className="p-3 text-stone-600">●ゆいレール「県庁前」駅徒歩5分／●「国際通り」徒歩0分。荷物が多くて</td>
+                <td className="p-3 text-stone-600">●ゆいレール「県庁前」駅徒歩5分／●「国際通り」徒歩0分。荷物が多くても、車が無くても楽々♪</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.32（927件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,500〜</td>
@@ -433,7 +433,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. アートホテル大阪ベイタワー</td>
                 <td className="p-3 text-stone-600">大阪府大阪市港区弁天1-2-1</td>
-                <td className="p-3 text-stone-600">弁天町駅周辺</td>
+                <td className="p-3 text-stone-600">地下鉄中央線／JR環状線「弁天町」駅からすぐ。USJまで電車で約7分！</td>
                 <td className="p-3 text-stone-600">有り：800台、1,500円（泊・先着順）</td>
                 <td className="p-3 font-bold text-amber-600">★4.48（2811件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,662〜</td>
@@ -442,7 +442,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. ＴＨＥ　ＨＯＴＥＬ　ＳＡＮＲＡＫＵ　ＫＡＮＡＺＡＷＡ（ザ　ホテル山楽　金沢）</td>
                 <td className="p-3 text-stone-600">石川県金沢市尾張町1丁目1番1号</td>
-                <td className="p-3 text-stone-600">金沢駅周辺</td>
+                <td className="p-3 text-stone-600">JR金沢駅東口よりバスで約１０分「武蔵が辻・近江町市場」下車徒歩４分／近江町市場へ徒歩１分、金沢城公園へ徒歩３分</td>
                 <td className="p-3 text-stone-600">地下駐車場58台／1泊1台につき1,200円</td>
                 <td className="p-3 font-bold text-amber-600">★4.7（824件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,200〜</td>
@@ -460,7 +460,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 登別温泉　登別グランドホテル</td>
                 <td className="p-3 text-stone-600">北海道登別市登別温泉町154</td>
-                <td className="p-3 text-stone-600">登別駅周辺</td>
+                <td className="p-3 text-stone-600">JR登別駅からタクシーにて約13分、路線バスにて登別駅⇒登別温泉ターミナル約15分（バス運賃片道350円）</td>
                 <td className="p-3 text-stone-600">有り　約100台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.28（3347件）</td>
                 <td className="p-3 font-bold text-rose-600">¥13,750〜</td>
@@ -484,7 +484,7 @@ export default function Page() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/149369/149369.jpg" alt="ホテルグレイスリー那覇 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
-                  <p><strong>【宿の特徴・魅力】</strong>「専属パティシエ特製スイーツ＆デザートビュッフェ！甘美なご褒美を味わう極上美食ホテル」掲載宿の所在地・アクセス・特徴データ一覧は、周辺の観光巡りにも便利で快適な滞在環境が整った宿泊施設です。</p>
+                  <p><strong>【宿の特徴・魅力】</strong>ホテルグレイスリー那覇は、周辺の観光巡りにも便利で快適な滞在環境が整った宿泊施設です。</p>
                   <p><strong>【所在地・アクセス】</strong>交通案内：●ゆいレール「県庁前」駅徒歩5分／●「国際通り」徒歩0分。荷物が多くても、車が無くても楽々♪</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
@@ -511,7 +511,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り：800台、1,500円（泊・先着順）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.42 ／ 立地 ★4.62 ／ 部屋 ★4.5 ／ 設備 ★4.38 ／ 風呂 ★4.28 ／ 食事 ★4.57</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「チェックアウト時の待ち時間が長く不満朝チェックアウト時に、フロントスタッフが一人一人しか対応しておらず、5分以上、待たされた。そこに不満を感じました。機械でセルフチェックアウトする仕組…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「チェックアウト時の待ち時間が長く不満朝チェックアウト時に、フロントスタッフが一人一人しか対応しておらず、5分以上、待たされた。そこに不満を感じました。」
                   </blockquote>
                 </div>
               </div>
@@ -577,7 +577,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　約100台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.28 ／ 立地 ★4.19 ／ 部屋 ★4.25 ／ 設備 ★4.15 ／ 風呂 ★4.35 ／ 食事 ★4.34</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「バイキング料理が最高、家族全員大満足!朝食、夕食ともにバイキング料理が最高でした。料理の種類も豊富で和洋中、イタリアンに至るまで展開され、味もどれを食べてもハズレが全くなく、とても美味しかったです…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「バイキング料理が最高、家族全員大満足!朝食、夕食ともにバイキング料理が最高でした。」
                   </blockquote>
                 </div>
               </div>

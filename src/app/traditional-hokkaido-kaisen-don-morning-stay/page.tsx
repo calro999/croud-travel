@@ -565,8 +565,8 @@ export default function FeatureDetailPage() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 函館駅よりアクセス。『函館空港』からお車にて約6分/『函館駅』よりお車にて約12分/バス停『熱帯植物園前』から徒歩約3分。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「イマジンホテル＆リゾート函館」にチェックイン。楽天トラベルゴールドアワード2025受賞！ 海と星空が広がる 絶景露天風呂などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「イマジンホテル＆リゾート函館」の湯処へ。楽天トラベルゴールドアワード2025受賞！ 海と星空が広がる 絶景露天とともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「イマジンホテル＆リゾート函館」にチェックイン。【楽天トラベルゴールドアワード2025受賞！ まずは客室で移動の疲れをそっと癒やす。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「イマジンホテル＆リゾート函館」の自慢の湯処へ。温かな湯気と落ち着いた雰囲気に癒やされながら、夕食前の贅沢なひとときを過ごす。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「イマジンホテル＆リゾート函館」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -578,7 +578,7 @@ export default function FeatureDetailPage() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「イマジンホテル＆リゾート函館」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「イマジンホテル＆リゾート函館」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「Ｔａｂｉｓｔ 竹葉新葉亭 函館 湯の川温泉」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は宿周辺の散策とショッピングを満喫。地元の名産品やグルメを味わってから余裕をもって帰路につく。</li>
               </ul>
             </div>
           </div>
@@ -649,28 +649,28 @@ export default function FeatureDetailPage() {
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
             <div className="flex flex-wrap gap-2">
               <Link
-                href="/prefectures/gunma/"
+                href="/prefectures/hokkaido/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                群馬県の宿・温泉
+                北海道の宿・温泉
               </Link>
               <Link
-                href="/prefectures/yamanashi/"
+                href="/prefectures/aomori/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                山梨県の宿・温泉
+                青森県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/ehime/"
+                href="/prefectures/iwate/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                愛媛県の宿・温泉
+                岩手県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/ibaraki/"
+                href="/prefectures/miyagi/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                茨城県の宿・温泉
+                宮城県の宿・温泉
               </Link>
             </div>
           </div>
@@ -706,7 +706,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. イマジンホテル＆リゾート函館</td>
                 <td className="p-3 text-stone-600">北海道函館市湯川町3-1-17</td>
-                <td className="p-3 text-stone-600">函館駅周辺</td>
+                <td className="p-3 text-stone-600">『函館空港』からお車にて約6分/『函館駅』よりお車にて約12分/バス停『熱帯植物園前』から徒歩約3分</td>
                 <td className="p-3 text-stone-600">有り　無料　約90台　湯の川最大級青空平面</td>
                 <td className="p-3 font-bold text-amber-600">★4.44（2336件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,259〜</td>
@@ -715,7 +715,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. Ｔａｂｉｓｔ　ホテルテトラ函館駅前</td>
                 <td className="p-3 text-stone-600">北海道函館市若松町19-11</td>
-                <td className="p-3 text-stone-600">函館駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ函館駅から徒歩で5分。函館空港よりシャトルバスで20分。</td>
                 <td className="p-3 text-stone-600">1台１泊800円　 数に限りあり　 GWなど特別期間は別料金。</td>
                 <td className="p-3 font-bold text-amber-600">★3.74（1857件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,500〜</td>
@@ -724,7 +724,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 函館国際ホテル</td>
                 <td className="p-3 text-stone-600">北海道函館市大手町5-10</td>
-                <td className="p-3 text-stone-600">函館駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ函館駅から徒歩約8分／函館空港から車で約20分 バスで約30分（函館国際ホテル前下車 バス停目の前）</td>
                 <td className="p-3 text-stone-600">1泊1000円 (宿泊日当日の11時〜出発日の14時まで出し入れ自由／先着順）</td>
                 <td className="p-3 font-bold text-amber-600">★4.33（4102件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,804〜</td>
@@ -733,7 +733,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. センチュリーマリーナ函館</td>
                 <td className="p-3 text-stone-600">北海道函館市大手町22-13</td>
-                <td className="p-3 text-stone-600">函館駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ 函館駅より徒歩にて約５分 函館空港より車にて約２０分</td>
                 <td className="p-3 text-stone-600">有り(1,000円/日）</td>
                 <td className="p-3 font-bold text-amber-600">★4.66（4064件）</td>
                 <td className="p-3 font-bold text-rose-600">¥13,500〜</td>
@@ -742,7 +742,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. Ｔａｂｉｓｔ　竹葉新葉亭　函館　湯の川温泉</td>
                 <td className="p-3 text-stone-600">北海道函館市湯川町2-6-22</td>
-                <td className="p-3 text-stone-600">函館駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ 函館駅から車で１５分／函館空港から車で５分</td>
                 <td className="p-3 text-stone-600">有り　２０台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.29（338件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,600〜</td>
@@ -771,7 +771,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　無料　約90台　湯の川最大級青空平面</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋のグレードアップと美味しい食事に大満足訳あり1階のプランで宿泊したのですが、空き部屋があったとのことで3階のオーシャンビューの部屋にグレードアップしてもらえました!波の音をききながら眠りにつく…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋のグレードアップと美味しい食事に大満足訳あり1階のプランで宿泊したのですが、空き部屋があったとのことで3階のオーシャンビューの部屋にグレードアップしてもらえました!」
                   </blockquote>
                 </div>
               </div>
@@ -793,7 +793,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>1台１泊800円　 数に限りあり　 GWなど特別期間は別料金。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.99 ／ 立地 ★3.78 ／ 部屋 ★3.42 ／ 設備 ★3.28 ／ 風呂 ★3.23</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「バイクツーリングで利用バイクツーリングに人気の宿とのことで素泊まり利用でしたが外観から古臭く昔のビジネスホテルという感じでベッドは硬めで好みの感じ枕は1つ枕元付近にコンセントあるのでスマホやCPA…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「バイクツーリングで利用バイクツーリングに人気の宿とのことで素泊まり利用でしたが外観から古臭く昔のビジネスホテルという感じでベッドは硬めで好みの感じ枕は1つ枕元付近にコンセントあるのでスマホやCPA。」
                   </blockquote>
                 </div>
               </div>
@@ -837,7 +837,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り(1,000円/日）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.62 ／ 立地 ★4.63 ／ 部屋 ★4.69 ／ 設備 ★4.63 ／ 風呂 ★4.66</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「枕やアロマのサービスと囲炉裏焼きに大満足たくさんの種類の中から枕を借りられたり、好きな香りを選んで、アロマストーンを部屋に置いて置けるサービスがお気に入りで、何度もリピートしています。また、温泉も…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「枕やアロマのサービスと囲炉裏焼きに大満足たくさんの種類の中から枕を借りられたり、好きな香りを選んで、アロマストーンを部屋に置いて置けるサービスがお気に入りで、何度もリピートしています。」
                   </blockquote>
                 </div>
               </div>
@@ -859,7 +859,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２０台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.24 ／ 立地 ★4.14 ／ 部屋 ★4.28 ／ 設備 ★4.12 ／ 風呂 ★4.32 ／ 食事 ★4.25</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「静かで落ち着く環境と無料の美鈴コーヒー古い宿です 風呂も2か所だけでも静かです外国人少ない 子供が騒がしくないご飯なしでも近くのハセスト ラッキーピエロで回転寿司かんたろうでテイクアウトメニュ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「静かで落ち着く環境と無料の美鈴コーヒー古い宿です 風呂も2か所だけでも静かです外国人少ない 子供が騒がしくないご飯なしでも近くのハセスト ラッキーピエロで回転寿司かんたろうでテイクアウトメニュ。」
                   </blockquote>
                 </div>
               </div>

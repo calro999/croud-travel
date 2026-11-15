@@ -76,7 +76,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F166492%2F166492.html%26f_flg%3DPLAN",
     "hotelMinCharge": 8800,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/166492/166492.jpg",
-    "userReview": "町家ホテル　おやどｂａｉｓｏｎならではの立地と落ち着いた空間で、ゆったりとした滞在を楽しめたという声が寄せられています。",
+    "userReview": "町家ホテル おやどｂａｉｓｏｎならではの立地と落ち着いた空間で、ゆったりとした滞在を楽しめたという声が寄せられています。",
     "reviewAverage": 4.31,
     "reviewCount": 93,
     "address": "岐阜県美濃市永重町1949-1",
@@ -90,7 +90,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F161061%2F161061.html%26f_flg%3DPLAN",
     "hotelMinCharge": 12000,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/161061/161061.jpg",
-    "userReview": "ＩＯＲＩ　ＳＴＡＹ　ＨＩＤＡならではの立地と落ち着いた空間で、ゆったりとした滞在を楽しめたという声が寄せられています。",
+    "userReview": "ＩＯＲＩ ＳＴＡＹ ＨＩＤＡならではの立地と落ち着いた空間で、ゆったりとした滞在を楽しめたという声が寄せられています。",
     "reviewAverage": 4.63,
     "reviewCount": 71,
     "address": "岐阜県飛騨市古川町殿町7-12",
@@ -256,7 +256,7 @@ export default function Page() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 東海北陸自動車道「美濃ＩＣ」より車で５分／美濃市駅より徒歩にて約１５分で現地へ到着。</li>
                 <li>・<strong className="text-stone-800">15:30〜</strong> 「町家ホテル おやどｂａｉｓｏｎ」へチェックイン。落ち着いた空間で旅の荷を解き、ゆったりとした時間をスタート。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「町家ホテル おやどｂａｉｓｏｎ」の湯処へ。日頃の疲れを癒やす湯浴みとともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「町家ホテル おやどｂａｉｓｏｎ」の自慢の湯処へ。温かな湯気と落ち着いた雰囲気に癒やされながら、夕食前の贅沢なひとときを過ごす。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「町家ホテル おやどｂａｉｓｏｎ」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -268,7 +268,7 @@ export default function Page() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「町家ホテル おやどｂａｉｓｏｎ」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「町家ホテル おやどｂａｉｓｏｎ」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「ＩＯＲＩ ＳＴＡＹ ＨＩＤＡ」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は宿周辺の散策とショッピングを満喫。地元の名産品やグルメを味わってから余裕をもって帰路につく。</li>
               </ul>
             </div>
           </div>
@@ -414,7 +414,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 近江八幡　まちや倶楽部（旧名称：ＭＡＣＨＩＹＡ　ＩＮＮ近江八幡）</td>
                 <td className="p-3 text-stone-600">滋賀県近江八幡市仲屋町中21</td>
-                <td className="p-3 text-stone-600">JR近江八幡駅北口、６番乗り場からバスで約８分「八幡堀（大杉町）八幡山</td>
+                <td className="p-3 text-stone-600">JR近江八幡駅北口、６番乗り場からバスで約８分「八幡堀（大杉町）八幡山ロープウェイ口」下車後徒歩２分。タクシーでは５分。</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.63（152件）</td>
                 <td className="p-3 font-bold text-rose-600">¥11,560〜</td>
@@ -487,7 +487,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「蔵を改装した落ち着く空間と街全体のおもてなしまちや倶楽部の別邸KOLMIOに泊まりました。大正時代のお屋敷の中に明治時代の蔵があり、そこが部屋でした。とても落ち着いた空間でのんびりすることができま…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「蔵を改装した落ち着く空間と街全体のおもてなしまちや倶楽部の別邸KOLMIOに泊まりました。大正時代のお屋敷の中に明治時代の蔵があり、そこが部屋でした。」
                   </blockquote>
                 </div>
               </div>

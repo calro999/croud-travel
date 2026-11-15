@@ -565,8 +565,8 @@ export default function FeatureDetailPage() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 鹿児島中央駅よりアクセス。★JR鹿児島中央駅から車で５分 ★市電「天文館」電停より徒歩３分 ★天文館の中心にあり、交通に便利！。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「天然温泉サウナ ニューニシノ」にチェックイン。天文館電停3分！大浴場＆フィンランドサウナで非日常体験◆観光・ビジネスの拠点に最適 男性専用温泉などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「天然温泉サウナ ニューニシノ」の湯処へ。天文館電停3分！大浴場＆フィンランドサウナで非日常体験◆観光・ビジネスとともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「天然温泉サウナ ニューニシノ」にチェックイン。天文館電停3分！大浴場＆フィンランドサウナで非日常体験◆観光・ビジネスの拠点に最適 男性専用温泉が魅力の一軒。客室で荷物をほどいて穏やかな午後のひとときを。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「天然温泉サウナ ニューニシノ」の大浴場・露天風呂へ。日暮れの静けさの中で湯に浸かり、旅の緊張をゆっくりと解きほぐす。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「天然温泉サウナ ニューニシノ」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -578,7 +578,7 @@ export default function FeatureDetailPage() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「天然温泉サウナ ニューニシノ」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「天然温泉サウナ ニューニシノ」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「富士山の見える全室個室サウナ付旅館 しずく」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は「天然温泉サウナ ニューニシノ」周辺の観光スポットや地元の名産店に立ち寄り、ご当地のお土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>
@@ -706,7 +706,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 天然温泉サウナ　ニューニシノ</td>
                 <td className="p-3 text-stone-600">鹿児島県鹿児島市千日町13-24</td>
-                <td className="p-3 text-stone-600">鹿児島中央駅周辺</td>
+                <td className="p-3 text-stone-600">★JR鹿児島中央駅から車で５分 ★市電「天文館」電停より徒歩３分 ★天文館の中心にあり、交通に便利！</td>
                 <td className="p-3 text-stone-600">コインパーキング10台　ホテル利用時1泊1,000円　14：30〜11：30　予約不可・高さ制限2m</td>
                 <td className="p-3 font-bold text-amber-600">★4.32（1185件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,876〜</td>
@@ -715,7 +715,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 富士山の見える全室個室サウナ付旅館　しずく</td>
                 <td className="p-3 text-stone-600">山梨県南都留郡山中湖村山中172</td>
-                <td className="p-3 text-stone-600">【都心から中央道or東名道で車2時間】【新宿からのアクセス◎→高速バス</td>
+                <td className="p-3 text-stone-600">【都心から中央道or東名道で車2時間】【新宿からのアクセス◎→高速バス：バスタ新宿→山中局入口徒歩5秒】</td>
                 <td className="p-3 text-stone-600">無料駐車場25台、屋根付き駐車場無、バイク専用駐車場無</td>
                 <td className="p-3 font-bold text-amber-600">★4.88（523件）</td>
                 <td className="p-3 font-bold text-rose-600">¥26,000〜</td>
@@ -724,7 +724,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 神戸サウナ＆スパ（ホテルカプセルイン神戸）</td>
                 <td className="p-3 text-stone-600">兵庫県神戸市中央区下山手通2-2-10</td>
-                <td className="p-3 text-stone-600">三宮駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ・阪急・阪神・市営地下鉄「三宮駅」から徒歩５分、新神戸駅から一駅です。</td>
                 <td className="p-3 text-stone-600">提携駐車場 、P-CLUB…20〜翌10時/1200円 等</td>
                 <td className="p-3 font-bold text-amber-600">★4.51（3292件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,200〜</td>
@@ -733,7 +733,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. プライベートサウナ付一棟貸切の宿　旅邸　一人十色</td>
                 <td className="p-3 text-stone-600">群馬県安中市磯部1-14-22</td>
-                <td className="p-3 text-stone-600">磯部（群馬）駅周辺</td>
+                <td className="p-3 text-stone-600">信越本線 磯部駅より徒歩約2分／北陸新幹線 安中榛名駅よりバス20分／高崎ICより車で約45分</td>
                 <td className="p-3 text-stone-600">有り（2台／無料・予約不要）</td>
                 <td className="p-3 font-bold text-amber-600">★5（18件）</td>
                 <td className="p-3 font-bold text-rose-600">¥10,450〜</td>
@@ -742,7 +742,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. ５０００坪の広大な森のモダンハウス、プロサウナ、ＢＢＱ／民泊</td>
                 <td className="p-3 text-stone-600">栃木県那須郡那須町高久乙字遅山　3375-2331　Ｎａｓｕ　Ｐｒｉｖａｔｅ　Ｆｏｒｅｓｔ</td>
-                <td className="p-3 text-stone-600">高久駅周辺</td>
+                <td className="p-3 text-stone-600">高久駅から車で約２７分</td>
                 <td className="p-3 text-stone-600">有り</td>
                 <td className="p-3 font-bold text-amber-600">高評価</td>
                 <td className="p-3 font-bold text-rose-600">¥30,392〜</td>
@@ -793,7 +793,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料駐車場25台、屋根付き駐車場無、バイク専用駐車場無</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.89 ／ 立地 ★4.9 ／ 部屋 ★4.89 ／ 設備 ★4.85 ／ 風呂 ★4.83 ／ 食事 ★4.8</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「サウナと美味しい食事で心身ともに整う一日中入れるサウナがとてもよかったです!お部屋もとても綺麗で過ごしやすかったです!朝食も夕飯もデザートもどれも美味しくて大満足でした!部屋についてサ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「サウナと美味しい食事で心身ともに整う一日中入れるサウナがとてもよかったです!お部屋もとても綺麗で過ごしやすかったです!朝食も夕飯もデザートもどれも美味しくて大満足でした!」
                   </blockquote>
                 </div>
               </div>

@@ -439,7 +439,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 水上温泉　ペンション　朝ねぼう</td>
                 <td className="p-3 text-stone-600">群馬県利根郡みなかみ町綱子294-1</td>
-                <td className="p-3 text-stone-600"></td>
+                <td className="p-3 text-stone-600">群馬県利根郡みなかみ町綱子294-1 ／ 交通案内：</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.86（324件）</td>
                 <td className="p-3 font-bold text-rose-600">¥12,540〜</td>
@@ -448,7 +448,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 水上温泉　あらたし　みなかみ</td>
                 <td className="p-3 text-stone-600">群馬県利根郡みなかみ町湯原740-3</td>
-                <td className="p-3 text-stone-600"></td>
+                <td className="p-3 text-stone-600">群馬県利根郡みなかみ町湯原740-3 ／ 交通案内：</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.42（608件）</td>
                 <td className="p-3 font-bold text-rose-600">¥13,100〜</td>
@@ -457,7 +457,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 水上温泉　おやど　松葉屋</td>
                 <td className="p-3 text-stone-600">群馬県利根郡みなかみ町小日向669</td>
-                <td className="p-3 text-stone-600"></td>
+                <td className="p-3 text-stone-600">群馬県利根郡みなかみ町小日向669 ／ 交通案内：</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.3（238件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,000〜</td>

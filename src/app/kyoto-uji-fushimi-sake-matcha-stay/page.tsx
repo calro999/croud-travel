@@ -253,7 +253,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 宇治壱番宿にがうり</td>
                 <td className="p-3 text-stone-600">京都府宇治市宇治里尻2-17</td>
-                <td className="p-3 text-stone-600">宇治（京都）駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ宇治駅及び京阪宇治駅より徒歩にて約５分</td>
                 <td className="p-3 text-stone-600">★徒歩2分以内に専用駐車場がございます(無料)★</td>
                 <td className="p-3 font-bold text-amber-600">★4.13（94件）</td>
                 <td className="p-3 font-bold text-rose-600">¥10,500〜</td>
@@ -262,7 +262,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 旅館あづまや　＜京都府＞</td>
                 <td className="p-3 text-stone-600">京都府京都市下京区堀川通り七条上ル（西本願寺前）</td>
-                <td className="p-3 text-stone-600">京都駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ 京都駅より徒歩にて約12分</td>
                 <td className="p-3 text-stone-600">なし</td>
                 <td className="p-3 font-bold text-amber-600">★4.17（418件）</td>
                 <td className="p-3 font-bold text-rose-600">¥2,970〜</td>
@@ -271,7 +271,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 京町家　一棟貸し　ｈｉｇｕｒａｓｈｉ</td>
                 <td className="p-3 text-stone-600">京都府京都市伏見区肥後町357</td>
-                <td className="p-3 text-stone-600">丹波橋駅周辺</td>
+                <td className="p-3 text-stone-600">丹波橋駅より徒歩約10分</td>
                 <td className="p-3 text-stone-600">お近くのコインパーキングをご利用ください（400円/24h、徒歩4分）（900円/24h、徒歩2分）</td>
                 <td className="p-3 font-bold text-amber-600">★2（5件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,500〜</td>
@@ -280,7 +280,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 優遊　ＩＮＮ　Ｆｕｓｈｉｍｉ　Ｋｙｏｔｏ</td>
                 <td className="p-3 text-stone-600">京都府京都市伏見区深草山村町999-4</td>
-                <td className="p-3 text-stone-600">墨染駅周辺</td>
+                <td className="p-3 text-stone-600">京阪：墨染駅より徒歩3分 近鉄：伏見駅より徒歩10分 「伏見稲荷大社」「祇園四条」へ乗換なしで便利な立地◎</td>
                 <td className="p-3 text-stone-600">無し　　近隣にコインパーキングあり（徒歩1分：24ｈ660円等）※出入り毎に料金がかかります。</td>
                 <td className="p-3 font-bold text-amber-600">★3.97（110件）</td>
                 <td className="p-3 font-bold text-rose-600">¥1,865〜</td>
@@ -289,7 +289,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. ゲストハウス　ベル伏見</td>
                 <td className="p-3 text-stone-600">京都府京都市伏見区紺屋町169</td>
-                <td className="p-3 text-stone-600">丹波橋駅周辺</td>
+                <td className="p-3 text-stone-600">近鉄桃山御陵前駅、京阪伏見桃山駅より徒歩約12分。京都市バス81系統「肥後町」下車徒歩2分</td>
                 <td className="p-3 text-stone-600">有り　１台　５００円（税込み／泊）　要予約</td>
                 <td className="p-3 font-bold text-amber-600">★4（45件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,300〜</td>
@@ -298,7 +298,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">6. パルセス　イン　京都</td>
                 <td className="p-3 text-stone-600">京都府京都市伏見区下鳥羽東芹川町45</td>
-                <td className="p-3 text-stone-600">竹田（京都）駅周辺</td>
+                <td className="p-3 text-stone-600">近鉄京都線・地下鉄烏丸線の竹田駅より車で約5分／名神高速道路・京都南ICより車で約5分</td>
                 <td className="p-3 text-stone-600">地下駐車場24台分（無料）。先着順となります。</td>
                 <td className="p-3 font-bold text-amber-600">★2.5（200件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,620〜</td>
@@ -349,7 +349,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>なし</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.33 ／ 立地 ★4.25 ／ 部屋 ★4.06 ／ 設備 ★4 ／ 風呂 ★4.05</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「施設は古いが子供向けサービスが充実子供連れでの利用でした。施設は古いですが、子供向けの寝間着やお菓子などサービスは色々と充実していて、満足でした。宿泊客に対して、大浴場があまり大きくないの…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「施設は古いが子供向けサービスが充実子供連れでの利用でした。施設は古いですが、子供向けの寝間着やお菓子などサービスは色々と充実していて、満足でした。」
                   </blockquote>
                 </div>
               </div>
@@ -393,7 +393,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無し　　近隣にコインパーキングあり（徒歩1分：24ｈ660円等）※出入り毎に料金がかかります。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駐車場が近く便利で、部屋も清潔で快適ホテルから1番近い駐車場を教えてくれて、マップからは、徒歩2分と書いていたが、駐車場から見えていたので、あまり歩かず着きました。お部屋は清潔だし、ベッドも寝…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駐車場が近く便利で、部屋も清潔で快適ホテルから1番近い駐車場を教えてくれて、マップからは、徒歩2分と書いていたが、駐車場から見えていたので、あまり歩かず着きました。」
                   </blockquote>
                 </div>
               </div>
@@ -437,7 +437,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>地下駐車場24台分（無料）。先着順となります。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「古い施設と高い価格に残念な滞在施設は古く、床のシミ、壁紙の剥がれなど多数。補修もしていません。駐車場も暗くて保全に心配でした。価格も高い割に残念、朝食付でしたが遠慮して引き上げました。リピはないで…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「古い施設と高い価格に残念な滞在施設は古く、床のシミ、壁紙の剥がれなど多数。補修もしていません。駐車場も暗くて保全に心配でした。価格も高い割に残念、朝食付でしたが遠慮して引き上げました。」
                   </blockquote>
                 </div>
               </div>

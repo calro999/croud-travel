@@ -366,8 +366,8 @@ export default function ArticlePage() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 静岡駅よりアクセス。ＪＲ 静岡駅より徒歩にて約１０分。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「ホテルオーレイン」にチェックイン。快適で満ち足りた時間、想像以上。などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「ホテルオーレイン」の湯処へ。快適で満ち足りた時間、想像以上。とともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「ホテルオーレイン」にチェックイン。快適で満ち足りた時間、想像以上。 客室で荷物をほどき、旅の疲れをゆっくり解きほぐす。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「ホテルオーレイン」の大浴場・露天風呂へ。日暮れの風情に包まれながらゆっくりと湯浴みを楽しむ。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「ホテルオーレイン」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -379,7 +379,7 @@ export default function ArticlePage() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「ホテルオーレイン」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「ホテルオーレイン」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「ホテルプリヴェ静岡」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は「ホテルオーレイン」周辺の観光スポットや地元の名産店に立ち寄り、お土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>
@@ -416,28 +416,28 @@ export default function ArticlePage() {
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
             <div className="flex flex-wrap gap-2">
               <Link
-                href="/prefectures/osaka/"
+                href="/prefectures/shizuoka/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                大阪府の宿・温泉
+                静岡県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/nagano/"
+                href="/prefectures/gifu/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                長野県の宿・温泉
+                岐阜県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/gunma/"
+                href="/prefectures/aichi/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                群馬県の宿・温泉
+                愛知県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/tottori/"
+                href="/prefectures/mie/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                鳥取県の宿・温泉
+                三重県の宿・温泉
               </Link>
             </div>
           
@@ -478,7 +478,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. ホテルオーレイン（静岡）</td>
                 <td className="p-3 text-stone-600">静岡県静岡市葵区常磐町2-1-1</td>
-                <td className="p-3 text-stone-600">静岡駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ　静岡駅より徒歩にて約１０分</td>
                 <td className="p-3 text-stone-600">無料・先着順（予約不可）・満車の際は近隣の有料駐車場をご利用いただきます。（料金お客様負担）</td>
                 <td className="p-3 font-bold text-amber-600">★4.59（3131件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,400〜</td>
@@ -487,7 +487,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. ホテルプリヴェ静岡</td>
                 <td className="p-3 text-stone-600">静岡県静岡市駿河区南町8-5</td>
-                <td className="p-3 text-stone-600">静岡駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ静岡駅より徒歩1分／東名静岡ＩＣより車で１０分　日本平久能山スマートICより約１２分。</td>
                 <td className="p-3 text-stone-600">20台有。1,430円（税込／泊）・先着順（予約不可）※満車の場合は、周辺パーキングご案内</td>
                 <td className="p-3 font-bold text-amber-600">★4.45（2748件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,140〜</td>
@@ -496,7 +496,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. ホテルルートイン高崎駅西口</td>
                 <td className="p-3 text-stone-600">群馬県高崎市旭町128-4</td>
-                <td className="p-3 text-stone-600">高崎駅周辺</td>
+                <td className="p-3 text-stone-600">上越新幹線高崎駅から徒歩で10分 高崎インターより車で約15分</td>
                 <td className="p-3 text-stone-600">有り:無料　ただし、大型車(２Tトラック以上、またはレントゲン車、積載車)は有料となります。</td>
                 <td className="p-3 font-bold text-amber-600">★3.4（544件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,250〜</td>
@@ -505,7 +505,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 猿ヶ京温泉　猿ヶ京ホテル</td>
                 <td className="p-3 text-stone-600">群馬県利根郡みなかみ町猿ヶ京温泉1171</td>
-                <td className="p-3 text-stone-600">上毛高原駅周辺</td>
+                <td className="p-3 text-stone-600">【車】関越道月夜野IC～Ｒ17を新潟方面に約20分【電車】上越新幹線上毛高原駅～猿ケ京行きバスで35分※送迎有要問合</td>
                 <td className="p-3 text-stone-600">70台、無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.27（1519件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,491〜</td>
@@ -514,7 +514,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 水上温泉郷　湯檜曽温泉　天空の湯　なかや旅館</td>
                 <td className="p-3 text-stone-600">群馬県利根郡みなかみ町湯桧曽93</td>
-                <td className="p-3 text-stone-600">上毛高原駅周辺</td>
+                <td className="p-3 text-stone-600">車：水上ICから約15分　車以外：上越線ゆびそ駅より徒歩5分、又は水上駅よりバス・タクシーで約10分</td>
                 <td className="p-3 text-stone-600">有り　16台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.68（531件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,800〜</td>
@@ -543,7 +543,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料・先着順（予約不可）・満車の際は近隣の有料駐車場をご利用いただきます。（料金お客様負担）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.58 ／ 立地 ★4.46 ／ 部屋 ★4.62 ／ 設備 ★4.57 ／ 風呂 ★4.56 ／ 食事 ★4.63</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「全体的な設備や接客は静岡市内のビジネスホテルでは群を抜いています。気になったのは食事面です。朝食のクオリティが以前と比較すると落ちたと感じます。品数は相変わらず豊富ですが、一品あたりの食材のグレー…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「全体的な設備や接客は静岡市内のビジネスホテルでは群を抜いています。気になったのは食事面です。朝食のクオリティが以前と比較すると落ちたと感じます。」
                   </blockquote>
                 </div>
               </div>
@@ -565,7 +565,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>20台有。1,430円（税込／泊）・先着順（予約不可）※満車の場合は、周辺パーキングご案内</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「静岡駅近で温泉も魅力、また利用したい静岡駅からすぐの好ロケーションで、温泉大浴場もあるということで今回利用させて頂きました。温泉はとても良かったのですが、やっぱりちょっと狭く、洗い場が5つくら…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「静岡駅近で温泉も魅力、また利用したい静岡駅からすぐの好ロケーションで、温泉大浴場もあるということで今回利用させて頂きました。」
                   </blockquote>
                 </div>
               </div>
@@ -587,7 +587,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り:無料　ただし、大型車(２Tトラック以上、またはレントゲン車、積載車)は有料となります。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.56 ／ 立地 ★3.33 ／ 部屋 ★3.42 ／ 設備 ★3.34 ／ 風呂 ★3.52 ／ 食事 ★3.51</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食や大浴場は満足だが階段の清掃が残念2泊しましたが朝食の内容が少し違っていて良かったです。大浴場があるのもうれしかったです。部屋も広くてゆっくりできました。駅から遠いのとコンビニや飲…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食や大浴場は満足だが階段の清掃が残念2泊しましたが朝食の内容が少し違っていて良かったです。大浴場があるのもうれしかったです。部屋も広くてゆっくりできました。」
                   </blockquote>
                 </div>
               </div>
@@ -609,7 +609,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>70台、無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.36 ／ 立地 ★4.13 ／ 部屋 ★4.1 ／ 設備 ★3.92 ／ 風呂 ★4.19 ／ 食事 ★4.36</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事の量も調整しやすく、お風呂も快適食事もテーブルにセットされてるもの+バイキングなので自分で食べる量を調節できるのが良いです。露天風呂は熱めと温めに分かれてるので熱いの苦手な私には嬉しかった…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事の量も調整しやすく、お風呂も快適食事もテーブルにセットされてるもの+バイキングなので自分で食べる量を調節できるのが良いです。」
                   </blockquote>
                 </div>
               </div>

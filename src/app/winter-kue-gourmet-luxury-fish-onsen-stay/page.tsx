@@ -334,7 +334,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 白浜温泉　民宿Ａコース</td>
                 <td className="p-3 text-stone-600">和歌山県西牟婁郡白浜町1091-6</td>
-                <td className="p-3 text-stone-600">白浜駅周辺</td>
+                <td className="p-3 text-stone-600">JR白浜駅よりバスで10分、旭ヶ丘下車3分。</td>
                 <td className="p-3 text-stone-600">有り　30台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★3.96（1460件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,600〜</td>
@@ -343,7 +343,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 温泉めい想倶楽部　富士屋旅館</td>
                 <td className="p-3 text-stone-600">石川県加賀市山代温泉桔梗ヶ丘2-121-3</td>
-                <td className="p-3 text-stone-600">加賀温泉駅周辺</td>
+                <td className="p-3 text-stone-600">【ＪＲ】北陸本線加賀温泉駅より送迎有（１4：３０～１８：００）要事前予約／【車】北陸道加賀IC又は片山津ICより約20分</td>
                 <td className="p-3 text-stone-600">有り　５０台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★3.99（993件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,040〜</td>
@@ -352,7 +352,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 鎌先温泉　すヾきや旅館（すずきや）</td>
                 <td className="p-3 text-stone-600">宮城県白石市福岡蔵本鎌先1-38</td>
-                <td className="p-3 text-stone-600">白石蔵王駅周辺</td>
+                <td className="p-3 text-stone-600">東北新幹線白石蔵王駅より車で1５分／東北自動車道白石ＩＣより約１５分</td>
                 <td className="p-3 text-stone-600">有り　30台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.47（873件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,000〜</td>
@@ -381,7 +381,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　30台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.89 ／ 立地 ★3.84 ／ 部屋 ★3.94 ／ 設備 ★3.81 ／ 風呂 ★3.95</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「丁寧な接客と便利な立地で快適な旅に到着から受付のかた(オーナー様であったならすいません)が気持ち良く迎えていただき大変丁寧に気持ちの良い接客でありがたかったです。立地もコンビニまで歩いて5分程で白…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「丁寧な接客と便利な立地で快適な旅に到着から受付のかた(オーナー様であったならすいません)が気持ち良く迎えていただき大変丁寧に気持ちの良い接客でありがたかったです。」
                   </blockquote>
                 </div>
               </div>
@@ -403,7 +403,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　５０台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.09 ／ 立地 ★3.81 ／ 部屋 ★3.96 ／ 設備 ★3.73 ／ 風呂 ★3.97 ／ 食事 ★4.26</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「サービスは満足だが準備不足が目立ち残念家族5人で宿泊しました。子供2人分はプラン通り無料でしたが、残り1人分は大人の半分(約1万)の追加料金が現地で支払い必要でした。楽天トラベルでは対応できない機…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「サービスは満足だが準備不足が目立ち残念家族5人で宿泊しました。子供2人分はプラン通り無料でしたが、残り1人分は大人の半分(約1万)の追加料金が現地で支払い必要でした。」
                   </blockquote>
                 </div>
               </div>

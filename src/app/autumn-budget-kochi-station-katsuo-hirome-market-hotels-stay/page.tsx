@@ -401,7 +401,7 @@ export default function AutumnBudgetHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. ホテル　港屋＜高知県＞</td>
                 <td className="p-3 text-stone-600">高知県高知市相生町2-12</td>
-                <td className="p-3 text-stone-600">高知駅周辺</td>
+                <td className="p-3 text-stone-600">◎ＪＲ高知駅より徒歩3分◎高知ICより車で約10分◎高知空港より車で30分◎はりまや橋まで徒歩10分◎</td>
                 <td className="p-3 text-stone-600">平面駐車場 37台／先着順／1泊700円（バイク・大型車は別料金）／車高制限なし／大型は事前連絡必須</td>
                 <td className="p-3 font-bold text-amber-600">★3.98（2500件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,220〜</td>
@@ -410,7 +410,7 @@ export default function AutumnBudgetHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. ホテルアベスト高知</td>
                 <td className="p-3 text-stone-600">高知県高知市南はりまや町1-7-14</td>
-                <td className="p-3 text-stone-600">高知駅周辺</td>
+                <td className="p-3 text-stone-600">高知の中心はりまや橋電停まで徒歩3分。高速バス、はりまや橋バス乗り場徒歩3分、JR高知駅まで徒歩15分</td>
                 <td className="p-3 text-stone-600">車‥駐車料金普通車１台　800円税込/1泊。近隣契約駐車場有り　バイク１台300円</td>
                 <td className="p-3 font-bold text-amber-600">★3.6（1317件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,750〜</td>
@@ -419,7 +419,7 @@ export default function AutumnBudgetHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. サザンシティホテル</td>
                 <td className="p-3 text-stone-600">高知県南国市明見933</td>
-                <td className="p-3 text-stone-600">後免駅周辺</td>
+                <td className="p-3 text-stone-600">高知市内より車で15分☆ 高知空港・南国インターチェンジより車で10分☆</td>
                 <td className="p-3 text-stone-600">≪無料！！≫ 150台まで入ります。 　トラック・RV車・ワゴン車可。予約は不要です。</td>
                 <td className="p-3 font-bold text-amber-600">★4.38（1915件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,700〜</td>
@@ -428,7 +428,7 @@ export default function AutumnBudgetHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. リバーサイドホテル松栄</td>
                 <td className="p-3 text-stone-600">高知県高知市天神町8-1</td>
-                <td className="p-3 text-stone-600">高知駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ土讃線高知駅より車で５分</td>
                 <td className="p-3 text-stone-600">有り/30台。有料/普通車：700円、バイク：500円、自転車：無料</td>
                 <td className="p-3 font-bold text-amber-600">★3.78（502件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,000〜</td>
@@ -437,7 +437,7 @@ export default function AutumnBudgetHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 高知プリンスホテル</td>
                 <td className="p-3 text-stone-600">高知県高知市南宝永町4-2</td>
-                <td className="p-3 text-stone-600">高知駅周辺</td>
+                <td className="p-3 text-stone-600">JR高知駅より車で5分。高知龍馬空港よりシャトルバス20分宝永町停留所すぐ</td>
                 <td className="p-3 text-stone-600">有り。お車保管料１泊770円（税込）</td>
                 <td className="p-3 font-bold text-amber-600">★3.57（325件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,900〜</td>
@@ -510,7 +510,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>≪無料！！≫ 150台まで入ります。 　トラック・RV車・ワゴン車可。予約は不要です。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.39 ／ 立地 ★4.14 ／ 部屋 ★4.44 ／ 設備 ★4.32 ／ 風呂 ★4.22 ／ 食事 ★4.42</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「平面駐車場が広く、大きな車でも安心初めての利用、素泊まり、高知市内中心部は駐車場が立体、もしくはない宿が多いと感じた為こちらに宿泊しました。平面駐車場はかなり広く裏にも駐車可能で車両が大きい方には…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「平面駐車場が広く、大きな車でも安心初めての利用、素泊まり、高知市内中心部は駐車場が立体、もしくはない宿が多いと感じた為こちらに宿泊しました。」
                   </blockquote>
                 </div>
               </div>
@@ -532,7 +532,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り/30台。有料/普通車：700円、バイク：500円、自転車：無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事は満足、立地も良く鏡川の眺めも良いホテルの前に車を止めてから駐車場を確認する必要があります。近くに2か所あるとの事ですが、一番近いのは縦列利用で車のキーを預ける、二番目は少し離れますがキーは預…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事は満足、立地も良く鏡川の眺めも良いホテルの前に車を止めてから駐車場を確認する必要があります。」
                   </blockquote>
                 </div>
               </div>

@@ -346,7 +346,7 @@ export default function KusatsuVsIkahoPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 草津温泉　湯畑展望露天の宿　ぬ志勇旅館（ぬしゆうりょかん）</td>
                 <td className="p-3 text-stone-600">群馬県吾妻郡草津町446</td>
-                <td className="p-3 text-stone-600">長野原草津口駅周辺</td>
+                <td className="p-3 text-stone-600">長野原草津口駅から草津温泉行きバスで約２０分</td>
                 <td className="p-3 text-stone-600">有り　１４台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.39（567件）</td>
                 <td className="p-3 font-bold text-rose-600">¥12,000〜</td>
@@ -355,7 +355,7 @@ export default function KusatsuVsIkahoPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 草津温泉　中村屋旅館＜群馬県＞</td>
                 <td className="p-3 text-stone-600">群馬県吾妻郡草津町草津98</td>
-                <td className="p-3 text-stone-600">■JR吾妻線■長野原草津口駅下車→草津温泉行きバスで20分→草津温泉バ</td>
+                <td className="p-3 text-stone-600">■JR吾妻線■長野原草津口駅下車→草津温泉行きバスで20分→草津温泉バスターミナルより徒歩2分</td>
                 <td className="p-3 text-stone-600">湯畑観光駐車場1階　ご来館時に当日15時〜翌日10時までの駐車サービス券をお渡ししております。</td>
                 <td className="p-3 font-bold text-amber-600">★4.74（593件）</td>
                 <td className="p-3 font-bold text-rose-600">¥11,900〜</td>
@@ -364,7 +364,7 @@ export default function KusatsuVsIkahoPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 草津温泉　尻焼き風呂の桐島屋旅館</td>
                 <td className="p-3 text-stone-600">群馬県吾妻郡草津町大字草津541 桐島屋旅館</td>
-                <td className="p-3 text-stone-600">長野原草津口駅周辺</td>
+                <td className="p-3 text-stone-600">関越道渋川伊香保ICより車で1時間半 or JR長野原草津口駅よりJRバスで草津温泉バスターミナル駅まで約25分</td>
                 <td className="p-3 text-stone-600">有り　12台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.27（187件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,145〜</td>
@@ -373,7 +373,7 @@ export default function KusatsuVsIkahoPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 伊香保温泉　大衆旅館　ふくぜん</td>
                 <td className="p-3 text-stone-600">群馬県渋川市伊香保町伊香保396-1</td>
-                <td className="p-3 text-stone-600">渋川駅周辺</td>
+                <td className="p-3 text-stone-600">関越自動車道の渋川伊香保ICより伊香保温泉方面へやく9km。高崎駅・前橋駅からも近く車で約40分程度で来れちゃいます♪</td>
                 <td className="p-3 text-stone-600">旅館前駐車場有り75台　無料　駐車スペースが無い場合は大変お手数ですがフロントまでお申し付けください</td>
                 <td className="p-3 font-bold text-amber-600">★3.92（2925件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,400〜</td>
@@ -382,7 +382,7 @@ export default function KusatsuVsIkahoPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 伊香保温泉　旅館　さくらい</td>
                 <td className="p-3 text-stone-600">群馬県渋川市伊香保町伊香保210-2</td>
-                <td className="p-3 text-stone-600">渋川駅周辺</td>
+                <td className="p-3 text-stone-600">JR上越線 渋川駅より伊香保温泉行きバス、又は車で２０分。関越自動車道 渋川伊香保ＩＣより３０分。</td>
                 <td className="p-3 text-stone-600">有り　８０台　無料　予約不要　チェックイン前ご利用可能</td>
                 <td className="p-3 font-bold text-amber-600">★4.27（1221件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,600〜</td>
@@ -391,7 +391,7 @@ export default function KusatsuVsIkahoPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">6. 伊香保温泉　森秋旅館</td>
                 <td className="p-3 text-stone-600">群馬県渋川市伊香保町伊香保60</td>
-                <td className="p-3 text-stone-600">渋川駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ渋川駅下車バスで25分！新宿から高速バスで2時間半！伊香保の名物石段街から徒歩３分と好立地♪散策に抜群の好立地</td>
                 <td className="p-3 text-stone-600">有（無料）</td>
                 <td className="p-3 font-bold text-amber-600">★4.26（2256件）</td>
                 <td className="p-3 font-bold text-rose-600">¥14,100〜</td>
@@ -486,7 +486,7 @@ export default function KusatsuVsIkahoPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>旅館前駐車場有り75台　無料　駐車スペースが無い場合は大変お手数ですがフロントまでお申し付けください</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事も美味しく、子連れへの対応が温かい食事が良かったです。子ども向けの部屋があって手厚いおもてなしでした。子どもが部屋を汚してしまいましたが嫌な顔せず対応してくれました。また行きたいで…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事も美味しく、子連れへの対応が温かい食事が良かったです。子ども向けの部屋があって手厚いおもてなしでした。子どもが部屋を汚してしまいましたが嫌な顔せず対応してくれました。」
                   </blockquote>
                 </div>
               </div>
@@ -508,7 +508,7 @@ export default function KusatsuVsIkahoPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　８０台　無料　予約不要　チェックイン前ご利用可能</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.3 ／ 立地 ★4.13 ／ 部屋 ★4.4 ／ 設備 ★4.22 ／ 風呂 ★4.31 ／ 食事 ★4.42</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ひとり旅にやさしい伊香保で泊まってみたかった旅館のひとつ。旅館前の駐車場は一台ぶんのスペースが狭め。ひとり旅、ほったらかしプランは嬉しい。貸し切り風呂が多いお宿だからか、大浴場は2回入って2回とも…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ひとり旅にやさしい伊香保で泊まってみたかった旅館のひとつ。旅館前の駐車場は一台ぶんのスペースが狭め。ひとり旅、ほったらかしプランは嬉しい。」
                   </blockquote>
                 </div>
               </div>
@@ -530,7 +530,7 @@ export default function KusatsuVsIkahoPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有（無料）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「石段への好立地とスタッフの温かいおもてなし伊香保温泉の石段までのアクセスが近く初めての伊香保温泉観光を満喫出来ました。お料理も美味しくて何よりスタッフの方のおもてなしは素晴らしかったです。リピ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「石段への好立地とスタッフの温かいおもてなし伊香保温泉の石段までのアクセスが近く初めての伊香保温泉観光を満喫出来ました。お料理も美味しくて何よりスタッフの方のおもてなしは素晴らしかったです。」
                   </blockquote>
                 </div>
               </div>

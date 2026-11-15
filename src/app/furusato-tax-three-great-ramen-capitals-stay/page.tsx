@@ -409,8 +409,8 @@ export default function Page() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 会津若松駅よりアクセス。会津鉄道・芦ノ牧温泉駅／JR会津若松駅～タクシーで40分／磐越道・会津若松IC～40分/東北道・白河ＩＣ～60分。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「会津芦ノ牧温泉 丸峰観光ホテル」にチェックイン。ビュッフェレストランオープン！山々に抱かれた渓谷美を望む 露天風呂付き客室 が人気などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「会津芦ノ牧温泉 丸峰観光ホテル」の湯処へ。ビュッフェレストランオープン！山々に抱かれた渓谷美をとともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「会津芦ノ牧温泉 丸峰観光ホテル」にチェックイン。2024年3月1日ビュッフェレストランオープン！ まずは客室で移動の疲れをそっと癒やす。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「会津芦ノ牧温泉 丸峰観光ホテル」の湯船で寛ぎタイム。季節の空気を感じながら手足を伸ばし、心豊かな夕方のリラックス時間を満喫。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「会津芦ノ牧温泉 丸峰観光ホテル」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -422,7 +422,7 @@ export default function Page() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「会津芦ノ牧温泉 丸峰観光ホテル」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「会津芦ノ牧温泉 丸峰観光ホテル」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「プレミアホテル 中島公園 札幌」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は「会津芦ノ牧温泉 丸峰観光ホテル」周辺の観光スポットや地元の名産店に立ち寄り、ご当地のお土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>
@@ -550,7 +550,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 会津芦ノ牧温泉　丸峰観光ホテル</td>
                 <td className="p-3 text-stone-600">福島県会津若松市大戸町芦ノ牧下夕平1128</td>
-                <td className="p-3 text-stone-600">会津若松駅周辺</td>
+                <td className="p-3 text-stone-600">会津鉄道・芦ノ牧温泉駅／JR会津若松駅～タクシーで40分／磐越道・会津若松IC～40分/東北道・白河ＩＣ～60分</td>
                 <td className="p-3 text-stone-600">有り　１７０台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.31（3388件）</td>
                 <td className="p-3 font-bold text-rose-600">¥11,000〜</td>
@@ -559,7 +559,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. プレミアホテル　中島公園　札幌</td>
                 <td className="p-3 text-stone-600">北海道札幌市中央区南10条西6丁目1-21</td>
-                <td className="p-3 text-stone-600"></td>
+                <td className="p-3 text-stone-600">北海道札幌市中央区南10条西6丁目1-21 ／ 交通案内：</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.34（2475件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,000〜</td>
@@ -568,7 +568,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. エスペリアホテル博多</td>
                 <td className="p-3 text-stone-600">福岡県福岡市博多区博多駅前2-11-4</td>
-                <td className="p-3 text-stone-600"></td>
+                <td className="p-3 text-stone-600">福岡県福岡市博多区博多駅前2-11-4 ／ 交通案内：</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.2（1738件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,776〜</td>
@@ -597,7 +597,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１７０台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.35 ／ 立地 ★4.31 ／ 部屋 ★4.26 ／ 設備 ★4.19 ／ 風呂 ★4.34 ／ 食事 ★4.39</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「景色と食事は良いが天ぷらと土瓶蒸しが残念別館7階の部屋から川と山が見え綺麗でした。大浴場も大きく広い窓ガラスから山が見えます。ホテルも部屋も清潔で良いです。夕食は美味しく種類も豊富でした。ただ天ぷ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「景色と食事は良いが天ぷらと土瓶蒸しが残念別館7階の部屋から川と山が見え綺麗でした。大浴場も大きく広い窓ガラスから山が見えます。ホテルも部屋も清潔で良いです。夕食は美味しく種類も豊富でした。」
                   </blockquote>
                 </div>
               </div>
@@ -619,7 +619,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「路面電車の乗り場が近く市内散策に便利夫婦での1週間の北海道旅行のうち3泊利用しました。お部屋はバージョンアップで広く綺麗で公園もみえ快適でした。車を置い路面電車で市内を散策しましたが乗…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「路面電車の乗り場が近く市内散策に便利夫婦での1週間の北海道旅行のうち3泊利用しました。お部屋はバージョンアップで広く綺麗で公園もみえ快適でした。」
                   </blockquote>
                 </div>
               </div>
@@ -641,7 +641,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「博多駅近くでセキュリティも安心、備品も充実博多駅からも徒歩圏内にあるホテルカードキー方式になっており、エレベーターもルームカードキーをかざすと宿泊階にしか止まらない仕組みになっている。おの…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「博多駅近くでセキュリティも安心、備品も充実博多駅からも徒歩圏内にあるホテルカードキー方式になっており、エレベーターもルームカードキーをかざすと宿泊階にしか止まらない仕組みになっている。」
                   </blockquote>
                 </div>
               </div>

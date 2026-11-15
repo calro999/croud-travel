@@ -253,7 +253,7 @@ export default function WellnessRetreatHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. どろ湯の旅籠さくらさくら温泉　霧島神宮温泉郷</td>
                 <td className="p-3 text-stone-600">鹿児島県霧島市霧島田口2324-7</td>
-                <td className="p-3 text-stone-600">霧島神宮駅周辺</td>
+                <td className="p-3 text-stone-600">【ＪＲ霧島神宮駅】下車タクシー10分。【鹿児島空港】から車で40分。【鹿児島市内】より車で1時間10分</td>
                 <td className="p-3 text-stone-600">有り　１００台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.4（930件）</td>
                 <td className="p-3 font-bold text-rose-600">¥13,000〜</td>
@@ -262,7 +262,7 @@ export default function WellnessRetreatHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. グランヴィリオリゾート石垣島　Ｏｃｅａｎ’ｓ　Ｗｉｎｇ　＆　Ｖｉｌｌａ　Ｇａｒｄｅｎ＜石垣島＞</td>
                 <td className="p-3 text-stone-600">沖縄県石垣市新川舟蔵2481-1</td>
-                <td className="p-3 text-stone-600">石垣空港駅周辺</td>
+                <td className="p-3 text-stone-600">新石垣空港より車で40分</td>
                 <td className="p-3 text-stone-600">有り　110台収容　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.47（1261件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,930〜</td>
@@ -271,7 +271,7 @@ export default function WellnessRetreatHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. ＡＮＡインターコンチネンタル石垣リゾート　ｂｙ　ＩＨＧ　＜石垣島＞</td>
                 <td className="p-3 text-stone-600">沖縄県石垣市真栄里354-1</td>
-                <td className="p-3 text-stone-600">石垣空港駅周辺</td>
+                <td className="p-3 text-stone-600">石垣空港からお車で約20分, 空港バスで約25分（ホテル前下車）</td>
                 <td className="p-3 text-stone-600">有り　456台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.4（1521件）</td>
                 <td className="p-3 font-bold text-rose-600">¥15,040〜</td>
@@ -280,7 +280,7 @@ export default function WellnessRetreatHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. ホテルシギラミラージュ＜宮古島＞</td>
                 <td className="p-3 text-stone-600">沖縄県宮古島市上野新里1405-201</td>
-                <td className="p-3 text-stone-600">宮古空港駅周辺</td>
+                <td className="p-3 text-stone-600">宮古空港ーホテル：シャトルバス空港カウンター受付（１０時ー１７時３０分）、下地島空港ーホテル：公式サイトをご確認ください</td>
                 <td className="p-3 text-stone-600">無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.76（417件）</td>
                 <td className="p-3 font-bold text-rose-600">¥38,050〜</td>
@@ -289,7 +289,7 @@ export default function WellnessRetreatHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. ホテルシギラミラージュビーチフロント＜宮古島＞</td>
                 <td className="p-3 text-stone-600">沖縄県宮古島市上野字新里1405-271</td>
-                <td className="p-3 text-stone-600">宮古空港駅周辺</td>
+                <td className="p-3 text-stone-600">宮古空港ーホテル：シャトルバス空港カウンター受付（１０時ー１７時３０分）、下地島空港ーホテル：公式サイトをご確認ください</td>
                 <td className="p-3 text-stone-600">有り　２３台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.58（142件）</td>
                 <td className="p-3 font-bold text-rose-600">¥36,480〜</td>
@@ -298,7 +298,7 @@ export default function WellnessRetreatHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">6. 長湯温泉　大丸旅館</td>
                 <td className="p-3 text-stone-600">大分県竹田市直入町長湯7992-1</td>
-                <td className="p-3 text-stone-600">JR豊肥本線・豊後竹田駅よりお車にて25分。（駅から路線バスもあります</td>
+                <td className="p-3 text-stone-600">JR豊肥本線・豊後竹田駅よりお車にて25分。（駅から路線バスもあります。長湯行き約40分、長湯下車。）</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.37（199件）</td>
                 <td className="p-3 font-bold text-rose-600">¥19,800〜</td>
@@ -327,7 +327,7 @@ export default function WellnessRetreatHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１００台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.57 ／ 立地 ★4.22 ／ 部屋 ★3.9 ／ 設備 ★3.96 ／ 風呂 ★4.38 ／ 食事 ★4.58</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「野菜たっぷりの鍋と肌がすべすべになる温泉お鍋が野菜たっぷりで美味しかったです。しめにご飯を入れて溶き卵で雑炊にして食べました。出汁の旨味が絡んて美味しかったです。温泉もどろ湯がとても肌…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「野菜たっぷりの鍋と肌がすべすべになる温泉お鍋が野菜たっぷりで美味しかったです。しめにご飯を入れて溶き卵で雑炊にして食べました。出汁の旨味が絡んて美味しかったです。」
                   </blockquote>
                 </div>
               </div>
@@ -349,7 +349,7 @@ export default function WellnessRetreatHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　110台収容　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.53 ／ 立地 ★4.47 ／ 部屋 ★4.48 ／ 設備 ★4.41 ／ 風呂 ★4.38 ／ 食事 ★4.5</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「海が見えるプールと星空観賞で大満足部屋も綺麗で、天気良く景色も綺麗でした。リゾートホテルで前に海が見えて屋内、屋外プ一ルもあり孫も大喜びでした。タオルも浮き輪も無料で貸し出してもらえま…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「海が見えるプールと星空観賞で大満足部屋も綺麗で、天気良く景色も綺麗でした。リゾートホテルで前に海が見えて屋内、屋外プ一ルもあり孫も大喜びでした。」
                   </blockquote>
                 </div>
               </div>
@@ -393,7 +393,7 @@ export default function WellnessRetreatHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの案内が最高、朝食も充実で大満足チェックインの時から最高です!何が食べたいかで周辺の食事処を案内してくれたり、滞在中のスケジュールからオススメのスポットなども併せて教えてくれます。朝食…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの案内が最高、朝食も充実で大満足チェックインの時から最高です!何が食べたいかで周辺の食事処を案内してくれたり、滞在中のスケジュールからオススメのスポットなども併せて教えてくれます。」
                   </blockquote>
                 </div>
               </div>
@@ -437,7 +437,7 @@ export default function WellnessRetreatHubPage() {
                   <p>【温泉泥パック＆タラソテラピー宿：天然クレイ泥湯・海洋】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「何十年ぶりかに訪れましたが、相変わらず温泉は最高です。今回の旅館は、初めてでしたが長い歴史を感じさせる雰囲気のある旅館でした。テレビの調子が悪くてほとんど見れませんでしたが、それがまた良かった…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「何十年ぶりかに訪れましたが、相変わらず温泉は最高です。今回の旅館は、初めてでしたが長い歴史を感じさせる雰囲気のある旅館でした。」
                   </blockquote>
                 </div>
               </div>

@@ -351,7 +351,7 @@ export default function FurusatoUpgradedPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. マンダリン　オリエンタル　東京</td>
                 <td className="p-3 text-stone-600">東京都中央区日本橋室町2-1-1</td>
-                <td className="p-3 text-stone-600">三越前駅周辺</td>
+                <td className="p-3 text-stone-600">東京メトロ 銀座線・半蔵門線「三越前」駅地下通路直結 / JR 総武本線 「新日本橋」駅地下通路直結 徒歩3分</td>
                 <td className="p-3 text-stone-600">バレーパーキング　6,500円（税込み／泊／24時間）　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.88（52件）</td>
                 <td className="p-3 font-bold text-rose-600">¥69,733〜</td>
@@ -360,7 +360,7 @@ export default function FurusatoUpgradedPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 錦帯橋温泉　岩国国際観光ホテル</td>
                 <td className="p-3 text-stone-600">山口県岩国市岩国1-1-7</td>
-                <td className="p-3 text-stone-600">新岩国駅周辺</td>
+                <td className="p-3 text-stone-600">JR山陽新幹線新岩国駅より車で10分 山陽自動車道岩国ICより車で8分 岩国錦帯橋空港より車で15分、宮島より車で40分</td>
                 <td className="p-3 text-stone-600">有り　50台　無料　先着順　★ただし万一満車の場合、駐車の事は必ず責任持って対応いたします★</td>
                 <td className="p-3 font-bold text-amber-600">★4.28（1298件）</td>
                 <td className="p-3 font-bold text-rose-600">¥14,300〜</td>
@@ -369,7 +369,7 @@ export default function FurusatoUpgradedPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. にっしょうかん別邸紅葉亭</td>
                 <td className="p-3 text-stone-600">長崎県長崎市立山5-13-65</td>
-                <td className="p-3 text-stone-600">長崎（長崎）駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ長崎本線長崎駅から車で15分 ＜ＪＲ長崎駅西口より定時無料送迎バスあり＞ 長崎自動車道『多良見IC』より約20分</td>
                 <td className="p-3 text-stone-600">20台/無料　先着順　（長崎駅より、無料送迎バスあり）</td>
                 <td className="p-3 font-bold text-amber-600">★4.4（449件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,600〜</td>
@@ -398,7 +398,7 @@ export default function FurusatoUpgradedPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>バレーパーキング　6,500円（税込み／泊／24時間）　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「日本橋の絶景と細やかな気遣いに大満足妻の誕生日に利用しました。日本橋というロケーションと高層階からの視界は最高です。ディナーで利用したレストラン、バー、スパ、皆気遣いが行き届いていました。…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「日本橋の絶景と細やかな気遣いに大満足妻の誕生日に利用しました。日本橋というロケーションと高層階からの視界は最高です。ディナーで利用したレストラン、バー、スパ、皆気遣いが行き届いていました。」
                   </blockquote>
                 </div>
               </div>
@@ -420,7 +420,7 @@ export default function FurusatoUpgradedPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　50台　無料　先着順　★ただし万一満車の場合、駐車の事は必ず責任持って対応いたします★</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「夏休みに13泊しましたが、他のホテルに比べて金額がちょっと高めだったかなぁと思います由緒あるホテルで内装やお風呂も素敵だったので、しょうがないのかなぁとは思いますが食事の金額もかなり上げないと、そ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「夏休みに13泊しましたが、他のホテルに比べて金額がちょっと高めだったかなぁと思います由緒あるホテルで内装やお風呂も素敵だったので、しょうがないのかなぁとは思いますが食事の金額もかなり上げないと、そ。」
                   </blockquote>
                 </div>
               </div>

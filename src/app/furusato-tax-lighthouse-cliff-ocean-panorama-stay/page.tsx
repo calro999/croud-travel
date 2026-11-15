@@ -529,7 +529,7 @@ export default function FurusatoFeaturePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 湖畔の温泉宿くにびき　グランピングベースＩＺＵＭＯ</td>
                 <td className="p-3 text-stone-600">島根県出雲市湖陵町二部1230</td>
-                <td className="p-3 text-stone-600">ＪＲ江南駅よりお車で約５分　送迎をご希望の際は事前にお問い合わせ下さい</td>
+                <td className="p-3 text-stone-600">ＪＲ江南駅よりお車で約５分 送迎をご希望の際は事前にお問い合わせ下さい。時間帯や状況によって送迎できない場合がございます</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.4（456件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,720〜</td>
@@ -538,7 +538,7 @@ export default function FurusatoFeaturePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 犬吠埼温泉　黒潮の湯　ホテルルートイン銚子駅西</td>
                 <td className="p-3 text-stone-600">千葉県銚子市三軒町16-13</td>
-                <td className="p-3 text-stone-600">銚子駅周辺</td>
+                <td className="p-3 text-stone-600">★銚子駅より徒歩で約4分 ◆神栖市波崎まではお車で5分</td>
                 <td className="p-3 text-stone-600">有　先着順41台　800円/泊　※満車の際は近隣のコインパーキングをご利用下さい</td>
                 <td className="p-3 font-bold text-amber-600">★4.43（651件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,925〜</td>
@@ -547,7 +547,7 @@ export default function FurusatoFeaturePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 犬吠埼潮の湯温泉　犬吠埼観光ホテル</td>
                 <td className="p-3 text-stone-600">千葉県銚子市犬吠埼10293</td>
-                <td className="p-3 text-stone-600">犬吠駅周辺</td>
+                <td className="p-3 text-stone-600">銚子電鉄 犬吠駅より車で３分 犬吠駅よりお電話にて送迎承ります。銚子駅より車で15分</td>
                 <td className="p-3 text-stone-600">有り　８０台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.24（637件）</td>
                 <td className="p-3 font-bold text-rose-600">¥13,750〜</td>
@@ -565,7 +565,7 @@ export default function FurusatoFeaturePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. メルキュール高知土佐リゾート＆スパ</td>
                 <td className="p-3 text-stone-600">高知県安芸郡芸西村西分甲2995</td>
-                <td className="p-3 text-stone-600">土佐山田駅周辺</td>
+                <td className="p-3 text-stone-600">土佐くろしお鉄道夜須駅より車約7分、空港より車約20分、芸西西ICより車約1分の好アクセス。</td>
                 <td className="p-3 text-stone-600">無料平面駐車場有り</td>
                 <td className="p-3 font-bold text-amber-600">★4.33（3144件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,802〜</td>
@@ -594,7 +594,7 @@ export default function FurusatoFeaturePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉とBBQ、贅沢な朝食で大満足!グランピングですが、温泉入り放題、BBQもボリュームがあり、大満足です。朝はカワイイバスケットにサラダやジュース、ヨーグルト、温かいパンに、ハンドドリップでコーヒ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉とBBQ、贅沢な朝食で大満足!グランピングですが、温泉入り放題、BBQもボリュームがあり、大満足です。」
                   </blockquote>
                 </div>
               </div>
@@ -616,7 +616,7 @@ export default function FurusatoFeaturePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有　先着順41台　800円/泊　※満車の際は近隣のコインパーキングをご利用下さい</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「残念な2泊部屋は、汗臭く ずっと換気やスプレーで何とか2泊過ごしました。朝食も残念な感じでした。銚子の時は利用してますが、次回は、他のホテルにしたいと思ってます。クチコミの詳…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「残念な2泊部屋は、汗臭く ずっと換気やスプレーで何とか2泊過ごしました。朝食も残念な感じでした。銚子の時は利用してますが、次回は、他のホテルにしたいと思ってます。」
                   </blockquote>
                 </div>
               </div>
@@ -638,7 +638,7 @@ export default function FurusatoFeaturePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　８０台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.33 ／ 立地 ★4.55 ／ 部屋 ★4.02 ／ 設備 ★3.94 ／ 風呂 ★4.31 ／ 食事 ★4.27</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「良かった点は海が近いことのみ建物はレトロというより古臭くチープ。清潔感もセンスも感じられません。銚子ということで期待していた食事もがっかりなクオリティで、良い口コミが本当なのか疑ってしまい…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「良かった点は海が近いことのみ建物はレトロというより古臭くチープ。清潔感もセンスも感じられません。」
                   </blockquote>
                 </div>
               </div>
@@ -660,7 +660,7 @@ export default function FurusatoFeaturePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食の品数が豊富で、部屋からの景色も絶景朝ごはんのバイキングの品数が豊富です。和食、洋食、中華、地元の食材を使ったものが並んでいて大満足ですその場で作る白身がふわふわの卵かけご飯が美味しかった…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食の品数が豊富で、部屋からの景色も絶景朝ごはんのバイキングの品数が豊富です。」
                   </blockquote>
                 </div>
               </div>

@@ -253,7 +253,7 @@ export default function TransitStyleHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 下田温泉　黒船ホテル</td>
                 <td className="p-3 text-stone-600">静岡県下田市柿崎3-8</td>
-                <td className="p-3 text-stone-600">伊豆急下田駅周辺</td>
+                <td className="p-3 text-stone-600">伊豆急線「伊豆急下田駅」から徒歩13分、タクシーで3分。 車で沼津から当館まで伊豆縦貫道で90分。</td>
                 <td className="p-3 text-stone-600">当館の駐車場は建物の地下部分にございます。(高さ制限2.3ｍ/狭めのスペース/台数制限有り/無料)</td>
                 <td className="p-3 font-bold text-amber-600">★4.21（2266件）</td>
                 <td className="p-3 font-bold text-rose-600">¥9,165〜</td>
@@ -262,7 +262,7 @@ export default function TransitStyleHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 松崎温泉　御宿しんしま</td>
                 <td className="p-3 text-stone-600">静岡県賀茂郡松崎町宮内284</td>
-                <td className="p-3 text-stone-600">伊豆急下田駅周辺</td>
+                <td className="p-3 text-stone-600">伊豆急下田駅から東海バス乗車５０分 （●松崎バスターミナル ●松崎小学校前 ●松崎中学校前 ）</td>
                 <td className="p-3 text-stone-600">・1部屋1台無料でご利用いただけます。◆予約不要　◆追加1台につき1100円　◆マイクロバス利用可能</td>
                 <td className="p-3 font-bold text-amber-600">★4.67（77件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,800〜</td>
@@ -271,7 +271,7 @@ export default function TransitStyleHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. グランドメルキュール伊勢志摩リゾート＆スパ</td>
                 <td className="p-3 text-stone-600">三重県志摩市磯部町的矢笠取939-6</td>
-                <td className="p-3 text-stone-600">志摩磯部駅周辺</td>
+                <td className="p-3 text-stone-600">近鉄 鵜方駅より定時シャトルバス約15分(予約不要 定時運行 公式HP参照)／伊勢西ＩＣよりお車約45分</td>
                 <td className="p-3 text-stone-600">220台あり（無料・予約不可）</td>
                 <td className="p-3 font-bold text-amber-600">★3.94（4177件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,120〜</td>
@@ -280,7 +280,7 @@ export default function TransitStyleHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 源泉掛け流しの離れ宿　由布院別邸　風の森</td>
                 <td className="p-3 text-stone-600">大分県由布市湯布院町川南371-1</td>
-                <td className="p-3 text-stone-600">由布院駅周辺</td>
+                <td className="p-3 text-stone-600">◆ 由布院駅より徒歩15分</td>
                 <td className="p-3 text-stone-600">◆◇ 無料の駐車場が有ります。予約は不要です。 ◆◇ １３台分停められます◆◇</td>
                 <td className="p-3 font-bold text-amber-600">★4.64（127件）</td>
                 <td className="p-3 font-bold text-rose-600">¥22,000〜</td>
@@ -289,7 +289,7 @@ export default function TransitStyleHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 由布院温泉　旅館　冨季の舎</td>
                 <td className="p-3 text-stone-600">大分県由布市湯布院町川南814-1</td>
-                <td className="p-3 text-stone-600">由布院駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ久大線 由布院駅より車で５分 徒歩１５分</td>
                 <td className="p-3 text-stone-600">有　２０台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4（126件）</td>
                 <td className="p-3 font-bold text-rose-600">¥13,900〜</td>
@@ -298,7 +298,7 @@ export default function TransitStyleHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">6. 由布院温泉　湯富里の宿　一壷天</td>
                 <td className="p-3 text-stone-600">大分県由布市湯布院町川上302-7</td>
-                <td className="p-3 text-stone-600">由布院駅周辺</td>
+                <td className="p-3 text-stone-600">車/湯布院ICから県道216号。湯布院幹部交番を左折（7分）電車/JR由布院駅下車、車で約5分（2.5km）</td>
                 <td className="p-3 text-stone-600">無料で15台停められます。予約は不要です。</td>
                 <td className="p-3 font-bold text-amber-600">★4.75（263件）</td>
                 <td className="p-3 font-bold text-rose-600">¥33,000〜</td>
@@ -327,7 +327,7 @@ export default function TransitStyleHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>当館の駐車場は建物の地下部分にございます。(高さ制限2.3ｍ/狭めのスペース/台数制限有り/無料)</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事の種類も味も最高、また行きたい!夕食、朝食共にご飯が全て美味しかったです!種類も多く本当にまだまだ食べたいと思うほど美味しくて大満足でした!毎年伊豆には行き、いろんなところに泊まり美味しい…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事の種類も味も最高、また行きたい!夕食、朝食共にご飯が全て美味しかったです!種類も多く本当にまだまだ食べたいと思うほど美味しくて大満足でした!」
                   </blockquote>
                 </div>
               </div>
@@ -437,7 +437,7 @@ export default function TransitStyleHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料で15台停められます。予約は不要です。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「マタニティプランで非日常の癒やしを堪能マタニティプランで利用させてもらいました。由布院駅からタクシーで5分ほどで、山の中にあります。到着した瞬間から、スタッフの方の対応も素晴らしく、非日常を体…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「マタニティプランで非日常の癒やしを堪能マタニティプランで利用させてもらいました。由布院駅からタクシーで5分ほどで、山の中にあります。」
                   </blockquote>
                 </div>
               </div>

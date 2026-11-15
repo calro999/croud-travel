@@ -97,7 +97,7 @@ export default function Page() {
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/128491/128491map.gif",
     "reviewCount": 3073,
     "reviewAverage": 4.44,
-    "userReview": "バイクを玄関横に置けて大浴場も快適ツーリングで利用しました。バイクは安心の玄関横に置かせていただきました。お部屋も綺麗、大浴場も眺めが良い。勿論夜鳴きそばも美味しい。また泊まりに来ますクチコミ。",
+    "userReview": "バイクを玄関横に置けて大浴場も快適ツーリングで利用しました。バイクは安心の玄関横に置かせていただきました。お部屋も綺麗、大浴場も眺めが良い。勿論夜鳴きそばも美味しい。また泊まりに来ます。",
     "hotelMinCharge": 9040,
     "address1": "静岡県",
     "address2": "三島市大宮町3-18-33",
@@ -422,8 +422,8 @@ export default function Page() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 中村駅よりアクセス。土佐くろしお鉄道中村駅下車 タクシーで約１０分（徒歩４０分） / 高知自動車道四万十町中央ICより国道５６号線で約６０分。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「新安並温泉 なごみ宿 安住庵」にチェックイン。城山の山頂に建つ四万十の川と街を眼下に望む一軒宿などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「新安並温泉 なごみ宿 安住庵」の湯処へ。城山の山頂に建つ四万十の川と街を眼下に望む一軒宿とともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「新安並温泉 なごみ宿 安住庵」にチェックイン。城山の山頂に建つ四万十の川と街を眼下に望む一軒宿が魅力の一軒。客室で荷物をほどいて穏やかな午後のひとときを。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「新安並温泉 なごみ宿 安住庵」の湯船で寛ぎタイム。季節の空気を感じながら手足を伸ばし、心豊かな夕方のリラックス時間を満喫。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「新安並温泉 なごみ宿 安住庵」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -435,7 +435,7 @@ export default function Page() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「新安並温泉 なごみ宿 安住庵」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「新安並温泉 なごみ宿 安住庵」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「長良川温泉 十八楼」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は「新安並温泉 なごみ宿 安住庵」周辺の観光スポットや地元の名産店に立ち寄り、ご当地のお土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>
@@ -563,7 +563,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 新安並温泉　なごみ宿　安住庵</td>
                 <td className="p-3 text-stone-600">高知県四万十市中村1815為松公園頂上</td>
-                <td className="p-3 text-stone-600">中村駅周辺</td>
+                <td className="p-3 text-stone-600">土佐くろしお鉄道中村駅下車 タクシーで約１０分（徒歩４０分） / 高知自動車道四万十町中央ICより国道５６号線で約６０分</td>
                 <td className="p-3 text-stone-600">有り　１５台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.57（194件）</td>
                 <td className="p-3 font-bold text-rose-600">¥15,000〜</td>
@@ -572,7 +572,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 長良川温泉　十八楼</td>
                 <td className="p-3 text-stone-600">岐阜県岐阜市湊町１０番地</td>
-                <td className="p-3 text-stone-600">岐阜駅周辺</td>
+                <td className="p-3 text-stone-600">(電車)ＪＲ岐阜駅 名鉄岐阜駅より路線バスにて約15分 長良橋バス停下車 (車)東海北陸道 一宮木曽川ICより約30分</td>
                 <td className="p-3 text-stone-600">有り　乗用車150台　バス１５台　(無料)</td>
                 <td className="p-3 font-bold text-amber-600">★4.61（1833件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,250〜</td>
@@ -581,7 +581,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 天然温泉　富嶽の湯　ドーミーイン三島</td>
                 <td className="p-3 text-stone-600">静岡県三島市大宮町3-18-33</td>
-                <td className="p-3 text-stone-600">三島駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ 三島駅「南口」より徒歩5分</td>
                 <td className="p-3 text-stone-600">敷地内駐車場７0台 （平面32台　立体38台）1,200円/1泊　(先着順)※予約不可※</td>
                 <td className="p-3 font-bold text-amber-600">★4.45（3085件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,475〜</td>
@@ -632,7 +632,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　乗用車150台　バス１５台　(無料)</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「露天風呂と食事に感動、鵜飼いも近く大満足露天風呂付の部屋で眺めも最高でした。スタッフの接待も心地よく良い時間が流れました。食事も十分に豪華で美味しかったです。長良川の鵜飼い船のリば…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「露天風呂と食事に感動、鵜飼いも近く大満足露天風呂付の部屋で眺めも最高でした。スタッフの接待も心地よく良い時間が流れました。食事も十分に豪華で美味しかったです。」
                   </blockquote>
                 </div>
               </div>
@@ -654,7 +654,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>敷地内駐車場７0台 （平面32台　立体38台）1,200円/1泊　(先着順)※予約不可※</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食も大浴場も満足、息子は電車に大興奮朝食バイキングがとても満足の品揃えでした!帰省で宿泊しましたが、次回もお世話になりたいです。お風呂も清潔でしたし、スタッフさんの雰囲気も良かったです。…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食も大浴場も満足、息子は電車に大興奮朝食バイキングがとても満足の品揃えでした!帰省で宿泊しましたが、次回もお世話になりたいです。お風呂も清潔でしたし、スタッフさんの雰囲気も良かったです。」
                   </blockquote>
                 </div>
               </div>

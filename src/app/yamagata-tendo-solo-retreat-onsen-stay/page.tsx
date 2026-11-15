@@ -336,8 +336,8 @@ export default function ArticlePage() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 天童駅よりアクセス。山形新幹線東京駅から天童駅まで約2時間45分。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「天童温泉 湯の香 松の湯」にチェックイン。天童唯一二種類の源泉100%を掛流し☆山形牛付お部屋食などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「天童温泉 湯の香 松の湯」の湯処へ。天童唯一二種類の源泉100%を掛流し☆山形牛付お部屋食とともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「天童温泉 湯の香 松の湯」にチェックイン。天童唯一二種類の源泉100%を掛流し☆山形牛付お部屋食が魅力の一軒。客室で荷物をほどいて穏やかな午後のひとときを。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「天童温泉 湯の香 松の湯」の自慢の湯処へ。温かな湯気と落ち着いた雰囲気に癒やされながら、夕食前の贅沢なひとときを過ごす。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「天童温泉 湯の香 松の湯」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -349,7 +349,7 @@ export default function ArticlePage() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「天童温泉 湯の香 松の湯」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「天童温泉 湯の香 松の湯」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「天童温泉 美味求真の宿 天童ホテル」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は宿周辺の散策とショッピングを満喫。地元の名産品やグルメを味わってから余裕をもって帰路につく。</li>
               </ul>
             </div>
           </div>
@@ -386,28 +386,28 @@ export default function ArticlePage() {
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
             <div className="flex flex-wrap gap-2">
               <Link
-                href="/prefectures/saitama/"
+                href="/prefectures/yamagata/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                埼玉県の宿・温泉
+                山形県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/nagasaki/"
+                href="/prefectures/hokkaido/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                長崎県の宿・温泉
+                北海道の宿・温泉
               </Link>
               <Link
-                href="/prefectures/mie/"
+                href="/prefectures/aomori/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                三重県の宿・温泉
+                青森県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/okayama/"
+                href="/prefectures/iwate/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                岡山県の宿・温泉
+                岩手県の宿・温泉
               </Link>
             </div>
           </div>
@@ -452,7 +452,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 天童温泉　美味求真の宿　天童ホテル</td>
                 <td className="p-3 text-stone-600">山形県天童市鎌田本町2-1-3</td>
-                <td className="p-3 text-stone-600">天童駅周辺</td>
+                <td className="p-3 text-stone-600">山形新幹線で東京駅ー天童駅3H。天童駅東口から無料送迎4分（要予約）。天童ICから10分、山形北ICから15分。街中の宿</td>
                 <td className="p-3 text-stone-600">無料200台・予約不要｜ホテル玄関前で荷下ろし後、当館から東に約130mの駐車場へご駐車ください</td>
                 <td className="p-3 font-bold text-amber-600">★4.55（1912件）</td>
                 <td className="p-3 font-bold text-rose-600">¥12,100〜</td>
@@ -461,7 +461,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 天童温泉　栄屋ホテル</td>
                 <td className="p-3 text-stone-600">山形県天童市鎌田2-3-16</td>
-                <td className="p-3 text-stone-600">天童駅周辺</td>
+                <td className="p-3 text-stone-600">天童駅よりお車にて５分</td>
                 <td className="p-3 text-stone-600">有り　１００台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.05（484件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,050〜</td>
@@ -490,7 +490,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　４０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「清掃の行き届いた部屋と美味しい食事に満足清掃も行き届いており、素敵なお部屋でした。食事もボリュームがあり、美味しく頂きました。温泉もゆったりと入り、リフレッシュに最適なお宿でしたクチコミの詳細…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「清掃の行き届いた部屋と美味しい食事に満足清掃も行き届いており、素敵なお部屋でした。食事もボリュームがあり、美味しく頂きました。」
                   </blockquote>
                 </div>
               </div>
@@ -512,7 +512,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料200台・予約不要｜ホテル玄関前で荷下ろし後、当館から東に約130mの駐車場へご駐車ください</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.58 ／ 立地 ★4.43 ／ 部屋 ★4.53 ／ 設備 ★4.47 ／ 風呂 ★4.54 ／ 食事 ★4.61</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「子供も大人も満足。3歳と5歳の子供を連れて利用しました。ウェルカムドリンクや遊び場、絵本の貸し出し、お風呂後のヤクルトやアイスなどサービスが充実していてとても喜んで楽しく過ごすことができました…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「子供も大人も満足。3歳と5歳の子供を連れて利用しました。」
                   </blockquote>
                 </div>
               </div>
@@ -534,7 +534,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１００台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.08 ／ 立地 ★3.99 ／ 部屋 ★4.02 ／ 設備 ★3.85 ／ 風呂 ★4.11</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「展望風呂目当てで決めました市内に位置するので、昼間より夜の展望風呂が夜景が眺望できて綺麗です。泉質も良かったです。駐車場も玄関から近くで広く、部屋も清潔で料理も大変美味しくいただきました。ゆっ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「展望風呂目当てで決めました市内に位置するので、昼間より夜の展望風呂が夜景が眺望できて綺麗です。泉質も良かったです。駐車場も玄関から近くで広く、部屋も清潔で料理も大変美味しくいただきました。」
                   </blockquote>
                 </div>
               </div>

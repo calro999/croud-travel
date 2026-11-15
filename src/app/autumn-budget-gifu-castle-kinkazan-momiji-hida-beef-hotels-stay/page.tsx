@@ -310,7 +310,7 @@ export default function AutumnBudgetGifuHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. ＡＢホテル岐阜</td>
                 <td className="p-3 text-stone-600">岐阜県岐阜市金町7-12-1</td>
-                <td className="p-3 text-stone-600">岐阜駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ／名鉄 岐阜駅より徒歩にて約5分</td>
                 <td className="p-3 text-stone-600">提携駐車場：500円（1泊＝15：00から翌10：00）予約不可・出入別料金・台数制限有</td>
                 <td className="p-3 font-bold text-amber-600">★4.16（2383件）</td>
                 <td className="p-3 font-bold text-rose-600">¥2,800〜</td>
@@ -319,7 +319,7 @@ export default function AutumnBudgetGifuHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. ホテルエンディア岐阜</td>
                 <td className="p-3 text-stone-600">岐阜県岐阜市元町5-9</td>
-                <td className="p-3 text-stone-600">新岐阜駅周辺</td>
+                <td className="p-3 text-stone-600">名鉄岐阜駅より徒歩5分、JR岐阜駅より徒歩15分</td>
                 <td className="p-3 text-stone-600">無し</td>
                 <td className="p-3 font-bold text-amber-600">★4.08（727件）</td>
                 <td className="p-3 font-bold text-rose-600">¥2,850〜</td>
@@ -328,7 +328,7 @@ export default function AutumnBudgetGifuHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. ホテルリソル岐阜</td>
                 <td className="p-3 text-stone-600">岐阜県岐阜市長住町5-8</td>
-                <td className="p-3 text-stone-600">岐阜駅周辺</td>
+                <td className="p-3 text-stone-600">JR東海道線「岐阜駅」北口より徒歩5分 名鉄「名鉄岐阜駅」より徒歩5分。東海北陸自動車道「岐阜各務原」より約20分。</td>
                 <td className="p-3 text-stone-600">ホテル提携駐車場P926　先着順1泊1000円(14:30〜翌11:30まで途中出庫無し）</td>
                 <td className="p-3 font-bold text-amber-600">★4.26（2557件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,300〜</td>
@@ -337,7 +337,7 @@ export default function AutumnBudgetGifuHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 長良川清流ホテル</td>
                 <td className="p-3 text-stone-600">岐阜県岐阜市長良志段見東山537-3</td>
-                <td className="p-3 text-stone-600">岐阜駅周辺</td>
+                <td className="p-3 text-stone-600">JR岐阜駅から車・市営バスで25分</td>
                 <td className="p-3 text-stone-600">有り　80台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.34（1420件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,200〜</td>
@@ -346,7 +346,7 @@ export default function AutumnBudgetGifuHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. ダイワロイネットホテル岐阜</td>
                 <td className="p-3 text-stone-600">岐阜県岐阜市神田町8-5</td>
-                <td className="p-3 text-stone-600">岐阜駅周辺</td>
+                <td className="p-3 text-stone-600">JR「岐阜駅」長良川口より徒歩約7分／「名鉄岐阜駅」より徒歩約2分／名古屋国際空港より特急で「名鉄岐阜駅」へ約60分</td>
                 <td className="p-3 text-stone-600">提携立体駐車場／44台／一泊（14時〜翌12時）1,200円税込／車高制限有／営業時間外入出庫不可</td>
                 <td className="p-3 font-bold text-amber-600">★4.43（5144件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,220〜</td>
@@ -397,7 +397,7 @@ export default function AutumnBudgetGifuHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無し</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.08 ／ 立地 ★3.97 ／ 部屋 ★4.06 ／ 設備 ★4 ／ 風呂 ★3.93 ／ 食事 ★3.98</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「案内不足や朝食の品切れが目立ち残念岐阜駅から降りてホテルへの道のりの看板がなくて分かりづらい。チェックイン時間前に荷物を預かってもらう時は反対側から入ってしまいました。夜チェックイン時に人が多くて…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「案内不足や朝食の品切れが目立ち残念岐阜駅から降りてホテルへの道のりの看板がなくて分かりづらい。チェックイン時間前に荷物を預かってもらう時は反対側から入ってしまいました。」
                   </blockquote>
                 </div>
               </div>
@@ -441,7 +441,7 @@ export default function AutumnBudgetGifuHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　80台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.41 ／ 立地 ★4.26 ／ 部屋 ★4.32 ／ 設備 ★4.2 ／ 風呂 ★4.16 ／ 食事 ★4.44</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「期待を上回る料理と温泉、また来たい宿 私用で岐阜へ。 せっかくなので長良川沿いの宿で1泊する事にしました。 川原町の街巡で、のんびり時間をすごして宿へ。交通手段:  自家用車で長良川沿…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「期待を上回る料理と温泉、また来たい宿 私用で岐阜へ。 せっかくなので長良川沿いの宿で1泊する事にしました。 川原町の街巡で、のんびり時間をすごして宿へ。」
                   </blockquote>
                 </div>
               </div>
@@ -463,7 +463,7 @@ export default function AutumnBudgetGifuHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>提携立体駐車場／44台／一泊（14時〜翌12時）1,200円税込／車高制限有／営業時間外入出庫不可</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.42 ／ 立地 ★4.38 ／ 部屋 ★4.48 ／ 設備 ★4.42 ／ 風呂 ★4.34 ／ 食事 ★4.21</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの丁寧な案内で飛騨牛を堪能駅が近いことで、夜の繁華街が活気に溢れていました。ホテルの人に夕食の美味しい店をお聞きしたところ、大変丁寧にA4サイズのマップを頂き説明してくれました。お…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの丁寧な案内で飛騨牛を堪能駅が近いことで、夜の繁華街が活気に溢れていました。ホテルの人に夕食の美味しい店をお聞きしたところ、大変丁寧にA4サイズのマップを頂き説明してくれました。」
                   </blockquote>
                 </div>
               </div>

@@ -253,7 +253,7 @@ export default function TargetAudienceHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. ホテル　ラ・スイート神戸ハーバーランド</td>
                 <td className="p-3 text-stone-600">兵庫県神戸市中央区波止場町7-2</td>
-                <td className="p-3 text-stone-600">神戸（兵庫）駅周辺</td>
+                <td className="p-3 text-stone-600">JR「神戸駅」より徒歩約10分／地下鉄海岸線「みなと元町駅」より徒歩約4分／阪神高速3号神戸線「京橋出入口」より車約5分</td>
                 <td className="p-3 text-stone-600">57台(屋内46台、屋外11台) 1000円/泊</td>
                 <td className="p-3 font-bold text-amber-600">★4.73（1809件）</td>
                 <td className="p-3 font-bold text-rose-600">¥12,130〜</td>
@@ -262,7 +262,7 @@ export default function TargetAudienceHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 洞窟風呂の宿　百楽荘</td>
                 <td className="p-3 text-stone-600">石川県鳳珠郡能登町越坂11-34</td>
-                <td className="p-3 text-stone-600">九十九湾小木駅周辺</td>
+                <td className="p-3 text-stone-600">金沢駅から車で2時間半 金沢駅バスで3時間半 能登空港からタクシーで30分／バス停「九十九湾」送迎有り（要予約）</td>
                 <td className="p-3 text-stone-600">有り　２５台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.73（2657件）</td>
                 <td className="p-3 font-bold text-rose-600">¥19,470〜</td>
@@ -271,7 +271,7 @@ export default function TargetAudienceHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 山翠楼SANSUIROU</td>
                 <td className="p-3 text-stone-600">神奈川県足柄下郡湯河原町宮上673</td>
-                <td className="p-3 text-stone-600">湯河原駅周辺</td>
+                <td className="p-3 text-stone-600">お車の場合、西湘ＢＰ石橋ＩＣより真鶴道路経由約３５分。電車の場合湯河原駅より奥湯河原行きバスで終点奥湯河原下車徒歩1分</td>
                 <td className="p-3 text-stone-600">有り　30台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.28（526件）</td>
                 <td className="p-3 font-bold text-rose-600">¥23,485〜</td>
@@ -280,7 +280,7 @@ export default function TargetAudienceHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. ホテル金沢</td>
                 <td className="p-3 text-stone-600">石川県金沢市堀川新町1-1</td>
-                <td className="p-3 text-stone-600">金沢駅の兼六園口（東口）から徒歩約１分。小松空港からリムジンバスで４０</td>
+                <td className="p-3 text-stone-600">金沢駅の兼六園口（東口）から徒歩約１分。小松空港からリムジンバスで４０分。北陸自動車道の金沢東インターから車で１０分。</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.47（1681件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,450〜</td>
@@ -289,7 +289,7 @@ export default function TargetAudienceHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. ｎｏｌ　ｈａｋｏｎｅ　ｍｙｏｊｉｎｄａｉ</td>
                 <td className="p-3 text-stone-600">神奈川県足柄下郡箱根町宮城野1488-205</td>
-                <td className="p-3 text-stone-600">箱根湯本駅周辺</td>
+                <td className="p-3 text-stone-600">箱根湯本駅よりお車にて約20分</td>
                 <td className="p-3 text-stone-600">無料　屋外駐車場　39台</td>
                 <td className="p-3 font-bold text-amber-600">★4.61（39件）</td>
                 <td className="p-3 font-bold text-rose-600">¥16,900〜</td>
@@ -298,7 +298,7 @@ export default function TargetAudienceHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">6. 白浜古賀の井リゾート＆スパ</td>
                 <td className="p-3 text-stone-600">和歌山県西牟婁郡白浜町3212-1</td>
-                <td className="p-3 text-stone-600">白浜駅周辺</td>
+                <td className="p-3 text-stone-600">JR白浜駅から車で約10分※無料送迎バス運行中／南紀白浜空港から車で約8分／大阪から車で阪和道南紀田辺IC経由で約2時間</td>
                 <td className="p-3 text-stone-600">110台（無料）</td>
                 <td className="p-3 font-bold text-amber-600">★4.42（5796件）</td>
                 <td className="p-3 font-bold text-rose-600">¥9,900〜</td>
@@ -327,7 +327,7 @@ export default function TargetAudienceHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>57台(屋内46台、屋外11台) 1000円/泊</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの温かい対応と夜景に家族全員大満足妻と1歳5ヶ月になる娘の家族3人で宿泊させてもらいました。良く歩き回る娘に対してもスタッフの皆様は温かく対応してくださり、おかげさまで終始笑顔な娘でした。…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの温かい対応と夜景に家族全員大満足妻と1歳5ヶ月になる娘の家族3人で宿泊させてもらいました。良く歩き回る娘に対してもスタッフの皆様は温かく対応してくださり、おかげさまで終始笑顔な娘でした。」
                   </blockquote>
                 </div>
               </div>
@@ -349,7 +349,7 @@ export default function TargetAudienceHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２５台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「家族旅行今回6名の家族旅行で利用しました。丁寧な接客で気持ち良く過ごすことが出来ました。料理は美味しく朝食のプリンに子供たちは大喜び。洞窟風呂と貸切り風呂に妻も大喜びでした。フロント近…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「家族旅行今回6名の家族旅行で利用しました。丁寧な接客で気持ち良く過ごすことが出来ました。料理は美味しく朝食のプリンに子供たちは大喜び。洞窟風呂と貸切り風呂に妻も大喜びでした。」
                   </blockquote>
                 </div>
               </div>
@@ -393,7 +393,7 @@ export default function TargetAudienceHubPage() {
                   <p>【大人の女子旅・ご褒美温泉：極上スパエステ・アフタヌー】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅前でロケーション最高、朝食も絶品名門ホテルという感じです。スタッフの皆さんは対応はいいと思います。駅前なのでロケーションは最高でした。外観とは違い部屋内も綺麗なため過ごしやすいと思います。朝食ビ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅前でロケーション最高、朝食も絶品名門ホテルという感じです。スタッフの皆さんは対応はいいと思います。駅前なのでロケーションは最高でした。外観とは違い部屋内も綺麗なため過ごしやすいと思います。」
                   </blockquote>
                 </div>
               </div>

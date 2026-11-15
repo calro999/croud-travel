@@ -237,7 +237,7 @@ export default function OkinawaHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 琉球オリオンホテル　那覇国際通り（旧：オリオンホテル那覇）</td>
                 <td className="p-3 text-stone-600">沖縄県那覇市安里1-2-21</td>
-                <td className="p-3 text-stone-600">那覇空港駅周辺</td>
+                <td className="p-3 text-stone-600">那覇空港よりモノレールで約20分、牧志駅より徒歩3分、国際通り沿い、コンビニ、スーパーも目の前の好立地</td>
                 <td className="p-3 text-stone-600">有り（先着順）　1泊1台1,500円</td>
                 <td className="p-3 font-bold text-amber-600">★4.21（837件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,400〜</td>
@@ -246,7 +246,7 @@ export default function OkinawaHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. ホテルＪＡＬシティ那覇（国際通り）</td>
                 <td className="p-3 text-stone-600">沖縄県那覇市牧志1-3-70</td>
-                <td className="p-3 text-stone-600">那覇空港駅周辺</td>
+                <td className="p-3 text-stone-600">那覇空港より車で約15分／沖縄都市モノレール(ゆいレール)美栄橋駅より徒歩約8分/牧志駅より徒歩約10分</td>
                 <td className="p-3 text-stone-600">（1泊1台）1,800円</td>
                 <td className="p-3 font-bold text-amber-600">★4.27（1503件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,863〜</td>
@@ -255,7 +255,7 @@ export default function OkinawaHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. ホテル　サン・クイーン（那覇／国際通り沿い）</td>
                 <td className="p-3 text-stone-600">沖縄県那覇市安里2-4-2-1</td>
-                <td className="p-3 text-stone-600">那覇空港駅周辺</td>
+                <td className="p-3 text-stone-600">モノレール牧志駅より徒歩2分。那覇空港からモノレール・お車とも20分弱。コンビニへ徒歩1分の好立地で好評を頂いております</td>
                 <td className="p-3 text-stone-600">電話・メールにてご予約下さい。メッセージでは受付致しません。満車時は近隣コイン駐車場をご利用下さい。</td>
                 <td className="p-3 font-bold text-amber-600">★3.88（599件）</td>
                 <td className="p-3 font-bold text-rose-600">¥2,800〜</td>
@@ -264,7 +264,7 @@ export default function OkinawaHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. ホテルアートステイ那覇国際通り</td>
                 <td className="p-3 text-stone-600">沖縄県那覇市牧志1-3-43</td>
-                <td className="p-3 text-stone-600">那覇空港駅周辺</td>
+                <td className="p-3 text-stone-600">那覇空港より車で約20分/ゆいレール美栄橋駅・牧志駅から徒歩5分/国際通りまで徒歩30秒/泊港離島ターミナル徒歩15分</td>
                 <td className="p-3 text-stone-600">提携のコインパーキングが1箇所ございます。詳しくはフロントまでお問い合わせ下さいませ。</td>
                 <td className="p-3 font-bold text-amber-600">★4.34（1193件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,770〜</td>
@@ -273,7 +273,7 @@ export default function OkinawaHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">6. ＨＯＴＥＬ　ＴＨＥ　ＣＵＢＥ　那覇国際通り</td>
                 <td className="p-3 text-stone-600">沖縄県那覇市牧志3-13-17</td>
-                <td className="p-3 text-stone-600">ゆいレール「牧志駅」より徒歩１分・国際通りまで徒歩0分♪那覇空港からホ</td>
+                <td className="p-3 text-stone-600">ゆいレール「牧志駅」より徒歩１分・国際通りまで徒歩0分♪那覇空港からホテルまでゆいレールで15分♪</td>
                 <td className="p-3 text-stone-600">無し</td>
                 <td className="p-3 font-bold text-amber-600">★3.89（361件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,400〜</td>
@@ -302,7 +302,7 @@ export default function OkinawaHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有＊予約制＊1泊1,000円(税込)、2026年2月から￥1200円に改定</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スリッパの外出や清掃方法の改善を希望海外のお客様が館内で履くスリッパのまま外出されていました。入り口のスーツケースのタイヤを拭くタオルが乾いたタオルで拭けている気がしませんでした。コストはかか…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スリッパの外出や清掃方法の改善を希望海外のお客様が館内で履くスリッパのまま外出されていました。入り口のスーツケースのタイヤを拭くタオルが乾いたタオルで拭けている気がしませんでした。」
                   </blockquote>
                 </div>
               </div>
@@ -324,7 +324,7 @@ export default function OkinawaHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り（先着順）　1泊1台1,500円</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「トイレットペーパーの補充と対応に不満トイレットペーパーが無くなるという前代未聞の出来事がありました。予備は置いていない。フロントに電話をかけても一向に出ない。仕方ないので取りに行ったら…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「トイレットペーパーの補充と対応に不満トイレットペーパーが無くなるという前代未聞の出来事がありました。予備は置いていない。フロントに電話をかけても一向に出ない。」
                   </blockquote>
                 </div>
               </div>
@@ -346,7 +346,7 @@ export default function OkinawaHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>（1泊1台）1,800円</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「立地やサービスは抜群だが清掃面に難あり旅の最終日に国際通り目的で立地の良いJALホテルを選びました。立地、フロントの対応、荷物が送れる、タクシーの配車のスムーズさなどサービスは抜群。翌日の午前便の…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「立地やサービスは抜群だが清掃面に難あり旅の最終日に国際通り目的で立地の良いJALホテルを選びました。立地、フロントの対応、荷物が送れる、タクシーの配車のスムーズさなどサービスは抜群。」
                   </blockquote>
                 </div>
               </div>
@@ -390,7 +390,7 @@ export default function OkinawaHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>提携のコインパーキングが1箇所ございます。詳しくはフロントまでお問い合わせ下さいませ。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「デラックスツインは広くて快適、設備も充実デラックスツインに宿泊 前日はここがとれず別室の狭いツインに宿泊してたこともあり、広くて快適でした壁一面に絵が描かれてて、広い引き戸のクローゼット、洗面…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「デラックスツインは広くて快適、設備も充実デラックスツインに宿泊 前日はここがとれず別室の狭いツインに宿泊してたこともあり、広くて快適でした壁一面に絵が描かれてて、広い引き戸のクローゼット、洗面。」
                   </blockquote>
                 </div>
               </div>
@@ -412,7 +412,7 @@ export default function OkinawaHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無し</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.08 ／ 立地 ★4.11 ／ 部屋 ★3.73 ／ 設備 ★3.77 ／ 風呂 ★3.63 ／ 食事 ★3.79</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの対応と清潔感、立地が素晴らしいスタッフの方が親切で気持ちが良いです。シャワールームとトイレの清潔感もバッチリです。また、ウェルカムドリンクのサービスが充実しています。夕方には泡盛3種類が…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの対応と清潔感、立地が素晴らしいスタッフの方が親切で気持ちが良いです。シャワールームとトイレの清潔感もバッチリです。また、ウェルカムドリンクのサービスが充実しています。」
                   </blockquote>
                 </div>
               </div>

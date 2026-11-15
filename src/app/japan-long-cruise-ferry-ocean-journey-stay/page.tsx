@@ -253,7 +253,7 @@ export default function RailwayActivityHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 天然温泉　萩の湯　ドーミーイン仙台駅前（ドーミーイン・御宿野乃　ホテルズグループ）</td>
                 <td className="p-3 text-stone-600">宮城県仙台市青葉区本町1-5-38</td>
-                <td className="p-3 text-stone-600">仙台駅周辺</td>
+                <td className="p-3 text-stone-600">JR仙台駅西口より徒歩約5分。東北道宮城ＩＣより１５分。仙台空港線で約３０分。高速バス停留所より徒歩２分。駅前通沿い。</td>
                 <td className="p-3 text-stone-600">平面駐車場１泊2,000円(15台分)高さ２．３ｍ以下まで（要電話予約）満車時は近隣駐車場案内</td>
                 <td className="p-3 font-bold text-amber-600">★4.2（5694件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,600〜</td>
@@ -262,7 +262,7 @@ export default function RailwayActivityHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 仙台　秋保温泉　ホテル瑞鳳</td>
                 <td className="p-3 text-stone-600">宮城県仙台市太白区秋保町湯元除26-1</td>
-                <td className="p-3 text-stone-600">仙台駅周辺</td>
+                <td className="p-3 text-stone-600">東北自動車道仙台南ICより15分。仙台市街地まで車で約40分。JR仙台駅東口無料シャトルバス運行（※定員制のため要予約）</td>
                 <td className="p-3 text-stone-600">約３００台駐車可能な無料駐車場完備。少し離れた当館駐車場へは送迎あり。</td>
                 <td className="p-3 font-bold text-amber-600">★4.47（6863件）</td>
                 <td className="p-3 font-bold text-rose-600">¥14,000〜</td>
@@ -271,7 +271,7 @@ export default function RailwayActivityHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 天然温泉　杜都の湯　御宿　野乃仙台（ドーミーイン・御宿野乃　ホテルズグループ）</td>
                 <td className="p-3 text-stone-600">宮城県仙台市青葉区本町2-2-5</td>
-                <td className="p-3 text-stone-600">仙台駅周辺</td>
+                <td className="p-3 text-stone-600">JR仙台駅西口より徒歩12分 仙台市営地下鉄南北線広瀬通駅東2番出口目の前</td>
                 <td className="p-3 text-stone-600">無し</td>
                 <td className="p-3 font-bold text-amber-600">★4.56（684件）</td>
                 <td className="p-3 font-bold text-rose-600">¥10,230〜</td>
@@ -280,7 +280,7 @@ export default function RailwayActivityHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 天然温泉　青葉の湯　ドーミーイン仙台ＡＮＮＥＸ（ドーミーイン・御宿野乃　ホテルズグループ）</td>
                 <td className="p-3 text-stone-600">宮城県仙台市青葉区中央2-11-26</td>
-                <td className="p-3 text-stone-600">仙台駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ仙台駅より徒歩約6分 地下鉄広瀬通駅より徒歩約2分</td>
                 <td className="p-3 text-stone-600">要電話予約　契約駐車場15台2000円。満車時は近隣駐車場案内。</td>
                 <td className="p-3 font-bold text-amber-600">★4.29（4820件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,875〜</td>
@@ -289,7 +289,7 @@ export default function RailwayActivityHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. ホテル　水明閣</td>
                 <td className="p-3 text-stone-600">北海道余市郡余市町山田町687</td>
-                <td className="p-3 text-stone-600">余市駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ余市駅より約３キロ、タクシー片道1200円程度／札樽自動車道・札幌西～仁木ＩＣ経由 約４５分</td>
                 <td className="p-3 text-stone-600">有り　６０台（青空駐車）　無料　大型バス・トラックなど歓迎（建物向かって右側スペース）</td>
                 <td className="p-3 font-bold text-amber-600">★4.33（428件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,600〜</td>
@@ -298,7 +298,7 @@ export default function RailwayActivityHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">6. 湖畔の宿　吉田家　＜佐渡島＞</td>
                 <td className="p-3 text-stone-600">新潟県佐渡市両津夷261-1</td>
-                <td className="p-3 text-stone-600">佐渡空港駅周辺</td>
+                <td className="p-3 text-stone-600">佐渡汽船 両津港よりお車にて５分。無料送迎バス有り（要予約）</td>
                 <td className="p-3 text-stone-600">有り　６０台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.26（462件）</td>
                 <td className="p-3 font-bold text-rose-600">¥9,680〜</td>
@@ -393,7 +393,7 @@ export default function RailwayActivityHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>要電話予約　契約駐車場15台2000円。満車時は近隣駐車場案内。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「街の中心部に位置し、仙台駅まで徒歩数分でした。立地は大変満足でした。しかしながら、立体駐車場が隣にありますが、少しでも大きな車だと入れず、付近のコインパーキングに止める羽目になります。実際、車幅190…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「街の中心部に位置し、仙台駅まで徒歩数分でした。立地は大変満足でした。しかしながら、立体駐車場が隣にありますが、少しでも大きな車だと入れず、付近のコインパーキングに止める羽目になります。」
                   </blockquote>
                 </div>
               </div>
@@ -415,7 +415,7 @@ export default function RailwayActivityHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　６０台（青空駐車）　無料　大型バス・トラックなど歓迎（建物向かって右側スペース）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「フロントの対応は良いが運営面に不安ありフロントの方の穏やかな対応に癒されました。一方で、領収書の宛名が違っていたり、飲んでいないドリンクの料金を求められそうになったり、運営大丈夫かと感じる瞬間もあ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「フロントの対応は良いが運営面に不安ありフロントの方の穏やかな対応に癒されました。」
                   </blockquote>
                 </div>
               </div>
@@ -437,7 +437,7 @@ export default function RailwayActivityHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　６０台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「清潔で広い部屋と蟹づくし、最高のロケーション建物の経年感はあるもののとても清潔で気持ちよく過ごせました。家族5人で利用しましたがとても広い部屋でゆっくりすることができました。スタッフの方の対応も素…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「清潔で広い部屋と蟹づくし、最高のロケーション建物の経年感はあるもののとても清潔で気持ちよく過ごせました。家族5人で利用しましたがとても広い部屋でゆっくりすることができました。」
                   </blockquote>
                 </div>
               </div>

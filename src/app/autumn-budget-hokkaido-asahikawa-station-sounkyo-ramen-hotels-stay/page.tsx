@@ -401,7 +401,7 @@ export default function AutumnBudgetHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. ワイズホテル　旭川駅前</td>
                 <td className="p-3 text-stone-600">北海道旭川市宮下通9-2-17</td>
-                <td className="p-3 text-stone-600">旭川駅周辺</td>
+                <td className="p-3 text-stone-600">JR旭川駅隣接、旭山動物園や旭川空港行が発着するバス停はホテル目の前の好立地♪</td>
                 <td className="p-3 text-stone-600">有料駐車場有 ホテル裏（タイムズツルハビル旭川駅前）１泊１２００円　マップコード「79343232」</td>
                 <td className="p-3 font-bold text-amber-600">★4.3（1426件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,900〜</td>
@@ -410,7 +410,7 @@ export default function AutumnBudgetHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. ＫＯＫＯ　ＨＯＴＥＬ　旭川駅前</td>
                 <td className="p-3 text-stone-600">北海道旭川市宮下通7-3112</td>
-                <td className="p-3 text-stone-600">旭川駅周辺</td>
+                <td className="p-3 text-stone-600">旭川駅より徒歩にて約2分</td>
                 <td className="p-3 text-stone-600">契約駐車場（イオンモール旭川駅前）1泊1000円。出庫毎に料金がかかります。フロントにてご精算下さい</td>
                 <td className="p-3 font-bold text-amber-600">★4.17（1630件）</td>
                 <td className="p-3 font-bold text-rose-600">¥2,805〜</td>
@@ -419,7 +419,7 @@ export default function AutumnBudgetHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 天人峡天然温泉　「旅人の湯」ホテルルートインＧｒａｎｄ旭川駅前</td>
                 <td className="p-3 text-stone-600">北海道旭川市宮下通8-1962-1</td>
-                <td className="p-3 text-stone-600">旭川駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ 旭川駅より徒歩にて約２分</td>
                 <td className="p-3 text-stone-600">立体駐車場176台　1泊800円（税込）　予約不可/先着順　バイク駐車不可（近隣駐車場へご案内）</td>
                 <td className="p-3 font-bold text-amber-600">★4.28（1543件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,750〜</td>
@@ -428,7 +428,7 @@ export default function AutumnBudgetHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. ホテルテトラ旭川駅前</td>
                 <td className="p-3 text-stone-600">北海道旭川市1条通9丁目左1号</td>
-                <td className="p-3 text-stone-600">旭川駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ 旭川駅より徒歩にて約５分</td>
                 <td className="p-3 text-stone-600">提携先：ハートピアパーキング　旭川市1条通7丁目43-40　※ オートバイ除く、高さ2.1ｍ以下の車</td>
                 <td className="p-3 font-bold text-amber-600">★3.79（369件）</td>
                 <td className="p-3 font-bold text-rose-600">¥2,700〜</td>
@@ -437,7 +437,7 @@ export default function AutumnBudgetHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. ルートイン旭川駅前一条通</td>
                 <td className="p-3 text-stone-600">北海道旭川市1条通6町目39-1</td>
-                <td className="p-3 text-stone-600">旭川駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ 函館本線 旭川駅から徒歩５分／道央自動車道旭川鷹柄ＩＣより約７㎞車で２０分</td>
                 <td className="p-3 text-stone-600">有り★１台１泊６００円〜１100円★バイク駐輪場なし★大型車は要予約（ホテルへご連絡下さい）</td>
                 <td className="p-3 font-bold text-amber-600">★4.05（1597件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,900〜</td>
@@ -466,7 +466,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有料駐車場有 ホテル裏（タイムズツルハビル旭川駅前）１泊１２００円　マップコード「79343232」</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.3 ／ 立地 ★4.39 ／ 部屋 ★4.34 ／ 設備 ★4.28 ／ 風呂 ★4.27 ／ 食事 ★4.26</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「立地が良く朝食の海鮮丼に大満足朝食付きツインルームを予約した。窓からは駅前ターミナルが見え、イオンが真向かいで便利な立地だった。狭すぎないツインルームである事、ある程度のレベルの朝食が出る事が条件…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「立地が良く朝食の海鮮丼に大満足朝食付きツインルームを予約した。窓からは駅前ターミナルが見え、イオンが真向かいで便利な立地だった。」
                   </blockquote>
                 </div>
               </div>

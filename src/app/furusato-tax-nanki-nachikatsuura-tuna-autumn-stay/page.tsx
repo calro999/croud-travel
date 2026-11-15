@@ -439,7 +439,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 南紀勝浦温泉　くつろぎの宿　料理旅館　万清楼</td>
                 <td className="p-3 text-stone-600">和歌山県東牟婁郡那智勝浦町勝浦448</td>
-                <td className="p-3 text-stone-600">紀伊勝浦駅周辺</td>
+                <td className="p-3 text-stone-600">JR「紀伊勝浦駅」より徒歩約7分／大阪から紀勢自動車道「すさみ南IC」経由で約3時間半</td>
                 <td className="p-3 text-stone-600">20台（無料）／専用駐車場は当館横と裏側にあります。</td>
                 <td className="p-3 font-bold text-amber-600">★4.39（821件）</td>
                 <td className="p-3 font-bold text-rose-600">¥13,200〜</td>
@@ -448,7 +448,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 南紀勝浦温泉　ホテル浦島</td>
                 <td className="p-3 text-stone-600">和歌山県東牟婁郡那智勝浦町勝浦1165-2</td>
-                <td className="p-3 text-stone-600">紀伊勝浦駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ紀勢線 紀伊勝浦駅から徒歩6分で桟橋へ。更に専用ボート又は、シャトルバスで５分 詳しくは交通案内ページをご覧ください</td>
                 <td className="p-3 text-stone-600">400台（無料）／駐車場はホテルより離れた場所にございます。詳しくは交通案内ページをご覧ください</td>
                 <td className="p-3 font-bold text-amber-600">★4.22（6497件）</td>
                 <td className="p-3 font-bold text-rose-600">¥10,450〜</td>
@@ -457,7 +457,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 南紀勝浦温泉　ホテルなぎさや</td>
                 <td className="p-3 text-stone-600">和歌山県東牟婁郡那智勝浦町大字湯川955番地の1</td>
-                <td className="p-3 text-stone-600">紀伊勝浦駅周辺</td>
+                <td className="p-3 text-stone-600">JR「紀伊勝浦駅」より車で約5分（事前予約で送迎サービス有）／大阪から紀勢自動車道「すさみ南IC」経由で約3時間半</td>
                 <td className="p-3 text-stone-600">50台（無料）</td>
                 <td className="p-3 font-bold text-amber-600">★3.94（697件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,800〜</td>
@@ -486,7 +486,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>20台（無料）／専用駐車場は当館横と裏側にあります。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「15年振りの利用も変わらぬ美味しさと親切な接客約15年振りに利用させてもらいました。朝夕食は変わらず大変美味しく本当に大満足でした!給仕の方も皆さん親切で気持ちよく過ごすことができました。ありがと…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「15年振りの利用も変わらぬ美味しさと親切な接客約15年振りに利用させてもらいました。朝夕食は変わらず大変美味しく本当に大満足でした!給仕の方も皆さん親切で気持ちよく過ごすことができました。」
                   </blockquote>
                 </div>
               </div>
@@ -530,7 +530,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>50台（無料）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.9 ／ 立地 ★4.14 ／ 部屋 ★3.71 ／ 設備 ★3.59 ／ 風呂 ★4.05 ／ 食事 ★4.03</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「露天風呂への移動が怖く食事も不便潮見の湯という露天風呂は、大浴場から また衣服を着て移動します。その経路が夜間は1人では怖い気がします。また、露天風呂からの海の眺めは期待したほどではなかっ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「露天風呂への移動が怖く食事も不便潮見の湯という露天風呂は、大浴場から また衣服を着て移動します。その経路が夜間は1人では怖い気がします。」
                   </blockquote>
                 </div>
               </div>

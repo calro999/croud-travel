@@ -104,7 +104,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F28586%2F28586.html%26f_flg%3DPLAN",
     "hotelMinCharge": 14300,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/28586/28586.jpg",
-    "userReview": "杖立温泉　葉隠館ならではの立地と落ち着いた空間で、ゆったりとした滞在を楽しめたという声が寄せられています。",
+    "userReview": "杖立温泉 葉隠館ならではの立地と落ち着いた空間で、ゆったりとした滞在を楽しめたという声が寄せられています。",
     "reviewAverage": 3.78,
     "reviewCount": 538,
     "address": "熊本県阿蘇郡小国町下城3336",
@@ -269,8 +269,8 @@ export default function Page() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 那須塩原駅よりアクセス。無料送迎 ＜往路＞那須塩原駅西口12：30発 ＜復路＞SPA和薬草10：00発。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「板室別邸リトリート SPA和薬草」にチェックイン。那須の秘境で湯治体験。様々なコンテンツであなただけのオリジナルリトリート時間を。などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「板室別邸リトリート SPA和薬草」の湯処へ。那須の秘境で湯治体験。様々なコンテンツであなただけのオリジナルリトリーとともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「板室別邸リトリート SPA和薬草」にチェックイン。那須の秘境で湯治体験。様々なコンテンツであなただけのオリジナルリトリート時間を。 窓外に広がる景色を眺めながらチェックイン後の寛ぎ時間を。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「板室別邸リトリート SPA和薬草」の湯船で寛ぎタイム。季節の空気を感じながら手足を伸ばし、心豊かな夕方のリラックス時間を満喫。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「板室別邸リトリート SPA和薬草」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -282,7 +282,7 @@ export default function Page() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「板室別邸リトリート SPA和薬草」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「板室別邸リトリート SPA和薬草」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「定山渓温泉 女性のための宿 翠蝶館」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は宿周辺の散策とショッピングを満喫。地元の名産品やグルメを味わってから余裕をもって帰路につく。</li>
               </ul>
             </div>
           </div>
@@ -410,7 +410,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 板室別邸リトリート　SPA和薬草</td>
                 <td className="p-3 text-stone-600">栃木県那須塩原市板室841-14</td>
-                <td className="p-3 text-stone-600">【無料送迎】＜往路＞那須塩原駅西口12：30発　＜復路＞SPA和薬草1</td>
+                <td className="p-3 text-stone-600">【無料送迎】＜往路＞那須塩原駅西口12：30発 ＜復路＞SPA和薬草10：00発</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.55（133件）</td>
                 <td className="p-3 font-bold text-rose-600">¥21,440〜</td>
@@ -419,7 +419,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 定山渓温泉　女性のための宿　翠蝶館（旧：定山渓温泉　Ｓｐａ＆Ｅｓｔｈｅｔｉｑｕｅ　翠蝶館）</td>
                 <td className="p-3 text-stone-600">北海道札幌市南区定山渓温泉西3-57</td>
-                <td className="p-3 text-stone-600">札幌駅周辺</td>
+                <td className="p-3 text-stone-600">札幌より無料送迎バス運行（要予約） ／ＪＲ札幌駅より車で60分／新千歳空港より車で約2時間</td>
                 <td className="p-3 text-stone-600">有り　２０台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.61（543件）</td>
                 <td className="p-3 font-bold text-rose-600">¥12,590〜</td>
@@ -437,7 +437,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. びわ湖畔　味覚の宿　双葉荘</td>
                 <td className="p-3 text-stone-600">滋賀県彦根市松原町網代口1377</td>
-                <td className="p-3 text-stone-600">JR琵琶湖線彦根駅下車、タクシー約7分　名神高速道路彦根ＩＣより湖岸方</td>
+                <td className="p-3 text-stone-600">JR琵琶湖線彦根駅下車、タクシー約7分 名神高速道路彦根ＩＣより湖岸方面へ10分 無料駐車場</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.6（131件）</td>
                 <td className="p-3 font-bold text-rose-600">¥10,450〜</td>
@@ -466,7 +466,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「自分を労わる体験とヘルシーな食事に満足瞑想や自分でできるお灸など、自分を労わる体験がとてもよかったです。また自分の状況に合わせたお茶も自由にブレンドして飲めたり、バスタオルやお水も自分もペースで頂…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「自分を労わる体験とヘルシーな食事に満足瞑想や自分でできるお灸など、自分を労わる体験がとてもよかったです。」
                   </blockquote>
                 </div>
               </div>
@@ -488,7 +488,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２０台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.63 ／ 立地 ★4.45 ／ 部屋 ★4.54 ／ 設備 ★4.55 ／ 風呂 ★4.53 ／ 食事 ★4.67</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「女性への配慮が行き届き、一人旅でも快適女性目線でいろいろ配慮があって、また泊まりたいと思わせてくれるお宿でした。1人旅でしたが、他にも1人旅らしき方を数名お見かけしました。ごはんも、見た目…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「女性への配慮が行き届き、一人旅でも快適女性目線でいろいろ配慮があって、また泊まりたいと思わせてくれるお宿でした。1人旅でしたが、他にも1人旅らしき方を数名お見かけしました。」
                   </blockquote>
                 </div>
               </div>
@@ -532,7 +532,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「お客様ファーストで食事も美味しい90点の宿家族経営の旅館は、基本?って思う所が多い中なか、双葉荘はちゃんとお客様ファーストのいい旅館でした。夜は近江牛、朝は地元の佃煮や温泉玉子、海苔、点数をつける…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「お客様ファーストで食事も美味しい90点の宿家族経営の旅館は、基本?って思う所が多い中なか、双葉荘はちゃんとお客様ファーストのいい旅館でした。」
                   </blockquote>
                 </div>
               </div>

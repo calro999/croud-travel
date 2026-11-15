@@ -253,7 +253,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 熱海温泉　旅館　立花</td>
                 <td className="p-3 text-stone-600">静岡県熱海市昭和町5-13</td>
-                <td className="p-3 text-stone-600">熱海駅周辺</td>
+                <td className="p-3 text-stone-600">東名厚木ＩＣより小田原厚木有料道路経由、国道１３５号で熱海へ／ＪＲ熱海駅</td>
                 <td className="p-3 text-stone-600">有り２５台　料金：1,000円（税込／泊）お車でご来館の際は一度玄関前にお越しください。</td>
                 <td className="p-3 font-bold text-amber-600">★4.17（516件）</td>
                 <td className="p-3 font-bold text-rose-600">¥12,100〜</td>
@@ -262,7 +262,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 熱海温泉　ホテル　サンミ倶楽部</td>
                 <td className="p-3 text-stone-600">静岡県熱海市和田浜南町5-8</td>
-                <td className="p-3 text-stone-600">熱海駅周辺</td>
+                <td className="p-3 text-stone-600">JR東海道線『熱海駅』より東海バス『マリンスパあたみ』下車 徒歩1分</td>
                 <td className="p-3 text-stone-600">50台　有料（1100円）※ご利用時間はご宿泊日の12時からチェックアウト日の10時までとなります。</td>
                 <td className="p-3 font-bold text-amber-600">★3.92（969件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,352〜</td>
@@ -271,7 +271,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 熱海温泉　月の栖　熱海聚楽ホテル</td>
                 <td className="p-3 text-stone-600">静岡県熱海市田原本町2-19</td>
-                <td className="p-3 text-stone-600">熱海駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ東海道線「熱海駅」～仲見世通り商店街を抜けて徒歩３分。高台に建つ和風旅館。海と街の景色が人気。露天風呂付客室3室有り</td>
                 <td className="p-3 text-stone-600">有り（有料）１泊　1760円（税込）　お車は当館の玄関前に直接お寄せください。</td>
                 <td className="p-3 font-bold text-amber-600">★4.4（2598件）</td>
                 <td className="p-3 font-bold text-rose-600">¥17,600〜</td>
@@ -280,7 +280,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 湯宿　みかんの木</td>
                 <td className="p-3 text-stone-600">静岡県熱海市東海岸町1-11</td>
-                <td className="p-3 text-stone-600">熱海駅周辺</td>
+                <td className="p-3 text-stone-600">徒歩：ＪＲ熱海駅より約12分。坂の途中のため御御足が悪い方はタクシーがオススメです。車：「ホテルかつら」脇の路地を３０ｍ</td>
                 <td className="p-3 text-stone-600">有り　7台　駐車場利用は1100円税込　要予約</td>
                 <td className="p-3 font-bold text-amber-600">★4.26（628件）</td>
                 <td className="p-3 font-bold text-rose-600">¥9,150〜</td>
@@ -289,7 +289,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 熱海温泉　ホテル大野屋（伊東園ホテルズ）</td>
                 <td className="p-3 text-stone-600">静岡県熱海市和田浜南町3-9</td>
-                <td className="p-3 text-stone-600">熱海駅より路線バス（乗り場７）にて、「マリンスパあたみ」下車　／　車で</td>
+                <td className="p-3 text-stone-600">熱海駅より路線バス（乗り場７）にて、「マリンスパあたみ」下車 ／ 車で「長泉IC」から伊豆縦貫・函熱道路で６０分</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★3.93（2145件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,898〜</td>
@@ -298,7 +298,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">6. 熱海温泉　伊東園ホテル熱海館</td>
                 <td className="p-3 text-stone-600">静岡県熱海市田原本町4-16</td>
-                <td className="p-3 text-stone-600">熱海駅周辺</td>
+                <td className="p-3 text-stone-600">熱海駅より徒歩にて２分</td>
                 <td className="p-3 text-stone-600">有り　５０台　マイクロバス不可　ご利用可能時間：チェックイン日１３時～チェックアウト日１1時まで</td>
                 <td className="p-3 font-bold text-amber-600">★3.62（2638件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,248〜</td>
@@ -327,7 +327,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り２５台　料金：1,000円（税込／泊）お車でご来館の際は一度玄関前にお越しください。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「女性陣、みんな平気なの?熱海到着が遅くなるため食事は無理と素泊まり。素泊まりならビジネスホテルでも良かったけどせっかく熱海に来たんだから温泉に入りたくて宿泊しました。夜大浴場?に入り翌朝露…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「女性陣、みんな平気なの?熱海到着が遅くなるため食事は無理と素泊まり。素泊まりならビジネスホテルでも良かったけどせっかく熱海に来たんだから温泉に入りたくて宿泊しました。」
                   </blockquote>
                 </div>
               </div>
@@ -349,7 +349,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>50台　有料（1100円）※ご利用時間はご宿泊日の12時からチェックアウト日の10時までとなります。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「三世代で熱海を満喫、景色と親切な対応に感動孫と三世代で 初めての熱海で ホテルの従業員の方は 親切で また 部屋から海が見えて景色よく感動しましたマリンスパ熱海のプールへ 目の前すぐ行ける…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「三世代で熱海を満喫、景色と親切な対応に感動孫と三世代で 初めての熱海で ホテルの従業員の方は 親切で また 部屋から海が見えて景色よく感動しましたマリンスパ熱海のプールへ 目の前すぐ行ける。」
                   </blockquote>
                 </div>
               </div>
@@ -371,7 +371,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り（有料）１泊　1760円（税込）　お車は当館の玄関前に直接お寄せください。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ご飯が美味しくボリューム満点で大満足今回2回目の宿泊です。とてもご飯が美味しく、ボリューム満点で大満足です。ここより美味しく満足できるご飯は、なかなかないと思います。商店街からも近く、立地も最…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ご飯が美味しくボリューム満点で大満足今回2回目の宿泊です。とてもご飯が美味しく、ボリューム満点で大満足です。ここより美味しく満足できるご飯は、なかなかないと思います。」
                   </blockquote>
                 </div>
               </div>
@@ -415,7 +415,7 @@ export default function MicroTouristHubPage() {
                   <p>【静岡・熱海温泉：海上花火＆サンビーチ・相模湾オーシャ】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「館内の清掃不足と危険な温度設定に不満建物の老朽は致し方のないことですが、館内室内の清潔さは努力できると思います。ロビーに置かれた椅子は長年お客様に愛用されてきた暁なのでしょうか、背もたれの首の…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「館内の清掃不足と危険な温度設定に不満建物の老朽は致し方のないことですが、館内室内の清潔さは努力できると思います。」
                   </blockquote>
                 </div>
               </div>
@@ -437,7 +437,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　５０台　マイクロバス不可　ご利用可能時間：チェックイン日１３時～チェックアウト日１1時まで</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「別館の吹抜けとトレインビューに大満足家族で別館に宿泊しました。チェックイン前(13時)に車を停めさせていただけたので熱海の商店街を探索できました。15時にチェックインしましたが、別館のロビ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「別館の吹抜けとトレインビューに大満足家族で別館に宿泊しました。チェックイン前(13時)に車を停めさせていただけたので熱海の商店街を探索できました。」
                   </blockquote>
                 </div>
               </div>

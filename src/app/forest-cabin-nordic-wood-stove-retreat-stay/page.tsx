@@ -76,7 +76,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F190680%2F190680.html%26f_flg%3DPLAN",
     "hotelMinCharge": 10826,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/190680/190680.jpg",
-    "userReview": "薪ストーブ付き貸切コテージ【千一の宿】－　ガイアリゾート　＾ならではの立地と落ち着いた空間で、ゆったりとした滞在を楽しめたという声が寄せられています。",
+    "userReview": "薪ストーブ付き貸切コテージ【千一の宿】－ ガイアリゾート ＾ならではの立地と落ち着いた空間で、ゆったりとした滞在を楽しめたという声が寄せられています。",
     "reviewAverage": 4.4,
     "reviewCount": 100,
     "address": "宮城県刈田郡蔵王町遠刈田温泉字八山4-２4３　薪ストーブ付き貸切コテージ【千一の宿】-　ガイアリゾート",
@@ -118,7 +118,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F166560%2F166560.html%26f_flg%3DPLAN",
     "hotelMinCharge": 14230,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/166560/166560.jpg",
-    "userReview": "愛犬とのお部屋は清潔で眺めも最高!愛犬とはじめて宿泊しました。駐車場からのアクセスは急斜面と階段で少々きつかったです。外観は古めですがお部屋の中はとっても清潔で素敵なお部屋でし。",
+    "userReview": "愛犬とのお部屋は清潔で眺めも最高!愛犬とはじめて宿泊しました。駐車場からのアクセスは急斜面と階段で少々きつかったです。外観は古めですがお部屋の中はとっても清潔で素敵なお部屋でした。",
     "reviewAverage": 3.94,
     "reviewCount": 142,
     "address": "長野県安曇野市穂高牧2230",
@@ -284,7 +284,7 @@ export default function Page() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 東白石駅から車で約２３分で現地へ到着。</li>
                 <li>・<strong className="text-stone-800">15:30〜</strong> 「薪ストーブ付き貸切コテージ【千一の宿】－ ガイアリゾート ＾」へチェックイン。落ち着いた空間で旅の荷を解き、ゆったりとした時間をスタート。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「薪ストーブ付き貸切コテージ【千一の宿】－ ガイアリゾート ＾」の湯処へ。日頃の疲れを癒やす湯浴みとともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「薪ストーブ付き貸切コテージ【千一の宿】－ ガイアリゾート ＾」の大浴場・露天風呂へ。日暮れの静けさの中で湯に浸かり、旅の緊張をゆっくりと解きほぐす。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「薪ストーブ付き貸切コテージ【千一の宿】－ ガイアリゾート ＾」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -296,7 +296,7 @@ export default function Page() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「薪ストーブ付き貸切コテージ【千一の宿】－ ガイアリゾート ＾」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「薪ストーブ付き貸切コテージ【千一の宿】－ ガイアリゾート ＾」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「カナディアンログコテージＴＡＫＩＴＡＲＯ」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は宿周辺の散策とショッピングを満喫。地元の名産品やグルメを味わってから余裕をもって帰路につく。</li>
               </ul>
             </div>
           </div>
@@ -484,7 +484,7 @@ export default function Page() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/190680/190680.jpg" alt="薪ストーブ付き貸切コテージ【千一の宿】－　ガイアリゾート　＾ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
-                  <p><strong>【宿の特徴・魅力】</strong>「パチパチ爆ぜる薪ストーブと木の香り（北欧風ログキャビン＆森林温泉リトリート5選）」掲載宿の所在地・アクセス・特徴データ一覧は、周辺の観光巡りにも便利で快適な滞在環境が整った宿泊施設です。</p>
+                  <p><strong>【宿の特徴・魅力】</strong>薪ストーブ付き貸切コテージ【千一の宿】－　ガイアリゾート　＾は、周辺の観光巡りにも便利で快適な滞在環境が整った宿泊施設です。</p>
                   <p><strong>【所在地・アクセス】</strong>交通案内：東白石駅から車で約２３分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
@@ -511,7 +511,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「静かなコテージで仕事も休日も大満喫!静かなところで集中して仕事をしつつリラックスしたいな、、と思いこちらに宿泊しました。イメージどおりの素敵なコテージ!平日だったせいか大きめの棟を貸してく…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「静かなコテージで仕事も休日も大満喫!静かなところで集中して仕事をしつつリラックスしたいな、、と思いこちらに宿泊しました。イメージどおりの素敵なコテージ!」
                   </blockquote>
                 </div>
               </div>
@@ -533,7 +533,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「チェックイン時の案内不足があったけれど、お食事とお風呂は大満足でした。自動チェックイン機で18時くらいにチェックインしたのですが、お風呂の時間、朝食の時間、朝食の場所など何もわかりませんでした。チ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「チェックイン時の案内不足があったけれど、お食事とお風呂は大満足でした。自動チェックイン機で18時くらいにチェックインしたのですが、お風呂の時間、朝食の時間、朝食の場所など何もわかりませんでした。」
                   </blockquote>
                 </div>
               </div>
@@ -555,7 +555,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「愛犬とのお部屋は清潔で眺めも最高!愛犬とはじめて宿泊しました。駐車場からのアクセスは急斜面と階段で少々きつかったです。外観は古めですがお部屋の中はとっても清潔で素敵なお部屋でし…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「愛犬とのお部屋は清潔で眺めも最高!愛犬とはじめて宿泊しました。駐車場からのアクセスは急斜面と階段で少々きつかったです。」
                   </blockquote>
                 </div>
               </div>
@@ -577,7 +577,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「大人の隠れ家で過ごす、格別なコーヒータイム美瑛・富良野方面の観光のため、妻と2人で1泊させていただきました。3泊4日の行程の中で、1泊はコテージに泊まりたいと考えて探していたところ、一棟貸…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「大人の隠れ家で過ごす、格別なコーヒータイム美瑛・富良野方面の観光のため、妻と2人で1泊させていただきました。」
                   </blockquote>
                 </div>
               </div>

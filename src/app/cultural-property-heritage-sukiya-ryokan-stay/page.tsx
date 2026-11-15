@@ -334,7 +334,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 国登録有形文化財の宿　人吉温泉　芳野旅館</td>
                 <td className="p-3 text-stone-600">熊本県人吉市上青井町180</td>
-                <td className="p-3 text-stone-600">人吉駅周辺</td>
+                <td className="p-3 text-stone-600">人吉ICより車で約8分</td>
                 <td className="p-3 text-stone-600">有り　30台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.37（135件）</td>
                 <td className="p-3 font-bold text-rose-600">¥12,100〜</td>
@@ -343,7 +343,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 美保関温泉　旅館　美保館　国文化財の宿</td>
                 <td className="p-3 text-stone-600">島根県松江市美保関町美保関570</td>
-                <td className="p-3 text-stone-600">境港駅周辺</td>
+                <td className="p-3 text-stone-600">境港駅・米子空港よりタクシーで２０分／松江駅よりバスで１時間／米子ＩＣより３０分／送迎有（有料）</td>
                 <td className="p-3 text-stone-600">有り　５０台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.55（365件）</td>
                 <td className="p-3 font-bold text-rose-600">¥13,200〜</td>
@@ -352,7 +352,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 別所温泉　旅館　花屋</td>
                 <td className="p-3 text-stone-600">長野県上田市別所温泉169番地　【文化庁登録有形文化財選定】宮大工が造った老舗旅館　大正浪漫漂う温泉宿　旅館花屋</td>
-                <td className="p-3 text-stone-600">別所温泉駅周辺</td>
+                <td className="p-3 text-stone-600">JR上田駅より乗換・上田交通別所線別所温泉駅下車徒歩約５分（当地で最も駅に近い旅館）◆上信越道上田菅平ＩＣより車で３０分</td>
                 <td className="p-3 text-stone-600">◆約３０台分の無料駐車場あり◆全室Wi－Fi完備◆全室禁煙（喫煙室あり）◆当地で最大湯量の天然温泉</td>
                 <td className="p-3 font-bold text-amber-600">★4.56（624件）</td>
                 <td className="p-3 font-bold text-rose-600">¥29,500〜</td>
@@ -403,7 +403,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　５０台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駐車場は少し不便、建物裏手の管理が残念車が少し離れた場所に駐車するため、少し不便さを感じたあまり大きい車両では通れないかもだが、荷物を運び込む為に近くまで行くことはできる(私はTOYOTAヴォ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駐車場は少し不便、建物裏手の管理が残念車が少し離れた場所に駐車するため、少し不便さを感じたあまり大きい車両では通れないかもだが、荷物を運び込む為に近くまで行くことはできる(私はTOYOTAヴォ。」
                   </blockquote>
                 </div>
               </div>
@@ -425,7 +425,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>◆約３０台分の無料駐車場あり◆全室Wi－Fi完備◆全室禁煙（喫煙室あり）◆当地で最大湯量の天然温泉</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.6 ／ 立地 ★4.55 ／ 部屋 ★4.49 ／ 設備 ★4.29 ／ 風呂 ★4.52 ／ 食事 ★4.56</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「静かな環境とレトロな温泉、食事に課題あり別所温泉の駅から歩ける距離で、温泉街から少し離れていて静かで敷地も広く、趣きと歴史ある建物で、落ち着きます。温泉もステンドグラスのレトロな内装で個性…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「静かな環境とレトロな温泉、食事に課題あり別所温泉の駅から歩ける距離で、温泉街から少し離れていて静かで敷地も広く、趣きと歴史ある建物で、落ち着きます。」
                   </blockquote>
                 </div>
               </div>

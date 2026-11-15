@@ -412,8 +412,8 @@ export default function FurusatoPrivateRoomSaunaTotonoiStayPage() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 熱海駅よりアクセス。ＪＲ東海道線・熱海駅より車で約10分。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「ＩＳＨＩＮＯＹＡ熱海／石のや熱海」にチェックイン。23年4月サウナ付客室オープン♪屋上テラスから海と海上花火大会が楽しめるホテル。などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「ＩＳＨＩＮＯＹＡ熱海／石のや熱海」の湯処へ。23年4月サウナ付客室オープン♪屋上テラスから海と海上花火大会が楽しめとともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「ＩＳＨＩＮＯＹＡ熱海／石のや熱海」にチェックイン。23年4月サウナ付客室オープン♪屋上テラスから海と海上花火大会が楽しめるホテル。 荷物を解き、落ち着いた室内でまず一息つく。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「ＩＳＨＩＮＯＹＡ熱海／石のや熱海」の自慢の湯処へ。温かな湯気と落ち着いた雰囲気に癒やされながら、夕食前の贅沢なひとときを過ごす。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「ＩＳＨＩＮＯＹＡ熱海／石のや熱海」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -425,7 +425,7 @@ export default function FurusatoPrivateRoomSaunaTotonoiStayPage() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「ＩＳＨＩＮＯＹＡ熱海／石のや熱海」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「ＩＳＨＩＮＯＹＡ熱海／石のや熱海」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「天空の温泉ヴィラ紬 河口湖」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は「ＩＳＨＩＮＯＹＡ熱海／石のや熱海」周辺の観光スポットや地元の名産店に立ち寄り、ご当地のお土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>

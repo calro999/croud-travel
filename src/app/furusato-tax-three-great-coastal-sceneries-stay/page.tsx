@@ -37,7 +37,7 @@ export default function Page() {
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/76913/76913map.gif",
     "reviewCount": 539,
     "reviewAverage": 4.5,
-    "userReview": "清潔で雰囲気の良い館内と最高の景色に感動館内は清潔で雰囲気も良く素敵な宿でした特別室に滞在しましたが、部屋のお風呂や窓からの景色が最高に良かったですリピートしたいと思いますクチコミの詳。",
+    "userReview": "清潔で雰囲気の良い館内と最高の景色に感動館内は清潔で雰囲気も良く素敵な宿でした特別室に滞在しましたが、部屋のお風呂や窓からの景色が最高に良かったですリピートしたいと思います。",
     "hotelMinCharge": 16500,
     "address1": "京都府",
     "address2": "宮津市字文珠510",
@@ -422,8 +422,8 @@ export default function Page() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 天橋立駅よりアクセス。京都丹後鉄道 天橋立駅より徒歩3分。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「天橋立温泉 和のリゾート 文珠荘」にチェックイン。日本三景天橋立の運河に佇む宿。2023年春サウナ付大浴場誕生。新しい和のリゾートをお楽しみください。などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「天橋立温泉 和のリゾート 文珠荘」の湯処へ。日本三景天橋立の運河に佇む宿。2023年春サウナ付大浴場誕生。新しい和とともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「天橋立温泉 和のリゾート 文珠荘」にチェックイン。日本三景天橋立の運河に佇む宿。2023年春サウナ付大浴場誕生。新しい和のリゾートをお楽しみください。 荷物を解き、落ち着いた室内でまず一息つく。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「天橋立温泉 和のリゾート 文珠荘」の大浴場・露天風呂へ。日暮れの静けさの中で湯に浸かり、旅の緊張をゆっくりと解きほぐす。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「天橋立温泉 和のリゾート 文珠荘」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -435,7 +435,7 @@ export default function Page() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「天橋立温泉 和のリゾート 文珠荘」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「天橋立温泉 和のリゾート 文珠荘」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「日本平ホテル」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は「天橋立温泉 和のリゾート 文珠荘」周辺の観光スポットや地元の名産店に立ち寄り、ご当地のお土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>
@@ -563,7 +563,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 天橋立温泉　和のリゾート　文珠荘</td>
                 <td className="p-3 text-stone-600">京都府宮津市字文珠510</td>
-                <td className="p-3 text-stone-600">天橋立駅周辺</td>
+                <td className="p-3 text-stone-600">京都丹後鉄道 天橋立駅より徒歩3分</td>
                 <td className="p-3 text-stone-600">有り　３０台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.49（546件）</td>
                 <td className="p-3 font-bold text-rose-600">¥18,700〜</td>
@@ -572,7 +572,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 日本平ホテル</td>
                 <td className="p-3 text-stone-600">静岡県静岡市清水区馬走1500-2</td>
-                <td className="p-3 text-stone-600">静岡駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ静岡駅よりバス４０分・タクシー25分（駅からシャトルバス有り）／静岡・清水ＩＣより車で25分</td>
                 <td className="p-3 text-stone-600">有り（400台）　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.7（1078件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,100〜</td>
@@ -581,7 +581,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. ホテルルートイン敦賀駅前</td>
                 <td className="p-3 text-stone-600">福井県敦賀市鉄輪町1-6-2</td>
-                <td className="p-3 text-stone-600">敦賀駅周辺</td>
+                <td className="p-3 text-stone-600">JR北陸本線敦賀駅西口より約200m徒歩で2分、北陸自動車道敦賀ICより約3.0km車で約5分</td>
                 <td className="p-3 text-stone-600">有　89台分　無料　（先着順）　満車時は有料駐車場のご案内（料金はお客様ご負担となります）</td>
                 <td className="p-3 font-bold text-amber-600">★4（1590件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,650〜</td>
@@ -610,7 +610,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　３０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「雰囲気も料理も温泉も最高、接客も大満足お宿の雰囲気もお料理も温泉もとても良かったです。スタッフの皆さんも、到着から出発まで気持ち良い接客で大満足でした。お部屋の洗面スペースだけ空調が無かっ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「雰囲気も料理も温泉も最高、接客も大満足お宿の雰囲気もお料理も温泉もとても良かったです。スタッフの皆さんも、到着から出発まで気持ち良い接客で大満足でした。」
                   </blockquote>
                 </div>
               </div>
@@ -654,7 +654,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有　89台分　無料　（先着順）　満車時は有料駐車場のご案内（料金はお客様ご負担となります）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近で便利、朝食は少し時間をずらすのがコツ敦賀訪問時は常宿にしています。駅に近く、コンビニやスーパーも徒歩圏内にあり非常に便利な立地です。設備は少し古めですが、清掃はこまめに行われていて清潔感はあ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近で便利、朝食は少し時間をずらすのがコツ敦賀訪問時は常宿にしています。駅に近く、コンビニやスーパーも徒歩圏内にあり非常に便利な立地です。」
                   </blockquote>
                 </div>
               </div>

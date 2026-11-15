@@ -283,8 +283,8 @@ export default function Page() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 紀伊勝浦駅よりアクセス。ＪＲ紀勢線 紀伊勝浦駅から徒歩6分で桟橋へ。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「南紀勝浦温泉 ホテル浦島」にチェックイン。楽天トラベルゴールドアワード受賞 圧倒的なスケールと開放感！天然洞窟温泉など湯巡りを楽しもう♪などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「南紀勝浦温泉 ホテル浦島」の湯処へ。楽天トラベルゴールドアワード受賞 圧倒的なスケールと開放感！天然洞窟温とともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「南紀勝浦温泉 ホテル浦島」にチェックイン。楽天トラベルゴールドアワード受賞 圧倒的なスケールと開放感！天然洞窟温泉など湯巡りを楽しもう♪ 客室で身支度を整え、この宿ならではの滞在をスタート。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「南紀勝浦温泉 ホテル浦島」の湯船で寛ぎタイム。季節の空気を感じながら手足を伸ばし、心豊かな夕方のリラックス時間を満喫。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「南紀勝浦温泉 ホテル浦島」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -296,7 +296,7 @@ export default function Page() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「南紀勝浦温泉 ホテル浦島」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「南紀勝浦温泉 ホテル浦島」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「八甲田城ヶ倉温泉 ホテル城ヶ倉－ＨＯＴＥＬ Ｊｏｇａｋｕｒａ－」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は宿周辺の散策とショッピングを満喫。地元の名産品やグルメを味わってから余裕をもって帰路につく。</li>
               </ul>
             </div>
           </div>
@@ -424,7 +424,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 南紀勝浦温泉　ホテル浦島</td>
                 <td className="p-3 text-stone-600">和歌山県東牟婁郡那智勝浦町勝浦1165-2</td>
-                <td className="p-3 text-stone-600">紀伊勝浦駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ紀勢線 紀伊勝浦駅から徒歩6分で桟橋へ。更に専用ボート又は、シャトルバスで５分 詳しくは交通案内ページをご覧ください</td>
                 <td className="p-3 text-stone-600">400台（無料）／駐車場はホテルより離れた場所にございます。詳しくは交通案内ページをご覧ください</td>
                 <td className="p-3 font-bold text-amber-600">★4.22（6497件）</td>
                 <td className="p-3 font-bold text-rose-600">¥10,450〜</td>
@@ -433,7 +433,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 八甲田城ヶ倉温泉　ホテル城ヶ倉－ＨＯＴＥＬ　Ｊｏｇａｋｕｒａ－</td>
                 <td className="p-3 text-stone-600">青森県青森市荒川八甲田山中</td>
-                <td className="p-3 text-stone-600">青森駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ 青森駅よりＪＲバス十和田湖行き乗車後、城ヶ倉温泉前にて下車</td>
                 <td className="p-3 text-stone-600">有り　１００台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.51（403件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,200〜</td>
@@ -451,7 +451,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 鬼首温泉　リゾートパーク　ホテル　オニコウベ</td>
                 <td className="p-3 text-stone-600">宮城県大崎市鳴子温泉鬼首大清水26-29</td>
-                <td className="p-3 text-stone-600">鳴子温泉駅周辺</td>
+                <td className="p-3 text-stone-600">東北自動車道古川ICより47号線を鳴子方面へ、岩下こけし資料館前交差点から108号線を秋田方面に入り約20分</td>
                 <td className="p-3 text-stone-600">有り　８５台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.41（460件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,850〜</td>
@@ -460,7 +460,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 白馬姫川温泉　白馬ハイランドホテル</td>
                 <td className="p-3 text-stone-600">長野県北安曇郡白馬村北城21582</td>
-                <td className="p-3 text-stone-600">白馬駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ白馬駅より徒歩２０分（無料送迎あり）／長野自動車道安曇野ＩＣより６０分／上信越自動車道長野ＩＣより６０分</td>
                 <td className="p-3 text-stone-600">有100台（無料）※全面舗装ですが、屋根日影はありません</td>
                 <td className="p-3 font-bold text-amber-600">★4.35（1310件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,500〜</td>
@@ -511,7 +511,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１００台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「素晴らしい大変癒された旅になりました。同伴の誕生日記念に宿泊しました。クマ騒動がありましたが、自然のなかでとても満足しています特に食事は本当に素晴らしかったですクチコミの詳細はこち…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「素晴らしい大変癒された旅になりました。同伴の誕生日記念に宿泊しました。」
                   </blockquote>
                 </div>
               </div>
@@ -555,7 +555,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　８５台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「アンティークな空間と温泉、食事に満足重厚な造りの建物、家具調度品、古いのかもしれませんがかえってアンティークでシックな味になってました。あいにくの雨でしたがラウンジでケーキをいただきながら温泉プー…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「アンティークな空間と温泉、食事に満足重厚な造りの建物、家具調度品、古いのかもしれませんがかえってアンティークでシックな味になってました。」
                   </blockquote>
                 </div>
               </div>
@@ -577,7 +577,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有100台（無料）※全面舗装ですが、屋根日影はありません</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋から白馬の眺望とウェルカムドリンク二階でも部屋から白馬が良く見えるので良かったです,ただ今回あまり白馬が見れなかったのが残念、でも夕方に少し顔を出してくれたので良しとします。。何回か宿泊してま…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋から白馬の眺望とウェルカムドリンク二階でも部屋から白馬が良く見えるので良かったです,ただ今回あまり白馬が見れなかったのが残念、でも夕方に少し顔を出してくれたので良しとします。。」
                   </blockquote>
                 </div>
               </div>

@@ -565,7 +565,7 @@ export default function FeatureDetailPage() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 空港から車で約8分◆ホテルと那覇空港を結ぶシャトルバスも運行中◆崖の上の「縁結びパワースポット」波上宮まで 徒歩4分で現地へ到着。</li>
                 <li>・<strong className="text-stone-800">15:30〜</strong> 「ＨＯＴＥＬ ＳＡＮＳＵＩ ＮＡＨＡ 琉球温泉 波之上の湯」へチェックイン。落ち着いた空間で旅の荷を解き、ゆったりとした時間をスタート。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「ＨＯＴＥＬ ＳＡＮＳＵＩ ＮＡＨＡ 琉球温泉 波之上の湯」の湯処へ。日頃の疲れを癒やす湯浴みとともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「ＨＯＴＥＬ ＳＡＮＳＵＩ ＮＡＨＡ 琉球温泉 波之上の湯」の自慢の湯処へ。温かな湯気と落ち着いた雰囲気に癒やされながら、夕食前の贅沢なひとときを過ごす。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「ＨＯＴＥＬ ＳＡＮＳＵＩ ＮＡＨＡ 琉球温泉 波之上の湯」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -577,7 +577,7 @@ export default function FeatureDetailPage() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「ＨＯＴＥＬ ＳＡＮＳＵＩ ＮＡＨＡ 琉球温泉 波之上の湯」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「ＨＯＴＥＬ ＳＡＮＳＵＩ ＮＡＨＡ 琉球温泉 波之上の湯」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「都ホテル博多」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は宿周辺の散策とショッピングを満喫。地元の名産品やグルメを味わってから余裕をもって帰路につく。</li>
               </ul>
             </div>
           </div>
@@ -705,7 +705,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. ＨＯＴＥＬ　ＳＡＮＳＵＩ　ＮＡＨＡ　琉球温泉　波之上の湯</td>
                 <td className="p-3 text-stone-600">沖縄県那覇市辻2-25-1</td>
-                <td className="p-3 text-stone-600">那覇空港駅周辺</td>
+                <td className="p-3 text-stone-600">空港から車で約8分◆ホテルと那覇空港を結ぶシャトルバスも運行中◆崖の上の「縁結びパワースポット」波上宮まで【徒歩4分】</td>
                 <td className="p-3 text-stone-600">有り　42台　1,500円（税込み／泊）　先着順　※高さ制限有（175センチ）</td>
                 <td className="p-3 font-bold text-amber-600">★4.04（1140件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,175〜</td>
@@ -714,7 +714,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. アパホテル＆リゾート〈大阪梅田駅タワー〉</td>
                 <td className="p-3 text-stone-600">大阪府大阪市北区曽根崎2-8-32</td>
-                <td className="p-3 text-stone-600">東梅田駅周辺</td>
+                <td className="p-3 text-stone-600">大阪メトロ谷町線「東梅田駅」（4番出口）徒歩3分</td>
                 <td className="p-3 text-stone-600">入庫から24時間/3000円、20分/400円、最大6時間/1500円　※先着順になります。</td>
                 <td className="p-3 font-bold text-amber-600">★4.29（4169件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,130〜</td>
@@ -723,7 +723,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 都ホテル博多</td>
                 <td className="p-3 text-stone-600">福岡県福岡市博多区博多駅東2-1-1</td>
-                <td className="p-3 text-stone-600">博多駅直結！徒歩約１分。＜東７番出口＞福岡空港から地下鉄で約７分、車で</td>
+                <td className="p-3 text-stone-600">博多駅直結！徒歩約１分。＜東７番出口＞福岡空港から地下鉄で約７分、車で約15分。一歩足を踏み入れたらもうそこはリゾート！</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.61（1159件）</td>
                 <td className="p-3 font-bold text-rose-600">¥17,800〜</td>
@@ -732,7 +732,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. リブマックスリゾート宮浜温泉Ｏｃｅａｎ</td>
                 <td className="p-3 text-stone-600">広島県廿日市市宮浜温泉2-13-10</td>
-                <td className="p-3 text-stone-600">山陽本線 [大野浦駅]から車で5分・[玖波駅]から車で5分・[宮島口駅</td>
+                <td className="p-3 text-stone-600">山陽本線 [大野浦駅]から車で5分・[玖波駅]から車で5分・[宮島口駅]から車で15分 岩国空港から車で30分</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.21（911件）</td>
                 <td className="p-3 font-bold text-rose-600">¥12,250〜</td>
@@ -770,7 +770,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　42台　1,500円（税込み／泊）　先着順　※高さ制限有（175センチ）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉とプールを満喫、また行きたい!沖縄では珍しい温泉に、プールとバーよかったです。夏休み時期のせいか2階のプールはお子さま向けな雰囲気でした。海近く、プールもあるのでランドリースペース拡大してくれ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉とプールを満喫、また行きたい!沖縄では珍しい温泉に、プールとバーよかったです。夏休み時期のせいか2階のプールはお子さま向けな雰囲気でした。」
                   </blockquote>
                 </div>
               </div>
@@ -792,7 +792,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>入庫から24時間/3000円、20分/400円、最大6時間/1500円　※先着順になります。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.27 ／ 立地 ★4.28 ／ 部屋 ★4.28 ／ 設備 ★4.27 ／ 風呂 ★4.32 ／ 食事 ★4.28</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「梅田から近く大浴場で疲れが取れた梅田から近くて良かった大浴場があるので疲れがとれました飲食店が沢山あり朝食なしでしたが好きな店で食べれました又利用したいですクチコミの詳細はこち…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「梅田から近く大浴場で疲れが取れた梅田から近くて良かった大浴場があるので疲れがとれました飲食店が沢山あり朝食なしでしたが好きな店で食べれました又利用したいです。」
                   </blockquote>
                 </div>
               </div>
@@ -836,7 +836,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋は広々快適だが食事会場は混雑気味オーシャンスイートに泊まりました。部屋は広々しており居心地も良く設備等含め快適でした。食事はバイキング会場が狭く隣との間隔があまりないので、テーブルを仕切っ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋は広々快適だが食事会場は混雑気味オーシャンスイートに泊まりました。部屋は広々しており居心地も良く設備等含め快適でした。」
                   </blockquote>
                 </div>
               </div>

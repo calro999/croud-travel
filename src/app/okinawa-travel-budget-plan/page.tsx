@@ -263,7 +263,7 @@ export default function OkinawaTravelBudgetPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. ダイワロイネットホテル沖縄県庁前</td>
                 <td className="p-3 text-stone-600">沖縄県那覇市泉崎1-11-2</td>
-                <td className="p-3 text-stone-600">「那覇空港」よりゆいレールで（約15分）「旭橋駅」下車、 徒歩約3分。</td>
+                <td className="p-3 text-stone-600">「那覇空港」よりゆいレールで（約15分）「旭橋駅」下車、 徒歩約3分。那覇空港より車で約15分。国際通りへは徒歩約5分</td>
                 <td className="p-3 text-stone-600">立体駐車場36台（内ハイルーフ8台）／1,500円税込（1泊：14時〜翌11時）／先着順（予約不可）</td>
                 <td className="p-3 font-bold text-amber-600">★4.25（1605件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,037〜</td>
@@ -272,7 +272,7 @@ export default function OkinawaTravelBudgetPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. ＢＬＩＳＳＴＩＡ　ＳＵＩＴＥＳ＆ＲＥＳＯＲＴ　沖縄恩納村（２０２６年７月１５日開業）</td>
                 <td className="p-3 text-stone-600">沖縄県国頭郡恩納村字前兼久497番6</td>
-                <td className="p-3 text-stone-600">那覇空港駅周辺</td>
+                <td className="p-3 text-stone-600">那覇国際空港より車で約53分（沖縄自動車道を利用し石川ICより１０分）</td>
                 <td className="p-3 text-stone-600">あり　124台　１泊１台1,000円（最大2,000円）　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.59（41件）</td>
                 <td className="p-3 font-bold text-rose-600">¥15,600〜</td>
@@ -281,7 +281,7 @@ export default function OkinawaTravelBudgetPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 綺麗な海Ｖｉｌｌａ　オーシャンビュー～広々一軒家貸切３００ｍ２沖縄屈指のリゾートエリア恩納村　＾</td>
                 <td className="p-3 text-stone-600">沖縄県国頭郡恩納村字仲泊1425-5</td>
-                <td className="p-3 text-stone-600">那覇空港駅周辺</td>
+                <td className="p-3 text-stone-600">儀保駅よりお車にて約３５分</td>
                 <td className="p-3 text-stone-600">有り</td>
                 <td className="p-3 font-bold text-amber-600">高評価</td>
                 <td className="p-3 font-bold text-rose-600">プラン参照</td>
@@ -290,7 +290,7 @@ export default function OkinawaTravelBudgetPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. ブルーシャローズ恩納村リゾート</td>
                 <td className="p-3 text-stone-600">沖縄県国頭郡恩納村真栄田3378-12　　2Ｆ</td>
-                <td className="p-3 text-stone-600">那覇空港駅周辺</td>
+                <td className="p-3 text-stone-600">那覇空港から沖縄自動車道経由→石川ICをでて県道78号線を西に進みます。所要時間/約1時間約15分</td>
                 <td className="p-3 text-stone-600">有り　２台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">高評価</td>
                 <td className="p-3 font-bold text-rose-600">¥8,070〜</td>
@@ -299,7 +299,7 @@ export default function OkinawaTravelBudgetPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 琉球オリオンホテル　那覇国際通り（旧：オリオンホテル那覇）</td>
                 <td className="p-3 text-stone-600">沖縄県那覇市安里1-2-21</td>
-                <td className="p-3 text-stone-600">那覇空港駅周辺</td>
+                <td className="p-3 text-stone-600">那覇空港よりモノレールで約20分、牧志駅より徒歩3分、国際通り沿い、コンビニ、スーパーも目の前の好立地</td>
                 <td className="p-3 text-stone-600">有り（先着順）　1泊1台1,500円</td>
                 <td className="p-3 font-bold text-amber-600">★4.21（837件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,400〜</td>
@@ -337,7 +337,7 @@ export default function OkinawaTravelBudgetPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>立体駐車場36台（内ハイルーフ8台）／1,500円税込（1泊：14時〜翌11時）／先着順（予約不可）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.26 ／ 立地 ★4.25 ／ 部屋 ★4.28 ／ 設備 ★4.19 ／ 風呂 ★4.16</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「チェックインの案内不足とデスクの清掃不備自動チェックイン機が並んでいたのでそこで待っていたら、後から来た外国人はフロントでチェックインに呼ばれた。なので当方もフロントに行こうとしたら機械に並ぶよう…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「チェックインの案内不足とデスクの清掃不備自動チェックイン機が並んでいたのでそこで待っていたら、後から来た外国人はフロントでチェックインに呼ばれた。」
                   </blockquote>
                 </div>
               </div>
@@ -359,7 +359,7 @@ export default function OkinawaTravelBudgetPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>あり　124台　１泊１台1,000円（最大2,000円）　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「オープンしてすぐだったのでとても綺麗でした!プールライン時の鴨肉がとても美味しかった!大浴場は小さめですが、とても綺麗です。夜ご飯はつけなかったですが、歩いて行ける距離に居酒屋が数軒あるので全く問題な…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「オープンしてすぐだったのでとても綺麗でした!プールライン時の鴨肉がとても美味しかった!大浴場は小さめですが、とても綺麗です。」
                   </blockquote>
                 </div>
               </div>
@@ -425,7 +425,7 @@ export default function OkinawaTravelBudgetPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り（先着順）　1泊1台1,500円</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「トイレットペーパーの補充と対応に不満トイレットペーパーが無くなるという前代未聞の出来事がありました。予備は置いていない。フロントに電話をかけても一向に出ない。仕方ないので取りに行ったら…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「トイレットペーパーの補充と対応に不満トイレットペーパーが無くなるという前代未聞の出来事がありました。予備は置いていない。フロントに電話をかけても一向に出ない。」
                   </blockquote>
                 </div>
               </div>
@@ -447,7 +447,7 @@ export default function OkinawaTravelBudgetPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有＊予約制＊1泊1,000円(税込)、2026年2月から￥1200円に改定</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スリッパの外出や清掃方法の改善を希望海外のお客様が館内で履くスリッパのまま外出されていました。入り口のスーツケースのタイヤを拭くタオルが乾いたタオルで拭けている気がしませんでした。コストはかか…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スリッパの外出や清掃方法の改善を希望海外のお客様が館内で履くスリッパのまま外出されていました。入り口のスーツケースのタイヤを拭くタオルが乾いたタオルで拭けている気がしませんでした。」
                   </blockquote>
                 </div>
               </div>

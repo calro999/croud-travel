@@ -347,7 +347,7 @@ export default function FurusatoUpgradedPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. ウェスティン都ホテル京都</td>
                 <td className="p-3 text-stone-600">京都府京都市東山区粟田口華頂町1</td>
-                <td className="p-3 text-stone-600">蹴上</td>
+                <td className="p-3 text-stone-600">京都駅八条口より無料送迎バスあり / 地下鉄東西線＜蹴上駅＞から徒歩2分 / 南禅寺・哲学の道まですぐ</td>
                 <td className="p-3 text-stone-600">ご宿泊優待料金：1泊／1,500円＜ご出発日の16時まで入出庫可＞ここを起点に古都を散策＆温泉の旅</td>
                 <td className="p-3 font-bold text-amber-600">★4.71（2975件）</td>
                 <td className="p-3 font-bold text-rose-600">¥47,300〜</td>
@@ -356,7 +356,7 @@ export default function FurusatoUpgradedPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 白馬東急ホテル</td>
                 <td className="p-3 text-stone-600">長野県北安曇郡白馬村北城4688</td>
-                <td className="p-3 text-stone-600">白馬</td>
+                <td className="p-3 text-stone-600">白馬駅からお車で約8分。白馬八方バスターミナルからお車で約3分。送迎はご到着の1時間前までにご依頼ください。</td>
                 <td className="p-3 text-stone-600">有り 約70台無料。EV充電器2台分ございます。</td>
                 <td className="p-3 font-bold text-amber-600">★4.65（478件）</td>
                 <td className="p-3 font-bold text-rose-600">¥13,590〜</td>

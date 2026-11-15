@@ -352,39 +352,7 @@ export default function Page() {
             </Link>
           </div>
         </section>
-        <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
-          <div className="flex items-center gap-3 mb-6">
-            <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】霧島温泉 摘み草の宿 こまつを拠点にするおすすめ滞在モデルコース</h2>
-          </div>
-          <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
-            <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
-              <div className="flex items-center gap-2">
-                <span className="bg-amber-600 text-white text-xs font-bold px-2.5 py-1 rounded">1日目</span>
-                <h3 className="font-bold text-stone-900 text-base md:text-lg">到着〜チェックインと名湯巡り</h3>
-              </div>
-              <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
-                <li>・<strong className="text-stone-800">14:00〜</strong> 鹿児島空港駅よりアクセス。鹿児島空港よりお車にて約３０分。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「霧島温泉 摘み草の宿 こまつ」にチェックイン。霧島丸尾森の温泉郷 露天風呂付客室の旅館などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「霧島温泉 摘み草の宿 こまつ」の湯処へ。霧島丸尾森の温泉郷 露天風呂付客室の旅館とともに、夕暮れの特別な寛ぎを満喫。</li>
-                <li>・<strong className="text-stone-800">19:00〜</strong> 「霧島温泉 摘み草の宿 こまつ」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
-              </ul>
-            </div>
-            <div className="border-l-2 border-teal-500 pl-4 md:pl-6 space-y-4">
-              <div className="flex items-center gap-2">
-                <span className="bg-teal-600 text-white text-xs font-bold px-2.5 py-1 rounded">2日目</span>
-                <h3 className="font-bold text-stone-900 text-base md:text-lg">爽快な朝湯〜周辺散策と帰路へ</h3>
-              </div>
-              <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
-                <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「霧島温泉 摘み草の宿 こまつ」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
-                <li>・<strong className="text-stone-800">08:00〜</strong> 「霧島温泉 摘み草の宿 こまつ」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「霧島温泉 夫婦露天風呂の宿 天テラス」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
-              </ul>
-            </div>
-          </div>
-        </section>
-
-        {/* FAQ Section */}
+                {/* FAQ Section */}
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
@@ -428,31 +396,37 @@ export default function Page() {
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">あわせて読みたい人気特集＆全国エリアガイド</h2>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
-            <a href="/autumn-budget-aomori-hachinohe-station-tanesashi-senbeijiru-hotels-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/winter-kagoshima-kirishima-myoken-luxury-gajin-ishiharaso-kurobuta-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">八戸駅・本八戸：種差海岸の秋絶景＆館鼻岸壁朝市・せんべい汁！2,000円台〜泊まれる格安ホテル5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【天孫降臨の地・霧島連山と天降川渓流の極上源泉離れ宿】2026-2027年11-12月の鹿児島・霧島＆妙見温泉！「妙見石原荘」＆「忘れの里 雅叙苑」・自噴かけ流し温泉と黒毛和牛・黒</span>
             </a>
-            <a href="/furusato-tax-hakkoda-sukayu-autumn-leaves-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/winter-kagoshima-yakushima-shiratani-jomon-onsen-kubiore-saba-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">八甲田山ロープウェーの錦秋パノラマ＆酸ヶ湯温泉ヒバ千人風呂！秘湯宿×ふるさと納税厳選ガイド青森</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「静寂の原生林と白谷雲水峡・極上温泉」2026-2027年冬の屋久島！首折れサバと天然露天風呂宿5選</span>
             </a>
-            <a href="/tokyo-aomori-bus-vs-shinkansen-guide/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/winter-warm-island-escape/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">東京〜青森・弘前：新幹線はやぶさ vs 夜行バス徹底比較！料金半額以下の夜行旅＆奥入瀬渓流・弘前城1泊2日モデルコース</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「冬の避寒リゾート」寒さ知らず！沖縄・奄美大島ぽかぽか旅 厳選ガイド</span>
             </a>
-            <a href="/winter-aomori-owani-hirosaki-onsen-moyashi-tsugarugyu-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/autumn-budget-kagoshima-station-kurobuta-sakurajima-hotels-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12月津軽】冬限定「大鰐温泉もやし」と開湯800年の名湯・津軽あっぷる牛＆弘前城冬さくらライトアップを巡る名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「鹿児島中央駅前」旨味凝縮の黒豚料理＆仙巌園紅葉！2,000円台〜泊まれる格安・高コスパ宿5選</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
             <div className="flex flex-wrap gap-2">
               <Link
-                href="/prefectures/aomori/"
+                href="/prefectures/kagoshima/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                青森県の宿・温泉
+                鹿児島県の宿・温泉
+              </Link>
+              <Link
+                href="/prefectures/fukuoka/"
+                className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
+              >
+                福岡県の宿・温泉
               </Link>
               <Link
                 href="/prefectures/oita/"
@@ -461,16 +435,10 @@ export default function Page() {
                 大分県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/kagoshima/"
+                href="/prefectures/kumamoto/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                鹿児島県の宿・温泉
-              </Link>
-              <Link
-                href="/prefectures/nara/"
-                className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
-              >
-                奈良県の宿・温泉
+                熊本県の宿・温泉
               </Link>
             </div>
           </div>
@@ -506,7 +474,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 霧島温泉　摘み草の宿　こまつ</td>
                 <td className="p-3 text-stone-600">鹿児島県霧島市牧園町高千穂3908</td>
-                <td className="p-3 text-stone-600">鹿児島空港駅周辺</td>
+                <td className="p-3 text-stone-600">鹿児島空港よりお車にて約３０分</td>
                 <td className="p-3 text-stone-600">有り　１０台</td>
                 <td className="p-3 font-bold text-amber-600">★4.8（87件）</td>
                 <td className="p-3 font-bold text-rose-600">¥27,500〜</td>
@@ -515,7 +483,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 霧島温泉　夫婦露天風呂の宿　天テラス（あまてらす）</td>
                 <td className="p-3 text-stone-600">鹿児島県霧島市牧園町高千穂3761</td>
-                <td className="p-3 text-stone-600"></td>
+                <td className="p-3 text-stone-600">鹿児島県霧島市牧園町高千穂3761 ／ 交通案内：</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.55（233件）</td>
                 <td className="p-3 font-bold text-rose-600">¥12,210〜</td>
@@ -524,7 +492,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 霧島温泉　いで湯の宿　霧島花紫</td>
                 <td className="p-3 text-stone-600">鹿児島県霧島市牧園町高千穂3254-23</td>
-                <td className="p-3 text-stone-600">霧島神宮駅周辺</td>
+                <td className="p-3 text-stone-600">霧島温泉駅・霧島神宮駅より車で１５分 鹿児島空港から車で２５分、路線バスにて３０分（柳平バス停から徒歩１分含）</td>
                 <td className="p-3 text-stone-600">有　3０台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.47（322件）</td>
                 <td className="p-3 font-bold text-rose-600">¥11,000〜</td>
@@ -553,7 +521,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１０台</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「静かな環境と源泉掛け流しの温泉に大満足総合評価は5。部屋数が少なくて静かなので大人向けです。サービスは行き届いています。部屋の設備も清潔さも良かったですよ。宿は道路からずっと下の方にあるので、…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「静かな環境と源泉掛け流しの温泉に大満足総合評価は5。部屋数が少なくて静かなので大人向けです。サービスは行き届いています。部屋の設備も清潔さも良かったですよ。」
                   </blockquote>
                 </div>
               </div>
@@ -597,7 +565,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有　3０台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉と料理に癒やされ、心温まるひととき温泉が露天風呂と内湯4ヶ所のうち3つに入らせていただきました。どれも、最高でした。料理も、繊細で心のこもった豪華な料理で、とっても美味しいでした。部屋も、きれ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉と料理に癒やされ、心温まるひととき温泉が露天風呂と内湯4ヶ所のうち3つに入らせていただきました。どれも、最高でした。料理も、繊細で心のこもった豪華な料理で、とっても美味しいでした。」
                   </blockquote>
                 </div>
               </div>

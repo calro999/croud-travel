@@ -245,7 +245,7 @@ export default function FurusatoResortInfinityPoolStayPage() {
                     ハワイで百有余年の歴史を誇る名門「ハレクラニ」が、沖縄屈指の美しい海を望む恩納村に創り上げた最高峰ラグジュアリーリゾート。ホテルのシンボルである「オーキッドプール」は、約150万枚のガラスモザイクタイルで巨大な蘭の花が描かれ、水平線へと溶け込むインフィニティ設計が息をのむ美しさです。さらに大人のためのクワイエットプールやサンセットプールなど多彩な水辺空間を完備。全客室が50平米以上のオーシャンフロントで、ミシュラン星付きシェフ監修のダイニングや上質なスパとともに、天国にふさわしい至極の休日をご堪能いただけます。
                   </p>
                   <p className="text-stone-500 text-xs italic bg-stone-50 p-3 rounded-xl border border-stone-100 mb-4 leading-relaxed">
-                    「サンセットと朝の眺めが最高、清潔感も抜群サンセットビーチvillaに宿泊しました。朝の眺めも日が落ちる瞬間も最高に綺麗でした!お部屋も清潔感があり安心して泊まることができました!クチコミの詳細…」
+                    「サンセットと朝の眺めが最高、清潔感も抜群サンセットビーチvillaに宿泊しました。朝の眺めも日が落ちる瞬間も最高に綺麗でした!お部屋も清潔感があり安心して泊まることができました!」
                   </p>
                   
                   <div className="bg-stone-50 rounded-xl p-3.5 border border-stone-200/60 mb-6 text-xs text-stone-600 space-y-1">
@@ -304,7 +304,7 @@ export default function FurusatoResortInfinityPoolStayPage() {
                     別府温泉の高台に位置し、全国屈指の人気と圧倒的スケールを誇る大型温泉リゾート。段々畑のように広がる五段の湯船から別府湾と街の夜景を一望する大展望露天風呂「棚湯」に加え、水着で温泉に入れる屋外型インフィニティ温泉プール「ザ アクアガーデン」を完備。夜には光と音の噴水アートショーが開催され、幻想的なナイトエンターテインメントを楽しめます。贅を尽くした豪華バイキングやボウリング場、キッズパークなども充実し、ファミリーからカップルまで誰もが感動できる九州の温泉リゾートの最高峰です。
                   </p>
                   <p className="text-stone-500 text-xs italic bg-stone-50 p-3 rounded-xl border border-stone-100 mb-4 leading-relaxed">
-                    「毎年来たいホテルNo. 1初めての杉乃井ホテル仕事場の上司に勧められて来ましたが想像以上に満足できるホテルで、毎年遊びに来たいと思えるホテルです。一日中遊べて子供も大人も楽しめます。ク… つづきは」
+                    「毎年来たいホテルNo. 1初めての杉乃井ホテル仕事場の上司に勧められて来ましたが想像以上に満足できるホテルで、毎年遊びに来たいと思えるホテルです。一日中遊べて子供も大人も楽しめます。」
                   </p>
                   
                   <div className="bg-stone-50 rounded-xl p-3.5 border border-stone-200/60 mb-6 text-xs text-stone-600 space-y-1">
@@ -413,8 +413,8 @@ export default function FurusatoResortInfinityPoolStayPage() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 熱海駅よりアクセス。東京から新幹線で50分！熱海駅よりタクシーで約10分。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「熱海温泉 熱海後楽園ホテル」にチェックイン。熱海の夜景と相模灘を眼前に望める絶好のロケーション！源泉を使用した大展望風呂で、ゆっくりと温泉三昧。などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「熱海温泉 熱海後楽園ホテル」の湯処へ。熱海の夜景と相模灘を眼前に望める絶好のロケーション！源泉を使用した大展とともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「熱海温泉 熱海後楽園ホテル」にチェックイン。熱海の夜景と相模灘を眼前に望める絶好のロケーション！源泉を使用した大展望風呂で、ゆっくりと温泉三昧。 窓外に広がる景色を眺めながらチェックイン後の寛ぎ時間を。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「熱海温泉 熱海後楽園ホテル」の大浴場・露天風呂へ。日暮れの静けさの中で湯に浸かり、旅の緊張をゆっくりと解きほぐす。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「熱海温泉 熱海後楽園ホテル」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -426,7 +426,7 @@ export default function FurusatoResortInfinityPoolStayPage() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「熱海温泉 熱海後楽園ホテル」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「熱海温泉 熱海後楽園ホテル」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「ハレクラニ沖縄」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は宿周辺の散策とショッピングを満喫。地元の名産品やグルメを味わってから余裕をもって帰路につく。</li>
               </ul>
             </div>
           </div>

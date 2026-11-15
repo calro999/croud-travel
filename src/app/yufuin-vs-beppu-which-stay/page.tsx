@@ -280,7 +280,7 @@ export default function YufuinVsBeppuPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 由布院温泉　旅館光の家</td>
                 <td className="p-3 text-stone-600">大分県由布市湯布院町川上2490</td>
-                <td className="p-3 text-stone-600">由布院駅周辺</td>
+                <td className="p-3 text-stone-600">由布院駅より車で５分／湯布院ＩＣから１０分</td>
                 <td className="p-3 text-stone-600">有り　２０台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.5（121件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,700〜</td>
@@ -289,7 +289,7 @@ export default function YufuinVsBeppuPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 由布院温泉　旅館　めばえ荘</td>
                 <td className="p-3 text-stone-600">大分県由布市湯布院町川南249-1</td>
-                <td className="p-3 text-stone-600">由布院駅周辺</td>
+                <td className="p-3 text-stone-600">由布院駅より車で５分</td>
                 <td className="p-3 text-stone-600">有り　２５台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.25（95件）</td>
                 <td className="p-3 font-bold text-rose-600">¥18,700〜</td>
@@ -298,7 +298,7 @@ export default function YufuinVsBeppuPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 由布院温泉　旅館　冨季の舎</td>
                 <td className="p-3 text-stone-600">大分県由布市湯布院町川南814-1</td>
-                <td className="p-3 text-stone-600">由布院駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ久大線 由布院駅より車で５分 徒歩１５分</td>
                 <td className="p-3 text-stone-600">有　２０台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4（126件）</td>
                 <td className="p-3 font-bold text-rose-600">¥13,900〜</td>
@@ -307,7 +307,7 @@ export default function YufuinVsBeppuPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 天然温泉　鉄輪の湯　スーパーホテル別府駅前</td>
                 <td className="p-3 text-stone-600">大分県別府市駅前町13-8</td>
-                <td className="p-3 text-stone-600">別府（大分）駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ 別府駅 東口より徒歩にて約1分 / 大分空港よりバス(エアライナー)で約1時間 / 別府ICより車で15分</td>
                 <td className="p-3 text-stone-600">有り/５００円（１泊１台あたり）　先着順/予約不可</td>
                 <td className="p-3 font-bold text-amber-600">★4.38（1170件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,280〜</td>
@@ -316,7 +316,7 @@ export default function YufuinVsBeppuPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 別府温泉　ホテルニューツルタ</td>
                 <td className="p-3 text-stone-600">大分県別府市北浜1-14-15</td>
-                <td className="p-3 text-stone-600">大分駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ別府駅より徒歩8分。別府ＩＣより車で約15分。駐車場先着順、入庫後21時間最大700円。全室ロビー無料Wi-fi</td>
                 <td className="p-3 text-stone-600">入庫後21時間：最大700円・駐車場は有料＆先着順。満車の場合はご利用いただけないことがございます。</td>
                 <td className="p-3 font-bold text-amber-600">★4.24（1215件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,000〜</td>
@@ -325,7 +325,7 @@ export default function YufuinVsBeppuPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">6. 別府鉄輪温泉　ホテル山水館</td>
                 <td className="p-3 text-stone-600">大分県別府市鶴見628-1</td>
-                <td className="p-3 text-stone-600">別府（大分）駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ 別府駅よりお車にて約１５分、亀の井バスに乗車「朝日」にて下車後、徒歩１分</td>
                 <td className="p-3 text-stone-600">有り　５０台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.19（244件）</td>
                 <td className="p-3 font-bold text-rose-600">¥11,550〜</td>
@@ -420,7 +420,7 @@ export default function YufuinVsBeppuPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り/５００円（１泊１台あたり）　先着順/予約不可</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「別府湾の眺望と充実したサービスに大満足ハリウッドツインを3名利用でしたが十分な広さがあり、部屋の窓からは別府湾の海が見えました。温泉と朝食とチェックイン後のドリンクバー(夕方以降はアルコールも…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「別府湾の眺望と充実したサービスに大満足ハリウッドツインを3名利用でしたが十分な広さがあり、部屋の窓からは別府湾の海が見えました。」
                   </blockquote>
                 </div>
               </div>
@@ -464,7 +464,7 @@ export default function YufuinVsBeppuPage() {
                   <p>【由布院 vs 別府 どっちに泊まる？：温泉の泉質・宿】 <strong>【駐車場・マイカー利用】</strong>有り　５０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋は綺麗で展望風呂と大浴場を満喫部屋は綺麗で、窓際が和室になっていてとてもよかったです温泉は展望風呂と大浴場の2種類があって楽しめます欲を言えばぬる湯が一箇所でもあるといいなと思いました…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋は綺麗で展望風呂と大浴場を満喫部屋は綺麗で、窓際が和室になっていてとてもよかったです温泉は展望風呂と大浴場の2種類があって楽しめます欲を言えばぬる湯が一箇所でもあるといいなと思いました。」
                   </blockquote>
                 </div>
               </div>

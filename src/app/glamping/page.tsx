@@ -719,8 +719,8 @@ export default function GlampingHubPage() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 内牧駅よりアクセス。JR豊肥本線内牧駅より車で約5分。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「ＫＯＳＵＧＩ ＲＥＳＯＲＴ」にチェックイン。グランピング／トレーラー／コテージの3つのお部屋タイプが揃う、雄大なアウトドアリゾート！などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「ＫＯＳＵＧＩ ＲＥＳＯＲＴ」の湯処へ。グランピング／トレーラー／コテージの3つのお部屋タイプが揃う、雄大なアとともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「ＫＯＳＵＧＩ ＲＥＳＯＲＴ」にチェックイン。グランピング／トレーラー／コテージの3つのお部屋タイプが揃う、雄大なアウトドアリゾート！ 館内の設えを確かめながら、これからの滞在に備えてゆっくり休息する。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「ＫＯＳＵＧＩ ＲＥＳＯＲＴ」の自慢の湯処へ。温かな湯気と落ち着いた雰囲気に癒やされながら、夕食前の贅沢なひとときを過ごす。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「ＫＯＳＵＧＩ ＲＥＳＯＲＴ」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>

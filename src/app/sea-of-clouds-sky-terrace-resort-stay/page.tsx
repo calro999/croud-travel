@@ -334,7 +334,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. ホテル日南北郷リゾート</td>
                 <td className="p-3 text-stone-600">宮崎県日南市北郷町大字郷之原甲2821-1</td>
-                <td className="p-3 text-stone-600">北郷駅周辺</td>
+                <td className="p-3 text-stone-600">九州自動車道、日南北郷ＩＣより車で7分。</td>
                 <td className="p-3 text-stone-600">250台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.14（516件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,100〜</td>
@@ -343,7 +343,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 層雲峡温泉　朝陽リゾートホテル</td>
                 <td className="p-3 text-stone-600">北海道上川郡上川町層雲峡温泉</td>
-                <td className="p-3 text-stone-600">上川駅周辺</td>
+                <td className="p-3 text-stone-600">JR上川駅下車 道北バスで約３０分/札幌・旭川発の送迎バス運行（2026/3/31迄）</td>
                 <td className="p-3 text-stone-600">有　１００台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★3.96（2395件）</td>
                 <td className="p-3 font-bold text-rose-600">¥11,930〜</td>
@@ -352,7 +352,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. ホテルセキア　リゾート＆スパ</td>
                 <td className="p-3 text-stone-600">熊本県玉名郡南関町セキアヒルズ</td>
-                <td className="p-3 text-stone-600">大牟田駅周辺</td>
+                <td className="p-3 text-stone-600">JR・西鉄、大牟田駅/より定刻制無料シャトルバス有約３０分。時刻は事前にHP等でご確認ください。南関ICより約５分</td>
                 <td className="p-3 text-stone-600">有り　600台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★3.92（1160件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,720〜</td>
@@ -381,7 +381,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>250台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食の内容は平凡でコスパは良くない朝食付きプランで、そこまで値段は安くないホテルだが、朝食バイキングは大したことなかったです。ビジネスホテルの朝食と変わらない内容でした。コストパフォーマン…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食の内容は平凡でコスパは良くない朝食付きプランで、そこまで値段は安くないホテルだが、朝食バイキングは大したことなかったです。ビジネスホテルの朝食と変わらない内容でした。」
                   </blockquote>
                 </div>
               </div>

@@ -253,7 +253,7 @@ export default function TransitStyleHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. ガレージホテル石内ＢＡＳＥ　無人チェックインシステム導入／民泊</td>
                 <td className="p-3 text-stone-600">広島県広島市佐伯区石内南1-18-14　ガレージホテル石内ＢＡＳＥ　　ＢＡＳＥ</td>
-                <td className="p-3 text-stone-600">広域公園前駅周辺</td>
+                <td className="p-3 text-stone-600">広域公園前駅から車で約８分</td>
                 <td className="p-3 text-stone-600">有り</td>
                 <td className="p-3 font-bold text-amber-600">★5（15件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,700〜</td>
@@ -262,7 +262,7 @@ export default function TransitStyleHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 白樺湖　サンシャイン　ロッジ</td>
                 <td className="p-3 text-stone-600">長野県茅野市白樺湖3419</td>
-                <td className="p-3 text-stone-600">茅野駅周辺</td>
+                <td className="p-3 text-stone-600">中央道諏訪IC→ビーナスライン→R152→白樺湖</td>
                 <td className="p-3 text-stone-600">有り　15台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.44（156件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,000〜</td>
@@ -271,7 +271,7 @@ export default function TransitStyleHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 白樺湖レイクサイドホテル山幸閣</td>
                 <td className="p-3 text-stone-600">長野県茅野市白樺湖3418</td>
-                <td className="p-3 text-stone-600">茅野駅周辺</td>
+                <td className="p-3 text-stone-600">中央線茅野駅よりバス西白樺湖下車１分</td>
                 <td className="p-3 text-stone-600">有り　100台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★3.13（213件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,800〜</td>
@@ -280,7 +280,7 @@ export default function TransitStyleHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 湯檜曾（ゆびそ）温泉　清風かおる湯宿　林屋旅館</td>
                 <td className="p-3 text-stone-600">群馬県利根郡みなかみ町湯桧曽124</td>
-                <td className="p-3 text-stone-600">湯檜曽駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ上越線 湯檜曽駅下車徒歩５分／関越水上ＩＣより１５分／上越新幹線 上毛高原駅よりバス４５分</td>
                 <td className="p-3 text-stone-600">有り　２０台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.48（151件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,150〜</td>
@@ -289,7 +289,7 @@ export default function TransitStyleHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 大湯温泉　湯元庄屋　和泉屋旅館＜新潟県＞</td>
                 <td className="p-3 text-stone-600">新潟県魚沼市大湯温泉298</td>
-                <td className="p-3 text-stone-600">ＪＲ小出駅よりバス３０分。関越道魚沼Ｉ．Ｃより２０分。交通規制等、ご来</td>
+                <td className="p-3 text-stone-600">ＪＲ小出駅よりバス３０分。関越道魚沼Ｉ．Ｃより２０分。交通規制等、ご来館前に最新の道路情報をご確認ください。</td>
                 <td className="p-3 text-stone-600">有り　４０台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★3.76（241件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,900〜</td>
@@ -298,7 +298,7 @@ export default function TransitStyleHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">6. 四万温泉　あやめや旅館</td>
                 <td className="p-3 text-stone-600">群馬県吾妻郡中之条町四万4238-45</td>
-                <td className="p-3 text-stone-600">中之条駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ吾妻線中之条駅</td>
                 <td className="p-3 text-stone-600">有り（無料）　12台　先着順   ご利用のお客様は、四万温泉入り口で事前にお電話お願いいたします。</td>
                 <td className="p-3 font-bold text-amber-600">★4.62（445件）</td>
                 <td className="p-3 font-bold text-rose-600">¥10,460〜</td>
@@ -393,7 +393,7 @@ export default function TransitStyleHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２０台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「心身が癒やされる最高の3連泊プチ湯治五十代になって、出張以外ではじめての一人旅。憧れの3連泊プチ湯治をさせていただきました。本当に素晴らしいお湯、お部屋、そして絶妙のお気遣いがありがたく、心身に染…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「心身が癒やされる最高の3連泊プチ湯治五十代になって、出張以外ではじめての一人旅。憧れの3連泊プチ湯治をさせていただきました。」
                   </blockquote>
                 </div>
               </div>
@@ -415,7 +415,7 @@ export default function TransitStyleHubPage() {
                   <p>【愛車・ドライブ旅の温泉宿：絶景ワインディング・屋内ガ】 <strong>【駐車場・マイカー利用】</strong>有り　４０台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「残念すぎる、もう行かない2名で28600円で予約。道が細くてわかりづらいから中々辿り着けなかった。画像の全てが綺麗すぎて良く見せすぎだと思う。昭和レトロと言えば聞こえが良いが、玄関前や…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「残念すぎる、もう行かない2名で28600円で予約。道が細くてわかりづらいから中々辿り着けなかった。画像の全てが綺麗すぎて良く見せすぎだと思う。」
                   </blockquote>
                 </div>
               </div>

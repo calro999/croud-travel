@@ -336,8 +336,8 @@ export default function ArticlePage() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 熱海駅よりアクセス。熱海駅から徒歩7分！熱海サンビーチまで徒歩3分！熱海滞在に便利な立地で飲食店は周辺に多数あり♪。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「貸切温泉のコンドミニアム グランビュー熱海」にチェックイン。熱海駅徒歩7分☆海まで3分！3室限定の半露天風呂客室と７つの開発業務が人気のコンドミニアムホテル！などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「貸切温泉のコンドミニアム グランビュー熱海」の湯処へ。熱海駅徒歩7分☆海まで3分！3室限定の半露天風呂客室と７つの開発業務がとともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「貸切温泉のコンドミニアム グランビュー熱海」にチェックイン。熱海駅徒歩7分☆海まで3分！3室限定の半露天風呂客室と７つの開発業務が人気のコンドミニアムホテル！ 荷物を解き、落ち着いた室内でまず一息つく。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「貸切温泉のコンドミニアム グランビュー熱海」の自慢の湯処へ。温かな湯気と落ち着いた雰囲気に癒やされながら、夕食前の贅沢なひとときを過ごす。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「貸切温泉のコンドミニアム グランビュー熱海」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -349,7 +349,7 @@ export default function ArticlePage() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「貸切温泉のコンドミニアム グランビュー熱海」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「貸切温泉のコンドミニアム グランビュー熱海」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「オーベルジュ フォンテーヌ・ブロー熱海」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は「貸切温泉のコンドミニアム グランビュー熱海」周辺の観光スポットや地元の名産店に立ち寄り、ご当地のお土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>
@@ -365,31 +365,37 @@ export default function ArticlePage() {
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">あわせて読みたい人気特集＆全国エリアガイド</h2>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
-            <a href="/furusato-tax-boso-yorokeikoku-autumn-leaves-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/autumn-budget-shizuoka-hamamatsu-hamanako-unagi-hotels-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">房総・養老渓谷の粟又の滝紅葉＆紅葉ライトアップ！名物黒湯温泉宿×ふるさと納税厳選ガイド千葉</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「浜松・浜名湖」秋うなぎ＆浜名湖の夕陽を満喫！2,000円台〜泊まれる格安・高コスパ宿5選</span>
             </a>
-            <a href="/winter-chiba-minamiboso-kyonan-suisen-road-awa-shrine-hatsumode-iseebi-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/autumn-budget-shizuoka-nihondaira-fuji-oden-hotels-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12・1月千葉】常春の南房総「江月水仙ロード」1000万本の水仙の香りと房総フラワーライン！日本三大金運神社「安房神社」新春初詣・野島埼灯台の初日の出＆房総伊勢海老・金目鯛厳選名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「静岡」日本平の富士山絶景＆静岡黒おでん！1,000円台〜泊まれる格安・高コスパ宿5選</span>
             </a>
-            <a href="/chiba-kamogawa-katsuura-boso-seafood-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/autumn-shizuoka-izu-shuzenji-bamboo-path-momiji-hotels-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">千葉・鴨川＆勝浦：シャチ・四百年朝市＆地金目鯛宿 厳選ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「秋の伊豆・修善寺温泉」竹林の小径紅葉と桂川の清流散策！歴史薫る風雅なおすすめ名旅館5選</span>
             </a>
-            <a href="/winter-chiba-choshi-inubosaki-sunrise-kinmedai-hamaguri-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/furusato-tax-atami-ocean-view-fireworks-hotel-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12・1月千葉】本州一早い初日の出「犬吠埼」と冬の極上「銚子つりきんめ」・九十九里焼きはまぐり鍋＆太平洋パノラマ犬吠埼温泉宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">客室から大迫力の花火を特等席鑑賞！熱海オーシャンビュー温泉ホテル×ふるさと納税極上旅ガイド後楽園・ニューアカオ・パールスター</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
             <div className="flex flex-wrap gap-2">
               <Link
-                href="/prefectures/tokyo/"
+                href="/prefectures/shizuoka/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                東京都の宿・温泉
+                静岡県の宿・温泉
+              </Link>
+              <Link
+                href="/prefectures/gifu/"
+                className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
+              >
+                岐阜県の宿・温泉
               </Link>
               <Link
                 href="/prefectures/aichi/"
@@ -398,16 +404,10 @@ export default function ArticlePage() {
                 愛知県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/chiba/"
+                href="/prefectures/mie/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                千葉県の宿・温泉
-              </Link>
-              <Link
-                href="/prefectures/okayama/"
-                className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
-              >
-                岡山県の宿・温泉
+                三重県の宿・温泉
               </Link>
             </div>
           </div>
@@ -443,7 +443,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 貸切温泉のコンドミニアム　グランビュー熱海</td>
                 <td className="p-3 text-stone-600">静岡県熱海市咲見町8-9</td>
-                <td className="p-3 text-stone-600">熱海駅周辺</td>
+                <td className="p-3 text-stone-600">熱海駅から徒歩7分！熱海サンビーチまで徒歩3分！熱海滞在に便利な立地で飲食店は周辺に多数あり♪</td>
                 <td className="p-3 text-stone-600">有　1泊1台1,300円( 要予約）※駐車場は20台のみです。ご予約はお早目にお願い致します。</td>
                 <td className="p-3 font-bold text-amber-600">★4.12（1326件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,000〜</td>
@@ -452,7 +452,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 熱海温泉　ホテルサンミ倶楽部　別館</td>
                 <td className="p-3 text-stone-600">静岡県熱海市東海岸町14-66</td>
-                <td className="p-3 text-stone-600">熱海駅周辺</td>
+                <td className="p-3 text-stone-600">【電車の場合】JR熱海駅下車。海の方へ向かい徒歩１２分 【車の場合】国道１３５号線沿い坂道(駐車料金有料1000円税別)</td>
                 <td className="p-3 text-stone-600">有り 全１３台　1,100円（税込み／泊）</td>
                 <td className="p-3 font-bold text-amber-600">★4.06（891件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,500〜</td>
@@ -461,7 +461,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. オーベルジュ　フォンテーヌ・ブロー熱海</td>
                 <td className="p-3 text-stone-600">静岡県熱海市下多賀1484-5</td>
-                <td className="p-3 text-stone-600">伊豆多賀駅周辺</td>
+                <td className="p-3 text-stone-600">事前予約でJR伊豆多賀駅から無料送迎あり♪ #フランス料理 #温泉 #ホテル #オーシャンビュー</td>
                 <td className="p-3 text-stone-600">有り／敷地内駐車場・12台／無料／電気自動車充電可（1台分のみ）</td>
                 <td className="p-3 font-bold text-amber-600">★4.49（347件）</td>
                 <td className="p-3 font-bold text-rose-600">¥19,800〜</td>
@@ -490,7 +490,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有　1泊1台1,300円( 要予約）※駐車場は20台のみです。ご予約はお早目にお願い致します。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「貸し切り温泉、美味しい食事、丁寧な対応に感謝高齢の母に熱海の花火を見せてあげたくて、宿から花火が見える所を探しておりました。結果、最高の思い出ができました。正直、古さは感じます...部屋が…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「貸し切り温泉、美味しい食事、丁寧な対応に感謝高齢の母に熱海の花火を見せてあげたくて、宿から花火が見える所を探しておりました。結果、最高の思い出ができました。」
                   </blockquote>
                 </div>
               </div>
@@ -512,7 +512,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り 全１３台　1,100円（税込み／泊）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.09 ／ 立地 ★4.29 ／ 部屋 ★3.94 ／ 設備 ★3.81 ／ 風呂 ★3.84 ／ 食事 ★4.31</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「海を眺める温泉と絶品の鯵の開きに大満足9月に1泊しました。海が見えるお部屋で、窓からの眺めがとても良かったです。熱海らしい景色を楽しめて、のんびり過ごすことができました。お風呂はそ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「海を眺める温泉と絶品の鯵の開きに大満足9月に1泊しました。海が見えるお部屋で、窓からの眺めがとても良かったです。熱海らしい景色を楽しめて、のんびり過ごすことができました。」
                   </blockquote>
                 </div>
               </div>
@@ -534,7 +534,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り／敷地内駐車場・12台／無料／電気自動車充電可（1台分のみ）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.55 ／ 立地 ★4.4 ／ 部屋 ★4.52 ／ 設備 ★4.3 ／ 風呂 ★4.51 ／ 食事 ★4.64</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「母との旅行母とふたりで泊まりました。夜は日が落ちるのが早く、あまり景色を楽しめなかったのですが、朝方は日が差して綺麗な景色を楽しむことができました。普段食べないような食材もいただけて満足で…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「母との旅行母とふたりで泊まりました。夜は日が落ちるのが早く、あまり景色を楽しめなかったのですが、朝方は日が差して綺麗な景色を楽しむことができました。」
                   </blockquote>
                 </div>
               </div>

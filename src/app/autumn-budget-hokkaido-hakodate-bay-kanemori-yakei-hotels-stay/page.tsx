@@ -401,7 +401,7 @@ export default function AutumnBudgetHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. ホテル函館ロイヤル　シーサイド　（ＢＢＨホテルグループ）</td>
                 <td className="p-3 text-stone-600">北海道函館市大森町16-9</td>
-                <td className="p-3 text-stone-600">函館駅周辺</td>
+                <td className="p-3 text-stone-600">■函館空港から車で約17分■JR函館駅から徒歩で約10分■市電松風町から徒歩3分■空港線バス大森町から徒歩2分</td>
                 <td className="p-3 text-stone-600">有り　70台（先着順）</td>
                 <td className="p-3 font-bold text-amber-600">★3.86（1785件）</td>
                 <td className="p-3 font-bold text-rose-600">¥2,760〜</td>
@@ -410,7 +410,7 @@ export default function AutumnBudgetHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. ホテル法華クラブ函館</td>
                 <td className="p-3 text-stone-600">北海道函館市本町27-1</td>
-                <td className="p-3 text-stone-600">函館駅周辺</td>
+                <td className="p-3 text-stone-600">函館駅からタクシーで約10分、函館空港からタクシーで約15分。市電五稜郭公園前から徒歩1分。</td>
                 <td className="p-3 text-stone-600">◆1泊 800円（先着順）地下（10台）屋外（40台）※バイク500円　バス・トラック2400円</td>
                 <td className="p-3 font-bold text-amber-600">★4.38（3179件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,600〜</td>
@@ -419,7 +419,7 @@ export default function AutumnBudgetHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 天然温泉　漁火の湯　スーパーホテル函館</td>
                 <td className="p-3 text-stone-600">北海道函館市松風町1-10</td>
-                <td className="p-3 text-stone-600">函館駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ 函館駅より徒歩７分／函館空港より函館駅行きシャトルバスにて「大森町」下車、徒歩１分/コンビニまで徒歩１分</td>
                 <td className="p-3 text-stone-600">有り　４２台　５００円（税込み／泊）　当日来館先着到着順のご案内</td>
                 <td className="p-3 font-bold text-amber-600">★4.23（1844件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,250〜</td>
@@ -428,7 +428,7 @@ export default function AutumnBudgetHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. ラビスタ函館ベイ（共立リゾート）</td>
                 <td className="p-3 text-stone-600">北海道函館市豊川町12-6</td>
-                <td className="p-3 text-stone-600">函館駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ函館駅より徒歩15分 函館空港よりタクシーで約20分</td>
                 <td className="p-3 text-stone-600">有り　1,000円（税込／泊）先着順／170台</td>
                 <td className="p-3 font-bold text-amber-600">★4.47（5515件）</td>
                 <td className="p-3 font-bold text-rose-600">¥11,120〜</td>
@@ -437,7 +437,7 @@ export default function AutumnBudgetHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. グランパレット函館</td>
                 <td className="p-3 text-stone-600">北海道函館市大手町1-1</td>
-                <td className="p-3 text-stone-600">函館駅周辺</td>
+                <td className="p-3 text-stone-600">魚市場通駅から徒歩1分、JR函館駅から徒歩13分、函館空港から車で20分</td>
                 <td className="p-3 text-stone-600">先着順　1泊／1台700円（事前予約不可）　ご利用開始時間は 13時 から</td>
                 <td className="p-3 font-bold text-amber-600">★4.3（125件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,000〜</td>
@@ -466,7 +466,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　70台（先着順）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.88 ／ 立地 ★3.84 ／ 部屋 ★3.87 ／ 設備 ★3.68 ／ 風呂 ★3.67 ／ 食事 ★4.21</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「価格が手頃で連泊に最適、次回も利用したい必要にして十分かな。価格を思えばいろんな所のコストを抑えなきゃいけないわけで。豪華な朝食や施設設備を望まなければ、とても良いホテルです。価格がリーズナブルな…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「価格が手頃で連泊に最適、次回も利用したい必要にして十分かな。価格を思えばいろんな所のコストを抑えなきゃいけないわけで。豪華な朝食や施設設備を望まなければ、とても良いホテルです。」
                   </blockquote>
                 </div>
               </div>
@@ -510,7 +510,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　４２台　５００円（税込み／泊）　当日来館先着到着順のご案内</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スープカレーと塩辛が絶品、また利用したい朝食のスープカレー目当てで宿泊しました。ホテルはバス停も市電にも近く、函館駅にも徒歩で行ける距離です。ホテルも部屋清潔で、快適に過ごせました。ウ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スープカレーと塩辛が絶品、また利用したい朝食のスープカレー目当てで宿泊しました。ホテルはバス停も市電にも近く、函館駅にも徒歩で行ける距離です。ホテルも部屋清潔で、快適に過ごせました。」
                   </blockquote>
                 </div>
               </div>
@@ -532,7 +532,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　1,000円（税込／泊）先着順／170台</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「丁寧な事前対応と絶景の露天風呂に大満足宿泊前からタクシーのお手配やその他の質問に対して、丁寧にご回答いただきました。当日も飛行機が遅れたことで、諸々の変更をお願いしましたが、すぐに全て対応いた…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「丁寧な事前対応と絶景の露天風呂に大満足宿泊前からタクシーのお手配やその他の質問に対して、丁寧にご回答いただきました。」
                   </blockquote>
                 </div>
               </div>
@@ -554,7 +554,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>先着順　1泊／1台700円（事前予約不可）　ご利用開始時間は 13時 から</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.3 ／ 立地 ★4.24 ／ 部屋 ★4.39 ／ 設備 ★4.2 ／ 風呂 ★4.16</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「フロントの対応は迅速だが駐車場に難あり少し遅めのチエックイン(20時ころ)でしたが 少し待たされてチェックイン無事にできました。肌寒い季節でしたがエアコンが効きすぎて温度調節もできなったのです…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「フロントの対応は迅速だが駐車場に難あり少し遅めのチエックイン(20時ころ)でしたが 少し待たされてチェックイン無事にできました。」
                   </blockquote>
                 </div>
               </div>

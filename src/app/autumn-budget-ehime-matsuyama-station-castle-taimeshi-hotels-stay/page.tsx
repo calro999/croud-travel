@@ -401,7 +401,7 @@ export default function AutumnBudgetHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. レフ松山市駅　ｂｙ　ベッセルホテルズ｜ＲＥＦ松山市駅｜サウナ付大浴場（松山市駅隣接）</td>
                 <td className="p-3 text-stone-600">愛媛県松山市湊町5-2-2</td>
-                <td className="p-3 text-stone-600">松山市駅周辺</td>
+                <td className="p-3 text-stone-600">伊予鉄「松山市駅」から徒歩1分■松山空港から約24分 ■松山自動車道松山ICから車で約15分■松山港から約26分</td>
                 <td className="p-3 text-stone-600">伊予鉄市駅西駐車場（レフ松山市駅から徒歩2分）（自走式立体駐車場 / 先着順）1,000円/泊</td>
                 <td className="p-3 font-bold text-amber-600">★4.49（1125件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,570〜</td>
@@ -410,7 +410,7 @@ export default function AutumnBudgetHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. スカイホテル</td>
                 <td className="p-3 text-stone-600">愛媛県松山市三番町8-9-1</td>
-                <td className="p-3 text-stone-600">松山（愛媛）駅周辺</td>
+                <td className="p-3 text-stone-600">JR松山駅徒歩3分/コンビニ正面/松山コミセン徒歩4分/市民会館徒歩13分/松山空港車で15分/松山中央公園JRで4分</td>
                 <td className="p-3 text-stone-600">先着順：予約不可　900円/泊、立体34台※全高1.55M、平面12台全幅1.85M※大型車要相談</td>
                 <td className="p-3 font-bold text-amber-600">★3.87（1476件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,800〜</td>

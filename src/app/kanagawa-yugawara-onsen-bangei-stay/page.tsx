@@ -253,7 +253,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 湯河原温泉　おんやど恵</td>
                 <td className="p-3 text-stone-600">神奈川県足柄下郡湯河原町宮上361</td>
-                <td className="p-3 text-stone-600">湯河原駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ東海道線湯河原駅よりタクシーで５分、または路線バスで７分。西湘バイパス石橋インターから真鶴新道経由１５km、約２０分</td>
                 <td className="p-3 text-stone-600">有り　３０台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.22（535件）</td>
                 <td className="p-3 font-bold text-rose-600">¥11,550〜</td>
@@ -262,7 +262,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 湯河原温泉　グリーンパル湯河原</td>
                 <td className="p-3 text-stone-600">神奈川県足柄下郡湯河原町宮上261</td>
-                <td className="p-3 text-stone-600">湯河原駅周辺</td>
+                <td className="p-3 text-stone-600">湯河原駅よりバスにて約6分、理想郷バス停で下車、徒歩10分。駅よりタクシー約7分、約1,100円。 送迎あり（要確認）</td>
                 <td className="p-3 text-stone-600">予約制　１２台 　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.14（470件）</td>
                 <td className="p-3 font-bold text-rose-600">¥9,345〜</td>
@@ -271,7 +271,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 湯河原温泉　万葉の里　白雲荘</td>
                 <td className="p-3 text-stone-600">神奈川県足柄下郡湯河原町宮上716-1</td>
-                <td className="p-3 text-stone-600">湯河原駅周辺</td>
+                <td className="p-3 text-stone-600">湯河原駅よりタクシ－で１０分／小田原・厚木道路～石橋ＩＣ～国道１３５号経由で約３０分。こごめの湯入口左折８００ｍ</td>
                 <td className="p-3 text-stone-600">有り　３５台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.22（424件）</td>
                 <td className="p-3 font-bold text-rose-600">¥15,400〜</td>
@@ -280,7 +280,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 山翠楼SANSUIROU</td>
                 <td className="p-3 text-stone-600">神奈川県足柄下郡湯河原町宮上673</td>
-                <td className="p-3 text-stone-600">湯河原駅周辺</td>
+                <td className="p-3 text-stone-600">お車の場合、西湘ＢＰ石橋ＩＣより真鶴道路経由約３５分。電車の場合湯河原駅より奥湯河原行きバスで終点奥湯河原下車徒歩1分</td>
                 <td className="p-3 text-stone-600">有り　30台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.28（526件）</td>
                 <td className="p-3 font-bold text-rose-600">¥23,485〜</td>
@@ -298,7 +298,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">6. 湯河原温泉　大滝ホテル</td>
                 <td className="p-3 text-stone-600">神奈川県足柄下郡湯河原町宮上750-1</td>
-                <td className="p-3 text-stone-600">湯河原駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ湯河原駅より②番バス停より約15分（260円）不動滝バス停下車。東名厚木ICより小田原厚木道路経由６０分</td>
                 <td className="p-3 text-stone-600">無料。乗用車　３０台　大型バス５台</td>
                 <td className="p-3 font-bold text-amber-600">★3.71（801件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,700〜</td>
@@ -327,7 +327,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　３０台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「三世代での宿泊三世代で特別室を予約して宿泊させて頂きました。高齢者に配慮されたホテルでお爺ちゃんも大変満足しておりました。夕食は部屋食、朝食は宴会場でした。夕食のローストビーフ美味しかったです。朝…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「三世代での宿泊三世代で特別室を予約して宿泊させて頂きました。高齢者に配慮されたホテルでお爺ちゃんも大変満足しておりました。夕食は部屋食、朝食は宴会場でした。夕食のローストビーフ美味しかったです。」
                   </blockquote>
                 </div>
               </div>
@@ -349,7 +349,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>予約制　１２台 　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「送迎や接客は快適、夕食に期待の一品を初めて宿泊しましたが送迎がありとても助かりました。ロビーには到着時から麦茶、コーヒーがあり、風呂上がりや食後にいただけるのは良かったです。露天風呂、サウナもあり…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「送迎や接客は快適、夕食に期待の一品を初めて宿泊しましたが送迎がありとても助かりました。ロビーには到着時から麦茶、コーヒーがあり、風呂上がりや食後にいただけるのは良かったです。」
                   </blockquote>
                 </div>
               </div>
@@ -371,7 +371,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　３５台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.33 ／ 立地 ★4.25 ／ 部屋 ★4.19 ／ 設備 ★3.99 ／ 風呂 ★4.38 ／ 食事 ★4.5</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「雰囲気は良いが料理の質と量に不満あり宿の雰囲気は落ち着いていて心地良いと感じましたが、夕飯の質と量が残念でした。通常の量を選びましたが、「これが通常の量?」となりました。少なめのコースはよっぽど少…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「雰囲気は良いが料理の質と量に不満あり宿の雰囲気は落ち着いていて心地良いと感じましたが、夕飯の質と量が残念でした。通常の量を選びましたが、「これが通常の量?」となりました。」
                   </blockquote>
                 </div>
               </div>
@@ -415,7 +415,7 @@ export default function MicroTouristHubPage() {
                   <p>【神奈川・湯河原温泉：文豪ゆかりの名湯・万葉公園＆相模】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「清潔感ある館内と温泉、美味しい食事に大満足建物自体は古かったですが、全体に清潔感があり、気持ち良く滞在できました。温泉もお湯がオーバーフローしていて気持ち良かったです。夕食もどれも綺麗に盛り付…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「清潔感ある館内と温泉、美味しい食事に大満足建物自体は古かったですが、全体に清潔感があり、気持ち良く滞在できました。温泉もお湯がオーバーフローしていて気持ち良かったです。」
                   </blockquote>
                 </div>
               </div>
@@ -437,7 +437,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料。乗用車　３０台　大型バス５台</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「自家源泉の温泉と鳥の声で癒される宿古い温泉宿でしたが...きちんと、掃除がいきとどいていました。汚いという感じはしませんでした。スタッフの方達...外国の方が何人かいましたが、一生懸命に働…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「自家源泉の温泉と鳥の声で癒される宿古い温泉宿でしたが...きちんと、掃除がいきとどいていました。汚いという感じはしませんでした。」
                   </blockquote>
                 </div>
               </div>

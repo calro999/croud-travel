@@ -480,7 +480,7 @@ export default function SilverWeekGlampingLargeGroupCharterPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 全室源泉かけ流し温泉付き旅館＆グランピング　美肌の湯　こしかの温泉</td>
                 <td className="p-3 text-stone-600">鹿児島県霧島市隼人町松永2625</td>
-                <td className="p-3 text-stone-600">日当山駅周辺</td>
+                <td className="p-3 text-stone-600">鹿児島空港より車で約15分【19時までなら鹿児島空港・国分駅まで無料送迎（要予約）】</td>
                 <td className="p-3 text-stone-600">有り（無料）</td>
                 <td className="p-3 font-bold text-amber-600">★4.58（525件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,620〜</td>
@@ -489,7 +489,7 @@ export default function SilverWeekGlampingLargeGroupCharterPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 全室富士山ビュー　ビジョングランピングリゾート山中湖</td>
                 <td className="p-3 text-stone-600">山梨県南都留郡山中湖村山中字栗木林１３８５－４３</td>
-                <td className="p-3 text-stone-600">富士吉田駅周辺</td>
+                <td className="p-3 text-stone-600">富士山駅からバスで30分／山中湖ICより車で5分／河口湖ICより車で15分／御殿場ICより車で30分</td>
                 <td className="p-3 text-stone-600">無料（20台、予約不要）　無料送迎あり（富士山駅・富士山山中湖バス停付近）</td>
                 <td className="p-3 font-bold text-amber-600">★4.84（278件）</td>
                 <td className="p-3 font-bold text-rose-600">¥21,590〜</td>
@@ -498,7 +498,7 @@ export default function SilverWeekGlampingLargeGroupCharterPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. グランピング×古民家　ＭＡＳＡＺＵＭＩ邸／民泊</td>
                 <td className="p-3 text-stone-600">兵庫県三田市波豆川1723</td>
-                <td className="p-3 text-stone-600">三田（兵庫）駅周辺</td>
+                <td className="p-3 text-stone-600">三田駅より車で20分</td>
                 <td className="p-3 text-stone-600">あり</td>
                 <td className="p-3 font-bold text-amber-600">高評価</td>
                 <td className="p-3 font-bold text-rose-600">¥23,154〜</td>
@@ -507,7 +507,7 @@ export default function SilverWeekGlampingLargeGroupCharterPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 貸し別荘　Ｏｒｋ（オーク）ひるがの</td>
                 <td className="p-3 text-stone-600">岐阜県郡上市高鷲町鷲見上野2363-988</td>
-                <td className="p-3 text-stone-600">高鷲駅周辺</td>
+                <td className="p-3 text-stone-600">東海北陸自動車道「ひるがの高原ＳＡ」【ＥＴＣインター】下車「牧歌の里」方面へ約3分及び「高鷲ＩＣ」下車北へ約15分</td>
                 <td className="p-3 text-stone-600">有り　１棟当たり２台　無料　それ以上の方はご相談ください。</td>
                 <td className="p-3 font-bold text-amber-600">★4.29（190件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,960〜</td>
@@ -602,7 +602,7 @@ export default function SilverWeekGlampingLargeGroupCharterPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１棟当たり２台　無料　それ以上の方はご相談ください。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「自然に囲まれたログハウスで非日常を満喫家族と友人で利用子供2人もログハウスにテンション上がってました自然に囲まれてのBBQや魚の掴み取り等で非日常を味わえとても満足ゆっくりとした時…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「自然に囲まれたログハウスで非日常を満喫家族と友人で利用子供2人もログハウスにテンション上がってました自然に囲まれてのBBQや魚の掴み取り等で非日常を味わえとても満足ゆっくりとした時。」
                   </blockquote>
                 </div>
               </div>

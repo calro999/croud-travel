@@ -439,7 +439,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 皆生温泉　皆生シーサイドホテル　海の四季</td>
                 <td className="p-3 text-stone-600">鳥取県米子市皆生温泉3-4-3</td>
-                <td className="p-3 text-stone-600">米子駅周辺</td>
+                <td className="p-3 text-stone-600">米子自動車道・米子ＩＣより車で約10分、ＪＲ米子駅よりタクシー又はバスで約15分、米子空港よりタクシー又はバスで約20分</td>
                 <td className="p-3 text-stone-600">無料駐車場80台分完備。当館をご利用のお客様はいつでも駐車いただけます。</td>
                 <td className="p-3 font-bold text-amber-600">★4.42（4883件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,940〜</td>
@@ -448,7 +448,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 皆生温泉　皆生菊乃家</td>
                 <td className="p-3 text-stone-600">鳥取県米子市皆生温泉4-29-10</td>
-                <td className="p-3 text-stone-600"></td>
+                <td className="p-3 text-stone-600">鳥取県米子市皆生温泉4-29-10 ／ 交通案内：</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.46（1409件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,600〜</td>
@@ -457,7 +457,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 皆生温泉　湯喜望　白扇</td>
                 <td className="p-3 text-stone-600">鳥取県米子市皆生温泉3-12-33</td>
-                <td className="p-3 text-stone-600"></td>
+                <td className="p-3 text-stone-600">鳥取県米子市皆生温泉3-12-33 ／ 交通案内：</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.28（1942件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,050〜</td>
@@ -486,7 +486,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料駐車場80台分完備。当館をご利用のお客様はいつでも駐車いただけます。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「エアコンが効かず、清掃が行き届いていない部屋のエアコンが冷えず部屋の外の方が涼しかった。テーブルの上に綿埃が多く、電話や電気スタンドを動かすとホコリが舞い上がった。食事に使うので拭き掃除をして…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「エアコンが効かず、清掃が行き届いていない部屋のエアコンが冷えず部屋の外の方が涼しかった。テーブルの上に綿埃が多く、電話や電気スタンドを動かすとホコリが舞い上がった。」
                   </blockquote>
                 </div>
               </div>

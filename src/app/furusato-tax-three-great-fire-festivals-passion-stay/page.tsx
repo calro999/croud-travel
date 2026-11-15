@@ -420,8 +420,8 @@ export default function Page() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 紀伊勝浦駅よりアクセス。ＪＲ紀勢線 紀伊勝浦駅から徒歩6分で桟橋へ。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「南紀勝浦温泉 ホテル浦島」にチェックイン。楽天トラベルゴールドアワード受賞 圧倒的なスケールと開放感！天然洞窟温泉など湯巡りを楽しもう♪などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「南紀勝浦温泉 ホテル浦島」の湯処へ。楽天トラベルゴールドアワード受賞 圧倒的なスケールと開放感！天然洞窟温とともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「南紀勝浦温泉 ホテル浦島」にチェックイン。楽天トラベルゴールドアワード受賞 圧倒的なスケールと開放感！天然洞窟温泉など湯巡りを楽しもう♪ 客室で身支度を整え、この宿ならではの滞在をスタート。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「南紀勝浦温泉 ホテル浦島」の自慢の湯処へ。温かな湯気と落ち着いた雰囲気に癒やされながら、夕食前の贅沢なひとときを過ごす。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「南紀勝浦温泉 ホテル浦島」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -433,7 +433,7 @@ export default function Page() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「南紀勝浦温泉 ホテル浦島」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「南紀勝浦温泉 ホテル浦島」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「野沢温泉 河一屋旅館」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は宿周辺の散策とショッピングを満喫。地元の名産品やグルメを味わってから余裕をもって帰路につく。</li>
               </ul>
             </div>
           </div>
@@ -561,7 +561,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 南紀勝浦温泉　ホテル浦島</td>
                 <td className="p-3 text-stone-600">和歌山県東牟婁郡那智勝浦町勝浦1165-2</td>
-                <td className="p-3 text-stone-600">紀伊勝浦駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ紀勢線 紀伊勝浦駅から徒歩6分で桟橋へ。更に専用ボート又は、シャトルバスで５分 詳しくは交通案内ページをご覧ください</td>
                 <td className="p-3 text-stone-600">400台（無料）／駐車場はホテルより離れた場所にございます。詳しくは交通案内ページをご覧ください</td>
                 <td className="p-3 font-bold text-amber-600">★4.22（6497件）</td>
                 <td className="p-3 font-bold text-rose-600">¥10,450〜</td>
@@ -570,7 +570,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 野沢温泉　河一屋旅館</td>
                 <td className="p-3 text-stone-600">長野県下高井郡野沢温泉村豊郷8923-1</td>
-                <td className="p-3 text-stone-600">戸狩野沢温泉駅周辺</td>
+                <td className="p-3 text-stone-600">豊田飯山IC⇒R117「野沢温泉」方面25分 新幹線飯山駅⇒野沢温泉行バス25分「野沢温泉」下車徒歩2分</td>
                 <td className="p-3 text-stone-600">有り：（専用駐車場）18台　無料・（村営駐車場）1500円</td>
                 <td className="p-3 font-bold text-amber-600">★4.58（812件）</td>
                 <td className="p-3 font-bold text-rose-600">¥10,972〜</td>
@@ -579,7 +579,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. ザ・プリンス　京都宝ヶ池、オートグラフコレクション</td>
                 <td className="p-3 text-stone-600">京都府 京都市左京区宝ヶ池</td>
-                <td className="p-3 text-stone-600">【地下鉄烏丸線】京都駅から国際会館駅まで乗り換えなし20分。④-2出入</td>
+                <td className="p-3 text-stone-600">【地下鉄烏丸線】京都駅から国際会館駅まで乗り換えなし20分。④-2出入口より徒歩3分【車】京都東I.C.から平常時35分</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.43（2277件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,017〜</td>
@@ -630,7 +630,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り：（専用駐車場）18台　無料・（村営駐車場）1500円</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「お風呂も料理も最高、部屋から花火も鑑賞はじめての野沢温泉お風呂も貸し切り状態で、お部屋も綺麗で料理も最高でしたたまたま部屋から花火が見えて尚更良きタイミングでしたまたリピしたい、男性大浴場に鯉が居…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「お風呂も料理も最高、部屋から花火も鑑賞はじめての野沢温泉お風呂も貸し切り状態で、お部屋も綺麗で料理も最高でしたたまたま部屋から花火が見えて尚更良きタイミングでしたまたリピしたい、男性大浴場に鯉が居。」
                   </blockquote>
                 </div>
               </div>
@@ -652,7 +652,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「祇園祭の丁寧な案内と静かな環境でリラックスたまたま祇園祭の期間にとまりました。フロントにお祭りの説明があり、フロントの方がとても丁寧に説明してくれました。京都市なのにしずかな場所にあるので、の…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「祇園祭の丁寧な案内と静かな環境でリラックスたまたま祇園祭の期間にとまりました。フロントにお祭りの説明があり、フロントの方がとても丁寧に説明してくれました。」
                   </blockquote>
                 </div>
               </div>

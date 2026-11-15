@@ -342,7 +342,7 @@ export default function SumatakyoAutumnPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 大井川鐵道　川根温泉ホテル</td>
                 <td className="p-3 text-stone-600">静岡県島田市川根町笹間渡195-1</td>
-                <td className="p-3 text-stone-600">新東名島田金谷ＩＣよりお車にて約３５分／大井川鉄道　川根温泉笹間渡駅よ</td>
+                <td className="p-3 text-stone-600">新東名島田金谷ＩＣよりお車にて約３５分／大井川鉄道 川根温泉笹間渡駅より徒歩にて約１０分</td>
                 <td className="p-3 text-stone-600">無料駐車場有り</td>
                 <td className="p-3 font-bold text-amber-600">★4.65（695件）</td>
                 <td className="p-3 font-bold text-rose-600">¥15,200〜</td>
@@ -351,7 +351,7 @@ export default function SumatakyoAutumnPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 川根温泉ふれあいコテージ</td>
                 <td className="p-3 text-stone-600">静岡県島田市川根町笹間渡411-2</td>
-                <td className="p-3 text-stone-600">笹間渡駅周辺</td>
+                <td className="p-3 text-stone-600">大井川鐵道 大井川本線 川根温泉笹間渡駅から徒歩２分</td>
                 <td className="p-3 text-stone-600">敷地内に無料駐車場がございます。</td>
                 <td className="p-3 font-bold text-amber-600">★4.76（32件）</td>
                 <td className="p-3 font-bold text-rose-600">¥26,500〜</td>
@@ -360,7 +360,7 @@ export default function SumatakyoAutumnPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 翠紅苑</td>
                 <td className="p-3 text-stone-600">静岡県榛原郡川根本町千頭279</td>
-                <td className="p-3 text-stone-600">千頭駅周辺</td>
+                <td className="p-3 text-stone-600">JR金谷駅より大井川鉄道乗換え千頭駅より寸又峡温泉行きバス40分</td>
                 <td className="p-3 text-stone-600">20台（無料）　ご来館前に必ず「交通情報（道路改良工事、鉄道復旧工事等）」をご確認ください。</td>
                 <td className="p-3 font-bold text-amber-600">★4.21（982件）</td>
                 <td className="p-3 font-bold text-rose-600">¥10,450〜</td>
@@ -389,7 +389,7 @@ export default function SumatakyoAutumnPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料駐車場有り</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.68 ／ 立地 ★4.62 ／ 部屋 ★4.51 ／ 設備 ★4.54 ／ 風呂 ★4.6 ／ 食事 ★4.71</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「子連れ歓迎で設備も食事も大満足子連れで和室とクイーンベッドの部屋と迷いましたが、ベビーベッドやベビーガードの貸出もあるとの事で、今回はクイーンベッドで利用させてもらいました。子連れ歓迎なだけあ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「子連れ歓迎で設備も食事も大満足子連れで和室とクイーンベッドの部屋と迷いましたが、ベビーベッドやベビーガードの貸出もあるとの事で、今回はクイーンベッドで利用させてもらいました。」
                   </blockquote>
                 </div>
               </div>
@@ -411,7 +411,7 @@ export default function SumatakyoAutumnPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>敷地内に無料駐車場がございます。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「檜風呂と露天風呂付きで家族とゆったり過ごせた急遽の予約・コテージでの素泊まりプランを利用させていただきました。コテージはお任せのプランでしたが、檜風呂と露天風呂のある建物でした。コテージ自…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「檜風呂と露天風呂付きで家族とゆったり過ごせた急遽の予約・コテージでの素泊まりプランを利用させていただきました。コテージはお任せのプランでしたが、檜風呂と露天風呂のある建物でした。」
                   </blockquote>
                 </div>
               </div>

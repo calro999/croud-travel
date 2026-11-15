@@ -338,8 +338,8 @@ export default function ArticlePage() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 下呂駅よりアクセス。JR 高山線下呂駅から徒歩1５分 車 中央道中津川I.Cより車で50分。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「下呂温泉 湯あそびの宿 下呂観光ホテル本館」にチェックイン。絶景ランキング1位！インバウンド比率6.6％。団体客無しでゆっくりとくつろげる全室夜景自慢の宿。などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「下呂温泉 湯あそびの宿 下呂観光ホテル本館」の湯処へ。絶景ランキング1位！インバウンド比率6.6％。団体客無しでゆっくりとくとともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「下呂温泉 湯あそびの宿 下呂観光ホテル本館」にチェックイン。絶景ランキング1位！インバウンド比率6.6％。団体客無しでゆっくりとくつろげる全室夜景自慢の宿。 窓外に広がる景色を眺めながらチェックイン後の寛ぎ時間を。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「下呂温泉 湯あそびの宿 下呂観光ホテル本館」の自慢の湯処へ。温かな湯気と落ち着いた雰囲気に癒やされながら、夕食前の贅沢なひとときを過ごす。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「下呂温泉 湯あそびの宿 下呂観光ホテル本館」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -351,7 +351,7 @@ export default function ArticlePage() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「下呂温泉 湯あそびの宿 下呂観光ホテル本館」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「下呂温泉 湯あそびの宿 下呂観光ホテル本館」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「下呂温泉 紗々羅」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は宿周辺の散策とショッピングを満喫。地元の名産品やグルメを味わってから余裕をもって帰路につく。</li>
               </ul>
             </div>
           </div>
@@ -367,49 +367,49 @@ export default function ArticlePage() {
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">あわせて読みたい人気特集＆全国エリアガイド</h2>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
-            <a href="/winter-saitama-chichibu-hyochu-onouchi-ogano-onsen-jibier-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/gifu-shirakawago-gokayama-gassho-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">尾ノ内百景氷柱と薬師の湯：2026-2027年冬の埼玉・秩父＆小鹿野！猪鹿ぼたん鍋と武州和牛名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「岐阜・白川郷＆五箇山」世界遺産合掌造り集落・荻町展望台＆飛騨牛・すったて汁宿 厳選ガイド</span>
             </a>
-            <a href="/winter-saitama-omiya-hikawa-shrine-hatsumode-keyaki-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/nagoya-departure-daytrip-bus-tour-guide/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12・1月埼玉】武蔵一宮氷川神社新春初詣＆けやきひろばイルミネーション！武州和牛と天然温泉に寛ぐ名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「名古屋発 日帰りバスツアー＆温泉ランチおすすめ」 下呂温泉・伊勢神宮参拝・飛騨牛食べ放題 プラン深掘り特集</span>
             </a>
-            <a href="/winter-saitama-chichibu-onsen-yomatsuri-nagatoro-bushugyu-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/tokyo-takayama-shirakawago-highway-bus-guide/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12月埼玉・秩父温泉郷の秩父夜祭と長瀞こたつ舟】名物武州和牛すき焼き＆秩父みそ豚・創業文政の美肌鉱泉を満喫する山里名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「東京・新宿〜飛騨高山・白川郷」直行高速バスが最強！電車との料金・時間比較＆飛騨牛1泊2日モデルコース</span>
             </a>
-            <a href="/furusato-tax-chichibu-nagatoro-autumn-leaves-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/traditional-hida-beef-houba-miso-grill-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">国指定天然記念物・長瀞岩畳の紅葉舟下り！秩父夜祭・錦秋ハイキング＆秩父七湯温泉宿×ふるさと納税厳選ガイド埼玉</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「香ばしい味噌の香りと極上霜降り（名物「飛騨牛朴葉味噌焼き」会席の温泉宿5選）」香ばしい味噌の香りと極上霜降り！名物「飛騨牛朴葉味噌焼き」会席の温泉宿5選</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
             <div className="flex flex-wrap gap-2">
               <Link
-                href="/prefectures/fukuoka/"
+                href="/prefectures/gifu/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                福岡県の宿・温泉
-              </Link>
-              <Link
-                href="/prefectures/yamaguchi/"
-                className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
-              >
-                山口県の宿・温泉
-              </Link>
-              <Link
-                href="/prefectures/saitama/"
-                className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
-              >
-                埼玉県の宿・温泉
+                岐阜県の宿・温泉
               </Link>
               <Link
                 href="/prefectures/shizuoka/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 静岡県の宿・温泉
+              </Link>
+              <Link
+                href="/prefectures/aichi/"
+                className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
+              >
+                愛知県の宿・温泉
+              </Link>
+              <Link
+                href="/prefectures/mie/"
+                className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
+              >
+                三重県の宿・温泉
               </Link>
             </div>
           </div>
@@ -445,7 +445,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 下呂温泉　湯あそびの宿　下呂観光ホテル本館</td>
                 <td className="p-3 text-stone-600">岐阜県下呂市萩原町西上田2148-1</td>
-                <td className="p-3 text-stone-600">下呂駅周辺</td>
+                <td className="p-3 text-stone-600">【JR】高山線下呂駅から徒歩1５分【車】中央道中津川I.Cより車で50分</td>
                 <td className="p-3 text-stone-600">有り　無料(一部プランにより有料もあり)　バイク専用屋根付き駐車場あり</td>
                 <td className="p-3 font-bold text-amber-600">★4.43（1489件）</td>
                 <td className="p-3 font-bold text-rose-600">¥2,750〜</td>
@@ -454,7 +454,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 下呂温泉　紗々羅</td>
                 <td className="p-3 text-stone-600">岐阜県下呂市森1412-1</td>
-                <td className="p-3 text-stone-600">下呂駅周辺</td>
+                <td className="p-3 text-stone-600">JR高山本線「下呂駅」よりタクシーで3分（タクシー代は当社持ち）。中央道 中津川ICよりR257経由で60分。</td>
                 <td className="p-3 text-stone-600">有り　40台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.15（1146件）</td>
                 <td className="p-3 font-bold text-rose-600">¥10,670〜</td>
@@ -463,7 +463,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 下呂温泉　こころをなでる静寂　みやこ</td>
                 <td className="p-3 text-stone-600">岐阜県下呂市森2505</td>
-                <td className="p-3 text-stone-600">下呂駅周辺</td>
+                <td className="p-3 text-stone-600">中央道中津川ＩＣを降りＲ２５７で高山方面へ１時間。ＪＲ高山本線下呂駅下車。送迎有</td>
                 <td className="p-3 text-stone-600">18台／無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.63（795件）</td>
                 <td className="p-3 font-bold text-rose-600">¥25,300〜</td>
@@ -514,7 +514,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　40台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.18 ／ 立地 ★4.12 ／ 部屋 ★4.22 ／ 設備 ★4.06 ／ 風呂 ★4.26 ／ 食事 ★4.24</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事も接客も五つ星、全てが快適で大満足お食事、もてなし、清潔さ、お風呂全て快適で綺麗で申し分ないです。案内も対応も五つ星です!お部屋担当の方にはとても親切にして頂きました。ありがと…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事も接客も五つ星、全てが快適で大満足お食事、もてなし、清潔さ、お風呂全て快適で綺麗で申し分ないです。案内も対応も五つ星です!お部屋担当の方にはとても親切にして頂きました。」
                   </blockquote>
                 </div>
               </div>

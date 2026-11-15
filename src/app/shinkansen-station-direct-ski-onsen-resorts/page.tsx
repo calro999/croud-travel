@@ -83,7 +83,7 @@ export default function Page() {
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/5735/5735map.gif",
     "reviewCount": 695,
     "reviewAverage": 4.13,
-    "userReview": "24時間入れる温泉最高2回目の訪問です。今回は素泊まりプランで湯沢の食べ歩きを楽しみました!のんびり出来ました。またお仕事頑張れそうです。ありがとうございました。クチコミの詳細。",
+    "userReview": "24時間入れる温泉最高2回目の訪問です。今回は素泊まりプランで湯沢の食べ歩きを楽しみました!のんびり出来ました。またお仕事頑張れそうです。ありがとうございました。",
     "hotelMinCharge": 5500,
     "address1": "新潟県",
     "address2": "南魚沼郡湯沢町湯沢419",
@@ -337,7 +337,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 越後湯沢温泉　音羽屋旅館</td>
                 <td className="p-3 text-stone-600">新潟県南魚沼郡湯沢町湯沢419</td>
-                <td className="p-3 text-stone-600">越後湯沢駅周辺</td>
+                <td className="p-3 text-stone-600">JR上越新幹線、越後湯沢駅西口より徒歩７分。関越自動車道、越後湯沢ＩＣより、越後湯沢駅方面に向かって約6分。駐車場完備。</td>
                 <td className="p-3 text-stone-600">有り　15台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.1（702件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,500〜</td>
@@ -346,7 +346,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 舞子温泉　飯士の湯　舞子高原ホテル</td>
                 <td className="p-3 text-stone-600">新潟県南魚沼市舞子2056-108</td>
-                <td className="p-3 text-stone-600">越後湯沢駅周辺</td>
+                <td className="p-3 text-stone-600">関越自動車道「塩沢石打IC」より直進1km、約2分！越後湯沢駅からは無料シャトルバスで約20分(春～秋は予約制)</td>
                 <td className="p-3 text-stone-600">有り　100台　宿泊者専用（無料）</td>
                 <td className="p-3 font-bold text-amber-600">★4.41（1479件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,800〜</td>
@@ -355,7 +355,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 湯沢温泉（自家源泉）　ＨＯＴＥＬシャーレゆざわ銀水</td>
                 <td className="p-3 text-stone-600">新潟県南魚沼郡湯沢町大字土樽6301-7</td>
-                <td className="p-3 text-stone-600">越後湯沢駅周辺</td>
+                <td className="p-3 text-stone-600">関越道 湯沢ＩＣから１．５km。ＪＲ越後湯沢から２．５km、送迎有り。</td>
                 <td className="p-3 text-stone-600">有り：１００台（無料・予約制）</td>
                 <td className="p-3 font-bold text-amber-600">★4.14（339件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,980〜</td>
@@ -384,7 +384,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　15台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.96 ／ 立地 ★4.02 ／ 部屋 ★4.09 ／ 設備 ★3.94 ／ 風呂 ★4.21 ／ 食事 ★4.14</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「源泉掛け流しの温泉と地酒三昧に大満足新潟県『清津峡湯元温泉 清津館』宿泊(2026.8)清津峡は黒部峡谷・大杉と共に日本三大峡谷のひとつで名勝清津峡に一番近い清津峡温泉清津館!不便さと…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「源泉掛け流しの温泉と地酒三昧に大満足新潟県『清津峡湯元温泉 清津館』宿泊(2026.8)清津峡は黒部峡谷・大杉と共に日本三大峡谷のひとつで名勝清津峡に一番近い清津峡温泉清津館!」
                   </blockquote>
                 </div>
               </div>
@@ -406,7 +406,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　100台　宿泊者専用（無料）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ローストビーフが絶品、設備が広々で快適ローストビーフ最高でした!!部屋数よりも各設備が広めなのでゆっくりのんびり過ごせます!!脱衣所も広々!ロビーも広々!カラオケ部屋も広々!お…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ローストビーフが絶品、設備が広々で快適ローストビーフ最高でした!!部屋数よりも各設備が広めなのでゆっくりのんびり過ごせます!!脱衣所も広々!ロビーも広々!カラオケ部屋も広々!」
                   </blockquote>
                 </div>
               </div>
@@ -428,7 +428,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り：１００台（無料・予約制）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「館内は清潔で広々、スタッフの対応も親切施設自体は昔の建物ですが、館内は掃除などが行き届いており、キレイでしたし、客室内もキレイで広々としておりとても居心地が良かったです。スタッフの方がとても親切で…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「館内は清潔で広々、スタッフの対応も親切施設自体は昔の建物ですが、館内は掃除などが行き届いており、キレイでしたし、客室内もキレイで広々としておりとても居心地が良かったです。」
                   </blockquote>
                 </div>
               </div>

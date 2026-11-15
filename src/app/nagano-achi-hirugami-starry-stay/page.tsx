@@ -253,7 +253,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 昼神温泉　昼神グランドホテル天心</td>
                 <td className="p-3 text-stone-600">長野県下伊那郡阿智村智里331-5</td>
-                <td className="p-3 text-stone-600">飯田（長野）駅周辺</td>
+                <td className="p-3 text-stone-600">中央自動車道 (名古屋方面から)園原ICより車で約10分 (東京・長野方面から)飯田山本インターより車で約10分</td>
                 <td className="p-3 text-stone-600">有り　70台　無料　予約不要 【EV・PHEV用の充電器1台あり(普通充電200V)】</td>
                 <td className="p-3 font-bold text-amber-600">★4.16（845件）</td>
                 <td className="p-3 font-bold text-rose-600">プラン参照</td>
@@ -262,7 +262,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 昼神温泉　ユルイの宿　恵山</td>
                 <td className="p-3 text-stone-600">長野県下伊那郡阿智村智里407</td>
-                <td className="p-3 text-stone-600">ＪＲ飯田線より清内路・昼神温泉行きバスで４０分　昼神西口下車　徒歩１分</td>
+                <td className="p-3 text-stone-600">ＪＲ飯田線より清内路・昼神温泉行きバスで４０分 昼神西口下車 徒歩１分 中央自動車道飯田山本ＩＣより１０分</td>
                 <td className="p-3 text-stone-600">有り　５０台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.4（2818件）</td>
                 <td className="p-3 font-bold text-rose-600">¥13,750〜</td>
@@ -271,7 +271,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 昼神温泉　癒楽（ゆら）の宿　清風苑</td>
                 <td className="p-3 text-stone-600">長野県下伊那郡阿智村智里338-19</td>
-                <td className="p-3 text-stone-600">中央道飯田山本ＩＣ～Ｒ１５３～R２５６（約10分）/　中央道園原IC～</td>
+                <td className="p-3 text-stone-600">中央道飯田山本ＩＣ～Ｒ１５３～R２５６（約10分）/ 中央道園原IC～（約10分）</td>
                 <td className="p-3 text-stone-600">有り：４０台（無料）ホテルの前と後にご用意がございます。</td>
                 <td className="p-3 font-bold text-amber-600">★4.4（1354件）</td>
                 <td className="p-3 font-bold text-rose-600">¥15,000〜</td>
@@ -280,7 +280,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 昼神温泉　石苔亭いしだ</td>
                 <td className="p-3 text-stone-600">長野県下伊那郡阿智村智里332-3</td>
-                <td className="p-3 text-stone-600">飯田（長野）駅周辺</td>
+                <td className="p-3 text-stone-600">中央道・飯田山本ＩＣより約７分／ＪＲ飯田駅より無料送迎約２５分（要事前予約）／名古屋より高速バスで約１２０分</td>
                 <td className="p-3 text-stone-600">有り　３０台まで　屋外　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.71（330件）</td>
                 <td className="p-3 font-bold text-rose-600">¥36,300〜</td>
@@ -289,7 +289,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 昼神温泉　日長庵　桂月</td>
                 <td className="p-3 text-stone-600">長野県下伊那郡阿智村智里425</td>
-                <td className="p-3 text-stone-600">飯田（長野）駅周辺</td>
+                <td className="p-3 text-stone-600">JR飯田駅より無料送迎（要事前予約最終17:00） 中央道飯田山本ICより10分。園原ICより10分。</td>
                 <td className="p-3 text-stone-600">有り　30台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.23（599件）</td>
                 <td className="p-3 font-bold text-rose-600">¥16,500〜</td>
@@ -298,7 +298,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">6. 昼神温泉郷　懐石と炉ばたの宿　吉弥</td>
                 <td className="p-3 text-stone-600">長野県下伊那郡阿智村智里503-2</td>
-                <td className="p-3 text-stone-600">飯田（長野）駅周辺</td>
+                <td className="p-3 text-stone-600">中央道 名古屋方面から：園原ＩＣより約１０分 東京方面から：飯田山本ＩＣより約１０分</td>
                 <td className="p-3 text-stone-600">有り　4０台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.16（550件）</td>
                 <td className="p-3 font-bold text-rose-600">¥16,600〜</td>
@@ -327,7 +327,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　70台　無料　予約不要 【EV・PHEV用の充電器1台あり(普通充電200V)】</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「従業員の育成が行き届いており、また来たい昨年に続いて2度目の宿泊。サービスも決して過剰でなく、平日の宿泊であったためかゆったりと時間を過ごすことができた。昨年は、外国人の従業員とのコミュニケーショ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「従業員の育成が行き届いており、また来たい昨年に続いて2度目の宿泊。サービスも決して過剰でなく、平日の宿泊であったためかゆったりと時間を過ごすことができた。」
                   </blockquote>
                 </div>
               </div>
@@ -371,7 +371,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り：４０台（無料）ホテルの前と後にご用意がございます。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温かいおもてなしと美味しい料理に大満足主人のお誕生日でお世話になりました。とても素敵なおもてなしをありがとうございました。スタッフさんはみなさんとても温かく、すれ違う方みなさん笑顔で挨拶をして…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温かいおもてなしと美味しい料理に大満足主人のお誕生日でお世話になりました。とても素敵なおもてなしをありがとうございました。」
                   </blockquote>
                 </div>
               </div>
@@ -393,7 +393,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　３０台まで　屋外　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.85 ／ 立地 ★4.7 ／ 部屋 ★4.72 ／ 設備 ★4.76 ／ 風呂 ★4.73 ／ 食事 ★4.81</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋の露天風呂は残念だが接客には満足露天ぶろ付きの部屋に宿泊させていただいたのですが部屋の泉質が大浴場の泉質より薄くガッカリ。仕方ないので大浴場で我慢をした次第です。それ以外は仲居さんの気遣いサー…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋の露天風呂は残念だが接客には満足露天ぶろ付きの部屋に宿泊させていただいたのですが部屋の泉質が大浴場の泉質より薄くガッカリ。仕方ないので大浴場で我慢をした次第です。」
                   </blockquote>
                 </div>
               </div>
@@ -415,7 +415,7 @@ export default function MicroTouristHubPage() {
                   <p>【長野・阿智村＆昼神温泉：日本一の星空ナイトツアー・美】 <strong>【駐車場・マイカー利用】</strong>有り　30台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.24 ／ 立地 ★4 ／ 部屋 ★4.23 ／ 設備 ★3.97 ／ 風呂 ★4.24 ／ 食事 ★4.37</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「鯉料理最高、送迎サービスに感謝ですい草の香りが漂うお部屋で、水回りも綺麗で快適でした。鯉料理を楽しみにしていましたが、とても美味しい味付けで、今まで食べてきた鯉料理で一番でした!温泉旅館の…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「鯉料理最高、送迎サービスに感謝ですい草の香りが漂うお部屋で、水回りも綺麗で快適でした。鯉料理を楽しみにしていましたが、とても美味しい味付けで、今まで食べてきた鯉料理で一番でした!」
                   </blockquote>
                 </div>
               </div>
@@ -437,7 +437,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　4０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「バランスよくとてもいいホテルですリーズナブルなのに、総じてよかったです、家族全員満足でした。ご飯もとても美味しかったし、お風呂もきれいで広いし、露天風呂もよかったです。ナイトツアーの手配もして頂き…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「バランスよくとてもいいホテルですリーズナブルなのに、総じてよかったです、家族全員満足でした。ご飯もとても美味しかったし、お風呂もきれいで広いし、露天風呂もよかったです。」
                   </blockquote>
                 </div>
               </div>

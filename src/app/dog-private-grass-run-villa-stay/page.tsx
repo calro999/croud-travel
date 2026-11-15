@@ -253,7 +253,7 @@ export default function PetDogResortHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. Ｐｒｕｎｉｍｏ</td>
                 <td className="p-3 text-stone-600">千葉県山武市本須賀字塩浜3841-425</td>
-                <td className="p-3 text-stone-600">成東駅周辺</td>
+                <td className="p-3 text-stone-600">JR成東駅よりお車で約20分、成田国際空港よりお車で約55分、九十九里有料道路より約20分</td>
                 <td className="p-3 text-stone-600">あり　2台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">高評価</td>
                 <td className="p-3 font-bold text-rose-600">¥16,500〜</td>
@@ -262,7 +262,7 @@ export default function PetDogResortHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. ホテルハーヴェスト浜名湖</td>
                 <td className="p-3 text-stone-600">静岡県浜松市浜名区三ヶ日町大崎372</td>
-                <td className="p-3 text-stone-600">東都筑駅周辺</td>
+                <td className="p-3 text-stone-600">東名三ヶ日ICより車５分。天竜浜名湖線都筑駅・JR鷲津駅より無料送迎有。事前要予約</td>
                 <td className="p-3 text-stone-600">有り　１２０台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.19（451件）</td>
                 <td className="p-3 font-bold text-rose-600">¥13,276〜</td>
@@ -271,7 +271,7 @@ export default function PetDogResortHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. ホテルビワドッグ</td>
                 <td className="p-3 text-stone-600">滋賀県彦根市新海町3260</td>
-                <td className="p-3 text-stone-600">能登川駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ 能登川駅よりお車で約１５分</td>
                 <td className="p-3 text-stone-600">有り　４６台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.52（58件）</td>
                 <td className="p-3 font-bold text-rose-600">¥27,350〜</td>
@@ -280,7 +280,7 @@ export default function PetDogResortHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. ＷＡＳＵＫＩ　ＢＡＳＥ　びわ湖　ＶＩＬＬＡ　ＳＴＹＬＥ</td>
                 <td className="p-3 text-stone-600">滋賀県高島市マキノ町西浜87</td>
-                <td className="p-3 text-stone-600">マキノ（滋賀）駅周辺</td>
+                <td className="p-3 text-stone-600">マキノ駅より徒歩約15分、琵琶湖徒歩5分、メタセコイア並木車10分、京都方面：車約90分、名古屋方面：車約100分</td>
                 <td className="p-3 text-stone-600">有＞大コテージ3台無料、中コテージ2台無料、グランピング1台無料。追加：1台につき1200円/税込</td>
                 <td className="p-3 font-bold text-amber-600">★4.22（71件）</td>
                 <td className="p-3 font-bold text-rose-600">¥11,148〜</td>
@@ -289,7 +289,7 @@ export default function PetDogResortHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. ＲＥＳＯＲＴ×ＳＰＡ　Ｆｕｔｕｒｅ　ＲＥＳＯＲＴ（旧：フューチャーリゾート）</td>
                 <td className="p-3 text-stone-600">滋賀県長浜市名越町1016-4</td>
-                <td className="p-3 text-stone-600">米原駅周辺</td>
+                <td className="p-3 text-stone-600">新幹線 ・北陸本線 ＪＲ米原駅よりお車にて約１５分／北陸自動車道 長浜Ｉ．Ｃまたは米原Ｉ．Ｃから車で約１５分</td>
                 <td className="p-3 text-stone-600">有り　２２台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.36（21件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,910〜</td>
@@ -362,7 +362,7 @@ export default function PetDogResortHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　４６台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ワンコに優しく清潔な部屋で大満足スタッフさんの対応やホテル全体が、とてもワンコに優しいと感じました。Villaに宿泊しましたが、ワンコのニオイ感じられず、清潔で綺麗なお部屋でした。また滋賀…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ワンコに優しく清潔な部屋で大満足スタッフさんの対応やホテル全体が、とてもワンコに優しいと感じました。Villaに宿泊しましたが、ワンコのニオイ感じられず、清潔で綺麗なお部屋でした。」
                   </blockquote>
                 </div>
               </div>
@@ -384,7 +384,7 @@ export default function PetDogResortHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有＞大コテージ3台無料、中コテージ2台無料、グランピング1台無料。追加：1台につき1200円/税込</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「四季折々の景色と愛犬との時間が最高メタセコイア並木、温泉施設が近い。マキノサニービーチはチェックイン時の駐車場の目の前にあり、混雑時にも空いてて便利。前回はグランピングの新緑、今回は紅…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「四季折々の景色と愛犬との時間が最高メタセコイア並木、温泉施設が近い。マキノサニービーチはチェックイン時の駐車場の目の前にあり、混雑時にも空いてて便利。」
                   </blockquote>
                 </div>
               </div>

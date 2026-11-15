@@ -283,8 +283,8 @@ export default function Page() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 榊原温泉口駅よりアクセス。近畿日本鉄道大阪線「榊原温泉口駅」より車で約10分 送迎あり／伊勢自動車道ICより車で約15分。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「榊原温泉 旅館 清少納言」にチェックイン。枕草子にも 三大名泉 と謳われた、湯治にも最適の湯宿。温泉自慢！ 堂々の クチコミ★4.0以上などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「榊原温泉 旅館 清少納言」の湯処へ。枕草子にも 三大名泉 と謳われた、湯治にも最適の湯宿。温泉自慢！ 堂々とともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「榊原温泉 旅館 清少納言」にチェックイン。枕草子にも 【三大名泉】 と謳われた、湯治にも最適の湯宿。 まずは客室で移動の疲れをそっと癒やす。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「榊原温泉 旅館 清少納言」の大浴場・露天風呂へ。日暮れの静けさの中で湯に浸かり、旅の緊張をゆっくりと解きほぐす。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「榊原温泉 旅館 清少納言」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -296,7 +296,7 @@ export default function Page() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「榊原温泉 旅館 清少納言」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「榊原温泉 旅館 清少納言」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「塩田温泉旅館 湯元 うえやま」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は宿周辺の散策とショッピングを満喫。地元の名産品やグルメを味わってから余裕をもって帰路につく。</li>
               </ul>
             </div>
           </div>
@@ -424,7 +424,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 榊原温泉　旅館　清少納言</td>
                 <td className="p-3 text-stone-600">三重県津市榊原町6010</td>
-                <td className="p-3 text-stone-600">榊原温泉口駅周辺</td>
+                <td className="p-3 text-stone-600">近畿日本鉄道大阪線「榊原温泉口駅」より車で約10分 送迎あり／伊勢自動車道ICより車で約15分</td>
                 <td className="p-3 text-stone-600">有り　５０台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★3.95（782件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,250〜</td>
@@ -433,7 +433,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 塩田温泉旅館　湯元　うえやま</td>
                 <td className="p-3 text-stone-600">兵庫県姫路市夢前町塩田287</td>
-                <td className="p-3 text-stone-600">姫路駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ姫路→神姫バス塩田温泉〜前之庄３５分 中国道福崎ＩＣ２０分 山陽道姫路西ＩＣ２５分 中国道夢前スマートＩＣ５分</td>
                 <td className="p-3 text-stone-600">有り　50台</td>
                 <td className="p-3 font-bold text-amber-600">★4.49（218件）</td>
                 <td className="p-3 font-bold text-rose-600">¥15,950〜</td>
@@ -451,7 +451,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 赤目温泉　山の湯　湯元赤目　山水園</td>
                 <td className="p-3 text-stone-600">三重県名張市赤目町柏原1203</td>
-                <td className="p-3 text-stone-600">近鉄大阪線「赤目口駅」より車で5分。送迎もございます（事前予約は不要で</td>
+                <td className="p-3 text-stone-600">近鉄大阪線「赤目口駅」より車で5分。送迎もございます（事前予約は不要ですが、当日の到着時間はお電話でご連絡ください）</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.47（498件）</td>
                 <td className="p-3 font-bold text-rose-600">¥9,900〜</td>
@@ -489,7 +489,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　５０台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.93 ／ 立地 ★3.79 ／ 部屋 ★3.85 ／ 設備 ★3.61 ／ 風呂 ★4.26 ／ 食事 ★4.09</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「古さを感じさせない管理と温泉に満足古い施設と判断していたが古くてもきれいに管理され Goodに評価できました。温泉はうわさ通りで 良いお湯でした。      肌ざわり良くきれいで湯温も…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「古さを感じさせない管理と温泉に満足古い施設と判断していたが古くてもきれいに管理され Goodに評価できました。温泉はうわさ通りで 良いお湯でした。」
                   </blockquote>
                 </div>
               </div>
@@ -533,7 +533,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「料理旅館の食事とアットホームな接客に大満足料理旅館は初めてでしたが、大人も子どももおいしく頂けました。接客もアットホームな感じで気さくにお話しできました。また三重に行く時は利用したいてす。クチ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「料理旅館の食事とアットホームな接客に大満足料理旅館は初めてでしたが、大人も子どももおいしく頂けました。接客もアットホームな感じで気さくにお話しできました。また三重に行く時は利用したいてす。」
                   </blockquote>
                 </div>
               </div>
@@ -577,7 +577,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「清掃が行き届いておらずほこりだらけ設備は古く階段のアップダウンがあるので足の悪い方にはおすすめできません。その辺りは事前に調べればわかるので問題なかったのですが、清掃が全く行き届いておらず、共有の…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「清掃が行き届いておらずほこりだらけ設備は古く階段のアップダウンがあるので足の悪い方にはおすすめできません。」
                   </blockquote>
                 </div>
               </div>

@@ -135,7 +135,7 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/2370/2370map.gif",
     "reviewCount": 528,
     "reviewAverage": 4.68,
-    "userReview": "大満足!生後9ヶ月の子供を連れて泊まりにいかせていただきました!もう全てにおいて大満足でした!ウェルカムドリンクも夕食も朝食も貸切露天風呂もお部屋も!また泊まりたいと思える宿でし。",
+    "userReview": "大満足!生後9ヶ月の子供を連れて泊まりにいかせていただきました!もう全てにおいて大満足でした!ウェルカムドリンクも夕食も朝食も貸切露天風呂もお部屋も!また泊まりたいと思える宿でした。",
     "hotelMinCharge": 7700,
     "address1": "群馬県",
     "address2": "利根郡みなかみ町湯桧曽93",
@@ -565,8 +565,8 @@ export default function FeatureDetailPage() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 九十九湾小木駅よりアクセス。金沢駅から車で2時間半 金沢駅バスで3時間半 能登空港からタクシーで30分／バス停「九十九湾」送迎有り（要予約）。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「洞窟風呂の宿 百楽荘」にチェックイン。静けさと、どこか懐かしい風景に心休まる。緑と海に囲まれた岬の一軒宿。などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「洞窟風呂の宿 百楽荘」の湯処へ。静けさと、どこか懐かしい風景に心休まる。緑と海に囲まれた岬の一軒宿。とともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「洞窟風呂の宿 百楽荘」にチェックイン。静けさと、どこか懐かしい風景に心休まる。緑と海に囲まれた岬の一軒宿。 館内の設えを確かめながら、これからの滞在に備えてゆっくり休息する。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「洞窟風呂の宿 百楽荘」の大浴場・露天風呂へ。日暮れの静けさの中で湯に浸かり、旅の緊張をゆっくりと解きほぐす。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「洞窟風呂の宿 百楽荘」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -578,7 +578,7 @@ export default function FeatureDetailPage() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「洞窟風呂の宿 百楽荘」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「洞窟風呂の宿 百楽荘」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「原鶴温泉 旅館とよとみ」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は「洞窟風呂の宿 百楽荘」周辺の観光スポットや地元の名産店に立ち寄り、ご当地のお土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>
@@ -706,7 +706,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 洞窟風呂の宿　百楽荘</td>
                 <td className="p-3 text-stone-600">石川県鳳珠郡能登町越坂11-34</td>
-                <td className="p-3 text-stone-600">九十九湾小木駅周辺</td>
+                <td className="p-3 text-stone-600">金沢駅から車で2時間半 金沢駅バスで3時間半 能登空港からタクシーで30分／バス停「九十九湾」送迎有り（要予約）</td>
                 <td className="p-3 text-stone-600">有り　２５台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.73（2657件）</td>
                 <td className="p-3 font-bold text-rose-600">¥19,470〜</td>
@@ -715,7 +715,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 原鶴温泉　旅館とよとみ</td>
                 <td className="p-3 text-stone-600">福岡県朝倉市杷木久喜宮1343-1</td>
-                <td className="p-3 text-stone-600">筑後吉井駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ 筑後吉井駅より車で１０分</td>
                 <td className="p-3 text-stone-600">有り　３０台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.53（121件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,150〜</td>
@@ -724,7 +724,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 壁湯天然洞窟温泉旅館　福元屋</td>
                 <td className="p-3 text-stone-600">大分県玖珠郡九重町町田62-1</td>
-                <td className="p-3 text-stone-600">JR久大本線　豊後森駅より車で１５分／大分自動車道　九重ＩＣより車で１</td>
+                <td className="p-3 text-stone-600">JR久大本線 豊後森駅より車で１５分／大分自動車道 九重ＩＣより車で１５分、玖珠ICより車で１５分</td>
                 <td className="p-3 text-stone-600">有り　３０台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.43（92件）</td>
                 <td className="p-3 font-bold text-rose-600">¥10,000〜</td>
@@ -733,7 +733,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 水上温泉郷　湯檜曽温泉　天空の湯　なかや旅館</td>
                 <td className="p-3 text-stone-600">群馬県利根郡みなかみ町湯桧曽93</td>
-                <td className="p-3 text-stone-600">上毛高原駅周辺</td>
+                <td className="p-3 text-stone-600">車：水上ICから約15分 車以外：上越線ゆびそ駅より徒歩5分、又は水上駅よりバス・タクシーで約10分</td>
                 <td className="p-3 text-stone-600">有り　16台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.68（531件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,800〜</td>
@@ -742,7 +742,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. かみのやま温泉　はたや旅館</td>
                 <td className="p-3 text-stone-600">山形県上山市新湯5-1</td>
-                <td className="p-3 text-stone-600">かみのやま温泉駅周辺</td>
+                <td className="p-3 text-stone-600">かみのやま温泉駅徒歩１５分、お車２分</td>
                 <td className="p-3 text-stone-600">無料駐車場有り（8台まで）　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.32（90件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,600〜</td>
@@ -771,7 +771,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２５台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「家族旅行今回6名の家族旅行で利用しました。丁寧な接客で気持ち良く過ごすことが出来ました。料理は美味しく朝食のプリンに子供たちは大喜び。洞窟風呂と貸切り風呂に妻も大喜びでした。フロント近…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「家族旅行今回6名の家族旅行で利用しました。丁寧な接客で気持ち良く過ごすことが出来ました。料理は美味しく朝食のプリンに子供たちは大喜び。洞窟風呂と貸切り風呂に妻も大喜びでした。」
                   </blockquote>
                 </div>
               </div>
@@ -793,7 +793,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　３０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉の泉質は最高、食事も満足。皆さんのクチコミ通り、温泉の泉質が良いのが最大のメリットです。貸切風呂も全般的に良いですが、温泉成分のせいか洞窟風呂だけは底がヌルヌルで大変滑りますので注意が必要…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉の泉質は最高、食事も満足。皆さんのクチコミ通り、温泉の泉質が良いのが最大のメリットです。」
                   </blockquote>
                 </div>
               </div>
@@ -815,7 +815,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　３０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事と温泉は最高、脱衣所の清潔感だけが残念食事が最高に美味しかった!家族風呂で、ゆっくりできますが脱衣所があまり清潔感のない感じでそこだけが残念な印象。温泉自体は雰囲気最高!スタッフの方も温かい雰…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事と温泉は最高、脱衣所の清潔感だけが残念食事が最高に美味しかった!家族風呂で、ゆっくりできますが脱衣所があまり清潔感のない感じでそこだけが残念な印象。温泉自体は雰囲気最高!」
                   </blockquote>
                 </div>
               </div>

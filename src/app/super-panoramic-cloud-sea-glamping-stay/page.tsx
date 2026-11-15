@@ -90,7 +90,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F187940%2F187940.html%26f_flg%3DPLAN",
     "hotelMinCharge": 12000,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/187940/187940.jpg",
-    "userReview": "ＬＵＯＮＴＥ　霧の高原　Ｇｌａｍｐｉｎｇならではの立地と落ち着いた空間で、ゆったりとした滞在を楽しめたという声が寄せられています。",
+    "userReview": "ＬＵＯＮＴＥ 霧の高原 Ｇｌａｍｐｉｎｇならではの立地と落ち着いた空間で、ゆったりとした滞在を楽しめたという声が寄せられています。",
     "reviewAverage": 4.7,
     "reviewCount": 20,
     "address": "愛媛県四国中央市新宮町上山4500",
@@ -118,7 +118,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F171521%2F171521.html%26f_flg%3DPLAN",
     "hotelMinCharge": 23200,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/171521/171521.jpg",
-    "userReview": "Ｂｌｉｓｓｆｕｌ　Ｇａｒｄｅｎ　＾ならではの立地と落ち着いた空間で、ゆったりとした滞在を楽しめたという声が寄せられています。",
+    "userReview": "Ｂｌｉｓｓｆｕｌ Ｇａｒｄｅｎ ＾ならではの立地と落ち着いた空間で、ゆったりとした滞在を楽しめたという声が寄せられています。",
     "reviewAverage": 4.4,
     "reviewCount": 2,
     "address": "群馬県渋川市北橘町下箱田城山605-5　Ｂｌｉｓｓｆｕｌ　Ｇａｒｄｅｎ",
@@ -283,8 +283,8 @@ export default function Page() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 熊本空港駅よりアクセス。阿蘇くまもと空港よりお車にて約1時間30分。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「グランピングスパ・わいた」にチェックイン。白濁湯の露天風呂にサウナ、焚火で愉しむＢＢＱ。満点の星空とともに過ごす未体験の上質グランピング。などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「グランピングスパ・わいた」の湯処へ。白濁湯の露天風呂にサウナ、焚火で愉しむＢＢＱ。満点の星空とともに過ごすとともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「グランピングスパ・わいた」にチェックイン。白濁湯の露天風呂にサウナ、焚火で愉しむＢＢＱ。満点の星空とともに過ごす未体験の上質グランピング。 館内の設えを確かめながら、これからの滞在に備えてゆっくり休息する。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「グランピングスパ・わいた」の自慢の湯処へ。温かな湯気と落ち着いた雰囲気に癒やされながら、夕食前の贅沢なひとときを過ごす。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「グランピングスパ・わいた」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -296,7 +296,7 @@ export default function Page() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「グランピングスパ・わいた」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「グランピングスパ・わいた」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「ＬＵＯＮＴＥ 霧の高原 Ｇｌａｍｐｉｎｇ」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は「グランピングスパ・わいた」周辺の観光スポットや地元の名産店に立ち寄り、ご当地のお土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>
@@ -442,7 +442,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 芦別温泉スターライトホテル＆おふろｃａｆｅ星遊館　満天の星空×サウナリゾート</td>
                 <td className="p-3 text-stone-600">北海道芦別市旭町油谷1</td>
-                <td className="p-3 text-stone-600">芦別駅周辺</td>
+                <td className="p-3 text-stone-600">芦別駅から10分／旭川駅から約60分／旭川空港から約80分／札幌・新千歳空港から約120分（車移動）</td>
                 <td className="p-3 text-stone-600">無料駐車場約２５０台！予約不要／電気自動車充電器あり／大型車OK／屋根付きバイク駐輪場あり</td>
                 <td className="p-3 font-bold text-amber-600">★4.34（1046件）</td>
                 <td className="p-3 font-bold text-rose-600">¥9,875〜</td>
@@ -460,7 +460,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 畑のおやど</td>
                 <td className="p-3 text-stone-600">兵庫県朝来市多々良木1277</td>
-                <td className="p-3 text-stone-600">中国自動車道福崎ICより約30分／山陽自動車道姫路東ICより約40分／</td>
+                <td className="p-3 text-stone-600">中国自動車道福崎ICより約30分／山陽自動車道姫路東ICより約40分／JR播但線新井駅より車で約10分</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★5（21件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,075〜</td>
@@ -533,7 +533,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料駐車場約２５０台！予約不要／電気自動車充電器あり／大型車OK／屋根付きバイク駐輪場あり</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.3 ／ 立地 ★4.22 ／ 部屋 ★4.17 ／ 設備 ★4.31 ／ 風呂 ★4.5 ／ 食事 ★4.4</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事の質が非常に高く、屋上の星空も最高宿泊者が少ないからか、夕食がビュッフェではなく都度注文方式でした。出来立てが出てくるのでビュッフェより圧倒的に美味しいですし、出来立てを差し引いてもシンプルに…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事の質が非常に高く、屋上の星空も最高宿泊者が少ないからか、夕食がビュッフェではなく都度注文方式でした。」
                   </blockquote>
                 </div>
               </div>

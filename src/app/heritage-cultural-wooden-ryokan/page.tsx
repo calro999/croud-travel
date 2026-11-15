@@ -253,7 +253,7 @@ export default function HeritageOnsenHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 修善寺温泉　国の登録文化財の宿　新井旅館</td>
                 <td className="p-3 text-stone-600">静岡県伊豆市修善寺970</td>
-                <td className="p-3 text-stone-600">修善寺駅周辺</td>
+                <td className="p-3 text-stone-600">伊豆箱根鉄道線 修善寺駅よりバスまたはタクシーで10分／東名・新東名高速 沼津ICより伊豆縦貫道経由45分</td>
                 <td className="p-3 text-stone-600">あり　40台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.56（267件）</td>
                 <td className="p-3 font-bold text-rose-600">¥24,420〜</td>
@@ -262,7 +262,7 @@ export default function HeritageOnsenHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 四万温泉　積善館　佳松亭・山荘</td>
                 <td className="p-3 text-stone-600">群馬県吾妻郡中之条町四万甲4236</td>
-                <td className="p-3 text-stone-600">中之条駅周辺</td>
+                <td className="p-3 text-stone-600">中之条駅からバス４０分終点下車・車で２５分／渋川伊香保ＩＣ→Ｒ１７→Ｒ３５３で約３９ｋｍ６０分</td>
                 <td className="p-3 text-stone-600">有り　５０台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.66（1224件）</td>
                 <td className="p-3 font-bold text-rose-600">¥23,100〜</td>
@@ -280,7 +280,7 @@ export default function HeritageOnsenHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 島崎藤村ゆかりの宿　中棚荘</td>
                 <td className="p-3 text-stone-600">長野県小諸市乙1210</td>
-                <td className="p-3 text-stone-600">小諸駅周辺</td>
+                <td className="p-3 text-stone-600">しなの鉄道「小諸駅」又はJR小海線「小諸駅」／上信越自動車道 小諸ＩＣより車で10分</td>
                 <td className="p-3 text-stone-600">有り　３０台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.7（543件）</td>
                 <td className="p-3 font-bold text-rose-600">¥13,200〜</td>
@@ -289,7 +289,7 @@ export default function HeritageOnsenHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 田沢温泉　ますや旅館＜長野県小県郡＞</td>
                 <td className="p-3 text-stone-600">長野県小県郡青木村田沢温泉2686</td>
-                <td className="p-3 text-stone-600">上田（長野）駅周辺</td>
+                <td className="p-3 text-stone-600">上信越自動車道上田菅平ＩＣ若しくは長野自動車道麻績より30分／新幹線上田駅下車、バスで30分（タクシー20分）青木行</td>
                 <td className="p-3 text-stone-600">有り　５０台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.73（134件）</td>
                 <td className="p-3 font-bold text-rose-600">¥11,550〜</td>
@@ -298,7 +298,7 @@ export default function HeritageOnsenHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">6. 半月庵</td>
                 <td className="p-3 text-stone-600">山口県岩国市岩国1-17-27</td>
-                <td className="p-3 text-stone-600">岩国駅周辺</td>
+                <td className="p-3 text-stone-600">JR岩国駅から車で約10分、山陽新幹線・新岩国駅より車で約10分、山陽自動車道・岩国ICより約10分</td>
                 <td className="p-3 text-stone-600">有り　20台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★3.4（188件）</td>
                 <td className="p-3 font-bold text-rose-600">¥17,700〜</td>
@@ -327,7 +327,7 @@ export default function HeritageOnsenHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>あり　40台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.67 ／ 立地 ★4.67 ／ 部屋 ★4.72 ／ 設備 ★4.56 ／ 風呂 ★4.72 ／ 食事 ★4.56</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「よくメンテされた登録文化財施設は漸次更新されており(文化財なので許認可大変だと思います)食事も美味しく仲居さんもフレッシュで素晴らしいと思います。ただし、寝具類がせんべい布団で朝が来るのが待ち…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「よくメンテされた登録文化財施設は漸次更新されており(文化財なので許認可大変だと思います)食事も美味しく仲居さんもフレッシュで素晴らしいと思います。」
                   </blockquote>
                 </div>
               </div>
@@ -393,7 +393,7 @@ export default function HeritageOnsenHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　３０台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「自家製のお米とあゆの塩焼きが絶品ご飯がとてもおいしかったです。旅館で育て、天日干しをしたお米だそうです。お醤油も手作りでした。あゆの塩焼きも絶品で、頭から食べられました。世代を超え、口…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「自家製のお米とあゆの塩焼きが絶品ご飯がとてもおいしかったです。旅館で育て、天日干しをしたお米だそうです。お醤油も手作りでした。あゆの塩焼きも絶品で、頭から食べられました。」
                   </blockquote>
                 </div>
               </div>
@@ -415,7 +415,7 @@ export default function HeritageOnsenHubPage() {
                   <p>【登録有形文化財・名建築の宿：宮大工の木造建築・文豪が】 <strong>【駐車場・マイカー利用】</strong>有り　５０台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.81 ／ 立地 ★4.54 ／ 部屋 ★4.62 ／ 設備 ★4.44 ／ 風呂 ★4.62 ／ 食事 ★4.77</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「文化財の建物とマツタケ料理に感動文化財となっているだけあって、素晴らしい建物でした。お部屋をグレードアップしてくださり、ゆったりゆっくりできました。木造で階段が多いので、HPにあった通り足腰の弱い…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「文化財の建物とマツタケ料理に感動文化財となっているだけあって、素晴らしい建物でした。お部屋をグレードアップしてくださり、ゆったりゆっくりできました。」
                   </blockquote>
                 </div>
               </div>

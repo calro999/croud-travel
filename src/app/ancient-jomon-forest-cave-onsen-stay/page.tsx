@@ -255,8 +255,8 @@ export default function Page() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 泊（富山）駅よりアクセス。北陸自動車道朝日インター下車２０分。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「富山の奥座敷、秘湯の一軒宿 小川温泉元湯 ホテルおがわ」にチェックイン。開湯400周年を優に超える越中四名湯にも数えられた歴史ある小川温泉 山間の一軒宿 ホテルおがわなどの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「富山の奥座敷、秘湯の一軒宿 小川温泉元湯 ホテルおがわ」の湯処へ。開湯400周年を優に超える越中四名湯にも数えられた歴史ある小川温泉 山とともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「富山の奥座敷、秘湯の一軒宿 小川温泉元湯 ホテルおがわ」にチェックイン。開湯400周年を優に超える越中四名湯にも数えられた歴史ある小川温泉 山間の一軒宿 ホテルおがわが魅力の一軒。客室で荷物をほどいて穏やかな午後のひとときを。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「富山の奥座敷、秘湯の一軒宿 小川温泉元湯 ホテルおがわ」の自慢の湯処へ。温かな湯気と落ち着いた雰囲気に癒やされながら、夕食前の贅沢なひとときを過ごす。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「富山の奥座敷、秘湯の一軒宿 小川温泉元湯 ホテルおがわ」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -268,7 +268,7 @@ export default function Page() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「富山の奥座敷、秘湯の一軒宿 小川温泉元湯 ホテルおがわ」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「富山の奥座敷、秘湯の一軒宿 小川温泉元湯 ホテルおがわ」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「奥天竜不動温泉 佐和屋」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は「富山の奥座敷、秘湯の一軒宿 小川温泉元湯 ホテルおがわ」周辺の観光スポットや地元の名産店に立ち寄り、ご当地のお土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>
@@ -396,7 +396,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 富山の奥座敷、秘湯の一軒宿　小川温泉元湯　ホテルおがわ</td>
                 <td className="p-3 text-stone-600">富山県下新川郡朝日町湯ノ瀬１</td>
-                <td className="p-3 text-stone-600">泊（富山）駅周辺</td>
+                <td className="p-3 text-stone-600">北陸自動車道朝日インター下車２０分。無料送迎サービスあり（北陸新幹線黒部宇奈月温泉駅、あいの風鉄道泊駅）</td>
                 <td className="p-3 text-stone-600">有り　１００台　無料　北陸自動車道朝日ＩＣより１５分。</td>
                 <td className="p-3 font-bold text-amber-600">★4.2（887件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,800〜</td>
@@ -414,7 +414,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 越後大湯温泉　源泉湯の宿　かいり</td>
                 <td className="p-3 text-stone-600">新潟県魚沼市大湯温泉301</td>
-                <td className="p-3 text-stone-600">小出駅周辺</td>
+                <td className="p-3 text-stone-600">上越線 小出駅より路線バス大湯温泉行乗車 約３０分 《無料送迎バス 浦佐駅より運行・予約要》</td>
                 <td className="p-3 text-stone-600">有り　６０台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.38（550件）</td>
                 <td className="p-3 font-bold text-rose-600">¥13,200〜</td>
@@ -443,7 +443,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１００台　無料　北陸自動車道朝日ＩＣより１５分。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.32 ／ 立地 ★4.31 ／ 部屋 ★4.34 ／ 設備 ★3.96 ／ 風呂 ★4.3 ／ 食事 ★4.12</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「50年ぶりの再訪、食事と温泉に感激!50年ぶりに泊まらせていただきましたが、昔とはお風呂が変わっていましたが懐かしくて感激しました!夕食のすき焼きのお肉がとても美味しく、朝食も大満足でした。大…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「50年ぶりの再訪、食事と温泉に感激!50年ぶりに泊まらせていただきましたが、昔とはお風呂が変わっていましたが懐かしくて感激しました!夕食のすき焼きのお肉がとても美味しく、朝食も大満足でした。」
                   </blockquote>
                 </div>
               </div>

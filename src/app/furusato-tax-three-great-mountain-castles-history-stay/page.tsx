@@ -351,7 +351,7 @@ export default function FurusatoUpgradedPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 竹田城　城下町　ホテルＥＮ（えん）</td>
                 <td className="p-3 text-stone-600">兵庫県朝来市和田山町竹田上町西側363</td>
-                <td className="p-3 text-stone-600">竹田（兵庫）駅周辺</td>
+                <td className="p-3 text-stone-600">JR播但線 竹田駅より徒歩にて3分（駅より250ｍ）</td>
                 <td className="p-3 text-stone-600">竹田まちなか観光駐車場にお停めください。無料でご利用いただけます。</td>
                 <td className="p-3 font-bold text-amber-600">★4.67（219件）</td>
                 <td className="p-3 font-bold text-rose-600">¥22,594〜</td>
@@ -360,7 +360,7 @@ export default function FurusatoUpgradedPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 高梁ファイブシーズホテル</td>
                 <td className="p-3 text-stone-600">岡山県高梁市栄町1943-5</td>
-                <td className="p-3 text-stone-600">備中高梁駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ伯備線 備中高梁駅より徒歩約２分・岡山自動車道賀陽ICより車で約15分</td>
                 <td className="p-3 text-stone-600">有り６台まで無料　※大型車は駐車不可　先着順の為、満車の際はコインパーキングへの御案内。</td>
                 <td className="p-3 font-bold text-amber-600">★3.71（84件）</td>
                 <td className="p-3 font-bold text-rose-600">¥2,660〜</td>
@@ -369,7 +369,7 @@ export default function FurusatoUpgradedPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. さつき旅館</td>
                 <td className="p-3 text-stone-600">岐阜県恵那市明智町1158-1</td>
-                <td className="p-3 text-stone-600">明智（明知鉄道）駅周辺</td>
+                <td className="p-3 text-stone-600">中央道恵那ICまたは瑞浪ICより車40分、明知鉄道明智駅より徒歩9分</td>
                 <td className="p-3 text-stone-600">有り　5台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.25（5件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,000〜</td>

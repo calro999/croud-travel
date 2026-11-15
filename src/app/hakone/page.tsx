@@ -184,7 +184,7 @@ export default function HakoneHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 箱根湯本温泉　吉池旅館</td>
                 <td className="p-3 text-stone-600">神奈川県足柄下郡箱根町湯本597</td>
-                <td className="p-3 text-stone-600">箱根湯本駅周辺</td>
+                <td className="p-3 text-stone-600">箱根湯本駅から徒歩で７分</td>
                 <td className="p-3 text-stone-600">有り　６５台　無料　予約不要　※屋根付駐車場あり</td>
                 <td className="p-3 font-bold text-amber-600">★4.4（525件）</td>
                 <td className="p-3 font-bold text-rose-600">¥12,320〜</td>
@@ -193,7 +193,7 @@ export default function HakoneHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 箱根湯本　温泉旅館「大和館」</td>
                 <td className="p-3 text-stone-600">神奈川県足柄下郡箱根町湯本655</td>
-                <td className="p-3 text-stone-600">箱根湯本駅周辺</td>
+                <td className="p-3 text-stone-600">「箱根湯本駅」より徒歩約6分／「温泉場入口」バス停より徒歩すぐ／小田原厚木道路「箱根口IC」より10分（5km）</td>
                 <td className="p-3 text-stone-600">無料駐車場（4台／先着順）駐車可能な最大サイズはハイエース程度です。国道1号線からお越しください。</td>
                 <td className="p-3 font-bold text-amber-600">★4.86（19件）</td>
                 <td className="p-3 font-bold text-rose-600">¥10,100〜</td>
@@ -202,7 +202,7 @@ export default function HakoneHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 箱根湯本温泉　箱根パークス吉野</td>
                 <td className="p-3 text-stone-600">神奈川県足柄下郡箱根町湯本茶屋139-5</td>
-                <td className="p-3 text-stone-600">箱根湯本駅周辺</td>
+                <td className="p-3 text-stone-600">箱根湯本駅より徒歩12分。お車では小田原厚木道路小田原西ICから国道1号線経由約12分。無料駐車場併設。</td>
                 <td className="p-3 text-stone-600">有り　４０台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.28（1484件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,130〜</td>
@@ -211,7 +211,7 @@ export default function HakoneHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 箱根湯本温泉　ホテル　おかだ</td>
                 <td className="p-3 text-stone-600">神奈川県足柄下郡箱根町湯本茶屋191</td>
-                <td className="p-3 text-stone-600">箱根湯本駅周辺</td>
+                <td className="p-3 text-stone-600">箱根湯本駅～徒歩２０分（温泉郷共同バス有料（詳細は公式ＨＰをご参照下さい）／小田原厚木道路・箱根口～国道１号線経由１５分</td>
                 <td className="p-3 text-stone-600">有り　50台　無料　※チェックイン前は12時以降、翌日は12時迄利用可能（滞在時間外は、事前連絡要）</td>
                 <td className="p-3 font-bold text-amber-600">★4.42（1836件）</td>
                 <td className="p-3 font-bold text-rose-600">¥16,400〜</td>
@@ -220,7 +220,7 @@ export default function HakoneHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 箱根湯本温泉　静観荘＜神奈川県＞</td>
                 <td className="p-3 text-stone-600">神奈川県足柄下郡箱根町湯本茶屋19</td>
-                <td className="p-3 text-stone-600">箱根湯本駅周辺</td>
+                <td className="p-3 text-stone-600">箱根湯本駅から旅館組合の送迎バスあり（Bコース 片道200円）／徒歩（上り坂）約20分／小田原西ICより車で約15分</td>
                 <td className="p-3 text-stone-600">無料駐車場10台分（予約不要）</td>
                 <td className="p-3 font-bold text-amber-600">★4.4（164件）</td>
                 <td className="p-3 font-bold text-rose-600">¥21,000〜</td>
@@ -229,7 +229,7 @@ export default function HakoneHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">6. 箱根湯本温泉　ホテル仙景</td>
                 <td className="p-3 text-stone-600">神奈川県足柄下郡箱根町湯本592</td>
-                <td className="p-3 text-stone-600">箱根湯本駅周辺</td>
+                <td className="p-3 text-stone-600">箱根湯本駅より徒歩にて１０分</td>
                 <td className="p-3 text-stone-600">有り　２０台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.78（398件）</td>
                 <td className="p-3 font-bold text-rose-600">¥11,150〜</td>
@@ -258,7 +258,7 @@ export default function HakoneHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　６５台　無料　予約不要　※屋根付駐車場あり</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「とにかく綺麗にしてる宿!とても良いお宿でした!スタッフの方は外国の方が多いですが皆、親切で対応バッチリです。今回は当日に決めたので素泊まりでしたが次回はご飯付きで泊まりたいと思…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「とにかく綺麗にしてる宿!とても良いお宿でした!スタッフの方は外国の方が多いですが皆、親切で対応バッチリです。」
                   </blockquote>
                 </div>
               </div>
@@ -280,7 +280,7 @@ export default function HakoneHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料駐車場（4台／先着順）駐車可能な最大サイズはハイエース程度です。国道1号線からお越しください。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「箱根湯本　温泉旅館「大和館」は立地・設備・ホスピタリティのバランスに優れ、観光拠点としても記念日や週末リフレッシュ滞在としても高い満足度を得ています。」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「箱根湯本 温泉旅館「大和館」は立地・設備・ホスピタリティのバランスに優れ、観光拠点としても記念日や週末リフレッシュ滞在としても高い満足度を得ています。」
                   </blockquote>
                 </div>
               </div>
@@ -302,7 +302,7 @@ export default function HakoneHubPage() {
                   <p>【箱根温泉 完全計画ガイド 2026：1泊2日・2泊3】 <strong>【駐車場・マイカー利用】</strong>有り　４０台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋が和室でリニューアルしてない部屋なので薄気味悪い感じの電気でメイクする時暗くて見にくかった。そしてご飯から戻ってきて部屋に入るとカビ臭くて窓開けないと無理だった。リニューアルしてある部屋にすれば良…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋が和室でリニューアルしてない部屋なので薄気味悪い感じの電気でメイクする時暗くて見にくかった。そしてご飯から戻ってきて部屋に入るとカビ臭くて窓開けないと無理だった。」
                   </blockquote>
                 </div>
               </div>
@@ -324,7 +324,7 @@ export default function HakoneHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　50台　無料　※チェックイン前は12時以降、翌日は12時迄利用可能（滞在時間外は、事前連絡要）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.43 ／ 立地 ★4.22 ／ 部屋 ★4.39 ／ 設備 ★4.29 ／ 風呂 ★4.38 ／ 食事 ★4.46</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「バイキングと飲み放題が最高、温泉も充実朝食 夕食とバイキングが 素晴らしく、 とても美味しかった 。アルコール飲み放題 もつい ているので 飲んべいには 嬉しい 。スイーツも 美味しかった。併…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「バイキングと飲み放題が最高、温泉も充実朝食 夕食とバイキングが 素晴らしく、 とても美味しかった 。アルコール飲み放題 もつい ているので 飲んべいには 嬉しい 。スイーツも 美味しかった。」
                   </blockquote>
                 </div>
               </div>
@@ -346,7 +346,7 @@ export default function HakoneHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料駐車場10台分（予約不要）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.45 ／ 立地 ★4.15 ／ 部屋 ★4.42 ／ 設備 ★4.16 ／ 風呂 ★4.42 ／ 食事 ★4.56</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「雰囲気料理コンビニ懐石料理がとても美味しかったです。宿の廊下は全て畳なので、和の雰囲気を楽しめて良かったです。近くのコンビニが早めに閉まることだけがネックかも?クチコミの詳細はこち…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「雰囲気料理コンビニ懐石料理がとても美味しかったです。宿の廊下は全て畳なので、和の雰囲気を楽しめて良かったです。」
                   </blockquote>
                 </div>
               </div>
@@ -368,7 +368,7 @@ export default function HakoneHubPage() {
                   <p>【箱根温泉 完全計画ガイド 2026：1泊2日・2泊3】 <strong>【駐車場・マイカー利用】</strong>有り　２０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「箱根で最高の誕生日、また必ず行きたい宿私の誕生日のお祝いで家族でリフレッシュしようと予約しました。条件は『箱根』『露天風呂付』『朝夕ご飯部屋出し』小さな子供が2人居るため条件は外せず何件かの宿…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「箱根で最高の誕生日、また必ず行きたい宿私の誕生日のお祝いで家族でリフレッシュしようと予約しました。」
                   </blockquote>
                 </div>
               </div>

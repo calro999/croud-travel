@@ -253,7 +253,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 男鹿温泉　湯けむりリゾート　男鹿ホテル</td>
                 <td className="p-3 text-stone-600">秋田県男鹿市北浦湯本草木原13-1</td>
-                <td className="p-3 text-stone-600">羽立駅周辺</td>
+                <td className="p-3 text-stone-600">秋田自動車道秋田北IC下車６０ｋｍ７０分／JR羽立駅～路線バスで４５分／JR男鹿駅～無料送迎バスあり詳しくは公式HPへ</td>
                 <td className="p-3 text-stone-600">あり　５０台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.23（486件）</td>
                 <td className="p-3 font-bold text-rose-600">¥9,460〜</td>
@@ -262,7 +262,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 男鹿温泉　湯けむりリゾート　セイコーグランドホテル</td>
                 <td className="p-3 text-stone-600">秋田県男鹿市北浦湯本草木原50-1</td>
-                <td className="p-3 text-stone-600">羽立駅周辺</td>
+                <td className="p-3 text-stone-600">秋田自動車道秋田北IC下車６０ｋｍ７０分／JR羽立駅～路線バスで４５分／JR男鹿駅～無料送迎バスあり詳しくは公式HPへ</td>
                 <td className="p-3 text-stone-600">有り　２０台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.09（708件）</td>
                 <td className="p-3 font-bold text-rose-600">¥11,770〜</td>
@@ -271,7 +271,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 白神展望温泉　美肌の湯　ホテルサンルーラル大潟</td>
                 <td className="p-3 text-stone-600">秋田県南秋田郡大潟村北1-3</td>
-                <td className="p-3 text-stone-600">八郎潟駅周辺</td>
+                <td className="p-3 text-stone-600">秋田駅→八郎潟駅から車で２０分／秋田高速自動車道、琴丘・森岳ＩＣ～県道５４号線約１２ＫＭ（約１５分）</td>
                 <td className="p-3 text-stone-600">有り　800台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.33（1112件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,500〜</td>

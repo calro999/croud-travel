@@ -340,8 +340,8 @@ export default function ArticlePage() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 長野県下高井郡山ノ内町渋温泉へ到着後、チェックイン前の散策へ。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「渋温泉 玉久旅館」にチェックイン。お得な特典付きプランも♪渋の名湯で疲れを癒し、素材を活かした料理に舌鼓♪などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「渋温泉 玉久旅館」の湯処へ。お得な特典付きプランも♪渋の名湯で疲れを癒し、素材を活かした料理に舌鼓とともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「渋温泉 玉久旅館」にチェックイン。お得な特典付きプランも♪渋の名湯で疲れを癒し、素材を活かした料理に舌鼓♪ 窓外に広がる景色を眺めながらチェックイン後の寛ぎ時間を。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「渋温泉 玉久旅館」の湯船で寛ぎタイム。季節の空気を感じながら手足を伸ばし、心豊かな夕方のリラックス時間を満喫。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「渋温泉 玉久旅館」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -353,7 +353,7 @@ export default function ArticlePage() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「渋温泉 玉久旅館」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「渋温泉 玉久旅館」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「渋温泉 御宿 炭乃湯」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は宿周辺の散策とショッピングを満喫。地元の名産品やグルメを味わってから余裕をもって帰路につく。</li>
               </ul>
             </div>
           </div>
@@ -369,31 +369,37 @@ export default function ArticlePage() {
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">あわせて読みたい人気特集＆全国エリアガイド</h2>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
-            <a href="/hokkaido-jozankei-solo-retreat-gorge-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/nagano-asama-solo-retreat-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">札幌の奥座敷・定山渓温泉ひとり旅・豊平川渓谷おこもり：全室客室温泉露天・囲炉裏会席・源泉掛け流し湯守！札幌直通バス60分の極上リトリート厳選3宿</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「松本・浅間温泉ひとり旅・城下町奥座敷おこもり」松本城主の隠し湯・源泉かけ流し・信州郷土料理！北アルプスを望む文化の湯厳選3宿</span>
             </a>
-            <a href="/hokkaido-sounkyo-solo-retreat-gorge-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/nagano-bessho-onsen-ueda-castle-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">大雪山・層雲峡温泉ひとり旅・柱状節理断崖おこもり：24時間源泉掛け流し・銀河流星の滝・蝦夷鹿＆旭川ラーメン！大雪山国立公園の秘境厳選3宿</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「長野・別所温泉＆上田城」信州の鎌倉・日本唯一八角三重塔＆真田の赤備え宿 厳選ガイド</span>
             </a>
-            <a href="/silver-week-glamping-hokkaido-sapporo-furano-guide/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/nagano-hakuba-happo-tsugaike-alps-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">北海道シルバーウィーク グランピング：札幌・富良野・トマム！秋晴れの爽快リゾートヴィラ</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「長野・白馬＆八方尾根・栂池自然園」八方池雲上鏡面絶景・栂池湿原＆マウンテンサウナ宿 厳選ガイド</span>
             </a>
-            <a href="/winter-hokkaido-jozankei-onsen-snow-keikoku-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/nagano-kamikochi-azusa-river-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12月定山渓温泉の雪渓谷美と名湯】札幌の奥座敷・ナトリウム塩化物泉と道産和牛＆北海道冬の三大蟹会席の宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「長野・上高地＆大正池」河童橋・穂高連峰＆梓川クラシック宿 厳選ガイド</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
             <div className="flex flex-wrap gap-2">
               <Link
-                href="/prefectures/gifu/"
+                href="/prefectures/nagano/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                岐阜県の宿・温泉
+                長野県の宿・温泉
+              </Link>
+              <Link
+                href="/prefectures/yamanashi/"
+                className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
+              >
+                山梨県の宿・温泉
               </Link>
               <Link
                 href="/prefectures/niigata/"
@@ -402,16 +408,10 @@ export default function ArticlePage() {
                 新潟県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/tokyo/"
+                href="/prefectures/ishikawa/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                東京都の宿・温泉
-              </Link>
-              <Link
-                href="/prefectures/hokkaido/"
-                className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
-              >
-                北海道の宿・温泉
+                石川県の宿・温泉
               </Link>
             </div>
           </div>
@@ -447,7 +447,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 渋温泉　玉久旅館</td>
                 <td className="p-3 text-stone-600">長野県下高井郡山ノ内町渋温泉</td>
-                <td className="p-3 text-stone-600"></td>
+                <td className="p-3 text-stone-600">長野県下高井郡山ノ内町渋温泉 ／ 交通案内：</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.72（627件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,800〜</td>
@@ -456,7 +456,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. ホテル法華クラブ函館</td>
                 <td className="p-3 text-stone-600">北海道函館市本町27-1</td>
-                <td className="p-3 text-stone-600">函館駅周辺</td>
+                <td className="p-3 text-stone-600">函館駅からタクシーで約10分、函館空港からタクシーで約15分。市電五稜郭公園前から徒歩1分。</td>
                 <td className="p-3 text-stone-600">◆1泊 800円（先着順）地下（10台）屋外（40台）※バイク500円　バス・トラック2400円</td>
                 <td className="p-3 font-bold text-amber-600">★4.38（3179件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,600〜</td>
@@ -465,7 +465,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. ＡＮＡクラウンプラザホテル札幌　ｂｙ　ＩＨＧ</td>
                 <td className="p-3 text-stone-600">北海道札幌市中央区北3条西1丁目</td>
-                <td className="p-3 text-stone-600">札幌駅周辺</td>
+                <td className="p-3 text-stone-600">JR札幌駅より徒歩7分/地下鉄東豊線さっぽろ駅21番出口（階段）より徒歩1分・23番出口（エレベーター）より徒歩2分</td>
                 <td className="p-3 text-stone-600">79台収容（1泊￥2,000/地下駐車場：車高1.9m迄/国道5号線北方面沿い）</td>
                 <td className="p-3 font-bold text-amber-600">★4.26（4655件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,250〜</td>
@@ -474,7 +474,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 旭川トーヨーホテル</td>
                 <td className="p-3 text-stone-600">北海道旭川市7条通7丁目32-12</td>
-                <td className="p-3 text-stone-600">旭川駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ旭川駅西口から車で5分徒歩で15分、旭川空港発着のバスでおよそ40分</td>
                 <td className="p-3 text-stone-600">提携駐車場含めて100台収容（１泊800円）ページ内に「駐車場」案内有り</td>
                 <td className="p-3 font-bold text-amber-600">★3.67（3178件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,800〜</td>
@@ -483,7 +483,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 備長炭の湯　ホテルクラウンヒルズ釧路駅前（ＢＢＨホテルグループ）</td>
                 <td className="p-3 text-stone-600">北海道釧路市北大通13-1-14</td>
-                <td className="p-3 text-stone-600">釧路駅周辺</td>
+                <td className="p-3 text-stone-600">【ＪR釧路駅前/釧路空港行連絡バス乗場正面/釧路空港よりシャトルバスで釧路駅前下車徒歩30秒】</td>
                 <td className="p-3 text-stone-600">１泊 ５００円（先着順・ご予約不可）連泊中も先着順での対応でございます。ご了承くださいませ。</td>
                 <td className="p-3 font-bold text-amber-600">★3.74（2125件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,080〜</td>
@@ -556,7 +556,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>79台収容（1泊￥2,000/地下駐車場：車高1.9m迄/国道5号線北方面沿い）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食のメニューが豊富で連泊も大満足3日の連泊でした。朝食付きのプラン。「本日のメニュ」があったり、汁物が変わったりして3日間とも楽しく食事をしました。北海道らしいメニューもたくさんありました。なん…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食のメニューが豊富で連泊も大満足3日の連泊でした。朝食付きのプラン。「本日のメニュ」があったり、汁物が変わったりして3日間とも楽しく食事をしました。北海道らしいメニューもたくさんありました。」
                   </blockquote>
                 </div>
               </div>

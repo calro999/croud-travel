@@ -253,7 +253,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 白馬姫川温泉　北アルプスを一望　ホテル白馬＜長野県＞</td>
                 <td className="p-3 text-stone-600">長野県北安曇郡白馬村北城5470-1</td>
-                <td className="p-3 text-stone-600">白馬駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ白馬駅より徒歩１０分川沿い／長野自動車道安曇野ＩＣより５０分／上信越自動車道長野ＩＣより５０分</td>
                 <td className="p-3 text-stone-600">有り　８０台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.43（1317件）</td>
                 <td className="p-3 font-bold text-rose-600">¥10,500〜</td>
@@ -262,7 +262,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 白馬姫川温泉　白馬ハイランドホテル</td>
                 <td className="p-3 text-stone-600">長野県北安曇郡白馬村北城21582</td>
-                <td className="p-3 text-stone-600">白馬駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ白馬駅より徒歩２０分（無料送迎あり）／長野自動車道安曇野ＩＣより６０分／上信越自動車道長野ＩＣより６０分</td>
                 <td className="p-3 text-stone-600">有100台（無料）※全面舗装ですが、屋根日影はありません</td>
                 <td className="p-3 font-bold text-amber-600">★4.35（1310件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,500〜</td>
@@ -271,7 +271,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. ホテルＪＡＬシティ長野</td>
                 <td className="p-3 text-stone-600">長野県長野市問御所町1221</td>
-                <td className="p-3 text-stone-600">長野駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ長野駅（善光寺口）より徒歩７分。</td>
                 <td className="p-3 text-stone-600">隣接駐車場は先着順（45台収容可　税込1,000円/泊） ※満車の場合は契約駐車場をご案内します。</td>
                 <td className="p-3 font-bold text-amber-600">★4.28（5814件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,075〜</td>
@@ -280,7 +280,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 休暇村リトリート安曇野ホテル</td>
                 <td className="p-3 text-stone-600">長野県安曇野市穂高有明7682-4</td>
-                <td className="p-3 text-stone-600">穂高駅周辺</td>
+                <td className="p-3 text-stone-600">穂高駅よりお車にて約15分、【松本IC】よりお車で約40分</td>
                 <td className="p-3 text-stone-600">有り　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.5（77件）</td>
                 <td className="p-3 font-bold text-rose-600">¥23,750〜</td>
@@ -289,7 +289,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 白馬アルパインホテル</td>
                 <td className="p-3 text-stone-600">長野県北安曇郡白馬村八方5706</td>
-                <td className="p-3 text-stone-600">白馬駅周辺</td>
+                <td className="p-3 text-stone-600">長野自動車道安曇野ＩＣより車で６０分、ＪＲ白馬駅よりバス</td>
                 <td className="p-3 text-stone-600">有り　３０台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★5（73件）</td>
                 <td className="p-3 font-bold text-rose-600">¥10,290〜</td>
@@ -298,7 +298,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">6. ＷＨＩＴＥ　ＨＯＴＥＬ　ＧＲＡＮＤ　ＨＡＫＵＢＡ</td>
                 <td className="p-3 text-stone-600">長野県大町市平23370</td>
-                <td className="p-3 text-stone-600">南神城駅周辺</td>
+                <td className="p-3 text-stone-600">JR大糸線簗場（やなば）駅より送迎１０分／長野自動車道｜安曇野ＩＣ・上信越自動車道｜長野ＩＣより約６０分</td>
                 <td className="p-3 text-stone-600">敷地内に無料駐車場をご用意しております。</td>
                 <td className="p-3 font-bold text-amber-600">★4.29（14件）</td>
                 <td className="p-3 font-bold text-rose-600">¥11,050〜</td>
@@ -327,7 +327,7 @@ export default function MicroTouristHubPage() {
                   <p>【長野・白馬八方尾根：白馬マウンテンハーバー＆北アルプ】 <strong>【駐車場・マイカー利用】</strong>有り　８０台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.48 ／ 立地 ★4.47 ／ 部屋 ★4.3 ／ 設備 ★4.24 ／ 風呂 ★4.28 ／ 食事 ★4.44</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「施設も料理も大満足、送迎の対応も親切ホテルはとても綺麗、スタッフ全員がとても親切、料理もおいしい、2泊させて頂きましたが大満足でした。又八方尾根登山時には送迎バス対応をして頂きとても助かりまし…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「施設も料理も大満足、送迎の対応も親切ホテルはとても綺麗、スタッフ全員がとても親切、料理もおいしい、2泊させて頂きましたが大満足でした。」
                   </blockquote>
                 </div>
               </div>
@@ -349,7 +349,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有100台（無料）※全面舗装ですが、屋根日影はありません</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋から白馬の眺望とウェルカムドリンク二階でも部屋から白馬が良く見えるので良かったです,ただ今回あまり白馬が見れなかったのが残念、でも夕方に少し顔を出してくれたので良しとします。。何回か宿泊してま…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋から白馬の眺望とウェルカムドリンク二階でも部屋から白馬が良く見えるので良かったです,ただ今回あまり白馬が見れなかったのが残念、でも夕方に少し顔を出してくれたので良しとします。。」
                   </blockquote>
                 </div>
               </div>
@@ -371,7 +371,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>隣接駐車場は先着順（45台収容可　税込1,000円/泊） ※満車の場合は契約駐車場をご案内します。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「初めて利用しました。長野は、3回目ですが今回は、1人旅でした。こちらのホテルには、初めて泊まりましたが、眺望は、期待通りで良かったです。善光寺、長野県立美術館、軽井沢にも電車で行きました。無料のド…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「初めて利用しました。長野は、3回目ですが今回は、1人旅でした。こちらのホテルには、初めて泊まりましたが、眺望は、期待通りで良かったです。善光寺、長野県立美術館、軽井沢にも電車で行きました。」
                   </blockquote>
                 </div>
               </div>
@@ -393,7 +393,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「結婚30周年記念、料理も施設も大満足!結婚30周年記念で宿泊しました。施設も綺麗で充実していて、料理もとっても美味しく、量も多くて食べきれませんでした。とってもよかったです。他の画像や…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「結婚30周年記念、料理も施設も大満足!結婚30周年記念で宿泊しました。施設も綺麗で充実していて、料理もとっても美味しく、量も多くて食べきれませんでした。とってもよかったです。」
                   </blockquote>
                 </div>
               </div>

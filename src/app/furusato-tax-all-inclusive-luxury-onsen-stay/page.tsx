@@ -186,7 +186,7 @@ export default function FurusatoAllInclusiveLuxuryStayPage() {
                     仙台の奥座敷・作並温泉の豊かな自然の中に佇む、「理想の日常の休息」をテーマにしたオールインクルーシブ温泉リゾート。広瀬川の清流に面した3つの異なる露天風呂では、せせらぎを聞きながら四季折々の渓谷美を堪能。広々とした「くつろぎSalon」では、挽きたて珈琲や生ビール、ワイン、手作りスイーツ、夜には特製おつまみやウィスキーが自由に楽しめます。夕食は料理人が目の前で焼き上げる宮城牛や旬の三陸魚介を出来たてで味わうオーダービュッフェスタイルで、心ゆくまで美食に浸れます。
                   </p>
                   <p className="text-stone-500 text-xs italic bg-stone-50 p-3 rounded-xl border border-stone-100 mb-4 leading-relaxed">
-                    「料理も露天風呂も最高、また利用したいチェックインからゆっくり過ごさせていただきました。お料理もとても美味しく頂きました。露天風呂も良かったです!また利用させていただきたいです!クチコミの詳…」
+                    「料理も露天風呂も最高、また利用したいチェックインからゆっくり過ごさせていただきました。お料理もとても美味しく頂きました。露天風呂も良かったです!また利用させていただきたいです!」
                   </p>
                   
                   <div className="bg-stone-50 rounded-xl p-3.5 border border-stone-200/60 mb-6 text-xs text-stone-600 space-y-1">
@@ -412,8 +412,8 @@ export default function FurusatoAllInclusiveLuxuryStayPage() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 作並駅よりアクセス。最寄駅／ＪＲ仙山線「作並駅」無料送迎あり 要事前予約 仙台駅～作並駅（快速約30分）作並駅～一の坊（送迎車で約5分）。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「仙台・作並温泉 ゆづくしＳａｌｏｎ一の坊」にチェックイン。新客室“Seyryu”2023年4月OPEN オールインクルーシブで過ごす、里山リトリートステイなどの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「仙台・作並温泉 ゆづくしＳａｌｏｎ一の坊」の湯処へ。新客室“Seyryu”2023年4月OPEN オールインクルーシブで過とともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「仙台・作並温泉 ゆづくしＳａｌｏｎ一の坊」にチェックイン。新客室“Seyryu”2023年4月OPEN オールインクルーシブで過ごす、里山リトリートステイが魅力の一軒。客室で荷物をほどいて穏やかな午後のひとときを。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「仙台・作並温泉 ゆづくしＳａｌｏｎ一の坊」の大浴場・露天風呂へ。日暮れの静けさの中で湯に浸かり、旅の緊張をゆっくりと解きほぐす。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「仙台・作並温泉 ゆづくしＳａｌｏｎ一の坊」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -425,7 +425,7 @@ export default function FurusatoAllInclusiveLuxuryStayPage() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「仙台・作並温泉 ゆづくしＳａｌｏｎ一の坊」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「仙台・作並温泉 ゆづくしＳａｌｏｎ一の坊」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「Ｎａｚｕｎａ箱根宮ノ下」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は「仙台・作並温泉 ゆづくしＳａｌｏｎ一の坊」周辺の観光スポットや地元の名産店に立ち寄り、ご当地のお土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>

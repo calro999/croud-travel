@@ -253,7 +253,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 松本　浅間温泉　ホテル玉之湯</td>
                 <td className="p-3 text-stone-600">長野県松本市浅間温泉1-28-16</td>
-                <td className="p-3 text-stone-600">松本駅周辺</td>
+                <td className="p-3 text-stone-600">JR松本駅よりバスで約20分／松本ICよりお車で約20分 ■当館から国宝松本城まではお車で約10分</td>
                 <td className="p-3 text-stone-600">有 40台無料   　■全館Wi-Fi対応 ■個室お食事処 ■バリアフリー対応風呂あり</td>
                 <td className="p-3 font-bold text-amber-600">★4.51（857件）</td>
                 <td className="p-3 font-bold text-rose-600">¥15,950〜</td>
@@ -262,7 +262,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 美ヶ原温泉　ホテルニューことぶき</td>
                 <td className="p-3 text-stone-600">長野県松本市里山辺484-1</td>
-                <td className="p-3 text-stone-600">松本駅周辺</td>
+                <td className="p-3 text-stone-600">長野道松本ＩＣより松本城を経由し約２５分。ＪＲ中央線松本駅下車、美ヶ原温泉行きバスで18分、美ヶ原温泉下車徒歩2分です。</td>
                 <td className="p-3 text-stone-600">宿泊者普通車駐車場無料。中型車以上1台2200円（事前予約）。いずれも先着順チェックイン〜アウト迄</td>
                 <td className="p-3 font-bold text-amber-600">★4.32（532件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,900〜</td>
@@ -271,7 +271,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 信州松本　美ヶ原温泉　翔峰</td>
                 <td className="p-3 text-stone-600">長野県松本市里山辺527</td>
-                <td className="p-3 text-stone-600">松本駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ 松本駅から車で20分／松本駅前バスターミナルより美ヶ原温泉行きのバスで20分</td>
                 <td className="p-3 text-stone-600">有り　１５０台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.62（3158件）</td>
                 <td className="p-3 font-bold text-rose-600">¥17,600〜</td>
@@ -280,7 +280,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. ホテルルートイン　塩尻北インター</td>
                 <td className="p-3 text-stone-600">長野県塩尻市広丘吉田842-1</td>
-                <td className="p-3 text-stone-600">広丘駅周辺</td>
+                <td className="p-3 text-stone-600">長野自動車道 塩尻北I.Cより１ｋｍ</td>
                 <td className="p-3 text-stone-600">有　71台（立体：37、平面：25、第2駐車場：9）　無料・先着順　※大型車駐車は要事前連絡</td>
                 <td className="p-3 font-bold text-amber-600">★4.11（549件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,800〜</td>
@@ -289,7 +289,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 信州安曇野穂高温泉郷　旅館　山のたこ平</td>
                 <td className="p-3 text-stone-600">長野県安曇野市穂高有明8969</td>
-                <td className="p-3 text-stone-600">有明（長野）駅周辺</td>
+                <td className="p-3 text-stone-600">長野自動車道安曇野ICより車で２０分、JR穂高駅より車で１５分</td>
                 <td className="p-3 text-stone-600">有り　1００台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.18（312件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,500〜</td>
@@ -298,7 +298,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">6. 白骨温泉　白船荘新宅旅館</td>
                 <td className="p-3 text-stone-600">長野県松本市安曇4201</td>
-                <td className="p-3 text-stone-600">新島々駅周辺</td>
+                <td className="p-3 text-stone-600">JR松本駅から私鉄上高地線 新島々駅より白骨温泉行バス乗車→終点白骨温泉下車</td>
                 <td className="p-3 text-stone-600">有り　５０台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.56（1226件）</td>
                 <td className="p-3 font-bold text-rose-600">¥18,700〜</td>
@@ -327,7 +327,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有 40台無料   　■全館Wi-Fi対応 ■個室お食事処 ■バリアフリー対応風呂あり</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「こだわりのお料理と温泉でゆったり満喫松本へは夫婦旅行で初めての宿泊です。上高地観光の目的でネットで検索してお料理に魅力を感じ予約しました。思っていたようにお料理はこだわりがあり、朝夕共にとても…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「こだわりのお料理と温泉でゆったり満喫松本へは夫婦旅行で初めての宿泊です。上高地観光の目的でネットで検索してお料理に魅力を感じ予約しました。」
                   </blockquote>
                 </div>
               </div>
@@ -349,7 +349,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>宿泊者普通車駐車場無料。中型車以上1台2200円（事前予約）。いずれも先着順チェックイン〜アウト迄</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.28 ／ 立地 ★3.98 ／ 部屋 ★4.04 ／ 設備 ★3.98 ／ 風呂 ★4.29 ／ 食事 ★4.41</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「清潔な部屋と展望、食事と温泉に大満足部屋、設備とも清潔で気持ちよく過ごせた。窓からの展望もよく静かでゆっくり休めた。食事は美味しく量も丁度よかった。泉質は化粧水いらず。接客は過不足なく、全般に不満…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「清潔な部屋と展望、食事と温泉に大満足部屋、設備とも清潔で気持ちよく過ごせた。窓からの展望もよく静かでゆっくり休めた。食事は美味しく量も丁度よかった。泉質は化粧水いらず。」
                   </blockquote>
                 </div>
               </div>
@@ -371,7 +371,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１５０台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.63 ／ 立地 ★4.59 ／ 部屋 ★4.56 ／ 設備 ★4.54 ／ 風呂 ★4.64 ／ 食事 ★4.66</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事と接客は良いが露天風呂の視線が気になる食事は大変良かったです。従業員の方々の対応も良かった。客室露天風呂付きの部屋でしたが、他の部屋から見える。あまり温泉の湯という感じもしない。ク…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事と接客は良いが露天風呂の視線が気になる食事は大変良かったです。従業員の方々の対応も良かった。客室露天風呂付きの部屋でしたが、他の部屋から見える。あまり温泉の湯という感じもしない。」
                   </blockquote>
                 </div>
               </div>
@@ -415,7 +415,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　1００台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事は満足だが設備や温泉に不満あり食事は夜も朝も質・量共に良かったです。温泉は災害の影響で本来のものではないので残念でした。室内に電話が無く、浴衣を交換するのにフロントまで出向かなくてはな…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事は満足だが設備や温泉に不満あり食事は夜も朝も質・量共に良かったです。温泉は災害の影響で本来のものではないので残念でした。」
                   </blockquote>
                 </div>
               </div>

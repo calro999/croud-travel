@@ -351,7 +351,7 @@ export default function FurusatoUpgradedPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 休暇村　近江八幡</td>
                 <td className="p-3 text-stone-600">滋賀県近江八幡市沖島町宮ヶ浜</td>
-                <td className="p-3 text-stone-600">JR　近江八幡駅より近江鉄道バス休暇村行きにて約43分　※近江鉄道バス</td>
+                <td className="p-3 text-stone-600">JR 近江八幡駅より近江鉄道バス休暇村行きにて約43分 ※近江鉄道バス休暇村行き、土日祝日運休</td>
                 <td className="p-3 text-stone-600">有り　５００台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.31（793件）</td>
                 <td className="p-3 font-bold text-rose-600">¥15,200〜</td>
@@ -360,7 +360,7 @@ export default function FurusatoUpgradedPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 柳川藩主立花邸　御花</td>
                 <td className="p-3 text-stone-600">福岡県柳川市新外町1</td>
-                <td className="p-3 text-stone-600">西鉄柳川駅周辺</td>
+                <td className="p-3 text-stone-600">佐賀空港よりリムジンバスで30分／西鉄柳川駅よりタクシーで約１０分／九州自動車道みやま・柳川ＩＣより約25分</td>
                 <td className="p-3 text-stone-600">有　５０台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.85（161件）</td>
                 <td className="p-3 font-bold text-rose-600">¥26,015〜</td>
@@ -369,7 +369,7 @@ export default function FurusatoUpgradedPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 潮来ホテル</td>
                 <td className="p-3 text-stone-600">茨城県潮来市あやめ1-10-7</td>
-                <td className="p-3 text-stone-600">潮来駅周辺</td>
+                <td className="p-3 text-stone-600">鹿島工業地帯まで車で20分、東京から車または高速バスで90分（バス停まで無料送迎有）、JR潮来駅徒歩4分</td>
                 <td className="p-3 text-stone-600">バス、作業車等の大型車両可[連絡お願いします]/普通車100台程度駐車可/多数の場合、ご連絡を。無料</td>
                 <td className="p-3 font-bold text-amber-600">★3.35（232件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,700〜</td>

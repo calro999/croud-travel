@@ -253,7 +253,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 皆生温泉　皆生シーサイドホテル　海の四季</td>
                 <td className="p-3 text-stone-600">鳥取県米子市皆生温泉3-4-3</td>
-                <td className="p-3 text-stone-600">米子駅周辺</td>
+                <td className="p-3 text-stone-600">米子自動車道・米子ＩＣより車で約10分、ＪＲ米子駅よりタクシー又はバスで約15分、米子空港よりタクシー又はバスで約20分</td>
                 <td className="p-3 text-stone-600">無料駐車場80台分完備。当館をご利用のお客様はいつでも駐車いただけます。</td>
                 <td className="p-3 font-bold text-amber-600">★4.42（4883件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,940〜</td>
@@ -262,7 +262,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 皆生温泉　皆生グランドホテル天水</td>
                 <td className="p-3 text-stone-600">鳥取県米子市皆生温泉4-18-45</td>
-                <td className="p-3 text-stone-600">米子駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ米子駅より車で１５分、米子空港より車で２０分、米子自動車道米子ＩＣより車で１０分</td>
                 <td className="p-3 text-stone-600">無料大駐車場　バス２０台・乗用車１００台</td>
                 <td className="p-3 font-bold text-amber-600">★3.94（1046件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,050〜</td>
@@ -271,7 +271,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 皆生温泉　華水亭</td>
                 <td className="p-3 text-stone-600">鳥取県米子市皆生温泉4-19-10</td>
-                <td className="p-3 text-stone-600">米子駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ米子駅より車で１５分、米子空港より車で２０分、米子自動車道米子ＩＣより車で１０分</td>
                 <td className="p-3 text-stone-600">有り　70台　バス10台　乗用車70台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.57（919件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,800〜</td>
@@ -280,7 +280,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. ベイサイドスクエア　皆生ホテル</td>
                 <td className="p-3 text-stone-600">鳥取県米子市皆生温泉4-21-1</td>
-                <td className="p-3 text-stone-600">米子駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ米子駅より皆生温泉行バス、観光センター下車徒歩５分</td>
                 <td className="p-3 text-stone-600">有り　１４０台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.39（1715件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,230〜</td>
@@ -289,7 +289,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 休暇村　奥大山　（旧　大山鏡ヶ成）</td>
                 <td className="p-3 text-stone-600">鳥取県日野郡江府町御机字鏡ヶ成709-1</td>
-                <td className="p-3 text-stone-600">根雨駅周辺</td>
+                <td className="p-3 text-stone-600">米子自動車道 蒜山ＩＣから約２０分／ＪＲ伯備線 根雨駅より送迎バス３０分</td>
                 <td className="p-3 text-stone-600">有り　２００台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.52（181件）</td>
                 <td className="p-3 font-bold text-rose-600">¥14,000〜</td>
@@ -298,7 +298,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">6. フェアフィールド・バイ・マリオット・岡山蒜山高原</td>
                 <td className="p-3 text-stone-600">岡山県真庭市蒜山上徳山1385-9</td>
-                <td className="p-3 text-stone-600">武庫駅周辺</td>
+                <td className="p-3 text-stone-600">国道482号沿い。米子自動車道、蒜山ICから車で約2分。JR「江尾駅」車約20分。</td>
                 <td className="p-3 text-stone-600">駐車場56台／無料・先着順。満車時は近隣案内、詳細はフロント（0867-66-7550）まで</td>
                 <td className="p-3 font-bold text-amber-600">★4.42（145件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,899〜</td>
@@ -327,7 +327,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料駐車場80台分完備。当館をご利用のお客様はいつでも駐車いただけます。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「エアコンが効かず、清掃が行き届いていない部屋のエアコンが冷えず部屋の外の方が涼しかった。テーブルの上に綿埃が多く、電話や電気スタンドを動かすとホコリが舞い上がった。食事に使うので拭き掃除をして…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「エアコンが効かず、清掃が行き届いていない部屋のエアコンが冷えず部屋の外の方が涼しかった。テーブルの上に綿埃が多く、電話や電気スタンドを動かすとホコリが舞い上がった。」
                   </blockquote>
                 </div>
               </div>
@@ -349,7 +349,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料大駐車場　バス２０台・乗用車１００台</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの対応が素晴らしくまた泊まりたい到着時はホテル外観に時代を感じさせるものだったのでちょっと心配したが、フロントスタッフの素晴らしい対応で心配も吹き飛んだ。スタッフの良さはフロントだけでなく…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの対応が素晴らしくまた泊まりたい到着時はホテル外観に時代を感じさせるものだったのでちょっと心配したが、フロントスタッフの素晴らしい対応で心配も吹き飛んだ。」
                   </blockquote>
                 </div>
               </div>
@@ -371,7 +371,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　70台　バス10台　乗用車70台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「丁寧な接客と美味しい食事、眺望に大満足大変丁寧な接客で嬉しくなりました。夜ご飯も朝ごはんもとても美味しくお腹いっぱいになりました。お部屋の眺めも大変よかったです。ウェルカムドリンクが子供たちは…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「丁寧な接客と美味しい食事、眺望に大満足大変丁寧な接客で嬉しくなりました。夜ご飯も朝ごはんもとても美味しくお腹いっぱいになりました。お部屋の眺めも大変よかったです。」
                   </blockquote>
                 </div>
               </div>
@@ -415,7 +415,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２００台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「バイキングが美味しくて食べ過ぎた!夕食・朝食ともにバイキング形式でした。すべてとても美味しかったです。食べ過ぎてしまい体重オーバーになってしまいました!?」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「バイキングが美味しくて食べ過ぎた!夕食・朝食ともにバイキング形式でした。すべてとても美味しかったです。食べ過ぎてしまい体重オーバーになってしまいました!」
                   </blockquote>
                 </div>
               </div>
@@ -437,7 +437,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>駐車場56台／無料・先着順。満車時は近隣案内、詳細はフロント（0867-66-7550）まで</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「立地が良く快適、ベッドは少し小さめ家族で一泊利用しました。シンプルで過ごしやすかったです。小学生の子供と一緒に寝るには、ややベッドは小さく感じました。立地も便利良く、フロントの方々の対…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「立地が良く快適、ベッドは少し小さめ家族で一泊利用しました。シンプルで過ごしやすかったです。小学生の子供と一緒に寝るには、ややベッドは小さく感じました。」
                   </blockquote>
                 </div>
               </div>

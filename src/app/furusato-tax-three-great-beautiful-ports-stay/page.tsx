@@ -422,8 +422,8 @@ export default function Page() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 静岡駅よりアクセス。ＪＲ静岡駅よりバス４０分・タクシー25分（駅からシャトルバス有り）／静岡・清水ＩＣより車で25分。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「日本平ホテル」にチェックイン。日本平が日本夜景遺産に認定★三保の松原を眼下に富士山を望む絶景を堪能などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「日本平ホテル」の湯処へ。日本平が日本夜景遺産に認定★三保の松原を眼下に富士山を望む絶景を堪能とともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「日本平ホテル」にチェックイン。日本平が日本夜景遺産に認定★三保の松原を眼下に富士山を望む絶景を堪能が魅力の一軒。客室で荷物をほどいて穏やかな午後のひとときを。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「日本平ホテル」の自慢の湯処へ。温かな湯気と落ち着いた雰囲気に癒やされながら、夕食前の贅沢なひとときを過ごす。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「日本平ホテル」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -435,7 +435,7 @@ export default function Page() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「日本平ホテル」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「日本平ホテル」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「ホテルニュー長崎」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は宿周辺の散策とショッピングを満喫。地元の名産品やグルメを味わってから余裕をもって帰路につく。</li>
               </ul>
             </div>
           </div>
@@ -563,7 +563,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 日本平ホテル</td>
                 <td className="p-3 text-stone-600">静岡県静岡市清水区馬走1500-2</td>
-                <td className="p-3 text-stone-600">静岡駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ静岡駅よりバス４０分・タクシー25分（駅からシャトルバス有り）／静岡・清水ＩＣより車で25分</td>
                 <td className="p-3 text-stone-600">有り（400台）　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.7（1078件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,100〜</td>
@@ -572,7 +572,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. ホテルニュー長崎（ＨＯＴＥＬ　ＮＥＷ　ＮＡＧＡＳＡＫＩ）</td>
                 <td className="p-3 text-stone-600">長崎県長崎市大黒町14-5</td>
-                <td className="p-3 text-stone-600">長崎（長崎）駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ長崎駅横☆JR長崎駅東口から徒歩5分☆</td>
                 <td className="p-3 text-stone-600">有り　70台（先着順）　￥1,500（1台）　※高さ2.1ｍまで入庫可能な地下平面駐車場</td>
                 <td className="p-3 font-bold text-amber-600">★4.43（1138件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,400〜</td>
@@ -581,7 +581,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 神戸メリケンパークオリエンタルホテル</td>
                 <td className="p-3 text-stone-600">兵庫県神戸市中央区波止場町5-6  【ホテルコード10】0570-051-153</td>
-                <td className="p-3 text-stone-600">元町（兵庫）駅周辺</td>
+                <td className="p-3 text-stone-600">JR三ノ宮間の送迎バス運行。大阪まで約20分、元町から徒歩約15分。</td>
                 <td className="p-3 text-stone-600">収容台数：290台　料金：1,800円/泊（チェックイン日の正午～翌日の正午まで） ※予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.51（7203件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,730〜</td>

@@ -336,8 +336,8 @@ export default function ArticlePage() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 鶴岡駅よりアクセス。ＪＲ鶴岡駅よりタクシーで２５分 定期バス（４０分）バス停より徒歩３分。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「湯野浜温泉 海辺のお宿 一久」にチェックイン。波のたりの夕暮れに、庄内のおいしいを喰らふ＜全室オーシャンビュー＞などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「湯野浜温泉 海辺のお宿 一久」の湯処へ。波のたりの夕暮れに、庄内のおいしいを喰らふ＜全室オーシャンビュー＞とともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「湯野浜温泉 海辺のお宿 一久」にチェックイン。波のたりの夕暮れに、庄内のおいしいを喰らふ＜全室オーシャンビュー＞が魅力の一軒。客室で荷物をほどいて穏やかな午後のひとときを。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「湯野浜温泉 海辺のお宿 一久」の大浴場・露天風呂へ。日暮れの静けさの中で湯に浸かり、旅の緊張をゆっくりと解きほぐす。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「湯野浜温泉 海辺のお宿 一久」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -349,7 +349,7 @@ export default function ArticlePage() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「湯野浜温泉 海辺のお宿 一久」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「湯野浜温泉 海辺のお宿 一久」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「湯野浜温泉 游水亭 いさごや」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は宿周辺の散策とショッピングを満喫。地元の名産品やグルメを味わってから余裕をもって帰路につく。</li>
               </ul>
             </div>
           </div>
@@ -386,28 +386,28 @@ export default function ArticlePage() {
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
             <div className="flex flex-wrap gap-2">
               <Link
-                href="/prefectures/aichi/"
+                href="/prefectures/yamagata/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                愛知県の宿・温泉
+                山形県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/okayama/"
+                href="/prefectures/hokkaido/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                岡山県の宿・温泉
+                北海道の宿・温泉
               </Link>
               <Link
-                href="/prefectures/miyazaki/"
+                href="/prefectures/aomori/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                宮崎県の宿・温泉
+                青森県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/fukushima/"
+                href="/prefectures/iwate/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                福島県の宿・温泉
+                岩手県の宿・温泉
               </Link>
             </div>
           </div>
@@ -443,7 +443,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 湯野浜温泉　海辺のお宿　一久</td>
                 <td className="p-3 text-stone-600">山形県鶴岡市湯野浜1-10-29</td>
-                <td className="p-3 text-stone-600">鶴岡駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ鶴岡駅よりタクシーで２５分 定期バス（４０分）バス停より徒歩３分</td>
                 <td className="p-3 text-stone-600">有　25台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.57（524件）</td>
                 <td className="p-3 font-bold text-rose-600">¥12,100〜</td>
@@ -452,7 +452,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 湯野浜温泉　游水亭　いさごや</td>
                 <td className="p-3 text-stone-600">山形県鶴岡市湯野浜1-8-7</td>
-                <td className="p-3 text-stone-600"></td>
+                <td className="p-3 text-stone-600">山形県鶴岡市湯野浜1-8-7 ／ 交通案内：</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.38（710件）</td>
                 <td className="p-3 font-bold text-rose-600">¥15,488〜</td>
@@ -461,7 +461,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 山形グランドホテル</td>
                 <td className="p-3 text-stone-600">山形県山形市本町1-7-42</td>
-                <td className="p-3 text-stone-600">山形駅周辺</td>
+                <td className="p-3 text-stone-600">JR山形駅から車で5分。市内中心街に立地。中心街１００円循環バスで山形駅より５分。（運行時間/9:30～18:30）</td>
                 <td className="p-3 text-stone-600">1泊1,000円。先着順となります（予約不可）※大型車は駐車出来ません</td>
                 <td className="p-3 font-bold text-amber-600">★3.99（1630件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,227〜</td>
@@ -470,7 +470,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. ホテルリッチ＆ガーデン酒田</td>
                 <td className="p-3 text-stone-600">山形県酒田市若竹町1-1-1</td>
-                <td className="p-3 text-stone-600">酒田駅周辺</td>
+                <td className="p-3 text-stone-600">■庄内空港よりバス30分 庄内空港行きはホテル道路沿いより運行 ■■酒田駅 車で６分■■酒田ＩＣ １０分</td>
                 <td className="p-3 text-stone-600">約80台無料駐車場</td>
                 <td className="p-3 font-bold text-amber-600">★4.19（1764件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,700〜</td>
@@ -479,7 +479,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 白布温泉　中屋別館　不動閣</td>
                 <td className="p-3 text-stone-600">山形県米沢市白布温泉大字関1514</td>
-                <td className="p-3 text-stone-600">米沢駅周辺</td>
+                <td className="p-3 text-stone-600">JR米沢駅から路線バス（山交バス白布温泉行き）約50分。東北中央自動車道～米沢八幡原IC～国道13号～県道2号線約30分</td>
                 <td className="p-3 text-stone-600">有り　50台（宿泊者無料/先着順）</td>
                 <td className="p-3 font-bold text-amber-600">★4.37（315件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,470〜</td>
@@ -508,7 +508,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有　25台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「窓からの花火と心温まるお祝いに感激窓からの景色が最高です。当日浜辺で花火の打ち上げあり、部屋の窓から真ん前で見られました。歳祝いの衣装を借りる事が出来て、思いがけなくお祝いの日本酒も頂き、良い思い…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「窓からの花火と心温まるお祝いに感激窓からの景色が最高です。当日浜辺で花火の打ち上げあり、部屋の窓から真ん前で見られました。」
                   </blockquote>
                 </div>
               </div>
@@ -552,7 +552,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>1泊1,000円。先着順となります（予約不可）※大型車は駐車出来ません</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.11 ／ 立地 ★3.96 ／ 部屋 ★3.98 ／ 設備 ★3.86 ／ 風呂 ★3.69</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「設備が充実し、駐車場も多くて便利飛び込みでの素泊まりしました。宿泊面での設備は充実しており部屋にあるコーヒーマシンを使わせていただきました。周囲に駐車場も多く存在して訪問しやすいです。…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「設備が充実し、駐車場も多くて便利飛び込みでの素泊まりしました。宿泊面での設備は充実しており部屋にあるコーヒーマシンを使わせていただきました。周囲に駐車場も多く存在して訪問しやすいです。」
                   </blockquote>
                 </div>
               </div>
@@ -574,7 +574,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>約80台無料駐車場</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.18 ／ 立地 ★4.16 ／ 部屋 ★4.13 ／ 設備 ★4 ／ 風呂 ★4.03 ／ 食事 ★4.36</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「最上川と鳥海山を望む絶景、また来ます3泊しました...8階の部屋で、最上川が綺麗に見えました...6月に宿泊した際は「出羽富士(鳥海山)」が見える同じ8階の反対側でした...また、お世話になります…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「最上川と鳥海山を望む絶景、また来ます3泊しました...8階の部屋で、最上川が綺麗に見えました...6月に宿泊した際は「出羽富士(鳥海山)」が見える同じ8階の反対側でした...また、お世話になります。」
                   </blockquote>
                 </div>
               </div>
@@ -596,7 +596,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　50台（宿泊者無料/先着順）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「渓谷の涼風と絶品黒毛和牛、最高の温泉体験宿の立地・環境は避暑には最適で、盛夏の15時でも建物の中は気温22度しかなく、渓谷から涼しい風が入ってきて別天地のようでした。建物は古くて年季が入ってま…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「渓谷の涼風と絶品黒毛和牛、最高の温泉体験宿の立地・環境は避暑には最適で、盛夏の15時でも建物の中は気温22度しかなく、渓谷から涼しい風が入ってきて別天地のようでした。」
                   </blockquote>
                 </div>
               </div>

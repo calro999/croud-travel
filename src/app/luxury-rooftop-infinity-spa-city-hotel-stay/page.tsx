@@ -76,7 +76,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F4730%2F4730.html%26f_flg%3DPLAN",
     "hotelMinCharge": 2750,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/4730/4730.jpg",
-    "userReview": "大浴場と同じ階で移動が楽、母も大満足大浴場と部屋が同じ階にあるのが気に入り予約しました。足の弱った母親も移動が楽で2泊3日の間に5回も入浴出来ました。スタッフの対応も良かったです。クチコミ。",
+    "userReview": "大浴場と同じ階で移動が楽、母も大満足大浴場と部屋が同じ階にあるのが気に入り予約しました。足の弱った母親も移動が楽で2泊3日の間に5回も入浴出来ました。スタッフの対応も良かったです。",
     "reviewAverage": 4.44,
     "reviewCount": 1468,
     "address": "岐阜県下呂市萩原町西上田2148-1",
@@ -283,8 +283,8 @@ export default function Page() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 下呂駅よりアクセス。JR 高山線下呂駅から徒歩1５分 車 中央道中津川I.Cより車で50分。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「下呂温泉 湯あそびの宿 下呂観光ホテル本館」にチェックイン。絶景ランキング1位！インバウンド比率6.6％。団体客無しでゆっくりとくつろげる全室夜景自慢の宿。などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「下呂温泉 湯あそびの宿 下呂観光ホテル本館」の湯処へ。絶景ランキング1位！インバウンド比率6.6％。団体客無しでゆっくりとくとともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「下呂温泉 湯あそびの宿 下呂観光ホテル本館」にチェックイン。絶景ランキング1位！インバウンド比率6.6％。団体客無しでゆっくりとくつろげる全室夜景自慢の宿。 荷物を解き、落ち着いた室内でまず一息つく。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「下呂温泉 湯あそびの宿 下呂観光ホテル本館」の自慢の湯処へ。温かな湯気と落ち着いた雰囲気に癒やされながら、夕食前の贅沢なひとときを過ごす。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「下呂温泉 湯あそびの宿 下呂観光ホテル本館」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -296,7 +296,7 @@ export default function Page() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「下呂温泉 湯あそびの宿 下呂観光ホテル本館」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「下呂温泉 湯あそびの宿 下呂観光ホテル本館」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「ＨＯＴＥＬ ＳＡＮＳＵＩ ＮＡＨＡ 琉球温泉 波之上の湯」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は「下呂温泉 湯あそびの宿 下呂観光ホテル本館」周辺の観光スポットや地元の名産店に立ち寄り、ご当地のお土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>
@@ -424,7 +424,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 下呂温泉　湯あそびの宿　下呂観光ホテル本館</td>
                 <td className="p-3 text-stone-600">岐阜県下呂市萩原町西上田2148-1</td>
-                <td className="p-3 text-stone-600">下呂駅周辺</td>
+                <td className="p-3 text-stone-600">【JR】高山線下呂駅から徒歩1５分【車】中央道中津川I.Cより車で50分</td>
                 <td className="p-3 text-stone-600">有り　無料(一部プランにより有料もあり)　バイク専用屋根付き駐車場あり</td>
                 <td className="p-3 font-bold text-amber-600">★4.43（1489件）</td>
                 <td className="p-3 font-bold text-rose-600">¥2,750〜</td>
@@ -433,7 +433,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. ＨＯＴＥＬ　ＳＡＮＳＵＩ　ＮＡＨＡ　琉球温泉　波之上の湯</td>
                 <td className="p-3 text-stone-600">沖縄県那覇市辻2-25-1</td>
-                <td className="p-3 text-stone-600">那覇空港駅周辺</td>
+                <td className="p-3 text-stone-600">空港から車で約8分◆ホテルと那覇空港を結ぶシャトルバスも運行中◆崖の上の「縁結びパワースポット」波上宮まで【徒歩4分】</td>
                 <td className="p-3 text-stone-600">有り　42台　1,500円（税込み／泊）　先着順　※高さ制限有（175センチ）</td>
                 <td className="p-3 font-bold text-amber-600">★4.04（1140件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,175〜</td>
@@ -442,7 +442,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. リブマックスリゾート宮浜温泉Ｏｃｅａｎ</td>
                 <td className="p-3 text-stone-600">広島県廿日市市宮浜温泉2-13-10</td>
-                <td className="p-3 text-stone-600">山陽本線 [大野浦駅]から車で5分・[玖波駅]から車で5分・[宮島口駅</td>
+                <td className="p-3 text-stone-600">山陽本線 [大野浦駅]から車で5分・[玖波駅]から車で5分・[宮島口駅]から車で15分 岩国空港から車で30分</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.21（911件）</td>
                 <td className="p-3 font-bold text-rose-600">¥12,250〜</td>
@@ -460,7 +460,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. アスティルホテル十三　プレシャス</td>
                 <td className="p-3 text-stone-600">大阪府大阪市淀川区十三本町1-10-13</td>
-                <td className="p-3 text-stone-600">梅田から約5分、新大阪から約15分。阪急「十三駅」西口より徒歩約2分の</td>
+                <td className="p-3 text-stone-600">梅田から約5分、新大阪から約15分。阪急「十三駅」西口より徒歩約2分の好立地です。</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.5（1199件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,250〜</td>
@@ -511,7 +511,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　42台　1,500円（税込み／泊）　先着順　※高さ制限有（175センチ）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉とプールを満喫、また行きたい!沖縄では珍しい温泉に、プールとバーよかったです。夏休み時期のせいか2階のプールはお子さま向けな雰囲気でした。海近く、プールもあるのでランドリースペース拡大してくれ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉とプールを満喫、また行きたい!沖縄では珍しい温泉に、プールとバーよかったです。夏休み時期のせいか2階のプールはお子さま向けな雰囲気でした。」
                   </blockquote>
                 </div>
               </div>
@@ -533,7 +533,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋は広々快適だが食事会場は混雑気味オーシャンスイートに泊まりました。部屋は広々しており居心地も良く設備等含め快適でした。食事はバイキング会場が狭く隣との間隔があまりないので、テーブルを仕切っ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋は広々快適だが食事会場は混雑気味オーシャンスイートに泊まりました。部屋は広々しており居心地も良く設備等含め快適でした。」
                   </blockquote>
                 </div>
               </div>

@@ -310,7 +310,7 @@ export default function AutumnBudgetMiyazakiHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. マンゴーホテル宮崎</td>
                 <td className="p-3 text-stone-600">宮崎県宮崎市橘通東1-5-8</td>
-                <td className="p-3 text-stone-600">宮崎駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ日豊本線 宮崎駅から車で約１０分。宮崎空港から空港リムジンバスで約１５分。</td>
                 <td className="p-3 text-stone-600">有/有料【普通車まで】1泊1000円/予約不可先着順【中型車】1泊3000円/要予約【駐輪】無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.04（153件）</td>
                 <td className="p-3 font-bold text-rose-600">¥2,925〜</td>
@@ -319,7 +319,7 @@ export default function AutumnBudgetMiyazakiHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. ホテル　ベルフォート日向</td>
                 <td className="p-3 text-stone-600">宮崎県日向市上町7-3</td>
-                <td className="p-3 text-stone-600">日向駅周辺</td>
+                <td className="p-3 text-stone-600">JR日向市駅徒歩5分。コンビニ1分。市役所4分。市街地中心。光インターネット使い放題。和洋2つのレストランにグルメ満載。</td>
                 <td className="p-3 text-stone-600">100台　400円/泊(税別）2026年1月1日より駐車場料金が500円税込となります。</td>
                 <td className="p-3 font-bold text-amber-600">★3.74（1055件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,434〜</td>
@@ -328,7 +328,7 @@ export default function AutumnBudgetMiyazakiHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. ホテルマリックスラグーン</td>
                 <td className="p-3 text-stone-600">宮崎県宮崎市清水3-105</td>
-                <td className="p-3 text-stone-600">宮崎駅周辺</td>
+                <td className="p-3 text-stone-600">繁華街に徒歩４分！駅から西へまっすぐ車で３分。宮崎西インターより国道１０号線を市内へ車で１０分！</td>
                 <td className="p-3 text-stone-600">2024年8月1日より料金改定　１泊/普通車/900円→1,000円</td>
                 <td className="p-3 font-bold text-amber-600">★3.94（1928件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,500〜</td>
@@ -337,7 +337,7 @@ export default function AutumnBudgetMiyazakiHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 都城グリーンホテル</td>
                 <td className="p-3 text-stone-600">宮崎県都城市栄町27-2-1</td>
-                <td className="p-3 text-stone-600">都城駅周辺</td>
+                <td className="p-3 text-stone-600">JR都城駅から徒歩で約5分。宮崎空港よりリムジンバスで約１時間・都城駅バス停下車、徒歩5分。都城インタ－より車で１５分</td>
                 <td className="p-3 text-stone-600">有り　250台　1台あたり普通車500円・大型車1500円・大型車は要予約</td>
                 <td className="p-3 font-bold text-amber-600">★4.23（2749件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,390〜</td>
@@ -346,7 +346,7 @@ export default function AutumnBudgetMiyazakiHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. フェニックス・シーガイア・オーシャン・タワー</td>
                 <td className="p-3 text-stone-600">宮崎県宮崎市山崎町浜山</td>
-                <td className="p-3 text-stone-600">宮崎駅周辺</td>
+                <td className="p-3 text-stone-600">【宮崎駅利用】車15分、路線バスあり【宮崎空港利用】車30分</td>
                 <td className="p-3 text-stone-600">無料駐車場をご用意しております（大型車・バスも駐車可能）事前のご予約は不要です。</td>
                 <td className="p-3 font-bold text-amber-600">★4.53（4898件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,800〜</td>
@@ -375,7 +375,7 @@ export default function AutumnBudgetMiyazakiHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有/有料【普通車まで】1泊1000円/予約不可先着順【中型車】1泊3000円/要予約【駐輪】無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.88 ／ 立地 ★3.88 ／ 部屋 ★4.07 ／ 設備 ★4 ／ 風呂 ★3.83 ／ 食事 ★3.77</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ベッドが広く快適、無料のアイスも絶品大人2、子供3での宿泊でセミダブルベット4つあり2泊したのでゆっくり過ごせて快適でしたマンゴウアイスが宿泊者無料でとても美味しかったです…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ベッドが広く快適、無料のアイスも絶品大人2、子供3での宿泊でセミダブルベット4つあり2泊したのでゆっくり過ごせて快適でしたマンゴウアイスが宿泊者無料でとても美味しかったです。」
                   </blockquote>
                 </div>
               </div>
@@ -397,7 +397,7 @@ export default function AutumnBudgetMiyazakiHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>100台　400円/泊(税別）2026年1月1日より駐車場料金が500円税込となります。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.76 ／ 立地 ★3.74 ／ 部屋 ★3.73 ／ 設備 ★3.67 ／ 風呂 ★3.7</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの対応が親切で部屋も綺麗初めて宿泊させて頂きました。今回は一泊二食させて頂きました。 フロントの方、1階の居酒屋、朝食会場の方も親切な方達ばかりでした。 部屋も綺麗。シャワーだけが少し不満…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの対応が親切で部屋も綺麗初めて宿泊させて頂きました。今回は一泊二食させて頂きました。 フロントの方、1階の居酒屋、朝食会場の方も親切な方達ばかりでした。 部屋も綺麗。」
                   </blockquote>
                 </div>
               </div>
@@ -419,7 +419,7 @@ export default function AutumnBudgetMiyazakiHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>2024年8月1日より料金改定　１泊/普通車/900円→1,000円</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.96 ／ 立地 ★3.88 ／ 部屋 ★3.87 ／ 設備 ★3.91 ／ 風呂 ★4.05</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉は最高だがネット環境が遅すぎて不満20年以上前から何度も利用させてもらっています。温泉が隣接しているのが最大の魅力です。ただ一点だけ大きな不満点があります。インターネットがとにかく遅い!ネット…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉は最高だがネット環境が遅すぎて不満20年以上前から何度も利用させてもらっています。温泉が隣接しているのが最大の魅力です。ただ一点だけ大きな不満点があります。インターネットがとにかく遅い!」
                   </blockquote>
                 </div>
               </div>
@@ -463,7 +463,7 @@ export default function AutumnBudgetMiyazakiHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料駐車場をご用意しております（大型車・バスも駐車可能）事前のご予約は不要です。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.46 ／ 立地 ★4.65 ／ 部屋 ★4.64 ／ 設備 ★4.47 ／ 風呂 ★4.39 ／ 食事 ★4.55</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「プールと朝食に大満足、子供たちも大喜びプールが楽しかった。子どもたちも満喫。ただ影になるところが少なく場所が取られていると休めない。お風呂は案内が詳しくあると初回の人も分かりやすいかもです。朝のブ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「プールと朝食に大満足、子供たちも大喜びプールが楽しかった。子どもたちも満喫。ただ影になるところが少なく場所が取られていると休めない。お風呂は案内が詳しくあると初回の人も分かりやすいかもです。」
                   </blockquote>
                 </div>
               </div>

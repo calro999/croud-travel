@@ -412,7 +412,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 天然温泉　白糸の湯　ドーミーイン大分（ドーミーイン・御宿野乃　ホテルズグループ）</td>
                 <td className="p-3 text-stone-600">大分県大分市末広町1-2-1</td>
-                <td className="p-3 text-stone-600">大分駅周辺</td>
+                <td className="p-3 text-stone-600">JR大分駅府内中央口より徒歩約１分！大分空港行リムジンバス乗り場へは徒歩1分の好立地♪</td>
                 <td className="p-3 text-stone-600">立体駐車場2基完備。全68台収容可能。すべて先着順となります。1泊1,500円(税込)。</td>
                 <td className="p-3 font-bold text-amber-600">★4.49（1676件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,037〜</td>
@@ -421,7 +421,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 天然温泉　アリストンホテル大分</td>
                 <td className="p-3 text-stone-600">大分県大分市金池町1-2-1</td>
-                <td className="p-3 text-stone-600">大分駅周辺</td>
+                <td className="p-3 text-stone-600">大分駅から徒歩２分</td>
                 <td className="p-3 text-stone-600">有り 8台 1泊1,000円(税込) 先着順　提携駐車場有り(先着順)</td>
                 <td className="p-3 font-bold text-amber-600">★3.98（433件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,600〜</td>
@@ -430,7 +430,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 天然温泉　都の湯　ホテルクラウンヒルズ大分（ＢＢＨホテルグループ）</td>
                 <td className="p-3 text-stone-600">大分県大分市都町4-3-12</td>
-                <td className="p-3 text-stone-600">大分駅周辺</td>
+                <td className="p-3 text-stone-600">大分空港より高速バスにて約60分(荷揚町下車)。 大分自動車道・大分インターチェンジより車で10分。</td>
                 <td className="p-3 text-stone-600">ホテル立体駐車場（高1.55m幅1.85m長5.00mまで）無料　提携駐車場900円</td>
                 <td className="p-3 font-bold text-amber-600">★3.84（1919件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,000〜</td>
@@ -503,7 +503,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>ホテル立体駐車場（高1.55m幅1.85m長5.00mまで）無料　提携駐車場900円</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「無料サービスが充実、コスパ重視なら納得ウェルカムコーヒー、夜間のお茶漬け、温泉、朝食無料サービスがあり、部屋は狭いですが、コスパはいいと思います。駐車場の高さ制限があり、施設内の無料駐車場は利用で…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「無料サービスが充実、コスパ重視なら納得ウェルカムコーヒー、夜間のお茶漬け、温泉、朝食無料サービスがあり、部屋は狭いですが、コスパはいいと思います。」
                   </blockquote>
                 </div>
               </div>

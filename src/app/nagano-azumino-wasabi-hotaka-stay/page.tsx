@@ -253,7 +253,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 安曇野穂高温泉郷　天然温泉　小岩岳旅館</td>
                 <td className="p-3 text-stone-600">長野県安曇野市穂高有明2216-1</td>
-                <td className="p-3 text-stone-600">有明（長野）駅周辺</td>
+                <td className="p-3 text-stone-600">有明駅よりお車にて約８分</td>
                 <td className="p-3 text-stone-600">有り</td>
                 <td className="p-3 font-bold text-amber-600">★4.14（61件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,000〜</td>
@@ -262,7 +262,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 信州安曇野穂高温泉郷　旅館　山のたこ平</td>
                 <td className="p-3 text-stone-600">長野県安曇野市穂高有明8969</td>
-                <td className="p-3 text-stone-600">有明（長野）駅周辺</td>
+                <td className="p-3 text-stone-600">長野自動車道安曇野ICより車で２０分、JR穂高駅より車で１５分</td>
                 <td className="p-3 text-stone-600">有り　1００台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.18（312件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,500〜</td>
@@ -271,7 +271,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 穂高温泉郷　御宿　穂高城</td>
                 <td className="p-3 text-stone-600">長野県安曇野市穂高有明2177-23</td>
-                <td className="p-3 text-stone-600">穂高駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ大糸線 穂高駅よりお車約１５分／長野道安曇野ICより約３０分</td>
                 <td className="p-3 text-stone-600">有り、無料</td>
                 <td className="p-3 font-bold text-amber-600">★3.93（247件）</td>
                 <td className="p-3 font-bold text-rose-600">¥11,000〜</td>
@@ -280,7 +280,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 温泉ホテル安曇野アートキャビン</td>
                 <td className="p-3 text-stone-600">長野県安曇野市穂高有明2252-2</td>
-                <td className="p-3 text-stone-600">穂高駅周辺</td>
+                <td className="p-3 text-stone-600">穂高駅からお車で約７分／長野道安曇野ＩＣよりお車で約２０分／松本駅からお車で約５０分 ■館内にサウナ2室あり</td>
                 <td className="p-3 text-stone-600">屋根付き駐車場10台（無料）　屋外駐車場あり、電気自動車用のコンセント2カ所有り</td>
                 <td className="p-3 font-bold text-amber-600">★4.41（24件）</td>
                 <td className="p-3 font-bold text-rose-600">¥9,600〜</td>
@@ -289,7 +289,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. ＷＨＩＴＥ　ＨＯＴＥＬ　ＧＲＡＮＤ　ＨＡＫＵＢＡ</td>
                 <td className="p-3 text-stone-600">長野県大町市平23370</td>
-                <td className="p-3 text-stone-600">南神城駅周辺</td>
+                <td className="p-3 text-stone-600">JR大糸線簗場（やなば）駅より送迎１０分／長野自動車道｜安曇野ＩＣ・上信越自動車道｜長野ＩＣより約６０分</td>
                 <td className="p-3 text-stone-600">敷地内に無料駐車場をご用意しております。</td>
                 <td className="p-3 font-bold text-amber-600">★4.29（14件）</td>
                 <td className="p-3 font-bold text-rose-600">¥11,050〜</td>
@@ -298,7 +298,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">6. 大町温泉郷　立山プリンスホテル</td>
                 <td className="p-3 text-stone-600">長野県大町市平2884-10</td>
-                <td className="p-3 text-stone-600">信濃大町駅周辺</td>
+                <td className="p-3 text-stone-600">安曇野ICから車で40分、信濃大町駅から車で15分、アルペンルート入口まで車で20分</td>
                 <td className="p-3 text-stone-600">有り　１００台　無料  　　 駐車場でのトラブルには責任を負いかねます。</td>
                 <td className="p-3 font-bold text-amber-600">★4.06（1212件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,800〜</td>
@@ -327,7 +327,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉は貸切状態でゆっくり、素泊まりに最適素泊まり。平屋で部屋数が少ないからか温泉も人が少なくゆっくり入ってました。夕食は外で食べたけど近くには食堂が少なく車で探しました。温泉付きならト…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉は貸切状態でゆっくり、素泊まりに最適素泊まり。平屋で部屋数が少ないからか温泉も人が少なくゆっくり入ってました。夕食は外で食べたけど近くには食堂が少なく車で探しました。」
                   </blockquote>
                 </div>
               </div>
@@ -349,7 +349,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　1００台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事は満足だが設備や温泉に不満あり食事は夜も朝も質・量共に良かったです。温泉は災害の影響で本来のものではないので残念でした。室内に電話が無く、浴衣を交換するのにフロントまで出向かなくてはな…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事は満足だが設備や温泉に不満あり食事は夜も朝も質・量共に良かったです。温泉は災害の影響で本来のものではないので残念でした。」
                   </blockquote>
                 </div>
               </div>
@@ -371,7 +371,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り、無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.11 ／ 立地 ★3.89 ／ 部屋 ★4.04 ／ 設備 ★3.89 ／ 風呂 ★3.89 ／ 食事 ★4.19</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「アップグレードの心遣いと食事に感動予約した部屋よりグレードの高い部屋が空いていて、もとの料金でそちらに宿泊させていただきましたホテル内の調度品、どれも素晴らしかったです食事も手が込んで調理…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「アップグレードの心遣いと食事に感動予約した部屋よりグレードの高い部屋が空いていて、もとの料金でそちらに宿泊させていただきましたホテル内の調度品、どれも素晴らしかったです食事も手が込んで調理。」
                   </blockquote>
                 </div>
               </div>
@@ -437,7 +437,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１００台　無料  　　 駐車場でのトラブルには責任を負いかねます。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.07 ／ 立地 ★4.08 ／ 部屋 ★4.08 ／ 設備 ★3.9 ／ 風呂 ★4.2 ／ 食事 ★4.09</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「施設は古いがスタッフの工夫で良い滞在に施設は古くて空調や施錠等不便でしたが、スタッフの皆様様々工夫しておもてなししていただいてよき滞在となりました。ありがとうございました。クチコミの詳細はこち…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「施設は古いがスタッフの工夫で良い滞在に施設は古くて空調や施錠等不便でしたが、スタッフの皆様様々工夫しておもてなししていただいてよき滞在となりました。ありがとうございました。」
                   </blockquote>
                 </div>
               </div>

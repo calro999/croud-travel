@@ -253,7 +253,7 @@ export default function HistoryHeritageHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. きそふくしま温泉　街道浪漫　おん宿　蔦屋</td>
                 <td className="p-3 text-stone-600">長野県木曽郡木曽町福島本町5162</td>
-                <td className="p-3 text-stone-600">JR木曽福島駅～徒歩約10分【15：30分16：40分送迎有要予約】伊</td>
+                <td className="p-3 text-stone-600">JR木曽福島駅～徒歩約10分【15：30分16：40分送迎有要予約】伊那IC約40分塩尻IC約60分中津川I約70分</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.25（582件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,090〜</td>
@@ -262,7 +262,7 @@ export default function HistoryHeritageHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 木曽路の宿　いわや</td>
                 <td className="p-3 text-stone-600">長野県木曽郡木曽町福島5169</td>
-                <td className="p-3 text-stone-600">木曽福島駅周辺</td>
+                <td className="p-3 text-stone-600">JR木曽福島駅より徒歩10分／中央自動車道：塩尻ICより60分、中津川ICより60分</td>
                 <td className="p-3 text-stone-600">有り　１５台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★3.96（99件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,700〜</td>
@@ -271,7 +271,7 @@ export default function HistoryHeritageHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 普寛堂　くるみ沢旅館</td>
                 <td className="p-3 text-stone-600">長野県木曽郡王滝村3297-6</td>
-                <td className="p-3 text-stone-600">木曽福島駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ中央西線「木曽福島駅」よりお車にて約２５分。</td>
                 <td className="p-3 text-stone-600">有り　２５台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.5（32件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,600〜</td>
@@ -280,7 +280,7 @@ export default function HistoryHeritageHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 宿とそば処　ふもと屋</td>
                 <td className="p-3 text-stone-600">長野県木曽郡木曽町開田高原末川2819</td>
-                <td className="p-3 text-stone-600">木曽福島駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ 木曽福島駅より開田高原行きバスにて「末川」下車徒歩０分</td>
                 <td className="p-3 text-stone-600">有り　１５台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.88（23件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,100〜</td>
@@ -289,7 +289,7 @@ export default function HistoryHeritageHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 会津芦ノ牧温泉　丸峰観光ホテル</td>
                 <td className="p-3 text-stone-600">福島県会津若松市大戸町芦ノ牧下夕平1128</td>
-                <td className="p-3 text-stone-600">会津若松駅周辺</td>
+                <td className="p-3 text-stone-600">会津鉄道・芦ノ牧温泉駅／JR会津若松駅～タクシーで40分／磐越道・会津若松IC～40分/東北道・白河ＩＣ～60分</td>
                 <td className="p-3 text-stone-600">有り　１７０台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.31（3388件）</td>
                 <td className="p-3 font-bold text-rose-600">¥11,000〜</td>
@@ -298,7 +298,7 @@ export default function HistoryHeritageHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">6. 芦ノ牧温泉　不動館　小谷の湯</td>
                 <td className="p-3 text-stone-600">福島県会津若松市大戸町大字小谷湯ノ平２４９８－２</td>
-                <td className="p-3 text-stone-600">芦ノ牧温泉駅周辺</td>
+                <td className="p-3 text-stone-600">芦ノ牧温泉駅より車で８分（無料送迎あり） 駐車場有。（徒歩1分ほど離れた第2駐車場ご利用の場合がございます）</td>
                 <td className="p-3 text-stone-600">あり　20台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.46（54件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,700〜</td>
@@ -327,7 +327,7 @@ export default function HistoryHeritageHubPage() {
                   <p>【中山道・木曽路の宿場町＆旧街道宿：妻籠宿・馬籠宿・奈】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駐車場の案内が不親切で非常に危険だった駐車場について、隣の奥を案内されたが、バックで進入しなければならず非常に狭く危うく壁にぶつかりそうになった。後からチェックインした人が宿の前のスペースに駐車さ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駐車場の案内が不親切で非常に危険だった駐車場について、隣の奥を案内されたが、バックで進入しなければならず非常に狭く危うく壁にぶつかりそうになった。」
                   </blockquote>
                 </div>
               </div>
@@ -349,7 +349,7 @@ export default function HistoryHeritageHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１５台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの心遣いに感謝。食事も大満足子供の体調がいまいちでレストランで夕食を食べられず...「お部屋に運んで後で食べることもできますよ」と教えていただき、お部屋に持っていくことに。娘はお風呂に入る…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの心遣いに感謝。食事も大満足子供の体調がいまいちでレストランで夕食を食べられず...「お部屋に運んで後で食べることもできますよ」と教えていただき、お部屋に持っていくことに。」
                   </blockquote>
                 </div>
               </div>
@@ -415,7 +415,7 @@ export default function HistoryHeritageHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１７０台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.35 ／ 立地 ★4.31 ／ 部屋 ★4.26 ／ 設備 ★4.19 ／ 風呂 ★4.34 ／ 食事 ★4.39</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「景色と食事は良いが天ぷらと土瓶蒸しが残念別館7階の部屋から川と山が見え綺麗でした。大浴場も大きく広い窓ガラスから山が見えます。ホテルも部屋も清潔で良いです。夕食は美味しく種類も豊富でした。ただ天ぷ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「景色と食事は良いが天ぷらと土瓶蒸しが残念別館7階の部屋から川と山が見え綺麗でした。大浴場も大きく広い窓ガラスから山が見えます。ホテルも部屋も清潔で良いです。夕食は美味しく種類も豊富でした。」
                   </blockquote>
                 </div>
               </div>
@@ -437,7 +437,7 @@ export default function HistoryHeritageHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>あり　20台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「細やかな配慮と防災への備えに安心感入浴後の冷たいお水や電気ポットの脇に差し水用の容器があったりと、細部にわたり配慮が見えました。夜、非常階段の扉の点検もして回るなど、災害の備えも心がけており、…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「細やかな配慮と防災への備えに安心感入浴後の冷たいお水や電気ポットの脇に差し水用の容器があったりと、細部にわたり配慮が見えました。」
                   </blockquote>
                 </div>
               </div>

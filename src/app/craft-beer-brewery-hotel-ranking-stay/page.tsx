@@ -334,7 +334,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. スーパーホテル埼玉・本庄天然温泉</td>
                 <td className="p-3 text-stone-600">埼玉県本庄市小島6-1（ケーズデンキ本庄店様向かい）</td>
-                <td className="p-3 text-stone-600">神保原駅周辺</td>
+                <td className="p-3 text-stone-600">JR神保原駅から車で約4分、関越自動車道本庄児玉ＩＣより車で約10分、本庄駅・本庄早稲田駅から車でそれぞれ10分/15分</td>
                 <td className="p-3 text-stone-600">109台の無料専用平面駐車場完備（先着順）/大型車も可能（有料・事前予約制）</td>
                 <td className="p-3 font-bold text-amber-600">★4.5（267件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,250〜</td>
@@ -343,7 +343,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 岩内温泉　いわない高原ホテル</td>
                 <td className="p-3 text-stone-600">北海道岩内郡岩内町野束505</td>
-                <td className="p-3 text-stone-600">小沢（北海道）駅周辺</td>
+                <td className="p-3 text-stone-600">岩内バスターミナルより車で１０分</td>
                 <td className="p-3 text-stone-600">有り　８０台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.32（575件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,500〜</td>
@@ -352,7 +352,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 層雲峡温泉　朝陽リゾートホテル</td>
                 <td className="p-3 text-stone-600">北海道上川郡上川町層雲峡温泉</td>
-                <td className="p-3 text-stone-600">上川駅周辺</td>
+                <td className="p-3 text-stone-600">JR上川駅下車 道北バスで約３０分/札幌・旭川発の送迎バス運行（2026/3/31迄）</td>
                 <td className="p-3 text-stone-600">有　１００台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★3.96（2395件）</td>
                 <td className="p-3 font-bold text-rose-600">¥11,930〜</td>
@@ -403,7 +403,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　８０台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.36 ／ 立地 ★4.41 ／ 部屋 ★4.16 ／ 設備 ★4.05 ／ 風呂 ★4.33 ／ 食事 ★4.56</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「日本海と積丹の絶景、食事と温泉に大満足日本海と積丹半島の見える部屋に大満足。夜景も素敵でした。温泉もお気に入りの湯温で温まりました。夕食は隣接の地ビール施設で楽しめ、朝食はタラコの食べ比べ、イカ刺…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「日本海と積丹の絶景、食事と温泉に大満足日本海と積丹半島の見える部屋に大満足。夜景も素敵でした。温泉もお気に入りの湯温で温まりました。」
                   </blockquote>
                 </div>
               </div>

@@ -413,8 +413,8 @@ export default function FurusatoDogFriendlyResortStayPage() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 伊豆高原駅よりアクセス。お車 小田原厚木道路小田原ICより国道135号線約105分/ 電車 伊豆高原駅より車で10分（タクシー代一部補助あり）。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「愛犬と微笑む温泉リゾート ウブドの森 伊豆高原」にチェックイン。30kg以上 大型犬 ２頭以上 でも泊まれる温泉リゾート。愛犬と一緒に海外旅行気分を満喫などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「愛犬と微笑む温泉リゾート ウブドの森 伊豆高原」の湯処へ。30kg以上 大型犬 ２頭以上 でも泊まれる温泉リゾート。愛犬と一緒にとともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「愛犬と微笑む温泉リゾート ウブドの森 伊豆高原」にチェックイン。30kg以上【大型犬】【２頭以上】でも泊まれる温泉リゾート。 まずは客室で移動の疲れをそっと癒やす。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「愛犬と微笑む温泉リゾート ウブドの森 伊豆高原」の大浴場・露天風呂へ。日暮れの静けさの中で湯に浸かり、旅の緊張をゆっくりと解きほぐす。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「愛犬と微笑む温泉リゾート ウブドの森 伊豆高原」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -426,7 +426,7 @@ export default function FurusatoDogFriendlyResortStayPage() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「愛犬と微笑む温泉リゾート ウブドの森 伊豆高原」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「愛犬と微笑む温泉リゾート ウブドの森 伊豆高原」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「那須温泉 ホテルフォレストヒルズ那須 ｗｉｔｈ ＤＯＧＳ」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は「愛犬と微笑む温泉リゾート ウブドの森 伊豆高原」周辺の観光スポットや地元の名産店に立ち寄り、ご当地のお土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>

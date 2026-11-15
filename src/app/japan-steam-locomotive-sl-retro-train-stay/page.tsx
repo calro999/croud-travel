@@ -253,7 +253,7 @@ export default function RailwayActivityHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. ホテル１ー２ー３島田</td>
                 <td className="p-3 text-stone-600">静岡県島田市本通1-4628-2</td>
-                <td className="p-3 text-stone-600">島田（静岡）駅周辺</td>
+                <td className="p-3 text-stone-600">JR東海道本線島田駅より左へ徒歩7分／東名高速道路吉田ＩＣより車で約２０分</td>
                 <td className="p-3 text-stone-600">有　４０台 無料　大型車も駐車可(要予約　大型車1泊￥1,000~となります。）</td>
                 <td className="p-3 font-bold text-amber-600">★4.06（950件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,000〜</td>
@@ -262,7 +262,7 @@ export default function RailwayActivityHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 東山温泉　元湯有馬屋</td>
                 <td className="p-3 text-stone-600">福島県会津若松市東山町湯本居平118</td>
-                <td className="p-3 text-stone-600">会津若松駅周辺</td>
+                <td className="p-3 text-stone-600">JR磐越西線会津若松駅よりバスで20分／磐越自動車道会津若松ICより車で15分</td>
                 <td className="p-3 text-stone-600">有り　20台　先着順　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.63（80件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,250〜</td>
@@ -271,7 +271,7 @@ export default function RailwayActivityHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 会津東山温泉　くつろぎ宿　新滝</td>
                 <td className="p-3 text-stone-600">福島県会津若松市東山町湯本川向222</td>
-                <td className="p-3 text-stone-600">会津若松駅周辺</td>
+                <td className="p-3 text-stone-600">【お車】会津若松ＩＣ～約２０分【会津若松駅より】タクシー１３分／周遊バス「あかべぇ」１６分「東山温泉駅バス停」～徒歩３分</td>
                 <td className="p-3 text-stone-600">駐車場は80台まで無料で可能です★予約は不要です★大型車でのご来館は事前にご相談ください★</td>
                 <td className="p-3 font-bold text-amber-600">★4.65（2487件）</td>
                 <td className="p-3 font-bold text-rose-600">¥14,800〜</td>
@@ -280,7 +280,7 @@ export default function RailwayActivityHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 会津東山温泉　いろりの宿　芦名</td>
                 <td className="p-3 text-stone-600">福島県会津若松市東山町湯本下原232-1</td>
-                <td className="p-3 text-stone-600">会津若松駅周辺</td>
+                <td className="p-3 text-stone-600">最寄駅：会津若松駅からタクシー又は「東山温泉」へ向かう路線バスで約20分 最寄IC:会津若松から約15分</td>
                 <td className="p-3 text-stone-600">有り　10台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.3（203件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,470〜</td>
@@ -289,7 +289,7 @@ export default function RailwayActivityHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 会津東山温泉　くつろぎ宿　千代滝</td>
                 <td className="p-3 text-stone-600">福島県会津若松市東山町湯本寺屋敷43</td>
-                <td className="p-3 text-stone-600">会津若松駅周辺</td>
+                <td className="p-3 text-stone-600">【車】会津若松ＩＣ～約20分【会津若松駅より】周遊バスにて「会津武家屋敷前」下車徒歩約15分or送迎有：到着時TEL</td>
                 <td className="p-3 text-stone-600">駐車場：70台有り／ 無料／すべて野外駐車場／予約は不要です</td>
                 <td className="p-3 font-bold text-amber-600">★4.49（2544件）</td>
                 <td className="p-3 font-bold text-rose-600">¥14,800〜</td>
@@ -298,7 +298,7 @@ export default function RailwayActivityHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">6. 秩父小鹿野温泉旅館　梁山泊</td>
                 <td className="p-3 text-stone-600">埼玉県秩父郡小鹿野町般若260</td>
-                <td className="p-3 text-stone-600">西武秩父駅周辺</td>
+                <td className="p-3 text-stone-600">【車】関越道花園ＩＣから車で35分 【電車】西武秩父駅または秩父駅より送迎有</td>
                 <td className="p-3 text-stone-600">100台以上駐車できる無料駐車場を完備</td>
                 <td className="p-3 font-bold text-amber-600">★4.2（787件）</td>
                 <td className="p-3 font-bold text-rose-600">¥16,500〜</td>
@@ -327,7 +327,7 @@ export default function RailwayActivityHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有　４０台 無料　大型車も駐車可(要予約　大型車1泊￥1,000~となります。）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋の臭いが気になり、空調も不十分駅からは思ったより遠くは感じなかったです。チェックイン開始時間すぐに行きましたが、エレベーターや通路はエアコンが効いてなかったかな、部屋は普通でした。とにかくこん…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋の臭いが気になり、空調も不十分駅からは思ったより遠くは感じなかったです。チェックイン開始時間すぐに行きましたが、エレベーターや通路はエアコンが効いてなかったかな、部屋は普通でした。」
                   </blockquote>
                 </div>
               </div>
@@ -371,7 +371,7 @@ export default function RailwayActivityHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>駐車場は80台まで無料で可能です★予約は不要です★大型車でのご来館は事前にご相談ください★</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.62 ／ 立地 ★4.49 ／ 部屋 ★4.66 ／ 設備 ★4.57 ／ 風呂 ★4.7 ／ 食事 ★4.72</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「料理と温泉は最高だが部屋のタバコ臭が残念お料理は郷土料理が中心でとても満足しました!アルコール類もたくさんあり今回は飲み比べをチョイスし大満足です。お風呂は種類もあり各々のお風呂にタオルも用意され…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「料理と温泉は最高だが部屋のタバコ臭が残念お料理は郷土料理が中心でとても満足しました!アルコール類もたくさんあり今回は飲み比べをチョイスし大満足です。」
                   </blockquote>
                 </div>
               </div>
@@ -437,7 +437,7 @@ export default function RailwayActivityHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>100台以上駐車できる無料駐車場を完備</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.1 ／ 立地 ★3.97 ／ 部屋 ★4.41 ／ 設備 ★4.14 ／ 風呂 ★4.22 ／ 食事 ★4.35</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「露天風呂と食事に大満足、また来たい宿部屋の露天風呂と大浴場どちらもとても良かったです。部屋数が多くないかつ部屋に露天風呂が付いているからかと思うのですが、大浴場はタイミングによっては一人でゆったり…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「露天風呂と食事に大満足、また来たい宿部屋の露天風呂と大浴場どちらもとても良かったです。」
                   </blockquote>
                 </div>
               </div>

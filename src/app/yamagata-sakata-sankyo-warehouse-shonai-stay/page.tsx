@@ -253,7 +253,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 日和山ホテル</td>
                 <td className="p-3 text-stone-600">山形県酒田市南新町2-2-4</td>
-                <td className="p-3 text-stone-600">酒田駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ酒田駅よりバスで約６分：酒田駅前からお越しの場合、最終１７：５０発です 庄内空港から乗り合いタクシーで１５００円。</td>
                 <td className="p-3 text-stone-600">駐車場無料【12台】、先着順でのご案内です。</td>
                 <td className="p-3 font-bold text-amber-600">★4.26（73件）</td>
                 <td className="p-3 font-bold text-rose-600">¥2,775〜</td>
@@ -262,7 +262,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 湯野浜ホテル</td>
                 <td className="p-3 text-stone-600">山形県鶴岡市湯野浜1-3-36</td>
-                <td className="p-3 text-stone-600">鶴岡駅周辺</td>
+                <td className="p-3 text-stone-600">鶴岡駅 バス約４０分・車約２５分</td>
                 <td className="p-3 text-stone-600">有り　５台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.22（52件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,800〜</td>
@@ -271,7 +271,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. ＫＡＭＥＹＡ　ＨＯＴＥＬ</td>
                 <td className="p-3 text-stone-600">山形県鶴岡市湯野浜1-5-50</td>
-                <td className="p-3 text-stone-600">鶴岡駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ 鶴岡駅より車で２5分、定期バスで４０分／庄内空港より車で１０分</td>
                 <td className="p-3 text-stone-600">有り　７０台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.36（1276件）</td>
                 <td className="p-3 font-bold text-rose-600">¥10,450〜</td>
@@ -280,7 +280,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 湯野浜温泉　海辺のお宿　一久</td>
                 <td className="p-3 text-stone-600">山形県鶴岡市湯野浜1-10-29</td>
-                <td className="p-3 text-stone-600">鶴岡駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ鶴岡駅よりタクシーで２５分 定期バス（４０分）バス停より徒歩３分</td>
                 <td className="p-3 text-stone-600">有　25台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.57（524件）</td>
                 <td className="p-3 font-bold text-rose-600">¥12,100〜</td>
@@ -309,7 +309,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>駐車場無料【12台】、先着順でのご案内です。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「オーナーが親切で飲食店も満足、立地は少し遠めオーナーがすごく親切で、紹介頂いた飲食店はどれも満足できました。ただ飲食店街から少し離れているのがマイナス面かも。湯舟は狭いですが、シャワー設備が多く、…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「オーナーが親切で飲食店も満足、立地は少し遠めオーナーがすごく親切で、紹介頂いた飲食店はどれも満足できました。ただ飲食店街から少し離れているのがマイナス面かも。」
                   </blockquote>
                 </div>
               </div>
@@ -331,7 +331,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　５台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.18 ／ 立地 ★4.09 ／ 部屋 ★4.22 ／ 設備 ★4.06 ／ 風呂 ★4.38</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「建物は古いが部屋は広く、海岸も近くて便利建物は古めですが部屋も広く清掃はしっかりされていました韓国系のオーナーなのか関連したグッズが廊下や部屋に置いてありました部屋は広くてゆったり使えます…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「建物は古いが部屋は広く、海岸も近くて便利建物は古めですが部屋も広く清掃はしっかりされていました韓国系のオーナーなのか関連したグッズが廊下や部屋に置いてありました部屋は広くてゆったり使えます。」
                   </blockquote>
                 </div>
               </div>
@@ -353,7 +353,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　７０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「HOURAIの1111号室からの眺めは最高! お部屋からの景色はとにかく最高でした。夕日もバッチリ、朝の湯の浜は、全く波がなく雲が海に映るほどの穏やかで青く、美しいものでした。部屋食で、家族でのん…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「HOURAIの1111号室からの眺めは最高! お部屋からの景色はとにかく最高でした。夕日もバッチリ、朝の湯の浜は、全く波がなく雲が海に映るほどの穏やかで青く、美しいものでした。」
                   </blockquote>
                 </div>
               </div>
@@ -375,7 +375,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有　25台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「窓からの花火と心温まるお祝いに感激窓からの景色が最高です。当日浜辺で花火の打ち上げあり、部屋の窓から真ん前で見られました。歳祝いの衣装を借りる事が出来て、思いがけなくお祝いの日本酒も頂き、良い思い…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「窓からの花火と心温まるお祝いに感激窓からの景色が最高です。当日浜辺で花火の打ち上げあり、部屋の窓から真ん前で見られました。」
                   </blockquote>
                 </div>
               </div>

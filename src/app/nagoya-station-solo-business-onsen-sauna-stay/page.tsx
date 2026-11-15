@@ -390,8 +390,8 @@ export default function ArticlePage() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 栄（愛知）駅よりアクセス。栄駅8番出口徒歩約8分（エスカレーター、エレベーター有り）伏見駅2番出口徒歩約4分（エスカレーター、エレベーター無し）。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「天然温泉 錦鯱の湯 ドーミーインＰＲＥＭＩＵＭ名古屋栄」にチェックイン。ゴールドアワード2021受賞！天然温泉大浴場(サウナ＆水風呂)が魅力！などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「天然温泉 錦鯱の湯 ドーミーインＰＲＥＭＩＵＭ名古屋栄」の湯処へ。ゴールドアワード2021受賞！天然温泉大浴場(サウナ＆水風呂)が魅力！とともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「天然温泉 錦鯱の湯 ドーミーインＰＲＥＭＩＵＭ名古屋栄」にチェックイン。ゴールドアワード2021受賞！天然温泉大浴場(サウナ＆水風呂)が魅力！ 窓外に広がる景色を眺めながらチェックイン後の寛ぎ時間を。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「天然温泉 錦鯱の湯 ドーミーインＰＲＥＭＩＵＭ名古屋栄」の湯船で寛ぎタイム。季節の空気を感じながら手足を伸ばし、心豊かな夕方のリラックス時間を満喫。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「天然温泉 錦鯱の湯 ドーミーインＰＲＥＭＩＵＭ名古屋栄」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -403,7 +403,7 @@ export default function ArticlePage() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「天然温泉 錦鯱の湯 ドーミーインＰＲＥＭＩＵＭ名古屋栄」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「天然温泉 錦鯱の湯 ドーミーインＰＲＥＭＩＵＭ名古屋栄」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「サウナ＆カプセルホテル ウェルビー今池」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は宿周辺の散策とショッピングを満喫。地元の名産品やグルメを味わってから余裕をもって帰路につく。</li>
               </ul>
             </div>
           </div>
@@ -476,7 +476,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 天然温泉　錦鯱の湯　ドーミーインＰＲＥＭＩＵＭ名古屋栄（ドーミーイン・御宿野乃　ホテルズグループ）</td>
                 <td className="p-3 text-stone-600">愛知県名古屋市中区錦2-20-1</td>
-                <td className="p-3 text-stone-600">栄（愛知）駅周辺</td>
+                <td className="p-3 text-stone-600">栄駅8番出口徒歩約8分（エスカレーター、エレベーター有り）伏見駅2番出口徒歩約4分（エスカレーター、エレベーター無し）</td>
                 <td className="p-3 text-stone-600">1泊1,800円。全長5.05m 高さ制限2.05m 車幅1.85m 車重1.85t  先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.44（1836件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,757〜</td>
@@ -485,7 +485,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. サウナ＆カプセルホテル　ウェルビー今池</td>
                 <td className="p-3 text-stone-600">愛知県名古屋市千種区今池5-25-5</td>
-                <td className="p-3 text-stone-600">今池（愛知）駅周辺</td>
+                <td className="p-3 text-stone-600">JR名古屋駅より地下鉄東山線にて15分 今池駅下車／東名高速道路 名古屋ICより30分 ナゴヤドームまで車で10分</td>
                 <td className="p-3 text-stone-600">提携有り　600円／泊（昼14時〜翌昼12時）※台数制限あり。2ｔ車以上の大型車はご利用頂けません。</td>
                 <td className="p-3 font-bold text-amber-600">★4.51（1929件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,000〜</td>
@@ -494,7 +494,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 天然温泉ホテルリブマックスＰＲＥＭＩＵＭ名古屋丸の内</td>
                 <td className="p-3 text-stone-600">愛知県名古屋市中区丸の内3-16-20</td>
-                <td className="p-3 text-stone-600">久屋大通駅周辺</td>
+                <td className="p-3 text-stone-600">名古屋市営地下鉄桜通線・名城線「久屋大通」駅 徒歩 約3分</td>
                 <td className="p-3 text-stone-600">提携駐車場はございません。周辺パーキングをご利用下さいませ。</td>
                 <td className="p-3 font-bold text-amber-600">★3.88（451件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,250〜</td>
@@ -523,7 +523,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>1泊1,800円。全長5.05m 高さ制限2.05m 車幅1.85m 車重1.85t  先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.4 ／ 立地 ★4.32 ／ 部屋 ★4.39 ／ 設備 ★4.43 ／ 風呂 ★4.46 ／ 食事 ★4.52</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食が美味しく、細やかな心遣いに感動朝食が期待通りに美味しかったです。 冷蔵庫に美味しいゼリーが入っていたりと細かい心使いが良かったです。また名古屋に行く際には泊まりたいです。クチコミの詳…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食が美味しく、細やかな心遣いに感動朝食が期待通りに美味しかったです。 冷蔵庫に美味しいゼリーが入っていたりと細かい心使いが良かったです。また名古屋に行く際には泊まりたいです。」
                   </blockquote>
                 </div>
               </div>
@@ -545,7 +545,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>提携有り　600円／泊（昼14時〜翌昼12時）※台数制限あり。2ｔ車以上の大型車はご利用頂けません。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.46 ／ 立地 ★4.48 ／ 部屋 ★4.42 ／ 設備 ★4.46 ／ 風呂 ★4.58 ／ 食事 ★4.46</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「24時間風呂とサウナを堪能、カレーも絶品24時間風呂、サウナを堪能でき、プレミアムルームは快適すぎる。食堂の雰囲気ともちろん料理のレパートリーがちょうどよく、特にカレーは癖になる美味しさ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「24時間風呂とサウナを堪能、カレーも絶品24時間風呂、サウナを堪能でき、プレミアムルームは快適すぎる。」
                   </blockquote>
                 </div>
               </div>
@@ -567,7 +567,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>提携駐車場はございません。周辺パーキングをご利用下さいませ。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.85 ／ 立地 ★3.82 ／ 部屋 ★3.92 ／ 設備 ★3.82 ／ 風呂 ★3.73 ／ 食事 ★2.53</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ベッドの質は、最高だった。高山への旅行の予定であったが、大雨により、特急が運休のため、急遽、宿泊した。ここの大浴場及びベッドにより、熟睡することができたので、疲れを充分、癒すことができた。…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ベッドの質は、最高だった。高山への旅行の予定であったが、大雨により、特急が運休のため、急遽、宿泊した。ここの大浴場及びベッドにより、熟睡することができたので、疲れを充分、癒すことができた。」
                   </blockquote>
                 </div>
               </div>

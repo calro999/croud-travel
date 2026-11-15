@@ -439,7 +439,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 鳴子温泉　湯元　吉祥（共立リゾート）</td>
                 <td className="p-3 text-stone-600">宮城県大崎市鳴子温泉湯元58-10</td>
-                <td className="p-3 text-stone-600"></td>
+                <td className="p-3 text-stone-600">鳴子温泉駅より徒歩にて約７分</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.36（1519件）</td>
                 <td className="p-3 font-bold text-rose-600">¥9,900〜</td>
@@ -448,7 +448,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 鳴子温泉　ホテル亀屋</td>
                 <td className="p-3 text-stone-600">宮城県大崎市鳴子温泉車湯54-6</td>
-                <td className="p-3 text-stone-600"></td>
+                <td className="p-3 text-stone-600">宮城県大崎市鳴子温泉車湯54-6 ／ 交通案内：</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★3.82（1145件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,900〜</td>
@@ -457,7 +457,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 鳴子温泉　旅館弁天閣</td>
                 <td className="p-3 text-stone-600">宮城県大崎市鳴子温泉車湯87</td>
-                <td className="p-3 text-stone-600"></td>
+                <td className="p-3 text-stone-600">宮城県大崎市鳴子温泉車湯87 ／ 交通案内：</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★3（67件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,180〜</td>

@@ -334,7 +334,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 別邸　石の家　伊豆高原　ペットと泊まれる全室露天付き客室の宿</td>
                 <td className="p-3 text-stone-600">静岡県伊東市大室高原6-650</td>
-                <td className="p-3 text-stone-600">伊豆高原駅周辺</td>
+                <td className="p-3 text-stone-600">小田原厚木道路石橋ＩＣ・東名沼津ＩＣより約９０分／伊豆急・伊豆高原駅よりタクシーで５分</td>
                 <td className="p-3 text-stone-600">部屋数分、全て無料となっております。</td>
                 <td className="p-3 font-bold text-amber-600">★4.75（1058件）</td>
                 <td className="p-3 font-bold text-rose-600">¥16,200〜</td>
@@ -343,7 +343,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. ペットと泊まれる貸切天然温泉の宿　マーフィ</td>
                 <td className="p-3 text-stone-600">静岡県伊東市赤沢258-87</td>
-                <td className="p-3 text-stone-600">伊豆高原駅周辺</td>
+                <td className="p-3 text-stone-600">伊豆高原駅からお車で約１０分 別荘地入口に関係者以外進入禁止とありますがそのままお入りください</td>
                 <td className="p-3 text-stone-600">有り　6台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.84（576件）</td>
                 <td className="p-3 font-bold text-rose-600">¥18,150〜</td>
@@ -352,7 +352,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. ペット連れもＯＫの宿一棟貸し貸別荘　アニマーレ　ｉｎ　伊豆高原　＾</td>
                 <td className="p-3 text-stone-600">静岡県伊東市富戸1317-3921　ペット連れもＯＫの一棟貸し貸別荘　アニマーレ　ｉｎ　伊豆高原</td>
-                <td className="p-3 text-stone-600">城ヶ崎海岸駅周辺</td>
+                <td className="p-3 text-stone-600">城ヶ崎海岸駅から徒歩で約７分</td>
                 <td className="p-3 text-stone-600">有り</td>
                 <td className="p-3 font-bold text-amber-600">高評価</td>
                 <td className="p-3 font-bold text-rose-600">プラン参照</td>
@@ -381,7 +381,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>部屋数分、全て無料となっております。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ペットとずっと一緒に過ごせて大満足ペットと泊まれるホテルで何時もストレスを感じていたのは、食事やお風呂に行く際に部屋にペットを残して行く事でした。石の家さんは、部屋での食事や部屋露天風呂があり、ペ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ペットとずっと一緒に過ごせて大満足ペットと泊まれるホテルで何時もストレスを感じていたのは、食事やお風呂に行く際に部屋にペットを残して行く事でした。」
                   </blockquote>
                 </div>
               </div>

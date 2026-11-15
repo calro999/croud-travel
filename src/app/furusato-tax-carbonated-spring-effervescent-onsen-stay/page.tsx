@@ -670,7 +670,7 @@ export default function FurusatoFeaturePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 長湯温泉　大丸旅館</td>
                 <td className="p-3 text-stone-600">大分県竹田市直入町長湯7992-1</td>
-                <td className="p-3 text-stone-600">JR豊肥本線・豊後竹田駅よりお車にて25分。（駅から路線バスもあります</td>
+                <td className="p-3 text-stone-600">JR豊肥本線・豊後竹田駅よりお車にて25分。（駅から路線バスもあります。長湯行き約40分、長湯下車。）</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.37（199件）</td>
                 <td className="p-3 font-bold text-rose-600">¥19,800〜</td>
@@ -679,7 +679,7 @@ export default function FurusatoFeaturePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 三船温泉　民宿城山＜大分県＞</td>
                 <td className="p-3 text-stone-600">大分県竹田市久住町仏原1066-2</td>
-                <td className="p-3 text-stone-600">豊後竹田駅周辺</td>
+                <td className="p-3 text-stone-600">豊後竹田駅からバスで４５分</td>
                 <td className="p-3 text-stone-600">有り　１０台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.3（98件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,400〜</td>
@@ -688,7 +688,7 @@ export default function FurusatoFeaturePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 下呂の奥座敷　炭酸泉の宿　泉岳舘</td>
                 <td className="p-3 text-stone-600">岐阜県下呂市小坂町湯屋427番地1</td>
-                <td className="p-3 text-stone-600">飛騨小坂駅周辺</td>
+                <td className="p-3 text-stone-600">■ＪＲ高山本線 飛騨小坂駅下車 ■車 中央自動車道中津川ＩＣ→Ｒ２５７→Ｒ４１→小坂町湯屋温泉（詳細は交通アクセス記）</td>
                 <td className="p-3 text-stone-600">有り10台　無料(屋根付き５台のみあり）</td>
                 <td className="p-3 font-bold text-amber-600">★4.23（195件）</td>
                 <td className="p-3 font-bold text-rose-600">¥29,700〜</td>
@@ -697,7 +697,7 @@ export default function FurusatoFeaturePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. くるみ温泉＆キャンプ</td>
                 <td className="p-3 text-stone-600">岐阜県高山市朝日町胡桃島8</td>
-                <td className="p-3 text-stone-600">高山駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ 高山駅からお車で４０分、バスで５０分</td>
                 <td className="p-3 text-stone-600">有り　２０台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.5（9件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,000〜</td>
@@ -706,7 +706,7 @@ export default function FurusatoFeaturePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">6. 濁河温泉　湯の谷荘</td>
                 <td className="p-3 text-stone-600">岐阜県下呂市小坂町落合2376-1</td>
-                <td className="p-3 text-stone-600">飛騨小坂駅周辺</td>
+                <td className="p-3 text-stone-600">名古屋市内から車で約3時間30分</td>
                 <td className="p-3 text-stone-600">有 5台  無料　予約制</td>
                 <td className="p-3 font-bold text-amber-600">高評価</td>
                 <td className="p-3 font-bold text-rose-600">プラン参照</td>
@@ -735,7 +735,7 @@ export default function FurusatoFeaturePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「清潔だがカビ臭く、風呂の設備も不満新館に泊まりましたが、確かにトイレはウォッシュレットで綺麗でした。部屋も清潔でしたが、カビ臭くてエアコンを見ると見たく無いくらいにホコリだらけ...カビ臭くて当た…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「清潔だがカビ臭く、風呂の設備も不満新館に泊まりましたが、確かにトイレはウォッシュレットで綺麗でした。」
                   </blockquote>
                 </div>
               </div>
@@ -757,7 +757,7 @@ export default function FurusatoFeaturePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「何十年ぶりかに訪れましたが、相変わらず温泉は最高です。今回の旅館は、初めてでしたが長い歴史を感じさせる雰囲気のある旅館でした。テレビの調子が悪くてほとんど見れませんでしたが、それがまた良かった…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「何十年ぶりかに訪れましたが、相変わらず温泉は最高です。今回の旅館は、初めてでしたが長い歴史を感じさせる雰囲気のある旅館でした。」
                   </blockquote>
                 </div>
               </div>
@@ -779,7 +779,7 @@ export default function FurusatoFeaturePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「高級宿に負けないおもてなしと美味しい料理安価でしたので期待はしていませんでしたが高級宿に負けないおもてなしをして頂きました。お料理も少ないとの情報でしたがとても美味しく満腹になりました。登山が趣味…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「高級宿に負けないおもてなしと美味しい料理安価でしたので期待はしていませんでしたが高級宿に負けないおもてなしをして頂きました。お料理も少ないとの情報でしたがとても美味しく満腹になりました。」
                   </blockquote>
                 </div>
               </div>

@@ -564,8 +564,8 @@ export default function FeatureDetailPage() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 上毛高原駅よりアクセス。上毛高原駅より、猿ヶ京方面行きバスにて３０分（学校下駅下車）。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「猿ヶ京温泉 ル・ヴァンベール 湖郷」にチェックイン。料理で選ばれる、大人のオールインクルーシブ温泉宿などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「猿ヶ京温泉 ル・ヴァンベール 湖郷」の湯処へ。料理で選ばれる、大人のオールインクルーシブ温泉宿とともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「猿ヶ京温泉 ル・ヴァンベール 湖郷」にチェックイン。料理で選ばれる、大人のオールインクルーシブ温泉宿が魅力の一軒。客室で荷物をほどいて穏やかな午後のひとときを。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「猿ヶ京温泉 ル・ヴァンベール 湖郷」の自慢の湯処へ。温かな湯気と落ち着いた雰囲気に癒やされながら、夕食前の贅沢なひとときを過ごす。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「猿ヶ京温泉 ル・ヴァンベール 湖郷」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -577,7 +577,7 @@ export default function FeatureDetailPage() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「猿ヶ京温泉 ル・ヴァンベール 湖郷」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「猿ヶ京温泉 ル・ヴァンベール 湖郷」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「山中湖ホテル インターリゾート東屋」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は宿周辺の散策とショッピングを満喫。地元の名産品やグルメを味わってから余裕をもって帰路につく。</li>
               </ul>
             </div>
           </div>
@@ -705,7 +705,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 山中湖ホテル　インターリゾート東屋</td>
                 <td className="p-3 text-stone-600">山梨県南都留郡山中湖村平野126</td>
-                <td className="p-3 text-stone-600">河口湖駅周辺</td>
+                <td className="p-3 text-stone-600">河口湖駅より富士急行バス乗り継ぎにて平野停下車、徒歩にて３分。</td>
                 <td className="p-3 text-stone-600">有り　６０台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.4（76件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,050〜</td>
@@ -714,7 +714,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 猿ヶ京温泉　ル・ヴァンベール　湖郷（こきょう）</td>
                 <td className="p-3 text-stone-600">群馬県利根郡みなかみ町相俣1731</td>
-                <td className="p-3 text-stone-600">上毛高原駅周辺</td>
+                <td className="p-3 text-stone-600">上毛高原駅より、猿ヶ京方面行きバスにて３０分（学校下駅下車）</td>
                 <td className="p-3 text-stone-600">有り　１３台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.69（215件）</td>
                 <td className="p-3 font-bold text-rose-600">¥33,600〜</td>
@@ -723,7 +723,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 猿ヶ京温泉　山と湖の絶景に浮かぶ宿　料理旅館　樋口</td>
                 <td className="p-3 text-stone-600">群馬県利根郡みなかみ町猿ヶ京1167</td>
-                <td className="p-3 text-stone-600">上毛高原駅周辺</td>
+                <td className="p-3 text-stone-600">車 月夜野ＩＣから新潟方面へ２０分 猿ヶ京温泉信号右 新幹線⇒上毛高原駅 在来線⇒後閑駅下車</td>
                 <td className="p-3 text-stone-600">【無料】当館前に駐車　7台</td>
                 <td className="p-3 font-bold text-amber-600">★4.89（844件）</td>
                 <td className="p-3 font-bold text-rose-600">¥12,200〜</td>
@@ -732,7 +732,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 湖畔浪漫の宿　かたくりの花</td>
                 <td className="p-3 text-stone-600">秋田県仙北市田沢湖田沢春山197-15</td>
-                <td className="p-3 text-stone-600">田沢湖駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ 田沢湖駅よりお車にて約１２分</td>
                 <td className="p-3 text-stone-600">無料・予約不要。建物横の春山第一駐車場または正面玄関前に駐車し、そのままフロントへお越しください。</td>
                 <td className="p-3 font-bold text-amber-600">★4.32（93件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,600〜</td>
@@ -741,7 +741,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. Ｌａｋｅｓｉｄｅ　Ｈｏｔｅｌｓ　Ｋｕｏｒｅ／湖畔のホテルクオレ</td>
                 <td className="p-3 text-stone-600">福島県耶麻郡北塩原村桧原曽原山1096-442</td>
-                <td className="p-3 text-stone-600">猪苗代駅周辺</td>
+                <td className="p-3 text-stone-600">猪苗代駅 ／ 東北道郡山ＩＣより磐越道猪苗代ＩＣ、Ｒ４５９</td>
                 <td className="p-3 text-stone-600">有　２０台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">高評価</td>
                 <td className="p-3 font-bold text-rose-600">プラン参照</td>
@@ -770,7 +770,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　６０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「喫煙所の臭い以外はコスパ最高な宿翌日のSUPイベント参加のため素泊まり1泊利用させて頂きました。各フロア廊下に喫煙所が有り、喫煙の習慣が無い人には臭いが気になった。。。そんな、室内設置…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「喫煙所の臭い以外はコスパ最高な宿翌日のSUPイベント参加のため素泊まり1泊利用させて頂きました。各フロア廊下に喫煙所が有り、喫煙の習慣が無い人には臭いが気になった。。。」
                   </blockquote>
                 </div>
               </div>

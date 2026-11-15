@@ -393,7 +393,7 @@ export default function AutumnBudgetNagasakiStationHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. グランドベース長崎駅前</td>
                 <td className="p-3 text-stone-600">長崎県長崎市西坂町7-1</td>
-                <td className="p-3 text-stone-600">長崎（長崎）駅周辺</td>
+                <td className="p-3 text-stone-600">JR長崎駅から徒歩5分。新地中華街からはバスで5分、長崎空港からはリムジンバスで43分で到着。</td>
                 <td className="p-3 text-stone-600">無し。近隣の有料コインパーキングをご利用ください。</td>
                 <td className="p-3 font-bold text-amber-600">★4.13（46件）</td>
                 <td className="p-3 font-bold text-rose-600">¥2,600〜</td>
@@ -402,7 +402,7 @@ export default function AutumnBudgetNagasakiStationHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. ホテル　クオーレ長崎駅前</td>
                 <td className="p-3 text-stone-600">長崎県長崎市大黒町7-3</td>
-                <td className="p-3 text-stone-600">長崎（長崎）駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ長崎駅東口から徒歩約5分 高速バスターミナルより徒歩約１分</td>
                 <td className="p-3 text-stone-600">近隣駐車場有/15時から翌10時まで1,400円/先着順/車高2m以下/営業時間5時〜23時</td>
                 <td className="p-3 font-bold text-amber-600">★4.24（4692件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,600〜</td>
@@ -411,7 +411,7 @@ export default function AutumnBudgetNagasakiStationHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. アパホテル〈長崎駅南〉</td>
                 <td className="p-3 text-stone-600">長崎県長崎市元船町9-2</td>
-                <td className="p-3 text-stone-600">長崎（長崎）駅周辺</td>
+                <td className="p-3 text-stone-600">路面電車・空港リムジンバス「大波止」（電停・バス停）徒歩3分、JR「長崎駅」（東口）徒歩10分</td>
                 <td className="p-3 text-stone-600">駐車場なし。※近隣の有料駐車場をご案内しています。</td>
                 <td className="p-3 font-bold text-amber-600">★4.08（1232件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,230〜</td>
@@ -420,7 +420,7 @@ export default function AutumnBudgetNagasakiStationHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 天然温泉　鶴港の湯　ドーミーインＰＲＥＭＩＵＭ長崎駅前（ドーミーイン・御宿野乃　ホテルズグループ）</td>
                 <td className="p-3 text-stone-600">長崎県長崎市五島町2-29</td>
-                <td className="p-3 text-stone-600">長崎（長崎）駅周辺</td>
+                <td className="p-3 text-stone-600">長崎駅より徒歩にて約10分</td>
                 <td className="p-3 text-stone-600">1泊1,200円（機械式68台）入庫制限有（車高2.05m長さ5.05ｍ車幅1.91ｍ)先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.52（1541件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,300〜</td>
@@ -471,7 +471,7 @@ export default function AutumnBudgetNagasakiStationHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無し。近隣の有料コインパーキングをご利用ください。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.8 ／ 立地 ★3.53 ／ 部屋 ★4.53 ／ 設備 ★4.13 ／ 風呂 ★4.2</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「案内が不十分でチェックインに苦戦した無人ホテルだが、案内が不十分でチェックインが出来なかったり、無料Wi-Fiの接続方法が分からずに困った。電話で問い合わせてなんとかなったが、遅い時間にチェックイ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「案内が不十分でチェックインに苦戦した無人ホテルだが、案内が不十分でチェックインが出来なかったり、無料Wi-Fiの接続方法が分からずに困った。」
                   </blockquote>
                 </div>
               </div>

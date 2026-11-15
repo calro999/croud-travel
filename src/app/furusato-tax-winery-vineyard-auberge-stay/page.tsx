@@ -661,7 +661,7 @@ export default function FurusatoFeaturePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 石和温泉　美と健康と癒しの宿　ホテル八田</td>
                 <td className="p-3 text-stone-600">山梨県笛吹市石和町川中島1607</td>
-                <td className="p-3 text-stone-600">石和温泉駅周辺</td>
+                <td className="p-3 text-stone-600">新宿から特急約90分の石和温泉駅より徒歩15分(無料定期送迎車有・事前予約制)/中央道一宮御坂IC車8分</td>
                 <td className="p-3 text-stone-600">有り　50台　無料　コンビニ徒歩2分</td>
                 <td className="p-3 font-bold text-amber-600">★4.24（614件）</td>
                 <td className="p-3 font-bold text-rose-600">¥9,900〜</td>
@@ -670,7 +670,7 @@ export default function FurusatoFeaturePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 石和温泉　ホテル平安</td>
                 <td className="p-3 text-stone-600">山梨県笛吹市石和町川中島538</td>
-                <td className="p-3 text-stone-600">石和温泉駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ石和温泉駅：徒歩15分無料送迎5分（15～17時）有/中央道一宮・御坂IC車10分</td>
                 <td className="p-3 text-stone-600">有り　６０台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★3.48（212件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,800〜</td>
@@ -679,7 +679,7 @@ export default function FurusatoFeaturePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 大江戸温泉物語　ホテル新光</td>
                 <td className="p-3 text-stone-600">山梨県笛吹市石和町八田97</td>
-                <td className="p-3 text-stone-600">石和温泉駅周辺</td>
+                <td className="p-3 text-stone-600">JR中央本線「石和温泉駅」よりお車で約5分</td>
                 <td className="p-3 text-stone-600">有　無料</td>
                 <td className="p-3 font-bold text-amber-600">★3.97（2171件）</td>
                 <td className="p-3 font-bold text-rose-600">¥9,800〜</td>
@@ -688,7 +688,7 @@ export default function FurusatoFeaturePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. アンワインドホテルアンドバー小樽（ＵＮＷＩＮＤ　ＨＯＴＥＬ　＆　ＢＡＲ　小樽）</td>
                 <td className="p-3 text-stone-600">北海道小樽市色内1-8-25</td>
-                <td className="p-3 text-stone-600">小樽駅周辺</td>
+                <td className="p-3 text-stone-600">小樽駅より徒歩にて約10分</td>
                 <td className="p-3 text-stone-600">有り　5台　1500円（1泊1台分）　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.56（275件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,510〜</td>
@@ -697,7 +697,7 @@ export default function FurusatoFeaturePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. プレミアホテル－ＴＳＵＢＡＫＩ－札幌</td>
                 <td className="p-3 text-stone-600">北海道札幌市豊平区豊平4条1丁目1-1</td>
-                <td className="p-3 text-stone-600">札幌駅周辺</td>
+                <td className="p-3 text-stone-600">《新千歳空港から》空港連絡バス「プレミアホテルTSUBAKI」下車 《お車》地下駐車場有《JR札幌駅から》シャトルバス有</td>
                 <td className="p-3 text-stone-600">地下駐車場200台◇1泊1台1000円◇高さ制限2.1m◇24時間出し入れ自由</td>
                 <td className="p-3 font-bold text-amber-600">★4.45（2189件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,400〜</td>
@@ -706,7 +706,7 @@ export default function FurusatoFeaturePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">6. ＡＮＡクラウンプラザホテル札幌　ｂｙ　ＩＨＧ</td>
                 <td className="p-3 text-stone-600">北海道札幌市中央区北3条西1丁目</td>
-                <td className="p-3 text-stone-600">札幌駅周辺</td>
+                <td className="p-3 text-stone-600">JR札幌駅より徒歩7分/地下鉄東豊線さっぽろ駅21番出口（階段）より徒歩1分・23番出口（エレベーター）より徒歩2分</td>
                 <td className="p-3 text-stone-600">79台収容（1泊￥2,000/地下駐車場：車高1.9m迄/国道5号線北方面沿い）</td>
                 <td className="p-3 font-bold text-amber-600">★4.26（4655件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,250〜</td>
@@ -735,7 +735,7 @@ export default function FurusatoFeaturePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　50台　無料　コンビニ徒歩2分</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉とワイン風呂を堪能、また安く泊まりたいリピート。温泉がとても良くて、今回が2回目。石和温泉で安い宿を探していたら、本宿がかなりのプライスダウンで迷わず予約。最安値の和室で景観は無いに等しい…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉とワイン風呂を堪能、また安く泊まりたいリピート。温泉がとても良くて、今回が2回目。石和温泉で安い宿を探していたら、本宿がかなりのプライスダウンで迷わず予約。」
                   </blockquote>
                 </div>
               </div>
@@ -779,7 +779,7 @@ export default function FurusatoFeaturePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「庭園の眺めとスタッフの気配りに感動「眺望ナシ」のお部屋でしたが、庭園が見えて感動しました。庭園では鯉を眺めたり足湯に入ったり食後の散策と気持ち良く過ごす事が出来ました。接客が素晴らしかったです…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「庭園の眺めとスタッフの気配りに感動「眺望ナシ」のお部屋でしたが、庭園が見えて感動しました。庭園では鯉を眺めたり足湯に入ったり食後の散策と気持ち良く過ごす事が出来ました。」
                   </blockquote>
                 </div>
               </div>
@@ -801,7 +801,7 @@ export default function FurusatoFeaturePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　5台　1500円（1泊1台分）　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食とワイン、おしゃれな空間で小樽を満喫朝食のモーニングハイティーのクオリティがとても高く、大満足でした。また、夕方にはワインバーのサービスを無料で利用でき、小樽や富良野のワインをゆっくりと楽しむ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食とワイン、おしゃれな空間で小樽を満喫朝食のモーニングハイティーのクオリティがとても高く、大満足でした。」
                   </blockquote>
                 </div>
               </div>
@@ -845,7 +845,7 @@ export default function FurusatoFeaturePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>79台収容（1泊￥2,000/地下駐車場：車高1.9m迄/国道5号線北方面沿い）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食のメニューが豊富で連泊も大満足3日の連泊でした。朝食付きのプラン。「本日のメニュ」があったり、汁物が変わったりして3日間とも楽しく食事をしました。北海道らしいメニューもたくさんありました。なん…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食のメニューが豊富で連泊も大満足3日の連泊でした。朝食付きのプラン。「本日のメニュ」があったり、汁物が変わったりして3日間とも楽しく食事をしました。北海道らしいメニューもたくさんありました。」
                   </blockquote>
                 </div>
               </div>

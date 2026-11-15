@@ -253,7 +253,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. からつ温泉　かぐや姫の湯　旅館　綿屋</td>
                 <td className="p-3 text-stone-600">佐賀県唐津市大名小路5-10</td>
-                <td className="p-3 text-stone-600">福岡空港、JR博多駅よりＪＲ唐津行唐津駅下車、車３分　徒歩１5分／長崎</td>
+                <td className="p-3 text-stone-600">福岡空港、JR博多駅よりＪＲ唐津行唐津駅下車、車３分 徒歩１5分／長崎自動車道多久ＩＣより４０分</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★3.64（282件）</td>
                 <td className="p-3 font-bold text-rose-600">¥18,340〜</td>
@@ -262,7 +262,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 割烹旅館　筑前屋</td>
                 <td className="p-3 text-stone-600">佐賀県唐津市呼子町殿の浦1659</td>
-                <td className="p-3 text-stone-600">西唐津駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ 唐津駅よりお車にて３０分</td>
                 <td className="p-3 text-stone-600">有り　8台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.73（110件）</td>
                 <td className="p-3 font-bold text-rose-600">¥16,500〜</td>
@@ -271,7 +271,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 日本料理　水野旅館＜唐津＞</td>
                 <td className="p-3 text-stone-600">佐賀県唐津市東城内4-50</td>
-                <td className="p-3 text-stone-600">唐津駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ唐津駅より車で約５分／長崎自動車道多久ＩＣより４０分</td>
                 <td className="p-3 text-stone-600">有り　２０台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.86（108件）</td>
                 <td className="p-3 font-bold text-rose-600">¥20,350〜</td>
@@ -280,7 +280,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 割烹旅館　長崎荘</td>
                 <td className="p-3 text-stone-600">佐賀県唐津市西城内6-36</td>
-                <td className="p-3 text-stone-600">唐津駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ唐津駅より徒歩にて８分</td>
                 <td className="p-3 text-stone-600">有り　１５台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★5（28件）</td>
                 <td className="p-3 font-bold text-rose-600">¥19,800〜</td>
@@ -289,7 +289,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. ＯＮＣＲＩ－ＫＡＲＡＴＳＵ（おんくり唐津）（旧：旅館魚半）</td>
                 <td className="p-3 text-stone-600">佐賀県唐津市浜玉町浜崎1669-55</td>
-                <td className="p-3 text-stone-600">浜崎駅周辺</td>
+                <td className="p-3 text-stone-600">JR浜崎駅から徒歩約9分 ※ナビゲーションの設定は「ONCRI－KARATSU」又は「0955-56-6234」</td>
                 <td className="p-3 text-stone-600">有り　第1駐車場：6台、第2駐車場：23台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.53（314件）</td>
                 <td className="p-3 font-bold text-rose-600">¥12,400〜</td>
@@ -313,12 +313,12 @@ export default function MicroTouristHubPage() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/14889/14889.jpg" alt="からつ温泉　かぐや姫の湯　旅館　綿屋 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
-                  <p><strong>【宿の特徴・魅力】</strong>「佐賀・唐津＆呼子」掲載宿の所在地・アクセス・特徴データ一覧は、周辺の観光巡りにも便利で快適な滞在環境が整った宿泊施設です。</p>
+                  <p><strong>【宿の特徴・魅力】</strong>からつ温泉　かぐや姫の湯　旅館　綿屋は、周辺の観光巡りにも便利で快適な滞在環境が整った宿泊施設です。</p>
                   <p><strong>【所在地・アクセス】</strong>交通案内：福岡空港、JR博多駅よりＪＲ唐津行唐津駅下車、車３分　徒歩１5分／長崎自動車道多久ＩＣより４０分</p>
                   <p>【佐賀・唐津＆呼子：唐津城・虹の松原＆呼子活イカ姿造り】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事の美味しいお宿です名物の呼子イカ佐賀牛の大満足会席プランを利用させていただきました。大満足のお食事で唐津城を見ながら食事をすることができ気持ちよく食事をいただきました。お宿は歴史のある…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事の美味しいお宿です名物の呼子イカ佐賀牛の大満足会席プランを利用させていただきました。大満足のお食事で唐津城を見ながら食事をすることができ気持ちよく食事をいただきました。」
                   </blockquote>
                 </div>
               </div>
@@ -340,7 +340,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　8台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「海鮮料理が絶品、景色も最高で大満足素晴らしい宿でした!まず、部屋は3階の海が見える広い部屋を用意してくれて、綺麗な景色と快適な空間であった。次に食事であるが、夕食は呼子のイカ姿造りや地魚の…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「海鮮料理が絶品、景色も最高で大満足素晴らしい宿でした!まず、部屋は3階の海が見える広い部屋を用意してくれて、綺麗な景色と快適な空間であった。」
                   </blockquote>
                 </div>
               </div>
@@ -406,7 +406,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　第1駐車場：6台、第2駐車場：23台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「イカが食べられず露天風呂も丸見えで残念イカの刺し身付きのプランにしましたが「台風の影響で手にはいらなかった」とのことで、食べられませんでした。予約時のプラン説明にも「烏賊の活き造りは時化の際は入手…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「イカが食べられず露天風呂も丸見えで残念イカの刺し身付きのプランにしましたが「台風の影響で手にはいらなかった」とのことで、食べられませんでした。」
                   </blockquote>
                 </div>
               </div>

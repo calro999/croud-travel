@@ -425,8 +425,8 @@ export default function Page() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 青森駅よりアクセス。JR青森駅よりJRバス約120分／青森空港から車で60分／無料バス有※要予約（夏季：青森駅-新青森駅／冬季：八戸駅より）。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「日本三秘湯 谷地温泉」にチェックイン。八甲田山中にある開湯４００年の歴史を誇る温泉で、日本三秘湯としても知られる。足下自噴の源泉かけ流し泉などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「日本三秘湯 谷地温泉」の湯処へ。八甲田山中にある開湯４００年の歴史を誇る温泉で、日本三秘湯としても知らとともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「日本三秘湯 谷地温泉」にチェックイン。八甲田山中にある開湯４００年の歴史を誇る温泉で、日本三秘湯としても知られる。 まずは客室で移動の疲れをそっと癒やす。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「日本三秘湯 谷地温泉」の湯船で寛ぎタイム。季節の空気を感じながら手足を伸ばし、心豊かな夕方のリラックス時間を満喫。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「日本三秘湯 谷地温泉」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -438,7 +438,7 @@ export default function Page() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「日本三秘湯 谷地温泉」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「日本三秘湯 谷地温泉」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「新祖谷温泉 ホテルかずら橋」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は宿周辺の散策とショッピングを満喫。地元の名産品やグルメを味わってから余裕をもって帰路につく。</li>
               </ul>
             </div>
           </div>
@@ -566,7 +566,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 日本三秘湯　谷地温泉</td>
                 <td className="p-3 text-stone-600">青森県十和田市法量谷地1</td>
-                <td className="p-3 text-stone-600">青森駅周辺</td>
+                <td className="p-3 text-stone-600">JR青森駅よりJRバス約120分／青森空港から車で60分／無料バス有※要予約（夏季：青森駅-新青森駅／冬季：八戸駅より）</td>
                 <td className="p-3 text-stone-600">有り　６０台　無料　予約不要【マップコード：704 471 581*58】</td>
                 <td className="p-3 font-bold text-amber-600">★4.54（331件）</td>
                 <td className="p-3 font-bold text-rose-600">¥16,560〜</td>
@@ -575,7 +575,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 新祖谷温泉　ホテルかずら橋</td>
                 <td className="p-3 text-stone-600">徳島県三好市西祖谷山村善徳３３－１</td>
-                <td className="p-3 text-stone-600">ＪＲのお客様 大歩危駅～路線バス20分（タクシー15分）・お車のお客様</td>
+                <td className="p-3 text-stone-600">ＪＲのお客様 大歩危駅～路線バス20分（タクシー15分）・お車のお客様 徳島自動車道井川池田ＩＣより大歩危経由で５０分</td>
                 <td className="p-3 text-stone-600">有り　３０台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.71（987件）</td>
                 <td className="p-3 font-bold text-rose-600">¥19,250〜</td>
@@ -635,7 +635,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　３０台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「心配りが行き届き、かずら橋ツアーも最高スタッフの方、お料理、温泉等、みんな心配りが行き届いており、とても良かったです。両親もすごく満足してくれました。また、夜のかずら橋ツアーは、ホテルのボンネット…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「心配りが行き届き、かずら橋ツアーも最高スタッフの方、お料理、温泉等、みんな心配りが行き届いており、とても良かったです。両親もすごく満足してくれました。」
                   </blockquote>
                 </div>
               </div>
@@ -657,7 +657,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１５台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「田沢湖温泉のロッジ、食事も温泉も大満足田沢湖温泉の一角のロッジ。入り口の道はやや細くて、少し心配になった。玄関の横に車を停め、中に入ったが、中は立派で、綺麗に整備されていた。19:15に到着で、す…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「田沢湖温泉のロッジ、食事も温泉も大満足田沢湖温泉の一角のロッジ。入り口の道はやや細くて、少し心配になった。玄関の横に車を停め、中に入ったが、中は立派で、綺麗に整備されていた。」
                   </blockquote>
                 </div>
               </div>

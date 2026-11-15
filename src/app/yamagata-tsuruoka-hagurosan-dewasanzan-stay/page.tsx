@@ -253,7 +253,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 羽黒山　三光院</td>
                 <td className="p-3 text-stone-600">山形県鶴岡市羽黒町手向92</td>
-                <td className="p-3 text-stone-600">鶴岡駅周辺</td>
+                <td className="p-3 text-stone-600">庄内空港より車で約35分／JR羽越本線鶴岡駅下車、車で約25分・バスで約40分／山形自動車道・庄内あさひICより約30分</td>
                 <td className="p-3 text-stone-600">有り　１５台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.43（93件）</td>
                 <td className="p-3 font-bold text-rose-600">プラン参照</td>
@@ -262,7 +262,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 旅館　羽黒館</td>
                 <td className="p-3 text-stone-600">山形県鶴岡市羽黒町手向字手向111</td>
-                <td className="p-3 text-stone-600">鶴岡駅周辺</td>
+                <td className="p-3 text-stone-600">庄内空港より車３５分／鶴岡駅より車２５分バス・４０分／山形道朝日ＩＣより２０分／ＪＲ羽越本線鶴岡駅</td>
                 <td className="p-3 text-stone-600">有り　２０台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.4（59件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,930〜</td>
@@ -271,7 +271,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 大進坊</td>
                 <td className="p-3 text-stone-600">山形県鶴岡市羽黒町手向95</td>
-                <td className="p-3 text-stone-600">鶴岡駅周辺</td>
+                <td className="p-3 text-stone-600">羽越線鶴岡駅より車で20分／庄内空港より車で30分／山形自動車道 庄内あさひICより車で40分</td>
                 <td className="p-3 text-stone-600">屋外駐車場30台完備　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.22（41件）</td>
                 <td className="p-3 font-bold text-rose-600">¥11,000〜</td>
@@ -280,7 +280,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 湯田川温泉　九兵衛旅館</td>
                 <td className="p-3 text-stone-600">山形県鶴岡市湯田川乙19</td>
-                <td className="p-3 text-stone-600">鶴岡駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ羽越線鶴岡駅よりバス25分／庄内空港よりタクシー30分／山形自動車道鶴岡ＩＣより15分</td>
                 <td className="p-3 text-stone-600">有り　20台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.82（386件）</td>
                 <td className="p-3 font-bold text-rose-600">¥9,020〜</td>
@@ -298,7 +298,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">6. 湯田川温泉　つかさや旅館</td>
                 <td className="p-3 text-stone-600">山形県鶴岡市湯田川乙52</td>
-                <td className="p-3 text-stone-600">ＪＲ　鶴岡駅よりタクシーにて２０分／バスにて３０分　庄内空港より車30</td>
+                <td className="p-3 text-stone-600">ＪＲ 鶴岡駅よりタクシーにて２０分／バスにて３０分 庄内空港より車30分</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.83（104件）</td>
                 <td className="p-3 font-bold text-rose-600">¥9,350〜</td>
@@ -393,7 +393,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　20台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.82 ／ 立地 ★4.34 ／ 部屋 ★4.75 ／ 設備 ★4.64 ／ 風呂 ★4.71 ／ 食事 ★4.89</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「心のこもった食事に大満足夕食、朝食共に心のこもった品々に感激!大変おいしかった。夕食を8分目のプランにし満腹になったけれど次回は通常のプランで全てを食べたいと思った。季節を変えて食事を堪能しに行き…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「心のこもった食事に大満足夕食、朝食共に心のこもった品々に感激!大変おいしかった。夕食を8分目のプランにし満腹になったけれど次回は通常のプランで全てを食べたいと思った。」
                   </blockquote>
                 </div>
               </div>
@@ -415,7 +415,7 @@ export default function MicroTouristHubPage() {
                   <p>【山形・鶴岡＆羽黒山・出羽三山：国宝羽黒山五重塔・杉並】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「2時から翌日11時までゆっくり満喫!2時から翌日11時までゆっくり出来て最高です。直近、宿側の都合で姉妹旅館の九兵衛別館珠玉やさんに変更となりましたが立地的に九兵衛さん、ますやさんの間にあり全…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「2時から翌日11時までゆっくり満喫!2時から翌日11時までゆっくり出来て最高です。」
                   </blockquote>
                 </div>
               </div>

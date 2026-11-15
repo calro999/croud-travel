@@ -253,7 +253,7 @@ export default function LuxuryPremiumHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 赤川温泉スパージュ</td>
                 <td className="p-3 text-stone-600">大分県竹田市久住町久住4026-1</td>
-                <td className="p-3 text-stone-600">豊後竹田駅周辺</td>
+                <td className="p-3 text-stone-600">豊後竹田駅からバスで２０分</td>
                 <td className="p-3 text-stone-600">有り　１５台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.2（70件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,500〜</td>
@@ -262,7 +262,7 @@ export default function LuxuryPremiumHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 箱根湯本温泉　離れ山家荘</td>
                 <td className="p-3 text-stone-600">神奈川県足柄下郡箱根町湯本592</td>
-                <td className="p-3 text-stone-600">箱根湯本駅周辺</td>
+                <td className="p-3 text-stone-600">箱根湯本駅より徒歩にて約１０分</td>
                 <td className="p-3 text-stone-600">有り（本館仙景の駐車場をご利用ください。水車が目印です。無料　予約不要）</td>
                 <td className="p-3 font-bold text-amber-600">★4.38（53件）</td>
                 <td className="p-3 font-bold text-rose-600">¥41,950〜</td>
@@ -271,7 +271,7 @@ export default function LuxuryPremiumHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. ＫＵＯＮ　箱根強羅　（オープンハウス・ホテルズ＆リゾーツ）</td>
                 <td className="p-3 text-stone-600">神奈川県足柄下郡箱根町強羅1322-32</td>
-                <td className="p-3 text-stone-600">強羅駅周辺</td>
+                <td className="p-3 text-stone-600">強羅駅からタクシーで5分、小田原駅から最寄りのバス停まで40分、バス停から徒歩5分</td>
                 <td className="p-3 text-stone-600">あり　11台(到着順)　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">高評価</td>
                 <td className="p-3 font-bold text-rose-600">¥28,600〜</td>
@@ -280,7 +280,7 @@ export default function LuxuryPremiumHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 箱根温泉　鶴井の宿　紫雲荘</td>
                 <td className="p-3 text-stone-600">神奈川県足柄下郡箱根町塔之沢92</td>
-                <td className="p-3 text-stone-600">箱根湯本駅周辺</td>
+                <td className="p-3 text-stone-600">用賀I.C.より車で約1時間。箱根湯本駅より徒歩15分（箱根湯本駅より路線バスにて５分「上塔ノ沢下車」）</td>
                 <td className="p-3 text-stone-600">２２台収容可能な無料駐車場有。(要事前予約)</td>
                 <td className="p-3 font-bold text-amber-600">★4.54（1151件）</td>
                 <td className="p-3 font-bold text-rose-600">¥18,830〜</td>
@@ -289,7 +289,7 @@ export default function LuxuryPremiumHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 箱根湯本温泉　あうら橘</td>
                 <td className="p-3 text-stone-600">神奈川県足柄下郡箱根町湯本574</td>
-                <td className="p-3 text-stone-600">箱根湯本駅周辺</td>
+                <td className="p-3 text-stone-600">小田急線「箱根湯本駅」より徒歩１５分 / 小田原厚木道路 箱根ICより国道1号線→県道732号線経由</td>
                 <td className="p-3 text-stone-600">有り　30台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.39（1827件）</td>
                 <td className="p-3 font-bold text-rose-600">¥22,437〜</td>
@@ -298,7 +298,7 @@ export default function LuxuryPremiumHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">6. 有馬温泉　月光園　鴻朧館</td>
                 <td className="p-3 text-stone-600">兵庫県神戸市北区有馬町318</td>
-                <td className="p-3 text-stone-600">有馬温泉駅周辺</td>
+                <td className="p-3 text-stone-600">中国自動車道 西宮北ＩＣより有馬温泉方面約１０分／神戸電鉄「有馬温泉」駅下車 徒歩１０分（※毎日８時～１９時は無料送迎可</td>
                 <td className="p-3 text-stone-600">有り　４０台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.54（1693件）</td>
                 <td className="p-3 font-bold text-rose-600">¥16,280〜</td>
@@ -393,7 +393,7 @@ export default function LuxuryPremiumHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>２２台収容可能な無料駐車場有。(要事前予約)</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「広々とした部屋と川の景色で家族団らんお盆の時期の利用でしたが、貸切風呂があるせいか大浴場も混雑しておらず、ゆっくりと快適に利用することができました。今回は3世代での利用でした。まだ孫はいま…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「広々とした部屋と川の景色で家族団らんお盆の時期の利用でしたが、貸切風呂があるせいか大浴場も混雑しておらず、ゆっくりと快適に利用することができました。今回は3世代での利用でした。」
                   </blockquote>
                 </div>
               </div>
@@ -415,7 +415,7 @@ export default function LuxuryPremiumHubPage() {
                   <p>【全室離れ・源泉かけ流し露天風呂付き隠れ家宿：大人の静】 <strong>【駐車場・マイカー利用】</strong>有り　30台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.48 ／ 立地 ★4.36 ／ 部屋 ★4.33 ／ 設備 ★4.17 ／ 風呂 ★4.49 ／ 食事 ★4.59</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「トラブルへの迅速な対応とスタッフの心遣い2泊3日お世話になりました。初日お部屋内のトラブルがありましたが、臨機応変に対応してくださいました。おかげさまで有意義な時間を過ごすことができました…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「トラブルへの迅速な対応とスタッフの心遣い2泊3日お世話になりました。初日お部屋内のトラブルがありましたが、臨機応変に対応してくださいました。」
                   </blockquote>
                 </div>
               </div>

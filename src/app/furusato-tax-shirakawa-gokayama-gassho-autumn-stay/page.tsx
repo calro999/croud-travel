@@ -448,7 +448,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 庄川温泉郷　鳥越の宿　三楽園</td>
                 <td className="p-3 text-stone-600">富山県砺波市庄川町金屋839</td>
-                <td className="p-3 text-stone-600"></td>
+                <td className="p-3 text-stone-600">富山県砺波市庄川町金屋839 ／ 交通案内：</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.58（831件）</td>
                 <td className="p-3 font-bold text-rose-600">¥15,279〜</td>
@@ -457,7 +457,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 庄川温泉風流味道座敷　ゆめつづり</td>
                 <td className="p-3 text-stone-600">富山県砺波市庄川町金屋3531</td>
-                <td className="p-3 text-stone-600"></td>
+                <td className="p-3 text-stone-600">富山県砺波市庄川町金屋3531 ／ 交通案内：</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.51（346件）</td>
                 <td className="p-3 font-bold text-rose-600">¥13,310〜</td>
@@ -486,7 +486,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「6回目の利用、サウナ後のビールと食事が最高今回6回目の利用です、相変わらず居心地が良くてスタッフも親切 風呂の脱衣所のロッカーも新しいのが納入されていて良かった(前回は鍵の無いロッカーが多くて難儀…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「6回目の利用、サウナ後のビールと食事が最高今回6回目の利用です、相変わらず居心地が良くてスタッフも親切 風呂の脱衣所のロッカーも新しいのが納入されていて良かった(前回は鍵の無いロッカーが多くて難儀。」
                   </blockquote>
                 </div>
               </div>

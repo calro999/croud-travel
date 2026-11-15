@@ -245,7 +245,7 @@ export default function FurusatoLuxuryBuffetGourmetStayPage() {
                     別府八湯の高台に位置し、別府湾と街並みを見下ろす圧倒的なスケールを誇る一大エンターテインメント温泉リゾート。段々畑状に広がる名物大展望露天風呂「棚湯」は開放感抜群。ビュッフェレストラン「TERRACE & DINING SORA」などでは、別府の湯けむりを感じながら、大分県産和牛のローストビーフや豊後水道の新鮮魚介、本格中華やエスニック料理まで世界水準の味覚が食べ放題。噴水ショーやボウリング場などアミューズメントも充実し、家族全員で一日中楽しめます。
                   </p>
                   <p className="text-stone-500 text-xs italic bg-stone-50 p-3 rounded-xl border border-stone-100 mb-4 leading-relaxed">
-                    「毎年来たいホテルNo. 1初めての杉乃井ホテル仕事場の上司に勧められて来ましたが想像以上に満足できるホテルで、毎年遊びに来たいと思えるホテルです。一日中遊べて子供も大人も楽しめます。ク… つづきは」
+                    「毎年来たいホテルNo. 1初めての杉乃井ホテル仕事場の上司に勧められて来ましたが想像以上に満足できるホテルで、毎年遊びに来たいと思えるホテルです。一日中遊べて子供も大人も楽しめます。」
                   </p>
                   
                   <div className="bg-stone-50 rounded-xl p-3.5 border border-stone-200/60 mb-6 text-xs text-stone-600 space-y-1">
@@ -413,8 +413,8 @@ export default function FurusatoLuxuryBuffetGourmetStayPage() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 鬼怒川温泉駅よりアクセス。東武浅草駅より特急で約2時間。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「鬼怒川温泉 あさや」にチェックイン。それぞれの旅行スタイルに合せて選べる部屋と食事。新しい温泉リゾートの提案です。などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「鬼怒川温泉 あさや」の湯処へ。それぞれの旅行スタイルに合せて選べる部屋と食事。新しい温泉リゾートの提とともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「鬼怒川温泉 あさや」にチェックイン。それぞれの旅行スタイルに合せて選べる部屋と食事。新しい温泉リゾートの提案です。 荷物を解き、落ち着いた室内でまず一息つく。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「鬼怒川温泉 あさや」の大浴場・露天風呂へ。日暮れの静けさの中で湯に浸かり、旅の緊張をゆっくりと解きほぐす。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「鬼怒川温泉 あさや」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -426,7 +426,7 @@ export default function FurusatoLuxuryBuffetGourmetStayPage() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「鬼怒川温泉 あさや」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「鬼怒川温泉 あさや」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「別府温泉 杉乃井ホテル」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は「鬼怒川温泉 あさや」周辺の観光スポットや地元の名産店に立ち寄り、ご当地のお土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>

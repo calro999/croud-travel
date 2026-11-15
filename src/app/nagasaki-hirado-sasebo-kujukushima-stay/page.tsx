@@ -253,7 +253,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 田の浦温泉　旅館　田の浦温泉</td>
                 <td className="p-3 text-stone-600">長崎県平戸市大久保町201-125</td>
-                <td className="p-3 text-stone-600">たびら平戸口駅周辺</td>
+                <td className="p-3 text-stone-600">西九州自動車道 佐々町IC→江迎町→平戸大橋から25分</td>
                 <td className="p-3 text-stone-600">有り　２０台　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.09（119件）</td>
                 <td className="p-3 font-bold text-rose-600">¥14,300〜</td>
@@ -262,7 +262,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 熱海温泉　熱海の癒（ゆ）　新かどや</td>
                 <td className="p-3 text-stone-600">静岡県熱海市小嵐町14-8</td>
-                <td className="p-3 text-stone-600">熱海駅周辺</td>
+                <td className="p-3 text-stone-600">★交通手段をお知らせください 車：小田原厚木道路より国道135号線にて約30分 電車：熱海駅よりタクシーで8分</td>
                 <td className="p-3 text-stone-600">有り　40台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.48（231件）</td>
                 <td className="p-3 font-bold text-rose-600">¥18,900〜</td>
@@ -271,7 +271,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. そのぎ茶温泉里山の湯宿　つわぶきの花</td>
                 <td className="p-3 text-stone-600">長崎県東彼杵郡東彼杵町一ッ石郷981</td>
-                <td className="p-3 text-stone-600">長崎空港駅周辺</td>
+                <td className="p-3 text-stone-600">長崎空港よりお車にて約２０分</td>
                 <td className="p-3 text-stone-600">有り　２０台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.51（195件）</td>
                 <td className="p-3 font-bold text-rose-600">¥24,590〜</td>
@@ -280,7 +280,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. ホテルオークラＪＲハウステンボス</td>
                 <td className="p-3 text-stone-600">長崎県佐世保市ハウステンボス町10</td>
-                <td className="p-3 text-stone-600">ハウステンボス駅周辺</td>
+                <td className="p-3 text-stone-600">西九州自動車道 佐世保大塔ICより車で15分/長崎空港よりバスで70分／JR博多駅より特急ハウステンボス号で110分</td>
                 <td className="p-3 text-stone-600">有、1泊1台あたり1000円 *到着日の朝から翌日正午まで。*2027年4月1日より1500円</td>
                 <td className="p-3 font-bold text-amber-600">★4.59（3289件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,750〜</td>
@@ -289,7 +289,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. ホテル彩陽　ＷＡＫＩＧＡＷＡ（旧：平戸脇川ホテル）</td>
                 <td className="p-3 text-stone-600">長崎県平戸市岩の上町1123-1</td>
-                <td className="p-3 text-stone-600">たびら平戸口駅周辺</td>
+                <td className="p-3 text-stone-600">たびら平戸口駅からお車で７分</td>
                 <td className="p-3 text-stone-600">有り（約25台）・無料</td>
                 <td className="p-3 font-bold text-amber-600">★3.87（204件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,150〜</td>
@@ -298,7 +298,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">6. 平戸海上ホテル</td>
                 <td className="p-3 text-stone-600">長崎県平戸市大久保町2231-3</td>
-                <td className="p-3 text-stone-600">たびら平戸口駅周辺</td>
+                <td className="p-3 text-stone-600">松浦鉄道『たびら平戸口駅』→西肥バス『平戸桟橋』 ／お車は西九州自動車道『佐々IC』→Ｒ２０４経由で約３０分</td>
                 <td className="p-3 text-stone-600">無料駐車場有り　60台　先着順　無料　電気自動車充電スタンド（EV充電）４台設置</td>
                 <td className="p-3 font-bold text-amber-600">★3.71（1447件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,600〜</td>
@@ -349,7 +349,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　40台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事と花火の眺めに大満足予約時、最後の一部屋で、人数の割に手狭な部屋のみしか空いておらず心配してましたが、当日、空きが出たのか広いお部屋に通してくださりありがたかったです。花火も遠いかなと心配…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事と花火の眺めに大満足予約時、最後の一部屋で、人数の割に手狭な部屋のみしか空いておらず心配してましたが、当日、空きが出たのか広いお部屋に通してくださりありがたかったです。」
                   </blockquote>
                 </div>
               </div>
@@ -371,7 +371,7 @@ export default function MicroTouristHubPage() {
                   <p>【長崎・平戸＆佐世保・九十九島：世界遺産キリシタン史跡】 <strong>【駐車場・マイカー利用】</strong>有り　２０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「自然と温泉、料理に癒やされすぐにでも再訪したい自然に囲まれて、ゆっくりと過ごすことができる素敵なお宿でした。山の中にあるのでとても静かで、日常を忘れてのんびりと過ごすことができました。…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「自然と温泉、料理に癒やされすぐにでも再訪したい自然に囲まれて、ゆっくりと過ごすことができる素敵なお宿でした。山の中にあるのでとても静かで、日常を忘れてのんびりと過ごすことができました。」
                   </blockquote>
                 </div>
               </div>
@@ -393,7 +393,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有、1泊1台あたり1000円 *到着日の朝から翌日正午まで。*2027年4月1日より1500円</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.63 ／ 立地 ★4.65 ／ 部屋 ★4.61 ／ 設備 ★4.53 ／ 風呂 ★4.47 ／ 食事 ★4.65</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「さすがオークラ、全てが完璧で大満足!娘と孫との利用でした。全てにおいて完璧で、さすがオークラって感じでした!ハイキングも種類が多く3泊しましたが、食べてない物もありました、とても美味しかっ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「さすがオークラ、全てが完璧で大満足!娘と孫との利用でした。全てにおいて完璧で、さすがオークラって感じでした!」
                   </blockquote>
                 </div>
               </div>
@@ -415,7 +415,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り（約25台）・無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「平戸物産館近く、食事と部屋は良いがランドリーに難あり平戸の市街地からは1km半ほど離れていますが、平戸物産館のすぐ近くで、平戸桟橋行きのバス停も物産館の前にあります。食事はおいしく、部屋も大浴…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「平戸物産館近く、食事と部屋は良いがランドリーに難あり平戸の市街地からは1km半ほど離れていますが、平戸物産館のすぐ近くで、平戸桟橋行きのバス停も物産館の前にあります。」
                   </blockquote>
                 </div>
               </div>
@@ -437,7 +437,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料駐車場有り　60台　先着順　無料　電気自動車充電スタンド（EV充電）４台設置</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「目の前の海と朝日、朝食の出汁が最高建物は老朽化していますがお部屋は広く 海の目の前朝日がお部屋から見れて最高なロケーションですシーツは 清潔でベッドも寝易かったです朝食の あご…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「目の前の海と朝日、朝食の出汁が最高建物は老朽化していますがお部屋は広く 海の目の前朝日がお部屋から見れて最高なロケーションですシーツは 清潔でベッドも寝易かったです朝食の あご。」
                   </blockquote>
                 </div>
               </div>

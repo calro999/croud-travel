@@ -339,8 +339,8 @@ export default function ArticlePage() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 高山駅よりアクセス。ＪＲ高山駅（高山濃飛バスセンター）よりバス「平湯・新穂高線」にて1時間１５分、「HO48新平湯温泉」下車、徒歩１分。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「奥飛騨温泉郷 新平湯温泉 美山荘」にチェックイン。飛騨の温もりが感じられる安らぎの宿。四季によって表情を変える露天風呂が自慢です。などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「奥飛騨温泉郷 新平湯温泉 美山荘」の湯処へ。飛騨の温もりが感じられる安らぎの宿。四季によって表情を変える露天風呂がとともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「奥飛騨温泉郷 新平湯温泉 美山荘」にチェックイン。飛騨の温もりが感じられる安らぎの宿。四季によって表情を変える露天風呂が自慢です。 荷物を解き、落ち着いた室内でまず一息つく。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「奥飛騨温泉郷 新平湯温泉 美山荘」の自慢の湯処へ。温かな湯気と落ち着いた雰囲気に癒やされながら、夕食前の贅沢なひとときを過ごす。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「奥飛騨温泉郷 新平湯温泉 美山荘」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -368,37 +368,37 @@ export default function ArticlePage() {
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">あわせて読みたい人気特集＆全国エリアガイド</h2>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
-            <a href="/winter-ibaraki-fukuroda-waterfall-ice-onsen-shamo-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/winter-gifu-shirakawago-snow-gassho-hidatakayama-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12・1月茨城】日本三名瀑・袋田の滝の完全凍結「氷瀑」と奥久慈温泉郷・名物奥久慈軍鶏鍋＆常陸牛を堪能する冬の名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">世界遺産白川郷雪景色＆飛騨高山古い町並み！ 奥飛騨雪見露天と極上飛騨牛会席の名宿5選</span>
             </a>
-            <a href="/autumn-budget-ibaraki-mito-kairakuen-momiji-ankou-hotels-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/winter-niigata-myoko-akakura-onsen-snow-nodoguro-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">水戸：偕楽園もみじ谷ライトアップと旬のあんこう鍋！2,000円台〜格安ホテル5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12月新潟・妙高赤倉温泉】 初雪の妙高山とダブル美肌露天・冬のどぐろ＆新潟和牛会席の宿5選</span>
             </a>
-            <a href="/winter-ibaraki-kashima-jingu-hatsumode-itako-hamaguri-hitachigyu-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/autumn-budget-gifu-castle-kinkazan-momiji-hida-beef-hotels-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">関東最古の霊場・鹿島神宮新春初詣と水郷の冬景色：2026-2027年冬の茨城・鹿島＆潮来！鹿島灘はまぐりと極上常陸牛名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「岐阜」金華山のパノラマ紅葉＆飛騨牛グルメ！2,000円台〜泊まれる格安・高コスパ宿5選</span>
             </a>
-            <a href="/autumn-budget-ibaraki-mito-station-kairakuen-koudoukan-hotels-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/fuji-climbing-packing-regrets-worst5-guide/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">水戸駅前：国指定特別史跡弘道館＆名物あんこう鍋！2,000円台〜泊まれる格安ホテル5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「富士登山で後悔したことワースト5」 高山病・下山時の爪割れ・ヘッドライト忘れ！ 登頂成功の持ち物チェックリスト</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
             <div className="flex flex-wrap gap-2">
               <Link
-                href="/prefectures/yamaguchi/"
+                href="/prefectures/gifu/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                山口県の宿・温泉
+                岐阜県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/ibaraki/"
+                href="/prefectures/shizuoka/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                茨城県の宿・温泉
+                静岡県の宿・温泉
               </Link>
               <Link
                 href="/prefectures/aichi/"
@@ -407,10 +407,10 @@ export default function ArticlePage() {
                 愛知県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/oita/"
+                href="/prefectures/mie/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                大分県の宿・温泉
+                三重県の宿・温泉
               </Link>
             </div>
           </div>
@@ -446,7 +446,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 平湯温泉　平田館</td>
                 <td className="p-3 text-stone-600">岐阜県高山市奥飛騨温泉郷平湯2-3</td>
-                <td className="p-3 text-stone-600">高山駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ高山駅よりバスで６０分、 東海北陸道高山ＩＣより６０分、中央道松本ＩＣより車で６５分</td>
                 <td className="p-3 text-stone-600">有り　２５台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.31（430件）</td>
                 <td className="p-3 font-bold text-rose-600">¥13,200〜</td>
@@ -455,7 +455,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 奥飛騨温泉郷　花ごころ万喜（ばんき）</td>
                 <td className="p-3 text-stone-600">岐阜県高山市奥飛騨温泉郷一重ヶ根781</td>
-                <td className="p-3 text-stone-600">高山駅周辺</td>
+                <td className="p-3 text-stone-600">長野道・松本IC→R158・安房トンネル・R471→新平湯温泉／中部縦貫道・高山IC→R158・R471→新平湯温泉</td>
                 <td className="p-3 text-stone-600">有り　１０台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.32（474件）</td>
                 <td className="p-3 font-bold text-rose-600">¥18,500〜</td>
@@ -464,7 +464,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 奥飛騨温泉郷　新平湯温泉　美山荘</td>
                 <td className="p-3 text-stone-600">岐阜県高山市奥飛騨温泉郷一重ヶ根622</td>
-                <td className="p-3 text-stone-600">高山駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ高山駅（高山濃飛バスセンター）よりバス「平湯・新穂高線」にて1時間１５分、「HO48新平湯温泉」下車、徒歩１分</td>
                 <td className="p-3 text-stone-600">有り　20台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★3.74（141件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,150〜</td>
@@ -493,7 +493,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２５台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.28 ／ 立地 ★4.13 ／ 部屋 ★4.28 ／ 設備 ★4.11 ／ 風呂 ★4.31 ／ 食事 ★4.39</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事は絶品で静かな環境、お風呂の湯量に難あり夕食は飛騨牛や岩魚の塩焼きなど、食べきれないほどおかずが豊富で、朝食も自家製ハチミツをつけて食べたクロワッサンは絶品。宿も全体的に静かで落ち着いており、…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事は絶品で静かな環境、お風呂の湯量に難あり夕食は飛騨牛や岩魚の塩焼きなど、食べきれないほどおかずが豊富で、朝食も自家製ハチミツをつけて食べたクロワッサンは絶品。」
                   </blockquote>
                 </div>
               </div>
@@ -515,7 +515,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１０台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.5 ／ 立地 ★4.23 ／ 部屋 ★4.35 ／ 設備 ★3.95 ／ 風呂 ★4.22 ／ 食事 ★4.53</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「囲炉裏料理と細やかな気遣いに癒やされる到着した際にたんぽぽコーヒーを出して頂いたのですが、甘さがあって飲みやすくてとても美味しかったです。お食事はまず夕食の際に囲炉裏で鮎の塩焼きと五平餅が焼か…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「囲炉裏料理と細やかな気遣いに癒やされる到着した際にたんぽぽコーヒーを出して頂いたのですが、甘さがあって飲みやすくてとても美味しかったです。」
                   </blockquote>
                 </div>
               </div>
@@ -537,7 +537,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　20台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「飛騨牛と白米は絶品、建物は古く防音に難あり従業員の方々はとても親切でした。昔ながらの宿と言った感じです。客室は2階でしたが、隣の部屋で動きがあると、わかるくらい揺れるし、音が聞こえました。…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「飛騨牛と白米は絶品、建物は古く防音に難あり従業員の方々はとても親切でした。昔ながらの宿と言った感じです。客室は2階でしたが、隣の部屋で動きがあると、わかるくらい揺れるし、音が聞こえました。」
                   </blockquote>
                 </div>
               </div>

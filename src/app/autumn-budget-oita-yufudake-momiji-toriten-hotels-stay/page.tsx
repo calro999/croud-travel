@@ -310,7 +310,7 @@ export default function AutumnBudgetOitaHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. アパホテル〈大分駅前〉</td>
                 <td className="p-3 text-stone-600">大分県大分市金池町1-1-1</td>
-                <td className="p-3 text-stone-600">大分駅周辺</td>
+                <td className="p-3 text-stone-600">JR大分駅（北口）から徒歩1分</td>
                 <td className="p-3 text-stone-600">10台(身障者用1台含む)　1泊1,000円(税込)　予約不可　先着順　提携駐車場あり</td>
                 <td className="p-3 font-bold text-amber-600">★4.36（693件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,200〜</td>
@@ -319,7 +319,7 @@ export default function AutumnBudgetOitaHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 由布院温泉　ゆふいん山水館</td>
                 <td className="p-3 text-stone-600">大分県由布市湯布院町大字川南108-1</td>
-                <td className="p-3 text-stone-600">由布院駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ由布院駅より徒歩約８分。大分自動車道湯布院ＩＣより車で約１５分。</td>
                 <td className="p-3 text-stone-600">有り　乗用車　約60台　大型バス　約6台　料金は宿泊者無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.39（882件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,800〜</td>
@@ -328,7 +328,7 @@ export default function AutumnBudgetOitaHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. ホテル日航大分　オアシスタワー</td>
                 <td className="p-3 text-stone-600">大分県大分市高砂町2-48</td>
-                <td className="p-3 text-stone-600">大分駅周辺</td>
+                <td className="p-3 text-stone-600">（JR大分駅から）徒歩で約10分（大分ＩＣから）車で約１５分（大分空港から）高速バスで約６０分</td>
                 <td className="p-3 text-stone-600">一律料金（ご1泊あたり1,000円）にてご利用頂けます。駐車場の入り口はプラン詳細をご確認ください</td>
                 <td className="p-3 font-bold text-amber-600">★4.37（2678件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,375〜</td>
@@ -337,7 +337,7 @@ export default function AutumnBudgetOitaHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 別府温泉　ホテルニューツルタ</td>
                 <td className="p-3 text-stone-600">大分県別府市北浜1-14-15</td>
-                <td className="p-3 text-stone-600">大分駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ別府駅より徒歩8分。別府ＩＣより車で約15分。駐車場先着順、入庫後21時間最大700円。全室ロビー無料Wi-fi</td>
                 <td className="p-3 text-stone-600">入庫後21時間：最大700円・駐車場は有料＆先着順。満車の場合はご利用いただけないことがございます。</td>
                 <td className="p-3 font-bold text-amber-600">★4.24（1215件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,000〜</td>
@@ -346,7 +346,7 @@ export default function AutumnBudgetOitaHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 別府温泉　ホテル好楽</td>
                 <td className="p-3 text-stone-600">大分県別府市北浜3-13-21</td>
-                <td className="p-3 text-stone-600">別府（大分）駅周辺</td>
+                <td className="p-3 text-stone-600">別府駅から徒歩10分、北浜バス停（福岡からの高速バス降り口）から2分</td>
                 <td className="p-3 text-stone-600">有り　40台　1泊550円</td>
                 <td className="p-3 font-bold text-amber-600">★3.88（707件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,860〜</td>
@@ -375,7 +375,7 @@ export default function AutumnBudgetOitaHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>10台(身障者用1台含む)　1泊1,000円(税込)　予約不可　先着順　提携駐車場あり</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「設備は気が利いているが清掃が行き届かず残念まだ新しい建物で設備面や備品は気が効いているところがあって良いと思いました。ただカーペットに以前の宿泊者のものであろう髪の毛がかなり絡まっていて、気分…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「設備は気が利いているが清掃が行き届かず残念まだ新しい建物で設備面や備品は気が効いているところがあって良いと思いました。」
                   </blockquote>
                 </div>
               </div>

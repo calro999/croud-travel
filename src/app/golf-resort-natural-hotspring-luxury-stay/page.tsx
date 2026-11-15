@@ -334,7 +334,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 湯ヶ島温泉　湯ヶ島ゴルフ倶楽部＆ホテルリゾート</td>
                 <td className="p-3 text-stone-600">静岡県伊豆市湯ヶ島2571-10</td>
-                <td className="p-3 text-stone-600">修善寺駅周辺</td>
+                <td className="p-3 text-stone-600">伊豆箱根鉄道駿豆線：修善寺駅から送迎バス運行 約25分 (ご利用日前日までに要予約) 詳細はお電話にてお問合せください。</td>
                 <td className="p-3 text-stone-600">有り　１２０台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.13（203件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,060〜</td>
@@ -343,7 +343,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 高山龍神温泉　自家源泉１００％かけ流し　龍リゾート＆スパ</td>
                 <td className="p-3 text-stone-600">岐阜県高山市荘川町新渕892-11</td>
-                <td className="p-3 text-stone-600">高山駅周辺</td>
+                <td className="p-3 text-stone-600">車で名古屋から約90分（東海北陸自動車道「荘川I.C」より約7分）車でJR高山駅まで約50分、白川郷まで約45分</td>
                 <td className="p-3 text-stone-600">有り　100台(無料)</td>
                 <td className="p-3 font-bold text-amber-600">★4.18（1066件）</td>
                 <td className="p-3 font-bold text-rose-600">¥18,700〜</td>
@@ -352,7 +352,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. あてま温泉　当間高原リゾート　ベルナティオ</td>
                 <td className="p-3 text-stone-600">新潟県十日町市珠川</td>
-                <td className="p-3 text-stone-600">越後湯沢駅周辺</td>
+                <td className="p-3 text-stone-600">【車】塩沢石打ICより約20分【新幹線】無料送迎バスにて、JR越後湯沢駅から約40分、JR十日町駅から約20分（要予約）</td>
                 <td className="p-3 text-stone-600">有り　200台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.72（4388件）</td>
                 <td className="p-3 font-bold text-rose-600">¥10,340〜</td>
@@ -403,7 +403,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　100台(無料)</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.52 ／ 立地 ★4.15 ／ 部屋 ★4.23 ／ 設備 ★4.14 ／ 風呂 ★4.54 ／ 食事 ★4.51</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「湯質は最高だが設備と冷蔵庫に難あり温泉は湯質がよく100%掛け流しは違うなととても満足でした。でもテラス風呂?は景観や施設の古さが目立ちました。部屋の冷蔵庫が全く冷えなかったので残念。…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「湯質は最高だが設備と冷蔵庫に難あり温泉は湯質がよく100%掛け流しは違うなととても満足でした。でもテラス風呂?は景観や施設の古さが目立ちました。部屋の冷蔵庫が全く冷えなかったので残念。」
                   </blockquote>
                 </div>
               </div>

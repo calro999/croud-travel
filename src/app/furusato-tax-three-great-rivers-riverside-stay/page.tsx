@@ -65,7 +65,7 @@ const hotels = [
     "reviewCount": 1884,
     "address": "徳島県三好市山城町西宇1644-1",
     "access": "大歩危駅より車で5分(徒歩20分)ご宿泊のお客様は送迎有（要予約）井川池田IC・大豊ICより各約30分　高知空港が最寄り",
-    "userReview": "予想以上こういった立地のお宿は、実際行ってみると古さを感じるところが多くありますが、こちらは清潔感もあり、アメニティも豊富だったので、予想以上でした。お料理も美味しく、とても満足です。クチコミ。",
+    "userReview": "予想以上こういった立地のお宿は、実際行ってみると古さを感じるところが多くありますが、こちらは清潔感もあり、アメニティも豊富だったので、予想以上でした。お料理も美味しく、とても満足です。",
     "label": "徳島県三好市ふるさと納税・四国三郎「吉野川」激流の渓谷美を眼下に望む露天風呂「大歩危峡まんなか」",
     "spotTitle": "徳島県三好市ふるさと納税：吉野川が刻んだ大渓谷・大歩危峡を一望する絶景湯宿「峡谷の湯宿 大歩危峡まんなか」",
     "spotDesc": "四国三郎・吉野川の激流が創り出した大歩危峡の真上に位置する絶景宿。渓谷を眼下に望む露天風呂や、大歩危遊覧船乗り場すぐの好立地、阿波尾鶏や祖谷そばなどの郷土の恵みを堪能できます。",
@@ -347,7 +347,7 @@ export default function FurusatoUpgradedPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 熱川温泉　熱川プリンスホテル</td>
                 <td className="p-3 text-stone-600">静岡県賀茂郡東伊豆町奈良本1248-3</td>
-                <td className="p-3 text-stone-600">伊豆熱川</td>
+                <td className="p-3 text-stone-600">東京駅から乗換なしでスムーズ♪直通電車「踊り子号」を利用すれば、最短1時間40分で到着！伊豆熱川駅徒歩10分。送迎有</td>
                 <td className="p-3 text-stone-600">有り　　50台　　1泊　　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.51（1264件）</td>
                 <td className="p-3 font-bold text-rose-600">¥9,900〜</td>
@@ -356,7 +356,7 @@ export default function FurusatoUpgradedPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 南房総白浜　割烹旅館　清都（きよと）</td>
                 <td className="p-3 text-stone-600">千葉県南房総市白浜町滝口6241</td>
-                <td className="p-3 text-stone-600">館山</td>
+                <td className="p-3 text-stone-600">JR内房線館山駅から車で20分。車の場合、首都圏からはアクアライン＆富津館山道路経由で約100分</td>
                 <td className="p-3 text-stone-600">有り　12台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.52（208件）</td>
                 <td className="p-3 font-bold text-rose-600">¥24,500〜</td>

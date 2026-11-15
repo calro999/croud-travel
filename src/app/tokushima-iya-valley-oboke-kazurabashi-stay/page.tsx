@@ -253,7 +253,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 新祖谷温泉　ホテルかずら橋</td>
                 <td className="p-3 text-stone-600">徳島県三好市西祖谷山村善徳３３－１</td>
-                <td className="p-3 text-stone-600">ＪＲのお客様 大歩危駅～路線バス20分（タクシー15分）・お車のお客様</td>
+                <td className="p-3 text-stone-600">ＪＲのお客様 大歩危駅～路線バス20分（タクシー15分）・お車のお客様 徳島自動車道井川池田ＩＣより大歩危経由で５０分</td>
                 <td className="p-3 text-stone-600">有り　３０台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.71（987件）</td>
                 <td className="p-3 font-bold text-rose-600">¥19,250〜</td>
@@ -262,7 +262,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 白地温泉　小西旅館</td>
                 <td className="p-3 text-stone-600">徳島県三好市池田町白地本名76-2</td>
-                <td className="p-3 text-stone-600">阿波池田駅周辺</td>
+                <td className="p-3 text-stone-600">徳島自動車道 井川・池田ＩＣより高知方面へ5.8ｋｍ 大歩危祖谷観光やラフティングにも最適です。</td>
                 <td className="p-3 text-stone-600">有り　１５台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★3.33（54件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,300〜</td>
@@ -271,7 +271,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 神山温泉　ホテル四季の里＆いやしの湯</td>
                 <td className="p-3 text-stone-600">徳島県名西郡神山町神領本上角80-2</td>
-                <td className="p-3 text-stone-600">徳島駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ徳島駅よりバスにて約60分／徳島自動車道藍住ＩＣより45分／高松自動車道坂野ＩＣより55分</td>
                 <td className="p-3 text-stone-600">有り120台（無料・先着順）</td>
                 <td className="p-3 font-bold text-amber-600">★4.36（263件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,490〜</td>
@@ -280,7 +280,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 阿波の国・昴宿よしの</td>
                 <td className="p-3 text-stone-600">徳島県徳島市一番町3-18</td>
-                <td className="p-3 text-stone-600">徳島駅周辺</td>
+                <td className="p-3 text-stone-600">徳島駅・高速バス乗り場より徒歩2分。徳島空港よりお車で１５分。神戸・淡路鳴門自動車道、徳島ＩＣ．より1０分。</td>
                 <td className="p-3 text-stone-600">有り　3０台　1000円（税込み／泊）　　但し、阿波踊り期間中は￥3000です。</td>
                 <td className="p-3 font-bold text-amber-600">★4.12（276件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,420〜</td>
@@ -309,7 +309,7 @@ export default function MicroTouristHubPage() {
                   <p>【徳島・祖谷渓＆大歩危・かずら橋：日本三大秘境・スリル】 <strong>【駐車場・マイカー利用】</strong>有り　３０台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「心配りが行き届き、かずら橋ツアーも最高スタッフの方、お料理、温泉等、みんな心配りが行き届いており、とても良かったです。両親もすごく満足してくれました。また、夜のかずら橋ツアーは、ホテルのボンネット…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「心配りが行き届き、かずら橋ツアーも最高スタッフの方、お料理、温泉等、みんな心配りが行き届いており、とても良かったです。両親もすごく満足してくれました。」
                   </blockquote>
                 </div>
               </div>
@@ -353,7 +353,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り120台（無料・先着順）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「邪馬台国阿波説探訪邪馬台国阿波説探訪に丁度良い温泉ホテルでした。近くに上一宮大粟神社や雨乞の滝もあり、日本の田舎の夏を満喫致しました。又、邪馬台国阿波説探訪に是非訪れたいと思っております。有難うご…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「邪馬台国阿波説探訪邪馬台国阿波説探訪に丁度良い温泉ホテルでした。近くに上一宮大粟神社や雨乞の滝もあり、日本の田舎の夏を満喫致しました。又、邪馬台国阿波説探訪に是非訪れたいと思っております。」
                   </blockquote>
                 </div>
               </div>
@@ -375,7 +375,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　3０台　1000円（税込み／泊）　　但し、阿波踊り期間中は￥3000です。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「リノベーションはされているものの施設の老朽化・埃や汚れ等も気になりました。敷き布団はマットレスは無く薄めの物が1枚なので腰痛持ちには辛いです。ただ、金額・立地・職員の対応には満足なので金額…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「リノベーションはされているものの施設の老朽化・埃や汚れ等も気になりました。敷き布団はマットレスは無く薄めの物が1枚なので腰痛持ちには辛いです。」
                   </blockquote>
                 </div>
               </div>

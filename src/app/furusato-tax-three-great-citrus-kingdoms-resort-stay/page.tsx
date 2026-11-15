@@ -65,7 +65,7 @@ export default function Page() {
     "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/18253/18253_onsen.jpg",
     "reviewCount": 5673,
     "reviewAverage": 4.42,
-    "userReview": "バイキングは豊富で美味、扉の汚れが気になるバイキングのメニューは豊富で、どれも美味しかったです。建物の造りが古いのか、部屋の入口の扉に汚れが目立つのが気になりました。クチコミの詳細はこ。",
+    "userReview": "バイキングは豊富で美味、扉の汚れが気になるバイキングのメニューは豊富で、どれも美味しかったです。建物の造りが古いのか、部屋の入口の扉に汚れが目立つのが気になりました。",
     "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F18253%2F18253.html",
     "access": "JR白浜駅から車で約10分※無料送迎バス運行中／南紀白浜空港から車で約8分／大阪から車で阪和道南紀田辺IC経由で約2時間",
     "label": "和歌山県白浜町・有田市ふるさと納税・有田みかんと紀州の味覚・全室オーシャンビューリゾート「和歌山柑橘ロード」白浜古賀の井リゾート＆スパ",
@@ -409,8 +409,8 @@ export default function Page() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> JR松山駅から私鉄乗り継ぎ伊予鉄道後温泉駅下車、徒歩5分で現地へ到着。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「道後温泉 ホテルルナパーク」にチェックイン。道後温泉本館まで徒歩2分の便利な立地。晴れた夜には、展望露天風呂から星や月をご覧いただけます。などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「道後温泉 ホテルルナパーク」の湯処へ。道後温泉本館まで徒歩2分の便利な立地。晴れた夜には、展望露天風呂から星とともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「道後温泉 ホテルルナパーク」にチェックイン。道後温泉本館まで徒歩2分の便利な立地。晴れた夜には、展望露天風呂から星や月をご覧いただけます。 荷物を解き、落ち着いた室内でまず一息つく。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「道後温泉 ホテルルナパーク」の湯船で寛ぎタイム。季節の空気を感じながら手足を伸ばし、心豊かな夕方のリラックス時間を満喫。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「道後温泉 ホテルルナパーク」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -422,7 +422,7 @@ export default function Page() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「道後温泉 ホテルルナパーク」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「道後温泉 ホテルルナパーク」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「白浜古賀の井リゾート＆スパ」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は「道後温泉 ホテルルナパーク」周辺の観光スポットや地元の名産店に立ち寄り、ご当地のお土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>

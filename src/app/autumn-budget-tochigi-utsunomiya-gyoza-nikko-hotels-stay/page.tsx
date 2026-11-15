@@ -310,7 +310,7 @@ export default function AutumnBudgetUtsunomiyaHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. スマイルホテル宇都宮西口駅前</td>
                 <td className="p-3 text-stone-600">栃木県宇都宮市駅前通り3-4-9</td>
-                <td className="p-3 text-stone-600">宇都宮駅周辺</td>
+                <td className="p-3 text-stone-600">JR宇都宮駅 西口より徒歩約1分</td>
                 <td className="p-3 text-stone-600">提携駐車場をご用意しております。『駐車場のご案内』をご確認の上、ご利用下さいませ。</td>
                 <td className="p-3 font-bold text-amber-600">★4.2（954件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,650〜</td>
@@ -319,7 +319,7 @@ export default function AutumnBudgetUtsunomiyaHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. リッチモンドホテル宇都宮駅前</td>
                 <td className="p-3 text-stone-600">栃木県宇都宮市駅前通り3-5-12</td>
-                <td className="p-3 text-stone-600">宇都宮駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ宇都宮駅(西口側)南口より徒歩2分。東北自動車道 鹿沼ＩＣより車で約35分</td>
                 <td className="p-3 text-stone-600">◇先着順◇立体駐車場：88台(ハイルーフ対応：20台)◇1泊税込1200円◇</td>
                 <td className="p-3 font-bold text-amber-600">★4.33（5605件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,000〜</td>
@@ -328,7 +328,7 @@ export default function AutumnBudgetUtsunomiyaHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. リッチモンドホテル宇都宮駅前アネックス</td>
                 <td className="p-3 text-stone-600">栃木県宇都宮市駅前通り3-6-5</td>
-                <td className="p-3 text-stone-600">宇都宮駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ 宇都宮駅(西口側)南口から徒歩2分</td>
                 <td className="p-3 text-stone-600">有り　72台(立体駐車場　全ハイルーフ車対応）　1,200円（税込み／泊）　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.54（3013件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,900〜</td>
@@ -337,7 +337,7 @@ export default function AutumnBudgetUtsunomiyaHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. アパホテル〈宇都宮駅前〉</td>
                 <td className="p-3 text-stone-600">栃木県宇都宮市東宿郷2-4-4</td>
-                <td className="p-3 text-stone-600">宇都宮駅周辺</td>
+                <td className="p-3 text-stone-600">JR宇都宮駅東口より徒歩5分 ライトレール（LRT）東宿郷停留場より徒歩2分 東北道宇都宮ICより車で30分</td>
                 <td className="p-3 text-stone-600">1,000円（税込）　15時〜翌11時　地下12台・屋外36台　先着順でのご案内です　※取り置き不可</td>
                 <td className="p-3 font-bold text-amber-600">★4.14（2236件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,500〜</td>
@@ -346,7 +346,7 @@ export default function AutumnBudgetUtsunomiyaHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 宇都宮東ホテル</td>
                 <td className="p-3 text-stone-600">栃木県宇都宮市東宿郷1-5-3</td>
-                <td className="p-3 text-stone-600">宇都宮駅周辺</td>
+                <td className="p-3 text-stone-600">JR宇都宮駅東口徒歩5分セブンイレブン２軒隣 車は東京方面から上三川ＩＣ 福島方面から宇都宮ＩＣ</td>
                 <td className="p-3 text-stone-600">駐車場予約制(車種記入必須)。有料\１０００円／泊。台数制限あり、満車の場合は近隣駐車場お客様負担</td>
                 <td className="p-3 font-bold text-amber-600">★4.08（1401件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,000〜</td>
@@ -397,7 +397,7 @@ export default function AutumnBudgetUtsunomiyaHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>◇先着順◇立体駐車場：88台(ハイルーフ対応：20台)◇1泊税込1200円◇</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅から近いので大変便利夜は、鯛茶漬けをいただいた。鯛だけ食べても、出汁を入れて食べても美味しかった。おそらく百人ほど並んでいたが列を整える方も配膳いただいた方の接客も丁寧でよかった。…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅から近いので大変便利夜は、鯛茶漬けをいただいた。鯛だけ食べても、出汁を入れて食べても美味しかった。おそらく百人ほど並んでいたが列を整える方も配膳いただいた方の接客も丁寧でよかった。」
                   </blockquote>
                 </div>
               </div>
@@ -463,7 +463,7 @@ export default function AutumnBudgetUtsunomiyaHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>駐車場予約制(車種記入必須)。有料\１０００円／泊。台数制限あり、満車の場合は近隣駐車場お客様負担</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.18 ／ 立地 ★4.17 ／ 部屋 ★3.99 ／ 設備 ★3.93 ／ 風呂 ★3.85 ／ 食事 ★3.85</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近で、親切な宿10時に宇都宮に到着したのですが、荷物を預かってくださり、とても助かりました。ホテルの方もとても親切で気持ちよく滞在できました。個室のサウナも堪能しました。朝食も量・質…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近で、親切な宿10時に宇都宮に到着したのですが、荷物を預かってくださり、とても助かりました。ホテルの方もとても親切で気持ちよく滞在できました。個室のサウナも堪能しました。」
                   </blockquote>
                 </div>
               </div>

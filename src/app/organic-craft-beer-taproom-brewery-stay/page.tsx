@@ -564,8 +564,8 @@ export default function FeatureDetailPage() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 湯河原駅よりアクセス。ＪＲ湯河原駅より奥湯河原行きバスで20分奥湯河原入口下車・車で8分／東名厚木ＩＣより小田原厚木・135号線経由で約60分。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「湯河原温泉 青巒荘」にチェックイン。奥湯河原の自然に囲まれ、滝の直下にある仙境野天風呂が自慢の宿。館内オールインクルーシブで飲み放題！などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「湯河原温泉 青巒荘」の湯処へ。奥湯河原の自然に囲まれ、滝の直下にある仙境野天風呂が自慢の宿。館内オーとともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「湯河原温泉 青巒荘」にチェックイン。奥湯河原の自然に囲まれ、滝の直下にある仙境野天風呂が自慢の宿。館内オールインクルーシブで飲み放題！ 館内の設えを確かめながら、これからの滞在に備えてゆっくり休息する。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「湯河原温泉 青巒荘」の大浴場・露天風呂へ。日暮れの静けさの中で湯に浸かり、旅の緊張をゆっくりと解きほぐす。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「湯河原温泉 青巒荘」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -577,7 +577,7 @@ export default function FeatureDetailPage() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「湯河原温泉 青巒荘」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「湯河原温泉 青巒荘」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「湯の沢温泉 時の宿すみれ」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は「湯河原温泉 青巒荘」周辺の観光スポットや地元の名産店に立ち寄り、ご当地のお土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>
@@ -705,7 +705,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 若狭・三方五湖の湖畔にあるクラフトビールの宿　湖上館ＰＡＭＣＯ（パムコ）</td>
                 <td className="p-3 text-stone-600">福井県三方上中郡若狭町海山64-9-1</td>
-                <td className="p-3 text-stone-600">三方駅周辺</td>
+                <td className="p-3 text-stone-600">【お車】ＪＲ三方駅より約１０分 【路線バス】ＪＲ三方駅前バス停橙色のバス「三方－常神線」（約１５分）海山下車後、徒歩１分</td>
                 <td className="p-3 text-stone-600">有り　２０台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.44（243件）</td>
                 <td className="p-3 font-bold text-rose-600">¥9,400〜</td>
@@ -714,7 +714,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. かみのやま温泉　果実（かみ）の山　あづま屋</td>
                 <td className="p-3 text-stone-600">山形県上山市新湯1-23</td>
-                <td className="p-3 text-stone-600">かみのやま温泉駅周辺</td>
+                <td className="p-3 text-stone-600">山形新幹線かみのやま温泉駅下車徒歩８分≪送迎サービスもございます≫</td>
                 <td className="p-3 text-stone-600">有り　150台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★3.85（826件）</td>
                 <td className="p-3 font-bold text-rose-600">¥9,025〜</td>
@@ -723,7 +723,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 鶯宿温泉　竹あかりの宿　加賀助</td>
                 <td className="p-3 text-stone-600">岩手県岩手郡雫石町鶯宿7-47</td>
-                <td className="p-3 text-stone-600">盛岡駅周辺</td>
+                <td className="p-3 text-stone-600">JR雫石駅より車で約15分（盛岡駅から約40分）／東北自動車道・盛岡ICから国道46号を秋田方面へ（約30分）</td>
                 <td className="p-3 text-stone-600">有り　30台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★3.91（590件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,800〜</td>
@@ -732,7 +732,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 湯河原温泉　青巒荘（せいらんそう）</td>
                 <td className="p-3 text-stone-600">神奈川県足柄下郡湯河原町宮上679</td>
-                <td className="p-3 text-stone-600">湯河原駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ湯河原駅より奥湯河原行きバスで20分奥湯河原入口下車・車で8分／東名厚木ＩＣより小田原厚木・135号線経由で約60分</td>
                 <td className="p-3 text-stone-600">有り　20台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.13（1358件）</td>
                 <td className="p-3 font-bold text-rose-600">¥9,500〜</td>
@@ -741,7 +741,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 湯の沢温泉　時の宿すみれ</td>
                 <td className="p-3 text-stone-600">山形県米沢市関根12703-4</td>
-                <td className="p-3 text-stone-600">米沢駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ米沢駅より車15分・送迎要予約 車：東北中央道福島大笹生ICから米沢八幡原ＩＣ下車、関根水窪ダム方面へ車で10分程</td>
                 <td className="p-3 text-stone-600">有り　１５台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.5（128件）</td>
                 <td className="p-3 font-bold text-rose-600">¥28,900〜</td>
@@ -770,7 +770,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２０台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.65 ／ 立地 ★4.56 ／ 部屋 ★4.31 ／ 設備 ★4.25 ／ 風呂 ★3.93</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「自転車旅にも対応自転車仲間と鯖街道を走る旅で利用しました。自転車をロビーで保管してくれたり、スタッフの対応が素晴らしいです。食事も美味しく、また利用したいです。クチコミの詳細はこち…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「自転車旅にも対応自転車仲間と鯖街道を走る旅で利用しました。自転車をロビーで保管してくれたり、スタッフの対応が素晴らしいです。食事も美味しく、また利用したいです。」
                   </blockquote>
                 </div>
               </div>
@@ -792,7 +792,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　150台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.01 ／ 立地 ★3.83 ／ 部屋 ★3.8 ／ 設備 ★3.8 ／ 風呂 ★4.08 ／ 食事 ★4.01</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの対応と衛生面に大きな不満あり貸切風呂の予約を取る際に夕陽を見れる時間を希望した所、お風呂場からは見れないとスタッフ冷たく言われましたが実際は見れました。夕食時は隣の机の片付けを始めたかと…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの対応と衛生面に大きな不満あり貸切風呂の予約を取る際に夕陽を見れる時間を希望した所、お風呂場からは見れないとスタッフ冷たく言われましたが実際は見れました。」
                   </blockquote>
                 </div>
               </div>
@@ -836,7 +836,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　20台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.27 ／ 立地 ★4.12 ／ 部屋 ★3.92 ／ 設備 ★3.83 ／ 風呂 ★4.36 ／ 食事 ★4.26</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「初めての湯河原温泉で、当日思い立って予約。標準お得プランで申込みました。部屋は幸い本館2階だったので、お風呂にも食堂にもさほど問題なく行き来出来、15畳位のとても広い部屋に老夫婦2人でゆったり…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「初めての湯河原温泉で、当日思い立って予約。標準お得プランで申込みました。」
                   </blockquote>
                 </div>
               </div>
@@ -858,7 +858,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１５台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「少し残念設備の確認をせずにテレビがない事に知って失敗しました。料理は朝夕共に大変美味しかったです。ただ、夕食の時間が2時間20分ほどかかり、会話も弾まず、お酒も進まず、食事が終わるとグッタ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「少し残念設備の確認をせずにテレビがない事に知って失敗しました。料理は朝夕共に大変美味しかったです。」
                   </blockquote>
                 </div>
               </div>

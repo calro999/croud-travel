@@ -283,8 +283,8 @@ export default function Page() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 下呂駅よりアクセス。ＪＲ高山線 下呂駅より車で３分（無料送迎バス有り）/東海環状道富加関ＩＣより７０分又は中央道中津川ＩＣより６０分。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「下呂温泉 ホテルくさかべアルメリア」にチェックイン。下呂市街を一望出来る展望露天風呂！和洋中50種を超えるバイキングや飛騨牛を使用したフルコース会席！などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「下呂温泉 ホテルくさかべアルメリア」の湯処へ。下呂市街を一望出来る展望露天風呂！和洋中50種を超えるバイキングや飛騨とともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「下呂温泉 ホテルくさかべアルメリア」にチェックイン。下呂市街を一望出来る展望露天風呂！和洋中50種を超えるバイキングや飛騨牛を使用したフルコース会席！ 客室で身支度を整え、この宿ならではの滞在をスタート。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「下呂温泉 ホテルくさかべアルメリア」の自慢の湯処へ。温かな湯気と落ち着いた雰囲気に癒やされながら、夕食前の贅沢なひとときを過ごす。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「下呂温泉 ホテルくさかべアルメリア」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -296,7 +296,7 @@ export default function Page() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「下呂温泉 ホテルくさかべアルメリア」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「下呂温泉 ホテルくさかべアルメリア」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「山代温泉 雄山閣」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は宿周辺の散策とショッピングを満喫。地元の名産品やグルメを味わってから余裕をもって帰路につく。</li>
               </ul>
             </div>
           </div>
@@ -424,7 +424,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 下呂温泉　ホテルくさかべアルメリア</td>
                 <td className="p-3 text-stone-600">岐阜県下呂市幸田1811</td>
-                <td className="p-3 text-stone-600">下呂駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ高山線 下呂駅より車で３分（無料送迎バス有り）/東海環状道富加関ＩＣより７０分又は中央道中津川ＩＣより６０分</td>
                 <td className="p-3 text-stone-600">有り　２００台　無料　予約不要　電気自動車充電器あり（有料、要ケーブル持込み）</td>
                 <td className="p-3 font-bold text-amber-600">★4.21（4605件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,920〜</td>
@@ -433,7 +433,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 山代温泉　雄山閣（ＢＢＨホテルグループ）</td>
                 <td className="p-3 text-stone-600">石川県加賀市山代温泉東山町16番地の1</td>
-                <td className="p-3 text-stone-600">加賀温泉駅周辺</td>
+                <td className="p-3 text-stone-600">JR加賀温泉駅より、ホテル送迎バス(電話で要予約)、又は路線バスで約15分、タクシーで約10分</td>
                 <td className="p-3 text-stone-600">有り　２００台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★3.75（728件）</td>
                 <td className="p-3 font-bold text-rose-600">¥9,300〜</td>
@@ -442,7 +442,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 湯の山温泉　鹿の湯ホテル</td>
                 <td className="p-3 text-stone-600">三重県三重郡菰野町菰野8520-1</td>
-                <td className="p-3 text-stone-600">湯の山温泉駅周辺</td>
+                <td className="p-3 text-stone-600">湯の山駅まで無料送迎有（21時まで）／湯の山駅よりタクシー5分／新名神菰野ICより約5分（ナビでは湯の山郵便局で検索）</td>
                 <td className="p-3 text-stone-600">有り　３０台　先着順　（ナビでは湯の山郵便局で検索）</td>
                 <td className="p-3 font-bold text-amber-600">★4.5（822件）</td>
                 <td className="p-3 font-bold text-rose-600">¥9,900〜</td>
@@ -460,7 +460,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 登別温泉　登別グランドホテル</td>
                 <td className="p-3 text-stone-600">北海道登別市登別温泉町154</td>
-                <td className="p-3 text-stone-600">登別駅周辺</td>
+                <td className="p-3 text-stone-600">JR登別駅からタクシーにて約13分、路線バスにて登別駅⇒登別温泉ターミナル約15分（バス運賃片道350円）</td>
                 <td className="p-3 text-stone-600">有り　約100台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.28（3347件）</td>
                 <td className="p-3 font-bold text-rose-600">¥13,750〜</td>
@@ -511,7 +511,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２００台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.92 ／ 立地 ★3.6 ／ 部屋 ★3.59 ／ 設備 ★3.49 ／ 風呂 ★3.55 ／ 食事 ★3.86</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事の質と清掃状況に大きな不満ありはっきり書くと...他の方々が良い評価を書いてるのを見て期待して行きましたが部屋は大人数で行ったため、大広間の部屋に関しては良かったですが食事は食えた…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事の質と清掃状況に大きな不満ありはっきり書くと...他の方々が良い評価を書いてるのを見て期待して行きましたが部屋は大人数で行ったため、大広間の部屋に関しては良かったですが食事は食えた。」
                   </blockquote>
                 </div>
               </div>
@@ -533,7 +533,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　３０台　先着順　（ナビでは湯の山郵便局で検索）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.55 ／ 立地 ★4.3 ／ 部屋 ★4.5 ／ 設備 ★4.38 ／ 風呂 ★4.39 ／ 食事 ★4.54</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「子連れでも食事が美味しくのんびり満喫0歳児と3歳をつれていきましたが、とても過しやすく、大人はごはんが夕食も朝食も美味しくてのんびりできたのでとってもよかったです。またこのあたりに来る機会があ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「子連れでも食事が美味しくのんびり満喫0歳児と3歳をつれていきましたが、とても過しやすく、大人はごはんが夕食も朝食も美味しくてのんびりできたのでとってもよかったです。」
                   </blockquote>
                 </div>
               </div>
@@ -555,7 +555,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ゆったりとした食事会場と果てまで続く高原の眺望は得難いもの那須の同種の某リゾートより部屋数が多いしと期待値を下げていったのですが、広い分、ゆったり感は優っており、特に朝夕食会場のテーブルが余裕を持…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ゆったりとした食事会場と果てまで続く高原の眺望は得難いもの那須の同種の某リゾートより部屋数が多いしと期待値を下げていったのですが、広い分、ゆったり感は優っており、特に朝夕食会場のテーブルが余裕を持。」
                   </blockquote>
                 </div>
               </div>
@@ -577,7 +577,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　約100台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.28 ／ 立地 ★4.19 ／ 部屋 ★4.25 ／ 設備 ★4.15 ／ 風呂 ★4.35 ／ 食事 ★4.34</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「バイキング料理が最高、家族全員大満足!朝食、夕食ともにバイキング料理が最高でした。料理の種類も豊富で和洋中、イタリアンに至るまで展開され、味もどれを食べてもハズレが全くなく、とても美味しかったです…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「バイキング料理が最高、家族全員大満足!朝食、夕食ともにバイキング料理が最高でした。」
                   </blockquote>
                 </div>
               </div>

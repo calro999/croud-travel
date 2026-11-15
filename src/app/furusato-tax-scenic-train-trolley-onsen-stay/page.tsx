@@ -491,8 +491,8 @@ export default function Page() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 宇奈月温泉駅よりアクセス。北陸新幹線黒部宇奈月温泉駅から富山地鉄乗り換え25分。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「黒部峡谷・宇奈月温泉 ホテル黒部」にチェックイン。『宇奈月温泉随一の眺望』四季折々の地元食材と透明な美肌湯を堪能などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「黒部峡谷・宇奈月温泉 ホテル黒部」の湯処へ。『宇奈月温泉随一の眺望』四季折々の地元食材と透明な美肌湯を堪能とともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「黒部峡谷・宇奈月温泉 ホテル黒部」にチェックイン。『宇奈月温泉随一の眺望』四季折々の地元食材と透明な美肌湯を堪能が魅力の一軒。客室で荷物をほどいて穏やかな午後のひとときを。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「黒部峡谷・宇奈月温泉 ホテル黒部」の大浴場・露天風呂へ。日暮れの静けさの中で湯に浸かり、旅の緊張をゆっくりと解きほぐす。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「黒部峡谷・宇奈月温泉 ホテル黒部」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -504,7 +504,7 @@ export default function Page() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「黒部峡谷・宇奈月温泉 ホテル黒部」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「黒部峡谷・宇奈月温泉 ホテル黒部」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「黒部・宇奈月温泉 やまのは」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は「黒部峡谷・宇奈月温泉 ホテル黒部」周辺の観光スポットや地元の名産店に立ち寄り、ご当地のお土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>

@@ -253,7 +253,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 南知多温泉郷　水軍伝説の風薫る宿　花乃丸</td>
                 <td className="p-3 text-stone-600">愛知県知多郡南知多町豊浜廻間17-18</td>
-                <td className="p-3 text-stone-600">内海（愛知）駅周辺</td>
+                <td className="p-3 text-stone-600">知多半島道路 豊丘ＩＣより車約１０分／名鉄河和駅より無料送迎あり（事前予約制、14：35発、15：35発、16：35発）</td>
                 <td className="p-3 text-stone-600">有り　６０台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.18（809件）</td>
                 <td className="p-3 font-bold text-rose-600">¥9,900〜</td>
@@ -262,7 +262,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 民宿　釣舟の大友</td>
                 <td className="p-3 text-stone-600">愛知県知多郡南知多町片名新師崎7-4</td>
-                <td className="p-3 text-stone-600">河和駅周辺</td>
+                <td className="p-3 text-stone-600">名鉄河和駅より知多バス師崎行きに乗り新師崎バス停下車徒歩３分 師崎港から車で3分</td>
                 <td className="p-3 text-stone-600">有り　15台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★5（19件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,500〜</td>
@@ -271,7 +271,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. くるみ庵</td>
                 <td className="p-3 text-stone-600">愛知県知多郡南知多町師崎西新町32</td>
-                <td className="p-3 text-stone-600">河和駅周辺</td>
+                <td className="p-3 text-stone-600">名鉄 河和駅より「師崎港」行きバスにて「師崎西口」下車</td>
                 <td className="p-3 text-stone-600">有り　３台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.67（18件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,000〜</td>
@@ -280,7 +280,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. まるは食堂旅館　南知多豊浜本店</td>
                 <td className="p-3 text-stone-600">愛知県知多郡南知多町豊浜峠8</td>
-                <td className="p-3 text-stone-600">河和駅周辺</td>
+                <td className="p-3 text-stone-600">名鉄河和駅より海っ子バス「荒磯」バス停下車すぐ</td>
                 <td className="p-3 text-stone-600">有り　約２００台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.25（365件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,800〜</td>
@@ -289,7 +289,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 南知多温泉郷　源氏香</td>
                 <td className="p-3 text-stone-600">愛知県知多郡南知多町山海屋敷１０３</td>
-                <td className="p-3 text-stone-600">内海（愛知）駅周辺</td>
+                <td className="p-3 text-stone-600">名鉄河和駅／知多半島道路南知多ＩＣより国道２４７号経由で約１０分</td>
                 <td className="p-3 text-stone-600">有り　70台　無料　フリー</td>
                 <td className="p-3 font-bold text-amber-600">★4.38（652件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,850〜</td>
@@ -298,7 +298,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">6. サポートイン南知多</td>
                 <td className="p-3 text-stone-600">愛知県知多郡南知多町内海一色21-2</td>
-                <td className="p-3 text-stone-600">内海（愛知）駅周辺</td>
+                <td className="p-3 text-stone-600">名鉄内海駅より車で15分 中部国際空港より車で45分</td>
                 <td className="p-3 text-stone-600">有り　10台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★5（15件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,700〜</td>
@@ -393,7 +393,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　約２００台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「魚料理とあら汁に大満足、トイレは故障中魚類は美味しかったです。最後に出たあら汁も出汁もよく美味しいいただけました。お腹いっぱいでした。トイレのウォシュレットが故障してましたが...。…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「魚料理とあら汁に大満足、トイレは故障中魚類は美味しかったです。最後に出たあら汁も出汁もよく美味しいいただけました。お腹いっぱいでした。トイレのウォシュレットが故障してましたが...。」
                   </blockquote>
                 </div>
               </div>
@@ -415,7 +415,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　70台　無料　フリー</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「露天風呂付きのお部屋に宿泊しましたが、部屋からのオーシャンビューが本当に素晴らしく、景色を眺めながらゆっくりと過ごすことができました。スタッフの皆さんの接客もとても丁寧で、終始気持ちよく過ごせ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「露天風呂付きのお部屋に宿泊しましたが、部屋からのオーシャンビューが本当に素晴らしく、景色を眺めながらゆっくりと過ごすことができました。」
                   </blockquote>
                 </div>
               </div>

@@ -253,7 +253,7 @@ export default function WellnessRetreatHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 鳴子温泉郷　極上の貸切露天風呂　旅館大沼</td>
                 <td className="p-3 text-stone-600">宮城県大崎市鳴子温泉赤湯34</td>
-                <td className="p-3 text-stone-600">東北新幹線『古川駅』よりＪＲ陸羽東線に乗り換え、『鳴子御殿湯駅』下車、</td>
+                <td className="p-3 text-stone-600">東北新幹線『古川駅』よりＪＲ陸羽東線に乗り換え、『鳴子御殿湯駅』下車、徒歩５分。鳴子温泉からはタクシーで約5分。</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.58（614件）</td>
                 <td className="p-3 font-bold text-rose-600">¥13,530〜</td>
@@ -262,7 +262,7 @@ export default function WellnessRetreatHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 草津温泉　ホテルクアビオ（Ｈｏｔｅｌ　ＫＵＲＢＩＯ）</td>
                 <td className="p-3 text-stone-600">群馬県吾妻郡草津町草津226-63</td>
-                <td className="p-3 text-stone-600">長野原草津口駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ長野原草津口駅よりバス草津バスターミナル行きにて２５分草津バスターミナル下車徒歩にて１３分、お車にて５分（送迎あり）</td>
                 <td className="p-3 text-stone-600">有り　１０台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.76（97件）</td>
                 <td className="p-3 font-bold text-rose-600">¥21,500〜</td>
@@ -271,7 +271,7 @@ export default function WellnessRetreatHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 湯田上温泉　なつかしの宿　末廣館</td>
                 <td className="p-3 text-stone-600">新潟県南蒲原郡田上町大字田上乙535-3</td>
-                <td className="p-3 text-stone-600">田上（新潟）駅周辺</td>
+                <td className="p-3 text-stone-600">北陸自動車道三条燕ＩＣより車で30分。ＪＲ信越線田上駅より車で5分（田上駅前タクシー無し）</td>
                 <td className="p-3 text-stone-600">有り　20台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.31（253件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,400〜</td>
@@ -280,7 +280,7 @@ export default function WellnessRetreatHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 渓谷に佇む源泉湯宿　四万やまぐち館</td>
                 <td className="p-3 text-stone-600">群馬県吾妻郡中之条町四万3876-1</td>
-                <td className="p-3 text-stone-600">中之条駅周辺</td>
+                <td className="p-3 text-stone-600">高崎駅→中之条駅→関越交通バス「山口」下車0分。関越道→月夜野IC・渋川伊香保ICより約60分。</td>
                 <td className="p-3 text-stone-600">有り　90台　無料、まずは当館玄関前にお越しください、お車のキーはお預かりしております。</td>
                 <td className="p-3 font-bold text-amber-600">★4.42（2165件）</td>
                 <td className="p-3 font-bold text-rose-600">¥9,350〜</td>
@@ -289,7 +289,7 @@ export default function WellnessRetreatHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 四万温泉　積善館　佳松亭・山荘</td>
                 <td className="p-3 text-stone-600">群馬県吾妻郡中之条町四万甲4236</td>
-                <td className="p-3 text-stone-600">中之条駅周辺</td>
+                <td className="p-3 text-stone-600">中之条駅からバス４０分終点下車・車で２５分／渋川伊香保ＩＣ→Ｒ１７→Ｒ３５３で約３９ｋｍ６０分</td>
                 <td className="p-3 text-stone-600">有り　５０台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.66（1224件）</td>
                 <td className="p-3 font-bold text-rose-600">¥23,100〜</td>
@@ -298,7 +298,7 @@ export default function WellnessRetreatHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">6. 宙の森ホテル　花郷里</td>
                 <td className="p-3 text-stone-600">兵庫県美方郡香美町小代区大谷300</td>
-                <td className="p-3 text-stone-600">八鹿駅周辺</td>
+                <td className="p-3 text-stone-600">八鹿駅より全但バス「秋岡」行に乗車（約1時間）、「小代大谷」バス停下車、徒歩で約10分</td>
                 <td className="p-3 text-stone-600">有り　１０台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.43（38件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,850〜</td>
@@ -327,7 +327,7 @@ export default function WellnessRetreatHubPage() {
                   <p>【現代版プチ湯治＆ファスティング宿：デトックス・薬膳料】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「またゆきたい設備は古いが、清潔に保たれてます。夕食とても美味しかったです。離れた所にある露天風呂も良い。蒸し風呂(サウナ)に入れます方法が内湯から入れるようになると入りやすいと思います…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「またゆきたい設備は古いが、清潔に保たれてます。夕食とても美味しかったです。離れた所にある露天風呂も良い。」
                   </blockquote>
                 </div>
               </div>
@@ -349,7 +349,7 @@ export default function WellnessRetreatHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１０台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ファスティングで体調改善、母娘で大満足胃腸を休めることを目的に「ファスティング」が体験できるホテルを探していたところ、ホテルクアビオと出会いました。料金はやや高めですが、ファスティングによって得ら…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ファスティングで体調改善、母娘で大満足胃腸を休めることを目的に「ファスティング」が体験できるホテルを探していたところ、ホテルクアビオと出会いました。」
                   </blockquote>
                 </div>
               </div>
@@ -371,7 +371,7 @@ export default function WellnessRetreatHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　20台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「懐かしくてホッコリする素朴な宿とってもローカルな感じのお宿でした。自販機もなくクーラーボックスに入って飲み物が売ってました。笑ビール冷えてました!何か凄く良いと言う感じではありませんが…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「懐かしくてホッコリする素朴な宿とってもローカルな感じのお宿でした。自販機もなくクーラーボックスに入って飲み物が売ってました。笑ビール冷えてました!」
                   </blockquote>
                 </div>
               </div>
@@ -393,7 +393,7 @@ export default function WellnessRetreatHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　90台　無料、まずは当館玄関前にお越しください、お車のキーはお預かりしております。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.41 ／ 立地 ★4.43 ／ 部屋 ★4.33 ／ 設備 ★4.24 ／ 風呂 ★4.67 ／ 食事 ★4.33</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「長時間滞在と温泉、食事に大満足!チェックイン14:30、チェックアウト11:00には驚きました。たっぷり温泉に入りたい身にはありがたいサービスです。4回、入れました。泉質は申し分ないです。温泉…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「長時間滞在と温泉、食事に大満足!チェックイン14:30、チェックアウト11:00には驚きました。たっぷり温泉に入りたい身にはありがたいサービスです。4回、入れました。泉質は申し分ないです。」
                   </blockquote>
                 </div>
               </div>

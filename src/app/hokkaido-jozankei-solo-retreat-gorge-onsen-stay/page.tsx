@@ -338,8 +338,8 @@ export default function ArticlePage() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 真駒内駅よりアクセス。じょうてつバス定山渓線定山渓湯の町下車すぐ。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「定山渓温泉 ぬくもりの宿 ふる川」にチェックイン。道内では珍しい民芸調の宿屋、館内には囲炉裏があり、田舎情緒たっぷり。などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「定山渓温泉 ぬくもりの宿 ふる川」の湯処へ。道内では珍しい民芸調の宿屋、館内には囲炉裏があり、田舎情緒たっぷり。とともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「定山渓温泉 ぬくもりの宿 ふる川」にチェックイン。道内では珍しい民芸調の宿屋、館内には囲炉裏があり、田舎情緒たっぷり。 荷物を解き、落ち着いた室内でまず一息つく。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「定山渓温泉 ぬくもりの宿 ふる川」の湯船で寛ぎタイム。季節の空気を感じながら手足を伸ばし、心豊かな夕方のリラックス時間を満喫。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「定山渓温泉 ぬくもりの宿 ふる川」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -351,7 +351,7 @@ export default function ArticlePage() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「定山渓温泉 ぬくもりの宿 ふる川」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「定山渓温泉 ぬくもりの宿 ふる川」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「定山渓温泉 定山渓第一寶亭留 翠山亭」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は「定山渓温泉 ぬくもりの宿 ふる川」周辺の観光スポットや地元の名産店に立ち寄り、ご当地のお土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>
@@ -388,28 +388,28 @@ export default function ArticlePage() {
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
             <div className="flex flex-wrap gap-2">
               <Link
-                href="/prefectures/kochi/"
+                href="/prefectures/hokkaido/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                高知県の宿・温泉
+                北海道の宿・温泉
               </Link>
               <Link
-                href="/prefectures/ehime/"
+                href="/prefectures/aomori/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                愛媛県の宿・温泉
+                青森県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/kagoshima/"
+                href="/prefectures/iwate/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                鹿児島県の宿・温泉
+                岩手県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/gifu/"
+                href="/prefectures/miyagi/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                岐阜県の宿・温泉
+                宮城県の宿・温泉
               </Link>
             </div>
           </div>
@@ -445,7 +445,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 奥定山渓温泉　佳松御苑</td>
                 <td className="p-3 text-stone-600">北海道札幌市南区定山渓857</td>
-                <td className="p-3 text-stone-600">札幌駅周辺</td>
+                <td className="p-3 text-stone-600">＜公共交通機関＞ JR札幌駅から道南バスで70分、「薄別」停留所にて下車、徒歩すぐでございます。</td>
                 <td className="p-3 text-stone-600">有り　30台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.79（190件）</td>
                 <td className="p-3 font-bold text-rose-600">¥37,750〜</td>
@@ -454,7 +454,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 定山渓温泉　ぬくもりの宿　ふる川</td>
                 <td className="p-3 text-stone-600">北海道札幌市南区定山渓温泉西4-353</td>
-                <td className="p-3 text-stone-600">真駒内駅周辺</td>
+                <td className="p-3 text-stone-600">じょうてつバス定山渓線定山渓湯の町下車すぐ。無料送迎バス毎日１便運行／大通西１丁目テレビ塔北向かい出発。事前予約制。</td>
                 <td className="p-3 text-stone-600">有り　　50台　１泊　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.62（1397件）</td>
                 <td className="p-3 font-bold text-rose-600">¥16,800〜</td>
@@ -463,7 +463,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 定山渓温泉　定山渓第一寶亭留　翠山亭</td>
                 <td className="p-3 text-stone-600">北海道札幌市南区定山渓温泉西3-105</td>
-                <td className="p-3 text-stone-600">札幌駅周辺</td>
+                <td className="p-3 text-stone-600">札幌より無料送迎バス運行（要予約）／ＪＲ札幌駅より車で60分／新千歳空港より車で約2時間</td>
                 <td className="p-3 text-stone-600">有り　１00台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.48（1522件）</td>
                 <td className="p-3 font-bold text-rose-600">¥16,286〜</td>
@@ -492,7 +492,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　30台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.76 ／ 立地 ★4.71 ／ 部屋 ★4.78 ／ 設備 ★4.73 ／ 風呂 ★4.76 ／ 食事 ★4.76</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「2 度目の来訪2度目の来訪です。初めては夫と宿泊し全てが最高だったため、次回は娘も連れてきてあげたいと思い2人での宿泊でした。結果、大満足の旅となりました。接客はもちろん、お部屋も…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「2 度目の来訪2度目の来訪です。初めては夫と宿泊し全てが最高だったため、次回は娘も連れてきてあげたいと思い2人での宿泊でした。結果、大満足の旅となりました。」
                   </blockquote>
                 </div>
               </div>
@@ -514,7 +514,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　　50台　１泊　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「接客も食事も温泉も最高、また紹介したい宿シニア夫婦で 色々な温泉宿に泊まってますが、定山渓のふる川さんは大満足でした まず、従業員の方々が非常に感じがよく そしてお食事もお風呂も最高でした。強いて…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「接客も食事も温泉も最高、また紹介したい宿シニア夫婦で 色々な温泉宿に泊まってますが、定山渓のふる川さんは大満足でした まず、従業員の方々が非常に感じがよく そしてお食事もお風呂も最高でした。」
                   </blockquote>
                 </div>
               </div>
@@ -536,7 +536,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１00台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.49 ／ 立地 ★4.4 ／ 部屋 ★4.46 ／ 設備 ★4.42 ／ 風呂 ★4.45 ／ 食事 ★4.58</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「誕生日のお祝いに丁寧な対応で大満足恋人のお誕生日祝いで泊まりました。事前に誕生日ケーキをお願いしており、受け取りが夜中だったにも関わらず丁寧に対応していただきました。当初の受け取り時間よりも遅…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「誕生日のお祝いに丁寧な対応で大満足恋人のお誕生日祝いで泊まりました。事前に誕生日ケーキをお願いしており、受け取りが夜中だったにも関わらず丁寧に対応していただきました。」
                   </blockquote>
                 </div>
               </div>

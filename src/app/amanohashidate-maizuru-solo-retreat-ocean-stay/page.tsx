@@ -393,8 +393,8 @@ export default function ArticlePage() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 天橋立駅よりアクセス。天橋立駅より徒歩1分／宮津天橋立I.C.より約10分。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「天橋立温泉 天橋立ホテル」にチェックイン。客室・大浴場・露天風呂より天橋立を一望していただける天然温泉のお宿：天橋立駅より徒歩1分などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「天橋立温泉 天橋立ホテル」の湯処へ。客室・大浴場・露天風呂より天橋立を一望していただける天然温泉のお宿：天とともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「天橋立温泉 天橋立ホテル」にチェックイン。客室・大浴場・露天風呂より天橋立を一望していただける天然温泉のお宿：天橋立駅より徒歩1分 客室で荷物をほどき、旅の疲れをゆっくり解きほぐす。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「天橋立温泉 天橋立ホテル」の大浴場・露天風呂へ。日暮れの風情に包まれながらゆっくりと湯浴みを楽しむ。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「天橋立温泉 天橋立ホテル」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -406,7 +406,7 @@ export default function ArticlePage() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「天橋立温泉 天橋立ホテル」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「天橋立温泉 天橋立ホテル」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「天橋立温泉 和のリゾート 文珠荘」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は「天橋立温泉 天橋立ホテル」周辺の観光スポットや地元の名産店に立ち寄り、お土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>
@@ -443,28 +443,28 @@ export default function ArticlePage() {
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
             <div className="flex flex-wrap gap-2">
               <Link
-                href="/prefectures/shizuoka/"
+                href="/prefectures/kyoto/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                静岡県の宿・温泉
+                京都府の宿・温泉
               </Link>
               <Link
-                href="/prefectures/kagoshima/"
+                href="/prefectures/osaka/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                鹿児島県の宿・温泉
+                大阪府の宿・温泉
               </Link>
               <Link
-                href="/prefectures/fukushima/"
+                href="/prefectures/hyogo/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                福島県の宿・温泉
+                兵庫県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/toyama/"
+                href="/prefectures/nara/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                富山県の宿・温泉
+                奈良県の宿・温泉
               </Link>
             </div>
           
@@ -505,7 +505,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 天橋立温泉　天橋立ホテル</td>
                 <td className="p-3 text-stone-600">京都府宮津市文珠310</td>
-                <td className="p-3 text-stone-600">天橋立駅周辺</td>
+                <td className="p-3 text-stone-600">天橋立駅より徒歩1分／宮津天橋立I.C.より約10分</td>
                 <td className="p-3 text-stone-600">有り　70台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.32（1071件）</td>
                 <td className="p-3 font-bold text-rose-600">¥11,550〜</td>
@@ -514,7 +514,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 天橋立温泉　和のリゾート　文珠荘</td>
                 <td className="p-3 text-stone-600">京都府宮津市字文珠510</td>
-                <td className="p-3 text-stone-600">天橋立駅周辺</td>
+                <td className="p-3 text-stone-600">京都丹後鉄道　天橋立駅より徒歩3分</td>
                 <td className="p-3 text-stone-600">有り　３０台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.49（546件）</td>
                 <td className="p-3 font-bold text-rose-600">¥18,700〜</td>
@@ -523,7 +523,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. ホテル　アマービレ舞鶴</td>
                 <td className="p-3 text-stone-600">京都府舞鶴市浜18</td>
-                <td className="p-3 text-stone-600">東舞鶴駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ東舞鶴駅北口より三条通りを北へまっすぐ徒歩約１0分、お車で約3分。舞鶴東ICよりお車で約１０分。綾部ICより約２５分</td>
                 <td className="p-3 text-stone-600">無料先着58台　２ｔ車以上要連絡　ホテル裏側含め計3ヶ所　ホテルから離れておりご足労おかけ致します。</td>
                 <td className="p-3 font-bold text-amber-600">★4.15（1279件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,500〜</td>
@@ -552,7 +552,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　70台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「個室露天風呂と食事に満足、良い思い出に個室露天風呂付き特別室を利用しました。宿泊費はかかりましましたが、お部屋、部屋付きの露天風呂、食事などは概ね満足でした。天橋立の松林を散策がてら対岸ま…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「個室露天風呂と食事に満足、良い思い出に個室露天風呂付き特別室を利用しました。宿泊費はかかりましましたが、お部屋、部屋付きの露天風呂、食事などは概ね満足でした。」
                   </blockquote>
                 </div>
               </div>
@@ -574,7 +574,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　３０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「雰囲気も料理も温泉も最高、接客も大満足お宿の雰囲気もお料理も温泉もとても良かったです。スタッフの皆さんも、到着から出発まで気持ち良い接客で大満足でした。お部屋の洗面スペースだけ空調が無かっ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「雰囲気も料理も温泉も最高、接客も大満足お宿の雰囲気もお料理も温泉もとても良かったです。スタッフの皆さんも、到着から出発まで気持ち良い接客で大満足でした。」
                   </blockquote>
                 </div>
               </div>

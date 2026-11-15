@@ -310,7 +310,7 @@ export default function AutumnBudgetToyohashiHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. ＡＢホテル豊橋</td>
                 <td className="p-3 text-stone-600">愛知県豊橋市白河町85-1</td>
-                <td className="p-3 text-stone-600">豊橋駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ・名鉄『豊橋駅』西口より徒歩3分。東名高速「豊川IC」より車で約25分。</td>
                 <td className="p-3 text-stone-600">提携駐車場：500円（1泊：15：00〜翌12：00）先着順・予約不可・出入別料金・台数制限有</td>
                 <td className="p-3 font-bold text-amber-600">★4.16（1848件）</td>
                 <td className="p-3 font-bold text-rose-600">¥2,400〜</td>
@@ -319,7 +319,7 @@ export default function AutumnBudgetToyohashiHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 備長炭の湯　ホテルクラウンヒルズ豊橋（ＢＢＨホテルグループ）</td>
                 <td className="p-3 text-stone-600">愛知県豊橋市札木町66-1</td>
-                <td className="p-3 text-stone-600">豊橋駅周辺</td>
+                <td className="p-3 text-stone-600">JR・名鉄「豊橋」駅東口より徒歩約１０分。 路面電車「札木」駅より徒歩約２分。豊鉄バス「本町」降車 徒歩０分</td>
                 <td className="p-3 text-stone-600">先着順・予約不可の敷地外駐車場11台分有り。出庫後再確保は不可となります。提携コインPはありません</td>
                 <td className="p-3 font-bold text-amber-600">★4.08（510件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,700〜</td>
@@ -328,7 +328,7 @@ export default function AutumnBudgetToyohashiHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. ジャストインプレミアム豊橋駅新幹線口</td>
                 <td className="p-3 text-stone-600">愛知県豊橋市白河町31-2</td>
-                <td className="p-3 text-stone-600">豊橋駅周辺</td>
+                <td className="p-3 text-stone-600">豊橋駅西口（新幹線口）より徒歩１分、東名豊川インターより約25分</td>
                 <td className="p-3 text-stone-600">提携のみ①グッドパーキング(15時〜翌11時1100円)②ダイワパーク(18時〜翌9時1000円)</td>
                 <td className="p-3 font-bold text-amber-600">★4.26（1846件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,300〜</td>
@@ -337,7 +337,7 @@ export default function AutumnBudgetToyohashiHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 豊橋ビジネスホテル</td>
                 <td className="p-3 text-stone-600">愛知県豊橋市花園町12</td>
-                <td className="p-3 text-stone-600">豊橋駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ豊橋駅より徒歩8分</td>
                 <td className="p-3 text-stone-600">隣接あお空駐車場有り　24台　普通車８００円　大型車１，６００〜３，２００円　最大12ｍまで</td>
                 <td className="p-3 font-bold text-amber-600">★4.17（523件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,500〜</td>
@@ -346,7 +346,7 @@ export default function AutumnBudgetToyohashiHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. ロワジールホテル豊橋</td>
                 <td className="p-3 text-stone-600">愛知県豊橋市藤沢町141</td>
-                <td className="p-3 text-stone-600">豊橋駅周辺</td>
+                <td className="p-3 text-stone-600">「豊橋駅」より車で約10分</td>
                 <td className="p-3 text-stone-600">ホテル専用無料駐車場138台完備。　隣接施設共用駐車場も無料でご利用頂けます。</td>
                 <td className="p-3 font-bold text-amber-600">★4.41（2945件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,800〜</td>
@@ -397,7 +397,7 @@ export default function AutumnBudgetToyohashiHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>先着順・予約不可の敷地外駐車場11台分有り。出庫後再確保は不可となります。提携コインPはありません</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.14 ／ 立地 ★3.98 ／ 部屋 ★3.97 ／ 設備 ★4.04 ／ 風呂 ★4.03 ／ 食事 ★4.14</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「漫画や大浴場も楽しめた豊橋公園に行くのにアクセスもいいし、フロントの方も感じよく、無料ドリンクや漫画コーナーがあったり、大浴場があったり、思いのほか、楽しく滞在できました。近くの老舗のうなぎ屋さん…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「漫画や大浴場も楽しめた豊橋公園に行くのにアクセスもいいし、フロントの方も感じよく、無料ドリンクや漫画コーナーがあったり、大浴場があったり、思いのほか、楽しく滞在できました。」
                   </blockquote>
                 </div>
               </div>
@@ -419,7 +419,7 @@ export default function AutumnBudgetToyohashiHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>提携のみ①グッドパーキング(15時〜翌11時1100円)②ダイワパーク(18時〜翌9時1000円)</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.24 ／ 立地 ★4.31 ／ 部屋 ★4.28 ／ 設備 ★4.21 ／ 風呂 ★4.11 ／ 食事 ★4.24</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食が豪華で最高、豊橋ならここ!お部屋はコンパクトながら眺望もよく、朝食バイキングが最高でした!  2度目の宿泊です。前回はコロナ禍だったため簡素な朝食でしたが、数年ぶりに再訪すると、ネギトロ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食が豪華で最高、豊橋ならここ!お部屋はコンパクトながら眺望もよく、朝食バイキングが最高でした! 2度目の宿泊です。」
                   </blockquote>
                 </div>
               </div>
@@ -441,7 +441,7 @@ export default function AutumnBudgetToyohashiHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>隣接あお空駐車場有り　24台　普通車８００円　大型車１，６００〜３，２００円　最大12ｍまで</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.17 ／ 立地 ★3.96 ／ 部屋 ★4.08 ／ 設備 ★4 ／ 風呂 ★3.93 ／ 食事 ★4.3</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「豚汁が美味しい朝食と便利な立地豚汁の朝ご飯が美味しかったです。ウエルカムドリンクは毎日いただけました。歩いてすぐのところにスーパーがあるので便利です。19時閉店に注意ですが。クチコミの詳細はこ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「豚汁が美味しい朝食と便利な立地豚汁の朝ご飯が美味しかったです。ウエルカムドリンクは毎日いただけました。歩いてすぐのところにスーパーがあるので便利です。19時閉店に注意ですが。」
                   </blockquote>
                 </div>
               </div>

@@ -262,7 +262,7 @@ export default function SeasonalFeaturePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 越後湯沢温泉　湯沢東映ホテル</td>
                 <td className="p-3 text-stone-600">新潟県南魚沼郡湯沢町湯沢3459</td>
-                <td className="p-3 text-stone-600">越後湯沢駅周辺</td>
+                <td className="p-3 text-stone-600">JR越後湯沢駅西口より徒歩8分。関越自動車道・越後湯沢ICより約5分。越後湯沢駅西口・高速バス乗り場の無料送迎有。</td>
                 <td className="p-3 text-stone-600">第1～第4駐車場まで82台駐車可能　（無料・予約不要）。</td>
                 <td className="p-3 font-bold text-amber-600">★4.08（1591件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,600〜</td>
@@ -271,7 +271,7 @@ export default function SeasonalFeaturePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. アルミュール</td>
                 <td className="p-3 text-stone-600">新潟県南魚沼市石打834-28</td>
-                <td className="p-3 text-stone-600">越後湯沢駅周辺</td>
+                <td className="p-3 text-stone-600">車：関越道/湯沢ＩＣから国道17号を新潟方面へ約５ｋｍ熱気球の絵の看板を左折。電車：上越新幹線/越後湯沢駅タクシー約7分</td>
                 <td className="p-3 text-stone-600">専用駐車場0分：無料（チェックイン前とアウト後も駐車ＯＫです）</td>
                 <td className="p-3 font-bold text-amber-600">★4.6（117件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,000〜</td>
@@ -280,7 +280,7 @@ export default function SeasonalFeaturePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 会津東山温泉　くつろぎ宿　新滝</td>
                 <td className="p-3 text-stone-600">福島県会津若松市東山町湯本川向222</td>
-                <td className="p-3 text-stone-600">会津若松駅周辺</td>
+                <td className="p-3 text-stone-600">【お車】会津若松ＩＣ～約２０分【会津若松駅より】タクシー１３分／周遊バス「あかべぇ」１６分「東山温泉駅バス停」～徒歩３分</td>
                 <td className="p-3 text-stone-600">駐車場は80台まで無料で可能です★予約は不要です★大型車でのご来館は事前にご相談ください★</td>
                 <td className="p-3 font-bold text-amber-600">★4.65（2487件）</td>
                 <td className="p-3 font-bold text-rose-600">¥14,800〜</td>
@@ -289,7 +289,7 @@ export default function SeasonalFeaturePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 会津東山温泉　いろりの宿　芦名</td>
                 <td className="p-3 text-stone-600">福島県会津若松市東山町湯本下原232-1</td>
-                <td className="p-3 text-stone-600">会津若松駅周辺</td>
+                <td className="p-3 text-stone-600">最寄駅：会津若松駅からタクシー又は「東山温泉」へ向かう路線バスで約20分 最寄IC:会津若松から約15分</td>
                 <td className="p-3 text-stone-600">有り　10台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.3（203件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,470〜</td>
@@ -298,7 +298,7 @@ export default function SeasonalFeaturePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 会津東山温泉　くつろぎ宿　千代滝</td>
                 <td className="p-3 text-stone-600">福島県会津若松市東山町湯本寺屋敷43</td>
-                <td className="p-3 text-stone-600">会津若松駅周辺</td>
+                <td className="p-3 text-stone-600">【車】会津若松ＩＣ～約20分【会津若松駅より】周遊バスにて「会津武家屋敷前」下車徒歩約15分or送迎有：到着時TEL</td>
                 <td className="p-3 text-stone-600">駐車場：70台有り／ 無料／すべて野外駐車場／予約は不要です</td>
                 <td className="p-3 font-bold text-amber-600">★4.49（2544件）</td>
                 <td className="p-3 font-bold text-rose-600">¥14,800〜</td>
@@ -307,7 +307,7 @@ export default function SeasonalFeaturePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">6. ホテル佐野家</td>
                 <td className="p-3 text-stone-600">京都府京都市下京区東洞院通七条下ル2東塩小路町539</td>
-                <td className="p-3 text-stone-600">京都駅周辺</td>
+                <td className="p-3 text-stone-600">京都の玄関口JR・近鉄・地下鉄京都駅から徒歩3分の立地！地下街ポルタのA-5出口から約20秒の所に位置しております。</td>
                 <td className="p-3 text-stone-600">無し。近くの有料駐車場のご案内となります。</td>
                 <td className="p-3 font-bold text-amber-600">★4.38（446件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,920〜</td>
@@ -336,7 +336,7 @@ export default function SeasonalFeaturePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>第1～第4駐車場まで82台駐車可能　（無料・予約不要）。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「バイキングは豪華だが大浴場が暑すぎる朝夕のバイキングの食事がとても豪華でした!種類もとても多く、大満足です。大浴場の洗い場が、大浴場で今までに経験したことのないくらいの暑さで、大浴場自体がサウ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「バイキングは豪華だが大浴場が暑すぎる朝夕のバイキングの食事がとても豪華でした!種類もとても多く、大満足です。」
                   </blockquote>
                 </div>
               </div>
@@ -358,7 +358,7 @@ export default function SeasonalFeaturePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>専用駐車場0分：無料（チェックイン前とアウト後も駐車ＯＫです）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ペットと快適に過ごせ、料理も美味しいミニチュアシュナウザー一匹と宿泊させていただきました ペットにもおおらかに対応してくださり お料理も 美味しく ボリュームもありました 一日目 別注で鯛のアクア…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ペットと快適に過ごせ、料理も美味しいミニチュアシュナウザー一匹と宿泊させていただきました ペットにもおおらかに対応してくださり お料理も 美味しく ボリュームもありました 一日目 別注で鯛のアクア。」
                   </blockquote>
                 </div>
               </div>
@@ -380,7 +380,7 @@ export default function SeasonalFeaturePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>駐車場は80台まで無料で可能です★予約は不要です★大型車でのご来館は事前にご相談ください★</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.62 ／ 立地 ★4.49 ／ 部屋 ★4.66 ／ 設備 ★4.57 ／ 風呂 ★4.7 ／ 食事 ★4.72</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「料理と温泉は最高だが部屋のタバコ臭が残念お料理は郷土料理が中心でとても満足しました!アルコール類もたくさんあり今回は飲み比べをチョイスし大満足です。お風呂は種類もあり各々のお風呂にタオルも用意され…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「料理と温泉は最高だが部屋のタバコ臭が残念お料理は郷土料理が中心でとても満足しました!アルコール類もたくさんあり今回は飲み比べをチョイスし大満足です。」
                   </blockquote>
                 </div>
               </div>

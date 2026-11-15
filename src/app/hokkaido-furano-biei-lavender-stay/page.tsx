@@ -253,7 +253,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 富良野リゾートホテル　エーデルヴェルメ</td>
                 <td className="p-3 text-stone-600">北海道富良野市北の峰町9-20</td>
-                <td className="p-3 text-stone-600">富良野駅周辺</td>
+                <td className="p-3 text-stone-600">札幌ICから道央自動車道、三笠ICまで約30分、道道116号岩見沢三笠線/国道38号線、北の峰経由で約1時間30分</td>
                 <td className="p-3 text-stone-600">有り　５０台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.07（428件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,470〜</td>
@@ -262,7 +262,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 美瑛白金温泉　ホテルパークヒルズ</td>
                 <td className="p-3 text-stone-600">北海道上川郡美瑛町字白金温泉</td>
-                <td className="p-3 text-stone-600">美瑛駅周辺</td>
+                <td className="p-3 text-stone-600">美瑛駅より車で２５分／旭川空港より車で４０分／道央自動車道 旭川鷹栖ＩＣより車で６０分</td>
                 <td className="p-3 text-stone-600">有り　120台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.21（1452件）</td>
                 <td className="p-3 font-bold text-rose-600">¥10,340〜</td>
@@ -271,7 +271,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. Ｂ　ｃｙｃｌｅ</td>
                 <td className="p-3 text-stone-600">北海道上川郡美瑛町栄町1-7-14</td>
-                <td className="p-3 text-stone-600">美瑛駅周辺</td>
+                <td className="p-3 text-stone-600">美瑛駅より徒歩約３分</td>
                 <td className="p-3 text-stone-600">有り　１台　無料　要予約</td>
                 <td className="p-3 font-bold text-amber-600">高評価</td>
                 <td className="p-3 font-bold text-rose-600">¥3,433〜</td>
@@ -280,7 +280,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. Ｂ＆Ｂ　ケンとメリー</td>
                 <td className="p-3 text-stone-600">北海道上川郡美瑛町字大村大久保協生</td>
-                <td className="p-3 text-stone-600">美瑛駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ 美瑛駅よりお車にて５分</td>
                 <td className="p-3 text-stone-600">有り　６台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★5（7件）</td>
                 <td className="p-3 font-bold text-rose-600">¥10,000〜</td>
@@ -289,7 +289,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. コテージクローバー</td>
                 <td className="p-3 text-stone-600">北海道上川郡美瑛町字大村大久保第一</td>
-                <td className="p-3 text-stone-600">美瑛駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ 美瑛駅よりお車で５分</td>
                 <td className="p-3 text-stone-600">有り　１台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">高評価</td>
                 <td className="p-3 font-bold text-rose-600">プラン参照</td>
@@ -298,7 +298,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">6. 天然温泉　紫雲の湯　ラビスタ富良野ヒルズ（ドーミーイン・御宿野乃　ホテルズグループ）</td>
                 <td className="p-3 text-stone-600">北海道富良野市朝日町5-14</td>
-                <td className="p-3 text-stone-600">富良野駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ富良野駅より徒歩3分・旭川空港からバスで約1時間・新千歳空港からお車で約2時間10分・札幌市内からお車で約2時間</td>
                 <td className="p-3 text-stone-600">有　ホテル駐車場無料（先着順）　※満車時は近隣パーキングにご案内致します。</td>
                 <td className="p-3 font-bold text-amber-600">★4.41（719件）</td>
                 <td className="p-3 font-bold text-rose-600">¥10,560〜</td>
@@ -327,7 +327,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　５０台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「満足です。夜ご飯のお肉が美味しかったです。スタッフの方の対応も良く、笑顔で対応してくれました。ウェルカムドリンクや、ポップコーンなど置いてあり、嬉しかったです。お部屋のゴミ箱に袋が設置…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「満足です。夜ご飯のお肉が美味しかったです。スタッフの方の対応も良く、笑顔で対応してくれました。ウェルカムドリンクや、ポップコーンなど置いてあり、嬉しかったです。」
                   </blockquote>
                 </div>
               </div>
@@ -349,7 +349,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　120台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「白髭の滝が近く、プールや朝食も充実朝食バイキング、子ども用メニューがあった。施設内にプールあり、水着を持ってくればよかった。白髭の滝が徒歩数分は魅力的!!ただナビの案内でホテル近くでじ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「白髭の滝が近く、プールや朝食も充実朝食バイキング、子ども用メニューがあった。施設内にプールあり、水着を持ってくればよかった。白髭の滝が徒歩数分は魅力的!!」
                   </blockquote>
                 </div>
               </div>
@@ -437,7 +437,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有　ホテル駐車場無料（先着順）　※満車時は近隣パーキングにご案内致します。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「正直言うと、最初は節約のため...とリゾートホテル連泊を諦めて予約させていただいたのですが、施設は清潔だし、温泉も気持ちがいいし、温泉のドライヤーはパナソニックの上位機種と絹女だし、パジャマや子供用の…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「正直言うと、最初は節約のため...とリゾートホテル連泊を諦めて予約させていただいたのですが、施設は清潔だし、温泉も気持ちがいいし、温泉のドライヤーはパナソニックの上位機種と絹女だし。」
                   </blockquote>
                 </div>
               </div>

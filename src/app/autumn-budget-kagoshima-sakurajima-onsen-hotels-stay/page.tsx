@@ -310,7 +310,7 @@ export default function AutumnBudgetKagoshimaHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. ホテル　サンフレックス鹿児島</td>
                 <td className="p-3 text-stone-600">鹿児島県鹿児島市堀江町19-14</td>
-                <td className="p-3 text-stone-600">鹿児島中央駅周辺</td>
+                <td className="p-3 text-stone-600">鹿児島中央駅より市電「いづろ通」徒歩３分・空港リムジンバス「天文館」５分・高速船旅客ターミナル徒歩７分</td>
                 <td className="p-3 text-stone-600">外部提携駐車場「マイアミパーク駐車場」1泊1000円　※途中出庫ある場合別途精算が必要となります。</td>
                 <td className="p-3 font-bold text-amber-600">★4.21（2236件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,800〜</td>
@@ -319,7 +319,7 @@ export default function AutumnBudgetKagoshimaHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. ホテル京セラ</td>
                 <td className="p-3 text-stone-600">鹿児島県霧島市隼人町見次1409-1</td>
-                <td className="p-3 text-stone-600">隼人駅周辺</td>
+                <td className="p-3 text-stone-600">鹿児島空港:バス・タクシー18分（バス460円、タクシー約4,000円）、隼人駅・タクシー5分（約1,000円）</td>
                 <td className="p-3 text-stone-600">無料駐車場３００台。週末は混雑する場合がございます。予めご了承くださいませ。</td>
                 <td className="p-3 font-bold text-amber-600">★4.3（2695件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,480〜</td>
@@ -328,7 +328,7 @@ export default function AutumnBudgetKagoshimaHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. ホテルゲートイン鹿児島（ＨＯＴＥＬ　ＧＡＴＥ　ＩＮ　ＫＡＧＯＳＨＩＭＡ）</td>
                 <td className="p-3 text-stone-600">鹿児島県鹿児島市船津町5-20</td>
-                <td className="p-3 text-stone-600">鹿児島中央駅周辺</td>
+                <td className="p-3 text-stone-600">■ＪＲ鹿児島中央駅より市電７分/天文館通下車徒歩５分 ■鹿児島ＩＣ～車２０分 ■空港シャトルバス/天文館下車徒歩５分</td>
                 <td className="p-3 text-stone-600">提携駐車場：センテラスパーキング・丸屋第一駐車場</td>
                 <td className="p-3 font-bold text-amber-600">★4.52（1267件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,700〜</td>
@@ -337,7 +337,7 @@ export default function AutumnBudgetKagoshimaHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. ビジネスホテル鶴</td>
                 <td className="p-3 text-stone-600">鹿児島県出水市昭和町24-15</td>
-                <td className="p-3 text-stone-600">出水駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ出水駅より徒歩５分／南九州西回り自動車道出水ＩＣより車で１０分/鹿児島空港より車で６０分</td>
                 <td className="p-3 text-stone-600">２８台分　普通車無料（５m以上のトラック、バスは１泊1,000円）先着順となっております。</td>
                 <td className="p-3 font-bold text-amber-600">★3.43（120件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,500〜</td>
@@ -346,7 +346,7 @@ export default function AutumnBudgetKagoshimaHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 天然温泉サウナ　ニューニシノ</td>
                 <td className="p-3 text-stone-600">鹿児島県鹿児島市千日町13-24</td>
-                <td className="p-3 text-stone-600">鹿児島中央駅周辺</td>
+                <td className="p-3 text-stone-600">★JR鹿児島中央駅から車で５分 ★市電「天文館」電停より徒歩３分 ★天文館の中心にあり、交通に便利！</td>
                 <td className="p-3 text-stone-600">コインパーキング10台　ホテル利用時1泊1,000円　14：30〜11：30　予約不可・高さ制限2m</td>
                 <td className="p-3 font-bold text-amber-600">★4.32（1185件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,876〜</td>
@@ -375,7 +375,7 @@ export default function AutumnBudgetKagoshimaHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>外部提携駐車場「マイアミパーク駐車場」1泊1000円　※途中出庫ある場合別途精算が必要となります。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.3 ／ 立地 ★4.21 ／ 部屋 ★4.25 ／ 設備 ★4.15 ／ 風呂 ★4.09 ／ 食事 ★4.27</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「天文館から近く静かで、朝食も美味しく快適おそらく5回以上利用しております。天文館から歩ける範囲の静かな場所です。ゆっくりと寝れて、駐車場も近く利便性はよいと思います。朝食もメニューからの選択となり…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「天文館から近く静かで、朝食も美味しく快適おそらく5回以上利用しております。天文館から歩ける範囲の静かな場所です。ゆっくりと寝れて、駐車場も近く利便性はよいと思います。」
                   </blockquote>
                 </div>
               </div>
@@ -397,7 +397,7 @@ export default function AutumnBudgetKagoshimaHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料駐車場３００台。週末は混雑する場合がございます。予めご了承くださいませ。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「接客もよく、部屋もキレイ、アメニティも揃ってる。あまり期待していなかった温泉は予想に反して大変良かった。本当に温泉でした!笑そして、朝食が大変美味しかった。航空関係者(パイロットやCA)も沢山…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「接客もよく、部屋もキレイ、アメニティも揃ってる。あまり期待していなかった温泉は予想に反して大変良かった。本当に温泉でした!笑そして、朝食が大変美味しかった。」
                   </blockquote>
                 </div>
               </div>

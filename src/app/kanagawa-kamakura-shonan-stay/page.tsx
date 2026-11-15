@@ -253,7 +253,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 湯盛温泉　ホテル杉の湯</td>
                 <td className="p-3 text-stone-600">奈良県吉野郡川上村迫695</td>
-                <td className="p-3 text-stone-600">大和上市駅周辺</td>
+                <td className="p-3 text-stone-600">近鉄 大和上市駅より路線バスにて３５分／南阪奈有料道路 葛城ＩＣより約１時間</td>
                 <td className="p-3 text-stone-600">有り　５０台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.2（240件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,800〜</td>
@@ -262,7 +262,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. ほてる彩夏</td>
                 <td className="p-3 text-stone-600">神奈川県藤沢市片瀬海岸1-11-22</td>
-                <td className="p-3 text-stone-600">片瀬江ノ島駅周辺</td>
+                <td className="p-3 text-stone-600">小田急 片瀬江ノ島駅から徒歩で２分</td>
                 <td className="p-3 text-stone-600">有り　　１４台　　要予約</td>
                 <td className="p-3 font-bold text-amber-600">★4（383件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,600〜</td>
@@ -271,7 +271,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. ほてる汐彩</td>
                 <td className="p-3 text-stone-600">神奈川県藤沢市片瀬海岸1-7-3</td>
-                <td className="p-3 text-stone-600">片瀬江ノ島駅周辺</td>
+                <td className="p-3 text-stone-600">片瀬江の島駅より徒歩にて５分、江ノ電江ノ島駅より徒歩にて5分、湘南モノレール湘南江ノ島駅より徒歩7分</td>
                 <td className="p-3 text-stone-600">有り　２台　１５００円（１泊）要予約、 満車時は観光協会東浜駐車場（１泊１５００円）にご案内。</td>
                 <td className="p-3 font-bold text-amber-600">★3.77（547件）</td>
                 <td className="p-3 font-bold text-rose-600">¥2,750〜</td>
@@ -280,7 +280,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 戸倉上山田温泉　ビジネスホテル　グリーンプラザ</td>
                 <td className="p-3 text-stone-600">長野県千曲市上山田温泉2-22-9</td>
-                <td className="p-3 text-stone-600">戸倉駅周辺</td>
+                <td className="p-3 text-stone-600">上信越自動車道坂城IC及び中央道更埴ICより１０分。長野新幹線上田駅及びＪＲ篠ノ井駅、乗換しなの鉄道戸倉駅下車、車で５分</td>
                 <td className="p-3 text-stone-600">駐車場無料。20台～。大型車は1,100円にて駐車可能。</td>
                 <td className="p-3 font-bold text-amber-600">★3.57（1011件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,850〜</td>
@@ -289,7 +289,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. ＨＯＴＥＬＮＯＡＨ・ＲＥＳＯＲＴ湘南【大人専用１８禁・ハピホテ提携】</td>
                 <td className="p-3 text-stone-600">神奈川県藤沢市鵠沼海岸1-11-16</td>
-                <td className="p-3 text-stone-600">鵠沼海岸駅周辺</td>
+                <td className="p-3 text-stone-600">鵠沼海岸駅より徒歩にて約１０分</td>
                 <td className="p-3 text-stone-600">有り　２３台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">高評価</td>
                 <td className="p-3 font-bold text-rose-600">プラン参照</td>
@@ -298,7 +298,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">6. ＭＡＲＳＯＬ　Ｃ．Ｓ．Ｂｅａｃｈ　ｈｏｔｅｌ</td>
                 <td className="p-3 text-stone-600">神奈川県茅ケ崎市南湖4-23-14</td>
-                <td className="p-3 text-stone-600">茅ヶ崎駅周辺</td>
+                <td className="p-3 text-stone-600">茅ヶ崎駅よりタクシー5分 徒歩25分 東京IC→海老名JCT→新湘南バイパスで茅ヶ崎海岸IC5分</td>
                 <td className="p-3 text-stone-600">1部屋につき1台　無料　要予約　部屋番号の記載のある場所に駐車ください</td>
                 <td className="p-3 font-bold text-amber-600">★4.4（9件）</td>
                 <td className="p-3 font-bold text-rose-600">¥11,050〜</td>
@@ -349,7 +349,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　　１４台　　要予約</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「立地は良いが設備やサービスに改善の余地あり問い合わせ時のスタッフの愛想が悪かった。宿泊時は良い対応だったので人によると思う。片瀬江ノ島駅から徒歩2～3分で立地良し。広さも十分。荷物も預かってく…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「立地は良いが設備やサービスに改善の余地あり問い合わせ時のスタッフの愛想が悪かった。宿泊時は良い対応だったので人によると思う。片瀬江ノ島駅から徒歩2～3分で立地良し。広さも十分。」
                   </blockquote>
                 </div>
               </div>

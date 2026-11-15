@@ -401,7 +401,7 @@ export default function AutumnBudgetHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 相鉄フレッサイン長野駅善光寺口</td>
                 <td className="p-3 text-stone-600">長野県長野市南長野末広町1356</td>
-                <td className="p-3 text-stone-600">長野駅周辺</td>
+                <td className="p-3 text-stone-600">長野駅(善光寺口）より徒歩2分！フロントは５Ｆ、ローソン長野駅前店の左側にある自動ドアを入りエレベーターで！</td>
                 <td className="p-3 text-stone-600">当ホテルに専用駐車場はございません。近隣駐車場をご利用下さい。</td>
                 <td className="p-3 font-bold text-amber-600">★4.06（1442件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,855〜</td>
@@ -410,7 +410,7 @@ export default function AutumnBudgetHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. ホテルアベスト長野駅前</td>
                 <td className="p-3 text-stone-600">長野県長野市末広町1362</td>
-                <td className="p-3 text-stone-600">長野駅周辺</td>
+                <td className="p-3 text-stone-600">JR北陸新幹線・信越線「長野駅」善光寺口・長野電鉄「長野駅」より徒歩1分</td>
                 <td className="p-3 text-stone-600">提携：ながの東急百貨店第一駐車場　15時～翌10時迄　700円</td>
                 <td className="p-3 font-bold text-amber-600">★3.97（3234件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,580〜</td>
@@ -419,7 +419,7 @@ export default function AutumnBudgetHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 天然温泉ホテルリブマックスＰＲＥＭＩＵＭ長野駅前</td>
                 <td className="p-3 text-stone-600">長野県長野市大字栗田2145</td>
-                <td className="p-3 text-stone-600">長野駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ信越線／北陸新幹線 長野駅より徒歩にて約３分</td>
                 <td className="p-3 text-stone-600">無し</td>
                 <td className="p-3 font-bold text-amber-600">★4.07（234件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,400〜</td>
@@ -428,7 +428,7 @@ export default function AutumnBudgetHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 東横ＩＮＮ長野駅東口</td>
                 <td className="p-3 text-stone-600">長野県長野市大字栗田2137</td>
-                <td className="p-3 text-stone-600">長野駅周辺</td>
+                <td className="p-3 text-stone-600">JR「長野駅」東口から徒歩４分</td>
                 <td className="p-3 text-stone-600">34台　先着順　1000円/泊　延長100円/1h※休日休前日の延長不可</td>
                 <td className="p-3 font-bold text-amber-600">★3.94（453件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,775〜</td>
@@ -437,7 +437,7 @@ export default function AutumnBudgetHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 東横ＩＮＮ長野駅善光寺口</td>
                 <td className="p-3 text-stone-600">長野県長野市南長野南石堂町１３１５－８</td>
-                <td className="p-3 text-stone-600">長野駅周辺</td>
+                <td className="p-3 text-stone-600">長野駅善光寺口より徒歩３分</td>
                 <td className="p-3 text-stone-600">立体駐車場　60台　先着順　※駐輪場はありません</td>
                 <td className="p-3 font-bold text-amber-600">★3.96（882件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,880〜</td>
@@ -488,7 +488,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>提携：ながの東急百貨店第一駐車場　15時～翌10時迄　700円</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「水回りは綺麗で漫画や無料サービスが充実諸々古いところはありますが水回り中心にきっちりリニューアルされてます10階にコミックコーナーがあり漫画たくさん置いてますその横にフリーで飲めるソフトド…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「水回りは綺麗で漫画や無料サービスが充実諸々古いところはありますが水回り中心にきっちりリニューアルされてます10階にコミックコーナーがあり漫画たくさん置いてますその横にフリーで飲めるソフトド。」
                   </blockquote>
                 </div>
               </div>
@@ -532,7 +532,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>34台　先着順　1000円/泊　延長100円/1h※休日休前日の延長不可</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.93 ／ 立地 ★3.93 ／ 部屋 ★4.01 ／ 設備 ★3.88 ／ 風呂 ★3.82 ／ 食事 ★3.85</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋は清潔で快適だが朝食会場は大混雑部屋は清潔で使いやすく、お風呂も湯船が大きくて良かったです。朝食が7時前に行きましたが激込みでパンはあるがトースターは全く使えず大行列です。コンビニが少し歩…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋は清潔で快適だが朝食会場は大混雑部屋は清潔で使いやすく、お風呂も湯船が大きくて良かったです。朝食が7時前に行きましたが激込みでパンはあるがトースターは全く使えず大行列です。」
                   </blockquote>
                 </div>
               </div>
@@ -554,7 +554,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>立体駐車場　60台　先着順　※駐輪場はありません</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「パーキングの対応が良く、駅近のラーメンも絶品到着時、出発時パーキングの方の対応がとても良く最初から最後までいいイメージのホテルでした。長野テレビをつけた所、駅近のラーメン屋さんみそ屋が紹介されてい…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「パーキングの対応が良く、駅近のラーメンも絶品到着時、出発時パーキングの方の対応がとても良く最初から最後までいいイメージのホテルでした。」
                   </blockquote>
                 </div>
               </div>

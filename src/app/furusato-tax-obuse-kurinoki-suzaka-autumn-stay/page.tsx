@@ -439,7 +439,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 須坂温泉　古城荘</td>
                 <td className="p-3 text-stone-600">長野県須坂市日滝5414</td>
-                <td className="p-3 text-stone-600"></td>
+                <td className="p-3 text-stone-600">長野県須坂市日滝5414 ／ 交通案内：</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★3.86（182件）</td>
                 <td className="p-3 font-bold text-rose-600">¥9,340〜</td>
@@ -448,7 +448,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 渋温泉　玉久旅館</td>
                 <td className="p-3 text-stone-600">長野県下高井郡山ノ内町渋温泉</td>
-                <td className="p-3 text-stone-600"></td>
+                <td className="p-3 text-stone-600">長野県下高井郡山ノ内町渋温泉 ／ 交通案内：</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.72（627件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,800〜</td>
@@ -457,7 +457,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 小布施温泉あけびの湯</td>
                 <td className="p-3 text-stone-600">長野県上高井郡小布施町雁田1311</td>
-                <td className="p-3 text-stone-600"></td>
+                <td className="p-3 text-stone-600">長野県上高井郡小布施町雁田1311 ／ 交通案内：</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.27（339件）</td>
                 <td className="p-3 font-bold text-rose-600">¥11,000〜</td>

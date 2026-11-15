@@ -76,7 +76,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F67445%2F67445.html%26f_flg%3DPLAN",
     "hotelMinCharge": 41800,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/67445/67445.jpg",
-    "userReview": "秋月温泉　料亭旅館　清流庵ならではの立地と落ち着いた空間で、ゆったりとした滞在を楽しめたという声が寄せられています。",
+    "userReview": "秋月温泉 料亭旅館 清流庵ならではの立地と落ち着いた空間で、ゆったりとした滞在を楽しめたという声が寄せられています。",
     "reviewAverage": 5,
     "reviewCount": 125,
     "address": "福岡県朝倉市秋月1058",
@@ -90,7 +90,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F11189%2F11189.html%26f_flg%3DPLAN",
     "hotelMinCharge": 9900,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/11189/11189.jpg",
-    "userReview": "黒石温泉郷落合温泉　かねさだ旅館ならではの立地と落ち着いた空間で、ゆったりとした滞在を楽しめたという声が寄せられています。",
+    "userReview": "黒石温泉郷落合温泉 かねさだ旅館ならではの立地と落ち着いた空間で、ゆったりとした滞在を楽しめたという声が寄せられています。",
     "reviewAverage": 3.92,
     "reviewCount": 129,
     "address": "青森県黒石市袋富田66-5",
@@ -284,7 +284,7 @@ export default function Page() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 福岡市内から車で1時間（甘木ICから約15分）・甘木駅から甘木観光バス「秋月」行き乗車で約20分→秋月で下車し徒歩10分で現地へ到着。</li>
                 <li>・<strong className="text-stone-800">15:30〜</strong> 「秋月温泉 料亭旅館 清流庵」へチェックイン。落ち着いた空間で旅の荷を解き、ゆったりとした時間をスタート。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「秋月温泉 料亭旅館 清流庵」の湯処へ。日頃の疲れを癒やす湯浴みとともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「秋月温泉 料亭旅館 清流庵」の湯船で寛ぎタイム。季節の空気を感じながら手足を伸ばし、心豊かな夕方のリラックス時間を満喫。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「秋月温泉 料亭旅館 清流庵」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -296,7 +296,7 @@ export default function Page() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「秋月温泉 料亭旅館 清流庵」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「秋月温泉 料亭旅館 清流庵」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「黒石温泉郷落合温泉 かねさだ旅館」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は宿周辺の散策とショッピングを満喫。地元の名産品やグルメを味わってから余裕をもって帰路につく。</li>
               </ul>
             </div>
           </div>
@@ -424,7 +424,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 秋月温泉　料亭旅館　清流庵</td>
                 <td className="p-3 text-stone-600">福岡県朝倉市秋月1058</td>
-                <td className="p-3 text-stone-600">甘木駅周辺</td>
+                <td className="p-3 text-stone-600">福岡市内から車で1時間（甘木ICから約15分）・甘木駅から甘木観光バス「秋月」行き乗車で約20分→秋月で下車し徒歩10分</td>
                 <td className="p-3 text-stone-600">無料　３０台　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★5（126件）</td>
                 <td className="p-3 font-bold text-rose-600">¥46,800〜</td>
@@ -433,7 +433,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 黒石温泉郷落合温泉　かねさだ旅館</td>
                 <td className="p-3 text-stone-600">青森県黒石市袋富田66-5</td>
-                <td className="p-3 text-stone-600">東北自動車道　黒石ＩＣより車で１０分／ＪＲ弘前駅より弘南鉄道線 黒石駅</td>
+                <td className="p-3 text-stone-600">東北自動車道 黒石ＩＣより車で１０分／ＪＲ弘前駅より弘南鉄道線 黒石駅下車→バスで約２５分</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★3.92（129件）</td>
                 <td className="p-3 font-bold text-rose-600">¥9,900〜</td>
@@ -442,7 +442,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 野沢温泉　桐屋旅館</td>
                 <td className="p-3 text-stone-600">長野県下高井郡野沢温泉村豊郷8714-2</td>
-                <td className="p-3 text-stone-600">上信越道・長野道・豊田・飯山ICより国道117号で車で25分。またはJ</td>
+                <td className="p-3 text-stone-600">上信越道・長野道・豊田・飯山ICより国道117号で車で25分。またはJR北陸新幹線・飯山駅下車、野沢温泉ライナーで25分</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.89（115件）</td>
                 <td className="p-3 font-bold text-rose-600">¥9,900〜</td>
@@ -460,7 +460,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. オーシャンテラス　あじさい</td>
                 <td className="p-3 text-stone-600">兵庫県神戸市灘区六甲山町南六甲1034-181</td>
-                <td className="p-3 text-stone-600">六甲ケーブル山上駅からバスで10分（六甲山上駅より送迎あり。六甲ケーブ</td>
+                <td className="p-3 text-stone-600">六甲ケーブル山上駅からバスで10分（六甲山上駅より送迎あり。六甲ケーブル下駅よりご出発のお時間を当館までお電話ください）</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.76（253件）</td>
                 <td className="p-3 font-bold text-rose-600">¥26,000〜</td>
@@ -555,7 +555,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ボリューム満点の夕食と貸切風呂に大満足お世話になりましたありがとうございました夕飯は ボリューム感あり 食べきれないほどでしたお風呂も いつでも 入浴出来ましたし 時間的に 貸切も可能…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ボリューム満点の夕食と貸切風呂に大満足お世話になりましたありがとうございました夕飯は ボリューム感あり 食べきれないほどでしたお風呂も いつでも 入浴出来ましたし 時間的に 貸切も可能。」
                   </blockquote>
                 </div>
               </div>
@@ -577,7 +577,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「テラスからの景色に癒やされ、また来たいとてもゆったりと過ごさせていただきました。部屋のテラスに座って、景色を見ていると時間を忘れるほどぼーっとできました。食事もとてもおいしいかったですが、唯一お米…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「テラスからの景色に癒やされ、また来たいとてもゆったりと過ごさせていただきました。部屋のテラスに座って、景色を見ていると時間を忘れるほどぼーっとできました。」
                   </blockquote>
                 </div>
               </div>

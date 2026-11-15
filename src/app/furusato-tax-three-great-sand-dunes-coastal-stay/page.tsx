@@ -420,8 +420,8 @@ export default function Page() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 鳥取県鳥取市永楽温泉町403へ到着後、チェックイン前の散策へ。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「鳥取温泉 ホテルモナーク鳥取」にチェックイン。鳥取温泉繁華街に位置。自家源泉大浴場を完備したシティーホテル。地産食材を活かした朝食ブッフェが自慢などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「鳥取温泉 ホテルモナーク鳥取」の湯処へ。鳥取温泉繁華街に位置。自家源泉大浴場を完備したシティーホテル。地産食材とともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「鳥取温泉 ホテルモナーク鳥取」にチェックイン。鳥取温泉繁華街に位置。 まずは客室で移動の疲れをそっと癒やす。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「鳥取温泉 ホテルモナーク鳥取」の大浴場・露天風呂へ。日暮れの静けさの中で湯に浸かり、旅の緊張をゆっくりと解きほぐす。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「鳥取温泉 ホテルモナーク鳥取」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -433,7 +433,7 @@ export default function Page() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「鳥取温泉 ホテルモナーク鳥取」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「鳥取温泉 ホテルモナーク鳥取」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「ホテルルートイン浜名湖」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は「鳥取温泉 ホテルモナーク鳥取」周辺の観光スポットや地元の名産店に立ち寄り、ご当地のお土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>
@@ -561,7 +561,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 鳥取温泉　ホテルモナーク鳥取</td>
                 <td className="p-3 text-stone-600">鳥取県鳥取市永楽温泉町403</td>
-                <td className="p-3 text-stone-600">鳥取駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ鳥取駅北口出口より徒歩5分 / 鳥取自動車道鳥取ICより車で10分 / コンビニへ徒歩1分 / 鳥取砂丘へ車で20分</td>
                 <td className="p-3 text-stone-600">70台（出し入れ自由）　普通車500円/1泊　二輪車500円/1泊　大型車2,000円/1泊</td>
                 <td className="p-3 font-bold text-amber-600">★4.19（2272件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,800〜</td>
@@ -570,7 +570,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 吹上砂丘荘</td>
                 <td className="p-3 text-stone-600">鹿児島県日置市吹上町今田1004-3</td>
-                <td className="p-3 text-stone-600">伊集院駅周辺</td>
+                <td className="p-3 text-stone-600">鹿児島市内から…車で約40分、鹿児島空港から...車で約1時間、JR伊集院駅(鹿児島本線)よりお車で約24分</td>
                 <td className="p-3 text-stone-600">あり　50台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.16（19件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,000〜</td>
@@ -579,7 +579,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. ホテルルートイン浜名湖</td>
                 <td className="p-3 text-stone-600">静岡県湖西市古見1049-1</td>
-                <td className="p-3 text-stone-600">鷲津駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ東海道本線 豊橋駅から鷲津駅まで15分／鷲津駅から車で5分／東名高速道路 三ヶ日I.Cより車で２０分</td>
                 <td className="p-3 text-stone-600">有り　１２9台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.25（651件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,650〜</td>

@@ -253,7 +253,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 信州別所温泉　旅宿　上松や</td>
                 <td className="p-3 text-stone-600">長野県上田市別所温泉1628</td>
-                <td className="p-3 text-stone-600">別所温泉駅周辺</td>
+                <td className="p-3 text-stone-600">JR北陸新幹線上田駅にて上田電鉄別所線に乗換、終点別所温泉駅より徒歩10分。</td>
                 <td className="p-3 text-stone-600">有り　20台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.51（1535件）</td>
                 <td className="p-3 font-bold text-rose-600">¥9,350〜</td>
@@ -262,7 +262,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 別所温泉　緑屋</td>
                 <td className="p-3 text-stone-600">長野県上田市別所温泉225</td>
-                <td className="p-3 text-stone-600">別所温泉駅周辺</td>
+                <td className="p-3 text-stone-600">北陸新幹線 上田駅で乗り換え、上田電鉄別所線 別所温泉駅から徒歩5分</td>
                 <td className="p-3 text-stone-600">15台 予約不要、無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.64（22件）</td>
                 <td className="p-3 font-bold text-rose-600">¥30,030〜</td>
@@ -271,7 +271,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 別所温泉　観音様となりの宿　かしわや本店</td>
                 <td className="p-3 text-stone-600">長野県上田市別所温泉1654</td>
-                <td className="p-3 text-stone-600">別所温泉駅周辺</td>
+                <td className="p-3 text-stone-600">上田交通 別所温泉駅より無料シャトルバスが運行</td>
                 <td className="p-3 text-stone-600">有り　２０台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.71（224件）</td>
                 <td className="p-3 font-bold text-rose-600">¥27,500〜</td>
@@ -300,7 +300,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　20台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.61 ／ 立地 ★4.28 ／ 部屋 ★4.34 ／ 設備 ★4.26 ／ 風呂 ★4.58 ／ 食事 ★4.7</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「露天からの夜景と柔らかいお湯に癒やされる露天からの夜景が綺麗でした。とにかくお湯が柔らかい。100年前の鎌倉に来たような、レトロな駅舎、古い仏閣が立ち並ぶ古都の風情が良かったです。…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「露天からの夜景と柔らかいお湯に癒やされる露天からの夜景が綺麗でした。とにかくお湯が柔らかい。100年前の鎌倉に来たような、レトロな駅舎、古い仏閣が立ち並ぶ古都の風情が良かったです。」
                   </blockquote>
                 </div>
               </div>
@@ -344,7 +344,7 @@ export default function MicroTouristHubPage() {
                   <p>【長野・別所温泉＆上田城：信州の鎌倉・日本唯一八角三重】 <strong>【駐車場・マイカー利用】</strong>有り　２０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事も接客も最高!満室にも関わらず何度か利用した大浴場はいつも貸し切り状態でとてもリラックスできました。眺めのいい個室で朝夕美味しいお料理も堪能して、ラウンジでは日本酒やワインの試飲やコーヒーもい…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事も接客も最高!満室にも関わらず何度か利用した大浴場はいつも貸し切り状態でとてもリラックスできました。」
                   </blockquote>
                 </div>
               </div>

@@ -135,7 +135,7 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/177601/177601map.gif",
     "reviewCount": 1012,
     "reviewAverage": 4.32,
-    "userReview": "天候不良で急遽宿泊したので、本当ならちゃんとホテル滞在も楽しめばよかった..と後悔するレベルでいいホテルでした。今度はウェルカムドリンクもいただける時間にちゃんと行きたいです。クチコミの詳細は。",
+    "userReview": "天候不良で急遽宿泊したので、本当ならちゃんとホテル滞在も楽しめばよかった..と後悔するレベルでいいホテルでした。今度はウェルカムドリンクもいただける時間にちゃんと行きたいです。",
     "hotelMinCharge": 6160,
     "address1": "福岡県",
     "address2": "福岡市博多区住吉3-12-1",
@@ -564,8 +564,8 @@ export default function FeatureDetailPage() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 福岡県福岡市博多区博多駅前2-11-4へ到着後、チェックイン前の散策へ。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「エスペリアホテル博多」にチェックイン。割引クーポン配布中。バス・トイレ・洗面台が独立、高セキュリティーのＩＣカードシステム導入。などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「エスペリアホテル博多」の湯処へ。割引クーポン配布中。バス・トイレ・洗面台が独立、高セキュリティーのＩＣとともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「エスペリアホテル博多」にチェックイン。割引クーポン配布中。バス・トイレ・洗面台が独立、高セキュリティーのＩＣカードシステム導入。 館内の設えを確かめながら、これからの滞在に備えてゆっくり休息する。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「エスペリアホテル博多」の自慢の湯処へ。温かな湯気と落ち着いた雰囲気に癒やされながら、夕食前の贅沢なひとときを過ごす。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「エスペリアホテル博多」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -577,7 +577,7 @@ export default function FeatureDetailPage() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「エスペリアホテル博多」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「エスペリアホテル博多」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「西鉄ホテル クルーム博多」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は「エスペリアホテル博多」周辺の観光スポットや地元の名産店に立ち寄り、ご当地のお土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>
@@ -627,49 +627,49 @@ export default function FeatureDetailPage() {
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">あわせて読みたい人気特集＆全国エリアガイド</h2>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
-            <a href="/furusato-tax-aomori-hirosaki-tsugaru-autumn-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/osaka-fukuoka-bus-vs-shinkansen-guide/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">青森・弘前城菊と紅葉まつり＆津軽の秋！岩木山麓温泉と津軽りんご収穫・極上大間まぐろ</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「大阪から福岡・博多 安く行く方法」新幹線 vs 夜行バス徹底比較！中洲屋台・もつ鍋1泊2日モデルコース</span>
             </a>
-            <a href="/furusato-tax-three-great-beautiful-forests-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/winter-fukuoka-dazaifu-tenmangu-hatsumode-futsukaichi-beef-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">日本三大美林＆天然木アロマと森林浴・癒やしのリトリート温泉宿×ふるさと納税厳選ガイド青森ヒバ・秋田スギ・木曽ヒノキ</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">天神さまの祈りと熱々梅ヶ枝餅、万葉の古湯 太宰府天満宮合格祈願・初詣＆二日市温泉・博多和牛の名宿</span>
             </a>
-            <a href="/winter-aomori-asamushi-onsen-mutsu-bay-maguro-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/winter-fukuoka-harazuru-onsen-w-bihada-hakata-beef-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12月青森・浅虫温泉の初冬陸奥湾絶景と開湯千二百年名湯】津軽海峡冬本マグロ・肉厚陸奥湾ホタテ＆津軽三味線響く宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">筑後川冬情緒と奇跡のW美肌の湯 博多和牛会席＆掛け流し展望露天の湯巡り宿5選</span>
             </a>
-            <a href="/aomori-asamushi-solo-retreat-mutsubay-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/winter-fukuoka-munakata-taisha-hatsumode-torafugu-munakatagyu-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">青森の奥座敷・浅虫温泉ひとり旅・陸奥湾夕日おこもり：開湯1200年名湯・津軽三味線生演奏・名物陸奥湾ホタテづくし！青い森鉄道直通の海辺厳選3宿</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">世界遺産・宗像大社新春開運初詣＆玄界灘冬絶景！ 鐘崎天然とらふぐと極上宗像牛を堪能する名宿5選</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
             <div className="flex flex-wrap gap-2">
               <Link
-                href="/prefectures/aomori/"
+                href="/prefectures/fukuoka/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                青森県の宿・温泉
+                福岡県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/hiroshima/"
+                href="/prefectures/oita/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                広島県の宿・温泉
+                大分県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/akita/"
+                href="/prefectures/kumamoto/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                秋田県の宿・温泉
+                熊本県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/kochi/"
+                href="/prefectures/kagoshima/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                高知県の宿・温泉
+                鹿児島県の宿・温泉
               </Link>
             </div>
           </div>
@@ -705,7 +705,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. エスペリアホテル博多</td>
                 <td className="p-3 text-stone-600">福岡県福岡市博多区博多駅前2-11-4</td>
-                <td className="p-3 text-stone-600"></td>
+                <td className="p-3 text-stone-600">福岡県福岡市博多区博多駅前2-11-4 ／ 交通案内：</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.2（1738件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,776〜</td>
@@ -714,7 +714,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. ホテル・トリフィート博多祇園</td>
                 <td className="p-3 text-stone-600">福岡県福岡市博多区冷泉町8-24</td>
-                <td className="p-3 text-stone-600">祇園（福岡）駅周辺</td>
+                <td className="p-3 text-stone-600">■地下鉄「祇園駅」徒歩5分■西鉄バス停「奥の堂」徒歩3分■福岡空港 地下鉄利用で最短15分■マリンメッセまでバスで7分</td>
                 <td className="p-3 text-stone-600">有り（屋外/高さ制限無し）　7台　1980円（税込み/泊）　先着順（事前予約不可）</td>
                 <td className="p-3 font-bold text-amber-600">★4.18（767件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,850〜</td>
@@ -723,7 +723,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 西鉄ホテル　クルーム博多</td>
                 <td className="p-3 text-stone-600">福岡県福岡市博多区博多駅前一丁目１７番６号</td>
-                <td className="p-3 text-stone-600">博多駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ 博多駅「博多口」より徒歩約４分 地下鉄 博多駅「西４番出口」より徒歩約４分</td>
                 <td className="p-3 text-stone-600">１泊1台２，０００円（税込）14:30～翌12：30</td>
                 <td className="p-3 font-bold text-amber-600">★4.24（6869件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,600〜</td>
@@ -732,7 +732,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. ホテルリファレンス博多冷泉</td>
                 <td className="p-3 text-stone-600">福岡県福岡市博多区冷泉町9-29</td>
-                <td className="p-3 text-stone-600">祇園（福岡）駅周辺</td>
+                <td className="p-3 text-stone-600">地下鉄祇園駅2番出口より徒歩で約3分 博多駅からも徒歩12分 福岡空港から地下鉄祇園駅までは7分</td>
                 <td className="p-3 text-stone-600">先着順 6台 ご宿泊者様は1泊1,500円(チェックアウトまで) 通常25分200円(最大料金無し)</td>
                 <td className="p-3 font-bold text-amber-600">★4.11（372件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,040〜</td>
@@ -741,7 +741,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. ホテルトラッド博多</td>
                 <td className="p-3 text-stone-600">福岡県福岡市博多区住吉3-12-1</td>
-                <td className="p-3 text-stone-600">博多駅周辺</td>
+                <td className="p-3 text-stone-600">博多駅から散歩気分で徒歩12分。バスは「博多駅前Ａ（300番台）・Ｂ乗場」から約5分「住吉」バス停下車、すぐ。</td>
                 <td className="p-3 text-stone-600">タワー式22台：先着順 15時～11時30分 税込1500円現金のみ 入出庫不可(22時～7時)</td>
                 <td className="p-3 font-bold text-amber-600">★4.31（999件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,600〜</td>
@@ -770,7 +770,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「博多駅近くでセキュリティも安心、備品も充実博多駅からも徒歩圏内にあるホテルカードキー方式になっており、エレベーターもルームカードキーをかざすと宿泊階にしか止まらない仕組みになっている。おの…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「博多駅近くでセキュリティも安心、備品も充実博多駅からも徒歩圏内にあるホテルカードキー方式になっており、エレベーターもルームカードキーをかざすと宿泊階にしか止まらない仕組みになっている。」
                   </blockquote>
                 </div>
               </div>
@@ -792,7 +792,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り（屋外/高さ制限無し）　7台　1980円（税込み/泊）　先着順（事前予約不可）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋を含めた設備はWEB掲載通りで期待外れはありませんでした。風呂はマイナスコメント多くありましたが十分に広く空いていました。フロントの方も親切に対応頂きました。朝食は大満足です。一点マイナスは廊下に…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋を含めた設備はWEB掲載通りで期待外れはありませんでした。風呂はマイナスコメント多くありましたが十分に広く空いていました。フロントの方も親切に対応頂きました。朝食は大満足です。」
                   </blockquote>
                 </div>
               </div>
@@ -814,7 +814,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>１泊1台２，０００円（税込）14:30～翌12：30</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ユニットバスの臭いが気になるが全体的に満足気になったのは、物っ凄くユニットバスが臭かった点です。何が臭いのか分からず備え付けのスプレーをかけても、不快感は拭えなかった。手の届く範囲で、拭いて取れる…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ユニットバスの臭いが気になるが全体的に満足気になったのは、物っ凄くユニットバスが臭かった点です。何が臭いのか分からず備え付けのスプレーをかけても、不快感は拭えなかった。」
                   </blockquote>
                 </div>
               </div>

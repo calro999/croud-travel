@@ -253,7 +253,7 @@ export default function ScenicViewHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 男鹿温泉　湯けむりリゾート　セイコーグランドホテル</td>
                 <td className="p-3 text-stone-600">秋田県男鹿市北浦湯本草木原50-1</td>
-                <td className="p-3 text-stone-600">羽立駅周辺</td>
+                <td className="p-3 text-stone-600">秋田自動車道秋田北IC下車６０ｋｍ７０分／JR羽立駅～路線バスで４５分／JR男鹿駅～無料送迎バスあり詳しくは公式HPへ</td>
                 <td className="p-3 text-stone-600">有り　２０台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.09（708件）</td>
                 <td className="p-3 font-bold text-rose-600">¥11,770〜</td>
@@ -262,7 +262,7 @@ export default function ScenicViewHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. オーベルジュほまち　三國湊（ミシュランセレクテッド２０２５）</td>
                 <td className="p-3 text-stone-600">福井県坂井市三国町南本町三丁目4-39</td>
-                <td className="p-3 text-stone-600">三国（福井）駅周辺</td>
+                <td className="p-3 text-stone-600">えちぜん鉄道三国芦原線「三国」下車 徒歩約５分。/北陸新幹線東京⇔JR芦原温泉約３時間/金沢⇔JR芦原温泉・約25分</td>
                 <td className="p-3 text-stone-600">フロント棟・レストラン棟・各客室棟には無料駐車場を完備いたしております。</td>
                 <td className="p-3 font-bold text-amber-600">★4.68（28件）</td>
                 <td className="p-3 font-bold text-rose-600">¥12,100〜</td>
@@ -271,7 +271,7 @@ export default function ScenicViewHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 大江戸温泉物語　天草ホテル亀屋</td>
                 <td className="p-3 text-stone-600">熊本県上天草市大矢野町中4463-2</td>
-                <td className="p-3 text-stone-600">三角駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ三角駅より＞車で約２０分 熊本空港より＞車で約９０分 熊本新港より＞車で約６０分</td>
                 <td className="p-3 text-stone-600">有）８０台/無料（先着順）</td>
                 <td className="p-3 font-bold text-amber-600">★3.95（807件）</td>
                 <td className="p-3 font-bold text-rose-600">¥10,500〜</td>
@@ -280,7 +280,7 @@ export default function ScenicViewHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 天草温泉　ホテルアレグリアガーデンズ天草</td>
                 <td className="p-3 text-stone-600">熊本県天草市本渡町広瀬996</td>
-                <td className="p-3 text-stone-600">天草空港駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ熊本駅から車で１５０分／本渡バスセンターから車で１０分／天草空港から車で１５分</td>
                 <td className="p-3 text-stone-600">有り　１００台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.47（744件）</td>
                 <td className="p-3 font-bold text-rose-600">¥9,000〜</td>
@@ -289,7 +289,7 @@ export default function ScenicViewHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 天草温泉　ホテル松竜園　海星</td>
                 <td className="p-3 text-stone-600">熊本県上天草市大矢野町上6494</td>
-                <td className="p-3 text-stone-600">三角駅周辺</td>
+                <td className="p-3 text-stone-600">九州自動車道 松橋ICより国道266号線を天草方面へ50分。JR三角駅より車で15分 バスで25分。</td>
                 <td className="p-3 text-stone-600">有り　５０台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★3.91（291件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,450〜</td>
@@ -298,7 +298,7 @@ export default function ScenicViewHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">6. ビジネスホテル天草</td>
                 <td className="p-3 text-stone-600">熊本県上天草市大矢野町中4302-1</td>
-                <td className="p-3 text-stone-600">三角駅周辺</td>
+                <td className="p-3 text-stone-600">三角駅よりお車にて約２０分</td>
                 <td className="p-3 text-stone-600">有り　５０台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★3.35（63件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,900〜</td>
@@ -393,7 +393,7 @@ export default function ScenicViewHubPage() {
                   <p>【絶景断崖オーシャン＆夕陽パノラマ宿：三陸・男鹿・越前】 <strong>【駐車場・マイカー利用】</strong>有り　１００台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「プライベートビーチと豪華な食事に大満足震災で行けるか心配でしたが天草の方は被害が少なかったようで安心しました。予算は心配ではあったものの、楽しみに伺わせていただきました。裏手はプライベート…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「プライベートビーチと豪華な食事に大満足震災で行けるか心配でしたが天草の方は被害が少なかったようで安心しました。予算は心配ではあったものの、楽しみに伺わせていただきました。」
                   </blockquote>
                 </div>
               </div>
@@ -437,7 +437,7 @@ export default function ScenicViewHubPage() {
                   <p>【絶景断崖オーシャン＆夕陽パノラマ宿：三陸・男鹿・越前】 <strong>【駐車場・マイカー利用】</strong>有り　５０台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「予約と異なる部屋や備品の不足が残念ダブルベッドの部屋を予約したのにツインの部屋になっていた。2名で予約してるのにバスタオルやフェイスタオル、歯ブラシや湯飲みなどが1名分しか用意されていなかった。部…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「予約と異なる部屋や備品の不足が残念ダブルベッドの部屋を予約したのにツインの部屋になっていた。2名で予約してるのにバスタオルやフェイスタオル、歯ブラシや湯飲みなどが1名分しか用意されていなかった。」
                   </blockquote>
                 </div>
               </div>

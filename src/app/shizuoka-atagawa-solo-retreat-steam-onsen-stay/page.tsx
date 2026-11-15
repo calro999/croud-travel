@@ -341,8 +341,8 @@ export default function ArticlePage() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 伊豆熱川駅よりアクセス。伊豆急行線・伊豆熱川温泉駅／Ｒ１３５を通り、熱海から約１時間。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「伊豆熱川温泉 六つの貸切風呂を湯めぐり ふたりの湯宿 湯花満開」にチェックイン。2023年12月半露天風呂付き客室誕生！6つの源泉掛け流し温泉、海の幸のお食事が人気。伊豆熱川駅5分などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「伊豆熱川温泉 六つの貸切風呂を湯めぐり ふたりの湯宿 湯花満開」の湯処へ。2023年12月半露天風呂付き客室誕生！6つの源泉掛け流し温泉、海の幸とともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「伊豆熱川温泉 六つの貸切風呂を湯めぐり ふたりの湯宿 湯花満開」にチェックイン。2023年12月半露天風呂付き客室誕生！ まずは客室で移動の疲れをそっと癒やす。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「伊豆熱川温泉 六つの貸切風呂を湯めぐり ふたりの湯宿 湯花満開」の自慢の湯処へ。温かな湯気と落ち着いた雰囲気に癒やされながら、夕食前の贅沢なひとときを過ごす。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「伊豆熱川温泉 六つの貸切風呂を湯めぐり ふたりの湯宿 湯花満開」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -354,7 +354,7 @@ export default function ArticlePage() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「伊豆熱川温泉 六つの貸切風呂を湯めぐり ふたりの湯宿 湯花満開」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「伊豆熱川温泉 六つの貸切風呂を湯めぐり ふたりの湯宿 湯花満開」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「熱川温泉 熱川プリンスホテル」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は宿周辺の散策とショッピングを満喫。地元の名産品やグルメを味わってから余裕をもって帰路につく。</li>
               </ul>
             </div>
           </div>
@@ -370,49 +370,49 @@ export default function ArticlePage() {
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">あわせて読みたい人気特集＆全国エリアガイド</h2>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
-            <a href="/kanagawa-yugawara-onsen-bangei-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/winter-shizuoka-izukogen-granillumi-ito-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">神奈川・湯河原温泉：文豪ゆかりの名湯・万葉公園＆相模湾地魚極上宿 厳選ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12月伊豆高原グランイルミ】 日本一の体験型イルミと伊東温泉・金目鯛姿煮宿5選</span>
             </a>
-            <a href="/winter-kanagawa-kamakura-enoshima-jewel-shrine-fuji-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/winter-shizuoka-kakegawa-fukuroi-hattasan-hatsumode-yumesakigyu-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12・1月神奈川】冬の湘南・江の島シーキャンドル「湘南の宝石」イルミネーション＆鶴岡八幡宮新春初詣・富士山夕景と相模湾冬の地魚を味わう名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">厄除け大本山「法多山尊永寺」新春初詣と掛川城木造天守 可睡齋ひなまつり＆幻の黒毛和牛「遠州夢咲牛」名宿</span>
             </a>
-            <a href="/autumn-kanagawa-yokohama-yamate-western-hall-halloween-minatomirai-hotels-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/winter-shizuoka-mishima-numazu-taisha-fuji-suruga-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">秋の横浜山手西洋館ハロウィーン：歴史ある洋館7館の本格装飾と山手ハロウィーンウォーク！みなとみらい夜景・絶品アフタヌーンティー＆クラシック・ベイサイド厳選名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">冬の三嶋大社新春開運初詣＆富士山スカイウォーク絶景！ 駿河湾深海魚・沼津港寒魚と名湯に寛ぐ厳選宿5選</span>
             </a>
-            <a href="/kanagawa-hakone-sengokuhara-autumn-solo-retreat-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/winter-shizuoka-shimoda-onsen-kinmedai-ocean-view-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【10月・11月秋の箱根仙石原ひとり旅・黄金色ススキ草原と白濁硫黄泉おこもり】全室露天風呂・北海道×箱根の極上和懐石！秋深まる高原リトリート厳選3宿！全室露天風呂・北海道×箱根の極上和懐石！秋深まる高原リトリート厳選3宿</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">初冬の海絶景と極上地金目鯛 水揚げ日本一の金目鯛姿煮＆伊勢海老会席を満喫する絶景宿5選</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
             <div className="flex flex-wrap gap-2">
               <Link
-                href="/prefectures/kanagawa/"
+                href="/prefectures/shizuoka/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                神奈川県の宿・温泉
+                静岡県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/ehime/"
+                href="/prefectures/gifu/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                愛媛県の宿・温泉
+                岐阜県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/okinawa/"
+                href="/prefectures/aichi/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                沖縄県の宿・温泉
+                愛知県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/kyoto/"
+                href="/prefectures/mie/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                京都府の宿・温泉
+                三重県の宿・温泉
               </Link>
             </div>
           </div>
@@ -448,7 +448,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 伊豆熱川温泉　六つの貸切風呂を湯めぐり　ふたりの湯宿　湯花満開</td>
                 <td className="p-3 text-stone-600">静岡県賀茂郡東伊豆町奈良本987-1</td>
-                <td className="p-3 text-stone-600">伊豆熱川駅周辺</td>
+                <td className="p-3 text-stone-600">伊豆急行線・伊豆熱川温泉駅／Ｒ１３５を通り、熱海から約１時間。伊豆熱川駅から海へ徒歩３～５分。当館海側に無料駐車場あり。</td>
                 <td className="p-3 text-stone-600">有り　２０台　無料　※予備駐車場あり</td>
                 <td className="p-3 font-bold text-amber-600">★4.56（765件）</td>
                 <td className="p-3 font-bold text-rose-600">¥10,500〜</td>
@@ -457,7 +457,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 熱川温泉　熱川プリンスホテル</td>
                 <td className="p-3 text-stone-600">静岡県賀茂郡東伊豆町奈良本1248-3</td>
-                <td className="p-3 text-stone-600">伊豆熱川駅周辺</td>
+                <td className="p-3 text-stone-600">東京駅から乗換なしでスムーズ♪直通電車「踊り子号」を利用すれば、最短1時間40分で到着！伊豆熱川駅徒歩10分。送迎有</td>
                 <td className="p-3 text-stone-600">有り　　50台　　1泊　　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.51（1264件）</td>
                 <td className="p-3 font-bold text-rose-600">¥9,900〜</td>
@@ -466,7 +466,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 伊豆熱川　自家源泉　おもてなしの宿　みはるや</td>
                 <td className="p-3 text-stone-600">静岡県賀茂郡東伊豆町奈良本971-1</td>
-                <td className="p-3 text-stone-600">伊豆熱川駅周辺</td>
+                <td className="p-3 text-stone-600">伊豆熱川駅より徒歩1分／東名高速道路厚木ＩＣより熱海経由約２時間半</td>
                 <td className="p-3 text-stone-600">有り　１0台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.49（888件）</td>
                 <td className="p-3 font-bold text-rose-600">¥12,650〜</td>
@@ -495,7 +495,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２０台　無料　※予備駐車場あり</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋食と貸切風呂で家族水入らずの時間を満喫子連れだったので2食とも部屋食にして頂けたのですが、まわりを気にせずゆっくり食事ができてとても良かったです。6つの貸切風呂は携帯で空き状況を確認できた…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋食と貸切風呂で家族水入らずの時間を満喫子連れだったので2食とも部屋食にして頂けたのですが、まわりを気にせずゆっくり食事ができてとても良かったです。」
                   </blockquote>
                 </div>
               </div>
@@ -517,7 +517,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　　50台　　1泊　　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉とプールを満喫、金目の煮付けも最高湯量が豊富でお風呂の種類も多く温泉自体は良いと思います。食事も味付けが濃くなくて最後まで楽しめました。(金目の煮付けが最高でした)お風呂の設備に不備があり…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉とプールを満喫、金目の煮付けも最高湯量が豊富でお風呂の種類も多く温泉自体は良いと思います。食事も味付けが濃くなくて最後まで楽しめました。」
                   </blockquote>
                 </div>
               </div>
@@ -539,7 +539,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１0台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「連泊の食事はメニューが変わり大満足連泊させて頂きました。金目鯛コースでの予約でしたが、2日目のお料理のメニューは完全に変えてくださり、両日とも大変美味しかったです。お部屋でもくつろぐことができ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「連泊の食事はメニューが変わり大満足連泊させて頂きました。金目鯛コースでの予約でしたが、2日目のお料理のメニューは完全に変えてくださり、両日とも大変美味しかったです。」
                   </blockquote>
                 </div>
               </div>

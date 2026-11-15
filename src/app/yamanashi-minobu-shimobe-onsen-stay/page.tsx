@@ -253,7 +253,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 山梨県の温泉旅館　下部温泉郷　下部ホテル</td>
                 <td className="p-3 text-stone-600">山梨県南巨摩郡身延町上之平1900</td>
-                <td className="p-3 text-stone-600">下部温泉駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ身延線下部温泉駅徒歩１分／車：中部横断道下部温泉早川ＩＣより５分</td>
                 <td className="p-3 text-stone-600">有り　１００台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.36（1307件）</td>
                 <td className="p-3 font-bold text-rose-600">¥17,050〜</td>
@@ -262,7 +262,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 健康・旬彩の宿　下部温泉　ホテル守田</td>
                 <td className="p-3 text-stone-600">山梨県南巨摩郡身延町下部990</td>
-                <td className="p-3 text-stone-600">下部温泉駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ身延線下部温泉駅下車（送迎車で3分）／中部横断自動車道下部温泉早川ＩＣよりＲ300号経由8分</td>
                 <td className="p-3 text-stone-600">【有】5台無料／それ以上の場合は近くの空いている場所にお停めください（先着順）</td>
                 <td className="p-3 font-bold text-amber-600">★4.41（251件）</td>
                 <td className="p-3 font-bold text-rose-600">¥9,900〜</td>
@@ -271,7 +271,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 下部温泉　湯元ホテル</td>
                 <td className="p-3 text-stone-600">山梨県南巨摩郡身延町下部35</td>
-                <td className="p-3 text-stone-600">下部温泉駅周辺</td>
+                <td className="p-3 text-stone-600">JR下部温泉駅より徒歩18分。駐車場あり。</td>
                 <td className="p-3 text-stone-600">事前にご案内をお送りしますので、メールアドレスをお知らせください。</td>
                 <td className="p-3 font-bold text-amber-600">★3.5（451件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,350〜</td>
@@ -280,7 +280,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 世界最古の宿・ギネスブック認定　全館源泉掛け流し　西山温泉　慶雲館（２０２６年３月リニューアル）</td>
                 <td className="p-3 text-stone-600">山梨県南巨摩郡早川町湯島白沢８３</td>
-                <td className="p-3 text-stone-600">身延駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ身延線 身延駅よりバスに乗車（送迎バス有り）13:40発 翌日送り 9:50発 (※1日1便。要事前予約)</td>
                 <td className="p-3 text-stone-600">有り　６０台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.6（799件）</td>
                 <td className="p-3 font-bold text-rose-600">¥30,800〜</td>
@@ -309,7 +309,7 @@ export default function MicroTouristHubPage() {
                   <p>【山梨・身延山＆下部温泉：日蓮宗総本山久遠寺しだれ桜・】 <strong>【駐車場・マイカー利用】</strong>有り　１００台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.58 ／ 立地 ★4.31 ／ 部屋 ★4.27 ／ 設備 ★4.27 ／ 風呂 ★4.54 ／ 食事 ★4.45</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフのイベントが魅力的で大満足!8月のお盆休みで、子供達、孫達と宿泊させて頂きました。スタッフのイベントの取り組みが、いっぱいでとても魅力的で。楽しませてもらいましたも足湯も、とて…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフのイベントが魅力的で大満足!8月のお盆休みで、子供達、孫達と宿泊させて頂きました。スタッフのイベントの取り組みが、いっぱいでとても魅力的で。」
                   </blockquote>
                 </div>
               </div>
@@ -331,7 +331,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>【有】5台無料／それ以上の場合は近くの空いている場所にお停めください（先着順）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「子供が完食する食事と家族風呂で癒やされる1月に初めて泊まって、2回目の宿泊です。お宿の方もみんな親切です。子どもが旅行に行くとご飯を食べないことがあるけど、ここのお宿のご飯は完食してくれます。味も…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「子供が完食する食事と家族風呂で癒やされる1月に初めて泊まって、2回目の宿泊です。お宿の方もみんな親切です。子どもが旅行に行くとご飯を食べないことがあるけど、ここのお宿のご飯は完食してくれます。」
                   </blockquote>
                 </div>
               </div>
@@ -375,7 +375,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　６０台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.69 ／ 立地 ★4.62 ／ 部屋 ★4.49 ／ 設備 ★4.42 ／ 風呂 ★4.76</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋のアップグレードと温泉に大満足まずは部屋のアップグレードありがとう御座いました。広くて綺麗な部屋で、より一層ゆっくりできました。宿の方は親切で愛想よく、料理も全て美味しい。源泉かけ流し、飲…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋のアップグレードと温泉に大満足まずは部屋のアップグレードありがとう御座いました。広くて綺麗な部屋で、より一層ゆっくりできました。宿の方は親切で愛想よく、料理も全て美味しい。」
                   </blockquote>
                 </div>
               </div>

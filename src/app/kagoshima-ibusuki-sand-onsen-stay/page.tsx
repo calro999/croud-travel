@@ -253,7 +253,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 指宿温泉　こらんの湯　錦江楼</td>
                 <td className="p-3 text-stone-600">鹿児島県指宿市西方4507</td>
-                <td className="p-3 text-stone-600">宮ヶ浜駅周辺</td>
+                <td className="p-3 text-stone-600">JR指宿枕崎線 宮ヶ浜駅より徒歩9分（宮ケ浜駅からの送迎サービス有※要連絡）九州道終点から国道226号線を走って50分</td>
                 <td className="p-3 text-stone-600">有り　ホテル前に車60台分のスペースあり　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.28（630件）</td>
                 <td className="p-3 font-bold text-rose-600">¥14,750〜</td>
@@ -262,7 +262,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 指宿温泉　指宿ロイヤルホテル　～すべての女性へ美と健康を楽しむホテル～</td>
                 <td className="p-3 text-stone-600">鹿児島県指宿市十二町4232-1</td>
-                <td className="p-3 text-stone-600">指宿駅周辺</td>
+                <td className="p-3 text-stone-600">鹿児島空港→指宿駅 空港バス約１１０分。指宿駅→タクシー約５分。屋久島、霧島、大隅、南薩等指宿を拠点に観光がおすすめ</td>
                 <td className="p-3 text-stone-600">無料駐車場完備（全50台）バイク・大型車両OK予約不要。指宿を観光するなら車での移動がおすすめ</td>
                 <td className="p-3 font-bold text-amber-600">★4.49（1607件）</td>
                 <td className="p-3 font-bold text-rose-600">¥10,752〜</td>
@@ -271,7 +271,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 指宿砂むし温泉　指宿シーサイドホテル</td>
                 <td className="p-3 text-stone-600">鹿児島県指宿市十町1912</td>
-                <td className="p-3 text-stone-600">指宿駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ指宿枕崎線 指宿駅よりタクシー５分</td>
                 <td className="p-3 text-stone-600">有　１００台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★3.65（815件）</td>
                 <td className="p-3 font-bold text-rose-600">¥10,500〜</td>
@@ -280,7 +280,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. ローズマリーホテル</td>
                 <td className="p-3 text-stone-600">鹿児島県指宿市湊4-4-16</td>
-                <td className="p-3 text-stone-600">指宿駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ 指宿駅から徒歩にて約10分</td>
                 <td className="p-3 text-stone-600">有り　10台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★2.43（37件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,200〜</td>
@@ -289,7 +289,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. ＨＯＴＥＬ　ＡＺ　鹿児島喜入店</td>
                 <td className="p-3 text-stone-600">鹿児島県鹿児島市喜入中名町2936-3</td>
-                <td className="p-3 text-stone-600">中名駅周辺</td>
+                <td className="p-3 text-stone-600">中名駅より車で約５分！ 谷山ＩＣより車で約40分！</td>
                 <td className="p-3 text-stone-600">無料駐車場106台あり　普通車：予約不要 、中型車・大型車：要予約（有料）</td>
                 <td className="p-3 font-bold text-amber-600">★3.85（230件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,280〜</td>
@@ -298,7 +298,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">6. 指宿温泉　いぶすき秀水園</td>
                 <td className="p-3 text-stone-600">鹿児島県指宿市湯の浜5-27-27</td>
-                <td className="p-3 text-stone-600">指宿駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ指宿枕崎線指宿駅まで送迎あり／九州自動車道谷山インターより５０分</td>
                 <td className="p-3 text-stone-600">有り　50台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.68（547件）</td>
                 <td className="p-3 font-bold text-rose-600">¥26,400〜</td>
@@ -327,7 +327,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　ホテル前に車60台分のスペースあり　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.39 ／ 立地 ★4.16 ／ 部屋 ★4.29 ／ 設備 ★4.12 ／ 風呂 ★4.25 ／ 食事 ★4.38</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「新婚旅行で利用、妻も大満足の快適な時間新婚旅行で泊まらせてもらいました。妻がとても気に入ったみたいで私も快適に過ごせました。ご飯も美味しく、温泉最高でした。また泊まりたいなと思いました。ありがとう…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「新婚旅行で利用、妻も大満足の快適な時間新婚旅行で泊まらせてもらいました。妻がとても気に入ったみたいで私も快適に過ごせました。ご飯も美味しく、温泉最高でした。また泊まりたいなと思いました。」
                   </blockquote>
                 </div>
               </div>
@@ -349,7 +349,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料駐車場完備（全50台）バイク・大型車両OK予約不要。指宿を観光するなら車での移動がおすすめ</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの温かい心遣いに感動、また訪れたい滞在中は、最初から最後までとても快適に過ごすことができました。子ども向けのサービスも充実していて、ミニ縁日ではスタッフの方と楽しくゲームをしたり、…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの温かい心遣いに感動、また訪れたい滞在中は、最初から最後までとても快適に過ごすことができました。」
                   </blockquote>
                 </div>
               </div>
@@ -371,7 +371,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有　１００台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.75 ／ 立地 ★3.89 ／ 部屋 ★3.5 ／ 設備 ★3.32 ／ 風呂 ★3.83 ／ 食事 ★3.98</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「接客と砂蒸し風呂、食事に大満足!なんといってもスタッフさんの接客が素晴らしかったです。館内の砂蒸し風呂もお手軽でそのまま見晴らしのいい大浴場に入れます。夕食は指宿の焼酎が飲めて大満足。…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「接客と砂蒸し風呂、食事に大満足!なんといってもスタッフさんの接客が素晴らしかったです。館内の砂蒸し風呂もお手軽でそのまま見晴らしのいい大浴場に入れます。夕食は指宿の焼酎が飲めて大満足。」
                   </blockquote>
                 </div>
               </div>
@@ -437,7 +437,7 @@ export default function MicroTouristHubPage() {
                   <p>【鹿児島・指宿温泉：天然砂むし温泉＆開聞岳パノラマ・黒】 <strong>【駐車場・マイカー利用】</strong>有り　50台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.76 ／ 立地 ★4.55 ／ 部屋 ★4.55 ／ 設備 ★4.45 ／ 風呂 ★4.5 ／ 食事 ★4.79</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「期待値が高すぎたのか、普通に感じた前評判が良すぎて、期待しすぎていたのかもしれません。別に悪くはないんだけど、そんな絶賛するほどじゃなかったかな...というのが正直なところです。砂…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「期待値が高すぎたのか、普通に感じた前評判が良すぎて、期待しすぎていたのかもしれません。別に悪くはないんだけど、そんな絶賛するほどじゃなかったかな...というのが正直なところです。」
                   </blockquote>
                 </div>
               </div>

@@ -589,7 +589,7 @@ export default function WinterFeaturePage() {
                     <h5 className="text-xs font-bold text-cyan-950 mb-1 flex items-center gap-1.5"><Award className="w-3.5 h-3.5 text-cyan-700" />
                       宿泊者の生の声・クチコミ抜粋</h5>
                     <p className="text-xs text-stone-600 italic leading-relaxed">
-                      「食事もデザートも充実、バーの対応も最高朝食、夕食共種類豊富でデザートも充実してて良かったし、飲み放題を頼んだのですがバーテンダーの方も気さくに対応してくださってとても満足でしたクチコミの詳細は」
+                      「食事もデザートも充実、バーの対応も最高朝食、夕食共種類豊富でデザートも充実してて良かったし、飲み放題を頼んだのですがバーテンダーの方も気さくに対応してくださってとても満足でした」
                     </p>
                   </div>
                   <div className="pt-2">

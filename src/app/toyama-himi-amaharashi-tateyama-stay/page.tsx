@@ -253,7 +253,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 氷見温泉郷　魚巡りの宿　永芳閣（ＢＢＨホテルグループ）</td>
                 <td className="p-3 text-stone-600">富山県氷見市阿尾3257</td>
-                <td className="p-3 text-stone-600">氷見駅周辺</td>
+                <td className="p-3 text-stone-600">【ＪＲ】氷見線 氷見駅から車で１０分（無料送迎あり）/【車】北陸（東海北陸）自動車道⇒能越自動車道 氷見北ＩＣより５分</td>
                 <td className="p-3 text-stone-600">無料　屋内60台　お車、バイクのお客様は旅館の正面までお越し下さい。係がご案内いたします。</td>
                 <td className="p-3 font-bold text-amber-600">★4.4（1667件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,200〜</td>
@@ -262,7 +262,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 氷見天然温泉ルートイングランティア氷見　和蔵の宿</td>
                 <td className="p-3 text-stone-600">富山県氷見市加納443-5</td>
-                <td className="p-3 text-stone-600">氷見駅周辺</td>
+                <td className="p-3 text-stone-600">電車：氷見駅より車で約10分 車：能越道氷見IC～一般道で約5分 東京より約 6時間 大阪・名古屋より約 3時間</td>
                 <td className="p-3 text-stone-600">有り　300台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.35（845件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,200〜</td>
@@ -271,7 +271,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 高岡マンテンホテル駅前（マンテンホテルグループ）</td>
                 <td className="p-3 text-stone-600">富山県高岡市末広町1-8</td>
-                <td className="p-3 text-stone-600">高岡駅周辺</td>
+                <td className="p-3 text-stone-600">◆高岡駅古城公園口より徒歩１分◆新高岡駅よりバスで約８分◆高岡ＩＣよりお車で約１０分</td>
                 <td className="p-3 text-stone-600">提携駐車場【高岡中央駐車場】屋根付通路でホテル直結！￥800/泊※途中出庫別途料金　車椅子専用P有</td>
                 <td className="p-3 font-bold text-amber-600">★4.28（3120件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,000〜</td>
@@ -280,7 +280,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. アパホテル〈高岡丸の内〉（２０２６年５月リニューアル）</td>
                 <td className="p-3 text-stone-600">富山県高岡市丸の内2-1</td>
-                <td className="p-3 text-stone-600">高岡駅周辺</td>
+                <td className="p-3 text-stone-600">高岡駅より車で5分/路面電車 万葉線で(急患医療センター前駅)電停徒歩1分</td>
                 <td className="p-3 text-stone-600">【有】60台/到着順/普通車のみ無料 大型車⇒[要事前電話予約]</td>
                 <td className="p-3 font-bold text-amber-600">★4.22（2556件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,505〜</td>
@@ -289,7 +289,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 氷見温泉郷　民宿いけもり</td>
                 <td className="p-3 text-stone-600">富山県氷見市指崎1632</td>
-                <td className="p-3 text-stone-600">氷見駅周辺</td>
+                <td className="p-3 text-stone-600">氷見駅よりお車にて約２０分（６.０ｋｍ）/【車】北陸（東海北陸）自動車道⇒能越自動車道 氷見北ＩＣより５分</td>
                 <td className="p-3 text-stone-600">有り　５０台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.16（78件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,500〜</td>
@@ -298,7 +298,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">6. 宇奈月温泉　延楽</td>
                 <td className="p-3 text-stone-600">富山県黒部市宇奈月温泉347-1</td>
-                <td className="p-3 text-stone-600">宇奈月温泉駅周辺</td>
+                <td className="p-3 text-stone-600">富山地方鉄道「宇奈月温泉駅」より徒歩3分 / 北陸自動車道 黒部ICより約２０分</td>
                 <td className="p-3 text-stone-600">有り・4０台・無料・先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.58（558件）</td>
                 <td className="p-3 font-bold text-rose-600">¥31,900〜</td>
@@ -327,7 +327,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料　屋内60台　お車、バイクのお客様は旅館の正面までお越し下さい。係がご案内いたします。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「貸切風呂と美味しい食事に大満足の旅前日に特別警報が出ていたので行くかギリギリまで悩み、被害状況など宿に確認し、当日伺いましたが行って大正解の宿でした!(お電話で状況を確認した時もとても丁寧に教…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「貸切風呂と美味しい食事に大満足の旅前日に特別警報が出ていたので行くかギリギリまで悩み、被害状況など宿に確認し、当日伺いましたが行って大正解の宿でした!」
                   </blockquote>
                 </div>
               </div>
@@ -393,7 +393,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>【有】60台/到着順/普通車のみ無料 大型車⇒[要事前電話予約]</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「高岡観光に便利、朝食のカレーも絶品高岡駅から大佛さんや高岡古城公園を散策ドラえもんの路面電車にも感激APAホテル近くにはお食事処やスーパーもあり便利朝食には地元食材が登場 氷見うどんも…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「高岡観光に便利、朝食のカレーも絶品高岡駅から大佛さんや高岡古城公園を散策ドラえもんの路面電車にも感激APAホテル近くにはお食事処やスーパーもあり便利朝食には地元食材が登場。」
                   </blockquote>
                 </div>
               </div>

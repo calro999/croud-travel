@@ -420,8 +420,8 @@ export default function Page() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 上諏訪駅よりアクセス。電車 上諏訪駅下車徒歩10分（予約制無料送迎） お車 諏訪ICから車で15分または諏訪湖スマートICから車で10分。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「上諏訪温泉 ホテル紅や」にチェックイン。温泉展望浴場や岩盤浴など施設充実の温泉リゾート。和室・洋室選べるお部屋プランも多彩。などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「上諏訪温泉 ホテル紅や」の湯処へ。温泉展望浴場や岩盤浴など施設充実の温泉リゾート。和室・洋室選べるお部屋とともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「上諏訪温泉 ホテル紅や」にチェックイン。温泉展望浴場や岩盤浴など施設充実の温泉リゾート。和室・洋室選べるお部屋プランも多彩。 窓外に広がる景色を眺めながらチェックイン後の寛ぎ時間を。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「上諏訪温泉 ホテル紅や」の自慢の湯処へ。温かな湯気と落ち着いた雰囲気に癒やされながら、夕食前の贅沢なひとときを過ごす。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「上諏訪温泉 ホテル紅や」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -433,7 +433,7 @@ export default function Page() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「上諏訪温泉 ホテル紅や」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「上諏訪温泉 ホテル紅や」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「お宿 和陽館」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は宿周辺の散策とショッピングを満喫。地元の名産品やグルメを味わってから余裕をもって帰路につく。</li>
               </ul>
             </div>
           </div>
@@ -561,7 +561,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 上諏訪温泉　ホテル紅や</td>
                 <td className="p-3 text-stone-600">長野県諏訪市湖岸通り２－７－２１</td>
-                <td className="p-3 text-stone-600">【電車】上諏訪駅下車徒歩10分（予約制無料送迎）【お車】諏訪ICから車</td>
+                <td className="p-3 text-stone-600">【電車】上諏訪駅下車徒歩10分（予約制無料送迎）【お車】諏訪ICから車で15分または諏訪湖スマートICから車で10分</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.3（1937件）</td>
                 <td className="p-3 font-bold text-rose-600">¥9,500〜</td>
@@ -570,7 +570,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. お宿　和陽館</td>
                 <td className="p-3 text-stone-600">愛知県稲沢市長野2-10-8</td>
-                <td className="p-3 text-stone-600">稲沢駅周辺</td>
+                <td className="p-3 text-stone-600">JR東海道本線稲沢駅より徒歩５分・名神高速 一宮I.C.より車で10分</td>
                 <td className="p-3 text-stone-600">大駐車場有り：50台（無料・先着順）到着されたらフロントにて場所をご確認下さい。</td>
                 <td className="p-3 font-bold text-amber-600">★4.08（353件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,747〜</td>
@@ -579,7 +579,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 男鹿温泉　湯けむりリゾート　セイコーグランドホテル</td>
                 <td className="p-3 text-stone-600">秋田県男鹿市北浦湯本草木原50-1</td>
-                <td className="p-3 text-stone-600">羽立駅周辺</td>
+                <td className="p-3 text-stone-600">秋田自動車道秋田北IC下車６０ｋｍ７０分／JR羽立駅～路線バスで４５分／JR男鹿駅～無料送迎バスあり詳しくは公式HPへ</td>
                 <td className="p-3 text-stone-600">有り　２０台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.09（708件）</td>
                 <td className="p-3 font-bold text-rose-600">¥11,770〜</td>
@@ -608,7 +608,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「裏側の部屋からは湖が見えず残念な結果に紅やさんに泊まれると密かにワクワクして投宿わかっていたことですが湖畔のホテルですが裏側のお部屋からは湖は1ミリも見えませんなんだか残念感の残る結果に自…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「裏側の部屋からは湖が見えず残念な結果に紅やさんに泊まれると密かにワクワクして投宿わかっていたことですが湖畔のホテルですが裏側のお部屋からは湖は1ミリも見えませんなんだか残念感の残る結果に自。」
                   </blockquote>
                 </div>
               </div>
@@ -630,7 +630,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>大駐車場有り：50台（無料・先着順）到着されたらフロントにて場所をご確認下さい。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駐車場が便利で、駅に程よく近い家族が泊まりにくる時に利用させていただいております。駐車場もチェックイン前からチェックイン後まで停めさせてもらえるのでとても助かっています!いつも泊まっている…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駐車場が便利で、駅に程よく近い家族が泊まりにくる時に利用させていただいております。駐車場もチェックイン前からチェックイン後まで停めさせてもらえるのでとても助かっています!」
                   </blockquote>
                 </div>
               </div>

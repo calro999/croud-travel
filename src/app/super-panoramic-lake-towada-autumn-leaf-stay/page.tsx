@@ -85,7 +85,7 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/51757/51757map.gif",
     "reviewCount": 678,
     "reviewAverage": 4.16,
-    "userReview": "設備は古いが清潔で、落ち着いて過ごせる宿設備こそ古いけれど清潔で、食事もとても美味しかった!量が多すぎないのがよいです。景観もよく一人静かに楽しまれている方も多くて、今時珍しいほど落ち着ける宿でし。",
+    "userReview": "設備は古いが清潔で、落ち着いて過ごせる宿設備こそ古いけれど清潔で、食事もとても美味しかった!量が多すぎないのがよいです。景観もよく一人静かに楽しまれている方も多くて、今時珍しいほど落ち着ける宿でした。",
     "hotelMinCharge": 13050,
     "address1": "青森県",
     "address2": "秋田県鹿角郡小坂町十和田湖西湖畔",
@@ -565,8 +565,8 @@ export default function FeatureDetailPage() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 十和田南駅よりアクセス。東北自動車道十和田ICから車で45分 JR八戸駅、JR青森駅から車で120分。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「十和田湖畔温泉 ホテル十和田荘」にチェックイン。高さ15m・幅5ｍの末広大滝は圧巻 館内は広々！ロビーには「青森ねぶた」や「東北のこけし」を多数展示などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「十和田湖畔温泉 ホテル十和田荘」の湯処へ。高さ15m・幅5ｍの末広大滝は圧巻 館内は広々！ロビーには「青森ねぶたとともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「十和田湖畔温泉 ホテル十和田荘」にチェックイン。高さ15m・幅5ｍの末広大滝は圧巻　館内は広々！ まずは客室で移動の疲れをそっと癒やす。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「十和田湖畔温泉 ホテル十和田荘」の湯船で寛ぎタイム。季節の空気を感じながら手足を伸ばし、心豊かな夕方のリラックス時間を満喫。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「十和田湖畔温泉 ホテル十和田荘」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -578,7 +578,7 @@ export default function FeatureDetailPage() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「十和田湖畔温泉 ホテル十和田荘」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「十和田湖畔温泉 ホテル十和田荘」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「縄文のふる里 大湯温泉 ホテル鹿角」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は宿周辺の散策とショッピングを満喫。地元の名産品やグルメを味わってから余裕をもって帰路につく。</li>
               </ul>
             </div>
           </div>
@@ -649,28 +649,28 @@ export default function FeatureDetailPage() {
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
             <div className="flex flex-wrap gap-2">
               <Link
-                href="/prefectures/okinawa/"
+                href="/prefectures/aomori/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                沖縄県の宿・温泉
+                青森県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/aichi/"
+                href="/prefectures/hokkaido/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                愛知県の宿・温泉
+                北海道の宿・温泉
               </Link>
               <Link
-                href="/prefectures/kochi/"
+                href="/prefectures/iwate/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                高知県の宿・温泉
+                岩手県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/osaka/"
+                href="/prefectures/miyagi/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                大阪府の宿・温泉
+                宮城県の宿・温泉
               </Link>
             </div>
           </div>
@@ -706,7 +706,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 十和田湖畔温泉　ホテル十和田荘</td>
                 <td className="p-3 text-stone-600">青森県十和田市大字奥瀬字十和田湖畔休屋３４０</td>
-                <td className="p-3 text-stone-600">東北自動車道十和田ICから車で45分　JR八戸駅、JR青森駅から車で1</td>
+                <td className="p-3 text-stone-600">東北自動車道十和田ICから車で45分 JR八戸駅、JR青森駅から車で120分</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★3.87（0件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,700〜</td>
@@ -715,7 +715,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 縄文のふる里　大湯温泉　ホテル鹿角</td>
                 <td className="p-3 text-stone-600">秋田県鹿角市十和田大湯字中谷地５－１</td>
-                <td className="p-3 text-stone-600">十和田南駅周辺</td>
+                <td className="p-3 text-stone-600">■十和田湖より車で30分■ＪＲ花輪線十和田南駅から車で１２分■東北道十和田ＩＣから国道１０３号線を十和田湖方面へ１２分</td>
                 <td className="p-3 text-stone-600">有　２００台　無料　　　　　　　　　　　　　　　　★お得な宿泊プラン満載★</td>
                 <td className="p-3 font-bold text-amber-600">★4.17（1489件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,000〜</td>
@@ -724,7 +724,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 十和田西湖畔温泉　十和田プリンスホテル</td>
                 <td className="p-3 text-stone-600">秋田県鹿角郡小坂町十和田湖西湖畔</td>
-                <td className="p-3 text-stone-600">東北道小坂ＩＣから３１ｋｍ（約４０分）／八戸駅（木～日曜日のみ運行）・</td>
+                <td className="p-3 text-stone-600">東北道小坂ＩＣから３１ｋｍ（約４０分）／八戸駅（木～日曜日のみ運行）・休屋バス停から無料送迎バスあり（２日前まで予約）</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.14（0件）</td>
                 <td className="p-3 font-bold text-rose-600">¥12,116〜</td>
@@ -733,7 +733,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 大滝温泉　千歳ホテル</td>
                 <td className="p-3 text-stone-600">秋田県大館市十二所町頭49</td>
-                <td className="p-3 text-stone-600">大滝温泉駅周辺</td>
+                <td className="p-3 text-stone-600">ペットOK☆東北自動車道 十和田ＩＣより約１５分。ＪＲ大滝温泉駅より徒歩８分。大館駅からは路線バスもご利用いただけます。</td>
                 <td className="p-3 text-stone-600">ホテルの近くに有り。６０台が駐車でき、無料です。先着順となっております。</td>
                 <td className="p-3 font-bold text-amber-600">★3.35（147件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,082〜</td>
@@ -742,7 +742,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 八幡平温泉郷　八幡平高原ホテル</td>
                 <td className="p-3 text-stone-600">秋田県鹿角市八幡平字熊沢国有林３１３３林班ハ小班</td>
-                <td className="p-3 text-stone-600">鹿角花輪駅周辺</td>
+                <td className="p-3 text-stone-600">【東北自動車道】 松尾八幡平I.Cより県道23号線約55分／鹿角八幡平I.Cより車で約30分</td>
                 <td className="p-3 text-stone-600">有り　50台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.17（35件）</td>
                 <td className="p-3 font-bold text-rose-600">¥11,150〜</td>
@@ -793,7 +793,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有　２００台　無料　　　　　　　　　　　　　　　　★お得な宿泊プラン満載★</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温かい料理に大満足、また泊まりたい!夜ご飯も温かいものは温かいまま食べれましたし、量もお腹いっぱいになり満足です。綺麗でまた泊まりたいと思うホテルでした。ありがとうございました。クチコミの…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温かい料理に大満足、また泊まりたい!夜ご飯も温かいものは温かいまま食べれましたし、量もお腹いっぱいになり満足です。綺麗でまた泊まりたいと思うホテルでした。ありがとうございました。」
                   </blockquote>
                 </div>
               </div>

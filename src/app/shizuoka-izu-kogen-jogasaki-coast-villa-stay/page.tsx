@@ -259,7 +259,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 伊豆高原温泉　全室露天風呂付の宿　ｅ，ここ地宿　風曜日</td>
                 <td className="p-3 text-stone-600">静岡県伊東市八幡野１２５３－１４５（大室高原７丁目２１０）</td>
-                <td className="p-3 text-stone-600">伊豆高原駅周辺</td>
+                <td className="p-3 text-stone-600">伊豆高原駅よりシャボテン公園行き（桜並木経由）バスで１５分、大室高原８丁目下車より徒歩にて１０分</td>
                 <td className="p-3 text-stone-600">有り　８台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.59（157件）</td>
                 <td className="p-3 font-bold text-rose-600">¥15,900〜</td>
@@ -268,7 +268,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 客室露天風呂付き　お部屋食で金目鯛を味わう宿　伊豆高原温泉　お宿　癒楽里ーゆらりー</td>
                 <td className="p-3 text-stone-600">静岡県伊東市富戸1094-12</td>
-                <td className="p-3 text-stone-600">伊豆高原駅周辺</td>
+                <td className="p-3 text-stone-600">東名高速厚木ＩＣ→小田原厚木道路→Ｒ１３５で約９０分</td>
                 <td className="p-3 text-stone-600">有り　７台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.29（386件）</td>
                 <td className="p-3 font-bold text-rose-600">¥12,500〜</td>
@@ -277,7 +277,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 伊豆高原温泉　海望む露天風呂付客室　夢海月(ゆめみづき)</td>
                 <td className="p-3 text-stone-600">静岡県伊東市大室高原10丁目348</td>
-                <td className="p-3 text-stone-600">伊豆高原駅周辺</td>
+                <td className="p-3 text-stone-600">車：東名高速厚木IC・沼津ＩＣより約100分／電車：伊豆急行線伊豆高原駅～シャボテン公園行・理想郷バス停～歩2分</td>
                 <td className="p-3 text-stone-600">無料7台（ご予約不要）</td>
                 <td className="p-3 font-bold text-amber-600">★4.32（536件）</td>
                 <td className="p-3 font-bold text-rose-600">¥12,000〜</td>
@@ -286,7 +286,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 伊豆高原温泉　蔵の宿　ひなた</td>
                 <td className="p-3 text-stone-600">静岡県伊東市富戸1095-216</td>
-                <td className="p-3 text-stone-600">城ヶ崎海岸駅周辺</td>
+                <td className="p-3 text-stone-600">城ヶ崎海岸駅より車で８分／伊豆高原駅より車で１５分／東名高速 厚木ＩＣ→小田原→熱海→伊東</td>
                 <td className="p-3 text-stone-600">有り　5台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.63（86件）</td>
                 <td className="p-3 font-bold text-rose-600">¥15,730〜</td>
@@ -295,7 +295,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 伊豆高原温泉　客室露天風呂付リゾートホテル　コルテラルゴ伊豆高原</td>
                 <td className="p-3 text-stone-600">静岡県伊東市富戸1038-73</td>
-                <td className="p-3 text-stone-600">伊豆高原駅周辺</td>
+                <td className="p-3 text-stone-600">伊豆急行線 伊豆高原駅より車にて１０分／東名 厚木ＩＣより小田原厚木道路経由、Ｒ１３５を下田方面へ１２０分</td>
                 <td className="p-3 text-stone-600">有り　９台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.88（402件）</td>
                 <td className="p-3 font-bold text-rose-600">¥21,360〜</td>
@@ -304,7 +304,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">6. チャイニーズオーベルジュ　仙豆飯店</td>
                 <td className="p-3 text-stone-600">静岡県伊東市富戸1317-5719</td>
-                <td className="p-3 text-stone-600">伊東駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ伊東駅より 東海バス(一碧湖経由シャボテン公園行) 南初島台下車 徒歩約3分</td>
                 <td className="p-3 text-stone-600">有り　6台　無料（予約不要です）　EV無料充電器2基有り　（要予約・普通充電コードご持参ください）</td>
                 <td className="p-3 font-bold text-amber-600">★4.88（352件）</td>
                 <td className="p-3 font-bold text-rose-600">¥14,300〜</td>
@@ -355,7 +355,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　７台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「子供・障害者に優しい宿子供に障害があるため、部屋風呂付き、部屋食が出来る宿とのことでこちらを利用させていただきました。夕食の金目鯛の煮付けは、3人前なのに、ビッグサイズの一匹が付き、ご飯も金目鯛が…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「子供・障害者に優しい宿子供に障害があるため、部屋風呂付き、部屋食が出来る宿とのことでこちらを利用させていただきました。」
                   </blockquote>
                 </div>
               </div>
@@ -377,7 +377,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料7台（ご予約不要）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.46 ／ 立地 ★4.06 ／ 部屋 ★4.52 ／ 設備 ★4.26 ／ 風呂 ★4.38 ／ 食事 ★4.6</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「アットホームな雰囲気と美味しい金目鯛の煮付け大室山の麓、伊豆高原の住宅街(別荘地?)の中にあります。確かにお部屋から海も見えますが、ロケーション的には今一つ。部屋数は少なく、こじんまりしていて…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「アットホームな雰囲気と美味しい金目鯛の煮付け大室山の麓、伊豆高原の住宅街(別荘地?)の中にあります。確かにお部屋から海も見えますが、ロケーション的には今一つ。」
                   </blockquote>
                 </div>
               </div>
@@ -421,7 +421,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　９台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.88 ／ 立地 ★4.63 ／ 部屋 ★4.82 ／ 設備 ★4.81 ／ 風呂 ★4.81 ／ 食事 ★4.88</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「サプライズの演出と心温まるおもてなしに感動大切な友人のお祝いで宿泊しました。以前からずっと泊まってみたかったのですが、なかなか予約が取れず...。今回たまたまキャンセル待ちで予約することが…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「サプライズの演出と心温まるおもてなしに感動大切な友人のお祝いで宿泊しました。以前からずっと泊まってみたかったのですが、なかなか予約が取れず...。」
                   </blockquote>
                 </div>
               </div>

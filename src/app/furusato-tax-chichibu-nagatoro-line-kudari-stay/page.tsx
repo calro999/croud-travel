@@ -439,7 +439,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 十ＲＩＶＥＲＰＯＯＬ　埼玉ちちぶ</td>
                 <td className="p-3 text-stone-600">埼玉県秩父郡皆野町皆野2621</td>
-                <td className="p-3 text-stone-600"></td>
+                <td className="p-3 text-stone-600">埼玉県秩父郡皆野町皆野2621 ／ 交通案内：</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">高評価</td>
                 <td className="p-3 font-bold text-rose-600">¥24,750〜</td>
@@ -448,7 +448,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. ホテルルートイン西武秩父駅前</td>
                 <td className="p-3 text-stone-600">埼玉県秩父市野坂町2-3-18</td>
-                <td className="p-3 text-stone-600"></td>
+                <td className="p-3 text-stone-600">埼玉県秩父市野坂町2-3-18 ／ 交通案内：</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★3.99（958件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,750〜</td>
@@ -457,7 +457,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 居心地のいい宿　Ｃｏｍｆｏｒｔ　Ｓｔａｙ　みやび</td>
                 <td className="p-3 text-stone-600">埼玉県秩父市熊木町24-14　Ｂ棟</td>
-                <td className="p-3 text-stone-600"></td>
+                <td className="p-3 text-stone-600">埼玉県秩父市熊木町24-14 Ｂ棟 ／ 交通案内：</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.23（338件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,480〜</td>

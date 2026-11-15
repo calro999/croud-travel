@@ -420,8 +420,8 @@ export default function Page() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 苅田駅よりアクセス。ＪＲ日豊本線 苅田駅徒歩0分／北九州空港より車で約１5分。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「ホテルルートイン苅田駅前」にチェックイン。ＷＯＷＯＷ全室で無料視聴可■VODルームシアター無料視聴可能（一般映画のみ：コンフォートルーム特典）などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「ホテルルートイン苅田駅前」の湯処へ。ＷＯＷＯＷ全室で無料視聴可■VODルームシアター無料視聴可能（一般映画とともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「ホテルルートイン苅田駅前」にチェックイン。ＷＯＷＯＷ全室で無料視聴可■VODルームシアター無料視聴可能（一般映画のみ：コンフォートルーム特典）が魅力の一軒。客室で荷物をほどいて穏やかな午後のひとときを。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「ホテルルートイン苅田駅前」の自慢の湯処へ。温かな湯気と落ち着いた雰囲気に癒やされながら、夕食前の贅沢なひとときを過ごす。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「ホテルルートイン苅田駅前」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -433,7 +433,7 @@ export default function Page() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「ホテルルートイン苅田駅前」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「ホテルルートイン苅田駅前」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「ホテルルートインコート甲府石和」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は「ホテルルートイン苅田駅前」周辺の観光スポットや地元の名産店に立ち寄り、ご当地のお土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>
@@ -561,7 +561,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. ホテルルートイン苅田駅前</td>
                 <td className="p-3 text-stone-600">福岡県京都郡苅田町神田町1-8-1</td>
-                <td className="p-3 text-stone-600">苅田駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ日豊本線 苅田駅徒歩0分／北九州空港より車で約１5分</td>
                 <td className="p-3 text-stone-600">有り　83台　無料　先着順（予約不可）</td>
                 <td className="p-3 font-bold text-amber-600">★4.06（604件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,350〜</td>
@@ -570,7 +570,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. ホテルルートインコート甲府石和</td>
                 <td className="p-3 text-stone-600">山梨県笛吹市石和町広瀬1195</td>
-                <td className="p-3 text-stone-600">石和温泉駅周辺</td>
+                <td className="p-3 text-stone-600">中央道一宮御坂ＩＣより国道137号経由→国道20号甲府・諏訪方面に向かって車で10分・ＪＲ中央本線石和温泉駅より車で５分</td>
                 <td className="p-3 text-stone-600">無料駐車場完備　８５台</td>
                 <td className="p-3 font-bold text-amber-600">★3.69（697件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,000〜</td>
@@ -579,7 +579,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. ホテルニューわかさ</td>
                 <td className="p-3 text-stone-600">奈良県奈良市北半田東町1</td>
-                <td className="p-3 text-stone-600">近鉄奈良駅周辺</td>
+                <td className="p-3 text-stone-600">車：名神高速道路京都南ICより60分 電車：近鉄奈良線近鉄奈良駅</td>
                 <td className="p-3 text-stone-600">有り　車40台バス6台　15時から１０時無料（時間外有料）</td>
                 <td className="p-3 font-bold text-amber-600">★4.6（691件）</td>
                 <td className="p-3 font-bold text-rose-600">¥13,200〜</td>
@@ -608,7 +608,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　83台　無料　先着順（予約不可）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.12 ／ 立地 ★4.04 ／ 部屋 ★4.01 ／ 設備 ★3.97 ／ 風呂 ★4.01 ／ 食事 ★4.11</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食が豊富で割引や特典も充実朝食バイキングが豊富ですね。ホテル公式アプリから予約なら、ソフトドリンク無料コインが頂けます。JAF会員なので割引を活用してポンタポイントもありがたいですね…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食が豊富で割引や特典も充実朝食バイキングが豊富ですね。ホテル公式アプリから予約なら、ソフトドリンク無料コインが頂けます。」
                   </blockquote>
                 </div>
               </div>
@@ -630,7 +630,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料駐車場完備　８５台</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.79 ／ 立地 ★3.62 ／ 部屋 ★3.68 ／ 設備 ★3.65 ／ 風呂 ★3.79 ／ 食事 ★3.67</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「眺望は残念だが清潔で朝食も満足部屋は一階の部屋で眺望は良くなかったですが、清掃が行き届いていて清潔でした。フロントの女性の対応も親切丁寧でした。朝食を和食洋食など満足でした。クチコミの詳細はこ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「眺望は残念だが清潔で朝食も満足部屋は一階の部屋で眺望は良くなかったですが、清掃が行き届いていて清潔でした。フロントの女性の対応も親切丁寧でした。朝食を和食洋食など満足でした。」
                   </blockquote>
                 </div>
               </div>
@@ -652,7 +652,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　車40台バス6台　15時から１０時無料（時間外有料）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.63 ／ 立地 ★4.5 ／ 部屋 ★4.62 ／ 設備 ★4.57 ／ 風呂 ★4.54 ／ 食事 ★4.52</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの対応とイベントに大満足、また来たいスタッフさんの対応がすべて心地よく、楽しいイベントも用意されていて、施設もきれいでした。子どもが大喜びしていて、奈良にまた遊びに行くときはこのホテル…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの対応とイベントに大満足、また来たいスタッフさんの対応がすべて心地よく、楽しいイベントも用意されていて、施設もきれいでした。」
                   </blockquote>
                 </div>
               </div>

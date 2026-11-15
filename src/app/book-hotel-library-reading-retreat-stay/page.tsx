@@ -108,7 +108,7 @@ export default function Page() {
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/184034/184034map.gif",
     "reviewCount": 1087,
     "reviewAverage": 4.64,
-    "userReview": "朝食の揚げたて天ぷらが絶品で大満足!朝食の天ぷらがとても美味しかったです。係の方が一つひとつ丁寧に揚げてくれて朝から得した気分になりました!また、利用させていただきますクチコミの詳細は。",
+    "userReview": "朝食の揚げたて天ぷらが絶品で大満足!朝食の天ぷらがとても美味しかったです。係の方が一つひとつ丁寧に揚げてくれて朝から得した気分になりました!また、利用させていただきます。",
     "hotelMinCharge": 10452,
     "address1": "長野県",
     "address2": "松本市深志1-5-17",
@@ -334,7 +334,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 湯の山温泉　ホテル湯の本</td>
                 <td className="p-3 text-stone-600">三重県三重郡菰野町菰野8497</td>
-                <td className="p-3 text-stone-600">湯の山温泉駅周辺</td>
+                <td className="p-3 text-stone-600">近鉄湯の山温泉駅～車で約７分（駅より送迎あり：当日要連絡）／新名神・菰野IC～約８分、東名阪・四日市ＩＣ～約２５分</td>
                 <td className="p-3 text-stone-600">有り　３０台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.46（1323件）</td>
                 <td className="p-3 font-bold text-rose-600">¥10,450〜</td>
@@ -343,7 +343,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 天然温泉　あづみの湯　御宿　野乃松本（ドーミーイン・御宿野乃　ホテルズグループ）</td>
                 <td className="p-3 text-stone-600">長野県松本市深志1-5-17</td>
-                <td className="p-3 text-stone-600">松本駅周辺</td>
+                <td className="p-3 text-stone-600">松本駅 徒歩5分</td>
                 <td className="p-3 text-stone-600">有28台(15:00〜翌12:00）1泊1400円/台(途中出庫は有料）バイクは詳細確認ください</td>
                 <td className="p-3 font-bold text-amber-600">★4.62（1124件）</td>
                 <td className="p-3 font-bold text-rose-600">¥13,277〜</td>
@@ -352,7 +352,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 稲佐山温泉　ホテルアマンディ　〜長崎の日本三大夜景を一望〜</td>
                 <td className="p-3 text-stone-600">長崎県長崎市曙町39-38</td>
-                <td className="p-3 text-stone-600">長崎（長崎）駅周辺</td>
+                <td className="p-3 text-stone-600">JR長崎駅からお車で7分。長崎バス5番系統「稲佐山」または「稲佐山中腹」行きバス乗車 無料送迎バス有</td>
                 <td className="p-3 text-stone-600">有り　１２０台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★3.94（747件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,500〜</td>
@@ -403,7 +403,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有28台(15:00〜翌12:00）1泊1400円/台(途中出庫は有料）バイクは詳細確認ください</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.63 ／ 立地 ★4.49 ／ 部屋 ★4.62 ／ 設備 ★4.61 ／ 風呂 ★4.61 ／ 食事 ★4.73</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「眺望が期待外れで少し残念な気分禁煙ダブルルームで予約しました。眺望なしではないプランなのに目の前はスーパーホテルが丸見えでした。ほんの少しですが、眺望なしより値段が高いのでだまされた気分で…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「眺望が期待外れで少し残念な気分禁煙ダブルルームで予約しました。眺望なしではないプランなのに目の前はスーパーホテルが丸見えでした。」
                   </blockquote>
                 </div>
               </div>
@@ -425,7 +425,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１２０台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.99 ／ 立地 ★4.12 ／ 部屋 ★3.87 ／ 設備 ★3.7 ／ 風呂 ★3.99 ／ 食事 ★4.03</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「直前割でお得に利用、大浴場と夜景を満喫急な法事で長崎に行くことになったため、比較的お手頃な値段で探したところ、直前割プランと楽天のクーポンで通常よりかなり安くなっており助かりました。和室でベッ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「直前割でお得に利用、大浴場と夜景を満喫急な法事で長崎に行くことになったため、比較的お手頃な値段で探したところ、直前割プランと楽天のクーポンで通常よりかなり安くなっており助かりました。」
                   </blockquote>
                 </div>
               </div>

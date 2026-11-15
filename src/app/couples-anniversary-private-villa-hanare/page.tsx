@@ -337,7 +337,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 由布院温泉　湯富里の宿　一壷天</td>
                 <td className="p-3 text-stone-600">大分県由布市湯布院町川上302-7</td>
-                <td className="p-3 text-stone-600">由布院駅周辺</td>
+                <td className="p-3 text-stone-600">車/湯布院ICから県道216号。湯布院幹部交番を左折（7分）電車/JR由布院駅下車、車で約5分（2.5km）</td>
                 <td className="p-3 text-stone-600">無料で15台停められます。予約は不要です。</td>
                 <td className="p-3 font-bold text-amber-600">★4.75（263件）</td>
                 <td className="p-3 font-bold text-rose-600">¥33,000〜</td>
@@ -346,7 +346,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 由布院温泉　朝霧のみえる宿　ゆふいん花由</td>
                 <td className="p-3 text-stone-600">大分県由布市湯布院町川北913-11</td>
-                <td className="p-3 text-stone-600">由布院駅周辺</td>
+                <td className="p-3 text-stone-600">■湯布院ＩＣから車1分■由布院駅から車で７分程でございます。■無料送迎もございます（電話にて要予約）</td>
                 <td className="p-3 text-stone-600">■20台程停められる広めの無料駐車場があり、予約は不要です。【フロント・ロビー/Wi-Fi完備】</td>
                 <td className="p-3 font-bold text-amber-600">★4.69（1090件）</td>
                 <td className="p-3 font-bold text-rose-600">¥22,000〜</td>
@@ -355,7 +355,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 由布院温泉　お宿　有楽</td>
                 <td className="p-3 text-stone-600">大分県由布市湯布院町川上2868-5</td>
-                <td className="p-3 text-stone-600">由布院駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ 由布院駅より徒歩にて約5分</td>
                 <td className="p-3 text-stone-600">有り　9台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.78（61件）</td>
                 <td className="p-3 font-bold text-rose-600">¥10,500〜</td>
@@ -384,7 +384,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料で15台停められます。予約は不要です。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「マタニティプランで非日常の癒やしを堪能マタニティプランで利用させてもらいました。由布院駅からタクシーで5分ほどで、山の中にあります。到着した瞬間から、スタッフの方の対応も素晴らしく、非日常を体…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「マタニティプランで非日常の癒やしを堪能マタニティプランで利用させてもらいました。由布院駅からタクシーで5分ほどで、山の中にあります。」
                   </blockquote>
                 </div>
               </div>
@@ -406,7 +406,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>■20台程停められる広めの無料駐車場があり、予約は不要です。【フロント・ロビー/Wi-Fi完備】</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「広くて清潔な部屋と最高の露天風呂に大満足部屋は、広くて清潔で設備も良かったです。特に露天風呂は、最高で何度入ったかわからないくらい堪能しました。スタッフさんも気さくでとても親切で気持ち良く過ご…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「広くて清潔な部屋と最高の露天風呂に大満足部屋は、広くて清潔で設備も良かったです。特に露天風呂は、最高で何度入ったかわからないくらい堪能しました。」
                   </blockquote>
                 </div>
               </div>

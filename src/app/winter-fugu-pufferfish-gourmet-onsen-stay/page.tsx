@@ -303,7 +303,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 萩温泉郷　夕景の宿　海のゆりかご　萩小町</td>
                 <td className="p-3 text-stone-600">山口県萩市椿東越ヶ浜6509</td>
-                <td className="p-3 text-stone-600">東萩駅周辺</td>
+                <td className="p-3 text-stone-600">「JR東萩駅」より車で10分／世界遺産「松下村塾」より車で10分／無料送迎サービスも有り！詳細はお気軽に問合せ下さい。</td>
                 <td className="p-3 text-stone-600">60台（無料）／予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.36（5230件）</td>
                 <td className="p-3 font-bold text-rose-600">¥11,000〜</td>
@@ -312,7 +312,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 宮島グランドホテル　有もと</td>
                 <td className="p-3 text-stone-600">広島県廿日市市宮島町南町364</td>
-                <td className="p-3 text-stone-600">宮島口駅周辺</td>
+                <td className="p-3 text-stone-600">宮島口桟橋よりフェリーで１０分～宮島桟橋よりマイクロバスにて送迎</td>
                 <td className="p-3 text-stone-600">有り　５台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.58（1299件）</td>
                 <td className="p-3 font-bold text-rose-600">¥29,050〜</td>
@@ -321,7 +321,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. リーガロイヤルホテル広島</td>
                 <td className="p-3 text-stone-600">広島県広島市中区基町6-78</td>
-                <td className="p-3 text-stone-600">広島駅周辺</td>
+                <td className="p-3 text-stone-600">平和記念公園へ徒歩約5分／広島バスセンター隣接／JR広島駅より市内電車で約15分、タクシーで約10分</td>
                 <td className="p-3 text-stone-600">1泊1台3000円　15:00-翌11:00以外の時間 追加料金250円/30分</td>
                 <td className="p-3 font-bold text-amber-600">★4.36（7554件）</td>
                 <td className="p-3 font-bold text-rose-600">¥9,970〜</td>
@@ -330,7 +330,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. オリエンタルホテル広島</td>
                 <td className="p-3 text-stone-600">広島県広島市中区田中町6-10</td>
-                <td className="p-3 text-stone-600">広島駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ広島駅よりエキまちループバス右回りで約5分、田中町下車徒歩1分／山陽自動車道～広島IC～R54を市内方面、約20分</td>
                 <td className="p-3 text-stone-600">先着順（予約不可）／1泊1,800円／高さ制限1.55mまで</td>
                 <td className="p-3 font-bold text-amber-600">★4.19（4890件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,397〜</td>
@@ -339,7 +339,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 尾道国際ホテル</td>
                 <td className="p-3 text-stone-600">広島県尾道市新浜1-13-6</td>
-                <td className="p-3 text-stone-600">尾道駅周辺</td>
+                <td className="p-3 text-stone-600">JR尾道駅より車で3分。尾道駅から送迎可（要オンライン予約）／山陽道尾道・福山西の各ICより20分</td>
                 <td className="p-3 text-stone-600">有り／駐車料金無料（チェックイン日15:00～翌11:00）／先着順／大型車は有料で要予約</td>
                 <td className="p-3 font-bold text-amber-600">★3.99（827件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,800〜</td>
@@ -368,7 +368,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>60台（無料）／予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「料理が美味しく、静かにのんびり過ごせた料理がすごく美味しいです。夕日が見える温泉、当日は小雨で夕日が見られませんでしたが、とても気持ちのよいお風呂でした。宿はとても広いのですが、他の客とあ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「料理が美味しく、静かにのんびり過ごせた料理がすごく美味しいです。夕日が見える温泉、当日は小雨で夕日が見られませんでしたが、とても気持ちのよいお風呂でした。」
                   </blockquote>
                 </div>
               </div>
@@ -434,7 +434,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>先着順（予約不可）／1泊1,800円／高さ制限1.55mまで</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.22 ／ 立地 ★4.21 ／ 部屋 ★4.15 ／ 設備 ★4.08 ／ 風呂 ★4.04</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「広島の常宿、混雑時はラウンジでゆったり広島の常宿となっています。時期によりますが、外国の方や修学旅行の団体さんも宿泊されるので、タイミングが悪いとエレベータが混雑します。そんな時は、ウェルカムラウ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「広島の常宿、混雑時はラウンジでゆったり広島の常宿となっています。時期によりますが、外国の方や修学旅行の団体さんも宿泊されるので、タイミングが悪いとエレベータが混雑します。」
                   </blockquote>
                 </div>
               </div>
@@ -456,7 +456,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り／駐車料金無料（チェックイン日15:00～翌11:00）／先着順／大型車は有料で要予約</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「サービスがとてもよかったです。お部屋も広くて大満足です。大浴場は無いですが、近くの温泉施設に無料で送迎してもらえるのが非常にありがたかったです。しかも入浴のチケットもフロントで購入すれば割引もありタオ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「サービスがとてもよかったです。お部屋も広くて大満足です。大浴場は無いですが、近くの温泉施設に無料で送迎してもらえるのが非常にありがたかったです。」
                   </blockquote>
                 </div>
               </div>

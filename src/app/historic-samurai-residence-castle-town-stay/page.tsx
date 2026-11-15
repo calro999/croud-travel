@@ -90,7 +90,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F182399%2F182399.html%26f_flg%3DPLAN",
     "hotelMinCharge": 18400,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/182399/182399.jpg",
-    "userReview": "Ｎａｚｕｎａ　飫肥　城下町温泉ならではの立地と落ち着いた空間で、ゆったりとした滞在を楽しめたという声が寄せられています。",
+    "userReview": "Ｎａｚｕｎａ 飫肥 城下町温泉ならではの立地と落ち着いた空間で、ゆったりとした滞在を楽しめたという声が寄せられています。",
     "reviewAverage": 4.5,
     "reviewCount": 18,
     "address": "宮崎県日南市飫肥8-1-62",
@@ -118,7 +118,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F134842%2F134842.html%26f_flg%3DPLAN",
     "hotelMinCharge": 26500,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/134842/134842.jpg",
-    "userReview": "信州高遠温泉　竹松旅館ならではの立地と落ち着いた空間で、ゆったりとした滞在を楽しめたという声が寄せられています。",
+    "userReview": "信州高遠温泉 竹松旅館ならではの立地と落ち着いた空間で、ゆったりとした滞在を楽しめたという声が寄せられています。",
     "reviewAverage": 4.5,
     "reviewCount": 34,
     "address": "長野県伊那市高遠町西高遠1691-1",
@@ -132,7 +132,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F79497%2F79497.html%26f_flg%3DPLAN",
     "hotelMinCharge": 9350,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/79497/79497.jpg",
-    "userReview": "湯田川温泉　つかさや旅館ならではの立地と落ち着いた空間で、ゆったりとした滞在を楽しめたという声が寄せられています。",
+    "userReview": "湯田川温泉 つかさや旅館ならではの立地と落ち着いた空間で、ゆったりとした滞在を楽しめたという声が寄せられています。",
     "reviewAverage": 4.83,
     "reviewCount": 104,
     "address": "山形県鶴岡市湯田川乙52",
@@ -284,7 +284,7 @@ export default function Page() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 上田駅・上田インターより車で5分で現地へ到着。</li>
                 <li>・<strong className="text-stone-800">15:30〜</strong> 「城下町の宿 水野旅館」へチェックイン。落ち着いた空間で旅の荷を解き、ゆったりとした時間をスタート。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「城下町の宿 水野旅館」の湯処へ。日頃の疲れを癒やす湯浴みとともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「城下町の宿 水野旅館」の大浴場・露天風呂へ。日暮れの静けさの中で湯に浸かり、旅の緊張をゆっくりと解きほぐす。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「城下町の宿 水野旅館」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -296,7 +296,7 @@ export default function Page() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「城下町の宿 水野旅館」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「城下町の宿 水野旅館」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「Ｎａｚｕｎａ 飫肥 城下町温泉」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は「城下町の宿 水野旅館」周辺の観光スポットや地元の名産店に立ち寄り、ご当地のお土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>
@@ -424,7 +424,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 城下町の宿　水野旅館</td>
                 <td className="p-3 text-stone-600">長野県上田市中央4-13-9</td>
-                <td className="p-3 text-stone-600">上田（長野）駅周辺</td>
+                <td className="p-3 text-stone-600">上田駅・上田インターより車で5分。上田城・信州上田医療センターの近くで、北国街道紺屋町。</td>
                 <td className="p-3 text-stone-600">有り　12台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.32（106件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,950〜</td>
@@ -433,7 +433,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. Ｎａｚｕｎａ　飫肥　城下町温泉</td>
                 <td className="p-3 text-stone-600">宮崎県日南市飫肥8-1-62</td>
-                <td className="p-3 text-stone-600">飫肥駅周辺</td>
+                <td className="p-3 text-stone-600">〇お車で宮崎空港より、①高速道路利用で約40分 ②国道220号経由の日南海岸線コースは約1時間</td>
                 <td className="p-3 text-stone-600">敷地内5台有り　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4（19件）</td>
                 <td className="p-3 font-bold text-rose-600">¥18,400〜</td>
@@ -442,7 +442,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 信州高遠温泉　竹松旅館</td>
                 <td className="p-3 text-stone-600">長野県伊那市高遠町西高遠1691-1</td>
-                <td className="p-3 text-stone-600">茅野駅周辺</td>
+                <td className="p-3 text-stone-600">伊那ICから車で約25分／諏訪ICから車で約45分</td>
                 <td className="p-3 text-stone-600">有り　10台　無料　要予約</td>
                 <td className="p-3 font-bold text-amber-600">★4.5（34件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,500〜</td>
@@ -451,7 +451,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 湯田川温泉　つかさや旅館</td>
                 <td className="p-3 text-stone-600">山形県鶴岡市湯田川乙52</td>
-                <td className="p-3 text-stone-600">ＪＲ　鶴岡駅よりタクシーにて２０分／バスにて３０分　庄内空港より車30</td>
+                <td className="p-3 text-stone-600">ＪＲ 鶴岡駅よりタクシーにて２０分／バスにて３０分 庄内空港より車30分</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.83（104件）</td>
                 <td className="p-3 font-bold text-rose-600">¥9,350〜</td>
@@ -460,7 +460,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 温泉旅館　矢野</td>
                 <td className="p-3 text-stone-600">北海道松前郡松前町福山123番地</td>
-                <td className="p-3 text-stone-600">函館空港より車で約120分。北海道新幹線・道南いさりび鉄道「木古内駅」</td>
+                <td className="p-3 text-stone-600">函館空港より車で約120分。北海道新幹線・道南いさりび鉄道「木古内駅」よりバスで約60分、松城バス停下車徒歩約5分。</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★3.45（129件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,150〜</td>
@@ -489,7 +489,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　12台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.5 ／ 立地 ★4.05 ／ 部屋 ★4.2 ／ 設備 ★4 ／ 風呂 ★4</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食の卵かけご飯当日予約で朝食付きはラッキーでした。一晩中入れる人工温泉もひとりでゆっくり利用ができ旅の疲れもとれました。朝食は焼き魚しっかりとした鮭、新鮮な卵おすすめの卵かけご飯でい…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食の卵かけご飯当日予約で朝食付きはラッキーでした。一晩中入れる人工温泉もひとりでゆっくり利用ができ旅の疲れもとれました。」
                   </blockquote>
                 </div>
               </div>
@@ -577,7 +577,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「予約時の手違いに追加料金、納得のいかない対応妻が膝の具合が悪いのでベッド付きの部屋を予約。ところがベッドなしの布団だけの部屋でした。妻がクレームを入れたところ「確かにその部屋はありますが、。」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「予約時の手違いに追加料金、納得のいかない対応妻が膝の具合が悪いのでベッド付きの部屋を予約。ところがベッドなしの布団だけの部屋でした。」
                   </blockquote>
                 </div>
               </div>

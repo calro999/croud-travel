@@ -324,8 +324,8 @@ export default function FeaturePage() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 立野（熊本）駅よりアクセス。■熊本ICより：５７号線へ30分、新阿蘇大橋から5分 ■熊本空港より：40分。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「栃木温泉 鮎返りの滝を望む宿 小山旅館」にチェックイン。源泉かけ流しの温泉につかり、白川水系の美しい鮎返りの滝と原生林を間近に眺められます。などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「栃木温泉 鮎返りの滝を望む宿 小山旅館」の湯処へ。源泉かけ流しの温泉につかり、白川水系の美しい鮎返りの滝と原生林を間近にとともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「栃木温泉 鮎返りの滝を望む宿 小山旅館」にチェックイン。源泉かけ流しの温泉につかり、白川水系の美しい鮎返りの滝と原生林を間近に眺められます。 荷物を解き、落ち着いた室内でまず一息つく。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「栃木温泉 鮎返りの滝を望む宿 小山旅館」の大浴場・露天風呂へ。日暮れの静けさの中で湯に浸かり、旅の緊張をゆっくりと解きほぐす。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「栃木温泉 鮎返りの滝を望む宿 小山旅館」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -337,7 +337,7 @@ export default function FeaturePage() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「栃木温泉 鮎返りの滝を望む宿 小山旅館」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「栃木温泉 鮎返りの滝を望む宿 小山旅館」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「会津東山温泉 くつろぎ宿 新滝」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は「栃木温泉 鮎返りの滝を望む宿 小山旅館」周辺の観光スポットや地元の名産店に立ち寄り、ご当地のお土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>

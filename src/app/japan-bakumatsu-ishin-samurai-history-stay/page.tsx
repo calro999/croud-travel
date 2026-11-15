@@ -253,7 +253,7 @@ export default function HistoryHeritageHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 萩温泉郷　夕景の宿　海のゆりかご　萩小町</td>
                 <td className="p-3 text-stone-600">山口県萩市椿東越ヶ浜6509</td>
-                <td className="p-3 text-stone-600">東萩駅周辺</td>
+                <td className="p-3 text-stone-600">「JR東萩駅」より車で10分／世界遺産「松下村塾」より車で10分／無料送迎サービスも有り！詳細はお気軽に問合せ下さい。</td>
                 <td className="p-3 text-stone-600">60台（無料）／予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.36（5230件）</td>
                 <td className="p-3 font-bold text-rose-600">¥11,000〜</td>
@@ -262,7 +262,7 @@ export default function HistoryHeritageHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 会津東山温泉　今昔亭（こんじゃくてい）</td>
                 <td className="p-3 text-stone-600">福島県会津若松市東山町湯本247</td>
-                <td className="p-3 text-stone-600">会津若松駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ磐越西線 会津若松駅からタクシーで１５分／磐越自動車道 会津若松ＩＣから２０分☆送迎は要連絡☆</td>
                 <td className="p-3 text-stone-600">有り　５０台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.32（400件）</td>
                 <td className="p-3 font-bold text-rose-600">¥14,300〜</td>
@@ -271,7 +271,7 @@ export default function HistoryHeritageHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 東山温泉　元湯有馬屋</td>
                 <td className="p-3 text-stone-600">福島県会津若松市東山町湯本居平118</td>
-                <td className="p-3 text-stone-600">会津若松駅周辺</td>
+                <td className="p-3 text-stone-600">JR磐越西線会津若松駅よりバスで20分／磐越自動車道会津若松ICより車で15分</td>
                 <td className="p-3 text-stone-600">有り　20台　先着順　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.63（80件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,250〜</td>
@@ -280,7 +280,7 @@ export default function HistoryHeritageHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 会津東山温泉　くつろぎ宿　新滝</td>
                 <td className="p-3 text-stone-600">福島県会津若松市東山町湯本川向222</td>
-                <td className="p-3 text-stone-600">会津若松駅周辺</td>
+                <td className="p-3 text-stone-600">【お車】会津若松ＩＣ～約２０分【会津若松駅より】タクシー１３分／周遊バス「あかべぇ」１６分「東山温泉駅バス停」～徒歩３分</td>
                 <td className="p-3 text-stone-600">駐車場は80台まで無料で可能です★予約は不要です★大型車でのご来館は事前にご相談ください★</td>
                 <td className="p-3 font-bold text-amber-600">★4.65（2487件）</td>
                 <td className="p-3 font-bold text-rose-600">¥14,800〜</td>
@@ -289,7 +289,7 @@ export default function HistoryHeritageHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 会津東山温泉　いろりの宿　芦名</td>
                 <td className="p-3 text-stone-600">福島県会津若松市東山町湯本下原232-1</td>
-                <td className="p-3 text-stone-600">会津若松駅周辺</td>
+                <td className="p-3 text-stone-600">最寄駅：会津若松駅からタクシー又は「東山温泉」へ向かう路線バスで約20分 最寄IC:会津若松から約15分</td>
                 <td className="p-3 text-stone-600">有り　10台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.3（203件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,470〜</td>
@@ -298,7 +298,7 @@ export default function HistoryHeritageHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">6. 土佐龍温泉　三陽荘</td>
                 <td className="p-3 text-stone-600">高知県土佐市宇佐町竜504-1</td>
-                <td className="p-3 text-stone-600">朝倉（高知）駅周辺</td>
+                <td className="p-3 text-stone-600">自家用車の方は、高知自動車道「土佐IC」より約20分。公共交通の方は、事前予約で最寄りバス停まで送迎あり。</td>
                 <td className="p-3 text-stone-600">有り　５０台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.32（405件）</td>
                 <td className="p-3 font-bold text-rose-600">¥15,730〜</td>
@@ -327,7 +327,7 @@ export default function HistoryHeritageHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>60台（無料）／予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「料理が美味しく、静かにのんびり過ごせた料理がすごく美味しいです。夕日が見える温泉、当日は小雨で夕日が見られませんでしたが、とても気持ちのよいお風呂でした。宿はとても広いのですが、他の客とあ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「料理が美味しく、静かにのんびり過ごせた料理がすごく美味しいです。夕日が見える温泉、当日は小雨で夕日が見られませんでしたが、とても気持ちのよいお風呂でした。」
                   </blockquote>
                 </div>
               </div>
@@ -393,7 +393,7 @@ export default function HistoryHeritageHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>駐車場は80台まで無料で可能です★予約は不要です★大型車でのご来館は事前にご相談ください★</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.62 ／ 立地 ★4.49 ／ 部屋 ★4.66 ／ 設備 ★4.57 ／ 風呂 ★4.7 ／ 食事 ★4.72</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「料理と温泉は最高だが部屋のタバコ臭が残念お料理は郷土料理が中心でとても満足しました!アルコール類もたくさんあり今回は飲み比べをチョイスし大満足です。お風呂は種類もあり各々のお風呂にタオルも用意され…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「料理と温泉は最高だが部屋のタバコ臭が残念お料理は郷土料理が中心でとても満足しました!アルコール類もたくさんあり今回は飲み比べをチョイスし大満足です。」
                   </blockquote>
                 </div>
               </div>

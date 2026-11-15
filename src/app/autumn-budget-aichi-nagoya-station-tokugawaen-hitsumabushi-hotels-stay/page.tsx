@@ -401,7 +401,7 @@ export default function AutumnBudgetHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. ダイワロイネットホテル名古屋太閤通口</td>
                 <td className="p-3 text-stone-600">愛知県名古屋市中村区椿町18-10</td>
-                <td className="p-3 text-stone-600">名古屋駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ名古屋駅(太閤通口)より徒歩にて約４分</td>
                 <td className="p-3 text-stone-600">提携駐車場(自走式立体駐車場/先着順/車高制限有)。満車の際は近隣駐車場へご案内致します。</td>
                 <td className="p-3 font-bold text-amber-600">★4.41（2236件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,850〜</td>
@@ -410,7 +410,7 @@ export default function AutumnBudgetHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. ホテルリブマックスＢＵＤＧＥＴ名古屋太閤通口</td>
                 <td className="p-3 text-stone-600">愛知県名古屋市中村区太閤4-9-25</td>
-                <td className="p-3 text-stone-600">中村区役所駅周辺</td>
+                <td className="p-3 text-stone-600">JR東海道線 名古屋駅 太閤通口より徒歩にて約10分、名古屋市営桜通線 中村区役所駅徒歩5分</td>
                 <td className="p-3 text-stone-600">近隣に有料パーキングあり　※提携駐車場ではございません。　また満車の場合はご容赦下さい。</td>
                 <td className="p-3 font-bold text-amber-600">★3.71（274件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,400〜</td>
@@ -419,7 +419,7 @@ export default function AutumnBudgetHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 相鉄フレッサイン　名古屋駅新幹線口</td>
                 <td className="p-3 text-stone-600">愛知県名古屋市中村区椿町19-16</td>
-                <td className="p-3 text-stone-600">名古屋駅周辺</td>
+                <td className="p-3 text-stone-600">名古屋駅★太閤口（豊臣秀吉ゆかりの地名）から徒歩約４分</td>
                 <td className="p-3 text-stone-600">なし※近隣駐車場（有料）をご案内</td>
                 <td className="p-3 font-bold text-amber-600">★4.07（929件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,100〜</td>
@@ -428,7 +428,7 @@ export default function AutumnBudgetHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. ヴィアイン名古屋駅前椿町（ＪＲ西日本グループ）</td>
                 <td className="p-3 text-stone-600">愛知県名古屋市中村区椿町9番13号</td>
-                <td className="p-3 text-stone-600">名古屋駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ 名古屋駅 太閤通口（新幹線口）より徒歩約４分</td>
                 <td className="p-3 text-stone-600">コインパーキング14台　200円/40分　入庫から24時間最大￥1800※繰り返し適用</td>
                 <td className="p-3 font-bold text-amber-600">★4.32（1427件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,040〜</td>
@@ -437,7 +437,7 @@ export default function AutumnBudgetHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 名鉄イン名古屋駅新幹線口</td>
                 <td className="p-3 text-stone-600">愛知県名古屋市中村区則武1丁目6番3号</td>
-                <td className="p-3 text-stone-600">名古屋駅周辺</td>
+                <td className="p-3 text-stone-600">JR名古屋駅徒歩約4分／地下鉄桜通線名古屋駅徒歩約5分★JR名古屋駅太閤通口（新幹線口）から建物見え分かりやすいアクセス</td>
                 <td className="p-3 text-stone-600">無し</td>
                 <td className="p-3 font-bold text-amber-600">★4.28（1865件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,000〜</td>
@@ -532,7 +532,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>コインパーキング14台　200円/40分　入庫から24時間最大￥1800※繰り返し適用</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.35 ／ 立地 ★4.2 ／ 部屋 ★4.37 ／ 設備 ★4.28 ／ 風呂 ★4.23 ／ 食事 ★4.26</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「お部屋が綺麗で、お風呂も快適で大満足お部屋がとてもキレイでした。お風呂も洗い場とバスタブが別々になっており、自宅のお風呂より快適でした!パウダールームにはイスもあって、次回も名古屋に来る際はヴ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「お部屋が綺麗で、お風呂も快適で大満足お部屋がとてもキレイでした。お風呂も洗い場とバスタブが別々になっており、自宅のお風呂より快適でした!」
                   </blockquote>
                 </div>
               </div>

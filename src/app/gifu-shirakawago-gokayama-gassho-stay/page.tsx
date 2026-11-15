@@ -253,7 +253,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 飛騨高山温泉　飛騨の里　旅館　むら山</td>
                 <td className="p-3 text-stone-600">岐阜県高山市西之一色町3-829</td>
-                <td className="p-3 text-stone-600">高山駅周辺</td>
+                <td className="p-3 text-stone-600">高山駅・濃飛バスセンターよりさるぼぼバスにて約１０分（飛騨の里下下車）徒歩１分。</td>
                 <td className="p-3 text-stone-600">有り　12台　無料　駐輪OK！</td>
                 <td className="p-3 font-bold text-amber-600">★4.61（288件）</td>
                 <td className="p-3 font-bold text-rose-600">¥19,250〜</td>
@@ -262,7 +262,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 料理旅館　備前屋</td>
                 <td className="p-3 text-stone-600">岐阜県郡上市八幡町柳町264</td>
-                <td className="p-3 text-stone-600">郡上八幡駅周辺</td>
+                <td className="p-3 text-stone-600">長良川鉄道 郡上八幡駅より岐阜バス「城下町プラザ」下車３分</td>
                 <td className="p-3 text-stone-600">有り　８台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.73（69件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,700〜</td>
@@ -271,7 +271,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 日本の宿　ひだ高山　倭乃里</td>
                 <td className="p-3 text-stone-600">岐阜県高山市一之宮町1682</td>
-                <td className="p-3 text-stone-600">高山駅周辺</td>
+                <td className="p-3 text-stone-600">高山駅よりお車で20分 （高山駅⇔倭乃里送迎あり／7日前までの予約制）</td>
                 <td className="p-3 text-stone-600">有り　（10台／無料／予約不要）</td>
                 <td className="p-3 font-bold text-amber-600">★5（73件）</td>
                 <td className="p-3 font-bold text-rose-600">¥40,700〜</td>
@@ -280,7 +280,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 五箇山　旅館　よしのや＜富山県＞</td>
                 <td className="p-3 text-stone-600">富山県南砺市五箇山皆葎366</td>
-                <td className="p-3 text-stone-600">城端駅周辺</td>
+                <td className="p-3 text-stone-600">JR城端駅から車にて２５分・JR高岡駅からバスで130分／東海北陸自動車道 五箇山ICから10分</td>
                 <td className="p-3 text-stone-600">有　１０台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.5（78件）</td>
                 <td className="p-3 font-bold text-rose-600">¥9,500〜</td>
@@ -289,7 +289,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 奥飛騨　平湯温泉　岡田旅館</td>
                 <td className="p-3 text-stone-600">岐阜県高山市奥飛騨温泉郷平湯</td>
-                <td className="p-3 text-stone-600">平湯温泉方面行きバス乗車、「平湯温泉駅」下車／松本ＩＣより６０分／富山</td>
+                <td className="p-3 text-stone-600">平湯温泉方面行きバス乗車、「平湯温泉駅」下車／松本ＩＣより６０分／富山ＩＣより９０分／清見ＩＣより８０分</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★3.91（627件）</td>
                 <td className="p-3 font-bold text-rose-600">¥15,950〜</td>
@@ -298,7 +298,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">6. 小さな料理旅館　こまくさ</td>
                 <td className="p-3 text-stone-600">岐阜県高山市岡本町4-172-1</td>
-                <td className="p-3 text-stone-600">高山駅周辺</td>
+                <td className="p-3 text-stone-600">JR高山駅から北へ1.3㌔車3～5分/徒歩15分、東海北陸道/飛騨清見JCTから中部縦貫道/高山IC、小館へ2㌔5分、</td>
                 <td className="p-3 text-stone-600">有り　１０台　無料　予約いりません</td>
                 <td className="p-3 font-bold text-amber-600">★5（10件）</td>
                 <td className="p-3 font-bold text-rose-600">¥18,700〜</td>
@@ -415,7 +415,7 @@ export default function MicroTouristHubPage() {
                   <p>【岐阜・白川郷＆五箇山：世界遺産合掌造り集落・荻町展望】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事と温泉は満足食事に関しては味も良く、囲炉裏の雰囲気もあり、食事対応の方の接客も好感が持ててよかった。温泉に関しては、浴槽の変色やヌメヌメ感、硫黄の匂いも強く、温泉らしい温泉に思えた。客…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事と温泉は満足食事に関しては味も良く、囲炉裏の雰囲気もあり、食事対応の方の接客も好感が持ててよかった。温泉に関しては、浴槽の変色やヌメヌメ感、硫黄の匂いも強く、温泉らしい温泉に思えた。」
                   </blockquote>
                 </div>
               </div>

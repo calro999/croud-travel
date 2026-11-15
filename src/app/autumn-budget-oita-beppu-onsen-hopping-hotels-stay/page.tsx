@@ -342,7 +342,7 @@ export default function BeppuBudgetAutumnPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 別府温泉　天空湯房　清海荘</td>
                 <td className="p-3 text-stone-600">大分県別府市北浜3丁目14-3</td>
-                <td className="p-3 text-stone-600">別府（大分）駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ別府駅～徒歩１5分／別府ＩＣ～お車で１５分</td>
                 <td className="p-3 text-stone-600">有り　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.38（631件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,700〜</td>
@@ -351,7 +351,7 @@ export default function BeppuBudgetAutumnPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 別府温泉　ホテルニューツルタ</td>
                 <td className="p-3 text-stone-600">大分県別府市北浜1-14-15</td>
-                <td className="p-3 text-stone-600">大分駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ別府駅より徒歩8分。別府ＩＣより車で約15分。駐車場先着順、入庫後21時間最大700円。全室ロビー無料Wi-fi</td>
                 <td className="p-3 text-stone-600">入庫後21時間：最大700円・駐車場は有料＆先着順。満車の場合はご利用いただけないことがございます。</td>
                 <td className="p-3 font-bold text-amber-600">★4.24（1215件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,000〜</td>
@@ -360,7 +360,7 @@ export default function BeppuBudgetAutumnPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 別府温泉　別府ステーションホテル</td>
                 <td className="p-3 text-stone-600">大分県別府市駅前町13-4</td>
-                <td className="p-3 text-stone-600">別府（大分）駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ別府駅が目の前（表玄関 東口）徒歩30秒</td>
                 <td className="p-3 text-stone-600">専用ならびに契約駐車場有り　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.09（2398件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,000〜</td>
@@ -369,7 +369,7 @@ export default function BeppuBudgetAutumnPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 別府観光ホテルエース</td>
                 <td className="p-3 text-stone-600">大分県別府市堀田町28番23号</td>
-                <td className="p-3 text-stone-600">別府（大分）駅周辺</td>
+                <td className="p-3 text-stone-600">別府ICから車で約１分、ＪＲ別府駅から車で約１２分、大分空港から車で約４０分</td>
                 <td className="p-3 text-stone-600">有り：普通車34台、軽自動車2台 駐車可能　※無料　ご予約は不要です。</td>
                 <td className="p-3 font-bold text-amber-600">★4.24（26件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,630〜</td>
@@ -378,7 +378,7 @@ export default function BeppuBudgetAutumnPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 別府温泉　ホテル三泉閣</td>
                 <td className="p-3 text-stone-600">大分県別府市北浜3-6-23</td>
-                <td className="p-3 text-stone-600">別府（大分）駅周辺</td>
+                <td className="p-3 text-stone-600">JR別府駅より徒歩にて約10分（タクシーにて約3分）／別府国際観光港よりタクシーにて約6分／別府ICより車で約10分</td>
                 <td className="p-3 text-stone-600">有り（500円／泊）予約不可・先着順。※トキハ駐車場は途中出庫不可・チェックイン時に駐車券を要提示</td>
                 <td className="p-3 font-bold text-amber-600">★4.52（216件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,710〜</td>
@@ -407,7 +407,7 @@ export default function BeppuBudgetAutumnPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.45 ／ 立地 ★4.4 ／ 部屋 ★4.3 ／ 設備 ★4.07 ／ 風呂 ★4.2 ／ 食事 ★4.44</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋付き温泉と豪華な食事に大満足泊まった部屋は温泉がついているタイプのお部屋でした。部屋の温泉は誰にも邪魔されることなく朝焼けがとても綺麗でかなりリラックスできました。食事の方も結構食べるほうなの…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋付き温泉と豪華な食事に大満足泊まった部屋は温泉がついているタイプのお部屋でした。部屋の温泉は誰にも邪魔されることなく朝焼けがとても綺麗でかなりリラックスできました。」
                   </blockquote>
                 </div>
               </div>
@@ -451,7 +451,7 @@ export default function BeppuBudgetAutumnPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>専用ならびに契約駐車場有り　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.09 ／ 立地 ★4.17 ／ 部屋 ★4.03 ／ 設備 ★3.92 ／ 風呂 ★4.18 ／ 食事 ★4</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近で快適、同期会や帰省の拠点に最適同期会で田舎に帰り、親せきに会い駅近くにと思いお世話になりました。何もかもがよく満足のいくホテルでした。なかなか田舎に帰っても皆年齢が上り実家に泊まるのも気兼ね…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近で快適、同期会や帰省の拠点に最適同期会で田舎に帰り、親せきに会い駅近くにと思いお世話になりました。何もかもがよく満足のいくホテルでした。」
                   </blockquote>
                 </div>
               </div>
@@ -495,7 +495,7 @@ export default function BeppuBudgetAutumnPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り（500円／泊）予約不可・先着順。※トキハ駐車場は途中出庫不可・チェックイン時に駐車券を要提示</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉三昧と赤ちゃん連れに優しい環境で大満足温泉好きな夫の誕生日に、夫婦と赤ちゃんの3人で宿泊しました。館内に2箇所温泉があり、朝と夕で男女入れ替えで2箇所とも楽しめたのに加えて、徒歩圏内の姉妹…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉三昧と赤ちゃん連れに優しい環境で大満足温泉好きな夫の誕生日に、夫婦と赤ちゃんの3人で宿泊しました。」
                   </blockquote>
                 </div>
               </div>

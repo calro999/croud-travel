@@ -420,8 +420,8 @@ export default function Page() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 田野畑駅よりアクセス。E４５三陸道「宮古市や久慈市」から車で約４５分。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「ホテル羅賀荘」にチェックイン。お天気が良ければ朝陽に出会え、部屋の窓からは紺碧の海と白亜紀断層を眺め日々の疲れを癒す海辺のホテルなどの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「ホテル羅賀荘」の湯処へ。お天気が良ければ朝陽に出会え、部屋の窓からは紺碧の海と白亜紀断層を眺めとともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「ホテル羅賀荘」にチェックイン。お天気が良ければ朝陽に出会え、部屋の窓からは紺碧の海と白亜紀断層を眺め日々の疲れを癒す海辺のホテルが魅力の一軒。客室で荷物をほどいて穏やかな午後のひとときを。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「ホテル羅賀荘」の大浴場・露天風呂へ。日暮れの静けさの中で湯に浸かり、旅の緊張をゆっくりと解きほぐす。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「ホテル羅賀荘」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -433,7 +433,7 @@ export default function Page() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「ホテル羅賀荘」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「ホテル羅賀荘」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「東尋坊温泉 三国オーシャンリゾート＆ホテル」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は宿周辺の散策とショッピングを満喫。地元の名産品やグルメを味わってから余裕をもって帰路につく。</li>
               </ul>
             </div>
           </div>
@@ -504,28 +504,28 @@ export default function Page() {
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
             <div className="flex flex-wrap gap-2">
               <Link
-                href="/prefectures/chiba/"
-                className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
-              >
-                千葉県の宿・温泉
-              </Link>
-              <Link
                 href="/prefectures/shizuoka/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 静岡県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/saitama/"
+                href="/prefectures/gifu/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                埼玉県の宿・温泉
+                岐阜県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/hiroshima/"
+                href="/prefectures/aichi/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                広島県の宿・温泉
+                愛知県の宿・温泉
+              </Link>
+              <Link
+                href="/prefectures/mie/"
+                className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
+              >
+                三重県の宿・温泉
               </Link>
             </div>
           </div>
@@ -561,7 +561,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. ホテル羅賀荘</td>
                 <td className="p-3 text-stone-600">岩手県下閉伊郡田野畑村羅賀60-1</td>
-                <td className="p-3 text-stone-600">田野畑駅周辺</td>
+                <td className="p-3 text-stone-600">E４５三陸道「宮古市や久慈市」から車で約４５分。龍泉洞は約３０分。三陸鉄道、田野畑駅から車で約３分（予約で送迎ＯＫ）</td>
                 <td className="p-3 text-stone-600">有り　７０台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.34（521件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,000〜</td>
@@ -570,7 +570,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 東尋坊温泉　三国オーシャンリゾート＆ホテル（旧：三国観光ホテル）</td>
                 <td className="p-3 text-stone-600">福井県坂井市三国町緑ヶ丘4-4-8</td>
-                <td className="p-3 text-stone-600">芦原温泉駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ北陸新幹線・ハピライン芦原温泉下車 京福バス東尋坊経由 終点 龍翔博物館前下車</td>
                 <td className="p-3 text-stone-600">有り　２００台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.2（644件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,000〜</td>
@@ -579,7 +579,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. あしずり温泉郷　足摺サニーサイドホテル</td>
                 <td className="p-3 text-stone-600">高知県土佐清水市松尾19-2</td>
-                <td className="p-3 text-stone-600">中村駅周辺</td>
+                <td className="p-3 text-stone-600">中村駅よりバス１００分（足摺岬行き） タクシー６０分／高知自動車道 四万十町中央ＩＣよりＲ５６、Ｒ３２１経由110分</td>
                 <td className="p-3 text-stone-600">有り　３０台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.16（555件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,500〜</td>
@@ -608,7 +608,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　７０台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.39 ／ 立地 ★4.52 ／ 部屋 ★4.32 ／ 設備 ★4.17 ／ 風呂 ★4.31 ／ 食事 ★4.41</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「料理もロケーションも最高、隣の音が少し気になる得々プランでしたが、料理も満足でした。特にアワビの蒸し焼きが最高!海が近いのでロケーションも良かった!!ちょっと気になったのは、隣の部屋の音が聞こ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「料理もロケーションも最高、隣の音が少し気になる得々プランでしたが、料理も満足でした。特にアワビの蒸し焼きが最高!海が近いのでロケーションも良かった!!」
                   </blockquote>
                 </div>
               </div>
@@ -630,7 +630,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２００台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「いいホテルです食事が思ったより残念でした。味とかは問題ではなく、こちらの過大な期待のせいだと思いますが..あと、夏休みの子供キャンプ?なのか子供が多すぎて、バイキング取りづらかった。更に引率の…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「いいホテルです食事が思ったより残念でした。味とかは問題ではなく、こちらの過大な期待のせいだと思いますが..あと、夏休みの子供キャンプ?なのか子供が多すぎて、バイキング取りづらかった。」
                   </blockquote>
                 </div>
               </div>

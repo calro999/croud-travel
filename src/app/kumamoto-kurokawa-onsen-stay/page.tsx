@@ -253,7 +253,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 黒川温泉　いこい旅館</td>
                 <td className="p-3 text-stone-600">熊本県阿蘇郡南小国町黒川温泉川端通り</td>
-                <td className="p-3 text-stone-600">阿蘇駅周辺</td>
+                <td className="p-3 text-stone-600">JR熊本駅より九州横断バスにて2時間50分。JR博多駅より西鉄バスにて2時間40分。熊本空港より車で1時間30分</td>
                 <td className="p-3 text-stone-600">１５台収容。無料にてご用意致しております。</td>
                 <td className="p-3 font-bold text-amber-600">★4.72（769件）</td>
                 <td className="p-3 font-bold text-rose-600">¥20,900〜</td>
@@ -262,7 +262,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 全室離れの温泉宿　久邸</td>
                 <td className="p-3 text-stone-600">熊本県阿蘇郡南小国町満願寺5853-1</td>
-                <td className="p-3 text-stone-600">熊本空港駅周辺</td>
+                <td className="p-3 text-stone-600">熊本空港よりお車にて約90分</td>
                 <td className="p-3 text-stone-600">有り　14台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★3.2（12件）</td>
                 <td className="p-3 font-bold text-rose-600">¥17,600〜</td>
@@ -271,7 +271,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 白川温泉　華匠庵＜熊本県＞</td>
                 <td className="p-3 text-stone-600">熊本県阿蘇郡南小国町満願寺5704-1</td>
-                <td className="p-3 text-stone-600">日田インターからお車で約１時間／熊本インターからお車で約１時間４０分／</td>
+                <td className="p-3 text-stone-600">日田インターからお車で約１時間／熊本インターからお車で約１時間４０分／黒川温泉から車で5分。</td>
                 <td className="p-3 text-stone-600">有り　9台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★5（285件）</td>
                 <td className="p-3 font-bold text-rose-600">¥18,700〜</td>
@@ -280,7 +280,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 日田　琴平温泉　旅籠かやうさぎ</td>
                 <td className="p-3 text-stone-600">大分県日田市琴平1529-1</td>
-                <td className="p-3 text-stone-600">日田駅周辺</td>
+                <td className="p-3 text-stone-600">JR日田駅、日田バスセンターから車で１０分（送迎可） 日田ICから車で15分、湯布院温泉、別府温泉、黒川温泉迄1時間圏内</td>
                 <td className="p-3 text-stone-600">有り　２０台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.79（197件）</td>
                 <td className="p-3 font-bold text-rose-600">¥10,000〜</td>
@@ -289,7 +289,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 飛瀬温泉　天河山荘</td>
                 <td className="p-3 text-stone-600">熊本県阿蘇郡南小国町満願寺飛瀬2820</td>
-                <td className="p-3 text-stone-600">阿蘇駅周辺</td>
+                <td className="p-3 text-stone-600">阿蘇駅よりお車で４０分</td>
                 <td className="p-3 text-stone-600">有り　7台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.56（49件）</td>
                 <td className="p-3 font-bold text-rose-600">¥14,850〜</td>
@@ -298,7 +298,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">6. 黒川温泉　夢龍胆</td>
                 <td className="p-3 text-stone-600">熊本県阿蘇郡南小国町満願寺6430-1</td>
-                <td className="p-3 text-stone-600">阿蘇駅周辺</td>
+                <td className="p-3 text-stone-600">大分道日田ＩＣより車で６０分、黒川温泉バス停より徒歩1分。送迎あり(条件あり)事前予約要。</td>
                 <td className="p-3 text-stone-600">有り　３０台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.32（402件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,800〜</td>
@@ -327,7 +327,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>１５台収容。無料にてご用意致しております。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「料理と温泉は良いが設備や案内に不安あり料理、温泉は最高でした。でも別館の説明が雑だと思います。通常別館といえば割と近くにあるイメージでしたが、別館が多くある事を詳細に載せる必要があると思います。そ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「料理と温泉は良いが設備や案内に不安あり料理、温泉は最高でした。でも別館の説明が雑だと思います。通常別館といえば割と近くにあるイメージでしたが、別館が多くある事を詳細に載せる必要があると思います。」
                   </blockquote>
                 </div>
               </div>
@@ -371,7 +371,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　9台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★5 ／ 立地 ★4.77 ／ 部屋 ★4.95 ／ 設備 ★4.82 ／ 風呂 ★4.82 ／ 食事 ★5</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「美味しい食事と温かいおもてなしに大満足着いたら、ウェルカムドリンクとデザートでおもてなしして頂き、夕飯はどれも美味しく一緒に行った両親もとても喜んでいました。朝ごはんも、とっても美味しかったで…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「美味しい食事と温かいおもてなしに大満足着いたら、ウェルカムドリンクとデザートでおもてなしして頂き、夕飯はどれも美味しく一緒に行った両親もとても喜んでいました。」
                   </blockquote>
                 </div>
               </div>
@@ -415,7 +415,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　7台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「静かで綺麗な旅館、温泉と食事が最高ホスピタリティ溢れる、綺麗な旅館でした!7部屋しかないので、色々混むことはなく過ごせます。部屋に立派な温泉がついていますが、貸切風呂もすごく良かったです。…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「静かで綺麗な旅館、温泉と食事が最高ホスピタリティ溢れる、綺麗な旅館でした!7部屋しかないので、色々混むことはなく過ごせます。部屋に立派な温泉がついていますが、貸切風呂もすごく良かったです。」
                   </blockquote>
                 </div>
               </div>
@@ -437,7 +437,7 @@ export default function MicroTouristHubPage() {
                   <p>【熊本・黒川温泉：入湯手形＆渓流露天風呂めぐり極上宿 】 <strong>【駐車場・マイカー利用】</strong>有り　３０台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「庭園の風情と美味しい食事に癒やされる再訪以前泊まってとても良かったのでリピートしました!お部屋は1階でしたが目の前に庭園がありとても風情があります。建物は古いですが、露天風呂は広くスタッフ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「庭園の風情と美味しい食事に癒やされる再訪以前泊まってとても良かったのでリピートしました!お部屋は1階でしたが目の前に庭園がありとても風情があります。」
                   </blockquote>
                 </div>
               </div>

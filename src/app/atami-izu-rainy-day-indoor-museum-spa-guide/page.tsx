@@ -478,49 +478,49 @@ export default function AtamiIzuRainyDayIndoorMuseumSpaPage() {
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">あわせて読みたい人気特集＆全国エリアガイド</h2>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
-            <a href="/winter-kanagawa-hakone-yumoto-ashinoko-shrine-fuji-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/winter-shizuoka-izukogen-luxury-hanare-roten-zagyoso-kinmedai-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12・1月箱根】冬の箱根湯本＆芦ノ湖・箱根神社新春初詣！澄み渡る白雪富士の絶景と名湯に寛ぐ厳選宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【全室離れ客室露天風呂と相模湾絶景オーシャンビュー】2026-2027年11-12月初冬の静岡・伊豆高原！最高峰ABBA RESORTS坐漁荘＆お宿うち山・極上地金目鯛と伊勢海老・</span>
             </a>
-            <a href="/winter-kanagawa-yugawara-onsen-bungo-kaiseki-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/winter-shizuoka-kanzanji-onsen-hamanako-fugu-eel-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12月湯河原温泉の名湯と奥湯河原晩秋紅葉】文豪が愛した万葉の隠れ家・相模湾の伊勢海老＆地魚会席の宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">初冬の浜名湖レイクビューと遠州灘天然とらふぐ 名物冬うなぎ＆湖畔パノラマ展望露天風呂の宿5選</span>
             </a>
-            <a href="/kanagawa-hakone-ashinoko-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/winter-shizuoka-nishiizu-dogashima-onsen-sunset-fuji-takaashigani-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">箱根・芦ノ湖＆元箱根：湖畔鳥居・海賊船＆富士ビュー極上宿 厳選ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12月静岡・西伊豆堂ヶ島温泉】夕陽百選＆駿河湾越しの雪化粧富士 名物戸田高足ガニ＆伊勢海老・地金目鯛会席を堪能する絶景オーシャンビュー名宿5選</span>
             </a>
-            <a href="/kanagawa-yugawara-solo-retreat-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/winter-shizuoka-shimoda-tsumekizaki-suisen-kinmedai-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">湯河原温泉ひとり旅・万葉集ゆかり名湯おこもり：相模湾一望・自家源泉かけ流し・伊豆の旬懐石！都心60分の文豪リトリート厳選3宿</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【12・1月静岡】300万本が咲き誇る爪木崎水仙まつりと富士山絶景・下田港直送極上「一本釣り地金目鯛」を堪能する下田・南伊豆の名宿5選</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
             <div className="flex flex-wrap gap-2">
               <Link
-                href="/prefectures/yamaguchi/"
+                href="/prefectures/shizuoka/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                山口県の宿・温泉
+                静岡県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/kagawa/"
+                href="/prefectures/gifu/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                香川県の宿・温泉
+                岐阜県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/fukui/"
+                href="/prefectures/aichi/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                福井県の宿・温泉
+                愛知県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/kanagawa/"
+                href="/prefectures/mie/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                神奈川県の宿・温泉
+                三重県の宿・温泉
               </Link>
             </div>
           </div>
@@ -556,7 +556,7 @@ export default function AtamiIzuRainyDayIndoorMuseumSpaPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 熱海温泉　ホテル　サンミ倶楽部</td>
                 <td className="p-3 text-stone-600">静岡県熱海市和田浜南町5-8</td>
-                <td className="p-3 text-stone-600">熱海駅周辺</td>
+                <td className="p-3 text-stone-600">JR東海道線『熱海駅』より東海バス『マリンスパあたみ』下車 徒歩1分</td>
                 <td className="p-3 text-stone-600">50台　有料（1100円）※ご利用時間はご宿泊日の12時からチェックアウト日の10時までとなります。</td>
                 <td className="p-3 font-bold text-amber-600">★3.92（969件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,352〜</td>
@@ -565,7 +565,7 @@ export default function AtamiIzuRainyDayIndoorMuseumSpaPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. ホテル法華クラブ湘南藤沢</td>
                 <td className="p-3 text-stone-600">神奈川県藤沢市鵠沼石上1-6-1</td>
-                <td className="p-3 text-stone-600">藤沢駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ・小田急・江ノ電「藤沢駅」南口より徒歩５分。繁華街の中心に位置し、江ノ島、鎌倉観光に最適♪</td>
                 <td className="p-3 text-stone-600">車高1.9ｍ長さ5.1ｍ重さ2ｔ以内は先着順にて駐車可能。1泊1,100円。その他の場合は要問合せ。</td>
                 <td className="p-3 font-bold text-amber-600">★4.14（3715件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,750〜</td>
@@ -574,7 +574,7 @@ export default function AtamiIzuRainyDayIndoorMuseumSpaPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. ホテルプラム（ＨＯＴＥＬ　ＰＬＵＭＭ）横浜</td>
                 <td className="p-3 text-stone-600">神奈川県横浜市西区北幸2-9-1</td>
-                <td className="p-3 text-stone-600">横浜駅周辺</td>
+                <td className="p-3 text-stone-600">【ＪＲ・私鉄／横浜駅】西口出口より徒歩7分。 【横浜市営地下鉄／横浜駅】９番出口より徒歩５分。</td>
                 <td className="p-3 text-stone-600">有 （1600円/泊、先着順、車種制限有）出入庫時間 7:00〜22:00   近隣駐車場も有</td>
                 <td className="p-3 font-bold text-amber-600">★4.39（3930件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,900〜</td>
@@ -583,7 +583,7 @@ export default function AtamiIzuRainyDayIndoorMuseumSpaPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 横浜ベイシェラトンホテル＆タワーズ</td>
                 <td className="p-3 text-stone-600">神奈川県横浜市西区北幸1-3-23</td>
-                <td className="p-3 text-stone-600">横浜駅周辺</td>
+                <td className="p-3 text-stone-600">JR・私鉄 横浜駅徒歩1分(直結)。新横浜駅から地下鉄11分、品川駅からＪＲ20分。羽田空港よりリムジンYCAT迄30分</td>
                 <td className="p-3 text-stone-600">有り（駐車台数には限りがあります）　１９００円／泊（税込）</td>
                 <td className="p-3 font-bold text-amber-600">★4.58（2182件）</td>
                 <td className="p-3 font-bold text-rose-600">¥16,588〜</td>
@@ -592,7 +592,7 @@ export default function AtamiIzuRainyDayIndoorMuseumSpaPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 鎌倉プリンスホテル</td>
                 <td className="p-3 text-stone-600">神奈川県鎌倉市七里ヶ浜東1-2-18</td>
-                <td className="p-3 text-stone-600">七里ヶ浜駅周辺</td>
+                <td className="p-3 text-stone-600">江ノ島電鉄七里ヶ浜駅～徒歩約8分。無料送迎バスあり。または有料バスにて潮騒通り下車徒歩約1分。</td>
                 <td className="p-3 text-stone-600">あり、有料（入庫より24時間￥1,000）。</td>
                 <td className="p-3 font-bold text-amber-600">★4.37（1801件）</td>
                 <td className="p-3 font-bold text-rose-600">¥11,236〜</td>
@@ -621,7 +621,7 @@ export default function AtamiIzuRainyDayIndoorMuseumSpaPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>50台　有料（1100円）※ご利用時間はご宿泊日の12時からチェックアウト日の10時までとなります。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「三世代で熱海を満喫、景色と親切な対応に感動孫と三世代で 初めての熱海で ホテルの従業員の方は 親切で また 部屋から海が見えて景色よく感動しましたマリンスパ熱海のプールへ 目の前すぐ行ける…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「三世代で熱海を満喫、景色と親切な対応に感動孫と三世代で 初めての熱海で ホテルの従業員の方は 親切で また 部屋から海が見えて景色よく感動しましたマリンスパ熱海のプールへ 目の前すぐ行ける。」
                   </blockquote>
                 </div>
               </div>
@@ -643,7 +643,7 @@ export default function AtamiIzuRainyDayIndoorMuseumSpaPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>車高1.9ｍ長さ5.1ｍ重さ2ｔ以内は先着順にて駐車可能。1泊1,100円。その他の場合は要問合せ。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「大浴場のシャンプーバーとコーヒーが魅力大浴場が嬉しかった。ドラストで買えるようなシャントリが4種類くらい(ボタニストなど)選べてよかったです。ウェルカムドリンクのコーヒーもカプセル式で美味しか…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「大浴場のシャンプーバーとコーヒーが魅力大浴場が嬉しかった。ドラストで買えるようなシャントリが4種類くらい(ボタニストなど)選べてよかったです。」
                   </blockquote>
                 </div>
               </div>
@@ -665,7 +665,7 @@ export default function AtamiIzuRainyDayIndoorMuseumSpaPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有 （1600円/泊、先着順、車種制限有）出入庫時間 7:00〜22:00   近隣駐車場も有</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.4 ／ 立地 ★4.15 ／ 部屋 ★4.37 ／ 設備 ★4.34 ／ 風呂 ★4.35</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「フロントの交通案内が不十分で残念土地勘がなかったので行きたいところへのバス経路を確認したかったが、フロントデスクの方は周辺の交通事情に詳しくなかった。問い合わせる時間が無駄になった。滞在は快適…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「フロントの交通案内が不十分で残念土地勘がなかったので行きたいところへのバス経路を確認したかったが、フロントデスクの方は周辺の交通事情に詳しくなかった。問い合わせる時間が無駄になった。」
                   </blockquote>
                 </div>
               </div>
@@ -687,7 +687,7 @@ export default function AtamiIzuRainyDayIndoorMuseumSpaPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り（駐車台数には限りがあります）　１９００円／泊（税込）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅直結で便利、朝食も美味しくまた利用したい15時チェックインが遅れて17時になりましたとっても残念でした沢山歩いていたので 少し横になって休みたかったから仕方ないのかもしれないですが。…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅直結で便利、朝食も美味しくまた利用したい15時チェックインが遅れて17時になりましたとっても残念でした沢山歩いていたので 少し横になって休みたかったから仕方ないのかもしれないですが。」
                   </blockquote>
                 </div>
               </div>
@@ -709,7 +709,7 @@ export default function AtamiIzuRainyDayIndoorMuseumSpaPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>あり、有料（入庫より24時間￥1,000）。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「静寂が保たれた空間で連泊してゆっくり過ごす高いレベルのスタッフの多い高級リゾートホテル正規のレートで利用するのはかなりツラいがこまめに探せば納得いくレートが探せるはずシャトルバスの…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「静寂が保たれた空間で連泊してゆっくり過ごす高いレベルのスタッフの多い高級リゾートホテル正規のレートで利用するのはかなりツラいがこまめに探せば納得いくレートが探せるはずシャトルバスの。」
                   </blockquote>
                 </div>
               </div>

@@ -423,8 +423,8 @@ export default function Page() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 加賀温泉駅よりアクセス。加賀温泉駅・小松空港から無料送迎あり（要予約/定時便） 車 加賀ICより14分。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「山中温泉 吉祥やまなか」にチェックイン。清流と名湯、美食に包まれるラグジュアリー宿。山中温泉の文化に触れ、心ほどける静寂の滞在。などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「山中温泉 吉祥やまなか」の湯処へ。清流と名湯、美食に包まれるラグジュアリー宿。山中温泉の文化に触れ、心ほとともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「山中温泉 吉祥やまなか」にチェックイン。清流と名湯、美食に包まれるラグジュアリー宿。山中温泉の文化に触れ、心ほどける静寂の滞在。 館内の設えを確かめながら、これからの滞在に備えてゆっくり休息する。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「山中温泉 吉祥やまなか」の自慢の湯処へ。温かな湯気と落ち着いた雰囲気に癒やされながら、夕食前の贅沢なひとときを過ごす。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「山中温泉 吉祥やまなか」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -436,7 +436,7 @@ export default function Page() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「山中温泉 吉祥やまなか」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「山中温泉 吉祥やまなか」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「よもぎひら温泉 和泉屋」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は「山中温泉 吉祥やまなか」周辺の観光スポットや地元の名産店に立ち寄り、ご当地のお土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>
@@ -564,7 +564,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 山中温泉　吉祥やまなか</td>
                 <td className="p-3 text-stone-600">石川県加賀市山中温泉東町1-ホ14-3</td>
-                <td className="p-3 text-stone-600">加賀温泉駅周辺</td>
+                <td className="p-3 text-stone-600">加賀温泉駅・小松空港から無料送迎あり（要予約/定時便）【車】加賀ICより14分。金沢・福井へは車で1時間</td>
                 <td className="p-3 text-stone-600">有（無料）２０台　※正面玄関前にお越しください。スタッフがご案内いたします。</td>
                 <td className="p-3 font-bold text-amber-600">★4.74（1683件）</td>
                 <td className="p-3 font-bold text-rose-600">¥19,500〜</td>
@@ -573,7 +573,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. よもぎひら温泉　和泉屋</td>
                 <td className="p-3 text-stone-600">新潟県長岡市蓬平町甲1508-2</td>
-                <td className="p-3 text-stone-600">長岡駅周辺</td>
+                <td className="p-3 text-stone-600">長岡駅よりお車にて２５分</td>
                 <td className="p-3 text-stone-600">有り　60台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.62（353件）</td>
                 <td className="p-3 font-bold text-rose-600">¥14,080〜</td>
@@ -582,7 +582,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 京都祇園　料理旅館　花楽</td>
                 <td className="p-3 text-stone-600">京都府京都市東山区祇園町南側499</td>
-                <td className="p-3 text-stone-600">京都駅周辺</td>
+                <td className="p-3 text-stone-600">京都駅からタクシーで10分、市バス祇園バス停下車徒歩5分</td>
                 <td className="p-3 text-stone-600">有り　6台　要予約 　1泊2,000円／台</td>
                 <td className="p-3 font-bold text-amber-600">★3.96（329件）</td>
                 <td className="p-3 font-bold text-rose-600">¥15,730〜</td>
@@ -611,7 +611,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有（無料）２０台　※正面玄関前にお越しください。スタッフがご案内いたします。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.77 ／ 立地 ★4.51 ／ 部屋 ★4.54 ／ 設備 ★4.61 ／ 風呂 ★4.67 ／ 食事 ★4.79</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「パンケーキとカクテル、食事に大満足!2年ぶり2回目の利用です。パンケーキを楽しみにして来ました。また前回、タイミングが合わず飲めなかったカクテルも飲むことが出来ました。夜の食事も沢山あり、どれ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「パンケーキとカクテル、食事に大満足!2年ぶり2回目の利用です。パンケーキを楽しみにして来ました。また前回、タイミングが合わず飲めなかったカクテルも飲むことが出来ました。」
                   </blockquote>
                 </div>
               </div>
@@ -655,7 +655,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　6台　要予約 　1泊2,000円／台</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.21 ／ 立地 ★4.04 ／ 部屋 ★3.83 ／ 設備 ★3.54 ／ 風呂 ★3.27 ／ 食事 ★4.26</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「八坂神社近くの好立地、丁寧な接客に大満足夫婦て京都旅行中に外国人の夫と共に一泊させていただきました。八坂神社のすぐ近くで祇園の商店街や清水寺からも歩いて行ける距離で立地はとてもいいと思います。建物…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「八坂神社近くの好立地、丁寧な接客に大満足夫婦て京都旅行中に外国人の夫と共に一泊させていただきました。八坂神社のすぐ近くで祇園の商店街や清水寺からも歩いて行ける距離で立地はとてもいいと思います。」
                   </blockquote>
                 </div>
               </div>

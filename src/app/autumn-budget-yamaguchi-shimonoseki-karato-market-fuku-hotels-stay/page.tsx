@@ -404,7 +404,7 @@ export default function AutumnBudgetFeaturePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. ヴィアイン下関＜維新の湯＞（ＪＲ西日本グループ）</td>
                 <td className="p-3 text-stone-600">山口県下関市竹崎町4丁目2番33号</td>
-                <td className="p-3 text-stone-600">下関駅周辺</td>
+                <td className="p-3 text-stone-600">［鉄道］JR山陽本線下関駅（東口）より徒歩約３分 / ［車］中国自動車道下関ICより約１０分</td>
                 <td className="p-3 text-stone-600">近隣の提携駐車場をご案内させていただきます</td>
                 <td className="p-3 font-bold text-amber-600">★4.19（1014件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,010〜</td>
@@ -413,7 +413,7 @@ export default function AutumnBudgetFeaturePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 下関グランドホテル</td>
                 <td className="p-3 text-stone-600">山口県下関市南部町31-2</td>
-                <td className="p-3 text-stone-600">下関駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ下関から車で５分、ＪＲ門司港駅横から船で５分</td>
                 <td className="p-3 text-stone-600">有り　３０台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.28（1556件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,500〜</td>
@@ -422,7 +422,7 @@ export default function AutumnBudgetFeaturePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. プラザホテル下関</td>
                 <td className="p-3 text-stone-600">山口県下関市岬之町11-10</td>
-                <td className="p-3 text-stone-600">下関駅周辺</td>
+                <td className="p-3 text-stone-600">下関駅①～④バス乗り場から４分三百目バス停下車すぐ☆下関ＩＣより車で１0分</td>
                 <td className="p-3 text-stone-600">600円/日　ご宿泊予約時に備考欄に記載ください。※記載がない場合はお取りできません。ご了承ください</td>
                 <td className="p-3 font-bold text-amber-600">★4.13（1547件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,500〜</td>
@@ -431,7 +431,7 @@ export default function AutumnBudgetFeaturePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. スカイハートホテル下関</td>
                 <td className="p-3 text-stone-600">山口県下関市岬之町6-7</td>
-                <td className="p-3 text-stone-600">下関駅周辺</td>
+                <td className="p-3 text-stone-600">JR下関駅より1.4Km（徒歩20分） バス：下関駅より４分の入江口下車 徒歩３分 車：下関ICより15分</td>
                 <td className="p-3 text-stone-600">有り　37台　無料　先着順 （満車になり次第、有料駐車場へのご案内）</td>
                 <td className="p-3 font-bold text-amber-600">★3.94（1194件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,050〜</td>
@@ -440,7 +440,7 @@ export default function AutumnBudgetFeaturePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. ＫＯＫＯ　ＳＴＡＹ　下関</td>
                 <td className="p-3 text-stone-600">山口県下関市竹崎町3-11-2</td>
-                <td className="p-3 text-stone-600">下関駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ下関駅西口より徒歩２分。下関Ｉ・Ｃより市街地方面に進み車で約１５分。山口宇部空港よりバスで75分。</td>
                 <td className="p-3 text-stone-600">平面駐車場先着順（普通車700円〜）／大型車事前電話予約必須￥1400〜￥2800</td>
                 <td className="p-3 font-bold text-amber-600">★3.86（1557件）</td>
                 <td className="p-3 font-bold text-rose-600">¥2,921〜</td>

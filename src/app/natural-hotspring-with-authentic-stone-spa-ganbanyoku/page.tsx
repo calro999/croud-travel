@@ -283,8 +283,8 @@ export default function Page() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 武雄温泉駅よりアクセス。博多駅～70分/長崎空港～車40分/SAGAアリーナ～車50分/御船山らかんの湯～車20分/ハウステンボス～車40分。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「嬉野温泉 旅館 吉田屋」にチェックイン。新大浴場露天風呂＆テラス＆客室が誕生！日本宿TOP49・アワード8年連続受賞★ミシュラン３☆受賞などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「嬉野温泉 旅館 吉田屋」の湯処へ。新大浴場露天風呂＆テラス＆客室が誕生！日本宿TOP49・アワード8年連とともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「嬉野温泉 旅館 吉田屋」にチェックイン。新大浴場露天風呂＆テラス＆客室が誕生！ まずは客室で移動の疲れをそっと癒やす。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「嬉野温泉 旅館 吉田屋」の湯船で寛ぎタイム。季節の空気を感じながら手足を伸ばし、心豊かな夕方のリラックス時間を満喫。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「嬉野温泉 旅館 吉田屋」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -296,7 +296,7 @@ export default function Page() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「嬉野温泉 旅館 吉田屋」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「嬉野温泉 旅館 吉田屋」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「黒川温泉 旅館 わかば」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は「嬉野温泉 旅館 吉田屋」周辺の観光スポットや地元の名産店に立ち寄り、ご当地のお土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>
@@ -424,7 +424,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 嬉野温泉　旅館　吉田屋</td>
                 <td className="p-3 text-stone-600">佐賀県嬉野市嬉野町岩屋川内甲379</td>
-                <td className="p-3 text-stone-600">武雄温泉駅周辺</td>
+                <td className="p-3 text-stone-600">博多駅～70分/長崎空港～車40分/SAGAアリーナ～車50分/御船山らかんの湯～車20分/ハウステンボス～車40分</td>
                 <td className="p-3 text-stone-600">すべて無料です。 ただし隣接してません。 またご移動はご本人様にお願いしております</td>
                 <td className="p-3 font-bold text-amber-600">★4.31（1251件）</td>
                 <td className="p-3 font-bold text-rose-600">¥19,800〜</td>
@@ -442,7 +442,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 小鹿野温泉　香り豊かな花のおもてなし　須崎旅館</td>
                 <td className="p-3 text-stone-600">埼玉県秩父郡小鹿野町小鹿野1815</td>
-                <td className="p-3 text-stone-600">西武鉄道　西武秩父駅、または秩父駅より西武バス「小鹿野車庫行」にて「小</td>
+                <td className="p-3 text-stone-600">西武鉄道 西武秩父駅、または秩父駅より西武バス「小鹿野車庫行」にて「小鹿野町」下車、徒歩約１分</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.46（543件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,000〜</td>
@@ -451,7 +451,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. あわら温泉　伝統旅館のぬくもり　灰屋</td>
                 <td className="p-3 text-stone-600">福井県あわら市温泉2-205</td>
-                <td className="p-3 text-stone-600">芦原温泉駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ北陸本線芦原温泉駅から路線バスにて１５分/無料送迎あり。北陸道金津ＩＣより車で１５分。駐車場無料(係が案内します。)</td>
                 <td className="p-3 text-stone-600">有り　１００台　無料 （エントランスにはスロープもございます。係がご案内いたします。）</td>
                 <td className="p-3 font-bold text-amber-600">★4.42（756件）</td>
                 <td className="p-3 font-bold text-rose-600">¥15,950〜</td>
@@ -460,7 +460,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 小野川温泉　扇屋旅館</td>
                 <td className="p-3 text-stone-600">山形県米沢市小野川町2432</td>
-                <td className="p-3 text-stone-600">ＪＲ米沢駅より白布温泉行バスで３０分（小野川温泉降車）　東北中央自動車</td>
+                <td className="p-3 text-stone-600">ＪＲ米沢駅より白布温泉行バスで３０分（小野川温泉降車） 東北中央自動車道米沢中央ICより車で２０分</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.4（154件）</td>
                 <td className="p-3 font-bold text-rose-600">¥11,000〜</td>
@@ -489,7 +489,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>すべて無料です。 ただし隣接してません。 またご移動はご本人様にお願いしております</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.31 ／ 立地 ★4.19 ／ 部屋 ★4.34 ／ 設備 ★4.29 ／ 風呂 ★4.51 ／ 食事 ★4.47</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「夜中の騒音への対応がなく眠れず不満最悪でした!隣に泊まってるの外国の方が夜中の1時から4時まで内風呂で大きい声で話しまくって全く寝れませんでした。フロントに言ってもなんの対応もしてもらえず、チ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「夜中の騒音への対応がなく眠れず不満最悪でした!隣に泊まってるの外国の方が夜中の1時から4時まで内風呂で大きい声で話しまくって全く寝れませんでした。」
                   </blockquote>
                 </div>
               </div>
@@ -511,7 +511,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「夕食は少し重かったが、安定の満足感全体的には満足でしたが夕食の最後方で少し胸焼け...で食べきれなかったため星4とさせていただきました。黒川温泉の他の旅館にも今までかなり宿泊させて頂きましたが安心…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「夕食は少し重かったが、安定の満足感全体的には満足でしたが夕食の最後方で少し胸焼け...で食べきれなかったため星4とさせていただきました。」
                   </blockquote>
                 </div>
               </div>
@@ -533,7 +533,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「美人の女将をはじめ老若男女のスタッフの皆さんの笑顔と気配りが素敵なお宿でした(    ` ) お料理もひとつひとつが丁寧に作られていてとても美味しく、夕食も朝食も完食しました! チェックイン時の上品な…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「美人の女将をはじめ老若男女のスタッフの皆さんの笑顔と気配りが素敵なお宿でした( ` ) お料理もひとつひとつが丁寧に作られていてとても美味しく、夕食も朝食も完食しました!」
                   </blockquote>
                 </div>
               </div>
@@ -577,7 +577,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事が最高、食べ応え十分朝晩ともにお食事が良かったです。地元のものもあり、お肉もあり、食べ応えバッチリです。4人での食事ですが個室で、気兼ねなくのんびり食べることができました。部屋…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事が最高、食べ応え十分朝晩ともにお食事が良かったです。地元のものもあり、お肉もあり、食べ応えバッチリです。4人での食事ですが個室で、気兼ねなくのんびり食べることができました。」
                   </blockquote>
                 </div>
               </div>

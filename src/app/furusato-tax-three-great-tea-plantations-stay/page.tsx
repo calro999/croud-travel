@@ -409,8 +409,8 @@ export default function Page() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 東名 焼津ICより10分/JR焼津駅より無料シャトルバスあり！焼津は静岡駅から3駅約13分のアクセスで現地へ到着。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「焼津温泉 ホテルアンビア松風閣」にチェックイン。全客室と露天風呂より富士と駿河湾が一望できます。などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「焼津温泉 ホテルアンビア松風閣」の湯処へ。全客室と露天風呂より富士と駿河湾が一望できます。とともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「焼津温泉 ホテルアンビア松風閣」にチェックイン。全客室と露天風呂より富士と駿河湾が一望できます。 客室で身支度を整え、この宿ならではの滞在をスタート。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「焼津温泉 ホテルアンビア松風閣」の湯船で寛ぎタイム。季節の空気を感じながら手足を伸ばし、心豊かな夕方のリラックス時間を満喫。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「焼津温泉 ホテルアンビア松風閣」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -422,7 +422,7 @@ export default function Page() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「焼津温泉 ホテルアンビア松風閣」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「焼津温泉 ホテルアンビア松風閣」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「ホテルトレンドＪＲ宇治駅前」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は宿周辺の散策とショッピングを満喫。地元の名産品やグルメを味わってから余裕をもって帰路につく。</li>
               </ul>
             </div>
           </div>
@@ -550,7 +550,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 焼津温泉　ホテルアンビア松風閣</td>
                 <td className="p-3 text-stone-600">静岡県焼津市浜当目海岸通り星が丘</td>
-                <td className="p-3 text-stone-600">焼津駅周辺</td>
+                <td className="p-3 text-stone-600">【東名】焼津ICより10分/JR焼津駅より無料シャトルバスあり！焼津は静岡駅から3駅約13分のアクセス</td>
                 <td className="p-3 text-stone-600">無料150台収容駐車場…タワーパーキング併用(車高178cm迄・50台収容）/玄関前身障者用P有り</td>
                 <td className="p-3 font-bold text-amber-600">★4.42（1356件）</td>
                 <td className="p-3 font-bold text-rose-600">¥14,300〜</td>
@@ -568,7 +568,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. くつろぎの森　グリーンピア八女</td>
                 <td className="p-3 text-stone-600">福岡県八女市黒木町木屋10905</td>
-                <td className="p-3 text-stone-600">九州自動車道八女IC下車。国道442号線経由、黒木平公園線へ（県道80</td>
+                <td className="p-3 text-stone-600">九州自動車道八女IC下車。国道442号線経由、黒木平公園線へ（県道802号）約22km、約40分</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★3.94（302件）</td>
                 <td className="p-3 font-bold text-rose-600">¥12,980〜</td>
@@ -597,7 +597,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料150台収容駐車場…タワーパーキング併用(車高178cm迄・50台収容）/玄関前身障者用P有り</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.53 ／ 立地 ★4.6 ／ 部屋 ★4.5 ／ 設備 ★4.33 ／ 風呂 ★4.51 ／ 食事 ★4.49</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「富士山と日の出、駿河湾の絶景に感動部屋からの日の出が最高で、富士山とのコラボがまた最高でした。朝食は料理が小分けになっていたり、席も広めで混雑もせず良かったです。露天風呂は駿河湾を前に最高の景色で…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「富士山と日の出、駿河湾の絶景に感動部屋からの日の出が最高で、富士山とのコラボがまた最高でした。朝食は料理が小分けになっていたり、席も広めで混雑もせず良かったです。」
                   </blockquote>
                 </div>
               </div>
@@ -619,7 +619,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近で便利、駐車場の手配もスムーズJR宇治駅から1番近いですが、今回は仕事で訪れました。車で向かう予定でしたので事前にその旨を伝えたところ、駐車場の手配もして頂きありがとうございます。公共…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近で便利、駐車場の手配もスムーズJR宇治駅から1番近いですが、今回は仕事で訪れました。車で向かう予定でしたので事前にその旨を伝えたところ、駐車場の手配もして頂きありがとうございます。」
                   </blockquote>
                 </div>
               </div>
@@ -641,7 +641,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「プールと食事に大満足、コスパ抜群でまた行きたい夏休みに2泊しました。プールの規模もほどよく、夜ご飯はお腹いっぱいすぎるくらい!施設は少々古くても、お部屋は快適に過ごせました。大浴場も十…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「プールと食事に大満足、コスパ抜群でまた行きたい夏休みに2泊しました。プールの規模もほどよく、夜ご飯はお腹いっぱいすぎるくらい!施設は少々古くても、お部屋は快適に過ごせました。」
                   </blockquote>
                 </div>
               </div>

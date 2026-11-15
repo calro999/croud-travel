@@ -334,7 +334,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. オリエンタルホテル　沖縄リゾート＆スパ</td>
                 <td className="p-3 text-stone-600">沖縄県名護市喜瀬1490-1</td>
-                <td className="p-3 text-stone-600">那覇空港駅周辺</td>
+                <td className="p-3 text-stone-600">那覇空港より最短で約70分。沖縄美ら海水族館まで60分、ジャングリア沖縄まで40分と沖縄観光に最適なホテルです。</td>
                 <td className="p-3 text-stone-600">有　1滞在1,000円</td>
                 <td className="p-3 font-bold text-amber-600">★4.49（920件）</td>
                 <td className="p-3 font-bold text-rose-600">¥19,500〜</td>
@@ -343,7 +343,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. ホテルモントレ沖縄　スパ＆リゾート</td>
                 <td className="p-3 text-stone-600">沖縄県国頭郡恩納村字冨着1550-1</td>
-                <td className="p-3 text-stone-600">那覇空港駅周辺</td>
+                <td className="p-3 text-stone-600">（那覇空港より）リムジンバス利用にて約65分 エアポートシャトルにて約80分 路線バス 系統番号120番にて約110分</td>
                 <td className="p-3 text-stone-600">有り238台500円（税込／泊）</td>
                 <td className="p-3 font-bold text-amber-600">★4.66（868件）</td>
                 <td className="p-3 font-bold text-rose-600">¥10,800〜</td>
@@ -352,7 +352,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 龍宮城スパ・ホテル三日月　富士見亭</td>
                 <td className="p-3 text-stone-600">千葉県木更津市北浜町1</td>
-                <td className="p-3 text-stone-600">木更津駅周辺</td>
+                <td className="p-3 text-stone-600">アクアライン木更津金田ＩＣ下車約５分 ＪＲ木更津駅 高速金田バスターミナル より無料送迎バス</td>
                 <td className="p-3 text-stone-600">宿泊:無料　日帰りスパ：5時間まで無料、以降300円/h　※税込み</td>
                 <td className="p-3 font-bold text-amber-600">★4.37（1647件）</td>
                 <td className="p-3 font-bold text-rose-600">¥25,080〜</td>
@@ -381,7 +381,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有　1滞在1,000円</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.44 ／ 立地 ★4.48 ／ 部屋 ★4.55 ／ 設備 ★4.45 ／ 風呂 ★4.3 ／ 食事 ★4.44</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食をランチに変更でき、お土産も充実朝食をランチにも変更ができ、雨で予定が変わった私たちにはありがたかったです!!朝食にはないデザートなどもあり、人も朝食みたいに多くなかったので、ゆっくりでき…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食をランチに変更でき、お土産も充実朝食をランチにも変更ができ、雨で予定が変わった私たちにはありがたかったです!!」
                   </blockquote>
                 </div>
               </div>
@@ -425,7 +425,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>宿泊:無料　日帰りスパ：5時間まで無料、以降300円/h　※税込み</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.38 ／ 立地 ★4.45 ／ 部屋 ★4.52 ／ 設備 ★4.38 ／ 風呂 ★4.32 ／ 食事 ★4.5</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「接客は丁寧だが一部改善の余地あり外国人の従業員の方々の接客や言葉遣いがとても丁寧で、安心して分からない事も聞く事ができました。ゲームセンターや射的の方を管理されている従業員の方々に…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「接客は丁寧だが一部改善の余地あり外国人の従業員の方々の接客や言葉遣いがとても丁寧で、安心して分からない事も聞く事ができました。」
                   </blockquote>
                 </div>
               </div>

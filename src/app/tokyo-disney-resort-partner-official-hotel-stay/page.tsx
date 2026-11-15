@@ -253,7 +253,7 @@ export default function ThemeParkActivityHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 舞浜ビューホテル　ｂｙ　ＨＵＬＩＣ</td>
                 <td className="p-3 text-stone-600">千葉県浦安市舞浜1-34</td>
-                <td className="p-3 text-stone-600">舞浜駅周辺</td>
+                <td className="p-3 text-stone-600">JR舞浜駅より無料送迎バス約5分/ディズニーリゾートライン「ベイサイド・ステーション」より約4分</td>
                 <td className="p-3 text-stone-600">1泊3300円 2泊4700円 3泊以上6100円  到着日0時〜出発日14時まで／超過は別料金</td>
                 <td className="p-3 font-bold text-amber-600">★4.49（11992件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,398〜</td>
@@ -262,7 +262,7 @@ export default function ThemeParkActivityHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 東京ベイ舞浜ホテル　ファーストリゾート</td>
                 <td className="p-3 text-stone-600">千葉県浦安市舞浜1-6</td>
-                <td className="p-3 text-stone-600">舞浜駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ舞浜駅より無料送迎バス約１０分、ＪＲ舞浜駅からディズニーリゾートラインでベイサイドステーション下車 送迎バスで約5分</td>
                 <td className="p-3 text-stone-600">【ご宿泊日当日0:00～翌日14:00】 1泊3000円 ※時間外　300円/30分</td>
                 <td className="p-3 font-bold text-amber-600">★4.32（14269件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,112〜</td>
@@ -271,7 +271,7 @@ export default function ThemeParkActivityHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. グランドニッコー東京ベイ　舞浜</td>
                 <td className="p-3 text-stone-600">千葉県浦安市舞浜1-7</td>
-                <td className="p-3 text-stone-600">舞浜駅周辺</td>
+                <td className="p-3 text-stone-600">舞浜駅よりディズニーリゾートラインにて2駅目「ベイサイド・ステーション」下車後、徒歩約４分※舞浜駅より送迎バスも有り</td>
                 <td className="p-3 text-stone-600">有　1泊3,100円。2泊目以降、1泊に付き+1,600円（午前7時〜午後1時迄）※EV車充電器有</td>
                 <td className="p-3 font-bold text-amber-600">★4.62（7482件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,400〜</td>
@@ -280,7 +280,7 @@ export default function ThemeParkActivityHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 三井ガーデンホテル　プラナ東京ベイ</td>
                 <td className="p-3 text-stone-600">千葉県浦安市明海6-2-1</td>
-                <td className="p-3 text-stone-600">舞浜駅周辺</td>
+                <td className="p-3 text-stone-600">東京ディズニーランド（Ｒ）・バスターミナル・イースト6番乗り場からパートナーホテル・シャトルで約20分</td>
                 <td className="p-3 text-stone-600">1泊目入庫より30時間2000円　2泊目以降は24時間2000円</td>
                 <td className="p-3 font-bold text-amber-600">★4.45（14529件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,900〜</td>
@@ -289,7 +289,7 @@ export default function ThemeParkActivityHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. ホテルエミオン東京ベイ</td>
                 <td className="p-3 text-stone-600">千葉県浦安市日の出1-1-1</td>
-                <td className="p-3 text-stone-600">新浦安駅周辺</td>
+                <td className="p-3 text-stone-600">JR京葉線・武蔵野線／新浦安駅より徒歩約７分 ※東京ディズニーランド（R)発のホテル行きのシャトルバスも利用可／約１５分</td>
                 <td className="p-3 text-stone-600">有料　平面駐車場　338台（出入口ゲート高さ制限 2.5m）予約不可</td>
                 <td className="p-3 font-bold text-amber-600">★4.64（12183件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,800〜</td>
@@ -298,7 +298,7 @@ export default function ThemeParkActivityHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">6. ホテルイースト２１東京（オークラホテルズ＆リゾーツ）</td>
                 <td className="p-3 text-stone-600">東京都江東区東陽6-3-3</td>
-                <td className="p-3 text-stone-600">東陽町駅周辺</td>
+                <td className="p-3 text-stone-600">東京メトロ東西線「東陽町駅」1番出口より徒歩約７分、JR錦糸町駅から都営バスで約15分</td>
                 <td className="p-3 text-stone-600">有（地下駐車場 車高2.1Ｍまで)1泊1台1,500円</td>
                 <td className="p-3 font-bold text-amber-600">★4.42（4943件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,088〜</td>
@@ -327,7 +327,7 @@ export default function ThemeParkActivityHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>1泊3300円 2泊4700円 3泊以上6100円  到着日0時〜出発日14時まで／超過は別料金</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.52 ／ 立地 ★4.45 ／ 部屋 ★4.53 ／ 設備 ★4.42 ／ 風呂 ★4.42 ／ 食事 ★4.49</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋のお風呂が大きく、また利用したい1部屋4人(子供1人含む)で宿泊しました。部屋にあったお風呂は大きめでよかったです。女性用の化粧水乳液は問い合わせないと頂けない仕様になっていました。…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋のお風呂が大きく、また利用したい1部屋4人(子供1人含む)で宿泊しました。部屋にあったお風呂は大きめでよかったです。女性用の化粧水乳液は問い合わせないと頂けない仕様になっていました。」
                   </blockquote>
                 </div>
               </div>
@@ -349,7 +349,7 @@ export default function ThemeParkActivityHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>【ご宿泊日当日0:00～翌日14:00】 1泊3000円 ※時間外　300円/30分</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「立地良水回りの掃除が行き届いてなくて残念でした。洗面台、トイレ、バスルーム...髪の毛や汚れが気になって、掃除道具をお借りしたいと思ったくらい。低価格だったから?でも立地はよく、スタッフ皆さん…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「立地良水回りの掃除が行き届いてなくて残念でした。洗面台、トイレ、バスルーム...髪の毛や汚れが気になって、掃除道具をお借りしたいと思ったくらい。」
                   </blockquote>
                 </div>
               </div>
@@ -371,7 +371,7 @@ export default function ThemeParkActivityHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有　1泊3,100円。2泊目以降、1泊に付き+1,600円（午前7時〜午後1時迄）※EV車充電器有</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.64 ／ 立地 ★4.66 ／ 部屋 ★4.62 ／ 設備 ★4.54 ／ 風呂 ★4.41 ／ 食事 ★4.64</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「眺めとバイキングに大満足、次は別の部屋へお部屋はキレイに清掃されていました。シャワーブースがシャンプー等置く場所がなく、不便でした。窓からの眺めは良くて、さすがバイキングはどれも美味しく、…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「眺めとバイキングに大満足、次は別の部屋へお部屋はキレイに清掃されていました。シャワーブースがシャンプー等置く場所がなく、不便でした。」
                   </blockquote>
                 </div>
               </div>
@@ -393,7 +393,7 @@ export default function ThemeParkActivityHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>1泊目入庫より30時間2000円　2泊目以降は24時間2000円</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「接客と朝食は良いが、製氷機の衛生面が不快接客サービスは良かったです。朝食ブッフェも満足です。お部屋の広さ、洗面所お風呂の清潔度、大浴場は期待したほどではありませんでした。施設の老朽化を…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「接客と朝食は良いが、製氷機の衛生面が不快接客サービスは良かったです。朝食ブッフェも満足です。お部屋の広さ、洗面所お風呂の清潔度、大浴場は期待したほどではありませんでした。」
                   </blockquote>
                 </div>
               </div>
@@ -437,7 +437,7 @@ export default function ThemeParkActivityHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有（地下駐車場 車高2.1Ｍまで)1泊1台1,500円</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの笑顔と広くて綺麗な部屋に満足スタッフの皆さんはいつもにこやかに対応してくださいますお部屋も広くてきれいで良心的なチャージですので何回も利用させていただいていますクチコミの詳細…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの笑顔と広くて綺麗な部屋に満足スタッフの皆さんはいつもにこやかに対応してくださいますお部屋も広くてきれいで良心的なチャージですので何回も利用させていただいています。」
                   </blockquote>
                 </div>
               </div>

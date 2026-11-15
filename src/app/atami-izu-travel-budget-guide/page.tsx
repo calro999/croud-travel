@@ -254,7 +254,7 @@ export default function AtamiBudgetGuidePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 雲海オーシャンビュー熱海天空　＾</td>
                 <td className="p-3 text-stone-600">静岡県熱海市上多賀1065-195　初島台244　熱海天空</td>
-                <td className="p-3 text-stone-600">伊豆多賀駅周辺</td>
+                <td className="p-3 text-stone-600">伊豆多賀駅から徒歩で約１２分</td>
                 <td className="p-3 text-stone-600">有り</td>
                 <td className="p-3 font-bold text-amber-600">高評価</td>
                 <td className="p-3 font-bold text-rose-600">¥18,560〜</td>
@@ -263,7 +263,7 @@ export default function AtamiBudgetGuidePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 熱海オーシャンビュースパリゾートヴィラ／熱海の海・市街地海上花火が一望／ＢＢＱ可　＾</td>
                 <td className="p-3 text-stone-600">静岡県熱海市小嵐町13-25　Ｖｉｌｌａ　Ｍａｒｅ　Ａｔａｍｉ</td>
-                <td className="p-3 text-stone-600">来宮駅周辺</td>
+                <td className="p-3 text-stone-600">来宮駅から徒歩で約７分</td>
                 <td className="p-3 text-stone-600">有り</td>
                 <td className="p-3 font-bold text-amber-600">高評価</td>
                 <td className="p-3 font-bold text-rose-600">¥22,736〜</td>
@@ -272,7 +272,7 @@ export default function AtamiBudgetGuidePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. オーシャンビューテラス南熱海　＾</td>
                 <td className="p-3 text-stone-600">静岡県熱海市下多賀1702-188　オーシャンビューテラス南熱海</td>
-                <td className="p-3 text-stone-600">網代駅周辺</td>
+                <td className="p-3 text-stone-600">網代駅から徒歩で約１４分</td>
                 <td className="p-3 text-stone-600">有り</td>
                 <td className="p-3 font-bold text-amber-600">高評価</td>
                 <td className="p-3 font-bold text-rose-600">プラン参照</td>
@@ -281,7 +281,7 @@ export default function AtamiBudgetGuidePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 石のや　伊豆長岡（ＴＫＰ　Ｈｏｔｅｌｓ　＆　Ｒｅｓｏｒｔｓ）</td>
                 <td className="p-3 text-stone-600">静岡県伊豆の国市長岡192</td>
-                <td className="p-3 text-stone-600">伊豆長岡駅周辺</td>
+                <td className="p-3 text-stone-600">東京より新幹線～伊豆箱根鉄道で約1時間15分/伊豆長岡駅よりお車で約10分/JR東海道新幹線三島駅よりお車で約30分</td>
                 <td className="p-3 text-stone-600">有/無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.5（580件）</td>
                 <td className="p-3 font-bold text-rose-600">¥15,400〜</td>
@@ -290,7 +290,7 @@ export default function AtamiBudgetGuidePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 伊豆高原温泉ホテル　森の泉</td>
                 <td className="p-3 text-stone-600">静岡県伊東市吉田901-75</td>
-                <td className="p-3 text-stone-600">川奈（静岡）駅周辺</td>
+                <td className="p-3 text-stone-600">【最寄り駅】川奈駅より車で約15分（※無料送迎／予約制）【最寄りIC】小田原西ICから車で約90分</td>
                 <td className="p-3 text-stone-600">有り　35台（無料）予約不要　　　Wi-fi　：有り（館内全て）</td>
                 <td className="p-3 font-bold text-amber-600">★4.29（868件）</td>
                 <td className="p-3 font-bold text-rose-600">¥9,900〜</td>
@@ -299,7 +299,7 @@ export default function AtamiBudgetGuidePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">6. 伊豆高原　記念日を祝う宿　自然家．Ｈａｃｏ（しぜんや．ハコ）</td>
                 <td className="p-3 text-stone-600">静岡県伊東市富戸1160-11</td>
-                <td className="p-3 text-stone-600">富戸駅周辺</td>
+                <td className="p-3 text-stone-600">富戸駅より送迎可能（要予約）徒歩２０分／東名厚木ＩＣ、沼津ＩＣより約９０分 電気自動車でお越しの方 充電可能！</td>
                 <td className="p-3 text-stone-600">有り　　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.74（342件）</td>
                 <td className="p-3 font-bold text-rose-600">¥18,800〜</td>
@@ -394,7 +394,7 @@ export default function AtamiBudgetGuidePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有/無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「丁寧な接客と部屋の岩風呂に大満足!今回初めて泊まらせていただきました。とても丁寧な接客ですごく気持ちが良かったです。すぐ目に入るのは手入れされている日本庭園。部屋も綺麗でなんと言っても…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「丁寧な接客と部屋の岩風呂に大満足!今回初めて泊まらせていただきました。とても丁寧な接客ですごく気持ちが良かったです。すぐ目に入るのは手入れされている日本庭園。」
                   </blockquote>
                 </div>
               </div>
@@ -416,7 +416,7 @@ export default function AtamiBudgetGuidePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　35台（無料）予約不要　　　Wi-fi　：有り（館内全て）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.28 ／ 立地 ★4.21 ／ 部屋 ★4.25 ／ 設備 ★4.1 ／ 風呂 ★4.3 ／ 食事 ★4.47</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事と接客は素晴らしく、全体的に満足食事は夕食、朝食ともに美味しく頂きました。その際の外人スタッフの接客対応も素晴らしかったです。また出向のスタッフも親切で好印象を持ちました。部屋もきれいで満…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事と接客は素晴らしく、全体的に満足食事は夕食、朝食ともに美味しく頂きました。その際の外人スタッフの接客対応も素晴らしかったです。また出向のスタッフも親切で好印象を持ちました。」
                   </blockquote>
                 </div>
               </div>
@@ -438,7 +438,7 @@ export default function AtamiBudgetGuidePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.78 ／ 立地 ★4.69 ／ 部屋 ★4.67 ／ 設備 ★4.64 ／ 風呂 ★4.89 ／ 食事 ★4.92</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「1日5組限定の細やかなサービスと絶景に感動今回2回目の利用です。1日5組限定ゆえのサービスの細やかさに大変満足しました。従業員の方のご対応も丁寧で気持ちがよかったです。特にご飯の満足度が高く、量も…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「1日5組限定の細やかなサービスと絶景に感動今回2回目の利用です。1日5組限定ゆえのサービスの細やかさに大変満足しました。従業員の方のご対応も丁寧で気持ちがよかったです。」
                   </blockquote>
                 </div>
               </div>

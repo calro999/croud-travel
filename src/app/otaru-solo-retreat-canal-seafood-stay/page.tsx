@@ -393,8 +393,8 @@ export default function ArticlePage() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 小樽駅よりアクセス。ＪＲ小樽駅より徒歩にて1分◆小樽ICより約７分◆小樽運河まで徒歩８分◆寿司屋通まで徒歩１０分。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「天然温泉 灯の湯 ドーミーインＰＲＥＭＩＵＭ小樽」にチェックイン。☆朝食のおいしいホテルランキング 4年連続受賞☆大正ロマンを奏でるホテル★天然温泉大浴場完備などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「天然温泉 灯の湯 ドーミーインＰＲＥＭＩＵＭ小樽」の湯処へ。☆朝食のおいしいホテルランキング 4年連続受賞☆大正ロマンを奏でるホテとともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「天然温泉 灯の湯 ドーミーインＰＲＥＭＩＵＭ小樽」にチェックイン。☆朝食のおいしいホテルランキング 4年連続受賞☆大正ロマンを奏でるホテル★天然温泉大浴場完備が魅力の一軒。客室で荷物をほどいて穏やかな午後のひとときを。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「天然温泉 灯の湯 ドーミーインＰＲＥＭＩＵＭ小樽」の自慢の湯処へ。温かな湯気と落ち着いた雰囲気に癒やされながら、夕食前の贅沢なひとときを過ごす。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「天然温泉 灯の湯 ドーミーインＰＲＥＭＩＵＭ小樽」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -406,7 +406,7 @@ export default function ArticlePage() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「天然温泉 灯の湯 ドーミーインＰＲＥＭＩＵＭ小樽」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「天然温泉 灯の湯 ドーミーインＰＲＥＭＩＵＭ小樽」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「ホテルノルド小樽」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は「天然温泉 灯の湯 ドーミーインＰＲＥＭＩＵＭ小樽」周辺の観光スポットや地元の名産店に立ち寄り、ご当地のお土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>

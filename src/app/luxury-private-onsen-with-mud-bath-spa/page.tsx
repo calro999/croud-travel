@@ -394,8 +394,8 @@ export default function FeatureDetailPage() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 湯沢駅よりアクセス。JR奥羽本線湯沢駅下車、車で50分。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「泥湯温泉 奥山旅館」にチェックイン。手つかずの自然という贅沢が当館のおもてなし。3種の源泉からかけ流しの泥湯温泉が自慢、秘境の湯宿です。などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「泥湯温泉 奥山旅館」の湯処へ。手つかずの自然という贅沢が当館のおもてなし。3種の源泉からかけ流しの泥とともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「泥湯温泉 奥山旅館」にチェックイン。手つかずの自然という贅沢が当館のおもてなし。3種の源泉からかけ流しの泥湯温泉が自慢、秘境の湯宿です。 窓外に広がる景色を眺めながらチェックイン後の寛ぎ時間を。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「泥湯温泉 奥山旅館」の大浴場・露天風呂へ。日暮れの静けさの中で湯に浸かり、旅の緊張をゆっくりと解きほぐす。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「泥湯温泉 奥山旅館」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -407,7 +407,7 @@ export default function FeatureDetailPage() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「泥湯温泉 奥山旅館」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「泥湯温泉 奥山旅館」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「どろ湯の旅籠さくらさくら温泉 霧島神宮温泉郷」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は宿周辺の散策とショッピングを満喫。地元の名産品やグルメを味わってから余裕をもって帰路につく。</li>
               </ul>
             </div>
           </div>
@@ -535,7 +535,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 泥湯温泉　奥山旅館</td>
                 <td className="p-3 text-stone-600">秋田県湯沢市高松泥湯沢25</td>
-                <td className="p-3 text-stone-600">湯沢駅周辺</td>
+                <td className="p-3 text-stone-600">JR奥羽本線湯沢駅下車、車で50分。国道13号、県道51号を経て泥湯へ。</td>
                 <td className="p-3 text-stone-600">有り　１５台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.53（119件）</td>
                 <td className="p-3 font-bold text-rose-600">¥24,200〜</td>
@@ -544,7 +544,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. どろ湯の旅籠さくらさくら温泉　霧島神宮温泉郷</td>
                 <td className="p-3 text-stone-600">鹿児島県霧島市霧島田口2324-7</td>
-                <td className="p-3 text-stone-600">霧島神宮駅周辺</td>
+                <td className="p-3 text-stone-600">【ＪＲ霧島神宮駅】下車タクシー10分。【鹿児島空港】から車で40分。【鹿児島市内】より車で1時間10分</td>
                 <td className="p-3 text-stone-600">有り　１００台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.4（930件）</td>
                 <td className="p-3 font-bold text-rose-600">¥13,000〜</td>
@@ -553,7 +553,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. ホテルアルペンブリック</td>
                 <td className="p-3 text-stone-600">新潟県妙高市関川2452</td>
-                <td className="p-3 text-stone-600">妙高高原駅周辺</td>
+                <td className="p-3 text-stone-600">北しなの線 妙高高原駅より車で10分／上信越道 妙高高原ＩＣ～国道１８号線を通過、直進後突き当りを左折し、2.5キロ先</td>
                 <td className="p-3 text-stone-600">有り / 200台 / 宿泊者無料</td>
                 <td className="p-3 font-bold text-amber-600">★4（724件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,500〜</td>
@@ -582,7 +582,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１５台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.67 ／ 立地 ★4.59 ／ 部屋 ★4.67 ／ 設備 ★4.53 ／ 風呂 ★4.82 ／ 食事 ★4.65</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「秘湯感あふれる露天風呂と美味しい食事に感動泥湯の露天風呂はすすきが風になびいて、鳥の鳴き声の中、ゆっくり癒されて最高の時間でした!静けさ、秘湯感素晴らしい!宿も非常に清潔で古いものも磨き上…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「秘湯感あふれる露天風呂と美味しい食事に感動泥湯の露天風呂はすすきが風になびいて、鳥の鳴き声の中、ゆっくり癒されて最高の時間でした!静けさ、秘湯感素晴らしい!」
                   </blockquote>
                 </div>
               </div>
@@ -604,7 +604,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１００台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.57 ／ 立地 ★4.22 ／ 部屋 ★3.9 ／ 設備 ★3.96 ／ 風呂 ★4.38 ／ 食事 ★4.58</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「野菜たっぷりの鍋と肌がすべすべになる温泉お鍋が野菜たっぷりで美味しかったです。しめにご飯を入れて溶き卵で雑炊にして食べました。出汁の旨味が絡んて美味しかったです。温泉もどろ湯がとても肌…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「野菜たっぷりの鍋と肌がすべすべになる温泉お鍋が野菜たっぷりで美味しかったです。しめにご飯を入れて溶き卵で雑炊にして食べました。出汁の旨味が絡んて美味しかったです。」
                   </blockquote>
                 </div>
               </div>
@@ -626,7 +626,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り / 200台 / 宿泊者無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.96 ／ 立地 ★4.1 ／ 部屋 ★4 ／ 設備 ★3.73 ／ 風呂 ★4.1 ／ 食事 ★4.15</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「豪華なバイキングと秘湯のような露天風呂夕飯はバスで送迎してくれます。バイキングの内容が豪華でとても良かったです。朝食はホテル内でしたが、こちらも内容満足でよかったです。お風呂は露天風呂が階…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「豪華なバイキングと秘湯のような露天風呂夕飯はバスで送迎してくれます。バイキングの内容が豪華でとても良かったです。朝食はホテル内でしたが、こちらも内容満足でよかったです。」
                   </blockquote>
                 </div>
               </div>

@@ -409,8 +409,8 @@ export default function Page() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 長野県飯山市大字豊田6786へ到着後、チェックイン前の散策へ。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「手打ちそばの宿 石田屋」にチェックイン。旨い蕎麦を目指して２０年、幻の信州そばと国産牛ヒレステーキが好評の温泉宿♪などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「手打ちそばの宿 石田屋」の湯処へ。旨い蕎麦を目指して２０年、幻の信州そばと国産牛ヒレステーキが好評の温泉とともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「手打ちそばの宿 石田屋」にチェックイン。旨い蕎麦を目指して２０年、幻の信州そばと国産牛ヒレステーキが好評の温泉宿♪ 館内の設えを確かめながら、これからの滞在に備えてゆっくり休息する。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「手打ちそばの宿 石田屋」の自慢の湯処へ。温かな湯気と落ち着いた雰囲気に癒やされながら、夕食前の贅沢なひとときを過ごす。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「手打ちそばの宿 石田屋」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -422,7 +422,7 @@ export default function Page() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「手打ちそばの宿 石田屋」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「手打ちそばの宿 石田屋」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「玉造温泉 佳翠苑 皆美」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は「手打ちそばの宿 石田屋」周辺の観光スポットや地元の名産店に立ち寄り、ご当地のお土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>
@@ -550,7 +550,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 手打ちそばの宿　石田屋</td>
                 <td className="p-3 text-stone-600">長野県飯山市大字豊田6786</td>
-                <td className="p-3 text-stone-600"></td>
+                <td className="p-3 text-stone-600">長野県飯山市大字豊田6786 ／ 交通案内：</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.37（213件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,480〜</td>
@@ -559,7 +559,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 玉造温泉　佳翠苑　皆美</td>
                 <td className="p-3 text-stone-600">島根県松江市玉湯町玉造1218-8</td>
-                <td className="p-3 text-stone-600">玉造温泉駅周辺</td>
+                <td className="p-3 text-stone-600">米子自動車道 国道9号線で約50分。JR山陰本線 玉造温泉駅。</td>
                 <td className="p-3 text-stone-600">有り　80台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.66（1510件）</td>
                 <td className="p-3 font-bold text-rose-600">¥14,300〜</td>
@@ -568,7 +568,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. ダイワロイネットホテル盛岡</td>
                 <td className="p-3 text-stone-600">岩手県盛岡市大通1-8-10</td>
-                <td className="p-3 text-stone-600"></td>
+                <td className="p-3 text-stone-600">岩手県盛岡市大通1-8-10 ／ 交通案内：</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.34（3407件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,500〜</td>

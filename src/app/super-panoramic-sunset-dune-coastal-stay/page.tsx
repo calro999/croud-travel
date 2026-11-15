@@ -482,8 +482,8 @@ export default function FeatureDetailPage() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 修善寺駅よりアクセス。修善寺駅よりお車にて約７５分。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「宇久須温泉 西伊豆クリスタルビューホテル」にチェックイン。クリスタルビーチを眼下に望む温泉リゾート。などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「宇久須温泉 西伊豆クリスタルビューホテル」の湯処へ。クリスタルビーチを眼下に望む温泉リゾート。とともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「宇久須温泉 西伊豆クリスタルビューホテル」にチェックイン。クリスタルビーチを眼下に望む温泉リゾート。 窓外に広がる景色を眺めながらチェックイン後の寛ぎ時間を。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「宇久須温泉 西伊豆クリスタルビューホテル」の湯船で寛ぎタイム。季節の空気を感じながら手足を伸ばし、心豊かな夕方のリラックス時間を満喫。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「宇久須温泉 西伊豆クリスタルビューホテル」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -495,7 +495,7 @@ export default function FeatureDetailPage() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「宇久須温泉 西伊豆クリスタルビューホテル」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「宇久須温泉 西伊豆クリスタルビューホテル」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「萩温泉郷 海が奏でる癒しの宿 リゾートホテル美萩」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は宿周辺の散策とショッピングを満喫。地元の名産品やグルメを味わってから余裕をもって帰路につく。</li>
               </ul>
             </div>
           </div>
@@ -623,7 +623,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 宇久須温泉　西伊豆クリスタルビューホテル（伊東園ホテルズ）</td>
                 <td className="p-3 text-stone-600">静岡県賀茂郡西伊豆町宇久須2102-1</td>
-                <td className="p-3 text-stone-600">修善寺駅周辺</td>
+                <td className="p-3 text-stone-600">修善寺駅よりお車にて約７５分</td>
                 <td className="p-3 text-stone-600">有り　８０台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★3.89（656件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,898〜</td>
@@ -632,7 +632,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 萩温泉郷　海が奏でる癒しの宿　リゾートホテル美萩</td>
                 <td className="p-3 text-stone-600">山口県萩市堀内485-2</td>
-                <td className="p-3 text-stone-600">東萩駅周辺</td>
+                <td className="p-3 text-stone-600">「JR東萩駅」より車で約5分／世界遺産「萩城下町」は徒歩圏内／「美祢東JCT」経由「絵堂IC」より車で約30分</td>
                 <td className="p-3 text-stone-600">50台（無料）／予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.18（1563件）</td>
                 <td className="p-3 font-bold text-rose-600">¥13,200〜</td>
@@ -641,7 +641,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 湯野浜ホテル</td>
                 <td className="p-3 text-stone-600">山形県鶴岡市湯野浜1-3-36</td>
-                <td className="p-3 text-stone-600">鶴岡駅周辺</td>
+                <td className="p-3 text-stone-600">鶴岡駅 バス約４０分・車約２５分</td>
                 <td className="p-3 text-stone-600">有り　５台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.22（52件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,800〜</td>
@@ -650,7 +650,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. グランパスＳｅａ</td>
                 <td className="p-3 text-stone-600">和歌山県西牟婁郡白浜町1688-2</td>
-                <td className="p-3 text-stone-600">白浜駅周辺</td>
+                <td className="p-3 text-stone-600">白浜駅からお車で約15分,JR難波から高速バス約3時間千畳口下車１分, 南紀白浜IC・白浜空港から約10分。</td>
                 <td className="p-3 text-stone-600">有　無料</td>
                 <td className="p-3 font-bold text-amber-600">★3.08（788件）</td>
                 <td className="p-3 font-bold text-rose-600">¥9,450〜</td>
@@ -701,7 +701,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>50台（無料）／予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.28 ／ 立地 ★4.38 ／ 部屋 ★4.19 ／ 設備 ★4.04 ／ 風呂 ★4.14 ／ 食事 ★4.33</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「孫も大喜びのコンセプトルームと綺麗な夕日コンセプトルームは入室するなり孫のテンション高く、遊び心あって良かった。設備も清潔感あり満足。きれいな夕日を存分に楽しみながら夕食をいただいた。売店の充実を…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「孫も大喜びのコンセプトルームと綺麗な夕日コンセプトルームは入室するなり孫のテンション高く、遊び心あって良かった。設備も清潔感あり満足。きれいな夕日を存分に楽しみながら夕食をいただいた。」
                   </blockquote>
                 </div>
               </div>
@@ -723,7 +723,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　５台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.18 ／ 立地 ★4.09 ／ 部屋 ★4.22 ／ 設備 ★4.06 ／ 風呂 ★4.38</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「建物は古いが部屋は広く、海岸も近くて便利建物は古めですが部屋も広く清掃はしっかりされていました韓国系のオーナーなのか関連したグッズが廊下や部屋に置いてありました部屋は広くてゆったり使えます…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「建物は古いが部屋は広く、海岸も近くて便利建物は古めですが部屋も広く清掃はしっかりされていました韓国系のオーナーなのか関連したグッズが廊下や部屋に置いてありました部屋は広くてゆったり使えます。」
                   </blockquote>
                 </div>
               </div>
@@ -745,7 +745,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.33 ／ 立地 ★3.55 ／ 部屋 ★3 ／ 設備 ★2.92 ／ 風呂 ★3.25 ／ 食事 ★3.09</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「とってもがっかりな滞在となりましたここ3年ほど定期的に利用していましたが、今回の滞在は以前と比べてとても残念なものでした。【気になった点】・風呂:露天風呂にお湯がはられていない日が…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「とってもがっかりな滞在となりましたここ3年ほど定期的に利用していましたが、今回の滞在は以前と比べてとても残念なものでした。」
                   </blockquote>
                 </div>
               </div>

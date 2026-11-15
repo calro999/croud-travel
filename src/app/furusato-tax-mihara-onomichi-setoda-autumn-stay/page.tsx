@@ -439,7 +439,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 尾道ゲストハウス　みはらし亭</td>
                 <td className="p-3 text-stone-600">広島県尾道市東土堂町15-7</td>
-                <td className="p-3 text-stone-600"></td>
+                <td className="p-3 text-stone-600">広島県尾道市東土堂町15-7 ／ 交通案内：</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.75（20件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,050〜</td>
@@ -448,7 +448,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 尾道やすらぎの宿　しーそー</td>
                 <td className="p-3 text-stone-600">広島県尾道市向島町84-2</td>
-                <td className="p-3 text-stone-600"></td>
+                <td className="p-3 text-stone-600">広島県尾道市向島町84-2 ／ 交通案内：</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.75（91件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,400〜</td>
@@ -457,7 +457,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 天然温泉うら湯　旅館浦島＜広島県＞</td>
                 <td className="p-3 text-stone-600">広島県尾道市美ノ郷町三成2500</td>
-                <td className="p-3 text-stone-600"></td>
+                <td className="p-3 text-stone-600">広島県尾道市美ノ郷町三成2500 ／ 交通案内：</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.17（325件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,060〜</td>

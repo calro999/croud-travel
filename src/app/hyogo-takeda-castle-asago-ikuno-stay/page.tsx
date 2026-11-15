@@ -253,7 +253,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. ファーストホテルいずみ（旧：いずみ旅館　＜兵庫県＞）</td>
                 <td className="p-3 text-stone-600">兵庫県朝来市和田山町寺谷712-10</td>
-                <td className="p-3 text-stone-600">和田山駅周辺</td>
+                <td className="p-3 text-stone-600">和田山駅より徒歩にて３分 和田山インターより車で１0分</td>
                 <td className="p-3 text-stone-600">有り　無料</td>
                 <td className="p-3 font-bold text-amber-600">★3.88（206件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,000〜</td>
@@ -262,7 +262,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 山陰湯村温泉　湧泉の宿　ゆあむ</td>
                 <td className="p-3 text-stone-600">兵庫県美方郡新温泉町湯1610</td>
-                <td className="p-3 text-stone-600">近畿豊岡道日高神鍋高原ICより約35分/大阪梅田より阪急特急バス「湯村</td>
+                <td className="p-3 text-stone-600">近畿豊岡道日高神鍋高原ICより約35分/大阪梅田より阪急特急バス「湯村温泉行」1日1～2便</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.47（1528件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,400〜</td>
@@ -271,7 +271,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 群鶴亭</td>
                 <td className="p-3 text-stone-600">兵庫県朝来市和田山町和田山283</td>
-                <td className="p-3 text-stone-600">和田山駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ 和田山駅より徒歩にて約７分</td>
                 <td className="p-3 text-stone-600">有り　４台　無料　要予約</td>
                 <td className="p-3 font-bold text-amber-600">★4.5（77件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,750〜</td>
@@ -280,7 +280,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 湯村温泉郷　御宿コトブキ</td>
                 <td className="p-3 text-stone-600">兵庫県美方郡新温泉町湯1561-1</td>
-                <td className="p-3 text-stone-600">浜坂駅周辺</td>
+                <td className="p-3 text-stone-600">JR浜坂駅よりバスで約15分 八鹿氷ノ山ICより車で50分（冬期は冬用タイヤの着用をお願いします）</td>
                 <td className="p-3 text-stone-600">有り　16台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.51（173件）</td>
                 <td className="p-3 font-bold text-rose-600">¥9,500〜</td>
@@ -309,7 +309,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「丁寧な対応と清潔な部屋で快適な時間を過ごせた対応がとても丁寧で、お部屋も綺麗にお掃除されていて、とても快適でした。和田山駅から徒歩圏内のため、竹田城へのアクセスも良く、また次回も利用させていただき…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「丁寧な対応と清潔な部屋で快適な時間を過ごせた対応がとても丁寧で、お部屋も綺麗にお掃除されていて、とても快適でした。」
                   </blockquote>
                 </div>
               </div>
@@ -331,7 +331,7 @@ export default function MicroTouristHubPage() {
                   <p>【兵庫・竹田城跡＆朝来・生野銀山：雲海に浮かぶ天空の城】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの対応と地産地消の食事が最高従業員さんがとても素敵でした。食事も地産地消の食材を使ってとても美味しい!温泉もとてもいいお湯でした。雨で露天風呂が楽しめなかったのが残念でしたが2連泊だったの…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの対応と地産地消の食事が最高従業員さんがとても素敵でした。食事も地産地消の食材を使ってとても美味しい!温泉もとてもいいお湯でした。」
                   </blockquote>
                 </div>
               </div>
@@ -375,7 +375,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　16台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「シックな空間と囲炉裏会席に大満足部屋をはじめ建物内はシックで落ち着いた佇まいで非常に素晴らしいと思いました。夕食の囲炉裏会席は他では体験出来ない楽しいものでした。また、大変美味しくいただきまし…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「シックな空間と囲炉裏会席に大満足部屋をはじめ建物内はシックで落ち着いた佇まいで非常に素晴らしいと思いました。夕食の囲炉裏会席は他では体験出来ない楽しいものでした。」
                   </blockquote>
                 </div>
               </div>

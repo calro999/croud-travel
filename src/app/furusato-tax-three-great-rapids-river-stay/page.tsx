@@ -49,7 +49,7 @@ const hotels = [
     "reviewCount": 1273,
     "address": "山梨県南巨摩郡身延町上之平1900",
     "access": "ＪＲ身延線下部温泉駅徒歩１分／車：中部横断道下部温泉早川ＩＣより５分",
-    "userReview": "温泉と接客は最高だが夕食が期待外れ温泉はぬる湯とあつ湯で楽しめ、泉質も良かった。接客も質が高くここち良い。一品一品をもっとおいしくしてほしい。お寿司はねっとりし。",
+    "userReview": "温泉と接客は最高だが夕食が期待外れ温泉はぬる湯とあつ湯で楽しめ、泉質も良かった。接客も質が高くここち良い。夕食のみ期待していた分、とても残念。一品一品をもっとおいしくしてほしい。",
     "label": "山梨県身延町ふるさと納税・富士山の懐を貫く急流富士川と信玄の隠し湯「下部温泉 下部ホテル」",
     "spotTitle": "山梨県身延町ふるさと納税：富士川の懐・武田信玄の隠し湯と里山体験「下部温泉 下部ホテル」",
     "spotDesc": "日本の名湯百選・下部温泉の老舗ホテル。庭園内に湧く二種類の自家源泉（硫黄泉と単純泉）を十二の湯舟で湯巡りでき、甲州名物ほうとうやヤマメの塩焼き実演ビュッフェが好評です。",
@@ -351,7 +351,7 @@ export default function FurusatoUpgradedPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 高見屋　最上川別邸　紅</td>
                 <td className="p-3 text-stone-600">山形県最上郡戸沢村古口3058</td>
-                <td className="p-3 text-stone-600">高屋駅周辺</td>
+                <td className="p-3 text-stone-600">東京・仙台方面→東北自動車道→村田JCT→山形自動車道→山形北IC→国道13号→国道47号→宿</td>
                 <td className="p-3 text-stone-600">有り　２０台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.25（405件）</td>
                 <td className="p-3 font-bold text-rose-600">¥10,450〜</td>
@@ -360,7 +360,7 @@ export default function FurusatoUpgradedPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 山梨県の温泉旅館　下部温泉郷　下部ホテル</td>
                 <td className="p-3 text-stone-600">山梨県南巨摩郡身延町上之平1900</td>
-                <td className="p-3 text-stone-600">下部温泉駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ身延線下部温泉駅徒歩１分／車：中部横断道下部温泉早川ＩＣより５分</td>
                 <td className="p-3 text-stone-600">有り　１００台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.36（1307件）</td>
                 <td className="p-3 font-bold text-rose-600">¥17,050〜</td>
@@ -369,7 +369,7 @@ export default function FurusatoUpgradedPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 人吉温泉　あゆの里</td>
                 <td className="p-3 text-stone-600">熊本県人吉市九日町30</td>
-                <td className="p-3 text-stone-600">人吉駅周辺</td>
+                <td className="p-3 text-stone-600">九州新幹線新八代駅から高速バスで約30分。周辺観光：青井阿蘇神社へ徒歩約10分。</td>
                 <td className="p-3 text-stone-600">有り　１００台ご用意しております。</td>
                 <td className="p-3 font-bold text-amber-600">★4.55（961件）</td>
                 <td className="p-3 font-bold text-rose-600">¥9,350〜</td>
@@ -398,7 +398,7 @@ export default function FurusatoUpgradedPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２０台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「川の眺めは良いが工事の視線が気になったお風呂が残念部屋から目の前の川がよく見える所でよかったが反対側で工事をしている作業員が10名ほどこれ以上言わなくてもわかると思いますがチェックイン…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「川の眺めは良いが工事の視線が気になったお風呂が残念部屋から目の前の川がよく見える所でよかったが反対側で工事をしている作業員が10名ほどこれ以上言わなくてもわかると思いますがチェックイン。」
                   </blockquote>
                 </div>
               </div>
@@ -420,7 +420,7 @@ export default function FurusatoUpgradedPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１００台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.58 ／ 立地 ★4.31 ／ 部屋 ★4.27 ／ 設備 ★4.27 ／ 風呂 ★4.54 ／ 食事 ★4.45</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフのイベントが魅力的で大満足!8月のお盆休みで、子供達、孫達と宿泊させて頂きました。スタッフのイベントの取り組みが、いっぱいでとても魅力的で。楽しませてもらいましたも足湯も、とて…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフのイベントが魅力的で大満足!8月のお盆休みで、子供達、孫達と宿泊させて頂きました。スタッフのイベントの取り組みが、いっぱいでとても魅力的で。」
                   </blockquote>
                 </div>
               </div>

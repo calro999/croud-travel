@@ -297,8 +297,8 @@ export default function FeaturePage() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 雄琴駅よりアクセス。名神京都東Ｉ．Ｃから湖西道路経由で20分。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「おごと温泉 びわこ緑水亭」にチェックイン。滋賀県おごと温泉、琵琶湖畔の旅館、露天風呂付客室や近江牛のプラン、家族・カップルに人気の旅館。などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「おごと温泉 びわこ緑水亭」の湯処へ。滋賀県おごと温泉、琵琶湖畔の旅館、露天風呂付客室や近江牛のプラン、家族とともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「おごと温泉 びわこ緑水亭」にチェックイン。滋賀県おごと温泉、琵琶湖畔の旅館、露天風呂付客室や近江牛のプラン、家族・カップルに人気の旅館。 客室で荷物をほどき、旅の疲れをゆっくり解きほぐす。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「おごと温泉 びわこ緑水亭」の大浴場・露天風呂へ。日暮れの風情に包まれながらゆっくりと湯浴みを楽しむ。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「おごと温泉 びわこ緑水亭」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -310,7 +310,7 @@ export default function FeaturePage() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「おごと温泉 びわこ緑水亭」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「おごと温泉 びわこ緑水亭」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「湖畔の宿 雄琴荘」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は「おごと温泉 びわこ緑水亭」周辺の観光スポットや地元の名産店に立ち寄り、お土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>
@@ -381,28 +381,28 @@ export default function FeaturePage() {
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
             <div className="flex flex-wrap gap-2">
               <Link
-                href="/prefectures/mie/"
+                href="/prefectures/shiga/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                三重県の宿・温泉
+                滋賀県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/nara/"
+                href="/prefectures/kyoto/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                奈良県の宿・温泉
+                京都府の宿・温泉
               </Link>
               <Link
-                href="/prefectures/kumamoto/"
+                href="/prefectures/osaka/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                熊本県の宿・温泉
+                大阪府の宿・温泉
               </Link>
               <Link
-                href="/prefectures/aichi/"
+                href="/prefectures/hyogo/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                愛知県の宿・温泉
+                兵庫県の宿・温泉
               </Link>
             </div>
           
@@ -443,7 +443,7 @@ export default function FeaturePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. おごと温泉　びわこ緑水亭</td>
                 <td className="p-3 text-stone-600">滋賀県大津市雄琴6-1-6</td>
-                <td className="p-3 text-stone-600">雄琴駅周辺</td>
+                <td className="p-3 text-stone-600">名神京都東Ｉ．Ｃから湖西道路経由で20分。ＪＲおごと温泉駅から送迎あり（要電話）</td>
                 <td className="p-3 text-stone-600">有り　100台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.66（2533件）</td>
                 <td className="p-3 font-bold text-rose-600">¥21,900〜</td>
@@ -452,7 +452,7 @@ export default function FeaturePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 湖畔の宿　雄琴荘</td>
                 <td className="p-3 text-stone-600">滋賀県大津市雄琴6-1-24</td>
-                <td className="p-3 text-stone-600">雄琴駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ湖西線　おごと温泉駅から車で５分（送迎有り）</td>
                 <td className="p-3 text-stone-600">有り　10台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.18（122件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,600〜</td>
@@ -461,7 +461,7 @@ export default function FeaturePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. ─都心の天然温泉─　名古屋クラウンホテル</td>
                 <td className="p-3 text-stone-600">愛知県名古屋市中区栄1-8-33</td>
-                <td className="p-3 text-stone-600">名古屋駅周辺</td>
+                <td className="p-3 text-stone-600">地下鉄（東山線・鶴舞線）「伏見駅」６番出口より徒歩約５分。ＪＲ「名古屋駅」より車で約５分・徒歩約２０分。</td>
                 <td className="p-3 text-stone-600">タワー式（車高155cm・タイヤ幅175cm以下）約40台　1泊1200円（15時~翌10時）先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.17（9463件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,000〜</td>
@@ -470,7 +470,7 @@ export default function FeaturePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 小牧セントラルホテル</td>
                 <td className="p-3 text-stone-600">愛知県小牧市北外山730</td>
-                <td className="p-3 text-stone-600">小牧口駅周辺</td>
+                <td className="p-3 text-stone-600">名鉄小牧線「小牧口駅」徒歩３分　小牧ＩＣより車で7分　小牧南ＩＣより車で4分　県営名古屋空港より車で１５分</td>
                 <td className="p-3 text-stone-600">有り　50台　無料 (満車となりましたら徒歩3〜4分の第二駐車場となります）</td>
                 <td className="p-3 font-bold text-amber-600">★4.14（2696件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,100〜</td>
@@ -479,7 +479,7 @@ export default function FeaturePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. ハミルトンホテル　－ブラック－</td>
                 <td className="p-3 text-stone-600">愛知県名古屋市中区栄1-11-17</td>
-                <td className="p-3 text-stone-600">伏見（愛知）駅周辺</td>
+                <td className="p-3 text-stone-600">地下鉄東山線・鶴舞線伏見駅6番出口から徒歩約2分</td>
                 <td className="p-3 text-stone-600">有料の提携駐車場1か所（事前予約不可）。詳細はホテルにお問合せください。</td>
                 <td className="p-3 font-bold text-amber-600">★3.81（3254件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,200〜</td>
@@ -508,7 +508,7 @@ export default function FeaturePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　100台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.69 ／ 立地 ★4.59 ／ 部屋 ★4.62 ／ 設備 ★4.62 ／ 風呂 ★4.63 ／ 食事 ★4.74</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「1歳・3歳連れでも安心。子どもへの配慮と食事が良かったです1歳と3歳の子どもを連れて家族で宿泊しました。小さな子どもが2人いると、部屋での過ごし方や食事、お風呂など何かと気を遣いますが、こちらでは…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「1歳・3歳連れでも安心。子どもへの配慮と食事が良かったです1歳と3歳の子どもを連れて家族で宿泊しました。」
                   </blockquote>
                 </div>
               </div>
@@ -530,7 +530,7 @@ export default function FeaturePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　10台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「レイクビューのお部屋とあたたかい接客に感動!ひとり旅で利用させていただきました。おごと温泉駅から炎天下を歩いて宿に向かったのですが、到着したとき汗びっしょりだった私を見て、ご主人があたたかい言…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「レイクビューのお部屋とあたたかい接客に感動!ひとり旅で利用させていただきました。」
                   </blockquote>
                 </div>
               </div>
@@ -574,7 +574,7 @@ export default function FeaturePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　50台　無料 (満車となりましたら徒歩3〜4分の第二駐車場となります）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.16 ／ 立地 ★4.04 ／ 部屋 ★4.05 ／ 設備 ★4.07 ／ 風呂 ★4.04 ／ 食事 ★4.35</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ウェルカムドリンクのビールと朝食に満足ウェルカムドリンクでビールが選べるのがうれしいです。瓶から缶に変わったのは残念ですが。朝食バイキングは混雑することなくスムーズに食べることが出来ました…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ウェルカムドリンクのビールと朝食に満足ウェルカムドリンクでビールが選べるのがうれしいです。瓶から缶に変わったのは残念ですが。」
                   </blockquote>
                 </div>
               </div>
@@ -596,7 +596,7 @@ export default function FeaturePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有料の提携駐車場1か所（事前予約不可）。詳細はホテルにお問合せください。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.94 ／ 立地 ★3.89 ／ 部屋 ★3.74 ／ 設備 ★3.67 ／ 風呂 ★3.62</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近で便利だが空調の音が気になった仕事で初めて利用しました。場所は仕事先からも近く地下鉄駅からも近いので問題無いでしたが、部屋の空調が個別のエアコンではなくて、風量調整や温度調整が出来ないし、…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近で便利だが空調の音が気になった仕事で初めて利用しました。」
                   </blockquote>
                 </div>
               </div>

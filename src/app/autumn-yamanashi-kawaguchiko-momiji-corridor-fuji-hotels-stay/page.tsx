@@ -342,7 +342,7 @@ export default function KawaguchikoAutumnPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 富士河口湖温泉　湖南荘</td>
                 <td className="p-3 text-stone-600">山梨県南都留郡富士河口湖町船津4020</td>
-                <td className="p-3 text-stone-600">河口湖駅周辺</td>
+                <td className="p-3 text-stone-600">私鉄富士急行線 河口湖駅／中央自動車道 河口湖ＩＣより約４ｋｍ</td>
                 <td className="p-3 text-stone-600">有　4０台　無料　県営駐車場</td>
                 <td className="p-3 font-bold text-amber-600">★4.8（1824件）</td>
                 <td className="p-3 font-bold text-rose-600">¥27,500〜</td>
@@ -351,7 +351,7 @@ export default function KawaguchikoAutumnPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 庭園と感動の宿　富士山温泉　ホテル鐘山苑</td>
                 <td className="p-3 text-stone-600">山梨県富士吉田市上吉田東9-1-18</td>
-                <td className="p-3 text-stone-600">富士吉田駅周辺</td>
+                <td className="p-3 text-stone-600">富士急行線富士山駅より１３時～１８時の間無料送迎あり／車８分／駅到着時にお電話下さい／翌日のお送りは８：００より３０分毎</td>
                 <td className="p-3 text-stone-600">有り　5００台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.69（1165件）</td>
                 <td className="p-3 font-bold text-rose-600">¥22,000〜</td>
@@ -360,7 +360,7 @@ export default function KawaguchikoAutumnPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 河口湖温泉　うぶや</td>
                 <td className="p-3 text-stone-600">山梨県南都留郡富士河口湖町浅川10</td>
-                <td className="p-3 text-stone-600">河口湖駅周辺</td>
+                <td className="p-3 text-stone-600">車：中央自動車道富士吉田線河口湖ＩＣより１０分。 電車、バス：富士急行河口湖駅より送迎アリ(詳細問合せ下さい)。</td>
                 <td className="p-3 text-stone-600">有り　50台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.26（725件）</td>
                 <td className="p-3 font-bold text-rose-600">¥34,100〜</td>
@@ -369,7 +369,7 @@ export default function KawaguchikoAutumnPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 富士河口湖温泉　富士山の見える温泉旅館　大池ホテル</td>
                 <td className="p-3 text-stone-600">山梨県南都留郡富士河口湖町船津6713-103</td>
-                <td className="p-3 text-stone-600">河口湖駅周辺</td>
+                <td className="p-3 text-stone-600">駅から無料送迎有■駐車場無料■河口湖駅から車で4分■富士急から車で7分河口湖ICから車で12分新宿駅からバスで約120分</td>
                 <td className="p-3 text-stone-600">無料駐車場50台・河口湖駅からの無料送迎有・バイク専用の駐車場無・富士急ハイランドまで車で7分</td>
                 <td className="p-3 font-bold text-amber-600">★4.36（5587件）</td>
                 <td className="p-3 font-bold text-rose-600">¥13,000〜</td>
@@ -378,7 +378,7 @@ export default function KawaguchikoAutumnPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. ホテルマイステイズ富士山　展望温泉</td>
                 <td className="p-3 text-stone-600">山梨県富士吉田市新倉2654</td>
-                <td className="p-3 text-stone-600">富士急ハイランド駅周辺</td>
+                <td className="p-3 text-stone-600">富士急ハイランド駅より徒歩５分♪ 富士急行線河口湖駅より徒歩１６分 中央自動車道河口湖ICより車で１０分</td>
                 <td className="p-3 text-stone-600">有　７４台　無料　事前のご連絡不要　空いてる区画スペースにお停めください。</td>
                 <td className="p-3 font-bold text-amber-600">★4.35（1136件）</td>
                 <td className="p-3 font-bold text-rose-600">¥12,290〜</td>
@@ -429,7 +429,7 @@ export default function KawaguchikoAutumnPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　5００台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.69 ／ 立地 ★4.71 ／ 部屋 ★4.64 ／ 設備 ★4.6 ／ 風呂 ★4.73 ／ 食事 ★4.75</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事と温泉は最高だが運営姿勢に疑問あり〇お食事:素晴らしい。いわゆる温泉旅館ランキング上位の旅館だということが他の上位旅館に実際宿泊して比較してみて理解できた。夕飯のお肉は少し残念。温かく出してほ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事と温泉は最高だが運営姿勢に疑問あり〇お食事:素晴らしい。いわゆる温泉旅館ランキング上位の旅館だということが他の上位旅館に実際宿泊して比較してみて理解できた。夕飯のお肉は少し残念。」
                   </blockquote>
                 </div>
               </div>
@@ -473,7 +473,7 @@ export default function KawaguchikoAutumnPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料駐車場50台・河口湖駅からの無料送迎有・バイク専用の駐車場無・富士急ハイランドまで車で7分</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.5 ／ 立地 ★4.4 ／ 部屋 ★4.23 ／ 設備 ★4.29 ／ 風呂 ★4.31 ／ 食事 ★4.45</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「富士山が見えた瞬間に感動、料理も最高とても良いお部屋で最高でしたお部屋には浴衣や作務衣が全サイズ取り揃えてあり早速着替えてゆったりと過ごせましたお料理もどれも美味しく大満足でした富…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「富士山が見えた瞬間に感動、料理も最高とても良いお部屋で最高でしたお部屋には浴衣や作務衣が全サイズ取り揃えてあり早速着替えてゆったりと過ごせましたお料理もどれも美味しく大満足でした富。」
                   </blockquote>
                 </div>
               </div>
@@ -495,7 +495,7 @@ export default function KawaguchikoAutumnPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有　７４台　無料　事前のご連絡不要　空いてる区画スペースにお停めください。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.37 ／ 立地 ★4.43 ／ 部屋 ★4.32 ／ 設備 ★4.31 ／ 風呂 ★4.27 ／ 食事 ★4.4</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋の清掃不備とコンビニまでの距離が難点平日に泊まりましたがほとんど外国人観光客の方でした。部屋の広さは二人で荷物入れたらちょうどいいくらいでした。部屋の清掃なのですがパッと見は綺麗でした…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋の清掃不備とコンビニまでの距離が難点平日に泊まりましたがほとんど外国人観光客の方でした。部屋の広さは二人で荷物入れたらちょうどいいくらいでした。」
                   </blockquote>
                 </div>
               </div>

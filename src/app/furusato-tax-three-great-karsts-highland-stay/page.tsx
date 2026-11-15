@@ -351,7 +351,7 @@ export default function FurusatoUpgradedPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 湯野温泉　芳山園</td>
                 <td className="p-3 text-stone-600">山口県周南市湯野4255-1</td>
-                <td className="p-3 text-stone-600">戸田（山口）駅周辺</td>
+                <td className="p-3 text-stone-600">新幹線徳山駅→ＪＲ山陽本線 戸田駅より車で7分／山陽自動車道徳山西ＩＣ下車６分</td>
                 <td className="p-3 text-stone-600">有り　４０台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.51（514件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,800〜</td>
@@ -360,7 +360,7 @@ export default function FurusatoUpgradedPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 星ふるヴィレッジＴＥＮＧＵ</td>
                 <td className="p-3 text-stone-600">高知県高岡郡津野町芳生野乙4921-22</td>
-                <td className="p-3 text-stone-600">須崎駅周辺</td>
+                <td className="p-3 text-stone-600">須崎東ICより国道197号線を津野町役場西庁舎目印に国道439号線へ。須崎東ICより約80分</td>
                 <td className="p-3 text-stone-600">有り　２００台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.43（376件）</td>
                 <td className="p-3 font-bold text-rose-600">¥13,600〜</td>
@@ -369,7 +369,7 @@ export default function FurusatoUpgradedPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. ホテルクラウンパレス小倉</td>
                 <td className="p-3 text-stone-600">福岡県北九州市小倉北区馬借1-2-1</td>
-                <td className="p-3 text-stone-600">小倉（福岡）駅周辺</td>
+                <td className="p-3 text-stone-600">小倉駅から徒歩11分、お車3分、バス5分（詳細は施設紹介「アクセス・駐車場」項目をご覧ください）</td>
                 <td className="p-3 text-stone-600">有り／1泊1,100円（税込・先着順）※ご予約は承っておりませんので予めご了承ください。</td>
                 <td className="p-3 font-bold text-amber-600">★4.13（1853件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,300〜</td>
@@ -398,7 +398,7 @@ export default function FurusatoUpgradedPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　４０台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋や露天風呂は良いがサービスに不満あり良い箇所は部屋の作り、特に柱、梁は素晴らしく、日本間も15畳の落ち着いた快適な部屋、露天風呂も良い!改良して欲しい箇所、特別室の(幸)に宿泊、歯ブラシ等…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋や露天風呂は良いがサービスに不満あり良い箇所は部屋の作り、特に柱、梁は素晴らしく、日本間も15畳の落ち着いた快適な部屋、露天風呂も良い!」
                   </blockquote>
                 </div>
               </div>
@@ -420,7 +420,7 @@ export default function FurusatoUpgradedPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２００台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「道中は険しいが景色とサービスは満点!辿り着くのに道路が工事中だったり、片側一車線道路からセンターラインがなくなって離合不可の道を経ての到着。しかし、部屋の設備やらサービスはピカイチ!もちろ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「道中は険しいが景色とサービスは満点!辿り着くのに道路が工事中だったり、片側一車線道路からセンターラインがなくなって離合不可の道を経ての到着。しかし、部屋の設備やらサービスはピカイチ!」
                   </blockquote>
                 </div>
               </div>
@@ -442,7 +442,7 @@ export default function FurusatoUpgradedPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り／1泊1,100円（税込・先着順）※ご予約は承っておりませんので予めご了承ください。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「設備は古めだが清潔、朝食が美味しくコスパ良し設備は古めでは有りますが、清潔感も有って不快感は無いです。朝食の種類が豊富で、とても美味しかったです。唯一、残念だったのが天井にホコリがこびりつ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「設備は古めだが清潔、朝食が美味しくコスパ良し設備は古めでは有りますが、清潔感も有って不快感は無いです。朝食の種類が豊富で、とても美味しかったです。」
                   </blockquote>
                 </div>
               </div>

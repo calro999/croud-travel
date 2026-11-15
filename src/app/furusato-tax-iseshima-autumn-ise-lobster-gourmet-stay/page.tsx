@@ -445,8 +445,8 @@ export default function FurusatoIseshimaAutumnIseLobsterStayPage() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 鳥羽駅よりアクセス。伊勢自動車道→伊勢二見鳥羽ライン→直進約２５分/近鉄鳥羽駅1番出口より無料送迎バス約20分（要予約）15時16時17時。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「鳥羽本浦温泉 サン浦島 悠季の里」にチェックイン。口コミ4.8 伊勢志摩の旬の味覚、2種の源泉と趣の異なる湯めぐりで、”心あたたまる”海辺の温泉旅館などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「鳥羽本浦温泉 サン浦島 悠季の里」の湯処へ。口コミ4.8 伊勢志摩の旬の味覚、2種の源泉と趣の異なる湯めぐりで、”とともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「鳥羽本浦温泉 サン浦島 悠季の里」にチェックイン。口コミ4.8 伊勢志摩の旬の味覚、2種の源泉と趣の異なる湯めぐりで、”心あたたまる”海辺の温泉旅館が魅力の一軒。客室で荷物をほどいて穏やかな午後のひとときを。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「鳥羽本浦温泉 サン浦島 悠季の里」の自慢の湯処へ。温かな湯気と落ち着いた雰囲気に癒やされながら、夕食前の贅沢なひとときを過ごす。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「鳥羽本浦温泉 サン浦島 悠季の里」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -458,7 +458,7 @@ export default function FurusatoIseshimaAutumnIseLobsterStayPage() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「鳥羽本浦温泉 サン浦島 悠季の里」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「鳥羽本浦温泉 サン浦島 悠季の里」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「伊勢志摩国立公園 ／ 鳥羽温泉郷 戸田家」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は宿周辺の散策とショッピングを満喫。地元の名産品やグルメを味わってから余裕をもって帰路につく。</li>
               </ul>
             </div>
           </div>

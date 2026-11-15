@@ -420,8 +420,8 @@ export default function Page() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 新見駅よりアクセス。『JR新見駅』より徒歩1分、中国道『新見IC』より1km。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「新見 グランドホテルみよしや」にチェックイン。新見駅に１番近く、岡山県新見市の中心にありビジネスにも観光にも 洋室はシモンズベッドにデュベスタイルなどの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「新見 グランドホテルみよしや」の湯処へ。新見駅に１番近く、岡山県新見市の中心にありビジネスにも観光にも 洋室はとともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「新見 グランドホテルみよしや」にチェックイン。新見駅に１番近く、岡山県新見市の中心にありビジネスにも観光にも 洋室はシモンズベッドにデュベスタイルが魅力の一軒。客室で荷物をほどいて穏やかな午後のひとときを。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「新見 グランドホテルみよしや」の大浴場・露天風呂へ。日暮れの静けさの中で湯に浸かり、旅の緊張をゆっくりと解きほぐす。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「新見 グランドホテルみよしや」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -433,7 +433,7 @@ export default function Page() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「新見 グランドホテルみよしや」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「新見 グランドホテルみよしや」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「磐梯熱海温泉 ホテル華の湯」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は「新見 グランドホテルみよしや」周辺の観光スポットや地元の名産店に立ち寄り、ご当地のお土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>
@@ -561,7 +561,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 新見　グランドホテルみよしや</td>
                 <td className="p-3 text-stone-600">岡山県新見市高尾２４５６</td>
-                <td className="p-3 text-stone-600">新見駅周辺</td>
+                <td className="p-3 text-stone-600">『JR新見駅』より徒歩1分、中国道『新見IC』より1km</td>
                 <td className="p-3 text-stone-600">35台あり　無料　※自動車は２ｔ（６ｍ）までです。これ以上大きいお車は駐車できません。</td>
                 <td className="p-3 font-bold text-amber-600">★4.19（431件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,500〜</td>
@@ -570,7 +570,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 磐梯熱海温泉　ホテル華の湯</td>
                 <td className="p-3 text-stone-600">福島県郡山市熱海町熱海5丁目 8-60</td>
-                <td className="p-3 text-stone-600">磐梯熱海駅周辺</td>
+                <td className="p-3 text-stone-600">磐越自動車道磐梯熱海ＩＣより車で8分、磐越西線磐梯熱海駅より送迎可能です。（要連絡）</td>
                 <td className="p-3 text-stone-600">有り　400台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.42（3338件）</td>
                 <td className="p-3 font-bold text-rose-600">¥9,900〜</td>
@@ -579,7 +579,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 奥多摩の風　はとのす荘</td>
                 <td className="p-3 text-stone-600">東京都西多摩郡奥多摩町棚沢662</td>
-                <td className="p-3 text-stone-600">鳩ノ巣駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ新宿駅から100分、鳩ノ巣駅より徒歩300m、5分。</td>
                 <td className="p-3 text-stone-600">有り　２７台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.44（371件）</td>
                 <td className="p-3 font-bold text-rose-600">¥12,100〜</td>
@@ -652,7 +652,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２７台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事の席が固定で景観や周囲の環境が残念基本的に満足ですが、夕食と朝食が同じ席なのは、残念でした。座席によって景観が違いますし、うるさい人がまた隣にきてしまったのは、残念でした。クチコミの詳細は…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事の席が固定で景観や周囲の環境が残念基本的に満足ですが、夕食と朝食が同じ席なのは、残念でした。座席によって景観が違いますし、うるさい人がまた隣にきてしまったのは、残念でした。」
                   </blockquote>
                 </div>
               </div>

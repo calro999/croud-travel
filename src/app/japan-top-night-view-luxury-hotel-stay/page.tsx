@@ -253,7 +253,7 @@ export default function ScenicViewHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 稲佐山温泉　ホテルアマンディ　〜長崎の日本三大夜景を一望〜</td>
                 <td className="p-3 text-stone-600">長崎県長崎市曙町39-38</td>
-                <td className="p-3 text-stone-600">長崎（長崎）駅周辺</td>
+                <td className="p-3 text-stone-600">JR長崎駅からお車で7分。長崎バス5番系統「稲佐山」または「稲佐山中腹」行きバス乗車 無料送迎バス有</td>
                 <td className="p-3 text-stone-600">有り　１２０台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★3.94（747件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,500〜</td>
@@ -262,7 +262,7 @@ export default function ScenicViewHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 稲佐山観光ホテル</td>
                 <td className="p-3 text-stone-600">長崎県長崎市曙町40-23</td>
-                <td className="p-3 text-stone-600">長崎（長崎）駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ長崎駅より車で10分◆長崎駅から「稲佐山高部」行きバス「観光ホテル前」下車◆長崎駅から無料送迎有（1日2便、要予約）</td>
                 <td className="p-3 text-stone-600">有 ６０台（1泊1台1,000円）※電気自動車急速充電設備あり</td>
                 <td className="p-3 font-bold text-amber-600">★4.36（1258件）</td>
                 <td className="p-3 font-bold text-rose-600">¥11,880〜</td>
@@ -271,7 +271,7 @@ export default function ScenicViewHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 大江戸温泉物語Ｐｒｅｍｉｕｍ　長崎ホテル清風（２０２６年４月２９日リニューアルオープン）</td>
                 <td className="p-3 text-stone-600">長崎県長崎市大鳥町523</td>
-                <td className="p-3 text-stone-600">長崎（長崎）駅周辺</td>
+                <td className="p-3 text-stone-600">JR長崎駅より送迎バスで約15分、長崎自動車道 長崎ICより約20分</td>
                 <td className="p-3 text-stone-600">あり　約80台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.05（111件）</td>
                 <td className="p-3 font-bold text-rose-600">¥10,500〜</td>
@@ -280,7 +280,7 @@ export default function ScenicViewHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 長崎マリオットホテル</td>
                 <td className="p-3 text-stone-600">長崎県長崎市尾上町1-1</td>
-                <td className="p-3 text-stone-600">長崎（長崎）駅周辺</td>
+                <td className="p-3 text-stone-600">JR長崎駅かもめ口より徒歩約１分</td>
                 <td className="p-3 text-stone-600">アミュプラザ長崎立体駐車場をご利用いただけます。(宿泊者料金：当日13時～翌日13時　3,000円)</td>
                 <td className="p-3 font-bold text-amber-600">★4.59（243件）</td>
                 <td className="p-3 font-bold text-rose-600">¥9,678〜</td>
@@ -289,7 +289,7 @@ export default function ScenicViewHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. ホテル　ラ・スイート神戸ハーバーランド</td>
                 <td className="p-3 text-stone-600">兵庫県神戸市中央区波止場町7-2</td>
-                <td className="p-3 text-stone-600">神戸（兵庫）駅周辺</td>
+                <td className="p-3 text-stone-600">JR「神戸駅」より徒歩約10分／地下鉄海岸線「みなと元町駅」より徒歩約4分／阪神高速3号神戸線「京橋出入口」より車約5分</td>
                 <td className="p-3 text-stone-600">57台(屋内46台、屋外11台) 1000円/泊</td>
                 <td className="p-3 font-bold text-amber-600">★4.73（1809件）</td>
                 <td className="p-3 font-bold text-rose-600">¥12,130〜</td>
@@ -298,7 +298,7 @@ export default function ScenicViewHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">6. ホテルオークラ神戸</td>
                 <td className="p-3 text-stone-600">兵庫県神戸市中央区波止場町2-1  メリケンパーク内</td>
-                <td className="p-3 text-stone-600">元町（兵庫）駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ神戸線・阪神線 元町駅から徒歩で10分。 新幹線 新神戸駅から 車で15分。</td>
                 <td className="p-3 text-stone-600">1泊1500円 ※予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.57（8846件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,000〜</td>
@@ -327,7 +327,7 @@ export default function ScenicViewHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１２０台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.99 ／ 立地 ★4.12 ／ 部屋 ★3.87 ／ 設備 ★3.7 ／ 風呂 ★3.99 ／ 食事 ★4.03</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「直前割でお得に利用、大浴場と夜景を満喫急な法事で長崎に行くことになったため、比較的お手頃な値段で探したところ、直前割プランと楽天のクーポンで通常よりかなり安くなっており助かりました。和室でベッ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「直前割でお得に利用、大浴場と夜景を満喫急な法事で長崎に行くことになったため、比較的お手頃な値段で探したところ、直前割プランと楽天のクーポンで通常よりかなり安くなっており助かりました。」
                   </blockquote>
                 </div>
               </div>
@@ -349,7 +349,7 @@ export default function ScenicViewHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有 ６０台（1泊1台1,000円）※電気自動車急速充電設備あり</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.38 ／ 立地 ★4.44 ／ 部屋 ★4.37 ／ 設備 ★4.18 ／ 風呂 ★4.11 ／ 食事 ★4.36</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉と朝食が最高、また長崎で泊まりたい全体的に素敵なホテルでした。仕事で利用させてもらったのですが温泉の作りが良かったし、泉質もすごく良くて長湯したくなる感じの温泉でした。(2個ありました)…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉と朝食が最高、また長崎で泊まりたい全体的に素敵なホテルでした。仕事で利用させてもらったのですが温泉の作りが良かったし、泉質もすごく良くて長湯したくなる感じの温泉でした。」
                   </blockquote>
                 </div>
               </div>
@@ -371,7 +371,7 @@ export default function ScenicViewHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>あり　約80台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「長崎の夜景が最高、食事も接客も満足とにかく夜景が最高でした!部屋からもラウンジからも展望温泉からも長崎の夜景が美しかったです。食事も美味しく、接客も丁寧でした。設備はリニューアルし…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「長崎の夜景が最高、食事も接客も満足とにかく夜景が最高でした!部屋からもラウンジからも展望温泉からも長崎の夜景が美しかったです。食事も美味しく、接客も丁寧でした。」
                   </blockquote>
                 </div>
               </div>
@@ -393,7 +393,7 @@ export default function ScenicViewHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>アミュプラザ長崎立体駐車場をご利用いただけます。(宿泊者料金：当日13時～翌日13時　3,000円)</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ゆとりある空間と長崎らしさを感じる装丁外資系のホテルだけあってハード面のゆとり感に満足しました。波打ち際をイメージするラグやクッションカバー、歯ブラシの長崎のハタの装丁など、ご当地長崎を大切に思う…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ゆとりある空間と長崎らしさを感じる装丁外資系のホテルだけあってハード面のゆとり感に満足しました。」
                   </blockquote>
                 </div>
               </div>
@@ -415,7 +415,7 @@ export default function ScenicViewHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>57台(屋内46台、屋外11台) 1000円/泊</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの温かい対応と夜景に家族全員大満足妻と1歳5ヶ月になる娘の家族3人で宿泊させてもらいました。良く歩き回る娘に対してもスタッフの皆様は温かく対応してくださり、おかげさまで終始笑顔な娘でした。…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの温かい対応と夜景に家族全員大満足妻と1歳5ヶ月になる娘の家族3人で宿泊させてもらいました。良く歩き回る娘に対してもスタッフの皆様は温かく対応してくださり、おかげさまで終始笑顔な娘でした。」
                   </blockquote>
                 </div>
               </div>
@@ -437,7 +437,7 @@ export default function ScenicViewHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>1泊1500円 ※予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「LIVE後の利用に最適、清潔で親切な対応LIVE終わりの宿泊に利便性を考慮して選んだホテルですが最高のホテルでした三宮や元町方面にも徒歩可能ですが...暑い夏には少し距離感ありましたホテル…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「LIVE後の利用に最適、清潔で親切な対応LIVE終わりの宿泊に利便性を考慮して選んだホテルですが最高のホテルでした三宮や元町方面にも徒歩可能ですが...暑い夏には少し距離感ありましたホテル。」
                   </blockquote>
                 </div>
               </div>

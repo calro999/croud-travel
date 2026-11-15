@@ -253,7 +253,7 @@ export default function StargazingHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. ホテル星立　西表島＜西表島＞</td>
                 <td className="p-3 text-stone-600">沖縄県八重山郡竹富町西表949</td>
-                <td className="p-3 text-stone-600">石垣空港駅周辺</td>
+                <td className="p-3 text-stone-600">石垣島の「離島ターミナル」から上原港まで約50分、上原港からバスで約20分</td>
                 <td className="p-3 text-stone-600">有り　２０台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.6（48件）</td>
                 <td className="p-3 font-bold text-rose-600">¥10,690〜</td>
@@ -262,7 +262,7 @@ export default function StargazingHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 石垣島ビーチホテルサンシャイン＜石垣島＞</td>
                 <td className="p-3 text-stone-600">沖縄県石垣市新川2484</td>
-                <td className="p-3 text-stone-600">石垣空港駅周辺</td>
+                <td className="p-3 text-stone-600">新石垣空港からタクシーで約30分（約4,500円）離島ターミナル（石垣港）からバスまたはタクシーで約12分の好立地</td>
                 <td className="p-3 text-stone-600">有り（70台）　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.54（380件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,600〜</td>
@@ -271,7 +271,7 @@ export default function StargazingHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. ホテルエメラルドアイル石垣島　＜石垣島＞</td>
                 <td className="p-3 text-stone-600">沖縄県石垣市美崎町7-14</td>
-                <td className="p-3 text-stone-600">石垣空港駅周辺</td>
+                <td className="p-3 text-stone-600">石垣バスターミナルより徒歩にて約４分 ! 離島ターミナルへは徒歩1分の好立地！！</td>
                 <td className="p-3 text-stone-600">当ホテルに駐車場のご用意はございませんので、近隣の有料コインパーキングをご利用下さいませ。</td>
                 <td className="p-3 font-bold text-amber-600">★4.26（355件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,721〜</td>
@@ -280,7 +280,7 @@ export default function StargazingHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. ホテルイーストチャイナシー　＜石垣島＞</td>
                 <td className="p-3 text-stone-600">沖縄県石垣市美崎町2-8</td>
-                <td className="p-3 text-stone-600">石垣空港駅周辺</td>
+                <td className="p-3 text-stone-600">石垣空港より路線バスで約40分「離島ターミナル」下車徒歩3分。お車で約30分。離島アクセスや街歩きに便利な好立地です。</td>
                 <td className="p-3 text-stone-600">駐車場はございません。ホテルの隣に市営の駐車場がございます。(1時間100円、夜間1時間50円)</td>
                 <td className="p-3 font-bold text-amber-600">★4.33（965件）</td>
                 <td className="p-3 font-bold text-rose-600">¥2,800〜</td>
@@ -289,7 +289,7 @@ export default function StargazingHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 神津島　民宿　菊乃屋＜神津島＞</td>
                 <td className="p-3 text-stone-600">東京都神津島村377</td>
-                <td className="p-3 text-stone-600">神津島空港駅周辺</td>
+                <td className="p-3 text-stone-600">神津島港から車で約7分または神津島空港から車で約15分（送迎可）</td>
                 <td className="p-3 text-stone-600">有り　無料　要予約</td>
                 <td className="p-3 font-bold text-amber-600">★4.3（39件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,900〜</td>
@@ -298,7 +298,7 @@ export default function StargazingHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">6. 山下別館　＜神津島＞</td>
                 <td className="p-3 text-stone-600">東京都神津島村2番地</td>
-                <td className="p-3 text-stone-600">神津島前浜港駅周辺</td>
+                <td className="p-3 text-stone-600">神津島港より徒歩７分（送迎有り）。 三浦港・神津島空港までの送迎も可能です。</td>
                 <td className="p-3 text-stone-600">有り・無料</td>
                 <td className="p-3 font-bold text-amber-600">★3.85（76件）</td>
                 <td className="p-3 font-bold text-rose-600">¥10,450〜</td>
@@ -349,7 +349,7 @@ export default function StargazingHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り（70台）　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「海と空を望む絶景とプールで癒やされる台風の影響で急遽西表島から石垣島に退避することになり、2泊3日で予約させていただきました。中庭のプールと海との一体感がとても気持ちよかったです。また、新…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「海と空を望む絶景とプールで癒やされる台風の影響で急遽西表島から石垣島に退避することになり、2泊3日で予約させていただきました。中庭のプールと海との一体感がとても気持ちよかったです。」
                   </blockquote>
                 </div>
               </div>
@@ -371,7 +371,7 @@ export default function StargazingHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>当ホテルに駐車場のご用意はございませんので、近隣の有料コインパーキングをご利用下さいませ。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「コスパ最高入り口は、ここ?と思いましたが、中に入ったらとても清潔感のある、おしゃれな内装でした。部屋のドアがへこんでいたのは気になりましたが、中は特に問題ありませんでした。フロントの方もとても親切…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「コスパ最高入り口は、ここ?と思いましたが、中に入ったらとても清潔感のある、おしゃれな内装でした。部屋のドアがへこんでいたのは気になりましたが、中は特に問題ありませんでした。」
                   </blockquote>
                 </div>
               </div>
@@ -393,7 +393,7 @@ export default function StargazingHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>駐車場はございません。ホテルの隣に市営の駐車場がございます。(1時間100円、夜間1時間50円)</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「至福の朝食部屋などは真新しい感じはしませんが、コスパを考えたらそれなりの感じです。朝食は最高です。沖縄料理を堪能できます。ブルーシールアイスもあり、満足ではなく大満足です。クチコミの詳細は…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「至福の朝食部屋などは真新しい感じはしませんが、コスパを考えたらそれなりの感じです。朝食は最高です。沖縄料理を堪能できます。ブルーシールアイスもあり、満足ではなく大満足です。」
                   </blockquote>
                 </div>
               </div>

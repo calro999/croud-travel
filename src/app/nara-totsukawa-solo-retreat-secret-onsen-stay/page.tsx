@@ -386,7 +386,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 十津川温泉　ホテル昴</td>
                 <td className="p-3 text-stone-600">奈良県吉野郡十津川村平谷909-4</td>
-                <td className="p-3 text-stone-600">八木駅周辺</td>
+                <td className="p-3 text-stone-600">近鉄八木駅より奈良交通バス新宮駅行き～十津川温泉下車（約４時間）／京奈和五条ICよりＲ２４～Ｒ１６８で１００分</td>
                 <td className="p-3 text-stone-600">有り　１８０台　無料　自由</td>
                 <td className="p-3 font-bold text-amber-600">★4.36（463件）</td>
                 <td className="p-3 font-bold text-rose-600">¥19,800〜</td>
@@ -395,7 +395,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 十津川温泉郷　ゑびす荘</td>
                 <td className="p-3 text-stone-600">奈良県吉野郡十津川村平谷425-1</td>
-                <td className="p-3 text-stone-600">五条（奈良）駅周辺</td>
+                <td className="p-3 text-stone-600">お車、五条より国道168号を南へ約80分。新宮より国道168号を北へ約60分。バス、十津川温泉停留所より徒歩で約5分。</td>
                 <td className="p-3 text-stone-600">有り　4台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.48（59件）</td>
                 <td className="p-3 font-bold text-rose-600">¥13,800〜</td>
@@ -433,7 +433,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１８０台　無料　自由</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.38 ／ 立地 ★4.29 ／ 部屋 ★4.25 ／ 設備 ★4.15 ／ 風呂 ★4.49 ／ 食事 ★4.52</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「観光の拠点に最適、温泉と食事も大満足玉置神社や谷瀬のつり橋などの観光で利用しました。アクセスには申し分のない場所でした。スタッフさんは簡潔丁寧の接客対応で好感が持てました。和室は清潔感があり使い勝…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「観光の拠点に最適、温泉と食事も大満足玉置神社や谷瀬のつり橋などの観光で利用しました。アクセスには申し分のない場所でした。スタッフさんは簡潔丁寧の接客対応で好感が持てました。」
                   </blockquote>
                 </div>
               </div>
@@ -455,7 +455,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　4台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.43 ／ 立地 ★4.05 ／ 部屋 ★4.05 ／ 設備 ★4.22 ／ 風呂 ★4.52 ／ 食事 ★4.62</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「アットホームで癒されました娘と2人、親子で利用しました。建物は本当に古い感じでしたが、お部屋やお風呂は古いながらもお掃除は行き届いてて不満なかったですお料理が少ないコースだったのですが…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「アットホームで癒されました娘と2人、親子で利用しました。」
                   </blockquote>
                 </div>
               </div>

@@ -412,7 +412,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 三井ガーデンホテル銀座五丁目</td>
                 <td className="p-3 text-stone-600">東京都中央区銀座5-13-15</td>
-                <td className="p-3 text-stone-600">東銀座駅周辺</td>
+                <td className="p-3 text-stone-600">東銀座駅より徒歩にて約１分</td>
                 <td className="p-3 text-stone-600">無し</td>
                 <td className="p-3 font-bold text-amber-600">★4.33（569件）</td>
                 <td className="p-3 font-bold text-rose-600">¥21,289〜</td>
@@ -421,7 +421,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. ザ・スクエアホテル銀座</td>
                 <td className="p-3 text-stone-600">東京都中央区銀座2-11-6</td>
-                <td className="p-3 text-stone-600">銀座一丁目駅周辺</td>
+                <td className="p-3 text-stone-600">■「銀座一丁目」駅11番出口（7:00～22:00）徒歩1分■「東銀座」駅A2出口徒歩5分■「有楽町」駅京橋口徒歩8分</td>
                 <td className="p-3 text-stone-600">無し</td>
                 <td className="p-3 font-bold text-amber-600">★4.09（290件）</td>
                 <td className="p-3 font-bold text-rose-600">¥11,330〜</td>
@@ -430,7 +430,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. ダイワロイネットホテル銀座　ＰＲＥＭＩＥＲ</td>
                 <td className="p-3 text-stone-600">東京都中央区銀座1丁目13-15</td>
-                <td className="p-3 text-stone-600">銀座一丁目駅周辺</td>
+                <td className="p-3 text-stone-600">東京メトロ 有楽町線 銀座一丁目駅より徒歩にて20秒</td>
                 <td className="p-3 text-stone-600">有り　35台　2,000円（税込み／泊）　※駐車場の事前予約はお受け出来ません。</td>
                 <td className="p-3 font-bold text-amber-600">★4.31（1226件）</td>
                 <td className="p-3 font-bold text-rose-600">¥14,750〜</td>
@@ -459,7 +459,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無し</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.29 ／ 立地 ★4.33 ／ 部屋 ★4.29 ／ 設備 ★4.29 ／ 風呂 ★4.26</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ロケーションと大浴場は最高、また行きたいロケーション、大浴場が最高でした。脱衣場の備え付けのお水はいまイチ、美味しくなかった。朝食は6:30に伺ったら、オムレツ、味噌汁、お寿司があと30分くら…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ロケーションと大浴場は最高、また行きたいロケーション、大浴場が最高でした。脱衣場の備え付けのお水はいまイチ、美味しくなかった。」
                   </blockquote>
                 </div>
               </div>

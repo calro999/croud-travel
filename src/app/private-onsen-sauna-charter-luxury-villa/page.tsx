@@ -278,7 +278,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 季さらＯｎｅｎｅｓｓ</td>
                 <td className="p-3 text-stone-600">三重県鳥羽市安楽島町字高山1075-11</td>
-                <td className="p-3 text-stone-600">鳥羽駅周辺</td>
+                <td className="p-3 text-stone-600">近鉄鳥羽駅よりお車にて約8分</td>
                 <td className="p-3 text-stone-600">あり　8台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.17（9件）</td>
                 <td className="p-3 font-bold text-rose-600">¥22,940〜</td>
@@ -287,7 +287,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. ホテルグリーンパーク鈴鹿</td>
                 <td className="p-3 text-stone-600">三重県鈴鹿市白子4-15-20</td>
-                <td className="p-3 text-stone-600">白子駅周辺</td>
+                <td className="p-3 text-stone-600">白子駅から徒歩10分、「鈴鹿IC」から30分 、国道23号線沿いでアクセス抜群 【ホテルから】鈴鹿サーキットまで車10分</td>
                 <td className="p-3 text-stone-600">50台（※一般車：先着制・無料／※大型車：予約制・有料1,500円税込）</td>
                 <td className="p-3 font-bold text-amber-600">★4.01（1689件）</td>
                 <td className="p-3 font-bold text-rose-600">¥2,800〜</td>
@@ -296,7 +296,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 伊勢シティホテル</td>
                 <td className="p-3 text-stone-600">三重県伊勢市吹上1-11-31</td>
-                <td className="p-3 text-stone-600">伊勢市駅周辺</td>
+                <td className="p-3 text-stone-600">■近鉄「伊勢市駅」徒歩3分、「宇治山田駅」徒歩5分※JRでお越しの方は近鉄改札口をご利用下さい ■「伊勢西IC」8分</td>
                 <td className="p-3 text-stone-600">35台（無料、先着順、予約不可）※チェックアウト後の駐車不可</td>
                 <td className="p-3 font-bold text-amber-600">★3.61（3078件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,650〜</td>
@@ -305,7 +305,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 伊賀上野シティホテル</td>
                 <td className="p-3 text-stone-600">三重県伊賀市上野魚町2874</td>
-                <td className="p-3 text-stone-600">伊賀上野駅周辺</td>
+                <td className="p-3 text-stone-600">上野市駅から徒歩3分、名阪国道「中瀬IC」から6分、「上野IC」から5分 【ホテルから】伊賀流忍者博物館まで徒歩10分</td>
                 <td className="p-3 text-stone-600">55台（無料、先着順、長5ｍ×幅2.3ｍ以内）※毎年10月「上野天神祭」期間は駐車いただけません</td>
                 <td className="p-3 font-bold text-amber-600">★3.92（2432件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,300〜</td>
@@ -314,7 +314,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. フレックスホテル（FREX　HOTEL）</td>
                 <td className="p-3 text-stone-600">三重県松阪市中央町36-18</td>
-                <td className="p-3 text-stone-600">松阪駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ・近鉄松阪駅北口から直進徒歩５分。松阪ICより約１５分。伊勢神宮内宮まで約２９キロ、鈴鹿まで約３５キロ。</td>
                 <td className="p-3 text-stone-600">無料駐車場約300台あり！ホテル建物周りおよび建物裏に有ります。</td>
                 <td className="p-3 font-bold text-amber-600">★3.91（2120件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,750〜</td>
@@ -387,7 +387,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>35台（無料、先着順、予約不可）※チェックアウト後の駐車不可</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「外宮近くで便利、フロントの対応も丁寧伊勢神宮外宮の近くという理由で選びました。部屋はビジネスホテルと同じくらい。ただトイレは古いタイプのチャンネルを回すような仕組みで、使いやすくはないかな。フ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「外宮近くで便利、フロントの対応も丁寧伊勢神宮外宮の近くという理由で選びました。部屋はビジネスホテルと同じくらい。ただトイレは古いタイプのチャンネルを回すような仕組みで、使いやすくはないかな。」
                   </blockquote>
                 </div>
               </div>

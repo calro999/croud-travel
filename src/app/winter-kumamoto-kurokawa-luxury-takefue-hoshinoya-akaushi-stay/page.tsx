@@ -240,7 +240,7 @@ export default function LuxuryStayPage() {
 
               <div className="bg-slate-50 p-4 rounded-xl border-l-4 border-amber-500 text-xs md:text-sm text-slate-600 italic mb-6">
                 <span className="font-bold text-slate-700 not-italic block mb-1">宿泊者のクチコミ体験談</span>
-                「温泉、接客、お食事、どれも満足家族旅行でお世話になりましたが、とても気持ち良いお宿です。山あいの中に離れの部屋が点在しており、とても静かに過ごせます。客室に露天風呂がついた部屋で存分に温泉楽しめま… つづきはこちら」
+                「温泉、接客、お食事、どれも満足家族旅行でお世話になりましたが、とても気持ち良いお宿です。山あいの中に離れの部屋が点在しており、とても静かに過ごせます。」
               </div>
 
               <div className="pt-2">
@@ -304,7 +304,7 @@ export default function LuxuryStayPage() {
 
               <div className="bg-slate-50 p-4 rounded-xl border-l-4 border-amber-500 text-xs md:text-sm text-slate-600 italic mb-6">
                 <span className="font-bold text-slate-700 not-italic block mb-1">宿泊者のクチコミ体験談</span>
-                「還暦祝いの湯巡りと食事に大満足!友人の還暦祝で宿泊。旅館内で湯巡りができて楽しめました。初の立湯もよかった。丁寧な接客、美味しい食事どれをとっても大満足です。大雨でしたが、旅館滞在を楽しめました。… つづきはこちら」
+                「還暦祝いの湯巡りと食事に大満足!友人の還暦祝で宿泊。旅館内で湯巡りができて楽しめました。初の立湯もよかった。丁寧な接客、美味しい食事どれをとっても大満足です。大雨でしたが、旅館滞在を楽しめました。」
               </div>
 
               <div className="pt-2">
@@ -432,7 +432,7 @@ export default function LuxuryStayPage() {
 
               <div className="bg-slate-50 p-4 rounded-xl border-l-4 border-amber-500 text-xs md:text-sm text-slate-600 italic mb-6">
                 <span className="font-bold text-slate-700 not-italic block mb-1">宿泊者のクチコミ体験談</span>
-                「時代に対応した歴史のある宿2度目の利用でした。今回もアレルギーでもなく偏食なだけの私に完璧に対応していただいて感謝感激です。何より味も大変美味しいので間違い無しです。こういう食事をしていたら健康的… つづきはこちら」
+                「時代に対応した歴史のある宿2度目の利用でした。今回もアレルギーでもなく偏食なだけの私に完璧に対応していただいて感謝感激です。何より味も大変美味しいので間違い無しです。」
               </div>
 
               <div className="pt-2">
@@ -496,7 +496,7 @@ export default function LuxuryStayPage() {
 
               <div className="bg-slate-50 p-4 rounded-xl border-l-4 border-amber-500 text-xs md:text-sm text-slate-600 italic mb-6">
                 <span className="font-bold text-slate-700 not-italic block mb-1">宿泊者のクチコミ体験談</span>
-                「スタッフの対応が良く、魚料理が絶品バイキングスタッフの対応が良いあか牛ステーキは無かった普段刺身は嫌いで食べないが臭みもなく旨い魚だったハンバーグはあってもなくてもいいかな客室… つづきはこちら」
+                「スタッフの対応が良く、魚料理が絶品バイキングスタッフの対応が良いあか牛ステーキは無かった普段刺身は嫌いで食べないが臭みもなく旨い魚だったハンバーグはあってもなくてもいいかな客室。」
               </div>
 
               <div className="pt-2">

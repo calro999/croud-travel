@@ -310,7 +310,7 @@ export default function AutumnBudgetYokkaichiHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 天然温泉　御在所岳の湯　スーパーホテル四日市・国道１号沿</td>
                 <td className="p-3 text-stone-600">三重県四日市市浜田町1-6</td>
-                <td className="p-3 text-stone-600">近鉄四日市駅周辺</td>
+                <td className="p-3 text-stone-600">近鉄四日市駅、南改札東出口、１号線方面徒歩で６分！！JR四日市駅徒歩10分！！</td>
                 <td className="p-3 text-stone-600">駐車場13台（1泊1500円・要電話予約）満車の場合はコインパーキング24時間700円～1700円</td>
                 <td className="p-3 font-bold text-amber-600">★4.09（1059件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,840〜</td>
@@ -319,7 +319,7 @@ export default function AutumnBudgetYokkaichiHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 三交イン四日市駅前</td>
                 <td className="p-3 text-stone-600">三重県四日市市安島１丁目１番２０号</td>
-                <td className="p-3 text-stone-600">近鉄四日市駅周辺</td>
+                <td className="p-3 text-stone-600">近鉄四日市駅北口徒歩１分</td>
                 <td className="p-3 text-stone-600">電話予約不可・当日先着順13台　1,300円/泊(15時～翌朝10時まで途中出庫不可) 普通車のみ</td>
                 <td className="p-3 font-bold text-amber-600">★4.07（1928件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,450〜</td>
@@ -328,7 +328,7 @@ export default function AutumnBudgetYokkaichiHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. コンフォートホテル四日市</td>
                 <td className="p-3 text-stone-600">三重県四日市市浜田町5-3</td>
-                <td className="p-3 text-stone-600">近鉄四日市駅周辺</td>
+                <td className="p-3 text-stone-600">近鉄四日市駅東出口から徒歩約1分◆名古屋、鈴鹿、伊勢などにアクセス便利♪JR四日市駅から徒歩約13分</td>
                 <td className="p-3 text-stone-600">提携駐車場 ■タイムズ　コンフォートホテル四日市東/コンフォートホテル四日市南 1泊　1,200円</td>
                 <td className="p-3 font-bold text-amber-600">★4.43（726件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,300〜</td>
@@ -357,7 +357,7 @@ export default function AutumnBudgetYokkaichiHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>駐車場13台（1泊1500円・要電話予約）満車の場合はコインパーキング24時間700円～1700円</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「フロントの対応は良いが朝食は物足りないフロントは親切丁寧で良かった。しかし朝食はオマケ感が強く会場も狭い。1000円払ってでもしっかりした食事がしたかった。部屋の携帯のケーブルが故障してたが嫌な顔…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「フロントの対応は良いが朝食は物足りないフロントは親切丁寧で良かった。しかし朝食はオマケ感が強く会場も狭い。1000円払ってでもしっかりした食事がしたかった。」
                   </blockquote>
                 </div>
               </div>
@@ -401,7 +401,7 @@ export default function AutumnBudgetYokkaichiHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>提携駐車場 ■タイムズ　コンフォートホテル四日市東/コンフォートホテル四日市南 1泊　1,200円</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの丁寧な対応と部屋のグレードアップに大満足ナガシマスパーランドで遊んだ後の宿泊でした。夕食のおすすめを聞くと詳しく色々教えてくださって、とても丁寧なスタッフさんでした!お部屋も綺麗…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの丁寧な対応と部屋のグレードアップに大満足ナガシマスパーランドで遊んだ後の宿泊でした。夕食のおすすめを聞くと詳しく色々教えてくださって、とても丁寧なスタッフさんでした!」
                   </blockquote>
                 </div>
               </div>

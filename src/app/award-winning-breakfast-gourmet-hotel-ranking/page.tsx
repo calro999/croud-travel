@@ -334,7 +334,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. イマジンホテル＆リゾート函館</td>
                 <td className="p-3 text-stone-600">北海道函館市湯川町3-1-17</td>
-                <td className="p-3 text-stone-600">函館駅周辺</td>
+                <td className="p-3 text-stone-600">『函館空港』からお車にて約6分/『函館駅』よりお車にて約12分/バス停『熱帯植物園前』から徒歩約3分</td>
                 <td className="p-3 text-stone-600">有り　無料　約90台　湯の川最大級青空平面</td>
                 <td className="p-3 font-bold text-amber-600">★4.44（2336件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,259〜</td>
@@ -343,7 +343,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. センチュリーマリーナ函館</td>
                 <td className="p-3 text-stone-600">北海道函館市大手町22-13</td>
-                <td className="p-3 text-stone-600">函館駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ 函館駅より徒歩にて約５分 函館空港より車にて約２０分</td>
                 <td className="p-3 text-stone-600">有り(1,000円/日）</td>
                 <td className="p-3 font-bold text-amber-600">★4.66（4064件）</td>
                 <td className="p-3 font-bold text-rose-600">¥13,500〜</td>
@@ -352,7 +352,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 函館国際ホテル</td>
                 <td className="p-3 text-stone-600">北海道函館市大手町5-10</td>
-                <td className="p-3 text-stone-600">函館駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ函館駅から徒歩約8分／函館空港から車で約20分 バスで約30分（函館国際ホテル前下車 バス停目の前）</td>
                 <td className="p-3 text-stone-600">1泊1000円 (宿泊日当日の11時〜出発日の14時まで出し入れ自由／先着順）</td>
                 <td className="p-3 font-bold text-amber-600">★4.33（4102件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,804〜</td>
@@ -381,7 +381,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　無料　約90台　湯の川最大級青空平面</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋のグレードアップと美味しい食事に大満足訳あり1階のプランで宿泊したのですが、空き部屋があったとのことで3階のオーシャンビューの部屋にグレードアップしてもらえました!波の音をききながら眠りにつく…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋のグレードアップと美味しい食事に大満足訳あり1階のプランで宿泊したのですが、空き部屋があったとのことで3階のオーシャンビューの部屋にグレードアップしてもらえました!」
                   </blockquote>
                 </div>
               </div>
@@ -403,7 +403,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り(1,000円/日）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.62 ／ 立地 ★4.63 ／ 部屋 ★4.69 ／ 設備 ★4.63 ／ 風呂 ★4.66</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「枕やアロマのサービスと囲炉裏焼きに大満足たくさんの種類の中から枕を借りられたり、好きな香りを選んで、アロマストーンを部屋に置いて置けるサービスがお気に入りで、何度もリピートしています。また、温泉も…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「枕やアロマのサービスと囲炉裏焼きに大満足たくさんの種類の中から枕を借りられたり、好きな香りを選んで、アロマストーンを部屋に置いて置けるサービスがお気に入りで、何度もリピートしています。」
                   </blockquote>
                 </div>
               </div>

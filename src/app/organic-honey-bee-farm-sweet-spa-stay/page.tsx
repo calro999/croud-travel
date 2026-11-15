@@ -283,8 +283,8 @@ export default function Page() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 伊豆急下田駅よりアクセス。伊豆急線伊豆急下田駅より車で６分（無料送迎バスは、事前のご予約制です。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「下田温泉 下田ビューホテル」にチェックイン。伊豆七島を望む下田随一の絶景をお楽しみいただけます。 天然温泉と旬の味覚をお楽しみください。などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「下田温泉 下田ビューホテル」の湯処へ。伊豆七島を望む下田随一の絶景をお楽しみいただけます。 天然温泉と旬の味とともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「下田温泉 下田ビューホテル」にチェックイン。伊豆七島を望む下田随一の絶景をお楽しみいただけます。 天然温泉と旬の味覚をお楽しみください。 窓外に広がる景色を眺めながらチェックイン後の寛ぎ時間を。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「下田温泉 下田ビューホテル」の自慢の湯処へ。温かな湯気と落ち着いた雰囲気に癒やされながら、夕食前の贅沢なひとときを過ごす。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「下田温泉 下田ビューホテル」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -296,7 +296,7 @@ export default function Page() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「下田温泉 下田ビューホテル」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「下田温泉 下田ビューホテル」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「うらり武雄 Ｇａｒｄｅｎ Ｔｅｒｒａｃｅ Ｓｐａ Ｒｅｓｏｒｔｓ」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は宿周辺の散策とショッピングを満喫。地元の名産品やグルメを味わってから余裕をもって帰路につく。</li>
               </ul>
             </div>
           </div>
@@ -424,7 +424,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 下田温泉　下田ビューホテル</td>
                 <td className="p-3 text-stone-600">静岡県下田市柿崎633</td>
-                <td className="p-3 text-stone-600">伊豆急線伊豆急下田駅より車で６分（無料送迎バスは、事前のご予約制です。</td>
+                <td className="p-3 text-stone-600">伊豆急線伊豆急下田駅より車で６分（無料送迎バスは、事前のご予約制です。）、東名沼津ＩＣより75KM・約100分</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.04（1651件）</td>
                 <td className="p-3 font-bold text-rose-600">¥11,511〜</td>
@@ -442,7 +442,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 神戸ベイシェラトンホテル＆タワーズ</td>
                 <td className="p-3 text-stone-600">兵庫県神戸市東灘区向洋町中2-13</td>
-                <td className="p-3 text-stone-600">ＪＲ「住吉駅」→六甲ライナー「アイランドセンター駅」から徒歩1分。ＪＲ</td>
+                <td className="p-3 text-stone-600">ＪＲ「住吉駅」→六甲ライナー「アイランドセンター駅」から徒歩1分。ＪＲ「三ノ宮駅」から直通バスで２０分。駐車場無料。</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.47（4867件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,040〜</td>
@@ -451,7 +451,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. ホテル金沢</td>
                 <td className="p-3 text-stone-600">石川県金沢市堀川新町1-1</td>
-                <td className="p-3 text-stone-600">金沢駅の兼六園口（東口）から徒歩約１分。小松空港からリムジンバスで４０</td>
+                <td className="p-3 text-stone-600">金沢駅の兼六園口（東口）から徒歩約１分。小松空港からリムジンバスで４０分。北陸自動車道の金沢東インターから車で１０分。</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.47（1681件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,450〜</td>
@@ -460,7 +460,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 洲本温泉　夢海游　淡路島</td>
                 <td className="p-3 text-stone-600">兵庫県洲本市山手1-1-50</td>
-                <td className="p-3 text-stone-600">舞子駅周辺</td>
+                <td className="p-3 text-stone-600">車：洲本ICから10分／高速バス：大阪120分・三宮80分で洲本BCへ</td>
                 <td className="p-3 text-stone-600">有り　１００台収容可・無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.43（2443件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,250〜</td>
@@ -484,7 +484,7 @@ export default function Page() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/1922/1922.jpg" alt="下田温泉　下田ビューホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
-                  <p><strong>【宿の特徴・魅力】</strong>「採れたて天然ハチミツ食べ比べ（ハニーエステ＆濃厚巣蜜スイーツが自慢の癒やし宿5選）」掲載宿の所在地・アクセス・特徴データ一覧は、周辺の観光巡りにも便利で快適な滞在環境が整った宿泊施設です。</p>
+                  <p><strong>【宿の特徴・魅力】</strong>下田温泉　下田ビューホテルは、周辺の観光巡りにも便利で快適な滞在環境が整った宿泊施設です。</p>
                   <p><strong>【所在地・アクセス】</strong>交通案内：伊豆急線伊豆急下田駅より車で６分（無料送迎バスは、事前のご予約制です。）、東名沼津ＩＣより75KM・約100分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
@@ -511,7 +511,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「大人だけでゆっくり過ごしたい料理の美味しい宿母の誕生日のお祝いで、大人2人・子ども2人で宿泊しました。お料理がとても良く、母にも喜んでもらえて、誕生日のお祝いとして素敵な時間を過ごすことが…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「大人だけでゆっくり過ごしたい料理の美味しい宿母の誕生日のお祝いで、大人2人・子ども2人で宿泊しました。」
                   </blockquote>
                 </div>
               </div>
@@ -555,7 +555,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅前でロケーション最高、朝食も絶品名門ホテルという感じです。スタッフの皆さんは対応はいいと思います。駅前なのでロケーションは最高でした。外観とは違い部屋内も綺麗なため過ごしやすいと思います。朝食ビ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅前でロケーション最高、朝食も絶品名門ホテルという感じです。スタッフの皆さんは対応はいいと思います。駅前なのでロケーションは最高でした。外観とは違い部屋内も綺麗なため過ごしやすいと思います。」
                   </blockquote>
                 </div>
               </div>
@@ -577,7 +577,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１００台収容可・無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.49 ／ 立地 ★4.49 ／ 部屋 ★4.42 ／ 設備 ★4.37 ／ 風呂 ★4.47 ／ 食事 ★4.52</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「料理も接客も素晴らしく、子供も大満足部屋も綺麗だったし接客も丁寧で夕食時の担当してくれた女性が子供にも優しくいい人でした。料理も美味しく7歳には子供会席、5歳にはお子様ランチで子供も美味しいと言っ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「料理も接客も素晴らしく、子供も大満足部屋も綺麗だったし接客も丁寧で夕食時の担当してくれた女性が子供にも優しくいい人でした。」
                   </blockquote>
                 </div>
               </div>

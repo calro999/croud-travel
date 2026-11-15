@@ -253,7 +253,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 倉敷国際ホテル</td>
                 <td className="p-3 text-stone-600">岡山県倉敷市中央1-1-44</td>
-                <td className="p-3 text-stone-600">倉敷駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ倉敷駅南口徒歩１０分、山陽自動車道倉敷Ｉ．Ｃから１０分。</td>
                 <td className="p-3 text-stone-600">有：３０台（１泊につき1,000円頂戴します。ご宿泊日の15：00からご出発の11：00）</td>
                 <td className="p-3 font-bold text-amber-600">★4.25（1318件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,500〜</td>
@@ -262,7 +262,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 倉敷　庭園旅館備後屋</td>
                 <td className="p-3 text-stone-600">岡山県倉敷市玉島阿賀崎956</td>
-                <td className="p-3 text-stone-600">新倉敷駅周辺</td>
+                <td className="p-3 text-stone-600">◆新幹線・車も便利◆ＪＲ新倉敷駅：車12分／山陽道玉島IC：20分 【周辺観光】美観地区：車25分／香川・丸亀：車60分</td>
                 <td className="p-3 text-stone-600">有り　８台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.56（125件）</td>
                 <td className="p-3 font-bold text-rose-600">¥14,300〜</td>
@@ -271,7 +271,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 倉敷美観地区　別邸　よし井</td>
                 <td className="p-3 text-stone-600">岡山県倉敷市本町10-6　2階</td>
-                <td className="p-3 text-stone-600">倉敷駅周辺</td>
+                <td className="p-3 text-stone-600">倉敷駅より徒歩約１５分 倉敷インターよりお車で約１５分</td>
                 <td className="p-3 text-stone-600">有り　１台　無料　要予約</td>
                 <td className="p-3 font-bold text-amber-600">高評価</td>
                 <td className="p-3 font-bold text-rose-600">¥15,950〜</td>
@@ -280,7 +280,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 料理旅館　鶴形</td>
                 <td className="p-3 text-stone-600">岡山県倉敷市中央1-3-15</td>
-                <td className="p-3 text-stone-600">倉敷駅周辺</td>
+                <td className="p-3 text-stone-600">倉敷駅から徒歩で約15分／お車で約5分</td>
                 <td className="p-3 text-stone-600">有※倉敷国際ホテル駐車場（徒歩約5分）をご利用いただきます。</td>
                 <td className="p-3 font-bold text-amber-600">★4.9（162件）</td>
                 <td className="p-3 font-bold text-rose-600">¥23,050〜</td>
@@ -309,7 +309,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有：３０台（１泊につき1,000円頂戴します。ご宿泊日の15：00からご出発の11：00）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「何度も訪れたい芸術的な空間何度宿泊しても来てよかったと思える素晴らしいホテルです。スタッフも親切ですし、建物と館内の芸術性は他では見られない唯一無二のものです。倉敷を訪れる方には是非お勧めしたいお…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「何度も訪れたい芸術的な空間何度宿泊しても来てよかったと思える素晴らしいホテルです。スタッフも親切ですし、建物と館内の芸術性は他では見られない唯一無二のものです。」
                   </blockquote>
                 </div>
               </div>

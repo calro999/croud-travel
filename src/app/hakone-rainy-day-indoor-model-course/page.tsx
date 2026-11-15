@@ -345,7 +345,7 @@ export default function HakoneRainyDayIndoorCoursePage() {
                   国立公園の緑陰に調和するよう建物の大半を地下に埋設した名建築。雨の日はガラス屋根を滴る雨と周囲のブナ林が幻想的な陰影を描き出します。モネ、ルノワール、セザンヌなど世界水準の西洋名画を快適な室内で鑑賞。館内カフェのハーブティーも絶品です。
                 </p>
               </div>
-              <div className="bg-slate-900/70 p-3 rounded-xl border border-slate-700/60 text-xs text-slate-400 space-y-1">
+              <div className="bg-slate-900/70 p-3 rounded-xl border border-slate-700/60 text-xs text-slate-200 space-y-1">
                 <div>📍 神奈川県足柄下郡箱根町仙石原小塚山1285</div>
                 <div>🚌 箱根湯本駅から箱根登山バス（施設めぐりバス）で約40分</div>
                 <div>💰 大人 1,800円（オンライン前売りで割引あり）</div>
@@ -360,7 +360,7 @@ export default function HakoneRainyDayIndoorCoursePage() {
                   中世ヴェネチアン・グラスを専門に展示する優雅な洋館。雨粒を浴びてキラキラと輝く屋外のクリスタルガラスのツリーやアーチは、雨天時限定のフォトジェニックな情景を生み出します。カフェレストランでは毎日カンツォーネの生演奏が開催され、優雅なティータイムを過ごせます。
                 </p>
               </div>
-              <div className="bg-slate-900/70 p-3 rounded-xl border border-slate-700/60 text-xs text-slate-400 space-y-1">
+              <div className="bg-slate-900/70 p-3 rounded-xl border border-slate-700/60 text-xs text-slate-200 space-y-1">
                 <div>📍 神奈川県足柄下郡箱根町仙石原940-48</div>
                 <div>🚌 箱根湯本駅から箱根登山バス（湖尻・桃源台行）「俵石・箱根ガラスの森前」すぐ</div>
                 <div>💰 大人 1,800円（公式WEB割あり）</div>
@@ -375,7 +375,7 @@ export default function HakoneRainyDayIndoorCoursePage() {
                   完全屋内でじっくり集中できるものづくり工房。プロの工芸作家の手ほどきを受けながら、本格的な電動ろくろ陶芸、吹きガラス、とんぼ玉、サンドブラストなどを体験できます。雨音を聞きながら粘土と向き合う時間は、旅の何よりの思い出の品になります。
                 </p>
               </div>
-              <div className="bg-slate-900/70 p-3 rounded-xl border border-slate-700/60 text-xs text-slate-400 space-y-1">
+              <div className="bg-slate-900/70 p-3 rounded-xl border border-slate-700/60 text-xs text-slate-200 space-y-1">
                 <div>📍 神奈川県足柄下郡箱根町強羅1300 強羅公園内</div>
                 <div>🚊 箱根登山ケーブルカー「公園下駅」または「公園上駅」から徒歩3分</div>
                 <div>💰 ろくろ体験 3,800円〜（作品配送料別途）</div>
@@ -390,7 +390,7 @@ export default function HakoneRainyDayIndoorCoursePage() {
                   広大な庭園彫刻が有名ですが、実は雨天時にも鑑賞できる充実した屋内展示棟を擁しています。特に「ピカソ館」は絵画、彫刻、陶芸など300点以上のコレクションを誇り圧巻。ステンドグラスの塔「幸せをよぶシンフォニー彫刻」も雨の光に照らされて荘厳な煌めきを放ちます。
                 </p>
               </div>
-              <div className="bg-slate-900/70 p-3 rounded-xl border border-slate-700/60 text-xs text-slate-400 space-y-1">
+              <div className="bg-slate-900/70 p-3 rounded-xl border border-slate-700/60 text-xs text-slate-200 space-y-1">
                 <div>📍 神奈川県足柄下郡箱根町二ノ平1121</div>
                 <div>🚊 箱根登山鉄道「彫刻の森駅」徒歩2分</div>
                 <div>💰 大人 1,600円（公式HPインターネット割引あり）</div>
@@ -613,28 +613,28 @@ export default function HakoneRainyDayIndoorCoursePage() {
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
             <div className="flex flex-wrap gap-2">
               <Link
-                href="/prefectures/gifu/"
-                className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
-              >
-                岐阜県の宿・温泉
-              </Link>
-              <Link
                 href="/prefectures/kanagawa/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 神奈川県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/toyama/"
+                href="/prefectures/tokyo/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                富山県の宿・温泉
+                東京都の宿・温泉
               </Link>
               <Link
-                href="/prefectures/nara/"
+                href="/prefectures/chiba/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                奈良県の宿・温泉
+                千葉県の宿・温泉
+              </Link>
+              <Link
+                href="/prefectures/saitama/"
+                className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
+              >
+                埼玉県の宿・温泉
               </Link>
             </div>
           </div>

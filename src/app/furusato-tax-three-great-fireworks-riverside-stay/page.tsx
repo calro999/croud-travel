@@ -420,7 +420,7 @@ export default function Page() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 大曲（秋田）駅よりアクセス。ＪＲ秋田新幹線大曲駅より徒歩３分/大曲I.Cより車で約10分/秋田市より秋田自動車道利用で約40分。</li>
                 <li>・<strong className="text-stone-800">15:30〜</strong> 「ホテルルートイン 大曲駅前」へチェックイン。落ち着いた空間で旅の荷を解き、ゆったりとした時間をスタート。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「ホテルルートイン 大曲駅前」の湯処へ。日頃の疲れを癒やす湯浴みとともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「ホテルルートイン 大曲駅前」の大浴場・露天風呂へ。日暮れの静けさの中で湯に浸かり、旅の緊張をゆっくりと解きほぐす。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「ホテルルートイン 大曲駅前」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -560,7 +560,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. ホテルルートイン長岡駅前</td>
                 <td className="p-3 text-stone-600">新潟県長岡市城内町1-1-5</td>
-                <td className="p-3 text-stone-600">長岡駅周辺</td>
+                <td className="p-3 text-stone-600">JR上越新幹線 長岡駅大手スカイデッキを通り徒歩3分（雨に濡れずお越し頂けます）／関越道長岡ICより車で20分</td>
                 <td className="p-3 text-stone-600">有料機械式立体駐車場（車高1.55M以上駐車不可）有料：1,200円/泊　※バイク駐車不可</td>
                 <td className="p-3 font-bold text-amber-600">★4.26（937件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,300〜</td>
@@ -569,7 +569,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. ホテルルートイン　大曲駅前</td>
                 <td className="p-3 text-stone-600">秋田県大仙市大曲通町3-14</td>
-                <td className="p-3 text-stone-600">大曲（秋田）駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ秋田新幹線大曲駅より徒歩３分/大曲I.Cより車で約10分/秋田市より秋田自動車道利用で約40分</td>
                 <td className="p-3 text-stone-600">有り　７０台　無料　予約不要 先着順  ※満車の際は近隣駐車場をご案内致します。</td>
                 <td className="p-3 font-bold text-amber-600">★4.28（1512件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,650〜</td>
@@ -578,7 +578,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 駅チカ快適　ホテルクラウンヒルズ土浦駅東（ＢＢＨホテルグループ）</td>
                 <td className="p-3 text-stone-600">茨城県土浦市港町1-5-5</td>
-                <td className="p-3 text-stone-600">土浦駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ常磐線【土浦駅】下車、東口正面より【徒歩1分】。徒歩圏内にコンビニ3店舗あり。</td>
                 <td className="p-3 text-stone-600">有　24台　ご到着順400円(税込１泊) 満車時、周辺有料駐車場ご案内します。</td>
                 <td className="p-3 font-bold text-amber-600">★3.83（2131件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,750〜</td>
@@ -607,7 +607,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有料機械式立体駐車場（車高1.55M以上駐車不可）有料：1,200円/泊　※バイク駐車不可</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.22 ／ 立地 ★4.21 ／ 部屋 ★4.3 ／ 設備 ★4.25 ／ 風呂 ★4.2 ／ 食事 ★4.23</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋が広く大浴場も快適、また利用したいいつもは、なんとなく老舗のホテルを利用していましたが、友人からのオススメで、今回はこちらを利用しました。ツインルー厶でも、ソファーとテーブルがあり、部屋の広さ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋が広く大浴場も快適、また利用したいいつもは、なんとなく老舗のホテルを利用していましたが、友人からのオススメで、今回はこちらを利用しました。」
                   </blockquote>
                 </div>
               </div>
@@ -629,7 +629,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　７０台　無料　予約不要 先着順  ※満車の際は近隣駐車場をご案内致します。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駐車場が不便で精算の手間が惜しい提携駐車場の場所がホテル横に2軒あり、奥側とすぐには気づけなかった。一泊しただけで1500円程度手持ちキャッシュが無いと駐車場から出られず、両替が必要かつ、…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駐車場が不便で精算の手間が惜しい提携駐車場の場所がホテル横に2軒あり、奥側とすぐには気づけなかった。」
                   </blockquote>
                 </div>
               </div>

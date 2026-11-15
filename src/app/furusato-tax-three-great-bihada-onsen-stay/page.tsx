@@ -425,8 +425,8 @@ export default function Page() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 武雄温泉駅よりアクセス。JR嬉野温泉駅から車で5分/長崎自動車道 嬉野ICより約5分。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「嬉野温泉 和多屋別荘」にチェックイン。嬉野WELL-BEING「河畔サウナ」「色写経」「創香室」等館内で体験できるアクティビティが充実。などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「嬉野温泉 和多屋別荘」の湯処へ。嬉野WELL-BEING「河畔サウナ」「色写経」「創香室」等館内で体験とともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「嬉野温泉 和多屋別荘」にチェックイン。嬉野WELL-BEING「河畔サウナ」「色写経」「創香室」等館内で体験できるアクティビティが充実。 客室で身支度を整え、この宿ならではの滞在をスタート。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「嬉野温泉 和多屋別荘」の湯船で寛ぎタイム。季節の空気を感じながら手足を伸ばし、心豊かな夕方のリラックス時間を満喫。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「嬉野温泉 和多屋別荘」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -438,7 +438,7 @@ export default function Page() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「嬉野温泉 和多屋別荘」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「嬉野温泉 和多屋別荘」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「奥出雲町サイクリングターミナル」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は宿周辺の散策とショッピングを満喫。地元の名産品やグルメを味わってから余裕をもって帰路につく。</li>
               </ul>
             </div>
           </div>
@@ -566,7 +566,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 嬉野温泉　和多屋別荘</td>
                 <td className="p-3 text-stone-600">佐賀県嬉野市嬉野町下宿乙738</td>
-                <td className="p-3 text-stone-600">武雄温泉駅周辺</td>
+                <td className="p-3 text-stone-600">JR嬉野温泉駅から車で5分/長崎自動車道 嬉野ICより約5分</td>
                 <td className="p-3 text-stone-600">ご宿泊者の方は無料でご利用頂けます。</td>
                 <td className="p-3 font-bold text-amber-600">★4.11（1379件）</td>
                 <td className="p-3 font-bold text-rose-600">¥9,900〜</td>
@@ -575,7 +575,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 奥出雲町サイクリングターミナル</td>
                 <td className="p-3 text-stone-600">島根県仁多郡奥出雲町三成558-6</td>
-                <td className="p-3 text-stone-600">出雲三成駅周辺</td>
+                <td className="p-3 text-stone-600">三成駅より徒歩にて約3分</td>
                 <td className="p-3 text-stone-600">無料（大型2台、普通車40台）</td>
                 <td className="p-3 font-bold text-amber-600">★4.35（123件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,850〜</td>
@@ -584,7 +584,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 喜連川温泉　ゴルフ＆ホテルベルセルバ</td>
                 <td className="p-3 text-stone-600">栃木県さくら市鹿子畑1408-2</td>
-                <td className="p-3 text-stone-600">氏家駅周辺</td>
+                <td className="p-3 text-stone-600">車：東北道・矢板ＩＣから２０分。電車：東北本線・氏家駅からタクシー２０分、送迎有（20名様迄・要予約）</td>
                 <td className="p-3 text-stone-600">有り　１５０台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.4（130件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,000〜</td>
@@ -613,7 +613,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>ご宿泊者の方は無料でご利用頂けます。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.19 ／ 立地 ★4.08 ／ 部屋 ★3.92 ／ 設備 ★3.96 ／ 風呂 ★4.15 ／ 食事 ★4.26</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「館内施設が充実しすぎて2泊したくなる魅力 到着とともに目に入る、玄関やロビーの広々とした美しい空間に癒されました。ロビー付近にある売店もよくあるお土産屋さんとは異なり、こだわりのあるお洒落なものを…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「館内施設が充実しすぎて2泊したくなる魅力 到着とともに目に入る、玄関やロビーの広々とした美しい空間に癒されました。」
                   </blockquote>
                 </div>
               </div>
@@ -635,7 +635,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料（大型2台、普通車40台）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事とコスパは最高、温泉がなくて残念お盆休みのツーリングで宿泊させて頂きました。食事が美味しかったのとコスパは最高でした。お風呂(温泉)が無く共同のシャワーのみだったのがちょっと残念でした。近場の…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事とコスパは最高、温泉がなくて残念お盆休みのツーリングで宿泊させて頂きました。食事が美味しかったのとコスパは最高でした。お風呂(温泉)が無く共同のシャワーのみだったのがちょっと残念でした。」
                   </blockquote>
                 </div>
               </div>
@@ -657,7 +657,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１５０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「窓からゴルフ場が見えて大浴場も快適部屋は少し古ぼけてきてはいますが、広さは普通のビジネスホテルよりも若干広め。ただ窓の外は9H、18Hが目の前に見えるのでテンションが上がりますよ!大浴場で…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「窓からゴルフ場が見えて大浴場も快適部屋は少し古ぼけてきてはいますが、広さは普通のビジネスホテルよりも若干広め。ただ窓の外は9H、18Hが目の前に見えるのでテンションが上がりますよ!」
                   </blockquote>
                 </div>
               </div>

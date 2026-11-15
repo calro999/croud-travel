@@ -367,8 +367,8 @@ export default function ArticlePage() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 松山（愛媛）駅よりアクセス。ＪＲ 松山駅より徒歩約３分。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「サウナ＆スパホテル 喜助の宿 松山駅前店」にチェックイン。サウナランキング2023で日本１位を受賞した5つのサウナと地下1,700ｍから湧き出た天然温泉などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「サウナ＆スパホテル 喜助の宿 松山駅前店」の湯処へ。サウナランキング2023で日本１位を受賞した5つのサウナと地下1,70とともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「サウナ＆スパホテル 喜助の宿 松山駅前店」にチェックイン。サウナランキング2023で日本１位を受賞した5つのサウナと地下1,700ｍから湧き出た天然温泉が魅力の一軒。客室で荷物をほどいて穏やかな午後のひとときを。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「サウナ＆スパホテル 喜助の宿 松山駅前店」の湯船で寛ぎタイム。季節の空気を感じながら手足を伸ばし、心豊かな夕方のリラックス時間を満喫。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「サウナ＆スパホテル 喜助の宿 松山駅前店」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -453,7 +453,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. サウナ＆スパホテル　喜助の宿　松山駅前店</td>
                 <td className="p-3 text-stone-600">愛媛県松山市宮田町4　キスケＢＯＸ2階</td>
-                <td className="p-3 text-stone-600">松山（愛媛）駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ 松山駅より徒歩約３分</td>
                 <td className="p-3 text-stone-600">有り　1,109台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.57（803件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,400〜</td>
@@ -462,7 +462,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 天然温泉　石手の湯　ドーミーイン松山（ドーミーイン・御宿野乃　ホテルズグループ）</td>
                 <td className="p-3 text-stone-600">愛媛県松山市大街道2-6-5</td>
-                <td className="p-3 text-stone-600">伊予鉄城南線「大街道」徒歩2分／伊予鉄「松山市駅」徒歩13分／空港リム</td>
+                <td className="p-3 text-stone-600">伊予鉄城南線「大街道」徒歩2分／伊予鉄「松山市駅」徒歩13分／空港リムジンバス30分／松山自動車道「松山ＩＣ」より25分</td>
                 <td className="p-3 text-stone-600">ホテル併設駐車場5台(先着順  1,000/泊)。周辺に提携駐車場が4ヶ所ございます。</td>
                 <td className="p-3 font-bold text-amber-600">★4.39（1435件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,030〜</td>
@@ -471,7 +471,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 天然温泉　松山ニューグランドホテル</td>
                 <td className="p-3 text-stone-600">愛媛県松山市二番町３丁目４－１０</td>
-                <td className="p-3 text-stone-600">松山（愛媛）駅周辺</td>
+                <td className="p-3 text-stone-600">◆提携駐車場複数有！ ◆松山ＩＣからお車で約２０分 ◆松山空港からバスで約３０分 ◆路面電車【大街道】下車⇒徒歩約４分</td>
                 <td className="p-3 text-stone-600">提携先駐車場の詳細は「アクセス・駐車場」→「提携駐車場」をご確認ください。</td>
                 <td className="p-3 font-bold text-amber-600">★4.25（5805件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,200〜</td>
@@ -522,7 +522,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>ホテル併設駐車場5台(先着順  1,000/泊)。周辺に提携駐車場が4ヶ所ございます。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「サービス充実で立地も良く、お部屋も快適夜泣きそば・風呂上りアイスと乳酸菌飲料・アイスノン等サービスが嬉しい。立地条件はとてもよく商店街から入れるので濡れる心配もない。夕食も困ることはありません。朝…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「サービス充実で立地も良く、お部屋も快適夜泣きそば・風呂上りアイスと乳酸菌飲料・アイスノン等サービスが嬉しい。立地条件はとてもよく商店街から入れるので濡れる心配もない。夕食も困ることはありません。」
                   </blockquote>
                 </div>
               </div>
@@ -544,7 +544,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>提携先駐車場の詳細は「アクセス・駐車場」→「提携駐車場」をご確認ください。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.26 ／ 立地 ★4.22 ／ 部屋 ★4.16 ／ 設備 ★4.15 ／ 風呂 ★4.36 ／ 食事 ★3.88</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅や温泉へのアクセスが良く、朝食も美味JRの駅にも道後温泉にも路面電車一本でいける便利なロケーション。大浴場も深夜の清掃時間以外は入れるしのんびりできました。朝食も量的にちょうどよかったし、おいし…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅や温泉へのアクセスが良く、朝食も美味JRの駅にも道後温泉にも路面電車一本でいける便利なロケーション。大浴場も深夜の清掃時間以外は入れるしのんびりできました。」
                   </blockquote>
                 </div>
               </div>

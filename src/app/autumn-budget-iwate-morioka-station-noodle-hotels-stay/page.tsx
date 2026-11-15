@@ -384,7 +384,7 @@ export default function AutumnBudgetMoriokaStationHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. ホテルグローバルビュー盛岡（旧：ＨＯＴＥＬ　ＪＩＮ盛岡駅前）</td>
                 <td className="p-3 text-stone-600">岩手県盛岡市盛岡駅西通1-6-15</td>
-                <td className="p-3 text-stone-600">盛岡駅周辺</td>
+                <td className="p-3 text-stone-600">JR盛岡駅西口より徒歩約5分 盛岡ＩＣから車で約１０分 岩手保健医療大学隣り</td>
                 <td className="p-3 text-stone-600">1泊600円（翌11時迄）先着順で予約不可　満車時はコインパーキングをご利用ください（お客様ご負担）</td>
                 <td className="p-3 font-bold text-amber-600">★4.03（1476件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,350〜</td>
@@ -393,7 +393,7 @@ export default function AutumnBudgetMoriokaStationHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. アパホテル〈盛岡駅前〉</td>
                 <td className="p-3 text-stone-600">岩手県盛岡市盛岡駅前通14-3</td>
-                <td className="p-3 text-stone-600">盛岡駅周辺</td>
+                <td className="p-3 text-stone-600">盛岡駅（地下自由通路B4出口）徒歩1分、いわて花巻空港よりリムジンバスで50分</td>
                 <td className="p-3 text-stone-600">提携駐車場3か所合計600台以上！（①PNP盛岡駅前　②ペリカンパークひめかみ　③タイムズフェザン）</td>
                 <td className="p-3 font-bold text-amber-600">★4.29（714件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,690〜</td>
@@ -402,7 +402,7 @@ export default function AutumnBudgetMoriokaStationHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. リッチモンドホテル盛岡駅前</td>
                 <td className="p-3 text-stone-600">岩手県盛岡市盛岡駅前通9-17</td>
-                <td className="p-3 text-stone-600">盛岡駅周辺</td>
+                <td className="p-3 text-stone-600">JR盛岡駅東口を出て徒歩約３分</td>
                 <td className="p-3 text-stone-600">近隣の有料駐車場をご案内。15：00〜翌朝10：00まで900円。時間外1時間300円〜</td>
                 <td className="p-3 font-bold text-amber-600">★4.55（1518件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,950〜</td>
@@ -411,7 +411,7 @@ export default function AutumnBudgetMoriokaStationHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. ダイワロイネットホテル盛岡駅前</td>
                 <td className="p-3 text-stone-600">岩手県盛岡市盛岡駅前通7-15</td>
-                <td className="p-3 text-stone-600">盛岡駅周辺</td>
+                <td className="p-3 text-stone-600">JR盛岡駅より徒歩約4分。東口より地下道A1出口を出て開運橋方面に約100ｍ。</td>
                 <td className="p-3 text-stone-600">機械式立体駐車場60台。先着順。1泊1,100円（税込）でご用意。満車時は提携駐車場をご案内します。</td>
                 <td className="p-3 font-bold text-amber-600">★4.51（1961件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,325〜</td>
@@ -420,7 +420,7 @@ export default function AutumnBudgetMoriokaStationHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 東横ＩＮＮ盛岡駅南口駅前</td>
                 <td className="p-3 text-stone-600">岩手県盛岡市盛岡駅前通3-60</td>
-                <td className="p-3 text-stone-600">盛岡駅周辺</td>
+                <td className="p-3 text-stone-600">盛岡駅より徒歩で３分。駅地下道を通ってお越しください！</td>
                 <td className="p-3 text-stone-600">有　30台　800円（税込み／泊）　予約不可　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.01（870件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,830〜</td>
@@ -449,7 +449,7 @@ export default function AutumnBudgetMoriokaStationHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>1泊600円（翌11時迄）先着順で予約不可　満車時はコインパーキングをご利用ください（お客様ご負担）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.11 ／ 立地 ★3.91 ／ 部屋 ★4 ／ 設備 ★3.94 ／ 風呂 ★4.02 ／ 食事 ★4.22</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「丁寧な周辺案内と綺麗な館内に大満足付近の食事のお店の情報をたくさん調べてとても丁寧にご対応していただきました。すごく気持ちの良いサービスで大満足でした。館内もとても綺麗にされていて、また宿泊し…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「丁寧な周辺案内と綺麗な館内に大満足付近の食事のお店の情報をたくさん調べてとても丁寧にご対応していただきました。すごく気持ちの良いサービスで大満足でした。」
                   </blockquote>
                 </div>
               </div>
@@ -515,7 +515,7 @@ export default function AutumnBudgetMoriokaStationHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>機械式立体駐車場60台。先着順。1泊1,100円（税込）でご用意。満車時は提携駐車場をご案内します。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.49 ／ 立地 ★4.5 ／ 部屋 ★4.55 ／ 設備 ★4.51 ／ 風呂 ★4.48 ／ 食事 ★4.4</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近で便利、スタッフの親切な対応に感謝駅も近くて、ホテル下にコンビニもあって便利です。長旅で大きなスーツケースだったのですが、盛岡駅は、駅に行くのに地下道に入らなくちゃ、行けなくて、無理だった…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近で便利、スタッフの親切な対応に感謝駅も近くて、ホテル下にコンビニもあって便利です。」
                   </blockquote>
                 </div>
               </div>
@@ -537,7 +537,7 @@ export default function AutumnBudgetMoriokaStationHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有　30台　800円（税込み／泊）　予約不可　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.09 ／ 立地 ★4.13 ／ 部屋 ★4.05 ／ 設備 ★4.03 ／ 風呂 ★3.98 ／ 食事 ★4.02</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「清潔で駅近、フロントの対応も丁寧で便利部屋はコンパクトだが、清潔でフロントの方も丁寧に案内してくれた。駅から近いので、買物するのもバスやレンタカーを使うのも大変便利。おすすめですクチコミの詳細…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「清潔で駅近、フロントの対応も丁寧で便利部屋はコンパクトだが、清潔でフロントの方も丁寧に案内してくれた。駅から近いので、買物するのもバスやレンタカーを使うのも大変便利。」
                   </blockquote>
                 </div>
               </div>

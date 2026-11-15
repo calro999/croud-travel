@@ -728,8 +728,8 @@ export default function Page() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 小月駅よりアクセス。山陽本線小月駅よりバスにて１時間/小月ＩＣから（約30分）/美祢ＩＣから（約30分）。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「俵山温泉 松屋旅館＜山口県＞」にチェックイン。バリアフリー設備充実の家庭的旅館。pH9.8の秘湯『俵山温泉』！美肌や神経痛に効果的★湯治にも◎などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「俵山温泉 松屋旅館＜山口県＞」の湯処へ。バリアフリー設備充実の家庭的旅館。pH9.8の秘湯『俵山温泉』！美肌やとともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「俵山温泉 松屋旅館＜山口県＞」にチェックイン。バリアフリー設備充実の家庭的旅館。 まずは客室で移動の疲れをそっと癒やす。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「俵山温泉 松屋旅館＜山口県＞」の自慢の湯処へ。温かな湯気と落ち着いた雰囲気に癒やされながら、夕食前の贅沢なひとときを過ごす。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「俵山温泉 松屋旅館＜山口県＞」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -741,7 +741,7 @@ export default function Page() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「俵山温泉 松屋旅館＜山口県＞」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「俵山温泉 松屋旅館＜山口県＞」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「山口県長門市俵山温泉「明治屋旅館」」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は「俵山温泉 松屋旅館＜山口県＞」周辺の観光スポットや地元の名産店に立ち寄り、ご当地のお土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>

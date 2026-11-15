@@ -281,7 +281,7 @@ export default function TohokuBudgetGuidePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. ホテルモントレ仙台</td>
                 <td className="p-3 text-stone-600">宮城県仙台市青葉区中央4-1-8</td>
-                <td className="p-3 text-stone-600">仙台駅周辺</td>
+                <td className="p-3 text-stone-600">JR仙台駅西口より徒歩3分</td>
                 <td className="p-3 text-stone-600">73台収容立体駐車場あり(1,500円／15：00～翌15：00)</td>
                 <td className="p-3 font-bold text-amber-600">★4.41（4893件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,310〜</td>
@@ -290,7 +290,7 @@ export default function TohokuBudgetGuidePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. コンフォートホテル仙台西口（２０２６年４月１７日　リニューアル）</td>
                 <td className="p-3 text-stone-600">宮城県仙台市青葉区中央3-5-11</td>
-                <td className="p-3 text-stone-600">仙台駅周辺</td>
+                <td className="p-3 text-stone-600">◆JR仙台駅西口より徒歩3分◆仙台空港～仙台駅まで電車（アクセス線）で約20分◆仙台宮城ICより車で約15分◆</td>
                 <td className="p-3 text-stone-600">1120～1530円/泊：提携先により条件が異なります。</td>
                 <td className="p-3 font-bold text-amber-600">★4.11（10921件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,100〜</td>
@@ -299,7 +299,7 @@ export default function TohokuBudgetGuidePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. ホテルルートイン仙台港北インター</td>
                 <td className="p-3 text-stone-600">宮城県多賀城市町前1-1-15</td>
-                <td className="p-3 text-stone-600">多賀城駅周辺</td>
+                <td className="p-3 text-stone-600">仙台東部道路【仙台港北IC】より車で１分・JR仙石線中野栄駅（仙台駅から8駅20分）より徒歩12分</td>
                 <td className="p-3 text-stone-600">無料駐車場142台完備。予約不要。</td>
                 <td className="p-3 font-bold text-amber-600">★4.25（535件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,900〜</td>
@@ -308,7 +308,7 @@ export default function TohokuBudgetGuidePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 銀山温泉　旅館藤屋</td>
                 <td className="p-3 text-stone-600">山形県尾花沢市銀山新畑443</td>
-                <td className="p-3 text-stone-600">大石田駅周辺</td>
+                <td className="p-3 text-stone-600">大石田駅より車にて３０分位（１５ｋｍ）</td>
                 <td className="p-3 text-stone-600">有り　１０台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.67（183件）</td>
                 <td className="p-3 font-bold text-rose-600">¥36,000〜</td>
@@ -317,7 +317,7 @@ export default function TohokuBudgetGuidePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 銀山温泉　旅館松本</td>
                 <td className="p-3 text-stone-600">山形県尾花沢市銀山温泉</td>
-                <td className="p-3 text-stone-600">大石田駅周辺</td>
+                <td className="p-3 text-stone-600">大石田駅より、バスで４０分（尾花沢経由）※大石田駅までの送迎をご希望の方は、ご予約時に「備考欄」に記載下さい。</td>
                 <td className="p-3 text-stone-600">有り　１２台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★3.95（325件）</td>
                 <td className="p-3 font-bold text-rose-600">¥17,600〜</td>
@@ -326,7 +326,7 @@ export default function TohokuBudgetGuidePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">6. 銀山温泉　伝統の宿　古山閣</td>
                 <td className="p-3 text-stone-600">山形県尾花沢市銀山温泉423</td>
-                <td className="p-3 text-stone-600">大石田駅周辺</td>
+                <td className="p-3 text-stone-600">大石田駅より尾花沢経由銀山行バスにて35分。送迎についてはプラン詳細をご覧ください。</td>
                 <td className="p-3 text-stone-600">有り　15台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.56（295件）</td>
                 <td className="p-3 font-bold text-rose-600">¥23,100〜</td>
@@ -399,7 +399,7 @@ export default function TohokuBudgetGuidePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料駐車場142台完備。予約不要。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食が美味しくスタッフの対応も素晴らしいはじめて宿泊しました。ルートインは県内5箇所目です。いつも満足しています。今回、朝食が美味しいこと、そのスタッフの仕事ぶりがよかったことが印象に残りコメント…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食が美味しくスタッフの対応も素晴らしいはじめて宿泊しました。ルートインは県内5箇所目です。いつも満足しています。」
                   </blockquote>
                 </div>
               </div>
@@ -421,7 +421,7 @@ export default function TohokuBudgetGuidePage() {
                   <p>【東北旅行 費用：2泊3日で仙台・松島・銀山温泉を巡る】 <strong>【駐車場・マイカー利用】</strong>有り　１０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「サービスと食事に大満足、温泉街の眺めも最高駅からの送迎、滞在中のサービス、食事、設備全てにおいて大満足の滞在でした。一点あげるとしたら、午前中に1Fのお風呂に入ったとき、火傷をするくらいお…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「サービスと食事に大満足、温泉街の眺めも最高駅からの送迎、滞在中のサービス、食事、設備全てにおいて大満足の滞在でした。」
                   </blockquote>
                 </div>
               </div>
@@ -443,7 +443,7 @@ export default function TohokuBudgetGuidePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１２台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「掃除が行き届かず、食事も期待外れ設備が古いの仕方がないとして、とにかく全然掃除が出来ていなくてアレルギーが発症(   )ほこり、カビ、水垢...しっかり掃除されて下さい。ご飯は美味しくなく…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「掃除が行き届かず、食事も期待外れ設備が古いの仕方がないとして、とにかく全然掃除が出来ていなくてアレルギーが発症( )ほこり、カビ、水垢...しっかり掃除されて下さい。」
                   </blockquote>
                 </div>
               </div>

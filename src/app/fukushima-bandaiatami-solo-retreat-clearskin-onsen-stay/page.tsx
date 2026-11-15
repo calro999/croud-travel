@@ -340,8 +340,8 @@ export default function ArticlePage() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 磐越自動車道 磐梯熱海ＩＣより7分 ＪＲ磐越西線 磐梯熱海駅より車で５分で現地へ到着。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「磐梯熱海温泉 湯のやど楽山」にチェックイン。全20室のちいさなお宿～ふくしま恵みを活かした「かまど料理」と、肌に優しい「極上の温泉」を堪能などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「磐梯熱海温泉 湯のやど楽山」の湯処へ。全20室のちいさなお宿～ふくしま恵みを活かした「かまど料理」と、肌に優とともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「磐梯熱海温泉 湯のやど楽山」にチェックイン。全20室のちいさなお宿～ふくしま恵みを活かした「かまど料理」と、肌に優しい「極上の温泉」を堪能が魅力の一軒。客室で荷物をほどいて穏やかな午後のひとときを。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「磐梯熱海温泉 湯のやど楽山」の大浴場・露天風呂へ。日暮れの静けさの中で湯に浸かり、旅の緊張をゆっくりと解きほぐす。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「磐梯熱海温泉 湯のやど楽山」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -353,7 +353,7 @@ export default function ArticlePage() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「磐梯熱海温泉 湯のやど楽山」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「磐梯熱海温泉 湯のやど楽山」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「磐梯熱海温泉 ホテル華の湯」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は宿周辺の散策とショッピングを満喫。地元の名産品やグルメを味わってから余裕をもって帰路につく。</li>
               </ul>
             </div>
           </div>
@@ -390,28 +390,28 @@ export default function ArticlePage() {
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
             <div className="flex flex-wrap gap-2">
               <Link
-                href="/prefectures/kochi/"
+                href="/prefectures/fukushima/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                高知県の宿・温泉
+                福島県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/fukui/"
+                href="/prefectures/hokkaido/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                福井県の宿・温泉
+                北海道の宿・温泉
               </Link>
               <Link
-                href="/prefectures/kyoto/"
+                href="/prefectures/aomori/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                京都府の宿・温泉
+                青森県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/hiroshima/"
+                href="/prefectures/iwate/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                広島県の宿・温泉
+                岩手県の宿・温泉
               </Link>
             </div>
           </div>
@@ -447,7 +447,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 磐梯熱海温泉　湯のやど楽山</td>
                 <td className="p-3 text-stone-600">福島県郡山市熱海町熱海5-39</td>
-                <td className="p-3 text-stone-600">磐梯熱海駅周辺</td>
+                <td className="p-3 text-stone-600">磐越自動車道 磐梯熱海ＩＣより7分 ＪＲ磐越西線 磐梯熱海駅より車で５分</td>
                 <td className="p-3 text-stone-600">駐車場は、隣接するホテル華の湯の駐車場をご利用ください『無料』</td>
                 <td className="p-3 font-bold text-amber-600">★4.52（747件）</td>
                 <td className="p-3 font-bold text-rose-600">¥11,000〜</td>
@@ -456,7 +456,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 磐梯熱海温泉　ホテル華の湯</td>
                 <td className="p-3 text-stone-600">福島県郡山市熱海町熱海5丁目 8-60</td>
-                <td className="p-3 text-stone-600">磐梯熱海駅周辺</td>
+                <td className="p-3 text-stone-600">磐越自動車道磐梯熱海ＩＣより車で8分、磐越西線磐梯熱海駅より送迎可能です。（要連絡）</td>
                 <td className="p-3 text-stone-600">有り　400台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.42（3338件）</td>
                 <td className="p-3 font-bold text-rose-600">¥9,900〜</td>
@@ -465,7 +465,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 磐梯熱海温泉　紅葉館きらくや</td>
                 <td className="p-3 text-stone-600">福島県郡山市熱海町熱海4-39</td>
-                <td className="p-3 text-stone-600">磐梯熱海駅周辺</td>
+                <td className="p-3 text-stone-600">●磐梯熱海駅下車、徒歩２分。●磐越自動車道磐梯熱海ICから３Km</td>
                 <td className="p-3 text-stone-600">有り　４０台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.18（957件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,550〜</td>
@@ -494,7 +494,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>駐車場は、隣接するホテル華の湯の駐車場をご利用ください『無料』</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.59 ／ 立地 ★4.29 ／ 部屋 ★4.41 ／ 設備 ★4.4 ／ 風呂 ★4.53 ／ 食事 ★4.62</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「バイクを屋根下に停められ、食事と温泉に大満足バイクツーリングで利用させて頂きました。到着時は雨が降っていたのですがバイクも屋根下の安全な場所に停めさせてもらえました。食事も美味しく、温泉も…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「バイクを屋根下に停められ、食事と温泉に大満足バイクツーリングで利用させて頂きました。到着時は雨が降っていたのですがバイクも屋根下の安全な場所に停めさせてもらえました。」
                   </blockquote>
                 </div>
               </div>

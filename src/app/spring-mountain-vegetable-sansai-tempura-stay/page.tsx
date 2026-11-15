@@ -565,8 +565,8 @@ export default function FeatureDetailPage() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 千歳（北海道）駅よりアクセス。ＪＲ千歳駅／新千歳空港より車で５０分、札幌市内、エスコンフィールド、苫小牧港から車で６０分。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「奥札幌の秘湯 湖畔の宿支笏湖 丸駒温泉旅館」にチェックイン。2024,2025年連続アワード受賞宿 2024年リニューアル、国立公園の絶景温泉とサウナが自慢などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「奥札幌の秘湯 湖畔の宿支笏湖 丸駒温泉旅館」の湯処へ。2024,2025年連続アワード受賞宿 2024年リニューアル、国立公とともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「奥札幌の秘湯 湖畔の宿支笏湖 丸駒温泉旅館」にチェックイン。2024,2025年連続アワード受賞宿 2024年リニューアル、国立公園の絶景温泉とサウナが自慢が魅力の一軒。客室で荷物をほどいて穏やかな午後のひとときを。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「奥札幌の秘湯 湖畔の宿支笏湖 丸駒温泉旅館」の自慢の湯処へ。温かな湯気と落ち着いた雰囲気に癒やされながら、夕食前の贅沢なひとときを過ごす。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「奥札幌の秘湯 湖畔の宿支笏湖 丸駒温泉旅館」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -578,7 +578,7 @@ export default function FeatureDetailPage() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「奥札幌の秘湯 湖畔の宿支笏湖 丸駒温泉旅館」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「奥札幌の秘湯 湖畔の宿支笏湖 丸駒温泉旅館」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「養老温泉 秘湯の宿 滝見苑」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は宿周辺の散策とショッピングを満喫。地元の名産品やグルメを味わってから余裕をもって帰路につく。</li>
               </ul>
             </div>
           </div>
@@ -706,7 +706,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 奥札幌の秘湯　湖畔の宿支笏湖　丸駒温泉旅館</td>
                 <td className="p-3 text-stone-600">北海道千歳市幌美内7番地</td>
-                <td className="p-3 text-stone-600">千歳（北海道）駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ千歳駅／新千歳空港より車で５０分、札幌市内、エスコンフィールド、苫小牧港から車で６０分</td>
                 <td className="p-3 text-stone-600">駐車場は50台分ございます。料金は無料です。</td>
                 <td className="p-3 font-bold text-amber-600">★4.45（966件）</td>
                 <td className="p-3 font-bold text-rose-600">¥10,000〜</td>
@@ -715,7 +715,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 養老温泉　秘湯の宿　滝見苑</td>
                 <td className="p-3 text-stone-600">千葉県夷隅郡大多喜町粟又5</td>
-                <td className="p-3 text-stone-600">養老渓谷駅周辺</td>
+                <td className="p-3 text-stone-600">小湊鉄道線 養老渓谷駅よりバスで２５分／いすみ鉄道又は小湊鉄道 上総中野駅より車で１０分</td>
                 <td className="p-3 text-stone-600">有り　道路沿い-大型バス兼宿泊者専用駐車場もしくはフロント前にお停め下さいませ。</td>
                 <td className="p-3 font-bold text-amber-600">★4.26（562件）</td>
                 <td className="p-3 font-bold text-rose-600">¥17,830〜</td>
@@ -724,7 +724,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 秘湯　花文（旧燕温泉　ホテル花文）</td>
                 <td className="p-3 text-stone-600">新潟県妙高市関山6087</td>
-                <td className="p-3 text-stone-600">関山駅周辺</td>
+                <td className="p-3 text-stone-600">関山駅からバス乗車し20分。妙高高原ICより車で30分(冬季45分)</td>
                 <td className="p-3 text-stone-600">有り　１４台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.36（214件）</td>
                 <td className="p-3 font-bold text-rose-600">¥10,650〜</td>
@@ -733,7 +733,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 日本三秘湯　谷地温泉</td>
                 <td className="p-3 text-stone-600">青森県十和田市法量谷地1</td>
-                <td className="p-3 text-stone-600">青森駅周辺</td>
+                <td className="p-3 text-stone-600">JR青森駅よりJRバス約120分／青森空港から車で60分／無料バス有※要予約（夏季：青森駅-新青森駅／冬季：八戸駅より）</td>
                 <td className="p-3 text-stone-600">有り　６０台　無料　予約不要【マップコード：704 471 581*58】</td>
                 <td className="p-3 font-bold text-amber-600">★4.54（331件）</td>
                 <td className="p-3 font-bold text-rose-600">¥16,560〜</td>
@@ -742,7 +742,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 塩原元湯温泉　秘湯の宿　元泉館</td>
                 <td className="p-3 text-stone-600">栃木県那須塩原市湯本塩原101</td>
-                <td className="p-3 text-stone-600">上三依塩原駅周辺</td>
+                <td className="p-3 text-stone-600">JR塩原温泉バスターミナルよりタクシーで１３分。</td>
                 <td className="p-3 text-stone-600">有り　４０台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.46（276件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,360〜</td>
@@ -793,7 +793,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　道路沿い-大型バス兼宿泊者専用駐車場もしくはフロント前にお停め下さいませ。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.27 ／ 立地 ★4.2 ／ 部屋 ★4.17 ／ 設備 ★4.09 ／ 風呂 ★4.4</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「季節の料理と美味しいお米に大満足夕食は栗とさつまいものご飯など季節を感じさせるメニュー、味付けも上品、とても美味しかったです千葉のお米はすごく美味しいと感じました。フロントの男性はとつとつと話…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「季節の料理と美味しいお米に大満足夕食は栗とさつまいものご飯など季節を感じさせるメニュー、味付けも上品、とても美味しかったです千葉のお米はすごく美味しいと感じました。」
                   </blockquote>
                 </div>
               </div>
@@ -815,7 +815,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１４台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉好きにはたまらない、また行きたい場所建物は古いが承知の上だったので不満はなし。食事は派手さはないものの優しい味で好ましい。お湯は最高に良い。設備の古さや虫の多さは否めないので、観光客向きと…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉好きにはたまらない、また行きたい場所建物は古いが承知の上だったので不満はなし。食事は派手さはないものの優しい味で好ましい。お湯は最高に良い。」
                   </blockquote>
                 </div>
               </div>
@@ -859,7 +859,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　４０台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.24 ／ 立地 ★4.48 ／ 部屋 ★4.03 ／ 設備 ★4 ／ 風呂 ★4.69 ／ 食事 ★4.35</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「源泉かけ流しの温泉と可愛い猫に癒やされる泉質(源泉3本!)がとても良い温泉です。夜の猫ちゃんふれあいタイムには触らせてくれる猫スタッフハニーちゃんが来てくれました。可愛かった...。良い温…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「源泉かけ流しの温泉と可愛い猫に癒やされる泉質(源泉3本!)がとても良い温泉です。夜の猫ちゃんふれあいタイムには触らせてくれる猫スタッフハニーちゃんが来てくれました。可愛かった...。」
                   </blockquote>
                 </div>
               </div>

@@ -425,8 +425,8 @@ export default function Page() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 鳴門駅よりアクセス。神戸淡路鳴門自動車道 鳴門北ＩＣより１分 ＪＲ鳴門駅より車で約１０分 大塚美術館まで車で3分。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「アオアヲナルトリゾート」にチェックイン。温泉もお部屋もオーシャンビュー！瀬戸内海国立公園内に位置する南欧風リゾートホテルです。などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「アオアヲナルトリゾート」の湯処へ。温泉もお部屋もオーシャンビュー！瀬戸内海国立公園内に位置する南欧風リゾとともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「アオアヲナルトリゾート」にチェックイン。温泉もお部屋もオーシャンビュー！瀬戸内海国立公園内に位置する南欧風リゾートホテルです。 館内の設えを確かめながら、これからの滞在に備えてゆっくり休息する。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「アオアヲナルトリゾート」の湯船で寛ぎタイム。季節の空気を感じながら手足を伸ばし、心豊かな夕方のリラックス時間を満喫。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「アオアヲナルトリゾート」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -438,7 +438,7 @@ export default function Page() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「アオアヲナルトリゾート」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「アオアヲナルトリゾート」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「ホテル菊水今治」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は「アオアヲナルトリゾート」周辺の観光スポットや地元の名産店に立ち寄り、ご当地のお土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>
@@ -566,7 +566,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. アオアヲナルトリゾート</td>
                 <td className="p-3 text-stone-600">徳島県鳴門市鳴門町土佐泊浦字大毛16-45</td>
-                <td className="p-3 text-stone-600">神戸淡路鳴門自動車道 鳴門北ＩＣより１分 ＪＲ鳴門駅より車で約１０分</td>
+                <td className="p-3 text-stone-600">神戸淡路鳴門自動車道 鳴門北ＩＣより１分 ＪＲ鳴門駅より車で約１０分 大塚美術館まで車で3分</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.46（4254件）</td>
                 <td className="p-3 font-bold text-rose-600">¥16,500〜</td>
@@ -575,7 +575,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. ホテル菊水今治（Ｈｏｔｅｌ　Ｋｉｋｕｓｕｉ　Ｉｍａｂａｒｉ）</td>
                 <td className="p-3 text-stone-600">愛媛県今治市中浜町1-2-5</td>
-                <td className="p-3 text-stone-600">今治駅周辺</td>
+                <td className="p-3 text-stone-600">【平面駐車場無料】／JR今治駅徒歩15分・車5分／しまなみ海道【今治IC】車10分／しまなみライナー【今治桟橋】徒歩1分</td>
                 <td className="p-3 text-stone-600">無料平面駐車場59台（出入自由）／バイク屋根付／自転車客室持込可／大型車応相談</td>
                 <td className="p-3 font-bold text-amber-600">★4.27（1805件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,640〜</td>
@@ -584,7 +584,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 下関グランドホテル</td>
                 <td className="p-3 text-stone-600">山口県下関市南部町31-2</td>
-                <td className="p-3 text-stone-600">下関駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ下関から車で５分、ＪＲ門司港駅横から船で５分</td>
                 <td className="p-3 text-stone-600">有り　３０台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.28（1556件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,500〜</td>
@@ -613,7 +613,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「子供も大人も大満足、海辺の遊びと食事を満喫家族で伺いました。チェックインは15時でしたが.12時にホテルにつきチェックインまで海辺や、釣りぼり、職業体験などでとても楽しむことができました。…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「子供も大人も大満足、海辺の遊びと食事を満喫家族で伺いました。チェックインは15時でしたが.12時にホテルにつきチェックインまで海辺や、釣りぼり、職業体験などでとても楽しむことができました。」
                   </blockquote>
                 </div>
               </div>
@@ -635,7 +635,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料平面駐車場59台（出入自由）／バイク屋根付／自転車客室持込可／大型車応相談</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.3 ／ 立地 ★4.16 ／ 部屋 ★4.21 ／ 設備 ★4.14 ／ 風呂 ★4.18 ／ 食事 ★4.45</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「設備は古いが食事と寝心地に大満足思いつきの旅でお世話になりました。設備全体は古くて、廊下とか隣の音がすごく聞こえるけど、ベッドは最高の寝心地で、夜中に起きることはありませんでした食事も大変美味…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「設備は古いが食事と寝心地に大満足思いつきの旅でお世話になりました。」
                   </blockquote>
                 </div>
               </div>

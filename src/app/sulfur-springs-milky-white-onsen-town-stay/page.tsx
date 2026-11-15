@@ -334,7 +334,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 秘湯にごり湯の宿　渓雲閣</td>
                 <td className="p-3 text-stone-600">栃木県那須塩原市湯本塩原37</td>
-                <td className="p-3 text-stone-600">那須塩原駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ 那須塩原駅より路線バスにて69分「塩原温泉バスターミナル」下車後定時送迎有（要予約）</td>
                 <td className="p-3 text-stone-600">有り　２０台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.41（399件）</td>
                 <td className="p-3 font-bold text-rose-600">¥14,300〜</td>
@@ -343,7 +343,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 塩原温泉　やまの宿　下藤屋</td>
                 <td className="p-3 text-stone-600">栃木県那須塩原市湯本塩原11</td>
-                <td className="p-3 text-stone-600">那須塩原駅周辺</td>
+                <td className="p-3 text-stone-600">東北自動車道 西那須野塩原I.Cより35分。東北新幹線那須塩原より路線バス55分終点下車。送迎車有り、要予約。</td>
                 <td className="p-3 text-stone-600">有り　25台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.58（1268件）</td>
                 <td className="p-3 font-bold text-rose-600">¥21,780〜</td>
@@ -352,7 +352,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 塩原温泉　奥塩原高原ホテル</td>
                 <td className="p-3 text-stone-600">栃木県那須塩原市湯本塩原113-4</td>
-                <td className="p-3 text-stone-600">那須塩原駅周辺</td>
+                <td className="p-3 text-stone-600">JR東北新幹線 那須塩原駅 東北自動車道 西那須野塩原I.C R400 日塩もみじライン経由</td>
                 <td className="p-3 text-stone-600">有　３０台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.42（541件）</td>
                 <td className="p-3 font-bold text-rose-600">¥14,300〜</td>
@@ -403,7 +403,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　25台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.62 ／ 立地 ★4.13 ／ 部屋 ★4.43 ／ 設備 ★4.34 ／ 風呂 ★4.65 ／ 食事 ★4.7</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋は広くてベットも寝心地が良く快適でした。お風呂も清潔感があり、部屋から近くて何回も入りました。貸し切り露天風呂が宿から外に出て石段を上がるのですが下駄を借りて行くのですが雨で傘もさしていたし夜…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋は広くてベットも寝心地が良く快適でした。お風呂も清潔感があり、部屋から近くて何回も入りました。」
                   </blockquote>
                 </div>
               </div>
@@ -425,7 +425,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有　３０台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.46 ／ 立地 ★4.38 ／ 部屋 ★4.29 ／ 設備 ★4.21 ／ 風呂 ★4.63 ／ 食事 ★4.53</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「息子夫婦とゆっくりまったり〜山奥にある小さなホテルという感じ。部屋数が少ないので、お風呂もお食事処も混雑せずに、ゆったり過ごせました。お風呂は乳白色で、ザ・温泉!露天風呂も最高でしたお夕飯は、…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「息子夫婦とゆっくりまったり〜山奥にある小さなホテルという感じ。部屋数が少ないので、お風呂もお食事処も混雑せずに、ゆったり過ごせました。お風呂は乳白色で、ザ・温泉!」
                   </blockquote>
                 </div>
               </div>

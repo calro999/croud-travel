@@ -262,7 +262,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 箱根芦ノ湖温泉　源泉100％の宿　ＨＯＴＥＬ　Ｒａ　Ｋｕｕｎ　(ホテルラクーン）</td>
                 <td className="p-3 text-stone-600">神奈川県足柄下郡箱根町元箱根103-227</td>
-                <td className="p-3 text-stone-600">箱根湯本駅周辺</td>
+                <td className="p-3 text-stone-600">箱根湯本駅→箱根町元箱根行バス３０分「双子茶屋」下車(送迎不可）／小田原厚木道路小田原西IC→国道１号で約１５km</td>
                 <td className="p-3 text-stone-600">あり　２０台(1グループ1台まで）　先着順　無料（マイクロバス等の駐車はできません）</td>
                 <td className="p-3 font-bold text-amber-600">★3.94（615件）</td>
                 <td className="p-3 font-bold text-rose-600">¥10,800〜</td>
@@ -271,7 +271,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. ホテル四季の館箱根芦ノ湖</td>
                 <td className="p-3 text-stone-600">神奈川県足柄下郡箱根町元箱根103-241</td>
-                <td className="p-3 text-stone-600">小田原駅周辺</td>
+                <td className="p-3 text-stone-600">小田原駅よりバス ホテルより無料送迎あり（要予約）</td>
                 <td className="p-3 text-stone-600">有り　30台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.41（49件）</td>
                 <td className="p-3 font-bold text-rose-600">¥40,700〜</td>
@@ -280,7 +280,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. ザ・プリンス　箱根芦ノ湖</td>
                 <td className="p-3 text-stone-600">神奈川県足柄下郡箱根町元箱根144</td>
-                <td className="p-3 text-stone-600">箱根湯本駅周辺</td>
+                <td className="p-3 text-stone-600">小田原駅西口より無料送迎バス（定時運行・要予約）にて45分／箱根湯本駅から伊豆箱根バス約65分／元箱根より循環バスあり</td>
                 <td className="p-3 text-stone-600">有り／屋外282台（宿泊者無料・予約不要）※12月より3月までは、積雪の恐れがございます。</td>
                 <td className="p-3 font-bold text-amber-600">★4.59（1391件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,900〜</td>
@@ -289,7 +289,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. ホテル森の風箱根仙石原</td>
                 <td className="p-3 text-stone-600">神奈川県足柄下郡箱根町仙石原817-444</td>
-                <td className="p-3 text-stone-600">強羅駅周辺</td>
+                <td className="p-3 text-stone-600">強羅駅よりタクシーで15分、箱根湯本駅よりバスで30分、小田原駅よりバスで45分</td>
                 <td className="p-3 text-stone-600">有り　45台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.31（73件）</td>
                 <td className="p-3 font-bold text-rose-600">¥18,700〜</td>
@@ -298,7 +298,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">6. Ｒａｋｕｔｅｎ　ＳＴＡＹ　ＶＩＬＬＡ　箱根仙石原</td>
                 <td className="p-3 text-stone-600">神奈川県足柄下郡箱根町仙石原1246-748、1246-761</td>
-                <td className="p-3 text-stone-600">箱根湯本駅周辺</td>
+                <td className="p-3 text-stone-600">御殿場IC20分、「東京放送入口」バス停すぐ、マップコード北館57 300 219*17南館57 300 098*30</td>
                 <td className="p-3 text-stone-600">【北館】南館隣接駐車場に1室2台まで【南館】部屋により駐車場・台数が異なります※EV充電可能・先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.31（258件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,400〜</td>
@@ -393,7 +393,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り／屋外282台（宿泊者無料・予約不要）※12月より3月までは、積雪の恐れがございます。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「家族で快適に過ごせて朝食も大満足!今回、スーペリアツインに宿泊。大人2人、小学生2人で泊まりましたが快適な広さでした。プレイルームには卓球台や色々なゲームがあり、子どもたちは楽しんでいました。…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「家族で快適に過ごせて朝食も大満足!今回、スーペリアツインに宿泊。大人2人、小学生2人で泊まりましたが快適な広さでした。プレイルームには卓球台や色々なゲームがあり、子どもたちは楽しんでいました。」
                   </blockquote>
                 </div>
               </div>
@@ -415,7 +415,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　45台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「誕生日のお祝いに宿泊しました子どもの誕生日当日に宿泊しました。デザートのプレートにメッセージを入れてもらうようお願いしましたが、子どもはとても喜んでいました。鱧など季節の食材も取り入れて美味しかっ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「誕生日のお祝いに宿泊しました子どもの誕生日当日に宿泊しました。デザートのプレートにメッセージを入れてもらうようお願いしましたが、子どもはとても喜んでいました。」
                   </blockquote>
                 </div>
               </div>
@@ -437,7 +437,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>【北館】南館隣接駐車場に1室2台まで【南館】部屋により駐車場・台数が異なります※EV充電可能・先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「愛犬との初旅行、お風呂と足湯に大満足清潔感があり、お風呂も足湯も最高でした。ドッグランが芝生だとなお良かったです。はじめての愛犬との旅行でしたが楽しく過ごす事ができました。またぜひ利用…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「愛犬との初旅行、お風呂と足湯に大満足清潔感があり、お風呂も足湯も最高でした。ドッグランが芝生だとなお良かったです。はじめての愛犬との旅行でしたが楽しく過ごす事ができました。」
                   </blockquote>
                 </div>
               </div>

@@ -259,7 +259,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 松島温泉　ホテル絶景の館</td>
                 <td className="p-3 text-stone-600">宮城県宮城郡松島町松島東浜4-6</td>
-                <td className="p-3 text-stone-600">松島海岸駅周辺</td>
+                <td className="p-3 text-stone-600">仙石線 松島海岸駅・東北本線 松島駅 （15：00～21：00まで送迎有・予約不可）／三陸道松島ICより１０分</td>
                 <td className="p-3 text-stone-600">無料　４０台</td>
                 <td className="p-3 font-bold text-amber-600">★4.53（1637件）</td>
                 <td className="p-3 font-bold text-rose-600">¥9,000〜</td>
@@ -268,7 +268,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 松島温泉　松島センチュリーホテル</td>
                 <td className="p-3 text-stone-600">宮城県宮城郡松島町松島字仙随８番地</td>
-                <td className="p-3 text-stone-600">松島海岸駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ仙石線松島海岸駅下車徒歩10分、ＪＲ東北本線松島駅下車徒歩15分</td>
                 <td className="p-3 text-stone-600">有り　100台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.44（1951件）</td>
                 <td className="p-3 font-bold text-rose-600">¥15,400〜</td>
@@ -277,7 +277,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 松島温泉　ホテル大松荘</td>
                 <td className="p-3 text-stone-600">宮城県宮城郡松島町松島字町内25</td>
-                <td className="p-3 text-stone-600">松島海岸駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ松島海岸駅より徒歩１分。東北自動車道仙台南IC～南部道路～三陸自動車道 松島海岸ICより３分</td>
                 <td className="p-3 text-stone-600">有り　50台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★3.97（598件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,800〜</td>
@@ -286,7 +286,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 松島温泉　パレス松洲</td>
                 <td className="p-3 text-stone-600">宮城県宮城郡松島町高城浜38</td>
-                <td className="p-3 text-stone-600">松島駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ松島駅より徒歩10分 東北本線松島駅、仙石線松島海岸駅・高城町駅より送迎あり 三陸自動車道 松島海岸ＩＣより15分</td>
                 <td className="p-3 text-stone-600">有り 80台 無料 予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.5（461件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,800〜</td>
@@ -295,7 +295,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. ホテルグランドパレス塩釜</td>
                 <td className="p-3 text-stone-600">宮城県塩釜市尾島町3-5</td>
-                <td className="p-3 text-stone-600">本塩釜駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ仙石線 本塩釜駅より徒歩3分</td>
                 <td className="p-3 text-stone-600">有り　46台　無料　※大型車は要事前連絡。状況により、大型車はお断りさせて頂く場合あり。</td>
                 <td className="p-3 font-bold text-amber-600">★4.08（967件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,225〜</td>
@@ -304,7 +304,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">6. スマイルホテル塩釜</td>
                 <td className="p-3 text-stone-600">宮城県塩竈市新富町18-31</td>
-                <td className="p-3 text-stone-600">本塩釜駅周辺</td>
+                <td className="p-3 text-stone-600">JR仙石線「本塩釜駅」より車で4分 / 仙台港北ICまたは利府塩釜ICより10分 45号線沿い</td>
                 <td className="p-3 text-stone-600">無料駐車場完備（敷地外含む普通車65台）</td>
                 <td className="p-3 font-bold text-amber-600">★3.95（2514件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,550〜</td>
@@ -333,7 +333,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料　４０台</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「景色と食事が最高、脱衣所の清掃に改善希望部屋からの景色がとても綺麗でした。部屋とバス・トイレも清潔でした。夕飯はお刺身が美味しかったです。 脱衣所は狭く、混んでるときは大変だなとおもいました。ドラ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「景色と食事が最高、脱衣所の清掃に改善希望部屋からの景色がとても綺麗でした。部屋とバス・トイレも清潔でした。夕飯はお刺身が美味しかったです。 脱衣所は狭く、混んでるときは大変だなとおもいました。」
                   </blockquote>
                 </div>
               </div>
@@ -355,7 +355,7 @@ export default function MicroTouristHubPage() {
                   <p>【宮城・松島＆塩竈：日本三景松島・塩竈生マグロ＆焼き牡】 <strong>【駐車場・マイカー利用】</strong>有り　100台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「花火の配慮が嬉しく素敵な夜を過ごせた家族旅行で利用しました。子どもに花火をいただきましたが、夕飯との兼ね合いでできそうにないねと子どもと話しといたところ、花火の時間を延長しますと言っていただけ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「花火の配慮が嬉しく素敵な夜を過ごせた家族旅行で利用しました。」
                   </blockquote>
                 </div>
               </div>
@@ -377,7 +377,7 @@ export default function MicroTouristHubPage() {
                   <p>【宮城・松島＆塩竈：日本三景松島・塩竈生マグロ＆焼き牡】 <strong>【駐車場・マイカー利用】</strong>有り　50台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「好立地で清掃も行き届くが設備に難あり夏に素泊まりの利用でした。写真は部屋からの景色です。駅から徒歩3分もかからず、なお車なら駐車場も無料利用が可能な好立地のホテル。福浦橋までが割と歩きます…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「好立地で清掃も行き届くが設備に難あり夏に素泊まりの利用でした。写真は部屋からの景色です。駅から徒歩3分もかからず、なお車なら駐車場も無料利用が可能な好立地のホテル。」
                   </blockquote>
                 </div>
               </div>
@@ -399,7 +399,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り 80台 無料 予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「松島の絶景と温泉、食事に大満足の休日8月の週末に利用しました。お部屋、ロビー、浴場から眺める松島は絶景です。ウエルカムドリンクがあり、到着後、入浴前後にいただきました。温泉はトロリとした泉質で、混…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「松島の絶景と温泉、食事に大満足の休日8月の週末に利用しました。お部屋、ロビー、浴場から眺める松島は絶景です。ウエルカムドリンクがあり、到着後、入浴前後にいただきました。」
                   </blockquote>
                 </div>
               </div>
@@ -421,7 +421,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　46台　無料　※大型車は要事前連絡。状況により、大型車はお断りさせて頂く場合あり。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「静かな部屋と丁寧な接客で快適な睡眠遮音性が良く部屋の外部から煩い音が聞こえないので、ぐっすり眠れました。また、空調・衛生設備機器もしっかりして、室内は綺麗に清掃が行き届いていると感じました。…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「静かな部屋と丁寧な接客で快適な睡眠遮音性が良く部屋の外部から煩い音が聞こえないので、ぐっすり眠れました。また、空調・衛生設備機器もしっかりして、室内は綺麗に清掃が行き届いていると感じました。」
                   </blockquote>
                 </div>
               </div>
@@ -443,7 +443,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料駐車場完備（敷地外含む普通車65台）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「丁寧な接客と隅々まで行き届いた清掃フロントのスタッフさんの対応が丁寧で心地よかったです。施設の古さを少し感じましたが、全体に掃除が行き届いていて気持ちよく過ごせました。クチコミの詳細はこち…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「丁寧な接客と隅々まで行き届いた清掃フロントのスタッフさんの対応が丁寧で心地よかったです。施設の古さを少し感じましたが、全体に掃除が行き届いていて気持ちよく過ごせました。」
                   </blockquote>
                 </div>
               </div>

@@ -342,7 +342,7 @@ export default function KamikochiShirahoneAutumnPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 白骨温泉　小梨の湯　笹屋</td>
                 <td className="p-3 text-stone-600">長野県松本市安曇4182-1</td>
-                <td className="p-3 text-stone-600">松本駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ 松本駅より、松本電鉄 新島々下車、バスにて６０分</td>
                 <td className="p-3 text-stone-600">有り　２０台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.65（131件）</td>
                 <td className="p-3 font-bold text-rose-600">¥21,945〜</td>
@@ -351,7 +351,7 @@ export default function KamikochiShirahoneAutumnPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 白骨温泉　湯元齋藤旅館</td>
                 <td className="p-3 text-stone-600">長野県松本市安曇白骨温泉4195</td>
-                <td className="p-3 text-stone-600">お車で松本ICから60分、高山ICから70分。上高地へは「さわんどバス</td>
+                <td className="p-3 text-stone-600">お車で松本ICから60分、高山ICから70分。上高地へは「さわんどバスターミナル」乗り換えで約60分。</td>
                 <td className="p-3 text-stone-600">40台有り。お車をお預かりし、駐車場へお停めいたします。 駐車場所の指定はお受けいたしかねます。</td>
                 <td className="p-3 font-bold text-amber-600">★4.63（854件）</td>
                 <td className="p-3 font-bold text-rose-600">¥20,900〜</td>
@@ -360,7 +360,7 @@ export default function KamikochiShirahoneAutumnPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 白骨温泉　白船荘新宅旅館</td>
                 <td className="p-3 text-stone-600">長野県松本市安曇4201</td>
-                <td className="p-3 text-stone-600">新島々駅周辺</td>
+                <td className="p-3 text-stone-600">JR松本駅から私鉄上高地線 新島々駅より白骨温泉行バス乗車→終点白骨温泉下車</td>
                 <td className="p-3 text-stone-600">有り　５０台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.56（1226件）</td>
                 <td className="p-3 font-bold text-rose-600">¥18,700〜</td>
@@ -369,7 +369,7 @@ export default function KamikochiShirahoneAutumnPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 白骨温泉　白船グランドホテル</td>
                 <td className="p-3 text-stone-600">長野県松本市安曇4203</td>
-                <td className="p-3 text-stone-600">松本ICより約60分、高山西ICより約80分。R158経由、さわんど温</td>
+                <td className="p-3 text-stone-600">松本ICより約60分、高山西ICより約80分。R158経由、さわんど温泉より県道300号線で車15分</td>
                 <td className="p-3 text-stone-600">有り　約５０台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.3（417件）</td>
                 <td className="p-3 font-bold text-rose-600">¥16,800〜</td>
@@ -398,7 +398,7 @@ export default function KamikochiShirahoneAutumnPage() {
                   <p>【秋の上高地・白骨温泉：カラマツ黄葉と乳白色の秘湯】 <strong>【駐車場・マイカー利用】</strong>有り　２０台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.59 ／ 立地 ★4.46 ／ 部屋 ★4.61 ／ 設備 ★4.38 ／ 風呂 ★4.89 ／ 食事 ★4.69</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「迅速な対応に感謝、温泉三昧でまた来たいお宿に到着してお部屋に案内されて、予約時に宿泊人数を間違えていたことに気付きました。従業員の皆様か迅速に対応していただき感謝しております。貸切露天風呂…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「迅速な対応に感謝、温泉三昧でまた来たいお宿に到着してお部屋に案内されて、予約時に宿泊人数を間違えていたことに気付きました。従業員の皆様か迅速に対応していただき感謝しております。」
                   </blockquote>
                 </div>
               </div>
@@ -420,7 +420,7 @@ export default function KamikochiShirahoneAutumnPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>40台有り。お車をお預かりし、駐車場へお停めいたします。 駐車場所の指定はお受けいたしかねます。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「硫黄の温泉は最高だが移動が少し大変やっぱり温泉が最高です。硫黄の乳白色の温泉で、とってもあったまります。ご飯もおいしかったです。温泉までの移動が長く、エレベーターに2回ほど乗ったりするので、高齢者…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「硫黄の温泉は最高だが移動が少し大変やっぱり温泉が最高です。硫黄の乳白色の温泉で、とってもあったまります。ご飯もおいしかったです。」
                   </blockquote>
                 </div>
               </div>
@@ -464,7 +464,7 @@ export default function KamikochiShirahoneAutumnPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　約５０台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「雨の中の出迎えや忘れ物の対応に感謝到着時雨が降っていたのですが車まで出迎えて玄関エントラスまで誘導してくださりぬれずに荷物を下ろせました。その後の車の移動もスタッフの方がしてくれました…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「雨の中の出迎えや忘れ物の対応に感謝到着時雨が降っていたのですが車まで出迎えて玄関エントラスまで誘導してくださりぬれずに荷物を下ろせました。」
                   </blockquote>
                 </div>
               </div>

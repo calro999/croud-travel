@@ -253,7 +253,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 南紀勝浦温泉　くつろぎの宿　料理旅館　万清楼</td>
                 <td className="p-3 text-stone-600">和歌山県東牟婁郡那智勝浦町勝浦448</td>
-                <td className="p-3 text-stone-600">紀伊勝浦駅周辺</td>
+                <td className="p-3 text-stone-600">JR「紀伊勝浦駅」より徒歩約7分／大阪から紀勢自動車道「すさみ南IC」経由で約3時間半</td>
                 <td className="p-3 text-stone-600">20台（無料）／専用駐車場は当館横と裏側にあります。</td>
                 <td className="p-3 font-bold text-amber-600">★4.39（821件）</td>
                 <td className="p-3 font-bold text-rose-600">¥13,200〜</td>
@@ -262,7 +262,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 大江戸温泉物語　南紀串本</td>
                 <td className="p-3 text-stone-600">和歌山県東牟婁郡串本町串本2300-1</td>
-                <td className="p-3 text-stone-600">串本駅周辺</td>
+                <td className="p-3 text-stone-600">紀勢本線 串本駅よりお車にて約５分 シャトルバスあり(事前予約制)</td>
                 <td className="p-3 text-stone-600">有り　144台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★3.82（1593件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,400〜</td>
@@ -271,7 +271,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 海辺を散策できる温泉宿　サンセットすさみ</td>
                 <td className="p-3 text-stone-600">和歌山県西牟婁郡すさみ町周参見5351-10</td>
-                <td className="p-3 text-stone-600">周参見駅周辺</td>
+                <td className="p-3 text-stone-600">JR周参見駅より徒歩約7分／大阪から車で阪和自動車道日置川IC経由で約2時間半／アドベンチャーワールドより車で約25分</td>
                 <td className="p-3 text-stone-600">有り　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.47（488件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,700〜</td>
@@ -280,7 +280,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 南紀勝浦温泉　ホテルなぎさや</td>
                 <td className="p-3 text-stone-600">和歌山県東牟婁郡那智勝浦町大字湯川955番地の1</td>
-                <td className="p-3 text-stone-600">紀伊勝浦駅周辺</td>
+                <td className="p-3 text-stone-600">JR「紀伊勝浦駅」より車で約5分（事前予約で送迎サービス有）／大阪から紀勢自動車道「すさみ南IC」経由で約3時間半</td>
                 <td className="p-3 text-stone-600">50台（無料）</td>
                 <td className="p-3 font-bold text-amber-600">★3.94（697件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,800〜</td>
@@ -289,7 +289,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 民宿　美滝山荘</td>
                 <td className="p-3 text-stone-600">和歌山県東牟婁郡那智勝浦町那智山545-1</td>
-                <td className="p-3 text-stone-600">紀伊勝浦駅周辺</td>
+                <td className="p-3 text-stone-600">国道42号那智駅前交差点より那智山方面へ約8㎞／紀伊勝浦駅よりバスで約25分「那智山神社お寺前駐車場」で下車し徒歩約2分</td>
                 <td className="p-3 text-stone-600">15台（無料）</td>
                 <td className="p-3 font-bold text-amber-600">★4.75（214件）</td>
                 <td className="p-3 font-bold text-rose-600">¥11,110〜</td>
@@ -298,7 +298,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">6. 南紀勝浦　湯川温泉　恵比須屋＜和歌山県＞</td>
                 <td className="p-3 text-stone-600">和歌山県東牟婁郡那智勝浦町湯川1065</td>
-                <td className="p-3 text-stone-600">湯川駅周辺</td>
+                <td className="p-3 text-stone-600">車で国道４２号線より５０ｍ中に入った所</td>
                 <td className="p-3 text-stone-600">有り　１０台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★3.56（81件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,250〜</td>
@@ -327,7 +327,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>20台（無料）／専用駐車場は当館横と裏側にあります。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「15年振りの利用も変わらぬ美味しさと親切な接客約15年振りに利用させてもらいました。朝夕食は変わらず大変美味しく本当に大満足でした!給仕の方も皆さん親切で気持ちよく過ごすことができました。ありがと…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「15年振りの利用も変わらぬ美味しさと親切な接客約15年振りに利用させてもらいました。朝夕食は変わらず大変美味しく本当に大満足でした!給仕の方も皆さん親切で気持ちよく過ごすことができました。」
                   </blockquote>
                 </div>
               </div>
@@ -371,7 +371,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉と豪華な朝食に大満足、コスパ最高ビジネスで利用しました。チェックイン後、部屋へ入るとエアコンを入れてくれていて快適でした。建物は古さを感じますが、清掃が行き届いており洗面台や壁紙などもリフォー…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉と豪華な朝食に大満足、コスパ最高ビジネスで利用しました。チェックイン後、部屋へ入るとエアコンを入れてくれていて快適でした。」
                   </blockquote>
                 </div>
               </div>
@@ -393,7 +393,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>50台（無料）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.9 ／ 立地 ★4.14 ／ 部屋 ★3.71 ／ 設備 ★3.59 ／ 風呂 ★4.05 ／ 食事 ★4.03</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「露天風呂への移動が怖く食事も不便潮見の湯という露天風呂は、大浴場から また衣服を着て移動します。その経路が夜間は1人では怖い気がします。また、露天風呂からの海の眺めは期待したほどではなかっ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「露天風呂への移動が怖く食事も不便潮見の湯という露天風呂は、大浴場から また衣服を着て移動します。その経路が夜間は1人では怖い気がします。」
                   </blockquote>
                 </div>
               </div>
@@ -437,7 +437,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１０台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉良いロケーションは元々窓側が駐車場側だったので。とても古くからの旅館という印象なので設備や環境、清潔さなどは評価しません(^^)温泉が人肌程度の温度夏でも入れる温泉なんですと、…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉良いロケーションは元々窓側が駐車場側だったので。」
                   </blockquote>
                 </div>
               </div>

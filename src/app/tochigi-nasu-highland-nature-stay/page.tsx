@@ -253,7 +253,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 那須湯本温泉　鹿の湯源泉かけ流しの宿　旅館　清水屋＜栃木県・那須郡＞</td>
                 <td className="p-3 text-stone-600">栃木県那須郡那須町湯本73</td>
-                <td className="p-3 text-stone-600">那須塩原駅周辺</td>
+                <td className="p-3 text-stone-600">JR那須塩原駅よりバスにて50分、シャトルバス有(要予約)。東北自動車道那須ICより車15分</td>
                 <td className="p-3 text-stone-600">有り(10台無料/予約不要) 湯本一丁目バス停が当館の目の前</td>
                 <td className="p-3 font-bold text-amber-600">★3.97（289件）</td>
                 <td className="p-3 font-bold text-rose-600">¥11,500〜</td>
@@ -262,7 +262,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 那須ハイランドパークオフィシャルホテル　ＴＯＷＡピュアコテージ</td>
                 <td className="p-3 text-stone-600">栃木県那須郡那須町高久乙3375</td>
-                <td className="p-3 text-stone-600">黒磯駅周辺</td>
+                <td className="p-3 text-stone-600">【那須塩原駅】無料送迎バスで約40分（要事前予約）／【お車】那須ＩＣより約20分</td>
                 <td className="p-3 text-stone-600">有り　１００台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.01（2864件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,600〜</td>
@@ -271,7 +271,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. コテージウッドノート　湯本本館</td>
                 <td className="p-3 text-stone-600">栃木県那須郡那須町湯本６５６－１９</td>
-                <td className="p-3 text-stone-600">黒磯駅周辺</td>
+                <td className="p-3 text-stone-600">那須インターより車で15分（本館）</td>
                 <td className="p-3 text-stone-600">★湯本本館・湯本山荘１５台無料　★「寺子乙」各コテージ前に1台分ずつ無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.76（45件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,000〜</td>
@@ -280,7 +280,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 成子の森</td>
                 <td className="p-3 text-stone-600">栃木県那須郡那須町湯本606-1</td>
-                <td className="p-3 text-stone-600">高久駅周辺</td>
+                <td className="p-3 text-stone-600">那須ICより車で約25分。</td>
                 <td className="p-3 text-stone-600">無料駐車場6台有（予約不要）</td>
                 <td className="p-3 font-bold text-amber-600">★5（7件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,700〜</td>
@@ -331,7 +331,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１００台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事の予約枠と大浴場有料に改善の余地あり17:50頃チェックインしたところ、夕食は20:30~、朝食は10時~の回しか空いていないとのことで予定が大幅に狂いました。改善の余地があるように思います。…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事の予約枠と大浴場有料に改善の余地あり17:50頃チェックインしたところ、夕食は20:30~、朝食は10時~の回しか空いていないとのことで予定が大幅に狂いました。改善の余地があるように思います。」
                   </blockquote>
                 </div>
               </div>
@@ -353,7 +353,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>★湯本本館・湯本山荘１５台無料　★「寺子乙」各コテージ前に1台分ずつ無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「最高のコテージ何度もリピートさせてもらっています。いつもとてもキレイに清掃されていて何の不満もなく利用しています。BBQも楽しく出来て、敷地内はとても雰囲気が良く、夜は星がキレイに見えて、…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「最高のコテージ何度もリピートさせてもらっています。いつもとてもキレイに清掃されていて何の不満もなく利用しています。」
                   </blockquote>
                 </div>
               </div>

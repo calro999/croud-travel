@@ -341,7 +341,7 @@ export default function OkinawaBudgetAutumnPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. ホテルリソルトリニティ那覇</td>
                 <td className="p-3 text-stone-600">沖縄県那覇市旭町7</td>
-                <td className="p-3 text-stone-600">那覇空港駅周辺</td>
+                <td className="p-3 text-stone-600">ゆいレール「旭橋駅」出入口2より徒歩3分</td>
                 <td className="p-3 text-stone-600">駐車場50台1泊1,500円(車高制限あり) ※先着順予約不可※満車時は近隣の提携駐車場を案内</td>
                 <td className="p-3 font-bold text-amber-600">★4.53（1027件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,200〜</td>
@@ -359,7 +359,7 @@ export default function OkinawaBudgetAutumnPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. グリーンリッチホテル＆カプセル那覇　人工温泉・二股湯の華</td>
                 <td className="p-3 text-stone-600">沖縄県那覇市松山2-15-1</td>
-                <td className="p-3 text-stone-600">那覇空港駅周辺</td>
+                <td className="p-3 text-stone-600">那覇空港より車で１０分、ゆいレール美栄橋駅より徒歩８分、ゆいレール県庁前駅より徒歩９分、コンビニ目の前、国際通り徒歩圏内</td>
                 <td className="p-3 text-stone-600">15時～翌朝11時　敷地内18台(先着順)1泊1000円■提携駐車場161台(徒歩5分圏に7ヶ所)</td>
                 <td className="p-3 font-bold text-amber-600">★4.03（698件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,100〜</td>
@@ -368,7 +368,7 @@ export default function OkinawaBudgetAutumnPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. ダイワロイネットホテル那覇国際通り</td>
                 <td className="p-3 text-stone-600">沖縄県那覇市安里2-1-1</td>
-                <td className="p-3 text-stone-600">那覇空港からゆいレールで約20分、「牧志」駅下車直結、徒歩約1分！！国</td>
+                <td className="p-3 text-stone-600">那覇空港からゆいレールで約20分、「牧志」駅下車直結、徒歩約1分！！国際通りに面しています。</td>
                 <td className="p-3 text-stone-600">当館裏手に提携駐車場（商業施設併設の立体駐車場）へのご案内（先着順：1泊1,500円／税込）</td>
                 <td className="p-3 font-bold text-amber-600">★4.3（1756件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,090〜</td>
@@ -377,7 +377,7 @@ export default function OkinawaBudgetAutumnPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. ホテルルートイン那覇泊港</td>
                 <td className="p-3 text-stone-600">沖縄県那覇市前島2-12-5</td>
-                <td className="p-3 text-stone-600">那覇空港駅周辺</td>
+                <td className="p-3 text-stone-600">那覇空港より車で約１０分（４．５ｋｍ）/モノレール美栄橋駅より徒歩５分。</td>
                 <td className="p-3 text-stone-600">有：72台駐車可能、有料：1000円/泊、先着順、制限有：高さ1.55mまで</td>
                 <td className="p-3 font-bold text-amber-600">★4.06（1617件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,200〜</td>
@@ -428,7 +428,7 @@ export default function OkinawaBudgetAutumnPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有＊予約制＊1泊1,000円(税込)、2026年2月から￥1200円に改定</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スリッパの外出や清掃方法の改善を希望海外のお客様が館内で履くスリッパのまま外出されていました。入り口のスーツケースのタイヤを拭くタオルが乾いたタオルで拭けている気がしませんでした。コストはかか…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スリッパの外出や清掃方法の改善を希望海外のお客様が館内で履くスリッパのまま外出されていました。入り口のスーツケースのタイヤを拭くタオルが乾いたタオルで拭けている気がしませんでした。」
                   </blockquote>
                 </div>
               </div>
@@ -472,7 +472,7 @@ export default function OkinawaBudgetAutumnPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>当館裏手に提携駐車場（商業施設併設の立体駐車場）へのご案内（先着順：1泊1,500円／税込）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.34 ／ 立地 ★4.44 ／ 部屋 ★4.35 ／ 設備 ★4.26 ／ 風呂 ★4.11 ／ 食事 ★4.32</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「国際通りと駅直結で便利、朝食も充実国際通り沿いなのと、ゆいレール牧志駅直結でとても便利。夕食は徒歩で栄町へ、お散歩も楽しかった。朝食は沖縄料理ビュッフェで種類も豊富だった。ビールのサービスはA…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「国際通りと駅直結で便利、朝食も充実国際通り沿いなのと、ゆいレール牧志駅直結でとても便利。夕食は徒歩で栄町へ、お散歩も楽しかった。朝食は沖縄料理ビュッフェで種類も豊富だった。」
                   </blockquote>
                 </div>
               </div>
@@ -494,7 +494,7 @@ export default function OkinawaBudgetAutumnPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有：72台駐車可能、有料：1000円/泊、先着順、制限有：高さ1.55mまで</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ベッドのシーツに血が付着しており交換を依頼沖縄出張の際に立地が良いので良く利用させて頂いてます。仕事を終えホテルの部屋に帰り机でPC作業し何気なくベッドメイキングを終えたベッドを見ると掛け布団…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ベッドのシーツに血が付着しており交換を依頼沖縄出張の際に立地が良いので良く利用させて頂いてます。」
                   </blockquote>
                 </div>
               </div>

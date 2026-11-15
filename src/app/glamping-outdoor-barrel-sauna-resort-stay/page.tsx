@@ -253,7 +253,7 @@ export default function RailwayActivityHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 河口湖カントリーコテージＢａｎ＆グランピングリゾート</td>
                 <td className="p-3 text-stone-600">山梨県南都留郡富士河口湖町河口2092</td>
-                <td className="p-3 text-stone-600">河口湖駅周辺</td>
+                <td className="p-3 text-stone-600">中央道河口湖ＩＣ10分、富士急河口湖駅から車10分＜10名様以上河口湖駅より無料送迎あり(要予約） ＞</td>
                 <td className="p-3 text-stone-600">大型駐車場有り　60台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.35（345件）</td>
                 <td className="p-3 font-bold text-rose-600">¥9,100〜</td>
@@ -262,7 +262,7 @@ export default function RailwayActivityHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. ＨＡＮＺ　ＯＵＴＤＯＯＲ　ＲＥＳＯＲＴ（旧：グランピングヴィラハンズ河口湖）</td>
                 <td className="p-3 text-stone-600">山梨県南都留郡富士河口湖町勝山3283－1</td>
-                <td className="p-3 text-stone-600">河口湖駅周辺</td>
+                <td className="p-3 text-stone-600">河口湖ＩＣよりお車にて約９分</td>
                 <td className="p-3 text-stone-600">有り　２７台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.27（187件）</td>
                 <td className="p-3 font-bold text-rose-600">¥24,300〜</td>
@@ -271,7 +271,7 @@ export default function RailwayActivityHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. ＧＬＡＭＰＩＮＧ　ＨＡＮＺ　ＰＡＯ（旧：グランピングヴィラハンズ河口湖）</td>
                 <td className="p-3 text-stone-600">山梨県南都留郡富士河口湖町勝山3250</td>
-                <td className="p-3 text-stone-600">河口湖駅周辺</td>
+                <td className="p-3 text-stone-600">河口湖駅タクシーで約10分</td>
                 <td className="p-3 text-stone-600">あり　30台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.06（17件）</td>
                 <td className="p-3 font-bold text-rose-600">¥12,800〜</td>
@@ -280,7 +280,7 @@ export default function RailwayActivityHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. ｅｎｉｃｏ．Ｍｔ．Ｆｕｊｉ　Ｒｅｓｏｒｔ　＆　Ｇｌａｍｐｉｎｇ</td>
                 <td className="p-3 text-stone-600">山梨県南都留郡鳴沢村字猿口7472-11</td>
-                <td className="p-3 text-stone-600">河口湖駅周辺</td>
+                <td className="p-3 text-stone-600">河口湖駅よりお車で約２０分、中央自動車道河口湖ＩＣより約１５分</td>
                 <td className="p-3 text-stone-600">有り　１４台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.17（8件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,600〜</td>
@@ -289,7 +289,7 @@ export default function RailwayActivityHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. キャメルホテル＆グランピングリゾート</td>
                 <td className="p-3 text-stone-600">千葉県夷隅郡御宿町上布施3360</td>
-                <td className="p-3 text-stone-600">御宿駅周辺</td>
+                <td className="p-3 text-stone-600">お車：圏央道市原鶴舞IC下車３５分 電車：外房線御宿駅下車 ９：００～１７：００送迎可※要事前予約 タクシー１３分要予約</td>
                 <td className="p-3 text-stone-600">有り　２００台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.24（1336件）</td>
                 <td className="p-3 font-bold text-rose-600">¥10,000〜</td>
@@ -298,7 +298,7 @@ export default function RailwayActivityHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">6. 旅館＆グランピングリゾート　花山水　－ＨＡＮＡＳＡＮＳＵＩ－</td>
                 <td className="p-3 text-stone-600">千葉県夷隅郡大多喜町会所49</td>
-                <td className="p-3 text-stone-600">上総中野駅周辺</td>
+                <td className="p-3 text-stone-600">上総興津駅からタクシー１５分。アクアライン利用で、都内・川崎・横浜より1時間半。一部道路不通によりGoogleナビ推奨。</td>
                 <td className="p-3 text-stone-600">有り　20台　無料　予約不要です</td>
                 <td className="p-3 font-bold text-amber-600">★4.37（1407件）</td>
                 <td className="p-3 font-bold text-rose-600">¥9,900〜</td>
@@ -327,7 +327,7 @@ export default function RailwayActivityHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>大型駐車場有り　60台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「開放的なロッジと後片付け不要のBBQロッジ内は天井が高くて開放的。大きな木のテーブルも雰囲気がありステキでした。夕飯はバーベキュー、後片付けもやって貰えるのでとてもいい。量も十分です。おにぎり、と…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「開放的なロッジと後片付け不要のBBQロッジ内は天井が高くて開放的。大きな木のテーブルも雰囲気がありステキでした。夕飯はバーベキュー、後片付けもやって貰えるのでとてもいい。量も十分です。」
                   </blockquote>
                 </div>
               </div>
@@ -349,7 +349,7 @@ export default function RailwayActivityHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２７台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「BBQと露天風呂に羽アリが大量発生全体的にはいい施設だと思います。ただ、夏だからだとは思いますが、BBQ中、羽アリが大量発生して正直気持ち悪かったです...バスタブの中にも大量にいたので、露天…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「BBQと露天風呂に羽アリが大量発生全体的にはいい施設だと思います。」
                   </blockquote>
                 </div>
               </div>
@@ -415,7 +415,7 @@ export default function RailwayActivityHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２００台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「停電時の案内がなく不安、対応に改善を望む部屋やロケーション最高に良かったです。子どもたちも大満足でした。しかし夜の11時頃に停電があり、その時ちょうど温泉に入っていたのですが、放送や案内など一切な…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「停電時の案内がなく不安、対応に改善を望む部屋やロケーション最高に良かったです。子どもたちも大満足でした。」
                   </blockquote>
                 </div>
               </div>

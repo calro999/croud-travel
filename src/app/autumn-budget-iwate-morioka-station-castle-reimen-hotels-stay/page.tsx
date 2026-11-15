@@ -401,7 +401,7 @@ export default function AutumnBudgetHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. アパホテル〈盛岡駅前〉</td>
                 <td className="p-3 text-stone-600">岩手県盛岡市盛岡駅前通14-3</td>
-                <td className="p-3 text-stone-600">盛岡駅周辺</td>
+                <td className="p-3 text-stone-600">盛岡駅（地下自由通路B4出口）徒歩1分、いわて花巻空港よりリムジンバスで50分</td>
                 <td className="p-3 text-stone-600">提携駐車場3か所合計600台以上！（①PNP盛岡駅前　②ペリカンパークひめかみ　③タイムズフェザン）</td>
                 <td className="p-3 font-bold text-amber-600">★4.29（714件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,690〜</td>
@@ -410,7 +410,7 @@ export default function AutumnBudgetHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. リッチモンドホテル盛岡駅前</td>
                 <td className="p-3 text-stone-600">岩手県盛岡市盛岡駅前通9-17</td>
-                <td className="p-3 text-stone-600">盛岡駅周辺</td>
+                <td className="p-3 text-stone-600">JR盛岡駅東口を出て徒歩約３分</td>
                 <td className="p-3 text-stone-600">近隣の有料駐車場をご案内。15：00〜翌朝10：00まで900円。時間外1時間300円〜</td>
                 <td className="p-3 font-bold text-amber-600">★4.55（1518件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,950〜</td>
@@ -419,7 +419,7 @@ export default function AutumnBudgetHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. ダイワロイネットホテル盛岡駅前</td>
                 <td className="p-3 text-stone-600">岩手県盛岡市盛岡駅前通7-15</td>
-                <td className="p-3 text-stone-600">盛岡駅周辺</td>
+                <td className="p-3 text-stone-600">JR盛岡駅より徒歩約4分。東口より地下道A1出口を出て開運橋方面に約100ｍ。</td>
                 <td className="p-3 text-stone-600">機械式立体駐車場60台。先着順。1泊1,100円（税込）でご用意。満車時は提携駐車場をご案内します。</td>
                 <td className="p-3 font-bold text-amber-600">★4.51（1961件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,325〜</td>
@@ -428,7 +428,7 @@ export default function AutumnBudgetHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. ホテルルートイン盛岡駅前</td>
                 <td className="p-3 text-stone-600">岩手県盛岡市盛岡駅前通3-25</td>
-                <td className="p-3 text-stone-600">盛岡駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ東北本線 盛岡駅正面口より徒歩3分</td>
                 <td className="p-3 text-stone-600">有り　立体駐車場７２台　1,000円/泊　先着順・予約不可　入庫制限有り　バイク駐車不可</td>
                 <td className="p-3 font-bold text-amber-600">★4.21（3162件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,400〜</td>
@@ -437,7 +437,7 @@ export default function AutumnBudgetHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. ホテルグローバルビュー盛岡（旧：ＨＯＴＥＬ　ＪＩＮ盛岡駅前）</td>
                 <td className="p-3 text-stone-600">岩手県盛岡市盛岡駅西通1-6-15</td>
-                <td className="p-3 text-stone-600">盛岡駅周辺</td>
+                <td className="p-3 text-stone-600">JR盛岡駅西口より徒歩約5分 盛岡ＩＣから車で約１０分 岩手保健医療大学隣り</td>
                 <td className="p-3 text-stone-600">1泊600円（翌11時迄）先着順で予約不可　満車時はコインパーキングをご利用ください（お客様ご負担）</td>
                 <td className="p-3 font-bold text-amber-600">★4.03（1476件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,350〜</td>
@@ -510,7 +510,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>機械式立体駐車場60台。先着順。1泊1,100円（税込）でご用意。満車時は提携駐車場をご案内します。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.49 ／ 立地 ★4.5 ／ 部屋 ★4.55 ／ 設備 ★4.51 ／ 風呂 ★4.48 ／ 食事 ★4.4</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近で便利、スタッフの親切な対応に感謝駅も近くて、ホテル下にコンビニもあって便利です。長旅で大きなスーツケースだったのですが、盛岡駅は、駅に行くのに地下道に入らなくちゃ、行けなくて、無理だった…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近で便利、スタッフの親切な対応に感謝駅も近くて、ホテル下にコンビニもあって便利です。」
                   </blockquote>
                 </div>
               </div>
@@ -532,7 +532,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　立体駐車場７２台　1,000円/泊　先着順・予約不可　入庫制限有り　バイク駐車不可</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.22 ／ 立地 ★4.23 ／ 部屋 ★4.19 ／ 設備 ★4.14 ／ 風呂 ★4.17 ／ 食事 ★4.17</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの対応と岩手山の眺望に大満足今回初めて利用させていただきました。フロント、レストラン、スタッフの対応がとても素晴らしかった。部屋も綺麗で岩手山眺望も満喫し朝食も美味しく最高の盛岡出…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの対応と岩手山の眺望に大満足今回初めて利用させていただきました。フロント、レストラン、スタッフの対応がとても素晴らしかった。」
                   </blockquote>
                 </div>
               </div>
@@ -554,7 +554,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>1泊600円（翌11時迄）先着順で予約不可　満車時はコインパーキングをご利用ください（お客様ご負担）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.11 ／ 立地 ★3.91 ／ 部屋 ★4 ／ 設備 ★3.94 ／ 風呂 ★4.02 ／ 食事 ★4.22</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「丁寧な周辺案内と綺麗な館内に大満足付近の食事のお店の情報をたくさん調べてとても丁寧にご対応していただきました。すごく気持ちの良いサービスで大満足でした。館内もとても綺麗にされていて、また宿泊し…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「丁寧な周辺案内と綺麗な館内に大満足付近の食事のお店の情報をたくさん調べてとても丁寧にご対応していただきました。すごく気持ちの良いサービスで大満足でした。」
                   </blockquote>
                 </div>
               </div>

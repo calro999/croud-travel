@@ -420,8 +420,8 @@ export default function Page() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 知床斜里駅よりアクセス。女満別空港から車で約2時間、ＪＲ知床斜里駅より車で50分。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「ウトロ温泉 知床第一ホテル」にチェックイン。ウトロ温泉の高台にあり、夕日に映えるオホーツク海を一望する知床の絶景自慢ホテル。などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「ウトロ温泉 知床第一ホテル」の湯処へ。ウトロ温泉の高台にあり、夕日に映えるオホーツク海を一望する知床の絶景自とともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「ウトロ温泉 知床第一ホテル」にチェックイン。ウトロ温泉の高台にあり、夕日に映えるオホーツク海を一望する知床の絶景自慢ホテル。 館内の設えを確かめながら、これからの滞在に備えてゆっくり休息する。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「ウトロ温泉 知床第一ホテル」の湯船で寛ぎタイム。季節の空気を感じながら手足を伸ばし、心豊かな夕方のリラックス時間を満喫。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「ウトロ温泉 知床第一ホテル」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -433,7 +433,7 @@ export default function Page() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「ウトロ温泉 知床第一ホテル」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「ウトロ温泉 知床第一ホテル」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「屋久島いわさきホテル ＜屋久島＞」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は「ウトロ温泉 知床第一ホテル」周辺の観光スポットや地元の名産店に立ち寄り、ご当地のお土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>
@@ -561,7 +561,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. ウトロ温泉　知床第一ホテル</td>
                 <td className="p-3 text-stone-600">北海道斜里郡斜里町ウトロ香川 306</td>
-                <td className="p-3 text-stone-600">知床斜里駅周辺</td>
+                <td className="p-3 text-stone-600">女満別空港から車で約2時間、ＪＲ知床斜里駅より車で50分。</td>
                 <td className="p-3 text-stone-600">有り　１２０台　無料　到着順にご案内</td>
                 <td className="p-3 font-bold text-amber-600">★4.43（1818件）</td>
                 <td className="p-3 font-bold text-rose-600">¥15,400〜</td>
@@ -570,7 +570,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 屋久島いわさきホテル　＜屋久島＞</td>
                 <td className="p-3 text-stone-600">鹿児島県熊毛郡屋久島町尾之間1306</td>
-                <td className="p-3 text-stone-600">鹿児島駅周辺</td>
+                <td className="p-3 text-stone-600">宮之浦港または屋久島空港から路線バスまたはタクシー・レンタカー</td>
                 <td className="p-3 text-stone-600">有り：５０台（無料・先着順）</td>
                 <td className="p-3 font-bold text-amber-600">★4.4（145件）</td>
                 <td className="p-3 font-bold text-rose-600">¥20,400〜</td>
@@ -579,7 +579,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 黄金崎不老ふ死温泉</td>
                 <td className="p-3 text-stone-600">青森県西津軽郡深浦町舮作下清滝15</td>
-                <td className="p-3 text-stone-600">ウェスパ椿山駅周辺</td>
+                <td className="p-3 text-stone-600">ウェスパ椿山駅よりお車で５分。</td>
                 <td className="p-3 text-stone-600">有り　100台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.49（1294件）</td>
                 <td className="p-3 font-bold text-rose-600">¥10,450〜</td>
@@ -608,7 +608,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１２０台　無料　到着順にご案内</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.47 ／ 立地 ★4.48 ／ 部屋 ★4.48 ／ 設備 ★4.33 ／ 風呂 ★4.48 ／ 食事 ★4.6</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「バイキングの種類が豊富でアルコールも充実バイキングはたくさん種類があって食べきれないほどです秋刀魚のお寿司があって嬉しかったですアルコールフリーで満足ソラチが飲めたのが良かったです…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「バイキングの種類が豊富でアルコールも充実バイキングはたくさん種類があって食べきれないほどです秋刀魚のお寿司があって嬉しかったですアルコールフリーで満足ソラチが飲めたのが良かったです。」
                   </blockquote>
                 </div>
               </div>

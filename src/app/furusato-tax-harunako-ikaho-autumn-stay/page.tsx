@@ -439,7 +439,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 伊香保温泉　いかほ秀水園</td>
                 <td className="p-3 text-stone-600">群馬県渋川市伊香保町伊香保557</td>
-                <td className="p-3 text-stone-600"></td>
+                <td className="p-3 text-stone-600">群馬県渋川市伊香保町伊香保557 ／ 交通案内：</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.3（573件）</td>
                 <td className="p-3 font-bold text-rose-600">¥9,350〜</td>
@@ -448,7 +448,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 伊香保温泉　温泉宿　塚越屋七兵衛</td>
                 <td className="p-3 text-stone-600">群馬県渋川市伊香保町伊香保175</td>
-                <td className="p-3 text-stone-600">渋川駅周辺</td>
+                <td className="p-3 text-stone-600">関越自動車道 渋川・伊香保ICより車にて20分 ※路線バス・高速バスをご利用の際はバス停送迎有（到着時連絡）</td>
                 <td className="p-3 text-stone-600">有り　100台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.43（889件）</td>
                 <td className="p-3 font-bold text-rose-600">¥10,010〜</td>
@@ -457,7 +457,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 伊香保温泉　金太夫（伊東園ホテルズ）</td>
                 <td className="p-3 text-stone-600">群馬県渋川市伊香保町19</td>
-                <td className="p-3 text-stone-600">渋谷駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ 渋川駅から車で約２５分</td>
                 <td className="p-3 text-stone-600">有り　６０台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★3.76（894件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,348〜</td>
@@ -508,7 +508,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　100台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「リーズナブルで料理も温泉も大満足!家族4人で宿泊(子供は4歳と2歳)しました。お盆終盤の8/15(土)、宿泊当日の朝に予約しました。一泊2食付きでとてもリーズナブルな価格設定にびっくり。料理も…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「リーズナブルで料理も温泉も大満足!家族4人で宿泊(子供は4歳と2歳)しました。お盆終盤の8/15(土)、宿泊当日の朝に予約しました。一泊2食付きでとてもリーズナブルな価格設定にびっくり。」
                   </blockquote>
                 </div>
               </div>
@@ -530,7 +530,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　６０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「2026年のお盆期間中に利用しました。立地・石段街のほぼ頂上に近く、ホテルから石段街は数分で着いてしまいます!伊香保には伊藤園グループがここを含めて3件ありますが、一番石段街に近い場所かと思い…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「2026年のお盆期間中に利用しました。立地・石段街のほぼ頂上に近く、ホテルから石段街は数分で着いてしまいます!」
                   </blockquote>
                 </div>
               </div>

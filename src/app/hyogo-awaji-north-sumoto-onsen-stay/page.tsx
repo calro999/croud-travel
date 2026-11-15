@@ -253,7 +253,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 洲本温泉　淡路インターナショナルホテル　ザ・サンプラザ　＜淡路島＞</td>
                 <td className="p-3 text-stone-600">兵庫県洲本市小路谷1279-13</td>
-                <td className="p-3 text-stone-600">洲本駅周辺</td>
+                <td className="p-3 text-stone-600">大阪駅より高速バス120分/三宮駅より高速バス80分/神戸淡路鳴門道洲本ICより15分</td>
                 <td className="p-3 text-stone-600">有り/無料　　　客室内ネット接続：Wi-Fi/無料　ホテル・旅館100選37年連続受賞</td>
                 <td className="p-3 font-bold text-amber-600">★4.42（3068件）</td>
                 <td className="p-3 font-bold text-rose-600">¥15,400〜</td>
@@ -262,7 +262,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 淡路島洲本温泉　海月舘</td>
                 <td className="p-3 text-stone-600">兵庫県洲本市海岸通1-3-11</td>
-                <td className="p-3 text-stone-600">舞子駅周辺</td>
+                <td className="p-3 text-stone-600">洲本高速バスターミナルより徒歩5分。</td>
                 <td className="p-3 text-stone-600">有り　50台（乗用車）　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.3（4526件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,600〜</td>
@@ -271,7 +271,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. Ｈｏｔｅｌ　Ｔｈｅ　Ｄａｙ　Ｏｓａｋａ</td>
                 <td className="p-3 text-stone-600">大阪府大阪市此花区北港緑地2-3-75</td>
-                <td className="p-3 text-stone-600">桜島駅周辺</td>
+                <td className="p-3 text-stone-600">JRゆめ咲線ユニバーサルシティ駅よりタクシーにて約15分／JR桜島駅より舞洲アクティブバスにて約15分</td>
                 <td className="p-3 text-stone-600">有り　180台　有料（先着順、1泊1500円）</td>
                 <td className="p-3 font-bold text-amber-600">★4.48（1179件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,590〜</td>
@@ -289,7 +289,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 南あわじ温泉郷　潮崎の湯　やぶ萬旅館　＜淡路島＞</td>
                 <td className="p-3 text-stone-600">兵庫県南あわじ市福良乙4</td>
-                <td className="p-3 text-stone-600">三宮駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ三宮駅またはＪＲ舞子駅より福良行きバス 終点より徒歩5分</td>
                 <td className="p-3 text-stone-600">有り　３０台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.51（592件）</td>
                 <td className="p-3 font-bold text-rose-600">¥11,000〜</td>
@@ -327,7 +327,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り/無料　　　客室内ネット接続：Wi-Fi/無料　ホテル・旅館100選37年連続受賞</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.53 ／ 立地 ★4.55 ／ 部屋 ★4.33 ／ 設備 ★4.21 ／ 風呂 ★4.38 ／ 食事 ★4.57</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「豪華な部屋食と朝日が最高部屋食で高齢の母でも安心して食べれるよう椅子に座って食事が出来、助かったのと、すごく豪華な食事に感動しましたお刺身が大量盛りで美味しかったです。朝食もミニお重で可愛く盛…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「豪華な部屋食と朝日が最高部屋食で高齢の母でも安心して食べれるよう椅子に座って食事が出来、助かったのと、すごく豪華な食事に感動しましたお刺身が大量盛りで美味しかったです。」
                   </blockquote>
                 </div>
               </div>
@@ -349,7 +349,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　50台（乗用車）　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「海月館さんに宿泊するためだけに淡路島に来たい!夏休みの思い出に淡路島へ...とただ毎年恒例の夏休みの思い出のつもりでした。フロリックシーアドベンチャーパークとニジゲンノモリがメインでした。…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「海月館さんに宿泊するためだけに淡路島に来たい!夏休みの思い出に淡路島へ...とただ毎年恒例の夏休みの思い出のつもりでした。フロリックシーアドベンチャーパークとニジゲンノモリがメインでした。」
                   </blockquote>
                 </div>
               </div>
@@ -371,7 +371,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　180台　有料（先着順、1泊1500円）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「アクティビティ満載で一日中楽しめた!花火で遊べたり焼きマシュマロやわたがしのサービスもあってバトミントンなどの貸し出しも無料でしてくださりめっちゃ楽しかったです!5人で行きました!!!もっと早くチ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「アクティビティ満載で一日中楽しめた!花火で遊べたり焼きマシュマロやわたがしのサービスもあってバトミントンなどの貸し出しも無料でしてくださりめっちゃ楽しかったです!5人で行きました!!!」
                   </blockquote>
                 </div>
               </div>
@@ -415,7 +415,7 @@ export default function MicroTouristHubPage() {
                   <p>【兵庫・淡路島北部＆洲本温泉：明石海峡大橋・花さじき＆】 <strong>【駐車場・マイカー利用】</strong>有り　３０台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「清潔な部屋と絶品の料理、泉質も最高部屋は新しくはないものの、清潔に清掃されていました。トイレと手洗い場が一緒なのは少々残念でした。お風呂の泉質は非常に良かった。料理は夜も朝も出てくるもの全て100…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「清潔な部屋と絶品の料理、泉質も最高部屋は新しくはないものの、清潔に清掃されていました。トイレと手洗い場が一緒なのは少々残念でした。お風呂の泉質は非常に良かった。」
                   </blockquote>
                 </div>
               </div>
@@ -437,7 +437,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　70台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.18 ／ 立地 ★4.3 ／ 部屋 ★4.13 ／ 設備 ★3.85 ／ 風呂 ★3.94 ／ 食事 ★4.32</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「夕焼けは綺麗だが部屋食の対応が残念6階の部屋でお天気も良く、夕焼けがとても綺麗でした。夕食は、部屋食でしたが人手が足りないのか、お酒の注文も、部屋から出て配膳の所に言いに行ったり、ご飯を食べる…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「夕焼けは綺麗だが部屋食の対応が残念6階の部屋でお天気も良く、夕焼けがとても綺麗でした。」
                   </blockquote>
                 </div>
               </div>

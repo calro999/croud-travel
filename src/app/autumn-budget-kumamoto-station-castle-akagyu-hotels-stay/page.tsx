@@ -401,7 +401,7 @@ export default function AutumnBudgetHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. アンドコンフィホテル熊本城ビュー</td>
                 <td className="p-3 text-stone-600">熊本県熊本市中央区城東町5-3</td>
-                <td className="p-3 text-stone-600">熊本駅から市電（健軍方面）で通町筋駅へ約15分、阿蘇くまもと空港から通</td>
+                <td className="p-3 text-stone-600">熊本駅から市電（健軍方面）で通町筋駅へ約15分、阿蘇くまもと空港から通町筋駅までリムジンバスで約40分、下車後徒歩約6分</td>
                 <td className="p-3 text-stone-600">提携駐車場：トラストパークオークスタワーパーキング、アンピールパーキング、パスート24上通</td>
                 <td className="p-3 font-bold text-amber-600">★4.45（770件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,940〜</td>
@@ -410,7 +410,7 @@ export default function AutumnBudgetHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 天然温泉　神水美肌の湯　スーパーホテル熊本駅前天然温泉</td>
                 <td className="p-3 text-stone-600">熊本県熊本市西区春日2-3-23</td>
-                <td className="p-3 text-stone-600">熊本駅周辺</td>
+                <td className="p-3 text-stone-600">JR熊本駅白川口（東口）より徒歩２分/九州自動車道 『熊本IC』より車で約30分</td>
                 <td className="p-3 text-stone-600">JR熊本駅ビル第1駐車場 先着順1000円 （入庫から24時間）※時間内の入出庫可</td>
                 <td className="p-3 font-bold text-amber-600">★4.35（785件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,400〜</td>
@@ -419,7 +419,7 @@ export default function AutumnBudgetHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 天然温泉スーパーホテル熊本商工会議所前</td>
                 <td className="p-3 text-stone-600">熊本県熊本市中央区魚屋町1-30-1</td>
-                <td className="p-3 text-stone-600">熊本駅周辺</td>
+                <td className="p-3 text-stone-600">JR熊本駅より熊本市電約４分「河原町」下車徒歩２分／熊本交通センター徒歩８分／熊本空港～リムジンバス商工会議所前目の前</td>
                 <td className="p-3 text-stone-600">◆駐車場 地域最大級！駐車場可能台数140台！！　■午後15時～受付　■1泊550円（2輪車含む）</td>
                 <td className="p-3 font-bold text-amber-600">★4.06（5668件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,750〜</td>
@@ -428,7 +428,7 @@ export default function AutumnBudgetHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. グリーンリッチホテル水前寺(市立体育館前・水前寺公園入口前)</td>
                 <td className="p-3 text-stone-600">熊本県熊本市中央区出水1-8-5</td>
-                <td className="p-3 text-stone-600">熊本駅周辺</td>
+                <td className="p-3 text-stone-600">■熊本市電「市立体育館前」は目の前■空港リムジンバス停車！「水前寺公園前」バス停より徒歩１分■水前寺公園までは徒歩２分■</td>
                 <td className="p-3 text-stone-600">普通車１泊１０００円（税込）■完全予約制■満車の際は有料駐車場をご利用ください　バイク１泊２００円</td>
                 <td className="p-3 font-bold text-amber-600">★3.23（2120件）</td>
                 <td className="p-3 font-bold text-rose-600">¥2,975〜</td>
@@ -437,7 +437,7 @@ export default function AutumnBudgetHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. アークホテル熊本城前　－ルートインホテルズ－</td>
                 <td className="p-3 text-stone-600">熊本県熊本市中央区城東町5-16</td>
-                <td className="p-3 text-stone-600">熊本駅周辺</td>
+                <td className="p-3 text-stone-600">熊本駅から20分■熊本市電／熊本駅→熊本城・市役所前駅→徒歩5分 熊本空港から50分■バス／空港→通町筋バス停→徒歩7分</td>
                 <td className="p-3 text-stone-600">立体駐車場　46台（先着順） 1200円/泊 (全長5.05ｍ・車幅1.75ｍ・車高1.55ｍ迄）</td>
                 <td className="p-3 font-bold text-amber-600">★4.36（2629件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,520〜</td>
@@ -466,7 +466,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>提携駐車場：トラストパークオークスタワーパーキング、アンピールパーキング、パスート24上通</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「熊本城を望む立地と細やかなサービスに感謝まず、被災の状況の中でしたが、予定通り宿泊ができ助かりました。ありがとうございました。1階にウェルカムドリンクがあり、暑い中で休息が取れました。連泊の際…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「熊本城を望む立地と細やかなサービスに感謝まず、被災の状況の中でしたが、予定通り宿泊ができ助かりました。ありがとうございました。1階にウェルカムドリンクがあり、暑い中で休息が取れました。」
                   </blockquote>
                 </div>
               </div>
@@ -488,7 +488,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>JR熊本駅ビル第1駐車場 先着順1000円 （入庫から24時間）※時間内の入出庫可</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.43 ／ 立地 ★4.38 ／ 部屋 ★4.34 ／ 設備 ★4.3 ／ 風呂 ★4.29 ／ 食事 ★4.31</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「3年前を覚えていてくれた心遣いに感激3年前にも利用しましたが今回も利用させて頂きました。駅から近い事もあり便利でした。また3年前に利用した事も覚えていてくれて小さい心づかいが嬉しかったです。また熟…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「3年前を覚えていてくれた心遣いに感激3年前にも利用しましたが今回も利用させて頂きました。駅から近い事もあり便利でした。また3年前に利用した事も覚えていてくれて小さい心づかいが嬉しかったです。」
                   </blockquote>
                 </div>
               </div>
@@ -510,7 +510,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>◆駐車場 地域最大級！駐車場可能台数140台！！　■午後15時～受付　■1泊550円（2輪車含む）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「旅彩の料理が絶品、熊本城観光の拠点に最適レストラン「旅彩」がとっても美味でした!馬刺しや鮮魚、郷土料理が沢山あり、落ち着いた空間です。熊本駅から少し距離がありアクセスに不安がありましたが、熊本…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「旅彩の料理が絶品、熊本城観光の拠点に最適レストラン「旅彩」がとっても美味でした!馬刺しや鮮魚、郷土料理が沢山あり、落ち着いた空間です。」
                   </blockquote>
                 </div>
               </div>
@@ -532,7 +532,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>普通車１泊１０００円（税込）■完全予約制■満車の際は有料駐車場をご利用ください　バイク１泊２００円</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.41 ／ 立地 ★3.4 ／ 部屋 ★3.18 ／ 設備 ★3.07 ／ 風呂 ★3.09</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「立地は良いが周辺に店がなく不便、バスは狭め電停の前で、立地は悪くないが、近くに店やコビニもなく不便と感じた、朝食のおにぎりを買い損ねて高級なモーニングを食べることになったのが残念。おにぎり1個分…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「立地は良いが周辺に店がなく不便、バスは狭め電停の前で、立地は悪くないが、近くに店やコビニもなく不便と感じた、朝食のおにぎりを買い損ねて高級なモーニングを食べることになったのが残念。」
                   </blockquote>
                 </div>
               </div>
@@ -554,7 +554,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>立体駐車場　46台（先着順） 1200円/泊 (全長5.05ｍ・車幅1.75ｍ・車高1.55ｍ迄）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「出張で1泊利用しました。客室の設備などは年数が経っている印象を受けますが、隅々まで清掃が行き届いており気持ちよく過ごせました。上通商店街や繁華街に近く、夜の食事に出かけるのにも非常に便利です。…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「出張で1泊利用しました。客室の設備などは年数が経っている印象を受けますが、隅々まで清掃が行き届いており気持ちよく過ごせました。上通商店街や繁華街に近く、夜の食事に出かけるのにも非常に便利です。」
                   </blockquote>
                 </div>
               </div>

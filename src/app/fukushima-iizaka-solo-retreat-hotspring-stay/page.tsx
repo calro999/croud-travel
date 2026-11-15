@@ -338,8 +338,8 @@ export default function ArticlePage() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 福島（福島）駅よりアクセス。ＪＲ福島駅より電車、タクシー共に約25分。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「飯坂温泉 松島屋 桃香」にチェックイン。おかげさまで全館リニューアル！！お子様、ペット大歓迎！夕朝食共お部屋でゆっくりお召し上がり下さい。などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「飯坂温泉 松島屋 桃香」の湯処へ。おかげさまで全館リニューアル！！お子様、ペット大歓迎！夕朝食共お部屋でとともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「飯坂温泉 松島屋 桃香」にチェックイン。おかげさまで全館リニューアル！！お子様、ペット大歓迎！夕朝食共お部屋でゆっくりお召し上がり下さい。 館内の設えを確かめながら、これからの滞在に備えてゆっくり休息する。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「飯坂温泉 松島屋 桃香」の大浴場・露天風呂へ。日暮れの静けさの中で湯に浸かり、旅の緊張をゆっくりと解きほぐす。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「飯坂温泉 松島屋 桃香」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -367,49 +367,49 @@ export default function ArticlePage() {
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">あわせて読みたい人気特集＆全国エリアガイド</h2>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
-            <a href="/winter-aomori-hachinohe-kabushima-ginsaba-senbeijiru-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/winter-fukushima-aizu-higashiyama-ashinomaki-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12・1月青森】八戸前沖銀鯖と本場せんべい汁・八食センター七輪村買い出し＆蕪島神社初詣・太平洋一望の八戸名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12月福島・会津東山＆芦ノ牧温泉】渓谷雪景色と城下町情緒 名物会津牛＆極上馬刺し・郷土こづゆと渓谷露天の名宿5選</span>
             </a>
-            <a href="/aomori-hirosaki-castle-cherry-apple-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/winter-fukushima-ashinomaki-onsen-okawa-valley-snow-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【青森・弘前】弘前城桜・津軽りんご＆三味線宿 完全ガイド ｜ 日本全国・旅宿クラウド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12月福島・会津芦ノ牧温泉】 大川渓谷の初雪絶景と渓流露天・極上会津馬刺し＆会津牛の宿5選</span>
             </a>
-            <a href="/autumn-budget-aomori-hachinohe-tanesashi-senbeijiru-hotels-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/winter-fukushima-dake-onsen-adatara-milky-bath-fukushimagyu-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">八戸：種差海岸の秋風散策と八戸せんべい汁！2,000円台〜泊まれる格安ホテル5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">（metadata.title as string）</span>
             </a>
-            <a href="/furusato-tax-hirosaki-castle-autumn-leaves-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/winter-fukushima-iwaki-yumoto-onsen-ankou-jobanmono-fukushimagyu-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">弘前城の天守と水鏡紅葉＆弘前城菊と紅葉まつり！津軽名湯ホテル×ふるさと納税厳選ガイド青森</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">（metadata.title as string）</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
             <div className="flex flex-wrap gap-2">
               <Link
-                href="/prefectures/hiroshima/"
+                href="/prefectures/fukushima/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                広島県の宿・温泉
+                福島県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/tottori/"
+                href="/prefectures/hokkaido/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                鳥取県の宿・温泉
-              </Link>
-              <Link
-                href="/prefectures/tochigi/"
-                className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
-              >
-                栃木県の宿・温泉
+                北海道の宿・温泉
               </Link>
               <Link
                 href="/prefectures/aomori/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 青森県の宿・温泉
+              </Link>
+              <Link
+                href="/prefectures/iwate/"
+                className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
+              >
+                岩手県の宿・温泉
               </Link>
             </div>
           </div>
@@ -445,7 +445,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 飯坂温泉　松島屋　桃香</td>
                 <td className="p-3 text-stone-600">福島県福島市飯坂町湯野字切湯ノ上14番地</td>
-                <td className="p-3 text-stone-600">福島（福島）駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ福島駅より電車、タクシー共に約25分</td>
                 <td className="p-3 text-stone-600">２0台　有料1台500円税込み</td>
                 <td className="p-3 font-bold text-amber-600">★4.62（223件）</td>
                 <td className="p-3 font-bold text-rose-600">¥14,850〜</td>
@@ -454,7 +454,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. アートホテル弘前シティ</td>
                 <td className="p-3 text-stone-600">青森県弘前市大町1-1-2</td>
-                <td className="p-3 text-stone-600">弘前駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ弘前駅中央口より徒歩1分、青森空港より車で約６０分、東北自動車道（大鰐・弘前ＩＣ）より車で約１５分</td>
                 <td className="p-3 text-stone-600">先着順　ホテル駐車場・提携先駐車場は普通車1泊700円、満車の際は近隣有料駐車場をご案内。</td>
                 <td className="p-3 font-bold text-amber-600">★4.17（2261件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,780〜</td>
@@ -463,7 +463,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. スマイルホテル青森</td>
                 <td className="p-3 text-stone-600">青森県青森市本町2-4-7</td>
-                <td className="p-3 text-stone-600">青森駅周辺</td>
+                <td className="p-3 text-stone-600">JR・青い森鉄道青森駅から徒歩13分/JR新青森駅から車で約15分/青森中央I.C.から車10分/青森空港から車30分</td>
                 <td className="p-3 text-stone-600">提携駐車場あり1泊（15時〜翌10時） 600円〜、到着順。■バイク：不可。</td>
                 <td className="p-3 font-bold text-amber-600">★3.74（2391件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,700〜</td>
@@ -472,7 +472,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. むつパークホテル</td>
                 <td className="p-3 text-stone-600">青森県むつ市田名部町9-10</td>
-                <td className="p-3 text-stone-600">田名部駅周辺</td>
+                <td className="p-3 text-stone-600">JR大湊線下北駅より お車又は路線バスにて約10分。下北交通バスをご利用の方はバス停（むつ）下車後、徒歩１分！</td>
                 <td className="p-3 text-stone-600">有り　70台　無料　予約不要　青空駐車場　トラック等大型車要予約　屋根のあるスペースはありません。</td>
                 <td className="p-3 font-bold text-amber-600">★4.18（1170件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,500〜</td>
@@ -481,7 +481,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. ホテルＪＡＬシティ青森</td>
                 <td className="p-3 text-stone-600">青森県青森市安方2-4-12</td>
-                <td className="p-3 text-stone-600">青森駅周辺</td>
+                <td className="p-3 text-stone-600">●青森駅から徒歩6分●東北自動車道青森中央ICから15分●青森空港からバス約40分「県庁通り」下車徒歩2分</td>
                 <td className="p-3 text-stone-600">立体駐車場・提携パラカ駐車場にて750円/泊</td>
                 <td className="p-3 font-bold text-amber-600">★4.29（3653件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,075〜</td>
@@ -510,7 +510,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>２0台　有料1台500円税込み</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.74 ／ 立地 ★4.54 ／ 部屋 ★4.67 ／ 設備 ★4.68 ／ 風呂 ★4.54 ／ 食事 ★4.61</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「お部屋とお風呂は良いが食事に改善の余地ありお部屋もお風呂も良かったのですが、食事の見栄えは少し足りないように感じました。器をもっと工夫したら、もっと美味しくいただけたかなと思いました。あとキノコ食…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「お部屋とお風呂は良いが食事に改善の余地ありお部屋もお風呂も良かったのですが、食事の見栄えは少し足りないように感じました。器をもっと工夫したら、もっと美味しくいただけたかなと思いました。」
                   </blockquote>
                 </div>
               </div>
@@ -576,7 +576,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　70台　無料　予約不要　青空駐車場　トラック等大型車要予約　屋根のあるスペースはありません。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「飲み屋街が近く部屋も広くて快適、対応に感謝ホテルの立地は田辺部神社の飲み屋街が近く、レトロな街並みは昭和にタイムスリップしたようだった。部屋が広くてのんびりできた。大浴場があったらもっと良かった。…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「飲み屋街が近く部屋も広くて快適、対応に感謝ホテルの立地は田辺部神社の飲み屋街が近く、レトロな街並みは昭和にタイムスリップしたようだった。部屋が広くてのんびりできた。大浴場があったらもっと良かった。」
                   </blockquote>
                 </div>
               </div>
@@ -598,7 +598,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>立体駐車場・提携パラカ駐車場にて750円/泊</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.31 ／ 立地 ★4.21 ／ 部屋 ★4.25 ／ 設備 ★4.17 ／ 風呂 ★4.11 ／ 食事 ★4.44</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近で便利、部屋も広くお風呂も快適青森駅や観光名所のアスパムにほど近くローソンも近くにあって便利な立地かと思います。ウエルカムドリンクでコーヒーとレモン主体の水も置いてあり(時間あり)好感が持てま…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近で便利、部屋も広くお風呂も快適青森駅や観光名所のアスパムにほど近くローソンも近くにあって便利な立地かと思います。」
                   </blockquote>
                 </div>
               </div>

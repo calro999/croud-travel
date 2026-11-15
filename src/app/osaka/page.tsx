@@ -184,7 +184,7 @@ export default function OsakaHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 住友不動産ホテル　ヴィラフォンテーヌグランド大阪梅田</td>
                 <td className="p-3 text-stone-600">大阪府大阪市北区曾根崎2-15-9</td>
-                <td className="p-3 text-stone-600">阪急梅田駅周辺</td>
+                <td className="p-3 text-stone-600">御堂筋線「梅田」徒歩3分、JR線「大阪」徒歩6分、谷町線「東梅田」徒歩2分、阪急本線「大阪梅田」徒歩4分</td>
                 <td className="p-3 text-stone-600">無し</td>
                 <td className="p-3 font-bold text-amber-600">★4.35（255件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,610〜</td>
@@ -193,7 +193,7 @@ export default function OsakaHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 梅田ホリックホテル</td>
                 <td className="p-3 text-stone-600">大阪府大阪市北区兎我野町5番2号</td>
-                <td className="p-3 text-stone-600">東梅田駅周辺</td>
+                <td className="p-3 text-stone-600">JR「大阪駅」徒歩10分。大阪メトロ御堂筋線「梅田駅」徒歩9分。大阪メトロ谷町線「東梅田駅」徒歩6分。</td>
                 <td className="p-3 text-stone-600">有り　4台　2,000円／日 （先着順）※ご宿泊以外に関しましてはホテルにお問合せください。</td>
                 <td className="p-3 font-bold text-amber-600">★4.25（363件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,500〜</td>
@@ -202,7 +202,7 @@ export default function OsakaHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. ホテルビナリオ梅田</td>
                 <td className="p-3 text-stone-600">大阪府大阪市北区豊崎3-9-1</td>
-                <td className="p-3 text-stone-600">中津（大阪市営）駅周辺</td>
+                <td className="p-3 text-stone-600">JR大阪駅御堂筋口より徒歩10分。阪急大阪梅田茶屋町出口より8分。地下鉄御堂筋線中津駅4番出口より徒歩3分。</td>
                 <td className="p-3 text-stone-600">先着順24時間1500円(高155cm幅185㎝長505㎝重1.6ｔ未満)入出庫7：00～22：00</td>
                 <td className="p-3 font-bold text-amber-600">★4.17（3834件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,760〜</td>
@@ -211,7 +211,7 @@ export default function OsakaHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. アパホテル〈新大阪駅前タワー〉</td>
                 <td className="p-3 text-stone-600">大阪府大阪市淀川区西中島7-4-20</td>
-                <td className="p-3 text-stone-600">新大阪駅周辺</td>
+                <td className="p-3 text-stone-600">大阪メトロ御堂筋線「新大阪駅」7番出口 徒歩2分、JR「新大阪駅」正面口 徒歩6分</td>
                 <td className="p-3 text-stone-600">￥2,000（税込）／泊　宿泊者専用。台数 16台。（先着順）　入出庫不可時間 22時～翌朝7時</td>
                 <td className="p-3 font-bold text-amber-600">★4.1（1400件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,960〜</td>
@@ -220,7 +220,7 @@ export default function OsakaHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. ホテルジオメティック大阪梅田，ａｎ　Ａｓｃｅｎｄ　Ｃｏｌｌｅｃｔｉｏｎ　Ｈｏｔｅｌ</td>
                 <td className="p-3 text-stone-600">大阪府大阪市北区曽根崎2-15-23</td>
-                <td className="p-3 text-stone-600">阪神梅田駅周辺</td>
+                <td className="p-3 text-stone-600">地下街で直結する３駅８路線まで徒歩約６分</td>
                 <td className="p-3 text-stone-600">なし</td>
                 <td className="p-3 font-bold text-amber-600">★4.31（117件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,725〜</td>
@@ -229,7 +229,7 @@ export default function OsakaHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">6. ハートンホテル西梅田</td>
                 <td className="p-3 text-stone-600">大阪府大阪市北区梅田3-3-55</td>
-                <td className="p-3 text-stone-600">大阪駅周辺</td>
+                <td className="p-3 text-stone-600">JR大阪駅西口改札から徒歩3分！ 空港リムジンバス発着所「ハービス大阪」から徒歩２分</td>
                 <td className="p-3 text-stone-600">無し</td>
                 <td className="p-3 font-bold text-amber-600">★4.19（7434件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,960〜</td>
@@ -258,7 +258,7 @@ export default function OsakaHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無し</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「立地は便利で館内は静か、接客も丁寧大阪でのライブ帰りに1人1泊しました。お初天神通りの入口入って、直ぐ左手にあり分かりやすく大阪駅からも便利な立地です。周りが居酒屋やバーが沢山ある飲み屋街の為…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「立地は便利で館内は静か、接客も丁寧大阪でのライブ帰りに1人1泊しました。お初天神通りの入口入って、直ぐ左手にあり分かりやすく大阪駅からも便利な立地です。」
                   </blockquote>
                 </div>
               </div>
@@ -280,7 +280,7 @@ export default function OsakaHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　4台　2,000円／日 （先着順）※ご宿泊以外に関しましてはホテルにお問合せください。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「トイレバス別で快適、大阪駅へのアクセスも抜群トイレバス別が決め手で予約しました!浴槽も大きめでゆったりと湯船に浸かれて疲れた身体を癒せました夜も静かに休めたし、大阪駅までのアクセスもよくまた利用し…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「トイレバス別で快適、大阪駅へのアクセスも抜群トイレバス別が決め手で予約しました!」
                   </blockquote>
                 </div>
               </div>
@@ -346,7 +346,7 @@ export default function OsakaHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>なし</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.42 ／ 立地 ★4.33 ／ 部屋 ★4.31 ／ 設備 ★4.26 ／ 風呂 ★4.23 ／ 食事 ★3.93</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「東梅田駅すぐで便利、新しく綺麗な部屋立地は、東梅田駅よりすぐです。ホワイティうめだの地下からホテルに行けるのでとても便利。お部屋は、できて3ヶ月なのでとてもキレイ。ただ眺めはありません。泊まること…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「東梅田駅すぐで便利、新しく綺麗な部屋立地は、東梅田駅よりすぐです。ホワイティうめだの地下からホテルに行けるのでとても便利。お部屋は、できて3ヶ月なのでとてもキレイ。ただ眺めはありません。」
                   </blockquote>
                 </div>
               </div>

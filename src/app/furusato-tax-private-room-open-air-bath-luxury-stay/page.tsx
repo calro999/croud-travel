@@ -411,8 +411,8 @@ export default function FurusatoPrivateRoomOpenAirStayPage() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 修善寺駅よりアクセス。伊豆箱根鉄道修善寺駅から路線バスまたはタクシー（送迎不可）/東名高速沼津ICから伊豆縦貫道・伊豆中央道経由約３５分。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「修善寺温泉 宙ＳＯＲＡ 渡月荘金龍」にチェックイン。客室からは四季を感じられる自然が一望できます。月替りの会席は人気の絶品です。などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「修善寺温泉 宙ＳＯＲＡ 渡月荘金龍」の湯処へ。客室からは四季を感じられる自然が一望できます。月替りの会席は人気の絶品とともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「修善寺温泉 宙ＳＯＲＡ 渡月荘金龍」にチェックイン。客室からは四季を感じられる自然が一望できます。月替りの会席は人気の絶品です。 荷物を解き、落ち着いた室内でまず一息つく。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「修善寺温泉 宙ＳＯＲＡ 渡月荘金龍」の湯船で寛ぎタイム。季節の空気を感じながら手足を伸ばし、心豊かな夕方のリラックス時間を満喫。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「修善寺温泉 宙ＳＯＲＡ 渡月荘金龍」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -424,7 +424,7 @@ export default function FurusatoPrivateRoomOpenAirStayPage() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「修善寺温泉 宙ＳＯＲＡ 渡月荘金龍」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「修善寺温泉 宙ＳＯＲＡ 渡月荘金龍」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「金乃竹 塔ノ澤」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は「修善寺温泉 宙ＳＯＲＡ 渡月荘金龍」周辺の観光スポットや地元の名産店に立ち寄り、ご当地のお土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>

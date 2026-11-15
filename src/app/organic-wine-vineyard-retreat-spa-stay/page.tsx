@@ -564,8 +564,8 @@ export default function FeatureDetailPage() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 福江空港駅よりアクセス。福江港から福江空港方面へ 途中の広域農道の案内看板に従い左折し、約3ｋｍ。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「五島コンカナ王国ワイナリー＆リゾート ＜五島・福江島＞」にチェックイン。五島の大自然に囲まれ、自社農園のワインと島食材の美食を堪能。異国情緒溢れる空間で寛ぐ離島リゾート。などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「五島コンカナ王国ワイナリー＆リゾート ＜五島・福江島＞」の湯処へ。五島の大自然に囲まれ、自社農園のワインと島食材の美食を堪能。異国情緒溢とともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「五島コンカナ王国ワイナリー＆リゾート ＜五島・福江島＞」にチェックイン。五島の大自然に囲まれ、自社農園のワインと島食材の美食を堪能。異国情緒溢れる空間で寛ぐ離島リゾート。 荷物を解き、落ち着いた室内でまず一息つく。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「五島コンカナ王国ワイナリー＆リゾート ＜五島・福江島＞」の大浴場・露天風呂へ。日暮れの静けさの中で湯に浸かり、旅の緊張をゆっくりと解きほぐす。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「五島コンカナ王国ワイナリー＆リゾート ＜五島・福江島＞」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -577,7 +577,7 @@ export default function FeatureDetailPage() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「五島コンカナ王国ワイナリー＆リゾート ＜五島・福江島＞」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「五島コンカナ王国ワイナリー＆リゾート ＜五島・福江島＞」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「大鰐温泉郷 青森ワイナリーホテル」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は「五島コンカナ王国ワイナリー＆リゾート ＜五島・福江島＞」周辺の観光スポットや地元の名産店に立ち寄り、ご当地のお土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>
@@ -627,26 +627,32 @@ export default function FeatureDetailPage() {
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">あわせて読みたい人気特集＆全国エリアガイド</h2>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
-            <a href="/tokyo-aomori-bus-vs-shinkansen-guide/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/shimonoseki-solo-business-fugu-kaikyo-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">東京〜青森・弘前：新幹線はやぶさ vs 夜行バス徹底比較！料金半額以下の夜行旅＆奥入瀬渓流・弘前城1泊2日モデルコース</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「下関出張・男一人旅」天然温泉関門の湯・関門海峡パノラマ・本場下関ふく料理！本州最西端の海峡拠点でととのう厳選3宿</span>
             </a>
-            <a href="/winter-aomori-owani-hirosaki-onsen-moyashi-tsugarugyu-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/shizuoka-solo-business-maguro-fujiview-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12月津軽】冬限定「大鰐温泉もやし」と開湯800年の名湯・津軽あっぷる牛＆弘前城冬さくらライトアップを巡る名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「静岡出張＆富士山ひとり旅」新幹線直結・清水港まぐろ・静岡茶ラウンジ！名峰の絶景に癒やされる極上ホテル 厳選3選</span>
             </a>
-            <a href="/aomori-shimokita-osorezan-oma-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/silver-week-glamping-kanto-fuji-guide/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">青森・下北半島＆恐山・大間：本州最北端大間マグロ・日本三大霊場恐山宿 厳選ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「シルバーウィーク2026 富士山・関東グランピング」 客室天然温泉＆富士絶景ドームテント 秋風と焚き火に癒やされる極上リゾート厳選</span>
             </a>
-            <a href="/autumn-budget-aomori-station-nokkedon-apple-hotels-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/spring-kyoto-bamboo-grove-arashiyama-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">青森駅前：名物のっけ丼＆旬の津軽りんご・地酒！5,000円台〜泊まれる格安ホテル5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「竹林の小径と渡月橋の風情。嵐山温泉＆極上京懐石を味わう京都の名旅館5選」竹林の小径と渡月橋の風情。嵐山温泉＆極上京懐石を味わう京都の名旅館5選</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
             <div className="flex flex-wrap gap-2">
+              <Link
+                href="/prefectures/kyoto/"
+                className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
+              >
+                京都府の宿・温泉
+              </Link>
               <Link
                 href="/prefectures/osaka/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
@@ -654,22 +660,16 @@ export default function FeatureDetailPage() {
                 大阪府の宿・温泉
               </Link>
               <Link
-                href="/prefectures/aichi/"
+                href="/prefectures/hyogo/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                愛知県の宿・温泉
+                兵庫県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/fukushima/"
+                href="/prefectures/nara/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                福島県の宿・温泉
-              </Link>
-              <Link
-                href="/prefectures/miyazaki/"
-                className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
-              >
-                宮崎県の宿・温泉
+                奈良県の宿・温泉
               </Link>
             </div>
           </div>
@@ -705,7 +705,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 五島コンカナ王国ワイナリー＆リゾート　＜五島・福江島＞</td>
                 <td className="p-3 text-stone-600">長崎県五島市上大津町2413</td>
-                <td className="p-3 text-stone-600">福江空港駅周辺</td>
+                <td className="p-3 text-stone-600">福江港から福江空港方面へ 途中の広域農道の案内看板に従い左折し、約3ｋｍ</td>
                 <td className="p-3 text-stone-600">有り（200台／無料／先着順）</td>
                 <td className="p-3 font-bold text-amber-600">★3.96（277件）</td>
                 <td className="p-3 font-bold text-rose-600">¥9,225〜</td>
@@ -714,7 +714,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 大鰐温泉郷　青森ワイナリーホテル</td>
                 <td className="p-3 text-stone-600">青森県南津軽郡大鰐町島田滝の沢100-9</td>
-                <td className="p-3 text-stone-600">大鰐温泉駅周辺</td>
+                <td className="p-3 text-stone-600">JR大鰐温泉駅～ホテル間の無料送迎バス有【2日前までの予約制】 9:00～18:45の間で運行。公式HPに時刻表有。</td>
                 <td className="p-3 text-stone-600">有り　100台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.06（505件）</td>
                 <td className="p-3 font-bold text-rose-600">¥9,900〜</td>
@@ -723,7 +723,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 石和温泉　ホテル平安</td>
                 <td className="p-3 text-stone-600">山梨県笛吹市石和町川中島538</td>
-                <td className="p-3 text-stone-600">石和温泉駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ石和温泉駅：徒歩15分無料送迎5分（15～17時）有/中央道一宮・御坂IC車10分</td>
                 <td className="p-3 text-stone-600">有り　６０台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★3.48（212件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,800〜</td>
@@ -732,7 +732,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 富士山石和温泉郷　春日居びゅーほてる</td>
                 <td className="p-3 text-stone-600">山梨県笛吹市春日居町鎮目178</td>
-                <td className="p-3 text-stone-600">石和温泉駅周辺</td>
+                <td className="p-3 text-stone-600">JR中央本線 石和温泉駅より車で5分／中央自動車道 一宮御坂ICより車で10分／中央高速バス 石和バス停より車で5分</td>
                 <td className="p-3 text-stone-600">有り 100台 無料 予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★3.99（1238件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,250〜</td>
@@ -741,7 +741,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 石和温泉　石和びゅーほてる</td>
                 <td className="p-3 text-stone-600">山梨県笛吹市石和町川中島1607</td>
-                <td className="p-3 text-stone-600">石和温泉駅周辺</td>
+                <td className="p-3 text-stone-600">JR中央本線 石和温泉駅より車で5分／中央自動車道 一宮御坂ICより車で10分／中央高速バス 石和バス停より車で5分</td>
                 <td className="p-3 text-stone-600">有り 120台 無料 予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.06（1734件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,050〜</td>
@@ -770,7 +770,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り（200台／無料／先着順）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「夕食は満足だが子供の食事と朝食は残念初めて利用しました。夕食は五島牛のすき焼きはとても美味しかった。刺し身も良かった。しかし、子供のワンプレートの食事は他のホテルと比較すると、手抜き感が際立ってい…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「夕食は満足だが子供の食事と朝食は残念初めて利用しました。夕食は五島牛のすき焼きはとても美味しかった。刺し身も良かった。」
                   </blockquote>
                 </div>
               </div>
@@ -792,7 +792,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　100台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.15 ／ 立地 ★4.21 ／ 部屋 ★4.06 ／ 設備 ★3.96 ／ 風呂 ★4.07 ／ 食事 ★4.07</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「景色は最高だが山道と騒音に難あり朝、霧が山の下に出てて幻想的でした。夜は、大鰐の夜景が綺麗。山道を登って行くのが大変です。Lowギヤじゃないと登らない。真っ暗な山道が怖かったです。…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「景色は最高だが山道と騒音に難あり朝、霧が山の下に出てて幻想的でした。夜は、大鰐の夜景が綺麗。山道を登って行くのが大変です。Lowギヤじゃないと登らない。真っ暗な山道が怖かったです。」
                   </blockquote>
                 </div>
               </div>
@@ -858,7 +858,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り 120台 無料 予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「清潔感があり、犬連れでも快適に過ごせる温泉宿施設は少し年季が入っていますが、隅々まで掃除が行き届いていて、とても清潔感があり、気持ちよく過ごすことができました。スタッフの皆さんも親切で温かく、とて…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「清潔感があり、犬連れでも快適に過ごせる温泉宿施設は少し年季が入っていますが、隅々まで掃除が行き届いていて、とても清潔感があり、気持ちよく過ごすことができました。」
                   </blockquote>
                 </div>
               </div>

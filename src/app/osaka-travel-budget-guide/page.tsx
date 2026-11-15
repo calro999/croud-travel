@@ -256,7 +256,7 @@ export default function OsakaTravelBudgetPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 日和ホテルＦｌｅｘ大阪道頓堀</td>
                 <td className="p-3 text-stone-600">大阪府大阪市中央区西心斎橋2-6-10</td>
-                <td className="p-3 text-stone-600">南海難波駅周辺</td>
+                <td className="p-3 text-stone-600">各線難波駅25番・26番出口より徒歩3分</td>
                 <td className="p-3 text-stone-600">なし</td>
                 <td className="p-3 font-bold text-amber-600">高評価</td>
                 <td className="p-3 font-bold text-rose-600">¥6,750〜</td>
@@ -265,7 +265,7 @@ export default function OsakaTravelBudgetPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. ＦＯＲＺＡ　ホテルフォルツァ大阪なんば道頓堀</td>
                 <td className="p-3 text-stone-600">大阪府大阪市中央区道頓堀1丁目4-22 3F</td>
-                <td className="p-3 text-stone-600">なんば駅周辺</td>
+                <td className="p-3 text-stone-600">近畿日本鉄道・大阪メトロ「なんば駅」15B出口、大阪メトロ「日本橋駅」2番出口より徒歩約5分</td>
                 <td className="p-3 text-stone-600">無し</td>
                 <td className="p-3 font-bold text-amber-600">★4.75（450件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,590〜</td>
@@ -274,7 +274,7 @@ export default function OsakaTravelBudgetPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. ベニキアカルトンホテル大阪道頓堀</td>
                 <td className="p-3 text-stone-600">大阪府大阪市中央区島之内2-15-4</td>
-                <td className="p-3 text-stone-600">日本橋（大阪）駅周辺</td>
+                <td className="p-3 text-stone-600">地下鉄 日本橋駅2番出口より徒歩4分/ 難波駅より徒歩１０分/関西空港より道頓プラザ行直行バス運行中 ホテルより徒歩１分</td>
                 <td className="p-3 text-stone-600">駐車場はございませんが、交通機関でのアクセスが便利です。日本橋駅から徒歩4分！</td>
                 <td className="p-3 font-bold text-amber-600">★3.71（66件）</td>
                 <td className="p-3 font-bold text-rose-600">¥2,500〜</td>
@@ -283,7 +283,7 @@ export default function OsakaTravelBudgetPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. ＵＳＪ、大阪観光に最適、西九条楽しいＨｏｔｅｌ／民泊</td>
                 <td className="p-3 text-stone-600">大阪府大阪市此花区西九条1-4-16　Ｈｏｔｅｌ　Ｊｕｎｇｌｅ　ｆｕｎ　ｆｕｎ</td>
-                <td className="p-3 text-stone-600">西九条駅周辺</td>
+                <td className="p-3 text-stone-600">西九条駅から徒歩で約５分</td>
                 <td className="p-3 text-stone-600">無し</td>
                 <td className="p-3 font-bold text-amber-600">高評価</td>
                 <td className="p-3 font-bold text-rose-600">プラン参照</td>
@@ -292,7 +292,7 @@ export default function OsakaTravelBudgetPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. ザ　パーク　フロント　ホテル　アット　ユニバーサル・スタジオ・ジャパン</td>
                 <td className="p-3 text-stone-600">大阪府大阪市此花区島屋6-2-52</td>
-                <td className="p-3 text-stone-600">ユニバーサルシティ駅周辺</td>
+                <td className="p-3 text-stone-600">ユニバーサルシティ駅より徒歩約１分</td>
                 <td className="p-3 text-stone-600">109台3500円（13:00〜翌13:00）予約不可※満車の場合は他の駐車場をご案内致します。</td>
                 <td className="p-3 font-bold text-amber-600">★4.57（4229件）</td>
                 <td className="p-3 font-bold text-rose-600">¥9,000〜</td>
@@ -301,7 +301,7 @@ export default function OsakaTravelBudgetPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">6. ザ　シンギュラリホテル　＆　スカイスパ　アット　ユニバーサル・スタジオ・ジャパン</td>
                 <td className="p-3 text-stone-600">大阪府大阪市此花区島屋6丁目2番25号</td>
-                <td className="p-3 text-stone-600">ユニバーサルシティ駅周辺</td>
+                <td className="p-3 text-stone-600">ユニバーサルシティ駅改札からすぐ。※徒歩1分以内</td>
                 <td className="p-3 text-stone-600">2,800円/泊(13時～翌13時)、延長30分300円、現金のみ、予約不可※駐車台数制限あり</td>
                 <td className="p-3 font-bold text-amber-600">★4.43（3340件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,267〜</td>
@@ -374,7 +374,7 @@ export default function OsakaTravelBudgetPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>駐車場はございませんが、交通機関でのアクセスが便利です。日本橋駅から徒歩4分！</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「狭いながらも立地良く清潔なホテルもの凄く狭い部屋でしたが、立地が良く、必要なものは揃っていて、掃除の行き届いたホテルでした。チェックインの時に対応してくれた方は外国籍の方でした。外出時にルーム…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「狭いながらも立地良く清潔なホテルもの凄く狭い部屋でしたが、立地が良く、必要なものは揃っていて、掃除の行き届いたホテルでした。チェックインの時に対応してくれた方は外国籍の方でした。」
                   </blockquote>
                 </div>
               </div>
@@ -418,7 +418,7 @@ export default function OsakaTravelBudgetPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>109台3500円（13:00〜翌13:00）予約不可※満車の場合は他の駐車場をご案内致します。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.59 ／ 立地 ★4.64 ／ 部屋 ★4.56 ／ 設備 ★4.5 ／ 風呂 ★4.5 ／ 食事 ★4.59</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「パークから近く部屋も広くて大満足!とにかくパークからの近さが最高で年パスを持っている身からすると一旦部屋に戻るがすぐにそして簡単にできて最高だった!!洗面台も2個あったり、部屋のお風呂も綺麗で…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「パークから近く部屋も広くて大満足!とにかくパークからの近さが最高で年パスを持っている身からすると一旦部屋に戻るがすぐにそして簡単にできて最高だった!!」
                   </blockquote>
                 </div>
               </div>
@@ -440,7 +440,7 @@ export default function OsakaTravelBudgetPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>2,800円/泊(13時～翌13時)、延長30分300円、現金のみ、予約不可※駐車台数制限あり</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「大浴場と美味しい朝食で疲れが吹き飛ぶユニバで疲れた後、大浴場でゆっくり風呂に入れるのがすごくいい。おかげでスッキリ眠れた。荷物預かりもありがたい。そして何より朝食がすばらしい!ご飯が美味しいし、和…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「大浴場と美味しい朝食で疲れが吹き飛ぶユニバで疲れた後、大浴場でゆっくり風呂に入れるのがすごくいい。おかげでスッキリ眠れた。荷物預かりもありがたい。そして何より朝食がすばらしい!」
                   </blockquote>
                 </div>
               </div>

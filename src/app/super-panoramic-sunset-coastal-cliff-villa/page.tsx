@@ -76,7 +76,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F193275%2F193275.html%26f_flg%3DPLAN",
     "hotelMinCharge": 17250,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/193275/193275.jpg",
-    "userReview": "Ｐｒｉｖａｔｅ　ｖｉｌｌａ　ＹＵＨＩＭＩ　夕日見の丘ならではの立地と落ち着いた空間で、ゆったりとした滞在を楽しめたという声が寄せられています。",
+    "userReview": "Ｐｒｉｖａｔｅ ｖｉｌｌａ ＹＵＨＩＭＩ 夕日見の丘ならではの立地と落ち着いた空間で、ゆったりとした滞在を楽しめたという声が寄せられています。",
     "reviewAverage": 4.4,
     "reviewCount": 100,
     "address": "高知県安芸市赤野甲3083-2",
@@ -90,7 +90,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F183872%2F183872.html%26f_flg%3DPLAN",
     "hotelMinCharge": 7700,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/183872/183872.jpg",
-    "userReview": "ＫＲ　ｂａｓｅ　ｖｉｌｌａ　ＩｚｕＳｈｉｒａｈａｍａ　Ｒｅｓｏｒｔならではの立地と落ち着いた空間で、ゆったりとした滞在を楽しめたという声が寄せられています。",
+    "userReview": "ＫＲ ｂａｓｅ ｖｉｌｌａ ＩｚｕＳｈｉｒａｈａｍａ Ｒｅｓｏｒｔならではの立地と落ち着いた空間で、ゆったりとした滞在を楽しめたという声が寄せられています。",
     "reviewAverage": 4.4,
     "reviewCount": 4,
     "address": "静岡県下田市白浜251-6",
@@ -104,7 +104,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F193486%2F193486.html%26f_flg%3DPLAN",
     "hotelMinCharge": 2125,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/193486/193486.jpg",
-    "userReview": "Ｓｅａｓｉｄｅ　Ｖｉｌｌａ　Ｎ＋ならではの立地と落ち着いた空間で、ゆったりとした滞在を楽しめたという声が寄せられています。",
+    "userReview": "Ｓｅａｓｉｄｅ Ｖｉｌｌａ Ｎ＋ならではの立地と落ち着いた空間で、ゆったりとした滞在を楽しめたという声が寄せられています。",
     "reviewAverage": 4.4,
     "reviewCount": 2,
     "address": "長崎県東彼杵郡川棚町小串郷54-3-2",
@@ -270,7 +270,7 @@ export default function Page() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 赤野駅よりお車で約３分 高知龍馬空港よりお車で約２０分で現地へ到着。</li>
                 <li>・<strong className="text-stone-800">15:30〜</strong> 「Ｐｒｉｖａｔｅ ｖｉｌｌａ ＹＵＨＩＭＩ 夕日見の丘」へチェックイン。落ち着いた空間で旅の荷を解き、ゆったりとした時間をスタート。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「Ｐｒｉｖａｔｅ ｖｉｌｌａ ＹＵＨＩＭＩ 夕日見の丘」の湯処へ。日頃の疲れを癒やす湯浴みとともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「Ｐｒｉｖａｔｅ ｖｉｌｌａ ＹＵＨＩＭＩ 夕日見の丘」の大浴場・露天風呂へ。日暮れの静けさの中で湯に浸かり、旅の緊張をゆっくりと解きほぐす。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「Ｐｒｉｖａｔｅ ｖｉｌｌａ ＹＵＨＩＭＩ 夕日見の丘」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -282,7 +282,7 @@ export default function Page() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「Ｐｒｉｖａｔｅ ｖｉｌｌａ ＹＵＨＩＭＩ 夕日見の丘」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「Ｐｒｉｖａｔｅ ｖｉｌｌａ ＹＵＨＩＭＩ 夕日見の丘」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「ＫＲ ｂａｓｅ ｖｉｌｌａ ＩｚｕＳｈｉｒａｈａｍａ Ｒｅｓｏｒｔ」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は「Ｐｒｉｖａｔｅ ｖｉｌｌａ ＹＵＨＩＭＩ 夕日見の丘」周辺の観光スポットや地元の名産店に立ち寄り、ご当地のお土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>
@@ -437,7 +437,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. ＵＮＯ　ＨＯＴＥＬ</td>
                 <td className="p-3 text-stone-600">岡山県玉野市築港1-1-12</td>
-                <td className="p-3 text-stone-600">JR宇野みなと線「宇野駅」徒歩約1分　/ 「宇野港フェリー乗り場」徒歩</td>
+                <td className="p-3 text-stone-600">JR宇野みなと線「宇野駅」徒歩約1分 / 「宇野港フェリー乗り場」徒歩約3分</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.34（178件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,740〜</td>
@@ -532,7 +532,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「おしゃれな部屋と美味しい食事に大満足女二人旅で1泊しました。おしゃれなお部屋で、オリジナルのドリップコーヒーが置いてあったり、アメニティーも雪肌精で嬉しかったです。24時間あいているラウンジで…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「おしゃれな部屋と美味しい食事に大満足女二人旅で1泊しました。おしゃれなお部屋で、オリジナルのドリップコーヒーが置いてあったり、アメニティーも雪肌精で嬉しかったです。」
                   </blockquote>
                 </div>
               </div>

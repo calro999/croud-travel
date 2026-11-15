@@ -310,7 +310,7 @@ export default function AutumnBudgetFukuyamaHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. グリーンビジネスホテル</td>
                 <td className="p-3 text-stone-600">広島県福山市野上町1-4-22</td>
-                <td className="p-3 text-stone-600">福山駅周辺</td>
+                <td className="p-3 text-stone-600">車：福山東ICから約20分／電車：JR福山駅から徒歩20分（※中国バスへ乗換、「商工中金前」下車 徒歩3分）</td>
                 <td className="p-3 text-stone-600">有り〔10台まで（普通車）／先着順・無料〕※高さ：制限なし</td>
                 <td className="p-3 font-bold text-amber-600">★4.3（345件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,000〜</td>
@@ -319,7 +319,7 @@ export default function AutumnBudgetFukuyamaHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. サンホテル福山</td>
                 <td className="p-3 text-stone-600">広島県福山市城見町1-2-33</td>
-                <td className="p-3 text-stone-600">福山駅周辺</td>
+                <td className="p-3 text-stone-600">福山駅北口から東へ徒歩3分■福山東ＩＣから車で15分■福山西ICから車で20分■福山SAスマートICから車で15分</td>
                 <td className="p-3 text-stone-600">有：71台／敷地内30台※先着順・提携41台※満車時のご案内■￥600／泊■2ｔ車以上は要問合せ</td>
                 <td className="p-3 font-bold text-amber-600">★4.32（4267件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,850〜</td>
@@ -328,7 +328,7 @@ export default function AutumnBudgetFukuyamaHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 福山ローズガーデンホテル</td>
                 <td className="p-3 text-stone-600">広島県福山市丸之内1-4-8</td>
-                <td className="p-3 text-stone-600">福山駅周辺</td>
+                <td className="p-3 text-stone-600">『JR福山駅』北口より徒歩5分</td>
                 <td className="p-3 text-stone-600">15:00〜翌11:00料金500円/1台※チェックイン先着順。普通車以上の場合はお問合せください。</td>
                 <td className="p-3 font-bold text-amber-600">★4（934件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,750〜</td>
@@ -337,7 +337,7 @@ export default function AutumnBudgetFukuyamaHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. ベッセルホテル福山（国道２号線・福山１号店）</td>
                 <td className="p-3 text-stone-600">広島県福山市南本庄三丁目4-37</td>
-                <td className="p-3 text-stone-600">福山駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ福山駅から車で５分 山陽自動車道福山東ＩＣから１５分 福山西ＩＣから２６分 福山ＳＡスマートＩＣから１０分</td>
                 <td className="p-3 text-stone-600">有り　116台　無料（大型車は一部有料）福山ＳＡスマートＩＣから１０分！</td>
                 <td className="p-3 font-bold text-amber-600">★4.5（3982件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,780〜</td>
@@ -346,7 +346,7 @@ export default function AutumnBudgetFukuyamaHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. リッチモンドホテル福山駅前</td>
                 <td className="p-3 text-stone-600">広島県福山市東桜町1-1</td>
-                <td className="p-3 text-stone-600">福山駅周辺</td>
+                <td className="p-3 text-stone-600">福山駅南口（ばら公園口）より徒歩約3分◆福山東ＩＣより車で約20分</td>
                 <td className="p-3 text-stone-600">専用、提携駐車場なし（提携ではございませんが最寄有料Pは【NPC24H福山駅前第２パーキング】です）</td>
                 <td className="p-3 font-bold text-amber-600">★4.34（3416件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,160〜</td>
@@ -375,7 +375,7 @@ export default function AutumnBudgetFukuyamaHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り〔10台まで（普通車）／先着順・無料〕※高さ：制限なし</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.31 ／ 立地 ★4.21 ／ 部屋 ★4.24 ／ 設備 ★4.23 ／ 風呂 ★4.22</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「丁寧な案内と十分な設備で快適な空間フロントの方に丁寧に案内いただきました。車で伺ったので、場所は特に気になりませんでした。お部屋には宿泊するには十分な設備と広さでした。クチコミの詳細は…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「丁寧な案内と十分な設備で快適な空間フロントの方に丁寧に案内いただきました。車で伺ったので、場所は特に気になりませんでした。お部屋には宿泊するには十分な設備と広さでした。」
                   </blockquote>
                 </div>
               </div>
@@ -397,7 +397,7 @@ export default function AutumnBudgetFukuyamaHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有：71台／敷地内30台※先着順・提携41台※満車時のご案内■￥600／泊■2ｔ車以上は要問合せ</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.38 ／ 立地 ★4.24 ／ 部屋 ★4.31 ／ 設備 ★4.18 ／ 風呂 ★4.09 ／ 食事 ★4.26</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「快適、便利でお勧めです。部屋は広くないものの、清潔で快適でした。ネットで予約した時は、朝食付きプランが無かったのですが、チェックインの際、朝食も追加予約できたのでありがたかったです。…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「快適、便利でお勧めです。部屋は広くないものの、清潔で快適でした。ネットで予約した時は、朝食付きプランが無かったのですが、チェックインの際、朝食も追加予約できたのでありがたかったです。」
                   </blockquote>
                 </div>
               </div>
@@ -419,7 +419,7 @@ export default function AutumnBudgetFukuyamaHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>15:00〜翌11:00料金500円/1台※チェックイン先着順。普通車以上の場合はお問合せください。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.12 ／ 立地 ★3.93 ／ 部屋 ★3.98 ／ 設備 ★3.96 ／ 風呂 ★3.83</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近で便利だが、部屋の臭いが気になった福山駅と福山城に近いので、アクセスは良かったです。部屋のお風呂が臭う。具体的にいうと、お風呂とトイレを仕切るカーテンが、生臭い、生乾き臭がします。…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近で便利だが、部屋の臭いが気になった福山駅と福山城に近いので、アクセスは良かったです。部屋のお風呂が臭う。具体的にいうと、お風呂とトイレを仕切るカーテンが、生臭い、生乾き臭がします。」
                   </blockquote>
                 </div>
               </div>

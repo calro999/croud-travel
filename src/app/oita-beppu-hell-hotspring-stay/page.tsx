@@ -253,7 +253,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 別府鉄輪温泉　旅館　喜楽＜大分県＞</td>
                 <td className="p-3 text-stone-600">大分県別府市御幸4</td>
-                <td className="p-3 text-stone-600">別府（大分）駅周辺</td>
+                <td className="p-3 text-stone-600">日豊本線 別府駅より車にて１５分</td>
                 <td className="p-3 text-stone-600">有り　10台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.64（420件）</td>
                 <td className="p-3 font-bold text-rose-600">¥9,790〜</td>
@@ -262,7 +262,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 鉄輪温泉　かんなわ　ゆの香（レトロ館）</td>
                 <td className="p-3 text-stone-600">大分県別府市御幸四組</td>
-                <td className="p-3 text-stone-600">別府（大分）駅周辺</td>
+                <td className="p-3 text-stone-600">別府駅からバスで３０分。亀の井バス停留所「鉄輪」より徒歩0分。別府ＩＣより車で５分</td>
                 <td className="p-3 text-stone-600">有り　１５台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.35（96件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,500〜</td>
@@ -271,7 +271,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 鉄輪温泉　冨士屋ホテル（Ｆｕｊｉｙａ　Ｈｏｔｅｌ）</td>
                 <td className="p-3 text-stone-600">大分県別府市大字鉄輪735</td>
-                <td className="p-3 text-stone-600">別府（大分）駅周辺</td>
+                <td className="p-3 text-stone-600">JR日豊本線 別府駅よりお車で20分</td>
                 <td className="p-3 text-stone-600">あり　40台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★5（7件）</td>
                 <td className="p-3 font-bold text-rose-600">¥19,300〜</td>
@@ -280,7 +280,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 源泉湯元の宿　旅館　国東荘</td>
                 <td className="p-3 text-stone-600">大分県別府市鉄輪風呂本３組</td>
-                <td className="p-3 text-stone-600">別府（大分）駅周辺</td>
+                <td className="p-3 text-stone-600">日豊本線ＪＲ別府駅／大分自動車道 別府ICより車で５分</td>
                 <td className="p-3 text-stone-600">有　１２台　無料　予約制</td>
                 <td className="p-3 font-bold text-amber-600">★4.64（221件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,300〜</td>
@@ -289,7 +289,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 別府ホテル塒</td>
                 <td className="p-3 text-stone-600">大分県別府市火売765-5</td>
-                <td className="p-3 text-stone-600">別府（大分）駅周辺</td>
+                <td className="p-3 text-stone-600">東九州自動車道・別府ICより車で約5分／JR別府駅より約15分</td>
                 <td className="p-3 text-stone-600">有り　20台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4（25件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,862〜</td>
@@ -298,7 +298,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">6. 別府温泉　ホテル好楽</td>
                 <td className="p-3 text-stone-600">大分県別府市北浜3-13-21</td>
-                <td className="p-3 text-stone-600">別府（大分）駅周辺</td>
+                <td className="p-3 text-stone-600">別府駅から徒歩10分、北浜バス停（福岡からの高速バス降り口）から2分</td>
                 <td className="p-3 text-stone-600">有り　40台　1泊550円</td>
                 <td className="p-3 font-bold text-amber-600">★3.88（707件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,860〜</td>
@@ -327,7 +327,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　10台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「親切な接客と嬉しい心遣いに大満足とても過ごしやすいお宿でした。従業員の方が皆さん親切で明るくて良かったです子供には嬉しい、アイスとジュースも頂けました。朝食のみのプランだったので、夕飯を食べに…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「親切な接客と嬉しい心遣いに大満足とても過ごしやすいお宿でした。従業員の方が皆さん親切で明るくて良かったです子供には嬉しい、アイスとジュースも頂けました。」
                   </blockquote>
                 </div>
               </div>
@@ -349,7 +349,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１５台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「美味しい食事と癒しの猫、温泉も満喫夕食も朝食もとても美味しく、地元の食材を楽しめました。看板猫ちゃんたちも本当に可愛くて、頭を撫でさせてくれたり、自分から膝の上に来てくれたりして、とても癒され…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「美味しい食事と癒しの猫、温泉も満喫夕食も朝食もとても美味しく、地元の食材を楽しめました。」
                   </blockquote>
                 </div>
               </div>
@@ -393,7 +393,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有　１２台　無料　予約制</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「鉄輪の温泉を独り占め、親切な対応に感謝湯気があちらこちらから立ち昇る鉄輪の中で、スタッフさんも皆様親切にして下さいました。温泉は深夜、早朝にも利用できたのも嬉しかたです。多くの方が宿泊され…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「鉄輪の温泉を独り占め、親切な対応に感謝湯気があちらこちらから立ち昇る鉄輪の中で、スタッフさんも皆様親切にして下さいました。温泉は深夜、早朝にも利用できたのも嬉しかたです。」
                   </blockquote>
                 </div>
               </div>

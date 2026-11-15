@@ -262,7 +262,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. ベイリゾートホテル　鳴門海月</td>
                 <td className="p-3 text-stone-600">徳島県鳴門市鳴門町土佐泊浦福池65-7</td>
-                <td className="p-3 text-stone-600">鳴門駅周辺</td>
+                <td className="p-3 text-stone-600">高速道路 鳴門北ICより車で６分。高速バス鳴門公園口より徒歩10分。大塚美術館バス停などからシャトルバス送迎有。要予約</td>
                 <td className="p-3 text-stone-600">有３０台　無料　予約不要。当館まではアクセスページに掲載の写真付き道順をご覧ください</td>
                 <td className="p-3 font-bold text-amber-600">★4.45（3088件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,000〜</td>
@@ -271,7 +271,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 洲本温泉　淡路インターナショナルホテル　ザ・サンプラザ　＜淡路島＞</td>
                 <td className="p-3 text-stone-600">兵庫県洲本市小路谷1279-13</td>
-                <td className="p-3 text-stone-600">洲本駅周辺</td>
+                <td className="p-3 text-stone-600">大阪駅より高速バス120分/三宮駅より高速バス80分/神戸淡路鳴門道洲本ICより15分</td>
                 <td className="p-3 text-stone-600">有り/無料　　　客室内ネット接続：Wi-Fi/無料　ホテル・旅館100選37年連続受賞</td>
                 <td className="p-3 font-bold text-amber-600">★4.42（3068件）</td>
                 <td className="p-3 font-bold text-rose-600">¥15,400〜</td>
@@ -280,7 +280,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 洲本温泉　ホテルニューアワジ別亭　淡路夢泉景　＜淡路島＞</td>
                 <td className="p-3 text-stone-600">兵庫県洲本市小路谷1052-2</td>
-                <td className="p-3 text-stone-600">三ノ宮駅周辺</td>
+                <td className="p-3 text-stone-600">車:洲本ICから15分／高速バス:大阪120分・三宮80分で洲本BCへ</td>
                 <td className="p-3 text-stone-600">有り（無料）</td>
                 <td className="p-3 font-bold text-amber-600">★4.66（1558件）</td>
                 <td className="p-3 font-bold text-rose-600">¥16,500〜</td>
@@ -289,7 +289,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 淡路島リゾートホテル　Ｄｉｏｓ　Ｈｏｔｅｌ　＾</td>
                 <td className="p-3 text-stone-600">兵庫県淡路市志筑3111-38　Ｈｏｔｅｌ　Ｄｉｏｓ</td>
-                <td className="p-3 text-stone-600">舞子駅周辺</td>
+                <td className="p-3 text-stone-600">舞子駅から車で約４５分</td>
                 <td className="p-3 text-stone-600">有り</td>
                 <td className="p-3 font-bold text-amber-600">高評価</td>
                 <td className="p-3 font-bold text-rose-600">¥10,652〜</td>
@@ -298,7 +298,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">6. 淡路島洲本温泉　海月舘</td>
                 <td className="p-3 text-stone-600">兵庫県洲本市海岸通1-3-11</td>
-                <td className="p-3 text-stone-600">舞子駅周辺</td>
+                <td className="p-3 text-stone-600">洲本高速バスターミナルより徒歩5分。</td>
                 <td className="p-3 text-stone-600">有り　50台（乗用車）　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.3（4526件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,600〜</td>
@@ -327,7 +327,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　70台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.18 ／ 立地 ★4.3 ／ 部屋 ★4.13 ／ 設備 ★3.85 ／ 風呂 ★3.94 ／ 食事 ★4.32</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「夕焼けは綺麗だが部屋食の対応が残念6階の部屋でお天気も良く、夕焼けがとても綺麗でした。夕食は、部屋食でしたが人手が足りないのか、お酒の注文も、部屋から出て配膳の所に言いに行ったり、ご飯を食べる…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「夕焼けは綺麗だが部屋食の対応が残念6階の部屋でお天気も良く、夕焼けがとても綺麗でした。」
                   </blockquote>
                 </div>
               </div>
@@ -349,7 +349,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有３０台　無料　予約不要。当館まではアクセスページに掲載の写真付き道順をご覧ください</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「手入れの行き届いた空間と充実したサービス建物自体はふるいようですが、手入れと管理が行き届いていて不便なく過ごせました。周りにあまり店や食事処がないので、立地があまりよくないのかもしれませんが、なる…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「手入れの行き届いた空間と充実したサービス建物自体はふるいようですが、手入れと管理が行き届いていて不便なく過ごせました。」
                   </blockquote>
                 </div>
               </div>
@@ -371,7 +371,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り/無料　　　客室内ネット接続：Wi-Fi/無料　ホテル・旅館100選37年連続受賞</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.53 ／ 立地 ★4.55 ／ 部屋 ★4.33 ／ 設備 ★4.21 ／ 風呂 ★4.38 ／ 食事 ★4.57</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「豪華な部屋食と朝日が最高部屋食で高齢の母でも安心して食べれるよう椅子に座って食事が出来、助かったのと、すごく豪華な食事に感動しましたお刺身が大量盛りで美味しかったです。朝食もミニお重で可愛く盛…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「豪華な部屋食と朝日が最高部屋食で高齢の母でも安心して食べれるよう椅子に座って食事が出来、助かったのと、すごく豪華な食事に感動しましたお刺身が大量盛りで美味しかったです。」
                   </blockquote>
                 </div>
               </div>
@@ -437,7 +437,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　50台（乗用車）　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「海月館さんに宿泊するためだけに淡路島に来たい!夏休みの思い出に淡路島へ...とただ毎年恒例の夏休みの思い出のつもりでした。フロリックシーアドベンチャーパークとニジゲンノモリがメインでした。…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「海月館さんに宿泊するためだけに淡路島に来たい!夏休みの思い出に淡路島へ...とただ毎年恒例の夏休みの思い出のつもりでした。フロリックシーアドベンチャーパークとニジゲンノモリがメインでした。」
                   </blockquote>
                 </div>
               </div>

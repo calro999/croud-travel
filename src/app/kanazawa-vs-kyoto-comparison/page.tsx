@@ -287,7 +287,7 @@ export default function KanazawaVsKyotoPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 天然温泉　鼓門の湯　スーパーホテルＰｒｅｍｉｅｒ金沢駅東口</td>
                 <td className="p-3 text-stone-600">石川県金沢市本町2-5-15</td>
-                <td className="p-3 text-stone-600">金沢駅周辺</td>
+                <td className="p-3 text-stone-600">金沢駅東口より徒歩7分。金沢東ICより約15分。</td>
                 <td className="p-3 text-stone-600">ホテル専用駐車場、駐輪場はございません。近隣駐車場のご案内となります</td>
                 <td className="p-3 font-bold text-amber-600">★4.43（1660件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,450〜</td>
@@ -296,7 +296,7 @@ export default function KanazawaVsKyotoPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 天然温泉　加賀の宝泉　御宿　野乃金沢（ドーミーイン・御宿野乃　ホテルズグループ）</td>
                 <td className="p-3 text-stone-600">石川県金沢市下堤町1-1</td>
-                <td className="p-3 text-stone-600">金沢駅周辺</td>
+                <td className="p-3 text-stone-600">JR金沢駅より徒歩15分または北鉄バス6～10番乗り場からバスで4分「武蔵が辻・近江町市場」バス停下車後徒歩1分</td>
                 <td className="p-3 text-stone-600">有り　先着順(76台)　1泊1,500円　長さ:5300㎜　全幅:1940㎜　高さ:2000㎜</td>
                 <td className="p-3 font-bold text-amber-600">★4.54（1955件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,030〜</td>
@@ -305,7 +305,7 @@ export default function KanazawaVsKyotoPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 金沢白鳥路　ホテル山楽</td>
                 <td className="p-3 text-stone-600">石川県金沢市丸の内6-3</td>
-                <td className="p-3 text-stone-600">金沢駅周辺</td>
+                <td className="p-3 text-stone-600">■金沢駅⇔ホテル無料送迎バス■金沢駅東口より車で１０分■金沢駅東口⑥、⑦乗り場【兼六園下・金沢城】バス停下車徒歩５分</td>
                 <td className="p-3 text-stone-600">地下駐車場50台／料金1泊1台1,000円／24時間入出庫可／高さ制限2.1ｍ未満</td>
                 <td className="p-3 font-bold text-amber-600">★4.55（2831件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,250〜</td>
@@ -314,7 +314,7 @@ export default function KanazawaVsKyotoPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. ＪＲ京都駅から５００ｍ、東本願寺前の築１００年の京町家旅館タイプのゲストハウス。　＾</td>
                 <td className="p-3 text-stone-600">京都府京都市下京区笹屋町270　ダース</td>
-                <td className="p-3 text-stone-600">五条（京阪）駅周辺</td>
+                <td className="p-3 text-stone-600">五条駅から徒歩で約３分</td>
                 <td className="p-3 text-stone-600">無し</td>
                 <td className="p-3 font-bold text-amber-600">高評価</td>
                 <td className="p-3 font-bold text-rose-600">プラン参照</td>
@@ -323,7 +323,7 @@ export default function KanazawaVsKyotoPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 京町家貸切宿　高瀬川七条</td>
                 <td className="p-3 text-stone-600">京都府京都市下京区上三之宮町279</td>
-                <td className="p-3 text-stone-600">七条駅周辺</td>
+                <td className="p-3 text-stone-600">JR「京都駅」より徒歩約14分 京阪本線「七条駅」より徒歩約4分</td>
                 <td className="p-3 text-stone-600">無し　近隣のコインパーキングをご案内致します。</td>
                 <td className="p-3 font-bold text-amber-600">★5（13件）</td>
                 <td className="p-3 font-bold text-rose-600">¥12,400〜</td>
@@ -332,7 +332,7 @@ export default function KanazawaVsKyotoPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">6. 京町家　八重家といち町</td>
                 <td className="p-3 text-stone-600">京都府京都市下京区木屋町通六軒上る都市町141-6</td>
-                <td className="p-3 text-stone-600">京阪清水五条駅より徒歩2分。JR京都駅より徒歩15分。阪急河原町駅より</td>
+                <td className="p-3 text-stone-600">京阪清水五条駅より徒歩2分。JR京都駅より徒歩15分。阪急河原町駅より徒歩15分</td>
                 <td className="p-3 text-stone-600">無し</td>
                 <td className="p-3 font-bold text-amber-600">高評価</td>
                 <td className="p-3 font-bold text-rose-600">プラン参照</td>
@@ -383,7 +383,7 @@ export default function KanazawaVsKyotoPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　先着順(76台)　1泊1,500円　長さ:5300㎜　全幅:1940㎜　高さ:2000㎜</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「お風呂とサウナは最高、部屋の湿気が残念お風呂、サウナとっても良かったです!ただ、安いプランだったからかも知れませんが、部屋の湿気がすごくてベタついた感じがあり少しカビ臭く感じてしまいました。立地や…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「お風呂とサウナは最高、部屋の湿気が残念お風呂、サウナとっても良かったです!ただ、安いプランだったからかも知れませんが、部屋の湿気がすごくてベタついた感じがあり少しカビ臭く感じてしまいました。」
                   </blockquote>
                 </div>
               </div>
@@ -405,7 +405,7 @@ export default function KanazawaVsKyotoPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>地下駐車場50台／料金1泊1台1,000円／24時間入出庫可／高さ制限2.1ｍ未満</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「観光に最適な立地と郷土料理に大満足とにかくロケーションが観光に最適、施設は便利であって欲しいところはすべて新しく(ランドリーの洗濯機は洗剤自動投入など)、とても清潔で、一方で調度品や装飾などは古き…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「観光に最適な立地と郷土料理に大満足とにかくロケーションが観光に最適、施設は便利であって欲しいところはすべて新しく(ランドリーの洗濯機は洗剤自動投入など)、とても清潔んでした。」
                   </blockquote>
                 </div>
               </div>

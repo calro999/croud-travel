@@ -300,7 +300,7 @@ export default function AutumnLeavesOnsenPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. ホテルニューオータニ大阪</td>
                 <td className="p-3 text-stone-600">大阪府大阪市中央区城見1-4-1</td>
-                <td className="p-3 text-stone-600">大阪城公園</td>
+                <td className="p-3 text-stone-600">ＪＲ大阪環状線 大阪城公園駅より徒歩約３分。Osaka Metro 長堀鶴見緑地線 大阪ビジネスパーク駅より徒歩約３分。</td>
                 <td className="p-3 text-stone-600">有り(有料　1泊につき1台￥2,000）</td>
                 <td className="p-3 font-bold text-amber-600">★4.63（5034件）</td>
                 <td className="p-3 font-bold text-rose-600">¥9,180〜</td>
@@ -309,7 +309,7 @@ export default function AutumnLeavesOnsenPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. リーガロイヤルホテル大阪　ヴィニェット　コレクション　ｂｙ　ＩＨＧ</td>
                 <td className="p-3 text-stone-600">大阪府大阪市北区中之島5-3-68</td>
-                <td className="p-3 text-stone-600">大阪</td>
+                <td className="p-3 text-stone-600">JR大阪駅より無料バス有（15分間隔約15分）／国際会議場隣接／京阪「中之島」駅直結／USJへ予約制無料バスで約25分</td>
                 <td className="p-3 text-stone-600">477台（予約不可・有料）※普通乗用車のみ、宿泊ご滞在中に限る。車高制限あり。</td>
                 <td className="p-3 font-bold text-amber-600">★4.43（14113件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,325〜</td>
@@ -327,7 +327,7 @@ export default function AutumnLeavesOnsenPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. リーガロイヤルホテル小倉</td>
                 <td className="p-3 text-stone-600">福岡県北九州市小倉北区浅野2-14-2</td>
-                <td className="p-3 text-stone-600">小倉（福岡）</td>
+                <td className="p-3 text-stone-600">JR小倉駅新幹線口から直結徒歩3分、JR博多駅から新幹線で約15分、福岡空港からも好アクセス。</td>
                 <td className="p-3 text-stone-600">164台  1泊￥1600税込</td>
                 <td className="p-3 font-bold text-amber-600">★4.4（5113件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,827〜</td>
@@ -375,7 +375,7 @@ export default function AutumnLeavesOnsenPage() {
               <h4 className="text-sm font-bold text-stone-900">5. ホテル日航プリンセス京都（京都府・4.58）</h4>
               <p><strong>【特徴】</strong>＼2023年10月に15階、2025年3月に16階のリニューアルが完了！／</p>
               <p><strong>【交通・駐車場】</strong>地下鉄烏丸線四条駅⑤番出口より徒歩約３分。阪急烏丸駅より徒歩約５分。ＪＲ京都駅（烏丸中央口）より車で約５分 ／ 駐車場：有り 59台 1泊あたり2000円</p>
-              <p className="italic text-stone-600">💬 宿泊者レビュー：「四条駅近くで便利、朝食ビュッフェが絶品一回泊まったら絶対リピートしたくなるホテルだと思います。四条駅近くでコンビニもすぐそこにあります。何より朝食ビュッフェが美味しいです!クチコミの詳…」</p>
+              <p className="italic text-stone-600">💬 宿泊者レビュー：「四条駅近くで便利、朝食ビュッフェが絶品一回泊まったら絶対リピートしたくなるホテルだと思います。四条駅近くでコンビニもすぐそこにあります。何より朝食ビュッフェが美味しいです!」</p>
             </div>
           </div>
           <div className="space-y-3 pt-4 border-t border-stone-200">

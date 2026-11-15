@@ -353,39 +353,7 @@ export default function Page() {
             </Link>
           </div>
         </section>
-        <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
-          <div className="flex items-center gap-3 mb-6">
-            <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】弥彦温泉 四季の宿 みのやを拠点にするおすすめ滞在モデルコース</h2>
-          </div>
-          <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
-            <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
-              <div className="flex items-center gap-2">
-                <span className="bg-amber-600 text-white text-xs font-bold px-2.5 py-1 rounded">1日目</span>
-                <h3 className="font-bold text-stone-900 text-base md:text-lg">到着〜チェックインと名湯巡り</h3>
-              </div>
-              <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
-                <li>・<strong className="text-stone-800">14:00〜</strong> 弥彦駅よりアクセス。■JR燕三条駅→（弥彦線）→ＪＲ弥彦駅下車■弥彦駅より徒歩10分■三条燕ＩＣより車で25分■高速バス有■弥彦神社徒歩1分。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「弥彦温泉 四季の宿 みのや」にチェックイン。▽越後一の宮彌彦神社門前の宿★最上階にある展望風呂からは弥彦山を一望できるなどの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「弥彦温泉 四季の宿 みのや」の湯処へ。▽越後一の宮彌彦神社門前の宿★最上階にある展望風呂からは弥彦山を一望でとともに、夕暮れの特別な寛ぎを満喫。</li>
-                <li>・<strong className="text-stone-800">19:00〜</strong> 「弥彦温泉 四季の宿 みのや」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
-              </ul>
-            </div>
-            <div className="border-l-2 border-teal-500 pl-4 md:pl-6 space-y-4">
-              <div className="flex items-center gap-2">
-                <span className="bg-teal-600 text-white text-xs font-bold px-2.5 py-1 rounded">2日目</span>
-                <h3 className="font-bold text-stone-900 text-base md:text-lg">爽快な朝湯〜周辺散策と帰路へ</h3>
-              </div>
-              <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
-                <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「弥彦温泉 四季の宿 みのや」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
-                <li>・<strong className="text-stone-800">08:00〜</strong> 「弥彦温泉 四季の宿 みのや」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「弥彦温泉 割烹の宿 櫻家」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
-              </ul>
-            </div>
-          </div>
-        </section>
-
-        {/* FAQ Section */}
+                {/* FAQ Section */}
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
@@ -429,31 +397,31 @@ export default function Page() {
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">あわせて読みたい人気特集＆全国エリアガイド</h2>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
-            <a href="/kanagawa-hakone-gora-solo-retreat-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/winter-niigata-nagaoka-teradomari-kani-yomogihira-onsen-koryu-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">箱根強羅温泉ひとり旅・濁り湯アートおこもり：箱根登山鉄道・大涌谷白濁温泉・創作フレンチ会席！箱根屈指の高級別荘地で癒やされる厳選3宿</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「日本海魚のアメ横・寺泊冬のカニ市場と商売繁盛高龍神社」2026-2027年冬の新潟・寺泊＆長岡！とろみ美肌湯と越後牛名宿5選</span>
             </a>
-            <a href="/winter-kanagawa-hakone-fuji-view-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/winter-niigata-tsukioka-onsen-emerald-bihada-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12月箱根芦ノ湖の冬晴れ富士山絶景】澄み渡る空と雪化粧の富士を望む露天風呂＆極上湯宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12月月岡温泉のエメラルド美肌名湯と初冬味覚】 国内屈指の硫黄泉雪見露天と村上牛・初冬寒ブリ＆新潟地酒の宿5選</span>
             </a>
-            <a href="/winter-kanagawa-kawasaki-daishi-hatsumode-factory-nightview-haneda-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/winter-okayama-mimasaka-okutsu-yunogo-onsen-sakushugyu-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">初詣300万人の厄除け霊場・川崎大師と幻想の工場夜景：2026-2027年冬の神奈川・川崎＆羽田！黒湯天然温泉と特選牛名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12月岡山・奥津＆湯郷温泉】美作三湯の初冬雪見と美肌湯 吉井川の足元湧出天然岩風呂・極上作州牛＆津山そずり鍋を堪能する名宿5選</span>
             </a>
-            <a href="/furusato-tax-gora-autumn-leaves-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/autumn-budget-niigata-yahiko-momiji-nodoguro-hotels-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">箱根強羅温泉・箱根美術館の苔庭紅葉＆強羅公園秋のバラ！白濁にごり湯宿×ふるさと納税厳選ガイド神奈川</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「新潟」弥彦紅葉谷＆極上のどぐろを満喫！3,000円台〜泊まれる格安・高コスパ宿5選</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
             <div className="flex flex-wrap gap-2">
               <Link
-                href="/prefectures/kanagawa/"
+                href="/prefectures/niigata/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                神奈川県の宿・温泉
+                新潟県の宿・温泉
               </Link>
               <Link
                 href="/prefectures/nagano/"
@@ -468,10 +436,10 @@ export default function Page() {
                 山梨県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/yamaguchi/"
+                href="/prefectures/ishikawa/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                山口県の宿・温泉
+                石川県の宿・温泉
               </Link>
             </div>
           </div>
@@ -507,7 +475,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 弥彦温泉　四季の宿　みのや</td>
                 <td className="p-3 text-stone-600">新潟県西蒲原郡弥彦村弥彦２９２７－１</td>
-                <td className="p-3 text-stone-600">■JR燕三条駅→（弥彦線）→ＪＲ弥彦駅下車■弥彦駅より徒歩10分■三条</td>
+                <td className="p-3 text-stone-600">■JR燕三条駅→（弥彦線）→ＪＲ弥彦駅下車■弥彦駅より徒歩10分■三条燕ＩＣより車で25分■高速バス有■弥彦神社徒歩1分</td>
                 <td className="p-3 text-stone-600">有り　１００台　無料（先着順）</td>
                 <td className="p-3 font-bold text-amber-600">★4.39（1412件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,700〜</td>
@@ -516,7 +484,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 弥彦温泉　割烹の宿　櫻家</td>
                 <td className="p-3 text-stone-600">新潟県西蒲原郡弥彦村弥彦1043-41</td>
-                <td className="p-3 text-stone-600">新潟市～車で約1時間/東京～北陸自動車道で約3時間半/三条・燕IC～車</td>
+                <td className="p-3 text-stone-600">新潟市～車で約1時間/東京～北陸自動車道で約3時間半/三条・燕IC～車で約40分/JR弥彦駅徒歩1分 /弥彦神社車で3分</td>
                 <td className="p-3 text-stone-600">有り　１５台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.27（286件）</td>
                 <td className="p-3 font-bold text-rose-600">¥15,900〜</td>
@@ -525,7 +493,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 新潟　岩室温泉　自家源泉の宿　富士屋</td>
                 <td className="p-3 text-stone-600">新潟県新潟市西蒲区岩室温泉693</td>
-                <td className="p-3 text-stone-600">岩室駅周辺</td>
+                <td className="p-3 text-stone-600">北陸自動車道 巻潟東ＩＣより２０分／ＪＲ越後線 岩室駅よりタクシーで１０分</td>
                 <td className="p-3 text-stone-600">有り　７０台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.47（738件）</td>
                 <td className="p-3 font-bold text-rose-600">¥10,752〜</td>
@@ -598,7 +566,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　７０台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食と夕食が絶品、温泉も最高でしたまずはなんといっても朝食がとても素晴らしかった事です。朝食ビュッヘは似たようなメニューが並ぶことが多いですが、富士屋さんは違いました。しっかり手間をかけ作…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食と夕食が絶品、温泉も最高でしたまずはなんといっても朝食がとても素晴らしかった事です。朝食ビュッヘは似たようなメニューが並ぶことが多いですが、富士屋さんは違いました。」
                   </blockquote>
                 </div>
               </div>

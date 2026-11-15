@@ -132,7 +132,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F49347%2F49347.html%26f_flg%3DPLAN",
     "hotelMinCharge": 13200,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/49347/49347.jpg",
-    "userReview": "接客は最高だが朝食の海鮮には期待外れホスピタリティはさすが!という感じだった。ただ、朝ごはんが少し期待外れだった。温泉宿に来たなら旨い海鮮を朝から食べたいと思ってしまいました。クチコミの詳。",
+    "userReview": "接客は最高だが朝食の海鮮には期待外れホスピタリティはさすが!という感じだった。ただ、朝ごはんが少し期待外れだった。温泉宿に来たなら旨い海鮮を朝から食べたいと思ってしまいました。",
     "reviewAverage": 4.63,
     "reviewCount": 1565,
     "address": "鹿児島県指宿市湯の浜5-26-29",
@@ -284,7 +284,7 @@ export default function Page() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 伊豆高原駅、南口より無料送迎バスで約１５分※ダイヤは事前にご確認くださいで現地へ到着。</li>
                 <li>・<strong className="text-stone-800">15:30〜</strong> 「プレジャーリゾート伊豆赤沢温泉」へチェックイン。落ち着いた空間で旅の荷を解き、ゆったりとした時間をスタート。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「プレジャーリゾート伊豆赤沢温泉」の湯処へ。日頃の疲れを癒やす湯浴みとともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「プレジャーリゾート伊豆赤沢温泉」の大浴場・露天風呂へ。日暮れの静けさの中で湯に浸かり、旅の緊張をゆっくりと解きほぐす。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「プレジャーリゾート伊豆赤沢温泉」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -296,7 +296,7 @@ export default function Page() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「プレジャーリゾート伊豆赤沢温泉」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「プレジャーリゾート伊豆赤沢温泉」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「北谷温泉 レクー沖縄北谷スパ＆リゾート｜ＬｅＱｕ 沖縄北谷｜ベッセルホテルズ」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は宿周辺の散策とショッピングを満喫。地元の名産品やグルメを味わってから余裕をもって帰路につく。</li>
               </ul>
             </div>
           </div>
@@ -424,7 +424,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. プレジャーリゾート伊豆赤沢温泉</td>
                 <td className="p-3 text-stone-600">静岡県伊東市赤沢浮山163-1</td>
-                <td className="p-3 text-stone-600">伊豆高原駅、南口より無料送迎バスで約１５分※ダイヤは事前にご確認くださ</td>
+                <td className="p-3 text-stone-600">伊豆高原駅、南口より無料送迎バスで約１５分※ダイヤは事前にご確認ください。</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.4（1955件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,600〜</td>
@@ -433,7 +433,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 北谷温泉　レクー沖縄北谷スパ＆リゾート｜ＬｅＱｕ　沖縄北谷｜ベッセルホテルズ</td>
                 <td className="p-3 text-stone-600">沖縄県中頭郡北谷町美浜34-2</td>
-                <td className="p-3 text-stone-600">那覇空港駅周辺</td>
+                <td className="p-3 text-stone-600">那覇空港より車で約４０分、沖縄アリーナより車で15分、北谷アメリカンビレッジとサンセットビーチまで徒歩５分以内</td>
                 <td className="p-3 text-stone-600">北谷アメリカンビレッジ近くのホテルに隣接の自走式立体駐車場無料　250台収容可能！</td>
                 <td className="p-3 font-bold text-amber-600">★4.61（866件）</td>
                 <td className="p-3 font-bold text-rose-600">¥9,719〜</td>
@@ -451,7 +451,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 白浜温泉　ホテル天山閣　海ゆぅ庭</td>
                 <td className="p-3 text-stone-600">和歌山県西牟婁郡白浜町2020</td>
-                <td className="p-3 text-stone-600">白浜駅周辺</td>
+                <td className="p-3 text-stone-600">JR白浜駅より車で約13分／南紀白浜空港より車で約7分</td>
                 <td className="p-3 text-stone-600">有　24台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.51（1600件）</td>
                 <td className="p-3 font-bold text-rose-600">¥11,000〜</td>
@@ -460,7 +460,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 指宿温泉　夫婦露天風呂の宿　吟松（ぎんしょう）</td>
                 <td className="p-3 text-stone-600">鹿児島県指宿市湯の浜5-26-29</td>
-                <td className="p-3 text-stone-600">車やレンタカー：カーナビに0993-22-3231をご設定下さい　タク</td>
+                <td className="p-3 text-stone-600">車やレンタカー：カーナビに0993-22-3231をご設定下さい タクシー：ＪＲ指宿駅から４分</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.63（1565件）</td>
                 <td className="p-3 font-bold text-rose-600">¥13,200〜</td>
@@ -484,12 +484,12 @@ export default function Page() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/107696/107696.jpg" alt="プレジャーリゾート伊豆赤沢温泉 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
-                  <p><strong>【宿の特徴・魅力】</strong>「海と空に溶け込むインフィニティプール＆展望温泉（絶景リゾートホテル5選）」掲載宿の所在地・アクセス・特徴データ一覧は、周辺の観光巡りにも便利で快適な滞在環境が整った宿泊施設です。</p>
+                  <p><strong>【宿の特徴・魅力】</strong>プレジャーリゾート伊豆赤沢温泉は、周辺の観光巡りにも便利で快適な滞在環境が整った宿泊施設です。</p>
                   <p><strong>【所在地・アクセス】</strong>交通案内：伊豆高原駅、南口より無料送迎バスで約１５分※ダイヤは事前にご確認ください。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「施設は綺麗で楽しめたが、食事と対応に不満グランピングの食事の写真がよく撮られすぎていて、実物を見てガッカリでした。味もイマイチでした。また、事前にカード決済済だったのに、追いかけられて支払…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「施設は綺麗で楽しめたが、食事と対応に不満グランピングの食事の写真がよく撮られすぎていて、実物を見てガッカリでした。味もイマイチでした。」
                   </blockquote>
                 </div>
               </div>
@@ -511,7 +511,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>北谷アメリカンビレッジ近くのホテルに隣接の自走式立体駐車場無料　250台収容可能！</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「施設は綺麗で満足、お風呂の混雑状況が知りたいスタッフさんも優しく、施設も綺麗でした!ただ、お風呂に関して、プールの利用客でシャワーが埋まっていたり、脱衣場のロッカーが下の方しか空いていなか…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「施設は綺麗で満足、お風呂の混雑状況が知りたいスタッフさんも優しく、施設も綺麗でした!」
                   </blockquote>
                 </div>
               </div>
@@ -533,7 +533,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「大型犬と一緒にどこへも行けて大満足うちの犬は25キロなのですが、そんな大きな犬も食事場所へも、貸切風呂へも、どこでも一緒にいけて、犬も安心して過ごせました。夜は無料の焼きマシュマロや綿あめを楽しん…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「大型犬と一緒にどこへも行けて大満足うちの犬は25キロなのですが、そんな大きな犬も食事場所へも、貸切風呂へも、どこでも一緒にいけて、犬も安心して過ごせました。」
                   </blockquote>
                 </div>
               </div>
@@ -577,7 +577,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「接客は最高だが朝食の海鮮には期待外れホスピタリティはさすが!という感じだった。ただ、朝ごはんが少し期待外れだった。温泉宿に来たなら旨い海鮮を朝から食べたいと思ってしまいました。クチコミの詳…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「接客は最高だが朝食の海鮮には期待外れホスピタリティはさすが!という感じだった。ただ、朝ごはんが少し期待外れだった。温泉宿に来たなら旨い海鮮を朝から食べたいと思ってしまいました。」
                   </blockquote>
                 </div>
               </div>

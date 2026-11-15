@@ -310,7 +310,7 @@ export default function AutumnBudgetHimejiHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. ホテル日航姫路</td>
                 <td className="p-3 text-stone-600">兵庫県姫路市南駅前町100</td>
-                <td className="p-3 text-stone-600">姫路駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ姫路駅より徒歩１分(ＪＲ姫路駅中央口より南へ）／ 姫路バイパス南ＩＣ下車約3分</td>
                 <td className="p-3 text-stone-600">2,000円/泊（高さ2.1m）※先着順、予約不可</td>
                 <td className="p-3 font-bold text-amber-600">★4.33（5353件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,400〜</td>
@@ -319,7 +319,7 @@ export default function AutumnBudgetHimejiHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 姫路城下町　ホテルクレール日笠</td>
                 <td className="p-3 text-stone-600">兵庫県姫路市十二所前町22番地</td>
-                <td className="p-3 text-stone-600">姫路駅周辺</td>
+                <td className="p-3 text-stone-600">姫路駅より徒歩約５分、駅と姫路城の中間に位置し、姫路城へも徒歩圏内。山陽姫路東IC又は山陽姫路西ICより車にて約２０分</td>
                 <td className="p-3 text-stone-600">有20台　１泊 普通車880円税込、（要予約・ご予約順）　※大型車駐車可、問合せ下さい。</td>
                 <td className="p-3 font-bold text-amber-600">★4.04（1156件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,599〜</td>
@@ -328,7 +328,7 @@ export default function AutumnBudgetHimejiHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. ＡＮＡクラウンプラザホテル神戸　ｂｙ　ＩＨＧ</td>
                 <td className="p-3 text-stone-600">兵庫県神戸市中央区北野町1</td>
-                <td className="p-3 text-stone-600">新神戸駅周辺</td>
+                <td className="p-3 text-stone-600">新幹線・地下鉄「新神戸駅」直結 。三宮まで１駅2分。大阪まで約25分。</td>
                 <td className="p-3 text-stone-600">650台(1台1,500円/泊)　※クラブフロア宿泊者は1室1台無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.14（6588件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,288〜</td>
@@ -337,7 +337,7 @@ export default function AutumnBudgetHimejiHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 料亭旅館　ほてるＩＳＡＧＯ神戸</td>
                 <td className="p-3 text-stone-600">兵庫県神戸市中央区熊内町4-3-7</td>
-                <td className="p-3 text-stone-600">新神戸駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ新幹線・新神戸駅から徒歩5分。北野異人館・ハーバーランド至近。有馬温泉まで車で30分。USJまで約40分。</td>
                 <td className="p-3 text-stone-600">無し</td>
                 <td className="p-3 font-bold text-amber-600">★4.21（850件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,920〜</td>
@@ -346,7 +346,7 @@ export default function AutumnBudgetHimejiHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 神戸牛と有馬温泉　天然金泉・銀泉の宿　有馬御苑</td>
                 <td className="p-3 text-stone-600">兵庫県神戸市北区有馬町1296</td>
-                <td className="p-3 text-stone-600">有馬温泉駅周辺</td>
+                <td className="p-3 text-stone-600">神戸電鉄線有馬温泉駅から徒歩２分、阪急バス有馬停より徒歩２分、阪神高速有馬口ＩＣより車３分、中国道西宮北ＩＣより車１０分</td>
                 <td className="p-3 text-stone-600">有（50台）ご宿泊者様は利用室数分まで無料　※場所が分かりづらいため当館HPアクセスページ参照下さい</td>
                 <td className="p-3 font-bold text-amber-600">★4.39（2779件）</td>
                 <td className="p-3 font-bold text-rose-600">¥9,900〜</td>
@@ -375,7 +375,7 @@ export default function AutumnBudgetHimejiHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>2,000円/泊（高さ2.1m）※先着順、予約不可</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近で便利だが設備にやや難あり部屋はリニューアルされていましたが、少々狭い感じがします。また、トイレの便座が少しズレていました。ウォシュレット機能は大丈夫でしたが。朝食は品数が多く、まあまあでした…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近で便利だが設備にやや難あり部屋はリニューアルされていましたが、少々狭い感じがします。また、トイレの便座が少しズレていました。ウォシュレット機能は大丈夫でしたが。」
                   </blockquote>
                 </div>
               </div>
@@ -397,7 +397,7 @@ export default function AutumnBudgetHimejiHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有20台　１泊 普通車880円税込、（要予約・ご予約順）　※大型車駐車可、問合せ下さい。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食が最高一番印象的なのが朝食でした。2泊で利用しましたが両日とも素敵な朝ごはんでとても幸せな朝でした。和室のコンパクトの部屋を利用しましたが広さ的には1人だと十分。少し部屋は古いので…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食が最高一番印象的なのが朝食でした。2泊で利用しましたが両日とも素敵な朝ごはんでとても幸せな朝でした。和室のコンパクトの部屋を利用しましたが広さ的には1人だと十分。」
                   </blockquote>
                 </div>
               </div>
@@ -419,7 +419,7 @@ export default function AutumnBudgetHimejiHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>650台(1台1,500円/泊)　※クラブフロア宿泊者は1室1台無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「お盆休みに宿泊しました。夕食のマグロの解体も息子が大変喜んでくれました。夜景も綺麗でホテル近くから行ける布引ハーブ園からの眺めも最高でした。来年も機会が有れば宿泊しようと思います。従業…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「お盆休みに宿泊しました。夕食のマグロの解体も息子が大変喜んでくれました。夜景も綺麗でホテル近くから行ける布引ハーブ園からの眺めも最高でした。来年も機会が有れば宿泊しようと思います。」
                   </blockquote>
                 </div>
               </div>
@@ -441,7 +441,7 @@ export default function AutumnBudgetHimejiHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無し</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「清潔感ある和室と可愛い朝食、貸切温泉に満足清潔感のある和室のお部屋で、コンパクトにまとまっています。全身鏡があると支度がしやすくてよかったかも。朝食は少量ずつの小皿がたくさんで、大変かわいい見…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「清潔感ある和室と可愛い朝食、貸切温泉に満足清潔感のある和室のお部屋で、コンパクトにまとまっています。全身鏡があると支度がしやすくてよかったかも。」
                   </blockquote>
                 </div>
               </div>
@@ -463,7 +463,7 @@ export default function AutumnBudgetHimejiHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有（50台）ご宿泊者様は利用室数分まで無料　※場所が分かりづらいため当館HPアクセスページ参照下さい</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「結婚40周年の記念に金泉と銀泉を堪能結婚40周年の記念に夫婦で利用させていただきました。金泉、銀泉を堪能出来、駐車場の利用も親切にナビして頂けたのと、別館の喫茶店オーロラでいただいたチャーシュー麺…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「結婚40周年の記念に金泉と銀泉を堪能結婚40周年の記念に夫婦で利用させていただきました。」
                   </blockquote>
                 </div>
               </div>

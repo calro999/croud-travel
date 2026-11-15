@@ -253,7 +253,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 渋温泉　歴史の宿　金具屋</td>
                 <td className="p-3 text-stone-600">長野県下高井郡山ノ内町平穏2202</td>
-                <td className="p-3 text-stone-600">湯田中駅周辺</td>
+                <td className="p-3 text-stone-600">長野電鉄線 湯田中駅／上信越自動車道 信州中野ＩＣより国道２９２号線を志賀高原方面へ約１５分</td>
                 <td className="p-3 text-stone-600">有　３０台　無料　屋外のみ　マイクロバス以上は有料</td>
                 <td className="p-3 font-bold text-amber-600">★4.54（981件）</td>
                 <td className="p-3 font-bold text-rose-600">¥18,700〜</td>
@@ -262,7 +262,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 渋温泉　ふる里の宿　天川荘</td>
                 <td className="p-3 text-stone-600">長野県下高井郡山ノ内町平穏1263-イ</td>
-                <td className="p-3 text-stone-600">湯田中駅周辺</td>
+                <td className="p-3 text-stone-600">長野電鉄 湯田中駅より車で２ｋｍ／上林温泉行バス乗車約７分、渋和合橋下車、徒歩５分</td>
                 <td className="p-3 text-stone-600">有り　２０台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.5（224件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,500〜</td>
@@ -271,7 +271,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 虎杖浜温泉ホテル</td>
                 <td className="p-3 text-stone-600">北海道白老郡白老町虎杖浜73-5</td>
-                <td className="p-3 text-stone-600">新千歳空港駅周辺</td>
+                <td className="p-3 text-stone-600">新千歳空港よりお車にて約１時間(マップコード：603 145 860*56) JR登別駅より無料送迎バスで約10分.</td>
                 <td className="p-3 text-stone-600">有り　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.34（367件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,808〜</td>
@@ -280,7 +280,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 天然温泉　旅人の湯（源泉名：延徳温泉）ホテルルートインＧｒａｎｄ中野小布施－信州中野駅前－</td>
                 <td className="p-3 text-stone-600">長野県中野市西1-3-27</td>
-                <td className="p-3 text-stone-600">信州中野駅周辺</td>
+                <td className="p-3 text-stone-600">信州中野駅より徒歩で約3分</td>
                 <td className="p-3 text-stone-600">有り　109台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.41（205件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,200〜</td>
@@ -298,7 +298,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">6. 湯田中温泉　ホテル豊生</td>
                 <td className="p-3 text-stone-600">長野県下高井郡山ノ内町佐野2562</td>
-                <td className="p-3 text-stone-600">湯田中駅周辺</td>
+                <td className="p-3 text-stone-600">湯田中駅より徒歩５分</td>
                 <td className="p-3 text-stone-600">有り　７０台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★3.96（153件）</td>
                 <td className="p-3 font-bold text-rose-600">¥9,500〜</td>
@@ -327,7 +327,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有　３０台　無料　屋外のみ　マイクロバス以上は有料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「5種類の貸切風呂と親切な接客に大満足9月1日宿泊、貸切風呂が5種類ありました。外には無料で入れるお風呂が沢山あり2箇所行きました。男女分かれていて外のお風呂は熱めです。お肌スベスベになりました。ま…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「5種類の貸切風呂と親切な接客に大満足9月1日宿泊、貸切風呂が5種類ありました。外には無料で入れるお風呂が沢山あり2箇所行きました。男女分かれていて外のお風呂は熱めです。お肌スベスベになりました。」
                   </blockquote>
                 </div>
               </div>
@@ -393,7 +393,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　109台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「綺麗な館内と豊富な朝食、充電器完備で快適すごく綺麗なホテルでした朝食いただきましたが、種類も豊富で美味しくとても良かったです。お部屋に各種充電コードもあって助かりました。子供達と宿泊し…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「綺麗な館内と豊富な朝食、充電器完備で快適すごく綺麗なホテルでした朝食いただきましたが、種類も豊富で美味しくとても良かったです。お部屋に各種充電コードもあって助かりました。」
                   </blockquote>
                 </div>
               </div>
@@ -437,7 +437,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　７０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「この価格でこの内容。全く文句ありません。部屋、設備はそれなりですが、狭いわけでもなく、普通にゆったりと過ごせます。食事も高級食材のつるべうちというわけではないものの、これも普通に美味しく頂けま…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「この価格でこの内容。全く文句ありません。部屋、設備はそれなりですが、狭いわけでもなく、普通にゆったりと過ごせます。」
                   </blockquote>
                 </div>
               </div>

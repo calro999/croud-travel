@@ -565,8 +565,8 @@ export default function FeatureDetailPage() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 中之条駅よりアクセス。ＪＲ吾妻線中之条駅。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「四万温泉 あやめや旅館」にチェックイン。☆お子様の温泉デビューもお勧め！もう一度「ただいま」したくなる手作りのおもてなしなどの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「四万温泉 あやめや旅館」の湯処へ。☆お子様の温泉デビューもお勧め！もう一度「ただいま」したくなる手作りのとともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「四万温泉 あやめや旅館」にチェックイン。☆お子様の温泉デビューもお勧め！ まずは客室で移動の疲れをそっと癒やす。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「四万温泉 あやめや旅館」の湯船で寛ぎタイム。季節の空気を感じながら手足を伸ばし、心豊かな夕方のリラックス時間を満喫。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「四万温泉 あやめや旅館」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -578,7 +578,7 @@ export default function FeatureDetailPage() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「四万温泉 あやめや旅館」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「四万温泉 あやめや旅館」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「水上温泉 ペンション 朝ねぼう」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は宿周辺の散策とショッピングを満喫。地元の名産品やグルメを味わってから余裕をもって帰路につく。</li>
               </ul>
             </div>
           </div>
@@ -706,7 +706,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 土出温泉　尾瀬岩鞍リゾートホテル</td>
                 <td className="p-3 text-stone-600">群馬県利根郡片品村土出2609</td>
-                <td className="p-3 text-stone-600">沼田駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ上越線：沼田駅よりバスにて約60分 車：関越自動車道沼田ＩＣより約40分 尾瀬岩鞍のゲレンデはすぐ目の前！</td>
                 <td className="p-3 text-stone-600">有り（無料）　200台以上　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.22（131件）</td>
                 <td className="p-3 font-bold text-rose-600">¥13,470〜</td>
@@ -715,7 +715,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 猿ヶ京温泉　温泉民宿　ふじや</td>
                 <td className="p-3 text-stone-600">群馬県利根郡みなかみ町猿ヶ京876</td>
-                <td className="p-3 text-stone-600">上毛高原駅周辺</td>
+                <td className="p-3 text-stone-600">上毛高原駅よりお車にて２０分</td>
                 <td className="p-3 text-stone-600">有り　３０台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.08（97件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,500〜</td>
@@ -724,7 +724,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 四万温泉　あやめや旅館</td>
                 <td className="p-3 text-stone-600">群馬県吾妻郡中之条町四万4238-45</td>
-                <td className="p-3 text-stone-600">中之条駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ吾妻線中之条駅</td>
                 <td className="p-3 text-stone-600">有り（無料）　12台　先着順   ご利用のお客様は、四万温泉入り口で事前にお電話お願いいたします。</td>
                 <td className="p-3 font-bold text-amber-600">★4.62（445件）</td>
                 <td className="p-3 font-bold text-rose-600">¥10,460〜</td>
@@ -733,7 +733,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 水上温泉　ペンション　朝ねぼう</td>
                 <td className="p-3 text-stone-600">群馬県利根郡みなかみ町綱子294-1</td>
-                <td className="p-3 text-stone-600"></td>
+                <td className="p-3 text-stone-600">群馬県利根郡みなかみ町綱子294-1 ／ 交通案内：</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.86（324件）</td>
                 <td className="p-3 font-bold text-rose-600">¥12,540〜</td>
@@ -742,7 +742,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 尾瀬国立公園　尾瀬戸倉温泉　旅館　みゆき</td>
                 <td className="p-3 text-stone-600">群馬県利根郡片品村戸倉248-1</td>
-                <td className="p-3 text-stone-600">沼田駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ 沼田駅よりバスにて約１時間</td>
                 <td className="p-3 text-stone-600">有り　５台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.14（86件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,500〜</td>
@@ -771,7 +771,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り（無料）　200台以上　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.21 ／ 立地 ★3.96 ／ 部屋 ★4.07 ／ 設備 ★4.04 ／ 風呂 ★4 ／ 食事 ★4.19</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「リニューアルエリアが快適でした。リニューアルされたエリアは子どももとても楽しく遊べ、大人もゆっくり過ごすことができて良かったです。館内は古さを感じる部分もありますが、清掃が行き届いていると感じまし…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「リニューアルエリアが快適でした。リニューアルされたエリアは子どももとても楽しく遊べ、大人もゆっくり過ごすことができて良かったです。」
                   </blockquote>
                 </div>
               </div>

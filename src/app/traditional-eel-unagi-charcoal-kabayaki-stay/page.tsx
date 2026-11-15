@@ -284,7 +284,7 @@ export default function Page() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 下部温泉駅よりお車にて３分、徒歩にて２０分で現地へ到着。</li>
                 <li>・<strong className="text-stone-800">15:30〜</strong> 「下部温泉 旅館いしもと」へチェックイン。落ち着いた空間で旅の荷を解き、ゆったりとした時間をスタート。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「下部温泉 旅館いしもと」の湯処へ。日頃の疲れを癒やす湯浴みとともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「下部温泉 旅館いしもと」の自慢の湯処へ。温かな湯気と落ち着いた雰囲気に癒やされながら、夕食前の贅沢なひとときを過ごす。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「下部温泉 旅館いしもと」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -296,7 +296,7 @@ export default function Page() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「下部温泉 旅館いしもと」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「下部温泉 旅館いしもと」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「成田山門前 旅館 若松本店」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は「下部温泉 旅館いしもと」周辺の観光スポットや地元の名産店に立ち寄り、ご当地のお土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>
@@ -433,7 +433,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 成田山門前　旅館　若松本店</td>
                 <td className="p-3 text-stone-600">千葉県成田市本町355</td>
-                <td className="p-3 text-stone-600">ＪＲ・京成成田駅より徒歩１５分 または　タクシー３分・成田空港より車で</td>
+                <td className="p-3 text-stone-600">ＪＲ・京成成田駅より徒歩１５分 または タクシー３分・成田空港より車で２０分</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.55（396件）</td>
                 <td className="p-3 font-bold text-rose-600">¥10,780〜</td>
@@ -442,7 +442,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 和牛とのどぐろの温泉旅館　四季荘</td>
                 <td className="p-3 text-stone-600">島根県出雲市斐川町学頭1369</td>
-                <td className="p-3 text-stone-600">山陰道宍道IC・斐川ICよりそれぞれ約車で約10分　出雲縁結び空港より</td>
+                <td className="p-3 text-stone-600">山陰道宍道IC・斐川ICよりそれぞれ約車で約10分 出雲縁結び空港より車で約15分 ＪＲ荘原駅から徒歩約20分</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★3.94（279件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,400〜</td>
@@ -460,7 +460,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 岩室温泉　高志の宿　高島屋</td>
                 <td className="p-3 text-stone-600">新潟県新潟市西蒲区岩室温泉678甲</td>
-                <td className="p-3 text-stone-600">【無料送迎サービス有・２名様より】燕三条駅１４：４０・岩室駅・弥彦駅は</td>
+                <td className="p-3 text-stone-600">【無料送迎サービス有・２名様より】燕三条駅１４：４０・岩室駅・弥彦駅はご到着時刻（いずれも３日前までの予約制）</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.57（418件）</td>
                 <td className="p-3 font-bold text-rose-600">¥22,468〜</td>
@@ -484,12 +484,12 @@ export default function Page() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/141230/141230.jpg" alt="下部温泉　旅館いしもと 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
-                  <p><strong>【宿の特徴・魅力】</strong>「ふっくら香ばしい秘伝の炭火蒲焼き（極上うなぎ尽くし会席＆名湯の温泉宿5選）」掲載宿の所在地・アクセス・特徴データ一覧は、周辺の観光巡りにも便利で快適な滞在環境が整った宿泊施設です。</p>
+                  <p><strong>【宿の特徴・魅力】</strong>下部温泉　旅館いしもとは、周辺の観光巡りにも便利で快適な滞在環境が整った宿泊施設です。</p>
                   <p><strong>【所在地・アクセス】</strong>交通案内：下部温泉駅よりお車にて３分、徒歩にて２０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ぬる湯と熱湯の交互浴が最高、名湯名宿ぬる湯と熱湯の2槽あって交互に入浴、特にぬる湯はツルトロで時間があれば半日でも入っていたいお風呂。リーズナブルで旅情あふれる名湯名宿。下部は本当に大…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ぬる湯と熱湯の交互浴が最高、名湯名宿ぬる湯と熱湯の2槽あって交互に入浴、特にぬる湯はツルトロで時間があれば半日でも入っていたいお風呂。リーズナブルで旅情あふれる名湯名宿。」
                   </blockquote>
                 </div>
               </div>
@@ -511,7 +511,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「新勝寺の目の前、ウナギ料理と気遣いが嬉しい新勝寺の目の前という好立地の場所です。自分の場合は成田駅から歩き、表参道のお店や街並みを楽しみながら歩き15分ほどで宿に到着しました。大雨でしたが、宿…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「新勝寺の目の前、ウナギ料理と気遣いが嬉しい新勝寺の目の前という好立地の場所です。自分の場合は成田駅から歩き、表参道のお店や街並みを楽しみながら歩き15分ほどで宿に到着しました。」
                   </blockquote>
                 </div>
               </div>

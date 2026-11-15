@@ -253,7 +253,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 東郷館</td>
                 <td className="p-3 text-stone-600">鳥取県東伯郡湯梨浜町はわい温泉4-24</td>
-                <td className="p-3 text-stone-600">松崎（鳥取）駅周辺</td>
+                <td className="p-3 text-stone-600">松崎駅より車で約８分</td>
                 <td className="p-3 text-stone-600">有り　６台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.33（20件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,100〜</td>
@@ -262,7 +262,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. ビジネスイン　諏訪部</td>
                 <td className="p-3 text-stone-600">鳥取県倉吉市上井町1-6-13</td>
-                <td className="p-3 text-stone-600">倉吉駅周辺</td>
+                <td className="p-3 text-stone-600">倉吉駅より徒歩にて約５分</td>
                 <td className="p-3 text-stone-600">有り　３０台　　トラック．バス置けます</td>
                 <td className="p-3 font-bold text-amber-600">★3.73（69件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,200〜</td>
@@ -271,7 +271,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 大江戸温泉物語Ｐｒｅｍｉｕｍ　斉木別館</td>
                 <td className="p-3 text-stone-600">鳥取県東伯郡三朝町山田70</td>
-                <td className="p-3 text-stone-600">倉吉駅周辺</td>
+                <td className="p-3 text-stone-600">中国自動車道院庄Ｉ．Ｃから５５分／ＪＲ倉吉駅下車、三朝温泉行きバスにて約２０分・お車にて約１５分</td>
                 <td className="p-3 text-stone-600">１００台　予約不要　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.08（1326件）</td>
                 <td className="p-3 font-bold text-rose-600">¥11,200〜</td>
@@ -280,7 +280,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 三朝温泉　旅館　大橋</td>
                 <td className="p-3 text-stone-600">鳥取県東伯郡三朝町三朝302-1</td>
-                <td className="p-3 text-stone-600">JR山陰本線-倉吉駅下車～バス20分／中国道-院庄ICよりＲ１７９号を</td>
+                <td className="p-3 text-stone-600">JR山陰本線-倉吉駅下車～バス20分／中国道-院庄ICよりＲ１７９号を倉吉方面に約50分/ANA羽田～鳥取～バス～倉吉</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.42（278件）</td>
                 <td className="p-3 font-bold text-rose-600">¥14,300〜</td>
@@ -289,7 +289,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 三朝温泉桃園館</td>
                 <td className="p-3 text-stone-600">鳥取県東伯郡三朝町山田118-1</td>
-                <td className="p-3 text-stone-600">鳥取空港駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ倉吉駅より三朝温泉行バスにて２０分／中国道 院庄ＩＣよりＲ１７９経由で６０分／米子道 湯原ＩＣより４５分</td>
                 <td className="p-3 text-stone-600">有り　１０台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★3.95（65件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,320〜</td>
@@ -298,7 +298,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">6. 三朝温泉　木造りの宿　橋津屋</td>
                 <td className="p-3 text-stone-600">鳥取県東伯郡三朝町三朝886</td>
-                <td className="p-3 text-stone-600">倉吉駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ 倉吉駅より日ノ丸バス乗車後三朝温泉にて下車徒歩３分(倉吉駅への送迎は行っておりません）</td>
                 <td className="p-3 text-stone-600">有り　２０台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.43（553件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,700〜</td>
@@ -371,7 +371,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>１００台　予約不要　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「子供も大人も大満足、また行きたい!ラウンジや卓球、プレイルームなど、子どもたちが飽きずに過ごせ、お部屋も広くゆったりと過ごせました。露天も良かったです。1つだけあえてあげるなら、廊下がクーラーなく…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「子供も大人も大満足、また行きたい!ラウンジや卓球、プレイルームなど、子どもたちが飽きずに過ごせ、お部屋も広くゆったりと過ごせました。露天も良かったです。」
                   </blockquote>
                 </div>
               </div>
@@ -393,7 +393,7 @@ export default function MicroTouristHubPage() {
                   <p>【鳥取・三朝温泉＆三徳山三仏寺：世界屈指のラジウム温泉】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「重要文化財の佇まいと最高の泉質に感動重要文化財の宿の廊下を歩いてると、外を歩いてる人々がカメラにおさめてました。正面玄関カッちょいーです。なんといってもお風呂!洞窟みたいなお風呂もさること…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「重要文化財の佇まいと最高の泉質に感動重要文化財の宿の廊下を歩いてると、外を歩いてる人々がカメラにおさめてました。正面玄関カッちょいーです。なんといってもお風呂!」
                   </blockquote>
                 </div>
               </div>
@@ -415,7 +415,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１０台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「写真と違いすぎる載っている写真がキレイすぎる。実際はかなり古く、部屋のふすまは変色しているし、露天風呂はボロボロで、周辺のホテルから丸見えなのではないかと心配になるほど。お風呂を利用できる…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「写真と違いすぎる載っている写真がキレイすぎる。実際はかなり古く、部屋のふすまは変色しているし、露天風呂はボロボロで、周辺のホテルから丸見えなのではないかと心配になるほど。」
                   </blockquote>
                 </div>
               </div>
@@ -437,7 +437,7 @@ export default function MicroTouristHubPage() {
                   <p>【鳥取・三朝温泉＆三徳山三仏寺：世界屈指のラジウム温泉】 <strong>【駐車場・マイカー利用】</strong>有り　２０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「個室での食事と貸切露天風呂に大満足今回で2回目の利用です。前回宿泊時には無かった食事会場は個室で周りを気にする事なく食事が出来てよかったです。もちろん食事も最高でした貸し切り露天風呂も雰囲気が…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「個室での食事と貸切露天風呂に大満足今回で2回目の利用です。前回宿泊時には無かった食事会場は個室で周りを気にする事なく食事が出来てよかったです。」
                   </blockquote>
                 </div>
               </div>

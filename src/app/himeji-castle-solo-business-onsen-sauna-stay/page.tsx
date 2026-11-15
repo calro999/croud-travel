@@ -337,8 +337,8 @@ export default function ArticlePage() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 姫路駅よりアクセス。ＪＲ山陽本線・新幹線「姫路駅」より徒歩3分。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「天然温泉 白鷺の湯 ドーミーイン姫路」にチェックイン。リフレッシュオープン！JR姫路駅より徒歩3分駅前唯一の天然温泉大浴場完備★などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「天然温泉 白鷺の湯 ドーミーイン姫路」の湯処へ。リフレッシュオープン！JR姫路駅より徒歩3分駅前とともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「天然温泉 白鷺の湯 ドーミーイン姫路」にチェックイン。リフレッシュオープン！JR姫路駅より徒歩3分駅前唯一の天然温泉大浴場完備★が魅力の一軒。客室で荷物をほどいて穏やかな午後のひとときを。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「天然温泉 白鷺の湯 ドーミーイン姫路」の大浴場・露天風呂へ。日暮れの静けさの中で湯に浸かり、旅の緊張をゆっくりと解きほぐす。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「天然温泉 白鷺の湯 ドーミーイン姫路」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -350,7 +350,7 @@ export default function ArticlePage() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「天然温泉 白鷺の湯 ドーミーイン姫路」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「天然温泉 白鷺の湯 ドーミーイン姫路」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「ダイワロイネットホテル姫路」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は宿周辺の散策とショッピングを満喫。地元の名産品やグルメを味わってから余裕をもって帰路につく。</li>
               </ul>
             </div>
           </div>
@@ -366,49 +366,49 @@ export default function ArticlePage() {
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">あわせて読みたい人気特集＆全国エリアガイド</h2>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
-            <a href="/winter-saitama-hanno-naguri-onsen-moomin-illumination-bushugyu-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/osaka-departure-daytrip-bus-tour-guide/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12・1月埼玉】ムーミンバレーパーク冬イルミ＆名栗温泉の秘湯！奥武蔵の薪火サウナと武州和牛名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「大阪・梅田・難波発 日帰りバスツアーおすすめ」 カニ食べ放題・有馬温泉・天橋立・淡路島 の人気プラン比較</span>
             </a>
-            <a href="/furusato-tax-nagatoro-iwadatami-autumn-leaves-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/osaka-tottori-matsue-bus-vs-train-guide/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">長瀞ラインくだりの岩畳紅葉＆月の石もみじ公園ライトアップ！秩父温泉宿×ふるさと納税厳選ガイド埼玉</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「大阪・神戸〜鳥取・松江・出雲」高速バス vs 特急スーパーはくと徹底比較！料金半額＆縁結び出雲大社・鳥取砂丘1泊2日モデルコース</span>
             </a>
-            <a href="/winter-saitama-kawagoe-koedo-kitain-daruma-unagi-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/spring-hyogo-tajima-beef-crab-spa-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12・1月埼玉】小江戸川越・冬の蔵造りの町並みと時の鐘・喜多院初大師だるま市新春初詣＆名物うなぎ重・小江戸黒豚を味わう川越名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「但馬牛ステーキ＆香住ガニ」兵庫・城崎温泉の七湯めぐりと極上グルメ宿5選</span>
             </a>
-            <a href="/saitama-chichibu-nagatoro-line-kudari-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/winter-hyogo-arima-onsen-kinsen-kobe-beef-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">埼玉・秩父＆長瀞：長瀞ライン下り・三峯神社＆芝桜宿 厳選ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12月有馬温泉の金泉銀泉と六甲山夜景】 日本最古の名湯で芯から温まる冬・最高峰神戸牛会席を味わう老舗宿5選</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
             <div className="flex flex-wrap gap-2">
               <Link
-                href="/prefectures/aichi/"
+                href="/prefectures/hyogo/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                愛知県の宿・温泉
+                兵庫県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/saitama/"
+                href="/prefectures/kyoto/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                埼玉県の宿・温泉
+                京都府の宿・温泉
               </Link>
               <Link
-                href="/prefectures/okayama/"
+                href="/prefectures/osaka/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                岡山県の宿・温泉
+                大阪府の宿・温泉
               </Link>
               <Link
-                href="/prefectures/tokyo/"
+                href="/prefectures/nara/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                東京都の宿・温泉
+                奈良県の宿・温泉
               </Link>
             </div>
           </div>
@@ -444,7 +444,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 天然温泉　白鷺の湯　ドーミーイン姫路（ドーミーイン・御宿野乃　ホテルズグループ）</td>
                 <td className="p-3 text-stone-600">兵庫県姫路市豊沢町160-2</td>
-                <td className="p-3 text-stone-600">姫路駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ山陽本線・新幹線「姫路駅」より徒歩3分。姫路バイパス「姫路南ランプ」より約１0分</td>
                 <td className="p-3 text-stone-600">有26台　1泊1台1,300円　高205㎝×幅185㎝（先着順満車時は契約近隣駐車場へのご案内)</td>
                 <td className="p-3 font-bold text-amber-600">★4.41（3165件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,650〜</td>
@@ -453,7 +453,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. ナチュラルファームシティ農園ホテル　＜秩父の街並みを眼下に望むロケーション＞</td>
                 <td className="p-3 text-stone-600">埼玉県秩父市大宮5911-1</td>
-                <td className="p-3 text-stone-600">秩父駅周辺</td>
+                <td className="p-3 text-stone-600">西武池袋線、西武秩父駅より車で約７分（無料送迎有）、関越自動車道 花園Ｉ．Ｃから皆野寄居バイパス経由約４０分</td>
                 <td className="p-3 text-stone-600">有り　100台　無料　本館前Ｐ　第二駐車場　※先着順</td>
                 <td className="p-3 font-bold text-amber-600">★3.94（1768件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,500〜</td>
@@ -462,7 +462,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 渋沢栄一翁命名の宿　養浩亭</td>
                 <td className="p-3 text-stone-600">埼玉県秩父郡長瀞町長瀞1446</td>
-                <td className="p-3 text-stone-600">上長瀞駅周辺</td>
+                <td className="p-3 text-stone-600">電車：秩父鉄道・上長瀞駅より徒歩５分 車：関越自動車道・花園ＩＣより、国道１４０号長瀞方面へ約２０ｋｍ、約２５分</td>
                 <td className="p-3 text-stone-600">有り　１３台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.12（190件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,500〜</td>
@@ -471,7 +471,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 旅館　きん藤</td>
                 <td className="p-3 text-stone-600">埼玉県深谷市本住町7‐52</td>
-                <td className="p-3 text-stone-600">深谷駅周辺</td>
+                <td className="p-3 text-stone-600">深谷駅北側徒歩７分、旧中山道沿い、花園ＩＣより【２５分】１０ｋｍ</td>
                 <td className="p-3 text-stone-600">無料駐車場アリ、大型車・マイクロもＯＫ、（15台）</td>
                 <td className="p-3 font-bold text-amber-600">★4.67（340件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,810〜</td>
@@ -480,7 +480,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 秩父七湯『御代の湯』　新木鉱泉旅館</td>
                 <td className="p-3 text-stone-600">埼玉県秩父市山田1538番地1</td>
-                <td className="p-3 text-stone-600">西武秩父駅周辺</td>
+                <td className="p-3 text-stone-600">◆送迎有◆その他、西武秩父駅よりタクシー10分又は定峰行きバス25分金昌寺下車徒歩4分●関越道花園ICより40分●</td>
                 <td className="p-3 text-stone-600">３０台　　【無料・予約不要】</td>
                 <td className="p-3 font-bold text-amber-600">★4.59（2169件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,220〜</td>
@@ -509,7 +509,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有26台　1泊1台1,300円　高205㎝×幅185㎝（先着順満車時は契約近隣駐車場へのご案内)</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.37 ／ 立地 ★4.35 ／ 部屋 ★4.29 ／ 設備 ★4.33 ／ 風呂 ★4.49 ／ 食事 ★4.37</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ご当地朝食メニューで大満足朝食が少し待ちましたが、丁寧に案内して頂きました。メニューもたくさんでご当地のアーモンドトーストも美味しかったです。お風呂も癒されました!また利用したいです。…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ご当地朝食メニューで大満足朝食が少し待ちましたが、丁寧に案内して頂きました。メニューもたくさんでご当地のアーモンドトーストも美味しかったです。お風呂も癒されました!また利用したいです。」
                   </blockquote>
                 </div>
               </div>
@@ -531,7 +531,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　100台　無料　本館前Ｐ　第二駐車場　※先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事も景色も最高農園ホテルということで食事(野菜と果物)をかなり期待していましたが、私たちにはイマイチでした。美味しくない訳ではありません。こちらが勝手にハードルを上げて宿泊を楽しみにしていたので…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事も景色も最高農園ホテルということで食事(野菜と果物)をかなり期待していましたが、私たちにはイマイチでした。美味しくない訳ではありません。」
                   </blockquote>
                 </div>
               </div>
@@ -553,7 +553,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１３台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.16 ／ 立地 ★4.04 ／ 部屋 ★3.86 ／ 設備 ★3.66 ／ 風呂 ★3.84 ／ 食事 ★4.19</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「親切な対応と美味しい食事で良い思い出に建物は歴史を感じますが、お掃除は行き届いていました。お宿の方も親切丁寧でした。お食事はアユの塩焼きとても美味しかったです。炊きものも、丁寧な味つけで美味しかっ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「親切な対応と美味しい食事で良い思い出に建物は歴史を感じますが、お掃除は行き届いていました。お宿の方も親切丁寧でした。お食事はアユの塩焼きとても美味しかったです。」
                   </blockquote>
                 </div>
               </div>
@@ -575,7 +575,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料駐車場アリ、大型車・マイクロもＯＫ、（15台）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「美味しい食事と貸切風呂で家族大満足子ども二人と宿泊しました。みなさんの口コミを拝見して、二食付きのプランにして大正解でした。本当においしいご飯でした。子どもたちも「美味しいね」と口々に話していて、…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「美味しい食事と貸切風呂で家族大満足子ども二人と宿泊しました。みなさんの口コミを拝見して、二食付きのプランにして大正解でした。本当においしいご飯でした。」
                   </blockquote>
                 </div>
               </div>
@@ -597,7 +597,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>３０台　　【無料・予約不要】</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「源泉の質と料理に大満足、秩父の穴場宿歴史ある建物ですが清潔感があり安心。お風呂は源泉の質が抜群で、上がってから身体の芯からじんわり温まるタイプ。接客も大変丁寧でした。お料理も朝夕ともに大満足。一人…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「源泉の質と料理に大満足、秩父の穴場宿歴史ある建物ですが清潔感があり安心。お風呂は源泉の質が抜群で、上がってから身体の芯からじんわり温まるタイプ。接客も大変丁寧でした。お料理も朝夕ともに大満足。」
                   </blockquote>
                 </div>
               </div>

@@ -133,7 +133,7 @@ export default function Page() {
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/28472/28472map.gif",
     "reviewCount": 435,
     "reviewAverage": 4.6,
-    "userReview": "晴れた日に再訪したい!食事も映画も大満足あいにくの天気での宿泊となりましたが、ぜひ晴れた日にもう一度泊りに来たい!と思えるホテルでした。朝食も夕食もおいしく、夜には映画の上映会もあり、1泊だけでし。",
+    "userReview": "晴れた日に再訪したい!食事も映画も大満足あいにくの天気での宿泊となりましたが、ぜひ晴れた日にもう一度泊りに来たい!と思えるホテルでした。朝食も夕食もおいしく、夜には映画の上映会もあり、1泊だけでした。",
     "hotelMinCharge": 14285,
     "address1": "静岡県",
     "address2": "伊東市川奈1459",
@@ -334,7 +334,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 蒲郡クラシックホテル</td>
                 <td className="p-3 text-stone-600">愛知県蒲郡市竹島町15-1</td>
-                <td className="p-3 text-stone-600">蒲郡駅周辺</td>
+                <td className="p-3 text-stone-600">蒲郡駅より車で５分／東名高速 音羽蒲郡ＩＣより三河湾オレンジロード経由で１５分</td>
                 <td className="p-3 text-stone-600">有り　２００台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.43（564件）</td>
                 <td className="p-3 font-bold text-rose-600">¥26,000〜</td>
@@ -343,7 +343,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 日光温泉　カジュアルユーロ</td>
                 <td className="p-3 text-stone-600">栃木県日光市所野1550-38</td>
-                <td className="p-3 text-stone-600">日光駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ日光駅または東武日光駅より車で約５分 日光宇都宮有料道路日光ICより車で約１０分 日光東照宮まで車で10分</td>
                 <td className="p-3 text-stone-600">有り　６０台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★3.79（1141件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,000〜</td>
@@ -352,7 +352,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 川奈ホテル</td>
                 <td className="p-3 text-stone-600">静岡県伊東市川奈1459</td>
-                <td className="p-3 text-stone-600">伊東駅周辺</td>
+                <td className="p-3 text-stone-600">伊東駅より無料送迎バス（定時運行・要予約）にて約30分。または、伊東駅からタクシーで15分。</td>
                 <td className="p-3 text-stone-600">有り　１２０台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.58（430件）</td>
                 <td className="p-3 font-bold text-rose-600">¥12,957〜</td>
@@ -381,7 +381,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２００台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.4 ／ 立地 ★4.61 ／ 部屋 ★4.22 ／ 設備 ★4.22 ／ 風呂 ★4.03 ／ 食事 ★4.58</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ロケーションと食事が最高、次はスイートにロケーションも建物も、とても価値のあるものでした。お部屋はドアからいきなりベッドルームなので、スイートにしておくべきだったと後悔しました。逆にスイー…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ロケーションと食事が最高、次はスイートにロケーションも建物も、とても価値のあるものでした。お部屋はドアからいきなりベッドルームなので、スイートにしておくべきだったと後悔しました。」
                   </blockquote>
                 </div>
               </div>
@@ -403,7 +403,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　６０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋の温泉!ステーキで満足。夕飯にステーキのプランを選びました。正直、部屋に温泉があって、気兼ねなく入れれば良いと思って予約しました。しかし、夕飯の食事するところも、雰囲気良いし店員さんも…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋の温泉!ステーキで満足。夕飯にステーキのプランを選びました。正直、部屋に温泉があって、気兼ねなく入れれば良いと思って予約しました。」
                   </blockquote>
                 </div>
               </div>
@@ -425,7 +425,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１２０台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「好きなモデルさんがYouTubeでおすすめしているのをみて予約しました。予約画面や施設紹介、注意事項には何も書いてなかったはずですが、入り口に着いたらドレスコードあり、との看板。真夏ですのでサンダ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「好きなモデルさんがYouTubeでおすすめしているのをみて予約しました。予約画面や施設紹介、注意事項には何も書いてなかったはずですが、入り口に着いたらドレスコードあり、との看板。」
                   </blockquote>
                 </div>
               </div>

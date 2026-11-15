@@ -253,7 +253,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 野の花亭こむらさき</td>
                 <td className="p-3 text-stone-600">静岡県下田市西本郷1-5-30</td>
-                <td className="p-3 text-stone-600">伊豆急下田駅周辺</td>
+                <td className="p-3 text-stone-600">伊豆急下田駅から徒歩３分 降車改札を出て右に進む、線路沿いを進みビジネスホテルTSUMEKIの角を左に曲がり道路を渡る。</td>
                 <td className="p-3 text-stone-600">同敷地内旅館建物沿い裏手に屋外駐車場有り　宿泊者無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.18（57件）</td>
                 <td className="p-3 font-bold text-rose-600">¥9,900〜</td>
@@ -262,7 +262,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 南伊豆弓ヶ浜温泉　季一遊</td>
                 <td className="p-3 text-stone-600">静岡県賀茂郡南伊豆町湊川口902-1</td>
-                <td className="p-3 text-stone-600">伊豆急下田駅周辺</td>
+                <td className="p-3 text-stone-600">伊豆急下田駅より送迎バスにて約20分</td>
                 <td className="p-3 text-stone-600">有り　４０台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.52（708件）</td>
                 <td className="p-3 font-bold text-rose-600">¥13,750〜</td>
@@ -271,7 +271,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 南伊豆弓ヶ浜温泉　古民家の宿　山海</td>
                 <td className="p-3 text-stone-600">静岡県賀茂郡南伊豆町湊1709</td>
-                <td className="p-3 text-stone-600">伊豆急下田駅周辺</td>
+                <td className="p-3 text-stone-600">●お車で/伊豆縦貫道河津ICから30分または小田原厚木道から140分●電車で/伊豆急下田駅よりバス15分、バス停日野</td>
                 <td className="p-3 text-stone-600">有り（無料）　乗用車15台</td>
                 <td className="p-3 font-bold text-amber-600">★4.19（1043件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,000〜</td>
@@ -280,7 +280,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 南伊豆弓ヶ浜温泉　なごみ詩</td>
                 <td className="p-3 text-stone-600">静岡県賀茂郡南伊豆町湊891-12</td>
-                <td className="p-3 text-stone-600">伊豆急下田駅周辺</td>
+                <td className="p-3 text-stone-600">伊豆東海岸道路 伊東～下田 ●東名沼津～伊豆縦貫道～下田～弓ヶ浜/電車利用伊豆急下田からバス４番線</td>
                 <td className="p-3 text-stone-600">アスファルト舗装　６台　無料　平らで一台分のスペース広く止めやすさ抜群　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.64（214件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,600〜</td>
@@ -289,7 +289,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 弓ヶ浜温泉　くつろぎと料理の御宿　花さと</td>
                 <td className="p-3 text-stone-600">静岡県賀茂郡南伊豆町湊417</td>
-                <td className="p-3 text-stone-600">伊豆急下田駅周辺</td>
+                <td className="p-3 text-stone-600">電車：伊豆急下田駅よりバス２０分 「弓ヶ浜大橋」下車 車：沼津I.CよりR414で120分 熱海よりR135で150分</td>
                 <td className="p-3 text-stone-600">有り　１０台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.64（495件）</td>
                 <td className="p-3 font-bold text-rose-600">¥20,000〜</td>
@@ -371,7 +371,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り（無料）　乗用車15台</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「古民家の雰囲気に期待したが残念な結果に古民家との建物に魅了を感じ...初めて宿泊しましたが、お部屋からの羨望なし、お風呂の衛生状態もイマイチな感じでした。お食事は、とても残念に感じます。…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「古民家の雰囲気に期待したが残念な結果に古民家との建物に魅了を感じ...初めて宿泊しましたが、お部屋からの羨望なし、お風呂の衛生状態もイマイチな感じでした。お食事は、とても残念に感じます。」
                   </blockquote>
                 </div>
               </div>
@@ -415,7 +415,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１０台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.96 ／ 立地 ★4.35 ／ 部屋 ★4.63 ／ 設備 ★4.37 ／ 風呂 ★4.56 ／ 食事 ★4.96</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「7月の連休前に宿泊。思いがけなく宿泊者ひとりで貸し切りだったので、大浴場も露天風呂もひとり占めで満喫させてもらいました。夕食も女将さんの手作りの真心のこもったお料理で、品数もボリューム満点でした。土鍋…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「7月の連休前に宿泊。思いがけなく宿泊者ひとりで貸し切りだったので、大浴場も露天風呂もひとり占めで満喫させてもらいました。夕食も女将さんの手作りの真心のこもったお料理で、品数もボリューム満点でした。」
                   </blockquote>
                 </div>
               </div>
@@ -437,7 +437,7 @@ export default function MicroTouristHubPage() {
                   <p>【静岡・南伊豆＆下田・ヒリゾ浜：開国の港街・白浜海岸＆】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「大型犬と一緒にどこへも行けて大満足うちの犬は25キロなのですが、そんな大きな犬も食事場所へも、貸切風呂へも、どこでも一緒にいけて、犬も安心して過ごせました。夜は無料の焼きマシュマロや綿あめを楽しん…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「大型犬と一緒にどこへも行けて大満足うちの犬は25キロなのですが、そんな大きな犬も食事場所へも、貸切風呂へも、どこでも一緒にいけて、犬も安心して過ごせました。」
                   </blockquote>
                 </div>
               </div>

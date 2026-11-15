@@ -132,7 +132,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F19884%2F19884.html%26f_flg%3DPLAN",
     "hotelMinCharge": 7500,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/19884/19884.jpg",
-    "userReview": "部屋はレトロな感じでした。トイ。",
+    "userReview": "バイキングと温泉は良いが設備に難ありバイキングは朝、夜ともボリュームもありよかったのですが、鳥取といえば二十世紀梨と思うのですが、全然でてなかったのでそこは残念です。部屋はレトロな感じでした。",
     "reviewAverage": 3.65,
     "reviewCount": 1660,
     "address": "鳥取県東伯郡三朝町大瀬1210",
@@ -283,8 +283,8 @@ export default function Page() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 江原駅よりアクセス。播但連絡道路・北近畿豊岡自動車道 日高神鍋高原ＩＣより １５分。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「神鍋温泉 自然に癒される高原ホテル ブルーリッジホテル」にチェックイン。アワビや国産牛の夏バイキング！安心の屋内プールや庭遊び、星空露天と源泉１００％の湯で至福の休息を。などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「神鍋温泉 自然に癒される高原ホテル ブルーリッジホテル」の湯処へ。アワビや国産牛の夏バイキング！安心の屋内プールや庭遊び、星空露天と源泉とともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「神鍋温泉 自然に癒される高原ホテル ブルーリッジホテル」にチェックイン。アワビや国産牛の夏バイキング！安心の屋内プールや庭遊び、星空露天と源泉１００％の湯で至福の休息を。 客室で身支度を整え、この宿ならではの滞在をスタート。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「神鍋温泉 自然に癒される高原ホテル ブルーリッジホテル」の湯船で寛ぎタイム。季節の空気を感じながら手足を伸ばし、心豊かな夕方のリラックス時間を満喫。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「神鍋温泉 自然に癒される高原ホテル ブルーリッジホテル」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -296,7 +296,7 @@ export default function Page() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「神鍋温泉 自然に癒される高原ホテル ブルーリッジホテル」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「神鍋温泉 自然に癒される高原ホテル ブルーリッジホテル」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「城崎温泉 西村屋ホテル招月庭」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は宿周辺の散策とショッピングを満喫。地元の名産品やグルメを味わってから余裕をもって帰路につく。</li>
               </ul>
             </div>
           </div>
@@ -424,7 +424,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 神鍋温泉　自然に癒される高原ホテル　ブルーリッジホテル</td>
                 <td className="p-3 text-stone-600">兵庫県豊岡市日高町栗栖野55</td>
-                <td className="p-3 text-stone-600">江原駅周辺</td>
+                <td className="p-3 text-stone-600">播但連絡道路・北近畿豊岡自動車道 日高神鍋高原ＩＣより １５分</td>
                 <td className="p-3 text-stone-600">有り７０台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.06（768件）</td>
                 <td className="p-3 font-bold text-rose-600">¥14,000〜</td>
@@ -433,7 +433,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 城崎温泉　西村屋ホテル招月庭</td>
                 <td className="p-3 text-stone-600">兵庫県豊岡市城崎町湯島1016-2</td>
-                <td className="p-3 text-stone-600">城崎駅周辺</td>
+                <td className="p-3 text-stone-600">【電車】JR城崎温泉駅から旅館組合無料乗合バスで5～15分【車】北近畿豊岡自動車道・豊岡出石ICから約18分</td>
                 <td className="p-3 text-stone-600">無料駐車場有（100台・予約不要）バイクも可</td>
                 <td className="p-3 font-bold text-amber-600">★4.73（1172件）</td>
                 <td className="p-3 font-bold text-rose-600">¥35,200〜</td>
@@ -442,7 +442,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 鳥取温泉　ホテルモナーク鳥取</td>
                 <td className="p-3 text-stone-600">鳥取県鳥取市永楽温泉町403</td>
-                <td className="p-3 text-stone-600">鳥取駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ鳥取駅北口出口より徒歩5分 / 鳥取自動車道鳥取ICより車で10分 / コンビニへ徒歩1分 / 鳥取砂丘へ車で20分</td>
                 <td className="p-3 text-stone-600">70台（出し入れ自由）　普通車500円/1泊　二輪車500円/1泊　大型車2,000円/1泊</td>
                 <td className="p-3 font-bold text-amber-600">★4.19（2272件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,800〜</td>
@@ -451,7 +451,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. グリーンリッチホテル鳥取駅前　人工温泉・二股湯の華</td>
                 <td className="p-3 text-stone-600">鳥取県鳥取市永楽温泉町102-6</td>
-                <td className="p-3 text-stone-600">ＪＲ鳥取駅北口より徒歩にて約３分、鳥取自動車道 鳥取ＩＣより国道53号</td>
+                <td className="p-3 text-stone-600">ＪＲ鳥取駅北口より徒歩にて約３分、鳥取自動車道 鳥取ＩＣより国道53号線を鳥取市方面へ車で14分</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.2（886件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,700〜</td>
@@ -460,7 +460,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 三朝温泉　三朝ロイヤルホテル</td>
                 <td className="p-3 text-stone-600">鳥取県東伯郡三朝町大瀬1210</td>
-                <td className="p-3 text-stone-600">JR倉吉駅からお車で15分／中国自動車道院庄ICからR179経由で約6</td>
+                <td className="p-3 text-stone-600">JR倉吉駅からお車で15分／中国自動車道院庄ICからR179経由で約60分／米子自動車道蒜山ICから倉吉方面へ約40分</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★3.65（1660件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,500〜</td>
@@ -511,7 +511,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料駐車場有（100台・予約不要）バイクも可</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「落ち着いた客層と細やかなおもてなしに感動西村屋招月庭はファミリー向けと記載がありましたが、客層がかなり良いと感じました。日本人、外国人の割合は半々くらいに思いましたが、みなさんとにかく落ち着いてい…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「落ち着いた客層と細やかなおもてなしに感動西村屋招月庭はファミリー向けと記載がありましたが、客層がかなり良いと感じました。」
                   </blockquote>
                 </div>
               </div>
@@ -555,7 +555,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「1週間でリピートするほど大満足の定宿毎度毎度毎度毎度の定宿!いつもお世話になっております。前の週にプライベート(夏休み)でも訪れて、1週間でのリピート。それでもそれでも大満足のGRクオリティはシン…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「1週間でリピートするほど大満足の定宿毎度毎度毎度毎度の定宿!いつもお世話になっております。前の週にプライベート(夏休み)でも訪れて、1週間でのリピート。」
                   </blockquote>
                 </div>
               </div>
@@ -577,7 +577,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「バイキングと温泉は良いが設備に難ありバイキングは朝、夜ともボリュームもありよかったのですが、鳥取といえば二十世紀梨と思うのですが、全然でてなかったのでそこは残念です。部屋はレトロな感じでした。トイ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「バイキングと温泉は良いが設備に難ありバイキングは朝、夜ともボリュームもありよかったのですが、鳥取といえば二十世紀梨と思うのですが、全然でてなかったのでそこは残念です。部屋はレトロな感じでした。」
                   </blockquote>
                 </div>
               </div>

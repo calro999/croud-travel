@@ -306,7 +306,7 @@ export default function KamakuraVsEnoshimaPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. トーセイホテルココネ鎌倉</td>
                 <td className="p-3 text-stone-600">神奈川県鎌倉市御成町7番10-1号</td>
-                <td className="p-3 text-stone-600">鎌倉駅周辺</td>
+                <td className="p-3 text-stone-600">JR鎌倉駅西口から徒歩4分</td>
                 <td className="p-3 text-stone-600">完全予約制。当ホテル公式ホームぺージをご覧ください。</td>
                 <td className="p-3 font-bold text-amber-600">★4.46（724件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,797〜</td>
@@ -315,7 +315,7 @@ export default function KamakuraVsEnoshimaPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 古都鎌倉のリゾートホテル　ＷｅＢａｓｅ鎌倉</td>
                 <td className="p-3 text-stone-600">神奈川県鎌倉市由比ガ浜4丁目10-7</td>
-                <td className="p-3 text-stone-600">由比ヶ浜駅周辺</td>
+                <td className="p-3 text-stone-600">JR鎌倉駅直結江ノ島電鉄線に乗り換え、鎌倉駅から由比ヶ浜駅で下車、徒歩3分！ （※長谷駅から由比ヶ浜駅まで乗車時間１分）</td>
                 <td className="p-3 text-stone-600">事前予約制/台数限定/1泊3000円 （15時-翌11時）※12/31～1/3はご利用不可</td>
                 <td className="p-3 font-bold text-amber-600">★4.63（328件）</td>
                 <td className="p-3 font-bold text-rose-600">¥12,100〜</td>
@@ -324,7 +324,7 @@ export default function KamakuraVsEnoshimaPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. Hotel　鎌倉　mori</td>
                 <td className="p-3 text-stone-600">神奈川県鎌倉市小町1-5-21</td>
-                <td className="p-3 text-stone-600">鎌倉駅周辺</td>
+                <td className="p-3 text-stone-600">鎌倉駅東口より徒歩1分。横浜横須賀道路 朝比奈ＩＣより１５分。</td>
                 <td className="p-3 text-stone-600">有り　２台　1泊（15:00～翌10:00）2000円(税込）※必ず事前に電話にてご予約下さい。</td>
                 <td className="p-3 font-bold text-amber-600">★4.2（471件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,800〜</td>
@@ -333,7 +333,7 @@ export default function KamakuraVsEnoshimaPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 江の島ホテル</td>
                 <td className="p-3 text-stone-600">神奈川県藤沢市江の島-1-3-8</td>
-                <td className="p-3 text-stone-600">片瀬江ノ島駅周辺</td>
+                <td className="p-3 text-stone-600">小田急江ノ島線～片瀬江ノ島駅より徒歩約１０分</td>
                 <td className="p-3 text-stone-600">提携：観光協会江の島駐車場　駐車チケット(24時間/2,000円)のお取り扱い有　その他駐車場は除外</td>
                 <td className="p-3 font-bold text-amber-600">★4.19（175件）</td>
                 <td className="p-3 font-bold text-rose-600">¥11,400〜</td>
@@ -342,7 +342,7 @@ export default function KamakuraVsEnoshimaPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 天然温泉　伝馬の湯　スーパーホテル湘南・藤沢駅南口</td>
                 <td className="p-3 text-stone-600">神奈川県藤沢市南藤沢23-7</td>
-                <td className="p-3 text-stone-600">藤沢駅周辺</td>
+                <td className="p-3 text-stone-600">藤沢駅より徒歩にて約２分</td>
                 <td className="p-3 text-stone-600">■提携駐車場■タイムズ藤沢リラパーキング・台数：137台（先着順）入庫後24時間1,200円</td>
                 <td className="p-3 font-bold text-amber-600">★4.46（1614件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,830〜</td>
@@ -351,7 +351,7 @@ export default function KamakuraVsEnoshimaPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">6. ８ｈｏｔｅｌ湘南藤沢（エイトホテル湘南藤沢）</td>
                 <td className="p-3 text-stone-600">神奈川県藤沢市鵠沼花沢町1-5</td>
-                <td className="p-3 text-stone-600">藤沢駅周辺</td>
+                <td className="p-3 text-stone-600">東海道線・小田急江ノ島線・江ノ島電鉄【藤沢駅南口より徒歩2分】電車で江の島まで約7分/鎌倉まで約15分</td>
                 <td className="p-3 text-stone-600">提携駐車場有、タイムズ藤沢石上第九駐車場（先着順）入庫後24H￥1,200</td>
                 <td className="p-3 font-bold text-amber-600">★4.09（2181件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,270〜</td>
@@ -402,7 +402,7 @@ export default function KamakuraVsEnoshimaPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>事前予約制/台数限定/1泊3000円 （15時-翌11時）※12/31～1/3はご利用不可</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事の量や風呂の設備に物足りなさを感じたクチコミが良かったので宿泊してみました。施設は普通です。食事は美味しいですが量が少ないので物足りません。ライブキッチンを推しにしているようで…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事の量や風呂の設備に物足りなさを感じたクチコミが良かったので宿泊してみました。施設は普通です。食事は美味しいですが量が少ないので物足りません。」
                   </blockquote>
                 </div>
               </div>
@@ -424,7 +424,7 @@ export default function KamakuraVsEnoshimaPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２台　1泊（15:00～翌10:00）2000円(税込）※必ず事前に電話にてご予約下さい。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「観光に便利な立地と親切な接客に大満足ホテルから鎌倉駅や小町通り、鶴岡八幡宮等がとても近い。観光や食事、お土産購入等に便利だった。従業員の方々も親切で感じがよい。建物は新しくはないが、掃除が…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「観光に便利な立地と親切な接客に大満足ホテルから鎌倉駅や小町通り、鶴岡八幡宮等がとても近い。観光や食事、お土産購入等に便利だった。従業員の方々も親切で感じがよい。」
                   </blockquote>
                 </div>
               </div>
@@ -468,7 +468,7 @@ export default function KamakuraVsEnoshimaPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>■提携駐車場■タイムズ藤沢リラパーキング・台数：137台（先着順）入庫後24時間1,200円</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近で温泉と朝食を満喫、娘も大満足駅近で温泉もついているので、温泉好きな7歳の娘と宿泊しました。従業員の皆さん親切で優しく感じの良い方ばかりでした。お風呂は少し狭く、上がってから脱衣所が混んでいて…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近で温泉と朝食を満喫、娘も大満足駅近で温泉もついているので、温泉好きな7歳の娘と宿泊しました。従業員の皆さん親切で優しく感じの良い方ばかりでした。」
                   </blockquote>
                 </div>
               </div>

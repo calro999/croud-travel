@@ -338,8 +338,8 @@ export default function ArticlePage() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 越後湯沢駅よりアクセス。越後湯沢駅西口よりお車で約3分・徒歩約20分／湯沢IC→国道17号線約10分 ★駅から送迎あり（要連絡20時迄）。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「越後湯沢温泉 一望千里 御湯宿 中屋」にチェックイン。温泉口コミ4.68 源泉かけ流し露天風呂の眺望は絶景。人気の露天風呂付客室で季節の旬の味を堪能！などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「越後湯沢温泉 一望千里 御湯宿 中屋」の湯処へ。温泉口コミ4.68 源泉かけ流し露天風呂の眺望は絶景。人気の露天風呂付とともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「越後湯沢温泉 一望千里 御湯宿 中屋」にチェックイン。温泉口コミ4.68 源泉かけ流し露天風呂の眺望は絶景。人気の露天風呂付客室で季節の旬の味を堪能！ 館内の設えを確かめながら、これからの滞在に備えてゆっくり休息する。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「越後湯沢温泉 一望千里 御湯宿 中屋」の大浴場・露天風呂へ。日暮れの静けさの中で湯に浸かり、旅の緊張をゆっくりと解きほぐす。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「越後湯沢温泉 一望千里 御湯宿 中屋」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -351,7 +351,7 @@ export default function ArticlePage() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「越後湯沢温泉 一望千里 御湯宿 中屋」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「越後湯沢温泉 一望千里 御湯宿 中屋」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「越後湯沢温泉 松泉閣花月」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は「越後湯沢温泉 一望千里 御湯宿 中屋」周辺の観光スポットや地元の名産店に立ち寄り、ご当地のお土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>
@@ -388,28 +388,28 @@ export default function ArticlePage() {
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
             <div className="flex flex-wrap gap-2">
               <Link
-                href="/prefectures/okayama/"
+                href="/prefectures/niigata/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                岡山県の宿・温泉
-              </Link>
-              <Link
-                href="/prefectures/hiroshima/"
-                className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
-              >
-                広島県の宿・温泉
-              </Link>
-              <Link
-                href="/prefectures/shiga/"
-                className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
-              >
-                滋賀県の宿・温泉
+                新潟県の宿・温泉
               </Link>
               <Link
                 href="/prefectures/nagano/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 長野県の宿・温泉
+              </Link>
+              <Link
+                href="/prefectures/yamanashi/"
+                className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
+              >
+                山梨県の宿・温泉
+              </Link>
+              <Link
+                href="/prefectures/ishikawa/"
+                className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
+              >
+                石川県の宿・温泉
               </Link>
             </div>
           </div>
@@ -445,7 +445,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 越後湯沢温泉　一望千里　御湯宿　中屋</td>
                 <td className="p-3 text-stone-600">新潟県南魚沼郡湯沢町湯沢924</td>
-                <td className="p-3 text-stone-600">越後湯沢駅周辺</td>
+                <td className="p-3 text-stone-600">越後湯沢駅西口よりお車で約3分・徒歩約20分／湯沢IC→国道17号線約10分 ★駅から送迎あり（要連絡20時迄）</td>
                 <td className="p-3 text-stone-600">有り　30台　無料　冬期は関越道のチェーン規制がございます。予めご注意ください。</td>
                 <td className="p-3 font-bold text-amber-600">★4.46（451件）</td>
                 <td className="p-3 font-bold text-rose-600">¥11,550〜</td>
@@ -454,7 +454,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 越後湯沢温泉　松泉閣花月</td>
                 <td className="p-3 text-stone-600">新潟県南魚沼郡湯沢町湯沢318-5</td>
-                <td className="p-3 text-stone-600">越後湯沢駅周辺</td>
+                <td className="p-3 text-stone-600">越後湯沢駅から徒歩約５分。越後湯沢駅への送迎も可能です。（要事前連絡）・お車で湯沢IC～１０分</td>
                 <td className="p-3 text-stone-600">有り　１４台　無料　※鍵をフロントでお預かり致します</td>
                 <td className="p-3 font-bold text-amber-600">★4.58（440件）</td>
                 <td className="p-3 font-bold text-rose-600">¥14,300〜</td>
@@ -463,7 +463,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 越後湯沢温泉　湯沢東映ホテル</td>
                 <td className="p-3 text-stone-600">新潟県南魚沼郡湯沢町湯沢3459</td>
-                <td className="p-3 text-stone-600">越後湯沢駅周辺</td>
+                <td className="p-3 text-stone-600">JR越後湯沢駅西口より徒歩8分。関越自動車道・越後湯沢ICより約5分。越後湯沢駅西口・高速バス乗り場の無料送迎有。</td>
                 <td className="p-3 text-stone-600">第1～第4駐車場まで82台駐車可能　（無料・予約不要）。</td>
                 <td className="p-3 font-bold text-amber-600">★4.08（1591件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,600〜</td>
@@ -492,7 +492,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　30台　無料　冬期は関越道のチェーン規制がございます。予めご注意ください。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.33 ／ 立地 ★4.3 ／ 部屋 ★4.36 ／ 設備 ★4.22 ／ 風呂 ★4.56 ／ 食事 ★4.38</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事は満足、記念日のワインも嬉しかったとても、落ち着いて宿泊させて頂きました。が、自分達は2階の部屋で下の階でバタバタと走る足音が夕方や朝方に多く気になりました。食事は十分な量で満足です。結婚記念…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事は満足、記念日のワインも嬉しかったとても、落ち着いて宿泊させて頂きました。が、自分達は2階の部屋で下の階でバタバタと走る足音が夕方や朝方に多く気になりました。食事は十分な量で満足です。」
                   </blockquote>
                 </div>
               </div>
@@ -514,7 +514,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１４台　無料　※鍵をフロントでお預かり致します</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.82 ／ 立地 ★4.57 ／ 部屋 ★4.52 ／ 設備 ★4.53 ／ 風呂 ★4.61 ／ 食事 ★4.61</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「露天風呂付き客室で最高の贅沢を堪能奮発して露天風呂付きのお部屋にしてみました。いままで行った旅館の中でいちばん満足度が高かったです。部屋についてる露天風呂って、多少ぬるいのはしょうがないのかなと思…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「露天風呂付き客室で最高の贅沢を堪能奮発して露天風呂付きのお部屋にしてみました。いままで行った旅館の中でいちばん満足度が高かったです。」
                   </blockquote>
                 </div>
               </div>
@@ -536,7 +536,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>第1～第4駐車場まで82台駐車可能　（無料・予約不要）。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「バイキングは豪華だが大浴場が暑すぎる朝夕のバイキングの食事がとても豪華でした!種類もとても多く、大満足です。大浴場の洗い場が、大浴場で今までに経験したことのないくらいの暑さで、大浴場自体がサウ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「バイキングは豪華だが大浴場が暑すぎる朝夕のバイキングの食事がとても豪華でした!種類もとても多く、大満足です。」
                   </blockquote>
                 </div>
               </div>

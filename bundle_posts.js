@@ -83,8 +83,8 @@ function main() {
     const isMultiHotelFeature = (p) => {
       const r = String(p.review || p.content || '');
       const hName = String(p.hotel_name || '');
-      // 1. 「📡 ... 楽天トラベル公式」を含み、かつhotel_nameが具体的な単一宿名である場合は単体宿記事
-      const isSingleTemplate = r.includes('📡') && r.includes('楽天トラベル公式');
+      // 1. 「📡 ... 楽天トラベル公式 / 楽天トラベル掲載」を含み、かつhotel_nameが具体的な単一宿名である場合は単体宿記事
+      const isSingleTemplate = r.includes('📡') && (r.includes('楽天トラベル公式') || r.includes('楽天トラベル掲載'));
       const isGenericCollectionName = /(?:セレクション|おすすめ|厳選|ランキング|比較|特集|10選|8選|7選|6選|5選|4選|3選)/.test(hName);
       if (isSingleTemplate && !isGenericCollectionName && !/(?:10選|8選|7選|6選|5選|4選|3選)/.test(String(p.title || ''))) return false;
       // 2. それ以外で複数宿特集の条件を満たす場合は特集記事
@@ -227,8 +227,9 @@ function main() {
   for (let i = featurePageSlugs.length - 1; i >= 0; i--) {
     if (isRedirected(`/${featurePageSlugs[i]}/`)) featurePageSlugs.splice(i, 1);
   }
-  // 301転送元・canonical統合済みの記事はサイトマップに載せない
-  const sitemapPosts = posts.filter(p => p.id && !canonical[p.id] && !isRedirected(`/posts/${p.id}/`));
+  // 301転送元・canonical統合済み・noindex（薄い記事）はサイトマップに載せない
+  const thinSet = new Set(thin.map(String));
+  const sitemapPosts = posts.filter(p => p.id && !canonical[p.id] && !thinSet.has(String(p.id)) && !isRedirected(`/posts/${p.id}/`));
 
   // 1-1. 市町村サブハブURLの自動抽出
   let citySubHubs = [];
@@ -381,8 +382,8 @@ function main() {
   sitemapIndexXml += `</sitemapindex>\n`;
   fs.writeFileSync(SITEMAP_FILE, sitemapIndexXml, 'utf8');
 
-  const totalUrls = staticPages.length + featurePageSlugs.length + (PREFECTURE_SLUGS.length * 4) + citySubHubs.length + spotSlugs.length + posts.length;
-  console.log(`Generated Google Search Console optimized Sitemap Index (sitemap.xml) and 5 sub-sitemaps (main: ${staticPages.length}, features: ${featurePageSlugs.length}, prefectures: ${(PREFECTURE_SLUGS.length * 4) + citySubHubs.length}, spots: ${spotSlugs.length}, posts: ${posts.length}) - Total: ${totalUrls} URLs`);
+  const totalUrls = staticPages.length + featurePageSlugs.length + (PREFECTURE_SLUGS.length * 4) + citySubHubs.length + spotSlugs.length + sitemapPosts.length;
+  console.log(`Generated Google Search Console optimized Sitemap Index (sitemap.xml) and 5 sub-sitemaps (main: ${staticPages.length}, features: ${featurePageSlugs.length}, prefectures: ${(PREFECTURE_SLUGS.length * 4) + citySubHubs.length}, spots: ${spotSlugs.length}, posts: ${sitemapPosts.length}) - Total: ${totalUrls} URLs`);
 
   // --- 2. public/robots.txt 物理ファイルの自動生成 ---
   const robotsTxt = `User-agent: *

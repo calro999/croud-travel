@@ -401,7 +401,7 @@ export default function AutumnBudgetHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. ホテルルートイン青森駅前</td>
                 <td className="p-3 text-stone-600">青森県青森市新町1-1-24</td>
-                <td className="p-3 text-stone-600">青森駅周辺</td>
+                <td className="p-3 text-stone-600">★ＪＲ青森駅東口より徒歩1分★／東北自動車道青森インターよりお車にて12分</td>
                 <td className="p-3 text-stone-600">車可500円/泊 先着順(高:2m,幅:1.8m,重:2,000kg以内)　バイク不可</td>
                 <td className="p-3 font-bold text-amber-600">★4.12（1514件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,925〜</td>
@@ -410,7 +410,7 @@ export default function AutumnBudgetHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. ホテルマイステイズ青森駅前</td>
                 <td className="p-3 text-stone-600">青森県青森市新町1-8-6</td>
-                <td className="p-3 text-stone-600">青森駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ青森駅より徒歩３分 東北新幹線「新青森駅」より車で15分 青森中央ＩＣより車で１５分</td>
                 <td className="p-3 text-stone-600">提携駐車場へご案内します。　駐車料金700円</td>
                 <td className="p-3 font-bold text-amber-600">★4.19（6325件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,350〜</td>
@@ -419,7 +419,7 @@ export default function AutumnBudgetHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. アパホテル〈青森駅東〉</td>
                 <td className="p-3 text-stone-600">青森県青森市安方1-11-2</td>
-                <td className="p-3 text-stone-600">青森駅周辺</td>
+                <td className="p-3 text-stone-600">「JR青森駅」東口から徒歩約5分。</td>
                 <td className="p-3 text-stone-600">1泊700円　※一部、車高1.6m　※バイク可/ 到着順 / 満車時は周辺コインパーキングへ</td>
                 <td className="p-3 font-bold text-amber-600">★3.96（1096件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,960〜</td>
@@ -428,7 +428,7 @@ export default function AutumnBudgetHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. アパホテル〈青森駅県庁通〉</td>
                 <td className="p-3 text-stone-600">青森県青森市安方2丁目6-6</td>
-                <td className="p-3 text-stone-600">青森駅周辺</td>
+                <td className="p-3 text-stone-600">「JR青森駅」東口から徒歩約8分</td>
                 <td className="p-3 text-stone-600">最大8台/1泊800円　※先着順/バイク駐車可　 / 他、周辺コインパーキングをご利用ください。</td>
                 <td className="p-3 font-bold text-amber-600">★3.98（748件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,950〜</td>
@@ -437,7 +437,7 @@ export default function AutumnBudgetHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 東横ＩＮＮ新青森駅東口</td>
                 <td className="p-3 text-stone-600">青森県青森市石江2-11-2</td>
-                <td className="p-3 text-stone-600">新青森駅周辺</td>
+                <td className="p-3 text-stone-600">新青森駅東口より徒歩にて約２分</td>
                 <td className="p-3 text-stone-600">先着順：48台・500円（税込／泊）</td>
                 <td className="p-3 font-bold text-amber-600">★4.13（808件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,883〜</td>
@@ -466,7 +466,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>車可500円/泊 先着順(高:2m,幅:1.8m,重:2,000kg以内)　バイク不可</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.17 ／ 立地 ★4.21 ／ 部屋 ★4.09 ／ 設備 ★4.06 ／ 風呂 ★4.08 ／ 食事 ★4.09</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近で大浴場もあり、スタッフの対応も快適青森駅前で交通便利、繁華街から距離があるようですが、お酒飲まない自分には立地が優先なので問題ありません大浴場があるのはありがたいです、ゆったりできます…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近で大浴場もあり、スタッフの対応も快適青森駅前で交通便利、繁華街から距離があるようですが、お酒飲まない自分には立地が優先なので問題ありません大浴場があるのはありがたいです、ゆったりできます。」
                   </blockquote>
                 </div>
               </div>
@@ -532,7 +532,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>最大8台/1泊800円　※先着順/バイク駐車可　 / 他、周辺コインパーキングをご利用ください。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.06 ／ 立地 ★3.92 ／ 部屋 ★4.01 ／ 設備 ★3.9 ／ 風呂 ★3.76 ／ 食事 ★3.85</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「拠点に最適、周辺のグルメも大満足ホテルに近い所で「鮨処あすか」で夕食。鮨ならここと言われて行ったけど、とても美味しかってです。昼御飯に「味の札幌大西」の味噌カレー牛乳ラーメンがソールフード…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「拠点に最適、周辺のグルメも大満足ホテルに近い所で「鮨処あすか」で夕食。鮨ならここと言われて行ったけど、とても美味しかってです。」
                   </blockquote>
                 </div>
               </div>
@@ -554,7 +554,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>先着順：48台・500円（税込／泊）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.14 ／ 立地 ★4.2 ／ 部屋 ★4.2 ／ 設備 ★4.13 ／ 風呂 ★4.05 ／ 食事 ★4.02</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「出張の前乗りで宿泊しましたが、駅チカでレンタカーも近くて便利、ベッドも大っきくて部屋もキレイで良かった...だけかな。インバウンドもあるし、国スポもあったから仕方ないとは思うけど、ビジネスマンの感…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「出張の前乗りで宿泊しましたが、駅チカでレンタカーも近くて便利、ベッドも大っきくて部屋もキレイで良かった...だけかな。」
                   </blockquote>
                 </div>
               </div>

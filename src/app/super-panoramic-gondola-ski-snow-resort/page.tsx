@@ -283,8 +283,8 @@ export default function Page() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 鳴子温泉駅よりアクセス。東北自動車道古川ICより47号線を鳴子方面へ、岩下こけし資料館前交差点から108号線を秋田方面に入り約20分。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「鬼首温泉 リゾートパーク ホテル オニコウベ」にチェックイン。大自然に囲まれたリゾートホテル～宮城県北唯一プールのある施設などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「鬼首温泉 リゾートパーク ホテル オニコウベ」の湯処へ。大自然に囲まれたリゾートホテル～宮城県北唯一プールのある施設とともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「鬼首温泉 リゾートパーク ホテル オニコウベ」にチェックイン。大自然に囲まれたリゾートホテル～宮城県北唯一プールのある施設が魅力の一軒。客室で荷物をほどいて穏やかな午後のひとときを。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「鬼首温泉 リゾートパーク ホテル オニコウベ」の大浴場・露天風呂へ。日暮れの静けさの中で湯に浸かり、旅の緊張をゆっくりと解きほぐす。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「鬼首温泉 リゾートパーク ホテル オニコウベ」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -296,7 +296,7 @@ export default function Page() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「鬼首温泉 リゾートパーク ホテル オニコウベ」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「鬼首温泉 リゾートパーク ホテル オニコウベ」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「奥白馬温泉 ホテルグリーンプラザ白馬」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は「鬼首温泉 リゾートパーク ホテル オニコウベ」周辺の観光スポットや地元の名産店に立ち寄り、ご当地のお土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>
@@ -424,7 +424,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 鬼首温泉　リゾートパーク　ホテル　オニコウベ</td>
                 <td className="p-3 text-stone-600">宮城県大崎市鳴子温泉鬼首大清水26-29</td>
-                <td className="p-3 text-stone-600">鳴子温泉駅周辺</td>
+                <td className="p-3 text-stone-600">東北自動車道古川ICより47号線を鳴子方面へ、岩下こけし資料館前交差点から108号線を秋田方面に入り約20分</td>
                 <td className="p-3 text-stone-600">有り　８５台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.41（460件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,850〜</td>
@@ -433,7 +433,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 奥白馬温泉　ホテルグリーンプラザ白馬</td>
                 <td className="p-3 text-stone-600">長野県北安曇郡小谷村千国乙12860-1</td>
-                <td className="p-3 text-stone-600">南小谷駅周辺</td>
+                <td className="p-3 text-stone-600">上信越道 長野IC オリンピック道路 R148号経由90分/『南小谷駅』より無料送迎バス有り 約20分（予約制）</td>
                 <td className="p-3 text-stone-600">有り　1100台　無料！</td>
                 <td className="p-3 font-bold text-amber-600">★4.28（1677件）</td>
                 <td className="p-3 font-bold text-rose-600">¥11,252〜</td>
@@ -442,7 +442,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 高天ヶ原温泉　志賀パークホテル</td>
                 <td className="p-3 text-stone-600">長野県下高井郡山ノ内町志賀高原高天ヶ原</td>
-                <td className="p-3 text-stone-600">湯田中駅周辺</td>
+                <td className="p-3 text-stone-600">信州中野ＩＣより車にて約45分。長野電鉄湯田中駅から路線バスにて約50分。新幹線長野駅から志賀高原急行バスにて約80分</td>
                 <td className="p-3 text-stone-600">５０台　無料（先着順）</td>
                 <td className="p-3 font-bold text-amber-600">★3.58（218件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,000〜</td>
@@ -451,7 +451,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 白馬姫川温泉　北アルプスを一望　ホテル白馬＜長野県＞</td>
                 <td className="p-3 text-stone-600">長野県北安曇郡白馬村北城5470-1</td>
-                <td className="p-3 text-stone-600">白馬駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ白馬駅より徒歩１０分川沿い／長野自動車道安曇野ＩＣより５０分／上信越自動車道長野ＩＣより５０分</td>
                 <td className="p-3 text-stone-600">有り　８０台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.43（1317件）</td>
                 <td className="p-3 font-bold text-rose-600">¥10,500〜</td>
@@ -460,7 +460,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 白馬姫川温泉　白馬　山のホテル</td>
                 <td className="p-3 text-stone-600">長野県北安曇郡白馬村北城3477</td>
-                <td className="p-3 text-stone-600">白馬駅周辺</td>
+                <td className="p-3 text-stone-600">中央道安曇野インター／上信越道長野インターより1時間。ＪＲ大糸線白馬駅／白馬八方バス停 ホテルの送迎有</td>
                 <td className="p-3 text-stone-600">無料駐車場20台設置。EV普通充電スタンド（6kW/3kW対応・2台）も完備しております。</td>
                 <td className="p-3 font-bold text-amber-600">★4.32（133件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,000〜</td>
@@ -489,7 +489,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　８５台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「アンティークな空間と温泉、食事に満足重厚な造りの建物、家具調度品、古いのかもしれませんがかえってアンティークでシックな味になってました。あいにくの雨でしたがラウンジでケーキをいただきながら温泉プー…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「アンティークな空間と温泉、食事に満足重厚な造りの建物、家具調度品、古いのかもしれませんがかえってアンティークでシックな味になってました。」
                   </blockquote>
                 </div>
               </div>
@@ -511,7 +511,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　1100台　無料！</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「地元の食材を使った食事と多彩なお風呂に大満足ブッフェは朝食夕食ともに土地の料理や食材を使ったものが美味しく素晴らしいです。特に、信州味噌汁、塩鍋、松田牛乳、サーモン、ポーク等。白馬にこれだけの特産…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「地元の食材を使った食事と多彩なお風呂に大満足ブッフェは朝食夕食ともに土地の料理や食材を使ったものが美味しく素晴らしいです。特に、信州味噌汁、塩鍋、松田牛乳、サーモン、ポーク等。」
                   </blockquote>
                 </div>
               </div>
@@ -533,7 +533,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>５０台　無料（先着順）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.81 ／ 立地 ★3.81 ／ 部屋 ★3.15 ／ 設備 ★3.19 ／ 風呂 ★3.69 ／ 食事 ★3.76</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事内容や備品の説明不足が目立ち残念夕食の写真は会席料理でしたが 実際はビュッフェだった。だまされた気分。浴衣は部屋にはなくフロント横で受け取るシステム、チェックインの時に言ってほしかった。部屋は…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事内容や備品の説明不足が目立ち残念夕食の写真は会席料理でしたが 実際はビュッフェだった。だまされた気分。浴衣は部屋にはなくフロント横で受け取るシステム、チェックインの時に言ってほしかった。」
                   </blockquote>
                 </div>
               </div>
@@ -555,7 +555,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　８０台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.48 ／ 立地 ★4.47 ／ 部屋 ★4.3 ／ 設備 ★4.24 ／ 風呂 ★4.28 ／ 食事 ★4.44</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「施設も料理も大満足、送迎の対応も親切ホテルはとても綺麗、スタッフ全員がとても親切、料理もおいしい、2泊させて頂きましたが大満足でした。又八方尾根登山時には送迎バス対応をして頂きとても助かりまし…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「施設も料理も大満足、送迎の対応も親切ホテルはとても綺麗、スタッフ全員がとても親切、料理もおいしい、2泊させて頂きましたが大満足でした。」
                   </blockquote>
                 </div>
               </div>
@@ -577,7 +577,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料駐車場20台設置。EV普通充電スタンド（6kW/3kW対応・2台）も完備しております。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.3 ／ 立地 ★4.37 ／ 部屋 ★4.26 ／ 設備 ★4.16 ／ 風呂 ★4.32</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「景色と立地が最高、冬にまた訪れたい良いホテルでした。景色もロケーションも良かったです。白馬はずいぶん前にスキーで行きました。また冬に来てみたいです。ホテルのスタッフの方の対応も良か…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「景色と立地が最高、冬にまた訪れたい良いホテルでした。景色もロケーションも良かったです。白馬はずいぶん前にスキーで行きました。また冬に来てみたいです。」
                   </blockquote>
                 </div>
               </div>

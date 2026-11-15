@@ -310,7 +310,7 @@ export default function AutumnBudgetMatsuyamaHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. ホテルマイステイズ松山</td>
                 <td className="p-3 text-stone-600">愛媛県松山市大手町1-10-10</td>
-                <td className="p-3 text-stone-600">松山（愛媛）駅周辺</td>
+                <td className="p-3 text-stone-600">JR松山駅・松山市駅から徒歩8分／松山空港からバス約20分(愛媛新聞社前下車)／松山観光港～バス24分／松山IC～15分</td>
                 <td className="p-3 text-stone-600">自社および契約駐車場共1泊1200円。満車の場合は一般有料駐車場へのご案内とさせていただいております</td>
                 <td className="p-3 font-bold text-amber-600">★4.18（3173件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,360〜</td>
@@ -319,7 +319,7 @@ export default function AutumnBudgetMatsuyamaHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 天然温泉　松山ニューグランドホテル</td>
                 <td className="p-3 text-stone-600">愛媛県松山市二番町３丁目４－１０</td>
-                <td className="p-3 text-stone-600">松山（愛媛）駅周辺</td>
+                <td className="p-3 text-stone-600">◆提携駐車場複数有！ ◆松山ＩＣからお車で約２０分 ◆松山空港からバスで約３０分 ◆路面電車【大街道】下車⇒徒歩約４分</td>
                 <td className="p-3 text-stone-600">提携先駐車場の詳細は「アクセス・駐車場」→「提携駐車場」をご確認ください。</td>
                 <td className="p-3 font-bold text-amber-600">★4.25（5805件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,200〜</td>
@@ -328,7 +328,7 @@ export default function AutumnBudgetMatsuyamaHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. ターミナルホテル松山</td>
                 <td className="p-3 text-stone-600">愛媛県松山市宮田町9-1</td>
-                <td className="p-3 text-stone-600">松山（愛媛）駅周辺</td>
+                <td className="p-3 text-stone-600">JR松山駅より徒歩約2分／松山空港より15分／松山観光港より35分／三津浜港より20分</td>
                 <td className="p-3 text-stone-600">普通車800円／15:00〜10:00イン前やアウト後や連泊中の昼間の駐車は別途料金がかかります。</td>
                 <td className="p-3 font-bold text-amber-600">★4.07（2519件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,250〜</td>
@@ -337,7 +337,7 @@ export default function AutumnBudgetMatsuyamaHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. ホテルたいよう農園　松山古三津</td>
                 <td className="p-3 text-stone-600">愛媛県松山市古三津3-6-8</td>
-                <td className="p-3 text-stone-600">三津浜駅周辺</td>
+                <td className="p-3 text-stone-600">松山空港より車10分／ＪＲ松山駅より車15分／松山観光港より車10分／ＪＲ三津浜駅より徒歩10分／松山ＩＣより車30分</td>
                 <td className="p-3 text-stone-600">１部屋１台乗用車５００円／泊※2台目はお断りさせていただきます※５ｍ以上予約制9ｍ以上駐車不可</td>
                 <td className="p-3 font-bold text-amber-600">★4.2（597件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,000〜</td>
@@ -346,7 +346,7 @@ export default function AutumnBudgetMatsuyamaHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. ダイワロイネットホテル松山</td>
                 <td className="p-3 text-stone-600">愛媛県松山市一番町2-6-5</td>
-                <td className="p-3 text-stone-600">市内路面電車「大街道駅」より徒歩約1分の駅ちかホテル。松山空港からリム</td>
+                <td className="p-3 text-stone-600">市内路面電車「大街道駅」より徒歩約1分の駅ちかホテル。松山空港からリムジンバス（約30分）大街道下車、徒歩約1分</td>
                 <td className="p-3 text-stone-600">立体 38台／先着順・予約不可／1泊（14:00〜翌11:00）1,200円（税込）／車高2.05m</td>
                 <td className="p-3 font-bold text-amber-600">★4.43（2303件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,590〜</td>
@@ -397,7 +397,7 @@ export default function AutumnBudgetMatsuyamaHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>提携先駐車場の詳細は「アクセス・駐車場」→「提携駐車場」をご確認ください。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.26 ／ 立地 ★4.22 ／ 部屋 ★4.16 ／ 設備 ★4.15 ／ 風呂 ★4.36 ／ 食事 ★3.88</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅や温泉へのアクセスが良く、朝食も美味JRの駅にも道後温泉にも路面電車一本でいける便利なロケーション。大浴場も深夜の清掃時間以外は入れるしのんびりできました。朝食も量的にちょうどよかったし、おいし…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅や温泉へのアクセスが良く、朝食も美味JRの駅にも道後温泉にも路面電車一本でいける便利なロケーション。大浴場も深夜の清掃時間以外は入れるしのんびりできました。」
                   </blockquote>
                 </div>
               </div>

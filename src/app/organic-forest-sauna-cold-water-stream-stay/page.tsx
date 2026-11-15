@@ -76,7 +76,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F194868%2F194868.html%26f_flg%3DPLAN",
     "hotelMinCharge": 41839,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/194868/194868.jpg",
-    "userReview": "空と海が満ちる高台の天然温泉サウナＳＰＡ　Ｖｉｌｌａ　＾ならではの立地と落ち着いた空間で、ゆったりとした滞在を楽しめたという声が寄せられています。",
+    "userReview": "空と海が満ちる高台の天然温泉サウナＳＰＡ Ｖｉｌｌａ ＾ならではの立地と落ち着いた空間で、ゆったりとした滞在を楽しめたという声が寄せられています。",
     "reviewAverage": 4.4,
     "reviewCount": 100,
     "address": "静岡県賀茂郡東伊豆町奈良本1213-119　グラン熱川",
@@ -284,7 +284,7 @@ export default function Page() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 伊豆北川駅から徒歩で約１１分で現地へ到着。</li>
                 <li>・<strong className="text-stone-800">15:30〜</strong> 「空と海が満ちる高台の天然温泉サウナＳＰＡ Ｖｉｌｌａ ＾」へチェックイン。落ち着いた空間で旅の荷を解き、ゆったりとした時間をスタート。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「空と海が満ちる高台の天然温泉サウナＳＰＡ Ｖｉｌｌａ ＾」の湯処へ。日頃の疲れを癒やす湯浴みとともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「空と海が満ちる高台の天然温泉サウナＳＰＡ Ｖｉｌｌａ ＾」の自慢の湯処へ。温かな湯気と落ち着いた雰囲気に癒やされながら、夕食前の贅沢なひとときを過ごす。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「空と海が満ちる高台の天然温泉サウナＳＰＡ Ｖｉｌｌａ ＾」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -296,7 +296,7 @@ export default function Page() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「空と海が満ちる高台の天然温泉サウナＳＰＡ Ｖｉｌｌａ ＾」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「空と海が満ちる高台の天然温泉サウナＳＰＡ Ｖｉｌｌａ ＾」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「亀島川温泉 新川の湯 ドーミーイン東京八丁堀」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は宿周辺の散策とショッピングを満喫。地元の名産品やグルメを味わってから余裕をもって帰路につく。</li>
               </ul>
             </div>
           </div>
@@ -433,7 +433,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 亀島川温泉　新川の湯　ドーミーイン東京八丁堀</td>
                 <td className="p-3 text-stone-600">東京都中央区新川2－20－4</td>
-                <td className="p-3 text-stone-600">ＪＲ京葉線東京メトロ日比谷線八丁堀駅Ｂ４出口より徒歩約1分（EVなし）</td>
+                <td className="p-3 text-stone-600">ＪＲ京葉線東京メトロ日比谷線八丁堀駅Ｂ４出口より徒歩約1分（EVなし）・Ｂ２出口より徒歩約5分（EVあり）</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.37（6828件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,023〜</td>
@@ -451,7 +451,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 長良川温泉　岐阜グランドホテル</td>
                 <td className="p-3 text-stone-600">岐阜県岐阜市長良648</td>
-                <td className="p-3 text-stone-600">岐阜駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ岐阜駅、名鉄岐阜駅より岐阜バスで２０分・うかいミュージアム前下車すぐ。または、車で１５分</td>
                 <td className="p-3 text-stone-600">有り　２００台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.35（2742件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,050〜</td>
@@ -533,7 +533,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「清潔感ある館内と温泉、美味しい食事に大満足建物自体は古かったですが、全体に清潔感があり、気持ち良く滞在できました。温泉もお湯がオーバーフローしていて気持ち良かったです。夕食もどれも綺麗に盛り付…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「清潔感ある館内と温泉、美味しい食事に大満足建物自体は古かったですが、全体に清潔感があり、気持ち良く滞在できました。温泉もお湯がオーバーフローしていて気持ち良かったです。」
                   </blockquote>
                 </div>
               </div>
@@ -555,7 +555,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２００台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「古い老舗旅館ですが、綺麗に整備されており、特にお風呂がおススメ。大浴場でバスタオルを貸してもらえて、脱衣所で回収するので、部屋のタオルを持ち出さなくていいことが気に入っています。(ほとんどの宿泊施…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「古い老舗旅館ですが、綺麗に整備されており、特にお風呂がおススメ。大浴場でバスタオルを貸してもらえて、脱衣所で回収するので、部屋のタオルを持ち出さなくていいことが気に入っています。」
                   </blockquote>
                 </div>
               </div>

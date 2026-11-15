@@ -253,7 +253,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 富士河口湖温泉　富士山の見える温泉旅館　大池ホテル</td>
                 <td className="p-3 text-stone-600">山梨県南都留郡富士河口湖町船津6713-103</td>
-                <td className="p-3 text-stone-600">河口湖駅周辺</td>
+                <td className="p-3 text-stone-600">駅から無料送迎有■駐車場無料■河口湖駅から車で4分■富士急から車で7分河口湖ICから車で12分新宿駅からバスで約120分</td>
                 <td className="p-3 text-stone-600">無料駐車場50台・河口湖駅からの無料送迎有・バイク専用の駐車場無・富士急ハイランドまで車で7分</td>
                 <td className="p-3 font-bold text-amber-600">★4.36（5587件）</td>
                 <td className="p-3 font-bold text-rose-600">¥13,000〜</td>
@@ -262,7 +262,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 富士河口湖温泉郷　四季の宿　富士山</td>
                 <td className="p-3 text-stone-600">山梨県南都留郡富士河口湖町船津6713-19</td>
-                <td className="p-3 text-stone-600">河口湖駅周辺</td>
+                <td className="p-3 text-stone-600">富士急行線 河口湖駅より車で５分</td>
                 <td className="p-3 text-stone-600">有り　13台　無料　予約不要　※満車時は隣接町営無料駐車場をご案内</td>
                 <td className="p-3 font-bold text-amber-600">★3.68（378件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,500〜</td>
@@ -271,7 +271,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. Ｌａｋｅ　Ｅｎｇｌａｎｄ　富士山が見える隠れ家ロッジ／西湖近隣／ＢＢＱ／企業研修　＾</td>
                 <td className="p-3 text-stone-600">山梨県南都留郡富士河口湖町西湖3111　Ｌａｋｅ　Ｅｎｇｌａｎｄ</td>
-                <td className="p-3 text-stone-600">河口湖駅周辺</td>
+                <td className="p-3 text-stone-600">河口湖駅から車で約２０分</td>
                 <td className="p-3 text-stone-600">有り</td>
                 <td className="p-3 font-bold text-amber-600">高評価</td>
                 <td className="p-3 font-bold text-rose-600">¥9,744〜</td>
@@ -280,7 +280,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 富士山と河口湖とホテル風鈴</td>
                 <td className="p-3 text-stone-600">山梨県南都留郡富士河口湖町河口763</td>
-                <td className="p-3 text-stone-600">河口湖駅周辺</td>
+                <td className="p-3 text-stone-600">河口湖駅よりバスで約１５分、中央自動車道河口湖ＩＣよりお車で約１５分</td>
                 <td className="p-3 text-stone-600">有り　１０台　無料　要予約</td>
                 <td className="p-3 font-bold text-amber-600">★5（16件）</td>
                 <td className="p-3 font-bold text-rose-600">¥19,000〜</td>
@@ -289,7 +289,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 天然温泉　富士五湖の湯　スーパーホテル富士河口湖天然温泉</td>
                 <td className="p-3 text-stone-600">山梨県南都留郡富士河口湖町船津3062-5</td>
-                <td className="p-3 text-stone-600">河口湖駅周辺</td>
+                <td className="p-3 text-stone-600">中央自動車道 富士吉田I.Cより約5分！富士急行線 河口湖駅よりタクシーで約5分！</td>
                 <td className="p-3 text-stone-600">敷地内平面駐車場普通車80台先着順予約不可　普通車以外は提携駐車場１泊1,100円電話にて要予約</td>
                 <td className="p-3 font-bold text-amber-600">★4.28（821件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,910〜</td>
@@ -298,7 +298,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">6. 河口湖温泉　足和田ホテル</td>
                 <td className="p-3 text-stone-600">山梨県南都留郡富士河口湖町長浜395</td>
-                <td className="p-3 text-stone-600">河口湖駅周辺</td>
+                <td className="p-3 text-stone-600">【電車】富士急行線河口湖駅より車で約10分【車】河口湖ICより約3キロ・約15分。勝山から湖畔道路を大石方面へ湖畔沿いへ</td>
                 <td className="p-3 text-stone-600">有り　４０台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.34（946件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,425〜</td>
@@ -327,7 +327,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料駐車場50台・河口湖駅からの無料送迎有・バイク専用の駐車場無・富士急ハイランドまで車で7分</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.5 ／ 立地 ★4.4 ／ 部屋 ★4.23 ／ 設備 ★4.29 ／ 風呂 ★4.31 ／ 食事 ★4.45</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「富士山が見えた瞬間に感動、料理も最高とても良いお部屋で最高でしたお部屋には浴衣や作務衣が全サイズ取り揃えてあり早速着替えてゆったりと過ごせましたお料理もどれも美味しく大満足でした富…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「富士山が見えた瞬間に感動、料理も最高とても良いお部屋で最高でしたお部屋には浴衣や作務衣が全サイズ取り揃えてあり早速着替えてゆったりと過ごせましたお料理もどれも美味しく大満足でした富。」
                   </blockquote>
                 </div>
               </div>
@@ -415,7 +415,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>敷地内平面駐車場普通車80台先着順予約不可　普通車以外は提携駐車場１泊1,100円電話にて要予約</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食が美味しく会場のデザインも最高朝食のメニューは、さすが豊富に加えてどれも美味しいので、取り過ぎに注意ですね。朝食会場は、一流ホテル顔負けのデザインで、リゾートに来ている感が満載です。海外の皆さ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食が美味しく会場のデザインも最高朝食のメニューは、さすが豊富に加えてどれも美味しいので、取り過ぎに注意ですね。朝食会場は、一流ホテル顔負けのデザインで、リゾートに来ている感が満載です。」
                   </blockquote>
                 </div>
               </div>

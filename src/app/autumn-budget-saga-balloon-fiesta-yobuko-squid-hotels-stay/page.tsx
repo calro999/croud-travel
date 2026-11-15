@@ -310,7 +310,7 @@ export default function AutumnBudgetSagaHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. ホテルマリターレ創世　佐賀</td>
                 <td className="p-3 text-stone-600">佐賀県佐賀市神野東2-5-15</td>
-                <td className="p-3 text-stone-600">佐賀駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ 佐賀駅より徒歩にて約8分</td>
                 <td className="p-3 text-stone-600">有り：屋内10台 屋外８０台　無料　予約不要（チェックアウト後も駐車場は無料にて利用可能）</td>
                 <td className="p-3 font-bold text-amber-600">★4.55（390件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,100〜</td>
@@ -319,7 +319,7 @@ export default function AutumnBudgetSagaHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. コンフォートホテル佐賀</td>
                 <td className="p-3 text-stone-600">佐賀県佐賀市駅前中央1-14-38</td>
-                <td className="p-3 text-stone-600">佐賀駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ「佐賀駅」徒歩１分◆佐賀空港からバスにて佐賀駅バスセンター下車徒歩３分◆長崎自動車道「佐賀大和ＩＣ」約１０分</td>
                 <td className="p-3 text-stone-600">提携駐車場20台◆1泊800円・先着順◆入出庫不可◆幅2.0m　長さ5.0m　※大型不可</td>
                 <td className="p-3 font-bold text-amber-600">★4.13（3525件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,200〜</td>
@@ -328,7 +328,7 @@ export default function AutumnBudgetSagaHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. アパホテル〈佐賀駅前中央〉</td>
                 <td className="p-3 text-stone-600">佐賀県佐賀市駅前中央2-6-14</td>
-                <td className="p-3 text-stone-600">佐賀駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ長崎本線「佐賀駅」サンライズ口（北口）徒歩3分 博多へ特急35分 佐賀空港へバス35分 福岡空港へバス70分！</td>
                 <td className="p-3 text-stone-600">提携有料駐車場（500円/1泊・出し入れ無し）29台先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.1（1988件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,230〜</td>
@@ -337,7 +337,7 @@ export default function AutumnBudgetSagaHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. アパホテル〈佐賀駅南口〉</td>
                 <td className="p-3 text-stone-600">佐賀県佐賀市駅前中央1-164</td>
-                <td className="p-3 text-stone-600">佐賀駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ佐賀駅南口から徒歩３分、 博多駅から列車で約35分、福岡空港からバスで65分</td>
                 <td className="p-3 text-stone-600">平面駐車場25台　1000円/1泊　大型車要予約　マイクロ2000円〜/1泊</td>
                 <td className="p-3 font-bold text-amber-600">★4.01（2417件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,500〜</td>
@@ -346,7 +346,7 @@ export default function AutumnBudgetSagaHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. ホテルニューオータニ佐賀</td>
                 <td className="p-3 text-stone-600">佐賀県佐賀市与賀町1-2</td>
-                <td className="p-3 text-stone-600">佐賀駅周辺</td>
+                <td className="p-3 text-stone-600">JR佐賀駅より車にて8分、空港バス利用～県庁前バス停下車～徒歩にて約10分、佐賀空港より車にて20分</td>
                 <td className="p-3 text-stone-600">有り　100台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.22（956件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,300〜</td>
@@ -419,7 +419,7 @@ export default function AutumnBudgetSagaHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>提携有料駐車場（500円/1泊・出し入れ無し）29台先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.11 ／ 立地 ★4.02 ／ 部屋 ★4.19 ／ 設備 ★4.05 ／ 風呂 ★3.93 ／ 食事 ★3.77</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「予約確認の不備とスタッフの対応に困惑会社の外国人スタッフが宿泊するために予約しました。サイトの設定に沿って姓・名の順で予約を取りましたが、チェックイン時にパスポートの確認をされた際、表記が名・姓の…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「予約確認の不備とスタッフの対応に困惑会社の外国人スタッフが宿泊するために予約しました。」
                   </blockquote>
                 </div>
               </div>
@@ -463,7 +463,7 @@ export default function AutumnBudgetSagaHotelsPage() {
                   <p>【佐賀：アジア最大級バルーンフェスタと呼子イカ・佐賀牛】 <strong>【駐車場・マイカー利用】</strong>有り　100台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.32 ／ 立地 ★4.26 ／ 部屋 ★4.11 ／ 設備 ★4.08 ／ 風呂 ★3.99 ／ 食事 ★4.38</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「広くて清潔な部屋と丁寧な接客に大満足素泊まりで利用させていただきました。お部屋は広くて清潔感があり、とても快適に過ごすことができました。また、フロントのスタッフの方々も非常に丁寧で親切にご対応…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「広くて清潔な部屋と丁寧な接客に大満足素泊まりで利用させていただきました。お部屋は広くて清潔感があり、とても快適に過ごすことができました。」
                   </blockquote>
                 </div>
               </div>

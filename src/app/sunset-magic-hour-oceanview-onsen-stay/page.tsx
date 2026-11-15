@@ -334,7 +334,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 夕日ヶ浦温泉　旅館　海の華</td>
                 <td className="p-3 text-stone-600">京都府京丹後市網野町浜詰391</td>
-                <td className="p-3 text-stone-600">網野駅周辺</td>
+                <td className="p-3 text-stone-600">京都丹後鉄道 夕日ヶ浦木津温泉駅からお車で約5分</td>
                 <td className="p-3 text-stone-600">有り　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.1（100件）</td>
                 <td className="p-3 font-bold text-rose-600">¥10,400〜</td>
@@ -343,7 +343,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 窓に広がる夕日と海　美食を奏で１５０有余年　間人温泉　炭平</td>
                 <td className="p-3 text-stone-600">京都府京丹後市丹後町間人3718</td>
-                <td className="p-3 text-stone-600">網野駅周辺</td>
+                <td className="p-3 text-stone-600">京都丹後鉄道・網野駅から約20分無料送迎有（要予約）/ 山陰近畿自動車道【京丹後大宮IC】から車で約30分</td>
                 <td className="p-3 text-stone-600">無料駐車場有（予約不要）　※館内の階段を迂回する非常口での入館も出来ますのでご希望の方はお伝え下さい</td>
                 <td className="p-3 font-bold text-amber-600">★4.64（492件）</td>
                 <td className="p-3 font-bold text-rose-600">¥32,000〜</td>
@@ -352,7 +352,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 夕日ヶ浦温泉　静花扇</td>
                 <td className="p-3 text-stone-600">京都府京丹後市網野町浜詰767</td>
-                <td className="p-3 text-stone-600">木津温泉駅周辺</td>
+                <td className="p-3 text-stone-600">京都丹後鉄道 夕日ヶ浦木津温泉駅より送迎（車で約5分）、京都縦貫道/京丹後大宮IC下車約40分</td>
                 <td className="p-3 text-stone-600">有り　２５台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.56（402件）</td>
                 <td className="p-3 font-bold text-rose-600">¥14,850〜</td>
@@ -381,7 +381,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.05 ／ 立地 ★3.8 ／ 部屋 ★4.3 ／ 設備 ★4.16 ／ 風呂 ★3.79 ／ 食事 ★4.16</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「当日急に温泉が調子悪く変更して頂いた、同金額で、料理旅館夕日ヶ浦に変更して頂いた、温泉風呂付きで、料理も大変美味しいかったです、海もお部屋も大きく、前日夕方8時くらいのネット予約にも関わらず…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「当日急に温泉が調子悪く変更して頂いた、同金額で、料理旅館夕日ヶ浦に変更して頂いた、温泉風呂付きで、料理も大変美味しいかったです、海もお部屋も大きく、前日夕方8時くらいのネット予約にも関わらず。」
                   </blockquote>
                 </div>
               </div>
@@ -425,7 +425,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２５台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.6 ／ 立地 ★4.62 ／ 部屋 ★4.56 ／ 設備 ★4.46 ／ 風呂 ★4.36 ／ 食事 ★4.69</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「海を一望できる絶景と美味しい料理に大満足夕日が浦の奥の方なので、静かでゆっくり出来ました。部屋からは海が一望できて、最高の眺めでした。屋上テラスからの眺めも良く、天気が良ければ最高の夕日が…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「海を一望できる絶景と美味しい料理に大満足夕日が浦の奥の方なので、静かでゆっくり出来ました。部屋からは海が一望できて、最高の眺めでした。」
                   </blockquote>
                 </div>
               </div>

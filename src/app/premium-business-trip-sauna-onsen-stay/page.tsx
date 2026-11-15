@@ -380,8 +380,8 @@ export default function ArticlePage() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 豊洲駅よりアクセス。東京メトロ有楽町線 豊洲駅(2番出口) 直結。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「三井ガーデンホテル豊洲プレミア」にチェックイン。海と空を望む天空のホテルから、東京湾をクルーズするように楽しみ尽くす旅が始まります。などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「三井ガーデンホテル豊洲プレミア」の湯処へ。海と空を望む天空のホテルから、東京湾をクルーズするように楽しみ尽くす旅とともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「三井ガーデンホテル豊洲プレミア」にチェックイン。海と空を望む天空のホテルから、東京湾をクルーズするように楽しみ尽くす旅が始まります。 窓外に広がる景色を眺めながらチェックイン後の寛ぎ時間を。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「三井ガーデンホテル豊洲プレミア」の湯船で寛ぎタイム。季節の空気を感じながら手足を伸ばし、心豊かな夕方のリラックス時間を満喫。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「三井ガーデンホテル豊洲プレミア」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>

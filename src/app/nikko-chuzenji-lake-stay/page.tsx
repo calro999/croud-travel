@@ -253,7 +253,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 日光中禅寺湖温泉　ホテル花庵</td>
                 <td className="p-3 text-stone-600">栃木県日光市中宮祠2480</td>
-                <td className="p-3 text-stone-600">ＪＲ日光駅又は東武日光駅より中禅寺温泉方面行きバス「中禅寺温泉バス停」</td>
+                <td className="p-3 text-stone-600">ＪＲ日光駅又は東武日光駅より中禅寺温泉方面行きバス「中禅寺温泉バス停」下車。バス停より徒歩5分。日光東照宮より車で25分</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.64（1291件）</td>
                 <td className="p-3 font-bold text-rose-600">¥15,500〜</td>
@@ -262,7 +262,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 日光中禅寺温泉　中禅寺金谷ホテル</td>
                 <td className="p-3 text-stone-600">栃木県日光市中宮祠2482</td>
-                <td className="p-3 text-stone-600">東武日光駅周辺</td>
+                <td className="p-3 text-stone-600">日光宇都宮有料道路清滝IC～車で約25分（いろは坂経由）東武日光駅～無料送迎バス有（運行時間変動有）日光東照宮迄車40分</td>
                 <td className="p-3 text-stone-600">有り（屋外）　５０台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.5（887件）</td>
                 <td className="p-3 font-bold text-rose-600">¥14,781〜</td>
@@ -271,7 +271,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 湯西川温泉　ホテル湯西川（伊東園ホテルズ）</td>
                 <td className="p-3 text-stone-600">栃木県日光市湯西川597</td>
-                <td className="p-3 text-stone-600">湯西川温泉駅周辺</td>
+                <td className="p-3 text-stone-600">湯西川温泉駅よりバスにて約20分（ホテル湯西川前下車）</td>
                 <td className="p-3 text-stone-600">有り　７０台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.03（969件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,248〜</td>
@@ -280,7 +280,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 日光湯元温泉　日光グランドホテル　ほのかな宿樹林</td>
                 <td className="p-3 text-stone-600">栃木県日光市湯元2549-7</td>
-                <td className="p-3 text-stone-600">東武日光駅周辺</td>
+                <td className="p-3 text-stone-600">東武日光駅バス湯元温泉行下車5分 日光東照宮車60分</td>
                 <td className="p-3 text-stone-600">有り　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.23（1145件）</td>
                 <td className="p-3 font-bold text-rose-600">¥11,500〜</td>
@@ -289,7 +289,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 日光東照宮晃陽苑</td>
                 <td className="p-3 text-stone-600">栃木県日光市瀬尾1640-14</td>
-                <td className="p-3 text-stone-600">日光駅周辺</td>
+                <td className="p-3 text-stone-600">日光駅よりお車にて約１０分</td>
                 <td className="p-3 text-stone-600">有り（無料）　１００台　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★3.97（304件）</td>
                 <td className="p-3 font-bold text-rose-600">¥10,424〜</td>
@@ -298,7 +298,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">6. 鬼怒川温泉　鬼怒川グランドホテル　夢の季（ゆめのとき）</td>
                 <td className="p-3 text-stone-600">栃木県日光市鬼怒川温泉大原1021</td>
-                <td className="p-3 text-stone-600">鬼怒川温泉駅周辺</td>
+                <td className="p-3 text-stone-600">鬼怒川温泉駅より徒歩8分／日光・宇都宮有料道路今市ＩＣより車で20分</td>
                 <td className="p-3 text-stone-600">有　無料先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.5（781件）</td>
                 <td className="p-3 font-bold text-rose-600">¥16,300〜</td>
@@ -327,7 +327,7 @@ export default function MicroTouristHubPage() {
                   <p>【奥日光・中禅寺湖：華厳の滝＆湖畔リゾート極上宿 厳選】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「中禅寺湖の絶景と2種類の温泉に癒される中禅寺湖の眼の前で、眺めが最高!朝起きたら朝日が湖に、光って癒されました。温泉も硫黄泉と肌によい弱アルカリ泉と、2種類あり、ゆったりできました。地元の野菜のせ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「中禅寺湖の絶景と2種類の温泉に癒される中禅寺湖の眼の前で、眺めが最高!朝起きたら朝日が湖に、光って癒されました。温泉も硫黄泉と肌によい弱アルカリ泉と、2種類あり、ゆったりできました。」
                   </blockquote>
                 </div>
               </div>
@@ -349,7 +349,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り（屋外）　５０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「金谷ホテルの食事に母も大絶賛の旅金谷ホテルはやはり食事がおいしいです。以前は日光金谷ホテルも利用したことがありとてもよい印象残ったため、この度は母が温泉に浸かりたいということで中禅寺金谷ホテル…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「金谷ホテルの食事に母も大絶賛の旅金谷ホテルはやはり食事がおいしいです。」
                   </blockquote>
                 </div>
               </div>
@@ -371,7 +371,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　７０台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4 ／ 立地 ★4.03 ／ 部屋 ★3.88 ／ 設備 ★3.81 ／ 風呂 ★4.17 ／ 食事 ★3.89</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「座椅子の裏に大量のホコリがあり残念食事は普通の伊東園ホテルレベルです。とても静かな環境で、平日のためか混雑している感は無く、綺麗なお風呂でゆっくりできました。残念な事がは綺麗な畳に横になっている時…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「座椅子の裏に大量のホコリがあり残念食事は普通の伊東園ホテルレベルです。とても静かな環境で、平日のためか混雑している感は無く、綺麗なお風呂でゆっくりできました。」
                   </blockquote>
                 </div>
               </div>
@@ -393,7 +393,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「乳白色の温泉と自然に癒やされ、心身ともにリフレッシュ乳白色のお湯が最高でした。自律神経が乱れ気味だったのですが、お風呂に入ってすごく楽になり、とてもよく眠れました。お部屋も広くてゆったりでき、喫煙…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「乳白色の温泉と自然に癒やされ、心身ともにリフレッシュ乳白色のお湯が最高でした。自律神経が乱れ気味だったのですが、お風呂に入ってすごく楽になり、とてもよく眠れました。」
                   </blockquote>
                 </div>
               </div>
@@ -415,7 +415,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り（無料）　１００台　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋が狭く設備も古く、再訪はない今回与えられた部屋は、小屋もしくは安アパートの様なものでした入った瞬間に帰りたいと思いました、リピートはありません」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋が狭く設備も古く、再訪はない今回与えられた部屋は、小屋もしくは安アパートの様なものでした入った瞬間に帰りたいと思いました、リピートはありませんhttps:/。」
                   </blockquote>
                 </div>
               </div>
@@ -437,7 +437,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有　無料先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.58 ／ 立地 ★4.35 ／ 部屋 ★4.53 ／ 設備 ★4.4 ／ 風呂 ★4.48 ／ 食事 ★4.62</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「価格以上の満足感、料理もお風呂も最高価格がかなり割引になっていたので、決めました。鬼怒川は以前働いていたので、よく知っているので高級ホテルと言う事は知っていました。料理もお風呂も満足です…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「価格以上の満足感、料理もお風呂も最高価格がかなり割引になっていたので、決めました。鬼怒川は以前働いていたので、よく知っているので高級ホテルと言う事は知っていました。」
                   </blockquote>
                 </div>
               </div>

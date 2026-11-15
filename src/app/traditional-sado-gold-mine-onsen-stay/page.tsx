@@ -85,7 +85,7 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/10682/10682map.gif",
     "reviewCount": 489,
     "reviewAverage": 4.22,
-    "userReview": "佐渡おけさと蟹料理、観光も満喫の旅吉田家さんは、21時から佐渡おけさのステージがあり楽しかった。夕飯も1人一杯蟹付きでした。妙宣寺の五重塔やトキの森では、トキも見る事ができ大満足の旅となりまし。",
+    "userReview": "佐渡おけさと蟹料理、観光も満喫の旅吉田家さんは、21時から佐渡おけさのステージがあり楽しかった。夕飯も1人一杯蟹付きでした。妙宣寺の五重塔やトキの森では、トキも見る事ができ大満足の旅となりました。",
     "hotelMinCharge": 9680,
     "address1": "新潟県",
     "address2": "佐渡市両津夷261-1",
@@ -565,8 +565,8 @@ export default function FeatureDetailPage() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> お車で約35分、国道350号線からお入りくださいで現地へ到着。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「佐渡随一の源泉かけ流し八幡温泉 八幡館＜佐渡島＞」にチェックイン。佐渡の中央にあり観光にもビジネスにも便利。佐渡屈指の名湯「八幡温泉」とゆとりある客室が自慢♪などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「佐渡随一の源泉かけ流し八幡温泉 八幡館＜佐渡島＞」の湯処へ。佐渡の中央にあり観光にもビジネスにも便利。佐渡屈指の名湯「八幡温泉」ととともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「佐渡随一の源泉かけ流し八幡温泉 八幡館＜佐渡島＞」にチェックイン。佐渡の中央にあり観光にもビジネスにも便利。佐渡屈指の名湯「八幡温泉」とゆとりある客室が自慢♪ 荷物を解き、落ち着いた室内でまず一息つく。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「佐渡随一の源泉かけ流し八幡温泉 八幡館＜佐渡島＞」の大浴場・露天風呂へ。日暮れの静けさの中で湯に浸かり、旅の緊張をゆっくりと解きほぐす。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「佐渡随一の源泉かけ流し八幡温泉 八幡館＜佐渡島＞」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -578,7 +578,7 @@ export default function FeatureDetailPage() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「佐渡随一の源泉かけ流し八幡温泉 八幡館＜佐渡島＞」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「佐渡随一の源泉かけ流し八幡温泉 八幡館＜佐渡島＞」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「湖畔の宿 吉田家 ＜佐渡島＞」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は「佐渡随一の源泉かけ流し八幡温泉 八幡館＜佐渡島＞」周辺の観光スポットや地元の名産店に立ち寄り、ご当地のお土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>
@@ -649,10 +649,10 @@ export default function FeatureDetailPage() {
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
             <div className="flex flex-wrap gap-2">
               <Link
-                href="/prefectures/tokushima/"
+                href="/prefectures/niigata/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                徳島県の宿・温泉
+                新潟県の宿・温泉
               </Link>
               <Link
                 href="/prefectures/nagano/"
@@ -661,16 +661,16 @@ export default function FeatureDetailPage() {
                 長野県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/oita/"
+                href="/prefectures/yamanashi/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                大分県の宿・温泉
+                山梨県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/tottori/"
+                href="/prefectures/ishikawa/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                鳥取県の宿・温泉
+                石川県の宿・温泉
               </Link>
             </div>
           </div>
@@ -706,7 +706,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 佐渡随一の源泉かけ流し八幡温泉　八幡館＜佐渡島＞</td>
                 <td className="p-3 text-stone-600">新潟県佐渡市八幡2043</td>
-                <td className="p-3 text-stone-600">佐渡空港駅周辺</td>
+                <td className="p-3 text-stone-600">お車で約35分、国道350号線からお入りください。両津港、小木港から路線バスにて約50分、八幡温泉前下車で目の前です</td>
                 <td className="p-3 text-stone-600">有り　８０台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.24（413件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,650〜</td>
@@ -724,7 +724,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 湖畔の宿　吉田家　＜佐渡島＞</td>
                 <td className="p-3 text-stone-600">新潟県佐渡市両津夷261-1</td>
-                <td className="p-3 text-stone-600">佐渡空港駅周辺</td>
+                <td className="p-3 text-stone-600">佐渡汽船 両津港よりお車にて５分。無料送迎バス有り（要予約）</td>
                 <td className="p-3 text-stone-600">有り　６０台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.26（462件）</td>
                 <td className="p-3 font-bold text-rose-600">¥9,680〜</td>
@@ -733,7 +733,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. ＨＯＴＥＬ　ＡＺＵＭＡ＜佐渡島＞</td>
                 <td className="p-3 text-stone-600">新潟県佐渡市相川大浦548-1</td>
-                <td className="p-3 text-stone-600">佐渡空港駅周辺</td>
+                <td className="p-3 text-stone-600">両津港より車で５０分／小木港より車で６０分</td>
                 <td className="p-3 text-stone-600">有り　57台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.39（392件）</td>
                 <td className="p-3 font-bold text-rose-600">¥12,857〜</td>
@@ -742,7 +742,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 伝統と風格の宿　ホテル万長　＜佐渡島＞</td>
                 <td className="p-3 text-stone-600">新潟県佐渡市相川下戸町58</td>
-                <td className="p-3 text-stone-600">佐渡空港駅周辺</td>
+                <td className="p-3 text-stone-600">両津港から25ｋｍ（車で45分/路線バスで約60分・本線相川下戸下車徒歩1分）小木港から37ｋｍ（車で60分）</td>
                 <td className="p-3 text-stone-600">無料駐車場・車50台（大型バス駐車可能）/一部バイク用ガレージあり</td>
                 <td className="p-3 font-bold text-amber-600">★4.35（632件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,250〜</td>
@@ -771,7 +771,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　８０台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.24 ／ 立地 ★4.17 ／ 部屋 ★4.18 ／ 設備 ★4.06 ／ 風呂 ★4.41</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「大浴場は最高だが朝食会場の混雑が深刻ホテルタイプのお部屋に泊まりました。大浴場は流石で、気持ちよかったです。一つ気になったのが、朝食会場の混雑が想像以上でした。時間で区切って人数のコントロール…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「大浴場は最高だが朝食会場の混雑が深刻ホテルタイプのお部屋に泊まりました。大浴場は流石で、気持ちよかったです。一つ気になったのが、朝食会場の混雑が想像以上でした。」
                   </blockquote>
                 </div>
               </div>
@@ -815,7 +815,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　６０台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「清潔で広い部屋と蟹づくし、最高のロケーション建物の経年感はあるもののとても清潔で気持ちよく過ごせました。家族5人で利用しましたがとても広い部屋でゆっくりすることができました。スタッフの方の対応も素…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「清潔で広い部屋と蟹づくし、最高のロケーション建物の経年感はあるもののとても清潔で気持ちよく過ごせました。家族5人で利用しましたがとても広い部屋でゆっくりすることができました。」
                   </blockquote>
                 </div>
               </div>
@@ -837,7 +837,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　57台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.49 ／ 立地 ★4.67 ／ 部屋 ★4.35 ／ 設備 ★4.31 ／ 風呂 ★4.21 ／ 食事 ★4.49</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「料理は絶品、ゆったりと佐渡時間を楽しめますとにかくお料理が美味しかったです。鮮度はもちろんのこと、ひとつひとつのが丁寧で心がこもったお料理でした。普段、あれだけ沢山いただくと胸やけしてしまうの…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「料理は絶品、ゆったりと佐渡時間を楽しめますとにかくお料理が美味しかったです。鮮度はもちろんのこと、ひとつひとつのが丁寧で心がこもったお料理でした。」
                   </blockquote>
                 </div>
               </div>
@@ -859,7 +859,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料駐車場・車50台（大型バス駐車可能）/一部バイク用ガレージあり</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.46 ／ 立地 ★4.45 ／ 部屋 ★4.38 ／ 設備 ★4.19 ／ 風呂 ★4.24 ／ 食事 ★4.47</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「今回もさいこーーーでした!!!2回目の宿泊でした。以前宿泊した時に普段あまり褒めない夫が、料理が美味しいと言葉に出して褒めていました。今回は、佐渡牛のプランにしたのですが、ほとんど長男が食べて夫は…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「今回もさいこーーーでした!!!2回目の宿泊でした。以前宿泊した時に普段あまり褒めない夫が、料理が美味しいと言葉に出して褒めていました。」
                   </blockquote>
                 </div>
               </div>

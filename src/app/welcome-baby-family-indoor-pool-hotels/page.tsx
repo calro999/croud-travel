@@ -337,7 +337,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. グランドメルキュール那須高原リゾート＆スパ</td>
                 <td className="p-3 text-stone-600">栃木県那須郡那須町高久丙4449-2</td>
-                <td className="p-3 text-stone-600">那須塩原駅周辺</td>
+                <td className="p-3 text-stone-600">◆那須ICから車で約10分◆那須スマートIC(ETC専用)から車で約21分◆ご宿泊者様限定バスフリーパス有（事前予約制）</td>
                 <td className="p-3 text-stone-600">有(約250台・無料・先着順)</td>
                 <td className="p-3 font-bold text-amber-600">★4.22（4068件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,742〜</td>
@@ -346,7 +346,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 那須温泉　ホテルサンバレー那須</td>
                 <td className="p-3 text-stone-600">栃木県那須郡那須町湯本203</td>
-                <td className="p-3 text-stone-600">黒磯駅周辺</td>
+                <td className="p-3 text-stone-600">那須塩原駅西口よりホテルまで無料バスにて約40分【要予約】、東北自動車道那須ICより「那須街道」を湯本方面へ約20分</td>
                 <td className="p-3 text-stone-600">有り　500台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.2（8729件）</td>
                 <td className="p-3 font-bold text-rose-600">¥11,000〜</td>
@@ -355,7 +355,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 那須温泉　ホテルエピナール那須</td>
                 <td className="p-3 text-stone-600">栃木県那須郡那須町大字高久丙１番地</td>
-                <td className="p-3 text-stone-600">那須塩原駅周辺</td>
+                <td className="p-3 text-stone-600">【お車で】那須I.Cより10分、【JRで】東北新幹線・東北本線 那須塩原駅から無料シャトルバスで30分（要予約）</td>
                 <td className="p-3 text-stone-600">有り　400台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.42（8730件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,400〜</td>
@@ -384,7 +384,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有(約250台・無料・先着順)</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.23 ／ 立地 ★4.27 ／ 部屋 ★4.16 ／ 設備 ★4.2 ／ 風呂 ★4.17 ／ 食事 ★4.22</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「子連れで賑やかだが立地と接客は最高ほとんどが小さい子連れだったので、とにかく賑やかでした。子連れでなければ行きたくないです笑スタッフの方は皆さん好印象でした。レジャー施設が近くに沢山あ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「子連れで賑やかだが立地と接客は最高ほとんどが小さい子連れだったので、とにかく賑やかでした。子連れでなければ行きたくないです笑スタッフの方は皆さん好印象でした。」
                   </blockquote>
                 </div>
               </div>

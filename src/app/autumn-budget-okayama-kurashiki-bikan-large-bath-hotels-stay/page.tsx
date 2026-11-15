@@ -342,7 +342,7 @@ export default function KurashikiBudgetAutumnPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. たびのホテル倉敷水島</td>
                 <td className="p-3 text-stone-600">岡山県倉敷市水島西常盤町4-25</td>
-                <td className="p-3 text-stone-600">常盤（岡山）駅周辺</td>
+                <td className="p-3 text-stone-600">水島臨海鉄道水島本線常盤駅より徒歩5分。瀬戸内中央自動車道水島ICより約14分。</td>
                 <td className="p-3 text-stone-600">施設内、隣地に合計120台分の無料駐車場有（トラック・バス等の大型車は有料2000円／泊・要予約）</td>
                 <td className="p-3 font-bold text-amber-600">★4.33（837件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,180〜</td>
@@ -351,7 +351,7 @@ export default function KurashikiBudgetAutumnPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. ホテル　グラン・ココエ倉敷</td>
                 <td className="p-3 text-stone-600">岡山県倉敷市阿知3-9-1</td>
-                <td className="p-3 text-stone-600">倉敷駅周辺</td>
+                <td className="p-3 text-stone-600">山陽本線ＪＲ倉敷駅から徒歩で３分。</td>
                 <td className="p-3 text-stone-600">◆駐車場なし　近隣駐車場：市営あちてらす倉敷駐車場（ホテルから徒歩２分）1２時間830円</td>
                 <td className="p-3 font-bold text-amber-600">★4.38（968件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,700〜</td>
@@ -360,7 +360,7 @@ export default function KurashikiBudgetAutumnPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 岡山ビューホテル</td>
                 <td className="p-3 text-stone-600">岡山県岡山市北区中山下1-11-17</td>
-                <td className="p-3 text-stone-600">岡山駅周辺</td>
+                <td className="p-3 text-stone-600">バス「天満屋」下車徒歩約2分◆JR岡山駅東口より車で約5分◆路面電車「清輝橋行」「郵便局前」下車徒歩約3分</td>
                 <td className="p-3 text-stone-600">ホテル１Ｆ(フロントは2F)　約20台収容　一泊800~1000円　高さ2.5m迄2t車も可　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.15（2550件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,600〜</td>
@@ -369,7 +369,7 @@ export default function KurashikiBudgetAutumnPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 倉敷シーサイドホテル</td>
                 <td className="p-3 text-stone-600">岡山県倉敷市児島塩生2767-21</td>
-                <td className="p-3 text-stone-600">児島駅周辺</td>
+                <td className="p-3 text-stone-600">■水島ICから車15分■水島工場C地区に隣接■鷲羽山ハイランドまで車10分■倉敷由加山まで車30分■駐車場無料■</td>
                 <td className="p-3 text-stone-600">有り　100台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.17（1646件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,200〜</td>
@@ -378,7 +378,7 @@ export default function KurashikiBudgetAutumnPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. ホテルグランヴィア岡山</td>
                 <td className="p-3 text-stone-600">岡山県岡山市北区駅元町1-5</td>
-                <td className="p-3 text-stone-600">岡山駅周辺</td>
+                <td className="p-3 text-stone-600">JR岡山駅直結（徒歩1分）／山陽自動車道 岡山ICより車で20分／岡山空港より車で30分</td>
                 <td className="p-3 text-stone-600">ホテル地下に有り　171台　24時間1,300円　事前予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.44（6596件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,450〜</td>
@@ -451,7 +451,7 @@ export default function KurashikiBudgetAutumnPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>ホテル１Ｆ(フロントは2F)　約20台収容　一泊800~1000円　高さ2.5m迄2t車も可　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.2 ／ 立地 ★3.95 ／ 部屋 ★4.18 ／ 設備 ★3.99 ／ 風呂 ★3.91</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食が美味しく、床でくつろげる空間が最高岡山に用事があって、前回も泊まらせていただき朝食が記憶に残っていたので今回リピートしました。ベットではなく床でくつろげる空間よかったです。岡山駅から…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食が美味しく、床でくつろげる空間が最高岡山に用事があって、前回も泊まらせていただき朝食が記憶に残っていたので今回リピートしました。ベットではなく床でくつろげる空間よかったです。」
                   </blockquote>
                 </div>
               </div>

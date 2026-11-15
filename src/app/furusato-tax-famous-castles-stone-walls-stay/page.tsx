@@ -351,7 +351,7 @@ export default function FurusatoUpgradedPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 松本ホテル花月</td>
                 <td className="p-3 text-stone-600">長野県松本市大手4-8-9</td>
-                <td className="p-3 text-stone-600">松本駅周辺</td>
+                <td className="p-3 text-stone-600">松本駅送迎あり◆要予約／松本ＢＴより「信州大学行バス」で約８分上土下車／ＪＲ松本駅より徒歩１５分／松本ＩＣより車で１０分</td>
                 <td className="p-3 text-stone-600">有り　７５台　880円（税込／泊）</td>
                 <td className="p-3 font-bold text-amber-600">★4.46（3704件）</td>
                 <td className="p-3 font-bold text-rose-600">¥10,098〜</td>
@@ -360,7 +360,7 @@ export default function FurusatoUpgradedPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. ホテルモントレ姫路</td>
                 <td className="p-3 text-stone-600">兵庫県姫路市駅前町60</td>
-                <td className="p-3 text-stone-600">姫路駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ姫路駅より直結</td>
                 <td className="p-3 text-stone-600">提携駐車場（タイムズマルイト姫路ビル）有。　１９０台　有料　先着順 　満車時は館外提携駐車場へ案内</td>
                 <td className="p-3 font-bold text-amber-600">★4.46（2611件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,400〜</td>
@@ -369,7 +369,7 @@ export default function FurusatoUpgradedPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 熊本ホテルキャッスル</td>
                 <td className="p-3 text-stone-600">長野県</td>
-                <td className="p-3 text-stone-600">JR鹿児島本線『熊本駅』から車で約10分／市電『通町筋』下車徒歩約3分</td>
+                <td className="p-3 text-stone-600">JR鹿児島本線『熊本駅』から車で約10分／市電『通町筋』下車徒歩約3分／九州自動車道『熊本IC』より車で約40分</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.4（1709件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,000〜</td>
@@ -398,7 +398,7 @@ export default function FurusatoUpgradedPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　７５台　880円（税込／泊）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「アップグレードに感謝、食事とワインも最高一泊2食付ひとり旅で利用しました民藝の気を感じたくて、本当は別館の民藝感濃いお部屋をチョイスしたかったのですが、お財布と相談して本館シングルを選びました…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「アップグレードに感謝、食事とワインも最高一泊2食付ひとり旅で利用しました民藝の気を感じたくて、本当は別館の民藝感濃いお部屋をチョイスしたかったのですが、お財布と相談して本館シングルを選びました。」
                   </blockquote>
                 </div>
               </div>
@@ -420,7 +420,7 @@ export default function FurusatoUpgradedPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>提携駐車場（タイムズマルイト姫路ビル）有。　１９０台　有料　先着順 　満車時は館外提携駐車場へ案内</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「トレインビューに子供が大喜びトレインビューのお部屋に宿泊しました。新幹線や在来線、貨物列車まで見られて子供がとても喜んで、朝も夜もずっと電車に夢中でした。ホテルもとても綺麗で、清掃も行き届いており…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「トレインビューに子供が大喜びトレインビューのお部屋に宿泊しました。新幹線や在来線、貨物列車まで見られて子供がとても喜んで、朝も夜もずっと電車に夢中でした。」
                   </blockquote>
                 </div>
               </div>

@@ -402,8 +402,8 @@ export default function ArticlePage() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 新潟駅よりアクセス。ＪＲ新潟駅万代口から徒歩約8分。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「天然温泉 多宝の湯 ドーミーイン新潟」にチェックイン。■サウナ付天然温泉大浴場完備■時間限定で乳酸菌飲料＆アイス無料提供♪◆Wi-Fi全室完備などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「天然温泉 多宝の湯 ドーミーイン新潟」の湯処へ。■サウナ付天然温泉大浴場完備■時間限定で乳酸菌飲料＆アイス無料提供♪◆とともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「天然温泉 多宝の湯 ドーミーイン新潟」にチェックイン。■サウナ付天然温泉大浴場完備■時間限定で乳酸菌飲料＆アイス無料提供♪◆Wi-Fi全室完備が魅力の一軒。客室で荷物をほどいて穏やかな午後のひとときを。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「天然温泉 多宝の湯 ドーミーイン新潟」の湯船で寛ぎタイム。季節の空気を感じながら手足を伸ばし、心豊かな夕方のリラックス時間を満喫。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「天然温泉 多宝の湯 ドーミーイン新潟」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>

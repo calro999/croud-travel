@@ -334,7 +334,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 尾道国際ホテル</td>
                 <td className="p-3 text-stone-600">広島県尾道市新浜1-13-6</td>
-                <td className="p-3 text-stone-600">尾道駅周辺</td>
+                <td className="p-3 text-stone-600">JR尾道駅より車で3分。尾道駅から送迎可（要オンライン予約）／山陽道尾道・福山西の各ICより20分</td>
                 <td className="p-3 text-stone-600">有り／駐車料金無料（チェックイン日15:00～翌11:00）／先着順／大型車は有料で要予約</td>
                 <td className="p-3 font-bold text-amber-600">★3.99（827件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,800〜</td>
@@ -343,7 +343,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 尾道第一ホテル</td>
                 <td className="p-3 text-stone-600">広島県尾道市西御所町4-7</td>
-                <td className="p-3 text-stone-600">尾道駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ尾道駅より徒歩３分、新尾道駅より車で７分。</td>
                 <td className="p-3 text-stone-600">無料駐車場有り　３０台。　※トラックや大型バスなどは有料。（要事前相談）</td>
                 <td className="p-3 font-bold text-amber-600">★3.73（901件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,963〜</td>
@@ -352,7 +352,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 尾道ロイヤルホテル</td>
                 <td className="p-3 text-stone-600">広島県尾道市土堂2-9-27</td>
-                <td className="p-3 text-stone-600">尾道駅周辺</td>
+                <td className="p-3 text-stone-600">◆JR尾道駅から徒歩で約10分◆JR新尾道駅から車で約10分◆広島空港からバス⇒在来線⇒徒歩で約1時間</td>
                 <td className="p-3 text-stone-600">あり16台／先着順／予約不可／大型車不可</td>
                 <td className="p-3 font-bold text-amber-600">★3.98（819件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,200〜</td>
@@ -381,7 +381,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り／駐車料金無料（チェックイン日15:00～翌11:00）／先着順／大型車は有料で要予約</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「サービスがとてもよかったです。お部屋も広くて大満足です。大浴場は無いですが、近くの温泉施設に無料で送迎してもらえるのが非常にありがたかったです。しかも入浴のチケットもフロントで購入すれば割引もありタオ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「サービスがとてもよかったです。お部屋も広くて大満足です。大浴場は無いですが、近くの温泉施設に無料で送迎してもらえるのが非常にありがたかったです。」
                   </blockquote>
                 </div>
               </div>

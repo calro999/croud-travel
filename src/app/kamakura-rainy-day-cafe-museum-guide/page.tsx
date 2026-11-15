@@ -438,21 +438,21 @@ export default function KamakuraRainyDayCafeMuseumPage() {
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">あわせて読みたい人気特集＆全国エリアガイド</h2>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
-            <a href="/winter-yamagata-zao-onsen-snow-jyuhyo-beef-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/kanagawa-kamakura-shonan-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12月山形蔵王温泉の冬名湯と白銀の樹氷】初雪の強酸性硫黄泉露天と蔵王ロープウェイ・極上山形牛すき焼き＆郷土芋煮会席の宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「古都鎌倉＆湘南江の島」鶴岡八幡宮・江ノ電・富士夕景ホテル 厳選ガイド</span>
             </a>
-            <a href="/yamagata-solo-business-yamagatagyu-ramen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/luxury-private-onsen-with-scenic-moss-garden/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">山形出張＆麺王国ひとり旅：山形駅直結・シモンズベッド・絶品山形牛！ラーメン消費量日本一の街を満喫する極上ホテル 厳選3選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「幽玄の苔庭テラス」青苔と石灯籠を望むプライベート露天風呂！京都・箱根の侘び寂び隠れ宿5選</span>
             </a>
-            <a href="/autumn-budget-yamagata-kajyo-park-momiji-hotels-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/shakyo-meditation-mindfulness-sacred-temple-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">山形：霞城公園の秋紅葉と本場芋煮を満喫！格安・高コスパホテル5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">写経・写仏＆瞑想マインドフルネス宿厳選ガイド「出羽三山・お遍路・鎌倉」</span>
             </a>
-            <a href="/furusato-tax-three-great-fruit-kingdoms-auberge-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/winter-akita-yokote-kamakura-oyasukyo-shigakko-inaniwa-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">日本三大フルーツ王国＆もぎたて果実の恵み・果樹園パノラマと美食リゾート×ふるさと納税厳選ガイド山梨・山形・長野</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">横手＆湯沢・小安峡！ 約450年の伝統「横手のかまくら」雪まつり＆小安峡大噴湯の巨大氷柱「しがっこ」・本場稲庭うどん＆雪見露天名宿5選</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">
@@ -516,7 +516,7 @@ export default function KamakuraRainyDayCafeMuseumPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. ホテル法華クラブ湘南藤沢</td>
                 <td className="p-3 text-stone-600">神奈川県藤沢市鵠沼石上1-6-1</td>
-                <td className="p-3 text-stone-600">藤沢駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ・小田急・江ノ電「藤沢駅」南口より徒歩５分。繁華街の中心に位置し、江ノ島、鎌倉観光に最適♪</td>
                 <td className="p-3 text-stone-600">車高1.9ｍ長さ5.1ｍ重さ2ｔ以内は先着順にて駐車可能。1泊1,100円。その他の場合は要問合せ。</td>
                 <td className="p-3 font-bold text-amber-600">★4.14（3715件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,750〜</td>
@@ -525,7 +525,7 @@ export default function KamakuraRainyDayCafeMuseumPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 湘南台第一ホテル藤沢横浜</td>
                 <td className="p-3 text-stone-600">神奈川県藤沢市湘南台2-3-10</td>
-                <td className="p-3 text-stone-600">湘南台駅周辺</td>
+                <td className="p-3 text-stone-600">湘南台駅「Ｃ出口」より徒歩30秒 （小田急線、横浜市営地下鉄線、相鉄線乗り入れ）</td>
                 <td className="p-3 text-stone-600">周辺コインPへご案内　※一部コインPで使える【割引券】のご用意あり。詳細はフロントまで</td>
                 <td className="p-3 font-bold text-amber-600">★4.06（1184件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,050〜</td>
@@ -534,7 +534,7 @@ export default function KamakuraRainyDayCafeMuseumPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 京急ＥＸイン横須賀リサーチパーク（旧：ホテルＹＲＰ）</td>
                 <td className="p-3 text-stone-600">神奈川県横須賀市光の丘7-2</td>
-                <td className="p-3 text-stone-600">ＹＲＰ野比駅周辺</td>
+                <td className="p-3 text-stone-600">京浜急行「ＹＲＰ野比駅」からＹＲＰ行きバス、光の丘５番で下車</td>
                 <td className="p-3 text-stone-600">有り　45台　無料　普通車のみ予約不要　但しトラック、マイクロバス（9ｍ以下）要予約</td>
                 <td className="p-3 font-bold text-amber-600">★4.09（1098件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,605〜</td>
@@ -563,7 +563,7 @@ export default function KamakuraRainyDayCafeMuseumPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>車高1.9ｍ長さ5.1ｍ重さ2ｔ以内は先着順にて駐車可能。1泊1,100円。その他の場合は要問合せ。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「大浴場のシャンプーバーとコーヒーが魅力大浴場が嬉しかった。ドラストで買えるようなシャントリが4種類くらい(ボタニストなど)選べてよかったです。ウェルカムドリンクのコーヒーもカプセル式で美味しか…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「大浴場のシャンプーバーとコーヒーが魅力大浴場が嬉しかった。ドラストで買えるようなシャントリが4種類くらい(ボタニストなど)選べてよかったです。」
                   </blockquote>
                 </div>
               </div>

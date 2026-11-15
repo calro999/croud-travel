@@ -310,7 +310,7 @@ export default function AutumnBudgetWakayamaHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. ホテルグランヴィア和歌山</td>
                 <td className="p-3 text-stone-600">和歌山県和歌山市友田町5-18</td>
-                <td className="p-3 text-stone-600">和歌山駅周辺</td>
+                <td className="p-3 text-stone-600">JR和歌山駅中央口から徒歩2分！近鉄百貨店様と同じビル</td>
                 <td className="p-3 text-stone-600">1泊1000円★近鉄百貨店様と同じ立体駐車場の最上階からホテル連絡通路利用★24時間入出庫自由</td>
                 <td className="p-3 font-bold text-amber-600">★4.27（3886件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,175〜</td>
@@ -319,7 +319,7 @@ export default function AutumnBudgetWakayamaHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 川湯温泉　冨士屋</td>
                 <td className="p-3 text-stone-600">和歌山県田辺市本宮町川湯1452</td>
-                <td className="p-3 text-stone-600">新宮駅周辺</td>
+                <td className="p-3 text-stone-600">JR新宮駅よりバス1時間。JR紀伊田辺駅からもバス便あり。（ふじや前下車。）名古屋方面 紀勢道大宮大台IC開通しました！</td>
                 <td className="p-3 text-stone-600">有（無料・３０台・屋外）</td>
                 <td className="p-3 font-bold text-amber-600">高評価</td>
                 <td className="p-3 font-bold text-rose-600">プラン参照</td>
@@ -328,7 +328,7 @@ export default function AutumnBudgetWakayamaHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. メルキュール和歌山串本リゾート＆スパ</td>
                 <td className="p-3 text-stone-600">和歌山県東牟婁郡串本町サンゴ台1184-10</td>
-                <td className="p-3 text-stone-600">串本駅周辺</td>
+                <td className="p-3 text-stone-600">南紀白浜よりお車で約60分。那智勝浦からお車で約40分。JR串本駅からお車で約5分。無料送迎バス有</td>
                 <td className="p-3 text-stone-600">乗用車駐車台数198台(内　障がい者用3台) 屋外駐車場無料　事前予約は承っておりません。</td>
                 <td className="p-3 font-bold text-amber-600">★4.25（3590件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,050〜</td>
@@ -337,7 +337,7 @@ export default function AutumnBudgetWakayamaHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 白浜温泉　白良荘グランドホテル</td>
                 <td className="p-3 text-stone-600">和歌山県西牟婁郡白浜町868</td>
-                <td className="p-3 text-stone-600">白浜駅周辺</td>
+                <td className="p-3 text-stone-600">JR白浜駅よりタクシー・路線バス・車で約10分 南紀白浜空港より車で約10分 アドベンチャーワールドより車で約10分</td>
                 <td className="p-3 text-stone-600">屋外無料駐車場（約70台）13時&amp;amp;#12316;翌11時。時間外は有料につき公式HPを御確認下さい</td>
                 <td className="p-3 font-bold text-amber-600">★4.48（2465件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,910〜</td>
@@ -346,7 +346,7 @@ export default function AutumnBudgetWakayamaHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 一乗院</td>
                 <td className="p-3 text-stone-600">和歌山県伊都郡高野町高野山606</td>
-                <td className="p-3 text-stone-600">極楽橋駅周辺</td>
+                <td className="p-3 text-stone-600">南海高野線極楽橋駅～高野山駅迄ケーブルカーで５分。 高野山駅前～千手院橋バス停迄南海りんかんバスで約20分、下車徒歩5分</td>
                 <td className="p-3 text-stone-600">有り　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.53（628件）</td>
                 <td className="p-3 font-bold text-rose-600">¥55,000〜</td>
@@ -419,7 +419,7 @@ export default function AutumnBudgetWakayamaHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>乗用車駐車台数198台(内　障がい者用3台) 屋外駐車場無料　事前予約は承っておりません。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「清潔感があり食事も美味しく大満足宿泊費がそこそこ安価でしたので過度な期待はせず行きました。古いホテルをリニューアルされてるようで、エアコン等旧式なものもありましたが、どこも清潔でお庭も手入れさ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「清潔感があり食事も美味しく大満足宿泊費がそこそこ安価でしたので過度な期待はせず行きました。」
                   </blockquote>
                 </div>
               </div>
@@ -441,7 +441,7 @@ export default function AutumnBudgetWakayamaHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>屋外無料駐車場（約70台）13時&amp;amp;#12316;翌11時。時間外は有料につき公式HPを御確認下さい</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事は美味しくドライヤーも使いやすい海はライブするせいで入れなかったのはとてもざんねんでした、これはホテルのせいではないのは分かるけど、白浜で泳ぎたかった。ご飯は美味しかった、ドライヤーどこの…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事は美味しくドライヤーも使いやすい海はライブするせいで入れなかったのはとてもざんねんでした、これはホテルのせいではないのは分かるけど、白浜で泳ぎたかった。」
                   </blockquote>
                 </div>
               </div>

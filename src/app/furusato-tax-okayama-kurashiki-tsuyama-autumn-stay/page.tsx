@@ -352,39 +352,7 @@ export default function Page() {
             </Link>
           </div>
         </section>
-        <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
-          <div className="flex items-center gap-3 mb-6">
-            <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】ホテル グラン・ココエ倉敷を拠点にするおすすめ滞在モデルコース</h2>
-          </div>
-          <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
-            <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
-              <div className="flex items-center gap-2">
-                <span className="bg-amber-600 text-white text-xs font-bold px-2.5 py-1 rounded">1日目</span>
-                <h3 className="font-bold text-stone-900 text-base md:text-lg">到着〜チェックインと名湯巡り</h3>
-              </div>
-              <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
-                <li>・<strong className="text-stone-800">14:00〜</strong> 倉敷駅よりアクセス。山陽本線ＪＲ倉敷駅から徒歩で３分。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「ホテル グラン・ココエ倉敷」にチェックイン。JR倉敷駅から徒歩3分、湯と癒しの上質なひとときを♪ ビジネス・観光に最適なホテルです。などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「ホテル グラン・ココエ倉敷」の湯処へ。JR倉敷駅から徒歩3分、湯と癒しの上質なひとときを♪ ビジネス・観光にとともに、夕暮れの特別な寛ぎを満喫。</li>
-                <li>・<strong className="text-stone-800">19:00〜</strong> 「ホテル グラン・ココエ倉敷」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
-              </ul>
-            </div>
-            <div className="border-l-2 border-teal-500 pl-4 md:pl-6 space-y-4">
-              <div className="flex items-center gap-2">
-                <span className="bg-teal-600 text-white text-xs font-bold px-2.5 py-1 rounded">2日目</span>
-                <h3 className="font-bold text-stone-900 text-base md:text-lg">爽快な朝湯〜周辺散策と帰路へ</h3>
-              </div>
-              <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
-                <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「ホテル グラン・ココエ倉敷」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
-                <li>・<strong className="text-stone-800">08:00〜</strong> 「ホテル グラン・ココエ倉敷」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「倉敷国際ホテル」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
-              </ul>
-            </div>
-          </div>
-        </section>
-
-        {/* FAQ Section */}
+                {/* FAQ Section */}
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
@@ -428,49 +396,49 @@ export default function Page() {
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">あわせて読みたい人気特集＆全国エリアガイド</h2>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
-            <a href="/aomori-hirosaki-castle-cherry-apple-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/furusato-tax-okayama-kurashiki-washuzan-autumn-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【青森・弘前】弘前城桜・津軽りんご＆三味線宿 完全ガイド ｜ 日本全国・旅宿クラウド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">岡山・倉敷美観地区の白壁紅葉＆鷲羽山！瀬戸内海多島美温泉と極上千屋牛・鰆会席｜ふるさと納税で泊まれる名宿ガイド</span>
             </a>
-            <a href="/autumn-budget-aomori-hachinohe-tanesashi-senbeijiru-hotels-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/okayama-kurashiki-solo-retreat-bikan-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">八戸：種差海岸の秋風散策と八戸せんべい汁！2,000円台〜泊まれる格安ホテル5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「倉敷美観地区ひとり旅・大浴場おこもり」白壁土蔵の町並み・展望大浴場・大原美術館！江戸情緒とデニムの街に癒やされる厳選3宿</span>
             </a>
-            <a href="/furusato-tax-hirosaki-castle-autumn-leaves-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/spring-okayama-muscat-sweets-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">弘前城の天守と水鏡紅葉＆弘前城菊と紅葉まつり！津軽名湯ホテル×ふるさと納税厳選ガイド青森</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「フルーツ王国岡山」シャインマスカット贅沢パフェ＆美作三湯！湯原・奥津・湯郷の美食温泉宿5選</span>
             </a>
-            <a href="/traditional-aomori-nebuta-craft-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/winter-okayama-kibiji-soja-saijo-inari-hatsumode-chiyagyu-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">2026年：勇壮なねぶたの熱気に包まれる！ねぶたアート空間＆青森ヒバ名湯と海鮮極上宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">岡山・吉備路・総社＆最上稲荷 最上稲荷の新春初詣＆国宝吉備津神社の400m廻廊！ 備中国分寺五重塔と幻の千屋牛を味わう厳選名宿5選</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
             <div className="flex flex-wrap gap-2">
               <Link
-                href="/prefectures/aomori/"
+                href="/prefectures/okayama/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                青森県の宿・温泉
+                岡山県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/shiga/"
+                href="/prefectures/hiroshima/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                滋賀県の宿・温泉
+                広島県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/nagasaki/"
+                href="/prefectures/shimane/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                長崎県の宿・温泉
+                島根県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/kumamoto/"
+                href="/prefectures/tottori/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                熊本県の宿・温泉
+                鳥取県の宿・温泉
               </Link>
             </div>
           </div>
@@ -506,7 +474,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. ホテル　グラン・ココエ倉敷</td>
                 <td className="p-3 text-stone-600">岡山県倉敷市阿知3-9-1</td>
-                <td className="p-3 text-stone-600">倉敷駅周辺</td>
+                <td className="p-3 text-stone-600">山陽本線ＪＲ倉敷駅から徒歩で３分。</td>
                 <td className="p-3 text-stone-600">◆駐車場なし　近隣駐車場：市営あちてらす倉敷駐車場（ホテルから徒歩２分）1２時間830円</td>
                 <td className="p-3 font-bold text-amber-600">★4.38（968件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,700〜</td>
@@ -515,7 +483,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 倉敷国際ホテル</td>
                 <td className="p-3 text-stone-600">岡山県倉敷市中央1-1-44</td>
-                <td className="p-3 text-stone-600">倉敷駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ倉敷駅南口徒歩１０分、山陽自動車道倉敷Ｉ．Ｃから１０分。</td>
                 <td className="p-3 text-stone-600">有：３０台（１泊につき1,000円頂戴します。ご宿泊日の15：00からご出発の11：00）</td>
                 <td className="p-3 font-bold text-amber-600">★4.25（1318件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,500〜</td>
@@ -524,7 +492,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. ベッセルホテル倉敷（倉敷ＩＣから１０分）</td>
                 <td className="p-3 text-stone-600">岡山県倉敷市松島1177-7</td>
-                <td className="p-3 text-stone-600">中庄駅周辺</td>
+                <td className="p-3 text-stone-600">【ＪＲ中庄駅】から0.9km【ＪＲ倉敷駅】から4.4km【ＪＲ岡山駅】から12km</td>
                 <td className="p-3 text-stone-600">無料88台（6m以上は有料1泊1,200円(税込)。事前にお問い合わせください）</td>
                 <td className="p-3 font-bold text-amber-600">★4.5（3257件）</td>
                 <td className="p-3 font-bold text-rose-600">¥2,622〜</td>
@@ -575,7 +543,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有：３０台（１泊につき1,000円頂戴します。ご宿泊日の15：00からご出発の11：00）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「何度も訪れたい芸術的な空間何度宿泊しても来てよかったと思える素晴らしいホテルです。スタッフも親切ですし、建物と館内の芸術性は他では見られない唯一無二のものです。倉敷を訪れる方には是非お勧めしたいお…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「何度も訪れたい芸術的な空間何度宿泊しても来てよかったと思える素晴らしいホテルです。スタッフも親切ですし、建物と館内の芸術性は他では見られない唯一無二のものです。」
                   </blockquote>
                 </div>
               </div>
@@ -597,7 +565,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料88台（6m以上は有料1泊1,200円(税込)。事前にお問い合わせください）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「丁寧な接客と静かな部屋、朝食も大満足フロントでの接客は非常に丁寧で好感が持てました。部屋は清潔感があり大きな道路に面している割に静かな部屋で快適に寝ることができました。朝食ビュッフェは美味しかった…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「丁寧な接客と静かな部屋、朝食も大満足フロントでの接客は非常に丁寧で好感が持てました。部屋は清潔感があり大きな道路に面している割に静かな部屋で快適に寝ることができました。」
                   </blockquote>
                 </div>
               </div>

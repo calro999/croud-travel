@@ -132,7 +132,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F140962%2F140962.html%26f_flg%3DPLAN",
     "hotelMinCharge": 9900,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/140962/140962.jpg",
-    "userReview": "城崎温泉　春日屋旅館ならではの立地と落ち着いた空間で、ゆったりとした滞在を楽しめたという声が寄せられています。",
+    "userReview": "城崎温泉 春日屋旅館ならではの立地と落ち着いた空間で、ゆったりとした滞在を楽しめたという声が寄せられています。",
     "reviewAverage": 4,
     "reviewCount": 6,
     "address": "兵庫県豊岡市城崎町湯島601",
@@ -283,8 +283,8 @@ export default function Page() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 伊豆熱川駅よりアクセス。伊豆急行線・伊豆熱川温泉駅／Ｒ１３５を通り、熱海から約１時間。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「伊豆熱川温泉 六つの貸切風呂を湯めぐり ふたりの湯宿 湯花満開」にチェックイン。2023年12月半露天風呂付き客室誕生！6つの源泉掛け流し温泉、海の幸のお食事が人気。伊豆熱川駅5分などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「伊豆熱川温泉 六つの貸切風呂を湯めぐり ふたりの湯宿 湯花満開」の湯処へ。2023年12月半露天風呂付き客室誕生！6つの源泉掛け流し温泉、海の幸とともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「伊豆熱川温泉 六つの貸切風呂を湯めぐり ふたりの湯宿 湯花満開」にチェックイン。2023年12月半露天風呂付き客室誕生！ まずは客室で移動の疲れをそっと癒やす。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「伊豆熱川温泉 六つの貸切風呂を湯めぐり ふたりの湯宿 湯花満開」の湯船で寛ぎタイム。季節の空気を感じながら手足を伸ばし、心豊かな夕方のリラックス時間を満喫。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「伊豆熱川温泉 六つの貸切風呂を湯めぐり ふたりの湯宿 湯花満開」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -296,7 +296,7 @@ export default function Page() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「伊豆熱川温泉 六つの貸切風呂を湯めぐり ふたりの湯宿 湯花満開」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「伊豆熱川温泉 六つの貸切風呂を湯めぐり ふたりの湯宿 湯花満開」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「伊豆長岡温泉 湯めぐりの宿 吉春」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は宿周辺の散策とショッピングを満喫。地元の名産品やグルメを味わってから余裕をもって帰路につく。</li>
               </ul>
             </div>
           </div>
@@ -424,7 +424,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 伊豆熱川温泉　六つの貸切風呂を湯めぐり　ふたりの湯宿　湯花満開</td>
                 <td className="p-3 text-stone-600">静岡県賀茂郡東伊豆町奈良本987-1</td>
-                <td className="p-3 text-stone-600">伊豆熱川駅周辺</td>
+                <td className="p-3 text-stone-600">伊豆急行線・伊豆熱川温泉駅／Ｒ１３５を通り、熱海から約１時間。伊豆熱川駅から海へ徒歩３～５分。当館海側に無料駐車場あり。</td>
                 <td className="p-3 text-stone-600">有り　２０台　無料　※予備駐車場あり</td>
                 <td className="p-3 font-bold text-amber-600">★4.56（765件）</td>
                 <td className="p-3 font-bold text-rose-600">¥10,500〜</td>
@@ -433,7 +433,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 伊豆長岡温泉　湯めぐりの宿　吉春</td>
                 <td className="p-3 text-stone-600">静岡県伊豆の国市長岡989-10</td>
-                <td className="p-3 text-stone-600">(電車)伊豆箱根鉄道伊豆長岡駅下車 バス10分  (車)沼津IC～伊豆</td>
+                <td className="p-3 text-stone-600">(電車)伊豆箱根鉄道伊豆長岡駅下車 バス10分 (車)沼津IC～伊豆縦貫道～長岡北IC-414号線 25分</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.55（1688件）</td>
                 <td className="p-3 font-bold text-rose-600">¥14,300〜</td>
@@ -451,7 +451,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 嬉野温泉　旅館　吉田屋</td>
                 <td className="p-3 text-stone-600">佐賀県嬉野市嬉野町岩屋川内甲379</td>
-                <td className="p-3 text-stone-600">武雄温泉駅周辺</td>
+                <td className="p-3 text-stone-600">博多駅～70分/長崎空港～車40分/SAGAアリーナ～車50分/御船山らかんの湯～車20分/ハウステンボス～車40分</td>
                 <td className="p-3 text-stone-600">すべて無料です。 ただし隣接してません。 またご移動はご本人様にお願いしております</td>
                 <td className="p-3 font-bold text-amber-600">★4.31（1251件）</td>
                 <td className="p-3 font-bold text-rose-600">¥19,800〜</td>
@@ -489,7 +489,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２０台　無料　※予備駐車場あり</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋食と貸切風呂で家族水入らずの時間を満喫子連れだったので2食とも部屋食にして頂けたのですが、まわりを気にせずゆっくり食事ができてとても良かったです。6つの貸切風呂は携帯で空き状況を確認できた…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋食と貸切風呂で家族水入らずの時間を満喫子連れだったので2食とも部屋食にして頂けたのですが、まわりを気にせずゆっくり食事ができてとても良かったです。」
                   </blockquote>
                 </div>
               </div>
@@ -511,7 +511,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「素敵なお宿でした!部屋→宿にいる時間が短いこともありコスパ重視で、一番お安いお部屋に泊まりましたが、今まで泊まったお部屋の中でもとても広く、子ども2人いましたが快適に過ごすことができました。畳なの…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「素敵なお宿でした!部屋→宿にいる時間が短いこともありコスパ重視で、一番お安いお部屋に泊まりましたが、今まで泊まったお部屋の中でもとても広く、子ども2人いましたが快適に過ごすことができました。」
                   </blockquote>
                 </div>
               </div>
@@ -533,7 +533,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「2時から翌日11時までゆっくり満喫!2時から翌日11時までゆっくり出来て最高です。直近、宿側の都合で姉妹旅館の九兵衛別館珠玉やさんに変更となりましたが立地的に九兵衛さん、ますやさんの間にあり全…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「2時から翌日11時までゆっくり満喫!2時から翌日11時までゆっくり出来て最高です。」
                   </blockquote>
                 </div>
               </div>
@@ -555,7 +555,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>すべて無料です。 ただし隣接してません。 またご移動はご本人様にお願いしております</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.31 ／ 立地 ★4.19 ／ 部屋 ★4.34 ／ 設備 ★4.29 ／ 風呂 ★4.51 ／ 食事 ★4.47</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「夜中の騒音への対応がなく眠れず不満最悪でした!隣に泊まってるの外国の方が夜中の1時から4時まで内風呂で大きい声で話しまくって全く寝れませんでした。フロントに言ってもなんの対応もしてもらえず、チ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「夜中の騒音への対応がなく眠れず不満最悪でした!隣に泊まってるの外国の方が夜中の1時から4時まで内風呂で大きい声で話しまくって全く寝れませんでした。」
                   </blockquote>
                 </div>
               </div>

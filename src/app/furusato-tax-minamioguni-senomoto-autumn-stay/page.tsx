@@ -439,7 +439,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 杖立温泉　純和風旅館　泉屋</td>
                 <td className="p-3 text-stone-600">熊本県阿蘇郡小国町大字下城4179</td>
-                <td className="p-3 text-stone-600"></td>
+                <td className="p-3 text-stone-600">熊本県阿蘇郡小国町大字下城4179 ／ 交通案内：</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.63（344件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,150〜</td>
@@ -457,7 +457,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 杖立温泉　旅館よろづや</td>
                 <td className="p-3 text-stone-600">熊本県阿蘇郡小国町下城3344</td>
-                <td className="p-3 text-stone-600"></td>
+                <td className="p-3 text-stone-600">熊本県阿蘇郡小国町下城3344 ／ 交通案内：</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">高評価</td>
                 <td className="p-3 font-bold text-rose-600">¥7,850〜</td>

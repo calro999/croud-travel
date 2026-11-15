@@ -255,8 +255,8 @@ export default function Page() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 城崎駅よりアクセス。電車 JR城崎温泉駅から旅館組合無料乗合バスで5～10分 車 北近畿豊岡自動車道・豊岡出石ICから約20分 無料Pあり。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「城崎温泉 つちや旅館」にチェックイン。2025温泉宿総選挙全国第3位 但馬牛をはじめ、旬を極める料理旅館などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「城崎温泉 つちや旅館」の湯処へ。2025温泉宿総選挙全国第3位 但馬牛をはじめ、旬を極める料理旅館とともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「城崎温泉 つちや旅館」にチェックイン。2025温泉宿総選挙全国第3位 但馬牛をはじめ、旬を極める料理旅館が魅力の一軒。客室で荷物をほどいて穏やかな午後のひとときを。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「城崎温泉 つちや旅館」の大浴場・露天風呂へ。日暮れの静けさの中で湯に浸かり、旅の緊張をゆっくりと解きほぐす。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「城崎温泉 つちや旅館」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -268,7 +268,7 @@ export default function Page() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「城崎温泉 つちや旅館」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「城崎温泉 つちや旅館」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「京都 湯の花温泉 すみや亀峰菴」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は宿周辺の散策とショッピングを満喫。地元の名産品やグルメを味わってから余裕をもって帰路につく。</li>
               </ul>
             </div>
           </div>
@@ -396,7 +396,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 城崎温泉　つちや旅館</td>
                 <td className="p-3 text-stone-600">兵庫県豊岡市城崎町湯島573</td>
-                <td className="p-3 text-stone-600">城崎駅周辺</td>
+                <td className="p-3 text-stone-600">【電車】JR城崎温泉駅から旅館組合無料乗合バスで5～10分【車】北近畿豊岡自動車道・豊岡出石ICから約20分 無料Pあり</td>
                 <td className="p-3 text-stone-600">有12台【無料】チェックイン前でも利用可能です。</td>
                 <td className="p-3 font-bold text-amber-600">★4.73（246件）</td>
                 <td className="p-3 font-bold text-rose-600">¥11,000〜</td>
@@ -405,7 +405,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 京都　湯の花温泉　すみや亀峰菴</td>
                 <td className="p-3 text-stone-600">京都府亀岡市湯の花温泉</td>
-                <td className="p-3 text-stone-600">亀岡駅周辺</td>
+                <td className="p-3 text-stone-600">JR亀岡駅より車で２０分/京都縦貫道亀岡ICよりR372で約１０分/阪神高速池田線木部ICよりR423で約４０分</td>
                 <td className="p-3 text-stone-600">有り　２０台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.36（280件）</td>
                 <td className="p-3 font-bold text-rose-600">¥24,200〜</td>
@@ -414,7 +414,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 那須黒磯温泉　かんすい苑　覚楽</td>
                 <td className="p-3 text-stone-600">栃木県那須塩原市黒磯402-2</td>
-                <td className="p-3 text-stone-600">ＪＲ　黒磯駅よりお車にて５分（送迎バス有り・要予約） 送迎時間　14時</td>
+                <td className="p-3 text-stone-600">ＪＲ 黒磯駅よりお車にて５分（送迎バス有り・要予約） 送迎時間 14時～18時 翌8時～10時</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.77（458件）</td>
                 <td className="p-3 font-bold text-rose-600">¥11,000〜</td>
@@ -443,7 +443,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有12台【無料】チェックイン前でも利用可能です。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「記念日のサプライズ対応と料理に大満足今回は記念日旅行で利用させていただきました。サプライズも考えていたので、宿泊前から旅館の方と連絡を取らせていただいていましたがその際からとても親切で当日がとても…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「記念日のサプライズ対応と料理に大満足今回は記念日旅行で利用させていただきました。」
                   </blockquote>
                 </div>
               </div>
@@ -465,7 +465,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２０台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.41 ／ 立地 ★4.26 ／ 部屋 ★4.4 ／ 設備 ★4.28 ／ 風呂 ★4.35 ／ 食事 ★4.59</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「工夫された食事と露天風呂付きの広い部屋お食事内容が大変工夫されていました。お味も見た目の美しさも量も種類も満足にいただきました。露天風呂付きお部屋でしたが、広く落ち着いた雰囲気で湯量もたっぷり出て…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「工夫された食事と露天風呂付きの広い部屋お食事内容が大変工夫されていました。お味も見た目の美しさも量も種類も満足にいただきました。」
                   </blockquote>
                 </div>
               </div>
@@ -487,7 +487,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「川の音に癒やされ、スタッフの心遣いに感謝周りには何も無いですが、何も無いがあります!のんびりしたいなら最適です。館内はスタッフの方々が本当に親切で、カフェインが苦手だと伝えると麦茶を出して…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「川の音に癒やされ、スタッフの心遣いに感謝周りには何も無いですが、何も無いがあります!のんびりしたいなら最適です。」
                   </blockquote>
                 </div>
               </div>

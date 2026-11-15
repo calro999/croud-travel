@@ -337,7 +337,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 万座温泉　日進舘</td>
                 <td className="p-3 text-stone-600">群馬県吾妻郡嬬恋村大字干俣万座温泉２４０１</td>
-                <td className="p-3 text-stone-600">万座・鹿沢口駅周辺</td>
+                <td className="p-3 text-stone-600">上信越自動車道碓氷軽井沢ＩＣより車で９０分。</td>
                 <td className="p-3 text-stone-600">有り　１００台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.22（2592件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,770〜</td>
@@ -346,7 +346,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 万座温泉　万座プリンスホテル</td>
                 <td className="p-3 text-stone-600">群馬県吾妻郡嬬恋村万座温泉</td>
-                <td className="p-3 text-stone-600">万座・鹿沢口駅周辺</td>
+                <td className="p-3 text-stone-600">北陸新幹線「軽井沢駅南口」より送迎バスあり（約９０分：要事前予約）／上信越自動車道「碓氷軽井沢IC」より約６４km</td>
                 <td className="p-3 text-stone-600">有　１９０台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★3.79（2232件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,893〜</td>
@@ -355,7 +355,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 岸権旅館　石段街隣接　希少源泉「黄金の湯」の宿</td>
                 <td className="p-3 text-stone-600">群馬県渋川市伊香保町伊香保甲48</td>
-                <td className="p-3 text-stone-600">渋川駅周辺</td>
+                <td className="p-3 text-stone-600">関越自動車道 渋川伊香保ＩＣから車で２０分 上越線渋川駅下車バスで３０分、タクシー１５分</td>
                 <td className="p-3 text-stone-600">無料駐車場150台あり。旅館専用駐車場は伊香保小学校の道向かいにあり。専用駐車場から送迎いたします。</td>
                 <td className="p-3 font-bold text-amber-600">★4.44（1716件）</td>
                 <td className="p-3 font-bold text-rose-600">¥13,200〜</td>
@@ -406,7 +406,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有　１９０台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.83 ／ 立地 ★4.01 ／ 部屋 ★3.58 ／ 設備 ★3.53 ／ 風呂 ★4.07 ／ 食事 ★3.81</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「家族で入れる温泉とビュッフェに満足異性の家族と一緒に広い温泉に入れるのが魅力で行きました。多少の建物の古さなど気になる部分はありますが、食べ盛りの息子にはありがたいビュッフェスタイルですし、各…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「家族で入れる温泉とビュッフェに満足異性の家族と一緒に広い温泉に入れるのが魅力で行きました。」
                   </blockquote>
                 </div>
               </div>
@@ -428,7 +428,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料駐車場150台あり。旅館専用駐車場は伊香保小学校の道向かいにあり。専用駐車場から送迎いたします。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.44 ／ 立地 ★4.46 ／ 部屋 ★4.39 ／ 設備 ★4.27 ／ 風呂 ★4.49 ／ 食事 ★4.49</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「接客と料理は最高だがスリッパ紛失が残念伊香保温泉は仕事では来た事があったが、泊まった事が無かった為、今回妻と宿泊先を検討し石段沿いの岸権旅館さんにお世話になる事としました。宿は老舗旅館らしく建…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「接客と料理は最高だがスリッパ紛失が残念伊香保温泉は仕事では来た事があったが、泊まった事が無かった為、今回妻と宿泊先を検討し石段沿いの岸権旅館さんにお世話になる事としました。」
                   </blockquote>
                 </div>
               </div>

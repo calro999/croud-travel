@@ -413,7 +413,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 徒士の湯　ドーミーイン上野・御徒町（ドーミーイン・御宿野乃　ホテルズグループ）</td>
                 <td className="p-3 text-stone-600">東京都台東区上野6-7-22</td>
-                <td className="p-3 text-stone-600">仲御徒町駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ「上野」駅広小路口から徒歩５分 日比谷線仲御徒町A8出口から徒歩1分 世界遺産「国立西洋美術館」まで徒歩10分</td>
                 <td className="p-3 text-stone-600">無し 近隣の駐車場をご案内致します。</td>
                 <td className="p-3 font-bold text-amber-600">★4.28（651件）</td>
                 <td className="p-3 font-bold text-rose-600">¥13,616〜</td>
@@ -422,7 +422,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. センチュリオンホテル＆スパ上野駅前</td>
                 <td className="p-3 text-stone-600">東京都台東区上野6-8-16</td>
-                <td className="p-3 text-stone-600">上野駅周辺</td>
+                <td className="p-3 text-stone-600">JR・地下鉄上野駅より徒歩約2分 京成上野駅より徒歩約4分</td>
                 <td className="p-3 text-stone-600">無し※提携駐車場もございません。</td>
                 <td className="p-3 font-bold text-amber-600">★3.89（494件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,200〜</td>
@@ -431,7 +431,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. グランカスタマ上野店</td>
                 <td className="p-3 text-stone-600">東京都台東区上野6-8-20</td>
-                <td className="p-3 text-stone-600">上野駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ 銀座線 日比谷線 上野駅より徒歩３分 京成線 京成上野駅より徒歩３分 大江戸線 上野御徒町駅より徒歩３分</td>
                 <td className="p-3 text-stone-600">無し</td>
                 <td className="p-3 font-bold text-amber-600">★4.01（987件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,830〜</td>
@@ -482,7 +482,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無し※提携駐車場もございません。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.27 ／ 立地 ★3.73 ／ 部屋 ★3.77 ／ 設備 ★3.77 ／ 風呂 ★4.04</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「想定を超えたサウナと水風呂に大満足狭いながらも空間を有効活用されたお部屋で私は好きですね。お風呂も初見で「狭いな〜」と感じましたが、水風呂は14-5度、サウナもドライサウナで高温。ととのい椅子もち…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「想定を超えたサウナと水風呂に大満足狭いながらも空間を有効活用されたお部屋で私は好きですね。お風呂も初見で「狭いな〜」と感じましたが、水風呂は14-5度、サウナもドライサウナで高温。」
                   </blockquote>
                 </div>
               </div>
@@ -504,7 +504,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無し</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.03 ／ 立地 ★4.13 ／ 部屋 ★3.93 ／ 設備 ★3.98 ／ 風呂 ★4</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「カレーと立地は最高だが大浴場が不便カレーライス食べ放題とドリンク1杯付きがありがたい。ロケーションは繁華街の真ん中で最高。大浴場のロッカーが1個も空いてなく使い方も案内がなくわからなかった点がマイ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「カレーと立地は最高だが大浴場が不便カレーライス食べ放題とドリンク1杯付きがありがたい。ロケーションは繁華街の真ん中で最高。」
                   </blockquote>
                 </div>
               </div>

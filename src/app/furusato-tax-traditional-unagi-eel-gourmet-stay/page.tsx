@@ -413,8 +413,8 @@ export default function FurusatoTraditionalUnagiEelStayPage() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 浜松駅よりアクセス。ＪＲ浜松駅より路線バスで４５分（舘山寺温泉行き） 東名高速、舘山寺スマートＩＣより約５分。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「浜名湖かんざんじ温泉 ホテル鞠水亭」にチェックイン。浜名湖内浦湾と大草山を一望できる湖畔の宿。石造りと御殿風檜造りの2種類の展望露天風呂が自慢です。などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「浜名湖かんざんじ温泉 ホテル鞠水亭」の湯処へ。浜名湖内浦湾と大草山を一望できる湖畔の宿。石造りと御殿風檜造りの2種類とともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「浜名湖かんざんじ温泉 ホテル鞠水亭」にチェックイン。浜名湖内浦湾と大草山を一望できる湖畔の宿。石造りと御殿風檜造りの2種類の展望露天風呂が自慢です。 館内の設えを確かめながら、これからの滞在に備えてゆっくり休息する。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「浜名湖かんざんじ温泉 ホテル鞠水亭」の湯船で寛ぎタイム。季節の空気を感じながら手足を伸ばし、心豊かな夕方のリラックス時間を満喫。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「浜名湖かんざんじ温泉 ホテル鞠水亭」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -426,7 +426,7 @@ export default function FurusatoTraditionalUnagiEelStayPage() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「浜名湖かんざんじ温泉 ホテル鞠水亭」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「浜名湖かんざんじ温泉 ホテル鞠水亭」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「天然温泉 富嶽の湯 ドーミーイン三島」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は「浜名湖かんざんじ温泉 ホテル鞠水亭」周辺の観光スポットや地元の名産店に立ち寄り、ご当地のお土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>

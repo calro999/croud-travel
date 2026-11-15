@@ -760,8 +760,8 @@ export default function Page() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 賢島駅よりアクセス。近鉄賢島駅よりシャトルバスで25分／伊勢神宮から車で50分／志摩スペイン村オフィシャルホテル★プレミアムパス有★車25分。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「都リゾート 奥志摩 アクアフォレスト」にチェックイン。豊かな大自然と美しい英虞湾に囲まれたシーサイドリゾート 天然温泉、天文館 わんちゃん宿泊可コテージなどの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「都リゾート 奥志摩 アクアフォレスト」の湯処へ。豊かな大自然と美しい英虞湾に囲まれたシーサイドリゾート 天然温泉、天文とともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「都リゾート 奥志摩 アクアフォレスト」にチェックイン。豊かな大自然と美しい英虞湾に囲まれたシーサイドリゾート 天然温泉、天文館 わんちゃん宿泊可コテージが魅力の一軒。客室で荷物をほどいて穏やかな午後のひとときを。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「都リゾート 奥志摩 アクアフォレスト」の湯船で寛ぎタイム。季節の空気を感じながら手足を伸ばし、心豊かな夕方のリラックス時間を満喫。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「都リゾート 奥志摩 アクアフォレスト」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -773,7 +773,7 @@ export default function Page() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「都リゾート 奥志摩 アクアフォレスト」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「都リゾート 奥志摩 アクアフォレスト」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「グランドメルキュール伊勢志摩リゾート＆スパ」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は「都リゾート 奥志摩 アクアフォレスト」周辺の観光スポットや地元の名産店に立ち寄り、ご当地のお土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>

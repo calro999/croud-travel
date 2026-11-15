@@ -420,8 +420,8 @@ export default function Page() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 宮島口駅よりアクセス。宮島口桟橋よりフェリーで１０分～宮島桟橋よりマイクロバスにて送迎。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「宮島グランドホテル 有もと」にチェックイン。すべてはお客様の満足と笑顔のために。宮島の歴史とともに時を重ねる、世界遺産「厳島神社」に最も近い宿。などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「宮島グランドホテル 有もと」の湯処へ。すべてはお客様の満足と笑顔のために。宮島の歴史とともに時を重ねる、世界とともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「宮島グランドホテル 有もと」にチェックイン。すべてはお客様の満足と笑顔のために。宮島の歴史とともに時を重ねる、世界遺産「厳島神社」に最も近い宿。 荷物を解き、落ち着いた室内でまず一息つく。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「宮島グランドホテル 有もと」の自慢の湯処へ。温かな湯気と落ち着いた雰囲気に癒やされながら、夕食前の贅沢なひとときを過ごす。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「宮島グランドホテル 有もと」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -433,7 +433,7 @@ export default function Page() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「宮島グランドホテル 有もと」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「宮島グランドホテル 有もと」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「ホテル奈良さくらいの郷」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は「宮島グランドホテル 有もと」周辺の観光スポットや地元の名産店に立ち寄り、ご当地のお土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>
@@ -561,7 +561,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 宮島グランドホテル　有もと</td>
                 <td className="p-3 text-stone-600">広島県廿日市市宮島町南町364</td>
-                <td className="p-3 text-stone-600">宮島口駅周辺</td>
+                <td className="p-3 text-stone-600">宮島口桟橋よりフェリーで１０分～宮島桟橋よりマイクロバスにて送迎</td>
                 <td className="p-3 text-stone-600">有り　５台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.58（1299件）</td>
                 <td className="p-3 font-bold text-rose-600">¥29,050〜</td>
@@ -570,7 +570,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. ホテル奈良さくらいの郷</td>
                 <td className="p-3 text-stone-600">奈良県桜井市大字高家2220-1</td>
-                <td className="p-3 text-stone-600">桜井（奈良）駅周辺</td>
+                <td className="p-3 text-stone-600">近鉄・JR「桜井駅」よりお車にて約10分、近鉄「橿原神宮前駅」よりお車にて約15分</td>
                 <td className="p-3 text-stone-600">有り　28台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.43（119件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,100〜</td>
@@ -579,7 +579,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. ホテルオークラ京都　岡崎別邸</td>
                 <td className="p-3 text-stone-600">京都府京都市左京区岡崎天王町26-6</td>
-                <td className="p-3 text-stone-600">京都駅周辺</td>
+                <td className="p-3 text-stone-600">京都駅よりお車にて約25分・京都市バス「岡崎神社前」 徒歩１分・京都市営地下鉄東西線「蹴上」駅より徒歩約14分</td>
                 <td className="p-3 text-stone-600">駐車場の収容台数には限りがございます。お電話にてご予約を承っております。</td>
                 <td className="p-3 font-bold text-amber-600">★4.69（67件）</td>
                 <td className="p-3 font-bold text-rose-600">¥18,750〜</td>
@@ -630,7 +630,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　28台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「奈良旅の定宿、静かな空間と朝食に癒される4回目の宿泊ですが、奈良旅の後はいつもココに決めています。ホテルはいつも静かで落ちつく空間です。旅で疲れた体を癒してくれます。朝食もホントに美味しいです。い…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「奈良旅の定宿、静かな空間と朝食に癒される4回目の宿泊ですが、奈良旅の後はいつもココに決めています。ホテルはいつも静かで落ちつく空間です。旅で疲れた体を癒してくれます。朝食もホントに美味しいです。」
                   </blockquote>
                 </div>
               </div>

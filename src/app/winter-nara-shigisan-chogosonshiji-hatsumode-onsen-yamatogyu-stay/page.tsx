@@ -384,7 +384,7 @@ export default function FeaturePage() {
                   
                 <div className="bg-stone-50/90 rounded-xl p-3.5 sm:p-4 text-xs sm:text-sm text-stone-600 border border-stone-200/80 mt-2">
                   <span className="font-bold text-stone-800 block mb-1">宿泊者のクチコミ抜粋</span>
-                  <p className="leading-relaxed">{"「家から電車で送迎もあり、手軽に利用してます。リーズナブルなお値段とアットホーム的な接客も気に入ってます。特に気に入ってるのは、露天風呂です。こじんまりしてますが、開放的です。クチコミの詳細はこ…」"}</p>
+                  <p className="leading-relaxed">{"「家から電車で送迎もあり、手軽に利用してます。リーズナブルなお値段とアットホーム的な接客も気に入ってます。特に気に入ってるのは、露天風呂です。こじんまりしてますが、開放的です。」"}</p>
                 </div>
             
 

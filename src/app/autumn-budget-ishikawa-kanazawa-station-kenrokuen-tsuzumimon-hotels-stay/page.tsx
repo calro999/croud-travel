@@ -401,7 +401,7 @@ export default function AutumnBudgetHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. ＡＲＩＧＡＴＯ　ＳＴＡＹ金沢駅前（旧　ホテルトレンド金沢駅前）</td>
                 <td className="p-3 text-stone-600">石川県金沢市広岡1-3-36</td>
-                <td className="p-3 text-stone-600">金沢駅周辺</td>
+                <td className="p-3 text-stone-600">金沢駅西口より徒歩約3分</td>
                 <td className="p-3 text-stone-600">駐車場はありません。 近隣コインパーキング「金沢駅西口時計駐車場」 ※提携駐車場ではございません。</td>
                 <td className="p-3 font-bold text-amber-600">★3.92（514件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,100〜</td>
@@ -410,7 +410,7 @@ export default function AutumnBudgetHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 天然温泉　鼓門の湯　スーパーホテルＰｒｅｍｉｅｒ金沢駅東口</td>
                 <td className="p-3 text-stone-600">石川県金沢市本町2-5-15</td>
-                <td className="p-3 text-stone-600">金沢駅周辺</td>
+                <td className="p-3 text-stone-600">金沢駅東口より徒歩7分。金沢東ICより約15分。</td>
                 <td className="p-3 text-stone-600">ホテル専用駐車場、駐輪場はございません。近隣駐車場のご案内となります</td>
                 <td className="p-3 font-bold text-amber-600">★4.43（1660件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,450〜</td>
@@ -419,7 +419,7 @@ export default function AutumnBudgetHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 金沢駅前ホテル</td>
                 <td className="p-3 text-stone-600">石川県金沢市此花町2-24</td>
-                <td className="p-3 text-stone-600">金沢駅周辺</td>
+                <td className="p-3 text-stone-600">金沢駅鼓門より徒歩約3分</td>
                 <td className="p-3 text-stone-600">1泊:1,000円頂いております。</td>
                 <td className="p-3 font-bold text-amber-600">★3.45（171件）</td>
                 <td className="p-3 font-bold text-rose-600">¥2,850〜</td>
@@ -428,7 +428,7 @@ export default function AutumnBudgetHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. ホテルルートイン金沢駅前</td>
                 <td className="p-3 text-stone-600">石川県金沢市昭和町22-5</td>
-                <td className="p-3 text-stone-600">金沢駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ北陸本線・新幹線 金沢駅より徒歩５分／北陸自動車道 金沢西ＩＣより５．５ｋｍ</td>
                 <td className="p-3 text-stone-600">有り　１６６台　１，０００円（税込み／泊）　先着順・高さ制限２．１M迄</td>
                 <td className="p-3 font-bold text-amber-600">★4.09（1990件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,825〜</td>
@@ -437,7 +437,7 @@ export default function AutumnBudgetHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. チサンバジェット金沢駅前</td>
                 <td className="p-3 text-stone-600">石川県金沢市堀川新町8-16</td>
-                <td className="p-3 text-stone-600">金沢駅周辺</td>
+                <td className="p-3 text-stone-600">JR線「金沢」駅徒歩5分</td>
                 <td className="p-3 text-stone-600">1,100円（1台1泊）※ 先着順。満車の場合は金沢駅西口時計駐車場（徒歩3分）をご案内いたします。</td>
                 <td className="p-3 font-bold text-amber-600">★4.01（1280件）</td>
                 <td className="p-3 font-bold text-rose-600">¥1,960〜</td>
@@ -510,7 +510,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>1泊:1,000円頂いております。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「エアコンの埃と朝食時間に間に合わない不満エアコンが埃だらけで清潔とは言えませんでした朝早くに出発する予定でしたが、朝食が7時からでしたので食べていません」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「エアコンの埃と朝食時間に間に合わない不満エアコンが埃だらけで清潔とは言えませんでした朝早くに出発する予定でしたが、朝食が7時からでしたので食べていませんhttp。」
                   </blockquote>
                 </div>
               </div>
@@ -554,7 +554,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>1,100円（1台1泊）※ 先着順。満車の場合は金沢駅西口時計駐車場（徒歩3分）をご案内いたします。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近で便利だが駐車場と荷物置きに改善の余地あり駅からも近くて便利でした。提携駐車場の案内をもらったけど、近くの違うコインパーキングのが安くてびっくりしました。今はキャリーバッグで宿泊する人が多いと…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近で便利だが駐車場と荷物置きに改善の余地あり駅からも近くて便利でした。提携駐車場の案内をもらったけど、近くの違うコインパーキングのが安くてびっくりしました。」
                   </blockquote>
                 </div>
               </div>

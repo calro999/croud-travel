@@ -49,7 +49,7 @@ const hotels = [
     "reviewCount": 77,
     "address": "富山県中新川郡立山町芦峅寺弥陀ヶ原",
     "access": "立山駅よりケーブルカーとバスで約40分　「弥陀ヶ原バス停」下りてすぐ",
-    "userReview": "とても楽しい滞在でした立山黒部を訪れる時にどこかで1泊したいと思い、こちらのホテルを選びました。弥陀ヶ原湿原のガイドツアーやスライドショーなど、滞在中のイベントが盛りだくさんでとても楽しめまし。",
+    "userReview": "とても楽しい滞在でした立山黒部を訪れる時にどこかで1泊したいと思い、こちらのホテルを選びました。弥陀ヶ原湿原のガイドツアーやスライドショーなど、滞在中のイベントが盛りだくさんでとても楽しめました。",
     "label": "富山県立山町ふるさと納税・神々が宿る北アルプスの大自然と雲海「立山連峰」立山高原ホテル",
     "spotTitle": "富山県立山町ふるさと納税：標高1,930m・雲上の楽園に佇む山岳オフィシャルホテル「弥陀ヶ原ホテル」",
     "spotDesc": "立山黒部アルペンルートの高原地帯に建つ天空のホテル。ラムサール条約登録の弥陀ヶ原湿原が目の前に広がり、夕暮れ時には雲海に沈む夕日、夜には満天の天の川を鑑賞できます。",
@@ -338,7 +338,7 @@ export default function FurusatoUpgradedPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. ホテルニューオータニ幕張</td>
                 <td className="p-3 text-stone-600">千葉県千葉市美浜区ひび野2-120-3</td>
-                <td className="p-3 text-stone-600">海浜幕張</td>
+                <td className="p-3 text-stone-600">JR京葉線海浜幕張駅徒歩5分 蘇我駅約12分 幕張メッセ直結 東京ディズニーリゾート（R）グッドネイバーホテル</td>
                 <td className="p-3 text-stone-600">有り/ 屋外平面300台（宿泊者無料）</td>
                 <td className="p-3 font-bold text-amber-600">★4.4（4344件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,600〜</td>
@@ -356,7 +356,7 @@ export default function FurusatoUpgradedPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. ホテルオークラ神戸</td>
                 <td className="p-3 text-stone-600">兵庫県神戸市中央区波止場町2-1  メリケンパーク内</td>
-                <td className="p-3 text-stone-600">元町（兵庫）</td>
+                <td className="p-3 text-stone-600">ＪＲ神戸線・阪神線 元町駅から徒歩で10分。 新幹線 新神戸駅から 車で15分。</td>
                 <td className="p-3 text-stone-600">1泊1500円 ※予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.57（8846件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,000〜</td>
@@ -365,7 +365,7 @@ export default function FurusatoUpgradedPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 熱海温泉　熱海後楽園ホテル</td>
                 <td className="p-3 text-stone-600">静岡県熱海市和田浜南町10-1</td>
-                <td className="p-3 text-stone-600">熱海</td>
+                <td className="p-3 text-stone-600">東京から新幹線で50分！熱海駅よりタクシーで約10分。送迎バス 9:40～19:00まで40分毎</td>
                 <td className="p-3 text-stone-600">有り／120台　※2025年5月8日(木)より1泊につき500円/台(チェックアウト日の12時まで)</td>
                 <td className="p-3 font-bold text-amber-600">★4.4（3218件）</td>
                 <td className="p-3 font-bold text-rose-600">¥12,320〜</td>
@@ -374,7 +374,7 @@ export default function FurusatoUpgradedPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 洲本温泉　夢海游　淡路島</td>
                 <td className="p-3 text-stone-600">兵庫県洲本市山手1-1-50</td>
-                <td className="p-3 text-stone-600">舞子</td>
+                <td className="p-3 text-stone-600">車：洲本ICから10分／高速バス：大阪120分・三宮80分で洲本BCへ</td>
                 <td className="p-3 text-stone-600">有り　１００台収容可・無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.43（2443件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,250〜</td>

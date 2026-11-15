@@ -401,7 +401,7 @@ export default function AutumnBudgetHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. ホテルノルド小樽</td>
                 <td className="p-3 text-stone-600">北海道小樽市色内1-4-16</td>
-                <td className="p-3 text-stone-600">小樽駅周辺</td>
+                <td className="p-3 text-stone-600">小樽駅から徒歩7分◆LeTAO・オルゴール堂が人気の堺町通りまで徒歩圏内◆札幌駅から車で40分・電車で35分</td>
                 <td className="p-3 text-stone-600">有り　46台　1200円(１泊）　先着順となります。チェックイン前でもお車をお預かりいたします。</td>
                 <td className="p-3 font-bold text-amber-600">★4.19（1627件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,910〜</td>
@@ -410,7 +410,7 @@ export default function AutumnBudgetHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. ホテルソニア小樽</td>
                 <td className="p-3 text-stone-600">北海道小樽市色内1-4-20</td>
-                <td className="p-3 text-stone-600">小樽駅周辺</td>
+                <td className="p-3 text-stone-600">「小樽運河」目の前。札幌駅から快速で32分のJR小樽駅より徒歩8分。高速小樽ICより5分。ニセコまでバスで1時間50分</td>
                 <td className="p-3 text-stone-600">有り　37台　1,200円　先着順/満車時は周辺のコインパーキングへご案内致します。</td>
                 <td className="p-3 font-bold text-amber-600">★4.25（2126件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,750〜</td>
@@ -419,7 +419,7 @@ export default function AutumnBudgetHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. グリッズプレミアムホテル小樽</td>
                 <td className="p-3 text-stone-600">北海道小樽市稲穂1丁目3-13</td>
-                <td className="p-3 text-stone-600">小樽駅周辺</td>
+                <td className="p-3 text-stone-600">小樽駅より徒歩9分、新千歳空港からお車にて約90分</td>
                 <td className="p-3 text-stone-600">有り　45台　1500円（税込／１泊）　先着順（事前予約不可）</td>
                 <td className="p-3 font-bold text-amber-600">★4.32（705件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,740〜</td>
@@ -428,7 +428,7 @@ export default function AutumnBudgetHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. ＡＬＰＨＡＢＥＤ　ＩＮＮ　小樽駅前</td>
                 <td className="p-3 text-stone-600">北海道小樽市稲穂3-10-12</td>
-                <td className="p-3 text-stone-600">小樽駅周辺</td>
+                <td className="p-3 text-stone-600">JR小樽駅より徒歩２分◆三角市場の真横で徒歩１分◆小樽ICより約７分◆小樽運河まで徒歩８分◆寿司屋通まで徒歩１０分</td>
                 <td className="p-3 text-stone-600">2台あり・先着順（高さ制限有H１８００までの車に限る）</td>
                 <td className="p-3 font-bold text-amber-600">★4.31（259件）</td>
                 <td className="p-3 font-bold text-rose-600">¥2,000〜</td>
@@ -457,7 +457,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　46台　1200円(１泊）　先着順となります。チェックイン前でもお車をお預かりいたします。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「中庭ビューの部屋でしたが、特に不満はありませんでした。ユニットバスで無い独立した風呂があるのは、夏の暑い時期でしたので大変良かったです。建物は古いですが、清掃が行き届き綺麗でした。運河沿い…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「中庭ビューの部屋でしたが、特に不満はありませんでした。ユニットバスで無い独立した風呂があるのは、夏の暑い時期でしたので大変良かったです。建物は古いですが、清掃が行き届き綺麗でした。」
                   </blockquote>
                 </div>
               </div>
@@ -479,7 +479,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　37台　1,200円　先着順/満車時は周辺のコインパーキングへご案内致します。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「運河を一望できる広い部屋と朝食に大満足友人との旅行で宿泊。滅多に旅行も出来ないから良い部屋を予約したら運河が一望出来る広い部屋で最高でした。朝食も海鮮やアイヌ料理なんかも食べられて友人も喜んで…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「運河を一望できる広い部屋と朝食に大満足友人との旅行で宿泊。滅多に旅行も出来ないから良い部屋を予約したら運河が一望出来る広い部屋で最高でした。」
                   </blockquote>
                 </div>
               </div>
@@ -501,7 +501,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　45台　1500円（税込／１泊）　先着順（事前予約不可）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「新しく快適オープンして3年程度のため新しくてきれいです。客室のベッドは高め、下にスーツケースが入る仕様。硬めのマットレスです。朝食はパンやサラダ、フルーツなどのほかにバラちらしなどの魚介、オハ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「新しく快適オープンして3年程度のため新しくてきれいです。客室のベッドは高め、下にスーツケースが入る仕様。硬めのマットレスです。」
                   </blockquote>
                 </div>
               </div>
@@ -523,7 +523,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>2台あり・先着順（高さ制限有H１８００までの車に限る）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.02 ／ 立地 ★4.42 ／ 部屋 ★4.43 ／ 設備 ★4.28 ／ 風呂 ★4.08</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「清掃不足とコンセント不足で不便を感じるベッド、エアコンが埃だらけで清掃されていない。ベッドのマットレスはかなり薄いので、気になる方は要注意。ベッドにコンセントは有るが、テレビ、テーブル周辺…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「清掃不足とコンセント不足で不便を感じるベッド、エアコンが埃だらけで清掃されていない。ベッドのマットレスはかなり薄いので、気になる方は要注意。」
                   </blockquote>
                 </div>
               </div>

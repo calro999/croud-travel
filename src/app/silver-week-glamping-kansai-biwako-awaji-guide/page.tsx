@@ -477,7 +477,7 @@ export default function SilverWeekGlampingKansaiBiwakoAwajiPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. ｇｌａｎｔａ　ｇｌａｍｐｉｎｇ　ｖｉｌｌａｇｅ</td>
                 <td className="p-3 text-stone-600">滋賀県長浜市早崎町1669-1</td>
-                <td className="p-3 text-stone-600">長浜駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ西日本北陸本線 長浜駅より車で約１５分</td>
                 <td className="p-3 text-stone-600">有り　１０台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.9（69件）</td>
                 <td className="p-3 font-bold text-rose-600">¥10,000〜</td>
@@ -486,7 +486,7 @@ export default function SilverWeekGlampingKansaiBiwakoAwajiPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. ＧＬＡＭＰＩＮＧ＆ＣＡＦＥ　ＭＵＫＵ</td>
                 <td className="p-3 text-stone-600">滋賀県高島市マキノ町蛭口1663-1</td>
-                <td className="p-3 text-stone-600">マキノ（滋賀）駅周辺</td>
+                <td className="p-3 text-stone-600">マキノ駅よりコミュニティバスマキノ高原線に乗り、マキノピックランドで下車 徒歩約２分</td>
                 <td className="p-3 text-stone-600">有り　１０台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">高評価</td>
                 <td className="p-3 font-bold text-rose-600">プラン参照</td>
@@ -495,7 +495,7 @@ export default function SilverWeekGlampingKansaiBiwakoAwajiPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. Ｇｌａｍｐｉｎｇ　Ｖｉｌｌａ　鮫家　ＡＷＡＪＩ＜淡路島＞</td>
                 <td className="p-3 text-stone-600">兵庫県洲本市中津川組105</td>
-                <td className="p-3 text-stone-600">三ノ宮駅周辺</td>
+                <td className="p-3 text-stone-600">三ノ宮駅から車で約１時間半／洲本ＩＣから車で約３０分</td>
                 <td className="p-3 text-stone-600">有り　５台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★5（6件）</td>
                 <td className="p-3 font-bold text-rose-600">¥13,000〜</td>
@@ -504,7 +504,7 @@ export default function SilverWeekGlampingKansaiBiwakoAwajiPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. コスタブルー　あわじ西海岸＜淡路島＞</td>
                 <td className="p-3 text-stone-600">兵庫県淡路市野島江崎604</td>
-                <td className="p-3 text-stone-600">舞子駅周辺</td>
+                <td className="p-3 text-stone-600">神戸淡路鳴門自動車道 淡路ICより車で約10分</td>
                 <td className="p-3 text-stone-600">有り　１０台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.2（41件）</td>
                 <td className="p-3 font-bold text-rose-600">¥10,000〜</td>
@@ -513,7 +513,7 @@ export default function SilverWeekGlampingKansaiBiwakoAwajiPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 洲本温泉　海のホテル　島花　＜淡路島＞</td>
                 <td className="p-3 text-stone-600">兵庫県洲本市小路谷1277-5</td>
-                <td className="p-3 text-stone-600">舞子駅周辺</td>
+                <td className="p-3 text-stone-600">車：洲本ICから18分／高速バス：大阪120分・三宮80分で洲本BCへ</td>
                 <td className="p-3 text-stone-600">有り（無料/予約不要）</td>
                 <td className="p-3 font-bold text-amber-600">★4.43（1184件）</td>
                 <td className="p-3 font-bold text-rose-600">¥9,900〜</td>
@@ -542,7 +542,7 @@ export default function SilverWeekGlampingKansaiBiwakoAwajiPage() {
                   <p>【関西シルバーウィーク グランピング：琵琶湖レイクビュ】 <strong>【駐車場・マイカー利用】</strong>有り　１０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「初めてのグランピング、最高のおもてなしでした初めてのグランピングで利用させて頂きました。結論、最高でした!施設も綺麗で、店員さん達のホスピタリティも素敵で、至れり尽くせりでした!5mド…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「初めてのグランピング、最高のおもてなしでした初めてのグランピングで利用させて頂きました。結論、最高でした!施設も綺麗で、店員さん達のホスピタリティも素敵で、至れり尽くせりでした!」
                   </blockquote>
                 </div>
               </div>
@@ -630,7 +630,7 @@ export default function SilverWeekGlampingKansaiBiwakoAwajiPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り（無料/予約不要）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「清潔で広々とした部屋と朝食バイキングに満足502号室を利用させて頂きました。お部屋はとても清潔でよく清掃されておりました。お部屋にはプロジェクターや岩盤浴、ベットも3つ(ダブル×1、シング…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「清潔で広々とした部屋と朝食バイキングに満足502号室を利用させて頂きました。お部屋はとても清潔でよく清掃されておりました。」
                   </blockquote>
                 </div>
               </div>

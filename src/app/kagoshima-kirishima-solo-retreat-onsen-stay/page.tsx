@@ -337,8 +337,8 @@ export default function ArticlePage() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 霧島神宮駅よりアクセス。霧島神宮駅よりお車にて約２５分。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「霧島温泉 夫婦露天風呂の宿 天テラス」にチェックイン。宿から雄大な桜島を一望。霧島の大自然に包まれながら深まる絆 / 貸切露天(無料)・露天風呂付客室ありなどの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「霧島温泉 夫婦露天風呂の宿 天テラス」の湯処へ。宿から雄大な桜島を一望。霧島の大自然に包まれながら深まる絆 / 貸切露とともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「霧島温泉 夫婦露天風呂の宿 天テラス」にチェックイン。宿から雄大な桜島を一望。霧島の大自然に包まれながら深まる絆 / 貸切露天(無料)・露天風呂付客室ありが魅力の一軒。客室で荷物をほどいて穏やかな午後のひとときを。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「霧島温泉 夫婦露天風呂の宿 天テラス」の自慢の湯処へ。温かな湯気と落ち着いた雰囲気に癒やされながら、夕食前の贅沢なひとときを過ごす。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「霧島温泉 夫婦露天風呂の宿 天テラス」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -350,7 +350,7 @@ export default function ArticlePage() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「霧島温泉 夫婦露天風呂の宿 天テラス」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「霧島温泉 夫婦露天風呂の宿 天テラス」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「霧島温泉 いで湯の宿 霧島花紫」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は宿周辺の散策とショッピングを満喫。地元の名産品やグルメを味わってから余裕をもって帰路につく。</li>
               </ul>
             </div>
           </div>
@@ -366,21 +366,21 @@ export default function ArticlePage() {
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">あわせて読みたい人気特集＆全国エリアガイド</h2>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
-            <a href="/nagano-shirahone-solo-retreat-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/kagoshima-ibusuki-solo-retreat-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">信州白骨温泉ひとり旅・三日入れば三年風邪ひかない名湯おこもり：乳白色混浴大露天・湯元自家源泉・信州ジビエ！北アルプス深山の秘湯厳選3宿</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「指宿温泉ひとり旅・砂むし温泉おこもり」錦江湾パノラマ・砂むし会席・黒豚しゃぶ！南国薩摩の潮風と地熱に癒やされる厳選3宿</span>
             </a>
-            <a href="/spring-nagano-shinshu-apple-spa-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/kagoshima-solo-retreat-sakurajima-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">信州スイーツ＆名湯：焼きたて信州アップルパイ＆果実の香るりんご風呂！長野の美食温泉宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「鹿児島ひとり旅＆出張」錦江湾に浮かぶ桜島一望・展望露天温泉・黒豚しゃぶしゃぶ！南国の雄大な自然に抱かれる極上宿 厳選3選</span>
             </a>
-            <a href="/winter-nagano-hakuba-valley-powder-snow-happo-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/kirishima-solo-retreat-doroyu-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">HAKUBA VALLEY極上パウダースノーと白馬八方温泉：2026-2027年冬の白馬山麓！高アルカリ美肌湯と信州牛名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「霧島温泉ひとり旅・神話の湯治泊」14源泉の大浴場・桜島展望露天・天然泥パック！坂本龍馬ゆかりの地で魂を再生する名宿 厳選3選</span>
             </a>
-            <a href="/winter-nagano-obuse-shibu-onsen-shinshugyu-apple-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/traditional-kagoshima-kurobuta-shabu-shabu-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12月北信州】小布施の冬栗おこわ＆完熟サンふじ・石畳の渋温泉「九湯めぐり」と信州プレミアム牛を味わう名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「鹿児島黒豚＆黒毛和牛」極上しゃぶしゃぶ会席と指宿砂むし温泉！霧島・指宿の美食名湯宿5選</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">
@@ -444,7 +444,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 霧島温泉　夫婦露天風呂の宿　天テラス（あまてらす）</td>
                 <td className="p-3 text-stone-600">鹿児島県霧島市牧園町高千穂3761</td>
-                <td className="p-3 text-stone-600"></td>
+                <td className="p-3 text-stone-600">鹿児島県霧島市牧園町高千穂3761 ／ 交通案内：</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.55（233件）</td>
                 <td className="p-3 font-bold text-rose-600">¥12,210〜</td>
@@ -453,7 +453,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 霧島温泉　いで湯の宿　霧島花紫</td>
                 <td className="p-3 text-stone-600">鹿児島県霧島市牧園町高千穂3254-23</td>
-                <td className="p-3 text-stone-600">霧島神宮駅周辺</td>
+                <td className="p-3 text-stone-600">霧島温泉駅・霧島神宮駅より車で１５分 鹿児島空港から車で２５分、路線バスにて３０分（柳平バス停から徒歩１分含）</td>
                 <td className="p-3 text-stone-600">有　3０台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.47（322件）</td>
                 <td className="p-3 font-bold text-rose-600">¥11,000〜</td>
@@ -462,7 +462,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. ザ・パルス霧島</td>
                 <td className="p-3 text-stone-600">鹿児島県霧島市霧島田口2703-5</td>
-                <td className="p-3 text-stone-600">霧島神宮駅周辺</td>
+                <td className="p-3 text-stone-600">日豊本線 霧島神宮駅よりお車で約１０分</td>
                 <td className="p-3 text-stone-600">有り　２００台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.29（1030件）</td>
                 <td className="p-3 font-bold text-rose-600">¥12,580〜</td>
@@ -513,7 +513,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有　3０台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉と料理に癒やされ、心温まるひととき温泉が露天風呂と内湯4ヶ所のうち3つに入らせていただきました。どれも、最高でした。料理も、繊細で心のこもった豪華な料理で、とっても美味しいでした。部屋も、きれ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉と料理に癒やされ、心温まるひととき温泉が露天風呂と内湯4ヶ所のうち3つに入らせていただきました。どれも、最高でした。料理も、繊細で心のこもった豪華な料理で、とっても美味しいでした。」
                   </blockquote>
                 </div>
               </div>
@@ -535,7 +535,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２００台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.28 ／ 立地 ★4.33 ／ 部屋 ★4.33 ／ 設備 ★4.25 ／ 風呂 ★4.35 ／ 食事 ★4.41</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「最新のタッチパネルに驚き、食事も大満足お部屋に施設の状況が分かるタッチパネルが壁に設置してあり最新!って驚きました。どこもしっかり綺麗で食事もすごく美味しく頂きました。他の画像や…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「最新のタッチパネルに驚き、食事も大満足お部屋に施設の状況が分かるタッチパネルが壁に設置してあり最新!って驚きました。どこもしっかり綺麗で食事もすごく美味しく頂きました。」
                   </blockquote>
                 </div>
               </div>

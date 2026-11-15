@@ -76,7 +76,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F40731%2F40731.html%26f_flg%3DPLAN",
     "hotelMinCharge": 17100,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/40731/40731.jpg",
-    "userReview": "長湯温泉　丸長旅館ならではの立地と落ち着いた空間で、ゆったりとした滞在を楽しめたという声が寄せられています。",
+    "userReview": "長湯温泉 丸長旅館ならではの立地と落ち着いた空間で、ゆったりとした滞在を楽しめたという声が寄せられています。",
     "reviewAverage": 4.85,
     "reviewCount": 54,
     "address": "大分県竹田市直入町長湯温泉７９９５－２",
@@ -283,8 +283,8 @@ export default function Page() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 豊後竹田駅よりアクセス。◆湯布院IC国道210号を湯平温泉経由で広域農道50分◆ＪＲ豊肥本線 豊後竹田駅から車（タクシー）で３０分。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「長湯温泉 丸長旅館」にチェックイン。長湯温泉「ガニ湯」を一望できる純和風旅館。小さくてもいい宝石のような宿を目指しおもてなし致します♪などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「長湯温泉 丸長旅館」の湯処へ。長湯温泉「ガニ湯」を一望できる純和風旅館。小さくてもいい宝石のような宿とともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「長湯温泉 丸長旅館」にチェックイン。長湯温泉「ガニ湯」を一望できる純和風旅館。小さくてもいい宝石のような宿を目指しおもてなし致します♪ 荷物を解き、落ち着いた室内でまず一息つく。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「長湯温泉 丸長旅館」の大浴場・露天風呂へ。日暮れの静けさの中で湯に浸かり、旅の緊張をゆっくりと解きほぐす。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「長湯温泉 丸長旅館」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -296,7 +296,7 @@ export default function Page() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「長湯温泉 丸長旅館」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「長湯温泉 丸長旅館」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「宮津温泉 料理旅館 茶六別館」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は「長湯温泉 丸長旅館」周辺の観光スポットや地元の名産店に立ち寄り、ご当地のお土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>
@@ -424,7 +424,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 長湯温泉　丸長旅館</td>
                 <td className="p-3 text-stone-600">大分県竹田市直入町長湯温泉７９９５－２</td>
-                <td className="p-3 text-stone-600">◆湯布院IC国道210号を湯平温泉経由で広域農道50分◆ＪＲ豊肥本線</td>
+                <td className="p-3 text-stone-600">◆湯布院IC国道210号を湯平温泉経由で広域農道50分◆ＪＲ豊肥本線 豊後竹田駅から車（タクシー）で３０分</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.85（54件）</td>
                 <td className="p-3 font-bold text-rose-600">¥17,100〜</td>
@@ -433,7 +433,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 宮津温泉　料理旅館　茶六別館</td>
                 <td className="p-3 text-stone-600">京都府宮津市島崎2039-4</td>
-                <td className="p-3 text-stone-600">宮津（京都）駅周辺</td>
+                <td className="p-3 text-stone-600">車：京都縦貫自動車道宮津天橋立ＩＣより約５分 電車：京都丹後鉄道宮津駅より徒歩１０分 高速バス：キセンバ港館より徒歩７分</td>
                 <td className="p-3 text-stone-600">有り　１２台　無料　宿の左斜め前にございます</td>
                 <td className="p-3 font-bold text-amber-600">★4.56（206件）</td>
                 <td className="p-3 font-bold text-rose-600">¥18,700〜</td>
@@ -442,7 +442,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 辰口温泉　旅亭　萬葉</td>
                 <td className="p-3 text-stone-600">石川県能美市緑が丘5-31-40</td>
-                <td className="p-3 text-stone-600">JR北陸本線小松駅より車で約20分。北陸自動車道小松ICより約20分。</td>
+                <td className="p-3 text-stone-600">JR北陸本線小松駅より車で約20分。北陸自動車道小松ICより約20分。金沢市中心部より加賀産業道路経由車で約35分</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.58（311件）</td>
                 <td className="p-3 font-bold text-rose-600">¥22,000〜</td>
@@ -451,7 +451,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 那須黒磯温泉　かんすい苑　覚楽</td>
                 <td className="p-3 text-stone-600">栃木県那須塩原市黒磯402-2</td>
-                <td className="p-3 text-stone-600">ＪＲ　黒磯駅よりお車にて５分（送迎バス有り・要予約） 送迎時間　14時</td>
+                <td className="p-3 text-stone-600">ＪＲ 黒磯駅よりお車にて５分（送迎バス有り・要予約） 送迎時間 14時～18時 翌8時～10時</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.77（458件）</td>
                 <td className="p-3 font-bold text-rose-600">¥11,000〜</td>
@@ -460,7 +460,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 山陰湯村温泉　朝野家</td>
                 <td className="p-3 text-stone-600">兵庫県美方郡新温泉町湯1269</td>
-                <td className="p-3 text-stone-600">北近畿豊岡道八鹿氷ノ山ＩＣより車で約50分／阪急大阪三番街より全但特急</td>
+                <td className="p-3 text-stone-600">北近畿豊岡道八鹿氷ノ山ＩＣより車で約50分／阪急大阪三番街より全但特急バスで約3時間</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.57（1194件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,600〜</td>
@@ -533,7 +533,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事と抹茶のおもてなしは最高、お風呂は修繕希望宿に着いてから、抹茶のおもてなし、食事は大変美味しく、出来立てを順番に出していただける丁寧な夕食でした。お風呂は部屋と借り切り、大浴場と沢山ありま…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事と抹茶のおもてなしは最高、お風呂は修繕希望宿に着いてから、抹茶のおもてなし、食事は大変美味しく、出来立てを順番に出していただける丁寧な夕食でした。」
                   </blockquote>
                 </div>
               </div>
@@ -555,7 +555,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「川の音に癒やされ、スタッフの心遣いに感謝周りには何も無いですが、何も無いがあります!のんびりしたいなら最適です。館内はスタッフの方々が本当に親切で、カフェインが苦手だと伝えると麦茶を出して…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「川の音に癒やされ、スタッフの心遣いに感謝周りには何も無いですが、何も無いがあります!のんびりしたいなら最適です。」
                   </blockquote>
                 </div>
               </div>
@@ -577,7 +577,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉も食事も接客も素晴らしく大満足初めての湯村温泉でしたが温泉、食事、スタッフさんの対応等、どれもとても素晴らしく大変良かったです。(食事時には女将さんの丁寧なご挨拶もありました!)帰りに気付…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉も食事も接客も素晴らしく大満足初めての湯村温泉でしたが温泉、食事、スタッフさんの対応等、どれもとても素晴らしく大変良かったです。(食事時には女将さんの丁寧なご挨拶もありました!」
                   </blockquote>
                 </div>
               </div>

@@ -253,7 +253,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 秋保温泉　篝火の湯　緑水亭</td>
                 <td className="p-3 text-stone-600">宮城県仙台市太白区秋保町湯元上原27-2</td>
-                <td className="p-3 text-stone-600">仙台駅周辺</td>
+                <td className="p-3 text-stone-600">東北自動車道仙台南ICから約15分。仙台中心部まで車で約30分。JR仙台駅東口より無料シャトルバス毎日運行（※要予約）</td>
                 <td className="p-3 text-stone-600">無料駐車場完備（予約不要、３００台駐車可能です）</td>
                 <td className="p-3 font-bold text-amber-600">★4.26（1474件）</td>
                 <td className="p-3 font-bold text-rose-600">¥11,000〜</td>
@@ -262,7 +262,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 秋保温泉　茶寮宗園</td>
                 <td className="p-3 text-stone-600">宮城県仙台市太白区秋保町湯元釜土東1</td>
-                <td className="p-3 text-stone-600">仙台駅周辺</td>
+                <td className="p-3 text-stone-600">仙台駅～車で約30分/仙台南IC～車で15分/仙台宮城IC～車で約20分/JR仙台駅～送迎バス（要予約）</td>
                 <td className="p-3 text-stone-600">有り　４０台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.89（84件）</td>
                 <td className="p-3 font-bold text-rose-600">¥49,500〜</td>
@@ -271,7 +271,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 秋保温泉　心和む名湯の宿　曽良一</td>
                 <td className="p-3 text-stone-600">宮城県仙台市太白区秋保町湯元字薬師108</td>
-                <td className="p-3 text-stone-600">仙台駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ仙台駅よりバス５０分。秋保温泉湯元バス停下車１分。仙台南インターよりお車で１５分。</td>
                 <td className="p-3 text-stone-600">有り　３０台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.19（1492件）</td>
                 <td className="p-3 font-bold text-rose-600">¥9,900〜</td>
@@ -280,7 +280,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 秋保温泉　秋保グランドホテル</td>
                 <td className="p-3 text-stone-600">宮城県仙台市太白区秋保町湯元枇杷原12-2</td>
-                <td className="p-3 text-stone-600">仙台駅周辺</td>
+                <td className="p-3 text-stone-600">JR仙台駅よりバスで５０分、車で３０分/東北自動車道仙台南ICより車で１０分</td>
                 <td className="p-3 text-stone-600">有り　150台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.28（5214件）</td>
                 <td className="p-3 font-bold text-rose-600">¥10,450〜</td>
@@ -289,7 +289,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 大江戸温泉物語Ｐｒｅｍｉｕｍ　仙台作並（旧：作並温泉　鷹泉閣岩松旅館）</td>
                 <td className="p-3 text-stone-600">宮城県仙台市青葉区作並元木16</td>
-                <td className="p-3 text-stone-600">作並駅周辺</td>
+                <td className="p-3 text-stone-600">JR作並駅より車で約5分。東北自動車道 仙台宮城ICより約25分。</td>
                 <td className="p-3 text-stone-600">駐車場有(約90台)</td>
                 <td className="p-3 font-bold text-amber-600">★4.01（2734件）</td>
                 <td className="p-3 font-bold text-rose-600">¥12,000〜</td>
@@ -298,7 +298,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">6. ＴＡＯＹＡ秋保</td>
                 <td className="p-3 text-stone-600">宮城県仙台市太白区秋保町湯元字薬師107</td>
-                <td className="p-3 text-stone-600">仙台駅周辺</td>
+                <td className="p-3 text-stone-600">【車】仙台南IC約20分 仙台駅約40分 秋保神社約15分 秋保大滝約25分【徒歩】おはぎのさいち約1分 磊々峡約10分</td>
                 <td className="p-3 text-stone-600">敷地内に300台収容可能の無料の平面駐車場を完備　（予約不要）屋根付きの玄関に一旦横付けできます</td>
                 <td className="p-3 font-bold text-amber-600">★4.3（2514件）</td>
                 <td className="p-3 font-bold text-rose-600">¥16,600〜</td>
@@ -327,7 +327,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料駐車場完備（予約不要、３００台駐車可能です）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.24 ／ 立地 ★4.2 ／ 部屋 ★4.26 ／ 設備 ★4.14 ／ 風呂 ★4.26 ／ 食事 ★4.32</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「手作りの料理と丁寧な接客に家族全員大満足孫2名を含む6名で、大部屋に泊まりました。接客も丁寧でとても心地よかったです。特に料理は、手作りで(私たちの判断する限り出来上がり品使用はゼロ)丁寧にできて…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「手作りの料理と丁寧な接客に家族全員大満足孫2名を含む6名で、大部屋に泊まりました。接客も丁寧でとても心地よかったです。」
                   </blockquote>
                 </div>
               </div>
@@ -371,7 +371,7 @@ export default function MicroTouristHubPage() {
                   <p>【宮城・秋保温泉＆作並温泉：仙台奥座敷・磊々峡＆ニッカ】 <strong>【駐車場・マイカー利用】</strong>有り　３０台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「立地と温泉は最高だが備品の清掃に難ありウェルカムスペースは綺麗で新しい感じがしました。スタッフさんの対応も丁寧で感じよく安心して滞在できました。建物自体が古いようでところどころ老朽化は見えまし…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「立地と温泉は最高だが備品の清掃に難ありウェルカムスペースは綺麗で新しい感じがしました。スタッフさんの対応も丁寧で感じよく安心して滞在できました。」
                   </blockquote>
                 </div>
               </div>
@@ -393,7 +393,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　150台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.28 ／ 立地 ★4.24 ／ 部屋 ★4.16 ／ 設備 ★4.12 ／ 風呂 ★4.3 ／ 食事 ★4.38</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「お部屋も大浴場も快適、食事も美味しかった1泊で帰ってしまうのは勿体ないホテルでした。お部屋も使いやすく、2か所の大浴場も快適でした。1つだけ希望を言わせていただくと、ブュッフェには「キッチンワゴン…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「お部屋も大浴場も快適、食事も美味しかった1泊で帰ってしまうのは勿体ないホテルでした。お部屋も使いやすく、2か所の大浴場も快適でした。」
                   </blockquote>
                 </div>
               </div>

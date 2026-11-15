@@ -253,7 +253,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. ＧＬＡＭＰＲＯＯＫしまなみ（グランルーク）</td>
                 <td className="p-3 text-stone-600">愛媛県今治市馬島1006</td>
-                <td className="p-3 text-stone-600">今治駅周辺</td>
+                <td className="p-3 text-stone-600">今治港より送迎車での無料送迎（要予約・先着順）／今治駅より路線バスで約16分 馬島バスストップ下車徒歩10分</td>
                 <td className="p-3 text-stone-600">今治港に専用駐車場10台有(無料) ※馬島へは自家用車での入島はできません(今治港から無料送迎有)</td>
                 <td className="p-3 font-bold text-amber-600">★4.87（319件）</td>
                 <td className="p-3 font-bold text-rose-600">¥21,100〜</td>
@@ -262,7 +262,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 料理旅館せと</td>
                 <td className="p-3 text-stone-600">愛媛県今治市伯方町有津甲1853</td>
-                <td className="p-3 text-stone-600">今治駅周辺</td>
+                <td className="p-3 text-stone-600">今治駅よりお車にて約３５分</td>
                 <td className="p-3 text-stone-600">有り　１０台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.75（40件）</td>
                 <td className="p-3 font-bold text-rose-600">¥15,400〜</td>
@@ -280,7 +280,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 湯ノ浦温泉　汐の丸　瀬戸内の水軍浪漫をたどる宿</td>
                 <td className="p-3 text-stone-600">愛媛県今治市湯ノ浦30番地</td>
-                <td className="p-3 text-stone-600">今治駅周辺</td>
+                <td className="p-3 text-stone-600">今治湯ノ浦ＩＣより車で3分／今治ＩＣより車で20分／松山空港から松山ＩＣより車で約1時間３０分</td>
                 <td className="p-3 text-stone-600">無料駐車場　100台</td>
                 <td className="p-3 font-bold text-amber-600">★4（2215件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,650〜</td>
@@ -289,7 +289,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 道後温泉　旅亭　うめ乃や</td>
                 <td className="p-3 text-stone-600">愛媛県松山市上市2-8-9</td>
-                <td className="p-3 text-stone-600">道後温泉駅周辺</td>
+                <td className="p-3 text-stone-600">伊予鉄松山市駅・JR松山駅から伊予鉄で道後温泉駅へ。道後温泉駅・道後温泉本館から徒歩5分。</td>
                 <td className="p-3 text-stone-600">有り　８台　無料　予約必要</td>
                 <td className="p-3 font-bold text-amber-600">★4.65（137件）</td>
                 <td className="p-3 font-bold text-rose-600">¥25,000〜</td>
@@ -298,7 +298,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">6. 道後温泉　大和屋本店</td>
                 <td className="p-3 text-stone-600">愛媛県松山市道後湯之町20-8</td>
-                <td className="p-3 text-stone-600">松山（愛媛）駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ『松山駅』より車で約20分・松山ＩＣより車で約２０分／松山空港より車で約３０分</td>
                 <td className="p-3 text-stone-600">有り　50台　有料：1泊につき1,000円/1台</td>
                 <td className="p-3 font-bold text-amber-600">★4.62（2248件）</td>
                 <td className="p-3 font-bold text-rose-600">¥14,701〜</td>
@@ -327,7 +327,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>今治港に専用駐車場10台有(無料) ※馬島へは自家用車での入島はできません(今治港から無料送迎有)</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「個室感があり快適、アメニティも充実グランピング側に宿泊すると少し不便が多いですが、個室感を味わえて快適に過ごせました。トイレやお風呂の時にホテル棟へ行かないといけないので雨だと大変かなと思いま…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「個室感があり快適、アメニティも充実グランピング側に宿泊すると少し不便が多いですが、個室感を味わえて快適に過ごせました。」
                   </blockquote>
                 </div>
               </div>
@@ -371,7 +371,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料駐車場有り　10台</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「自転車を室内保管でき、料理と接客も最高自転車旅行で2回目の使用でした。自転車を室内保管して頂けるので助かります。料理はアコウと鯛の刺身が絶品でした。そして中居さんのさっちゃんもw今…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「自転車を室内保管でき、料理と接客も最高自転車旅行で2回目の使用でした。自転車を室内保管して頂けるので助かります。料理はアコウと鯛の刺身が絶品でした。」
                   </blockquote>
                 </div>
               </div>
@@ -393,7 +393,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料駐車場　100台</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋のグレードアップと海の幸に大満足予約した部屋よりグレードアップした和洋室を準備してくださったおかげで広く気持ち良く使わせて頂きました。お料理も海の幸をふんだんに使ってあり大変満足しました。近く…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋のグレードアップと海の幸に大満足予約した部屋よりグレードアップした和洋室を準備してくださったおかげで広く気持ち良く使わせて頂きました。お料理も海の幸をふんだんに使ってあり大変満足しました。」
                   </blockquote>
                 </div>
               </div>
@@ -415,7 +415,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　８台　無料　予約必要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.82 ／ 立地 ★4.76 ／ 部屋 ★4.47 ／ 設備 ★4.35 ／ 風呂 ★4.65 ／ 食事 ★4.88</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「趣ある建物と丁寧な対応、美味しい料理に満足趣きのある建物で、部屋の雰囲気も良かったです。従業員の方々も、どなたも明るく感じの良い対応でした。料理も出汁に拘っておられ、とても美味しく頂きまし…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「趣ある建物と丁寧な対応、美味しい料理に満足趣きのある建物で、部屋の雰囲気も良かったです。従業員の方々も、どなたも明るく感じの良い対応でした。」
                   </blockquote>
                 </div>
               </div>

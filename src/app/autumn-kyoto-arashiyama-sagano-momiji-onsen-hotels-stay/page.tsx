@@ -342,7 +342,7 @@ export default function KyotoArashiyamaAutumnPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 翠嵐ラグジュアリーコレクションホテル京都</td>
                 <td className="p-3 text-stone-600">京都府京都市右京区嵯峨天龍寺芒ノ馬場町12</td>
-                <td className="p-3 text-stone-600">嵐山（京福電気鉄道）駅周辺</td>
+                <td className="p-3 text-stone-600">京福電鉄嵐山本線 嵐山駅 より徒歩約６分 阪急嵐山線 嵐山駅 、JR山陰本線 嵯峨野線 嵯峨嵐山駅 より徒歩約15分</td>
                 <td className="p-3 text-stone-600">有り　9台 3,300円（税込／泊）　要予約</td>
                 <td className="p-3 font-bold text-amber-600">★4.71（31件）</td>
                 <td className="p-3 font-bold text-rose-600">¥64,895〜</td>
@@ -351,7 +351,7 @@ export default function KyotoArashiyamaAutumnPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 京都　嵐山温泉　花伝抄（共立リゾート）（２０２６年５月１日リニューアルオープン）</td>
                 <td className="p-3 text-stone-600">京都府京都市西京区嵐山西一川町5-4</td>
-                <td className="p-3 text-stone-600">嵐山（阪急）駅周辺</td>
+                <td className="p-3 text-stone-600">阪急嵐山線「嵐山駅」より徒歩１分。JR「京都駅」より約30分、阪急「梅田駅」より約50分。</td>
                 <td className="p-3 text-stone-600">全27台  予約不要 / 先着順  有料※満車の場合、周辺コインパーキングをご利用下さい。</td>
                 <td className="p-3 font-bold text-amber-600">★4.47（1986件）</td>
                 <td className="p-3 font-bold text-rose-600">¥19,600〜</td>
@@ -360,7 +360,7 @@ export default function KyotoArashiyamaAutumnPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 京都嵐山　花のいえ</td>
                 <td className="p-3 text-stone-600">京都府京都市右京区嵯峨天龍寺角倉町9</td>
-                <td className="p-3 text-stone-600">嵯峨嵐山駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ嵯峨野線（山陰線）「嵯峨嵐山」駅南口より徒歩７分／阪急電車嵐山線「嵐山」駅より徒歩１２分</td>
                 <td className="p-3 text-stone-600">有り　12台　令和8年12月末まで無料　先着順（令和9年1月より駐車料金1台1泊につき1000円）</td>
                 <td className="p-3 font-bold text-amber-600">★4.43（114件）</td>
                 <td className="p-3 font-bold text-rose-600">¥12,644〜</td>
@@ -369,7 +369,7 @@ export default function KyotoArashiyamaAutumnPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 嵐山温泉彩四季の宿　花筏</td>
                 <td className="p-3 text-stone-600">京都府京都市西京区嵐山中尾下町57</td>
-                <td className="p-3 text-stone-600">嵯峨嵐山駅周辺</td>
+                <td className="p-3 text-stone-600">阪急嵐山駅より徒歩５分（渡月橋渡らず）、ＪＲ嵯峨嵐山駅より徒歩約１５分(渡月橋渡る)。JR京都駅３０分、阪急梅田駅５０分</td>
                 <td className="p-3 text-stone-600">有り　１０台　無料　要予約。最寄りICは大原野IC(花筏まで１５分）</td>
                 <td className="p-3 font-bold text-amber-600">★4.29（318件）</td>
                 <td className="p-3 font-bold text-rose-600">¥26,400〜</td>
@@ -378,7 +378,7 @@ export default function KyotoArashiyamaAutumnPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. ホテル　ビナリオ嵯峨嵐山</td>
                 <td className="p-3 text-stone-600">京都府京都市右京区嵯峨天龍寺広道町3-4　社会福祉法人全国手話研修センター「コミュニティ嵯峨野」内</td>
-                <td className="p-3 text-stone-600">嵯峨嵐山駅周辺</td>
+                <td className="p-3 text-stone-600">JR嵯峨嵐山駅・トロッコ嵯峨駅：徒歩約1分、嵐電・嵯峨駅：徒歩約3分、JR京都駅から快速約12分</td>
                 <td className="p-3 text-stone-600">屋外15台【高さ制限なし、無料先着順でのご案内※宿泊当日午後〜チェックアウトまで】</td>
                 <td className="p-3 font-bold text-amber-600">★4.23（923件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,240〜</td>
@@ -429,7 +429,7 @@ export default function KyotoArashiyamaAutumnPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>全27台  予約不要 / 先着順  有料※満車の場合、周辺コインパーキングをご利用下さい。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.42 ／ 立地 ★4.5 ／ 部屋 ★4.49 ／ 設備 ★4.46 ／ 風呂 ★4.39 ／ 食事 ★4.47</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「料理も温泉も最高、京都観光の拠点に最適料理は丁寧に可愛く一口サイズで多種に渡り朝も晩もとても美味しくお風呂は家族風呂も気軽に全5種類入る事が出来るシステムで本当に駅のまん前で観光もし易くとても…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「料理も温泉も最高、京都観光の拠点に最適料理は丁寧に可愛く一口サイズで多種に渡り朝も晩もとても美味しくお風呂は家族風呂も気軽に全5種類入る事が出来るシステムで本当に駅のまん前で観光もし易くとても。」
                   </blockquote>
                 </div>
               </div>
@@ -451,7 +451,7 @@ export default function KyotoArashiyamaAutumnPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　12台　令和8年12月末まで無料　先着順（令和9年1月より駐車料金1台1泊につき1000円）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.51 ／ 立地 ★4.62 ／ 部屋 ★4.36 ／ 設備 ★4.28 ／ 風呂 ★4.26 ／ 食事 ★4.67</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「渡月橋近くの好立地、朝食と温泉に大満足渡月橋からすぐ近く、とてもロケーションの良いお宿だと思います。お風呂もゆっくり入れました。良いお湯だと思います。朝食はお部屋の雰囲気がとても良く、…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「渡月橋近くの好立地、朝食と温泉に大満足渡月橋からすぐ近く、とてもロケーションの良いお宿だと思います。お風呂もゆっくり入れました。良いお湯だと思います。」
                   </blockquote>
                 </div>
               </div>
@@ -473,7 +473,7 @@ export default function KyotoArashiyamaAutumnPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１０台　無料　要予約。最寄りICは大原野IC(花筏まで１５分）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.2 ／ 立地 ★4.48 ／ 部屋 ★4.2 ／ 設備 ★3.98 ／ 風呂 ★4.14 ／ 食事 ★4.59</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋風呂と食事に大満足、最高の思い出に9月11日に5名で宿泊させて頂きました。部屋も綺麗で女性陣の部屋には風呂付きで予約したのですが話を聞くとかなり良い部屋風呂だったみたく大浴場には一度も行かず部…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋風呂と食事に大満足、最高の思い出に9月11日に5名で宿泊させて頂きました。」
                   </blockquote>
                 </div>
               </div>
@@ -495,7 +495,7 @@ export default function KyotoArashiyamaAutumnPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>屋外15台【高さ制限なし、無料先着順でのご案内※宿泊当日午後〜チェックアウトまで】</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.23 ／ 立地 ★4.31 ／ 部屋 ★4.04 ／ 設備 ★4.05 ／ 風呂 ★4.04 ／ 食事 ★4.38</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近で便利、スタッフの丁寧な対応に感謝JR嵯峨嵐山駅から本当に近くて便利でした。設備の古さは感じますが、お部屋もお風呂も清潔でした。宿泊前から問い合わせや相談など何回かお電話させていただきまし…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近で便利、スタッフの丁寧な対応に感謝JR嵯峨嵐山駅から本当に近くて便利でした。設備の古さは感じますが、お部屋もお風呂も清潔でした。」
                   </blockquote>
                 </div>
               </div>

@@ -401,7 +401,7 @@ export default function AutumnBudgetHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. グリーンリッチホテル米子駅前　人工温泉・二股湯の華</td>
                 <td className="p-3 text-stone-600">鳥取県米子市明治町175</td>
-                <td className="p-3 text-stone-600">米子駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ米子駅北口より徒歩にて約３分／山陰道 米子中ＩＣよりお車にて約４分／米子鬼太郎空港より空港リムジンバスにて約２５分</td>
                 <td className="p-3 text-stone-600">有り　２３台（1000円/1泊）　先着順　※満車の場合は、お近くの駐車場をご案内いたします。</td>
                 <td className="p-3 font-bold text-amber-600">★4.27（726件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,100〜</td>
@@ -410,7 +410,7 @@ export default function AutumnBudgetHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 東横ＩＮＮ米子駅前</td>
                 <td className="p-3 text-stone-600">鳥取県米子市明治町100</td>
-                <td className="p-3 text-stone-600">米子駅周辺</td>
+                <td className="p-3 text-stone-600">JR山陰本線米子駅北口から徒歩2分</td>
                 <td className="p-3 text-stone-600">駐車場有　車70台（700円/1泊）、大型バス1台駐車可（詳細はホテルへお問い合わせください）</td>
                 <td className="p-3 font-bold text-amber-600">★3.92（767件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,883〜</td>
@@ -419,7 +419,7 @@ export default function AutumnBudgetHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. スーパーホテル米子駅前</td>
                 <td className="p-3 text-stone-600">鳥取県米子市万能町112番地</td>
-                <td className="p-3 text-stone-600">米子駅周辺</td>
+                <td className="p-3 text-stone-600">JR米子駅より徒歩2分／米子空港より空港の有料シャトルバスで30分／コンベンションセンターまで徒歩５分</td>
                 <td className="p-3 text-stone-600">提携駐車場３０台（予約不可の先着順）。１泊５００円（税込み）高さ制限2ｍ。途中入出庫不可</td>
                 <td className="p-3 font-bold text-amber-600">★4.05（2339件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,710〜</td>
@@ -428,7 +428,7 @@ export default function AutumnBudgetHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. ホテルハーベストイン米子</td>
                 <td className="p-3 text-stone-600">鳥取県米子市弥生町8-27</td>
-                <td className="p-3 text-stone-600">米子駅周辺</td>
+                <td className="p-3 text-stone-600">米子駅/バスターミナルより徒歩1分。米子空港よりシャトルバスにて２５分。 米子道米子ＩＣより車で１０分。</td>
                 <td className="p-3 text-stone-600">契約40台【有料1台800円/泊】隣接：弥生町有料駐車場・日本交通立体駐車場　満車時近隣案内</td>
                 <td className="p-3 font-bold text-amber-600">★4.05（3250件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,180〜</td>
@@ -437,7 +437,7 @@ export default function AutumnBudgetHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. ホテルフロンティア米子</td>
                 <td className="p-3 text-stone-600">鳥取県米子市明治町127</td>
-                <td className="p-3 text-stone-600">米子駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ 米子駅より徒歩約１分／米子空港からバスで約３０分／米子ＩＣから車で１５分</td>
                 <td className="p-3 text-stone-600">13台／予約不可・先着順　※8/7　20：00〜8/9　8：00まで利用不可（米子がいな祭の為）</td>
                 <td className="p-3 font-bold text-amber-600">★3.04（281件）</td>
                 <td className="p-3 font-bold text-rose-600">¥2,500〜</td>
@@ -466,7 +466,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２３台（1000円/1泊）　先着順　※満車の場合は、お近くの駐車場をご案内いたします。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋は清潔でパンが絶品、駐車場は少し難あり部屋は清潔で真新しく設備も整っていたので快適に過ごせました。お風呂はビジネスホテルによくある大きさでしたが、米子や鳥取では当たり前なのか洗顔が置か…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋は清潔でパンが絶品、駐車場は少し難あり部屋は清潔で真新しく設備も整っていたので快適に過ごせました。」
                   </blockquote>
                 </div>
               </div>
@@ -532,7 +532,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>契約40台【有料1台800円/泊】隣接：弥生町有料駐車場・日本交通立体駐車場　満車時近隣案内</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.07 ／ 立地 ★4.12 ／ 部屋 ★4.01 ／ 設備 ★3.93 ／ 風呂 ★3.92</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近でアクセス抜群、朝食も美味しく快適出張のたびにこちらに宿泊しています。駅前にあるのでアクセスもよく、スタッフの方も親切で、お部屋も清潔感があります。朝食は1階の居酒屋さん?でバイキング…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近でアクセス抜群、朝食も美味しく快適出張のたびにこちらに宿泊しています。駅前にあるのでアクセスもよく、スタッフの方も親切で、お部屋も清潔感があります。」
                   </blockquote>
                 </div>
               </div>
@@ -554,7 +554,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>13台／予約不可・先着順　※8/7　20：00〜8/9　8：00まで利用不可（米子がいな祭の為）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.05 ／ 立地 ★3.26 ／ 部屋 ★3 ／ 設備 ★2.93 ／ 風呂 ★2.92</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駐車場は空いていたが清掃と防音に難あり鳥取砂丘から米子に移動し、無料駐車場が狭いですが空いていたのは良かった。退室前の忘れ物チェック時に前の方のか、ベッド下からごみ袋が出てきたのと角部屋で…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駐車場は空いていたが清掃と防音に難あり鳥取砂丘から米子に移動し、無料駐車場が狭いですが空いていたのは良かった。」
                   </blockquote>
                 </div>
               </div>

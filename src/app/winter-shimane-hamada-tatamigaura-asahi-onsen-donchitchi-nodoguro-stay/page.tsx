@@ -312,7 +312,7 @@ export default function Page() {
 
                 <div className="bg-amber-50/70 border border-amber-200/60 rounded-xl p-3 text-xs text-stone-700">
                   <span className="font-bold text-amber-900 mr-1">宿泊者の声：</span>
-                  <span>{"「地元食材の朝食は美味、もう少しボリュームが欲しい朝食に地元食材を使い、それぞれの説明も印刷したものがあり分かりやすかったしおいしかったです。ぼりゅむがもう少しあると良かったです。クチコミの詳細」"}</span>
+                  <span>{"「地元食材の朝食は美味、もう少しボリュームが欲しい朝食に地元食材を使い、それぞれの説明も印刷したものがあり分かりやすかったしおいしかったです。ぼりゅむがもう少しあると良かったです。」"}</span>
                 </div>
 
                 <div className="pt-2 flex flex-col sm:flex-row sm:items-center justify-between gap-3 border-t border-stone-100">

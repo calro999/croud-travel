@@ -284,7 +284,7 @@ export default function HokkaidoBudgetGuide() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. ベッセルホテルカンパーナすすきの｜サウナ付大浴場（札幌・すすきの）</td>
                 <td className="p-3 text-stone-600">北海道札幌市中央区南五条西6-16-1</td>
-                <td className="p-3 text-stone-600">すすきの駅周辺</td>
+                <td className="p-3 text-stone-600">すすきの駅より徒歩にて約４分</td>
                 <td className="p-3 text-stone-600">立体駐車場(先着順)／８０台１5００円（税込／泊）　平面駐車場(要予約)／２台１５００円(税込／泊)</td>
                 <td className="p-3 font-bold text-amber-600">★4.59（738件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,866〜</td>
@@ -293,7 +293,7 @@ export default function HokkaidoBudgetGuide() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 札幌定山渓天然温泉大浴場付Ｍａｘ６人＇ＭＯＬＩＮ５０６＇－札幌国際スキー場まで２０分－／民泊</td>
                 <td className="p-3 text-stone-600">北海道札幌市南区定山渓温泉西2-45-1　ライオンズマンション参-館506号室</td>
-                <td className="p-3 text-stone-600">札幌駅周辺</td>
+                <td className="p-3 text-stone-600">電車事業所前駅から車で約３５分</td>
                 <td className="p-3 text-stone-600">有り</td>
                 <td className="p-3 font-bold text-amber-600">高評価</td>
                 <td className="p-3 font-bold text-rose-600">¥5,267〜</td>
@@ -302,7 +302,7 @@ export default function HokkaidoBudgetGuide() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. クロスホテル札幌（オリックスホテルズ＆リゾーツ）</td>
                 <td className="p-3 text-stone-600">北海道札幌市中央区北2条西2-23</td>
-                <td className="p-3 text-stone-600">札幌駅周辺</td>
+                <td className="p-3 text-stone-600">札幌駅・大通駅から徒歩5分。ビジネスにも観光にも便利な好立地。札幌駅前通地下歩行空間「3番出口」から徒歩3分。</td>
                 <td className="p-3 text-stone-600">１泊1,500円（先着順・予約不可）※詳細情報のその他欄をご確認下さい。</td>
                 <td className="p-3 font-bold text-amber-600">★4.43（2109件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,700〜</td>
@@ -311,7 +311,7 @@ export default function HokkaidoBudgetGuide() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 函館・湯の川温泉　ホテル万惣（オリックスホテルズ＆リゾーツ）</td>
                 <td className="p-3 text-stone-600">北海道函館市湯川町1-15-3</td>
-                <td className="p-3 text-stone-600">函館駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ函館駅より車で15分、函館空港より車で10分。湯の川温泉電停より徒歩5分</td>
                 <td className="p-3 text-stone-600">有り 90台 無料 予約不要 （マイクロバス・キャンピングカー可）</td>
                 <td className="p-3 font-bold text-amber-600">★4.42（1309件）</td>
                 <td className="p-3 font-bold text-rose-600">¥10,950〜</td>
@@ -320,7 +320,7 @@ export default function HokkaidoBudgetGuide() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. ホテルグローバルビュー函館（旧天然温泉　ホテルパコ函館）</td>
                 <td className="p-3 text-stone-600">北海道函館市大森町25-3</td>
-                <td className="p-3 text-stone-600">函館駅周辺</td>
+                <td className="p-3 text-stone-600">◆ＪＲ函館駅中央口より徒歩約13分◆ ◆函館空港より、シャトルバスで約２０分。バス停「大森町」下車◆</td>
                 <td className="p-3 text-stone-600">青空駐車場200台以上完備★　1泊550円（税込）※トラック・バス等の大型車不可</td>
                 <td className="p-3 font-bold text-amber-600">★4.23（7055件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,496〜</td>
@@ -329,7 +329,7 @@ export default function HokkaidoBudgetGuide() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">6. 天然温泉　漁火の湯　スーパーホテル函館</td>
                 <td className="p-3 text-stone-600">北海道函館市松風町1-10</td>
-                <td className="p-3 text-stone-600">函館駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ 函館駅より徒歩７分／函館空港より函館駅行きシャトルバスにて「大森町」下車、徒歩１分/コンビニまで徒歩１分</td>
                 <td className="p-3 text-stone-600">有り　４２台　５００円（税込み／泊）　当日来館先着到着順のご案内</td>
                 <td className="p-3 font-bold text-amber-600">★4.23（1844件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,250〜</td>
@@ -358,7 +358,7 @@ export default function HokkaidoBudgetGuide() {
                   <p><strong>【駐車場・マイカー利用】</strong>立体駐車場(先着順)／８０台１5００円（税込／泊）　平面駐車場(要予約)／２台１５００円(税込／泊)</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「清潔感ある部屋と高級感あるエントランスお部屋の使い勝手が良かったです。コンパクトで、清潔感もありました。大浴場も空いてる時間に入ったので良かったです。ホテルのエントランスが高級感ありました。機会が…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「清潔感ある部屋と高級感あるエントランスお部屋の使い勝手が良かったです。コンパクトで、清潔感もありました。大浴場も空いてる時間に入ったので良かったです。ホテルのエントランスが高級感ありました。」
                   </blockquote>
                 </div>
               </div>
@@ -402,7 +402,7 @@ export default function HokkaidoBudgetGuide() {
                   <p><strong>【駐車場・マイカー利用】</strong>１泊1,500円（先着順・予約不可）※詳細情報のその他欄をご確認下さい。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.49 ／ 立地 ★4.4 ／ 部屋 ★4.45 ／ 設備 ★4.38 ／ 風呂 ★4.33</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの対応とフリーフローの質が最高受付の韓国人(?)の女性スタッフがとても親切で良かった。ありがとうございました。フリーフローのアルコールのクオリティーが高いと思います。余市のワインが飲め…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの対応とフリーフローの質が最高受付の韓国人(?)の女性スタッフがとても親切で良かった。ありがとうございました。フリーフローのアルコールのクオリティーが高いと思います。」
                   </blockquote>
                 </div>
               </div>
@@ -424,7 +424,7 @@ export default function HokkaidoBudgetGuide() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り 90台 無料 予約不要 （マイクロバス・キャンピングカー可）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「到着遅れにも的確な対応で夕食に間に合った8月7日に娘夫婦と4人で利用しました。函館着の最終便が50分ほど遅れたため、夕食時間ギリギリにホテルに到着しました。チェックインより先に食事に行くよう促され…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「到着遅れにも的確な対応で夕食に間に合った8月7日に娘夫婦と4人で利用しました。函館着の最終便が50分ほど遅れたため、夕食時間ギリギリにホテルに到着しました。」
                   </blockquote>
                 </div>
               </div>
@@ -468,7 +468,7 @@ export default function HokkaidoBudgetGuide() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　４２台　５００円（税込み／泊）　当日来館先着到着順のご案内</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スープカレーと塩辛が絶品、また利用したい朝食のスープカレー目当てで宿泊しました。ホテルはバス停も市電にも近く、函館駅にも徒歩で行ける距離です。ホテルも部屋清潔で、快適に過ごせました。ウ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スープカレーと塩辛が絶品、また利用したい朝食のスープカレー目当てで宿泊しました。ホテルはバス停も市電にも近く、函館駅にも徒歩で行ける距離です。ホテルも部屋清潔で、快適に過ごせました。」
                   </blockquote>
                 </div>
               </div>

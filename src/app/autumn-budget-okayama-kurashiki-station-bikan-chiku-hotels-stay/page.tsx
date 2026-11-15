@@ -401,7 +401,7 @@ export default function AutumnBudgetHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. アパホテル〈倉敷駅前〉</td>
                 <td className="p-3 text-stone-600">岡山県倉敷市阿知1-7-2 JR倉敷駅前西ビル9階-12階</td>
-                <td className="p-3 text-stone-600">倉敷駅周辺</td>
+                <td className="p-3 text-stone-600">倉敷駅南口から徒歩1分！駅1階からお越しになれば雨の日も快適チェックイン。</td>
                 <td className="p-3 text-stone-600">提携駐車場『カモ井パーキング』24時間1,000円（フロント精算）※途中出庫不可・到着順案内</td>
                 <td className="p-3 font-bold text-amber-600">★3.96（3369件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,591〜</td>
@@ -410,7 +410,7 @@ export default function AutumnBudgetHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. ホテルリブマックス岡山倉敷駅前</td>
                 <td className="p-3 text-stone-600">岡山県倉敷市阿知1-5-13</td>
-                <td className="p-3 text-stone-600">倉敷駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ山陽本線 倉敷駅より徒歩2分♪</td>
                 <td className="p-3 text-stone-600">近隣にコインパーキングあり</td>
                 <td className="p-3 font-bold text-amber-600">★4（230件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,188〜</td>
@@ -419,7 +419,7 @@ export default function AutumnBudgetHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 東横ＩＮＮ倉敷駅南口</td>
                 <td className="p-3 text-stone-600">岡山県倉敷市阿知2-10-20</td>
-                <td className="p-3 text-stone-600">倉敷駅周辺</td>
+                <td className="p-3 text-stone-600">JR倉敷駅より美観地区方面に徒歩5分</td>
                 <td className="p-3 text-stone-600">駐車場有　1泊￥700　立体駐車場（32台）　先着順　高さ制限有：155cmまで</td>
                 <td className="p-3 font-bold text-amber-600">★4.09（580件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,040〜</td>
@@ -428,7 +428,7 @@ export default function AutumnBudgetHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 倉敷駅前ユニバーサルホテル（ユニバーサルホテルチェーン）</td>
                 <td className="p-3 text-stone-600">岡山県倉敷市中央2-1-15</td>
-                <td className="p-3 text-stone-600">倉敷駅周辺</td>
+                <td className="p-3 text-stone-600">倉敷駅より800ｍ</td>
                 <td className="p-3 text-stone-600">有り　1泊1,100円（税込　16時〜翌日10時）　予約不可先着順　※10時〜16時は」別途料金発生</td>
                 <td className="p-3 font-bold text-amber-600">★3.89（1913件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,155〜</td>
@@ -479,7 +479,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>近隣にコインパーキングあり</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.86 ／ 立地 ★4 ／ 部屋 ★4.02 ／ 設備 ★3.87 ／ 風呂 ★3.77</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近で観光にも便利、出張の定宿に最適倉敷駅から近く、スーパー、商店街とも近く飲食に困りません。美観地区までも徒歩圏内ですので観光にも最適です。出張時にはまた利用させてもらいます。クチコミの詳細…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近で観光にも便利、出張の定宿に最適倉敷駅から近く、スーパー、商店街とも近く飲食に困りません。美観地区までも徒歩圏内ですので観光にも最適です。出張時にはまた利用させてもらいます。」
                   </blockquote>
                 </div>
               </div>
@@ -501,7 +501,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>駐車場有　1泊￥700　立体駐車場（32台）　先着順　高さ制限有：155cmまで</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.08 ／ 立地 ★4.03 ／ 部屋 ★4.03 ／ 設備 ★4.02 ／ 風呂 ★3.93 ／ 食事 ★4.04</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「観光に便利な立地、エレベーター音は少し気になる倉敷の馬関地区に近く、観光目的の方にはおすすめです。また飲食店も近隣に多数あり、便利です。宿泊当日に最後の1室を予約したためか、エレベーターの…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「観光に便利な立地、エレベーター音は少し気になる倉敷の馬関地区に近く、観光目的の方にはおすすめです。また飲食店も近隣に多数あり、便利です。」
                   </blockquote>
                 </div>
               </div>

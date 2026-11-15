@@ -277,7 +277,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 城崎温泉　みつわ旅館</td>
                 <td className="p-3 text-stone-600">兵庫県豊岡市城崎町湯島220</td>
-                <td className="p-3 text-stone-600">城崎駅周辺</td>
+                <td className="p-3 text-stone-600">山陰本線 城崎温泉駅より徒歩２～３分</td>
                 <td className="p-3 text-stone-600">無料　専用駐車場あり※徒歩５分かかり各自移動。遠くて狭くて見つけにくい。</td>
                 <td className="p-3 font-bold text-amber-600">★4.88（212件）</td>
                 <td className="p-3 font-bold text-rose-600">¥9,350〜</td>
@@ -295,7 +295,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 城崎温泉　風月魚匠（ふうげつぎょしょう）</td>
                 <td className="p-3 text-stone-600">兵庫県豊岡市城崎町湯島636-1</td>
-                <td className="p-3 text-stone-600">ＪＲ：城崎温泉駅より徒歩20分/旅館組合乗合送迎バスあり　お車：北近畿</td>
+                <td className="p-3 text-stone-600">ＪＲ：城崎温泉駅より徒歩20分/旅館組合乗合送迎バスあり お車：北近畿豊岡道 豊岡出石ICでお降り下さい</td>
                 <td className="p-3 text-stone-600">無料駐車場有　（10台予約不要）</td>
                 <td className="p-3 font-bold text-amber-600">★4.62（789件）</td>
                 <td className="p-3 font-bold text-rose-600">¥15,400〜</td>
@@ -304,7 +304,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">6. 城崎　円山川温泉　銀花（共立リゾート）</td>
                 <td className="p-3 text-stone-600">兵庫県豊岡市小島1177</td>
-                <td className="p-3 text-stone-600">JR城崎温泉駅より車10分（14：15～21：45まで送迎有。※予約制</td>
+                <td className="p-3 text-stone-600">JR城崎温泉駅より車10分（14：15～21：45まで送迎有。※予約制）。北近畿豊岡道【豊岡・出石IC】より約30分</td>
                 <td className="p-3 text-stone-600">有り（15台、無料）到着時、旅館門前にお車をお寄せください。スタッフが移動させます。</td>
                 <td className="p-3 font-bold text-amber-600">★4.7（464件）</td>
                 <td className="p-3 font-bold text-rose-600">¥16,500〜</td>
@@ -421,7 +421,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料駐車場有　（10台予約不要）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「教えたくないほどお気に入りの場所いろんなところに旅行に行っていますが今のところ自分の1番気に入っている宿などで今回は結婚が決まり最初の旅行で旅行に行くならここに行きたいと思っていてやはり今…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「教えたくないほどお気に入りの場所いろんなところに旅行に行っていますが今のところ自分の1番気に入っている宿などで今回は結婚が決まり最初の旅行で旅行に行くならここに行きたいと思っていてやはり今。」
                   </blockquote>
                 </div>
               </div>

@@ -392,8 +392,8 @@ export default function ArticlePage() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 宮島口駅よりアクセス。宮島口駅よりフェリーで約10分。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「宮島潮湯温泉 錦水館」にチェックイン。★2025年、温泉付スイートOPEN！●ルーフトップテラス・半露天風呂付客室・お部屋食プランも人気などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「宮島潮湯温泉 錦水館」の湯処へ。★2025年、温泉付スイートOPEN！●ルーフトップテラス・半露天風呂とともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「宮島潮湯温泉 錦水館」にチェックイン。★2025年、温泉付スイートOPEN！●ルーフトップテラス・半露天風呂付客室・お部屋食プランも人気 客室で荷物をほどき、旅の疲れをゆっくり解きほぐす。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「宮島潮湯温泉 錦水館」の大浴場・露天風呂へ。日暮れの風情に包まれながらゆっくりと湯浴みを楽しむ。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「宮島潮湯温泉 錦水館」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -405,7 +405,7 @@ export default function ArticlePage() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「宮島潮湯温泉 錦水館」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「宮島潮湯温泉 錦水館」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「みやじまの宿 岩惣」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は「宮島潮湯温泉 錦水館」周辺の観光スポットや地元の名産店に立ち寄り、お土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>
@@ -442,28 +442,28 @@ export default function ArticlePage() {
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
             <div className="flex flex-wrap gap-2">
               <Link
-                href="/prefectures/wakayama/"
+                href="/prefectures/hiroshima/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                和歌山県の宿・温泉
+                広島県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/ehime/"
+                href="/prefectures/okayama/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                愛媛県の宿・温泉
+                岡山県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/kagawa/"
+                href="/prefectures/shimane/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                香川県の宿・温泉
+                島根県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/toyama/"
+                href="/prefectures/tottori/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                富山県の宿・温泉
+                鳥取県の宿・温泉
               </Link>
             </div>
           
@@ -504,7 +504,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 宮島潮湯温泉　錦水館</td>
                 <td className="p-3 text-stone-600">広島県廿日市市宮島町1133</td>
-                <td className="p-3 text-stone-600">宮島口駅周辺</td>
+                <td className="p-3 text-stone-600">宮島口駅よりフェリーで約10分。宮島桟橋より徒歩5分</td>
                 <td className="p-3 text-stone-600">有り：4台。島内は交通規制がございますので、できるだけ宮島口の有料駐車場をご利用下さい。</td>
                 <td className="p-3 font-bold text-amber-600">★4.68（1062件）</td>
                 <td className="p-3 font-bold text-rose-600">¥36,100〜</td>
@@ -522,7 +522,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 宮島コーラルホテル</td>
                 <td className="p-3 text-stone-600">広島県廿日市市宮島口1-9-8</td>
-                <td className="p-3 text-stone-600">宮島口駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ宮島口駅下車　徒歩5分・広島電鉄宮島口駅下車　徒歩３分</td>
                 <td className="p-3 text-stone-600">有り　55台　到着日の15時〜出立日の正午まで無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.28（2049件）</td>
                 <td className="p-3 font-bold text-rose-600">¥11,550〜</td>
@@ -551,7 +551,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り：4台。島内は交通規制がございますので、できるだけ宮島口の有料駐車場をご利用下さい。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.75 ／ 立地 ★4.77 ／ 部屋 ★4.63 ／ 設備 ★4.68 ／ 風呂 ★4.43 ／ 食事 ★4.67</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「お食事に大満足!部屋から厳島神社の大鳥居が見えるので、雰囲気はバッチリ!屋上からのサンセットも素敵でした。中でもお食事が美味しくて、牡蠣の西京味噌焼きは絶品。宮島島で食べ歩きしすぎない…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「お食事に大満足!部屋から厳島神社の大鳥居が見えるので、雰囲気はバッチリ!屋上からのサンセットも素敵でした。中でもお食事が美味しくて、牡蠣の西京味噌焼きは絶品。」
                   </blockquote>
                 </div>
               </div>

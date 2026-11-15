@@ -565,8 +565,8 @@ export default function FeatureDetailPage() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 篠山口駅よりアクセス。ＪＲ福知山線 篠山口駅よりお車で約15分/舞鶴若狭自動車道 丹南篠山口よりお車で約10分。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「丹波篠山・料理旅館 たかさご」にチェックイン。今から約１６０年前の嘉永元年に開業。篠山観光の中心に位置し、観光拠点にもオススメの老舗旅館。などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「丹波篠山・料理旅館 たかさご」の湯処へ。今から約１６０年前の嘉永元年に開業。篠山観光の中心に位置し、観光拠点にとともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「丹波篠山・料理旅館 たかさご」にチェックイン。今から約１６０年前の嘉永元年に開業。篠山観光の中心に位置し、観光拠点にもオススメの老舗旅館。 窓外に広がる景色を眺めながらチェックイン後の寛ぎ時間を。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「丹波篠山・料理旅館 たかさご」の大浴場・露天風呂へ。日暮れの静けさの中で湯に浸かり、旅の緊張をゆっくりと解きほぐす。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「丹波篠山・料理旅館 たかさご」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -578,7 +578,7 @@ export default function FeatureDetailPage() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「丹波篠山・料理旅館 たかさご」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「丹波篠山・料理旅館 たかさご」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「丹波篠山 近又」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は宿周辺の散策とショッピングを満喫。地元の名産品やグルメを味わってから余裕をもって帰路につく。</li>
               </ul>
             </div>
           </div>
@@ -706,7 +706,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 丹波篠山・料理旅館　たかさご</td>
                 <td className="p-3 text-stone-600">兵庫県丹波篠山市二階町6</td>
-                <td className="p-3 text-stone-600">篠山口駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ福知山線 篠山口駅よりお車で約15分/舞鶴若狭自動車道 丹南篠山口よりお車で約10分</td>
                 <td className="p-3 text-stone-600">有り　４台まで先着無料。満車の場合は、(有料 500円/1日)</td>
                 <td className="p-3 font-bold text-amber-600">★4（4件）</td>
                 <td className="p-3 font-bold text-rose-600">¥24,600〜</td>
@@ -715,7 +715,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 丹波篠山　近又</td>
                 <td className="p-3 text-stone-600">兵庫県丹波篠山市二階町81</td>
-                <td className="p-3 text-stone-600">篠山口駅周辺</td>
+                <td className="p-3 text-stone-600">舞鶴若狭自動車道「丹南篠山口I.C」より3km/JR福知山線「篠山口」駅よりバス約15分</td>
                 <td className="p-3 text-stone-600">有り　4台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.42（88件）</td>
                 <td className="p-3 font-bold text-rose-600">¥15,600〜</td>
@@ -724,7 +724,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 丹波篠山　潯陽楼</td>
                 <td className="p-3 text-stone-600">兵庫県丹波篠山市二階町79</td>
-                <td className="p-3 text-stone-600">篠山口駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ福知山線 篠山口駅よりバスで１０分、二階町バス停下車すぐ</td>
                 <td className="p-3 text-stone-600">有り　１１台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.5（50件）</td>
                 <td className="p-3 font-bold text-rose-600">¥13,500〜</td>
@@ -733,7 +733,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 生駒のお宿　城山旅館</td>
                 <td className="p-3 text-stone-600">奈良県生駒市門前町15-12</td>
-                <td className="p-3 text-stone-600">近鉄ケーブル線宝山寺駅から徒歩5分/近鉄生駒駅から車またはタクシーで5</td>
+                <td className="p-3 text-stone-600">近鉄ケーブル線宝山寺駅から徒歩5分/近鉄生駒駅から車またはタクシーで5分/第二阪奈壱分ICから15分</td>
                 <td className="p-3 text-stone-600">駐車場（2台）はアルス駐車場（生駒市門前町16-52）26・27番/その他旅館組合の駐車場あり　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4（119件）</td>
                 <td className="p-3 font-bold text-rose-600">¥9,100〜</td>
@@ -742,7 +742,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. ｔａｎｏｓｈｉｃ　ｒｅｓｏｒｔ　西紀荘</td>
                 <td className="p-3 text-stone-600">兵庫県丹波篠山市遠方122-1</td>
-                <td className="p-3 text-stone-600">篠山口駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ 篠山口駅より神姫バスで３０分</td>
                 <td className="p-3 text-stone-600">有り　40台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★3.89（218件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,940〜</td>
@@ -793,7 +793,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　4台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「篠山の由緒ある旅館400年の老舗旅館。篠山城に近く一番にぎやかな通りに位置しており、歴史ある街歩きを楽しめました。夕食のボタン鍋はしっ地元のお野菜たくさんで、しっかり味噌味でしたが胃にももたれずと…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「篠山の由緒ある旅館400年の老舗旅館。篠山城に近く一番にぎやかな通りに位置しており、歴史ある街歩きを楽しめました。」
                   </blockquote>
                 </div>
               </div>
@@ -859,7 +859,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　40台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.95 ／ 立地 ★3.84 ／ 部屋 ★4.03 ／ 設備 ★3.86 ／ 風呂 ★3.79 ／ 食事 ★3.94</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「リニューアルでオシャレな温泉宿に変身!10年ぶりに利用しました。リニューアルされて綺麗、快適田舎の温泉宿(失礼)が、、オシャレなSPAに変身(^O^)温泉が24時間利用できるの…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「リニューアルでオシャレな温泉宿に変身!10年ぶりに利用しました。」
                   </blockquote>
                 </div>
               </div>

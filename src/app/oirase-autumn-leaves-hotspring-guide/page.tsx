@@ -513,7 +513,7 @@ export default function OiraseAutumnLeavesHotspringPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 奥入瀬渓流ホテル　ｂｙ　星野リゾート</td>
                 <td className="p-3 text-stone-600">青森県十和田市奥瀬栃久保231</td>
-                <td className="p-3 text-stone-600">八戸駅周辺</td>
+                <td className="p-3 text-stone-600">東北新幹線 八戸駅／無料送迎バス（要予約）、青森駅／有料送迎バス（要予約）、ＪＲバス 十和田湖行き、奥入瀬渓流館下車</td>
                 <td className="p-3 text-stone-600">有り　１００台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.28（1276件）</td>
                 <td className="p-3 font-bold text-rose-600">¥29,500〜</td>
@@ -522,7 +522,7 @@ export default function OiraseAutumnLeavesHotspringPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 八甲田城ヶ倉温泉　ホテル城ヶ倉－ＨＯＴＥＬ　Ｊｏｇａｋｕｒａ－</td>
                 <td className="p-3 text-stone-600">青森県青森市荒川八甲田山中</td>
-                <td className="p-3 text-stone-600">青森駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ 青森駅よりＪＲバス十和田湖行き乗車後、城ヶ倉温泉前にて下車</td>
                 <td className="p-3 text-stone-600">有り　１００台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.51（403件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,200〜</td>
@@ -531,7 +531,7 @@ export default function OiraseAutumnLeavesHotspringPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 八幡平温泉郷　八幡平高原ホテル</td>
                 <td className="p-3 text-stone-600">秋田県鹿角市八幡平字熊沢国有林３１３３林班ハ小班</td>
-                <td className="p-3 text-stone-600">鹿角花輪駅周辺</td>
+                <td className="p-3 text-stone-600">【東北自動車道】 松尾八幡平I.Cより県道23号線約55分／鹿角八幡平I.Cより車で約30分</td>
                 <td className="p-3 text-stone-600">有り　50台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.17（35件）</td>
                 <td className="p-3 font-bold text-rose-600">¥11,150〜</td>
@@ -540,7 +540,7 @@ export default function OiraseAutumnLeavesHotspringPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 十和田湖畔温泉　とわだこ賑山亭</td>
                 <td className="p-3 text-stone-600">秋田県鹿角郡小坂町十和田湖休平35</td>
-                <td className="p-3 text-stone-600">ＪＲ八戸駅より十和田湖行きＪＲバスで140分、終点十和田湖下車、徒歩4</td>
+                <td className="p-3 text-stone-600">ＪＲ八戸駅より十和田湖行きＪＲバスで140分、終点十和田湖下車、徒歩4分／東北自動車道小坂ＩＣより４０分</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.1（0件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,250〜</td>
@@ -549,7 +549,7 @@ export default function OiraseAutumnLeavesHotspringPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 浅虫温泉　津軽藩本陣の宿　旅館柳の湯</td>
                 <td className="p-3 text-stone-600">青森県青森市大字浅虫字山下236</td>
-                <td className="p-3 text-stone-600">浅虫温泉駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ浅虫温泉駅から徒歩6分/東北自動車道青森東出口より10分【浅虫温泉駅⇔当館まで無料送迎OK(要予約）】</td>
                 <td className="p-3 text-stone-600">有り：15台(無料）</td>
                 <td className="p-3 font-bold text-amber-600">★4.23（524件）</td>
                 <td className="p-3 font-bold text-rose-600">¥11,350〜</td>
@@ -558,7 +558,7 @@ export default function OiraseAutumnLeavesHotspringPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">6. 蔦温泉旅館－足元から源泉湧出の自噴温泉－</td>
                 <td className="p-3 text-stone-600">青森県十和田市奥瀬蔦野湯1</td>
-                <td className="p-3 text-stone-600">青森駅周辺</td>
+                <td className="p-3 text-stone-600">七戸十和田駅よりお車にて１時間／青森駅よりお車にて1時間20分</td>
                 <td className="p-3 text-stone-600">有り　50台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.83（380件）</td>
                 <td className="p-3 font-bold text-rose-600">¥20,600〜</td>
@@ -587,7 +587,7 @@ export default function OiraseAutumnLeavesHotspringPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１００台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.24 ／ 立地 ★4.47 ／ 部屋 ★4.48 ／ 設備 ★4.33 ／ 風呂 ★4.23 ／ 食事 ★4.36</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「おしゃれな空間と丁寧な接客紅葉が少しずつ色づき始めた10月初旬にお伺いしました。ホテルの外観、内観、どこを見てもとにかくおしゃれです。ガヤガヤよりも大人の方が多い印象で静かにゆったり過ごせてよ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「おしゃれな空間と丁寧な接客紅葉が少しずつ色づき始めた10月初旬にお伺いしました。ホテルの外観、内観、どこを見てもとにかくおしゃれです。」
                   </blockquote>
                 </div>
               </div>
@@ -609,7 +609,7 @@ export default function OiraseAutumnLeavesHotspringPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１００台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「素晴らしい大変癒された旅になりました。同伴の誕生日記念に宿泊しました。クマ騒動がありましたが、自然のなかでとても満足しています特に食事は本当に素晴らしかったですクチコミの詳細はこち…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「素晴らしい大変癒された旅になりました。同伴の誕生日記念に宿泊しました。」
                   </blockquote>
                 </div>
               </div>
@@ -675,7 +675,7 @@ export default function OiraseAutumnLeavesHotspringPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り：15台(無料）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.3 ／ 立地 ★4.02 ／ 部屋 ★4 ／ 設備 ★3.94 ／ 風呂 ★4.34 ／ 食事 ★4.34</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「設備や案内に不満はあるが食事と温泉は満足お部屋は普通の温泉旅館って感じです。やや古さを感じます。洗面所はアパートの洗面所のような感じでした。タオルが使い古しのもので1枚しかなかったのがちょっと気に…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「設備や案内に不満はあるが食事と温泉は満足お部屋は普通の温泉旅館って感じです。やや古さを感じます。洗面所はアパートの洗面所のような感じでした。」
                   </blockquote>
                 </div>
               </div>
@@ -697,7 +697,7 @@ export default function OiraseAutumnLeavesHotspringPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　50台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.82 ／ 立地 ★4.71 ／ 部屋 ★4.76 ／ 設備 ★4.64 ／ 風呂 ★4.87 ／ 食事 ★4.8</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「足の速い接客一番は外観、内装、温泉が醸し出すなんとも独特な雰囲気が最高です。風呂もそこからブクブク湧き出す温泉と総檜風呂が良かったです。料理は見た目も少し凝ったものもあり良かったです。…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「足の速い接客一番は外観、内装、温泉が醸し出すなんとも独特な雰囲気が最高です。風呂もそこからブクブク湧き出す温泉と総檜風呂が良かったです。料理は見た目も少し凝ったものもあり良かったです。」
                   </blockquote>
                 </div>
               </div>

@@ -565,8 +565,8 @@ export default function FeatureDetailPage() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 浅虫温泉駅よりアクセス。浅虫温泉駅／青森自動車道 青森東ＩＣよりＲ４経由、約１５分。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「浅虫温泉 絶景の宿 浅虫さくら観光ホテル」にチェックイン。全室海側 陸奥湾を一望★絶景の春夏秋冬★眺望露天風呂★青森の旬な食材★唯一海岸沿に建つ希少な宿などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「浅虫温泉 絶景の宿 浅虫さくら観光ホテル」の湯処へ。全室海側 陸奥湾を一望★絶景の春夏秋冬★眺望露天風呂★青森の旬な食材★とともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「浅虫温泉 絶景の宿 浅虫さくら観光ホテル」にチェックイン。全室海側 陸奥湾を一望★絶景の春夏秋冬★眺望露天風呂★青森の旬な食材★唯一海岸沿に建つ希少な宿が魅力の一軒。客室で荷物をほどいて穏やかな午後のひとときを。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「浅虫温泉 絶景の宿 浅虫さくら観光ホテル」の大浴場・露天風呂へ。日暮れの静けさの中で湯に浸かり、旅の緊張をゆっくりと解きほぐす。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「浅虫温泉 絶景の宿 浅虫さくら観光ホテル」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -578,7 +578,7 @@ export default function FeatureDetailPage() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「浅虫温泉 絶景の宿 浅虫さくら観光ホテル」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「浅虫温泉 絶景の宿 浅虫さくら観光ホテル」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「黒石温泉郷落合温泉 花禅の庄」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は宿周辺の散策とショッピングを満喫。地元の名産品やグルメを味わってから余裕をもって帰路につく。</li>
               </ul>
             </div>
           </div>
@@ -649,28 +649,28 @@ export default function FeatureDetailPage() {
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
             <div className="flex flex-wrap gap-2">
               <Link
-                href="/prefectures/tokushima/"
+                href="/prefectures/aomori/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                徳島県の宿・温泉
+                青森県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/wakayama/"
+                href="/prefectures/hokkaido/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                和歌山県の宿・温泉
+                北海道の宿・温泉
               </Link>
               <Link
-                href="/prefectures/nagasaki/"
+                href="/prefectures/iwate/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                長崎県の宿・温泉
+                岩手県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/hyogo/"
+                href="/prefectures/miyagi/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                兵庫県の宿・温泉
+                宮城県の宿・温泉
               </Link>
             </div>
           </div>
@@ -706,7 +706,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 浅虫温泉　絶景の宿　浅虫さくら観光ホテル</td>
                 <td className="p-3 text-stone-600">青森県青森市浅虫坂本51-1</td>
-                <td className="p-3 text-stone-600">浅虫温泉駅周辺</td>
+                <td className="p-3 text-stone-600">浅虫温泉駅／青森自動車道 青森東ＩＣよりＲ４経由、約１５分</td>
                 <td className="p-3 text-stone-600">有り　８０台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★3.99（790件）</td>
                 <td className="p-3 font-bold text-rose-600">¥13,130〜</td>
@@ -715,7 +715,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 黒石温泉郷落合温泉　花禅の庄</td>
                 <td className="p-3 text-stone-600">青森県黒石市袋富山64-2</td>
-                <td className="p-3 text-stone-600">黒石（青森）駅周辺</td>
+                <td className="p-3 text-stone-600">弘南バス黒石駅より30分/黒石ＩＣより十和田方面に約１２分/弘前駅城東口より送迎有迎えは１５：３０の1本のみ ※要予約※</td>
                 <td className="p-3 text-stone-600">有　約３０台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.37（428件）</td>
                 <td className="p-3 font-bold text-rose-600">¥11,000〜</td>
@@ -724,7 +724,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 龍飛崎温泉　ホテル竜飛</td>
                 <td className="p-3 text-stone-600">青森県東津軽郡外ヶ浜町三厩龍浜54-274</td>
-                <td className="p-3 text-stone-600">三厩駅周辺</td>
+                <td className="p-3 text-stone-600">JR津軽線『三厩駅』/国道339号線(竜泊ライン)は冬季(11/15～翌4月中旬)通行止め。乗合タクシー「わんタク」あり</td>
                 <td className="p-3 text-stone-600">有り　50台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.15（694件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,600〜</td>
@@ -733,7 +733,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. ランプの宿　青荷温泉</td>
                 <td className="p-3 text-stone-600">青森県黒石市沖浦青荷沢滝ノ上1-7</td>
-                <td className="p-3 text-stone-600">黒石（青森）駅周辺</td>
+                <td className="p-3 text-stone-600">弘南鉄道 黒石駅よりバスにて温川行き虹の湖公園下車後、無料送迎バス ※冬季は条件が異なります。詳しくはプラン内容参照</td>
                 <td className="p-3 text-stone-600">有り　50台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.27（391件）</td>
                 <td className="p-3 font-bold text-rose-600">¥13,750〜</td>
@@ -742,7 +742,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 浅虫温泉　南部屋・海扇閣（なんぶや・かいせんかく）</td>
                 <td className="p-3 text-stone-600">青森県青森市浅虫蛍谷31</td>
-                <td className="p-3 text-stone-600">浅虫温泉駅周辺</td>
+                <td className="p-3 text-stone-600">青い森鉄道 浅虫温泉駅より 徒歩約2分。</td>
                 <td className="p-3 text-stone-600">有り　60台　宿泊者無料（先着順）</td>
                 <td className="p-3 font-bold text-amber-600">★4.64（1225件）</td>
                 <td className="p-3 font-bold text-rose-600">¥16,900〜</td>
@@ -771,7 +771,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　８０台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.01 ／ 立地 ★4.35 ／ 部屋 ★4.05 ／ 設備 ★3.93 ／ 風呂 ★4.13 ／ 食事 ★4.11</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「還暦祝いの眺望と食事、三味線に満足還暦祝いの旅行で利用しました。部屋からの眺めも良く食事も美味しかったです。津軽三味線の生演奏も良かった。露天風呂の床が滑りやすかったのが残念です。クチコミの詳…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「還暦祝いの眺望と食事、三味線に満足還暦祝いの旅行で利用しました。部屋からの眺めも良く食事も美味しかったです。津軽三味線の生演奏も良かった。露天風呂の床が滑りやすかったのが残念です。」
                   </blockquote>
                 </div>
               </div>
@@ -793,7 +793,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有　約３０台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.38 ／ 立地 ★4.15 ／ 部屋 ★4.27 ／ 設備 ★4.22 ／ 風呂 ★4.36 ／ 食事 ★4.46</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「弘前駅からの送迎と充実の食事でゆったり弘前駅から送迎もあり、鉄道での移動であっても利用しやすかったです。オールインクルーシブで飲み物も充実しており、夕食、朝食とも適量でおいしくいただけました。…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「弘前駅からの送迎と充実の食事でゆったり弘前駅から送迎もあり、鉄道での移動であっても利用しやすかったです。オールインクルーシブで飲み物も充実しており、夕食、朝食とも適量でおいしくいただけました。」
                   </blockquote>
                 </div>
               </div>
@@ -815,7 +815,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　50台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.06 ／ 立地 ★4.48 ／ 部屋 ★4.1 ／ 設備 ★4.02 ／ 風呂 ★4.14 ／ 食事 ★4.17</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「工事の音が煩く、時間帯を考慮してほしい滞在した時に眼下で工事をやってました。工事は必須かわかりませんが、音が煩く、ならチェックアウトからチェックイン迄の時間にやってもらいたかった。クチコミの詳…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「工事の音が煩く、時間帯を考慮してほしい滞在した時に眼下で工事をやってました。工事は必須かわかりませんが、音が煩く、ならチェックアウトからチェックイン迄の時間にやってもらいたかった。」
                   </blockquote>
                 </div>
               </div>
@@ -859,7 +859,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　60台　宿泊者無料（先着順）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.64 ／ 立地 ★4.6 ／ 部屋 ★4.54 ／ 設備 ★4.55 ／ 風呂 ★4.56</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「バイキングの工夫と三味線ライブが楽しい天ぷらを天丼にできたり、ソフトクリームをパフェにできたり、ただチョイスするだけのバイキングではなく好きなようやに変化できるのが楽しかったです。また、多くの口コ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「バイキングの工夫と三味線ライブが楽しい天ぷらを天丼にできたり、ソフトクリームをパフェにできたり、ただチョイスするだけのバイキングではなく好きなようやに変化できるのが楽しかったです。」
                   </blockquote>
                 </div>
               </div>

@@ -337,7 +337,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 全室スイート＆オーシャンビュー　ヴィラージュ伊豆高原</td>
                 <td className="p-3 text-stone-600">静岡県伊東市富戸1317-8</td>
-                <td className="p-3 text-stone-600">伊豆高原駅周辺</td>
+                <td className="p-3 text-stone-600">【電車】伊豆高原駅より無料送迎アリ：要予約 【お車】東京方面からのお客様＝石橋IC 近畿方面からのお客様＝天城高原IC</td>
                 <td className="p-3 text-stone-600">【無料】屋外駐車場完備。予約不要。大型車・バスは事前にお知らせください。</td>
                 <td className="p-3 font-bold text-amber-600">★4.48（1422件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,030〜</td>
@@ -346,7 +346,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 伊豆高原温泉　海望む露天風呂付客室　夢海月(ゆめみづき)</td>
                 <td className="p-3 text-stone-600">静岡県伊東市大室高原10丁目348</td>
-                <td className="p-3 text-stone-600">伊豆高原駅周辺</td>
+                <td className="p-3 text-stone-600">車：東名高速厚木IC・沼津ＩＣより約100分／電車：伊豆急行線伊豆高原駅～シャボテン公園行・理想郷バス停～歩2分</td>
                 <td className="p-3 text-stone-600">無料7台（ご予約不要）</td>
                 <td className="p-3 font-bold text-amber-600">★4.32（536件）</td>
                 <td className="p-3 font-bold text-rose-600">¥12,000〜</td>
@@ -355,7 +355,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 伊豆北川温泉　お祝いの宿　吉祥ＣＡＲＥＮ</td>
                 <td className="p-3 text-stone-600">静岡県賀茂郡東伊豆町奈良本1130-1</td>
-                <td className="p-3 text-stone-600">伊豆北川駅周辺</td>
+                <td className="p-3 text-stone-600">伊豆熱川駅より送迎有り（13:30～16:00）</td>
                 <td className="p-3 text-stone-600">有り　２０台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.61（559件）</td>
                 <td className="p-3 font-bold text-rose-600">¥26,500〜</td>
@@ -384,7 +384,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>【無料】屋外駐車場完備。予約不要。大型車・バスは事前にお知らせください。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.52 ／ 立地 ★4.59 ／ 部屋 ★4.61 ／ 設備 ★4.46 ／ 風呂 ★4.43 ／ 食事 ★4.49</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「子連れと愛犬に最適、部屋食と眺望に大満足子供2人(小学生1歳)とワンコ連れの我が家ですが、夕食は部屋食のすき焼きプランを選択したのが良かったです!到着がかなり早かったのですが、平日ということも…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「子連れと愛犬に最適、部屋食と眺望に大満足子供2人(小学生1歳)とワンコ連れの我が家ですが、夕食は部屋食のすき焼きプランを選択したのが良かったです!」
                   </blockquote>
                 </div>
               </div>
@@ -406,7 +406,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料7台（ご予約不要）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.46 ／ 立地 ★4.06 ／ 部屋 ★4.52 ／ 設備 ★4.26 ／ 風呂 ★4.38 ／ 食事 ★4.6</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「アットホームな雰囲気と美味しい金目鯛の煮付け大室山の麓、伊豆高原の住宅街(別荘地?)の中にあります。確かにお部屋から海も見えますが、ロケーション的には今一つ。部屋数は少なく、こじんまりしていて…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「アットホームな雰囲気と美味しい金目鯛の煮付け大室山の麓、伊豆高原の住宅街(別荘地?)の中にあります。確かにお部屋から海も見えますが、ロケーション的には今一つ。」
                   </blockquote>
                 </div>
               </div>
@@ -428,7 +428,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２０台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.66 ／ 立地 ★4.65 ／ 部屋 ★4.49 ／ 設備 ★4.48 ／ 風呂 ★4.68 ／ 食事 ★4.68</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「絶品の伊勢海老と温泉で贅沢なひととき夜ご飯がとても美味しかった。特に伊勢海老は絶品でした。温泉もとても気持ちよく、景色も良い。何もしない贅沢がありました。また行きたいです。クチコミの詳…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「絶品の伊勢海老と温泉で贅沢なひととき夜ご飯がとても美味しかった。特に伊勢海老は絶品でした。温泉もとても気持ちよく、景色も良い。何もしない贅沢がありました。また行きたいです。」
                   </blockquote>
                 </div>
               </div>

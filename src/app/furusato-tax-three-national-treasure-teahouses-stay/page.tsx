@@ -420,8 +420,8 @@ export default function Page() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 桂駅よりアクセス。最寄駅（ＪＲ桂川、阪急洛西口）から無料送迎バス有。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「京都竹の郷温泉 万葉の湯 ホテル京都エミナース」にチェックイン。ご宿泊者は24時間万葉の湯入り放題！.心ゆくまで温泉を満喫下さい。などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「京都竹の郷温泉 万葉の湯 ホテル京都エミナース」の湯処へ。ご宿泊者は24時間万葉の湯入り放題！.心ゆくまで温泉を満喫下さい。とともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「京都竹の郷温泉 万葉の湯 ホテル京都エミナース」にチェックイン。ご宿泊者は24時間万葉の湯入り放題！.心ゆくまで温泉を満喫下さい。 荷物を解き、落ち着いた室内でまず一息つく。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「京都竹の郷温泉 万葉の湯 ホテル京都エミナース」の自慢の湯処へ。温かな湯気と落ち着いた雰囲気に癒やされながら、夕食前の贅沢なひとときを過ごす。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「京都竹の郷温泉 万葉の湯 ホテル京都エミナース」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -433,7 +433,7 @@ export default function Page() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「京都竹の郷温泉 万葉の湯 ホテル京都エミナース」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「京都竹の郷温泉 万葉の湯 ホテル京都エミナース」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「ホテルインディゴ犬山有楽苑 ｂｙ ＩＨＧ」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は「京都竹の郷温泉 万葉の湯 ホテル京都エミナース」周辺の観光スポットや地元の名産店に立ち寄り、ご当地のお土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>
@@ -561,7 +561,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 京都竹の郷温泉　万葉の湯　ホテル京都エミナース</td>
                 <td className="p-3 text-stone-600">京都府京都市西京区大原野東境谷町2-4</td>
-                <td className="p-3 text-stone-600">桂駅周辺</td>
+                <td className="p-3 text-stone-600">最寄駅（ＪＲ桂川、阪急洛西口）から無料送迎バス有。阪急「桂駅」西口より市バス西１、２、５で１５分「境谷大橋」下車すぐ。</td>
                 <td className="p-3 text-stone-600">有り　250台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.15（888件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,100〜</td>
@@ -570,7 +570,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. ホテルインディゴ犬山有楽苑　ｂｙ　ＩＨＧ</td>
                 <td className="p-3 text-stone-600">愛知県犬山市犬山北古券103-1</td>
-                <td className="p-3 text-stone-600">犬山遊園駅周辺</td>
+                <td className="p-3 text-stone-600">名鉄犬山遊園駅より徒歩約7分</td>
                 <td className="p-3 text-stone-600">有（190台）　無料／予約不要　※EVスタンド2台（要予約／1泊1,500円）</td>
                 <td className="p-3 font-bold text-amber-600">★4.36（544件）</td>
                 <td className="p-3 font-bold text-rose-600">¥16,000〜</td>
@@ -579,7 +579,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 割烹旅館　城山</td>
                 <td className="p-3 text-stone-600">茨城県笠間市笠間14-1</td>
-                <td className="p-3 text-stone-600">JR水戸線笠間駅より約1.5km　タクシーで約3分／北関東自動車道友部</td>
+                <td className="p-3 text-stone-600">JR水戸線笠間駅より約1.5km タクシーで約3分／北関東自動車道友部ICよりR３５５にて１０分</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.2（80件）</td>
                 <td className="p-3 font-bold text-rose-600">¥10,000〜</td>
@@ -608,7 +608,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　250台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.07 ／ 立地 ★3.92 ／ 部屋 ★4.04 ／ 設備 ★4.13 ／ 風呂 ★4.4 ／ 食事 ★4.14</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「バイキングとアメニティーが充実した温泉施設に大満足食事は夕食も朝食もバイキングでした 種類も豊富で、とっても美味しく大満足でした隣の温泉施設と部屋のアメニティーが充実してて、特に温泉施設は痒い…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「バイキングとアメニティーが充実した温泉施設に大満足食事は夕食も朝食もバイキングでした 種類も豊富で、とっても美味しく大満足でした隣の温泉施設と部屋のアメニティーが充実してて、特に温泉施設は痒い。」
                   </blockquote>
                 </div>
               </div>
@@ -630,7 +630,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有（190台）　無料／予約不要　※EVスタンド2台（要予約／1泊1,500円）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.33 ／ 立地 ★4.49 ／ 部屋 ★4.47 ／ 設備 ★4.37 ／ 風呂 ★4.39 ／ 食事 ★4.44</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「急な鵜飼の手配と食事変更に感謝!部屋が広く清潔であったのは言うまでもないですが、最も有難かったのはチェックイン時に思い付いて木曽川の鵜飼見物が出来るかを尋ねた所、その場で提携先?に連絡を入れて手配…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「急な鵜飼の手配と食事変更に感謝!部屋が広く清潔であったのは言うまでもないですが、最も有難かったのはチェックイン時に思い付いて木曽川の鵜飼見物が出来るかを尋ねた所、その場で提携先?に連絡を入れて手配。」
                   </blockquote>
                 </div>
               </div>
@@ -652,7 +652,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「設備が老朽化し清潔感に欠ける残念な環境部屋のトイレ便座はガタつき 風呂場の扉は壊れて閉まらない 洗面台の下に風呂のフタが敷かれていたあちこちにゴキリキャップが設置されて 冷蔵庫下の床は捲れ上が…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「設備が老朽化し清潔感に欠ける残念な環境部屋のトイレ便座はガタつき 風呂場の扉は壊れて閉まらない 洗面台の下に風呂のフタが敷かれていたあちこちにゴキリキャップが設置されて満足です。」
                   </blockquote>
                 </div>
               </div>

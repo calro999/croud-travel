@@ -310,7 +310,7 @@ export default function AutumnBudgetKochiHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. サウスブリーズホテル　高知海月</td>
                 <td className="p-3 text-stone-600">高知県高知市農人町5-29</td>
-                <td className="p-3 text-stone-600">高知駅周辺</td>
+                <td className="p-3 text-stone-600">文化プラザかるぽーと徒歩1分・はりまや橋観光バスターミナル徒歩３分・はりまや橋徒歩7分・高知駅車で5分</td>
                 <td className="p-3 text-stone-600">車５００円（トラック・大型車・キャンピングカー駐車不可）バイク３００円お車の鍵をお預かりし移動有り。</td>
                 <td className="p-3 font-bold text-amber-600">★4.22（2991件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,570〜</td>
@@ -319,7 +319,7 @@ export default function AutumnBudgetKochiHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. ホテルベストプライス高知</td>
                 <td className="p-3 text-stone-600">高知県高知市南宝永町16-12</td>
-                <td className="p-3 text-stone-600">高知駅周辺</td>
+                <td className="p-3 text-stone-600">JR高知駅より車で約7分／高知空港よりバスで約20分、バス停「宝永町駅」より徒歩約4分</td>
                 <td className="p-3 text-stone-600">屋根付駐車場を【500円／1泊・先着順】でご利用いただけます。（台数に限りがございます）</td>
                 <td className="p-3 font-bold text-amber-600">★4.38（696件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,085〜</td>
@@ -328,7 +328,7 @@ export default function AutumnBudgetKochiHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 高知ホテル</td>
                 <td className="p-3 text-stone-600">高知県高知市駅前町4-10</td>
-                <td className="p-3 text-stone-600">高知駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ高知駅より徒歩１分♪ 高知ＩＣよりお車で約１０分♪高知龍馬空港より連絡バスで約３０分♪「高知橋」下車徒歩２分</td>
                 <td className="p-3 text-stone-600">立体Ｐ・先着順３４台！車高１５５ｃｍ以下制限有【８００円／泊】入らないお車は契約Ｐへ【８００円／泊】</td>
                 <td className="p-3 font-bold text-amber-600">★4.19（2294件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,525〜</td>
@@ -337,7 +337,7 @@ export default function AutumnBudgetKochiHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. ホテル高砂＜高知県＞</td>
                 <td className="p-3 text-stone-600">高知県高知市駅前町2-1</td>
-                <td className="p-3 text-stone-600">高知駅周辺</td>
+                <td className="p-3 text-stone-600">高知駅より徒歩３分。繁華街まで５分圏内、高知IC車１０分。高知空港から車で３０分。</td>
                 <td className="p-3 text-stone-600">先着順25台/駐車料金：1000円、大型・中型バス、ＲＶ車も可(バス等は料金が異なります)</td>
                 <td className="p-3 font-bold text-amber-600">★4.24（691件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,200〜</td>
@@ -346,7 +346,7 @@ export default function AutumnBudgetKochiHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 高知パシフィックホテル</td>
                 <td className="p-3 text-stone-600">高知県高知市駅前町1-15</td>
-                <td className="p-3 text-stone-600">高知駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ高知駅南口より徒歩約２分◆高知自動車道高知ＩＣより車で約７分◆高知龍馬空港より車で約３０分◆桂浜より車で約２５分♪</td>
                 <td className="p-3 text-stone-600">◆平面駐車場40台【900円/泊】※先着順※満車時は契約Pあり※バイク不可</td>
                 <td className="p-3 font-bold text-amber-600">★4.29（3432件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,625〜</td>
@@ -419,7 +419,7 @@ export default function AutumnBudgetKochiHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>立体Ｐ・先着順３４台！車高１５５ｃｍ以下制限有【８００円／泊】入らないお車は契約Ｐへ【８００円／泊】</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.26 ／ 立地 ★4.33 ／ 部屋 ★4.21 ／ 設備 ★4.08 ／ 風呂 ★4.02 ／ 食事 ★4.12</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋の変更対応は良かったが朝食は普通素泊まりプランのセミダブルしか無かったので2人でベッドが狭いかもと心配していましたがダブルベッドの部屋が空いているのでと変更してもらえた。その点は良かった。朝食…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋の変更対応は良かったが朝食は普通素泊まりプランのセミダブルしか無かったので2人でベッドが狭いかもと心配していましたがダブルベッドの部屋が空いているのでと変更してもらえた。その点は良かった。」
                   </blockquote>
                 </div>
               </div>
@@ -441,7 +441,7 @@ export default function AutumnBudgetKochiHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>先着順25台/駐車料金：1000円、大型・中型バス、ＲＶ車も可(バス等は料金が異なります)</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「フロントの対応が最高、また泊まりたい!外壁の工事中で、駐車場の入口がわからずに電話してから伺いました。その電話対応からものすごくよくて、めちゃめちゃ期待しましたが、全くその通りでした。地下駐車…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「フロントの対応が最高、また泊まりたい!外壁の工事中で、駐車場の入口がわからずに電話してから伺いました。その電話対応からものすごくよくて、めちゃめちゃ期待しましたが、全くその通りでした。」
                   </blockquote>
                 </div>
               </div>
@@ -463,7 +463,7 @@ export default function AutumnBudgetKochiHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>◆平面駐車場40台【900円/泊】※先着順※満車時は契約Pあり※バイク不可</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.39 ／ 立地 ★4.38 ／ 部屋 ★4.29 ／ 設備 ★4.18 ／ 風呂 ★4.12 ／ 食事 ★4.32</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「高知に行ったら、また利用したい!!10何年ぶりに利用しました。某アーティストのコンサートで利用しました。スタッフさんが親切に教えてくれて、快適に過ごせました!!素泊まりだったけど、飲食店が近く、コ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「高知に行ったら、また利用したい!!10何年ぶりに利用しました。某アーティストのコンサートで利用しました。スタッフさんが親切に教えてくれて、快適に過ごせました!!」
                   </blockquote>
                 </div>
               </div>

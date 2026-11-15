@@ -83,7 +83,7 @@ export default function Page() {
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/2370/2370map.gif",
     "reviewCount": 528,
     "reviewAverage": 4.68,
-    "userReview": "大満足!生後9ヶ月の子供を連れて泊まりにいかせていただきました!もう全てにおいて大満足でした!ウェルカムドリンクも夕食も朝食も貸切露天風呂もお部屋も!また泊まりたいと思える宿でし。",
+    "userReview": "大満足!生後9ヶ月の子供を連れて泊まりにいかせていただきました!もう全てにおいて大満足でした!ウェルカムドリンクも夕食も朝食も貸切露天風呂もお部屋も!また泊まりたいと思える宿でした。",
     "hotelMinCharge": 7700,
     "address1": "群馬県",
     "address2": "利根郡みなかみ町湯桧曽93",
@@ -334,7 +334,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 水上温泉郷　湯檜曽温泉　天空の湯　なかや旅館</td>
                 <td className="p-3 text-stone-600">群馬県利根郡みなかみ町湯桧曽93</td>
-                <td className="p-3 text-stone-600">上毛高原駅周辺</td>
+                <td className="p-3 text-stone-600">車：水上ICから約15分 車以外：上越線ゆびそ駅より徒歩5分、又は水上駅よりバス・タクシーで約10分</td>
                 <td className="p-3 text-stone-600">有り　16台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.68（531件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,800〜</td>
@@ -343,7 +343,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. あわら温泉　伝統旅館のぬくもり　灰屋</td>
                 <td className="p-3 text-stone-600">福井県あわら市温泉2-205</td>
-                <td className="p-3 text-stone-600">芦原温泉駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ北陸本線芦原温泉駅から路線バスにて１５分/無料送迎あり。北陸道金津ＩＣより車で１５分。駐車場無料(係が案内します。)</td>
                 <td className="p-3 text-stone-600">有り　１００台　無料 （エントランスにはスロープもございます。係がご案内いたします。）</td>
                 <td className="p-3 font-bold text-amber-600">★4.42（756件）</td>
                 <td className="p-3 font-bold text-rose-600">¥15,950〜</td>
@@ -352,7 +352,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 割烹旅館　大進館</td>
                 <td className="p-3 text-stone-600">神奈川県愛甲郡愛川町中津6890-1</td>
-                <td className="p-3 text-stone-600">本厚木駅周辺</td>
+                <td className="p-3 text-stone-600">小田急線 本厚木駅よりー厚木バスセンター10番乗り場 上三増行 で約30分、桜台下車 東名厚木ICよりお車で約25分</td>
                 <td className="p-3 text-stone-600">40台　無料　（電車・バスをご利用のお客様へは、「桜台バス停」までの無料送迎有⇒要予約）</td>
                 <td className="p-3 font-bold text-amber-600">★4（72件）</td>
                 <td className="p-3 font-bold text-rose-600">¥13,800〜</td>

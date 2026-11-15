@@ -342,7 +342,7 @@ export default function ItoBudgetAutumnPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 伊東温泉　ホテル　ラヴィエ川良</td>
                 <td className="p-3 text-stone-600">静岡県伊東市竹の内1-1-3</td>
-                <td className="p-3 text-stone-600">伊東駅周辺</td>
+                <td className="p-3 text-stone-600">JR伊東線「伊東駅」下車 徒歩７分／車で東名高速沼津ICから1時間20分・厚木ICから1時間40分／送迎バスあり</td>
                 <td className="p-3 text-stone-600">無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.01（1982件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,000〜</td>
@@ -351,7 +351,7 @@ export default function ItoBudgetAutumnPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 伊東温泉　伊東園ホテル松川館</td>
                 <td className="p-3 text-stone-600">静岡県伊東市寿町1-1</td>
-                <td className="p-3 text-stone-600">伊東駅周辺</td>
+                <td className="p-3 text-stone-600">伊東駅より徒歩１０分</td>
                 <td className="p-3 text-stone-600">有り　４０台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★3.84（787件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,248〜</td>
@@ -360,7 +360,7 @@ export default function ItoBudgetAutumnPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 富士宮　富士急ホテル</td>
                 <td className="p-3 text-stone-600">静岡県富士宮市中央町15-18</td>
-                <td className="p-3 text-stone-600">富士宮駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ身延線富士宮駅北口から徒歩約２分。 東海道新幹線新富士駅下車、車で４０分（駐車場は先着順・約30台収容）</td>
                 <td className="p-3 text-stone-600">有（先着順）30台 有料  乗用車1泊1台600円(税込)。</td>
                 <td className="p-3 font-bold text-amber-600">★3.84（764件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,500〜</td>
@@ -369,7 +369,7 @@ export default function ItoBudgetAutumnPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. ハイセットホテル静岡インター</td>
                 <td className="p-3 text-stone-600">静岡県静岡市駿河区中村町322-1</td>
-                <td className="p-3 text-stone-600">静岡駅周辺</td>
+                <td className="p-3 text-stone-600">お車で 東名静岡ＩＣ2分 新東名静岡ＳＡ２７分 ＪＲ静岡駅１０分 富士山空港３５分 久能山１９分 ツインメッセ１２分</td>
                 <td className="p-3 text-stone-600">普通車まで無料でお停めいただけます。※大型車（2t車以上）は事前の申込みが必要です。</td>
                 <td className="p-3 font-bold text-amber-600">★4.12（1970件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,510〜</td>
@@ -378,7 +378,7 @@ export default function ItoBudgetAutumnPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 熱海温泉　月の栖　熱海聚楽ホテル</td>
                 <td className="p-3 text-stone-600">静岡県熱海市田原本町2-19</td>
-                <td className="p-3 text-stone-600">熱海駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ東海道線「熱海駅」～仲見世通り商店街を抜けて徒歩３分。高台に建つ和風旅館。海と街の景色が人気。露天風呂付客室3室有り</td>
                 <td className="p-3 text-stone-600">有り（有料）１泊　1760円（税込）　お車は当館の玄関前に直接お寄せください。</td>
                 <td className="p-3 font-bold text-amber-600">★4.4（2598件）</td>
                 <td className="p-3 font-bold text-rose-600">¥17,600〜</td>
@@ -451,7 +451,7 @@ export default function ItoBudgetAutumnPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有（先着順）30台 有料  乗用車1泊1台600円(税込)。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.87 ／ 立地 ★3.93 ／ 部屋 ★3.76 ／ 設備 ★3.7 ／ 風呂 ★3.63 ／ 食事 ★3.95</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「富士宮観光や富士山登山の起点に最適駅やバスターミナルが目の前にあり富士宮観光や富士山登山の起点にするには大変ロケーションが良かったです。今回は富士宮ルートでの富士山登山の起点にしましたが早朝のバス…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「富士宮観光や富士山登山の起点に最適駅やバスターミナルが目の前にあり富士宮観光や富士山登山の起点にするには大変ロケーションが良かったです。」
                   </blockquote>
                 </div>
               </div>
@@ -473,7 +473,7 @@ export default function ItoBudgetAutumnPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>普通車まで無料でお停めいただけます。※大型車（2t車以上）は事前の申込みが必要です。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.12 ／ 立地 ★4.05 ／ 部屋 ★4.04 ／ 設備 ★3.94 ／ 風呂 ★3.92 ／ 食事 ★4.52</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「丁寧な接客と朝食は満足、上層階の足音が響くホテル従業員様はとても丁寧でフランドリー。朝食は、地元食材?で満足。施設は古いので、設備はそれなり。上層階の方が連日ドタバタしておりうるさかっ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「丁寧な接客と朝食は満足、上層階の足音が響くホテル従業員様はとても丁寧でフランドリー。朝食は、地元食材?で満足。施設は古いので、設備はそれなり。」
                   </blockquote>
                 </div>
               </div>
@@ -495,7 +495,7 @@ export default function ItoBudgetAutumnPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り（有料）１泊　1760円（税込）　お車は当館の玄関前に直接お寄せください。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ご飯が美味しくボリューム満点で大満足今回2回目の宿泊です。とてもご飯が美味しく、ボリューム満点で大満足です。ここより美味しく満足できるご飯は、なかなかないと思います。商店街からも近く、立地も最…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ご飯が美味しくボリューム満点で大満足今回2回目の宿泊です。とてもご飯が美味しく、ボリューム満点で大満足です。ここより美味しく満足できるご飯は、なかなかないと思います。」
                   </blockquote>
                 </div>
               </div>

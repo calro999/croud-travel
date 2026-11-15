@@ -374,7 +374,7 @@ export default function HighwayBusArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. ダイワロイネットホテル名古屋駅前（２０２６年５月リニューアル）</td>
                 <td className="p-3 text-stone-600">愛知県名古屋市中村区名駅南1-23-20</td>
-                <td className="p-3 text-stone-600">名古屋駅周辺</td>
+                <td className="p-3 text-stone-600">◆ＪＲ名古屋駅桜通口より徒歩５分◆近鉄、名鉄名古屋駅より徒歩3分◆中部国際空港からミュースカイ利用で最短２８分◆</td>
                 <td className="p-3 text-stone-600">1500円／14：00～翌11：00（税込／泊）※先着順、車両制限有、営業時間外入出庫不可</td>
                 <td className="p-3 font-bold text-amber-600">★4.2（3488件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,300〜</td>
@@ -383,7 +383,7 @@ export default function HighwayBusArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. アパホテル〈名古屋駅前〉</td>
                 <td className="p-3 text-stone-600">愛知県名古屋市中村区則武1-5-3</td>
-                <td className="p-3 text-stone-600">名古屋駅周辺</td>
+                <td className="p-3 text-stone-600">JR、東海道新幹線「名古屋駅」接続エスカ地下街(E7出口)徒歩4分、（太閤通口）徒歩7分。</td>
                 <td className="p-3 text-stone-600">9台（1泊2,000円・先着順・予約不可）　詳細は宿ニュース「駐車場のご案内」をご確認ください。</td>
                 <td className="p-3 font-bold text-amber-600">★4.22（1299件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,275〜</td>
@@ -392,7 +392,7 @@ export default function HighwayBusArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. アパホテル〈名古屋駅前北〉</td>
                 <td className="p-3 text-stone-600">愛知県名古屋市中村区則武1-2-4</td>
-                <td className="p-3 text-stone-600">名古屋駅周辺</td>
+                <td className="p-3 text-stone-600">JR、東海道新幹線「名古屋駅」接続エスカ地下街(E7出口)徒歩4分。（太閤通口）徒歩7分。地下鉄(桜通口)徒歩10分。</td>
                 <td className="p-3 text-stone-600">あり。15:00から翌11:00まで2,000円。  ※ホテル専用ではありません。</td>
                 <td className="p-3 font-bold text-amber-600">★4.19（840件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,230〜</td>
@@ -421,7 +421,7 @@ export default function HighwayBusArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>1500円／14：00～翌11：00（税込／泊）※先着順、車両制限有、営業時間外入出庫不可</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近で快適、ドライヤーの風力が強烈お部屋は綺麗に掃除されており、快適でした。お水も毎日2本ずついただきありがたかったです。冷凍庫があれば尚良かったですが、氷をもらえたので問題なし。ローソンが1階に…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近で快適、ドライヤーの風力が強烈お部屋は綺麗に掃除されており、快適でした。お水も毎日2本ずついただきありがたかったです。冷凍庫があれば尚良かったですが、氷をもらえたので問題なし。」
                   </blockquote>
                 </div>
               </div>
@@ -443,7 +443,7 @@ export default function HighwayBusArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>9台（1泊2,000円・先着順・予約不可）　詳細は宿ニュース「駐車場のご案内」をご確認ください。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近の好立地。スタッフも親切。 友人との名古屋旅行で利用。名古屋駅からもちょうど良い距離で不自由なく過ごせた。 9時過ぎごろに朝食会場に行ったのだが、ラストオーダーの時間を優しく伝えてくださり…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近の好立地。スタッフも親切。 友人との名古屋旅行で利用。名古屋駅からもちょうど良い距離で不自由なく過ごせた。」
                   </blockquote>
                 </div>
               </div>
@@ -465,7 +465,7 @@ export default function HighwayBusArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>あり。15:00から翌11:00まで2,000円。  ※ホテル専用ではありません。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「清潔で駅近だが清掃と朝食に改善の余地あり部屋も清潔でしたが 髪の毛が落ちてたので星2つにしました。アメニティでは化粧水があれば良かったそれと、外の見えない窓は少し嫌ですせっかく朝ご…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「清潔で駅近だが清掃と朝食に改善の余地あり部屋も清潔でしたが 髪の毛が落ちてたので星2つにしました。」
                   </blockquote>
                 </div>
               </div>

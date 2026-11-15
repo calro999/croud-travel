@@ -253,7 +253,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 志賀高原ロッヂ</td>
                 <td className="p-3 text-stone-600">長野県下高井郡山ノ内町平穏7148-23</td>
-                <td className="p-3 text-stone-600">湯田中駅周辺</td>
+                <td className="p-3 text-stone-600">湯田中駅からバスで45分ほたる温泉下車徒歩5分。信州中野ICから車で約40分。</td>
                 <td className="p-3 text-stone-600">有り　20台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.33（58件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,600〜</td>
@@ -262,7 +262,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 志賀高原熊の湯・硯川温泉　にごり湯の宿硯川ホテル</td>
                 <td className="p-3 text-stone-600">長野県下高井郡山ノ内町平穏7148-10</td>
-                <td className="p-3 text-stone-600">湯田中駅周辺</td>
+                <td className="p-3 text-stone-600">長野電鉄線 湯田中駅下車 バス４０分／上信越自動車道信州中野ＩＣ 国道２９２号経由３０分</td>
                 <td className="p-3 text-stone-600">有　６０台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★3.83（491件）</td>
                 <td className="p-3 font-bold text-rose-600">¥10,000〜</td>
@@ -271,7 +271,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 熊の湯温泉　熊の湯ホテル</td>
                 <td className="p-3 text-stone-600">長野県下高井郡山ノ内町平穏7148</td>
-                <td className="p-3 text-stone-600">湯田中駅周辺</td>
+                <td className="p-3 text-stone-600">私鉄長野電鉄湯田中駅下車 長電バス熊の湯硯川行 熊の湯下車０分／上信越自動車道信州中野ＩＣ下車Ｒ２９２号線経由約３０ｋｍ</td>
                 <td className="p-3 text-stone-600">有　２５０台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.15（252件）</td>
                 <td className="p-3 font-bold text-rose-600">¥13,600〜</td>
@@ -280,7 +280,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 志賀高原　ホテル一望閣</td>
                 <td className="p-3 text-stone-600">長野県下高井郡山ノ内町大字平穏7148-31</td>
-                <td className="p-3 text-stone-600">長野駅周辺</td>
+                <td className="p-3 text-stone-600">上信越道信州中野ＩＣより国道２９２号線にて４５分。ＪＲ長野駅より急行バス８０分又は長電特急電車５０分＆バス利用４５分。</td>
                 <td className="p-3 text-stone-600">有り　５０台。　当館前が満車の場合は徒歩３～４分の共同駐車場となります。共に無料</td>
                 <td className="p-3 font-bold text-amber-600">★3.65（286件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,800〜</td>
@@ -289,7 +289,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 志賀高原発哺温泉　岩菅ホテル</td>
                 <td className="p-3 text-stone-600">長野県下高井郡山ノ内町志賀高原7149</td>
-                <td className="p-3 text-stone-600">湯田中駅周辺</td>
+                <td className="p-3 text-stone-600">長野電鉄 湯田中駅よりバスにて４０分</td>
                 <td className="p-3 text-stone-600">有　２０台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.24（56件）</td>
                 <td className="p-3 font-bold text-rose-600">プラン参照</td>
@@ -298,7 +298,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">6. 志賀高原　ホテルタキモト</td>
                 <td className="p-3 text-stone-600">長野県下高井郡山ノ内町平穏7149-16</td>
-                <td className="p-3 text-stone-600">湯田中駅周辺</td>
+                <td className="p-3 text-stone-600">高天ヶ原バス停より徒歩にて約２分</td>
                 <td className="p-3 text-stone-600">有り　１５台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.14（55件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,000〜</td>
@@ -371,7 +371,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有　２５０台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉は最高だが清掃と接客に改善の余地あり温泉はとても良い泉質です。硫黄泉のガスの影響もあってか施設はかなり老朽化しており、あとどのくらい保つんだろうか。行くなら早めに行くのが良さそうです。…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉は最高だが清掃と接客に改善の余地あり温泉はとても良い泉質です。硫黄泉のガスの影響もあってか施設はかなり老朽化しており、あとどのくらい保つんだろうか。行くなら早めに行くのが良さそうです。」
                   </blockquote>
                 </div>
               </div>
@@ -415,7 +415,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有　２０台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ロケーションとサービスが良く食事も美味しいとにかくロケーションが良くサービスも良い。チェックインまで1時間ほど早めに到着しましたが、お部屋に通してもらえました。食事は品数も多くいつも美味しいです。…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ロケーションとサービスが良く食事も美味しいとにかくロケーションが良くサービスも良い。チェックインまで1時間ほど早めに到着しましたが、お部屋に通してもらえました。食事は品数も多くいつも美味しいです。」
                   </blockquote>
                 </div>
               </div>
@@ -437,7 +437,7 @@ export default function MicroTouristHubPage() {
                   <p>【長野・志賀高原＆渋峠：日本国道最高地点・雲海テラス＆】 <strong>【駐車場・マイカー利用】</strong>有り　１５台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「避暑には最高だが夕食は控えめ設備は古めですが館内は清潔で快適に過ごせましたし、お盆前に最高気温が23度と避暑には最高でした夕食は控えめのプランにしたのですが予想以上に控えめでしたク…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「避暑には最高だが夕食は控えめ設備は古めですが館内は清潔で快適に過ごせましたし、お盆前に最高気温が23度と避暑には最高でした夕食は控えめのプランにしたのですが予想以上に控えめでしたク。」
                   </blockquote>
                 </div>
               </div>

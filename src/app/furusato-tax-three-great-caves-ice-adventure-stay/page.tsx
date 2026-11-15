@@ -420,8 +420,8 @@ export default function Page() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 河口湖駅よりアクセス。中央道河口湖ＩＣ－Ｒ１３９を河口湖方面へ約１０分。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「露天風呂の宿 開運の湯 ロイヤルホテル河口湖」にチェックイン。温泉好きも絶賛！湖畔の風吹き抜ける庭園風露天風呂など３種の 開運の湯 は滞在中何度でも入り放題♪などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「露天風呂の宿 開運の湯 ロイヤルホテル河口湖」の湯処へ。温泉好きも絶賛！湖畔の風吹き抜ける庭園風露天風呂など３種の 開運の湯 とともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「露天風呂の宿 開運の湯 ロイヤルホテル河口湖」にチェックイン。温泉好きも絶賛！湖畔の風吹き抜ける庭園風露天風呂など３種の 開運の湯 は滞在中何度でも入り放題♪ 窓外に広がる景色を眺めながらチェックイン後の寛ぎ時間を。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「露天風呂の宿 開運の湯 ロイヤルホテル河口湖」の大浴場・露天風呂へ。日暮れの静けさの中で湯に浸かり、旅の緊張をゆっくりと解きほぐす。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「露天風呂の宿 開運の湯 ロイヤルホテル河口湖」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -433,7 +433,7 @@ export default function Page() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「露天風呂の宿 開運の湯 ロイヤルホテル河口湖」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「露天風呂の宿 開運の湯 ロイヤルホテル河口湖」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「おきえらぶ フローラルホテル ＜沖永良部島＞」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は宿周辺の散策とショッピングを満喫。地元の名産品やグルメを味わってから余裕をもって帰路につく。</li>
               </ul>
             </div>
           </div>
@@ -570,7 +570,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. ウェルネスリゾート沖縄　ユインチホテル南城</td>
                 <td className="p-3 text-stone-600">沖縄県南城市佐敷新里1688</td>
-                <td className="p-3 text-stone-600">那覇空港から車で約40分。那覇空港自動車道・南風原北ICから約15分。</td>
+                <td className="p-3 text-stone-600">那覇空港から車で約40分。那覇空港自動車道・南風原北ICから約15分。那覇空港から路線バス系統39番で約70分。</td>
                 <td className="p-3 text-stone-600">有り／400台・無料・予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.48（1375件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,250〜</td>
@@ -579,7 +579,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. おきえらぶ　フローラルホテル　＜沖永良部島＞</td>
                 <td className="p-3 text-stone-600">鹿児島県大島郡知名町知名520</td>
-                <td className="p-3 text-stone-600">沖永良部空港駅周辺</td>
+                <td className="p-3 text-stone-600">沖永良部空港～お車で約３０分／和泊港～お車で約２０分</td>
                 <td className="p-3 text-stone-600">有り　約30台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★3.83（149件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,742〜</td>
@@ -630,7 +630,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り／400台・無料・予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.47 ／ 立地 ★4.48 ／ 部屋 ★4.42 ／ 設備 ★4.38 ／ 風呂 ★4.55 ／ 食事 ★4.44</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフが親切で清掃も行き届き大満足また絶対来たい!スタッフの方はみなさんとても親切で、清掃が行き届いてて気持ちよく過ごせました。那覇に4泊予定でしたがギリギリで2泊こちらに変更して大正解。あ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフが親切で清掃も行き届き大満足また絶対来たい!スタッフの方はみなさんとても親切で、清掃が行き届いてて気持ちよく過ごせました。那覇に4泊予定でしたがギリギリで2泊こちらに変更して大正解。」
                   </blockquote>
                 </div>
               </div>
@@ -652,7 +652,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　約30台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食バイキングと別館の大浴場が良かった施設は古いようです。リフォームされてて、外観と館内と部屋も綺麗でした。部屋には新しいエアコンがあり、暑い島ですが快適に過ごせました。別館のサウナ付き大浴場が良…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食バイキングと別館の大浴場が良かった施設は古いようです。リフォームされてて、外観と館内と部屋も綺麗でした。部屋には新しいエアコンがあり、暑い島ですが快適に過ごせました。」
                   </blockquote>
                 </div>
               </div>

@@ -485,7 +485,7 @@ export default function FurusatoFeaturePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 南紀勝浦温泉　くつろぎの宿　料理旅館　万清楼</td>
                 <td className="p-3 text-stone-600">和歌山県東牟婁郡那智勝浦町勝浦448</td>
-                <td className="p-3 text-stone-600">紀伊勝浦駅周辺</td>
+                <td className="p-3 text-stone-600">JR「紀伊勝浦駅」より徒歩約7分／大阪から紀勢自動車道「すさみ南IC」経由で約3時間半</td>
                 <td className="p-3 text-stone-600">20台（無料）／専用駐車場は当館横と裏側にあります。</td>
                 <td className="p-3 font-bold text-amber-600">★4.39（821件）</td>
                 <td className="p-3 font-bold text-rose-600">¥13,200〜</td>
@@ -494,7 +494,7 @@ export default function FurusatoFeaturePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 日光東照宮晃陽苑</td>
                 <td className="p-3 text-stone-600">栃木県日光市瀬尾1640-14</td>
-                <td className="p-3 text-stone-600">日光駅周辺</td>
+                <td className="p-3 text-stone-600">日光駅よりお車にて約１０分</td>
                 <td className="p-3 text-stone-600">有り（無料）　１００台　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★3.97（304件）</td>
                 <td className="p-3 font-bold text-rose-600">¥10,424〜</td>
@@ -503,7 +503,7 @@ export default function FurusatoFeaturePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 湯西川温泉　ホテル湯西川（伊東園ホテルズ）</td>
                 <td className="p-3 text-stone-600">栃木県日光市湯西川597</td>
-                <td className="p-3 text-stone-600">湯西川温泉駅周辺</td>
+                <td className="p-3 text-stone-600">湯西川温泉駅よりバスにて約20分（ホテル湯西川前下車）</td>
                 <td className="p-3 text-stone-600">有り　７０台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.03（969件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,248〜</td>
@@ -512,7 +512,7 @@ export default function FurusatoFeaturePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 鬼怒川温泉　鬼怒川グランドホテル　夢の季（ゆめのとき）</td>
                 <td className="p-3 text-stone-600">栃木県日光市鬼怒川温泉大原1021</td>
-                <td className="p-3 text-stone-600">鬼怒川温泉駅周辺</td>
+                <td className="p-3 text-stone-600">鬼怒川温泉駅より徒歩8分／日光・宇都宮有料道路今市ＩＣより車で20分</td>
                 <td className="p-3 text-stone-600">有　無料先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.5（781件）</td>
                 <td className="p-3 font-bold text-rose-600">¥16,300〜</td>
@@ -521,7 +521,7 @@ export default function FurusatoFeaturePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 袋田温泉　思い出浪漫館</td>
                 <td className="p-3 text-stone-600">茨城県久慈郡大子町袋田978</td>
-                <td className="p-3 text-stone-600"></td>
+                <td className="p-3 text-stone-600">茨城県久慈郡大子町袋田978 ／ 交通案内：</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.46（2012件）</td>
                 <td className="p-3 font-bold text-rose-600">¥9,000〜</td>
@@ -550,7 +550,7 @@ export default function FurusatoFeaturePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>20台（無料）／専用駐車場は当館横と裏側にあります。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「15年振りの利用も変わらぬ美味しさと親切な接客約15年振りに利用させてもらいました。朝夕食は変わらず大変美味しく本当に大満足でした!給仕の方も皆さん親切で気持ちよく過ごすことができました。ありがと…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「15年振りの利用も変わらぬ美味しさと親切な接客約15年振りに利用させてもらいました。朝夕食は変わらず大変美味しく本当に大満足でした!給仕の方も皆さん親切で気持ちよく過ごすことができました。」
                   </blockquote>
                 </div>
               </div>
@@ -572,7 +572,7 @@ export default function FurusatoFeaturePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り（無料）　１００台　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋が狭く設備も古く、再訪はない今回与えられた部屋は、小屋もしくは安アパートの様なものでした入った瞬間に帰りたいと思いました、リピートはありません」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋が狭く設備も古く、再訪はない今回与えられた部屋は、小屋もしくは安アパートの様なものでした入った瞬間に帰りたいと思いました、リピートはありませんhttps:/。」
                   </blockquote>
                 </div>
               </div>
@@ -594,7 +594,7 @@ export default function FurusatoFeaturePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　７０台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4 ／ 立地 ★4.03 ／ 部屋 ★3.88 ／ 設備 ★3.81 ／ 風呂 ★4.17 ／ 食事 ★3.89</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「座椅子の裏に大量のホコリがあり残念食事は普通の伊東園ホテルレベルです。とても静かな環境で、平日のためか混雑している感は無く、綺麗なお風呂でゆっくりできました。残念な事がは綺麗な畳に横になっている時…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「座椅子の裏に大量のホコリがあり残念食事は普通の伊東園ホテルレベルです。とても静かな環境で、平日のためか混雑している感は無く、綺麗なお風呂でゆっくりできました。」
                   </blockquote>
                 </div>
               </div>
@@ -616,7 +616,7 @@ export default function FurusatoFeaturePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有　無料先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.58 ／ 立地 ★4.35 ／ 部屋 ★4.53 ／ 設備 ★4.4 ／ 風呂 ★4.48 ／ 食事 ★4.62</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「価格以上の満足感、料理もお風呂も最高価格がかなり割引になっていたので、決めました。鬼怒川は以前働いていたので、よく知っているので高級ホテルと言う事は知っていました。料理もお風呂も満足です…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「価格以上の満足感、料理もお風呂も最高価格がかなり割引になっていたので、決めました。鬼怒川は以前働いていたので、よく知っているので高級ホテルと言う事は知っていました。」
                   </blockquote>
                 </div>
               </div>

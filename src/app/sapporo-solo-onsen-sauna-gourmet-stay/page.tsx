@@ -380,8 +380,8 @@ export default function ArticlePage() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> さっぽろ駅よりアクセス。JR札幌駅・地下鉄さっぽろ駅から徒歩約13分／地下鉄大通駅から徒歩約8分。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「ＯＮＳＥＮ ＲＹＯＫＡＮ 由縁 札幌」にチェックイン。2020年8月開業 札幌都心で天然温泉が楽しめる、露天風呂付温泉ホテル旅館。大通駅から徒歩約8分などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「ＯＮＳＥＮ ＲＹＯＫＡＮ 由縁 札幌」の湯処へ。2020年8月開業 札幌都心で天然温泉が楽しめる、露天風呂付温泉ホテルとともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「ＯＮＳＥＮ ＲＹＯＫＡＮ 由縁 札幌」にチェックイン。2020年8月開業 札幌都心で天然温泉が楽しめる、露天風呂付温泉ホテル旅館。大通駅から徒歩約8分が魅力の一軒。客室で荷物をほどいて穏やかな午後のひとときを。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「ＯＮＳＥＮ ＲＹＯＫＡＮ 由縁 札幌」の湯船で寛ぎタイム。季節の空気を感じながら手足を伸ばし、心豊かな夕方のリラックス時間を満喫。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「ＯＮＳＥＮ ＲＹＯＫＡＮ 由縁 札幌」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>

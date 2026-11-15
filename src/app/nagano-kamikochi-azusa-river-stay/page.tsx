@@ -253,7 +253,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 星降るホテル　上高地大正池ホテル</td>
                 <td className="p-3 text-stone-600">長野県松本市安曇上高地</td>
-                <td className="p-3 text-stone-600">新島々駅周辺</td>
+                <td className="p-3 text-stone-600">大正池バス停目の前♪松本電鉄 新島々駅から松本電鉄上高地行きバスで５０分、「大正池バス停」下車、徒歩０分</td>
                 <td className="p-3 text-stone-600">無し</td>
                 <td className="p-3 font-bold text-amber-600">★4.39（361件）</td>
                 <td className="p-3 font-bold text-rose-600">¥23,100〜</td>
@@ -262,7 +262,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 上高地　ホテル白樺荘</td>
                 <td className="p-3 text-stone-600">長野県松本市安曇上高地4468</td>
-                <td className="p-3 text-stone-600">新島々駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ松本駅より松本電鉄終点新島々バス上高地行き乗換、JR高山駅よりバス平湯にてシャトルバス・タクシーに乗換。</td>
                 <td className="p-3 text-stone-600">上高地マイカー規制のため車の乗入れ不可。沢渡または平湯の公共駐車場をご利用ください。</td>
                 <td className="p-3 font-bold text-amber-600">高評価</td>
                 <td className="p-3 font-bold text-rose-600">プラン参照</td>
@@ -271,7 +271,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. さわんど温泉　上高地ホテル</td>
                 <td className="p-3 text-stone-600">長野県松本市安曇さわんど温泉4171</td>
-                <td className="p-3 text-stone-600">松本駅周辺</td>
+                <td className="p-3 text-stone-600">長野自動車道松本ICより車で約45分 高山清見道路高山ICより車で約70分</td>
                 <td className="p-3 text-stone-600">有り　23台【無料】　徒歩3分の岩見平駐車場から上高地までバスで約20分</td>
                 <td className="p-3 font-bold text-amber-600">★4.2（504件）</td>
                 <td className="p-3 font-bold text-rose-600">¥16,800〜</td>
@@ -280,7 +280,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 奥飛騨温泉郷　新穂高温泉　リゾートインちろり庵</td>
                 <td className="p-3 text-stone-600">岐阜県高山市奥飛騨温泉郷中尾60</td>
-                <td className="p-3 text-stone-600">高山駅周辺</td>
+                <td className="p-3 text-stone-600">JR高山本線・高山駅～新穂高行バス「星の鐘前」下車/東海北陸道高山IC・長野自動車道松本IC～R158で1時間半</td>
                 <td className="p-3 text-stone-600">有り　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.41（444件）</td>
                 <td className="p-3 font-bold text-rose-600">¥16,500〜</td>
@@ -289,7 +289,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 白骨温泉　お宿つるや　（旧：つるや旅館）</td>
                 <td className="p-3 text-stone-600">長野県松本市安曇4202-6</td>
-                <td className="p-3 text-stone-600">松本ICより沢渡経由で車で60分。国道158号線→沢渡（さわんど）より</td>
+                <td className="p-3 text-stone-600">松本ICより沢渡経由で車で60分。国道158号線→沢渡（さわんど）より県道300号線が最短ルートです。</td>
                 <td className="p-3 text-stone-600">有り　約２０台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.06（611件）</td>
                 <td className="p-3 font-bold text-rose-600">¥9,900〜</td>
@@ -318,7 +318,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無し</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「雨の大正池も風情があり、食事も美味雨が降っていたので残念でしたが、部屋の窓から見える雨の大正池も良かったです。次は晴れてる時に泊まりたいです。夕食も朝食も美味しかったです。…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「雨の大正池も風情があり、食事も美味雨が降っていたので残念でしたが、部屋の窓から見える雨の大正池も良かったです。次は晴れてる時に泊まりたいです。夕食も朝食も美味しかったです。」
                   </blockquote>
                 </div>
               </div>
@@ -362,7 +362,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　23台【無料】　徒歩3分の岩見平駐車場から上高地までバスで約20分</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「最高のホテルでした!1泊3人で宿泊しました。チェックなど、スタッフの方の説明に無駄がなく皆さん笑顔で気持ちがよかったです。朝、夕の食事が最高すぎました。量も味も大満足!一口ステーキがとても柔らかく…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「最高のホテルでした!1泊3人で宿泊しました。チェックなど、スタッフの方の説明に無駄がなく皆さん笑顔で気持ちがよかったです。朝、夕の食事が最高すぎました。量も味も大満足!」
                   </blockquote>
                 </div>
               </div>
@@ -406,7 +406,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　約２０台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「泉質と涼しさが最高、来年の再訪が楽しみ色々古いですが、それでもリピート確定なお宿です。お風呂はまさに好み。泉質がよくぬるめで、開放感もあり、いつまでも入っていられます。食事もおいしいし、連…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「泉質と涼しさが最高、来年の再訪が楽しみ色々古いですが、それでもリピート確定なお宿です。お風呂はまさに好み。泉質がよくぬるめで、開放感もあり、いつまでも入っていられます。」
                   </blockquote>
                 </div>
               </div>

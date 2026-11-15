@@ -426,7 +426,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. チサンホテル郡山</td>
                 <td className="p-3 text-stone-600">福島県郡山市駅前1-8-18</td>
-                <td className="p-3 text-stone-600">郡山（福島）駅周辺</td>
+                <td className="p-3 text-stone-600">JR郡山駅西口より徒歩2分、郡山ＩＣより車で約20分。</td>
                 <td className="p-3 text-stone-600">駐車場につきましては【駐車場のご案内】ページをご参照下さい</td>
                 <td className="p-3 font-bold text-amber-600">★3.88（3385件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,500〜</td>
@@ -435,7 +435,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. ＥＮ　ＲＥＳＯＲＴ　Ｇｒａｎｄｅｃｏ　Ｈｏｔｅｌ（エンリゾート　グランデコ）</td>
                 <td className="p-3 text-stone-600">福島県耶麻郡北塩原村桧原荒砂沢山1082〔会津裏磐梯〕</td>
-                <td className="p-3 text-stone-600">猪苗代駅周辺</td>
+                <td className="p-3 text-stone-600">磐越道「猪苗代磐梯高原ＩＣ」より、裏磐梯方面へお車で約２０分後、五色沼交差点より約１５分★ＪＲ猪苗代駅直通シャトルバス有</td>
                 <td className="p-3 text-stone-600">有り　100台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.43（1642件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,400〜</td>
@@ -444,7 +444,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 会津若松ワシントンホテル</td>
                 <td className="p-3 text-stone-600">福島県会津若松市白虎町201</td>
-                <td className="p-3 text-stone-600">会津若松駅周辺</td>
+                <td className="p-3 text-stone-600">JR磐越西線会津若松駅より徒歩約３分</td>
                 <td className="p-3 text-stone-600">※駐車場は先着順でのご利用をお願いします。 近隣に有料駐車場（一晩500円）あり.※大型車は駐車不可</td>
                 <td className="p-3 font-bold text-amber-600">★3.95（2713件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,100〜</td>
@@ -453,7 +453,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 磐梯熱海温泉　紅葉館きらくや</td>
                 <td className="p-3 text-stone-600">福島県郡山市熱海町熱海4-39</td>
-                <td className="p-3 text-stone-600">磐梯熱海駅周辺</td>
+                <td className="p-3 text-stone-600">●磐梯熱海駅下車、徒歩２分。●磐越自動車道磐梯熱海ICから３Km</td>
                 <td className="p-3 text-stone-600">有り　４０台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.18（957件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,550〜</td>
@@ -462,7 +462,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. セントラルホテル＜福島県＞</td>
                 <td className="p-3 text-stone-600">福島県郡山市本町1-10-13</td>
-                <td className="p-3 text-stone-600">郡山（福島）駅周辺</td>
+                <td className="p-3 text-stone-600">郡山駅より徒歩１２．３分、郡山Ｉ．Ｃから約２０分。</td>
                 <td className="p-3 text-stone-600">有り　４０台　５００円</td>
                 <td className="p-3 font-bold text-amber-600">★3.88（1090件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,000〜</td>
@@ -513,7 +513,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　100台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「足腰の弱い方でも過ごしやすいホテルです。今回は、母と母の幼なじみの方をお連れしての旅行でした。80を過ぎ、歳と共に足腰が悪くなってきましたが、ここは急な階段などが少なく、とても過ごし易いそうで、私…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「足腰の弱い方でも過ごしやすいホテルです。今回は、母と母の幼なじみの方をお連れしての旅行でした。」
                   </blockquote>
                 </div>
               </div>
@@ -535,7 +535,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>※駐車場は先着順でのご利用をお願いします。 近隣に有料駐車場（一晩500円）あり.※大型車は駐車不可</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4 ／ 立地 ★3.99 ／ 部屋 ★3.83 ／ 設備 ★3.77 ／ 風呂 ★3.77 ／ 食事 ★4.39</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「地のもの尽くしのバイキングと便利な立地バイキングが地のものばかりです。馬肉の肉じゃが、牛乳・野菜・ヨーグルト・納豆・蕎麦・・・どれも満足です。また、全部手間暇かけて作っているんだなぁと思える食事ば…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「地のもの尽くしのバイキングと便利な立地バイキングが地のものばかりです。馬肉の肉じゃが、牛乳・野菜・ヨーグルト・納豆・蕎麦・・・どれも満足です。」
                   </blockquote>
                 </div>
               </div>
@@ -579,7 +579,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　４０台　５００円</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.86 ／ 立地 ★3.73 ／ 部屋 ★3.86 ／ 設備 ★3.87 ／ 風呂 ★3.78 ／ 食事 ★3.83</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近でコスパ良好、寝るだけなら十分寝るだけのためでの宿泊でしたが、フロントの対応も必要不可欠な部分に対してチャンと説明があり分かりやすかった。また、朝食については事前に軽食との説明があったので…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近でコスパ良好、寝るだけなら十分寝るだけのためでの宿泊でしたが、フロントの対応も必要不可欠な部分に対してチャンと説明があり分かりやすかった。」
                   </blockquote>
                 </div>
               </div>

@@ -351,7 +351,7 @@ export default function FurusatoUpgradedPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 和の宿　ホテル祖谷温泉</td>
                 <td className="p-3 text-stone-600">徳島県三好市池田町松尾松本367-28</td>
-                <td className="p-3 text-stone-600">阿波池田駅周辺</td>
+                <td className="p-3 text-stone-600">井川池田ＩＣより約２５km（国道３２号線経由）／ＪＲ大歩危駅下車 四国交通バスで約30分</td>
                 <td className="p-3 text-stone-600">有り　３７台　先着順　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.64（568件）</td>
                 <td className="p-3 font-bold text-rose-600">¥23,100〜</td>
@@ -360,7 +360,7 @@ export default function FurusatoUpgradedPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 高千穂　旅館　神仙</td>
                 <td className="p-3 text-stone-600">宮崎県西臼杵郡高千穂町三田井1127-5</td>
-                <td className="p-3 text-stone-600">高千穂バスセンターよりタクシーで５分／九州自動車道　松橋ＩＣより車で約</td>
+                <td className="p-3 text-stone-600">高千穂バスセンターよりタクシーで５分／九州自動車道 松橋ＩＣより車で約１００分</td>
                 <td className="p-3 text-stone-600">有　２０台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.79（244件）</td>
                 <td className="p-3 font-bold text-rose-600">¥49,500〜</td>
@@ -369,7 +369,7 @@ export default function FurusatoUpgradedPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 信州秋山郷　切明温泉　切明リバーサイドハウス</td>
                 <td className="p-3 text-stone-600">長野県下水内郡栄村切明17878-2</td>
-                <td className="p-3 text-stone-600">越後湯沢駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ越後湯沢から森宮野原行きバスで50分津南下車、乗換え路線バス終点地見玉よりデマンドバス（要予約）</td>
                 <td className="p-3 text-stone-600">有り　５０台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.63（74件）</td>
                 <td className="p-3 font-bold text-rose-600">¥11,300〜</td>
@@ -398,7 +398,7 @@ export default function FurusatoUpgradedPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　３７台　先着順　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.69 ／ 立地 ★4.77 ／ 部屋 ★4.67 ／ 設備 ★4.51 ／ 風呂 ★4.73 ／ 食事 ★4.63</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「階段を上り下りしてでも入りたい露天風呂山に包まれた、秘境感溢れる立地に、そして、谷底にある川のせせらぎを聞きながら浸かる風情溢れる露天風呂、本当に非日常を思う存分楽しめ、至福の時が過ごせました。…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「階段を上り下りしてでも入りたい露天風呂山に包まれた、秘境感溢れる立地に、そして、谷底にある川のせせらぎを聞きながら浸かる風情溢れる露天風呂、本当に非日常を思う存分楽しめ、至福の時が過ごせました。」
                   </blockquote>
                 </div>
               </div>

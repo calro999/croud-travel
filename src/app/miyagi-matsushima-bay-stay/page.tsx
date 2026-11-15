@@ -253,7 +253,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 松島温泉　松島センチュリーホテル</td>
                 <td className="p-3 text-stone-600">宮城県宮城郡松島町松島字仙随８番地</td>
-                <td className="p-3 text-stone-600">松島海岸駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ仙石線松島海岸駅下車徒歩10分、ＪＲ東北本線松島駅下車徒歩15分</td>
                 <td className="p-3 text-stone-600">有り　100台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.44（1951件）</td>
                 <td className="p-3 font-bold text-rose-600">¥15,400〜</td>
@@ -262,7 +262,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 松島温泉　ホテル大松荘</td>
                 <td className="p-3 text-stone-600">宮城県宮城郡松島町松島字町内25</td>
-                <td className="p-3 text-stone-600">松島海岸駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ松島海岸駅より徒歩１分。東北自動車道仙台南IC～南部道路～三陸自動車道 松島海岸ICより３分</td>
                 <td className="p-3 text-stone-600">有り　50台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★3.97（598件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,800〜</td>
@@ -271,7 +271,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 松島温泉　ホテル絶景の館</td>
                 <td className="p-3 text-stone-600">宮城県宮城郡松島町松島東浜4-6</td>
-                <td className="p-3 text-stone-600">松島海岸駅周辺</td>
+                <td className="p-3 text-stone-600">仙石線 松島海岸駅・東北本線 松島駅 （15：00～21：00まで送迎有・予約不可）／三陸道松島ICより１０分</td>
                 <td className="p-3 text-stone-600">無料　４０台</td>
                 <td className="p-3 font-bold text-amber-600">★4.53（1637件）</td>
                 <td className="p-3 font-bold text-rose-600">¥9,000〜</td>
@@ -280,7 +280,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 奥松島レーンホテル～旬の美味と大浴場「松島・嵯峨の湯」</td>
                 <td className="p-3 text-stone-600">宮城県東松島市野蒜ケ丘3-29-1</td>
-                <td className="p-3 text-stone-600">陸前大塚駅周辺</td>
+                <td className="p-3 text-stone-600">松島から車で約１０分の好アクセス。ＪＲ仙石線 陸前大塚駅／東名駅より徒歩にて約１０分。送迎可能※要事前予約</td>
                 <td className="p-3 text-stone-600">有り　５０台　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.39（174件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,500〜</td>
@@ -289,7 +289,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 奥松島　漁師の宿　桜荘</td>
                 <td className="p-3 text-stone-600">宮城県東松島市宮戸里25</td>
-                <td className="p-3 text-stone-600">野蒜駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ野蒜駅より車で１5分。三陸自動車道 鳴瀬・奥松島ICより車で15分。送迎可※要事前予約</td>
                 <td className="p-3 text-stone-600">有り　１0台　5分程のところに桜荘臨時駐車場も有りマイクロバス等もとめられます。</td>
                 <td className="p-3 font-bold text-amber-600">★4.86（415件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,200〜</td>
@@ -298,7 +298,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">6. 松島温泉　小松館　好風亭</td>
                 <td className="p-3 text-stone-600">宮城県宮城郡松島町松島字仙随35-2</td>
-                <td className="p-3 text-stone-600">松島駅周辺</td>
+                <td className="p-3 text-stone-600">JR仙台駅より仙石線・東北本線で40分。仙石線松島海岸駅・東北本線松島駅より車で５分</td>
                 <td className="p-3 text-stone-600">有り　５０台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.63（1134件）</td>
                 <td className="p-3 font-bold text-rose-600">¥11,000〜</td>
@@ -327,7 +327,7 @@ export default function MicroTouristHubPage() {
                   <p>【宮城・日本三景松島：松島湾260島パノラマ・瑞巌寺＆】 <strong>【駐車場・マイカー利用】</strong>有り　100台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「花火の配慮が嬉しく素敵な夜を過ごせた家族旅行で利用しました。子どもに花火をいただきましたが、夕飯との兼ね合いでできそうにないねと子どもと話しといたところ、花火の時間を延長しますと言っていただけ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「花火の配慮が嬉しく素敵な夜を過ごせた家族旅行で利用しました。」
                   </blockquote>
                 </div>
               </div>
@@ -349,7 +349,7 @@ export default function MicroTouristHubPage() {
                   <p>【宮城・日本三景松島：松島湾260島パノラマ・瑞巌寺＆】 <strong>【駐車場・マイカー利用】</strong>有り　50台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「好立地で清掃も行き届くが設備に難あり夏に素泊まりの利用でした。写真は部屋からの景色です。駅から徒歩3分もかからず、なお車なら駐車場も無料利用が可能な好立地のホテル。福浦橋までが割と歩きます…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「好立地で清掃も行き届くが設備に難あり夏に素泊まりの利用でした。写真は部屋からの景色です。駅から徒歩3分もかからず、なお車なら駐車場も無料利用が可能な好立地のホテル。」
                   </blockquote>
                 </div>
               </div>
@@ -371,7 +371,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料　４０台</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「景色と食事が最高、脱衣所の清掃に改善希望部屋からの景色がとても綺麗でした。部屋とバス・トイレも清潔でした。夕飯はお刺身が美味しかったです。 脱衣所は狭く、混んでるときは大変だなとおもいました。ドラ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「景色と食事が最高、脱衣所の清掃に改善希望部屋からの景色がとても綺麗でした。部屋とバス・トイレも清潔でした。夕飯はお刺身が美味しかったです。 脱衣所は狭く、混んでるときは大変だなとおもいました。」
                   </blockquote>
                 </div>
               </div>
@@ -415,7 +415,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１0台　5分程のところに桜荘臨時駐車場も有りマイクロバス等もとめられます。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「美味しい料理と海辺の散歩で心身ともに癒やされたお料理もとても美味しく、宿の方も良い方で素晴らしい旅になりました。夕方に海辺を散歩しましたが、とても美しく心も体も癒されました。クチコミの詳細はこ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「美味しい料理と海辺の散歩で心身ともに癒やされたお料理もとても美味しく、宿の方も良い方で素晴らしい旅になりました。夕方に海辺を散歩しましたが、とても美しく心も体も癒されました。」
                   </blockquote>
                 </div>
               </div>
@@ -437,7 +437,7 @@ export default function MicroTouristHubPage() {
                   <p>【宮城・日本三景松島：松島湾260島パノラマ・瑞巌寺＆】 <strong>【駐車場・マイカー利用】</strong>有り　５０台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「宝石ご飯が絶品、松島湾を望む足湯も最高夕飯のコース料理で「宝石ご飯」がとても美味しかったです。足湯をしながら松島湾を眺められるところも良かったです。温泉の温度も熱すぎず、露天風呂も気持ちよく入れま…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「宝石ご飯が絶品、松島湾を望む足湯も最高夕飯のコース料理で「宝石ご飯」がとても美味しかったです。足湯をしながら松島湾を眺められるところも良かったです。」
                   </blockquote>
                 </div>
               </div>

@@ -485,7 +485,7 @@ export default function FurusatoFeaturePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 日光金谷ホテル</td>
                 <td className="p-3 text-stone-600">栃木県日光市上鉢石町1300</td>
-                <td className="p-3 text-stone-600">東武日光駅周辺</td>
+                <td className="p-3 text-stone-600">東武・ＪＲ日光駅よりバス約５分、神橋バス停下車／日光－宇都宮有料道路日光ＩＣより神橋交差点近く 日光東照宮より徒歩15分</td>
                 <td className="p-3 text-stone-600">有り（屋外）　６０台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.47（912件）</td>
                 <td className="p-3 font-bold text-rose-600">¥17,500〜</td>
@@ -494,7 +494,7 @@ export default function FurusatoFeaturePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 箱根湯本温泉　湯本富士屋ホテル</td>
                 <td className="p-3 text-stone-600">神奈川県足柄下郡箱根町湯本256-1</td>
-                <td className="p-3 text-stone-600">箱根湯本駅周辺</td>
+                <td className="p-3 text-stone-600">新宿駅より小田急線ロマンスカーにて約90分、箱根湯本駅下車徒歩3分。</td>
                 <td className="p-3 text-stone-600">無料駐車場150台。小田厚道路箱根口ICより約3km、お車でのご来館も大変便利です。</td>
                 <td className="p-3 font-bold text-amber-600">★4.34（1463件）</td>
                 <td className="p-3 font-bold text-rose-600">¥17,600〜</td>
@@ -503,7 +503,7 @@ export default function FurusatoFeaturePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 富士屋ホテル</td>
                 <td className="p-3 text-stone-600">神奈川県足柄下郡箱根町宮ノ下359</td>
-                <td className="p-3 text-stone-600">宮ノ下駅周辺</td>
+                <td className="p-3 text-stone-600">箱根登山鉄道「宮ノ下駅」より 徒歩７分 / 小田原厚木道路「箱根口IC」より国道1号線経由20分 （11㎞）</td>
                 <td className="p-3 text-stone-600">有り(無料)</td>
                 <td className="p-3 font-bold text-amber-600">★4.78（2257件）</td>
                 <td className="p-3 font-bold text-rose-600">¥22,220〜</td>
@@ -512,7 +512,7 @@ export default function FurusatoFeaturePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. ＳＴＡＧＩＯＮＥ箱根湯本</td>
                 <td className="p-3 text-stone-600">神奈川県足柄下郡箱根町湯本327-1　スタジオーネ箱根湯本ＥＡＳＴ－101</td>
-                <td className="p-3 text-stone-600">箱根湯本駅周辺</td>
+                <td className="p-3 text-stone-600">小田急線 箱根登山鉄道 「箱根湯本駅」 箱根方面バス口 約７分</td>
                 <td className="p-3 text-stone-600">有り　１組１台　無料　予備もございます</td>
                 <td className="p-3 font-bold text-amber-600">高評価</td>
                 <td className="p-3 font-bold text-rose-600">¥5,835〜</td>
@@ -521,7 +521,7 @@ export default function FurusatoFeaturePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 雲仙観光ホテル</td>
                 <td className="p-3 text-stone-600">長崎県雲仙市小浜町雲仙320</td>
-                <td className="p-3 text-stone-600">諫早駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ諫早駅よりバスで８０分／諫早ＩＣより車で６０分／島原外港より車・バスで４０分</td>
                 <td className="p-3 text-stone-600">無料にてご用意がございます。約30台・ 屋外駐車場のみ・ヴァレーパーキング：一部可</td>
                 <td className="p-3 font-bold text-amber-600">★4.73（240件）</td>
                 <td className="p-3 font-bold text-rose-600">¥29,590〜</td>
@@ -550,7 +550,7 @@ export default function FurusatoFeaturePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り（屋外）　６０台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.51 ／ 立地 ★4.53 ／ 部屋 ★4.37 ／ 設備 ★4.19 ／ 風呂 ★3.99 ／ 食事 ★4.65</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「趣ある空間と親切な接客、朝食の提供タイミングが残念リゾートホテルの草分けらしく、建物や内装に趣きがあり、ゆったりした時間を過ごせました。スタッフのみなさんもとても親切で癒されました。和朝食も美…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「趣ある空間と親切な接客、朝食の提供タイミングが残念リゾートホテルの草分けらしく、建物や内装に趣きがあり、ゆったりした時間を過ごせました。スタッフのみなさんもとても親切で癒されました。」
                   </blockquote>
                 </div>
               </div>
@@ -572,7 +572,7 @@ export default function FurusatoFeaturePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料駐車場150台。小田厚道路箱根口ICより約3km、お車でのご来館も大変便利です。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「プールでの親切な対応と朝食に満足初日に子どもとプールに入りましたが、ちゃんと監視員さん、見回る方もいてよかったです。その内の一人の方が、子どもが見た目に分かる怪我をしていたからか、とても親切にして…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「プールでの親切な対応と朝食に満足初日に子どもとプールに入りましたが、ちゃんと監視員さん、見回る方もいてよかったです。」
                   </blockquote>
                 </div>
               </div>
@@ -594,7 +594,7 @@ export default function FurusatoFeaturePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り(無料)</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「憧れのホテルで過ごす快適な箱根旅憧れのホテルに宿泊できて嬉しいです。交通手段は箱根登山鉄道の宮ノ下駅や、箱根登山バスのホテル前が最寄りです。荷物を預かっていただき、日中は箱根湯本を…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「憧れのホテルで過ごす快適な箱根旅憧れのホテルに宿泊できて嬉しいです。交通手段は箱根登山鉄道の宮ノ下駅や、箱根登山バスのホテル前が最寄りです。」
                   </blockquote>
                 </div>
               </div>
@@ -638,7 +638,7 @@ export default function FurusatoFeaturePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料にてご用意がございます。約30台・ 屋外駐車場のみ・ヴァレーパーキング：一部可</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.8 ／ 立地 ★4.69 ／ 部屋 ★4.78 ／ 設備 ★4.64 ／ 風呂 ★4.71 ／ 食事 ★4.82</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「夕食のフレンチが絶品、また食べに行きたい夕食のフレンチコースが地産のもので構成されていて盛り付けも良いし味も絶品でした。びっくりするくらいに美味しかったです。全国のクラシックホテルを訪れていて、今…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「夕食のフレンチが絶品、また食べに行きたい夕食のフレンチコースが地産のもので構成されていて盛り付けも良いし味も絶品でした。びっくりするくらいに美味しかったです。」
                   </blockquote>
                 </div>
               </div>

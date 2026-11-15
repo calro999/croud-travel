@@ -253,7 +253,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 宮島グランドホテル　有もと</td>
                 <td className="p-3 text-stone-600">広島県廿日市市宮島町南町364</td>
-                <td className="p-3 text-stone-600">宮島口駅周辺</td>
+                <td className="p-3 text-stone-600">宮島口桟橋よりフェリーで１０分～宮島桟橋よりマイクロバスにて送迎</td>
                 <td className="p-3 text-stone-600">有り　５台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.58（1299件）</td>
                 <td className="p-3 font-bold text-rose-600">¥29,050〜</td>
@@ -262,7 +262,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 宮島　神撰の宿　ホテルみや離宮</td>
                 <td className="p-3 text-stone-600">広島県廿日市市宮島町849</td>
-                <td className="p-3 text-stone-600">宮島口駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ山陽本線宮島口駅下車、宮島口桟橋よりフェリーで１０分。宮島桟橋下船後、厳島神社方面へ徒歩5分／厳島神社まで徒歩約7分</td>
                 <td className="p-3 text-stone-600">交通規制があり駐車不可。乗船前に宮島口の駐車場をご利用下さい。（1泊約2000円）</td>
                 <td className="p-3 font-bold text-amber-600">★4.2（1046件）</td>
                 <td className="p-3 font-bold text-rose-600">¥12,000〜</td>
@@ -271,7 +271,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 安芸の御宿　みやじま庵廣島</td>
                 <td className="p-3 text-stone-600">広島県廿日市市宮島口4-4-15</td>
-                <td className="p-3 text-stone-600">宮島口駅周辺</td>
+                <td className="p-3 text-stone-600">宮島口駅徒歩8分 宮島桟橋徒歩10分 山陽道(廿日市インター）</td>
                 <td className="p-3 text-stone-600">【専用無料駐車場有り】　チェクイン前チェクアウト後も駐車可能　キャンピングカーも駐車可能</td>
                 <td className="p-3 font-bold text-amber-600">★3.99（248件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,900〜</td>
@@ -280,7 +280,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 宮島コーラルホテル</td>
                 <td className="p-3 text-stone-600">広島県廿日市市宮島口1-9-8</td>
-                <td className="p-3 text-stone-600">宮島口駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ宮島口駅下車 徒歩5分・広島電鉄宮島口駅下車 徒歩３分</td>
                 <td className="p-3 text-stone-600">有り　55台　到着日の15時〜出立日の正午まで無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.28（2049件）</td>
                 <td className="p-3 font-bold text-rose-600">¥11,550〜</td>
@@ -289,7 +289,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 宮島　ホテル菊乃家</td>
                 <td className="p-3 text-stone-600">広島県廿日市市宮島町335</td>
-                <td className="p-3 text-stone-600">宮島口駅周辺</td>
+                <td className="p-3 text-stone-600">宮島桟橋より徒歩15分（ホテルより送迎あり。フェリー乗船前にお電話いただけましたらお迎えに参ります）</td>
                 <td className="p-3 text-stone-600">駐車場なし（フェリーご乗船前の一般の駐車場にお止めください）</td>
                 <td className="p-3 font-bold text-amber-600">★4.41（630件）</td>
                 <td className="p-3 font-bold text-rose-600">¥12,320〜</td>
@@ -298,7 +298,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">6. リブマックスリゾート宮浜温泉Ｏｃｅａｎ</td>
                 <td className="p-3 text-stone-600">広島県廿日市市宮浜温泉2-13-10</td>
-                <td className="p-3 text-stone-600">山陽本線 [大野浦駅]から車で5分・[玖波駅]から車で5分・[宮島口駅</td>
+                <td className="p-3 text-stone-600">山陽本線 [大野浦駅]から車で5分・[玖波駅]から車で5分・[宮島口駅]から車で15分 岩国空港から車で30分</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.21（911件）</td>
                 <td className="p-3 font-bold text-rose-600">¥12,250〜</td>
@@ -349,7 +349,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>交通規制があり駐車不可。乗船前に宮島口の駐車場をご利用下さい。（1泊約2000円）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事の量が少なく夜食の準備が必要定食の量を3食食べるのが苦手な私でもグレードアップの割には量がとても少ない。島唯一のコンビニは21時ごろには閉まるので夜食を買って行った方が安心。…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事の量が少なく夜食の準備が必要定食の量を3食食べるのが苦手な私でもグレードアップの割には量がとても少ない。島唯一のコンビニは21時ごろには閉まるので夜食を買って行った方が安心。」
                   </blockquote>
                 </div>
               </div>
@@ -371,7 +371,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>【専用無料駐車場有り】　チェクイン前チェクアウト後も駐車可能　キャンピングカーも駐車可能</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「瀬戸内海と宮島、電車も一望できる絶景屋上や部屋から静かな瀬戸内海と宮島の島影が見えて、小さくですが大鳥居もたたずむ景色が本当に良かったです。あと、道を挟んでJR山陽本線と広島電鉄が見えるの…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「瀬戸内海と宮島、電車も一望できる絶景屋上や部屋から静かな瀬戸内海と宮島の島影が見えて、小さくですが大鳥居もたたずむ景色が本当に良かったです。」
                   </blockquote>
                 </div>
               </div>
@@ -437,7 +437,7 @@ export default function MicroTouristHubPage() {
                   <p>【広島・宮島＆嚴島神社：海に浮かぶ大鳥居・弥山＆牡蠣・】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋は広々快適だが食事会場は混雑気味オーシャンスイートに泊まりました。部屋は広々しており居心地も良く設備等含め快適でした。食事はバイキング会場が狭く隣との間隔があまりないので、テーブルを仕切っ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋は広々快適だが食事会場は混雑気味オーシャンスイートに泊まりました。部屋は広々しており居心地も良く設備等含め快適でした。」
                   </blockquote>
                 </div>
               </div>

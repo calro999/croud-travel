@@ -401,7 +401,7 @@ export default function AutumnBudgetHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 島根浜田ワシントンホテルプラザ</td>
                 <td className="p-3 text-stone-600">島根県浜田市黒川町4177</td>
-                <td className="p-3 text-stone-600">浜田駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ浜田駅より徒歩約３分。石見空港よりお車にて約５０分。</td>
                 <td className="p-3 text-stone-600">800円/浜田市営道分山立体駐車場利用</td>
                 <td className="p-3 font-bold text-amber-600">★4.01（1233件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,100〜</td>
@@ -410,7 +410,7 @@ export default function AutumnBudgetHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 松江エクセルホテル東急</td>
                 <td className="p-3 text-stone-600">島根県松江市朝日町590</td>
-                <td className="p-3 text-stone-600">松江駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ松江駅前、出雲空港より車で約30分／米子空港より車で約40分／八重垣神社まで車で15分</td>
                 <td className="p-3 text-stone-600">1泊1200円（15時から翌10時まで）。平面駐車場、ゲート自動開閉で40台収容。</td>
                 <td className="p-3 font-bold text-amber-600">★4.35（1689件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,205〜</td>
@@ -419,7 +419,7 @@ export default function AutumnBudgetHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 寛ぎの宿　輝雲荘</td>
                 <td className="p-3 text-stone-600">島根県大田市温泉津町温泉津ロ202-1</td>
-                <td className="p-3 text-stone-600">温泉津駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ温泉津駅下車</td>
                 <td className="p-3 text-stone-600">有り　無料14台</td>
                 <td className="p-3 font-bold text-amber-600">★4.42（910件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,500〜</td>
@@ -428,7 +428,7 @@ export default function AutumnBudgetHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. ホテルサンヌーベ</td>
                 <td className="p-3 text-stone-600">島根県出雲市西新町一丁目2548番地1</td>
-                <td className="p-3 text-stone-600">西出雲駅周辺</td>
+                <td className="p-3 text-stone-600">「JR西出雲駅」より徒歩１分／山陰道「出雲IC」より車で５分／「出雲大社」より車で約２０分／「石見銀山」より車で約５０分</td>
                 <td className="p-3 text-stone-600">50台（無料）／予約不要／広々とした平面駐車場完備（大型車両収容可能）</td>
                 <td className="p-3 font-bold text-amber-600">★4.21（1735件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,280〜</td>
@@ -437,7 +437,7 @@ export default function AutumnBudgetHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 松江しんじ湖温泉　ニューアーバンホテル本館・別館</td>
                 <td className="p-3 text-stone-600">島根県松江市西茶町40-1</td>
-                <td className="p-3 text-stone-600">松江駅周辺</td>
+                <td className="p-3 text-stone-600">★ＪＲ松江駅より『松江市営バス北循環線外回り』で７分須衛都久神社前下車下車徒歩１分 ★私鉄松江しんじ湖温泉駅より徒歩５分</td>
                 <td className="p-3 text-stone-600">有り　８０台（普通車）　800円(税込）／泊</td>
                 <td className="p-3 font-bold text-amber-600">★4.27（4576件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,250〜</td>
@@ -488,7 +488,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>1泊1200円（15時から翌10時まで）。平面駐車場、ゲート自動開閉で40台収容。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.35 ／ 立地 ★4.23 ／ 部屋 ★4.37 ／ 設備 ★4.29 ／ 風呂 ★4.26 ／ 食事 ★4.41</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「松江駅近くで便利、アメニティや朝食も満足松江・出雲旅行で一泊しました。松江駅から近く、とても便利です。今回女性専用フロアに宿泊しましたが、ベッドも広く、アメニティやドライヤーなどの設備もよ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「松江駅近くで便利、アメニティや朝食も満足松江・出雲旅行で一泊しました。松江駅から近く、とても便利です。」
                   </blockquote>
                 </div>
               </div>
@@ -510,7 +510,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　無料14台</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.49 ／ 立地 ★4.25 ／ 部屋 ★4.36 ／ 設備 ★4.23 ／ 風呂 ★4.43</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「サービスと食事内容に対し割高に感じた世界遺産登録の温泉街との事でしたが、街並みはともかく、宿は競合も少ないのか「サービス+食事」に比べて高額に感じました。 何度も緊急性の無い電話がかかってきた…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「サービスと食事内容に対し割高に感じた世界遺産登録の温泉街との事でしたが、街並みはともかく、宿は競合も少ないのか「サービス+食事」に比べて高額に感じました。」
                   </blockquote>
                 </div>
               </div>

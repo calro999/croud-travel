@@ -401,7 +401,7 @@ export default function AutumnBudgetHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. リッチモンドホテル山形駅前</td>
                 <td className="p-3 text-stone-600">山形県山形市双葉町1-3-11</td>
-                <td className="p-3 text-stone-600">山形駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ 山形駅西口より徒歩5分 やまぎん県民ホール目の前</td>
                 <td className="p-3 text-stone-600">有り　先着順36台　700円（税込み/泊）　満車の場合は隣接の提携駐車場へご案内致します</td>
                 <td className="p-3 font-bold text-amber-600">★4.44（4869件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,350〜</td>
@@ -410,7 +410,7 @@ export default function AutumnBudgetHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. ダイワロイネットホテル山形駅前</td>
                 <td className="p-3 text-stone-600">山形県山形市幸町2-9</td>
-                <td className="p-3 text-stone-600">山形駅周辺</td>
+                <td className="p-3 text-stone-600">JR山形駅東口より徒歩約3分</td>
                 <td className="p-3 text-stone-600">普通・ハイルーフ各16台（先着順）1,200円/泊（税込）※満車時は近隣提携外駐車場をご利用ください</td>
                 <td className="p-3 font-bold text-amber-600">★4.52（1487件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,700〜</td>
@@ -419,7 +419,7 @@ export default function AutumnBudgetHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 天然温泉　花笠の湯　スーパーホテル山形駅西口天然温泉</td>
                 <td className="p-3 text-stone-600">山形県山形市双葉町1-10-18</td>
-                <td className="p-3 text-stone-600">山形駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ 山形駅西口より徒歩6分</td>
                 <td className="p-3 text-stone-600">72台　普通車600円・大型車1000円　先着順（大型車は事前予約制）</td>
                 <td className="p-3 font-bold text-amber-600">★4.18（2147件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,310〜</td>
@@ -428,7 +428,7 @@ export default function AutumnBudgetHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. ホテルルートイン山形駅前</td>
                 <td className="p-3 text-stone-600">山形県山形市双葉町1-3-1</td>
-                <td className="p-3 text-stone-600">山形駅周辺</td>
+                <td className="p-3 text-stone-600">JR山形駅西口より徒歩約3～4分、東北自動車道 山形中央ICより車で約7分、山形自動車道 山形蔵王ICより車で約15分</td>
                 <td className="p-3 text-stone-600">有り　計102台　平面1,000円/日・立体600円/日　先着順・予約不可</td>
                 <td className="p-3 font-bold text-amber-600">★3.98（1351件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,100〜</td>
@@ -457,7 +457,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　先着順36台　700円（税込み/泊）　満車の場合は隣接の提携駐車場へご案内致します</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.47 ／ 立地 ★4.41 ／ 部屋 ★4.44 ／ 設備 ★4.38 ／ 風呂 ★4.29 ／ 食事 ★4.61</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食が断トツで素晴らしく大満足山形駅から程近く、問題はないが繁華街(飲み屋街)からは駅の反対側になるので夜遊びメインの方には不向きかも。それを補って余りある朝食の素晴らしさ。今まで泊ったことのある…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食が断トツで素晴らしく大満足山形駅から程近く、問題はないが繁華街(飲み屋街)からは駅の反対側になるので夜遊びメインの方には不向きかも。それを補って余りある朝食の素晴らしさ。」
                   </blockquote>
                 </div>
               </div>
@@ -523,7 +523,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　計102台　平面1,000円/日・立体600円/日　先着順・予約不可</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.01 ／ 立地 ★4.13 ／ 部屋 ★3.95 ／ 設備 ★3.89 ／ 風呂 ★4.03</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駐車場の係員とフロントの対応に不満何度も宿泊させていただいていますが、毎回駐車場の係の方の対応が悪すぎます。ずっと思ってましたが今回クチコミ書かせていただきました。また今回はフロントの方の…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駐車場の係員とフロントの対応に不満何度も宿泊させていただいていますが、毎回駐車場の係の方の対応が悪すぎます。ずっと思ってましたが今回クチコミ書かせていただきました。」
                   </blockquote>
                 </div>
               </div>

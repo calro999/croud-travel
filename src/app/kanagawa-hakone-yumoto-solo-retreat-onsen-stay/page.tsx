@@ -337,8 +337,8 @@ export default function ArticlePage() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 箱根湯本駅よりアクセス。「箱根湯本駅」より徒歩約6分／「温泉場入口」バス停より徒歩すぐ／小田原厚木道路「箱根口IC」より10分（5km）。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「箱根湯本 温泉旅館「大和館」」にチェックイン。～江戸初期創業。箱根最古の良質な温泉を「源泉かけ流し」「貸切」で～ 温泉ソムリエ がいる宿などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「箱根湯本 温泉旅館「大和館」」の湯処へ。～江戸初期創業。箱根最古の良質な温泉を「源泉かけ流し」「貸切」で～ 温とともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「箱根湯本 温泉旅館「大和館」」にチェックイン。～江戸初期創業。箱根最古の良質な温泉を「源泉かけ流し」「貸切」で～ 温泉ソムリエ がいる宿が魅力の一軒。客室で荷物をほどいて穏やかな午後のひとときを。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「箱根湯本 温泉旅館「大和館」」の自慢の湯処へ。温かな湯気と落ち着いた雰囲気に癒やされながら、夕食前の贅沢なひとときを過ごす。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「箱根湯本 温泉旅館「大和館」」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -350,7 +350,7 @@ export default function ArticlePage() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「箱根湯本 温泉旅館「大和館」」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「箱根湯本 温泉旅館「大和館」」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「箱根湯本温泉 箱根パークス吉野」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は「箱根湯本 温泉旅館「大和館」」周辺の観光スポットや地元の名産店に立ち寄り、ご当地のお土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>
@@ -444,7 +444,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 箱根湯本　温泉旅館「大和館」</td>
                 <td className="p-3 text-stone-600">神奈川県足柄下郡箱根町湯本655</td>
-                <td className="p-3 text-stone-600">箱根湯本駅周辺</td>
+                <td className="p-3 text-stone-600">「箱根湯本駅」より徒歩約6分／「温泉場入口」バス停より徒歩すぐ／小田原厚木道路「箱根口IC」より10分（5km）</td>
                 <td className="p-3 text-stone-600">無料駐車場（4台／先着順）駐車可能な最大サイズはハイエース程度です。国道1号線からお越しください。</td>
                 <td className="p-3 font-bold text-amber-600">★4.86（19件）</td>
                 <td className="p-3 font-bold text-rose-600">¥10,100〜</td>
@@ -453,7 +453,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 箱根湯本温泉　箱根パークス吉野</td>
                 <td className="p-3 text-stone-600">神奈川県足柄下郡箱根町湯本茶屋139-5</td>
-                <td className="p-3 text-stone-600">箱根湯本駅周辺</td>
+                <td className="p-3 text-stone-600">箱根湯本駅より徒歩12分。お車では小田原厚木道路小田原西ICから国道1号線経由約12分。無料駐車場併設。</td>
                 <td className="p-3 text-stone-600">有り　４０台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.28（1484件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,130〜</td>
@@ -462,7 +462,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 箱根湯本温泉　離れ山家荘</td>
                 <td className="p-3 text-stone-600">神奈川県足柄下郡箱根町湯本592</td>
-                <td className="p-3 text-stone-600">箱根湯本駅周辺</td>
+                <td className="p-3 text-stone-600">箱根湯本駅より徒歩にて約１０分</td>
                 <td className="p-3 text-stone-600">有り（本館仙景の駐車場をご利用ください。水車が目印です。無料　予約不要）</td>
                 <td className="p-3 font-bold text-amber-600">★4.38（53件）</td>
                 <td className="p-3 font-bold text-rose-600">¥41,950〜</td>
@@ -491,7 +491,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料駐車場（4台／先着順）駐車可能な最大サイズはハイエース程度です。国道1号線からお越しください。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「箱根湯本　温泉旅館「大和館」は立地・設備・ホスピタリティのバランスに優れ、観光拠点としても記念日や週末リフレッシュ滞在としても高い満足度を得ています。」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「箱根湯本 温泉旅館「大和館」は立地・設備・ホスピタリティのバランスに優れ、観光拠点としても記念日や週末リフレッシュ滞在としても高い満足度を得ています。」
                   </blockquote>
                 </div>
               </div>
@@ -513,7 +513,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　４０台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋が和室でリニューアルしてない部屋なので薄気味悪い感じの電気でメイクする時暗くて見にくかった。そしてご飯から戻ってきて部屋に入るとカビ臭くて窓開けないと無理だった。リニューアルしてある部屋にすれば良…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋が和室でリニューアルしてない部屋なので薄気味悪い感じの電気でメイクする時暗くて見にくかった。そしてご飯から戻ってきて部屋に入るとカビ臭くて窓開けないと無理だった。」
                   </blockquote>
                 </div>
               </div>

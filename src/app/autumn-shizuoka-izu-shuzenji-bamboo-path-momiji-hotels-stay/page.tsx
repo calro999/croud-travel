@@ -342,7 +342,7 @@ export default function IzuShuzenjiAutumnPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 修善寺温泉　宙ＳＯＲＡ　渡月荘金龍</td>
                 <td className="p-3 text-stone-600">静岡県伊豆市修善寺3455</td>
-                <td className="p-3 text-stone-600">修善寺駅周辺</td>
+                <td className="p-3 text-stone-600">伊豆箱根鉄道修善寺駅から路線バスまたはタクシー（送迎不可）/東名高速沼津ICから伊豆縦貫道・伊豆中央道経由約３５分</td>
                 <td className="p-3 text-stone-600">有り　４０台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.66（614件）</td>
                 <td className="p-3 font-bold text-rose-600">¥11,000〜</td>
@@ -351,7 +351,7 @@ export default function IzuShuzenjiAutumnPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 修善寺温泉　柳生の庄</td>
                 <td className="p-3 text-stone-600">静岡県伊豆市修善寺1116-6</td>
-                <td className="p-3 text-stone-600">修善寺駅周辺</td>
+                <td className="p-3 text-stone-600">伊豆箱根鉄道 修善寺駅から車で約１０分 東名高速道路沼津ICまたは新東名高速道路長泉沼津ICから30分</td>
                 <td className="p-3 text-stone-600">有り　２０台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★5（36件）</td>
                 <td className="p-3 font-bold text-rose-600">プラン参照</td>
@@ -360,7 +360,7 @@ export default function IzuShuzenjiAutumnPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 修善寺温泉　国の登録文化財の宿　新井旅館</td>
                 <td className="p-3 text-stone-600">静岡県伊豆市修善寺970</td>
-                <td className="p-3 text-stone-600">修善寺駅周辺</td>
+                <td className="p-3 text-stone-600">伊豆箱根鉄道線 修善寺駅よりバスまたはタクシーで10分／東名・新東名高速 沼津ICより伊豆縦貫道経由45分</td>
                 <td className="p-3 text-stone-600">あり　40台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.56（267件）</td>
                 <td className="p-3 font-bold text-rose-600">¥24,420〜</td>
@@ -369,7 +369,7 @@ export default function IzuShuzenjiAutumnPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 修善寺温泉　五葉館</td>
                 <td className="p-3 text-stone-600">静岡県伊豆市修善寺765-2</td>
-                <td className="p-3 text-stone-600">修善寺駅周辺</td>
+                <td className="p-3 text-stone-600">伊豆箱根鉄道 修善寺駅よりバスで８分／お車は、東名沼津ICより伊豆縦貫道・伊豆中央道・修善寺道路で約30分</td>
                 <td className="p-3 text-stone-600">有り　１５台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.57（125件）</td>
                 <td className="p-3 font-bold text-rose-600">¥20,740〜</td>
@@ -378,7 +378,7 @@ export default function IzuShuzenjiAutumnPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 湯めぐりの宿　修善寺温泉　桂川（共立リゾート）</td>
                 <td className="p-3 text-stone-600">静岡県伊豆市修善寺860</td>
-                <td className="p-3 text-stone-600">修善寺駅周辺</td>
+                <td className="p-3 text-stone-600">伊豆箱根鉄道修善寺駅よりタクシーで８分。</td>
                 <td className="p-3 text-stone-600">有り　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.34（1944件）</td>
                 <td className="p-3 font-bold text-rose-600">¥11,800〜</td>
@@ -451,7 +451,7 @@ export default function IzuShuzenjiAutumnPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>あり　40台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.67 ／ 立地 ★4.67 ／ 部屋 ★4.72 ／ 設備 ★4.56 ／ 風呂 ★4.72 ／ 食事 ★4.56</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「よくメンテされた登録文化財施設は漸次更新されており(文化財なので許認可大変だと思います)食事も美味しく仲居さんもフレッシュで素晴らしいと思います。ただし、寝具類がせんべい布団で朝が来るのが待ち…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「よくメンテされた登録文化財施設は漸次更新されており(文化財なので許認可大変だと思います)食事も美味しく仲居さんもフレッシュで素晴らしいと思います。」
                   </blockquote>
                 </div>
               </div>
@@ -473,7 +473,7 @@ export default function IzuShuzenjiAutumnPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１５台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「修善寺温泉、芸術的な部屋と温泉満喫の宿修善寺温泉の部屋数少な目の温泉旅館ですね遊郭のようなアーティストデザインの部屋、内装が特徴的で非日常を体験出来ます部屋は禁煙の朱の間、赤を基調としてい…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「修善寺温泉、芸術的な部屋と温泉満喫の宿修善寺温泉の部屋数少な目の温泉旅館ですね遊郭のようなアーティストデザインの部屋、内装が特徴的で非日常を体験出来ます部屋は禁煙の朱の間、赤を基調としています。」
                   </blockquote>
                 </div>
               </div>
@@ -495,7 +495,7 @@ export default function IzuShuzenjiAutumnPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「7つの貸切風呂と海鮮料理に大満足貸切風呂が7個もあり、どのお風呂に入るか悩む楽しみがあり、名前にある通り湯めぐりが楽しめる宿でした。みんな貸切風呂に行くからか、大浴場に誰もおらず独り占めでき、贅沢…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「7つの貸切風呂と海鮮料理に大満足貸切風呂が7個もあり、どのお風呂に入るか悩む楽しみがあり、名前にある通り湯めぐりが楽しめる宿でした。」
                   </blockquote>
                 </div>
               </div>

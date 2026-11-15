@@ -439,7 +439,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 鳥取温泉　ホテルモナーク鳥取</td>
                 <td className="p-3 text-stone-600">鳥取県鳥取市永楽温泉町403</td>
-                <td className="p-3 text-stone-600">鳥取駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ鳥取駅北口出口より徒歩5分 / 鳥取自動車道鳥取ICより車で10分 / コンビニへ徒歩1分 / 鳥取砂丘へ車で20分</td>
                 <td className="p-3 text-stone-600">70台（出し入れ自由）　普通車500円/1泊　二輪車500円/1泊　大型車2,000円/1泊</td>
                 <td className="p-3 font-bold text-amber-600">★4.19（2272件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,800〜</td>
@@ -448,7 +448,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 鳥取温泉　温泉旅館　丸茂</td>
                 <td className="p-3 text-stone-600">鳥取県鳥取市永楽温泉町458</td>
-                <td className="p-3 text-stone-600"></td>
+                <td className="p-3 text-stone-600">鳥取県鳥取市永楽温泉町458 ／ 交通案内：</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.38（618件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,250〜</td>
@@ -457,7 +457,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 鳥取温泉　白兎会館</td>
                 <td className="p-3 text-stone-600">鳥取県鳥取市末広温泉町556</td>
-                <td className="p-3 text-stone-600"></td>
+                <td className="p-3 text-stone-600">鳥取県鳥取市末広温泉町556 ／ 交通案内：</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.28（739件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,100〜</td>

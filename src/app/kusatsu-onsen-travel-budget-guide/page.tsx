@@ -250,7 +250,7 @@ export default function KusatsuBudgetGuidePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 草津温泉　中村屋旅館＜群馬県＞</td>
                 <td className="p-3 text-stone-600">群馬県吾妻郡草津町草津98</td>
-                <td className="p-3 text-stone-600">■JR吾妻線■長野原草津口駅下車→草津温泉行きバスで20分→草津温泉バ</td>
+                <td className="p-3 text-stone-600">■JR吾妻線■長野原草津口駅下車→草津温泉行きバスで20分→草津温泉バスターミナルより徒歩2分</td>
                 <td className="p-3 text-stone-600">湯畑観光駐車場1階　ご来館時に当日15時〜翌日10時までの駐車サービス券をお渡ししております。</td>
                 <td className="p-3 font-bold text-amber-600">★4.74（593件）</td>
                 <td className="p-3 font-bold text-rose-600">¥11,900〜</td>
@@ -259,7 +259,7 @@ export default function KusatsuBudgetGuidePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 草津温泉　十二屋旅館</td>
                 <td className="p-3 text-stone-600">群馬県吾妻郡草津町草津155</td>
-                <td className="p-3 text-stone-600">長野原草津口駅周辺</td>
+                <td className="p-3 text-stone-600">草津温泉バスターミナルより徒歩3分</td>
                 <td className="p-3 text-stone-600">有　10台　無料　（７台目以降はつめこみ駐車です）　当日は１３時から駐車可能</td>
                 <td className="p-3 font-bold text-amber-600">★3.67（278件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,800〜</td>
@@ -268,7 +268,7 @@ export default function KusatsuBudgetGuidePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 草津温泉　松坂屋旅館＜群馬県＞</td>
                 <td className="p-3 text-stone-600">群馬県吾妻郡草津町178-4</td>
-                <td className="p-3 text-stone-600">長野原草津口駅周辺</td>
+                <td className="p-3 text-stone-600">吾妻線JR長野原草津口駅から路線バスに乗り換え、終点草津バスターミナルまで約25分、下車後徒歩5分</td>
                 <td className="p-3 text-stone-600">有／無料（普通乗用車のみ・必ず事前にご利用の有無をお知らせ下さい）</td>
                 <td className="p-3 font-bold text-amber-600">★4.16（60件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,000〜</td>
@@ -277,7 +277,7 @@ export default function KusatsuBudgetGuidePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 草津温泉　湯畑草菴（そうあん）</td>
                 <td className="p-3 text-stone-600">群馬県吾妻郡草津町118-1</td>
-                <td className="p-3 text-stone-600">長野原草津口駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ吾妻線 長野原草津口駅下車、接続ＪＲバス草津行きバスにて草津温泉下車、バスターミナルより徒歩5分※送迎なし</td>
                 <td className="p-3 text-stone-600">無し　※姉妹館「草津ナウリゾートホテル」の駐車場を無料でご利用いただけます。往復シャトルバス運行中。</td>
                 <td className="p-3 font-bold text-amber-600">★4.45（417件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,000〜</td>
@@ -286,7 +286,7 @@ export default function KusatsuBudgetGuidePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 草津温泉　湯畑泉水</td>
                 <td className="p-3 text-stone-600">群馬県吾妻郡草津町草津392ー1</td>
-                <td className="p-3 text-stone-600">長野原草津口駅周辺</td>
+                <td className="p-3 text-stone-600">長野原草津口駅より路線バスで約２約５分、草津温泉バスターミナルより徒歩約５分</td>
                 <td className="p-3 text-stone-600">無し※姉妹館「草津ナウリゾートホテル」の駐車場を無料でご利用いただけます。往復シャトルバス運行中。</td>
                 <td className="p-3 font-bold text-amber-600">★4.72（298件）</td>
                 <td className="p-3 font-bold text-rose-600">¥18,250〜</td>
@@ -295,7 +295,7 @@ export default function KusatsuBudgetGuidePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">6. 亀の井ホテル　草津湯畑</td>
                 <td className="p-3 text-stone-600">群馬県吾妻郡草津町草津512-3</td>
-                <td className="p-3 text-stone-600">長野原草津口駅周辺</td>
+                <td className="p-3 text-stone-600">JR長野原草津口駅よりバスで25分、JR軽井沢駅よりバスで80分 草津温泉バスターミナルから徒歩10分</td>
                 <td className="p-3 text-stone-600">敷地25台+近隣駐車場（無料）アクセスページの駐車場MAPをご確認ください</td>
                 <td className="p-3 font-bold text-amber-600">★4.04（832件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,510〜</td>
@@ -346,7 +346,7 @@ export default function KusatsuBudgetGuidePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有　10台　無料　（７台目以降はつめこみ駐車です）　当日は１３時から駐車可能</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.52 ／ 立地 ★3.48 ／ 部屋 ★3.67 ／ 設備 ★3.48 ／ 風呂 ★3.92 ／ 食事 ★3.28</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「大浴場が熱すぎて入れず、価格に見合わない内容大浴場のお湯が熱過ぎて、温度を下げる方法もなく、入るのを諦めました。いくら草津温泉でも、熱ければ良いというわけではないと思います。その他でも総じ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「大浴場が熱すぎて入れず、価格に見合わない内容大浴場のお湯が熱過ぎて、温度を下げる方法もなく、入るのを諦めました。いくら草津温泉でも、熱ければ良いというわけではないと思います。」
                   </blockquote>
                 </div>
               </div>
@@ -368,7 +368,7 @@ export default function KusatsuBudgetGuidePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有／無料（普通乗用車のみ・必ず事前にご利用の有無をお知らせ下さい）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「コスパ最高、温泉と静かな環境でリフレッシュコスパが最高なお宿でした温泉は貸切でゆっくり入れて、温泉の質も良く、さらに宿内はとても静かでぐっすり寝れて日頃の疲れがしっかり取れて良かったです。…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「コスパ最高、温泉と静かな環境でリフレッシュコスパが最高なお宿でした温泉は貸切でゆっくり入れて、温泉の質も良く、さらに宿内はとても静かでぐっすり寝れて日頃の疲れがしっかり取れて良かったです。」
                   </blockquote>
                 </div>
               </div>
@@ -390,7 +390,7 @@ export default function KusatsuBudgetGuidePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無し　※姉妹館「草津ナウリゾートホテル」の駐車場を無料でご利用いただけます。往復シャトルバス運行中。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「急な体調不良への迅速な対応に感謝子供と2人でお世話になりました。急な体調不良で相談したところ、迅速に対応してくださり大変助かりました。若いスタッフさんの熱意に感謝しております。温泉は残念ながら入れ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「急な体調不良への迅速な対応に感謝子供と2人でお世話になりました。急な体調不良で相談したところ、迅速に対応してくださり大変助かりました。若いスタッフさんの熱意に感謝しております。」
                   </blockquote>
                 </div>
               </div>
@@ -434,7 +434,7 @@ export default function KusatsuBudgetGuidePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>敷地25台+近隣駐車場（無料）アクセスページの駐車場MAPをご確認ください</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事と立地は最高、大浴場は少し狭め食事が朝食、夕食共においしく大満足でした!!地物のお料理もあって、旅気分を味わうことができました。また、湯畑に近い立地も散策しやすく楽しめました。大浴…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事と立地は最高、大浴場は少し狭め食事が朝食、夕食共においしく大満足でした!!地物のお料理もあって、旅気分を味わうことができました。また、湯畑に近い立地も散策しやすく楽しめました。」
                   </blockquote>
                 </div>
               </div>

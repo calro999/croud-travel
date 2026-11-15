@@ -338,7 +338,7 @@ export default function FurusatoUpgradedPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. ホテルグランヴィア京都</td>
                 <td className="p-3 text-stone-600">京都府京都市下京区烏丸通塩小路下ル　ＪＲ京都駅中央口</td>
-                <td className="p-3 text-stone-600">京都</td>
+                <td className="p-3 text-stone-600">新幹線・JR・近鉄・地下鉄京都駅に直結。名神高速道路・京都南ICから車で約20分</td>
                 <td className="p-3 text-stone-600">有り　約1000台(駅ビル共有)　1泊2,000円（以降30分ごとに400円）</td>
                 <td className="p-3 font-bold text-amber-600">★4.47（4296件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,308〜</td>
@@ -365,7 +365,7 @@ export default function FurusatoUpgradedPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 横浜ベイシェラトンホテル＆タワーズ</td>
                 <td className="p-3 text-stone-600">神奈川県横浜市西区北幸1-3-23</td>
-                <td className="p-3 text-stone-600">横浜</td>
+                <td className="p-3 text-stone-600">JR・私鉄 横浜駅徒歩1分(直結)。新横浜駅から地下鉄11分、品川駅からＪＲ20分。羽田空港よりリムジンYCAT迄30分</td>
                 <td className="p-3 text-stone-600">有り（駐車台数には限りがあります）　１９００円／泊（税込）</td>
                 <td className="p-3 font-bold text-amber-600">★4.58（2182件）</td>
                 <td className="p-3 font-bold text-rose-600">¥16,588〜</td>

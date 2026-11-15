@@ -338,7 +338,7 @@ export default function FurusatoUpgradedPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. ホテル日航大阪</td>
                 <td className="p-3 text-stone-600">大阪府大阪市中央区西心斎橋1-3-3</td>
-                <td className="p-3 text-stone-600">心斎橋</td>
+                <td className="p-3 text-stone-600">大阪メトロ御堂筋線、長堀鶴見緑地線「心斎橋駅」8番出口直結、梅田、難波、京セラドームなど主要エリアへ抜群のアクセスです。</td>
                 <td className="p-3 text-stone-600">有り　 ご宿泊のお客様は１泊 3000円（12：00～翌12：00まで）にて利用可能！　１６０台</td>
                 <td className="p-3 font-bold text-amber-600">★4.51（5584件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,525〜</td>
@@ -356,7 +356,7 @@ export default function FurusatoUpgradedPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 関空温泉ホテルガーデンパレス</td>
                 <td className="p-3 text-stone-600">大阪府泉佐野市中町1-3-51</td>
-                <td className="p-3 text-stone-600">泉佐野</td>
+                <td className="p-3 text-stone-600">関西空港からホテル（運休中） ホテルから関西空港（無料バスあり） 最寄り駅からホテル間（無料送迎バスあり：～２０時まで）</td>
                 <td className="p-3 text-stone-600">普通車550円／トラック7mまで1100円／中型バス8mまで2200円／中・大型バス9m～3300円</td>
                 <td className="p-3 font-bold text-amber-600">★4.46（2176件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,500〜</td>
@@ -374,7 +374,7 @@ export default function FurusatoUpgradedPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. ホテルメトロポリタン</td>
                 <td className="p-3 text-stone-600">東京都豊島区西池袋1-6-１</td>
-                <td className="p-3 text-stone-600">池袋</td>
+                <td className="p-3 text-stone-600">池袋駅西口より徒歩３分、東京駅より地下鉄で17分、羽田空港へのリムジンバス（有料）がホテル正面玄関にて発着します。</td>
                 <td className="p-3 text-stone-600">有　1泊につき1台  3,000円</td>
                 <td className="p-3 font-bold text-amber-600">★4.4（4348件）</td>
                 <td className="p-3 font-bold text-rose-600">¥10,250〜</td>

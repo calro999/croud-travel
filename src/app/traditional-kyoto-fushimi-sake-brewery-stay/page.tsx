@@ -565,8 +565,8 @@ export default function FeatureDetailPage() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 京都駅よりアクセス。JR「京都駅」八条口より徒歩にて約３分。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「レフ京都八条口ｂｙベッセルホテルズ｜ＲＥＦ京都八条口」にチェックイン。2021年開業！Wi-Fi全室無料。京都駅八条口から徒歩約3分。京都の今を感じるホテルです。などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「レフ京都八条口ｂｙベッセルホテルズ｜ＲＥＦ京都八条口」の湯処へ。2021年開業！Wi-Fi全室無料。京都駅八条口から徒歩約3分。京都のとともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「レフ京都八条口ｂｙベッセルホテルズ｜ＲＥＦ京都八条口」にチェックイン。2021年開業！Wi-Fi全室無料。京都駅八条口から徒歩約3分。京都の今を感じるホテルです。 窓外に広がる景色を眺めながらチェックイン後の寛ぎ時間を。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「レフ京都八条口ｂｙベッセルホテルズ｜ＲＥＦ京都八条口」の自慢の湯処へ。温かな湯気と落ち着いた雰囲気に癒やされながら、夕食前の贅沢なひとときを過ごす。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「レフ京都八条口ｂｙベッセルホテルズ｜ＲＥＦ京都八条口」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -578,7 +578,7 @@ export default function FeatureDetailPage() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「レフ京都八条口ｂｙベッセルホテルズ｜ＲＥＦ京都八条口」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「レフ京都八条口ｂｙベッセルホテルズ｜ＲＥＦ京都八条口」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「ベッセルホテルカンパーナ京都五条｜サウナ付大浴場」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は宿周辺の散策とショッピングを満喫。地元の名産品やグルメを味わってから余裕をもって帰路につく。</li>
               </ul>
             </div>
           </div>
@@ -628,49 +628,49 @@ export default function FeatureDetailPage() {
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">あわせて読みたい人気特集＆全国エリアガイド</h2>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
-            <a href="/furusato-tax-aomori-towada-oirase-autumn-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/furusato-tax-shuzenji-bamboo-autumn-leaves-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">青森・奥入瀬渓流＆十和田湖の黄金紅葉！十和田湖畔温泉と蔦温泉・青森倉石牛会席</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">伊豆の小京都・修善寺温泉の竹林の小径紅葉＆桂川もみじ散策！登録文化財名宿×ふるさと納税厳選ガイド静岡</span>
             </a>
-            <a href="/furusato-tax-three-great-forests-wood-villa-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/furusato-tax-wa-modern-twin-bed-comfortable-ryokan-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">日本三大美林の木漏れ日と森林セラピー・ウッドヴィラ宿×ふるさと納税厳選ガイド青森ヒバ・秋田杉・木曽檜</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">畳の温もりと高級ベッドの極上快眠！和モダンツインベッド客室温泉旅館×ふるさと納税厳選ガイド黒川・箱根強羅・京都嵐山</span>
             </a>
-            <a href="/winter-aomori-hachinohe-kabushima-ginsaba-senbeijiru-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/kyoto/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12・1月青森】八戸前沖銀鯖と本場せんべい汁・八食センター七輪村買い出し＆蕪島神社初詣・太平洋一望の八戸名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「京都旅行 厳選ガイド」 観光モデルコース・穴場・季節・公式おすすめ人気ホテル＆温泉旅館</span>
             </a>
-            <a href="/aomori-hirosaki-castle-cherry-apple-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/kyoto-autumn-leaves-night-lightup-hotel-guide/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【青森・弘前】弘前城桜・津軽りんご＆三味線宿 完全ガイド ｜ 日本全国・旅宿クラウド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「京都 紅葉ライトアップ2026おすすめ7選」 夜間特別拝観・永観堂・東寺・清水寺＆混雑回避の夜回り宿</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
             <div className="flex flex-wrap gap-2">
               <Link
-                href="/prefectures/fukui/"
+                href="/prefectures/kyoto/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                福井県の宿・温泉
+                京都府の宿・温泉
               </Link>
               <Link
-                href="/prefectures/gunma/"
+                href="/prefectures/osaka/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                群馬県の宿・温泉
+                大阪府の宿・温泉
               </Link>
               <Link
-                href="/prefectures/okayama/"
+                href="/prefectures/hyogo/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                岡山県の宿・温泉
+                兵庫県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/aomori/"
+                href="/prefectures/nara/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                青森県の宿・温泉
+                奈良県の宿・温泉
               </Link>
             </div>
           </div>
@@ -706,7 +706,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 変なホテルプレミア名古屋　伏見駅前</td>
                 <td className="p-3 text-stone-600">愛知県名古屋市中区錦1-10-10</td>
-                <td className="p-3 text-stone-600">伏見（愛知）駅周辺</td>
+                <td className="p-3 text-stone-600">名古屋駅から地下鉄東山線 伏見駅下車。10番出口から徒歩1分！</td>
                 <td className="p-3 text-stone-600">敷地内3台(事前予約制)　料金 　3,000円／泊</td>
                 <td className="p-3 font-bold text-amber-600">★4.38（844件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,650〜</td>
@@ -715,7 +715,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. レフ京都八条口ｂｙベッセルホテルズ｜ＲＥＦ京都八条口（京都２号店）</td>
                 <td className="p-3 text-stone-600">京都府京都市南区東九条室町57番地</td>
-                <td className="p-3 text-stone-600">京都駅周辺</td>
+                <td className="p-3 text-stone-600">JR「京都駅」八条口より徒歩にて約３分。京都東ICから約20分■京都南ICから約29分</td>
                 <td className="p-3 text-stone-600">有り　3台　1500円　要予約</td>
                 <td className="p-3 font-bold text-amber-600">★4.36（731件）</td>
                 <td className="p-3 font-bold text-rose-600">¥9,300〜</td>
@@ -724,7 +724,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. ベッセルホテルカンパーナ京都五条｜サウナ付大浴場（京都１号店）</td>
                 <td className="p-3 text-stone-600">京都府京都市下京区東洞院通五条下る下万寿寺町498</td>
-                <td className="p-3 text-stone-600">五条（京都市営）駅周辺</td>
+                <td className="p-3 text-stone-600">京都市営地下鉄烏丸線五条駅３番出口より徒歩１分■京都駅より徒歩約15分■新京都東ICから約16分■京都南ICから約21分</td>
                 <td className="p-3 text-stone-600">先着順 立体駐車場28台 高さ1.8ｍ　1泊2000円</td>
                 <td className="p-3 font-bold text-amber-600">★4.44（1956件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,125〜</td>
@@ -733,7 +733,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. アーバンホテル京都</td>
                 <td className="p-3 text-stone-600">京都府京都市伏見区深草西浦町4-59</td>
-                <td className="p-3 text-stone-600">京都駅周辺</td>
+                <td className="p-3 text-stone-600">車：京都南ＩＣ5分、京都駅10分 電車：JR稲荷10分、京阪龍谷大前深草5分、地下鉄くいな橋12分 バス龍谷大学前3分</td>
                 <td className="p-3 text-stone-600">【普通車100台収容】普通車￥1500／滞在　中型￥3000／泊　大型￥4000／泊</td>
                 <td className="p-3 font-bold text-amber-600">★4.01（4551件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,744〜</td>
@@ -742,7 +742,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 京都山科　ホテル山楽</td>
                 <td className="p-3 text-stone-600">京都府京都市山科区安朱桟敷町23</td>
-                <td className="p-3 text-stone-600">山科駅周辺</td>
+                <td className="p-3 text-stone-600">※新快速停車※京都・大津から約５分！ＪＲ琵琶湖線・湖西線／京阪京津線／市営地下鉄東西線 山科駅より地下道直結で徒歩1分！</td>
                 <td className="p-3 text-stone-600">専用駐車場なし。提携駐車場は3台限定です。先着順・ご予約制のためご希望の場合は、必ずお電話ください。</td>
                 <td className="p-3 font-bold text-amber-600">★4.5（770件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,333〜</td>
@@ -793,7 +793,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　3台　1500円　要予約</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.34 ／ 立地 ★4.42 ／ 部屋 ★4.33 ／ 設備 ★4.26 ／ 風呂 ★4.15</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「添い寝無料でリーズナブル、荷物預かりも便利夏休み期間中に利用しました。18歳以下は添い寝無料だったので、宿泊費を抑えながらリーズナブルに観光を楽しめたのが良かったです。チェックイン後でも当日中であ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「添い寝無料でリーズナブル、荷物預かりも便利夏休み期間中に利用しました。18歳以下は添い寝無料だったので、宿泊費を抑えながらリーズナブルに観光を楽しめたのが良かったです。」
                   </blockquote>
                 </div>
               </div>
@@ -815,7 +815,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>先着順 立体駐車場28台 高さ1.8ｍ　1泊2000円</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.45 ／ 立地 ★4.31 ／ 部屋 ★4.43 ／ 設備 ★4.42 ／ 風呂 ★4.47 ／ 食事 ★4.52</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「観光に便利で子供向けイベントも充実駅から近く、観光に便利でした。子供向けのおもちゃの貸し出しや、夏休みの子供向けイベントもあり楽しくすごせました。朝食バイキングのハンバーグを子供が気に入ってた…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「観光に便利で子供向けイベントも充実駅から近く、観光に便利でした。子供向けのおもちゃの貸し出しや、夏休みの子供向けイベントもあり楽しくすごせました。」
                   </blockquote>
                 </div>
               </div>

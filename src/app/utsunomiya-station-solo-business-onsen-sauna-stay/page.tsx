@@ -414,7 +414,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. ダイワロイネットホテル宇都宮</td>
                 <td className="p-3 text-stone-600">栃木県宇都宮市東宿郷1-4-14</td>
-                <td className="p-3 text-stone-600">宇都宮駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ宇都宮駅から徒歩にて約3分</td>
                 <td className="p-3 text-stone-600">1泊1台1,000円(税込)/先着順/23:00〜翌6:30入出庫不可/機械式立体駐車場(72台)</td>
                 <td className="p-3 font-bold text-amber-600">★4.48（2393件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,500〜</td>
@@ -423,7 +423,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. ホテルアーバングレイス宇都宮</td>
                 <td className="p-3 text-stone-600">栃木県宇都宮市江野町2-1</td>
-                <td className="p-3 text-stone-600">東武宇都宮駅周辺</td>
+                <td className="p-3 text-stone-600">東武宇都宮駅東口より徒歩５分、ＪＲ宇都宮駅西口より徒歩20分・バスで8分</td>
                 <td className="p-3 text-stone-600">平面P・立体P（１泊１０００円税込）契約P（１泊７００円又は８００円税込）※R6年４月１日〜料金改定</td>
                 <td className="p-3 font-bold text-amber-600">★4.3（4513件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,050〜</td>
@@ -432,7 +432,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. たびのホテル宇都宮ゆいの杜</td>
                 <td className="p-3 text-stone-600">栃木県宇都宮市ゆいの杜8-3-51</td>
-                <td className="p-3 text-stone-600">宇都宮駅周辺</td>
+                <td className="p-3 text-stone-600">無料駐車場141台有。ゆいの杜東駅より徒歩14分／宇都宮ICより車で約30分／宇都宮駅より車で約25分。</td>
                 <td className="p-3 text-stone-600">あり　141台　無料　／　大型車両やバスは1泊2000円・事前にお問合せください。</td>
                 <td className="p-3 font-bold text-amber-600">★4.61（89件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,860〜</td>
@@ -483,7 +483,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>平面P・立体P（１泊１０００円税込）契約P（１泊７００円又は８００円税込）※R6年４月１日〜料金改定</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.33 ／ 立地 ★4.28 ／ 部屋 ★4.3 ／ 設備 ★4.23 ／ 風呂 ★4.26 ／ 食事 ★4.26</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「餃子と観光の拠点に最適、また利用したい今回の目的は、東武ワールドスクエア宇都宮で餃子を食べることでした。そして、クチコミを読み、こちらのホテルを選びました。(朝食付・禁煙・ReFaルーム)…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「餃子と観光の拠点に最適、また利用したい今回の目的は、東武ワールドスクエア宇都宮で餃子を食べることでした。そして、クチコミを読み、こちらのホテルを選びました。」
                   </blockquote>
                 </div>
               </div>

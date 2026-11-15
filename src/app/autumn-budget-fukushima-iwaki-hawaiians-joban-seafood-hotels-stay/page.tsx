@@ -337,7 +337,7 @@ export default function AutumnBudgetIwakiHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. ホテルＢ４Ｔいわき＜ＪＲ東日本ホテルズ＞</td>
                 <td className="p-3 text-stone-600">福島県いわき市平字田町1</td>
-                <td className="p-3 text-stone-600">いわき駅周辺</td>
+                <td className="p-3 text-stone-600">JRいわき駅直結</td>
                 <td className="p-3 text-stone-600">無し　【提携駐車場】LATOV 地下1・2 階　1泊1台 1,100円（税込）※休館日使用不可</td>
                 <td className="p-3 font-bold text-amber-600">★4.26（446件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,600〜</td>
@@ -346,7 +346,7 @@ export default function AutumnBudgetIwakiHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. ホテルアーバングレイスヴィラ＜いわき駅前＞</td>
                 <td className="p-3 text-stone-600">福島県いわき市平大工町11-4</td>
-                <td className="p-3 text-stone-600">いわき駅周辺</td>
+                <td className="p-3 text-stone-600">いわき駅前より徒歩にて約３分</td>
                 <td className="p-3 text-stone-600">有り　契約駐車場：800円（税込／泊）　先着順・予約不可　※入出庫は1泊1度限り</td>
                 <td className="p-3 font-bold text-amber-600">★4.19（421件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,950〜</td>
@@ -375,7 +375,7 @@ export default function AutumnBudgetIwakiHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２３台限定 (７００円）　ホテルに隣接した平面駐車場です！予約の必要はございません！</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.08 ／ 立地 ★3.86 ／ 部屋 ★3.98 ／ 設備 ★3.95 ／ 風呂 ★3.9 ／ 食事 ★4.05</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ハワイアンズを満喫、朝食も種類豊富で満足ハワイアンズ目的で宿泊。2日間たっぷり遊びました。ハワイアンズで入浴したためお風呂の使用はありません。朝食も色々種類がありましたし、ホテルとハワ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ハワイアンズを満喫、朝食も種類豊富で満足ハワイアンズ目的で宿泊。2日間たっぷり遊びました。ハワイアンズで入浴したためお風呂の使用はありません。」
                   </blockquote>
                 </div>
               </div>
@@ -419,7 +419,7 @@ export default function AutumnBudgetIwakiHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り ７００円〜１０００円（税込み／泊）　先着順 満車の際はコインパーキングにて</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.15 ／ 立地 ★4.03 ／ 部屋 ★4.05 ／ 設備 ★4.07 ／ 風呂 ★4.07 ／ 食事 ★4.15</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「大浴場と朝食に満足、駐車場は少し不便大浴場はそれほど大きくはないですが、私が入ったときは誰もいなくてゆっくりできました。やはり小さな部屋のお風呂より、ずっとゆっくりできます。子どものアメニ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「大浴場と朝食に満足、駐車場は少し不便大浴場はそれほど大きくはないですが、私が入ったときは誰もいなくてゆっくりできました。やはり小さな部屋のお風呂より、ずっとゆっくりできます。」
                   </blockquote>
                 </div>
               </div>

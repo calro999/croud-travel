@@ -104,7 +104,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F167316%2F167316.html%26f_flg%3DPLAN",
     "hotelMinCharge": 3850,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/167316/167316.jpg",
-    "userReview": "宙の森ホテル　花郷里ならではの立地と落ち着いた空間で、ゆったりとした滞在を楽しめたという声が寄せられています。",
+    "userReview": "宙の森ホテル 花郷里ならではの立地と落ち着いた空間で、ゆったりとした滞在を楽しめたという声が寄せられています。",
     "reviewAverage": 4.3,
     "reviewCount": 41,
     "address": "兵庫県美方郡香美町小代区大谷300",
@@ -283,8 +283,8 @@ export default function Page() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 芦別駅よりアクセス。芦別駅から10分／旭川駅から約60分／旭川空港から約80分／札幌・新千歳空港から約120分（車移動）。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「芦別温泉スターライトホテル＆おふろｃａｆｅ星遊館 満天の星空×サウナリゾート」にチェックイン。おふろcafeでのんびり！星空露天風呂と３種のサウナでととのう旅を♪ 空知・旭川・富良野美瑛観光に！などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「芦別温泉スターライトホテル＆おふろｃａｆｅ星遊館 満天の星空×サウナリゾート」の湯処へ。おふろcafeでのんびり！星空露天風呂と３種のサウナでととのう旅を♪ とともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「芦別温泉スターライトホテル＆おふろｃａｆｅ星遊館 満天の星空×サウナリゾート」にチェックイン。おふろcafeでのんびり！星空露天風呂と３種のサウナでととのう旅を♪ 空知・旭川・富良野美瑛観光に！ 荷物を解き、落ち着いた室内でまず一息つく。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「芦別温泉スターライトホテル＆おふろｃａｆｅ星遊館 満天の星空×サウナリゾート」の湯船で寛ぎタイム。季節の空気を感じながら手足を伸ばし、心豊かな夕方のリラックス時間を満喫。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「芦別温泉スターライトホテル＆おふろｃａｆｅ星遊館 満天の星空×サウナリゾート」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -296,7 +296,7 @@ export default function Page() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「芦別温泉スターライトホテル＆おふろｃａｆｅ星遊館 満天の星空×サウナリゾート」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「芦別温泉スターライトホテル＆おふろｃａｆｅ星遊館 満天の星空×サウナリゾート」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「妙義温泉 妙義グリーンホテル＆テラス」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は「芦別温泉スターライトホテル＆おふろｃａｆｅ星遊館 満天の星空×サウナリゾート」周辺の観光スポットや地元の名産店に立ち寄り、ご当地のお土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>
@@ -424,7 +424,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 芦別温泉スターライトホテル＆おふろｃａｆｅ星遊館　満天の星空×サウナリゾート</td>
                 <td className="p-3 text-stone-600">北海道芦別市旭町油谷1</td>
-                <td className="p-3 text-stone-600">芦別駅周辺</td>
+                <td className="p-3 text-stone-600">芦別駅から10分／旭川駅から約60分／旭川空港から約80分／札幌・新千歳空港から約120分（車移動）</td>
                 <td className="p-3 text-stone-600">無料駐車場約２５０台！予約不要／電気自動車充電器あり／大型車OK／屋根付きバイク駐輪場あり</td>
                 <td className="p-3 font-bold text-amber-600">★4.34（1046件）</td>
                 <td className="p-3 font-bold text-rose-600">¥9,875〜</td>
@@ -433,7 +433,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 妙義温泉　妙義グリーンホテル＆テラス</td>
                 <td className="p-3 text-stone-600">群馬県富岡市妙義町菅原2678</td>
-                <td className="p-3 text-stone-600">松井田駅周辺</td>
+                <td className="p-3 text-stone-600">JR松井田駅よりタクシー12分／磯部駅よりタクシー17分／松井田妙義IC（上信越自動車道）より１２分</td>
                 <td className="p-3 text-stone-600">有　２００台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.28（1935件）</td>
                 <td className="p-3 font-bold text-rose-600">¥9,900〜</td>
@@ -442,7 +442,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 宙の森ホテル　花郷里</td>
                 <td className="p-3 text-stone-600">兵庫県美方郡香美町小代区大谷300</td>
-                <td className="p-3 text-stone-600">八鹿駅周辺</td>
+                <td className="p-3 text-stone-600">八鹿駅より全但バス「秋岡」行に乗車（約1時間）、「小代大谷」バス停下車、徒歩で約10分</td>
                 <td className="p-3 text-stone-600">有り　１０台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.43（38件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,850〜</td>
@@ -451,7 +451,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. ＨＯＴＥＬ　ＡＺＵＭＡ＜佐渡島＞</td>
                 <td className="p-3 text-stone-600">新潟県佐渡市相川大浦548-1</td>
-                <td className="p-3 text-stone-600">佐渡空港駅周辺</td>
+                <td className="p-3 text-stone-600">両津港より車で５０分／小木港より車で６０分</td>
                 <td className="p-3 text-stone-600">有り　57台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.39（392件）</td>
                 <td className="p-3 font-bold text-rose-600">¥12,857〜</td>
@@ -460,7 +460,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. ＧＲＡＸ（ＡＳＯＢＩＹＵＫＵ　京都るり渓温泉）</td>
                 <td className="p-3 text-stone-600">京都府南丹市園部町大河内広谷1-20</td>
-                <td className="p-3 text-stone-600">園部駅周辺</td>
+                <td className="p-3 text-stone-600">【車以外】能勢電鉄日生中央駅／JR嵯峨野線園部駅～送迎バス有（事前予約） 【車】千代川IC・池田木部IC～るり渓方面へ</td>
                 <td className="p-3 text-stone-600">有り　700台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.38（379件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,050〜</td>
@@ -489,7 +489,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料駐車場約２５０台！予約不要／電気自動車充電器あり／大型車OK／屋根付きバイク駐輪場あり</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.3 ／ 立地 ★4.22 ／ 部屋 ★4.17 ／ 設備 ★4.31 ／ 風呂 ★4.5 ／ 食事 ★4.4</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事の質が非常に高く、屋上の星空も最高宿泊者が少ないからか、夕食がビュッフェではなく都度注文方式でした。出来立てが出てくるのでビュッフェより圧倒的に美味しいですし、出来立てを差し引いてもシンプルに…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事の質が非常に高く、屋上の星空も最高宿泊者が少ないからか、夕食がビュッフェではなく都度注文方式でした。」
                   </blockquote>
                 </div>
               </div>
@@ -555,7 +555,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　57台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.49 ／ 立地 ★4.67 ／ 部屋 ★4.35 ／ 設備 ★4.31 ／ 風呂 ★4.21 ／ 食事 ★4.49</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「料理は絶品、ゆったりと佐渡時間を楽しめますとにかくお料理が美味しかったです。鮮度はもちろんのこと、ひとつひとつのが丁寧で心がこもったお料理でした。普段、あれだけ沢山いただくと胸やけしてしまうの…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「料理は絶品、ゆったりと佐渡時間を楽しめますとにかくお料理が美味しかったです。鮮度はもちろんのこと、ひとつひとつのが丁寧で心がこもったお料理でした。」
                   </blockquote>
                 </div>
               </div>

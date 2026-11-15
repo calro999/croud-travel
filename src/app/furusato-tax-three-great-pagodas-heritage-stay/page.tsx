@@ -409,8 +409,8 @@ export default function Page() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> JR法隆寺駅よりお車にて約５分／徒歩にて約１８分で現地へ到着。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「門前宿 和空法隆寺」にチェックイン。◆日本唯一のハイクラス門前旅館◆名店神田川の懐石◆文化体験◆語り部と巡る法隆寺ツアーなどの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「門前宿 和空法隆寺」の湯処へ。◆日本唯一のハイクラス門前旅館◆名店神田川の懐石◆文化体験◆語り部と巡とともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「門前宿 和空法隆寺」にチェックイン。◆日本唯一のハイクラス門前旅館◆名店神田川の懐石◆文化体験◆語り部と巡る法隆寺ツアーが魅力の一軒。客室で荷物をほどいて穏やかな午後のひとときを。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「門前宿 和空法隆寺」の湯船で寛ぎタイム。季節の空気を感じながら手足を伸ばし、心豊かな夕方のリラックス時間を満喫。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「門前宿 和空法隆寺」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -422,7 +422,7 @@ export default function Page() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「門前宿 和空法隆寺」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「門前宿 和空法隆寺」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「リーガロイヤルホテル京都」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は宿周辺の散策とショッピングを満喫。地元の名産品やグルメを味わってから余裕をもって帰路につく。</li>
               </ul>
             </div>
           </div>
@@ -550,7 +550,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 門前宿　和空法隆寺</td>
                 <td className="p-3 text-stone-600">奈良県西方館：生駒郡班鳩町法隆寺1-5-32  東方館：生駒郡班鳩町法隆寺1-4-46</td>
-                <td className="p-3 text-stone-600">法隆寺駅周辺</td>
+                <td className="p-3 text-stone-600">JR法隆寺駅よりお車にて約５分／徒歩にて約１８分</td>
                 <td className="p-3 text-stone-600">無料駐車場あり</td>
                 <td className="p-3 font-bold text-amber-600">★4.58（416件）</td>
                 <td className="p-3 font-bold text-rose-600">¥10,500〜</td>
@@ -559,7 +559,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. リーガロイヤルホテル京都</td>
                 <td className="p-3 text-stone-600">京都府京都市下京区東堀川通り塩小路下ル松明町１番地</td>
-                <td className="p-3 text-stone-600">京都駅周辺</td>
+                <td className="p-3 text-stone-600">京都駅より徒歩約７分、名神京都南ICから車で１０分</td>
                 <td className="p-3 text-stone-600">有り　先着117台（事前予約不可）</td>
                 <td className="p-3 font-bold text-amber-600">★4.24（7248件）</td>
                 <td className="p-3 font-bold text-rose-600">¥11,220〜</td>
@@ -568,7 +568,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 湯田川温泉　九兵衛旅館</td>
                 <td className="p-3 text-stone-600">山形県鶴岡市湯田川乙19</td>
-                <td className="p-3 text-stone-600">鶴岡駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ羽越線鶴岡駅よりバス25分／庄内空港よりタクシー30分／山形自動車道鶴岡ＩＣより15分</td>
                 <td className="p-3 text-stone-600">有り　20台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.82（386件）</td>
                 <td className="p-3 font-bold text-rose-600">¥9,020〜</td>
@@ -597,7 +597,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料駐車場あり</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.67 ／ 立地 ★4.6 ／ 部屋 ★4.58 ／ 設備 ★4.49 ／ 風呂 ★4.24 ／ 食事 ★4.65</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「語り部さんツアーは絶対参加すべし!お出迎えのお茶とおしぼりに癒やされました。法隆寺駅から歩いてもそれほど遠く感じませんでした。お部屋も夕食も、3種おためしのお酒も、朝食も丁寧でやさしい味付け。どれ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「語り部さんツアーは絶対参加すべし!お出迎えのお茶とおしぼりに癒やされました。法隆寺駅から歩いてもそれほど遠く感じませんでした。お部屋も夕食も、3種おためしのお酒も、朝食も丁寧でやさしい味付け。」
                   </blockquote>
                 </div>
               </div>
@@ -619,7 +619,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　先着117台（事前予約不可）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.31 ／ 立地 ★4.22 ／ 部屋 ★4.24 ／ 設備 ★4.16 ／ 風呂 ★4.08 ／ 食事 ★4.2</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「京都駅への送迎は便利だが部屋が遠い京都駅に近いだけでなく、駅までの無料送迎もあるのでとても便利でした。今回、宿泊した部屋がホテルの端だったため、メインエレベーターからかなり歩かないといけません…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「京都駅への送迎は便利だが部屋が遠い京都駅に近いだけでなく、駅までの無料送迎もあるのでとても便利でした。」
                   </blockquote>
                 </div>
               </div>
@@ -641,7 +641,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　20台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.82 ／ 立地 ★4.34 ／ 部屋 ★4.75 ／ 設備 ★4.64 ／ 風呂 ★4.71 ／ 食事 ★4.89</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「心のこもった食事に大満足夕食、朝食共に心のこもった品々に感激!大変おいしかった。夕食を8分目のプランにし満腹になったけれど次回は通常のプランで全てを食べたいと思った。季節を変えて食事を堪能しに行き…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「心のこもった食事に大満足夕食、朝食共に心のこもった品々に感激!大変おいしかった。夕食を8分目のプランにし満腹になったけれど次回は通常のプランで全てを食べたいと思った。」
                   </blockquote>
                 </div>
               </div>

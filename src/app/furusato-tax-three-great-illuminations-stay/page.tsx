@@ -422,8 +422,8 @@ export default function Page() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 足利駅よりアクセス。◆ＪＲ足利駅→車で10分 ◆東武線足利市駅→車で7分 ◆高速道太田桐生IC→車で10分 ◆高速道佐野藤岡IC→車で25分。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「ホテルルートイン第２足利ー国道50号沿ー」にチェックイン。朝食無料・大浴場完備・駐車場無料 あしかがフラワーパークや佐野プレミアムアウトレットへアクセス抜群などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「ホテルルートイン第２足利ー国道50号沿ー」の湯処へ。朝食無料・大浴場完備・駐車場無料 あしかがフラワーパークや佐野プレミアとともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「ホテルルートイン第２足利ー国道50号沿ー」にチェックイン。朝食無料・大浴場完備・駐車場無料 あしかがフラワーパークや佐野プレミアムアウトレットへアクセス抜群が魅力の一軒。客室で荷物をほどいて穏やかな午後のひとときを。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「ホテルルートイン第２足利ー国道50号沿ー」の自慢の湯処へ。温かな湯気と落ち着いた雰囲気に癒やされながら、夕食前の贅沢なひとときを過ごす。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「ホテルルートイン第２足利ー国道50号沿ー」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -435,7 +435,7 @@ export default function Page() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「ホテルルートイン第２足利ー国道50号沿ー」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「ホテルルートイン第２足利ー国道50号沿ー」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「ホテルアムステルダム ハウステンボス」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は「ホテルルートイン第２足利ー国道50号沿ー」周辺の観光スポットや地元の名産店に立ち寄り、ご当地のお土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>

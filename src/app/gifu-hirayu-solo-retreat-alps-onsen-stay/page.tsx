@@ -388,7 +388,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 無料露天付貸切風呂と岐阜料理師範の宿　お宿　栄太郎</td>
                 <td className="p-3 text-stone-600">岐阜県高山市奥飛騨温泉郷平湯温泉</td>
-                <td className="p-3 text-stone-600">高山駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ高山線高山駅又はＪＲ中央線松本駅よりバス／東海北陸道清見ＩＣ、長野自動車道松本ＩＣよりＲ158経由で平湯温泉</td>
                 <td className="p-3 text-stone-600">有り　１５台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.74（300件）</td>
                 <td className="p-3 font-bold text-rose-600">¥14,300〜</td>
@@ -397,7 +397,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 奥飛騨　平湯温泉　湯の平館</td>
                 <td className="p-3 text-stone-600">岐阜県高山市奥飛騨温泉郷平湯107-5</td>
-                <td className="p-3 text-stone-600">高山駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ高山駅又はＪＲ松本駅よりバスで平湯温泉／東海北陸道高山西ＩＣ、長野自動車道松本ＩＣよりＲ158経由で平湯温泉</td>
                 <td className="p-3 text-stone-600">有り　１５台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.47（312件）</td>
                 <td className="p-3 font-bold text-rose-600">¥14,000〜</td>
@@ -406,7 +406,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 築１５０年の飛騨民家　おやど　甚九郎</td>
                 <td className="p-3 text-stone-600">岐阜県高山市奥飛騨温泉郷一重ケ根1112</td>
-                <td className="p-3 text-stone-600">高山駅周辺</td>
+                <td className="p-3 text-stone-600">JR高山駅―新穂高温泉行バス「禅通寺前」下車―徒歩2分。高山ICより車で60分。松本ＩＣより70分。</td>
                 <td className="p-3 text-stone-600">有り　１５台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.53（129件）</td>
                 <td className="p-3 font-bold text-rose-600">¥12,870〜</td>
@@ -435,7 +435,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１５台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.85 ／ 立地 ★4.38 ／ 部屋 ★4.5 ／ 設備 ★4.55 ／ 風呂 ★4.76 ／ 食事 ★4.91</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「夕食のボリュームと貸切風呂の湯質に大満足夕食が食べきれないほどの量で、味付けも奇抜なものは無くても野菜の本来の味を引き出した馴染み深さもあるお味でした。お風呂は貸切風呂が無料で使用でき、湯の質…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「夕食のボリュームと貸切風呂の湯質に大満足夕食が食べきれないほどの量で、味付けも奇抜なものは無くても野菜の本来の味を引き出した馴染み深さもあるお味でした。」
                   </blockquote>
                 </div>
               </div>
@@ -457,7 +457,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１５台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.53 ／ 立地 ★4.33 ／ 部屋 ★4.33 ／ 設備 ★4.26 ／ 風呂 ★4.53 ／ 食事 ★4.69</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「飛騨牛と温泉を満喫、女将さんの対応も素敵オクヒダバギーで平湯温泉街を散策したあと、飛騨牛増量プランの夕食を楽しみにチェックイン。期待通りのお肉とボリュームたっぷりの料理を美味しく頂き、満足しました…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「飛騨牛と温泉を満喫、女将さんの対応も素敵オクヒダバギーで平湯温泉街を散策したあと、飛騨牛増量プランの夕食を楽しみにチェックイン。」
                   </blockquote>
                 </div>
               </div>

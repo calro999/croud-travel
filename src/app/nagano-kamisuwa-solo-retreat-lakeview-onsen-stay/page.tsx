@@ -339,8 +339,8 @@ export default function ArticlePage() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 上諏訪駅よりアクセス。中央線 上諏訪駅より徒歩７分。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「上諏訪温泉 ぬのはん」にチェックイン。『プロが選ぶホテル・旅館100選』料理部門にて2011年より連続受賞などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「上諏訪温泉 ぬのはん」の湯処へ。『プロが選ぶホテル・旅館100選』料理部門にて2011年より連続受賞とともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「上諏訪温泉 ぬのはん」にチェックイン。『プロが選ぶホテル・旅館100選』料理部門にて2011年より連続受賞が魅力の一軒。客室で荷物をほどいて穏やかな午後のひとときを。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「上諏訪温泉 ぬのはん」の大浴場・露天風呂へ。日暮れの静けさの中で湯に浸かり、旅の緊張をゆっくりと解きほぐす。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「上諏訪温泉 ぬのはん」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -352,7 +352,7 @@ export default function ArticlePage() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「上諏訪温泉 ぬのはん」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「上諏訪温泉 ぬのはん」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「信州・上諏訪温泉 琥珀色の自家源泉を持つ宿【ホテル鷺乃湯】」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は宿周辺の散策とショッピングを満喫。地元の名産品やグルメを味わってから余裕をもって帰路につく。</li>
               </ul>
             </div>
           </div>
@@ -368,37 +368,31 @@ export default function ArticlePage() {
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">あわせて読みたい人気特集＆全国エリアガイド</h2>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
-            <a href="/furusato-tax-three-major-forest-therapy-retreat-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/furusato-tax-shinshu-soba-kaiseki-luxury-ryokan-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">日本三大美林＆巨樹・森林セラピー癒やしの宿×ふるさと納税厳選ガイド屋久島・木曽ヒノキ・青森ヒバの森</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">名水が育む挽きたて・打ちたて・茹でたて！信州手打ち蕎麦会席＆山里温泉名旅館×ふるさと納税厳選ガイド戸隠・安曇野・浅間温泉</span>
             </a>
-            <a href="/winter-aomori-oirase-hakkoda-onsen-frozen-waterfall-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/furusato-tax-tenryukyo-hirugami-autumn-leaves-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12月奥入瀬渓流温泉と八甲田山樹氷の初冬秘湯】幻想的な氷瀑ライトアップ・白濁名湯露天風呂と青森倉石牛＆陸奥湾ホタテ会席の宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">南信州・天竜峡の紅葉ライン舟下り＆りんご狩り！昼神温泉美肌の湯×ふるさと納税厳選ガイド長野</span>
             </a>
-            <a href="/aomori-oirase-towada-nature-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/kamikochi-hiking-shoes-packing-checklist/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">青森・十和田湖＆奥入瀬渓流：苔むす清流・銚子大滝＆青森りんご極上宿 厳選ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「上高地ハイキング 服装と靴のリアル失敗談」 スニーカーで大丈夫？大正池〜河童橋で後悔しない持ち物完全版</span>
             </a>
-            <a href="/autumn-budget-aomori-hirosaki-castle-momiji-hotels-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/luxury-private-onsen-with-starry-astronomy-deck/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">秋の弘前×格安：弘前城菊と紅葉まつりと焼きたてアップルパイ！大浴場付き1泊4,000円〜7,000円台のコスパ最強ホテル5選「2026最新」！大浴場付き1泊4,000円〜7,000円台のコスパ最強ホテル5選「2026最新」</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「日本一の星空・阿智村（天体観測専用デッキ＆満天星露天風呂付き極上宿5選）」日本一の星空・阿智村！天体観測専用デッキ＆満天星露天風呂付き極上宿5選</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
             <div className="flex flex-wrap gap-2">
               <Link
-                href="/prefectures/aomori/"
+                href="/prefectures/nagano/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                青森県の宿・温泉
-              </Link>
-              <Link
-                href="/prefectures/tokushima/"
-                className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
-              >
-                徳島県の宿・温泉
+                長野県の宿・温泉
               </Link>
               <Link
                 href="/prefectures/yamanashi/"
@@ -407,10 +401,16 @@ export default function ArticlePage() {
                 山梨県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/oita/"
+                href="/prefectures/niigata/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                大分県の宿・温泉
+                新潟県の宿・温泉
+              </Link>
+              <Link
+                href="/prefectures/ishikawa/"
+                className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
+              >
+                石川県の宿・温泉
               </Link>
             </div>
           </div>
@@ -446,7 +446,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 上諏訪温泉　ぬのはん</td>
                 <td className="p-3 text-stone-600">長野県諏訪市湖岸通り3-2-9</td>
-                <td className="p-3 text-stone-600">上諏訪駅周辺</td>
+                <td className="p-3 text-stone-600">中央線 上諏訪駅より徒歩７分。諏訪ＩＣより車で１５分。諏訪湖スマートＩＣより車で１０分。</td>
                 <td className="p-3 text-stone-600">有り：６０台</td>
                 <td className="p-3 font-bold text-amber-600">★4.55（1241件）</td>
                 <td className="p-3 font-bold text-rose-600">¥12,650〜</td>
@@ -455,7 +455,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 信州・上諏訪温泉　琥珀色の自家源泉を持つ宿【ホテル鷺乃湯】</td>
                 <td className="p-3 text-stone-600">長野県諏訪市湖岸通り3-2-14</td>
-                <td className="p-3 text-stone-600">上諏訪駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ上諏訪駅より徒歩８分、諏訪ＩＣより１５分</td>
                 <td className="p-3 text-stone-600">有り　５０台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.51（1495件）</td>
                 <td className="p-3 font-bold text-rose-600">¥10,230〜</td>
@@ -464,7 +464,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 上諏訪温泉　かけ流し源泉の宿　渋の湯</td>
                 <td className="p-3 text-stone-600">長野県諏訪市湖岸通り3-3-24</td>
-                <td className="p-3 text-stone-600">上諏訪駅周辺</td>
+                <td className="p-3 text-stone-600">JR中央線 上諏訪駅徒歩7分／中央道諏訪IC湖岸線経由15分</td>
                 <td className="p-3 text-stone-600">有り15台　無料　先着順　※係がお車の鍵をお預かりする場合があります</td>
                 <td className="p-3 font-bold text-amber-600">★4.33（596件）</td>
                 <td className="p-3 font-bold text-rose-600">¥10,868〜</td>
@@ -493,7 +493,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り：６０台</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋から花火を鑑賞できすごく良いロケーションでした諏訪湖の目の前の部屋で、20:30からの花火を部屋から見ることが出来大変満足なロケーションでした。晩御飯、朝御飯とも、中規模の宴会場で少数(当日は…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋から花火を鑑賞できすごく良いロケーションでした諏訪湖の目の前の部屋で、20:30からの花火を部屋から見ることが出来大変満足なロケーションでした。」
                   </blockquote>
                 </div>
               </div>
@@ -515,7 +515,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　５０台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食がサラダ、ご飯のお供、ドリンクのみ、セルフでとれるサービスがあり、すごくよいシステムだなと思いました。夕食は部屋食にして、こちらは出来立てとは行きませんでしたが、ゆっくり食べることができました。…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食がサラダ、ご飯のお供、ドリンクのみ、セルフでとれるサービスがあり、すごくよいシステムだなと思いました。夕食は部屋食にして、こちらは出来立てとは行きませんでしたが、ゆっくり食べることができました。」
                   </blockquote>
                 </div>
               </div>
@@ -537,7 +537,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り15台　無料　先着順　※係がお車の鍵をお預かりする場合があります</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「諏訪湖に行くなら、この旅館(^^)実際に宿泊して大満足でした!自慢の源泉かけ流しは湯量が豊富でお肌もしっとり、身体の芯から温まります。お部屋や館内も落ち着いた雰囲気で、スタッフの皆様の温かいおもて…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「諏訪湖に行くなら、この旅館(^^)実際に宿泊して大満足でした!自慢の源泉かけ流しは湯量が豊富でお肌もしっとり、身体の芯から温まります。」
                   </blockquote>
                 </div>
               </div>

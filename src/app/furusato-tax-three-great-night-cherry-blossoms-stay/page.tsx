@@ -338,7 +338,7 @@ export default function FurusatoUpgradedPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 森のスパリゾート　北海道ホテル</td>
                 <td className="p-3 text-stone-600">北海道帯広市西7条南19丁目１</td>
-                <td className="p-3 text-stone-600">帯広</td>
+                <td className="p-3 text-stone-600">根室本線ＪＲ帯広駅南口から車で5分。帯広空港より車で30分。</td>
                 <td className="p-3 text-stone-600">有（180台）無料　大型バス・トラックも駐車可（要問い合わせ）</td>
                 <td className="p-3 font-bold text-amber-600">★4.64（2667件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,480〜</td>
@@ -347,7 +347,7 @@ export default function FurusatoUpgradedPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 今治国際ホテル</td>
                 <td className="p-3 text-stone-600">愛媛県今治市旭町2-3-4</td>
-                <td className="p-3 text-stone-600">今治</td>
+                <td className="p-3 text-stone-600">予讃線今治駅から徒歩で10分。</td>
                 <td className="p-3 text-stone-600">有料　１泊　　800円（車高2.1Ｍまで。250台収容可能。車イス専用駐車場完備）</td>
                 <td className="p-3 font-bold text-amber-600">★4.45（2048件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,830〜</td>
@@ -356,7 +356,7 @@ export default function FurusatoUpgradedPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 定山渓温泉　ぬくもりの宿　ふる川</td>
                 <td className="p-3 text-stone-600">北海道札幌市南区定山渓温泉西4-353</td>
-                <td className="p-3 text-stone-600">真駒内</td>
+                <td className="p-3 text-stone-600">じょうてつバス定山渓線定山渓湯の町下車すぐ。無料送迎バス毎日１便運行／大通西１丁目テレビ塔北向かい出発。事前予約制。</td>
                 <td className="p-3 text-stone-600">有り　　50台　１泊　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.62（1397件）</td>
                 <td className="p-3 font-bold text-rose-600">¥16,800〜</td>
@@ -365,7 +365,7 @@ export default function FurusatoUpgradedPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 奈良ホテル</td>
                 <td className="p-3 text-stone-600">奈良県奈良市高畑町1096</td>
-                <td className="p-3 text-stone-600">近鉄奈良</td>
+                <td className="p-3 text-stone-600">近鉄奈良駅東改札口B出口より徒歩約15分。タクシーで5分。路線バス（天理方面行き3番のりば）約7分</td>
                 <td className="p-3 text-stone-600">有り　100台　１泊　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.67（1736件）</td>
                 <td className="p-3 font-bold text-rose-600">¥17,800〜</td>
@@ -374,7 +374,7 @@ export default function FurusatoUpgradedPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 志摩観光ホテル　ザ　クラシック</td>
                 <td className="p-3 text-stone-600">三重県志摩市阿児町神明731</td>
-                <td className="p-3 text-stone-600">賢島</td>
+                <td className="p-3 text-stone-600">近鉄「賢島駅」から徒歩約5分、シャトルバス2分。（定時運行・予約不要）</td>
                 <td className="p-3 text-stone-600">屋外、無料、66台</td>
                 <td className="p-3 font-bold text-amber-600">★4.72（959件）</td>
                 <td className="p-3 font-bold text-rose-600">¥16,005〜</td>
@@ -407,13 +407,13 @@ export default function FurusatoUpgradedPage() {
               <h4 className="text-sm font-bold text-stone-900">4. 奈良ホテル（奈良県・4.67）</h4>
               <p><strong>【特徴】</strong>関西の迎賓館として1909年創業。伝統のおもてなしで心に残る旅を。</p>
               <p><strong>【交通・駐車場】</strong>近鉄奈良駅東改札口B出口より徒歩約15分。タクシーで5分。路線バス（天理方面行き3番のりば）約7分 ／ 駐車場：有り　100台　１泊　無料</p>
-              <p className="italic text-stone-600">💬 宿泊者レビュー：「皇室や偉人の歴史を感じる最高のひととき母と2人で宿泊しました。以前から泊まりたかったホテルで、皇室の方々の写真や偉人の痕跡を感じられて最高の滞在でした。ぜひまた泊まりたいと思います。クチコミの…」</p>
+              <p className="italic text-stone-600">💬 宿泊者レビュー：「皇室や偉人の歴史を感じる最高のひととき母と2人で宿泊しました。以前から泊まりたかったホテルで、皇室の方々の写真や偉人の痕跡を感じられて最高の滞在でした。ぜひまた泊まりたいと思います。」</p>
             </div>
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-200 space-y-2 text-xs text-stone-700 leading-relaxed">
               <h4 className="text-sm font-bold text-stone-900">5. 志摩観光ホテル　ザ　クラシック（三重県・4.72）</h4>
               <p><strong>【特徴】</strong>伊勢志摩サミット開催ホテル。落ち着いた空間で時を過ごせるリゾートホテル。</p>
               <p><strong>【交通・駐車場】</strong>近鉄「賢島駅」から徒歩約5分、シャトルバス2分。（定時運行・予約不要） ／ 駐車場：屋外、無料、66台</p>
-              <p className="italic text-stone-600">💬 宿泊者レビュー：「サミットの歴史ありサミットの歴史を感じました静かな場所でくつろぎの時間を満喫できます食事やラウンジもよかったですお風呂は部屋のみですが展望ができるのが嬉しいですクチコミの詳細はこち…」</p>
+              <p className="italic text-stone-600">💬 宿泊者レビュー：「サミットの歴史ありサミットの歴史を感じました静かな場所でくつろぎの時間を満喫できます食事やラウンジもよかったですお風呂は部屋のみですが展望ができるのが嬉しいです」</p>
             </div>
           </div>
           <div className="space-y-3 pt-4 border-t border-stone-200">

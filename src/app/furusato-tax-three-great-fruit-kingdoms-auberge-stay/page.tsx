@@ -409,8 +409,8 @@ export default function Page() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> ＪＲ中央線山梨市駅から車で7分で現地へ到着。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「フルーツパーク富士屋ホテル」にチェックイン。小高い丘のホテルからは富士山などの山々を望む大パノラマと、宝石のような夜景・星空を四季折々楽しめますなどの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「フルーツパーク富士屋ホテル」の湯処へ。小高い丘のホテルからは富士山などの山々を望む大パノラマと、宝石のようなとともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「フルーツパーク富士屋ホテル」にチェックイン。小高い丘のホテルからは富士山などの山々を望む大パノラマと、宝石のような夜景・星空を四季折々楽しめますが魅力の一軒。客室で荷物をほどいて穏やかな午後のひとときを。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「フルーツパーク富士屋ホテル」の湯船で寛ぎタイム。季節の空気を感じながら手足を伸ばし、心豊かな夕方のリラックス時間を満喫。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「フルーツパーク富士屋ホテル」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -422,7 +422,7 @@ export default function Page() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「フルーツパーク富士屋ホテル」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「フルーツパーク富士屋ホテル」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「天童温泉 ほほえみの宿 滝の湯」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は「フルーツパーク富士屋ホテル」周辺の観光スポットや地元の名産店に立ち寄り、ご当地のお土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>
@@ -559,7 +559,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 天童温泉　ほほえみの宿　滝の湯</td>
                 <td className="p-3 text-stone-600">山形県天童市鎌田本町1-1-30</td>
-                <td className="p-3 text-stone-600">天童駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ山形新幹線 天童駅より車にて３分、徒歩にて１５分（無料送迎あり） 山形北ＩＣより２０分</td>
                 <td className="p-3 text-stone-600">有り　３００台ご用意しております。予約は、ご不要です。</td>
                 <td className="p-3 font-bold text-amber-600">★4.57（1058件）</td>
                 <td className="p-3 font-bold text-rose-600">¥18,150〜</td>
@@ -568,7 +568,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 小布施の宿　ヴァンヴェール</td>
                 <td className="p-3 text-stone-600">長野県上高井郡小布施町小布施34-8</td>
-                <td className="p-3 text-stone-600">長野電鉄・小布施駅より徒歩1０分、上信越自動車道・小布施スマートインタ</td>
+                <td className="p-3 text-stone-600">長野電鉄・小布施駅より徒歩1０分、上信越自動車道・小布施スマートインターよりお車にて５分</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.54（84件）</td>
                 <td className="p-3 font-bold text-rose-600">¥9,900〜</td>
@@ -597,7 +597,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「また訪れたい場所ワイナリー巡り目的で家族と宿泊しました。残念ながら当日は曇りで、富士山は一部しか眺められませんでしたが、ホテルからの夜景は素晴らしく、周辺も自然豊かで、リラックスした時間を過ごせま…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「また訪れたい場所ワイナリー巡り目的で家族と宿泊しました。」
                   </blockquote>
                 </div>
               </div>
@@ -619,7 +619,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　３００台ご用意しております。予約は、ご不要です。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.68 ／ 立地 ★4.5 ／ 部屋 ★4.63 ／ 設備 ★4.57 ／ 風呂 ★4.51 ／ 食事 ★4.68</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「一流のおもてなしと美味しい食事で家族との素敵な思い出今回は両親の金婚式・姉の銀婚式のお祝いで久しぶりに利用しました。こちらのお宿はどの従業員さんも笑顔が素敵で接客が素晴らしいです。チェックイン…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「一流のおもてなしと美味しい食事で家族との素敵な思い出今回は両親の金婚式・姉の銀婚式のお祝いで久しぶりに利用しました。こちらのお宿はどの従業員さんも笑顔が素敵で接客が素晴らしいです。」
                   </blockquote>
                 </div>
               </div>

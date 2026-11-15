@@ -528,7 +528,7 @@ export default function FurusatoFeaturePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 皆生温泉　皆生シーサイドホテル　海の四季</td>
                 <td className="p-3 text-stone-600">鳥取県米子市皆生温泉3-4-3</td>
-                <td className="p-3 text-stone-600">米子駅周辺</td>
+                <td className="p-3 text-stone-600">米子自動車道・米子ＩＣより車で約10分、ＪＲ米子駅よりタクシー又はバスで約15分、米子空港よりタクシー又はバスで約20分</td>
                 <td className="p-3 text-stone-600">無料駐車場80台分完備。当館をご利用のお客様はいつでも駐車いただけます。</td>
                 <td className="p-3 font-bold text-amber-600">★4.42（4883件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,940〜</td>
@@ -537,7 +537,7 @@ export default function FurusatoFeaturePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 山陰湯村温泉　湧泉の宿　ゆあむ</td>
                 <td className="p-3 text-stone-600">兵庫県美方郡新温泉町湯1610</td>
-                <td className="p-3 text-stone-600">近畿豊岡道日高神鍋高原ICより約35分/大阪梅田より阪急特急バス「湯村</td>
+                <td className="p-3 text-stone-600">近畿豊岡道日高神鍋高原ICより約35分/大阪梅田より阪急特急バス「湯村温泉行」1日1～2便</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.47（1528件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,400〜</td>
@@ -546,7 +546,7 @@ export default function FurusatoFeaturePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 皆生温泉　華水亭</td>
                 <td className="p-3 text-stone-600">鳥取県米子市皆生温泉4-19-10</td>
-                <td className="p-3 text-stone-600">米子駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ米子駅より車で１５分、米子空港より車で２０分、米子自動車道米子ＩＣより車で１０分</td>
                 <td className="p-3 text-stone-600">有り　70台　バス10台　乗用車70台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.57（919件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,800〜</td>
@@ -555,7 +555,7 @@ export default function FurusatoFeaturePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. スーパーホテル浜松　天然温泉「浜松出世の湯」</td>
                 <td className="p-3 text-stone-600">静岡県浜松市中央区西伊場町58-7</td>
-                <td className="p-3 text-stone-600">浜松駅周辺</td>
+                <td className="p-3 text-stone-600">浜松駅からタクシーで約10分、バスで約15分！浜松西インターよりお車で約20分！</td>
                 <td className="p-3 text-stone-600">有り 無料※駐車場利用不可プランにご注意 ※駐車場は全長5m以下の普通車のみ トラック・バス駐車不可</td>
                 <td className="p-3 font-bold text-amber-600">★4.22（879件）</td>
                 <td className="p-3 font-bold text-rose-600">¥2,800〜</td>
@@ -564,7 +564,7 @@ export default function FurusatoFeaturePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. ホテルルートイン浜名湖</td>
                 <td className="p-3 text-stone-600">静岡県湖西市古見1049-1</td>
-                <td className="p-3 text-stone-600">鷲津駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ東海道本線 豊橋駅から鷲津駅まで15分／鷲津駅から車で5分／東名高速道路 三ヶ日I.Cより車で２０分</td>
                 <td className="p-3 text-stone-600">有り　１２9台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.25（651件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,650〜</td>
@@ -573,7 +573,7 @@ export default function FurusatoFeaturePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">6. 中島温泉旅館</td>
                 <td className="p-3 text-stone-600">鹿児島県日置市吹上町湯之浦1106</td>
-                <td className="p-3 text-stone-600">鹿児島中央駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ 鹿児島中央駅から鹿児島交通バスで伊作バス停下車後、お車にて５分</td>
                 <td className="p-3 text-stone-600">有り　３０台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.21（53件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,510〜</td>
@@ -602,7 +602,7 @@ export default function FurusatoFeaturePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料駐車場80台分完備。当館をご利用のお客様はいつでも駐車いただけます。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「エアコンが効かず、清掃が行き届いていない部屋のエアコンが冷えず部屋の外の方が涼しかった。テーブルの上に綿埃が多く、電話や電気スタンドを動かすとホコリが舞い上がった。食事に使うので拭き掃除をして…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「エアコンが効かず、清掃が行き届いていない部屋のエアコンが冷えず部屋の外の方が涼しかった。テーブルの上に綿埃が多く、電話や電気スタンドを動かすとホコリが舞い上がった。」
                   </blockquote>
                 </div>
               </div>
@@ -624,7 +624,7 @@ export default function FurusatoFeaturePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの対応と地産地消の食事が最高従業員さんがとても素敵でした。食事も地産地消の食材を使ってとても美味しい!温泉もとてもいいお湯でした。雨で露天風呂が楽しめなかったのが残念でしたが2連泊だったの…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの対応と地産地消の食事が最高従業員さんがとても素敵でした。食事も地産地消の食材を使ってとても美味しい!温泉もとてもいいお湯でした。」
                   </blockquote>
                 </div>
               </div>
@@ -646,7 +646,7 @@ export default function FurusatoFeaturePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　70台　バス10台　乗用車70台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「丁寧な接客と美味しい食事、眺望に大満足大変丁寧な接客で嬉しくなりました。夜ご飯も朝ごはんもとても美味しくお腹いっぱいになりました。お部屋の眺めも大変よかったです。ウェルカムドリンクが子供たちは…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「丁寧な接客と美味しい食事、眺望に大満足大変丁寧な接客で嬉しくなりました。夜ご飯も朝ごはんもとても美味しくお腹いっぱいになりました。お部屋の眺めも大変よかったです。」
                   </blockquote>
                 </div>
               </div>
@@ -668,7 +668,7 @@ export default function FurusatoFeaturePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り 無料※駐車場利用不可プランにご注意 ※駐車場は全長5m以下の普通車のみ トラック・バス駐車不可</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「焼き立てパンと天然温泉を満喫、ツインがないのは残念無料の朝食はありがたいです、特に、焼き立てのベーカリーはとても美味しく頂きました。そして、天然温泉があるのは最高の贅沢ですね。ただ、ツインの部…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「焼き立てパンと天然温泉を満喫、ツインがないのは残念無料の朝食はありがたいです、特に、焼き立てのベーカリーはとても美味しく頂きました。そして、天然温泉があるのは最高の贅沢ですね。」
                   </blockquote>
                 </div>
               </div>

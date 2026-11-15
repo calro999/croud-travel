@@ -439,7 +439,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 霧島温泉郷　民宿　みちや荘</td>
                 <td className="p-3 text-stone-600">鹿児島県霧島市牧園町高千穂3855-118</td>
-                <td className="p-3 text-stone-600"></td>
+                <td className="p-3 text-stone-600">鹿児島県霧島市牧園町高千穂3855-118 ／ 交通案内：</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.15（71件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,700〜</td>
@@ -448,7 +448,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 霧島温泉　民宿　登山口温泉</td>
                 <td className="p-3 text-stone-600">鹿児島県霧島市霧島田口2459-83</td>
-                <td className="p-3 text-stone-600"></td>
+                <td className="p-3 text-stone-600">鹿児島県霧島市霧島田口2459-83 ／ 交通案内：</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.04（119件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,400〜</td>
@@ -457,7 +457,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 霧島温泉　夫婦露天風呂の宿　天テラス（あまてらす）</td>
                 <td className="p-3 text-stone-600">鹿児島県霧島市牧園町高千穂3761</td>
-                <td className="p-3 text-stone-600"></td>
+                <td className="p-3 text-stone-600">霧島神宮駅よりお車にて約２５分</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.55（233件）</td>
                 <td className="p-3 font-bold text-rose-600">¥12,210〜</td>

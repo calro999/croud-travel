@@ -420,8 +420,8 @@ export default function Page() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 和倉温泉駅よりアクセス。JR和倉温泉駅から当館無料送迎バスで5分。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「和倉温泉 ホテル海望」にチェックイン。お客様に愛され続けて創業130余年。海を望むという名である理由、感動を一度ご体感ください。などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「和倉温泉 ホテル海望」の湯処へ。お客様に愛され続けて創業130余年。海を望むという名である理由、感動をとともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「和倉温泉 ホテル海望」にチェックイン。お客様に愛され続けて創業130余年。海を望むという名である理由、感動を一度ご体感ください。 荷物を解き、落ち着いた室内でまず一息つく。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「和倉温泉 ホテル海望」の大浴場・露天風呂へ。日暮れの静けさの中で湯に浸かり、旅の緊張をゆっくりと解きほぐす。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「和倉温泉 ホテル海望」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -433,7 +433,7 @@ export default function Page() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「和倉温泉 ホテル海望」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「和倉温泉 ホテル海望」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「唐津シーサイドホテル」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は「和倉温泉 ホテル海望」周辺の観光スポットや地元の名産店に立ち寄り、ご当地のお土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>
@@ -561,7 +561,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 和倉温泉　ホテル海望</td>
                 <td className="p-3 text-stone-600">石川県七尾市和倉町和歌崎部12-3</td>
-                <td className="p-3 text-stone-600">和倉温泉駅周辺</td>
+                <td className="p-3 text-stone-600">JR和倉温泉駅から当館無料送迎バスで5分。金沢から「のと里山海道」徳田大津JCT、和倉IC経由、車で約1時間。</td>
                 <td className="p-3 text-stone-600">ホテル海望と湯っ足りパークの間に、海を望む無料駐車場がございます。全150台。</td>
                 <td className="p-3 font-bold text-amber-600">★4.51（1065件）</td>
                 <td className="p-3 font-bold text-rose-600">¥9,900〜</td>
@@ -570,7 +570,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 唐津シーサイドホテル</td>
                 <td className="p-3 text-stone-600">佐賀県唐津市東唐津4-182</td>
-                <td className="p-3 text-stone-600">東唐津駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ 東唐津駅より車にて約３分</td>
                 <td className="p-3 text-stone-600">有り　105台　無料　※障がい者スペースは要予約</td>
                 <td className="p-3 font-bold text-amber-600">★4.6（2445件）</td>
                 <td className="p-3 font-bold text-rose-600">¥10,300〜</td>
@@ -579,7 +579,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 三日月イン</td>
                 <td className="p-3 text-stone-600">千葉県勝浦市墨名258</td>
-                <td className="p-3 text-stone-600">勝浦駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ外房線勝浦駅下車 徒歩０分（ロータリー脇）・館山道市原ＩＣ又は圏央道市原鶴舞ＩＣより国道297号線勝浦方面へ。</td>
                 <td className="p-3 text-stone-600">先着２５台（無料）</td>
                 <td className="p-3 font-bold text-amber-600">★4.08（587件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,700〜</td>
@@ -608,7 +608,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>ホテル海望と湯っ足りパークの間に、海を望む無料駐車場がございます。全150台。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.6 ／ 立地 ★4.72 ／ 部屋 ★4.48 ／ 設備 ★4.23 ／ 風呂 ★4.41 ／ 食事 ★4.71</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食の品数が豊富で大満足の美味しさ復興途中故に露天風呂などが使えない点を除けば非常に良かったです。朝食は品数が非常に多く、ご飯もおかわりできるようで非常に良かったです。クチコミの詳細はこち…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食の品数が豊富で大満足の美味しさ復興途中故に露天風呂などが使えない点を除けば非常に良かったです。朝食は品数が非常に多く、ご飯もおかわりできるようで非常に良かったです。」
                   </blockquote>
                 </div>
               </div>
@@ -652,7 +652,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>先着２５台（無料）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「美味しい魚と丁寧な接客、駅近で安心感抜群魚祭の魚が美味しかった接客が良くおすすめですね駅近、交番近 朝市にも歩けとても安心できました」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「美味しい魚と丁寧な接客、駅近で安心感抜群魚祭の魚が美味しかった接客が良くおすすめですね駅近、交番近 朝市にも歩けとても安心できましたhttps:。」
                   </blockquote>
                 </div>
               </div>

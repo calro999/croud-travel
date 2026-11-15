@@ -337,7 +337,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 城崎温泉　医食同源の宿　かに庵</td>
                 <td className="p-3 text-stone-600">兵庫県豊岡市城崎町湯島690</td>
-                <td className="p-3 text-stone-600">ＪＲ　城崎温泉駅より徒歩にて約７分。　大阪方面より中国道～舞鶴道～北近</td>
+                <td className="p-3 text-stone-600">ＪＲ 城崎温泉駅より徒歩にて約７分。 大阪方面より中国道～舞鶴道～北近畿豊岡自動車道～但馬空港ＩＣ下車 約30分</td>
                 <td className="p-3 text-stone-600">契約駐車場有り(受け入れ15〜18時、翌10時まで）　有料1,650円　　要予約</td>
                 <td className="p-3 font-bold text-amber-600">★4.28（116件）</td>
                 <td className="p-3 font-bold text-rose-600">¥9,900〜</td>
@@ -346,7 +346,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 城崎温泉　網元の宿　蟹宿むつの屋</td>
                 <td className="p-3 text-stone-600">兵庫県豊岡市城崎町湯島652</td>
-                <td className="p-3 text-stone-600">城崎駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ城崎駅より徒歩１０分、最寄りIC：日高神鍋高原IC</td>
                 <td className="p-3 text-stone-600">有り　1５台　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4（38件）</td>
                 <td className="p-3 font-bold text-rose-600">¥18,030〜</td>
@@ -355,7 +355,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 城崎温泉　西村屋ホテル招月庭</td>
                 <td className="p-3 text-stone-600">兵庫県豊岡市城崎町湯島1016-2</td>
-                <td className="p-3 text-stone-600">城崎駅周辺</td>
+                <td className="p-3 text-stone-600">【電車】JR城崎温泉駅から旅館組合無料乗合バスで5～15分【車】北近畿豊岡自動車道・豊岡出石ICから約18分</td>
                 <td className="p-3 text-stone-600">無料駐車場有（100台・予約不要）バイクも可</td>
                 <td className="p-3 font-bold text-amber-600">★4.73（1172件）</td>
                 <td className="p-3 font-bold text-rose-600">¥35,200〜</td>
@@ -384,7 +384,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>契約駐車場有り(受け入れ15〜18時、翌10時まで）　有料1,650円　　要予約</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「おせわになりました。外湯へのアクセスが良かったです。花火も開始2分前にバタバタ出ましたがピッタリ間に合い堪能しました。他所でカニ食べる予定で、夕食はしゃぶしゃぶコースを選択していました。お…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「おせわになりました。外湯へのアクセスが良かったです。花火も開始2分前にバタバタ出ましたがピッタリ間に合い堪能しました。他所でカニ食べる予定で、夕食はしゃぶしゃぶコースを選択していました。」
                   </blockquote>
                 </div>
               </div>
@@ -428,7 +428,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料駐車場有（100台・予約不要）バイクも可</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「落ち着いた客層と細やかなおもてなしに感動西村屋招月庭はファミリー向けと記載がありましたが、客層がかなり良いと感じました。日本人、外国人の割合は半々くらいに思いましたが、みなさんとにかく落ち着いてい…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「落ち着いた客層と細やかなおもてなしに感動西村屋招月庭はファミリー向けと記載がありましたが、客層がかなり良いと感じました。」
                   </blockquote>
                 </div>
               </div>

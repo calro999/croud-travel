@@ -336,8 +336,8 @@ export default function ArticlePage() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 玉造温泉駅よりアクセス。山陰道 玉造インターから車で約１０分 ■出雲大社から車で約４０分の距離 ■ＪＲ玉造温泉駅より送迎有（事前連絡要）。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「出雲・玉造温泉 白石家」にチェックイン。ご縁に結ばれて創業300年 楽天トラベルアワード11年連続受賞施設！口コミ総数3,326件☆などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「出雲・玉造温泉 白石家」の湯処へ。ご縁に結ばれて創業300年 楽天トラベルアワード11年連続受賞施設！口とともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「出雲・玉造温泉 白石家」にチェックイン。【ご縁に結ばれて創業300年】楽天トラベルアワード11年連続受賞施設！ まずは客室で移動の疲れをそっと癒やす。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「出雲・玉造温泉 白石家」の大浴場・露天風呂へ。日暮れの静けさの中で湯に浸かり、旅の緊張をゆっくりと解きほぐす。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「出雲・玉造温泉 白石家」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -349,7 +349,7 @@ export default function ArticlePage() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「出雲・玉造温泉 白石家」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「出雲・玉造温泉 白石家」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「玉造温泉 源泉かけ流しの宿 湯陣 千代の湯」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は「出雲・玉造温泉 白石家」周辺の観光スポットや地元の名産店に立ち寄り、ご当地のお土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>
@@ -365,43 +365,43 @@ export default function ArticlePage() {
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">あわせて読みたい人気特集＆全国エリアガイド</h2>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
-            <a href="/winter-aomori-ajigasawa-fukaura-onsen-hirame-maguro-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/winter-shimane-adachi-museum-snow-garden-saginoyu-wagyu-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12月津軽西海岸】冬旬「鰺ヶ沢ヒラメ」＆深浦マグロ・太古の化石海水温まり湯と黄金崎不老ふ死温泉を巡る名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">白銀の山水画を額縁に望む日本庭園の最高峰 足立美術館雪景色とさぎの湯温泉・しまね和牛と松葉ガニの名宿</span>
             </a>
-            <a href="/winter-aomori-towada-lake-oirase-hyobaku-snow-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/winter-shimane-matsue-shinjiko-onsen-sunset-matsubagani-shijimi-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【12・1月青森】十和田湖＆奥入瀬渓流！白銀の巨大氷瀑・氷柱ネイチャーツアーと十和田神社初詣・奥入瀬渓流温泉雪見露天＆倉石牛名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12月島根・松江しんじ湖温泉】宍道湖夕日絶景と冬の味覚 解禁松葉ガニ＆寒シジミ鍋・しまね和牛会席を愉しむ湖畔レイクビュー名宿5選</span>
             </a>
-            <a href="/autumn-aomori-oirase-gorge-towada-lake-momiji-hotels-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/winter-shimane-tsuwano-taikodani-inari-hatsumode-uzumemeshi-iwamigyu-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【10月中旬〜下旬！奥入瀬渓流＆十和田湖紅葉】錦秋の滝巡りと秘湯・リゾート宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「島根・津和野＆太皷谷稲成神社」 日本五大稲荷「太皷谷稲成神社」千本鳥居の新春初詣と雪の殿町通り！ 熱々伝統「うずめ飯」＆幻の石見和牛を味わう厳選名宿</span>
             </a>
-            <a href="/furusato-tax-art-museum-architecture-luxury-hotel-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/autumn-budget-shimane-matsue-shinjiko-soba-hotels-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">安藤忠雄建築や現代アートと眠る美術館ホテル＆アートリゾート×ふるさと納税厳選ガイド直島・箱根強羅・青森</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「松江・宍道湖」秋の味覚宍道湖七珍＆国宝松江城！3,000円台〜泊まれる格安・高コスパ宿5選</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
             <div className="flex flex-wrap gap-2">
               <Link
-                href="/prefectures/tochigi/"
+                href="/prefectures/shimane/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                栃木県の宿・温泉
-              </Link>
-              <Link
-                href="/prefectures/aomori/"
-                className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
-              >
-                青森県の宿・温泉
+                島根県の宿・温泉
               </Link>
               <Link
                 href="/prefectures/hiroshima/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 広島県の宿・温泉
+              </Link>
+              <Link
+                href="/prefectures/okayama/"
+                className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
+              >
+                岡山県の宿・温泉
               </Link>
               <Link
                 href="/prefectures/tottori/"
@@ -443,7 +443,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 出雲・玉造温泉　白石家</td>
                 <td className="p-3 text-stone-600">島根県松江市玉湯町玉造44-2</td>
-                <td className="p-3 text-stone-600">玉造温泉駅周辺</td>
+                <td className="p-3 text-stone-600">【山陰道】玉造インターから車で約１０分 ■出雲大社から車で約４０分の距離 ■ＪＲ玉造温泉駅より送迎有（事前連絡要）</td>
                 <td className="p-3 text-stone-600">有り：無料　当館スタッフが駐車場へお車を移動します。お車の鍵はフロントでお預かり致します。</td>
                 <td className="p-3 font-bold text-amber-600">★4.67（4065件）</td>
                 <td className="p-3 font-bold text-rose-600">¥26,400〜</td>
@@ -452,7 +452,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 玉造温泉　源泉かけ流しの宿　湯陣　千代の湯</td>
                 <td className="p-3 text-stone-600">島根県松江市玉湯町玉造1215-2</td>
-                <td className="p-3 text-stone-600">お車：山陰道松江玉造ICより約１０分 ／ 鉄道：ＪＲ山陰本線玉造温泉駅</td>
+                <td className="p-3 text-stone-600">お車：山陰道松江玉造ICより約１０分 ／ 鉄道：ＪＲ山陰本線玉造温泉駅よりタクシーにて約５分</td>
                 <td className="p-3 text-stone-600">有り　２５台　　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.13（856件）</td>
                 <td className="p-3 font-bold text-rose-600">¥14,300〜</td>
@@ -461,7 +461,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 玉造温泉　松乃湯</td>
                 <td className="p-3 text-stone-600">島根県松江市玉湯町玉造1215</td>
-                <td className="p-3 text-stone-600">玉造温泉駅周辺</td>
+                <td className="p-3 text-stone-600">JR玉造温泉駅より無料送迎【迎え】１４：００～最終１９：００要事前連絡【送り】始発８：２０～最終９：５０計４便</td>
                 <td className="p-3 text-stone-600">約100台駐車できるスペース有り（無料）。大型車は事前にご連絡ください。</td>
                 <td className="p-3 font-bold text-amber-600">★4.2（2066件）</td>
                 <td className="p-3 font-bold text-rose-600">¥22,990〜</td>
@@ -534,7 +534,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>約100台駐車できるスペース有り（無料）。大型車は事前にご連絡ください。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.18 ／ 立地 ★4.04 ／ 部屋 ★4.07 ／ 設備 ★4.03 ／ 風呂 ★4.14 ／ 食事 ★4.39</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「素敵なひとときでしたパイキングのローストビーフがとても美味しかったです。ご当地の食材など種類豊富でとても満足でした。部屋に備えてあったアメニティがとても素敵で使うのがもったいないぐ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「素敵なひとときでしたパイキングのローストビーフがとても美味しかったです。ご当地の食材など種類豊富でとても満足でした。」
                   </blockquote>
                 </div>
               </div>

@@ -353,39 +353,7 @@ export default function Page() {
             </Link>
           </div>
         </section>
-        <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
-          <div className="flex items-center gap-3 mb-6">
-            <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】あかん遊久の里鶴雅を拠点にするおすすめ滞在モデルコース</h2>
-          </div>
-          <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
-            <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
-              <div className="flex items-center gap-2">
-                <span className="bg-amber-600 text-white text-xs font-bold px-2.5 py-1 rounded">1日目</span>
-                <h3 className="font-bold text-stone-900 text-base md:text-lg">到着〜チェックインと名湯巡り</h3>
-              </div>
-              <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
-                <li>・<strong className="text-stone-800">14:00〜</strong> 釧路駅よりアクセス。釧路空港より車で約６０分／女満別空港より車で約９０分。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「あかん遊久の里鶴雅」にチェックイン。和のこころ、阿寒のおもてなしをさらに深めて。日本の旅館文化を継承するおもてなしをご堪能ください。などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「あかん遊久の里鶴雅」の湯処へ。和のこころ、阿寒のおもてなしをさらに深めて。日本の旅館文化を継承するおとともに、夕暮れの特別な寛ぎを満喫。</li>
-                <li>・<strong className="text-stone-800">19:00〜</strong> 「あかん遊久の里鶴雅」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
-              </ul>
-            </div>
-            <div className="border-l-2 border-teal-500 pl-4 md:pl-6 space-y-4">
-              <div className="flex items-center gap-2">
-                <span className="bg-teal-600 text-white text-xs font-bold px-2.5 py-1 rounded">2日目</span>
-                <h3 className="font-bold text-stone-900 text-base md:text-lg">爽快な朝湯〜周辺散策と帰路へ</h3>
-              </div>
-              <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
-                <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「あかん遊久の里鶴雅」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
-                <li>・<strong className="text-stone-800">08:00〜</strong> 「あかん遊久の里鶴雅」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「ニュー阿寒ホテル」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
-              </ul>
-            </div>
-          </div>
-        </section>
-
-        {/* FAQ Section */}
+                {/* FAQ Section */}
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
@@ -450,28 +418,28 @@ export default function Page() {
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
             <div className="flex flex-wrap gap-2">
               <Link
+                href="/prefectures/hokkaido/"
+                className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
+              >
+                北海道の宿・温泉
+              </Link>
+              <Link
                 href="/prefectures/aomori/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 青森県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/akita/"
+                href="/prefectures/iwate/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                秋田県の宿・温泉
+                岩手県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/tokyo/"
+                href="/prefectures/miyagi/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                東京都の宿・温泉
-              </Link>
-              <Link
-                href="/prefectures/fukushima/"
-                className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
-              >
-                福島県の宿・温泉
+                宮城県の宿・温泉
               </Link>
             </div>
           </div>
@@ -507,7 +475,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. あかん遊久の里鶴雅</td>
                 <td className="p-3 text-stone-600">北海道釧路市阿寒町阿寒湖温泉4-6-10</td>
-                <td className="p-3 text-stone-600">釧路駅周辺</td>
+                <td className="p-3 text-stone-600">釧路空港より車で約６０分／女満別空港より車で約９０分。 ※アクセスの詳細は公式サイトの「アクセスページ」をご覧ください。</td>
                 <td className="p-3 text-stone-600">有り（無料）150台※駐車場は当館から離れた場所にあります（駐車場とホテル間はシャトルバス運行あり）</td>
                 <td className="p-3 font-bold text-amber-600">★4.49（1917件）</td>
                 <td className="p-3 font-bold text-rose-600">¥14,520〜</td>
@@ -516,7 +484,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. ニュー阿寒ホテル（グランベルホテルズ&amp;amp;リゾーツ）</td>
                 <td className="p-3 text-stone-600">北海道釧路市阿寒町阿寒湖温泉2-8-8</td>
-                <td className="p-3 text-stone-600">釧路駅周辺</td>
+                <td className="p-3 text-stone-600">詳細はホテル公式サイトでご確認ください</td>
                 <td className="p-3 text-stone-600">有り ２００台 無料 先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.14（2519件）</td>
                 <td className="p-3 font-bold text-rose-600">¥10,200〜</td>
@@ -525,7 +493,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. ＴＨＥ　ＦＯＲＥＳＴ阿寒　ＴＳＵＲＵＧＡＲＥＳＯＲＴ（旧：阿寒の森鶴雅リゾート花ゆう香）</td>
                 <td className="p-3 text-stone-600">北海道釧路市阿寒町阿寒湖温泉1-6-1</td>
-                <td className="p-3 text-stone-600">釧路駅周辺</td>
+                <td className="p-3 text-stone-600">釧路空港より車で約６０分／女満別空港より車で約９０分。 ※アクセスの詳細は公式サイトの「アクセスページ」をご覧ください。</td>
                 <td className="p-3 text-stone-600">※駐車場は当館から離れた場所にあります（無料）正面玄関車寄せにて係が駐車場までの行き方をご案内します</td>
                 <td className="p-3 font-bold text-amber-600">★4.14（561件）</td>
                 <td className="p-3 font-bold text-rose-600">¥12,644〜</td>
@@ -576,7 +544,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り ２００台 無料 先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの気遣いがなく二度と利用したくない一般的なホテルと言えばこんな感じだなと言う気持ち。ただスタッフの宿泊者への気遣いは全く感じず、正直2度と泊まりたくない。ビジネスホテルの方が、コス…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの気遣いがなく二度と利用したくない一般的なホテルと言えばこんな感じだなと言う気持ち。ただスタッフの宿泊者への気遣いは全く感じず、正直2度と泊まりたくない。」
                   </blockquote>
                 </div>
               </div>

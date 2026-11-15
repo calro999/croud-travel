@@ -48,7 +48,7 @@ export default function FurusatoTaxPage() {
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* パンくずリスト */}
-      <nav className="border-b border-slate-800/80 bg-slate-900/60 backdrop-blur px-4 py-3 text-xs text-slate-400">
+      <nav className="border-b border-slate-800/80 bg-slate-900/60 backdrop-blur px-4 py-3 text-xs text-slate-200">
         <div className="max-w-6xl mx-auto flex items-center gap-2 overflow-x-auto whitespace-nowrap">
           <Link href="/" className="hover:text-amber-400 transition">ホーム</Link>
           <span>/</span>
@@ -480,8 +480,8 @@ export default function FurusatoTaxPage() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 函館駅よりアクセス。ＪＲ函館駅より徒歩15分 函館空港よりタクシーで約20分。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「ラビスタ函館ベイ」にチェックイン。最上階の展望温泉と和洋朝食バイキングが彩る、どこよりも「函館らしい」ホテル。などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「ラビスタ函館ベイ」の湯処へ。最上階の展望温泉と和洋朝食バイキングが彩る、どこよりも「函館らしい」ホとともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「ラビスタ函館ベイ」にチェックイン。最上階の展望温泉と和洋朝食バイキングが彩る、どこよりも「函館らしい」ホテル。 客室で身支度を整え、この宿ならではの滞在をスタート。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「ラビスタ函館ベイ」の大浴場・露天風呂へ。日暮れの静けさの中で湯に浸かり、旅の緊張をゆっくりと解きほぐす。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「ラビスタ函館ベイ」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -493,7 +493,7 @@ export default function FurusatoTaxPage() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「ラビスタ函館ベイ」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「ラビスタ函館ベイ」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「神戸ベイシェラトンホテル＆タワーズ」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は宿周辺の散策とショッピングを満喫。地元の名産品やグルメを味わってから余裕をもって帰路につく。</li>
               </ul>
             </div>
           </div>
@@ -621,7 +621,7 @@ export default function FurusatoTaxPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. ラビスタ函館ベイ（共立リゾート）</td>
                 <td className="p-3 text-stone-600">北海道函館市豊川町12-6</td>
-                <td className="p-3 text-stone-600">函館駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ函館駅より徒歩15分 函館空港よりタクシーで約20分</td>
                 <td className="p-3 text-stone-600">有り　1,000円（税込／泊）先着順／170台</td>
                 <td className="p-3 font-bold text-amber-600">★4.47（5515件）</td>
                 <td className="p-3 font-bold text-rose-600">¥11,120〜</td>
@@ -630,7 +630,7 @@ export default function FurusatoTaxPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 神戸ベイシェラトンホテル＆タワーズ</td>
                 <td className="p-3 text-stone-600">兵庫県神戸市東灘区向洋町中2-13</td>
-                <td className="p-3 text-stone-600">ＪＲ「住吉駅」→六甲ライナー「アイランドセンター駅」から徒歩1分。ＪＲ</td>
+                <td className="p-3 text-stone-600">ＪＲ「住吉駅」→六甲ライナー「アイランドセンター駅」から徒歩1分。ＪＲ「三ノ宮駅」から直通バスで２０分。駐車場無料。</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.47（4867件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,040〜</td>
@@ -639,7 +639,7 @@ export default function FurusatoTaxPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 金沢白鳥路　ホテル山楽</td>
                 <td className="p-3 text-stone-600">石川県金沢市丸の内6-3</td>
-                <td className="p-3 text-stone-600">金沢駅周辺</td>
+                <td className="p-3 text-stone-600">■金沢駅⇔ホテル無料送迎バス■金沢駅東口より車で１０分■金沢駅東口⑥、⑦乗り場【兼六園下・金沢城】バス停下車徒歩５分</td>
                 <td className="p-3 text-stone-600">地下駐車場50台／料金1泊1台1,000円／24時間入出庫可／高さ制限2.1ｍ未満</td>
                 <td className="p-3 font-bold text-amber-600">★4.55（2831件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,250〜</td>
@@ -648,7 +648,7 @@ export default function FurusatoTaxPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. ＴＨＥ　ＨＯＴＥＬ　ＳＡＮＲＡＫＵ　ＫＡＮＡＺＡＷＡ（ザ　ホテル山楽　金沢）</td>
                 <td className="p-3 text-stone-600">石川県金沢市尾張町1丁目1番1号</td>
-                <td className="p-3 text-stone-600">金沢駅周辺</td>
+                <td className="p-3 text-stone-600">JR金沢駅東口よりバスで約１０分「武蔵が辻・近江町市場」下車徒歩４分／近江町市場へ徒歩１分、金沢城公園へ徒歩３分</td>
                 <td className="p-3 text-stone-600">地下駐車場58台／1泊1台につき1,200円</td>
                 <td className="p-3 font-bold text-amber-600">★4.7（824件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,200〜</td>
@@ -677,7 +677,7 @@ export default function FurusatoTaxPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　1,000円（税込／泊）先着順／170台</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「丁寧な事前対応と絶景の露天風呂に大満足宿泊前からタクシーのお手配やその他の質問に対して、丁寧にご回答いただきました。当日も飛行機が遅れたことで、諸々の変更をお願いしましたが、すぐに全て対応いた…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「丁寧な事前対応と絶景の露天風呂に大満足宿泊前からタクシーのお手配やその他の質問に対して、丁寧にご回答いただきました。」
                   </blockquote>
                 </div>
               </div>
@@ -721,7 +721,7 @@ export default function FurusatoTaxPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>地下駐車場50台／料金1泊1台1,000円／24時間入出庫可／高さ制限2.1ｍ未満</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「観光に最適な立地と郷土料理に大満足とにかくロケーションが観光に最適、施設は便利であって欲しいところはすべて新しく(ランドリーの洗濯機は洗剤自動投入など)、とても清潔で、一方で調度品や装飾などは古き…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「観光に最適な立地と郷土料理に大満足とにかくロケーションが観光に最適、施設は便利であって欲しいところはすべて新しく(ランドリーの洗濯機は洗剤自動投入など)、とても清潔んでした。」
                   </blockquote>
                 </div>
               </div>

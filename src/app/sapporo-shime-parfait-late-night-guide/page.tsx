@@ -482,7 +482,7 @@ export default function SapporoShimeParfaitLateNightGuidePage() {
               })}
             </div>
           ) : (
-            <div className="bg-slate-900 rounded-2xl p-8 text-center text-slate-400">
+            <div className="bg-slate-900 rounded-2xl p-8 text-center text-slate-200">
               現在、札幌・すすきのエリアのおすすめ宿泊プランを読み込み中です。
             </div>
           )}

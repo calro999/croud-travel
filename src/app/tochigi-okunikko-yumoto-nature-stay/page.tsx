@@ -253,7 +253,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 奥日光湯元温泉　ゆの森</td>
                 <td className="p-3 text-stone-600">栃木県日光市湯元2549-3</td>
-                <td className="p-3 text-stone-600">東武日光駅周辺</td>
+                <td className="p-3 text-stone-600">東武日光駅から東武バス乗車、終点「湯元温泉」下車（約６０分） 日光東照宮まで車60分</td>
                 <td className="p-3 text-stone-600">有り　１２台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.76（116件）</td>
                 <td className="p-3 font-bold text-rose-600">¥41,800〜</td>
@@ -262,7 +262,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 湯西川温泉　ホテル湯西川（伊東園ホテルズ）</td>
                 <td className="p-3 text-stone-600">栃木県日光市湯西川597</td>
-                <td className="p-3 text-stone-600">湯西川温泉駅周辺</td>
+                <td className="p-3 text-stone-600">湯西川温泉駅よりバスにて約20分（ホテル湯西川前下車）</td>
                 <td className="p-3 text-stone-600">有り　７０台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.03（969件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,248〜</td>
@@ -271,7 +271,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. グランピングリゾート　ブリリアントヴィレッジ日光</td>
                 <td className="p-3 text-stone-600">栃木県日光市瀬尾2010</td>
-                <td className="p-3 text-stone-600">東武日光駅周辺</td>
+                <td className="p-3 text-stone-600">日光有料道路今市インターから車で約１５分、東武日光線下今市駅から車で約１５分</td>
                 <td className="p-3 text-stone-600">18台の無料駐車場有り／ご予約不要／他臨時駐車場有</td>
                 <td className="p-3 font-bold text-amber-600">★4.87（76件）</td>
                 <td className="p-3 font-bold text-rose-600">¥16,000〜</td>
@@ -280,7 +280,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 日光温泉　ホテル　春茂登</td>
                 <td className="p-3 text-stone-600">栃木県日光市安川町5-13</td>
-                <td className="p-3 text-stone-600">東武日光駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ日光駅又は東武日光駅より車で１０分</td>
                 <td className="p-3 text-stone-600">有り　１１台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.2（243件）</td>
                 <td className="p-3 font-bold text-rose-600">¥10,670〜</td>
@@ -289,7 +289,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. オーベルジュ　はなぶさ日光</td>
                 <td className="p-3 text-stone-600">栃木県日光市所野1458-1</td>
-                <td className="p-3 text-stone-600">東武日光駅周辺</td>
+                <td className="p-3 text-stone-600">東武日光駅より徒歩１０分、JR日光駅より徒歩１２分（送迎は行っておりません）</td>
                 <td className="p-3 text-stone-600">有り　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.11（38件）</td>
                 <td className="p-3 font-bold text-rose-600">¥31,900〜</td>
@@ -298,7 +298,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">6. 日光・奥鬼怒温泉郷の山の宿　八丁の湯</td>
                 <td className="p-3 text-stone-600">栃木県日光市川俣876</td>
-                <td className="p-3 text-stone-600">鬼怒川温泉駅周辺</td>
+                <td className="p-3 text-stone-600">鬼怒川温泉からバスで「女夫渕」行き乗車、「女夫渕」バス停より送迎</td>
                 <td className="p-3 text-stone-600">有り８０台　無料　予約不要（女夫渕駐車場・当館まで無料送迎あり※要予約）</td>
                 <td className="p-3 font-bold text-amber-600">★4.57（273件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,800〜</td>
@@ -349,7 +349,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　７０台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4 ／ 立地 ★4.03 ／ 部屋 ★3.88 ／ 設備 ★3.81 ／ 風呂 ★4.17 ／ 食事 ★3.89</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「座椅子の裏に大量のホコリがあり残念食事は普通の伊東園ホテルレベルです。とても静かな環境で、平日のためか混雑している感は無く、綺麗なお風呂でゆっくりできました。残念な事がは綺麗な畳に横になっている時…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「座椅子の裏に大量のホコリがあり残念食事は普通の伊東園ホテルレベルです。とても静かな環境で、平日のためか混雑している感は無く、綺麗なお風呂でゆっくりできました。」
                   </blockquote>
                 </div>
               </div>
@@ -393,7 +393,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１１台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「東照宮徒歩圏内、車も駐車できゆっくり観光東照宮まで徒歩圏内、チェックアウトも昼過ぎまで車を駐車させていただき、ゆっくりと日光を観光できました。宿もちょっと古いところはありますがコスト的には満足…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「東照宮徒歩圏内、車も駐車できゆっくり観光東照宮まで徒歩圏内、チェックアウトも昼過ぎまで車を駐車させていただき、ゆっくりと日光を観光できました。」
                   </blockquote>
                 </div>
               </div>
@@ -437,7 +437,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り８０台　無料　予約不要（女夫渕駐車場・当館まで無料送迎あり※要予約）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.33 ／ 立地 ★4.66 ／ 部屋 ★4.26 ／ 設備 ★4.39 ／ 風呂 ★4.68 ／ 食事 ★4.62</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「料理と風呂は最高だが接客と虫が残念料理と風呂は大変素晴らしいものでした。しかし接客する従業員がほとんど外国人で日本語の細かいニュアンスが伝わらなかったり山奥だから仕方がないが部…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「料理と風呂は最高だが接客と虫が残念料理と風呂は大変素晴らしいものでした。」
                   </blockquote>
                 </div>
               </div>

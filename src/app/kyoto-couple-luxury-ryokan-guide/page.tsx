@@ -379,32 +379,26 @@ export default function KyotoCoupleLuxuryRyokanPage() {
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">あわせて読みたい人気特集＆全国エリアガイド</h2>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
-            <a href="/hokkaido-shiretoko-utoro-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/furusato-tax-izu-shuzenji-bamboo-luxury-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">北海道・世界遺産知床ウトロ：オホーツク流氷・知床五湖＆エゾシカ海鮮極上宿 厳選ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">伊豆最古の小京都！修善寺温泉の竹林の小径散策＆桂川のせせらぎ望む老舗旅館×ふるさと納税極上旅ガイド湯回廊菊屋・宙SORA・桂川</span>
             </a>
-            <a href="/organic-forest-infinity-panoramic-barrel-sauna-hokkaido/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/furusato-tax-kifune-kurama-autumn-leaves-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">北海道大自然バレルサウナ：十勝・ニセコ・富良野！白樺原生林と極上雪解け湧水水風呂宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">京都・貴船神社のもみじ灯篭ライトアップ＆叡山電車もみじトンネル！貴船料理旅館×ふるさと納税厳選ガイド京都</span>
             </a>
-            <a href="/winter-hokkaido-hakodate-yunokawa-onsen-isaribi-seafood-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/furusato-tax-koyasan-ryujin-onsen-autumn-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12月函館湯の川温泉の冬名湯と漁火海鮮】津軽海峡インフィニティ露天と函館クリスマスファンタジー・冬イカ＆毛蟹会席の宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">世界遺産「高野山」壇上伽藍の紅葉ライトアップ＆日本三美人の湯「龍神温泉」・極上熊野牛会席｜ふるさと納税で泊まれる名宿ガイド</span>
             </a>
-            <a href="/winter-hokkaido-noboribetsu-onsen-snow-jigokudani-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/furusato-tax-kyoto-arashiyama-bamboo-luxury-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12月登別温泉の白銀地獄谷と極上名湯】圧倒的湯量と9つの泉質・冬の北海道毛ガニ＆白老牛を堪能する名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">渡月橋と竹林の小径の静寂！京都嵐山温泉の保津川一望ラグジュアリー＆老舗料理旅館×ふるさと納税極上旅ガイド翠嵐・花伝抄・辨慶</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
             <div className="flex flex-wrap gap-2">
-              <Link
-                href="/prefectures/nara/"
-                className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
-              >
-                奈良県の宿・温泉
-              </Link>
               <Link
                 href="/prefectures/kyoto/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
@@ -412,16 +406,22 @@ export default function KyotoCoupleLuxuryRyokanPage() {
                 京都府の宿・温泉
               </Link>
               <Link
-                href="/prefectures/niigata/"
+                href="/prefectures/osaka/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                新潟県の宿・温泉
+                大阪府の宿・温泉
               </Link>
               <Link
-                href="/prefectures/hokkaido/"
+                href="/prefectures/hyogo/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                北海道の宿・温泉
+                兵庫県の宿・温泉
+              </Link>
+              <Link
+                href="/prefectures/nara/"
+                className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
+              >
+                奈良県の宿・温泉
               </Link>
             </div>
           </div>
@@ -457,7 +457,7 @@ export default function KyotoCoupleLuxuryRyokanPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 京都美山　料理旅館　枕川楼</td>
                 <td className="p-3 text-stone-600">京都府南丹市美山町中上前26</td>
-                <td className="p-3 text-stone-600">JR山陰線　日吉駅よりバス60分、京都縦貫自動車道　園部ICより車50</td>
+                <td className="p-3 text-stone-600">JR山陰線 日吉駅よりバス60分、京都縦貫自動車道 園部ICより車50分、京都市内より車90分。</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4（48件）</td>
                 <td className="p-3 font-bold text-rose-600">¥22,000〜</td>
@@ -466,7 +466,7 @@ export default function KyotoCoupleLuxuryRyokanPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. Ｎａｚｕｎａ　京都　椿通</td>
                 <td className="p-3 text-stone-600">京都府京都市下京区高辻通大宮西入坊門町838</td>
-                <td className="p-3 text-stone-600">京都駅からタクシー約10分/阪急電鉄京都本「大宮」駅から徒歩約5分/京</td>
+                <td className="p-3 text-stone-600">京都駅からタクシー約10分/阪急電鉄京都本「大宮」駅から徒歩約5分/京福電気鉄道嵐山本線「四条大宮」駅から徒歩5分</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.7（137件）</td>
                 <td className="p-3 font-bold text-rose-600">¥45,828〜</td>
@@ -475,7 +475,7 @@ export default function KyotoCoupleLuxuryRyokanPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 京都北白川天然ラジウム温泉　えいせん京</td>
                 <td className="p-3 text-stone-600">京都府京都市左京区北白川地蔵谷町1-125</td>
-                <td className="p-3 text-stone-600">出町柳駅周辺</td>
+                <td className="p-3 text-stone-600">三条京阪・出町柳駅より京阪バスにて【地蔵谷】バス停下車すぐ■京阪出町柳駅・市バス銀閣寺道より無料お迎えサービスあり</td>
                 <td className="p-3 text-stone-600">有り　５台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.86（326件）</td>
                 <td className="p-3 font-bold text-rose-600">¥34,800〜</td>
@@ -484,7 +484,7 @@ export default function KyotoCoupleLuxuryRyokanPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 変なホテルプレミア京都　五条烏丸（旧ウォーターマークホテル京都）</td>
                 <td className="p-3 text-stone-600">京都府京都市下京区室町通五条下る大黒町195</td>
-                <td className="p-3 text-stone-600">五条（京都市営）駅周辺</td>
+                <td className="p-3 text-stone-600">地下鉄烏丸線「五条」駅4番出口より徒歩約２分</td>
                 <td className="p-3 text-stone-600">駐車場はございません。近隣のコインパーキングをご利用ください。</td>
                 <td className="p-3 font-bold text-amber-600">★4.45（464件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,400〜</td>
@@ -493,7 +493,7 @@ export default function KyotoCoupleLuxuryRyokanPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. ロワジールホテル京都東寺</td>
                 <td className="p-3 text-stone-600">京都府京都市南区西九条蔵王町 31-1</td>
-                <td className="p-3 text-stone-600">京都駅周辺</td>
+                <td className="p-3 text-stone-600">JR「京都駅」八条西口より徒歩12分、近鉄「東寺駅」より徒歩3分</td>
                 <td className="p-3 text-stone-600">無し/近隣パーキングをご利用ください</td>
                 <td className="p-3 font-bold text-amber-600">★4.32（599件）</td>
                 <td className="p-3 font-bold text-rose-600">¥2,980〜</td>
@@ -502,7 +502,7 @@ export default function KyotoCoupleLuxuryRyokanPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">6. 京都センチュリーホテル</td>
                 <td className="p-3 text-stone-600">京都府京都市下京区東塩小路町680</td>
-                <td className="p-3 text-stone-600">京都駅周辺</td>
+                <td className="p-3 text-stone-600">JR京都駅中央口＜ニデック京都タワー＞より徒歩約2分。地下（JR烏丸東口・地下鉄京都駅）から”出口5”をご利用ください。</td>
                 <td className="p-3 text-stone-600">1泊￥2000(15：00-翌日12：00)(収容台数50台まで・予約不可) 時間外30分￥800</td>
                 <td className="p-3 font-bold text-amber-600">★4.48（4827件）</td>
                 <td className="p-3 font-bold text-rose-600">¥11,680〜</td>
@@ -575,7 +575,7 @@ export default function KyotoCoupleLuxuryRyokanPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　５台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「モダンな部屋と美味しい食事でリラックス部屋もモダンで綺麗で、夜食朝食もとても美味しかったです。温泉の湯加減も良く、リラックスした2日間を過ごすことができました。ありがとうございました。…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「モダンな部屋と美味しい食事でリラックス部屋もモダンで綺麗で、夜食朝食もとても美味しかったです。温泉の湯加減も良く、リラックスした2日間を過ごすことができました。ありがとうございました。」
                   </blockquote>
                 </div>
               </div>
@@ -597,7 +597,7 @@ export default function KyotoCoupleLuxuryRyokanPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>駐車場はございません。近隣のコインパーキングをご利用ください。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.29 ／ 立地 ★4.36 ／ 部屋 ★4.5 ／ 設備 ★4.37 ／ 風呂 ★4.33 ／ 食事 ★4.22</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「京都タワーを望む畳の部屋と温かい接客畳敷のお部屋は間接照明の雰囲気がとてもよくて、部屋から京都タワーも見えて「京都に泊まってる」感を感じられてとても良かったです。部屋のお風呂も広くて、夜遅めの…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「京都タワーを望む畳の部屋と温かい接客畳敷のお部屋は間接照明の雰囲気がとてもよくて、部屋から京都タワーも見えて「京都に泊まってる」感を感じられてとても良かったです。」
                   </blockquote>
                 </div>
               </div>
@@ -641,7 +641,7 @@ export default function KyotoCoupleLuxuryRyokanPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>1泊￥2000(15：00-翌日12：00)(収容台数50台まで・予約不可) 時間外30分￥800</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.51 ／ 立地 ★4.39 ／ 部屋 ★4.47 ／ 設備 ★4.4 ／ 風呂 ★4.26 ／ 食事 ★4.55</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「親切な対応は満足ですが設備が少し残念ホテルの方はとても親切で感じが良かったただお部屋は出入り口が狭く靴を置きにくく少し不便なのと 便座に暖房が入らない点が残念でしたクチコミの詳細はこち…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「親切な対応は満足ですが設備が少し残念ホテルの方はとても親切で感じが良かったただお部屋は出入り口が狭く靴を置きにくく少し不便なのと 便座に暖房が入らない点が残念でした。」
                   </blockquote>
                 </div>
               </div>

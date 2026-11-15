@@ -37,7 +37,7 @@ export default function Page() {
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/5901/5901map.gif",
     "reviewCount": 1747,
     "reviewAverage": 4.61,
-    "userReview": "3度目の利用、愛犬と家族で大満足のひととき今回は3度目の宿泊でわんちゃんと家族と一緒に泊まりました。いつも美味しい食事と綺麗なお部屋と従業員の方の心遣いで楽しい時間を過ごせてますクチコミの詳細。",
+    "userReview": "3度目の利用、愛犬と家族で大満足のひととき今回は3度目の宿泊でわんちゃんと家族と一緒に泊まりました。いつも美味しい食事と綺麗なお部屋と従業員の方の心遣いで楽しい時間を過ごせてます。",
     "hotelMinCharge": 12100,
     "address1": "香川県",
     "address2": "仲多度郡琴平町556-1",
@@ -422,8 +422,8 @@ export default function Page() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 琴平駅よりアクセス。ＪＲ琴平駅下車、徒歩5分（無料送迎有・要予約）。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「湯元こんぴら温泉華の湯 紅梅亭」にチェックイン。露天風呂付スイートOPEN◆2種の源泉を楽しむ＜3箇所15種類の湯処＞でのんびり湯巡りなどの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「湯元こんぴら温泉華の湯 紅梅亭」の湯処へ。露天風呂付スイートOPEN◆2種の源泉を楽しむ＜3箇所15種類の湯処＞とともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「湯元こんぴら温泉華の湯 紅梅亭」にチェックイン。露天風呂付スイートOPEN◆2種の源泉を楽しむ＜3箇所15種類の湯処＞でのんびり湯巡りが魅力の一軒。客室で荷物をほどいて穏やかな午後のひとときを。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「湯元こんぴら温泉華の湯 紅梅亭」の自慢の湯処へ。温かな湯気と落ち着いた雰囲気に癒やされながら、夕食前の贅沢なひとときを過ごす。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「湯元こんぴら温泉華の湯 紅梅亭」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -435,7 +435,7 @@ export default function Page() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「湯元こんぴら温泉華の湯 紅梅亭」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「湯元こんぴら温泉華の湯 紅梅亭」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「泥湯温泉 奥山旅館」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は「湯元こんぴら温泉華の湯 紅梅亭」周辺の観光スポットや地元の名産店に立ち寄り、ご当地のお土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>
@@ -563,7 +563,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 湯元こんぴら温泉華の湯　紅梅亭</td>
                 <td className="p-3 text-stone-600">香川県仲多度郡琴平町556-1</td>
-                <td className="p-3 text-stone-600">琴平駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ琴平駅下車、徒歩5分（無料送迎有・要予約）。車：道善通寺ＩＣ下車約15分。高松空港より約40分</td>
                 <td className="p-3 text-stone-600">有り：70台（無料）／EV充電器設置</td>
                 <td className="p-3 font-bold text-amber-600">★4.58（1798件）</td>
                 <td className="p-3 font-bold text-rose-600">¥15,400〜</td>
@@ -572,7 +572,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 泥湯温泉　奥山旅館</td>
                 <td className="p-3 text-stone-600">秋田県湯沢市高松泥湯沢25</td>
-                <td className="p-3 text-stone-600">湯沢駅周辺</td>
+                <td className="p-3 text-stone-600">JR奥羽本線湯沢駅下車、車で50分。国道13号、県道51号を経て泥湯へ。</td>
                 <td className="p-3 text-stone-600">有り　１５台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.53（119件）</td>
                 <td className="p-3 font-bold text-rose-600">¥24,200〜</td>
@@ -581,7 +581,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 五島コンカナ王国ワイナリー＆リゾート　＜五島・福江島＞</td>
                 <td className="p-3 text-stone-600">長崎県五島市上大津町2413</td>
-                <td className="p-3 text-stone-600">福江空港駅周辺</td>
+                <td className="p-3 text-stone-600">福江港から福江空港方面へ 途中の広域農道の案内看板に従い左折し、約3ｋｍ</td>
                 <td className="p-3 text-stone-600">有り（200台／無料／先着順）</td>
                 <td className="p-3 font-bold text-amber-600">★3.96（277件）</td>
                 <td className="p-3 font-bold text-rose-600">¥9,225〜</td>
@@ -610,7 +610,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り：70台（無料）／EV充電器設置</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.67 ／ 立地 ★4.52 ／ 部屋 ★4.58 ／ 設備 ★4.52 ／ 風呂 ★4.66 ／ 食事 ★4.66</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「幸せな非日常な優雅な時間お食事が朝夕共とっても美味しかったです。夕食の最後に白ごはんか卵かけご飯か選べるのも良いなあと思いました。私達は卵かけご飯の方をいただきましたが卵が新鮮で大満足でし…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「幸せな非日常な優雅な時間お食事が朝夕共とっても美味しかったです。夕食の最後に白ごはんか卵かけご飯か選べるのも良いなあと思いました。」
                   </blockquote>
                 </div>
               </div>
@@ -632,7 +632,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１５台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.67 ／ 立地 ★4.59 ／ 部屋 ★4.67 ／ 設備 ★4.53 ／ 風呂 ★4.82 ／ 食事 ★4.65</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「秘湯感あふれる露天風呂と美味しい食事に感動泥湯の露天風呂はすすきが風になびいて、鳥の鳴き声の中、ゆっくり癒されて最高の時間でした!静けさ、秘湯感素晴らしい!宿も非常に清潔で古いものも磨き上…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「秘湯感あふれる露天風呂と美味しい食事に感動泥湯の露天風呂はすすきが風になびいて、鳥の鳴き声の中、ゆっくり癒されて最高の時間でした!静けさ、秘湯感素晴らしい!」
                   </blockquote>
                 </div>
               </div>
@@ -654,7 +654,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り（200台／無料／先着順）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「夕食は満足だが子供の食事と朝食は残念初めて利用しました。夕食は五島牛のすき焼きはとても美味しかった。刺し身も良かった。しかし、子供のワンプレートの食事は他のホテルと比較すると、手抜き感が際立ってい…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「夕食は満足だが子供の食事と朝食は残念初めて利用しました。夕食は五島牛のすき焼きはとても美味しかった。刺し身も良かった。」
                   </blockquote>
                 </div>
               </div>

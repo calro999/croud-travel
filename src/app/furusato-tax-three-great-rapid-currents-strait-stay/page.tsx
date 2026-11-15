@@ -422,8 +422,8 @@ export default function Page() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 鳴門駅よりアクセス。高速道路 鳴門北ICより車で６分。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「ベイリゾートホテル 鳴門海月」にチェックイン。部屋食で鳴門の会席を♪鳴門うず潮に一番近い景色に感動の旅館などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「ベイリゾートホテル 鳴門海月」の湯処へ。部屋食で鳴門の会席を♪鳴門うず潮に一番近い景色に感動の旅館とともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「ベイリゾートホテル 鳴門海月」にチェックイン。部屋食で鳴門の会席を♪鳴門うず潮に一番近い景色に感動の旅館が魅力の一軒。客室で荷物をほどいて穏やかな午後のひとときを。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「ベイリゾートホテル 鳴門海月」の自慢の湯処へ。温かな湯気と落ち着いた雰囲気に癒やされながら、夕食前の贅沢なひとときを過ごす。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「ベイリゾートホテル 鳴門海月」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -435,7 +435,7 @@ export default function Page() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「ベイリゾートホテル 鳴門海月」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「ベイリゾートホテル 鳴門海月」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「ホテル菊水今治」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は「ベイリゾートホテル 鳴門海月」周辺の観光スポットや地元の名産店に立ち寄り、ご当地のお土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>
@@ -563,7 +563,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. ベイリゾートホテル　鳴門海月</td>
                 <td className="p-3 text-stone-600">徳島県鳴門市鳴門町土佐泊浦福池65-7</td>
-                <td className="p-3 text-stone-600">鳴門駅周辺</td>
+                <td className="p-3 text-stone-600">高速道路 鳴門北ICより車で６分。高速バス鳴門公園口より徒歩10分。大塚美術館バス停などからシャトルバス送迎有。要予約</td>
                 <td className="p-3 text-stone-600">有３０台　無料　予約不要。当館まではアクセスページに掲載の写真付き道順をご覧ください</td>
                 <td className="p-3 font-bold text-amber-600">★4.45（3088件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,000〜</td>
@@ -572,7 +572,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. ホテル菊水今治（Ｈｏｔｅｌ　Ｋｉｋｕｓｕｉ　Ｉｍａｂａｒｉ）</td>
                 <td className="p-3 text-stone-600">愛媛県今治市中浜町1-2-5</td>
-                <td className="p-3 text-stone-600">今治駅周辺</td>
+                <td className="p-3 text-stone-600">【平面駐車場無料】／JR今治駅徒歩15分・車5分／しまなみ海道【今治IC】車10分／しまなみライナー【今治桟橋】徒歩1分</td>
                 <td className="p-3 text-stone-600">無料平面駐車場59台（出入自由）／バイク屋根付／自転車客室持込可／大型車応相談</td>
                 <td className="p-3 font-bold text-amber-600">★4.27（1805件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,640〜</td>
@@ -581,7 +581,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 下関グランドホテル</td>
                 <td className="p-3 text-stone-600">山口県下関市南部町31-2</td>
-                <td className="p-3 text-stone-600">下関駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ下関から車で５分、ＪＲ門司港駅横から船で５分</td>
                 <td className="p-3 text-stone-600">有り　３０台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.28（1556件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,500〜</td>
@@ -610,7 +610,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有３０台　無料　予約不要。当館まではアクセスページに掲載の写真付き道順をご覧ください</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「手入れの行き届いた空間と充実したサービス建物自体はふるいようですが、手入れと管理が行き届いていて不便なく過ごせました。周りにあまり店や食事処がないので、立地があまりよくないのかもしれませんが、なる…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「手入れの行き届いた空間と充実したサービス建物自体はふるいようですが、手入れと管理が行き届いていて不便なく過ごせました。」
                   </blockquote>
                 </div>
               </div>
@@ -632,7 +632,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料平面駐車場59台（出入自由）／バイク屋根付／自転車客室持込可／大型車応相談</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.3 ／ 立地 ★4.16 ／ 部屋 ★4.21 ／ 設備 ★4.14 ／ 風呂 ★4.18 ／ 食事 ★4.45</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「設備は古いが食事と寝心地に大満足思いつきの旅でお世話になりました。設備全体は古くて、廊下とか隣の音がすごく聞こえるけど、ベッドは最高の寝心地で、夜中に起きることはありませんでした食事も大変美味…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「設備は古いが食事と寝心地に大満足思いつきの旅でお世話になりました。」
                   </blockquote>
                 </div>
               </div>

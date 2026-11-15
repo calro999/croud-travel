@@ -339,8 +339,8 @@ export default function ArticlePage() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 湯河原駅よりアクセス。ＪＲ東海道線・湯河原駅～タクシーで８分／東名高速・厚木ＩＣ～小田原厚木道路・石橋ＩＣ～２０分。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「湯河原温泉 ふきや」にチェックイン。館内七つの湯めぐりで名湯をご堪能ください。また和の風情を大切に、調度品にもこだわったお宿です。などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「湯河原温泉 ふきや」の湯処へ。館内七つの湯めぐりで名湯をご堪能ください。また和の風情を大切に、調度品とともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「湯河原温泉 ふきや」にチェックイン。館内七つの湯めぐりで名湯をご堪能ください。また和の風情を大切に、調度品にもこだわったお宿です。 荷物を解き、落ち着いた室内でまず一息つく。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「湯河原温泉 ふきや」の大浴場・露天風呂へ。日暮れの静けさの中で湯に浸かり、旅の緊張をゆっくりと解きほぐす。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「湯河原温泉 ふきや」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -368,49 +368,49 @@ export default function ArticlePage() {
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">あわせて読みたい人気特集＆全国エリアガイド</h2>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
-            <a href="/winter-tokyo-takao-yakuoin-shrine-hatsumode-fuji-tororo-soba-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/kanagawa-hakone-ashinoko-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12・1月東京】霊峰「高尾山薬王院」新春初詣と冬晴れのダイヤモンド富士！名物自然薯とろろそば＆極楽湯・八王子厳選名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「箱根・芦ノ湖＆元箱根」湖畔鳥居・海賊船＆富士ビュー極上宿 厳選ガイド</span>
             </a>
-            <a href="/furusato-tax-three-great-glass-craft-towns-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/kanagawa-hakone-sengokuhara-solo-retreat-pampas-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">日本三大ガラス工芸の町＆光の芸術・切子の輝きと風雅名宿×ふるさと納税厳選ガイド小樽・東京・鹿児島</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「箱根仙石原温泉ひとり旅・ススキ草原白濁おこもり」黄金色のススキ・大涌谷引湯白濁露天・極上フレンチ！標高700mの高原アートリゾート厳選3宿</span>
             </a>
-            <a href="/kusatsu-onsen-travel-budget-guide/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/kanagawa-yugawara-onsen-bangei-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">草津温泉旅行 費用：1泊2日いくらかかる？東京からの交通費＆湯畑周辺の宿泊費を完全計算</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「神奈川・湯河原温泉」文豪ゆかりの名湯・万葉公園＆相模湾地魚極上宿 厳選ガイド</span>
             </a>
-            <a href="/tokyo-departure-daytrip-bus-tour-guide/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/nagano-bessho-solo-retreat-temple-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">東京・新宿発 日帰りバスツアーおすすめ2026：季節のフルーツ狩り・絶景温泉・食べ放題の最強プラン徹底比較</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「信州の鎌倉・別所温泉ひとり旅・信州最古の名湯おこもり」信州サーモン＆松茸会席・木造建築文化財・国宝八角三重塔！上田電鉄で行く古刹厳選3宿</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
             <div className="flex flex-wrap gap-2">
               <Link
-                href="/prefectures/osaka/"
+                href="/prefectures/kanagawa/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                大阪府の宿・温泉
-              </Link>
-              <Link
-                href="/prefectures/oita/"
-                className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
-              >
-                大分県の宿・温泉
-              </Link>
-              <Link
-                href="/prefectures/kyoto/"
-                className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
-              >
-                京都府の宿・温泉
+                神奈川県の宿・温泉
               </Link>
               <Link
                 href="/prefectures/tokyo/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 東京都の宿・温泉
+              </Link>
+              <Link
+                href="/prefectures/chiba/"
+                className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
+              >
+                千葉県の宿・温泉
+              </Link>
+              <Link
+                href="/prefectures/saitama/"
+                className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
+              >
+                埼玉県の宿・温泉
               </Link>
             </div>
           </div>
@@ -446,7 +446,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 湯河原温泉　旅館　グリーン荘</td>
                 <td className="p-3 text-stone-600">神奈川県足柄下郡湯河原町宮上234</td>
-                <td className="p-3 text-stone-600">湯河原駅周辺</td>
+                <td className="p-3 text-stone-600">東京より：１３５号線 湯河原駅入口右折→湯河原駅→５分→当館</td>
                 <td className="p-3 text-stone-600">有り  ８台　550円（税込み／泊）　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★5（218件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,150〜</td>
@@ -455,7 +455,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 湯河原温泉　ホテル　眺望山荘</td>
                 <td className="p-3 text-stone-600">神奈川県足柄下郡湯河原町宮下698-25</td>
-                <td className="p-3 text-stone-600">湯河原駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ東海本線 湯河原駅から車で５分／徒歩２０分/タクシーで湯河原駅から１，０００円以内（ほとんどが１メーター）</td>
                 <td className="p-3 text-stone-600">有り　１２台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.49（406件）</td>
                 <td className="p-3 font-bold text-rose-600">¥11,300〜</td>
@@ -464,7 +464,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 湯河原温泉　ふきや</td>
                 <td className="p-3 text-stone-600">神奈川県足柄下郡湯河原町宮上398</td>
-                <td className="p-3 text-stone-600">湯河原駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ東海道線・湯河原駅～タクシーで８分／東名高速・厚木ＩＣ～小田原厚木道路・石橋ＩＣ～２０分</td>
                 <td className="p-3 text-stone-600">有り　２５台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.46（178件）</td>
                 <td className="p-3 font-bold text-rose-600">¥47,300〜</td>
@@ -515,7 +515,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１２台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.53 ／ 立地 ★4.46 ／ 部屋 ★4.31 ／ 設備 ★4.27 ／ 風呂 ★4.42 ／ 食事 ★4.69</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「高台からの眺めと温泉、料理に大満足山の方の温泉街の宿ではなく、街を見下ろす高台に建つホテルです。車でも急な坂を上るのが少しだけ大変ですが、ホテルからの眺めが良いし、部屋やお風呂施設の清掃や備品が行…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「高台からの眺めと温泉、料理に大満足山の方の温泉街の宿ではなく、街を見下ろす高台に建つホテルです。」
                   </blockquote>
                 </div>
               </div>
@@ -537,7 +537,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２５台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「貸切露天風呂と食事に大満足の連泊連泊させて頂きました。貸切露天風呂でゆっくり出来ました。大浴場もゆっくり入れました。食事も美味しく量もあったので夜食の海苔巻きは食べきれませんでした。すみません。仲…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「貸切露天風呂と食事に大満足の連泊連泊させて頂きました。貸切露天風呂でゆっくり出来ました。大浴場もゆっくり入れました。食事も美味しく量もあったので夜食の海苔巻きは食べきれませんでした。すみません。」
                   </blockquote>
                 </div>
               </div>

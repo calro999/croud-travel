@@ -439,7 +439,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 黒川温泉　湯峡の響き　優彩</td>
                 <td className="p-3 text-stone-600">熊本県阿蘇郡南小国町満願寺北黒川6554-1</td>
-                <td className="p-3 text-stone-600">阿蘇駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ豊肥線 阿蘇駅より別府行バスで約５０分 黒川温泉下車徒歩１０分</td>
                 <td className="p-3 text-stone-600">有　５０台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.3（2010件）</td>
                 <td className="p-3 font-bold text-rose-600">¥15,400〜</td>
@@ -448,7 +448,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 黒川温泉　旅館　美里</td>
                 <td className="p-3 text-stone-600">熊本県阿蘇郡南小国町満願寺6690</td>
-                <td className="p-3 text-stone-600"></td>
+                <td className="p-3 text-stone-600">熊本県阿蘇郡南小国町満願寺6690 ／ 交通案内：</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.62（447件）</td>
                 <td className="p-3 font-bold text-rose-600">¥14,300〜</td>
@@ -457,7 +457,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 黒川温泉　夢龍胆</td>
                 <td className="p-3 text-stone-600">熊本県阿蘇郡南小国町満願寺6430-1</td>
-                <td className="p-3 text-stone-600">阿蘇駅周辺</td>
+                <td className="p-3 text-stone-600">大分道日田ＩＣより車で６０分、黒川温泉バス停より徒歩1分。送迎あり(条件あり)事前予約要。</td>
                 <td className="p-3 text-stone-600">有り　３０台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.32（402件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,800〜</td>
@@ -486,7 +486,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有　５０台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋も従業員のアフターフォローも不快なもの就寝前に部屋にゴキブリが出現。フロントに電話すると殺虫剤を渡され、退散された...自ら殺虫剤をかけて死滅させた後、床に殺虫剤が付着したから拭き物を…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋も従業員のアフターフォローも不快なもの就寝前に部屋にゴキブリが出現。」
                   </blockquote>
                 </div>
               </div>
@@ -530,7 +530,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　３０台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「庭園の風情と美味しい食事に癒やされる再訪以前泊まってとても良かったのでリピートしました!お部屋は1階でしたが目の前に庭園がありとても風情があります。建物は古いですが、露天風呂は広くスタッフ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「庭園の風情と美味しい食事に癒やされる再訪以前泊まってとても良かったのでリピートしました!お部屋は1階でしたが目の前に庭園がありとても風情があります。」
                   </blockquote>
                 </div>
               </div>

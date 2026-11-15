@@ -186,7 +186,7 @@ export default function FurusatoFireflyViewingStayPage() {
                     名水百選・菊池渓谷の豊かな水に育まれた熊本の奥座敷・菊池温泉に佇む、緑の木立に囲まれた静かな温泉旅館。宿のすぐ脇を流れる清流沿いには初夏になると自生するゲンジボタルが飛び交い、夜の散策で息をのむ幻想的な光の乱舞に出逢えます。菊池温泉名物の「日本の名湯百選」にも選ばれるアルカリ性単純温泉は、まるで化粧水に浸かっているかのようなトロトロの肌触りで美肌効果抜群。熊本名物の馬刺しや肥後あか牛、菊池の清流米を使った彩り豊かな郷土会席とともに、心温まる九州の温泉情緒に浸れます。
                   </p>
                   <p className="text-stone-500 text-xs italic bg-stone-50 p-3 rounded-xl border border-stone-100 mb-4 leading-relaxed">
-                    「レトロな雰囲気と美味しい食事、貸切風呂を満喫レトロな感じの旅館です お部屋は古さがありますがゆっくり眠れました。夕飯は美味しくお腹いっぱいになりました。お風呂は貸切風呂は良かったです露… つづきは」
+                    「レトロな雰囲気と美味しい食事、貸切風呂を満喫レトロな感じの旅館です お部屋は古さがありますがゆっくり眠れました。夕飯は美味しくお腹いっぱいになりました。」
                   </p>
                   
                   <div className="bg-stone-50 rounded-xl p-3.5 border border-stone-200/60 mb-6 text-xs text-stone-600 space-y-1">
@@ -413,8 +413,8 @@ export default function FurusatoFireflyViewingStayPage() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 熊本駅よりアクセス。九州道/植木ICより約20分(菊水ICより約40分) 肥後大津駅からタクシーで約30分 熊本空港から車で約30分。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「菊池温泉 木立ちの中の宿 清流荘」にチェックイン。清流・迫間川のほとりに建つ全9室、源泉掛け流しの癒しの湯宿。菊池米を使った美しい創作料理を個室食で♪などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「菊池温泉 木立ちの中の宿 清流荘」の湯処へ。清流・迫間川のほとりに建つ全9室、源泉掛け流しの癒しの湯宿。菊池米を使とともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「菊池温泉 木立ちの中の宿 清流荘」にチェックイン。清流・迫間川のほとりに建つ全9室、源泉掛け流しの癒しの湯宿。菊池米を使った美しい創作料理を個室食で♪ 客室で身支度を整え、この宿ならではの滞在をスタート。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「菊池温泉 木立ちの中の宿 清流荘」の湯船で寛ぎタイム。季節の空気を感じながら手足を伸ばし、心豊かな夕方のリラックス時間を満喫。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「菊池温泉 木立ちの中の宿 清流荘」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -426,7 +426,7 @@ export default function FurusatoFireflyViewingStayPage() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「菊池温泉 木立ちの中の宿 清流荘」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「菊池温泉 木立ちの中の宿 清流荘」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「神鍋温泉 自然に癒される高原ホテル ブルーリッジホテル」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は宿周辺の散策とショッピングを満喫。地元の名産品やグルメを味わってから余裕をもって帰路につく。</li>
               </ul>
             </div>
           </div>
@@ -476,21 +476,21 @@ export default function FurusatoFireflyViewingStayPage() {
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">あわせて読みたい人気特集＆全国エリアガイド</h2>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
-            <a href="/winter-saitama-chichibu-onsen-yomatsuri-nagatoro-bushugyu-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/toyama-solo-business-tateyama-sauna-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12月埼玉・秩父温泉郷の秩父夜祭と長瀞こたつ舟】名物武州和牛すき焼き＆秩父みそ豚・創業文政の美肌鉱泉を満喫する山里名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「富山出張＆立山連峰ビュー」富山駅近・天然温泉サウナ・白えび美食！「天然の生簀」富山湾を味わう極上宿 厳選3選</span>
             </a>
-            <a href="/furusato-tax-chichibu-nagatoro-autumn-leaves-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/toyama-tateyama-kurobe-alpen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">国指定天然記念物・長瀞岩畳の紅葉舟下り！秩父夜祭・錦秋ハイキング＆秩父七湯温泉宿×ふるさと納税厳選ガイド埼玉</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「富山・立山黒部アルペンルート」雪の大谷・みくりが池＆立山連峰・富山湾宿 厳選ガイド</span>
             </a>
-            <a href="/winter-saitama-gyoda-oshi-castle-sakidama-kofun-tabigura-onsen-bushugyu-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/traditional-hokkaido-furano-lavender-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【のぼうの城・行田忍城雪景色と足袋蔵の街重伝建】2026-2027年冬の埼玉・行田＆熊谷！行田天然温泉と武州牛・加須手打ちうどん名宿5選 | 旅宿クラウド！行田天然温泉と武州牛・加須手打ちうどん名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「紫の絨毯が広がる夏の富良野（ラベンダー畑パノラマ＆ふらの和牛ディナーの宿5選）」紫の絨毯が広がる夏の富良野！ラベンダー畑パノラマ＆ふらの和牛ディナーの宿5選</span>
             </a>
-            <a href="/furusato-tax-chichibu-nagatoro-line-kudari-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/winter-hokkaido-akanko-onsen-lakeview-frost-flower-hokkaido-beef-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">長瀞ライン下りと岩畳の紅葉絵巻！秩父温泉郷の名湯・名物豚みそ丼＆わらじカツを味わう秋の埼玉旅</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">初冬のフロストフラワーとアイヌ文化 極上道東海鮮蟹会席＆北海道黒毛和牛を愉しむ湖畔名宿5選</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

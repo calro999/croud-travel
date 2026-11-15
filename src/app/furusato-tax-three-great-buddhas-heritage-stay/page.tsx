@@ -99,7 +99,7 @@ export default function Page() {
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/146844/146844map.gif",
     "reviewCount": 798,
     "reviewAverage": 3.95,
-    "userReview": "至れり尽くせりのサービスで最高でしたウェルカムドリンクやお茶漬けサービス等至れり尽くせりでサイコーのビジホでした。今回は車でしたが、駅近で列車旅にも良いかもしれません。の詳細。",
+    "userReview": "至れり尽くせりのサービスで最高でしたウェルカムドリンクやお茶漬けサービス等至れり尽くせりでサイコーのビジホでした。今回は車でしたが、駅近で列車旅にも良いかもしれません。の。",
     "hotelMinCharge": 3600,
     "address1": "富山県",
     "address2": "高岡市駅南5-3-3",
@@ -425,8 +425,8 @@ export default function Page() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 近鉄奈良駅よりアクセス。車：名神高速道路京都南ICより60分 電車：近鉄奈良線近鉄奈良駅。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「ホテルニューわかさ」にチェックイン。奈良公園・東大寺まで徒歩5分！世界遺産を見渡せる屋上庭園や華やかな懐石料理で奈良をたっぷり味わえる宿などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「ホテルニューわかさ」の湯処へ。奈良公園・東大寺まで徒歩5分！世界遺産を見渡せる屋上庭園や華やかな懐石とともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「ホテルニューわかさ」にチェックイン。奈良公園・東大寺まで徒歩5分！ まずは客室で移動の疲れをそっと癒やす。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「ホテルニューわかさ」の湯船で寛ぎタイム。季節の空気を感じながら手足を伸ばし、心豊かな夕方のリラックス時間を満喫。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「ホテルニューわかさ」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -438,7 +438,7 @@ export default function Page() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「ホテルニューわかさ」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「ホテルニューわかさ」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「鎌倉パークホテル」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は宿周辺の散策とショッピングを満喫。地元の名産品やグルメを味わってから余裕をもって帰路につく。</li>
               </ul>
             </div>
           </div>
@@ -566,7 +566,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. ホテルニューわかさ</td>
                 <td className="p-3 text-stone-600">奈良県奈良市北半田東町1</td>
-                <td className="p-3 text-stone-600">近鉄奈良駅周辺</td>
+                <td className="p-3 text-stone-600">車：名神高速道路京都南ICより60分 電車：近鉄奈良線近鉄奈良駅</td>
                 <td className="p-3 text-stone-600">有り　車40台バス6台　15時から１０時無料（時間外有料）</td>
                 <td className="p-3 font-bold text-amber-600">★4.6（691件）</td>
                 <td className="p-3 font-bold text-rose-600">¥13,200〜</td>
@@ -575,7 +575,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 鎌倉パークホテル</td>
                 <td className="p-3 text-stone-600">神奈川県鎌倉市坂ノ下33-6</td>
-                <td className="p-3 text-stone-600">鎌倉駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ鎌倉駅よりタクシーにて１０～１５分(平常時）。江ノ電長谷駅より徒歩約１３分。</td>
                 <td className="p-3 text-stone-600">有 ６０台。チェックイン日は午前中から無料、チェックアウト後は１４時まで無料、それ以降は有料です。</td>
                 <td className="p-3 font-bold text-amber-600">★4.43（1317件）</td>
                 <td className="p-3 font-bold text-rose-600">¥9,350〜</td>
@@ -584,7 +584,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. ホテルクラウンヒルズ高岡駅前（ＢＢＨホテルグループ）</td>
                 <td className="p-3 text-stone-600">富山県高岡市駅南5-3-3</td>
-                <td className="p-3 text-stone-600">高岡駅周辺</td>
+                <td className="p-3 text-stone-600">高岡駅瑞龍寺口より徒歩１分/新高岡駅よりバス8分/富山空港より車タクシーで約40分/高岡インターチェンジより10分</td>
                 <td className="p-3 text-stone-600">ホテル駐車場１泊５００円（先着順）満車の際は近隣コインパーキング（３００円～）へのご案内となります。</td>
                 <td className="p-3 font-bold text-amber-600">★3.95（798件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,600〜</td>
@@ -613,7 +613,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　車40台バス6台　15時から１０時無料（時間外有料）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.63 ／ 立地 ★4.5 ／ 部屋 ★4.62 ／ 設備 ★4.57 ／ 風呂 ★4.54 ／ 食事 ★4.52</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの対応とイベントに大満足、また来たいスタッフさんの対応がすべて心地よく、楽しいイベントも用意されていて、施設もきれいでした。子どもが大喜びしていて、奈良にまた遊びに行くときはこのホテル…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの対応とイベントに大満足、また来たいスタッフさんの対応がすべて心地よく、楽しいイベントも用意されていて、施設もきれいでした。」
                   </blockquote>
                 </div>
               </div>
@@ -635,7 +635,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有 ６０台。チェックイン日は午前中から無料、チェックアウト後は１４時まで無料、それ以降は有料です。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「2回目の利用だが今回は残念な点が多かった2回目の利用。夏休みに家族で利用。部屋に入った際、トイレなのか非常に匂った。洋食の夕食はイマイチだった。ここは恐らく和食の方が腕がいい。今回は残念な点が多か…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「2回目の利用だが今回は残念な点が多かった2回目の利用。夏休みに家族で利用。部屋に入った際、トイレなのか非常に匂った。洋食の夕食はイマイチだった。ここは恐らく和食の方が腕がいい。」
                   </blockquote>
                 </div>
               </div>
@@ -657,7 +657,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>ホテル駐車場１泊５００円（先着順）満車の際は近隣コインパーキング（３００円～）へのご案内となります。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「至れり尽くせりのサービスで最高でしたウェルカムドリンクやお茶漬けサービス等至れり尽くせりでサイコーのビジホでした。今回は車でしたが、駅近で列車旅にも良いかもしれません。他の画像やクチコミの詳細…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「至れり尽くせりのサービスで最高でしたウェルカムドリンクやお茶漬けサービス等至れり尽くせりでサイコーのビジホでした。今回は車でしたが、駅近で列車旅にも良いかもしれません。」
                   </blockquote>
                 </div>
               </div>

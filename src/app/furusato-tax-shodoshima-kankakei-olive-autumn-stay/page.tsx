@@ -439,7 +439,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 小豆島温泉　天空のオーシャンビューホテル　海廬　＜小豆島＞</td>
                 <td className="p-3 text-stone-600">香川県小豆郡土庄町甲1135</td>
-                <td className="p-3 text-stone-600"></td>
+                <td className="p-3 text-stone-600">香川県小豆郡土庄町甲1135 ／ 交通案内：</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.12（858件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,000〜</td>
@@ -448,7 +448,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 小豆島温泉　オリビアン小豆島　夕陽ヶ丘ホテル　＜小豆島＞</td>
                 <td className="p-3 text-stone-600">香川県小豆郡土庄町屋形崎甲63-1</td>
-                <td className="p-3 text-stone-600">日生駅周辺</td>
+                <td className="p-3 text-stone-600">★土庄港より車で約15分★土庄港より無料定期送迎あり（予約要）</td>
                 <td className="p-3 text-stone-600">有り　１５０台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.49（2312件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,700〜</td>
@@ -457,7 +457,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. ベイリゾートホテル小豆島</td>
                 <td className="p-3 text-stone-600">香川県小豆郡小豆島町古江乙16-3</td>
-                <td className="p-3 text-stone-600">坂出駅周辺</td>
+                <td className="p-3 text-stone-600">（車）坂手港3分/福田港30分/土庄港30分/草壁港10分/池田港20分★大部港以外の無料送迎有（2日前までに予約要）</td>
                 <td className="p-3 text-stone-600">有り　６０台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.26（1959件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,600〜</td>
@@ -508,7 +508,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１５０台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「夕日と朝日が絶景、食事も美味しく大満足夕日が本当に綺麗で、サンセットの時間にロビーでスパークリングワインのサービスもあり、キンキンに冷えたワインを飲みながら夕日をながめることができました。朝日も山…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「夕日と朝日が絶景、食事も美味しく大満足夕日が本当に綺麗で、サンセットの時間にロビーでスパークリングワインのサービスもあり、キンキンに冷えたワインを飲みながら夕日をながめることができました。」
                   </blockquote>
                 </div>
               </div>
@@ -530,7 +530,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　６０台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.4 ／ 立地 ★4.48 ／ 部屋 ★4.25 ／ 設備 ★4.11 ／ 風呂 ★4.28 ／ 食事 ★4.23</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「雨の景色が残念、シャンプーバーは満足あいにくの雨だったのですが、晴れていたらどんなに景色が素敵なホテルだったかと思うと残念でした。お風呂の廊下が塩素臭かったのですが、お風呂ではあまり匂いは感じませ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「雨の景色が残念、シャンプーバーは満足あいにくの雨だったのですが、晴れていたらどんなに景色が素敵なホテルだったかと思うと残念でした。」
                   </blockquote>
                 </div>
               </div>

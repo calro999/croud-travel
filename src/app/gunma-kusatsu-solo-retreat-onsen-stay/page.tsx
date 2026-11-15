@@ -336,8 +336,8 @@ export default function ArticlePage() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 長野原草津口駅よりアクセス。長野原草津口駅より路線バスで約２約５分、草津温泉バスターミナルより徒歩約５分。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「草津温泉 湯畑泉水」にチェックイン。「湯畑」から徒歩１分、温泉街のドまん中 全室露天風呂付の素泊まりの宿などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「草津温泉 湯畑泉水」の湯処へ。「湯畑」から徒歩１分、温泉街のドまん中 全室露天風呂付の素泊まりの宿とともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「草津温泉 湯畑泉水」にチェックイン。「湯畑」から徒歩１分、温泉街のドまん中 全室露天風呂付の素泊まりの宿が魅力の一軒。客室で荷物をほどいて穏やかな午後のひとときを。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「草津温泉 湯畑泉水」の湯船で寛ぎタイム。季節の空気を感じながら手足を伸ばし、心豊かな夕方のリラックス時間を満喫。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「草津温泉 湯畑泉水」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -349,7 +349,7 @@ export default function ArticlePage() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「草津温泉 湯畑泉水」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「草津温泉 湯畑泉水」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「草津温泉３２６ 山の湯ホテル」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は「草津温泉 湯畑泉水」周辺の観光スポットや地元の名産店に立ち寄り、ご当地のお土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>
@@ -386,28 +386,28 @@ export default function ArticlePage() {
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
             <div className="flex flex-wrap gap-2">
               <Link
-                href="/prefectures/hyogo/"
+                href="/prefectures/gunma/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                兵庫県の宿・温泉
+                群馬県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/nagasaki/"
+                href="/prefectures/tokyo/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                長崎県の宿・温泉
+                東京都の宿・温泉
               </Link>
               <Link
-                href="/prefectures/nagano/"
+                href="/prefectures/kanagawa/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                長野県の宿・温泉
+                神奈川県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/nara/"
+                href="/prefectures/chiba/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                奈良県の宿・温泉
+                千葉県の宿・温泉
               </Link>
             </div>
           </div>
@@ -443,7 +443,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 草津温泉　湯の宿　みさご</td>
                 <td className="p-3 text-stone-600">群馬県吾妻郡草津町546</td>
-                <td className="p-3 text-stone-600">草津温泉バスターミナルより徒歩１０分 関越道渋川・伊香保ＩＣよりＲ３５</td>
+                <td className="p-3 text-stone-600">草津温泉バスターミナルより徒歩１０分 関越道渋川・伊香保ＩＣよりＲ３５３～１４５～２９２（約９０分）</td>
                 <td className="p-3 text-stone-600">有　８台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.76（175件）</td>
                 <td className="p-3 font-bold text-rose-600">¥10,600〜</td>
@@ -452,7 +452,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 草津温泉　湯畑泉水</td>
                 <td className="p-3 text-stone-600">群馬県吾妻郡草津町草津392ー1</td>
-                <td className="p-3 text-stone-600">長野原草津口駅周辺</td>
+                <td className="p-3 text-stone-600">長野原草津口駅より路線バスで約２約５分、草津温泉バスターミナルより徒歩約５分</td>
                 <td className="p-3 text-stone-600">無し※姉妹館「草津ナウリゾートホテル」の駐車場を無料でご利用いただけます。往復シャトルバス運行中。</td>
                 <td className="p-3 font-bold text-amber-600">★4.72（298件）</td>
                 <td className="p-3 font-bold text-rose-600">¥18,250〜</td>
@@ -461,7 +461,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 草津温泉３２６　山の湯ホテル</td>
                 <td className="p-3 text-stone-600">群馬県吾妻郡草津町草津326</td>
-                <td className="p-3 text-stone-600">長野原草津口駅周辺</td>
+                <td className="p-3 text-stone-600">長野原草津口駅よりバス</td>
                 <td className="p-3 text-stone-600">普通車1台1泊５００円（税込み）　ホテルより徒歩約2分の場所</td>
                 <td className="p-3 font-bold text-amber-600">★4.39（538件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,850〜</td>
@@ -490,7 +490,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有　８台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.7 ／ 立地 ★4.48 ／ 部屋 ★4.73 ／ 設備 ★4.73 ／ 風呂 ★4.85 ／ 食事 ★4.87</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「3つの貸切風呂と豪華な朝食に大満足温泉最高でした。3つの湯船がありそれぞれに入浴させて頂きました。入浴中は鍵があるので安心です。朝食も本当豪華で美味しいです。湯畑まで徒歩10分弱で…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「3つの貸切風呂と豪華な朝食に大満足温泉最高でした。3つの湯船がありそれぞれに入浴させて頂きました。入浴中は鍵があるので安心です。朝食も本当豪華で美味しいです。」
                   </blockquote>
                 </div>
               </div>
@@ -534,7 +534,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>普通車1台1泊５００円（税込み）　ホテルより徒歩約2分の場所</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スリッパ無しは、大々的に書いておいて欲しかったかな湯畑から近いし、無料の共同浴場も直ぐ近くに有った。ホテル内の温泉は、シャワーが2つしか無く、狭いのが難点。浴衣のサイズが選べない事、スリッ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スリッパ無しは、大々的に書いておいて欲しかったかな湯畑から近いし、無料の共同浴場も直ぐ近くに有った。ホテル内の温泉は、シャワーが2つしか無く、狭いのが難点。」
                   </blockquote>
                 </div>
               </div>

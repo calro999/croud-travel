@@ -253,7 +253,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 天然温泉　岡三屋　彩かさね</td>
                 <td className="p-3 text-stone-600">福井県三方上中郡若狭町生倉18-19-2</td>
-                <td className="p-3 text-stone-600">三方駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ 三方駅より車で約５分</td>
                 <td className="p-3 text-stone-600">有り　２５台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.79（71件）</td>
                 <td className="p-3 font-bold text-rose-600">¥17,500〜</td>
@@ -262,7 +262,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 若狭美浜温泉　悠久乃碧　ホテル湾彩</td>
                 <td className="p-3 text-stone-600">福井県三方郡美浜町久々子海岸</td>
-                <td className="p-3 text-stone-600">美浜駅周辺</td>
+                <td className="p-3 text-stone-600">JR美浜駅から車で５分。 敦賀ICから車で２０分。</td>
                 <td className="p-3 text-stone-600">有り　８０台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★3.96（1195件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,100〜</td>
@@ -280,7 +280,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 北陸　福井　あわら温泉　美松</td>
                 <td className="p-3 text-stone-600">福井県あわら市舟津26-10</td>
-                <td className="p-3 text-stone-600">芦原温泉駅周辺</td>
+                <td className="p-3 text-stone-600">JR北陸新幹線芦原温泉駅より約15分（要予約）／北陸自動車道金津ICより約15分／小松空港より車で約50分</td>
                 <td className="p-3 text-stone-600">先着順の無料駐車場（100台）お体の不自由なお客様には駐車場の確保も致します。</td>
                 <td className="p-3 font-bold text-amber-600">★4.41（2961件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,800〜</td>
@@ -298,7 +298,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">6. 花はす温泉　そまやま</td>
                 <td className="p-3 text-stone-600">福井県南条郡南越前町中小屋60-1</td>
-                <td className="p-3 text-stone-600">南条駅周辺</td>
+                <td className="p-3 text-stone-600">南条スマートICよりお車で約５分、今庄ICよりお車で約１０分。金沢や若狭、県内東尋坊などアクセス起点に便利</td>
                 <td className="p-3 text-stone-600">有り　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★3.88（136件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,500〜</td>
@@ -371,7 +371,7 @@ export default function MicroTouristHubPage() {
                   <p>【福井・三方五湖＆レインボーライン：天空テラス・五色水】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「絶品夕食とオーシャンビューに大満足!夕食の絶品コース最高すぎました!何を食べても全部美味しかったです!作ってくれた方の手間と愛情をたっぷり受け取りました!花火大会は残念でしたが、来て良かったです!…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「絶品夕食とオーシャンビューに大満足!夕食の絶品コース最高すぎました!何を食べても全部美味しかったです!作ってくれた方の手間と愛情をたっぷり受け取りました!花火大会は残念でしたが、来て良かったです!」
                   </blockquote>
                 </div>
               </div>
@@ -393,7 +393,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>先着順の無料駐車場（100台）お体の不自由なお客様には駐車場の確保も致します。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「露天風呂は最高だが夕食のタレが辛すぎた夕食のしゃぶしゃぶのタレがゴマだれとポン酢だったのですが、どちらも辛すぎて何もつけずに食べたほうがよかったです。部屋付き露天風呂はとても気持ちよくて良かっ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「露天風呂は最高だが夕食のタレが辛すぎた夕食のしゃぶしゃぶのタレがゴマだれとポン酢だったのですが、どちらも辛すぎて何もつけずに食べたほうがよかったです。」
                   </blockquote>
                 </div>
               </div>
@@ -415,7 +415,7 @@ export default function MicroTouristHubPage() {
                   <p>【福井・三方五湖＆レインボーライン：天空テラス・五色水】 <strong>【駐車場・マイカー利用】</strong>有り　２０台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「わんこファーストで設備も充実、料理も絶品わんこファースト。ラウンジも館内もわんこファーストです。 街歩きは歩道がせまくて歩きづらいのですが、街歩きマップがあって、楽しめました。 お部屋に露天があり…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「わんこファーストで設備も充実、料理も絶品わんこファースト。ラウンジも館内もわんこファーストです。 街歩きは歩道がせまくて歩きづらいのですが、街歩きマップがあって、楽しめました。」
                   </blockquote>
                 </div>
               </div>
@@ -437,7 +437,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事と温泉に大満足、Wi-Fi接続は改善希望リーズナブルなのに夕食、朝食の味、量ともに文句無しでした!お風呂も露天風呂があり非常に満足でした。部屋は広く必要な設備は揃っておりますが、唯一Wi-Fi…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事と温泉に大満足、Wi-Fi接続は改善希望リーズナブルなのに夕食、朝食の味、量ともに文句無しでした!お風呂も露天風呂があり非常に満足でした。」
                   </blockquote>
                 </div>
               </div>

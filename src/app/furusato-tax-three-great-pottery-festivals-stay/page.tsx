@@ -37,7 +37,7 @@ export default function Page() {
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/40293/40293map.gif",
     "reviewCount": 548,
     "reviewAverage": 4.54,
-    "userReview": "丁寧な接客と清掃に感動、葉書も嬉しかった接客、清掃共に大変心地好い感じで大変満足しました。帰宅後も葉書でご挨拶が届き、またお世話になりたいと感じました。大変お世話になりました。クチコミの詳。",
+    "userReview": "丁寧な接客と清掃に感動、葉書も嬉しかった接客、清掃共に大変心地好い感じで大変満足しました。帰宅後も葉書でご挨拶が届き、またお世話になりたいと感じました。大変お世話になりました。",
     "hotelMinCharge": 19332,
     "address1": "佐賀県",
     "address2": "嬉野市嬉野町岩屋川内椎葉乙1586",
@@ -422,8 +422,8 @@ export default function Page() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 武雄温泉駅よりアクセス。ＪＲ佐世保線武雄温泉駅よりＪＲバスで３０分、終点嬉野温泉より送迎車で５分／九州長崎自動車道 嬉野ICより約１０分。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「嬉野温泉 大正屋 椎葉山荘」にチェックイン。県内最大級の露天風呂「しいばの湯」と５つの温泉湯巡りが大好評！などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「嬉野温泉 大正屋 椎葉山荘」の湯処へ。県内最大級の露天風呂「しいばの湯」と５つの温泉湯巡りが大好評！とともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「嬉野温泉 大正屋 椎葉山荘」にチェックイン。県内最大級の露天風呂「しいばの湯」と５つの温泉湯巡りが大好評！ 荷物を解き、落ち着いた室内でまず一息つく。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「嬉野温泉 大正屋 椎葉山荘」の自慢の湯処へ。温かな湯気と落ち着いた雰囲気に癒やされながら、夕食前の贅沢なひとときを過ごす。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「嬉野温泉 大正屋 椎葉山荘」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -435,7 +435,7 @@ export default function Page() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「嬉野温泉 大正屋 椎葉山荘」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「嬉野温泉 大正屋 椎葉山荘」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「ホテル ブリスヴィラ波佐見」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は「嬉野温泉 大正屋 椎葉山荘」周辺の観光スポットや地元の名産店に立ち寄り、ご当地のお土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>
@@ -563,7 +563,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 嬉野温泉　大正屋　椎葉山荘</td>
                 <td className="p-3 text-stone-600">佐賀県嬉野市嬉野町岩屋川内椎葉乙1586</td>
-                <td className="p-3 text-stone-600">武雄温泉駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ佐世保線武雄温泉駅よりＪＲバスで３０分、終点嬉野温泉より送迎車で５分／九州長崎自動車道 嬉野ICより約１０分</td>
                 <td className="p-3 text-stone-600">有り　１００台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.54（548件）</td>
                 <td className="p-3 font-bold text-rose-600">¥19,332〜</td>
@@ -572,7 +572,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. ホテル　ブリスヴィラ波佐見</td>
                 <td className="p-3 text-stone-600">長崎県東彼杵郡波佐見町長野郷567-1</td>
-                <td className="p-3 text-stone-600">川棚駅周辺</td>
+                <td className="p-3 text-stone-600">【ハウステンボス】車で約２５分 【ＪＲ】川棚駅：車で約１２分／有田駅：車で約１５分 【お車】波佐見有田IC：約１０分</td>
                 <td className="p-3 text-stone-600">有り　４０台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.47（657件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,510〜</td>
@@ -581,7 +581,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. ホテル　レイクヴィラ</td>
                 <td className="p-3 text-stone-600">滋賀県甲賀市信楽町多羅尾1</td>
-                <td className="p-3 text-stone-600">伊賀上野駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ伊賀上野駅から送迎有り（要事前予約3日前迄11:00～17：00 20分/新名神信楽ICより35分</td>
                 <td className="p-3 text-stone-600">有　２００台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.45（333件）</td>
                 <td className="p-3 font-bold text-rose-600">¥21,450〜</td>
@@ -610,7 +610,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１００台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「丁寧な接客と清掃に感動、葉書も嬉しかった接客、清掃共に大変心地好い感じで大変満足しました。帰宅後も葉書でご挨拶が届き、またお世話になりたいと感じました。大変お世話になりました。クチコミの詳…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「丁寧な接客と清掃に感動、葉書も嬉しかった接客、清掃共に大変心地好い感じで大変満足しました。帰宅後も葉書でご挨拶が届き、またお世話になりたいと感じました。大変お世話になりました。」
                   </blockquote>
                 </div>
               </div>
@@ -632,7 +632,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　４０台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.49 ／ 立地 ★4.34 ／ 部屋 ★4.48 ／ 設備 ★4.47 ／ 風呂 ★4.37 ／ 食事 ★4.31</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「場所は迷ったが清潔感があり快適な空間ナビで住所登録し出発、ゴルフの(打ちっ放し)施設に案内され、夜だったため周りをグルグル探しました(汗)ホテルは清潔感がありとても良いホテルでした。また利…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「場所は迷ったが清潔感があり快適な空間ナビで住所登録し出発、ゴルフの(打ちっ放し)施設に案内され、夜だったため周りをグルグル探しました(汗)ホテルは清潔感がありとても良いホテルでした。」
                   </blockquote>
                 </div>
               </div>
@@ -654,7 +654,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有　２００台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「もう20年近く毎年夏にロッジを利用しているが、室内は清潔で手入れが行き届いており、係りの皆さんのホスピタリティにも満足している。温泉、食事とも素晴らしく私はイチオシにしたい宿だと思っている。…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「もう20年近く毎年夏にロッジを利用しているが、室内は清潔で手入れが行き届いており、係りの皆さんのホスピタリティにも満足している。温泉、食事とも素晴らしく私はイチオシにしたい宿だと思っている。」
                   </blockquote>
                 </div>
               </div>

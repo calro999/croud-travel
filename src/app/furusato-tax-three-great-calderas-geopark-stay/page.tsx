@@ -409,8 +409,8 @@ export default function Page() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 阿蘇駅よりアクセス。ＪＲ阿蘇駅よりバスにて１０分。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「阿蘇内牧温泉 阿蘇プラザホテル」にチェックイン。人気の展望露天風呂から阿蘇のパノラマビューを満喫！旬の会席を堪能♪などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「阿蘇内牧温泉 阿蘇プラザホテル」の湯処へ。人気の展望露天風呂から阿蘇のパノラマビューを満喫！旬の会席を堪能♪とともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「阿蘇内牧温泉 阿蘇プラザホテル」にチェックイン。人気の展望露天風呂から阿蘇のパノラマビューを満喫！旬の会席を堪能♪ 館内の設えを確かめながら、これからの滞在に備えてゆっくり休息する。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「阿蘇内牧温泉 阿蘇プラザホテル」の自慢の湯処へ。温かな湯気と落ち着いた雰囲気に癒やされながら、夕食前の贅沢なひとときを過ごす。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「阿蘇内牧温泉 阿蘇プラザホテル」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -422,7 +422,7 @@ export default function Page() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「阿蘇内牧温泉 阿蘇プラザホテル」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「阿蘇内牧温泉 阿蘇プラザホテル」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「箱根・芦ノ湖 はなをり」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は「阿蘇内牧温泉 阿蘇プラザホテル」周辺の観光スポットや地元の名産店に立ち寄り、ご当地のお土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>
@@ -550,7 +550,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 阿蘇内牧温泉　阿蘇プラザホテル</td>
                 <td className="p-3 text-stone-600">熊本県阿蘇市内牧1287</td>
-                <td className="p-3 text-stone-600">阿蘇駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ阿蘇駅よりバスにて１０分</td>
                 <td className="p-3 text-stone-600">無料駐車場有　約200台駐車可能（予約不要）</td>
                 <td className="p-3 font-bold text-amber-600">★3.99（541件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,000〜</td>
@@ -568,7 +568,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 屈斜路プリンスホテル</td>
                 <td className="p-3 text-stone-600">北海道川上郡弟子屈町屈斜路温泉</td>
-                <td className="p-3 text-stone-600">ＪＲ釧網本線摩周駅からタクシーで２５分・事前予約制送迎バス有（4月～1</td>
+                <td className="p-3 text-stone-600">ＪＲ釧網本線摩周駅からタクシーで２５分・事前予約制送迎バス有（4月～11月迄）／女満別空港から車で５０分</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★3.95（950件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,942〜</td>
@@ -597,7 +597,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料駐車場有　約200台駐車可能（予約不要）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「懐石料理は豪華で美味、温泉も快適建物の古さは感じますが清潔感があり快適に過ごすことが出来ました。夕飯の懐石が豪華で大変美味しかったですが、小学三年生の息子には量が多かったため、柔軟に対応しても…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「懐石料理は豪華で美味、温泉も快適建物の古さは感じますが清潔感があり快適に過ごすことが出来ました。」
                   </blockquote>
                 </div>
               </div>
@@ -641,7 +641,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「お湯最高、星空も綺麗お湯が気持ちよかったです。特にいろんな種類があるというわけではないですが、すごく入りやすい。家族旅行でしたが、ご飯も美味しく、札幌から車で長旅した甲斐がありました。星空も見えた…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「お湯最高、星空も綺麗お湯が気持ちよかったです。特にいろんな種類があるというわけではないですが、すごく入りやすい。家族旅行でしたが、ご飯も美味しく、札幌から車で長旅した甲斐がありました。」
                   </blockquote>
                 </div>
               </div>

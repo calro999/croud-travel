@@ -565,8 +565,8 @@ export default function FeatureDetailPage() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 播州赤穂駅よりアクセス。JR山陽本線・播州赤穂駅より路線バス約20分「御崎バス停」より徒歩1分・無料送迎あり／山陽自動車道・赤穂ＩＣより約10分。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「赤穂温泉 絶景露天風呂の宿 銀波荘」にチェックイン。ＴＶや雑誌でも多数掲載！海と温泉が一体になって全身を包みこむ体験を堪能できる絶景露天風呂が自慢の宿。などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「赤穂温泉 絶景露天風呂の宿 銀波荘」の湯処へ。ＴＶや雑誌でも多数掲載！海と温泉が一体になって全身を包みこむ体験を堪能とともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「赤穂温泉 絶景露天風呂の宿 銀波荘」にチェックイン。ＴＶや雑誌でも多数掲載！海と温泉が一体になって全身を包みこむ体験を堪能できる絶景露天風呂が自慢の宿。 窓外に広がる景色を眺めながらチェックイン後の寛ぎ時間を。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「赤穂温泉 絶景露天風呂の宿 銀波荘」の自慢の湯処へ。温かな湯気と落ち着いた雰囲気に癒やされながら、夕食前の贅沢なひとときを過ごす。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「赤穂温泉 絶景露天風呂の宿 銀波荘」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -578,7 +578,7 @@ export default function FeatureDetailPage() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「赤穂温泉 絶景露天風呂の宿 銀波荘」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「赤穂温泉 絶景露天風呂の宿 銀波荘」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「海絶景とギネス認定の宿 全室露天風呂付離れ ＸＹＺスペチアーレ」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は宿周辺の散策とショッピングを満喫。地元の名産品やグルメを味わってから余裕をもって帰路につく。</li>
               </ul>
             </div>
           </div>
@@ -706,7 +706,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 赤穂温泉　絶景露天風呂の宿　銀波荘</td>
                 <td className="p-3 text-stone-600">兵庫県赤穂市御崎2-8</td>
-                <td className="p-3 text-stone-600">JR山陽本線・播州赤穂駅より路線バス約20分「御崎バス停」より徒歩1分</td>
+                <td className="p-3 text-stone-600">JR山陽本線・播州赤穂駅より路線バス約20分「御崎バス停」より徒歩1分・無料送迎あり／山陽自動車道・赤穂ＩＣより約10分</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.45（1381件）</td>
                 <td className="p-3 font-bold text-rose-600">¥13,200〜</td>
@@ -715,7 +715,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 海絶景とギネス認定の宿　全室露天風呂付離れ　ＸＹＺスペチアーレ</td>
                 <td className="p-3 text-stone-600">和歌山県西牟婁郡白浜町椿1063-21</td>
-                <td className="p-3 text-stone-600">【お車の場合】：道の駅椿はなの湯から約２分【空港、電車等でお越しの場合</td>
+                <td className="p-3 text-stone-600">【お車の場合】：道の駅椿はなの湯から約２分【空港、電車等でお越しの場合】：無料の送迎サービスをご利用いただけます</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.77（61件）</td>
                 <td className="p-3 font-bold text-rose-600">¥39,072〜</td>
@@ -724,7 +724,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 三河湾を一望■天下の絶景　西浦温泉　ホテル東海園</td>
                 <td className="p-3 text-stone-600">愛知県蒲郡市西浦町大山17-1</td>
-                <td className="p-3 text-stone-600">名鉄西浦駅より無料送迎バスで１０分（14：20～16：20）／音羽蒲郡</td>
+                <td className="p-3 text-stone-600">名鉄西浦駅より無料送迎バスで１０分（14：20～16：20）／音羽蒲郡ICより車で３０分／ラグーナまで車で３０分</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★3.66（828件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,000〜</td>
@@ -733,7 +733,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 湖上に浮かぶ絶景の宿　はわい温泉　千年亭</td>
                 <td className="p-3 text-stone-600">鳥取県東伯郡湯梨浜町はわい温泉4-62</td>
-                <td className="p-3 text-stone-600">倉吉駅周辺</td>
+                <td className="p-3 text-stone-600">中国自動車道『院庄IC』より179号線70km／JR山陰本線『倉吉駅』より無料送迎あり。タクシー10分『はわい温泉』</td>
                 <td className="p-3 text-stone-600">無料駐車場(60台)</td>
                 <td className="p-3 font-bold text-amber-600">★4.45（963件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,600〜</td>
@@ -742,7 +742,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 絶景温泉と魚介満腹の宿　稲取東海ホテル湯苑</td>
                 <td className="p-3 text-stone-600">静岡県賀茂郡東伊豆町稲取1599-1</td>
-                <td className="p-3 text-stone-600">伊豆稲取駅周辺</td>
+                <td className="p-3 text-stone-600">伊豆急線伊豆稲取駅下車。徒歩約１５分。無料送迎バスあり ※要事前予約（13：30～18：00） 明朝は定期便あります。</td>
                 <td className="p-3 text-stone-600">有り　50台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.51（955件）</td>
                 <td className="p-3 font-bold text-rose-600">¥10,000〜</td>
@@ -793,7 +793,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉の泉質は最高、スタッフの対応も親切口コミを見てホテル予約をしました。部屋の清掃が行き届いている、料理が美味しい、温泉が良い。概ねその通りで満足です。特に温泉は本当に泉質が良く何…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉の泉質は最高、スタッフの対応も親切口コミを見てホテル予約をしました。部屋の清掃が行き届いている、料理が美味しい、温泉が良い。概ねその通りで満足です。」
                   </blockquote>
                 </div>
               </div>
@@ -837,7 +837,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料駐車場(60台)</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.41 ／ 立地 ★4.52 ／ 部屋 ★4.41 ／ 設備 ★4.24 ／ 風呂 ★4.48 ／ 食事 ★4.52</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「サウナ付きの部屋と露天風呂からの絶景サウナ付きの部屋、最高でした!部屋からは湖が見えなくて残念でしたけど、露天風呂からしっかりと湖を見ることが出来ました。露天風呂からの景色が絶景。男女入れ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「サウナ付きの部屋と露天風呂からの絶景サウナ付きの部屋、最高でした!部屋からは湖が見えなくて残念でしたけど、露天風呂からしっかりと湖を見ることが出来ました。露天風呂からの景色が絶景。」
                   </blockquote>
                 </div>
               </div>
@@ -859,7 +859,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　50台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「間近で見る花火と美味しい食事に大満足部屋から海と花火が見たくて花火が近くて上がる日で予約しました。半露天の角部屋にグレードアップしていただき、間近で花火が見れて嬉しかったです。建物は年季が入ってい…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「間近で見る花火と美味しい食事に大満足部屋から海と花火が見たくて花火が近くて上がる日で予約しました。半露天の角部屋にグレードアップしていただき、間近で花火が見れて嬉しかったです。」
                   </blockquote>
                 </div>
               </div>

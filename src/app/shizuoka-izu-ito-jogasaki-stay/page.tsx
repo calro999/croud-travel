@@ -253,7 +253,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 伊東温泉　ホテル　ラヴィエ川良</td>
                 <td className="p-3 text-stone-600">静岡県伊東市竹の内1-1-3</td>
-                <td className="p-3 text-stone-600">伊東駅周辺</td>
+                <td className="p-3 text-stone-600">JR伊東線「伊東駅」下車 徒歩７分／車で東名高速沼津ICから1時間20分・厚木ICから1時間40分／送迎バスあり</td>
                 <td className="p-3 text-stone-600">無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.01（1982件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,000〜</td>
@@ -262,7 +262,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 城ケ崎海岸と伊豆高原の間　Ｎｅｗ　Ｖｉｌｌａ　Ｎａｔｕｒａｌ　Ｑ．　＾</td>
                 <td className="p-3 text-stone-600">静岡県伊東市八幡野1083-72 　New Villa Natural Q.</td>
-                <td className="p-3 text-stone-600">伊豆高原駅周辺</td>
+                <td className="p-3 text-stone-600">伊豆高原駅より徒歩で3分</td>
                 <td className="p-3 text-stone-600">なし</td>
                 <td className="p-3 font-bold text-amber-600">高評価</td>
                 <td className="p-3 font-bold text-rose-600">¥12,760〜</td>
@@ -271,7 +271,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 貸別荘　大室山の角　＾</td>
                 <td className="p-3 text-stone-600">静岡県伊東市池632-50　Ｏｍｕｒｏｙａｍａ　ｎｏ　Ｋａｄｏ</td>
-                <td className="p-3 text-stone-600">城ヶ崎海岸駅周辺</td>
+                <td className="p-3 text-stone-600">城ヶ崎海岸駅から車で約９分</td>
                 <td className="p-3 text-stone-600">有り</td>
                 <td className="p-3 font-bold text-amber-600">高評価</td>
                 <td className="p-3 font-bold text-rose-600">¥23,658〜</td>
@@ -280,7 +280,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. ｔｈｅ　ｓａｌｏｎ　伊豆高原　Ｈｏｔｅｌｓ　＆　Ｒｅｓｏｒｔ</td>
                 <td className="p-3 text-stone-600">静岡県伊東市八幡野1253-25</td>
-                <td className="p-3 text-stone-600">伊豆高原駅周辺</td>
+                <td className="p-3 text-stone-600">伊豆高原駅よりタクシーで8分前後（お車でのアクセスは公式ホームぺージBLOGをご確認ください。）</td>
                 <td className="p-3 text-stone-600">10台（無料）駐車場はホテルの正面にございますので、空いているスペースにお停めください。</td>
                 <td className="p-3 font-bold text-amber-600">★4.3（68件）</td>
                 <td className="p-3 font-bold text-rose-600">¥13,214〜</td>
@@ -289,7 +289,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. Ｒｅｓｏｒｔ　ｓｔａｙ　Ｂｏｗｅｎ～伊豆高原～</td>
                 <td className="p-3 text-stone-600">静岡県伊東市池635-107</td>
-                <td className="p-3 text-stone-600">伊豆高原駅周辺</td>
+                <td className="p-3 text-stone-600">伊豆高原駅から車で約７分／無料駐車場３台分（マイクロバスも駐車可）</td>
                 <td className="p-3 text-stone-600">無料駐車場３台／予約不要／マイクロバス駐車可</td>
                 <td className="p-3 font-bold text-amber-600">高評価</td>
                 <td className="p-3 font-bold text-rose-600">¥3,928〜</td>
@@ -298,7 +298,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">6. 伊東温泉　陽気館</td>
                 <td className="p-3 text-stone-600">静岡県伊東市末広町2-24</td>
-                <td className="p-3 text-stone-600">伊東駅周辺</td>
+                <td className="p-3 text-stone-600">＜電車＞JR「伊東駅」より徒歩12分／＜お車＞東名厚木IC→小田原厚木道路経由→国道135号線、約90分</td>
                 <td className="p-3 text-stone-600">有り　20台　無料　※カーナビは名称・電話ではなく住所（静岡県伊東市末広町1－21）で検索して下さい</td>
                 <td className="p-3 font-bold text-amber-600">★4.33（702件）</td>
                 <td className="p-3 font-bold text-rose-600">¥14,300〜</td>
@@ -437,7 +437,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　20台　無料　※カーナビは名称・電話ではなく住所（静岡県伊東市末広町1－21）で検索して下さい</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝日と海を望む絶景と美味しい食事に大満足伊豆シャボテン公園への旅行で利用させて頂きました。高台のお部屋は眺めも良くて朝日と海が見えました。夕食と朝食、とても美味しくて中でもお刺身 鯵の干物が格別で…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝日と海を望む絶景と美味しい食事に大満足伊豆シャボテン公園への旅行で利用させて頂きました。高台のお部屋は眺めも良くて朝日と海が見えました。」
                   </blockquote>
                 </div>
               </div>

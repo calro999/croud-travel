@@ -104,7 +104,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F17905%2F17905.html%26f_flg%3DPLAN",
     "hotelMinCharge": 22080,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/17905/17905.jpg",
-    "userReview": "食事が絶品、雪の時期に再訪したい朝晩の食事がとっても美味しいです。なので、連泊での昼軽食を ”まかない” で食せるプラン(特注)があるといいですねー。雪の時期にぜひ再訪したいです。クチコミの。",
+    "userReview": "食事が絶品、雪の時期に再訪したい朝晩の食事がとっても美味しいです。なので、連泊での昼軽食を ”まかない” で食せるプラン(特注)があるといいですねー。雪の時期にぜひ再訪したいです。",
     "reviewAverage": 4.75,
     "reviewCount": 262,
     "address": "福島県南会津郡下郷町湯野上舘本乙1338",
@@ -283,8 +283,8 @@ export default function Page() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 宇奈月温泉駅よりアクセス。北陸新幹線黒部宇奈月温泉駅から富山地鉄乗り換え25分。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「黒部峡谷・宇奈月温泉 ホテル黒部」にチェックイン。『宇奈月温泉随一の眺望』四季折々の地元食材と透明な美肌湯を堪能などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「黒部峡谷・宇奈月温泉 ホテル黒部」の湯処へ。『宇奈月温泉随一の眺望』四季折々の地元食材と透明な美肌湯を堪能とともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「黒部峡谷・宇奈月温泉 ホテル黒部」にチェックイン。『宇奈月温泉随一の眺望』四季折々の地元食材と透明な美肌湯を堪能が魅力の一軒。客室で荷物をほどいて穏やかな午後のひとときを。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「黒部峡谷・宇奈月温泉 ホテル黒部」の大浴場・露天風呂へ。日暮れの静けさの中で湯に浸かり、旅の緊張をゆっくりと解きほぐす。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「黒部峡谷・宇奈月温泉 ホテル黒部」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -296,7 +296,7 @@ export default function Page() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「黒部峡谷・宇奈月温泉 ホテル黒部」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「黒部峡谷・宇奈月温泉 ホテル黒部」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「洞川温泉 行者の宿 角甚」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は「黒部峡谷・宇奈月温泉 ホテル黒部」周辺の観光スポットや地元の名産店に立ち寄り、ご当地のお土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>
@@ -346,21 +346,21 @@ export default function Page() {
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">あわせて読みたい人気特集＆全国エリアガイド</h2>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
-            <a href="/furusato-tax-zao-onsen-acid-sulfur-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/traditional-irori-charcoal-hearth-satoyama-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">蔵王温泉をふるさと納税でお得に旅する！日本屈指の強酸性白濁硫黄泉＆山形牛！名門名湯宿特集</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">パチパチ爆ぜる炭火の温もり！囲炉裏料理と清流川魚・ジビエを味わう里山名湯宿</span>
             </a>
-            <a href="/winter-yamagata-hijiori-onsen-heavy-snow-toji-yamagata-beef-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/winter-chiba-minamiboso-tateyama-chikura-ocean-iseebi-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12月山形・肘折温泉の豪雪秘湯】開湯1200年の霊泉と朝市情緒・極上山形牛＆名物芋煮鍋に心温まる名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">海越しに望む冠雪富士と温暖避寒の海辺名湯 房州伊勢海老＆地魚一本買い舟盛りとかずさ和牛名宿</span>
             </a>
-            <a href="/winter-yamagata-shonai-hagurosan-sakata-kandarajiru-yunohama-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/winter-nagano-azumino-omachi-hotaka-snow-shinshugyu-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12・1月山形】羽黒山「国宝五重塔」雪景色と酒田山居倉庫！冬名物「寒鱈どんがら汁」・日本海寒魚＆湯野浜・あつみ温泉名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「11・12・1月長野」安曇野＆大町温泉郷！白銀の北アルプス後立山連峰と穂高神社初詣・光のイルミネーション＆雪見露天名宿5選</span>
             </a>
-            <a href="/yamagata-kaminoyama-solo-retreat-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/winter-toyama-gokayama-gassho-snow-lightup-ainokura-suganuma-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">かみのやま温泉ひとり旅・蔵王連峰パノラマおこもり：城下町足湯・山形牛会席・ワイン王国！奥羽三楽郷の名湯に癒やされる厳選3宿</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「世界遺産五箇山合掌集落の雪景色と庄川峡」2026-2027年冬の南砺・五箇山！雪見露天と堅豆腐名宿5選</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">
@@ -424,7 +424,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 黒部峡谷・宇奈月温泉　ホテル黒部</td>
                 <td className="p-3 text-stone-600">富山県黒部市宇奈月温泉７番地</td>
-                <td className="p-3 text-stone-600">宇奈月温泉駅周辺</td>
+                <td className="p-3 text-stone-600">北陸新幹線黒部宇奈月温泉駅から富山地鉄乗り換え25分。 宇奈月温泉駅から歩10分／北陸道 黒部ＩＣから約20分。</td>
                 <td className="p-3 text-stone-600">有り　40台　無料 （トロッコ観光中もお預かりいたします）</td>
                 <td className="p-3 font-bold text-amber-600">★4.55（1226件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,600〜</td>
@@ -433,7 +433,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 洞川温泉　行者の宿　角甚</td>
                 <td className="p-3 text-stone-600">奈良県吉野郡天川村洞川240</td>
-                <td className="p-3 text-stone-600">近鉄電車下市口駅より、奈良交通バスで約８０分。タクシ-で４０分。南阪奈</td>
+                <td className="p-3 text-stone-600">近鉄電車下市口駅より、奈良交通バスで約８０分。タクシ-で４０分。南阪奈道路 橿原終点より車で約７０分。</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.73（295件）</td>
                 <td className="p-3 font-bold text-rose-600">¥20,900〜</td>
@@ -442,7 +442,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 会津湯野上温泉　花鳥華やか風月の宿　藤龍館</td>
                 <td className="p-3 text-stone-600">福島県南会津郡下郷町湯野上舘本乙1338</td>
-                <td className="p-3 text-stone-600">湯野上温泉駅より徒歩１２分／東北自動車道・白河ＩＣより６０分／磐越自動</td>
+                <td className="p-3 text-stone-600">湯野上温泉駅より徒歩１２分／東北自動車道・白河ＩＣより６０分／磐越自動車道・会津若松ＩＣより５０分</td>
                 <td className="p-3 text-stone-600">無料駐車場15台有り</td>
                 <td className="p-3 font-bold text-amber-600">★4.74（261件）</td>
                 <td className="p-3 font-bold text-rose-600">¥22,080〜</td>
@@ -451,7 +451,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. つるぎ恋月　立山連峰を望む天然温泉旅館</td>
                 <td className="p-3 text-stone-600">富山県中新川郡上市町湯上野1</td>
-                <td className="p-3 text-stone-600">上市駅周辺</td>
+                <td className="p-3 text-stone-600">立山ICより10分。上市駅より車にて7分。アルペンルート立山駅、宇奈月トロッコまで各50分。</td>
                 <td className="p-3 text-stone-600">有り　５０台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.1（1086件）</td>
                 <td className="p-3 font-bold text-rose-600">¥11,000〜</td>
@@ -489,7 +489,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　40台　無料 （トロッコ観光中もお預かりいたします）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「昭和の雰囲気と鉄道部屋に子供が大喜び設備は所々歴史が感じられましたが、とても雰囲気が良く、所々で古き良き昭和を感じました。お部屋からトロッコ電車も観られました。プラレールと鉄道模型の鉄道部屋が…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「昭和の雰囲気と鉄道部屋に子供が大喜び設備は所々歴史が感じられましたが、とても雰囲気が良く、所々で古き良き昭和を感じました。お部屋からトロッコ電車も観られました。」
                   </blockquote>
                 </div>
               </div>
@@ -511,7 +511,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「露天風呂と牡丹鍋、縁側でのんびり満喫露天風呂付きのお部屋で、ゆっくり過ごす事が出来ました!料理も牡丹鍋など、とても美味しかったです。どうしても鮎の塩焼きが食べたかったので、追加で注文させて頂き…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「露天風呂と牡丹鍋、縁側でのんびり満喫露天風呂付きのお部屋で、ゆっくり過ごす事が出来ました!料理も牡丹鍋など、とても美味しかったです。」
                   </blockquote>
                 </div>
               </div>
@@ -533,7 +533,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料駐車場15台有り</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「川の音と露天風呂で癒され、馬刺しも絶品心地よい川の流れ音が気持ちを落ち着けさせてくれます。露天風呂に入れば最高の癒しを得られます。料理は適度な量を多種提供していただけました。名物の「馬刺し」を追加…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「川の音と露天風呂で癒され、馬刺しも絶品心地よい川の流れ音が気持ちを落ち着けさせてくれます。露天風呂に入れば最高の癒しを得られます。料理は適度な量を多種提供していただけました。」
                   </blockquote>
                 </div>
               </div>
@@ -555,7 +555,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　５０台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.02 ／ 立地 ★3.99 ／ 部屋 ★4.05 ／ 設備 ★3.88 ／ 風呂 ★4.11 ／ 食事 ★4.27</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「静かな環境と日本のおもてなしに大満足広くて静かで、落ち着いた宿泊ができました。線状降水帯のためずっと雨で立山連峰は望めませんでしたが、晴れていれば綺麗に眺められたことでしょう。スタ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「静かな環境と日本のおもてなしに大満足広くて静かで、落ち着いた宿泊ができました。線状降水帯のためずっと雨で立山連峰は望めませんでしたが、晴れていれば綺麗に眺められたことでしょう。」
                   </blockquote>
                 </div>
               </div>
@@ -577,7 +577,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「3月中旬に利用三連休で初めて洞川温泉へ行った際に利用させていただきました。施設は全体的に年季の入ったお宿でエントランスはキレイで畳のスリッパは履き心地が良かったです。構造上仕方ないのかもし…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「3月中旬に利用三連休で初めて洞川温泉へ行った際に利用させていただきました。施設は全体的に年季の入ったお宿でエントランスはキレイで畳のスリッパは履き心地が良かったです。」
                   </blockquote>
                 </div>
               </div>

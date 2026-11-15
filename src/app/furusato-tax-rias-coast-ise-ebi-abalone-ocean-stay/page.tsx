@@ -661,7 +661,7 @@ export default function FurusatoFeaturePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 大江戸温泉物語Ｐｒｅｍｉｕｍ　志摩彩朝楽</td>
                 <td className="p-3 text-stone-600">三重県志摩市阿児町神明687-2</td>
-                <td className="p-3 text-stone-600">賢島駅周辺</td>
+                <td className="p-3 text-stone-600">賢島駅よりお車にて５分／ホテルへの送迎もございます（要予約）</td>
                 <td className="p-3 text-stone-600">１００台　予約不要　無料</td>
                 <td className="p-3 font-bold text-amber-600">★3.83（1158件）</td>
                 <td className="p-3 font-bold text-rose-600">¥10,300〜</td>
@@ -670,7 +670,7 @@ export default function FurusatoFeaturePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 志摩観光ホテル　ザ　クラシック</td>
                 <td className="p-3 text-stone-600">三重県志摩市阿児町神明731</td>
-                <td className="p-3 text-stone-600">賢島駅周辺</td>
+                <td className="p-3 text-stone-600">近鉄「賢島駅」から徒歩約5分、シャトルバス2分。（定時運行・予約不要）</td>
                 <td className="p-3 text-stone-600">屋外、無料、66台</td>
                 <td className="p-3 font-bold text-amber-600">★4.72（959件）</td>
                 <td className="p-3 font-bold text-rose-600">¥16,005〜</td>
@@ -679,7 +679,7 @@ export default function FurusatoFeaturePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 都リゾート　志摩　ベイサイドテラス</td>
                 <td className="p-3 text-stone-600">三重県志摩市阿児町鵜方3618-33</td>
-                <td className="p-3 text-stone-600">賢島駅周辺</td>
+                <td className="p-3 text-stone-600">近鉄「賢島駅」よりシャトルバスで約７分（無料）／伊勢神宮（内宮）から車で約35分／志摩スペイン村から車で約15分</td>
                 <td className="p-3 text-stone-600">有り　６０台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.59（1086件）</td>
                 <td className="p-3 font-bold text-rose-600">¥10,250〜</td>
@@ -688,7 +688,7 @@ export default function FurusatoFeaturePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 南三陸　ホテル観洋</td>
                 <td className="p-3 text-stone-600">宮城県本吉郡南三陸町志津川字黒崎99-17</td>
-                <td className="p-3 text-stone-600">志津川駅周辺</td>
+                <td className="p-3 text-stone-600">三陸自動車道：桃生津山Ｉ.Ｃ→R45で25分。/仙台空港より90分/仙台駅東口より送迎あり（要予約）</td>
                 <td className="p-3 text-stone-600">有り　２００台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.5（5433件）</td>
                 <td className="p-3 font-bold text-rose-600">¥9,350〜</td>
@@ -697,7 +697,7 @@ export default function FurusatoFeaturePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 大江戸温泉物語Ｐｒｅｍｉｕｍ　ホテル壮観</td>
                 <td className="p-3 text-stone-600">宮城県宮城郡松島町磯崎字浜1-1</td>
-                <td className="p-3 text-stone-600">松島駅周辺</td>
+                <td className="p-3 text-stone-600">東北本線松島駅より徒歩約15分！シャトルバス有り(松島駅・松島海岸駅より)出発時間はホテルへお問い合わせ下さいませ</td>
                 <td className="p-3 text-stone-600">有り　２００台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.07（2686件）</td>
                 <td className="p-3 font-bold text-rose-600">¥12,800〜</td>
@@ -706,7 +706,7 @@ export default function FurusatoFeaturePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">6. サンマリン気仙沼ホテル観洋</td>
                 <td className="p-3 text-stone-600">宮城県気仙沼市港町4-19</td>
-                <td className="p-3 text-stone-600">気仙沼駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ気仙沼駅よりタクシーで１０分</td>
                 <td className="p-3 text-stone-600">有り　１００台　無料　※一部屋根付き駐車場あり・バイクも大歓迎</td>
                 <td className="p-3 font-bold text-amber-600">★4.28（1255件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,600〜</td>
@@ -735,7 +735,7 @@ export default function FurusatoFeaturePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>１００台　予約不要　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.91 ／ 立地 ★3.81 ／ 部屋 ★3.79 ／ 設備 ★3.77 ／ 風呂 ★3.89 ／ 食事 ★3.98</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「海の幸とキッズルームに子供が大喜び!バイキングは品揃え豊富で、新鮮な海の幸が食べられて美味しかったです。子どももとても喜んでいました。プレイルームも大喜びでした。キッズルームがあるお部屋を予約しま…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「海の幸とキッズルームに子供が大喜び!バイキングは品揃え豊富で、新鮮な海の幸が食べられて美味しかったです。子どももとても喜んでいました。プレイルームも大喜びでした。」
                   </blockquote>
                 </div>
               </div>
@@ -757,7 +757,7 @@ export default function FurusatoFeaturePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>屋外、無料、66台</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.72 ／ 立地 ★4.81 ／ 部屋 ★4.73 ／ 設備 ★4.69 ／ 風呂 ★4.43 ／ 食事 ★4.76</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「サミットの歴史ありサミットの歴史を感じました静かな場所でくつろぎの時間を満喫できます食事やラウンジもよかったですお風呂は部屋のみですが展望ができるのが嬉しいですクチコミの詳細はこち…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「サミットの歴史ありサミットの歴史を感じました静かな場所でくつろぎの時間を満喫できます食事やラウンジもよかったですお風呂は部屋のみですが展望ができるのが嬉しいです。」
                   </blockquote>
                 </div>
               </div>
@@ -779,7 +779,7 @@ export default function FurusatoFeaturePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　６０台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「日常を忘れてのんびり、また訪れたい場所とにかく素敵なホテルです。ホテルに入った瞬間にふわっと心地よい香りに癒され、穏やかな海と海外リゾートのようなロビーに感動しました。施設内も客室もプールも大浴場…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「日常を忘れてのんびり、また訪れたい場所とにかく素敵なホテルです。ホテルに入った瞬間にふわっと心地よい香りに癒され、穏やかな海と海外リゾートのようなロビーに感動しました。」
                   </blockquote>
                 </div>
               </div>
@@ -801,7 +801,7 @@ export default function FurusatoFeaturePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２００台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「最高のロケーションと食事、語り部バスに感動行きは一人でも陸前戸倉まで送迎してくれました。夕食は海側の席を用意していただき、最高のロケーションで過ごすことができました。特にアワビのステーキは…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「最高のロケーションと食事、語り部バスに感動行きは一人でも陸前戸倉まで送迎してくれました。夕食は海側の席を用意していただき、最高のロケーションで過ごすことができました。」
                   </blockquote>
                 </div>
               </div>

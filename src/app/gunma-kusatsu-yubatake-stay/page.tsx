@@ -253,7 +253,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 草津温泉　湯畑展望露天の宿　ぬ志勇旅館（ぬしゆうりょかん）</td>
                 <td className="p-3 text-stone-600">群馬県吾妻郡草津町446</td>
-                <td className="p-3 text-stone-600">長野原草津口駅周辺</td>
+                <td className="p-3 text-stone-600">長野原草津口駅から草津温泉行きバスで約２０分</td>
                 <td className="p-3 text-stone-600">有り　１４台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.39（567件）</td>
                 <td className="p-3 font-bold text-rose-600">¥12,000〜</td>
@@ -262,7 +262,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 草津温泉　中村屋旅館＜群馬県＞</td>
                 <td className="p-3 text-stone-600">群馬県吾妻郡草津町草津98</td>
-                <td className="p-3 text-stone-600">■JR吾妻線■長野原草津口駅下車→草津温泉行きバスで20分→草津温泉バ</td>
+                <td className="p-3 text-stone-600">■JR吾妻線■長野原草津口駅下車→草津温泉行きバスで20分→草津温泉バスターミナルより徒歩2分</td>
                 <td className="p-3 text-stone-600">湯畑観光駐車場1階　ご来館時に当日15時〜翌日10時までの駐車サービス券をお渡ししております。</td>
                 <td className="p-3 font-bold text-amber-600">★4.74（593件）</td>
                 <td className="p-3 font-bold text-rose-600">¥11,900〜</td>
@@ -271,7 +271,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 草津温泉　十二屋旅館</td>
                 <td className="p-3 text-stone-600">群馬県吾妻郡草津町草津155</td>
-                <td className="p-3 text-stone-600">長野原草津口駅周辺</td>
+                <td className="p-3 text-stone-600">草津温泉バスターミナルより徒歩3分</td>
                 <td className="p-3 text-stone-600">有　10台　無料　（７台目以降はつめこみ駐車です）　当日は１３時から駐車可能</td>
                 <td className="p-3 font-bold text-amber-600">★3.67（278件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,800〜</td>
@@ -280,7 +280,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 草津温泉　尻焼き風呂の桐島屋旅館</td>
                 <td className="p-3 text-stone-600">群馬県吾妻郡草津町大字草津541 桐島屋旅館</td>
-                <td className="p-3 text-stone-600">長野原草津口駅周辺</td>
+                <td className="p-3 text-stone-600">関越道渋川伊香保ICより車で1時間半 or JR長野原草津口駅よりJRバスで草津温泉バスターミナル駅まで約25分</td>
                 <td className="p-3 text-stone-600">有り　12台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.27（187件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,145〜</td>
@@ -289,7 +289,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 草津温泉　草津ホテル１９１３</td>
                 <td className="p-3 text-stone-600">群馬県吾妻郡草津町草津479</td>
-                <td className="p-3 text-stone-600">長野原草津口駅周辺</td>
+                <td className="p-3 text-stone-600">長野原草津口駅よりＪＲバスに２５分乗車 徒歩8分（長野原までのシャトルバスはございません、最終バスは８４８pm発です）</td>
                 <td className="p-3 text-stone-600">敷地内に４０台 無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.44（1112件）</td>
                 <td className="p-3 font-bold text-rose-600">¥14,300〜</td>
@@ -298,7 +298,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">6. 草津温泉　源泉かけ流しの宿　ひのき亭　牧水</td>
                 <td className="p-3 text-stone-600">群馬県吾妻郡草津町草津19-9</td>
-                <td className="p-3 text-stone-600">長野原草津口駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ 長野原草津口駅からバスで２０分 草津温泉バスターミナルから徒歩2分</td>
                 <td className="p-3 text-stone-600">有り8台(1組に付き1台/無料)※午後1時より駐車可能。当館前に到着後お電話ください。</td>
                 <td className="p-3 font-bold text-amber-600">★4.33（196件）</td>
                 <td className="p-3 font-bold text-rose-600">¥10,500〜</td>
@@ -371,7 +371,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有　10台　無料　（７台目以降はつめこみ駐車です）　当日は１３時から駐車可能</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.52 ／ 立地 ★3.48 ／ 部屋 ★3.67 ／ 設備 ★3.48 ／ 風呂 ★3.92 ／ 食事 ★3.28</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「大浴場が熱すぎて入れず、価格に見合わない内容大浴場のお湯が熱過ぎて、温度を下げる方法もなく、入るのを諦めました。いくら草津温泉でも、熱ければ良いというわけではないと思います。その他でも総じ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「大浴場が熱すぎて入れず、価格に見合わない内容大浴場のお湯が熱過ぎて、温度を下げる方法もなく、入るのを諦めました。いくら草津温泉でも、熱ければ良いというわけではないと思います。」
                   </blockquote>
                 </div>
               </div>
@@ -415,7 +415,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>敷地内に４０台 無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.27 ／ 立地 ★4.22 ／ 部屋 ★4.37 ／ 設備 ★4.33 ／ 風呂 ★4.63 ／ 食事 ★4.38</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「リフォームされた綺麗な館内と二種の源泉西の河原公園の近くにあります。草津温泉に旅行した際に宿泊しました。夕食なし朝食のみのプランです。歴史ある建物ですが、中はリフォームされていて大…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「リフォームされた綺麗な館内と二種の源泉西の河原公園の近くにあります。草津温泉に旅行した際に宿泊しました。夕食なし朝食のみのプランです。」
                   </blockquote>
                 </div>
               </div>
@@ -437,7 +437,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り8台(1組に付き1台/無料)※午後1時より駐車可能。当館前に到着後お電話ください。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.4 ／ 立地 ★4.14 ／ 部屋 ★4.17 ／ 設備 ★4.1 ／ 風呂 ★4.44 ／ 食事 ★4.52</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「古民家の温かさとトロトロの温泉に癒やされる古民家の中庭みたいなところから入っていきます。温かいお迎えしてくれました。お風呂も3種類貸切で檜のにおりが心地よかったです。お湯も化粧水みたいなトロミがあ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「古民家の温かさとトロトロの温泉に癒やされる古民家の中庭みたいなところから入っていきます。温かいお迎えしてくれました。お風呂も3種類貸切で檜のにおりが心地よかったです。」
                   </blockquote>
                 </div>
               </div>

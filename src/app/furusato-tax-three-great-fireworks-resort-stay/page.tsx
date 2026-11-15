@@ -351,7 +351,7 @@ export default function FurusatoUpgradedPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. ホテルルートイン　大曲駅前</td>
                 <td className="p-3 text-stone-600">秋田県大仙市大曲通町3-14</td>
-                <td className="p-3 text-stone-600">大曲（秋田）駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ秋田新幹線大曲駅より徒歩３分/大曲I.Cより車で約10分/秋田市より秋田自動車道利用で約40分</td>
                 <td className="p-3 text-stone-600">有り　７０台　無料　予約不要 先着順  ※満車の際は近隣駐車場をご案内致します。</td>
                 <td className="p-3 font-bold text-amber-600">★4.28（1512件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,650〜</td>
@@ -360,7 +360,7 @@ export default function FurusatoUpgradedPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. ホテルニューオータニ長岡</td>
                 <td className="p-3 text-stone-600">新潟県長岡市台町2丁目8番35号</td>
-                <td className="p-3 text-stone-600">長岡駅周辺</td>
+                <td className="p-3 text-stone-600">上越新幹線・信越本線の長岡駅東口より徒歩２分／長岡ICから車で長岡駅方面約２０分／１泊１台１，０００円の駐車場あり</td>
                 <td className="p-3 text-stone-600">普通車　1泊1台：1,000円／予約不要／満車時は提携駐車場をご案内</td>
                 <td className="p-3 font-bold text-amber-600">★4.3（2599件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,700〜</td>
@@ -369,7 +369,7 @@ export default function FurusatoUpgradedPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. ホテルマロウド筑波</td>
                 <td className="p-3 text-stone-600">茨城県土浦市城北町2-24</td>
-                <td className="p-3 text-stone-600">土浦駅周辺</td>
+                <td className="p-3 text-stone-600">JR常磐線 土浦駅西口から徒歩１2分 お車でＴＸつくば駅から２５分 常磐道桜土浦ＩＣから１５分 土浦北ＩＣから１０分</td>
                 <td className="p-3 text-stone-600">300台有　無料(普通乗用車)　それ以外(中型車以上)の車は有料￥2200（電話にて要予約）</td>
                 <td className="p-3 font-bold text-amber-600">★4.03（1566件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,200〜</td>
@@ -398,7 +398,7 @@ export default function FurusatoUpgradedPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　７０台　無料　予約不要 先着順  ※満車の際は近隣駐車場をご案内致します。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駐車場が不便で精算の手間が惜しい提携駐車場の場所がホテル横に2軒あり、奥側とすぐには気づけなかった。一泊しただけで1500円程度手持ちキャッシュが無いと駐車場から出られず、両替が必要かつ、…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駐車場が不便で精算の手間が惜しい提携駐車場の場所がホテル横に2軒あり、奥側とすぐには気づけなかった。」
                   </blockquote>
                 </div>
               </div>

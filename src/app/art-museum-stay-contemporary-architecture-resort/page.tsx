@@ -255,8 +255,8 @@ export default function Page() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 釧路駅よりアクセス。釧路空港より車で約６０分／女満別空港より車で約９０分。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「あかん遊久の里鶴雅」にチェックイン。和のこころ、阿寒のおもてなしをさらに深めて。日本の旅館文化を継承するおもてなしをご堪能ください。などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「あかん遊久の里鶴雅」の湯処へ。和のこころ、阿寒のおもてなしをさらに深めて。日本の旅館文化を継承するおとともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「あかん遊久の里鶴雅」にチェックイン。和のこころ、阿寒のおもてなしをさらに深めて。日本の旅館文化を継承するおもてなしをご堪能ください。 荷物を解き、落ち着いた室内でまず一息つく。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「あかん遊久の里鶴雅」の大浴場・露天風呂へ。日暮れの静けさの中で湯に浸かり、旅の緊張をゆっくりと解きほぐす。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「あかん遊久の里鶴雅」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -268,7 +268,7 @@ export default function Page() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「あかん遊久の里鶴雅」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「あかん遊久の里鶴雅」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「夕凪の湯 ＨＯＴＥＬ花樹海」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は「あかん遊久の里鶴雅」周辺の観光スポットや地元の名産店に立ち寄り、ご当地のお土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>
@@ -396,7 +396,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. あかん遊久の里鶴雅</td>
                 <td className="p-3 text-stone-600">北海道釧路市阿寒町阿寒湖温泉4-6-10</td>
-                <td className="p-3 text-stone-600">釧路駅周辺</td>
+                <td className="p-3 text-stone-600">釧路空港より車で約６０分／女満別空港より車で約９０分。 ※アクセスの詳細は公式サイトの「アクセスページ」をご覧ください。</td>
                 <td className="p-3 text-stone-600">有り（無料）150台※駐車場は当館から離れた場所にあります（駐車場とホテル間はシャトルバス運行あり）</td>
                 <td className="p-3 font-bold text-amber-600">★4.49（1917件）</td>
                 <td className="p-3 font-bold text-rose-600">¥14,520〜</td>
@@ -405,7 +405,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 夕凪の湯　ＨＯＴＥＬ花樹海</td>
                 <td className="p-3 text-stone-600">香川県高松市西宝町3-5-10</td>
-                <td className="p-3 text-stone-600">ＪＲ予讃線　高松駅から車で１０分／高松自動車道　高松西ＩＣ及び高松檀紙</td>
+                <td className="p-3 text-stone-600">ＪＲ予讃線 高松駅から車で１０分／高松自動車道 高松西ＩＣ及び高松檀紙ICから一般道を通り約１０分</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.55（1046件）</td>
                 <td className="p-3 font-bold text-rose-600">¥15,950〜</td>
@@ -465,7 +465,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「高台からの絶景と丁寧な接客に満足ちょっと高台にあるホテルで、駐車場から見える景色がきれいでした。ホテルに到着してすぐに係の方がお出迎えしてくださり、荷物を部屋まで運んでいただきました。景色…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「高台からの絶景と丁寧な接客に満足ちょっと高台にあるホテルで、駐車場から見える景色がきれいでした。ホテルに到着してすぐに係の方がお出迎えしてくださり、荷物を部屋まで運んでいただきました。」
                   </blockquote>
                 </div>
               </div>

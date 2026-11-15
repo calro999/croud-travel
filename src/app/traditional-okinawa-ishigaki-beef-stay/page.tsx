@@ -35,7 +35,7 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/160779/160779map.gif",
     "reviewCount": 455,
     "reviewAverage": 4.36,
-    "userReview": "朝食のローストビーフと飲み放題に大満足口コミ通り朝食が最高でした。ローストビーフ、刺身、デザートすべてがおいしく大満足です。ラウンジのビール、泡盛も飲み放題で最高でした。クチコミの詳細。",
+    "userReview": "朝食のローストビーフと飲み放題に大満足口コミ通り朝食が最高でした。ローストビーフ、刺身、デザートすべてがおいしく大満足です。ラウンジのビール、泡盛も飲み放題で最高でした。",
     "hotelMinCharge": 4089,
     "address1": "沖縄県",
     "address2": "石垣市登野城67",
@@ -565,8 +565,8 @@ export default function FeatureDetailPage() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 石垣空港駅よりアクセス。■レンタカー■石垣空港より約25分。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「さくらリゾートホテル石垣＜石垣島＞」にチェックイン。八重山ブルーの海、八重山の島々を見下ろす絶好のロケーション。島内でも屈指のサンセットをご堪能下さい。などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「さくらリゾートホテル石垣＜石垣島＞」の湯処へ。八重山ブルーの海、八重山の島々を見下ろす絶好のロケーション。島内でも屈とともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「さくらリゾートホテル石垣＜石垣島＞」にチェックイン。八重山ブルーの海、八重山の島々を見下ろす絶好のロケーション。島内でも屈指のサンセットをご堪能下さい。 館内の設えを確かめながら、これからの滞在に備えてゆっくり休息する。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「さくらリゾートホテル石垣＜石垣島＞」の湯船で寛ぎタイム。季節の空気を感じながら手足を伸ばし、心豊かな夕方のリラックス時間を満喫。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「さくらリゾートホテル石垣＜石垣島＞」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -578,7 +578,7 @@ export default function FeatureDetailPage() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「さくらリゾートホテル石垣＜石垣島＞」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「さくらリゾートホテル石垣＜石垣島＞」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「フサキビーチリゾート ホテル＆ヴィラズ ＜石垣島＞」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は「さくらリゾートホテル石垣＜石垣島＞」周辺の観光スポットや地元の名産店に立ち寄り、ご当地のお土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>
@@ -628,49 +628,49 @@ export default function FeatureDetailPage() {
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">あわせて読みたい人気特集＆全国エリアガイド</h2>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
-            <a href="/akita-station-solo-business-onsen-sauna-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/furusato-tax-ishigakijima-resort-villa-luxury-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">秋田駅前出張・天然温泉サウナ：秋田新幹線こまち・中通温泉こまちの湯・比内地鶏＆きりたんぽ！美酒王国の厳選3宿</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">エメラルドグリーンの海と満天の星！石垣島の天然ビーチ直結リゾート＆赤瓦プライベートヴィラ×ふるさと納税完全攻略ガイド【2026年最新】フサキ・ANAインターコンチネンタル・グランヴ</span>
             </a>
-            <a href="/furusato-tax-tazawako-nyuto-onsen-autumn-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/furusato-tax-okinawa-naha-kokusaidori-luxury-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">乳頭温泉郷の秘湯白濁露天と田沢湖の紅葉パノラマ＆秋田比内地鶏・きりたんぽ鍋ステイ</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">沖縄・那覇をふるさと納税でお得に旅する！国際通りの活気＆屋外プールリゾート！天然温泉スパ特集｜ハイアット那覇・コレクティブ・ロワジールスパタワー</span>
             </a>
-            <a href="/winter-akita-moriyoshi-ani-snow-monster-matagi-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/furusato-tax-resort-infinity-pool-luxury-hotel-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12・1月秋田】日本三大樹氷・森吉山スノーモンスターと秋田内陸線雪景色・比内地鶏きりたんぽ鍋＆マタギの秘湯を巡る名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">海と空に溶け込む圧倒的開放感！絶景インフィニティプール＆ラグジュアリーリゾートホテル×ふるさと納税厳選ガイド熱海・沖縄恩納村・別府</span>
             </a>
-            <a href="/akita-oga-peninsula-namahage-nyudozaki-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/japan-starry-sky-astrophotography-resort-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">秋田・男鹿半島＆なまはげ・入道崎：北緯40度白黒灯台・名物石焼料理宿 厳選ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「満天の星空＆星空案内人の宿」阿智村・野辺山・石垣島＆星空露天風呂 厳選ガイド</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
             <div className="flex flex-wrap gap-2">
               <Link
-                href="/prefectures/akita/"
+                href="/prefectures/okinawa/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                秋田県の宿・温泉
+                沖縄県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/gunma/"
+                href="/prefectures/fukuoka/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                群馬県の宿・温泉
+                福岡県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/nagasaki/"
+                href="/prefectures/oita/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                長崎県の宿・温泉
+                大分県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/mie/"
+                href="/prefectures/kumamoto/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                三重県の宿・温泉
+                熊本県の宿・温泉
               </Link>
             </div>
           </div>
@@ -706,7 +706,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. Ｔｈｅ　ＢＲＥＡＫＦＡＳＴ　ＨＯＴＥＬ　ＰＯＲＴＯ石垣島＜石垣島＞</td>
                 <td className="p-3 text-stone-600">沖縄県石垣市登野城67</td>
-                <td className="p-3 text-stone-600">石垣空港駅周辺</td>
+                <td className="p-3 text-stone-600">南ぬ島石垣空港から車で約25分（タクシーで約3,000円）離島ターミナルより徒歩8分。公設市場から徒歩5分。</td>
                 <td className="p-3 text-stone-600">有り　30台　1500円（税込み／泊）　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.38（461件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,436〜</td>
@@ -715,7 +715,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. Ｔｈｅ　ＢＲＥＡＫＦＡＳＴ　ＨＯＴＥＬ　ＭＡＲＣＨＥ石垣島＜石垣島＞</td>
                 <td className="p-3 text-stone-600">沖縄県石垣市大川217</td>
-                <td className="p-3 text-stone-600">石垣島離島ターミナル徒歩5分！バスターミナル徒歩3分！ユーグレナモール</td>
+                <td className="p-3 text-stone-600">石垣島離島ターミナル徒歩5分！バスターミナル徒歩3分！ユーグレナモール徒歩30秒！</td>
                 <td className="p-3 text-stone-600">有り　先着順　5台　1500円（税込み／泊）※予約不可</td>
                 <td className="p-3 font-bold text-amber-600">★4.27（308件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,326〜</td>
@@ -724,7 +724,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. さくらリゾートホテル石垣＜石垣島＞</td>
                 <td className="p-3 text-stone-600">沖縄県石垣市新川1585-218</td>
-                <td className="p-3 text-stone-600">石垣空港駅周辺</td>
+                <td className="p-3 text-stone-600">■レンタカー■石垣空港より約25分。離島ターミナルより約10分 ■路線バス■バス停フサキビーチリゾートより徒歩約5分。</td>
                 <td className="p-3 text-stone-600">有り　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.44（93件）</td>
                 <td className="p-3 font-bold text-rose-600">¥9,500〜</td>
@@ -733,7 +733,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. フサキビーチリゾート　ホテル＆ヴィラズ　＜石垣島＞</td>
                 <td className="p-3 text-stone-600">沖縄県石垣市新川1625番地</td>
-                <td className="p-3 text-stone-600">石垣空港駅周辺</td>
+                <td className="p-3 text-stone-600">石垣空港より 車で約35分。石垣港より車で約15分。空港・ホテル間の無料送迎バスもございます。</td>
                 <td className="p-3 text-stone-600">有り（299台/先着順）：宿泊者無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.61（1573件）</td>
                 <td className="p-3 font-bold text-rose-600">¥11,490〜</td>
@@ -742,7 +742,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. ホテル　リゾートイン石垣島＜石垣島＞</td>
                 <td className="p-3 text-stone-600">沖縄県石垣市真栄里491-2</td>
-                <td className="p-3 text-stone-600">石垣空港駅周辺</td>
+                <td className="p-3 text-stone-600">駐車場無料！新石垣空港→車：約20分 路線バス：白保経由空港線30分（サンエー前バス停 ）</td>
                 <td className="p-3 text-stone-600">・24時間出し入れ自由な駐車場を無料駐車場を完備　※無料</td>
                 <td className="p-3 font-bold text-amber-600">★4（535件）</td>
                 <td className="p-3 font-bold text-rose-600">¥2,595〜</td>
@@ -771,7 +771,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　30台　1500円（税込み／泊）　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.32 ／ 立地 ★4.24 ／ 部屋 ★4.29 ／ 設備 ★4.26 ／ 風呂 ★4.08 ／ 食事 ★4.57</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「一人旅でもおすすめ朝食は売りにしているだけあって、結構美味しかった。朝からテンションをあげられる。部屋に関してもベット下は埃だったが、客から見える範囲は清掃が非常に行き届いていた。また、部…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「一人旅でもおすすめ朝食は売りにしているだけあって、結構美味しかった。朝からテンションをあげられる。部屋に関してもベット下は埃だったが、客から見える範囲は清掃が非常に行き届いていた。」
                   </blockquote>
                 </div>
               </div>
@@ -837,7 +837,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り（299台/先着順）：宿泊者無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「リゾート感たっぷりのホテルで、小さなお子さんがいるご家庭には特におすすめです!プールやビーチなど、子どもたちと一緒に楽しめて、家族旅行の素敵な思い出になりました。食事については、少し好みが分か…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「リゾート感たっぷりのホテルで、小さなお子さんがいるご家庭には特におすすめです!プールやビーチなど、子どもたちと一緒に楽しめて、家族旅行の素敵な思い出になりました。」
                   </blockquote>
                 </div>
               </div>
@@ -859,7 +859,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>・24時間出し入れ自由な駐車場を無料駐車場を完備　※無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「2泊3日で利用しました。悪かった点・チェックインをタブレットで行う。宿泊者の氏名を大きなディスプレイに表示させながら自身で入力を行うため、周囲の人に入力内容が丸見えである。また、入力履歴が残る…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「2泊3日で利用しました。悪かった点・チェックインをタブレットで行う。宿泊者の氏名を大きなディスプレイに表示させながら自身で入力を行うため、周囲の人に入力内容が丸見えである。」
                   </blockquote>
                 </div>
               </div>

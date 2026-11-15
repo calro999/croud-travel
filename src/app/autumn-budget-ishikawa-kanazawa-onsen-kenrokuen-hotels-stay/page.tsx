@@ -342,7 +342,7 @@ export default function KanazawaBudgetAutumnPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 天然温泉　鼓門の湯　スーパーホテルＰｒｅｍｉｅｒ金沢駅東口</td>
                 <td className="p-3 text-stone-600">石川県金沢市本町2-5-15</td>
-                <td className="p-3 text-stone-600">金沢駅周辺</td>
+                <td className="p-3 text-stone-600">金沢駅東口より徒歩7分。金沢東ICより約15分。</td>
                 <td className="p-3 text-stone-600">ホテル専用駐車場、駐輪場はございません。近隣駐車場のご案内となります</td>
                 <td className="p-3 font-bold text-amber-600">★4.43（1660件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,450〜</td>
@@ -351,7 +351,7 @@ export default function KanazawaBudgetAutumnPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. ｔｈｅ　ｂ　金沢片町</td>
                 <td className="p-3 text-stone-600">石川県金沢市片町2-2-13</td>
-                <td className="p-3 text-stone-600">金沢駅周辺</td>
+                <td className="p-3 text-stone-600">金沢駅からバスで10分(金沢駅東口⑨⑩⑪のりばから乗車）片町バス停から徒歩2分/金沢西I.Cより車で10分</td>
                 <td className="p-3 text-stone-600">提携①270台(16時間1,200円 24時間1,700円)②139台(15時〜11時1,200円)</td>
                 <td className="p-3 font-bold text-amber-600">★4.32（1270件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,850〜</td>
@@ -360,7 +360,7 @@ export default function KanazawaBudgetAutumnPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. アパホテル〈金沢中央〉</td>
                 <td className="p-3 text-stone-600">石川県金沢市片町1-5-24</td>
-                <td className="p-3 text-stone-600">金沢駅周辺</td>
+                <td className="p-3 text-stone-600">■片町スクランブル交差点30秒 ■金沢駅東口⑨⑩⑪乗り場から「片町」バス停下車徒歩1分</td>
                 <td className="p-3 text-stone-600">ホテル駐車場1泊1650円(入庫から24時間まで)高さ制限あり。</td>
                 <td className="p-3 font-bold text-amber-600">★4.17（7316件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,960〜</td>
@@ -369,7 +369,7 @@ export default function KanazawaBudgetAutumnPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 天然温泉・健康ランド　金沢ゆめのゆ</td>
                 <td className="p-3 text-stone-600">石川県金沢市藤江南3-26</td>
-                <td className="p-3 text-stone-600">金沢駅周辺</td>
+                <td className="p-3 text-stone-600">金沢駅発無料バス 10：45～18：45 の間、毎時間「４５分」に金沢駅西口団体バス乗降所を出発</td>
                 <td className="p-3 text-stone-600">１４００台　無料駐車場は予約不要でご利用できます。　大型車も駐車OK!（有料）</td>
                 <td className="p-3 font-bold text-amber-600">★4.06（576件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,500〜</td>
@@ -378,7 +378,7 @@ export default function KanazawaBudgetAutumnPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 天然温泉　加賀の宝泉　御宿　野乃金沢（ドーミーイン・御宿野乃　ホテルズグループ）</td>
                 <td className="p-3 text-stone-600">石川県金沢市下堤町1-1</td>
-                <td className="p-3 text-stone-600">金沢駅周辺</td>
+                <td className="p-3 text-stone-600">JR金沢駅より徒歩15分または北鉄バス6～10番乗り場からバスで4分「武蔵が辻・近江町市場」バス停下車後徒歩1分</td>
                 <td className="p-3 text-stone-600">有り　先着順(76台)　1泊1,500円　長さ:5300㎜　全幅:1940㎜　高さ:2000㎜</td>
                 <td className="p-3 font-bold text-amber-600">★4.54（1955件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,030〜</td>
@@ -429,7 +429,7 @@ export default function KanazawaBudgetAutumnPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>提携①270台(16時間1,200円 24時間1,700円)②139台(15時〜11時1,200円)</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.27 ／ 立地 ★4.22 ／ 部屋 ★4.31 ／ 設備 ★4.17 ／ 風呂 ★4.21 ／ 食事 ★4.6</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「街の中心で立地抜群、次回は朝食も楽しみたい街の中心に立地していてコンビニも近く、夕食の場所も選び放題でした今回はホテルの朝食を利用できなかったので次回は利用したいと思いますクチコミの詳細は…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「街の中心で立地抜群、次回は朝食も楽しみたい街の中心に立地していてコンビニも近く。」
                   </blockquote>
                 </div>
               </div>
@@ -451,7 +451,7 @@ export default function KanazawaBudgetAutumnPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>ホテル駐車場1泊1650円(入庫から24時間まで)高さ制限あり。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.14 ／ 立地 ★4.22 ／ 部屋 ★4.15 ／ 設備 ★4.13 ／ 風呂 ★4.25 ／ 食事 ★4.21</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スパと接客は満足だが朝食会場の対応が残念リピーターです。以前はスパがありませんでしたが、今回利用して満足です。フロントスタッフの対応も良く全体的に満足ですが、朝食会場のお魚とキノコそば担当して…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スパと接客は満足だが朝食会場の対応が残念リピーターです。以前はスパがありませんでしたが、今回利用して満足です。」
                   </blockquote>
                 </div>
               </div>
@@ -473,7 +473,7 @@ export default function KanazawaBudgetAutumnPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>１４００台　無料駐車場は予約不要でご利用できます。　大型車も駐車OK!（有料）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スーパー銭湯が充実、寝るだけならコスパ良しスーパー銭湯は充実していて文句なし!宿泊は間仕切りで簡易的なもので寝るだけを想定すればコスパはいいです。金沢駅から少し遠いですが、自家用移動前提なら問…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スーパー銭湯が充実、寝るだけならコスパ良しスーパー銭湯は充実していて文句なし!宿泊は間仕切りで簡易的なもので寝るだけを想定すればコスパはいいです。」
                   </blockquote>
                 </div>
               </div>
@@ -495,7 +495,7 @@ export default function KanazawaBudgetAutumnPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　先着順(76台)　1泊1,500円　長さ:5300㎜　全幅:1940㎜　高さ:2000㎜</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「お風呂とサウナは最高、部屋の湿気が残念お風呂、サウナとっても良かったです!ただ、安いプランだったからかも知れませんが、部屋の湿気がすごくてベタついた感じがあり少しカビ臭く感じてしまいました。立地や…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「お風呂とサウナは最高、部屋の湿気が残念お風呂、サウナとっても良かったです!ただ、安いプランだったからかも知れませんが、部屋の湿気がすごくてベタついた感じがあり少しカビ臭く感じてしまいました。」
                   </blockquote>
                 </div>
               </div>

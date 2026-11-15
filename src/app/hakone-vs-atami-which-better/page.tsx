@@ -324,7 +324,7 @@ export default function HakoneVsAtamiPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 箱根つたや旅館</td>
                 <td className="p-3 text-stone-600">神奈川県足柄下郡箱根町底倉240-1</td>
-                <td className="p-3 text-stone-600">宮ノ下駅周辺</td>
+                <td className="p-3 text-stone-600">箱根登山バス 箱根町線「神社下」バス停より徒歩にて約１分</td>
                 <td className="p-3 text-stone-600">有り　４台　要予約(1000円／泊)　※空車状況に関しては施設に直接ご連絡ください</td>
                 <td className="p-3 font-bold text-amber-600">★4.6（93件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,000〜</td>
@@ -333,7 +333,7 @@ export default function HakoneVsAtamiPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 箱根小涌園　三河屋旅館</td>
                 <td className="p-3 text-stone-600">神奈川県足柄下郡箱根町小涌谷503</td>
-                <td className="p-3 text-stone-600">箱根湯本駅周辺</td>
+                <td className="p-3 text-stone-600">箱根湯本駅よりお車にて約２０分</td>
                 <td className="p-3 text-stone-600">有り　１５台　無料　要予約</td>
                 <td className="p-3 font-bold text-amber-600">★4.2（63件）</td>
                 <td className="p-3 font-bold text-rose-600">¥16,600〜</td>
@@ -342,7 +342,7 @@ export default function HakoneVsAtamiPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 箱根湯本温泉　吉池旅館</td>
                 <td className="p-3 text-stone-600">神奈川県足柄下郡箱根町湯本597</td>
-                <td className="p-3 text-stone-600">箱根湯本駅周辺</td>
+                <td className="p-3 text-stone-600">箱根湯本駅から徒歩で７分</td>
                 <td className="p-3 text-stone-600">有り　６５台　無料　予約不要　※屋根付駐車場あり</td>
                 <td className="p-3 font-bold text-amber-600">★4.4（525件）</td>
                 <td className="p-3 font-bold text-rose-600">¥12,320〜</td>
@@ -351,7 +351,7 @@ export default function HakoneVsAtamiPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 熱海温泉　ホテル　サンミ倶楽部</td>
                 <td className="p-3 text-stone-600">静岡県熱海市和田浜南町5-8</td>
-                <td className="p-3 text-stone-600">熱海駅周辺</td>
+                <td className="p-3 text-stone-600">JR東海道線『熱海駅』より東海バス『マリンスパあたみ』下車 徒歩1分</td>
                 <td className="p-3 text-stone-600">50台　有料（1100円）※ご利用時間はご宿泊日の12時からチェックアウト日の10時までとなります。</td>
                 <td className="p-3 font-bold text-amber-600">★3.92（969件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,352〜</td>
@@ -360,7 +360,7 @@ export default function HakoneVsAtamiPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 熱海温泉　ウオミサキホテル（伊東園ホテルズ）</td>
                 <td className="p-3 text-stone-600">静岡県熱海市和田浜南町7-2</td>
-                <td className="p-3 text-stone-600">熱海駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ東海道新幹線 熱海駅よりバスに乗車、マリンスパあたみ下車で徒歩1分</td>
                 <td className="p-3 text-stone-600">有り　３０台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★3.68（1013件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,698〜</td>
@@ -369,7 +369,7 @@ export default function HakoneVsAtamiPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">6. 熱海温泉ホテル　夢いろは</td>
                 <td className="p-3 text-stone-600">静岡県熱海市咲見町4-6</td>
-                <td className="p-3 text-stone-600">熱海駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ熱海駅より徒歩１０分ほど タクシーならたった5分</td>
                 <td className="p-3 text-stone-600">駐車場は一律1000円予約不可・先着順限定7台でのご案内となります。</td>
                 <td className="p-3 font-bold text-amber-600">★4.12（2786件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,850〜</td>
@@ -398,7 +398,7 @@ export default function HakoneVsAtamiPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　４台　要予約(1000円／泊)　※空車状況に関しては施設に直接ご連絡ください</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「静かに過ごしたい目的には合わず残念数年前:内観を深めるにはとても素敵な宿2026年:フリーエリア外国人9割の宿目的がゆっくり静かに過ごすことだっので外人さんの賑やかな雰囲気、今回は…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「静かに過ごしたい目的には合わず残念数年前:内観を深めるにはとても素敵な宿2026年:フリーエリア外国人9割の宿目的がゆっくり静かに過ごすことだっので外人さんの賑やかな雰囲気。」
                   </blockquote>
                 </div>
               </div>
@@ -442,7 +442,7 @@ export default function HakoneVsAtamiPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　６５台　無料　予約不要　※屋根付駐車場あり</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「とにかく綺麗にしてる宿!とても良いお宿でした!スタッフの方は外国の方が多いですが皆、親切で対応バッチリです。今回は当日に決めたので素泊まりでしたが次回はご飯付きで泊まりたいと思…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「とにかく綺麗にしてる宿!とても良いお宿でした!スタッフの方は外国の方が多いですが皆、親切で対応バッチリです。」
                   </blockquote>
                 </div>
               </div>
@@ -464,7 +464,7 @@ export default function HakoneVsAtamiPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>50台　有料（1100円）※ご利用時間はご宿泊日の12時からチェックアウト日の10時までとなります。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「三世代で熱海を満喫、景色と親切な対応に感動孫と三世代で 初めての熱海で ホテルの従業員の方は 親切で また 部屋から海が見えて景色よく感動しましたマリンスパ熱海のプールへ 目の前すぐ行ける…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「三世代で熱海を満喫、景色と親切な対応に感動孫と三世代で 初めての熱海で ホテルの従業員の方は 親切で また 部屋から海が見えて景色よく感動しましたマリンスパ熱海のプールへ 目の前すぐ行ける。」
                   </blockquote>
                 </div>
               </div>
@@ -486,7 +486,7 @@ export default function HakoneVsAtamiPage() {
                   <p>【箱根 vs 熱海 どっちに行く？：日帰り・1泊2日そ】 <strong>【駐車場・マイカー利用】</strong>有り　３０台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.74 ／ 立地 ★3.9 ／ 部屋 ★3.66 ／ 設備 ★3.52 ／ 風呂 ★3.82 ／ 食事 ★3.7</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋と風呂は良いが、臭いと料理の少なさが残念部屋と風呂は、最高に良かったです。但し、部屋に入るときは、臭いにおいが酷かった。臭いをなくして欲しい。バイキングの料理が少なかった。また…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋と風呂は良いが、臭いと料理の少なさが残念部屋と風呂は、最高に良かったです。但し、部屋に入るときは、臭いにおいが酷かった。臭いをなくして欲しい。バイキングの料理が少なかった。」
                   </blockquote>
                 </div>
               </div>

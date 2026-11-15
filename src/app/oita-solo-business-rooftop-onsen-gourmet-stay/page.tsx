@@ -426,7 +426,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. ＪＲ九州ホテルブラッサム大分</td>
                 <td className="p-3 text-stone-600">大分県大分市要町1-14</td>
-                <td className="p-3 text-stone-600">大分駅周辺</td>
+                <td className="p-3 text-stone-600">JR大分駅より徒歩0分！府内中央口（北口）直結で、バス乗り場も近く、観光・ビジネスの拠点に抜群のアクセス</td>
                 <td className="p-3 text-stone-600">アミュプラザ大分※12時〜翌12時まで1,000円／途中出庫可／駐車券をフロントまでお持ちください</td>
                 <td className="p-3 font-bold text-amber-600">★4.55（2445件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,600〜</td>
@@ -435,7 +435,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. ホテル日航大分　オアシスタワー</td>
                 <td className="p-3 text-stone-600">大分県大分市高砂町2-48</td>
-                <td className="p-3 text-stone-600">大分駅周辺</td>
+                <td className="p-3 text-stone-600">（JR大分駅から）徒歩で約10分（大分ＩＣから）車で約１５分（大分空港から）高速バスで約６０分</td>
                 <td className="p-3 text-stone-600">一律料金（ご1泊あたり1,000円）にてご利用頂けます。駐車場の入り口はプラン詳細をご確認ください</td>
                 <td className="p-3 font-bold text-amber-600">★4.37（2678件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,375〜</td>
@@ -444,7 +444,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. ダイワロイネットホテル大分（２０２６年９月リニューアル）</td>
                 <td className="p-3 text-stone-600">大分県大分市荷揚町2-3</td>
-                <td className="p-3 text-stone-600">大分駅周辺</td>
+                <td className="p-3 text-stone-600">大分駅より徒歩約10分！大分空港より空港バスにて約60分『荷揚町』下車徒歩１分！</td>
                 <td className="p-3 text-stone-600">立体駐車場96台（先着順・車高制限等あり）14時〜翌朝11時1泊1,000円</td>
                 <td className="p-3 font-bold text-amber-600">★4.3（4095件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,300〜</td>
@@ -517,7 +517,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>立体駐車場96台（先着順・車高制限等あり）14時〜翌朝11時1泊1,000円</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.3 ／ 立地 ★4.28 ／ 部屋 ★4.36 ／ 設備 ★4.28 ／ 風呂 ★4.27 ／ 食事 ★4.26</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「今回3人部屋を探してる時にこちらのホテルがヒットし、宿泊しました。まさかのトリプルベッド!親子3人大人の宿泊でしたが大満足です。お風呂は周辺の温泉を利用したため評価はしてませんが、とにかく清潔感いっぱ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「今回3人部屋を探してる時にこちらのホテルがヒットし、宿泊しました。まさかのトリプルベッド!親子3人大人の宿泊でしたが大満足です。」
                   </blockquote>
                 </div>
               </div>

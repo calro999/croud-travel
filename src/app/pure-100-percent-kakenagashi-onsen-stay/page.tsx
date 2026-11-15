@@ -253,7 +253,7 @@ export default function HeritageOnsenHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 幕川温泉　水戸屋旅館</td>
                 <td className="p-3 text-stone-600">福島県福島市土湯温泉町鷲倉山1-3</td>
-                <td className="p-3 text-stone-600">福島（福島）駅周辺</td>
+                <td className="p-3 text-stone-600">福島駅よりお車で60分／福島交通 磐梯吾妻スカイライン行き「鷲倉温泉」下車 お車で10分（送迎あり。）</td>
                 <td className="p-3 text-stone-600">有り　８０台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★3.5（29件）</td>
                 <td className="p-3 font-bold text-rose-600">¥9,300〜</td>
@@ -262,7 +262,7 @@ export default function HeritageOnsenHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 黒川温泉　いこい旅館</td>
                 <td className="p-3 text-stone-600">熊本県阿蘇郡南小国町黒川温泉川端通り</td>
-                <td className="p-3 text-stone-600">阿蘇駅周辺</td>
+                <td className="p-3 text-stone-600">JR熊本駅より九州横断バスにて2時間50分。JR博多駅より西鉄バスにて2時間40分。熊本空港より車で1時間30分</td>
                 <td className="p-3 text-stone-600">１５台収容。無料にてご用意致しております。</td>
                 <td className="p-3 font-bold text-amber-600">★4.72（769件）</td>
                 <td className="p-3 font-bold text-rose-600">¥20,900〜</td>
@@ -280,7 +280,7 @@ export default function HeritageOnsenHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 沢渡温泉　まるほん旅館</td>
                 <td className="p-3 text-stone-600">群馬県吾妻郡中之条町上沢渡甲2301</td>
-                <td className="p-3 text-stone-600">中之条駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ 中之条駅よりバスで２５分</td>
                 <td className="p-3 text-stone-600">有り　２０台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.38（160件）</td>
                 <td className="p-3 font-bold text-rose-600">¥11,850〜</td>
@@ -289,7 +289,7 @@ export default function HeritageOnsenHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 二岐温泉　柏屋旅館</td>
                 <td className="p-3 text-stone-600">福島県岩瀬郡天栄村湯本下二俣22-6</td>
-                <td className="p-3 text-stone-600">新白河駅周辺</td>
+                <td className="p-3 text-stone-600">※新白河駅より車で約５０分</td>
                 <td className="p-3 text-stone-600">有り　２０台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.59（149件）</td>
                 <td className="p-3 font-bold text-rose-600">¥12,650〜</td>
@@ -298,7 +298,7 @@ export default function HeritageOnsenHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">6. 塩原温泉　湯守田中屋</td>
                 <td className="p-3 text-stone-600">栃木県那須塩原市塩原6　（塩原温泉郷 大網温泉）</td>
-                <td className="p-3 text-stone-600">那須塩原駅周辺</td>
+                <td className="p-3 text-stone-600">東北新幹線 那須塩原駅より送迎（事前予約制／有料1,100円）あり 西那須野塩原ICより車約15分</td>
                 <td className="p-3 text-stone-600">有　30台　無料（車高が低い車や、大型車、車椅子利用時などは事前にご連絡ください）</td>
                 <td className="p-3 font-bold text-amber-600">★4.35（515件）</td>
                 <td className="p-3 font-bold text-rose-600">¥13,200〜</td>
@@ -349,7 +349,7 @@ export default function HeritageOnsenHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>１５台収容。無料にてご用意致しております。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「料理と温泉は良いが設備や案内に不安あり料理、温泉は最高でした。でも別館の説明が雑だと思います。通常別館といえば割と近くにあるイメージでしたが、別館が多くある事を詳細に載せる必要があると思います。そ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「料理と温泉は良いが設備や案内に不安あり料理、温泉は最高でした。でも別館の説明が雑だと思います。通常別館といえば割と近くにあるイメージでしたが、別館が多くある事を詳細に載せる必要があると思います。」
                   </blockquote>
                 </div>
               </div>
@@ -371,7 +371,7 @@ export default function HeritageOnsenHubPage() {
                   <p>【自家源泉かけ流し100%の宿：加水なし・加温なし・循】 <strong>【駐車場・マイカー利用】</strong>有り　１０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「秘境のぬる湯と美味しい食事でゆったり満喫とても素敵な秘境宿です。温泉は混浴露天と混浴内湯、男女別内湯、女性専用露天と満載ぬる湯ですので1時間位は楽しめます。混浴も湯あみ着が300円でレ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「秘境のぬる湯と美味しい食事でゆったり満喫とても素敵な秘境宿です。温泉は混浴露天と混浴内湯、男女別内湯、女性専用露天と満載ぬる湯ですので1時間位は楽しめます。」
                   </blockquote>
                 </div>
               </div>
@@ -415,7 +415,7 @@ export default function HeritageOnsenHubPage() {
                   <p>【自家源泉かけ流し100%の宿：加水なし・加温なし・循】 <strong>【駐車場・マイカー利用】</strong>有り　２０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「お風呂は熱めで食事の飲み物は限定的お風呂は全体的にやや熱めです昔は川を渡ると露天風呂があったのか、今はシールで隠されていました食事の際の飲み物がほうじ茶と冷水のみでした至極一般的な宿と…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「お風呂は熱めで食事の飲み物は限定的お風呂は全体的にやや熱めです昔は川を渡ると露天風呂があったのか。」
                   </blockquote>
                 </div>
               </div>
@@ -437,7 +437,7 @@ export default function HeritageOnsenHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有　30台　無料（車高が低い車や、大型車、車椅子利用時などは事前にご連絡ください）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.46 ／ 立地 ★4.41 ／ 部屋 ★4.32 ／ 設備 ★4.28 ／ 風呂 ★4.48 ／ 食事 ★4.52</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「源泉掛け流しの風呂と部屋食に大満足お部屋にお風呂付、夕食と朝食があるプランでした。お風呂はすべて源泉掛け流しで、様々な形式のものがあります。食事も美味しかったです。夕食は部屋食で丁寧な…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「源泉掛け流しの風呂と部屋食に大満足お部屋にお風呂付、夕食と朝食があるプランでした。お風呂はすべて源泉掛け流しで、様々な形式のものがあります。食事も美味しかったです。」
                   </blockquote>
                 </div>
               </div>

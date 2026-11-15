@@ -135,7 +135,7 @@ const hotels: any[] = [
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/52577/52577map.gif",
     "reviewCount": 176,
     "reviewAverage": 4.36,
-    "userReview": "とろける高級すき焼きと大自然のぬる湯夕飯はすき焼きのお肉にびっくり高級牛肉が5枚大きいお肉がとろけました温泉はトロッとしたぬる湯で湯当たりしません大自然の中ゆったり過ごせましたクチコミ。",
+    "userReview": "とろける高級すき焼きと大自然のぬる湯夕飯はすき焼きのお肉にびっくり高級牛肉が5枚大きいお肉がとろけました温泉はトロッとしたぬる湯で湯当たりしません大自然の中ゆったり過ごせました。",
     "hotelMinCharge": 8800,
     "address1": "佐賀県",
     "address2": "佐賀市富士町古湯873",
@@ -565,8 +565,8 @@ export default function FeatureDetailPage() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 渋川駅よりアクセス。ＪＲ渋川駅→路線バス（30分）→伊香保バスターミナル下車、またはタクシー（15分）／関越自動車道・渋川伊香保ＩＣ～20分。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「伊香保温泉 名物畳風呂と料理自慢の宿 ホテルきむら」にチェックイン。北関東最大級の畳風呂とメガ貸切露天風呂 伊香保の綺麗な景色を一望！お料理とお風呂自慢の宿などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「伊香保温泉 名物畳風呂と料理自慢の宿 ホテルきむら」の湯処へ。北関東最大級の畳風呂とメガ貸切露天風呂 伊香保の綺麗な景色を一望！お料とともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「伊香保温泉 名物畳風呂と料理自慢の宿 ホテルきむら」にチェックイン。【北関東最大級の畳風呂とメガ貸切露天風呂】伊香保の綺麗な景色を一望！ まずは客室で移動の疲れをそっと癒やす。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「伊香保温泉 名物畳風呂と料理自慢の宿 ホテルきむら」の大浴場・露天風呂へ。日暮れの静けさの中で湯に浸かり、旅の緊張をゆっくりと解きほぐす。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「伊香保温泉 名物畳風呂と料理自慢の宿 ホテルきむら」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -578,7 +578,7 @@ export default function FeatureDetailPage() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「伊香保温泉 名物畳風呂と料理自慢の宿 ホテルきむら」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「伊香保温泉 名物畳風呂と料理自慢の宿 ホテルきむら」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「嬉野温泉 旅館 初音荘」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は「伊香保温泉 名物畳風呂と料理自慢の宿 ホテルきむら」周辺の観光スポットや地元の名産店に立ち寄り、ご当地のお土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>
@@ -628,49 +628,49 @@ export default function FeatureDetailPage() {
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">あわせて読みたい人気特集＆全国エリアガイド</h2>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
-            <a href="/traditional-aomori-tsugaru-shamisen-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/winter-shimane-izumo-taisha-kamiarizuki-shimane-wagyu-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">2026年：迫力の津軽三味線生ライブ！陸奥湾海鮮会席＆青森名湯を味わう風情旅館5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12月島根・出雲大社周辺温泉】 神在月参拝と初冬解禁日本海の幸・しまね和牛＆絶景露天の宿5選</span>
             </a>
-            <a href="/winter-aomori-sukayu-hakkoda-yukimi-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/winter-shizuoka-atami-izusan-luxury-sekaie-ocean-roten-iseebi-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【12月豪雪の秘湯！八甲田酸ヶ湯温泉＆奥入瀬】千人風呂と幻想的な氷瀑・雪見露天宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【相模湾を見下ろす断崖の絶景露天風呂と極上プライベートヴィラ】2026-2027年11-12月初冬の静岡・熱海伊豆山＆南熱海！最高峰「ATAMI せかいえ」＆迎賓館・冬の熱海海上花</span>
             </a>
-            <a href="/aomori-towada-oirase-gorge-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/winter-shizuoka-city-nihondaira-kunozan-toshogu-maguro-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">青森・十和田湖＆奥入瀬渓流：特別名勝奥入瀬・銚子大滝＆十和田バラ焼き・ヒメマス宿 厳選ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">冬の久能山東照宮新春初詣＆日本平富士山パノラマ絶景！ 清水港冬マグロ・由比桜えびと名宿5選</span>
             </a>
-            <a href="/furusato-tax-aomori-towada-oirase-autumn-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/winter-shizuoka-gotemba-tokinosumika-illumination-fuji-view-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">青森・奥入瀬渓流＆十和田湖の黄金紅葉！十和田湖畔温泉と蔦温泉・青森倉石牛会席</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">御殿場＆裾野！ 時之栖イルミ＆アウトレットと冬の富士山展望露天風呂名宿5選</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
             <div className="flex flex-wrap gap-2">
               <Link
-                href="/prefectures/aomori/"
+                href="/prefectures/shizuoka/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                青森県の宿・温泉
+                静岡県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/osaka/"
+                href="/prefectures/gifu/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                大阪府の宿・温泉
+                岐阜県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/ibaraki/"
+                href="/prefectures/aichi/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                茨城県の宿・温泉
+                愛知県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/kochi/"
+                href="/prefectures/mie/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                高知県の宿・温泉
+                三重県の宿・温泉
               </Link>
             </div>
           </div>
@@ -706,7 +706,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 伊香保温泉　名物畳風呂と料理自慢の宿　ホテルきむら</td>
                 <td className="p-3 text-stone-600">群馬県渋川市伊香保町伊香保557-32</td>
-                <td className="p-3 text-stone-600">渋川駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ渋川駅→路線バス（30分）→伊香保バスターミナル下車、またはタクシー（15分）／関越自動車道・渋川伊香保ＩＣ～20分</td>
                 <td className="p-3 text-stone-600">車100台・バイクの方は屋根付き駐車場がございます。料金無料・予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★3.71（2118件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,700〜</td>
@@ -715,7 +715,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 嬉野温泉　旅館　初音荘</td>
                 <td className="p-3 text-stone-600">佐賀県嬉野市嬉野町岩屋川内甲340-1</td>
-                <td className="p-3 text-stone-600">武雄温泉駅周辺</td>
+                <td className="p-3 text-stone-600">『嬉野IC』より車で8分／『武雄温泉駅』より嬉野温泉までバスで30分＊平面駐車場完備でご家族マイカーでの来館も安心です。</td>
                 <td className="p-3 text-stone-600">有り　28台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.43（691件）</td>
                 <td className="p-3 font-bold text-rose-600">¥9,900〜</td>
@@ -724,7 +724,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 下呂温泉　小川屋</td>
                 <td className="p-3 text-stone-600">岐阜県下呂市湯之島570</td>
-                <td className="p-3 text-stone-600">下呂駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ高山線下呂駅下車(徒歩８分／中央道中津川ＩＣよりＲ２５７で５０ｋｍ</td>
                 <td className="p-3 text-stone-600">有り　８０台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.43（5006件）</td>
                 <td className="p-3 font-bold text-rose-600">¥9,680〜</td>
@@ -733,7 +733,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 原鶴温泉　ホテルパーレンス小野屋</td>
                 <td className="p-3 text-stone-600">福岡県朝倉市杷木久喜宮1841-1</td>
-                <td className="p-3 text-stone-600">筑後吉井駅周辺</td>
+                <td className="p-3 text-stone-600">福岡市内から約60分！大分自動車道・杷木ＩＣより約5分！名跡『秋月城址』まで車で30分、太宰府まで車で50分</td>
                 <td className="p-3 text-stone-600">無料100台有り■玄関前以外はバレーサービス■ハイルーフ・マイクロでも安心のアスファルト敷平面</td>
                 <td className="p-3 font-bold text-amber-600">★4.34（1955件）</td>
                 <td className="p-3 font-bold text-rose-600">¥9,350〜</td>
@@ -742,7 +742,7 @@ export default function FeatureDetailPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 古湯温泉　扇屋</td>
                 <td className="p-3 text-stone-600">佐賀県佐賀市富士町古湯873</td>
-                <td className="p-3 text-stone-600">佐賀駅周辺</td>
+                <td className="p-3 text-stone-600">佐賀大和ICよりお車にて15分、JR長崎本線佐賀駅→昭和バス乗車→古湯温泉前下車→徒歩3分</td>
                 <td className="p-3 text-stone-600">有り　２０台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.36（176件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,800〜</td>
@@ -771,7 +771,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>車100台・バイクの方は屋根付き駐車場がございます。料金無料・予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.79 ／ 立地 ★3.7 ／ 部屋 ★3.64 ／ 設備 ★3.49 ／ 風呂 ★3.71 ／ 食事 ★3.86</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「愛犬と部屋食を満喫、露天風呂も最高でした15歳のトイプードルと妻と一泊しました。外観は昔ながらの旅館ですが、部屋出しの食事、部屋の広さに満足です。そして、なんと言っても、部屋にある露天風呂…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「愛犬と部屋食を満喫、露天風呂も最高でした15歳のトイプードルと妻と一泊しました。外観は昔ながらの旅館ですが、部屋出しの食事、部屋の広さに満足です。」
                   </blockquote>
                 </div>
               </div>
@@ -793,7 +793,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　28台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.58 ／ 立地 ★4.12 ／ 部屋 ★4.37 ／ 設備 ★4.27 ／ 風呂 ★4.27 ／ 食事 ★4.45</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「改装され綺麗で、子連れや記念日に最適建物自体は古かっただったが、改装されていてとても綺麗だった子どもが喜ぶようなお宿で赤ちゃんにもサービスがたくさんでとても助かった結婚記念日のサプライ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「改装され綺麗で、子連れや記念日に最適建物自体は古かっただったが、改装されていてとても綺麗だった子どもが喜ぶようなお宿で赤ちゃんにもサービスがたくさんでとても助かった結婚記念日のサプライ。」
                   </blockquote>
                 </div>
               </div>
@@ -815,7 +815,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　８０台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.42 ／ 立地 ★4.46 ／ 部屋 ★4.35 ／ 設備 ★4.32 ／ 風呂 ★4.59 ／ 食事 ★4.48</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「料理も施設も素晴らしく、また利用したい初めての温泉、旅館。大満足でした。家族と一緒に夕食・朝食付きのプランを利用しましたが、また利用したくなるくらい料理も施設も素晴らしかったです。…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「料理も施設も素晴らしく、また利用したい初めての温泉、旅館。大満足でした。家族と一緒に夕食・朝食付きのプランを利用しましたが、また利用したくなるくらい料理も施設も素晴らしかったです。」
                   </blockquote>
                 </div>
               </div>
@@ -837,7 +837,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料100台有り■玄関前以外はバレーサービス■ハイルーフ・マイクロでも安心のアスファルト敷平面</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「館内は綺麗で料理が最高、また行きたい館内はリニューアルされていて綺麗でした。カーペットが少し汚れていたのと、ガラスが汚れていたのが残念です。料理は最高に美味しかったです。朝、晩御飯とも…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「館内は綺麗で料理が最高、また行きたい館内はリニューアルされていて綺麗でした。カーペットが少し汚れていたのと、ガラスが汚れていたのが残念です。料理は最高に美味しかったです。」
                   </blockquote>
                 </div>
               </div>
@@ -859,7 +859,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「とろける高級すき焼きと大自然のぬる湯夕飯はすき焼きのお肉にびっくり高級牛肉が5枚大きいお肉がとろけました温泉はトロッとしたぬる湯で湯当たりしません大自然の中ゆったり過ごせましたクチコミ。」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「とろける高級すき焼きと大自然のぬる湯夕飯はすき焼きのお肉にびっくり高級牛肉が5枚大きいお肉がとろけました温泉はトロッとしたぬる湯で湯当たりしません大自然の中ゆったり過ごせました。」
                   </blockquote>
                 </div>
               </div>

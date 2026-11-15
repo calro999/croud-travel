@@ -401,7 +401,7 @@ export default function AutumnBudgetHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 甲府駅北口　徒歩１分　ホテルニューステーション＜山梨県＞</td>
                 <td className="p-3 text-stone-600">山梨県甲府市北口1-4-15</td>
-                <td className="p-3 text-stone-600">甲府駅周辺</td>
+                <td className="p-3 text-stone-600">JR甲府駅北口より徒歩１分 甲府南ＩＣ及び甲府昭和ＩＣより車で約15分</td>
                 <td className="p-3 text-stone-600">有料駐車場9台600円・バイク500円（ご予約がない場合は先着順　満車の場合は近隣有料駐車場へ）</td>
                 <td className="p-3 font-bold text-amber-600">★3.47（1795件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,490〜</td>
@@ -410,7 +410,7 @@ export default function AutumnBudgetHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. ホテルクラウンヒルズ甲府　甲府駅前（ＢＢＨホテルグループ）</td>
                 <td className="p-3 text-stone-600">山梨県甲府市北口1-2-17</td>
-                <td className="p-3 text-stone-600">甲府駅周辺</td>
+                <td className="p-3 text-stone-600">JR甲府駅北口より、徒歩3分の好立地</td>
                 <td className="p-3 text-stone-600">駐車場１泊800円先着制10台まで</td>
                 <td className="p-3 font-bold text-amber-600">★3.49（1419件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,200〜</td>
@@ -419,7 +419,7 @@ export default function AutumnBudgetHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 東横ＩＮＮ甲府駅南口１</td>
                 <td className="p-3 text-stone-600">山梨県甲府市丸の内1-13-20</td>
-                <td className="p-3 text-stone-600">甲府駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ 甲府駅より徒歩７分</td>
                 <td className="p-3 text-stone-600">駐車場有　800〜1000円（税込／泊）満車時は徒歩5分の提携コインパーキングへのご案内となります。</td>
                 <td className="p-3 font-bold text-amber-600">★4.07（1286件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,355〜</td>
@@ -428,7 +428,7 @@ export default function AutumnBudgetHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 東横ＩＮＮ甲府駅南口２</td>
                 <td className="p-3 text-stone-600">山梨県甲府市丸の内２－３－２</td>
-                <td className="p-3 text-stone-600">甲府駅周辺</td>
+                <td className="p-3 text-stone-600">電車：JR甲府駅南口より徒歩1分／車：中央道甲府南ICから15分</td>
                 <td className="p-3 text-stone-600">立体64台・平置6台（うち車いす優先1台・要予約）先着順 ￥1000／泊・時間外￥100／時</td>
                 <td className="p-3 font-bold text-amber-600">★3.95（1072件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,618〜</td>
@@ -437,7 +437,7 @@ export default function AutumnBudgetHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. トラベルイン甲府</td>
                 <td className="p-3 text-stone-600">山梨県甲府市丸の内3-19-10</td>
-                <td className="p-3 text-stone-600">甲府駅周辺</td>
+                <td className="p-3 text-stone-600">JR中央本線甲府駅徒歩10分、中央道甲府昭和ICから車で10分</td>
                 <td className="p-3 text-stone-600">有り　19台　500円（税込み／泊）</td>
                 <td className="p-3 font-bold text-amber-600">★3.64（135件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,310〜</td>
@@ -510,7 +510,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>駐車場有　800〜1000円（税込／泊）満車時は徒歩5分の提携コインパーキングへのご案内となります。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.09 ／ 立地 ★3.98 ／ 部屋 ★4.08 ／ 設備 ★3.99 ／ 風呂 ★3.93 ／ 食事 ★3.99</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「エアウィーヴとリファ完備で快適な空間プレミアムプラスルームに1泊しましたが、ベッドもピローもエアウィーブで快適でした!リファのドライヤーとカールアイロンも良かったですね。お部屋は清潔感がありも…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「エアウィーヴとリファ完備で快適な空間プレミアムプラスルームに1泊しましたが、ベッドもピローもエアウィーブで快適でした!リファのドライヤーとカールアイロンも良かったですね。」
                   </blockquote>
                 </div>
               </div>
@@ -554,7 +554,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　19台　500円（税込み／泊）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.83 ／ 立地 ★3.6 ／ 部屋 ★3.57 ／ 設備 ★3.43 ／ 風呂 ★3.38 ／ 食事 ★3.91</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「コスパ抜群、手作り朝食と地ビールが最高ちょっと奥まった場所ですが、駅から徒歩でも問題ありません。設備は最低限ですが、「こちらで片付けるのでそのまま置いておいてもらって大丈夫です」というサービス精神…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「コスパ抜群、手作り朝食と地ビールが最高ちょっと奥まった場所ですが、駅から徒歩でも問題ありません。」
                   </blockquote>
                 </div>
               </div>

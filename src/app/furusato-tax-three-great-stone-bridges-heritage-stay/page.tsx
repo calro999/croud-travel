@@ -66,7 +66,7 @@ export default function Page() {
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/165115/165115map.gif",
     "reviewCount": 331,
     "reviewAverage": 4.31,
-    "userReview": "清潔で設備充実、快適な滞在でしたトイレとお風呂が場所は一緒ですが、別でした。部屋はとても綺麗で壁紙も素敵でした。足のマッサージ機もあって至れり尽くせり。ありがとうございました。クチコミの詳細は。",
+    "userReview": "清潔で設備充実、快適な滞在でしたトイレとお風呂が場所は一緒ですが、別でした。部屋はとても綺麗で壁紙も素敵でした。足のマッサージ機もあって至れり尽くせり。ありがとうございました。",
     "hotelMinCharge": 5450,
     "address1": "長崎県",
     "address2": "諫早市多良見町化屋331-1",
@@ -436,8 +436,8 @@ export default function Page() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 長崎（長崎）駅よりアクセス。ＪＲ長崎駅から車で5分。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「ホテルモントレ長崎」にチェックイン。グラバー園に程近いオランダ通りに面した白いホテル。 全室Wi-Fi / 加湿機能付空気清浄器完備などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「ホテルモントレ長崎」の湯処へ。グラバー園に程近いオランダ通りに面した白いホテル。 全室Wi-Fi /とともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「ホテルモントレ長崎」にチェックイン。グラバー園に程近いオランダ通りに面した白いホテル。 まずは客室で移動の疲れをそっと癒やす。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「ホテルモントレ長崎」の自慢の湯処へ。温かな湯気と落ち着いた雰囲気に癒やされながら、夕食前の贅沢なひとときを過ごす。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「ホテルモントレ長崎」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -449,7 +449,7 @@ export default function Page() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「ホテルモントレ長崎」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「ホテルモントレ長崎」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「喜々津ステーションホテル」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は宿周辺の散策とショッピングを満喫。地元の名産品やグルメを味わってから余裕をもって帰路につく。</li>
               </ul>
             </div>
           </div>
@@ -550,7 +550,7 @@ export default function Page() {
       </main>
 
       {/* フッター */}
-      <footer className="bg-slate-900 text-slate-400 py-8 px-4 text-xs text-center border-t border-slate-800 mt-16">
+      <footer className="bg-slate-900 text-slate-200 py-8 px-4 text-xs text-center border-t border-slate-800 mt-16">
         <div className="max-w-5xl mx-auto space-y-3">
           <p>© 2026 トラベルポータル All Rights Reserved. 掲載の宿情報・画像は楽天トラベルAPIより取得しています。</p>
           <p>ふるさと納税クーポンの利用条件や最新の空室状況は楽天トラベル公式サイトをご確認ください。</p>

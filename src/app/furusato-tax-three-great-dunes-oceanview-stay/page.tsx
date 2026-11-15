@@ -338,7 +338,7 @@ export default function FurusatoUpgradedPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 定山渓温泉　定山渓第一寶亭留　翠山亭</td>
                 <td className="p-3 text-stone-600">北海道札幌市南区定山渓温泉西3-105</td>
-                <td className="p-3 text-stone-600">札幌</td>
+                <td className="p-3 text-stone-600">札幌より無料送迎バス運行（要予約）／ＪＲ札幌駅より車で60分／新千歳空港より車で約2時間</td>
                 <td className="p-3 text-stone-600">有り　１00台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.48（1522件）</td>
                 <td className="p-3 font-bold text-rose-600">¥16,286〜</td>
@@ -374,7 +374,7 @@ export default function FurusatoUpgradedPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. ホテルニューオータニ博多</td>
                 <td className="p-3 text-stone-600">福岡県福岡市中央区渡辺通1-1-2</td>
-                <td className="p-3 text-stone-600">博多</td>
+                <td className="p-3 text-stone-600">地下鉄七隈線「渡辺通駅」2番出口より徒歩約1分。ＪＲ博多駅より車で約5分。福岡空港より車で約20分。</td>
                 <td className="p-3 text-stone-600">有り／370台／１泊(入庫時間より24時間）／1500円（税込み）</td>
                 <td className="p-3 font-bold text-amber-600">★4.41（3622件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,500〜</td>

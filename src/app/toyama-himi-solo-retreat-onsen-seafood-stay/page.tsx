@@ -341,8 +341,8 @@ export default function ArticlePage() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 氷見駅よりアクセス。ＪＲ氷見駅よりお車で約１５分／灘浦ＩＣより約3分／小杉ＩＣより約５０分。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「氷見温泉郷 くつろぎの宿 うみあかり」にチェックイン。朝夕に輝く富山湾の海や雄大な立山連峰の自然の景色の中で氷見の海の幸・山の幸を堪能。などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「氷見温泉郷 くつろぎの宿 うみあかり」の湯処へ。朝夕に輝く富山湾の海や雄大な立山連峰の自然の景色の中で氷見の海の幸・山とともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「氷見温泉郷 くつろぎの宿 うみあかり」にチェックイン。朝夕に輝く富山湾の海や雄大な立山連峰の自然の景色の中で氷見の海の幸・山の幸を堪能。 客室で身支度を整え、この宿ならではの滞在をスタート。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「氷見温泉郷 くつろぎの宿 うみあかり」の自慢の湯処へ。温かな湯気と落ち着いた雰囲気に癒やされながら、夕食前の贅沢なひとときを過ごす。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「氷見温泉郷 くつろぎの宿 うみあかり」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -354,7 +354,7 @@ export default function ArticlePage() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「氷見温泉郷 くつろぎの宿 うみあかり」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「氷見温泉郷 くつろぎの宿 うみあかり」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「氷見温泉郷 魚巡りの宿 永芳閣」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は宿周辺の散策とショッピングを満喫。地元の名産品やグルメを味わってから余裕をもって帰路につく。</li>
               </ul>
             </div>
           </div>
@@ -391,28 +391,28 @@ export default function ArticlePage() {
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
             <div className="flex flex-wrap gap-2">
               <Link
-                href="/prefectures/kyoto/"
+                href="/prefectures/toyama/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                京都府の宿・温泉
+                富山県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/shimane/"
+                href="/prefectures/nagano/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                島根県の宿・温泉
+                長野県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/aichi/"
+                href="/prefectures/yamanashi/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                愛知県の宿・温泉
+                山梨県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/miyazaki/"
+                href="/prefectures/niigata/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                宮崎県の宿・温泉
+                新潟県の宿・温泉
               </Link>
             </div>
           </div>
@@ -448,7 +448,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 氷見温泉郷　民宿すがた</td>
                 <td className="p-3 text-stone-600">富山県氷見市阿尾653</td>
-                <td className="p-3 text-stone-600">氷見駅周辺</td>
+                <td className="p-3 text-stone-600">氷見駅よりお車で５分</td>
                 <td className="p-3 text-stone-600">２０台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.63（40件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,200〜</td>
@@ -457,7 +457,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 氷見温泉郷　くつろぎの宿　うみあかり</td>
                 <td className="p-3 text-stone-600">富山県氷見市宇波10-1</td>
-                <td className="p-3 text-stone-600">氷見駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ氷見駅よりお車で約１５分／灘浦ＩＣより約3分／小杉ＩＣより約５０分</td>
                 <td className="p-3 text-stone-600">有り　７０台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.39（1906件）</td>
                 <td className="p-3 font-bold text-rose-600">¥19,360〜</td>
@@ -466,7 +466,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 氷見温泉郷　魚巡りの宿　永芳閣（ＢＢＨホテルグループ）</td>
                 <td className="p-3 text-stone-600">富山県氷見市阿尾3257</td>
-                <td className="p-3 text-stone-600">氷見駅周辺</td>
+                <td className="p-3 text-stone-600">【ＪＲ】氷見線 氷見駅から車で１０分（無料送迎あり）/【車】北陸（東海北陸）自動車道⇒能越自動車道 氷見北ＩＣより５分</td>
                 <td className="p-3 text-stone-600">無料　屋内60台　お車、バイクのお客様は旅館の正面までお越し下さい。係がご案内いたします。</td>
                 <td className="p-3 font-bold text-amber-600">★4.4（1667件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,200〜</td>
@@ -495,7 +495,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>２０台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.6 ／ 立地 ★4.63 ／ 部屋 ★4.53 ／ 設備 ★4.31 ／ 風呂 ★4.33 ／ 食事 ★4.81</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「舟盛りと接客に大満足女子2人、舟盛りプランで宿泊。質も量も大満足。接客もとても良かった。部屋は古いけど、壁を綺麗な色に塗ったりエアコンも良いものを入れたりで良かった。清掃も行き届いてい…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「舟盛りと接客に大満足女子2人、舟盛りプランで宿泊。質も量も大満足。接客もとても良かった。部屋は古いけど、壁を綺麗な色に塗ったりエアコンも良いものを入れたりで良かった。」
                   </blockquote>
                 </div>
               </div>
@@ -517,7 +517,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　７０台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.34 ／ 立地 ★4.47 ／ 部屋 ★4.37 ／ 設備 ★4.16 ／ 風呂 ★4.38 ／ 食事 ★4.54</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「氷見駅までバスで送迎していただきホテルに行きました。チェックイン時間になっていませんでしたが、チェックインしていただきお部屋にも入らせてもらいました。ホテルのフロントの方の説明が丁寧でわかりや…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「氷見駅までバスで送迎していただきホテルに行きました。チェックイン時間になっていませんでしたが、チェックインしていただきお部屋にも入らせてもらいました。」
                   </blockquote>
                 </div>
               </div>
@@ -539,7 +539,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料　屋内60台　お車、バイクのお客様は旅館の正面までお越し下さい。係がご案内いたします。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「貸切風呂と美味しい食事に大満足の旅前日に特別警報が出ていたので行くかギリギリまで悩み、被害状況など宿に確認し、当日伺いましたが行って大正解の宿でした!(お電話で状況を確認した時もとても丁寧に教…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「貸切風呂と美味しい食事に大満足の旅前日に特別警報が出ていたので行くかギリギリまで悩み、被害状況など宿に確認し、当日伺いましたが行って大正解の宿でした!」
                   </blockquote>
                 </div>
               </div>

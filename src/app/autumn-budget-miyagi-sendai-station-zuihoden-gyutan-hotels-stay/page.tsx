@@ -401,7 +401,7 @@ export default function AutumnBudgetHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. ＫＯＫＯ　ＨＯＴＥＬ　仙台駅前　Ｓｏｕｔｈ</td>
                 <td className="p-3 text-stone-600">宮城県仙台市青葉区中央 4-7-1</td>
-                <td className="p-3 text-stone-600">仙台駅周辺</td>
+                <td className="p-3 text-stone-600">仙台駅西口より徒歩7分</td>
                 <td className="p-3 text-stone-600">無し　提携駐車場エンタツパーキング16:00～翌11:00 ￥1,200（割引適用後）</td>
                 <td className="p-3 font-bold text-amber-600">★3.88（580件）</td>
                 <td className="p-3 font-bold text-rose-600">¥2,340〜</td>
@@ -410,7 +410,7 @@ export default function AutumnBudgetHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. ＫＯＫＯ　ＨＯＴＥＬ　仙台駅前　Ｗｅｓｔ</td>
                 <td className="p-3 text-stone-600">宮城県仙台市青葉区中央3-8-27</td>
-                <td className="p-3 text-stone-600">仙台駅周辺</td>
+                <td className="p-3 text-stone-600">仙台駅西口より徒歩5分</td>
                 <td className="p-3 text-stone-600">無し</td>
                 <td className="p-3 font-bold text-amber-600">★4.17（574件）</td>
                 <td className="p-3 font-bold text-rose-600">¥2,340〜</td>
@@ -419,7 +419,7 @@ export default function AutumnBudgetHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 天然温泉　萩の湯　ドーミーイン仙台駅前（ドーミーイン・御宿野乃　ホテルズグループ）</td>
                 <td className="p-3 text-stone-600">宮城県仙台市青葉区本町1-5-38</td>
-                <td className="p-3 text-stone-600">仙台駅周辺</td>
+                <td className="p-3 text-stone-600">JR仙台駅西口より徒歩約5分。東北道宮城ＩＣより１５分。仙台空港線で約３０分。高速バス停留所より徒歩２分。駅前通沿い。</td>
                 <td className="p-3 text-stone-600">平面駐車場１泊2,000円(15台分)高さ２．３ｍ以下まで（要電話予約）満車時は近隣駐車場案内</td>
                 <td className="p-3 font-bold text-amber-600">★4.2（5694件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,600〜</td>
@@ -448,7 +448,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無し　提携駐車場エンタツパーキング16:00～翌11:00 ￥1,200（割引適用後）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近で利便性は高い総合的に安く駅近で利用できる、程よく綺麗なホテルだと思います。几帳面なフィルターをかけると、以下が気になります。リノベーションされていますが設備が古いので受付や廊下は…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近で利便性は高い総合的に安く駅近で利用できる、程よく綺麗なホテルだと思います。几帳面なフィルターをかけると、以下が気になります。」
                   </blockquote>
                 </div>
               </div>
@@ -470,7 +470,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無し</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近で荷物預かりも便利、お出汁と枕に癒やされる駅からのアクセスが良く便利でチェックイン、アウト前後の荷物預かりも大変助かりました。フロントから頂いたお出汁は外食続きの胃に優しいしとても美味…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近で荷物預かりも便利、お出汁と枕に癒やされる駅からのアクセスが良く便利でチェックイン、アウト前後の荷物預かりも大変助かりました。」
                   </blockquote>
                 </div>
               </div>

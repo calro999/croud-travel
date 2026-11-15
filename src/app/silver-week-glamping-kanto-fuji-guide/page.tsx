@@ -387,49 +387,49 @@ export default function SilverWeekGlampingKantoFujiPage() {
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">あわせて読みたい人気特集＆全国エリアガイド</h2>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
-            <a href="/furusato-tax-miyagi-matsushima-shiogama-kaki-autumn-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/shimonoseki-solo-business-fugu-kaikyo-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">日本三景・松島＆塩竈の秋！松島湾の紅葉ライトアップ・解禁松島牡蠣＆極上三陸海鮮</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「下関出張・男一人旅」天然温泉関門の湯・関門海峡パノラマ・本場下関ふく料理！本州最西端の海峡拠点でととのう厳選3宿</span>
             </a>
-            <a href="/miyagi-matsushima-shiogama-bay-seafood-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/shizuoka-solo-business-maguro-fujiview-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">宮城・松島＆塩竈：日本三景松島・塩竈生マグロ＆焼き牡蠣温泉宿 厳選ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「静岡出張＆富士山ひとり旅」新幹線直結・清水港まぐろ・静岡茶ラウンジ！名峰の絶景に癒やされる極上ホテル 厳選3選</span>
             </a>
-            <a href="/traditional-sendai-beef-tan-gourmet-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/silver-week-glamping-sea-kayak-marine-guide/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">2026最新：極上厚切り牛タン炭火焼き＆A5仙台牛会席！宮城・秋保＆松島の名湯美食宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「海グランピング SUP＆シーカヤック体験」秋のビーチ直結！波音を聞いて眠るウォーターフロントリゾート</span>
             </a>
-            <a href="/winter-miyagi-sakunami-onsen-yukimi-sendai-beef-serinabe-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/spring-yamanashi-koshu-wine-beef-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12月宮城・作並温泉＆仙台奥座敷の初冬広瀬川雪見露天と美女づくりの湯】極上A5仙台牛ステーキ＆名物仙台せり鍋会席を味わう老舗宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「甲州ワインビーフ＆勝沼ワイナリー」芳醇ワインペアリングと石和温泉の美食宿5選</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
             <div className="flex flex-wrap gap-2">
               <Link
-                href="/prefectures/kochi/"
+                href="/prefectures/kyoto/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                高知県の宿・温泉
+                京都府の宿・温泉
               </Link>
               <Link
-                href="/prefectures/shizuoka/"
+                href="/prefectures/osaka/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                静岡県の宿・温泉
+                大阪府の宿・温泉
               </Link>
               <Link
-                href="/prefectures/akita/"
+                href="/prefectures/hyogo/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                秋田県の宿・温泉
+                兵庫県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/miyagi/"
+                href="/prefectures/nara/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                宮城県の宿・温泉
+                奈良県の宿・温泉
               </Link>
             </div>
           </div>
@@ -465,7 +465,7 @@ export default function SilverWeekGlampingKantoFujiPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 全室富士山ビュー　ビジョングランピングリゾート山中湖</td>
                 <td className="p-3 text-stone-600">山梨県南都留郡山中湖村山中字栗木林１３８５－４３</td>
-                <td className="p-3 text-stone-600">富士吉田駅周辺</td>
+                <td className="p-3 text-stone-600">富士山駅からバスで30分／山中湖ICより車で5分／河口湖ICより車で15分／御殿場ICより車で30分</td>
                 <td className="p-3 text-stone-600">無料（20台、予約不要）　無料送迎あり（富士山駅・富士山山中湖バス停付近）</td>
                 <td className="p-3 font-bold text-amber-600">★4.84（278件）</td>
                 <td className="p-3 font-bold text-rose-600">¥21,590〜</td>
@@ -474,7 +474,7 @@ export default function SilverWeekGlampingKantoFujiPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. Ｄｏｔ　Ｇｌａｍｐｉｎｇ　富士山</td>
                 <td className="p-3 text-stone-600">山梨県南都留郡富士河口湖町大石2872-65</td>
-                <td className="p-3 text-stone-600">河口湖駅周辺</td>
+                <td className="p-3 text-stone-600">河口湖駅よりお車にて約１７分</td>
                 <td className="p-3 text-stone-600">有り　7台（各グループ1台まで）</td>
                 <td className="p-3 font-bold text-amber-600">★4.32（226件）</td>
                 <td className="p-3 font-bold text-rose-600">¥10,350〜</td>
@@ -483,7 +483,7 @@ export default function SilverWeekGlampingKantoFujiPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. Ｇｏｄｅｒｅ　ｈｏｔｅｌ　富士山中湖　Ｔａｂｉｓｔ</td>
                 <td className="p-3 text-stone-600">山梨県南都留郡山中湖村平野3201</td>
-                <td className="p-3 text-stone-600">河口湖駅周辺</td>
+                <td className="p-3 text-stone-600">富士山山中湖（ホテルマウント富士）バス停より車で約５分。14時半から17時は事前連絡で無料送迎可能</td>
                 <td className="p-3 text-stone-600">有り　28台　無料　屋外駐車場です。</td>
                 <td className="p-3 font-bold text-amber-600">★3.15（20件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,600〜</td>
@@ -492,7 +492,7 @@ export default function SilverWeekGlampingKantoFujiPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. Ｍｔ．Ｆｕｊｉグランピングテラス嶺乃華　＾</td>
                 <td className="p-3 text-stone-600">山梨県南都留郡富士河口湖町河口2044　Ｍｔ．Ｆｕｊｉグランピングテラス嶺乃華</td>
-                <td className="p-3 text-stone-600">河口湖駅周辺</td>
+                <td className="p-3 text-stone-600">河口湖駅から車で約１４分</td>
                 <td className="p-3 text-stone-600">駐車場 敷地内有(第2駐車場もあり)</td>
                 <td className="p-3 font-bold text-amber-600">高評価</td>
                 <td className="p-3 font-bold text-rose-600">¥29,000〜</td>
@@ -501,7 +501,7 @@ export default function SilverWeekGlampingKantoFujiPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 猫穴グランピング　＾</td>
                 <td className="p-3 text-stone-600">山梨県南都留郡富士河口湖町船津字猫穴3554-1　猫穴グランピング</td>
-                <td className="p-3 text-stone-600">河口湖駅周辺</td>
+                <td className="p-3 text-stone-600">富士急ハイランド駅から車で約１１分</td>
                 <td className="p-3 text-stone-600">有り</td>
                 <td className="p-3 font-bold text-amber-600">高評価</td>
                 <td className="p-3 font-bold text-rose-600">¥87,928〜</td>
@@ -552,7 +552,7 @@ export default function SilverWeekGlampingKantoFujiPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　7台（各グループ1台まで）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「富士山を望む朝サウナと豪華なBBQに大満足朝イチに見た富士山が最高でした富士山を眺めながらの朝サウナも贅沢で、気持ちよかったです!夕食もとても豪華で、BBQも楽しめて大満足景色も食…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「富士山を望む朝サウナと豪華なBBQに大満足朝イチに見た富士山が最高でした富士山を眺めながらの朝サウナも贅沢で、気持ちよかったです!」
                   </blockquote>
                 </div>
               </div>
@@ -574,7 +574,7 @@ export default function SilverWeekGlampingKantoFujiPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　28台　無料　屋外駐車場です。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.24 ／ 立地 ★3.55 ／ 部屋 ★3.1 ／ 設備 ★3 ／ 風呂 ★2.7</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋から富士山を眺め、夕食のうなぎも堪能富士山ビューツインに宿泊しました。今回は朝食付きで予約していたのですが、夕食のうなぎコースがあると聞いて、せっかくなので追加でいただきました。思っていた…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋から富士山を眺め、夕食のうなぎも堪能富士山ビューツインに宿泊しました。今回は朝食付きで予約していたのですが、夕食のうなぎコースがあると聞いて、せっかくなので追加でいただきました。」
                   </blockquote>
                 </div>
               </div>

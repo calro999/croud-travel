@@ -76,7 +76,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F2370%2F2370.html%26f_flg%3DPLAN",
     "hotelMinCharge": 7700,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/2370/2370.jpg",
-    "userReview": "大満足!生後9ヶ月の子供を連れて泊まりにいかせていただきました!もう全てにおいて大満足でした!ウェルカムドリンクも夕食も朝食も貸切露天風呂もお部屋も!また泊まりたいと思える宿でし。",
+    "userReview": "大満足!生後9ヶ月の子供を連れて泊まりにいかせていただきました!もう全てにおいて大満足でした!ウェルカムドリンクも夕食も朝食も貸切露天風呂もお部屋も!また泊まりたいと思える宿でした。",
     "reviewAverage": 4.68,
     "reviewCount": 528,
     "address": "群馬県利根郡みなかみ町湯桧曽93",
@@ -90,7 +90,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F31064%2F31064.html%26f_flg%3DPLAN",
     "hotelMinCharge": 23100,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/31064/31064.jpg",
-    "userReview": "温泉旅館　芝川苑ならではの立地と落ち着いた空間で、ゆったりとした滞在を楽しめたという声が寄せられています。",
+    "userReview": "温泉旅館 芝川苑ならではの立地と落ち着いた空間で、ゆったりとした滞在を楽しめたという声が寄せられています。",
     "reviewAverage": 5,
     "reviewCount": 29,
     "address": "静岡県富士宮市内房919-1",
@@ -104,7 +104,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F107813%2F107813.html%26f_flg%3DPLAN",
     "hotelMinCharge": 11000,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/107813/107813.jpg",
-    "userReview": "旦那の誕生日で利用させていただきましたが、チェックインの瞬間から「また絶対来ようね!」と2人で言うほどとてもいい旅館でした!館内の清潔感はもちろんのとこ、ご飯もとてもおいしくお腹いっぱい食べれまし。",
+    "userReview": "旦那の誕生日で利用させていただきましたが、チェックインの瞬間から「また絶対来ようね!」と2人で言うほどとてもいい旅館でした!館内の清潔感はもちろんのとこ、ご飯もとてもおいしくお腹いっぱい食べれました。",
     "reviewAverage": 4.82,
     "reviewCount": 654,
     "address": "熊本県人吉市温泉町2461-1",
@@ -132,7 +132,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F142863%2F142863.html%26f_flg%3DPLAN",
     "hotelMinCharge": 25410,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/142863/142863.jpg",
-    "userReview": "暖炉が特にお気に入りで、時間を忘れてリラックスできました。",
+    "userReview": "暖炉でリラックス、コップも欲しかったどこも不満がなく大満足です。暖炉が特にお気に入りで、時間を忘れてリラックスできました。1つ不満があるとすれば、部屋にあるコップを購入したかったです。",
     "reviewAverage": 4.41,
     "reviewCount": 147,
     "address": "北海道虻田郡ニセコ町ニセコ393",
@@ -283,8 +283,8 @@ export default function Page() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 上毛高原駅よりアクセス。車：水上ICから約15分 車以外：上越線ゆびそ駅より徒歩5分、又は水上駅よりバス・タクシーで約10分。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「水上温泉郷 湯檜曽温泉 天空の湯 なかや旅館」にチェックイン。4万組以上のママパパに選ばれた赤ちゃんファーストの温泉宿★安心の設備でママもほっと一息できる癒し時間などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「水上温泉郷 湯檜曽温泉 天空の湯 なかや旅館」の湯処へ。4万組以上のママパパに選ばれた赤ちゃんファーストの温泉宿★安心の設備でとともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「水上温泉郷 湯檜曽温泉 天空の湯 なかや旅館」にチェックイン。4万組以上のママパパに選ばれた赤ちゃんファーストの温泉宿★安心の設備でママもほっと一息できる癒し時間が魅力の一軒。客室で荷物をほどいて穏やかな午後のひとときを。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「水上温泉郷 湯檜曽温泉 天空の湯 なかや旅館」の自慢の湯処へ。温かな湯気と落ち着いた雰囲気に癒やされながら、夕食前の贅沢なひとときを過ごす。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「水上温泉郷 湯檜曽温泉 天空の湯 なかや旅館」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -296,7 +296,7 @@ export default function Page() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「水上温泉郷 湯檜曽温泉 天空の湯 なかや旅館」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「水上温泉郷 湯檜曽温泉 天空の湯 なかや旅館」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「温泉旅館 芝川苑」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は「水上温泉郷 湯檜曽温泉 天空の湯 なかや旅館」周辺の観光スポットや地元の名産店に立ち寄り、ご当地のお土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>
@@ -424,7 +424,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 水上温泉郷　湯檜曽温泉　天空の湯　なかや旅館</td>
                 <td className="p-3 text-stone-600">群馬県利根郡みなかみ町湯桧曽93</td>
-                <td className="p-3 text-stone-600">上毛高原駅周辺</td>
+                <td className="p-3 text-stone-600">車：水上ICから約15分 車以外：上越線ゆびそ駅より徒歩5分、又は水上駅よりバス・タクシーで約10分</td>
                 <td className="p-3 text-stone-600">有り　16台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.68（531件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,800〜</td>
@@ -433,7 +433,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 温泉旅館　芝川苑</td>
                 <td className="p-3 text-stone-600">静岡県富士宮市内房919-1</td>
-                <td className="p-3 text-stone-600">第二東名 新清水ICより10分以内。　JR東海道線富士宮駅より、タクシ</td>
+                <td className="p-3 text-stone-600">第二東名 新清水ICより10分以内。 JR東海道線富士宮駅より、タクシーで15分ほど。</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★5（29件）</td>
                 <td className="p-3 font-bold text-rose-600">¥23,100〜</td>
@@ -442,7 +442,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. ひとよし温泉　旅館　翠嵐楼（すいらんろう）</td>
                 <td className="p-3 text-stone-600">熊本県人吉市温泉町2461-1</td>
-                <td className="p-3 text-stone-600">人吉駅周辺</td>
+                <td className="p-3 text-stone-600">鹿児島空港から高速バスで1時間。ＪＲ人吉駅から車で7分。高速道人吉インターチェンジから車で10分。</td>
                 <td className="p-3 text-stone-600">≪無料パーキングは最大50台♪≫ ※予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.79（679件）</td>
                 <td className="p-3 font-bold text-rose-600">¥12,100〜</td>
@@ -451,7 +451,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. １１種類の貸切露天風呂　水上高原／奥利根温泉　ホテルサンバード</td>
                 <td className="p-3 text-stone-600">群馬県利根郡みなかみ町藤原4957-1</td>
-                <td className="p-3 text-stone-600">水上駅周辺</td>
+                <td className="p-3 text-stone-600">車で関越自動車道・水上ＩＣから３０分・ＪＲで上越線 水上駅より 湯ノ小屋行きバスで藤原スキー場入口下車900M</td>
                 <td className="p-3 text-stone-600">有り ３００台 無料 先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.04（825件）</td>
                 <td className="p-3 font-bold text-rose-600">¥9,900〜</td>
@@ -460,7 +460,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. ニセコ昆布温泉鶴雅別荘　杢の抄</td>
                 <td className="p-3 text-stone-600">北海道虻田郡ニセコ町ニセコ393</td>
-                <td className="p-3 text-stone-600">ＪＲニセコ駅より車で約15分／JR「ニセコ駅」より無料送迎バスを運行し</td>
+                <td className="p-3 text-stone-600">ＪＲニセコ駅より車で約15分／JR「ニセコ駅」より無料送迎バスを運行しております（ご宿泊前日20時までに要予約）</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.41（147件）</td>
                 <td className="p-3 font-bold text-rose-600">¥25,410〜</td>
@@ -533,7 +533,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>≪無料パーキングは最大50台♪≫ ※予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.82 ／ 立地 ★4.78 ／ 部屋 ★4.79 ／ 設備 ★4.8 ／ 風呂 ★4.82 ／ 食事 ★4.81</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「すべてが素晴らしく、温泉コーヒーも絶品夫婦2人でお世話になりました。従業員の対応、食事、温泉、設備の清潔さがすべてにおいて素晴らしいです。はじめて人吉に来訪しましたがとても良い思い出となりました。…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「すべてが素晴らしく、温泉コーヒーも絶品夫婦2人でお世話になりました。従業員の対応、食事、温泉、設備の清潔さがすべてにおいて素晴らしいです。はじめて人吉に来訪しましたがとても良い思い出となりました。」
                   </blockquote>
                 </div>
               </div>
@@ -555,7 +555,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り ３００台 無料 先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.03 ／ 立地 ★4.08 ／ 部屋 ★3.94 ／ 設備 ★3.75 ／ 風呂 ★4.19 ／ 食事 ★4.16</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「シルバーウィークにこの内容でみなかみでのラフティング目的で近くの宿を探し、シルバーウィークど真ん中なのにとてもお安く泊まれて、食事など正直あまり期待していなかったのですが良い意味で裏切られまし…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「シルバーウィークにこの内容でみなかみでのラフティング目的で近くの宿を探し、シルバーウィークど真ん中なのにとてもお安く泊まれて、食事など正直あまり期待していなかったのですが良い意味で裏切られました。」
                   </blockquote>
                 </div>
               </div>
@@ -577,7 +577,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「暖炉でリラックス、コップも欲しかったどこも不満がなく大満足です。暖炉が特にお気に入りで、時間を忘れてリラックスできました。1つ不満があるとすれば、部屋にあるコップを購入したかったです。…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「暖炉でリラックス、コップも欲しかったどこも不満がなく大満足です。暖炉が特にお気に入りで、時間を忘れてリラックスできました。1つ不満があるとすれば、部屋にあるコップを購入したかったです。」
                   </blockquote>
                 </div>
               </div>

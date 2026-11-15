@@ -304,7 +304,7 @@ export default function LuxuryStayPage() {
 
               <div className="bg-slate-50 p-4 rounded-xl border-l-4 border-amber-500 text-xs md:text-sm text-slate-600 italic mb-6">
                 <span className="font-bold text-slate-700 not-italic block mb-1">宿泊者のクチコミ体験談</span>
-                「スタッフの細やかな配慮と優雅なひとときスタッフの方の気持ちの良い接客が素晴らしかったです。ベイスィートの宿泊でしたが、12時のチェックアウト後も電車の時間までホテル内やエスパーニャクルーズの乗… つづきはこちら」
+                「スタッフの細やかな配慮と優雅なひとときスタッフの方の気持ちの良い接客が素晴らしかったです。」
               </div>
 
               <div className="pt-2">
@@ -368,7 +368,7 @@ export default function LuxuryStayPage() {
 
               <div className="bg-slate-50 p-4 rounded-xl border-l-4 border-amber-500 text-xs md:text-sm text-slate-600 italic mb-6">
                 <span className="font-bold text-slate-700 not-italic block mb-1">宿泊者のクチコミ体験談</span>
-                「食事も館内ツアーも最高、ゆったり流れる時間ディナーも朝食も完璧でした。いつもながらに「時間がゆったりと流れる」リゾートを味わいました。朝9時からの館内ツアーもとても楽しかったです。クチコミの詳… つづきはこちら」
+                「食事も館内ツアーも最高、ゆったり流れる時間ディナーも朝食も完璧でした。いつもながらに「時間がゆったりと流れる」リゾートを味わいました。朝9時からの館内ツアーもとても楽しかったです。」
               </div>
 
               <div className="pt-2">

@@ -253,7 +253,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 中村プリンスホテル</td>
                 <td className="p-3 text-stone-600">高知県四万十市中村弥生町4-1</td>
-                <td className="p-3 text-stone-600">中村駅周辺</td>
+                <td className="p-3 text-stone-600">中村駅より車で約５分(駅ご到着時,お電話頂きましたらタクシー《有料》をお呼び致します)</td>
                 <td className="p-3 text-stone-600">ご宿泊者様は皆様駐車可能（場所は先着順・無料です。ご予約は承っておりません。ご了承下さいませ）</td>
                 <td className="p-3 font-bold text-amber-600">★3.88（1125件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,700〜</td>
@@ -262,7 +262,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. ゆのごう温泉　ホテル湯の杜（旧：ホテル湯の杜美春閣）</td>
                 <td className="p-3 text-stone-600">岡山県美作市中山1144</td>
-                <td className="p-3 text-stone-600">林野駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ姫新線 林野駅より車で１０分 中国自動車道 美作インターより車で15分</td>
                 <td className="p-3 text-stone-600">有り　８０台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.64（1289件）</td>
                 <td className="p-3 font-bold text-rose-600">¥12,300〜</td>
@@ -271,7 +271,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 新安並温泉　なごみ宿　安住庵</td>
                 <td className="p-3 text-stone-600">高知県四万十市中村1815為松公園頂上</td>
-                <td className="p-3 text-stone-600">中村駅周辺</td>
+                <td className="p-3 text-stone-600">土佐くろしお鉄道中村駅下車 タクシーで約１０分（徒歩４０分） / 高知自動車道四万十町中央ICより国道５６号線で約６０分</td>
                 <td className="p-3 text-stone-600">有り　１５台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.57（194件）</td>
                 <td className="p-3 font-bold text-rose-600">¥15,000〜</td>
@@ -280,7 +280,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 土佐御苑(とさぎょえん)</td>
                 <td className="p-3 text-stone-600">高知県高知市大川筋1-4-8</td>
-                <td className="p-3 text-stone-600">高知駅周辺</td>
+                <td className="p-3 text-stone-600">高知ICよりお車で１０分 高知駅より徒歩５分 高知空港よりお車で３０分</td>
                 <td className="p-3 text-stone-600">駐車料金：普通車1100円・二輪800円</td>
                 <td className="p-3 font-bold text-amber-600">★4.26（2159件）</td>
                 <td className="p-3 font-bold text-rose-600">¥11,550〜</td>
@@ -289,7 +289,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. あしずり温泉郷　足摺国際ホテル</td>
                 <td className="p-3 text-stone-600">高知県土佐清水市足摺岬662</td>
-                <td className="p-3 text-stone-600">高知自動車道四万十町中央ICより国道56号線経由で140分／土佐くろし</td>
+                <td className="p-3 text-stone-600">高知自動車道四万十町中央ICより国道56号線経由で140分／土佐くろしお鉄道中村駅よりバス100分、タクシー60分</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.44（747件）</td>
                 <td className="p-3 font-bold text-rose-600">¥9,240〜</td>
@@ -340,7 +340,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　８０台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.69 ／ 立地 ★4.46 ／ 部屋 ★4.6 ／ 設備 ★4.54 ／ 風呂 ★4.58 ／ 食事 ★4.74</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事も温泉も接客も最高で大満足の旅今回、夫婦で宿泊させていただきましたが、到着から出発まで大変気持ちよく過ごすことができ、本当に大満足のお宿でした。何より印象に残ったのは、スタッフの皆さん…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事も温泉も接客も最高で大満足の旅今回、夫婦で宿泊させていただきましたが、到着から出発まで大変気持ちよく過ごすことができ、本当に大満足のお宿でした。」
                   </blockquote>
                 </div>
               </div>
@@ -384,7 +384,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>駐車料金：普通車1100円・二輪800円</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの笑顔とアンパンマン布団で良い思い出宿のスタッフの皆様の笑顔が素敵で快適に過ごすことができました。初めての三世代旅行でしたが、アンパン布団も用意して頂き良い思い出になりました!!ク…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの笑顔とアンパンマン布団で良い思い出宿のスタッフの皆様の笑顔が素敵で快適に過ごすことができました。初めての三世代旅行でしたが、アンパン布団も用意して頂き良い思い出になりました!!」
                   </blockquote>
                 </div>
               </div>
@@ -406,7 +406,7 @@ export default function MicroTouristHubPage() {
                   <p>【高知・四万十川＆沈下橋・足摺岬：日本最後の清流カヌー】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事と眺望は最高、お風呂は熱すぎて...海の見えるベッドのお部屋が満室、高齢者を連れて和室は少々不安もありながらの予約。しかしエレベーター降りてすぐの部屋で助かったのと、畳も綺麗で清潔感があり、掃…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事と眺望は最高、お風呂は熱すぎて...海の見えるベッドのお部屋が満室、高齢者を連れて和室は少々不安もありながらの予約。」
                   </blockquote>
                 </div>
               </div>

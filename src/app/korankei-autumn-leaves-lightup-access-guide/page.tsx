@@ -473,49 +473,49 @@ export default function KorankeiAutumnLeavesAccessPage() {
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">あわせて読みたい人気特集＆全国エリアガイド</h2>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
-            <a href="/furusato-tax-narukokyo-autumn-leaves-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/furusato-tax-radium-radon-hotspring-healing-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">鳴子峡の深紅の大峡谷＆多彩な名湯・鳴子温泉郷！湯めぐり露天風呂宿×ふるさと納税厳選ガイド宮城</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">奇跡のホルミシス効果！世界屈指のラジウム・ラドン名湯温泉＆本格湯治名旅館×ふるさと納税厳選ガイド鳥取三朝・愛知猿投・新潟村杉</span>
             </a>
-            <a href="/miyagi-naruko-solo-retreat-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/japan-top-brand-jidori-chicken-feast-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">鳴子温泉ひとり旅・湯めぐりこけしおこもり：日本屈指の多種泉質・源蔵の湯・鳴子峡渓谷美！千年の湯治場で心ほぐれる極上厳選3宿</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「日本三大地鶏＆銘柄鶏の宿」比内地鶏・名古屋コーチン・さつま地鶏・阿波尾鶏 厳選ガイド</span>
             </a>
-            <a href="/winter-miyagi-matsushima-oyster-hotspring-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/nagoya-kanazawa-bus-vs-train-guide/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11月解禁！松島・三陸の極上生牡蠣＆焼き牡蠣】日本三景パノラマと海の幸会席名湯宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「名古屋から金沢 安く行く方法」特急しらさぎ vs 直行高速バス徹底比較！乗り換えなし1泊2日モデルコース</span>
             </a>
-            <a href="/autumn-budget-miyagi-sendai-onsen-gyutan-hotels-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/silver-week-glamping-tokai-shizuoka-aichi-guide/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">秋の仙台×格安：定禅寺通りのケヤキ紅葉と牛たんグルメ！天然温泉付き1泊4,000円台〜のコスパ最強おすすめホテル5選「2026最新」！天然温泉付き1泊4,000円台〜のコスパ最強おすすめホテル5選「2026最新」</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「東海シルバーウィーク グランピング」 静岡・伊豆・愛知おすすめ宿厳選 海鮮浜焼きBBQ＆秋の味覚体験ステイ</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
             <div className="flex flex-wrap gap-2">
               <Link
-                href="/prefectures/miyagi/"
+                href="/prefectures/aichi/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                宮城県の宿・温泉
+                愛知県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/toyama/"
+                href="/prefectures/shizuoka/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                富山県の宿・温泉
+                静岡県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/kyoto/"
+                href="/prefectures/gifu/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                京都府の宿・温泉
+                岐阜県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/osaka/"
+                href="/prefectures/mie/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                大阪府の宿・温泉
+                三重県の宿・温泉
               </Link>
             </div>
           </div>
@@ -551,7 +551,7 @@ export default function KorankeiAutumnLeavesAccessPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. アットインホテル豊田市駅</td>
                 <td className="p-3 text-stone-600">愛知県豊田市喜多町2-97</td>
-                <td className="p-3 text-stone-600">豊田市駅周辺</td>
+                <td className="p-3 text-stone-600">名鉄豊田市駅より徒歩約50秒。豊田市駅から一番近いホテル。新豊田駅からも徒歩3分。</td>
                 <td className="p-3 text-stone-600">有り（有料）　約1000台　駐車場2カ所　■予約不要　■二輪駐車不可</td>
                 <td className="p-3 font-bold text-amber-600">★4.22（638件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,495〜</td>
@@ -569,7 +569,7 @@ export default function KorankeiAutumnLeavesAccessPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. ＡＢホテル　豊田元町</td>
                 <td className="p-3 text-stone-600">愛知県豊田市東新町3-63-1</td>
-                <td className="p-3 text-stone-600">豊田市駅周辺</td>
+                <td className="p-3 text-stone-600">名鉄 豊田市駅よりタクシーで約7分(3.5km) 東名 豊田ICより約５分 トヨタスタジアム・スカイホール 車で約１０分</td>
                 <td className="p-3 text-stone-600">敷地内無料駐車場あり※満車の場合は、第２無料駐車場（徒歩約5分）をフロントにてご案内</td>
                 <td className="p-3 font-bold text-amber-600">★4.15（2098件）</td>
                 <td className="p-3 font-bold text-rose-600">¥2,600〜</td>
@@ -620,7 +620,7 @@ export default function KorankeiAutumnLeavesAccessPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>ホテル併設駐車場：14台（先着順）1泊/1.200円　　提携駐車場有：27時間/1,000円</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近で快適、安定の東横INNクオリティに大満足駅近、チェックインアウト時の挨拶、南向きの部屋でしたが入室時にカーテンが閉じられエアコンが効いていて快適、そんな気遣い、清潔な部屋と水回り、十分なコン…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近で快適、安定の東横INNクオリティに大満足駅近、チェックインアウト時の挨拶、南向きの部屋でしたが入室時にカーテンが閉じられエアコンが効いていて快適、そんな気遣い、清潔な部屋と水回り、十分なコン。」
                   </blockquote>
                 </div>
               </div>
@@ -642,7 +642,7 @@ export default function KorankeiAutumnLeavesAccessPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>敷地内無料駐車場あり※満車の場合は、第２無料駐車場（徒歩約5分）をフロントにてご案内</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.19 ／ 立地 ★4.01 ／ 部屋 ★4.16 ／ 設備 ★4.12 ／ 風呂 ★4.03 ／ 食事 ★4.14</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「快適、食事付きで立地も最高アジア大会中で、大会関係者やサポーターの方も泊まっていたようで混んでいましたがお部屋はきれいで過ごしやすかったです。近くにスーパーもあり、ちょっとした買い出しも出来て、地…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「快適、食事付きで立地も最高アジア大会中で、大会関係者やサポーターの方も泊まっていたようで混んでいましたがお部屋はきれいで過ごしやすかったです。」
                   </blockquote>
                 </div>
               </div>

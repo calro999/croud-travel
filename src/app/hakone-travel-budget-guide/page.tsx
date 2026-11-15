@@ -228,7 +228,7 @@ export default function HakoneBudgetGuidePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 箱根つたや旅館</td>
                 <td className="p-3 text-stone-600">神奈川県足柄下郡箱根町底倉240-1</td>
-                <td className="p-3 text-stone-600">宮ノ下駅周辺</td>
+                <td className="p-3 text-stone-600">箱根登山バス 箱根町線「神社下」バス停より徒歩にて約１分</td>
                 <td className="p-3 text-stone-600">有り　４台　要予約(1000円／泊)　※空車状況に関しては施設に直接ご連絡ください</td>
                 <td className="p-3 font-bold text-amber-600">★4.6（93件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,000〜</td>
@@ -237,7 +237,7 @@ export default function HakoneBudgetGuidePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 箱根小涌園　三河屋旅館</td>
                 <td className="p-3 text-stone-600">神奈川県足柄下郡箱根町小涌谷503</td>
-                <td className="p-3 text-stone-600">箱根湯本駅周辺</td>
+                <td className="p-3 text-stone-600">箱根湯本駅よりお車にて約２０分</td>
                 <td className="p-3 text-stone-600">有り　１５台　無料　要予約</td>
                 <td className="p-3 font-bold text-amber-600">★4.2（63件）</td>
                 <td className="p-3 font-bold text-rose-600">¥16,600〜</td>
@@ -246,7 +246,7 @@ export default function HakoneBudgetGuidePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 箱根湯本温泉　吉池旅館</td>
                 <td className="p-3 text-stone-600">神奈川県足柄下郡箱根町湯本597</td>
-                <td className="p-3 text-stone-600">箱根湯本駅周辺</td>
+                <td className="p-3 text-stone-600">箱根湯本駅から徒歩で７分</td>
                 <td className="p-3 text-stone-600">有り　６５台　無料　予約不要　※屋根付駐車場あり</td>
                 <td className="p-3 font-bold text-amber-600">★4.4（525件）</td>
                 <td className="p-3 font-bold text-rose-600">¥12,320〜</td>
@@ -255,7 +255,7 @@ export default function HakoneBudgetGuidePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 箱根湯本温泉　伊東園ホテル　箱根湯本</td>
                 <td className="p-3 text-stone-600">神奈川県足柄下郡箱根町湯本茶屋95-1</td>
-                <td className="p-3 text-stone-600">箱根湯本駅周辺</td>
+                <td className="p-3 text-stone-600">小田急 箱根湯本駅より徒歩２０分、バス５分、車で５分.カーナビは0460-85-5743小田原湯本カントリークラブ途中。</td>
                 <td className="p-3 text-stone-600">屋根付きあり　収容台数36台　1部屋あたり1台までとさせていただいております</td>
                 <td className="p-3 font-bold text-amber-600">★4（642件）</td>
                 <td className="p-3 font-bold text-rose-600">¥9,548〜</td>
@@ -264,7 +264,7 @@ export default function HakoneBudgetGuidePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 箱根湯本温泉　ホテル河鹿荘＜神奈川県＞</td>
                 <td className="p-3 text-stone-600">神奈川県足柄下郡箱根町湯本688</td>
-                <td className="p-3 text-stone-600">箱根湯本駅周辺</td>
+                <td className="p-3 text-stone-600">小田急ロマンスカーで新宿から箱根湯本駅まで９０分◆箱根湯本駅から徒歩５分</td>
                 <td className="p-3 text-stone-600">有　40台　無料　※但し満車の場合は近隣の有料駐車場へのご案内となります。</td>
                 <td className="p-3 font-bold text-amber-600">★4.26（616件）</td>
                 <td className="p-3 font-bold text-rose-600">¥15,800〜</td>
@@ -273,7 +273,7 @@ export default function HakoneBudgetGuidePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">6. 箱根湯本温泉　女性に優しい癒しの宿　ホテルマイユクール祥月</td>
                 <td className="p-3 text-stone-600">神奈川県足柄下郡箱根町湯本468-1</td>
-                <td className="p-3 text-stone-600">箱根湯本駅下車徒歩１２分／小田原厚木道路箱根口ＩＣから2ｋｍ　箱根神社</td>
+                <td className="p-3 text-stone-600">箱根湯本駅下車徒歩１２分／小田原厚木道路箱根口ＩＣから2ｋｍ 箱根神社約40分／箱根ターンパイク約10分</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.55（6648件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,500〜</td>
@@ -302,7 +302,7 @@ export default function HakoneBudgetGuidePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　４台　要予約(1000円／泊)　※空車状況に関しては施設に直接ご連絡ください</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「静かに過ごしたい目的には合わず残念数年前:内観を深めるにはとても素敵な宿2026年:フリーエリア外国人9割の宿目的がゆっくり静かに過ごすことだっので外人さんの賑やかな雰囲気、今回は…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「静かに過ごしたい目的には合わず残念数年前:内観を深めるにはとても素敵な宿2026年:フリーエリア外国人9割の宿目的がゆっくり静かに過ごすことだっので外人さんの賑やかな雰囲気。」
                   </blockquote>
                 </div>
               </div>
@@ -346,7 +346,7 @@ export default function HakoneBudgetGuidePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　６５台　無料　予約不要　※屋根付駐車場あり</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「とにかく綺麗にしてる宿!とても良いお宿でした!スタッフの方は外国の方が多いですが皆、親切で対応バッチリです。今回は当日に決めたので素泊まりでしたが次回はご飯付きで泊まりたいと思…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「とにかく綺麗にしてる宿!とても良いお宿でした!スタッフの方は外国の方が多いですが皆、親切で対応バッチリです。」
                   </blockquote>
                 </div>
               </div>
@@ -412,7 +412,7 @@ export default function HakoneBudgetGuidePage() {
                   <p>【箱根旅行 費用：日帰り・1泊2日それぞれいくら？フリ】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「期待以上の素晴らしさで心身ともにリフレッシュ日頃の疲れを癒やすために宿泊しましたが、期待を大きく上回る素晴らしさでした。お部屋は清潔感があり広々としていて、到着時に用意していただいたウェルカム…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「期待以上の素晴らしさで心身ともにリフレッシュ日頃の疲れを癒やすために宿泊しましたが、期待を大きく上回る素晴らしさでした。」
                   </blockquote>
                 </div>
               </div>

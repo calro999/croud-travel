@@ -392,8 +392,8 @@ export default function ArticlePage() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 下関駅よりアクセス。ＪＲ下関駅より徒歩にて8分。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「天然温泉関門の湯 ドーミーインＰＲＥＭＩＵＭ下関」にチェックイン。最上階にサウナ付・天然温泉大浴場★全館無料Wi-Fi完備★夜鳴きそば無料サービス実施などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「天然温泉関門の湯 ドーミーインＰＲＥＭＩＵＭ下関」の湯処へ。最上階にサウナ付・天然温泉大浴場★全館無料Wi-Fi完備★夜鳴きそば無とともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「天然温泉関門の湯 ドーミーインＰＲＥＭＩＵＭ下関」にチェックイン。最上階にサウナ付・天然温泉大浴場★全館無料Wi-Fi完備★夜鳴きそば無料サービス実施が魅力の一軒。客室で荷物をほどいて穏やかな午後のひとときを。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「天然温泉関門の湯 ドーミーインＰＲＥＭＩＵＭ下関」の湯船で寛ぎタイム。季節の空気を感じながら手足を伸ばし、心豊かな夕方のリラックス時間を満喫。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「天然温泉関門の湯 ドーミーインＰＲＥＭＩＵＭ下関」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -478,7 +478,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 天然温泉関門の湯　ドーミーインＰＲＥＭＩＵＭ下関（ドーミーイン・御宿野乃　ホテルズグループ）</td>
                 <td className="p-3 text-stone-600">山口県下関市細江新町3-40</td>
-                <td className="p-3 text-stone-600">下関駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ下関駅より徒歩にて8分</td>
                 <td className="p-3 text-stone-600">1泊1500円先着順。満車時は提携先を案内(1泊1,300円）※ご連泊利用は、アウト日まで取り置き可</td>
                 <td className="p-3 font-bold text-amber-600">★4.52（2957件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,875〜</td>
@@ -487,7 +487,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. ヴィアイン下関＜維新の湯＞（ＪＲ西日本グループ）</td>
                 <td className="p-3 text-stone-600">山口県下関市竹崎町4丁目2番33号</td>
-                <td className="p-3 text-stone-600">下関駅周辺</td>
+                <td className="p-3 text-stone-600">［鉄道］JR山陽本線下関駅（東口）より徒歩約３分 / ［車］中国自動車道下関ICより約１０分</td>
                 <td className="p-3 text-stone-600">近隣の提携駐車場をご案内させていただきます</td>
                 <td className="p-3 font-bold text-amber-600">★4.19（1014件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,010〜</td>
@@ -496,7 +496,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 下関ステーションホテル</td>
                 <td className="p-3 text-stone-600">山口県下関市竹崎町2-8-11</td>
-                <td className="p-3 text-stone-600">下関駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ下関駅東口より徒歩１分</td>
                 <td className="p-3 text-stone-600">ホテル専用P＝600円（16台）二輪車300円※先着順／タイムズ下関駅西口駐車場500円＝約120台</td>
                 <td className="p-3 font-bold text-amber-600">★3.83（2270件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,950〜</td>
@@ -569,7 +569,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>ホテル専用P＝600円（16台）二輪車300円※先着順／タイムズ下関駅西口駐車場500円＝約120台</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.89 ／ 立地 ★3.95 ／ 部屋 ★3.77 ／ 設備 ★3.71 ／ 風呂 ★3.86 ／ 食事 ★3.78</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの対応と朝食は最高、サウナの改善を希望久しぶりに利用させてもらいました。いつも1ヶ月に1回は行かしてもらってたのですが、今回は半年ぶりくらいでした。相変わらずフロントやスタ…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの対応と朝食は最高、サウナの改善を希望久しぶりに利用させてもらいました。いつも1ヶ月に1回は行かしてもらってたのですが、今回は半年ぶりくらいでした。」
                   </blockquote>
                 </div>
               </div>

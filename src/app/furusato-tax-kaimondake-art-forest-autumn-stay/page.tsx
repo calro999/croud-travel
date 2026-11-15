@@ -439,7 +439,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 指宿温泉　指宿ロイヤルホテル　～すべての女性へ美と健康を楽しむホテル～</td>
                 <td className="p-3 text-stone-600">鹿児島県指宿市十二町4232-1</td>
-                <td className="p-3 text-stone-600">指宿駅周辺</td>
+                <td className="p-3 text-stone-600">鹿児島空港→指宿駅 空港バス約１１０分。指宿駅→タクシー約５分。屋久島、霧島、大隅、南薩等指宿を拠点に観光がおすすめ</td>
                 <td className="p-3 text-stone-600">無料駐車場完備（全50台）バイク・大型車両OK予約不要。指宿を観光するなら車での移動がおすすめ</td>
                 <td className="p-3 font-bold text-amber-600">★4.49（1607件）</td>
                 <td className="p-3 font-bold text-rose-600">¥10,752〜</td>
@@ -448,7 +448,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 指宿温泉　いぶすき秀水園</td>
                 <td className="p-3 text-stone-600">鹿児島県指宿市湯の浜5-27-27</td>
-                <td className="p-3 text-stone-600">指宿駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ指宿枕崎線指宿駅まで送迎あり／九州自動車道谷山インターより５０分</td>
                 <td className="p-3 text-stone-600">有り　50台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.68（547件）</td>
                 <td className="p-3 font-bold text-rose-600">¥26,400〜</td>
@@ -457,7 +457,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 指宿温泉　指宿こころの宿</td>
                 <td className="p-3 text-stone-600">鹿児島県指宿市東方9227-6</td>
-                <td className="p-3 text-stone-600"></td>
+                <td className="p-3 text-stone-600">鹿児島県指宿市東方9227-6 ／ 交通案内：</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.13（875件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,650〜</td>
@@ -486,7 +486,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料駐車場完備（全50台）バイク・大型車両OK予約不要。指宿を観光するなら車での移動がおすすめ</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの温かい心遣いに感動、また訪れたい滞在中は、最初から最後までとても快適に過ごすことができました。子ども向けのサービスも充実していて、ミニ縁日ではスタッフの方と楽しくゲームをしたり、…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの温かい心遣いに感動、また訪れたい滞在中は、最初から最後までとても快適に過ごすことができました。」
                   </blockquote>
                 </div>
               </div>
@@ -508,7 +508,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　50台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.76 ／ 立地 ★4.55 ／ 部屋 ★4.55 ／ 設備 ★4.45 ／ 風呂 ★4.5 ／ 食事 ★4.79</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「期待値が高すぎたのか、普通に感じた前評判が良すぎて、期待しすぎていたのかもしれません。別に悪くはないんだけど、そんな絶賛するほどじゃなかったかな...というのが正直なところです。砂…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「期待値が高すぎたのか、普通に感じた前評判が良すぎて、期待しすぎていたのかもしれません。別に悪くはないんだけど、そんな絶賛するほどじゃなかったかな...というのが正直なところです。」
                   </blockquote>
                 </div>
               </div>

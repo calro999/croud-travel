@@ -66,7 +66,7 @@ export default function Page() {
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/8327/8327map.gif",
     "reviewCount": 832,
     "reviewAverage": 4.91,
-    "userReview": "リピーターも大満足、食事と接客が素晴らしい昨年に引き続き今年はリピータとして9月4日に宿泊した60代と50代の夫婦です。総合評価は今回も大満足でした。来年も機会あえば是非とも利用したいと思いま。",
+    "userReview": "リピーターも大満足、食事と接客が素晴らしい昨年に引き続き今年はリピータとして9月4日に宿泊した60代と50代の夫婦です。総合評価は今回も大満足でした。来年も機会あえば是非とも利用したいと思います。",
     "hotelMinCharge": 21631,
     "address1": "岐阜県",
     "address2": "高山市本町1-34",
@@ -436,8 +436,8 @@ export default function Page() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 勝浦駅よりアクセス。ＪＲ外房線勝浦駅下車 徒歩０分（ロータリー脇）・館山道市原ＩＣ又は圏央道市原鶴舞ＩＣより国道297号線勝浦方面へ。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「三日月イン」にチェックイン。勝浦駅至近、全室バストイレ付。プラズマクラスタ空気清浄機常備。などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「三日月イン」の湯処へ。勝浦駅至近、全室バストイレ付。プラズマクラスタ空気清浄機常備。とともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「三日月イン」にチェックイン。勝浦駅至近、全室バストイレ付。プラズマクラスタ空気清浄機常備。 館内の設えを確かめながら、これからの滞在に備えてゆっくり休息する。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「三日月イン」の大浴場・露天風呂へ。日暮れの静けさの中で湯に浸かり、旅の緊張をゆっくりと解きほぐす。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「三日月イン」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -449,7 +449,7 @@ export default function Page() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「三日月イン」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「三日月イン」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「飛騨高山 本陣平野屋 花兆庵」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は「三日月イン」周辺の観光スポットや地元の名産店に立ち寄り、ご当地のお土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>
@@ -550,7 +550,7 @@ export default function Page() {
       </main>
 
       {/* フッター */}
-      <footer className="bg-slate-900 text-slate-400 py-8 px-4 text-xs text-center border-t border-slate-800 mt-16">
+      <footer className="bg-slate-900 text-slate-200 py-8 px-4 text-xs text-center border-t border-slate-800 mt-16">
         <div className="max-w-5xl mx-auto space-y-3">
           <p>© 2026 トラベルポータル All Rights Reserved. 掲載の宿情報・画像は楽天トラベルAPIより取得しています。</p>
           <p>ふるさと納税クーポンの利用条件や最新の空室状況は楽天トラベル公式サイトをご確認ください。</p>

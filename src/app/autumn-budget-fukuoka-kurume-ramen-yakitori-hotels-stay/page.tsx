@@ -310,7 +310,7 @@ export default function AutumnBudgetKurumeHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. ハイネスホテル久留米</td>
                 <td className="p-3 text-stone-600">福岡県久留米市天神町1-6</td>
-                <td className="p-3 text-stone-600">西鉄久留米駅周辺</td>
+                <td className="p-3 text-stone-600">西鉄電車：天神大牟田線「西鉄久留米駅」東口より徒歩0分 ※玄関は１階、ホテル玄関横には筑邦銀行国道通支店入口</td>
                 <td className="p-3 text-stone-600">【ニューウエダ駐車場】営業時間:1泊(14時〜翌朝11時) 800円※24時間営業(下記注意事項参照</td>
                 <td className="p-3 font-bold text-amber-600">★4（1601件）</td>
                 <td className="p-3 font-bold text-rose-600">¥2,800〜</td>
@@ -319,7 +319,7 @@ export default function AutumnBudgetKurumeHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. いやし処ほてる寛楽　久留米駅前</td>
                 <td className="p-3 text-stone-600">福岡県久留米市通町108-4</td>
-                <td className="p-3 text-stone-600">西鉄久留米駅周辺</td>
+                <td className="p-3 text-stone-600">西鉄久留米駅より車で4分 徒歩7分</td>
                 <td className="p-3 text-stone-600">なし</td>
                 <td className="p-3 font-bold text-amber-600">★4.15（186件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,760〜</td>
@@ -328,7 +328,7 @@ export default function AutumnBudgetKurumeHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. グリーンリッチホテル久留米　天然温泉・有馬六ツ門の湯</td>
                 <td className="p-3 text-stone-600">福岡県久留米市日吉町18-1</td>
-                <td className="p-3 text-stone-600">久留米駅周辺</td>
+                <td className="p-3 text-stone-600">●西鉄久留米駅より車で3分、JR久留米駅より車で3分●福岡空港連絡バス停「六ツ門」徒歩3分●</td>
                 <td className="p-3 text-stone-600">有　車高制限：185cm　１泊1,200円■先着順■満車時は近隣のコインパーキングをご案内します。</td>
                 <td className="p-3 font-bold text-amber-600">★4.22（999件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,000〜</td>
@@ -337,7 +337,7 @@ export default function AutumnBudgetKurumeHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 萃香園ホテル</td>
                 <td className="p-3 text-stone-600">福岡県久留米市櫛原町87</td>
-                <td className="p-3 text-stone-600">久留米駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ 久留米駅・西鉄 久留米駅双方よりお車で5分／高速道路久留米I.C.よりお車で約10分</td>
                 <td className="p-3 text-stone-600">60台有(無料）：必ずご準備いたしますので、スタッフにお問い合わせください。</td>
                 <td className="p-3 font-bold text-amber-600">★4.49（317件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,800〜</td>
@@ -346,7 +346,7 @@ export default function AutumnBudgetKurumeHotelsPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 東横ＩＮＮ西鉄久留米駅東口</td>
                 <td className="p-3 text-stone-600">福岡県久留米市天神町3-93-4</td>
-                <td className="p-3 text-stone-600">西鉄久留米駅周辺</td>
+                <td className="p-3 text-stone-600">西鉄久留米駅中央東口（東口広場方面）からリベールの横を通って古賀病院方向へ徒歩２分</td>
                 <td className="p-3 text-stone-600">５６台（立体駐車場）　　　５００円/泊　　先着順　　高さ制限あり（2ｍまで）</td>
                 <td className="p-3 font-bold text-amber-600">★4.01（756件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,883〜</td>
@@ -441,7 +441,7 @@ export default function AutumnBudgetKurumeHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>60台有(無料）：必ずご準備いたしますので、スタッフにお問い合わせください。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.59 ／ 立地 ★4.32 ／ 部屋 ★4.48 ／ 設備 ★4.42 ／ 風呂 ★4.33 ／ 食事 ★4.41</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「清潔感と丁寧な対応でゆっくり過ごせた清潔感のあるお部屋と、ホテルの方の丁寧な対応で非常にゆっくり過ごさせていただきました。立地はJR、西鉄どちらの駅から離れており、歩けますがちょっと大変です。…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「清潔感と丁寧な対応でゆっくり過ごせた清潔感のあるお部屋と、ホテルの方の丁寧な対応で非常にゆっくり過ごさせていただきました。立地はJR、西鉄どちらの駅から離れており、歩けますがちょっと大変です。」
                   </blockquote>
                 </div>
               </div>
@@ -463,7 +463,7 @@ export default function AutumnBudgetKurumeHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>５６台（立体駐車場）　　　５００円/泊　　先着順　　高さ制限あり（2ｍまで）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4 ／ 立地 ★4.04 ／ 部屋 ★4.08 ／ 設備 ★3.96 ／ 風呂 ★3.96 ／ 食事 ★3.97</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「静かな環境と清潔な部屋でぐっすり快眠周囲の騒音が全く気にならなかったので静かに過ごせました。部屋の嫌な臭いもなく清潔感が感じられたので良く眠れました。朝食会場は狭かったですが部屋で食べたい…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「静かな環境と清潔な部屋でぐっすり快眠周囲の騒音が全く気にならなかったので静かに過ごせました。部屋の嫌な臭いもなく清潔感が感じられたので良く眠れました。」
                   </blockquote>
                 </div>
               </div>

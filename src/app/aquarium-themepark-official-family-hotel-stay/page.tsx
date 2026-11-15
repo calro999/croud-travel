@@ -334,7 +334,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. オリオンホテル　モトブリゾート＆スパ</td>
                 <td className="p-3 text-stone-600">沖縄県国頭郡本部町備瀬148-1</td>
-                <td className="p-3 text-stone-600">那覇空港駅周辺</td>
+                <td className="p-3 text-stone-600">那覇空港からお車で高速利用約100分。空港バス利用約150分ホテル前停車。美ら海水族館へ徒歩7分、海洋博公園隣接</td>
                 <td className="p-3 text-stone-600">駐車場無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.57（970件）</td>
                 <td className="p-3 font-bold text-rose-600">¥18,480〜</td>
@@ -343,7 +343,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. ホテル近鉄ユニバーサル・シティ</td>
                 <td className="p-3 text-stone-600">大阪府大阪市此花区島屋6-2-68</td>
-                <td className="p-3 text-stone-600">ユニバーサルシティ駅周辺</td>
+                <td className="p-3 text-stone-600">JRユニバーサルシティ駅より徒歩約2分【大阪駅から直通列車で約12分】／阪神高速湾岸線ユニバーサルシティ出口より約5分</td>
                 <td className="p-3 text-stone-600">先着52台、入庫〜24時間3,000円（駐車券をフロントで提示要）、提携有、両方満車時は待機要</td>
                 <td className="p-3 font-bold text-amber-600">★4.54（13868件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,400〜</td>
@@ -352,7 +352,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. ホテル京阪　ユニバーサル・タワー</td>
                 <td className="p-3 text-stone-600">大阪府大阪市此花区島屋6-2-45</td>
-                <td className="p-3 text-stone-600">ユニバーサルシティ駅周辺</td>
+                <td className="p-3 text-stone-600">JRユニバーサルシティ駅・USJへ徒歩スグ！阪神高速ユニバーサルシティ出口より車で約5分！大阪駅まで電車で約11分！</td>
                 <td className="p-3 text-stone-600">有り/先着順/有料※駐車場料金については、公式HPをご確認ください。</td>
                 <td className="p-3 font-bold text-amber-600">★4.59（9794件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,700〜</td>
@@ -381,7 +381,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>駐車場無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.56 ／ 立地 ★4.77 ／ 部屋 ★4.75 ／ 設備 ★4.57 ／ 風呂 ★4.45 ／ 食事 ★4.51</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「オーシャンビューと食事は満足、内装はシンプル系オーシャンビューがとても良かったです。館内はどこも清潔で、ご飯も美味しかったです。ただ内装はどちらかというとシンプル系で、ラグジュアリー感にはやや欠け…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「オーシャンビューと食事は満足、内装はシンプル系オーシャンビューがとても良かったです。館内はどこも清潔で、ご飯も美味しかったです。」
                   </blockquote>
                 </div>
               </div>

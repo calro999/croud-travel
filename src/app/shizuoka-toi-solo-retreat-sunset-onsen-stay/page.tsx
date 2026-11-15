@@ -339,8 +339,8 @@ export default function ArticlePage() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 修善寺駅よりアクセス。修善寺駅よりバスで４５分「馬場（ばんば）」停留所下車 徒歩３分。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「西伊豆土肥温泉 和の匠 花暖簾」にチェックイン。本物の寛ぎが叶う僅か５室の隠れ宿。駿河湾の幸を使用した心を込めた料理と温泉をご堪能ください。などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「西伊豆土肥温泉 和の匠 花暖簾」の湯処へ。本物の寛ぎが叶う僅か５室の隠れ宿。駿河湾の幸を使用した心を込めた料理ととともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「西伊豆土肥温泉 和の匠 花暖簾」にチェックイン。本物の寛ぎが叶う僅か５室の隠れ宿。駿河湾の幸を使用した心を込めた料理と温泉をご堪能ください。 館内の設えを確かめながら、これからの滞在に備えてゆっくり休息する。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「西伊豆土肥温泉 和の匠 花暖簾」の自慢の湯処へ。温かな湯気と落ち着いた雰囲気に癒やされながら、夕食前の贅沢なひとときを過ごす。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「西伊豆土肥温泉 和の匠 花暖簾」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -352,7 +352,7 @@ export default function ArticlePage() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「西伊豆土肥温泉 和の匠 花暖簾」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「西伊豆土肥温泉 和の匠 花暖簾」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「土肥温泉 たたみの宿 湯の花亭」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は「西伊豆土肥温泉 和の匠 花暖簾」周辺の観光スポットや地元の名産店に立ち寄り、ご当地のお土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>
@@ -389,22 +389,22 @@ export default function ArticlePage() {
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
             <div className="flex flex-wrap gap-2">
               <Link
-                href="/prefectures/nagasaki/"
+                href="/prefectures/shizuoka/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                長崎県の宿・温泉
+                静岡県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/tottori/"
+                href="/prefectures/gifu/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                鳥取県の宿・温泉
+                岐阜県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/osaka/"
+                href="/prefectures/aichi/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                大阪府の宿・温泉
+                愛知県の宿・温泉
               </Link>
               <Link
                 href="/prefectures/mie/"
@@ -446,7 +446,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 西伊豆土肥温泉　和の匠　花暖簾（はなのれん）</td>
                 <td className="p-3 text-stone-600">静岡県伊豆市土肥748</td>
-                <td className="p-3 text-stone-600">修善寺駅周辺</td>
+                <td className="p-3 text-stone-600">修善寺駅よりバスで４５分「馬場（ばんば）」停留所下車 徒歩３分</td>
                 <td className="p-3 text-stone-600">有（無料）※当館入口付近の道路が大変狭くなっておりますので、別途駐車場（徒歩1分）もご案内可能です。</td>
                 <td className="p-3 font-bold text-amber-600">★4.76（276件）</td>
                 <td className="p-3 font-bold text-rose-600">¥18,700〜</td>
@@ -455,7 +455,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 土肥温泉　たたみの宿　湯の花亭</td>
                 <td className="p-3 text-stone-600">静岡県伊豆市土肥2849-5</td>
-                <td className="p-3 text-stone-600">修善寺駅周辺</td>
+                <td className="p-3 text-stone-600">修善寺駅よりバスにて50分(「湯の川」下車)</td>
                 <td className="p-3 text-stone-600">有り　４０台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.61（1592件）</td>
                 <td className="p-3 font-bold text-rose-600">¥9,350〜</td>
@@ -464,7 +464,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 西伊豆土肥温泉　碧き凪ぎの宿明治館</td>
                 <td className="p-3 text-stone-600">静岡県伊豆市土肥町2849-3</td>
-                <td className="p-3 text-stone-600">修善寺駅周辺</td>
+                <td className="p-3 text-stone-600">伊豆箱根鉄道線 修善寺駅より堂ヶ島・松崎行きバス（約50分）湯の川下車徒歩１分／東名高速沼津ＩＣより約70分</td>
                 <td className="p-3 text-stone-600">有　５０台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.15（1035件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,700〜</td>
@@ -537,7 +537,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有　５０台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4 ／ 立地 ★4.46 ／ 部屋 ★4.26 ／ 設備 ★3.96 ／ 風呂 ★4.17 ／ 食事 ★4.19</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「フリーフローと立地は最高、設備と食事に改善の余地あり客室露天風呂付きのお部屋に2名で宿泊しました。良かった点と、次に泊まる方の参考になりそうな点を正直に書きます。一番良かったのは15:00…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「フリーフローと立地は最高、設備と食事に改善の余地あり客室露天風呂付きのお部屋に2名で宿泊しました。良かった点と、次に泊まる方の参考になりそうな点を正直に書きます。」
                   </blockquote>
                 </div>
               </div>

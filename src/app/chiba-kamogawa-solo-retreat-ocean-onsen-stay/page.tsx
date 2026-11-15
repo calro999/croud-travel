@@ -340,8 +340,8 @@ export default function ArticlePage() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 安房鴨川駅よりアクセス。お車 館山道君津ICより約５０分。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「鴨川温泉 魚眠庵 マルキ本館」にチェックイン。外房産の新鮮な素材を使った磯懐石料理。新設の露天風呂、貸切露天風呂が自慢です。などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「鴨川温泉 魚眠庵 マルキ本館」の湯処へ。外房産の新鮮な素材を使った磯懐石料理。新設の露天風呂、貸切露天風呂が自とともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「鴨川温泉 魚眠庵 マルキ本館」にチェックイン。外房産の新鮮な素材を使った磯懐石料理。新設の露天風呂、貸切露天風呂が自慢です。 客室で身支度を整え、この宿ならではの滞在をスタート。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「鴨川温泉 魚眠庵 マルキ本館」の湯船で寛ぎタイム。季節の空気を感じながら手足を伸ばし、心豊かな夕方のリラックス時間を満喫。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「鴨川温泉 魚眠庵 マルキ本館」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -353,7 +353,7 @@ export default function ArticlePage() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「鴨川温泉 魚眠庵 マルキ本館」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「鴨川温泉 魚眠庵 マルキ本館」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「鴨川温泉 画家ゆかりの宿江澤館」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は宿周辺の散策とショッピングを満喫。地元の名産品やグルメを味わってから余裕をもって帰路につく。</li>
               </ul>
             </div>
           </div>
@@ -390,28 +390,28 @@ export default function ArticlePage() {
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
             <div className="flex flex-wrap gap-2">
               <Link
-                href="/prefectures/kochi/"
+                href="/prefectures/chiba/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                高知県の宿・温泉
+                千葉県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/nara/"
+                href="/prefectures/tokyo/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                奈良県の宿・温泉
+                東京都の宿・温泉
               </Link>
               <Link
-                href="/prefectures/nagasaki/"
+                href="/prefectures/kanagawa/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                長崎県の宿・温泉
+                神奈川県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/okinawa/"
+                href="/prefectures/saitama/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                沖縄県の宿・温泉
+                埼玉県の宿・温泉
               </Link>
             </div>
           </div>
@@ -447,7 +447,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 鴨川温泉　魚眠庵　マルキ本館</td>
                 <td className="p-3 text-stone-600">千葉県鴨川市横渚543</td>
-                <td className="p-3 text-stone-600">安房鴨川駅周辺</td>
+                <td className="p-3 text-stone-600">【お車】館山道君津ICより約５０分。【電車、バス】ＪＲ外房線「安房鴨川駅」より徒歩１０分（送迎有、要連絡）</td>
                 <td className="p-3 text-stone-600">有り　１５台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.57（629件）</td>
                 <td className="p-3 font-bold text-rose-600">¥17,600〜</td>
@@ -456,7 +456,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 鴨川温泉　画家ゆかりの宿江澤館</td>
                 <td className="p-3 text-stone-600">千葉県鴨川市太海浜153</td>
-                <td className="p-3 text-stone-600">安房鴨川駅周辺</td>
+                <td className="p-3 text-stone-600">JR太海駅より徒歩10分</td>
                 <td className="p-3 text-stone-600">有り　8台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.5（82件）</td>
                 <td className="p-3 font-bold text-rose-600">¥9,400〜</td>
@@ -465,7 +465,7 @@ export default function ArticlePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 鴨川温泉　ホテル中村</td>
                 <td className="p-3 text-stone-600">千葉県鴨川市横渚843</td>
-                <td className="p-3 text-stone-600">安房鴨川駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ外房線 安房鴨川駅から徒歩５分（４００ｍ）／館山道君津インターから５０分（アクアライン海ほたるより７０分）駐車場無料</td>
                 <td className="p-3 text-stone-600">有り　１５台　無料　予約不要　ホテルに向かって右手にございます</td>
                 <td className="p-3 font-bold text-amber-600">★4.35（212件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,000〜</td>
@@ -494,7 +494,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１５台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「接客も料理も最高、三度目の利用で大満足仲井さんの接客、料理、お風呂のどれをとってもこの上ない満足感で旅にとてもホッとする優しい時間を過ごすことができました。三度目の宿泊でしたがまた泊まりたい、…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「接客も料理も最高、三度目の利用で大満足仲井さんの接客、料理、お風呂のどれをとってもこの上ない満足感で旅にとてもホッとする優しい時間を過ごすことができました。」
                   </blockquote>
                 </div>
               </div>
@@ -538,7 +538,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１５台　無料　予約不要　ホテルに向かって右手にございます</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「設備が古く衛生面や防音に難あり流石に古すぎてカビ臭い下水くさい。お風呂の洗面とかも使いたくない感じ。待合の椅子とかボロボロで流石に変えた方がいい。温泉とのことだが塩素の匂い凄かった。…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「設備が古く衛生面や防音に難あり流石に古すぎてカビ臭い下水くさい。お風呂の洗面とかも使いたくない感じ。待合の椅子とかボロボロで流石に変えた方がいい。温泉とのことだが塩素の匂い凄かった。」
                   </blockquote>
                 </div>
               </div>

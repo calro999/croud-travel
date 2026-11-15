@@ -342,7 +342,7 @@ export default function AtamiBudgetAutumnPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 熱海温泉ホテル　夢いろは</td>
                 <td className="p-3 text-stone-600">静岡県熱海市咲見町4-6</td>
-                <td className="p-3 text-stone-600">熱海駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ熱海駅より徒歩１０分ほど タクシーならたった5分</td>
                 <td className="p-3 text-stone-600">駐車場は一律1000円予約不可・先着順限定7台でのご案内となります。</td>
                 <td className="p-3 font-bold text-amber-600">★4.12（2786件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,850〜</td>
@@ -351,7 +351,7 @@ export default function AtamiBudgetAutumnPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 熱海温泉　ウオミサキホテル（伊東園ホテルズ）</td>
                 <td className="p-3 text-stone-600">静岡県熱海市和田浜南町7-2</td>
-                <td className="p-3 text-stone-600">熱海駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ東海道新幹線 熱海駅よりバスに乗車、マリンスパあたみ下車で徒歩1分</td>
                 <td className="p-3 text-stone-600">有り　３０台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★3.68（1013件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,698〜</td>
@@ -360,7 +360,7 @@ export default function AtamiBudgetAutumnPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 熱海温泉　ホテル　サンミ倶楽部</td>
                 <td className="p-3 text-stone-600">静岡県熱海市和田浜南町5-8</td>
-                <td className="p-3 text-stone-600">熱海駅周辺</td>
+                <td className="p-3 text-stone-600">JR東海道線『熱海駅』より東海バス『マリンスパあたみ』下車 徒歩1分</td>
                 <td className="p-3 text-stone-600">50台　有料（1100円）※ご利用時間はご宿泊日の12時からチェックアウト日の10時までとなります。</td>
                 <td className="p-3 font-bold text-amber-600">★3.92（969件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,352〜</td>
@@ -411,7 +411,7 @@ export default function AtamiBudgetAutumnPage() {
                   <p>【秋の熱海温泉×格安：海上花火大会と相模湾絶景】 <strong>【駐車場・マイカー利用】</strong>有り　３０台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.74 ／ 立地 ★3.9 ／ 部屋 ★3.66 ／ 設備 ★3.52 ／ 風呂 ★3.82 ／ 食事 ★3.7</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋と風呂は良いが、臭いと料理の少なさが残念部屋と風呂は、最高に良かったです。但し、部屋に入るときは、臭いにおいが酷かった。臭いをなくして欲しい。バイキングの料理が少なかった。また…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋と風呂は良いが、臭いと料理の少なさが残念部屋と風呂は、最高に良かったです。但し、部屋に入るときは、臭いにおいが酷かった。臭いをなくして欲しい。バイキングの料理が少なかった。」
                   </blockquote>
                 </div>
               </div>
@@ -433,7 +433,7 @@ export default function AtamiBudgetAutumnPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>50台　有料（1100円）※ご利用時間はご宿泊日の12時からチェックアウト日の10時までとなります。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「三世代で熱海を満喫、景色と親切な対応に感動孫と三世代で 初めての熱海で ホテルの従業員の方は 親切で また 部屋から海が見えて景色よく感動しましたマリンスパ熱海のプールへ 目の前すぐ行ける…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「三世代で熱海を満喫、景色と親切な対応に感動孫と三世代で 初めての熱海で ホテルの従業員の方は 親切で また 部屋から海が見えて景色よく感動しましたマリンスパ熱海のプールへ 目の前すぐ行ける。」
                   </blockquote>
                 </div>
               </div>

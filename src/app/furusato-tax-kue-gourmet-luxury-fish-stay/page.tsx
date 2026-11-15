@@ -573,7 +573,7 @@ export default function FurusatoFeaturePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 白浜温泉　家族とすごす白浜の宿　柳屋</td>
                 <td className="p-3 text-stone-600">和歌山県西牟婁郡白浜町1870</td>
-                <td className="p-3 text-stone-600">白浜駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ白浜駅：車で約１１分／南紀白浜空港：車で約７分／南紀白浜ＩＣ：車で約１5分／アドベンチャーワールド：車で約１０分</td>
                 <td className="p-3 text-stone-600">有り　40台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.52（1292件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,050〜</td>
@@ -582,7 +582,7 @@ export default function FurusatoFeaturePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 白浜温泉　ＫＫＲ白浜　美浜荘（国家公務員共済組合連合会白浜保養所）</td>
                 <td className="p-3 text-stone-600">和歌山県西牟婁郡白浜町1564-2</td>
-                <td className="p-3 text-stone-600">白浜駅周辺</td>
+                <td className="p-3 text-stone-600">JRきのくに線 白浜駅下車 路線バス 温泉行き 白良浜バス停より徒歩２分 阪和自動車道を南紀田辺ＩＣ～車で25分</td>
                 <td className="p-3 text-stone-600">有　【20台】　　無料です。</td>
                 <td className="p-3 font-bold text-amber-600">★4.46（387件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,500〜</td>
@@ -591,7 +591,7 @@ export default function FurusatoFeaturePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 紀州みなべ温泉　料理宿　朝日楼</td>
                 <td className="p-3 text-stone-600">和歌山県日高郡みなべ町埴田1589-2</td>
-                <td className="p-3 text-stone-600">南部駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ 南部駅よりお車にて５分</td>
                 <td className="p-3 text-stone-600">有り　２５台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★3.86（1328件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,950〜</td>
@@ -600,7 +600,7 @@ export default function FurusatoFeaturePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 五島列島リゾートホテル　マルゲリータ奈良尾＜五島・中通島＞</td>
                 <td className="p-3 text-stone-600">長崎県南松浦郡新上五島町奈良尾郷712-3</td>
-                <td className="p-3 text-stone-600">奈良尾港高台に建つ五島灘の眺望と食を堪能できるリゾートホテル（送迎あり</td>
+                <td className="p-3 text-stone-600">奈良尾港高台に建つ五島灘の眺望と食を堪能できるリゾートホテル（送迎あり）長崎港・福江港発ジェットフォイル、フェリー直通</td>
                 <td className="p-3 text-stone-600">無料駐車場20台。近隣レンタカー会社あり。電気自動車充電器あり。</td>
                 <td className="p-3 font-bold text-amber-600">★4.65（65件）</td>
                 <td className="p-3 font-bold text-rose-600">¥13,800〜</td>
@@ -609,7 +609,7 @@ export default function FurusatoFeaturePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. みやこ別邸＜五島・福江島＞</td>
                 <td className="p-3 text-stone-600">長崎県五島市玉之浦町荒川265</td>
-                <td className="p-3 text-stone-600">福江空港駅周辺</td>
+                <td className="p-3 text-stone-600">福江空港より車で約３０分 福江港より車で約３０分</td>
                 <td className="p-3 text-stone-600">無料の駐車スペースをご案内</td>
                 <td className="p-3 font-bold text-amber-600">★4.55（26件）</td>
                 <td className="p-3 font-bold text-rose-600">¥13,050〜</td>
@@ -618,7 +618,7 @@ export default function FurusatoFeaturePage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">6. アパートメント五島＜五島・福江島＞</td>
                 <td className="p-3 text-stone-600">長崎県五島市末広町7-13　アドバンス五常205</td>
-                <td className="p-3 text-stone-600">福江空港駅周辺</td>
+                <td className="p-3 text-stone-600">福江空港より車で約１０分 福江港より車で約３分</td>
                 <td className="p-3 text-stone-600">専用駐車場はございません。近隣の有料駐車場をご案内いたします。（徒歩3&amp;#12316;5分の場所）</td>
                 <td className="p-3 font-bold text-amber-600">★4.41（52件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,624〜</td>
@@ -647,7 +647,7 @@ export default function FurusatoFeaturePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　40台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「鮑の蒸し料理と丁寧な接客に大満足家族旅行で利用させていただきました。朝食・夕食ともにどれも美味しく、特に鮑の蒸し料理は最高でした。お部屋食だったため、周りを気にせず家族でゆっくり味わうことがで…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「鮑の蒸し料理と丁寧な接客に大満足家族旅行で利用させていただきました。朝食・夕食ともにどれも美味しく、特に鮑の蒸し料理は最高でした。」
                   </blockquote>
                 </div>
               </div>
@@ -713,7 +713,7 @@ export default function FurusatoFeaturePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料駐車場20台。近隣レンタカー会社あり。電気自動車充電器あり。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋はゆったりだが食事の内容が残念ゆったりしたお部屋でくつろげました。お食事は予約の際選ぶのを間違えたのか、お弁当みたいなのが出て来て少しガッカリです。宿泊料金がまぁまぁしたので、食材が豊富にある…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋はゆったりだが食事の内容が残念ゆったりしたお部屋でくつろげました。お食事は予約の際選ぶのを間違えたのか、お弁当みたいなのが出て来て少しガッカリです。」
                   </blockquote>
                 </div>
               </div>
@@ -757,7 +757,7 @@ export default function FurusatoFeaturePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>専用駐車場はございません。近隣の有料駐車場をご案内いたします。（徒歩3&amp;#12316;5分の場所）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.55 ／ 立地 ★4.52 ／ 部屋 ★4.55 ／ 設備 ★4.26 ／ 風呂 ★4.2</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「送迎の対応が親切で、部屋も清潔で快適ホテルのスタッフの方が港まで迎えに来てくださりとても助かりました。部屋も清潔で、まるで自分のアパートにいるようにゆったりすることができました。また、送迎の時に近…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「送迎の対応が親切で、部屋も清潔で快適ホテルのスタッフの方が港まで迎えに来てくださりとても助かりました。部屋も清潔で、まるで自分のアパートにいるようにゆったりすることができました。」
                   </blockquote>
                 </div>
               </div>

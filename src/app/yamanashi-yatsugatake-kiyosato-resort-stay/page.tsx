@@ -253,7 +253,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 清里高原リゾート（旧：清里高原ホテル）</td>
                 <td className="p-3 text-stone-600">山梨県北杜市高根町清里3545</td>
-                <td className="p-3 text-stone-600">清里駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ小海線「清里駅」よりお車で約５分／中央道「須玉ＩＣ」「長坂ＩＣ」より約３０分 ※送迎バスはWEBにて完全予約制</td>
                 <td className="p-3 text-stone-600">有り　５０台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.16（1143件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,920〜</td>
@@ -262,7 +262,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 八ヶ岳の恵みを味わうレストラン＆ホテル　オーベルジュ清里</td>
                 <td className="p-3 text-stone-600">山梨県北杜市高根町清里３５４５－９４３　コートドゥヴェール内</td>
-                <td className="p-3 text-stone-600">清里駅周辺</td>
+                <td className="p-3 text-stone-600">JR小海線・清里駅から車で5分／中央道・長坂ICから25分</td>
                 <td className="p-3 text-stone-600">有り　５０台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★5（45件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,900〜</td>
@@ -271,7 +271,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. グランドメルキュール八ヶ岳リゾート＆スパ</td>
                 <td className="p-3 text-stone-600">山梨県北杜市大泉町西井出8240-1039</td>
-                <td className="p-3 text-stone-600">甲斐大泉駅周辺</td>
+                <td className="p-3 text-stone-600">（電車）甲斐大泉駅より送迎バス定期便あり。ダイヤは公式HPをご覧ください。（車）長坂ＩＣより約１５分程</td>
                 <td className="p-3 text-stone-600">有り 乗用車179台　無料（先着順）</td>
                 <td className="p-3 font-bold text-amber-600">★4.23（4417件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,104〜</td>
@@ -280,7 +280,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 八ヶ岳グレイスホテル</td>
                 <td className="p-3 text-stone-600">長野県南佐久郡南牧村野辺山217-1</td>
-                <td className="p-3 text-stone-600">野辺山駅周辺</td>
+                <td className="p-3 text-stone-600">野辺山駅より車で約5分（無料送迎あり・予約制／お電話または公式HPのご予約フォームより） 中央道・長坂ICより約20分</td>
                 <td className="p-3 text-stone-600">有り　７０台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.54（2185件）</td>
                 <td className="p-3 font-bold text-rose-600">¥10,200〜</td>
@@ -289,7 +289,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. １０００Ｍのおもてなし　八ヶ岳　ホテル風か</td>
                 <td className="p-3 text-stone-600">山梨県北杜市小淵沢町上の原3989-1</td>
-                <td className="p-3 text-stone-600">小淵沢駅周辺</td>
+                <td className="p-3 text-stone-600">ＪＲ中央本線 小淵沢駅より車で7分／中央自動車道 小淵沢ＩＣより車で4分</td>
                 <td className="p-3 text-stone-600">有り　35台　無料　予約不要　満車の場合は第２駐車場をご利用下さい。</td>
                 <td className="p-3 font-bold text-amber-600">★4.52（1828件）</td>
                 <td className="p-3 font-bold text-rose-600">¥11,900〜</td>
@@ -362,7 +362,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り 乗用車179台　無料（先着順）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「子供の遊び場が充実、また行きたい!とにかく子供の遊び場が充実しており、4歳1歳も大喜びで、滞在中はほとんど遊んでいました。親としては旅行の工程を色々考えていましたが、ここでの遊びが楽しすぎてなかな…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「子供の遊び場が充実、また行きたい!とにかく子供の遊び場が充実しており、4歳1歳も大喜びで、滞在中はほとんど遊んでいました。」
                   </blockquote>
                 </div>
               </div>
@@ -384,7 +384,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　７０台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「雨でも星ソムリエの解説で大満足!満点の星空を見たくて予約しましたが、あいにく一晩中、雨でした。しかし、このホテルの売りの星ソムリエの方が、室内の簡易プラネタリウムで、ここから見える夜空を開設してい…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「雨でも星ソムリエの解説で大満足!満点の星空を見たくて予約しましたが、あいにく一晩中、雨でした。」
                   </blockquote>
                 </div>
               </div>

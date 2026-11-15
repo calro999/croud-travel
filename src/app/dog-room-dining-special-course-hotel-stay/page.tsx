@@ -253,7 +253,7 @@ export default function PetDogResortHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. ラ・ドッグリゾート　伊豆高原　全室露天付き客室と部屋食の愛犬の宿</td>
                 <td className="p-3 text-stone-600">静岡県伊東市八幡野1254-25</td>
-                <td className="p-3 text-stone-600">伊豆高原駅周辺</td>
+                <td className="p-3 text-stone-600">伊豆高原駅よりタクシーで10分</td>
                 <td className="p-3 text-stone-600">有り　14台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.76（77件）</td>
                 <td className="p-3 font-bold text-rose-600">¥43,800〜</td>
@@ -271,7 +271,7 @@ export default function PetDogResortHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 静かな湖畔の愛犬同伴専門宿「ペロはまなこ」</td>
                 <td className="p-3 text-stone-600">静岡県湖西市新所5957-6</td>
-                <td className="p-3 text-stone-600">鷲津駅周辺</td>
+                <td className="p-3 text-stone-600">東名高速道路・三ケ日ＩＣから約20分 ＪＲ東海道線・鷲津駅よりお車で約10分</td>
                 <td className="p-3 text-stone-600">有り　１0台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.41（113件）</td>
                 <td className="p-3 font-bold text-rose-600">¥9,500〜</td>
@@ -280,7 +280,7 @@ export default function PetDogResortHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 伊勢二見　愛犬と泊まれる旅館　まつしん</td>
                 <td className="p-3 text-stone-600">三重県伊勢市二見町茶屋５７０－３</td>
-                <td className="p-3 text-stone-600">二見浦駅周辺</td>
+                <td className="p-3 text-stone-600">伊勢自動車道経由伊勢二見鳥羽ライン二見ＩＣより５分。</td>
                 <td className="p-3 text-stone-600">有り　２０台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.17（726件）</td>
                 <td className="p-3 font-bold text-rose-600">¥9,000〜</td>
@@ -289,7 +289,7 @@ export default function PetDogResortHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 下田温泉　黒船ホテル</td>
                 <td className="p-3 text-stone-600">静岡県下田市柿崎3-8</td>
-                <td className="p-3 text-stone-600">伊豆急下田駅周辺</td>
+                <td className="p-3 text-stone-600">伊豆急線「伊豆急下田駅」から徒歩13分、タクシーで3分。 車で沼津から当館まで伊豆縦貫道で90分。</td>
                 <td className="p-3 text-stone-600">当館の駐車場は建物の地下部分にございます。(高さ制限2.3ｍ/狭めのスペース/台数制限有り/無料)</td>
                 <td className="p-3 font-bold text-amber-600">★4.21（2266件）</td>
                 <td className="p-3 font-bold text-rose-600">¥9,165〜</td>
@@ -298,7 +298,7 @@ export default function PetDogResortHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">6. Ｈｏｔｅｌ　Ｓｅａ　Ｓｈｅｌｌ</td>
                 <td className="p-3 text-stone-600">静岡県下田市白浜1755</td>
-                <td className="p-3 text-stone-600">伊豆急下田駅周辺</td>
+                <td className="p-3 text-stone-600">伊豆急下田駅よりバスにて15分。白浜神社前下車</td>
                 <td className="p-3 text-stone-600">有り　室数分　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.35（137件）</td>
                 <td className="p-3 font-bold text-rose-600">¥11,000〜</td>
@@ -371,7 +371,7 @@ export default function PetDogResortHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１0台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事もドッグランも大満足、愛犬と楽しめた夕食、朝食ともにボリュームがすごいだけでなく、とても美味しい食事でした。アメニティやペット用のグッズもちゃんと準備され、ドッグランも楽しめました。ベッドが柔…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事もドッグランも大満足、愛犬と楽しめた夕食、朝食ともにボリュームがすごいだけでなく、とても美味しい食事でした。アメニティやペット用のグッズもちゃんと準備され、ドッグランも楽しめました。」
                   </blockquote>
                 </div>
               </div>
@@ -393,7 +393,7 @@ export default function PetDogResortHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２０台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「夕食は豪華でロケーション最高、愛犬も大満足夕食が食べきれないくらいでお腹いっぱいになりました!お風呂と部屋が普通すぎるくらい普通でした。夫婦岩が部屋から見えてロケーションは最高でしたがクー…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「夕食は豪華でロケーション最高、愛犬も大満足夕食が食べきれないくらいでお腹いっぱいになりました!お風呂と部屋が普通すぎるくらい普通でした。」
                   </blockquote>
                 </div>
               </div>
@@ -415,7 +415,7 @@ export default function PetDogResortHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>当館の駐車場は建物の地下部分にございます。(高さ制限2.3ｍ/狭めのスペース/台数制限有り/無料)</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事の種類も味も最高、また行きたい!夕食、朝食共にご飯が全て美味しかったです!種類も多く本当にまだまだ食べたいと思うほど美味しくて大満足でした!毎年伊豆には行き、いろんなところに泊まり美味しい…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事の種類も味も最高、また行きたい!夕食、朝食共にご飯が全て美味しかったです!種類も多く本当にまだまだ食べたいと思うほど美味しくて大満足でした!」
                   </blockquote>
                 </div>
               </div>
@@ -437,7 +437,7 @@ export default function PetDogResortHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　室数分　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「・車で行く人は結構道が狭いです。・歩きの方は坂がとにかくきついので注意が必要です。・ホテル内にエレベーターはありません。それでも素晴らしいホテルでした。おもてなしも素敵でしたし、客…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「・車で行く人は結構道が狭いです。・歩きの方は坂がとにかくきついので注意が必要です。・ホテル内にエレベーターはありません。それでも素晴らしいホテルでした。」
                   </blockquote>
                 </div>
               </div>

@@ -425,8 +425,8 @@ export default function Page() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 松代駅よりアクセス。ほくほく線 まつだい駅より車で７分／関越道六日町ＩＣよりＲ２５３経由約４０分。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「まつだい芝峠温泉雲海」にチェックイン。★雲海を見下ろす絶景露天風呂＆貸切露天が好評！などの宿の特徴に期待を高めつつ客室へ。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 「まつだい芝峠温泉雲海」の湯処へ。★雲海を見下ろす絶景露天風呂＆貸切露天が好評！とともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「まつだい芝峠温泉雲海」にチェックイン。★雲海を見下ろす絶景露天風呂＆貸切露天が好評！ 窓外に広がる景色を眺めながらチェックイン後の寛ぎ時間を。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「まつだい芝峠温泉雲海」の自慢の湯処へ。温かな湯気と落ち着いた雰囲気に癒やされながら、夕食前の贅沢なひとときを過ごす。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「まつだい芝峠温泉雲海」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
@@ -438,7 +438,7 @@ export default function Page() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「まつだい芝峠温泉雲海」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
                 <li>・<strong className="text-stone-800">08:00〜</strong> 「まつだい芝峠温泉雲海」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「輪島天然温泉「旅人の湯」ホテルルートイン輪島」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は宿周辺の散策とショッピングを満喫。地元の名産品やグルメを味わってから余裕をもって帰路につく。</li>
               </ul>
             </div>
           </div>
@@ -566,7 +566,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. まつだい芝峠温泉雲海</td>
                 <td className="p-3 text-stone-600">新潟県十日町市蓬平11-1</td>
-                <td className="p-3 text-stone-600">松代駅周辺</td>
+                <td className="p-3 text-stone-600">ほくほく線 まつだい駅より車で７分／関越道六日町ＩＣよりＲ２５３経由約４０分</td>
                 <td className="p-3 text-stone-600">有り　７０台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.48（436件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,800〜</td>
@@ -575,7 +575,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 輪島天然温泉「旅人の湯」ホテルルートイン輪島</td>
                 <td className="p-3 text-stone-600">石川県輪島市マリンタウン1-2</td>
-                <td className="p-3 text-stone-600">穴水駅周辺</td>
+                <td className="p-3 text-stone-600">特急バス 輪島マリンタウンから徒歩１分／のと里山海道 能登空港ＩＣより車で３０分（２５ｋｍ）</td>
                 <td className="p-3 text-stone-600">有り　137台　無料　予約不可（※先着順）</td>
                 <td className="p-3 font-bold text-amber-600">高評価</td>
                 <td className="p-3 font-bold text-rose-600">¥11,200〜</td>
@@ -584,7 +584,7 @@ export default function Page() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 入鹿温泉ホテル瀞流荘</td>
                 <td className="p-3 text-stone-600">三重県熊野市紀和町小川口158</td>
-                <td className="p-3 text-stone-600">熊野市駅周辺</td>
+                <td className="p-3 text-stone-600">自家用車以外の場合 ＪＲ紀勢本線・熊野市駅で降り、三重交通バス熊野古道瀞流荘線・瀞流荘行きに乗車。約50分。</td>
                 <td className="p-3 text-stone-600">有り　７０台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.47（228件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,000〜</td>
@@ -613,7 +613,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　７０台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事は豪勢だが布団や設備に難あり煎餅布団が気に入らなかったが食事が豪勢で妻は食べきれずにかなり残したのが残念朝食のおかずに鯖の塩焼きがあったが自分は万歳だったが、妻はアレルギーのため食べられず…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事は豪勢だが布団や設備に難あり煎餅布団が気に入らなかったが食事が豪勢で妻は食べきれずにかなり残したのが残念朝食のおかずに鯖の塩焼きがあったが自分は万歳だったが、妻はアレルギーのため食べられず。」
                   </blockquote>
                 </div>
               </div>
@@ -657,7 +657,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　７０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「建物は古いが料理は美味しく接客も丁寧お世話になりました。建物が古くて仕方ないですが部屋から機械音のような音がたびたびしていました。でも部屋はきれいでしたし、お料理も美味しかったです。ありがとう…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「建物は古いが料理は美味しく接客も丁寧お世話になりました。建物が古くて仕方ないですが部屋から機械音のような音がたびたびしていました。でも部屋はきれいでしたし、お料理も美味しかったです。」
                   </blockquote>
                 </div>
               </div>
