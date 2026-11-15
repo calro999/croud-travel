@@ -12,7 +12,10 @@ from atproto import Client, client_utils
 try:
     from scripts.tourist_image_fetcher import fetch_tourist_spot_image
 except ImportError:
-    from tourist_image_fetcher import fetch_tourist_spot_image
+    try:
+        from tourist_image_fetcher import fetch_tourist_spot_image
+    except ImportError:
+        fetch_tourist_spot_image = None
 
 POSTS_DIR = "src/data/posts"
 BLUESKY_HISTORY_FILE = "bluesky_post_history.txt"
@@ -513,21 +516,22 @@ def collect_pref_showcase_images(pref_info):
 
     # 1. 観光スポット名からWikipedia/Wikimediaの実写横長画像を取得
     print(f"[IMAGES] Fetching tourist spot images for {pref_name}...")
-    for spot in spots:
-        if len(image_bytes_list) >= 4:
-            break
-        try:
-            spot_img_info = fetch_tourist_spot_image(spot, min_width=600)
-            if spot_img_info and spot_img_info.get("url"):
-                u = spot_img_info["url"]
-                res = requests.get(u, headers=headers, timeout=10)
-                if res.status_code == 200 and len(res.content) > 2000:
-                    optimized = optimize_image_bytes(res.content)
-                    image_bytes_list.append(optimized)
-                    alts.append(f"{pref_name}・{spot_img_info.get('title', spot)}")
-                    print(f"  [SPOT-IMG] Added: {spot} ({spot_img_info['title']}) [{spot_img_info['width']}x{spot_img_info['height']}]")
-        except Exception as e:
-            print(f"  [WARN] Failed to fetch spot image for {spot}: {e}")
+    if fetch_tourist_spot_image:
+        for spot in spots:
+            if len(image_bytes_list) >= 4:
+                break
+            try:
+                spot_img_info = fetch_tourist_spot_image(spot, min_width=600)
+                if spot_img_info and spot_img_info.get("url"):
+                    u = spot_img_info["url"]
+                    res = requests.get(u, headers=headers, timeout=10)
+                    if res.status_code == 200 and len(res.content) > 2000:
+                        optimized = optimize_image_bytes(res.content)
+                        image_bytes_list.append(optimized)
+                        alts.append(f"{pref_name}・{spot_img_info.get('title', spot)}")
+                        print(f"  [SPOT-IMG] Added: {spot} ({spot_img_info['title']}) [{spot_img_info['width']}x{spot_img_info['height']}]")
+            except Exception as e:
+                print(f"  [WARN] Failed to fetch spot image for {spot}: {e}")
 
     # 2. 4枚に満たない場合、該当都道府県の記事から宿画像を補完
     if len(image_bytes_list) < 4 and os.path.isdir(POSTS_DIR):
