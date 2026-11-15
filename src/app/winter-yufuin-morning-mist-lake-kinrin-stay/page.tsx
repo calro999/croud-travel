@@ -328,7 +328,7 @@ export default function FeaturePage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「由布院温泉 湯布院旅館のぎく」は『全室温泉風呂付・素泊まり 口コミ高評価の和モダン貸切サウナ「天照」「月読」でととのう贅沢な』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「由布院温泉 湯布院旅館のぎく」は『全室温泉風呂付・素泊まり 口コミ高評価の和モダン貸切サウナ「天照」「月読」でととのう贅沢な温泉旅。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

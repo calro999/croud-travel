@@ -599,7 +599,7 @@ export default function FeatureDetailPage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「湯原温泉 湯めぐりの宿 松の家花泉」は『10の湯めぐりが楽しめる湯めぐりの宿。料理長が厳選した食材で造る創作懐石も魅力。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「湯原温泉 湯めぐりの宿 松の家花泉」は『10の湯めぐりが楽しめる湯めぐりの宿。料理長が厳選した食材で造る創作懐石も魅力。 館内の設えを確かめながら、これからの滞在に備えてゆっくり休息する。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

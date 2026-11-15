@@ -421,7 +421,7 @@ export default function ArticlePage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「ダイワロイネットホテル青森」は『駅から徒歩約5分の好立地◆全室バス・トイレ別◆フィットネスジム◆コンビニ◆自然豊かな青森で。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「ダイワロイネットホテル青森」は『駅から徒歩約5分の好立地◆全室バス・トイレ別◆フィットネスジム◆コンビニ◆自然豊かな青森で寛ぎステイ。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

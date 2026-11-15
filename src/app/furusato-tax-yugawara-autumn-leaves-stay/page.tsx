@@ -443,7 +443,7 @@ export default function FeatureArticlePage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「湯河原温泉 島崎藤村ゆかりの宿 伊藤屋」は『貸切風呂は無料・予約不要。万葉公園入口2分、美術館5分で散策便利。門柱・石垣と本館一部は登。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「湯河原温泉 島崎藤村ゆかりの宿 伊藤屋」は『貸切風呂は無料・予約不要。万葉公園入口2分、美術館5分で散策便利。門柱・石垣と本館一部は登録文化財。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

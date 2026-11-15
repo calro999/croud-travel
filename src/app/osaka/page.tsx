@@ -246,7 +246,7 @@ export default function OsakaHubPage() {
                 <div>
                   <span className="text-[11px] font-bold text-amber-700 bg-amber-100 px-2.5 py-0.5 rounded-full mr-2">詳細データ #1</span>
                   <h3 className="text-base md:text-lg font-bold text-stone-900 inline">住友不動産ホテル　ヴィラフォンテーヌグランド大阪梅田</h3>
-                  <span className="text-xs text-stone-400 ml-2">（すみともふどうさんほてる　&amp;amp;#12436;ぃらふぉんてーぬぐらんどおおさかうめだ）</span>
+                  <span className="text-xs text-stone-400 ml-2">（すみともふどうさんほてる　ゔぃらふぉんてーぬぐらんどおおさかうめだ）</span>
                 </div>
                 <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥6,610〜</span>
               </div>

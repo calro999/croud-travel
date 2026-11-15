@@ -507,7 +507,7 @@ export default function ArticlePage() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/54697/54697_kan.jpg" alt="別府温泉　悠彩の宿　望海 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
-                  <p><strong>【宿の特徴・魅力】</strong>夕食は贅沢な会席料理を「お部屋食」にてご提供♪　温泉施設も令和６年１２月に最新の設備に&amp;amp;#9832;</p>
+                  <p><strong>【宿の特徴・魅力】</strong>夕食は贅沢な会席料理を「お部屋食」にてご提供♪　温泉施設も令和６年１２月に最新の設備に♨</p>
                   <p><strong>【所在地・アクセス】</strong>大分県別府市北浜3-8-7 ／ 最寄り駅：別府（大分） ／ 交通案内：JR別府駅より徒歩15分またはタクシーで3分。別府ＩＣより車で15分。大分空港よりバスで45分-バス停より徒歩5分。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有　３０台（無料）お車はスタッフが駐車場までご移動しますので、玄関前にお着けください</p>
                   

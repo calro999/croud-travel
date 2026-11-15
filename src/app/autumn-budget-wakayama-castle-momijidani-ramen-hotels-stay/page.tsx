@@ -338,7 +338,7 @@ export default function AutumnBudgetWakayamaHotelsPage() {
                 <td className="p-3 font-bold text-stone-900">4. 白浜温泉　白良荘グランドホテル</td>
                 <td className="p-3 text-stone-600">和歌山県西牟婁郡白浜町868</td>
                 <td className="p-3 text-stone-600">JR白浜駅よりタクシー・路線バス・車で約10分 南紀白浜空港より車で約10分 アドベンチャーワールドより車で約10分</td>
-                <td className="p-3 text-stone-600">屋外無料駐車場（約70台）13時&amp;amp;#12316;翌11時。時間外は有料につき公式HPを御確認下さい</td>
+                <td className="p-3 text-stone-600">屋外無料駐車場（約70台）13時〜翌11時。時間外は有料につき公式HPを御確認下さい</td>
                 <td className="p-3 font-bold text-amber-600">★4.48（2465件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,910〜</td>
                 <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F2909%2F2909.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
@@ -438,7 +438,7 @@ export default function AutumnBudgetWakayamaHotelsPage() {
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>白良浜まで直通徒歩30秒！海を一望する温泉と海の幸を中心とした会席料理で贅沢な時間を。</p>
                   <p><strong>【所在地・アクセス】</strong>和歌山県西牟婁郡白浜町868 ／ 最寄り駅：白浜 ／ 交通案内：JR白浜駅よりタクシー・路線バス・車で約10分 南紀白浜空港より車で約10分  アドベンチャーワールドより車で約10分</p>
-                  <p><strong>【駐車場・マイカー利用】</strong>屋外無料駐車場（約70台）13時&amp;amp;#12316;翌11時。時間外は有料につき公式HPを御確認下さい</p>
+                  <p><strong>【駐車場・マイカー利用】</strong>屋外無料駐車場（約70台）13時〜翌11時。時間外は有料につき公式HPを御確認下さい</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
                     💬 <strong>宿泊者クチコミ抜粋：</strong>「食事は美味しくドライヤーも使いやすい海はライブするせいで入れなかったのはとてもざんねんでした、これはホテルのせいではないのは分かるけど、白浜で泳ぎたかった。」

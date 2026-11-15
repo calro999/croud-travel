@@ -454,7 +454,7 @@ export default function FurusatoKanrekiCelebrationStayPage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「有馬温泉 御幸荘 花結び」は『全室お部屋食|四季の花と旬のお料理、有馬温泉でも有数の金泉・銀泉2種の天然温泉を堪能する贅。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「有馬温泉 御幸荘 花結び」は『全室お部屋食|四季の花と旬のお料理、有馬温泉でも有数の金泉・銀泉2種の天然温泉を堪能する贅沢な寛ぎを。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

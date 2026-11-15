@@ -375,7 +375,7 @@ export default function Page() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「あかん遊久の里鶴雅」は『和のこころ、阿寒のおもてなしをさらに深めて。日本の旅館文化を継承するおもてなしをご堪能くだ。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「あかん遊久の里鶴雅」は『和のこころ、阿寒のおもてなしをさらに深めて。日本の旅館文化を継承するおもてなしをご堪能ください。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
@@ -482,7 +482,7 @@ export default function Page() {
                 <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F40045%2F40045.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
-                <td className="p-3 font-bold text-stone-900">2. ニュー阿寒ホテル（グランベルホテルズ&amp;amp;リゾーツ）</td>
+                <td className="p-3 font-bold text-stone-900">2. ニュー阿寒ホテル（グランベルホテルズ&amp;リゾーツ）</td>
                 <td className="p-3 text-stone-600">北海道釧路市阿寒町阿寒湖温泉2-8-8</td>
                 <td className="p-3 text-stone-600">詳細はホテル公式サイトでご確認ください</td>
                 <td className="p-3 text-stone-600">有り ２００台 無料 先着順</td>
@@ -531,13 +531,13 @@ export default function Page() {
               <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
                 <div>
                   <span className="text-[11px] font-bold text-amber-700 bg-amber-100 px-2.5 py-0.5 rounded-full mr-2">詳細データ #2</span>
-                  <h3 className="text-base md:text-lg font-bold text-stone-900 inline">ニュー阿寒ホテル（グランベルホテルズ&amp;amp;リゾーツ）</h3>
+                  <h3 className="text-base md:text-lg font-bold text-stone-900 inline">ニュー阿寒ホテル（グランベルホテルズ&amp;リゾーツ）</h3>
                   <span className="text-xs text-stone-400 ml-2">（ニューアカンホテル（グランベルホテルズ＆リゾーツ））</span>
                 </div>
                 <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥10,200〜</span>
               </div>
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
-                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/9568/9568_jpr.jpg" alt="ニュー阿寒ホテル（グランベルホテルズ&amp;amp;リゾーツ） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/9568/9568_jpr.jpg" alt="ニュー阿寒ホテル（グランベルホテルズ&amp;リゾーツ） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>阿寒湖とつながるインフィニティスパで満天の星空に包まれる◆和洋中80種以上の北海道ビュッフェ</p>
                   <p><strong>【所在地・アクセス】</strong>北海道釧路市阿寒町阿寒湖温泉2-8-8 ／ 最寄り駅：釧路 ／ 交通案内：詳細はホテル公式サイトでご確認ください</p>

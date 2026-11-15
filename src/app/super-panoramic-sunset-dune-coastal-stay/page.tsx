@@ -93,7 +93,7 @@ const hotels: any[] = [
     "access": "鶴岡駅 バス約４０分・車約２５分",
     "parkingInformation": "有り　５台　無料　先着順",
     "nearestStation": "鶴岡",
-    "hotelSpecial": "本格的な韓国料理を楽しめる海辺の温泉旅館。全部屋トイレ付でプライバシーも安心です&amp;#9836;",
+    "hotelSpecial": "本格的な韓国料理を楽しめる海辺の温泉旅館。全部屋トイレ付でプライバシーも安心です♬",
     "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F191950%2F191950.html"
   },
   {
@@ -362,7 +362,7 @@ export default function FeatureDetailPage() {
                       <span className="text-xs font-bold text-emerald-600 bg-emerald-50 px-2 py-0.5 rounded border border-emerald-100">楽天高評価</span>
                     </div>
                     <ul className="space-y-1 mb-4 text-xs text-slate-600 bg-slate-50 p-3 rounded-lg">
-                      <li className="flex items-start gap-1"><span className="text-amber-500 shrink-0">•</span><span>本格的な韓国料理を楽しめる海辺の温泉旅館。全部屋トイレ付でプライバシーも安心です&amp;#9836;…</span></li>
+                      <li className="flex items-start gap-1"><span className="text-amber-500 shrink-0">•</span><span>本格的な韓国料理を楽しめる海辺の温泉旅館。全部屋トイレ付でプライバシーも安心です♬…</span></li>
                       <li className="flex items-start gap-1"><span className="text-amber-500 shrink-0">•</span><span>アクセス: 鶴岡駅 バス約４０分・車約２５分</span></li>
                       <li className="flex items-start gap-1"><span className="text-amber-500 shrink-0">•</span><span>楽天トラベル総合評価: ★4.19（レビュー 50件）</span></li>
                     </ul>
@@ -523,7 +523,7 @@ export default function FeatureDetailPage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「宇久須温泉 西伊豆クリスタルビューホテル」は『クリスタルビーチを眼下に望む温泉リゾート。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「宇久須温泉 西伊豆クリスタルビューホテル」は『クリスタルビーチを眼下に望む温泉リゾート。 窓外に広がる景色を眺めながらチェックイン後の寛ぎ時間を。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
@@ -718,7 +718,7 @@ export default function FeatureDetailPage() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/191950/191950.jpg" alt="湯野浜ホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
-                  <p><strong>【宿の特徴・魅力】</strong>本格的な韓国料理を楽しめる海辺の温泉旅館。全部屋トイレ付でプライバシーも安心です&amp;#9836;</p>
+                  <p><strong>【宿の特徴・魅力】</strong>本格的な韓国料理を楽しめる海辺の温泉旅館。全部屋トイレ付でプライバシーも安心です♬</p>
                   <p><strong>【所在地・アクセス】</strong>山形県鶴岡市湯野浜1-3-36 ／ 最寄り駅：鶴岡 ／ 交通案内：鶴岡駅 バス約４０分・車約２５分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　５台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.18 ／ 立地 ★4.09 ／ 部屋 ★4.22 ／ 設備 ★4.06 ／ 風呂 ★4.38</p>

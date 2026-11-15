@@ -174,7 +174,7 @@ export default function Page() {
                     <div className="p-5">
                       <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">湯野浜ホテル</h4>
                       <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
-                        本格的な韓国料理を楽しめる海辺の温泉旅館。全部屋トイレ付でプライバシーも安心です&amp;#9836;
+                        本格的な韓国料理を楽しめる海辺の温泉旅館。全部屋トイレ付でプライバシーも安心です♬
                       </p>
                       <div className="mt-3 text-xs text-stone-300">
                         📍 山形県鶴岡市湯野浜1-3-36

@@ -461,7 +461,7 @@ export default function Page() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「露天風呂の宿 開運の湯 ロイヤルホテル河口湖」は『温泉好きも絶賛！湖畔の風吹き抜ける庭園風露天風呂など３種の 開運の湯 は滞在中何度でも入り。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「露天風呂の宿 開運の湯 ロイヤルホテル河口湖」は『温泉好きも絶賛！湖畔の風吹き抜ける庭園風露天風呂など３種の【開運の湯】は滞在中何度でも入り放題♪』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

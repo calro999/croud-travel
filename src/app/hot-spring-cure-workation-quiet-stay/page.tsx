@@ -322,7 +322,7 @@ export default function WellnessRetreatHubPage() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/29133/29133_heya.jpg" alt="トロトロ美肌湯と朝ごはんの宿　入船荘（メルヘン村・忍者村提携旅館）（旧：「心ほぐす宿」入船荘） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
-                  <p><strong>【宿の特徴・魅力】</strong>トロトロ純度99％の嬉野温泉を満喫★夢街道&amp;amp;メルヘン村系列店巡りの家族旅行／ビジネス一人旅も大歓迎</p>
+                  <p><strong>【宿の特徴・魅力】</strong>トロトロ純度99％の嬉野温泉を満喫★夢街道&amp;メルヘン村系列店巡りの家族旅行／ビジネス一人旅も大歓迎</p>
                   <p><strong>【所在地・アクセス】</strong>佐賀県嬉野市嬉野町下宿乙2330 ／ 最寄り駅：武雄温泉 ／ 交通案内：ＪＲ武雄温泉駅よりバスで嬉野温泉まで３０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　８０台　無料　先着順</p>
                   

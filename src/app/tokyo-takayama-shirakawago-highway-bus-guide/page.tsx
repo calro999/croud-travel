@@ -473,7 +473,7 @@ export default function HighwayBusArticlePage() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/8327/8327_heya.jpg" alt="飛騨高山　本陣平野屋　花兆庵 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
-                  <p><strong>【宿の特徴・魅力】</strong>【高山陣屋】【古い町並】に最も近い宿。上質なおもてなしでさりげなく満たされる極上の時間をゆっくりと…</p>
+                  <p><strong>【宿の特徴・魅力】</strong>【高山陣屋】【古い町並】に最も近い宿。上質なおもてなしでさりげなく満たされる極上の時間をゆっくりとお過ごしください。</p>
                   <p><strong>【所在地・アクセス】</strong>岐阜県高山市本町1-34 ／ 最寄り駅：高山 ／ 交通案内：高山駅より徒歩10分　駅まで無料送迎：随時　車：東海北陸　高山ＩＣ～10分・中央道　松本ＩＣ～120分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>無料　50台　チェックイン前・チェックアウト後もお預かりいたします</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.92 ／ 立地 ★4.82 ／ 部屋 ★4.87 ／ 設備 ★4.79 ／ 風呂 ★4.69 ／ 食事 ★4.92</p>

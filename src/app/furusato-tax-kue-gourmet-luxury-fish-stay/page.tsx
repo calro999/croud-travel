@@ -619,7 +619,7 @@ export default function FurusatoFeaturePage() {
                 <td className="p-3 font-bold text-stone-900">6. アパートメント五島＜五島・福江島＞</td>
                 <td className="p-3 text-stone-600">長崎県五島市末広町7-13　アドバンス五常205</td>
                 <td className="p-3 text-stone-600">福江空港より車で約１０分 福江港より車で約３分</td>
-                <td className="p-3 text-stone-600">専用駐車場はございません。近隣の有料駐車場をご案内いたします。（徒歩3&amp;#12316;5分の場所）</td>
+                <td className="p-3 text-stone-600">専用駐車場はございません。近隣の有料駐車場をご案内いたします。（徒歩3〜5分の場所）</td>
                 <td className="p-3 font-bold text-amber-600">★4.41（52件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,624〜</td>
                 <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F188157%2F188157.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
@@ -754,7 +754,7 @@ export default function FurusatoFeaturePage() {
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>港や飲み屋街まで５分の好立地。広々４０㎡のワンフロア</p>
                   <p><strong>【所在地・アクセス】</strong>長崎県五島市末広町7-13　アドバンス五常205 ／ 最寄り駅：福江空港 ／ 交通案内：福江空港より車で約１０分 福江港より車で約３分</p>
-                  <p><strong>【駐車場・マイカー利用】</strong>専用駐車場はございません。近隣の有料駐車場をご案内いたします。（徒歩3&amp;#12316;5分の場所）</p>
+                  <p><strong>【駐車場・マイカー利用】</strong>専用駐車場はございません。近隣の有料駐車場をご案内いたします。（徒歩3〜5分の場所）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.55 ／ 立地 ★4.52 ／ 部屋 ★4.55 ／ 設備 ★4.26 ／ 風呂 ★4.2</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
                     💬 <strong>宿泊者クチコミ抜粋：</strong>「送迎の対応が親切で、部屋も清潔で快適ホテルのスタッフの方が港まで迎えに来てくださりとても助かりました。部屋も清潔で、まるで自分のアパートにいるようにゆったりすることができました。」

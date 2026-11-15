@@ -304,7 +304,7 @@ export default function MicroTouristHubPage() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/8226/8226_room.jpg" alt="白浜温泉　ホテル三楽荘 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
-                  <p><strong>【宿の特徴・魅力】</strong>得旅ポイント最大15倍■全室オーシャンビュー&amp;amp;白良浜徒歩1分■露天風呂付き客室はすべて源泉掛け流し</p>
+                  <p><strong>【宿の特徴・魅力】</strong>得旅ポイント最大15倍■全室オーシャンビュー&amp;白良浜徒歩1分■露天風呂付き客室はすべて源泉掛け流し</p>
                   <p><strong>【所在地・アクセス】</strong>和歌山県西牟婁郡白浜町3078 ／ 最寄り駅：白浜 ／ 交通案内：車：紀勢自動車道南紀白浜ICより県道34号線を白浜温泉方面へ約20分 電車：JR白浜駅よりバスで15分</p>
                   <p>【和歌山・南紀白浜：白良浜・アドベンチャーワールド＆崎】 <strong>【駐車場・マイカー利用】</strong>有り　100台　無料</p>
                   

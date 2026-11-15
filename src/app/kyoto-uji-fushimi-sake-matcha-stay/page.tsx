@@ -388,7 +388,7 @@ export default function MicroTouristHubPage() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/168309/168309.jpg" alt="優遊　ＩＮＮ　Ｆｕｓｈｉｍｉ　Ｋｙｏｔｏ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
-                  <p><strong>【宿の特徴・魅力】</strong>伏見エリア【墨染駅3分】水回り独立&amp;amp;幅140ダブルベットの快適ホテル。非対面チェックイン◎</p>
+                  <p><strong>【宿の特徴・魅力】</strong>伏見エリア【墨染駅3分】水回り独立&amp;幅140ダブルベットの快適ホテル。非対面チェックイン◎</p>
                   <p><strong>【所在地・アクセス】</strong>京都府京都市伏見区深草山村町999-4 ／ 最寄り駅：墨染 ／ 交通案内：京阪：墨染駅より徒歩3分　　近鉄：伏見駅より徒歩10分　「伏見稲荷大社」「祇園四条」へ乗換なしで便利な立地◎</p>
                   <p><strong>【駐車場・マイカー利用】</strong>無し　　近隣にコインパーキングあり（徒歩1分：24ｈ660円等）※出入り毎に料金がかかります。</p>
                   

@@ -348,7 +348,7 @@ export default function MicroTouristHubPage() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/5208/5208_sgl.jpg" alt="ホテルナガノアベニュー 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
-                  <p><strong>【宿の特徴・魅力】</strong>旅の疲れを癒すお風呂と本格サウナ！◇図書室マンガ約5000冊&amp;amp;地元情報誌沢山！</p>
+                  <p><strong>【宿の特徴・魅力】</strong>旅の疲れを癒すお風呂と本格サウナ！◇図書室マンガ約5000冊&amp;地元情報誌沢山！</p>
                   <p><strong>【所在地・アクセス】</strong>長野県長野市南千歳2-8-5 ／ 最寄り駅：長野 ／ 交通案内：JR長野駅（善光寺口）を出て駅を背にして長野大通りを右（北上）へまっすぐ徒歩7～8分◆上信越自動車道長野ICより３０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>ホテルより徒歩4分TOiGOパーキング入庫より24時間出し入れなし800円（高さ制限2.1M）</p>
                   

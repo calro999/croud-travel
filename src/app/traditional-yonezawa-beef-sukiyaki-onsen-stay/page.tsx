@@ -565,7 +565,7 @@ export default function FeatureDetailPage() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 米沢駅よりアクセス。山形新幹線 米沢駅より路線バスで26分。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「小野川温泉 鈴の宿 登府屋旅館」にチェックイン。■ご家族で”親孝行たび”をお考えの方へ♪バリアフリーで車イスもラクラク安心♪掛け流し温泉&amp;amp;サが魅力の一軒。客室で荷物をほどいて穏やかな午後のひとときを。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「小野川温泉 鈴の宿 登府屋旅館」にチェックイン。■ご家族で”親孝行たび”をお考えの方へ♪バリアフリーで車イスもラクラク安心♪掛け流し温泉&amp;サが魅力の一軒。客室で荷物をほどいて穏やかな午後のひとときを。</li>
                 <li>・<strong className="text-stone-800">17:00〜</strong> 「小野川温泉 鈴の宿 登府屋旅館」の自慢の湯処へ。温かな湯気と落ち着いた雰囲気に癒やされながら、夕食前の贅沢なひとときを過ごす。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「小野川温泉 鈴の宿 登府屋旅館」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
@@ -606,7 +606,7 @@ export default function FeatureDetailPage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「小野川温泉 鈴の宿 登府屋旅館」は『■ご家族で”親孝行たび”をお考えの方へ♪バリアフリーで車イスもラクラク安心♪掛け流し温泉&amp;。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「小野川温泉 鈴の宿 登府屋旅館」は『■ご家族で”親孝行たび”をお考えの方へ♪バリアフリーで車イスもラクラク安心♪掛け流し温泉&amp;サウナ有り。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

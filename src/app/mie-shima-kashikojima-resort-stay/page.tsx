@@ -262,7 +262,7 @@ export default function MicroTouristHubPage() {
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. クインテッサホテル伊勢志摩</td>
                 <td className="p-3 text-stone-600">三重県志摩市阿児町鵜方1210-1</td>
-                <td className="p-3 text-stone-600">車:伊勢西ＩＣを降り伊勢道路&amp;amp;国道１６７号経由で約４５分 電車:近鉄鵜方駅(特急停車駅)から徒歩約12分</td>
+                <td className="p-3 text-stone-600">車:伊勢西ＩＣを降り伊勢道路&amp;国道１６７号経由で約４５分 電車:近鉄鵜方駅(特急停車駅)から徒歩約12分</td>
                 <td className="p-3 text-stone-600">無料先着70台※地上43台 地下27台 高さ2.3mまで※トラック・バスは事前予約制（有料）</td>
                 <td className="p-3 font-bold text-amber-600">★4.24（1662件）</td>
                 <td className="p-3 font-bold text-rose-600">¥2,835〜</td>
@@ -345,7 +345,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/16258/16258_heya.jpg" alt="クインテッサホテル伊勢志摩 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>人気の朝食ブッフェや大浴場もありゆったりとお過ごし頂けます。鵜方駅ホテル間の無料送迎あり。</p>
-                  <p><strong>【所在地・アクセス】</strong>三重県志摩市阿児町鵜方1210-1 ／ 最寄り駅：鵜方 ／ 交通案内：車:伊勢西ＩＣを降り伊勢道路&amp;amp;国道１６７号経由で約４５分　電車:近鉄鵜方駅(特急停車駅)から徒歩約12分</p>
+                  <p><strong>【所在地・アクセス】</strong>三重県志摩市阿児町鵜方1210-1 ／ 最寄り駅：鵜方 ／ 交通案内：車:伊勢西ＩＣを降り伊勢道路&amp;国道１６７号経由で約４５分　電車:近鉄鵜方駅(特急停車駅)から徒歩約12分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>無料先着70台※地上43台 地下27台 高さ2.3mまで※トラック・バスは事前予約制（有料）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

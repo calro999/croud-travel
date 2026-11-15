@@ -237,7 +237,7 @@ export default function Page() {
             <div className="space-y-3">
               <h4 className="font-bold text-stone-900 text-sm">宿の魅力と秋の過ごし方</h4>
               <p className="text-sm text-stone-700 leading-relaxed">
-                こだわりの湯使い、本当の源泉かけ流しをご堪能ください&amp;#9832;
+                こだわりの湯使い、本当の源泉かけ流しをご堪能ください♨
               </p>
               <div className="bg-stone-50 p-3 rounded text-xs text-stone-600 space-y-1">
                 <p><span className="font-semibold text-stone-800">アクセス:</span> ＪＲ常磐線湯本駅より徒歩８分　常磐自動車道いわき湯本ＩＣから４ｋｍ（車で７分）　ハワイアンズまで車で約７分　</p>
@@ -375,7 +375,7 @@ export default function Page() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「いわき湯本温泉 ホテルパームスプリング」は『ハワイアンズ車5分と好アクセス！源泉100％掛け流し檜香る温泉に旬の食材を使用した料理長特。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「いわき湯本温泉 ホテルパームスプリング」は『ハワイアンズ車5分と好アクセス！源泉100％掛け流し檜香る温泉に旬の食材を使用した料理長特製の和食膳。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
@@ -539,7 +539,7 @@ export default function Page() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/31896/31896_fu1.jpg" alt="いわき湯本温泉　旅館　こいと 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
-                  <p><strong>【宿の特徴・魅力】</strong>こだわりの湯使い、本当の源泉かけ流しをご堪能ください&amp;#9832;</p>
+                  <p><strong>【宿の特徴・魅力】</strong>こだわりの湯使い、本当の源泉かけ流しをご堪能ください♨</p>
                   <p><strong>【所在地・アクセス】</strong>福島県いわき市常磐湯本町笠井1 ／ 最寄り駅：湯本 ／ 交通案内：ＪＲ常磐線湯本駅より徒歩８分　常磐自動車道いわき湯本ＩＣから４ｋｍ（車で７分）　ハワイアンズまで車で約７分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>普通乗用車タイプ28台、無料、道路を挟んで旅館の向かい側。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.39 ／ 立地 ★4.38 ／ 部屋 ★4.22 ／ 設備 ★4.19 ／ 風呂 ★4.6 ／ 食事 ★4.54</p>

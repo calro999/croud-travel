@@ -798,6 +798,9 @@ export default async function PostPage({ params }: { params: Promise<{ id: strin
         </div>
 
         {/* AI-SEO (GEO) ＆ ユーザー満足度向上の FAQ (よくある質問) - 全記事表示で構造化データと完全一致 */}
+        {!((post.review || post.content || "").includes('id="faq"') || (post.review || post.content || "").includes("id='faq'")) && (
+          <div id="faq" className="scroll-mt-24" />
+        )}
         <div id="section-faq" className="scroll-mt-24 pt-10 border-t border-emerald-950/10 space-y-6">
           <h3 className="text-lg md:text-xl font-bold font-journal-serif text-emerald-950 flex items-center gap-2"><span>{post.prefecture}旅行・{post.hotel_name}に関するよくある質問（FAQ）</span></h3>
           <div className="space-y-4">

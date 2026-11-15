@@ -406,7 +406,7 @@ export default function SumatakyoAutumnPage() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/44267/44267_kya.jpg" alt="川根温泉ふれあいコテージ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
-                  <p><strong>【宿の特徴・魅力】</strong>全棟源泉かけ流し温泉付きの一棟貸しコテージで、日常の喧騒から離れた心休まるひと時を…</p>
+                  <p><strong>【宿の特徴・魅力】</strong>全棟源泉かけ流し温泉付きの一棟貸しコテージで、日常の喧騒から離れた心休まるひと時をお過ごしください。</p>
                   <p><strong>【所在地・アクセス】</strong>静岡県島田市川根町笹間渡411-2 ／ 最寄り駅：笹間渡 ／ 交通案内：大井川鐵道 大井川本線 川根温泉笹間渡駅から徒歩２分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>敷地内に無料駐車場がございます。</p>
                   

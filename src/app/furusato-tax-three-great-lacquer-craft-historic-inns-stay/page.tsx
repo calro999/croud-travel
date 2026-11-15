@@ -436,7 +436,7 @@ export default function FurusatoRound63ArticlePage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「旅館 橋本屋」は『◆創業100周年◆満足度◎治部煮など金沢美食と心温まるサービスで日常の疲れを癒し、贅沢なひ。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「旅館 橋本屋」は『◆創業100周年◆満足度◎治部煮など金沢美食と心温まるサービスで日常の疲れを癒し、贅沢なひとときを♪』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

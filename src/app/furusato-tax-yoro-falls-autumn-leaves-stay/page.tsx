@@ -467,7 +467,7 @@ export default function FeatureArticlePage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「養老温泉 滝元館 遊季の里」は『名古屋から車で60分、養老温泉の高台で絶景露天風呂を堪能。夜景と静寂を堪能する大人の温泉宿。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「養老温泉 滝元館 遊季の里」は『名古屋から車で60分、養老温泉の高台で絶景露天風呂を堪能。夜景と静寂を堪能する大人の温泉宿。 館内の設えを確かめながら、これからの滞在に備えてゆっくり休息する。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

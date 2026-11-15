@@ -324,7 +324,7 @@ export default function Page() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「星空と清流の森 グランピングＩＲＯＤＯＲＩ」は『秩父の森の中を流れる、清流に沿った古民家やグランピングに宿泊！アクティビティ体験型リゾート。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「星空と清流の森 グランピングＩＲＯＤＯＲＩ」は『秩父の森の中を流れる、清流に沿った古民家やグランピングに宿泊！アクティビティ体験型リゾートです。 荷物を解き、落ち着いた室内でまず一息つく。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

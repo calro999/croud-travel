@@ -50,7 +50,7 @@ export default function FurusatoFootbathCafeAshiyuStayPage() {
     <main className="min-h-screen bg-stone-100/60 text-stone-900 py-12 px-4 sm:px-6 lg:px-8 font-sans">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「東府やＲｅｓｏｒｔ＆Ｓｐａ－Ｉｚｕ」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「東府やＲｅｓｏｒｔ＆Ｓｐａ－Ｉｚｕ」へは、◆電車 伊豆箱根鉄道「修善寺駅」からバス20分「吉奈温泉口」下車後、送迎あり ◆車 東名沼津ICから約45分（38キロ）。最寄りの修善寺駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「東府やＲｅｓｏｒｔ＆Ｓｐａ－Ｉｚｕ」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「東府やＲｅｓｏｒｔ＆Ｓｐａ－Ｉｚｕ」は『伝統&amp;amp;モダンの上質な空間で日本情緒と風情を感じるリゾートステイ。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「東府やＲｅｓｏｒｔ＆Ｓｐａ－Ｉｚｕ」と「黒川温泉 やまびこ旅館」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「東府やＲｅｓｏｒｔ＆Ｓｐａ－Ｉｚｕ」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「東府やＲｅｓｏｒｔ＆Ｓｐａ－Ｉｚｕ」へは、◆電車 伊豆箱根鉄道「修善寺駅」からバス20分「吉奈温泉口」下車後、送迎あり ◆車 東名沼津ICから約45分（38キロ）。最寄りの修善寺駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「東府やＲｅｓｏｒｔ＆Ｓｐａ－Ｉｚｕ」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「東府やＲｅｓｏｒｔ＆Ｓｐａ－Ｉｚｕ」は『伝統&モダンの上質な空間で日本情緒と風情を感じるリゾートステイ。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「東府やＲｅｓｏｒｔ＆Ｓｐａ－Ｉｚｕ」と「黒川温泉 やまびこ旅館」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
@@ -413,7 +413,7 @@ export default function FurusatoFootbathCafeAshiyuStayPage() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 修善寺駅よりアクセス。◆電車 伊豆箱根鉄道「修善寺駅」からバス20分「吉奈温泉口」下車後、送迎あり ◆車 東名沼津ICから約45分（38キロ）。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「東府やＲｅｓｏｒｔ＆Ｓｐａ－Ｉｚｕ」にチェックイン。伝統&amp;amp;モダンの上質な空間で日本情緒と風情を感じるリゾートステイが魅力の一軒。客室で荷物をほどいて穏やかな午後のひとときを。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「東府やＲｅｓｏｒｔ＆Ｓｐａ－Ｉｚｕ」にチェックイン。伝統&amp;モダンの上質な空間で日本情緒と風情を感じるリゾートステイが魅力の一軒。客室で荷物をほどいて穏やかな午後のひとときを。</li>
                 <li>・<strong className="text-stone-800">17:00〜</strong> 「東府やＲｅｓｏｒｔ＆Ｓｐａ－Ｉｚｕ」の自慢の湯処へ。温かな湯気と落ち着いた雰囲気に癒やされながら、夕食前の贅沢なひとときを過ごす。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「東府やＲｅｓｏｒｔ＆Ｓｐａ－Ｉｚｕ」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
@@ -454,7 +454,7 @@ export default function FurusatoFootbathCafeAshiyuStayPage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「東府やＲｅｓｏｒｔ＆Ｓｐａ－Ｉｚｕ」は『伝統&amp;amp;モダンの上質な空間で日本情緒と風情を感じるリゾートステイ。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「東府やＲｅｓｏｒｔ＆Ｓｐａ－Ｉｚｕ」は『伝統&amp;モダンの上質な空間で日本情緒と風情を感じるリゾートステイ。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

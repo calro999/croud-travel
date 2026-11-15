@@ -436,7 +436,7 @@ export default function AutumnBudgetFukushimaHotelsPage() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/42001/42001_si1.jpg" alt="ＪＲ東日本ホテルメッツ福島 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
-                  <p><strong>【宿の特徴・魅力】</strong>■ＪＲ福島駅隣接・東口徒歩1分♪■　福島駅に一番近いホテル&amp;#12316;雨に濡れずにチェックイン！</p>
+                  <p><strong>【宿の特徴・魅力】</strong>■ＪＲ福島駅隣接・東口徒歩1分♪■　福島駅に一番近いホテル〜雨に濡れずにチェックイン！</p>
                   <p><strong>【所在地・アクセス】</strong>福島県福島市栄町1-1 ／ 最寄り駅：福島（福島） ／ 交通案内：■ＪＲ福島駅隣接・東口徒歩1分♪■　福島駅に一番近いホテル～雨に濡れずにチェックイン！</p>
                   <p><strong>【駐車場・マイカー利用】</strong>150台可、1泊1台1,000円</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.22 ／ 立地 ★4.3 ／ 部屋 ★4.18 ／ 設備 ★4.08 ／ 風呂 ★4 ／ 食事 ★4</p>

@@ -410,7 +410,7 @@ export default function MicroTouristHubPage() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/182402/182402.jpg" alt="ＳＨＩＮ　湯治　ＨＯＴＥＬ　ＬＵＬＵＤ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
-                  <p><strong>【宿の特徴・魅力】</strong>&amp;amp;#9832;上信越高原国立公園内に位置するリノベーションアートホテル</p>
+                  <p><strong>【宿の特徴・魅力】</strong>♨上信越高原国立公園内に位置するリノベーションアートホテル</p>
                   <p><strong>【所在地・アクセス】</strong>群馬県吾妻郡中之条町四万4138-1 ／ 最寄り駅：中之条 ／ 交通案内：四万温泉バス停より徒歩10分　JR中之条駅より車20分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>当館の目の前に5台ほど。もしくは当館の向かい側駐車場をご利用ください。無料</p>
                   

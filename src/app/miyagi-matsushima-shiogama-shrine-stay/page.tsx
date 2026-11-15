@@ -713,7 +713,7 @@ export default function Page() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「旅館 松島」は『閑静な環境ですが、地下鉄一本で観光地・繁華街へ出られます☆畳と木のぬくもりの中で寛ぎのひと。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「旅館 松島」は『閑静な環境ですが、地下鉄一本で観光地・繁華街へ出られます☆畳と木のぬくもりの中で寛ぎのひとときを♪ 館内の設えを確かめながら、これからの滞在に備えてゆっくり休息する。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

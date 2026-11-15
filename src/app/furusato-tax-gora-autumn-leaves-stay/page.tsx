@@ -443,7 +443,7 @@ export default function FeatureArticlePage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「季の湯 雪月花」は『強羅駅前に位置し、全客室１５８室に露天風呂をご用意、温泉は源泉かけ流しをお愉しめる宿。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「季の湯 雪月花」は『強羅駅前に位置し、全客室１５８室に露天風呂をご用意、温泉は源泉かけ流しをお愉しめる宿。 館内の設えを確かめながら、これからの滞在に備えてゆっくり休息する。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

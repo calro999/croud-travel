@@ -393,7 +393,7 @@ export default function ArticlePage() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 旭川駅よりアクセス。■JR旭川駅直結■ 旭川空港、旭山動物園行きバス停はホテルの目の前 繁華街も徒歩圏内です♪。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「ＪＲイン旭川」にチェックイン。JR旭川駅&amp;amp;イオンモール直結。シモンズ社製マットレス等こだわりの寝具を用意。宿泊者専用大浴場が魅力の一軒。客室で荷物をほどいて穏やかな午後のひとときを。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「ＪＲイン旭川」にチェックイン。JR旭川駅&amp;イオンモール直結。シモンズ社製マットレス等こだわりの寝具を用意。宿泊者専用大浴場が魅力の一軒。客室で荷物をほどいて穏やかな午後のひとときを。</li>
                 <li>・<strong className="text-stone-800">17:00〜</strong> 「ＪＲイン旭川」の自慢の湯処へ。温かな湯気と落ち着いた雰囲気に癒やされながら、夕食前の贅沢なひとときを過ごす。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「ＪＲイン旭川」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>

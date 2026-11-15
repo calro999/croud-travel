@@ -269,7 +269,7 @@ export default async function PrefectureDetailPage({ params }: { params: Promise
   } : null;
 
   return (
-    <div className="space-y-12 max-w-5xl mx-auto">
+    <div id="top" className="space-y-12 max-w-5xl mx-auto">
       {/* 構造化データ */}
       <script
         type="application/ld+json"

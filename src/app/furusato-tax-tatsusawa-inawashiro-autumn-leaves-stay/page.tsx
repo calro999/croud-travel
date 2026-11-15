@@ -467,7 +467,7 @@ export default function FeatureArticlePage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「磐梯熱海温泉 万葉の宿 八景園」は『緑に囲まれた和室数奇屋造りの本館と、ビジネス・１人旅に便利な別館庭園ホテル。磐梯熱海駅より。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「磐梯熱海温泉 万葉の宿 八景園」は『緑に囲まれた和室数奇屋造りの本館と、ビジネス・１人旅に便利な別館庭園ホテル。磐梯熱海駅より900ｍ。 窓外に広がる景色を眺めながらチェックイン後の寛ぎ時間を。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

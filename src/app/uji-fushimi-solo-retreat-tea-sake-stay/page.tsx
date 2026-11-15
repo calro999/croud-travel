@@ -103,7 +103,7 @@ export default function ArticlePage() {
         <div className="bg-stone-100 p-5 rounded-xl border border-stone-200">
           <h2 className="text-base font-bold text-stone-900 mb-3 flex items-center gap-2">本記事でご紹介する厳選ホテル</h2>
           <ul className="space-y-2 text-sm text-stone-700">
-            <li><a href="#hotel-1" className="text-amber-800 hover:underline">▶ 1. 花やしき浮舟園（★4.06 / 最低目安：0円〜）</a></li>
+            <li><a href="#hotel-1" className="text-amber-800 hover:underline">▶ 1. 花やしき浮舟園（★4.06 / 最低目安：13,200円〜）</a></li>
             <li><a href="#hotel-2" className="text-amber-800 hover:underline">▶ 2. アーバンホテル京都（★4.01 / 最低目安：3,080円〜）</a></li>
             <li><a href="#hotel-3" className="text-amber-800 hover:underline">▶ 3. 宇治第一ホテル（★3.86 / 最低目安：7,425円〜）</a></li>
             <li>
@@ -134,7 +134,7 @@ export default function ArticlePage() {
                 ★ 4.06 <span className="text-xs text-stone-500 font-normal">（クチコミ 298件）</span>
               </span>
               <span className="text-stone-600 text-xs">
-                宿泊目安：<strong className="text-stone-900 text-sm">0円〜</strong> / 人（税込）
+                宿泊目安：<strong className="text-stone-900 text-sm">13,200円〜</strong> / 人（税込）
               </span>
             </div>
 

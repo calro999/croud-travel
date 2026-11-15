@@ -443,7 +443,7 @@ export default function FeatureArticlePage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「金沢・深谷温泉 元湯石屋 能舞台のある秘湯の一軒宿」は『金沢奥座敷 深谷温泉の一軒宿 山里の静けさと出会い、都会の喧騒を忘れる。懐かしき時の流れる。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「金沢・深谷温泉 元湯石屋 能舞台のある秘湯の一軒宿」は『【金沢奥座敷 深谷温泉の一軒宿】山里の静けさと出会い、都会の喧騒を忘れる。懐かしき時の流れる老舗。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

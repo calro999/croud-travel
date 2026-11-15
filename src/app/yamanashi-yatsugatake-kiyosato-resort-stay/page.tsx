@@ -401,7 +401,7 @@ export default function MicroTouristHubPage() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/53178/53178_wa.jpg" alt="１０００Ｍのおもてなし　八ヶ岳　ホテル風か 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
-                  <p><strong>【宿の特徴・魅力】</strong>「オールインクルーシブ」ご夕食時約50種&amp;amp;バータイム約80種のフリードリンク</p>
+                  <p><strong>【宿の特徴・魅力】</strong>「オールインクルーシブ」ご夕食時約50種&amp;バータイム約80種のフリードリンク</p>
                   <p><strong>【所在地・アクセス】</strong>山梨県北杜市小淵沢町上の原3989-1 ／ 最寄り駅：小淵沢 ／ 交通案内：ＪＲ中央本線　小淵沢駅より車で7分／中央自動車道　小淵沢ＩＣより車で4分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　35台　無料　予約不要　満車の場合は第２駐車場をご利用下さい。</p>
                   

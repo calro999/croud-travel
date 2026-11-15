@@ -388,7 +388,7 @@ export default function ThemeParkActivityHubPage() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/67046/67046_room.jpg" alt="三井ガーデンホテル　プラナ東京ベイ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
-                  <p><strong>【宿の特徴・魅力】</strong>楽天トラベルHotel &amp;amp; Ryokan of the Year 2024受賞！展望大浴場は終夜営業</p>
+                  <p><strong>【宿の特徴・魅力】</strong>楽天トラベルHotel &amp; Ryokan of the Year 2024受賞！展望大浴場は終夜営業</p>
                   <p><strong>【所在地・アクセス】</strong>千葉県浦安市明海6-2-1 ／ 最寄り駅：舞浜 ／ 交通案内：東京ディズニーランド（Ｒ）・バスターミナル・イースト6番乗り場からパートナーホテル・シャトルで約20分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>1泊目入庫より30時間2000円　2泊目以降は24時間2000円</p>
                   

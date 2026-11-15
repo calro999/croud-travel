@@ -278,7 +278,7 @@ export default function OkinawaBudgetAutumnPage() {
                     アクセス: 那覇空港 / 那覇空港より車で約１０分（４．５ｋｍ）/モノレール美栄橋駅より徒歩５分。
                   </p>
                   <p className="text-sm text-stone-600 mb-4 line-clamp-3 leading-relaxed">
-                    &amp;#9830;14階展望大浴場完備&amp;#9830;朝食無料サービス&amp;#9830;WOWOW無料視聴可能
+                    ♦14階展望大浴場完備♦朝食無料サービス♦WOWOW無料視聴可能
                   </p>
                 </div>
                 <div className="pt-3 border-t border-stone-100 flex items-center justify-between">
@@ -489,7 +489,7 @@ export default function OkinawaBudgetAutumnPage() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/56974/56974_da.jpg" alt="ホテルルートイン那覇泊港 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
-                  <p><strong>【宿の特徴・魅力】</strong>&amp;amp;#9830;14階展望大浴場完備&amp;amp;#9830;朝食無料サービス&amp;amp;#9830;WOWOW無料視聴可能</p>
+                  <p><strong>【宿の特徴・魅力】</strong>♦14階展望大浴場完備♦朝食無料サービス♦WOWOW無料視聴可能</p>
                   <p><strong>【所在地・アクセス】</strong>沖縄県那覇市前島2-12-5 ／ 最寄り駅：那覇空港 ／ 交通案内：那覇空港より車で約１０分（４．５ｋｍ）/モノレール美栄橋駅より徒歩５分。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有：72台駐車可能、有料：1000円/泊、先着順、制限有：高さ1.55mまで</p>
                   

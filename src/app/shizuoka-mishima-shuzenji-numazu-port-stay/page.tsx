@@ -801,7 +801,7 @@ export default function Page() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「富士山三島東急ホテル」は『三島駅南口より徒歩1分★富士山の美しさを感じるアーバンリゾートホテル★最上階展望温浴施設が。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「富士山三島東急ホテル」は『三島駅南口より徒歩1分★富士山の美しさを感じるアーバンリゾートホテル★最上階展望温浴施設がオススメ♪』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

@@ -365,7 +365,7 @@ export default function FeaturePage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「加賀山代温泉 みどりの宿 萬松閣」は『山代温泉の高台に位置する緑の自然に囲まれた宿。心まで潤う 源泉かけ流し温泉でリラックス♪。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「加賀山代温泉 みどりの宿 萬松閣」は『山代温泉の高台に位置する緑の自然に囲まれた宿。心まで潤う 源泉かけ流し温泉でリラックス♪ 館内の設えを確かめながら、これからの滞在に備えてゆっくり休息する。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

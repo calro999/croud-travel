@@ -366,7 +366,7 @@ export default function ArticlePage() {
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 金沢駅よりアクセス。JR金沢駅金沢港口（西口）より徒歩5分／金沢東・西ICより車で10分／コンビニ1分（ATM）／兼六園車で15分。</li>
-                <li>・<strong className="text-stone-800">15:30〜</strong> 「金沢マンテンホテル駅前」にチェックイン。露天感覚の男女別大浴場（男性：高温サウナ&amp;amp;水風呂、女性：ミストサウナ）／敷地内駐車場１３４台が魅力の一軒。客室で荷物をほどいて穏やかな午後のひとときを。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「金沢マンテンホテル駅前」にチェックイン。露天感覚の男女別大浴場（男性：高温サウナ&amp;水風呂、女性：ミストサウナ）／敷地内駐車場１３４台が魅力の一軒。客室で荷物をほどいて穏やかな午後のひとときを。</li>
                 <li>・<strong className="text-stone-800">17:00〜</strong> 「金沢マンテンホテル駅前」の大浴場・露天風呂へ。日暮れの静けさの中で湯に浸かり、旅の緊張をゆっくりと解きほぐす。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「金沢マンテンホテル駅前」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>

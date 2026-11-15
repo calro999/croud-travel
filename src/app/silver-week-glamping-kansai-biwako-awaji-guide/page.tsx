@@ -574,7 +574,7 @@ export default function SilverWeekGlampingKansaiBiwakoAwajiPage() {
                 <div>
                   <span className="text-[11px] font-bold text-amber-700 bg-amber-100 px-2.5 py-0.5 rounded-full mr-2">詳細データ #3</span>
                   <h3 className="text-base md:text-lg font-bold text-stone-900 inline">Ｇｌａｍｐｉｎｇ　Ｖｉｌｌａ　鮫家　ＡＷＡＪＩ＜淡路島＞</h3>
-                  <span className="text-xs text-stone-400 ml-2">（ぐらんぴんぐ&amp;#12436;ぃらさめやあわじ）</span>
+                  <span className="text-xs text-stone-400 ml-2">（ぐらんぴんぐゔぃらさめやあわじ）</span>
                 </div>
                 <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥13,000〜</span>
               </div>

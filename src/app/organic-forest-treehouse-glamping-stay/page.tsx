@@ -524,7 +524,7 @@ export default function FeatureDetailPage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「和心村ー古民家とグランピング と自然森山川海」は『房総、富津の里山に立地する自由度抜群のグランピング。猫と自然に触れ合いながらのんびり過ごせ。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「和心村ー古民家とグランピング と自然森山川海」は『房総、富津の里山に立地する自由度抜群のグランピング。猫と自然に触れ合いながらのんびり過ごせます。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

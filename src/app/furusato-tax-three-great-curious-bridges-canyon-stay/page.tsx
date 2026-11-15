@@ -461,7 +461,7 @@ export default function Page() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「アパホテル〈山口岩国駅前西〉」は『JR山陽本線「岩国駅」徒歩5分の好立地！50型大型テレビ、Wi-Fi6完備のビジネス・観光』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「アパホテル〈山口岩国駅前西〉」は『JR山陽本線「岩国駅」徒歩5分の好立地！50型大型テレビ、Wi-Fi6完備のビジネス・観光の新拠点！』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

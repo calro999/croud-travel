@@ -532,7 +532,7 @@ export default function Page() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「風待ちの湯福寿荘 伊勢志摩の温泉旅館＜渡鹿野島＞」は『◆船で3分の温泉宿◆地下1,300メートルから湧く天然療養温泉と伊勢海老・松阪牛・旬の海の。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「風待ちの湯福寿荘 伊勢志摩の温泉旅館＜渡鹿野島＞」は『◆船で3分の温泉宿◆地下1,300メートルから湧く天然療養温泉と伊勢海老・松阪牛・旬の海の幸を満喫！』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

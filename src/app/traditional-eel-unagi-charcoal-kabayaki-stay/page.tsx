@@ -572,7 +572,7 @@ export default function Page() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/38827/38827.jpg" alt="岩室温泉　高志の宿　高島屋 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
-                  <p><strong>【宿の特徴・魅力】</strong>【楽天トラベルアワード2024】ブロンズアワード受賞！大切な日は高島屋で…</p>
+                  <p><strong>【宿の特徴・魅力】</strong>【楽天トラベルアワード2024】ブロンズアワード受賞！大切な日は高島屋でお過ごしください。</p>
                   <p><strong>【所在地・アクセス】</strong>交通案内：【無料送迎サービス有・２名様より】燕三条駅１４：４０・岩室駅・弥彦駅はご到着時刻（いずれも３日前までの予約制）</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   

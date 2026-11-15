@@ -572,7 +572,7 @@ export default function FurusatoTaxPage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「加賀屋グループ 料理旅館 金沢茶屋」は『金沢駅から徒歩3分の料理旅館。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「加賀屋グループ 料理旅館 金沢茶屋」は『金沢駅から徒歩3分の料理旅館。 館内の設えを確かめながら、これからの滞在に備えてゆっくり休息する。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
@@ -776,7 +776,7 @@ export default function FurusatoTaxPage() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/2199/2199_dai.jpg" alt="金沢マンテンホテル駅前（マンテンホテルグループ） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
-                  <p><strong>【宿の特徴・魅力】</strong>露天感覚の男女別大浴場（男性：高温サウナ&amp;amp;水風呂、女性：ミストサウナ）／敷地内駐車場１３４台</p>
+                  <p><strong>【宿の特徴・魅力】</strong>露天感覚の男女別大浴場（男性：高温サウナ&amp;水風呂、女性：ミストサウナ）／敷地内駐車場１３４台</p>
                   <p><strong>【所在地・アクセス】</strong>石川県金沢市北安江1-6-1 ／ 最寄り駅：金沢 ／ 交通案内：JR金沢駅金沢港口（西口）より徒歩5分／金沢東・西ICより車で10分／コンビニ1分（ATM）／兼六園車で15分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>134台先着順　1泊1,000円(入庫より24時間)　大型車駐車可(要予約)　車椅子専用P有</p>
                   

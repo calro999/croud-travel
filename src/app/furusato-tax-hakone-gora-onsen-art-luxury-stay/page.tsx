@@ -486,7 +486,7 @@ export default function FurusatoTaxArticle() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「箱根強羅 白檀」は『全室設置の源泉掛け流し露天と旬を彩る至極の懐石料理 雄大な箱根連山を眺めながら最上のひとと。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「箱根強羅 白檀」は『全室設置の源泉掛け流し露天と旬を彩る至極の懐石料理 雄大な箱根連山を眺めながら最上のひとときをどうぞ。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

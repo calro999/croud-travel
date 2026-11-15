@@ -443,7 +443,7 @@ export default function FeatureArticlePage() {
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 「赤湯温泉 上杉の御湯 御殿守」は『赤湯温泉の源泉かけ流しを含む全12種類のお風呂！お風呂上りには米沢牛会席で食材王国山形を満。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
+                A. 「赤湯温泉 上杉の御湯 御殿守」は『赤湯温泉の源泉かけ流しを含む全12種類のお風呂！お風呂上りには米沢牛会席で食材王国山形を満喫。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
