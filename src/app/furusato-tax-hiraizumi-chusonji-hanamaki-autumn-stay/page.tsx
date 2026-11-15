@@ -180,7 +180,7 @@ export default function FeatureArticlePage() {
                       とろとろの湯と心に残るおもてなし。特別な日を佳松園で過ごす愉しみ。花巻ICよりわずか5分の別世界。
                     </p>
                     <div className="bg-stone-50 rounded-xl p-4 border border-stone-200/60 text-xs space-y-1.5 text-stone-600">
-                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> とろとろの湯と心に残るおもてなし。特別な日を佳松園で過ごす愉しみ。花巻ICよりわずか5分の別世界。...</div>
+                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> とろとろの湯と心に残るおもてなし。特別な日を佳松園で過ごす愉しみ。花巻ICよりわずか5分の別世界。</div>
                       <div><strong className="text-stone-800">🚗 アクセス：</strong> 花巻IC：右折後直進4km（5分）、JR新花巻駅・JR花巻駅：無料送迎バス20分（定時運行・完全予約制）</div>
                       <div><strong className="text-stone-800">💰 料金目安：</strong> <span className="text-amber-900 font-bold text-sm">1名あたり 20,900円〜</span>（※クーポン利用で実質2,000円）</div>
                     </div>
@@ -247,7 +247,7 @@ export default function FeatureArticlePage() {
                       2024年6月宮沢賢治をテーマにした「なめとこ山サウナ」がグランドオープン
                     </p>
                     <div className="bg-stone-50 rounded-xl p-4 border border-stone-200/60 text-xs space-y-1.5 text-stone-600">
-                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> 2024年6月宮沢賢治をテーマにした「なめとこ山サウナ」がグランドオープン...</div>
+                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> 2024年6月宮沢賢治をテーマにした「なめとこ山サウナ」がグランドオープン</div>
                       <div><strong className="text-stone-800">🚗 アクセス：</strong> 新花巻駅より４０分・花巻駅より３０分（送迎バスあり、協力金：片道100円、予約必須）。花巻南ＩＣよりお車で２０分。</div>
                       <div><strong className="text-stone-800">💰 料金目安：</strong> <span className="text-amber-900 font-bold text-sm">1名あたり 6,600円〜</span>（※クーポン利用で実質2,000円）</div>
                     </div>
@@ -314,7 +314,7 @@ export default function FeatureArticlePage() {
                       花巻温泉で唯一の割烹旅館。岩手の旬の素材を使った本格会席料理が自慢の宿。
                     </p>
                     <div className="bg-stone-50 rounded-xl p-4 border border-stone-200/60 text-xs space-y-1.5 text-stone-600">
-                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> 花巻温泉で唯一の割烹旅館。岩手の旬の素材を使った本格会席料理が自慢の宿。...</div>
+                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> 花巻温泉で唯一の割烹旅館。岩手の旬の素材を使った本格会席料理が自慢の宿。</div>
                       <div><strong className="text-stone-800">🚗 アクセス：</strong> 東北自動車道花巻ＩＣより5分・JR花巻空港駅よりタクシーで15分・東北新幹線新花巻駅より無料送迎バスあり（要プラン確認）</div>
                       <div><strong className="text-stone-800">💰 料金目安：</strong> <span className="text-amber-900 font-bold text-sm">1名あたり 15,400円〜</span>（※クーポン利用で実質2,000円）</div>
                     </div>

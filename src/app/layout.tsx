@@ -198,7 +198,7 @@ export default function RootLayout({
               <div className="space-y-2 text-center md:text-left">
                 <p className="font-bold text-emerald-950 text-sm font-journal-serif">日本全国・旅宿クラウド ｜ 楽天トラベル厳選宿・観光マガジン</p>
                 <p className="text-[10px] max-w-lg leading-relaxed text-emerald-950/50">
-                  当サイトでご紹介する宿泊施設情報、クチコミ、写真、プラン詳細等は楽天トラベルAPIより取得しています。宿泊状況やプラン内容については必ず遷移先の楽天トラベル詳細ページにて最終情報をご確認ください。
+                  当サイトでご紹介する宿泊施設情報、クチコミ、写真、プラン詳細等は楽天トラベル公式データより取得しています。宿泊状況やプラン内容については必ず遷移先の楽天トラベル詳細ページにて最終情報をご確認ください。
                 </p>
               </div>
               <div className="flex flex-wrap justify-center gap-4 text-[11px] font-bold text-teal-900/80">

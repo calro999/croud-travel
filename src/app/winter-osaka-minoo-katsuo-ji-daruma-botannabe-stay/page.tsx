@@ -372,7 +372,7 @@ export default function OsakaMinooWinterPage() {
               <span className="text-rose-600 font-bold text-sm tracking-wider uppercase">Recommended Accommodations</span>
               <h2 className="text-2xl md:text-3xl font-bold text-slate-900 mt-1">勝尾寺初詣と箕面大滝・天然ぼたん鍋を愉しむ厳選名宿5選</h2>
               <p className="text-slate-600 text-sm mt-1">
-                楽天トラベルAPIから最新の空室状況・宿泊プラン・宿泊者レビューをリアルタイム取得して厳選紹介しています。
+                楽天トラベル公式データから最新の空室状況・宿泊プラン・宿泊者レビューをリアルタイム取得して厳選紹介しています。
               </p>
             </div>
 
@@ -568,7 +568,7 @@ export default function OsakaMinooWinterPage() {
               >
                 <span className="text-amber-400 text-xs font-bold block mb-1">大阪市内特集</span>
                 <span className="font-bold text-sm block mb-1">大阪城＆中之島光のルネサンスと大阪天満宮初詣名宿</span>
-                <span className="text-xs text-slate-300">光の祭典イルミネーションと大阪都心のラグジュアリーホテル…</span>
+                <span className="text-xs text-slate-300">光の祭典イルミネーションと大阪都心のラグジュアリーホテル</span>
               </Link>
               <Link
                 href="/features/"
@@ -576,7 +576,7 @@ export default function OsakaMinooWinterPage() {
               >
                 <span className="text-cyan-400 text-xs font-bold block mb-1">特集一覧</span>
                 <span className="font-bold text-sm block mb-1">全国の冬シーズン・年末年始旅行特集一覧</span>
-                <span className="text-xs text-slate-300">全国47都道府県の厳選温泉・初詣・冬の味覚特集を網羅…</span>
+                <span className="text-xs text-slate-300">全国47都道府県の厳選温泉・初詣・冬の味覚特集を網羅</span>
               </Link>
               <Link
                 href="/"
@@ -584,7 +584,7 @@ export default function OsakaMinooWinterPage() {
               >
                 <span className="text-emerald-400 text-xs font-bold block mb-1">トップページ</span>
                 <span className="font-bold text-sm block mb-1">旅クラウド | 国内旅行・ホテル予約比較</span>
-                <span className="text-xs text-slate-300">楽天トラベルAPIと連携した安心の宿泊予約ポータル…</span>
+                <span className="text-xs text-slate-300">楽天トラベル公式データと連携した安心の宿泊予約ポータル</span>
               </Link>
             </div>
           </section>

@@ -453,7 +453,7 @@ export default function KirishimaWinterPage() {
             </div>
             <h2 className="text-2xl sm:text-3xl font-extrabold text-stone-900">11月・12月に泊まりたい霧島温泉郷の厳選名宿5選</h2>
             <p className="text-xs sm:text-sm text-stone-600">
-              楽天トラベルAPIより最新の空室・料金・レビュー情報を取得。絶景露天風呂と黒豚・黒毛和牛会席で高評価を獲得している宿を厳選。
+              楽天トラベル公式データより最新の空室・料金・レビュー情報を取得。絶景露天風呂と黒豚・黒毛和牛会席で高評価を獲得している宿を厳選。
             </p>
           </div>
 

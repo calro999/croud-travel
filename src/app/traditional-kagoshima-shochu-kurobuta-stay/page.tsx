@@ -273,7 +273,7 @@ export default function FeatureDetailPage() {
                       <span className="text-xs font-bold text-emerald-600 bg-emerald-50 px-2 py-0.5 rounded border border-emerald-100">楽天高評価</span>
                     </div>
                     <ul className="space-y-1 mb-4 text-xs text-slate-600 bg-slate-50 p-3 rounded-lg">
-                      <li className="flex items-start gap-1"><span className="text-amber-500 shrink-0">•</span><span>温泉宿・グランピング全室で源泉掛け流しの天然炭酸泉が満喫できます。ペットOKの客室もございます。…</span></li>
+                      <li className="flex items-start gap-1"><span className="text-amber-500 shrink-0">•</span><span>温泉宿・グランピング全室で源泉掛け流しの天然炭酸泉が満喫できます。ペットOKの客室もございます。</span></li>
                       <li className="flex items-start gap-1"><span className="text-amber-500 shrink-0">•</span><span>アクセス: 鹿児島空港より車で約15分【19時までなら鹿児島空港・国分駅まで無料送迎（要予約）】</span></li>
                       <li className="flex items-start gap-1"><span className="text-amber-500 shrink-0">•</span><span>楽天トラベル総合評価: ★4.61（レビュー 509件）</span></li>
                     </ul>
@@ -330,7 +330,7 @@ export default function FeatureDetailPage() {
                       <span className="text-xs font-bold text-emerald-600 bg-emerald-50 px-2 py-0.5 rounded border border-emerald-100">楽天高評価</span>
                     </div>
                     <ul className="space-y-1 mb-4 text-xs text-slate-600 bg-slate-50 p-3 rounded-lg">
-                      <li className="flex items-start gap-1"><span className="text-amber-500 shrink-0">•</span><span>『天下の名泉』市比野温泉☆平静な環境の中で、源泉掛流し１００％天然温泉が楽しめる純和風温泉旅館♪…</span></li>
+                      <li className="flex items-start gap-1"><span className="text-amber-500 shrink-0">•</span><span>『天下の名泉』市比野温泉☆平静な環境の中で、源泉掛流し１００％天然温泉が楽しめる純和風温泉旅館♪</span></li>
                       <li className="flex items-start gap-1"><span className="text-amber-500 shrink-0">•</span><span>アクセス: ＪＲ川内駅より車で２０分</span></li>
                       <li className="flex items-start gap-1"><span className="text-amber-500 shrink-0">•</span><span>楽天トラベル総合評価: ★4.24（レビュー 633件）</span></li>
                     </ul>
@@ -387,7 +387,7 @@ export default function FeatureDetailPage() {
                       <span className="text-xs font-bold text-emerald-600 bg-emerald-50 px-2 py-0.5 rounded border border-emerald-100">楽天高評価</span>
                     </div>
                     <ul className="space-y-1 mb-4 text-xs text-slate-600 bg-slate-50 p-3 rounded-lg">
-                      <li className="flex items-start gap-1"><span className="text-amber-500 shrink-0">•</span><span>囲炉裏があり、、昔懐かしい雰囲気の静かな温泉宿です。離れはペットも一緒に泊まれます。…</span></li>
+                      <li className="flex items-start gap-1"><span className="text-amber-500 shrink-0">•</span><span>囲炉裏があり、、昔懐かしい雰囲気の静かな温泉宿です。離れはペットも一緒に泊まれます。</span></li>
                       <li className="flex items-start gap-1"><span className="text-amber-500 shrink-0">•</span><span>アクセス: 肥薩線　栗野駅より南国交通バスで１２～１３分／鹿児島本線　水俣駅より南国交通バスで１時間</span></li>
                       <li className="flex items-start gap-1"><span className="text-amber-500 shrink-0">•</span><span>楽天トラベル総合評価: ★4.53（レビュー 95件）</span></li>
                     </ul>
@@ -444,7 +444,7 @@ export default function FeatureDetailPage() {
                       <span className="text-xs font-bold text-emerald-600 bg-emerald-50 px-2 py-0.5 rounded border border-emerald-100">楽天高評価</span>
                     </div>
                     <ul className="space-y-1 mb-4 text-xs text-slate-600 bg-slate-50 p-3 rounded-lg">
-                      <li className="flex items-start gap-1"><span className="text-amber-500 shrink-0">•</span><span>市の中心にあり温泉と料理と気配りのサービスが自慢。…</span></li>
+                      <li className="flex items-start gap-1"><span className="text-amber-500 shrink-0">•</span><span>市の中心にあり温泉と料理と気配りのサービスが自慢。</span></li>
                       <li className="flex items-start gap-1"><span className="text-amber-500 shrink-0">•</span><span>アクセス: ＪＲ鹿児島中央駅よりタクシーで７分。空港リムジンで天文館バス停下車、徒歩５分。</span></li>
                       <li className="flex items-start gap-1"><span className="text-amber-500 shrink-0">•</span><span>楽天トラベル総合評価: ★4.30（レビュー 701件）</span></li>
                     </ul>
@@ -501,7 +501,7 @@ export default function FeatureDetailPage() {
                       <span className="text-xs font-bold text-emerald-600 bg-emerald-50 px-2 py-0.5 rounded border border-emerald-100">楽天高評価</span>
                     </div>
                     <ul className="space-y-1 mb-4 text-xs text-slate-600 bg-slate-50 p-3 rounded-lg">
-                      <li className="flex items-start gap-1"><span className="text-amber-500 shrink-0">•</span><span>【貸切風呂★無料】リピーターが多い調理長の創作料理と、無料貸切できる3つの露天、2つの内湯が大好評！…</span></li>
+                      <li className="flex items-start gap-1"><span className="text-amber-500 shrink-0">•</span><span>【貸切風呂★無料】リピーターが多い調理長の創作料理と、無料貸切できる3つの露天、2つの内湯が大好評！</span></li>
                       <li className="flex items-start gap-1"><span className="text-amber-500 shrink-0">•</span><span>アクセス: JR霧島神宮駅より車で15分/霧島温泉駅より車で15分　横川ICより車で20分/溝辺鹿児島空港ICより車で25分</span></li>
                       <li className="flex items-start gap-1"><span className="text-amber-500 shrink-0">•</span><span>楽天トラベル総合評価: ★4.40（レビュー 553件）</span></li>
                     </ul>

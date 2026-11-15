@@ -180,7 +180,7 @@ export default function FeatureArticlePage() {
                       華鳥風月をモチーフにした全８室からなる和モダン空間。高千穂の食材にこだわった美食
                     </p>
                     <div className="bg-stone-50 rounded-xl p-4 border border-stone-200/60 text-xs space-y-1.5 text-stone-600">
-                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> 華鳥風月をモチーフにした全８室からなる和モダン空間。高千穂の食材にこだわった美食...</div>
+                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> 華鳥風月をモチーフにした全８室からなる和モダン空間。高千穂の食材にこだわった美食</div>
                       <div><strong className="text-stone-800">🚗 アクセス：</strong> 延岡駅より車にて約5０分</div>
                       <div><strong className="text-stone-800">💰 料金目安：</strong> <span className="text-amber-900 font-bold text-sm">1名あたり 29,700円〜</span>（※クーポン利用で実質2,000円）</div>
                     </div>
@@ -247,7 +247,7 @@ export default function FeatureArticlePage() {
                       ＜クチコミ総合4.8＞最高の心のおもてなしと至福のひと時
                     </p>
                     <div className="bg-stone-50 rounded-xl p-4 border border-stone-200/60 text-xs space-y-1.5 text-stone-600">
-                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> ＜クチコミ総合4.8＞最高の心のおもてなしと至福のひと時...</div>
+                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> ＜クチコミ総合4.8＞最高の心のおもてなしと至福のひと時</div>
                       <div><strong className="text-stone-800">🚗 アクセス：</strong> 高千穂バスセンターよりタクシーで５分／九州自動車道　松橋ＩＣより車で約１００分</div>
                       <div><strong className="text-stone-800">💰 料金目安：</strong> <span className="text-amber-900 font-bold text-sm">1名あたり 49,500円〜</span>（※クーポン利用で実質2,000円）</div>
                     </div>
@@ -314,7 +314,7 @@ export default function FeatureArticlePage() {
                       つい、大自然に声をかけたくなるホテル♪　ひとり旅の女性やお子様連れのご家族も安心して御宿泊できます。
                     </p>
                     <div className="bg-stone-50 rounded-xl p-4 border border-stone-200/60 text-xs space-y-1.5 text-stone-600">
-                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> つい、大自然に声をかけたくなるホテル♪　ひとり旅の女性やお子様連れのご家族も安心して御宿泊できます。...</div>
+                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> つい、大自然に声をかけたくなるホテル♪ ひとり旅の女性やお子様連れのご家族も安心して御宿泊できます。</div>
                       <div><strong className="text-stone-800">🚗 アクセス：</strong> 熊本ICから南阿蘇経由で１時間半。阿蘇～高千穂周遊もおすすめ！延岡ICから４５分　高千穂峡から徒歩13分</div>
                       <div><strong className="text-stone-800">💰 料金目安：</strong> <span className="text-amber-900 font-bold text-sm">1名あたり 7,700円〜</span>（※クーポン利用で実質2,000円）</div>
                     </div>

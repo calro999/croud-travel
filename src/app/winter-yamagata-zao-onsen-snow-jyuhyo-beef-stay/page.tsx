@@ -470,7 +470,7 @@ export default function ZaoOnsenWinterPage() {
             <span className="text-xs font-bold text-indigo-800 uppercase tracking-widest">Selected Luxury Inns</span>
             <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">【11・12月】蔵王温泉の真骨頂を味わう厳選名宿5選</h2>
             <p className="text-sm text-slate-600">
-              楽天トラベルの最新APIデータに基づき、源泉掛け流しの湯質、雪見露天風呂の風情、山形牛すき焼き会席、宿泊者レビュー評価で選び抜いた5軒。
+              楽天トラベルの最新宿泊データに基づき、源泉掛け流しの湯質、雪見露天風呂の風情、山形牛すき焼き会席、宿泊者レビュー評価で選び抜いた5軒。
             </p>
           </div>
 

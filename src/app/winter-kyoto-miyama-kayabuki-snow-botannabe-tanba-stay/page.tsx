@@ -298,7 +298,7 @@ export default function KyotoMiyamaTanbaWinterPage() {
             <h2 className="text-xl sm:text-3xl font-bold text-slate-900 flex items-center gap-2"><Building className="w-6 h-6 text-amber-500 shrink-0" />
               美山＆湯の花温泉で泊まりたい冬の厳選名宿5選</h2>
             <p className="text-slate-500 text-xs sm:text-sm mt-2">
-              ※楽天トラベルの最新APIデータを反映。本場ぼたん鍋、極上丹波牛、風情あふれる雪見露天風呂を誇る名宿を厳選。
+              ※楽天トラベルの最新宿泊データを反映。本場ぼたん鍋、極上丹波牛、風情あふれる雪見露天風呂を誇る名宿を厳選。
             </p>
           </div>
 

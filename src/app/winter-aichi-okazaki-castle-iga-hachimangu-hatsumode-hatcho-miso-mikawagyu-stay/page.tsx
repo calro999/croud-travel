@@ -265,7 +265,7 @@ export default function Page() {
                 <h2 className="text-xl sm:text-2xl font-extrabold text-stone-900">岡崎・西三河・蒲郡近郊 厳選の温泉＆名宿5選</h2>
               </div>
               <p className="text-xs text-stone-500">
-                ※楽天トラベルAPI最新空室・料金データ連携中
+                ※楽天トラベル公式データ最新空室・料金データ連携中
               </p>
             </div>
 

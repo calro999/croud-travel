@@ -129,9 +129,7 @@ export default function Page() {
                     
                     <div className="p-5">
                       <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">指宿温泉　いぶすき秀水園</h4>
-                      <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
-                        南薩摩の湯の里指宿にて心尽くしの料理とやすらぎのひとときを…
-                      </p>
+                      <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">南薩摩の湯の里指宿にて心尽くしの料理とやすらぎのひとときをお過ごしください。</p>
                       <div className="mt-3 text-xs text-stone-300">
                         📍 鹿児島県指宿市湯の浜5-27-27
                       </div>

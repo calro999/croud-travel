@@ -294,7 +294,7 @@ export default function AomoriTowadaOiraseWinterPage() {
             <h2 className="text-xl sm:text-3xl font-bold text-slate-900 flex items-center gap-2"><Building className="w-6 h-6 text-sky-500 shrink-0" />
               奥入瀬渓流＆十和田湖で泊まりたい冬の厳選名宿5選</h2>
             <p className="text-slate-500 text-xs sm:text-sm mt-2">
-              ※楽天トラベルの最新APIデータを反映。氷瀑露天風呂、登録有形文化財の木造建築、炭火炉端焼きを誇る名宿を厳選。
+              ※楽天トラベルの最新宿泊データを反映。氷瀑露天風呂、登録有形文化財の木造建築、炭火炉端焼きを誇る名宿を厳選。
             </p>
           </div>
 

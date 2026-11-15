@@ -382,7 +382,7 @@ export default function OkayamaKibijiWinterPage() {
               <span className="text-xs font-bold text-red-700 uppercase tracking-widest block">VERIFIED RECOMMENDED HOTELS</span>
               <h2 className="text-xl md:text-3xl font-black text-slate-900">吉備路＆最上稲荷・総社を満喫する厳選名宿5選</h2>
               <p className="text-xs md:text-sm text-slate-500 mt-1">
-                ※楽天トラベルAPIより最新の空室・料金・口コミ情報をリアルタイム連携
+                ※楽天トラベル公式データより最新の空室・料金・口コミ情報をリアルタイム連携
               </p>
             </div>
 

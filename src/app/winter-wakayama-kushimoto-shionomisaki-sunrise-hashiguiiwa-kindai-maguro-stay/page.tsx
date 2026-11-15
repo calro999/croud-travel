@@ -394,7 +394,7 @@ export default function WakayamaKushimotoWinterPage() {
             </div>
             <h2 className="text-2xl md:text-3xl font-black text-slate-900 font-journal-serif">本州最南端初日の出と近大マグロを満喫する厳選名宿5選</h2>
             <p className="text-slate-600 text-xs md:text-sm max-w-2xl mx-auto">
-              楽天トラベルAPIより最新の空室状況・宿泊評価・公式写真を取得。潮岬や橋杭岩へのアクセス、絶景露天風呂、極上マグロ料理に秀でた屈指の宿泊施設を厳選しました。
+              楽天トラベル公式データより最新の空室状況・宿泊評価・公式写真を取得。潮岬や橋杭岩へのアクセス、絶景露天風呂、極上マグロ料理に秀でた屈指の宿泊施設を厳選しました。
             </p>
           </div>
 
@@ -642,7 +642,7 @@ export default function WakayamaKushimotoWinterPage() {
       {/* Footer */}
       <footer className="bg-slate-900 text-slate-200 py-10 px-4 text-center text-xs border-t border-slate-800 mt-16">
         <p>© 2026 旅宿クラウド (croud-travel.pages.dev). All rights reserved.</p>
-        <p className="mt-2 text-slate-500">掲載の宿泊料金や施設情報は楽天トラベルAPIより取得した参考データです。最新のプラン内容は各宿泊施設ページをご確認ください。</p>
+        <p className="mt-2 text-slate-500">掲載の宿泊料金や施設情報は楽天トラベル公式データより取得した参考データです。最新のプラン内容は各宿泊施設ページをご確認ください。</p>
       </footer>
     </article>
   );

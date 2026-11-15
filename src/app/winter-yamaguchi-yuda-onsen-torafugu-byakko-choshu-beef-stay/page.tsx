@@ -352,7 +352,7 @@ export default function WinterYamaguchiYudaPage() {
           <div className="border-b border-stone-200 pb-4">
             <h2 className="text-xl sm:text-3xl font-extrabold text-stone-900 tracking-tight">湯田温泉で11月・12月に泊まりたい名湯宿5選</h2>
             <p className="text-xs sm:text-sm text-stone-500 mt-2">
-              楽天トラベルAPIより最新の宿データ・宿泊プラン・評価情報を取得して掲載しています
+              楽天トラベル公式データより最新の宿データ・宿泊プラン・評価情報を取得して掲載しています
             </p>
           </div>
 
@@ -435,7 +435,7 @@ export default function WinterYamaguchiYudaPage() {
                     <div className="pt-2 flex flex-col sm:flex-row items-center justify-between gap-4 border-t border-stone-100">
                       <div className="flex items-center gap-1.5 text-xs text-stone-500 w-full sm:w-auto">
                         <MapPin className="w-3.5 h-3.5 text-stone-400 shrink-0" />
-                        <span className="truncate">{h.access.slice(0, 38)}…</span>
+                        <span className="truncate">{h.access}</span>
                       </div>
                       <a
                         href={h.url}

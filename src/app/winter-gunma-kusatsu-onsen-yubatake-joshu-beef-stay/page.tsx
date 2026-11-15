@@ -451,7 +451,7 @@ export default function KusatsuOnsenWinterPage() {
             <span className="text-xs font-bold text-rose-800 uppercase tracking-widest">Selected Luxury Inns</span>
             <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">【11・12月】草津温泉の真髄を味わう厳選名宿5選</h2>
             <p className="text-sm text-slate-600">
-              楽天トラベルの最新APIデータに基づき、源泉掛け流しの湯質、冬の郷土料理、露天風呂の眺望、宿泊者レビュー評価で選び抜いた5軒。
+              楽天トラベルの最新宿泊データに基づき、源泉掛け流しの湯質、冬の郷土料理、露天風呂の眺望、宿泊者レビュー評価で選び抜いた5軒。
             </p>
           </div>
 

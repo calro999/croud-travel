@@ -361,7 +361,7 @@ export default function ToyamaAmaharashiShinminatoWinterPage() {
             </div>
             <h2 className="text-xl sm:text-3xl font-extrabold text-stone-900 mt-2">雨晴・新湊・富山の冬絶景と富山湾の海の幸を堪能する名宿5選</h2>
             <p className="text-xs sm:text-sm text-stone-500 mt-1">
-              ※表示料金は楽天トラベルAPIより取得した参考最低価格です。時期やプランにより変動します。
+              ※表示料金は楽天トラベル公式データより取得した参考最低価格です。時期やプランにより変動します。
             </p>
           </div>
 

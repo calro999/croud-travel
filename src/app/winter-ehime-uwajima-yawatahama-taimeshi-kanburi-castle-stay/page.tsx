@@ -380,7 +380,7 @@ export default function EhimeUwajimaYawatahamaWinterPage() {
               <span className="text-xs font-bold text-cyan-600 uppercase tracking-widest block">FEATURED ACCOMMODATIONS</span>
               <h2 className="text-xl md:text-3xl font-black text-slate-900">宇和島＆八幡浜・南予を満喫する厳選ホテル・宿5選</h2>
               <p className="text-xs md:text-sm text-slate-500 mt-1">
-                ※楽天トラベルAPIより最新の空室状況・料金・レビュー情報を取得して掲載しています。
+                ※楽天トラベル公式データより最新の空室状況・料金・レビュー情報を取得して掲載しています。
               </p>
             </div>
 

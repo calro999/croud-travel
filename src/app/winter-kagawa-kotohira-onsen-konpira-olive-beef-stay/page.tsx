@@ -312,7 +312,7 @@ export default function KotohiraOnsenWinterPage() {
             </div>
             <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">11月・12月におすすめのことひら温泉郷・厳選名宿5選</h2>
             <p className="text-sm text-slate-600">
-              楽天トラベルの最新APIデータに基づき、金刀比羅宮へのアクセス、讃岐富士の展望露天風呂、讃岐オリーブ牛＆手打ちうどん料理の満足度が高い宿を厳選しました。
+              楽天トラベルの最新宿泊データに基づき、金刀比羅宮へのアクセス、讃岐富士の展望露天風呂、讃岐オリーブ牛＆手打ちうどん料理の満足度が高い宿を厳選しました。
             </p>
           </div>
 

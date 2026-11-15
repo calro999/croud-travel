@@ -447,7 +447,7 @@ export default function HimiOnsenWinterPage() {
             <span className="text-xs font-bold text-cyan-800 uppercase tracking-widest">Selected Luxury Inns</span>
             <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">【11・12月】富山・氷見温泉郷の寒ぶりと海景を極める厳選宿5選</h2>
             <p className="text-sm text-slate-600">
-              楽天トラベルの最新APIデータに基づき、富山湾と立山連峰の眺望、寒ブリと氷見牛の料理内容、源泉掛け流しの湯質、口コミ評価で選び抜いた5軒。
+              楽天トラベルの最新宿泊データに基づき、富山湾と立山連峰の眺望、寒ブリと氷見牛の料理内容、源泉掛け流しの湯質、口コミ評価で選び抜いた5軒。
             </p>
           </div>
 

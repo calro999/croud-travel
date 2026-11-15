@@ -451,7 +451,7 @@ export default function BeppuOnsenWinterPage() {
             <span className="text-xs font-bold text-teal-800 uppercase tracking-widest">Selected Luxury Inns</span>
             <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">【11・12月】別府・鉄輪温泉の至福を約束する厳選名宿5選</h2>
             <p className="text-sm text-slate-600">
-              楽天トラベルの最新APIデータに基づき、源泉掛け流しの湯質、別府湾や湯煙の絶景、大分県産豊後牛や関アジ関サバ会席、宿泊者レビュー評価で選び抜いた5軒。
+              楽天トラベルの最新宿泊データに基づき、源泉掛け流しの湯質、別府湾や湯煙の絶景、大分県産豊後牛や関アジ関サバ会席、宿泊者レビュー評価で選び抜いた5軒。
             </p>
           </div>
 

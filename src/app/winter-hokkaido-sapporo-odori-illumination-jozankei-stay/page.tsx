@@ -329,7 +329,7 @@ export default function SapporoJozankeiWinterPage() {
             <span className="text-cyan-600 font-bold text-xs sm:text-sm tracking-wider uppercase">Verified Accommodations</span>
             <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">札幌＆定山渓温泉で冬を堪能する極上宿5選</h2>
             <p className="text-slate-600 text-xs sm:text-sm">
-              楽天トラベルAPIより最新の空室・料金・口コミデータをリアルタイム取得。冬の北海道旅行を忘れられない思い出に変える名宿を厳選しました。
+              楽天トラベル公式データより最新の空室・料金・口コミデータをリアルタイム取得。冬の北海道旅行を忘れられない思い出に変える名宿を厳選しました。
             </p>
           </div>
 

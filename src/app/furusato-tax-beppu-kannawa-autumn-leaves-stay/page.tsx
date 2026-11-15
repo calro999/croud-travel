@@ -180,7 +180,7 @@ export default function FeatureArticlePage() {
                       名物！蒸し湯も人気♪レトロな空間と心温まるおもてなしが自慢！
                     </p>
                     <div className="bg-stone-50 rounded-xl p-4 border border-stone-200/60 text-xs space-y-1.5 text-stone-600">
-                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> 名物！蒸し湯も人気♪レトロな空間と心温まるおもてなしが自慢！...</div>
+                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> 名物！蒸し湯も人気♪レトロな空間と心温まるおもてなしが自慢！</div>
                       <div><strong className="text-stone-800">🚗 アクセス：</strong> 別府駅よりタクシーで約１５分／別府ＩＣから約７分※ナビは正確でない場合があります。お電話でお尋ねください。</div>
                       <div><strong className="text-stone-800">💰 料金目安：</strong> <span className="text-amber-900 font-bold text-sm">1名あたり 7,700円〜</span>（※クーポン利用で実質2,000円）</div>
                     </div>
@@ -247,7 +247,7 @@ export default function FeatureArticlePage() {
                       本館は総檜造り貸切露天風呂や無料生ビールなど本館限定特典が充実　離れは全室露天風呂・内湯付き
                     </p>
                     <div className="bg-stone-50 rounded-xl p-4 border border-stone-200/60 text-xs space-y-1.5 text-stone-600">
-                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> 本館は総檜造り貸切露天風呂や無料生ビールなど本館限定特典が充実　離れは全室露天風呂・内湯付き...</div>
+                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> 本館は総檜造り貸切露天風呂や無料生ビールなど本館限定特典が充実 離れは全室露天風呂・内湯付き</div>
                       <div><strong className="text-stone-800">🚗 アクセス：</strong> 鉄輪バスターミナルより徒歩5分・別府ICより車で10分・別府駅より車で15分・大分空港より車で50分</div>
                       <div><strong className="text-stone-800">💰 料金目安：</strong> <span className="text-amber-900 font-bold text-sm">1名あたり 9,053円〜</span>（※クーポン利用で実質2,000円）</div>
                     </div>
@@ -314,7 +314,7 @@ export default function FeatureArticlePage() {
                       【貸切湯無料】鉄輪散策に抜群の立地！掛け流しの温泉と手作り料理で心も身体もほっこり♪
                     </p>
                     <div className="bg-stone-50 rounded-xl p-4 border border-stone-200/60 text-xs space-y-1.5 text-stone-600">
-                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> 【貸切湯無料】鉄輪散策に抜群の立地！掛け流しの温泉と手作り料理で心も身体もほっこり♪...</div>
+                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> 【貸切湯無料】鉄輪散策に抜群の立地！掛け流しの温泉と手作り料理で心も身体もほっこり♪</div>
                       <div><strong className="text-stone-800">🚗 アクセス：</strong> JR別府駅から車で13分、亀の井バス停から徒歩5分、大分交通バス停から徒歩1分</div>
                       <div><strong className="text-stone-800">💰 料金目安：</strong> <span className="text-amber-900 font-bold text-sm">1名あたり 6,300円〜</span>（※クーポン利用で実質2,000円）</div>
                     </div>

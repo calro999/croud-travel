@@ -180,7 +180,7 @@ export default function FeatureArticlePage() {
                       かに・但馬牛など四季折々の味覚と充実したお風呂。五万坪の森林に囲まれ寛ぎのひとときを。無料駐車場有
                     </p>
                     <div className="bg-stone-50 rounded-xl p-4 border border-stone-200/60 text-xs space-y-1.5 text-stone-600">
-                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> かに・但馬牛など四季折々の味覚と充実したお風呂。五万坪の森林に囲まれ寛ぎのひとときを。無料駐車場有...</div>
+                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> かに・但馬牛など四季折々の味覚と充実したお風呂。五万坪の森林に囲まれ寛ぎのひとときを。無料駐車場有</div>
                       <div><strong className="text-stone-800">🚗 アクセス：</strong> 【電車】JR城崎温泉駅から旅館組合無料乗合バスで5～15分【車】北近畿豊岡自動車道・豊岡出石ICから約18分</div>
                       <div><strong className="text-stone-800">💰 料金目安：</strong> <span className="text-amber-900 font-bold text-sm">1名あたり 35,200円〜</span>（※クーポン利用で実質2,000円）</div>
                     </div>
@@ -247,7 +247,7 @@ export default function FeatureArticlePage() {
                       ◆売切れの日は公式サイトもご確認下さい◆江戸安政期創業、山陰隋一の純日本旅館として皆様をお迎致します
                     </p>
                     <div className="bg-stone-50 rounded-xl p-4 border border-stone-200/60 text-xs space-y-1.5 text-stone-600">
-                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> ◆売切れの日は公式サイトもご確認下さい◆江戸安政期創業、山陰隋一の純日本旅館として皆様をお迎致します...</div>
+                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> ◆売切れの日は公式サイトもご確認下さい◆江戸安政期創業、山陰隋一の純日本旅館として皆様をお迎致します</div>
                       <div><strong className="text-stone-800">🚗 アクセス：</strong> 【車】北近畿豊岡自動車道　豊岡出石ICより約18分　【電車】城崎温泉駅より徒歩15分（旅館組合無料バス有）</div>
                       <div><strong className="text-stone-800">💰 料金目安：</strong> <span className="text-amber-900 font-bold text-sm">1名あたり 12,000円〜</span>（※クーポン利用で実質2,000円）</div>
                     </div>
@@ -314,7 +314,7 @@ export default function FeatureArticlePage() {
                       夕朝お部屋食・露天風呂付き客室で、静かに籠る休日を。ラウンジでの無料ドリンクサービス有
                     </p>
                     <div className="bg-stone-50 rounded-xl p-4 border border-stone-200/60 text-xs space-y-1.5 text-stone-600">
-                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> 夕朝お部屋食・露天風呂付き客室で、静かに籠る休日を。ラウンジでの無料ドリンクサービス有...</div>
+                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> 夕朝お部屋食・露天風呂付き客室で、静かに籠る休日を。ラウンジでの無料ドリンクサービス有</div>
                       <div><strong className="text-stone-800">🚗 アクセス：</strong> JR山陰本線「城崎温泉駅」、無料バスで5分 ／北近畿豊岡道「但馬空港IC」より国道312号線、県道3号線経由で約30分。</div>
                       <div><strong className="text-stone-800">💰 料金目安：</strong> <span className="text-amber-900 font-bold text-sm">1名あたり 12,100円〜</span>（※クーポン利用で実質2,000円）</div>
                     </div>

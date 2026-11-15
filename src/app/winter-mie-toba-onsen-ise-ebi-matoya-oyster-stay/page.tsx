@@ -312,7 +312,7 @@ export default function TobaOnsenWinterPage() {
             </div>
             <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">11月・12月におすすめの鳥羽温泉郷・厳選名宿5選</h2>
             <p className="text-sm text-slate-600">
-              楽天トラベルの最新APIデータに基づき、鳥羽湾のオーシャンビュー、活伊勢海老・的矢牡蠣・松阪牛の会席料理、露天風呂の満足度が高い宿を厳選しました。
+              楽天トラベルの最新宿泊データに基づき、鳥羽湾のオーシャンビュー、活伊勢海老・的矢牡蠣・松阪牛の会席料理、露天風呂の満足度が高い宿を厳選しました。
             </p>
           </div>
 

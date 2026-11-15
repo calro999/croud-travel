@@ -180,7 +180,7 @@ export default function FeatureArticlePage() {
                       【ご縁に結ばれて創業300年】楽天トラベルアワード11年連続受賞施設！口コミ総数3,326件☆
                     </p>
                     <div className="bg-stone-50 rounded-xl p-4 border border-stone-200/60 text-xs space-y-1.5 text-stone-600">
-                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> 【ご縁に結ばれて創業300年】楽天トラベルアワード11年連続受賞施設！口コミ総数3,326件☆...</div>
+                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> 【ご縁に結ばれて創業300年】楽天トラベルアワード11年連続受賞施設！口コミ総数3,326件☆</div>
                       <div><strong className="text-stone-800">🚗 アクセス：</strong> 【山陰道】玉造インターから車で約１０分 ■出雲大社から車で約４０分の距離 ■ＪＲ玉造温泉駅より送迎有（事前連絡要）</div>
                       <div><strong className="text-stone-800">💰 料金目安：</strong> <span className="text-amber-900 font-bold text-sm">1名あたり 17,000円〜</span>（※クーポン利用で実質2,000円）</div>
                     </div>
@@ -247,7 +247,7 @@ export default function FeatureArticlePage() {
                       旬を生かした伝統料理と4つのお風呂を満喫できる宿。
                     </p>
                     <div className="bg-stone-50 rounded-xl p-4 border border-stone-200/60 text-xs space-y-1.5 text-stone-600">
-                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> 旬を生かした伝統料理と4つのお風呂を満喫できる宿。...</div>
+                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> 旬を生かした伝統料理と4つのお風呂を満喫できる宿。</div>
                       <div><strong className="text-stone-800">🚗 アクセス：</strong> 米子自動車道　国道9号線で約50分。JR山陰本線　玉造温泉駅。</div>
                       <div><strong className="text-stone-800">💰 料金目安：</strong> <span className="text-amber-900 font-bold text-sm">1名あたり 14,300円〜</span>（※クーポン利用で実質2,000円）</div>
                     </div>
@@ -314,7 +314,7 @@ export default function FeatureArticlePage() {
                       滝を配した殿方露天風呂、竹林の下の女性露天風呂、保性館と無料三湯めぐりも楽しめます。
                     </p>
                     <div className="bg-stone-50 rounded-xl p-4 border border-stone-200/60 text-xs space-y-1.5 text-stone-600">
-                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> 滝を配した殿方露天風呂、竹林の下の女性露天風呂、保性館と無料三湯めぐりも楽しめます。...</div>
+                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> 滝を配した殿方露天風呂、竹林の下の女性露天風呂、保性館と無料三湯めぐりも楽しめます。</div>
                       <div><strong className="text-stone-800">🚗 アクセス：</strong> 山陰道 玉造ICより車で約10分/出雲空港より車にて約30分/JR玉造温泉駅よりタクシーにて約10分</div>
                       <div><strong className="text-stone-800">💰 料金目安：</strong> <span className="text-amber-900 font-bold text-sm">1名あたり 7,700円〜</span>（※クーポン利用で実質2,000円）</div>
                     </div>

@@ -293,7 +293,7 @@ export default function NagasakiCityWinterPage() {
             <span className="text-rose-600 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Verified Accommodations</span>
             <h2 className="text-xl sm:text-3xl font-bold text-slate-900">冬の長崎を満喫する絶景夜景ホテル＆異国情緒の名宿5選</h2>
             <p className="text-slate-500 text-xs sm:text-sm mt-1">
-              楽天トラベルAPIより最新の空室・プラン情報、クチコミ評価を取得。夜景眺望・フェス会場アクセス・長崎美食に優れた宿を厳選
+              楽天トラベル公式データより最新の空室・プラン情報、クチコミ評価を取得。夜景眺望・フェス会場アクセス・長崎美食に優れた宿を厳選
             </p>
           </div>
 

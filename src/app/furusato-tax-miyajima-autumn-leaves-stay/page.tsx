@@ -180,7 +180,7 @@ export default function FeatureArticlePage() {
                       ★2025年、温泉付スイートOPEN！●ルーフトップテラス・半露天風呂付客室・お部屋食プランも人気
                     </p>
                     <div className="bg-stone-50 rounded-xl p-4 border border-stone-200/60 text-xs space-y-1.5 text-stone-600">
-                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> ★2025年、温泉付スイートOPEN！●ルーフトップテラス・半露天風呂付客室・お部屋食プランも人気...</div>
+                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> ★2025年、温泉付スイートOPEN！●ルーフトップテラス・半露天風呂付客室・お部屋食プランも人気</div>
                       <div><strong className="text-stone-800">🚗 アクセス：</strong> 宮島口駅よりフェリーで約10分。宮島桟橋より徒歩5分</div>
                       <div><strong className="text-stone-800">💰 料金目安：</strong> <span className="text-amber-900 font-bold text-sm">1名あたり 29,700円〜</span>（※クーポン利用で実質2,000円）</div>
                     </div>
@@ -247,7 +247,7 @@ export default function FeatureArticlePage() {
                       宮島に一番近い温泉郷の「宮浜温泉」につかり、旬を味わい、心を癒やす。贅沢なひとときをお過ごし下さい。
                     </p>
                     <div className="bg-stone-50 rounded-xl p-4 border border-stone-200/60 text-xs space-y-1.5 text-stone-600">
-                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> 宮島に一番近い温泉郷の「宮浜温泉」につかり、旬を味わい、心を癒やす。贅沢なひとときをお過ごし下さい。...</div>
+                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> 宮島に一番近い温泉郷の「宮浜温泉」につかり、旬を味わい、心を癒やす。贅沢なひとときをお過ごし下さい。</div>
                       <div><strong className="text-stone-800">🚗 アクセス：</strong> ＪＲ　大野浦駅からお車にて約５～１０分（送迎有り）</div>
                       <div><strong className="text-stone-800">💰 料金目安：</strong> <span className="text-amber-900 font-bold text-sm">1名あたり 18,150円〜</span>（※クーポン利用で実質2,000円）</div>
                     </div>
@@ -314,7 +314,7 @@ export default function FeatureArticlePage() {
                       世界遺産「宮島」を対岸に望める贅沢な佇まい。こだわりのおもてなしで、お客様をお迎えします。
                     </p>
                     <div className="bg-stone-50 rounded-xl p-4 border border-stone-200/60 text-xs space-y-1.5 text-stone-600">
-                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> 世界遺産「宮島」を対岸に望める贅沢な佇まい。こだわりのおもてなしで、お客様をお迎えします。...</div>
+                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> 世界遺産「宮島」を対岸に望める贅沢な佇まい。こだわりのおもてなしで、お客様をお迎えします。</div>
                       <div><strong className="text-stone-800">🚗 アクセス：</strong> JR山陽本線　宮島口駅よりホテルまで約１Ｋｍ　所要時間：徒歩約１２分　※JR宮島口駅～ホテル間　無料送迎バス運行有り</div>
                       <div><strong className="text-stone-800">💰 料金目安：</strong> <span className="text-amber-900 font-bold text-sm">1名あたり 10,000円〜</span>（※クーポン利用で実質2,000円）</div>
                     </div>

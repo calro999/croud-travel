@@ -180,7 +180,7 @@ export default function FeatureArticlePage() {
                       大自然のなかでアクティブな休日を！スキー場直結でお子様連れでも快適♪夏期はトレッキングが人気
                     </p>
                     <div className="bg-stone-50 rounded-xl p-4 border border-stone-200/60 text-xs space-y-1.5 text-stone-600">
-                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> 大自然のなかでアクティブな休日を！スキー場直結でお子様連れでも快適♪夏期はトレッキングが人気...</div>
+                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> 大自然のなかでアクティブな休日を！スキー場直結でお子様連れでも快適♪夏期はトレッキングが人気</div>
                       <div><strong className="text-stone-800">🚗 アクセス：</strong> 東北自動車道 松尾ICより15分。盛岡駅より岩手県北バスで約80分。</div>
                       <div><strong className="text-stone-800">💰 料金目安：</strong> <span className="text-amber-900 font-bold text-sm">1名あたり 5,500円〜</span>（※クーポン利用で実質2,000円）</div>
                     </div>
@@ -247,7 +247,7 @@ export default function FeatureArticlePage() {
                       自然豊かな八幡平の原生林に囲まれた古民家風の秘湯の宿。源泉掛け流しの硫黄泉が心と体を癒します。
                     </p>
                     <div className="bg-stone-50 rounded-xl p-4 border border-stone-200/60 text-xs space-y-1.5 text-stone-600">
-                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> 自然豊かな八幡平の原生林に囲まれた古民家風の秘湯の宿。源泉掛け流しの硫黄泉が心と体を癒します。...</div>
+                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> 自然豊かな八幡平の原生林に囲まれた古民家風の秘湯の宿。源泉掛け流しの硫黄泉が心と体を癒します。</div>
                       <div><strong className="text-stone-800">🚗 アクセス：</strong> 盛岡駅→バス松川温泉行き約１１０分松川温泉徒歩約０分（大人片道1350円）／東北自動車道　松尾八幡平ＩＣより車で約２５分</div>
                       <div><strong className="text-stone-800">💰 料金目安：</strong> <span className="text-amber-900 font-bold text-sm">1名あたり 18,450円〜</span>（※クーポン利用で実質2,000円）</div>
                     </div>
@@ -314,7 +314,7 @@ export default function FeatureArticlePage() {
                       八幡平市の国立公園内に立地。静寂が心を癒す、何もないを楽しむ100%源泉かけ流しの温泉三昧の宿。
                     </p>
                     <div className="bg-stone-50 rounded-xl p-4 border border-stone-200/60 text-xs space-y-1.5 text-stone-600">
-                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> 八幡平市の国立公園内に立地。静寂が心を癒す、何もないを楽しむ100%源泉かけ流しの温泉三昧の宿。...</div>
+                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> 八幡平市の国立公園内に立地。静寂が心を癒す、何もないを楽しむ100%源泉かけ流しの温泉三昧の宿。</div>
                       <div><strong className="text-stone-800">🚗 アクセス：</strong> 盛岡駅より岩手県北バスで110分</div>
                       <div><strong className="text-stone-800">💰 料金目安：</strong> <span className="text-amber-900 font-bold text-sm">1名あたり 14,000円〜</span>（※クーポン利用で実質2,000円）</div>
                     </div>

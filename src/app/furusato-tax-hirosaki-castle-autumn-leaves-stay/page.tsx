@@ -180,7 +180,7 @@ export default function FeatureArticlePage() {
                       最上階の天然温泉大浴場＋高温サウナで心身共にととのう！楽天トラベルスーパーSALEでお得に泊まろう！
                     </p>
                     <div className="bg-stone-50 rounded-xl p-4 border border-stone-200/60 text-xs space-y-1.5 text-stone-600">
-                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> 最上階の天然温泉大浴場＋高温サウナで心身共にととのう！楽天トラベルスーパーSALEでお得に泊まろう！...</div>
+                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> 最上階の天然温泉大浴場＋高温サウナで心身共にととのう！楽天トラベルスーパーSALEでお得に泊まろう！</div>
                       <div><strong className="text-stone-800">🚗 アクセス：</strong> JR弘前駅より車で約10分</div>
                       <div><strong className="text-stone-800">💰 料金目安：</strong> <span className="text-amber-900 font-bold text-sm">1名あたり 5,775円〜</span>（※クーポン利用で実質2,000円）</div>
                     </div>
@@ -247,7 +247,7 @@ export default function FeatureArticlePage() {
                       JR弘前駅前、津軽の自然の彩を感じるホテル。旅の拠点として最適です。
                     </p>
                     <div className="bg-stone-50 rounded-xl p-4 border border-stone-200/60 text-xs space-y-1.5 text-stone-600">
-                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> JR弘前駅前、津軽の自然の彩を感じるホテル。旅の拠点として最適です。...</div>
+                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> JR弘前駅前、津軽の自然の彩を感じるホテル。旅の拠点として最適です。</div>
                       <div><strong className="text-stone-800">🚗 アクセス：</strong> ＪＲ弘前駅中央口より徒歩1分、青森空港より車で約６０分、東北自動車道（大鰐・弘前ＩＣ）より車で約１５分</div>
                       <div><strong className="text-stone-800">💰 料金目安：</strong> <span className="text-amber-900 font-bold text-sm">1名あたり 3,780円〜</span>（※クーポン利用で実質2,000円）</div>
                     </div>
@@ -314,7 +314,7 @@ export default function FeatureArticlePage() {
                       14階最上階に大浴場を用意　ＷＯＷＯＷ全室で無料視聴可　朝食バイキング無料
                     </p>
                     <div className="bg-stone-50 rounded-xl p-4 border border-stone-200/60 text-xs space-y-1.5 text-stone-600">
-                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> 14階最上階に大浴場を用意　ＷＯＷＯＷ全室で無料視聴可　朝食バイキング無料...</div>
+                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> 14階最上階に大浴場を用意 ＷＯＷＯＷ全室で無料視聴可 朝食バイキング無料</div>
                       <div><strong className="text-stone-800">🚗 アクセス：</strong> ＪＲ奥羽本線　弘前駅より徒歩３分／東北自動車道大鰐・弘前ＩＣより１５分</div>
                       <div><strong className="text-stone-800">💰 料金目安：</strong> <span className="text-amber-900 font-bold text-sm">1名あたり 5,800円〜</span>（※クーポン利用で実質2,000円）</div>
                     </div>

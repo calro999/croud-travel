@@ -180,7 +180,7 @@ export default function FeatureArticlePage() {
                       美肌効果に優れた自家源泉「黒湯」を楽しめる養老渓谷の温泉宿。
                     </p>
                     <div className="bg-stone-50 rounded-xl p-4 border border-stone-200/60 text-xs space-y-1.5 text-stone-600">
-                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> 美肌効果に優れた自家源泉「黒湯」を楽しめる養老渓谷の温泉宿。...</div>
+                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> 美肌効果に優れた自家源泉「黒湯」を楽しめる養老渓谷の温泉宿。</div>
                       <div><strong className="text-stone-800">🚗 アクセス：</strong> 養老渓谷駅から徒歩で２０分（１．７ｋｍ）／バスで５分</div>
                       <div><strong className="text-stone-800">💰 料金目安：</strong> <span className="text-amber-900 font-bold text-sm">1名あたり 14,000円〜</span>（※クーポン利用で実質2,000円）</div>
                     </div>
@@ -247,7 +247,7 @@ export default function FeatureArticlePage() {
                       名湯『黒湯温泉』は美肌効果があり女性にも人気！◆貸切温泉◆
                     </p>
                     <div className="bg-stone-50 rounded-xl p-4 border border-stone-200/60 text-xs space-y-1.5 text-stone-600">
-                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> 名湯『黒湯温泉』は美肌効果があり女性にも人気！◆貸切温泉◆...</div>
+                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> 名湯『黒湯温泉』は美肌効果があり女性にも人気！◆貸切温泉◆</div>
                       <div><strong className="text-stone-800">🚗 アクセス：</strong> 小湊鉄道　養老渓谷駅より徒歩２０分</div>
                       <div><strong className="text-stone-800">💰 料金目安：</strong> <span className="text-amber-900 font-bold text-sm">1名あたり 7,700円〜</span>（※クーポン利用で実質2,000円）</div>
                     </div>
@@ -314,7 +314,7 @@ export default function FeatureArticlePage() {
                       養老渓谷の自然美に抱かれる宿。郷土色豊かなお膳を堪能し、洞窟風呂でゆったり。
                     </p>
                     <div className="bg-stone-50 rounded-xl p-4 border border-stone-200/60 text-xs space-y-1.5 text-stone-600">
-                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> 養老渓谷の自然美に抱かれる宿。郷土色豊かなお膳を堪能し、洞窟風呂でゆったり。...</div>
+                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> 養老渓谷の自然美に抱かれる宿。郷土色豊かなお膳を堪能し、洞窟風呂でゆったり。</div>
                       <div><strong className="text-stone-800">🚗 アクセス：</strong> 養老渓谷駅よりお車にて５分</div>
                       <div><strong className="text-stone-800">💰 料金目安：</strong> <span className="text-amber-900 font-bold text-sm">1名あたり 18,700円〜</span>（※クーポン利用で実質2,000円）</div>
                     </div>

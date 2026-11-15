@@ -285,7 +285,7 @@ export default function AsahikawaPenguinWinterPage() {
                 <h2 className="text-2xl sm:text-3xl font-black text-slate-900">旭川＆旭山動物園を満喫するおすすめ厳選名宿5選</h2>
               </div>
               <p className="text-xs sm:text-sm text-slate-500 max-w-md">
-                楽天トラベルAPIより最新の空室・料金・レビュー情報を反映。駅直結・天然温泉・極上朝食を備えたハイパフォーマンスホテルを厳選。
+                楽天トラベル公式データより最新の空室・料金・レビュー情報を反映。駅直結・天然温泉・極上朝食を備えたハイパフォーマンスホテルを厳選。
               </p>
             </div>
 

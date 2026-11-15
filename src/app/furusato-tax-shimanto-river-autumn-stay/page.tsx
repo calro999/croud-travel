@@ -180,7 +180,7 @@ export default function FeatureArticlePage() {
                       四万十川を見下ろせるホテル。天然鮎や青のりなどの四万十の幸が味わえる。
                     </p>
                     <div className="bg-stone-50 rounded-xl p-4 border border-stone-200/60 text-xs space-y-1.5 text-stone-600">
-                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> 四万十川を見下ろせるホテル。天然鮎や青のりなどの四万十の幸が味わえる。...</div>
+                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> 四万十川を見下ろせるホテル。天然鮎や青のりなどの四万十の幸が味わえる。</div>
                       <div><strong className="text-stone-800">🚗 アクセス：</strong> ＪＲ　江川崎駅から無料送迎（約５分）　要予約制</div>
                       <div><strong className="text-stone-800">💰 料金目安：</strong> <span className="text-amber-900 font-bold text-sm">1名あたり 10,450円〜</span>（※クーポン利用で実質2,000円）</div>
                     </div>
@@ -247,7 +247,7 @@ export default function FeatureArticlePage() {
                       四万十川の隠れ温泉宿。地獲れの幸と自慢の露天風呂でおもてなし
                     </p>
                     <div className="bg-stone-50 rounded-xl p-4 border border-stone-200/60 text-xs space-y-1.5 text-stone-600">
-                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> 四万十川の隠れ温泉宿。地獲れの幸と自慢の露天風呂でおもてなし...</div>
+                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> 四万十川の隠れ温泉宿。地獲れの幸と自慢の露天風呂でおもてなし</div>
                       <div><strong className="text-stone-800">🚗 アクセス：</strong> 高知自動車道・四万十町中央ICより、国道56号線にて中村方面へ60分／中村駅よりタクシーまたはバスにて約15分</div>
                       <div><strong className="text-stone-800">💰 料金目安：</strong> <span className="text-amber-900 font-bold text-sm">1名あたり 9,900円〜</span>（※クーポン利用で実質2,000円）</div>
                     </div>
@@ -314,7 +314,7 @@ export default function FeatureArticlePage() {
                       中村の繁華街まで徒歩約１分★周囲は飲食店多数の好立地！大浴場温泉有♪（時間帯で男女入替有）
                     </p>
                     <div className="bg-stone-50 rounded-xl p-4 border border-stone-200/60 text-xs space-y-1.5 text-stone-600">
-                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> 中村の繁華街まで徒歩約１分★周囲は飲食店多数の好立地！大浴場温泉有♪（時間帯で男女入替有）...</div>
+                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> 中村の繁華街まで徒歩約１分★周囲は飲食店多数の好立地！大浴場温泉有♪（時間帯で男女入替有）</div>
                       <div><strong className="text-stone-800">🚗 アクセス：</strong> 高知市内より車で約2時間/JR(特急)にて1時間40分、土佐くろしお鉄道『中村駅』下車、お車にて約5分</div>
                       <div><strong className="text-stone-800">💰 料金目安：</strong> <span className="text-amber-900 font-bold text-sm">1名あたり 6,800円〜</span>（※クーポン利用で実質2,000円）</div>
                     </div>

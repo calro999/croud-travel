@@ -361,7 +361,7 @@ export default function OkayamaHinaseOysterWinterPage() {
             </div>
             <h2 className="text-xl sm:text-3xl font-extrabold text-stone-900 mt-2">日生牡蠣と牛窓の冬絶景を味わい尽くす名宿5選</h2>
             <p className="text-xs sm:text-sm text-stone-500 mt-1">
-              ※表示料金は楽天トラベルAPIより取得した参考最低価格です。時期や宿泊プランにより変動します。
+              ※表示料金は楽天トラベル公式データより取得した参考最低価格です。時期や宿泊プランにより変動します。
             </p>
           </div>
 

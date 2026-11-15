@@ -331,7 +331,7 @@ export default function IwateMoriokaPage() {
               <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900 mt-1">冬の盛岡＆繋温泉を満喫する厳選名宿5選</h2>
             </div>
             <p className="text-xs text-slate-500">
-              ※楽天トラベルAPIリアルタイム取得データ（2026年最新）
+              ※楽天トラベル公式データリアルタイム取得データ（2026年最新）
             </p>
           </div>
 

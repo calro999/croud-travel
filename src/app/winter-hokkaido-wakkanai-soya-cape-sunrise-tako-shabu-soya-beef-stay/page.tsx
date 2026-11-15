@@ -452,7 +452,7 @@ export default function HokkaidoWakkanaiWinterPage() {
             <span className="text-cyan-400 font-bold text-sm tracking-widest uppercase">HOTEL & RYOKAN SELECTION</span>
             <h2 className="text-2xl md:text-4xl font-black mt-2 mb-4 font-journal-serif">宗谷岬・稚内冬旅に選ばれる厳選名宿5選</h2>
             <p className="text-slate-300 text-sm md:text-base leading-relaxed">
-              楽天トラベルAPIから最新の空室状況・宿泊プラン・宿泊者評価を直接取得。最上階の展望天然温泉を備える名門チェーンから港を一望するハイクラスホテルまで厳選しました。
+              楽天トラベル公式データから最新の空室状況・宿泊プラン・宿泊者評価を直接取得。最上階の展望天然温泉を備える名門チェーンから港を一望するハイクラスホテルまで厳選しました。
             </p>
           </div>
 
@@ -640,7 +640,7 @@ export default function HokkaidoWakkanaiWinterPage() {
       <footer className="bg-slate-950 text-slate-400 py-8 px-4 text-center text-xs">
         <p>© 2026 旅宿クラウド (croud-travel.pages.dev). All rights reserved.</p>
         <p className="mt-1 text-slate-500">
-          ※本記事に掲載している宿泊施設情報、価格、評価、交通アクセス等は、楽天トラベルAPIおよび公式サイトの最新データに基づいています。冬期の宗谷岬方面バス運行ダイヤや天候による運休情報は、事前にお確かめください。
+          ※本記事に掲載している宿泊施設情報、価格、評価、交通アクセス等は、楽天トラベル公式データおよび公式サイトの最新データに基づいています。冬期の宗谷岬方面バス運行ダイヤや天候による運休情報は、事前にお確かめください。
         </p>
       </footer>
     </article>

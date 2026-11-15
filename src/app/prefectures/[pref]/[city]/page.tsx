@@ -8,6 +8,7 @@ import { getPrefectureBySlug } from "@/data/prefecturesData";
 import { SPOTS_DATA } from "@/data/spotsData";
 import NextSearchQuestions, { NextQuestionItem } from "@/app/components/NextSearchQuestions";
 import { getRecommendedFeatureHubs } from "@/data/featureHubsData";
+import ShareButtons from "@/app/components/ShareButtons";
 
 interface Post {
   id: string;
@@ -236,6 +237,11 @@ export default async function CityDetailPage({ params }: { params: Promise<{ pre
           </div>
         </div>
       </section>
+
+      <ShareButtons
+        url={`https://croud-travel.pages.dev/prefectures/${pref}/${city}/`}
+        title={`「${cityInfo.cityName}」おすすめ観光名所・名物料理・厳選宿ガイド`}
+      />
 
       {/* 🍱 名物料理・グルメ特集 */}
       <section className="bg-white border border-amber-200 rounded-3xl p-6 md:p-10 space-y-6 shadow-sm">
@@ -509,6 +515,11 @@ export default async function CityDetailPage({ params }: { params: Promise<{ pre
       )}
 
       {/* 親都道府県ハブへのバックリンク */}
+      <ShareButtons
+        url={`https://croud-travel.pages.dev/prefectures/${pref}/${city}/`}
+        title={`「${cityInfo.cityName}」おすすめ観光名所・名物料理・厳選宿ガイド`}
+      />
+
       <div className="text-center pt-4">
         <Link
           href={`/prefectures/${pref}/`}

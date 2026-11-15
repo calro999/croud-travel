@@ -198,9 +198,7 @@ export default function FurusatoFeaturePage() {
                     鹿児島県指宿市湯の浜5-27-27
                   </span>
                   <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">指宿温泉　いぶすき秀水園</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
-                    南薩摩の湯の里指宿にて心尽くしの料理とやすらぎのひとときを…
-                  </p>
+                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">南薩摩の湯の里指宿にて心尽くしの料理とやすらぎのひとときをお過ごしください。</p>
                   
                   <div className="mt-auto pt-4 border-t border-stone-800/80 flex items-center justify-between">
                     <div>

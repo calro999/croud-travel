@@ -180,7 +180,7 @@ export default function FeatureArticlePage() {
                       高さ15m・幅5ｍの末広大滝は圧巻　館内は広々！ロビーには「青森ねぶた」や「東北のこけし」を多数展示
                     </p>
                     <div className="bg-stone-50 rounded-xl p-4 border border-stone-200/60 text-xs space-y-1.5 text-stone-600">
-                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> 高さ15m・幅5ｍの末広大滝は圧巻　館内は広々！ロビーには「青森ねぶた」や「東北のこけし」を多数展示...</div>
+                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> 高さ15m・幅5ｍの末広大滝は圧巻 館内は広々！ロビーには「青森ねぶた」や「東北のこけし」を多数展示</div>
                       <div><strong className="text-stone-800">🚗 アクセス：</strong> 東北自動車道十和田ICから車で45分　JR八戸駅、JR青森駅から車で120分</div>
                       <div><strong className="text-stone-800">💰 料金目安：</strong> <span className="text-amber-900 font-bold text-sm">1名あたり 7,700円〜</span>（※クーポン利用で実質2,000円）</div>
                     </div>
@@ -247,7 +247,7 @@ export default function FeatureArticlePage() {
                       炉端料理が人気のお宿。秋田県プレミアムチケット、ご利用可能です！
                     </p>
                     <div className="bg-stone-50 rounded-xl p-4 border border-stone-200/60 text-xs space-y-1.5 text-stone-600">
-                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> 炉端料理が人気のお宿。秋田県プレミアムチケット、ご利用可能です！...</div>
+                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> 炉端料理が人気のお宿。秋田県プレミアムチケット、ご利用可能です！</div>
                       <div><strong className="text-stone-800">🚗 アクセス：</strong> ＪＲ八戸駅より十和田湖行きＪＲバスで140分、終点十和田湖下車、徒歩4分／東北自動車道小坂ＩＣより４０分</div>
                       <div><strong className="text-stone-800">💰 料金目安：</strong> <span className="text-amber-900 font-bold text-sm">1名あたり 8,250円〜</span>（※クーポン利用で実質2,000円）</div>
                     </div>
@@ -314,7 +314,7 @@ export default function FeatureArticlePage() {
                       「秋田県宿泊応援事業」対象施設　予約受付は５月７日より受付開始
                     </p>
                     <div className="bg-stone-50 rounded-xl p-4 border border-stone-200/60 text-xs space-y-1.5 text-stone-600">
-                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> 「秋田県宿泊応援事業」対象施設　予約受付は５月７日より受付開始...</div>
+                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> 「秋田県宿泊応援事業」対象施設 予約受付は５月７日より受付開始</div>
                       <div><strong className="text-stone-800">🚗 アクセス：</strong> 東北道小坂ＩＣから３１ｋｍ（約４０分）／八戸駅（木～日曜日のみ運行）・休屋バス停から無料送迎バスあり（２日前まで予約）</div>
                       <div><strong className="text-stone-800">💰 料金目安：</strong> <span className="text-amber-900 font-bold text-sm">1名あたり 12,116円〜</span>（※クーポン利用で実質2,000円）</div>
                     </div>

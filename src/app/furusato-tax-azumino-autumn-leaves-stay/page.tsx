@@ -180,7 +180,7 @@ export default function FeatureArticlePage() {
                       松本エリアから車で約40分★口コミ朝食４．7 心癒す旅を
                     </p>
                     <div className="bg-stone-50 rounded-xl p-4 border border-stone-200/60 text-xs space-y-1.5 text-stone-600">
-                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> 松本エリアから車で約40分★口コミ朝食４．7 心癒す旅を...</div>
+                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> 松本エリアから車で約40分★口コミ朝食４．7 心癒す旅をお過ごしください。</div>
                       <div><strong className="text-stone-800">🚗 アクセス：</strong> 長野自動車道【安曇野IC】よりお車で約25分。【松本IC】よりお車で約40分／JR大糸線穂高駅よりバスで約15分　</div>
                       <div><strong className="text-stone-800">💰 料金目安：</strong> <span className="text-amber-900 font-bold text-sm">1名あたり 12,700円〜</span>（※クーポン利用で実質2,000円）</div>
                     </div>
@@ -247,7 +247,7 @@ export default function FeatureArticlePage() {
                       穂高温泉郷★天然温泉♪信州サーモンやきのこ、地元の食材を生かした料理と42平米の広々和洋室
                     </p>
                     <div className="bg-stone-50 rounded-xl p-4 border border-stone-200/60 text-xs space-y-1.5 text-stone-600">
-                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> 穂高温泉郷★天然温泉♪信州サーモンやきのこ、地元の食材を生かした料理と42平米の広々和洋室...</div>
+                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> 穂高温泉郷★天然温泉♪信州サーモンやきのこ、地元の食材を生かした料理と42平米の広々和洋室</div>
                       <div><strong className="text-stone-800">🚗 アクセス：</strong> 穂高駅よりお車にて約１１分</div>
                       <div><strong className="text-stone-800">💰 料金目安：</strong> <span className="text-amber-900 font-bold text-sm">1名あたり 6,000円〜</span>（※クーポン利用で実質2,000円）</div>
                     </div>
@@ -314,7 +314,7 @@ export default function FeatureArticlePage() {
                       全室温泉付き｜好きなときに温泉に浸かれる10室の静かな宿
                     </p>
                     <div className="bg-stone-50 rounded-xl p-4 border border-stone-200/60 text-xs space-y-1.5 text-stone-600">
-                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> 全室温泉付き｜好きなときに温泉に浸かれる10室の静かな宿...</div>
+                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> 全室温泉付き｜好きなときに温泉に浸かれる10室の静かな宿</div>
                       <div><strong className="text-stone-800">🚗 アクセス：</strong> 穂高駅からお車で約７分／長野道安曇野ＩＣよりお車で約２０分／松本駅からお車で約５０分　■館内にサウナ2室あり</div>
                       <div><strong className="text-stone-800">💰 料金目安：</strong> <span className="text-amber-900 font-bold text-sm">1名あたり 9,600円〜</span>（※クーポン利用で実質2,000円）</div>
                     </div>

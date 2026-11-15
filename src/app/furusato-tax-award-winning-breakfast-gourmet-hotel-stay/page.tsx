@@ -153,7 +153,7 @@ export default function FurusatoTaxPage() {
         <section className="space-y-12">
           <div className="border-l-4 border-amber-500 pl-4">
             <h2 className="text-2xl md:text-3xl font-black text-white">ふるさと納税対象・厳選おすすめ宿泊施設</h2>
-            <p className="text-slate-400 text-xs md:text-sm mt-1">楽天トラベルAPIより最新の料金・宿泊プラン・空室情報をリアルタイム反映中
+            <p className="text-slate-400 text-xs md:text-sm mt-1">楽天トラベル公式データより最新の料金・宿泊プラン・空室情報をリアルタイム反映中
             </p>
           </div>
 

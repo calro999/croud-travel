@@ -447,7 +447,7 @@ export default function YufuinOnsenWinterPage() {
             <span className="text-xs font-bold text-emerald-800 uppercase tracking-widest">Selected Luxury Inns</span>
             <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">【11・12月】由布院温泉の冬名湯を極める厳選宿5選</h2>
             <p className="text-sm text-slate-600">
-              楽天トラベルの最新APIデータに基づき、客室からの眺望、源泉掛け流しの湯質、豊後牛や郷土料理、宿泊者レビュー評価を徹底比較して選び抜いた名宿。
+              楽天トラベルの最新宿泊データに基づき、客室からの眺望、源泉掛け流しの湯質、豊後牛や郷土料理、宿泊者レビュー評価を徹底比較して選び抜いた名宿。
             </p>
           </div>
 

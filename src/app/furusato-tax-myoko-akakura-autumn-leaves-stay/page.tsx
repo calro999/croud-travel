@@ -180,7 +180,7 @@ export default function FeatureArticlePage() {
                       80余年の伝統と眺望、温泉に恵まれたスパ＆リゾート
                     </p>
                     <div className="bg-stone-50 rounded-xl p-4 border border-stone-200/60 text-xs space-y-1.5 text-stone-600">
-                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> 80余年の伝統と眺望、温泉に恵まれたスパ＆リゾート...</div>
+                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> 80余年の伝統と眺望、温泉に恵まれたスパ＆リゾート</div>
                       <div><strong className="text-stone-800">🚗 アクセス：</strong> 電車◆しなの鉄道・えちごトキめき鉄道－妙高高原駅から無料送迎バス（予約制）あり／車◆上信越道－　妙高高原ＩＣより１０分</div>
                       <div><strong className="text-stone-800">💰 料金目安：</strong> <span className="text-amber-900 font-bold text-sm">1名あたり 38,500円〜</span>（※クーポン利用で実質2,000円）</div>
                     </div>
@@ -247,7 +247,7 @@ export default function FeatureArticlePage() {
                       絶景の露天風呂は源泉掛け流しの白いにごり湯■２階大浴場リニューアル完了しました
                     </p>
                     <div className="bg-stone-50 rounded-xl p-4 border border-stone-200/60 text-xs space-y-1.5 text-stone-600">
-                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> 絶景の露天風呂は源泉掛け流しの白いにごり湯■２階大浴場リニューアル完了しました...</div>
+                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> 絶景の露天風呂は源泉掛け流しの白いにごり湯■２階大浴場リニューアル完了しました</div>
                       <div><strong className="text-stone-800">🚗 アクセス：</strong> 関山駅からバス乗車し20分。妙高高原ICより車で30分(冬季45分)</div>
                       <div><strong className="text-stone-800">💰 料金目安：</strong> <span className="text-amber-900 font-bold text-sm">1名あたり 10,650円〜</span>（※クーポン利用で実質2,000円）</div>
                     </div>
@@ -314,7 +314,7 @@ export default function FeatureArticlePage() {
                       100％源泉掛け流しの天然温泉と創作料理が楽しめるやすらぎの宿。全室川面でゆっくり寛げます
                     </p>
                     <div className="bg-stone-50 rounded-xl p-4 border border-stone-200/60 text-xs space-y-1.5 text-stone-600">
-                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> 100％源泉掛け流しの天然温泉と創作料理が楽しめるやすらぎの宿。全室川面でゆっくり寛げます...</div>
+                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> 100％源泉掛け流しの天然温泉と創作料理が楽しめるやすらぎの宿。全室川面でゆっくり寛げます</div>
                       <div><strong className="text-stone-800">🚗 アクセス：</strong> JR陸羽東線赤倉温泉駅下車、車で5分。東北自動車道古川ICより車で50分</div>
                       <div><strong className="text-stone-800">💰 料金目安：</strong> <span className="text-amber-900 font-bold text-sm">1名あたり 14,900円〜</span>（※クーポン利用で実質2,000円）</div>
                     </div>

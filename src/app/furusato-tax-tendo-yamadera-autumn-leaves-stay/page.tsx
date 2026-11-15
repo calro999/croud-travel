@@ -180,7 +180,7 @@ export default function FeatureArticlePage() {
                       【楽天トラベルゴールドアワード】【楽天トラベル日本の宿】2024年W受賞！山形の旬を味わえる会席料理
                     </p>
                     <div className="bg-stone-50 rounded-xl p-4 border border-stone-200/60 text-xs space-y-1.5 text-stone-600">
-                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> 【楽天トラベルゴールドアワード】【楽天トラベル日本の宿】2024年W受賞！山形の旬を味わえる会席料理...</div>
+                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> 【楽天トラベルゴールドアワード】【楽天トラベル日本の宿】2024年W受賞！山形の旬を味わえる会席料理</div>
                       <div><strong className="text-stone-800">🚗 アクセス：</strong> 山形新幹線で東京駅ー天童駅3H。天童駅東口から無料送迎4分（要予約）。天童ICから10分、山形北ICから15分。街中の宿</div>
                       <div><strong className="text-stone-800">💰 料金目安：</strong> <span className="text-amber-900 font-bold text-sm">1名あたり 12,100円〜</span>（※クーポン利用で実質2,000円）</div>
                     </div>
@@ -247,7 +247,7 @@ export default function FeatureArticlePage() {
                       天童唯一二種類の源泉100%を掛流し☆山形牛付お部屋食
                     </p>
                     <div className="bg-stone-50 rounded-xl p-4 border border-stone-200/60 text-xs space-y-1.5 text-stone-600">
-                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> 天童唯一二種類の源泉100%を掛流し☆山形牛付お部屋食...</div>
+                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> 天童唯一二種類の源泉100%を掛流し☆山形牛付お部屋食</div>
                       <div><strong className="text-stone-800">🚗 アクセス：</strong> 山形新幹線東京駅から天童駅まで約2時間45分。天童駅から車で約5分</div>
                       <div><strong className="text-stone-800">💰 料金目安：</strong> <span className="text-amber-900 font-bold text-sm">1名あたり 19,360円〜</span>（※クーポン利用で実質2,000円）</div>
                     </div>
@@ -314,7 +314,7 @@ export default function FeatureArticlePage() {
                       2024年5月西館リニューアル!!天童温泉で唯一の屋根のない開放感ある露天風呂。『山形牛』に舌鼓♪
                     </p>
                     <div className="bg-stone-50 rounded-xl p-4 border border-stone-200/60 text-xs space-y-1.5 text-stone-600">
-                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> 2024年5月西館リニューアル!!天童温泉で唯一の屋根のない開放感ある露天風呂。『山形牛』に舌鼓♪...</div>
+                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> 2024年5月西館リニューアル!!天童温泉で唯一の屋根のない開放感ある露天風呂。『山形牛』に舌鼓♪</div>
                       <div><strong className="text-stone-800">🚗 アクセス：</strong> ＪＲ天童駅下車（東京～天童間　山形新幹線で約２時間４０分）／山形自動車道　山形北ＩＣより２０分</div>
                       <div><strong className="text-stone-800">💰 料金目安：</strong> <span className="text-amber-900 font-bold text-sm">1名あたり 12,210円〜</span>（※クーポン利用で実質2,000円）</div>
                     </div>

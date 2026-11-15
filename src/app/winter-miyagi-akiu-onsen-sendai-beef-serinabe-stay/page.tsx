@@ -416,7 +416,7 @@ export default function AkiuWinterPage() {
             </div>
             <h2 className="text-2xl sm:text-3xl font-extrabold text-stone-900">11・12月に泊まりたい秋保温泉の名宿厳選5選</h2>
             <p className="text-stone-600 text-sm max-w-2xl mx-auto">
-              楽天トラベルAPIから最新の口コミ評価・宿泊料金・空室情報を取得。初冬の名取川渓谷美と名湯、最高峰A5仙台牛＆名物せり鍋を心ゆくまで堪能できる名宿5軒をご紹介します。
+              楽天トラベル公式データから最新の口コミ評価・宿泊料金・空室情報を取得。初冬の名取川渓谷美と名湯、最高峰A5仙台牛＆名物せり鍋を心ゆくまで堪能できる名宿5軒をご紹介します。
             </p>
           </div>
 

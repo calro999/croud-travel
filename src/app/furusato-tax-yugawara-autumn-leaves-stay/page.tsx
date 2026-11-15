@@ -180,7 +180,7 @@ export default function FeatureArticlePage() {
                       貸切風呂は無料・予約不要。万葉公園入口2分、美術館5分で散策便利。門柱・石垣と本館一部は登録文化財
                     </p>
                     <div className="bg-stone-50 rounded-xl p-4 border border-stone-200/60 text-xs space-y-1.5 text-stone-600">
-                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> 貸切風呂は無料・予約不要。万葉公園入口2分、美術館5分で散策便利。門柱・石垣と本館一部は登録文化財...</div>
+                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> 貸切風呂は無料・予約不要。万葉公園入口2分、美術館5分で散策便利。門柱・石垣と本館一部は登録文化財</div>
                       <div><strong className="text-stone-800">🚗 アクセス：</strong> ＪＲ東海道線「湯河原駅」より「温泉場・奥湯河原方面行」バスにて約１3分公園入口下車／小田原厚木道路石橋ＩＣより２５分</div>
                       <div><strong className="text-stone-800">💰 料金目安：</strong> <span className="text-amber-900 font-bold text-sm">1名あたり 24,750円〜</span>（※クーポン利用で実質2,000円）</div>
                     </div>
@@ -247,7 +247,7 @@ export default function FeatureArticlePage() {
                       美食の宿、馳走の宿「富士屋旅館」唯一無二の時をお過ごしください
                     </p>
                     <div className="bg-stone-50 rounded-xl p-4 border border-stone-200/60 text-xs space-y-1.5 text-stone-600">
-                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> 美食の宿、馳走の宿「富士屋旅館」唯一無二の時をお過ごしください...</div>
+                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> 美食の宿、馳走の宿「富士屋旅館」唯一無二の時をお過ごしください</div>
                       <div><strong className="text-stone-800">🚗 アクセス：</strong> ＪＲ　湯河原駅よりお車にて約８分、または、不動滝行き・奥湯河原行きバスで約15分 「公園入口」下車徒歩2分</div>
                       <div><strong className="text-stone-800">💰 料金目安：</strong> <span className="text-amber-900 font-bold text-sm">1名あたり 24,750円〜</span>（※クーポン利用で実質2,000円）</div>
                     </div>
@@ -314,7 +314,7 @@ export default function FeatureArticlePage() {
                       館内七つの湯めぐりで名湯をご堪能ください。また和の風情を大切に、調度品にもこだわったお宿です。
                     </p>
                     <div className="bg-stone-50 rounded-xl p-4 border border-stone-200/60 text-xs space-y-1.5 text-stone-600">
-                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> 館内七つの湯めぐりで名湯をご堪能ください。また和の風情を大切に、調度品にもこだわったお宿です。...</div>
+                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> 館内七つの湯めぐりで名湯をご堪能ください。また和の風情を大切に、調度品にもこだわったお宿です。</div>
                       <div><strong className="text-stone-800">🚗 アクセス：</strong> ＪＲ東海道線・湯河原駅～タクシーで８分／東名高速・厚木ＩＣ～小田原厚木道路・石橋ＩＣ～２０分</div>
                       <div><strong className="text-stone-800">💰 料金目安：</strong> <span className="text-amber-900 font-bold text-sm">1名あたり 47,300円〜</span>（※クーポン利用で実質2,000円）</div>
                     </div>

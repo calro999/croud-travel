@@ -4,6 +4,7 @@ import fs from "fs";
 import path from "path";
 import FloatingMobileCTA from "@/app/components/FloatingMobileCTA";
 import SpecialCouponBanner from "@/app/components/SpecialCouponBanner";
+import ShareButtons from "@/app/components/ShareButtons";
 
 const baseUrl = process.env.NEXT_PUBLIC_BASE_URL || "https://croud-travel.pages.dev";
 const RAKUTEN_RANKING_URL = "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Franking%2F";
@@ -157,6 +158,11 @@ export default function RankingPage() {
         </div>
       </section>
 
+      <ShareButtons
+        url={`${baseUrl}/ranking/`}
+        title="【2026最新】全国おすすめ温泉宿・人気ホテル総合ランキングTOP50｜口コミ4.5以上の名宿厳選"
+      />
+
       {/* 割引クーポンバナー */}
       <SpecialCouponBanner />
 
@@ -278,6 +284,11 @@ export default function RankingPage() {
           </Link>
         </div>
       </section>
+
+      <ShareButtons
+        url={`${baseUrl}/ranking/`}
+        title="【2026最新】全国おすすめ温泉宿・人気ホテル総合ランキングTOP50｜口コミ4.5以上の名宿厳選"
+      />
 
       {/* 画面下部 スマホ追従CTAバー */}
       <FloatingMobileCTA

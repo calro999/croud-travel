@@ -369,7 +369,7 @@ export default function AichiToyokawaYuyaWinterPage() {
               <span className="text-amber-600 font-bold text-sm tracking-wider uppercase">Featured Accommodations</span>
               <h2 className="text-2xl md:text-3xl font-bold text-slate-900 mt-1">豊川稲荷初詣＆湯谷温泉を満喫する厳選宿5選</h2>
               <p className="text-slate-600 text-sm mt-1">
-                楽天トラベルAPIより最新の空室情報・適正宿泊料金・評価スコアを取得。源泉掛け流し露天風呂から駅近ホテルまで厳選。
+                楽天トラベル公式データより最新の空室情報・適正宿泊料金・評価スコアを取得。源泉掛け流し露天風呂から駅近ホテルまで厳選。
               </p>
             </div>
 
@@ -566,7 +566,7 @@ export default function AichiToyokawaYuyaWinterPage() {
               >
                 <span className="text-cyan-400 text-xs font-bold block mb-1">愛知特集</span>
                 <span className="font-bold text-sm block mb-1">蒲郡＆西浦・三谷温泉！深海エビと竹島弁天初詣名宿</span>
-                <span className="text-xs text-slate-300">三河湾の冬の味覚アカザエビと竹島弁天初詣…</span>
+                <span className="text-xs text-slate-300">三河湾の冬の味覚アカザエビと竹島弁天初詣</span>
               </Link>
               <Link
                 href="/winter-aichi-minamichita-onsen-torafugu-chita-beef-stay/"
@@ -574,7 +574,7 @@ export default function AichiToyokawaYuyaWinterPage() {
               >
                 <span className="text-amber-400 text-xs font-bold block mb-1">愛知特集</span>
                 <span className="font-bold text-sm block mb-1">南知多＆日間賀島！冬のとらふぐ街道と知多牛名宿</span>
-                <span className="text-xs text-slate-300">知多半島の冬のとらふぐ三昧と絶景オーシャンビュー…</span>
+                <span className="text-xs text-slate-300">知多半島の冬のとらふぐ三昧と絶景オーシャンビュー</span>
               </Link>
               <Link
                 href="/winter-shizuoka-hamanako-kanzanji-torafugu-unagi-stay/"
@@ -582,7 +582,7 @@ export default function AichiToyokawaYuyaWinterPage() {
               >
                 <span className="text-emerald-400 text-xs font-bold block mb-1">静岡特集</span>
                 <span className="font-bold text-sm block mb-1">浜名湖＆舘山寺温泉！冬の遠州灘天然とらふぐとうなぎ名宿</span>
-                <span className="text-xs text-slate-300">東三河に隣接する浜名湖の冬の極上美食温泉…</span>
+                <span className="text-xs text-slate-300">東三河に隣接する浜名湖の冬の極上美食温泉</span>
               </Link>
               <Link
                 href="/winter-gifu-gero-onsen-fireworks-hida-beef-stay/"
@@ -590,7 +590,7 @@ export default function AichiToyokawaYuyaWinterPage() {
               >
                 <span className="text-rose-400 text-xs font-bold block mb-1">岐阜特集</span>
                 <span className="font-bold text-sm block mb-1">下呂温泉！冬花火ミュージカルと飛騨牛すき焼き名宿</span>
-                <span className="text-xs text-slate-300">日本三名泉の美肌湯と冬花火の競演…</span>
+                <span className="text-xs text-slate-300">日本三名泉の美肌湯と冬花火の競演</span>
               </Link>
               <Link
                 href="/features/"
@@ -598,7 +598,7 @@ export default function AichiToyokawaYuyaWinterPage() {
               >
                 <span className="text-purple-400 text-xs font-bold block mb-1">特集一覧</span>
                 <span className="font-bold text-sm block mb-1">全国の冬シーズン・年末年始旅行特集一覧</span>
-                <span className="text-xs text-slate-300">全国各地の厳選温泉・初詣・冬の味覚特集を網羅…</span>
+                <span className="text-xs text-slate-300">全国各地の厳選温泉・初詣・冬の味覚特集を網羅</span>
               </Link>
               <Link
                 href="/"
@@ -606,7 +606,7 @@ export default function AichiToyokawaYuyaWinterPage() {
               >
                 <span className="text-blue-400 text-xs font-bold block mb-1">トップページ</span>
                 <span className="font-bold text-sm block mb-1">旅クラウド | 国内旅行・ホテル予約比較</span>
-                <span className="text-xs text-slate-300">楽天トラベルAPIと連携した安心の宿泊予約ポータル…</span>
+                <span className="text-xs text-slate-300">楽天トラベル公式データと連携した安心の宿泊予約ポータル</span>
               </Link>
             </div>
           </section>

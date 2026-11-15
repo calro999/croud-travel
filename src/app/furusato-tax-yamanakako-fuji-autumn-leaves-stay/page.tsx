@@ -180,7 +180,7 @@ export default function FeatureArticlePage() {
                       【5と0の日MAX20％OFF】【得旅ポイント10倍】【スペシャルクーポンWeek&amp;クーポン祭り】
                     </p>
                     <div className="bg-stone-50 rounded-xl p-4 border border-stone-200/60 text-xs space-y-1.5 text-stone-600">
-                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> 【5と0の日MAX20％OFF】【得旅ポイント10倍】【スペシャルクーポンWeek&amp;クーポン祭り】...</div>
+                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> 【5と0の日MAX20％OFF】【得旅ポイント10倍】【スペシャルクーポンWeek&amp;クーポン祭り】</div>
                       <div><strong className="text-stone-800">🚗 アクセス：</strong> 【都心から中央道or東名道で車2時間】【新宿からのアクセス◎→高速バス：バスタ新宿→山中局入口徒歩5秒】</div>
                       <div><strong className="text-stone-800">💰 料金目安：</strong> <span className="text-amber-900 font-bold text-sm">1名あたり 27,000円〜</span>（※クーポン利用で実質2,000円）</div>
                     </div>
@@ -247,7 +247,7 @@ export default function FeatureArticlePage() {
                       山中湖で心潤うひとときを。40㎡を超える広いお部屋と広い温泉でごゆっくりお過ごしいただけます。
                     </p>
                     <div className="bg-stone-50 rounded-xl p-4 border border-stone-200/60 text-xs space-y-1.5 text-stone-600">
-                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> 山中湖で心潤うひとときを。40㎡を超える広いお部屋と広い温泉でごゆっくりお過ごしいただけます。...</div>
+                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> 山中湖で心潤うひとときを。40㎡を超える広いお部屋と広い温泉でごゆっくりお過ごしいただけます。</div>
                       <div><strong className="text-stone-800">🚗 アクセス：</strong> 富士急行線　富士山駅からお車にて約４０分</div>
                       <div><strong className="text-stone-800">💰 料金目安：</strong> <span className="text-amber-900 font-bold text-sm">1名あたり 13,642円〜</span>（※クーポン利用で実質2,000円）</div>
                     </div>
@@ -314,7 +314,7 @@ export default function FeatureArticlePage() {
                       やまなしグリーンゾーンは9/30迄！展望室から望む富士山＆バナジウム含有飲料水が利用可能
                     </p>
                     <div className="bg-stone-50 rounded-xl p-4 border border-stone-200/60 text-xs space-y-1.5 text-stone-600">
-                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> やまなしグリーンゾーンは9/30迄！展望室から望む富士山＆バナジウム含有飲料水が利用可能...</div>
+                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> やまなしグリーンゾーンは9/30迄！展望室から望む富士山＆バナジウム含有飲料水が利用可能</div>
                       <div><strong className="text-stone-800">🚗 アクセス：</strong> 新宿駅より高速バスで２時間１５分</div>
                       <div><strong className="text-stone-800">💰 料金目安：</strong> <span className="text-amber-900 font-bold text-sm">1名あたり 11,918円〜</span>（※クーポン利用で実質2,000円）</div>
                     </div>

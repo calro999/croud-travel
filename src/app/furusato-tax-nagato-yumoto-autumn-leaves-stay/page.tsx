@@ -180,7 +180,7 @@ export default function FeatureArticlePage() {
                       山間の自然に佇む明治14年創業の温泉旅館。長州藩主も湯治に訪れた長門湯本温泉で、四季折々のお寛ぎを
                     </p>
                     <div className="bg-stone-50 rounded-xl p-4 border border-stone-200/60 text-xs space-y-1.5 text-stone-600">
-                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> 山間の自然に佇む明治14年創業の温泉旅館。長州藩主も湯治に訪れた長門湯本温泉で、四季折々のお寛ぎを...</div>
+                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> 山間の自然に佇む明治14年創業の温泉旅館。長州藩主も湯治に訪れた長門湯本温泉で、四季折々のお寛ぎをお楽しみください。</div>
                       <div><strong className="text-stone-800">🚗 アクセス：</strong> お車で角島・JR新山口駅へ60分／宇部空港へ70分／絶景元乃隅神社・萩へ35分／JR長門湯本駅より無料送迎5分</div>
                       <div><strong className="text-stone-800">💰 料金目安：</strong> <span className="text-amber-900 font-bold text-sm">1名あたり 23,100円〜</span>（※クーポン利用で実質2,000円）</div>
                     </div>
@@ -247,7 +247,7 @@ export default function FeatureArticlePage() {
                       ２０２４年にお食事会場と客室４室をリノベーション、ライトアップされた長門湯本温泉街まで徒歩5分！
                     </p>
                     <div className="bg-stone-50 rounded-xl p-4 border border-stone-200/60 text-xs space-y-1.5 text-stone-600">
-                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> ２０２４年にお食事会場と客室４室をリノベーション、ライトアップされた長門湯本温泉街まで徒歩5分！...</div>
+                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> ２０２４年にお食事会場と客室４室をリノベーション、ライトアップされた長門湯本温泉街まで徒歩5分！</div>
                       <div><strong className="text-stone-800">🚗 アクセス：</strong> ＪＲ長門湯本駅より徒歩約７分 送迎有、要予約／中国自動車道美祢ＩＣより３０分／路線バス停：門前（もんぜん）より徒歩１分</div>
                       <div><strong className="text-stone-800">💰 料金目安：</strong> <span className="text-amber-900 font-bold text-sm">1名あたり 11,000円〜</span>（※クーポン利用で実質2,000円）</div>
                     </div>
@@ -314,7 +314,7 @@ export default function FeatureArticlePage() {
                       本場フィンランドのロウリュウ式バレルサウナ！四季を観望できる洋風造りの露天風呂を備えた宿です
                     </p>
                     <div className="bg-stone-50 rounded-xl p-4 border border-stone-200/60 text-xs space-y-1.5 text-stone-600">
-                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> 本場フィンランドのロウリュウ式バレルサウナ！四季を観望できる洋風造りの露天風呂を備えた宿です...</div>
+                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> 本場フィンランドのロウリュウ式バレルサウナ！四季を観望できる洋風造りの露天風呂を備えた宿です</div>
                       <div><strong className="text-stone-800">🚗 アクセス：</strong> マイカー・中国縦貫自動車道美称ＩＣより長門湯本車で３０分 ＪＲ長門湯本駅より徒歩１３分（送迎あり）</div>
                       <div><strong className="text-stone-800">💰 料金目安：</strong> <span className="text-amber-900 font-bold text-sm">1名あたり 8,800円〜</span>（※クーポン利用で実質2,000円）</div>
                     </div>

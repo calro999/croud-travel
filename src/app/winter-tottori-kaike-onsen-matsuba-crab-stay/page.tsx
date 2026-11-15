@@ -419,7 +419,7 @@ export default function KaikeWinterPage() {
             </div>
             <h2 className="text-2xl sm:text-3xl font-extrabold text-stone-900">11・12月に泊まりたい皆生温泉の名宿厳選5選</h2>
             <p className="text-stone-600 text-sm max-w-2xl mx-auto">
-              楽天トラベルAPIから最新の口コミ評価・宿泊料金・空室情報を取得。日本海と大山雪景色の絶景露天風呂と、境港直送活松葉ガニ＆鳥取和牛を堪能できる名宿5軒をご紹介します。
+              楽天トラベル公式データから最新の口コミ評価・宿泊料金・空室情報を取得。日本海と大山雪景色の絶景露天風呂と、境港直送活松葉ガニ＆鳥取和牛を堪能できる名宿5軒をご紹介します。
             </p>
           </div>
 

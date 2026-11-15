@@ -329,7 +329,7 @@ export default function ShirakawagoHidaTakayamaWinterPage() {
             <span className="text-amber-600 font-bold text-xs sm:text-sm tracking-wider uppercase">Masterpiece Ryokan</span>
             <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">白川郷＆飛騨高山・奥飛騨で冬を極める名宿5選</h2>
             <p className="text-slate-600 text-xs sm:text-sm">
-              楽天トラベルAPIより最新の空室・料金・口コミデータをリアルタイム取得。冬の飛騨旅行を極上の美食と温泉で彩る名宿を厳選しました。
+              楽天トラベル公式データより最新の空室・料金・口コミデータをリアルタイム取得。冬の飛騨旅行を極上の美食と温泉で彩る名宿を厳選しました。
             </p>
           </div>
 

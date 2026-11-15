@@ -135,14 +135,12 @@ export default function ArticlePage() {
               </div>
             </div>
 
-            <p className="text-sm text-stone-700 leading-relaxed mb-6 font-medium">
-              南薩摩の湯の里指宿にて心尽くしの料理とやすらぎのひとときを…
-            </p>
+            <p className="text-sm text-stone-700 leading-relaxed mb-6 font-medium">南薩摩の湯の里指宿にて心尽くしの料理とやすらぎのひとときをお過ごしください。</p>
 
             <div className="bg-stone-50 p-4 rounded-xl mb-6">
               <h3 className="text-xs font-bold text-stone-700 mb-2">このホテルの注目ポイント</h3>
               <ul className="text-xs text-stone-600 space-y-1.5">
-                    <li className="flex items-start gap-2"><span className="text-amber-600 font-bold">✓</span><span>南薩摩の湯の里指宿にて心尽くしの料理とやすらぎのひとときを…</span></li>
+                    <li className="flex items-start gap-2"><span className="text-amber-600 font-bold">✓</span><span>南薩摩の湯の里指宿にて心尽くしの料理とやすらぎのひとときをお過ごしください。</span></li>
               </ul>
             </div>
 

@@ -329,7 +329,7 @@ export default function MarunouchiTokyoWinterPage() {
             <span className="text-amber-600 font-bold text-xs sm:text-sm tracking-wider uppercase">Prestige Hotels</span>
             <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">丸の内＆大手町・日本橋で冬を過ごす名宿5選</h2>
             <p className="text-slate-600 text-xs sm:text-sm">
-              楽天トラベルAPIより最新の空室・料金・口コミデータをリアルタイム取得。東京の中心で最高の冬の思い出を刻む極上宿を厳選しました。
+              楽天トラベル公式データより最新の空室・料金・口コミデータをリアルタイム取得。東京の中心で最高の冬の思い出を刻む極上宿を厳選しました。
             </p>
           </div>
 

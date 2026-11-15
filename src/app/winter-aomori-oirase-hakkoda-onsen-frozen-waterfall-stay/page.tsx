@@ -312,7 +312,7 @@ export default function OiraseOnsenWinterPage() {
             </div>
             <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">11月・12月におすすめの奥入瀬・八甲田名湯の宿5選</h2>
             <p className="text-sm text-slate-600">
-              楽天トラベルの最新APIデータに基づき、雪見露天の絶景、源泉掛け流しの泉質、倉石牛や陸奥湾ホタテの美食評価が高い名宿を厳選しました。
+              楽天トラベルの最新宿泊データに基づき、雪見露天の絶景、源泉掛け流しの泉質、倉石牛や陸奥湾ホタテの美食評価が高い名宿を厳選しました。
             </p>
           </div>
 

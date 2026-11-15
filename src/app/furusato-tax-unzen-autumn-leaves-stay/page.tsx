@@ -180,7 +180,7 @@ export default function FeatureArticlePage() {
                       2023年客室リニューアル！四季の恵みの会席料理、厳選かけ流しの絶景露天風呂が自慢の福を結ぶ癒しの宿
                     </p>
                     <div className="bg-stone-50 rounded-xl p-4 border border-stone-200/60 text-xs space-y-1.5 text-stone-600">
-                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> 2023年客室リニューアル！四季の恵みの会席料理、厳選かけ流しの絶景露天風呂が自慢の福を結ぶ癒しの宿...</div>
+                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> 2023年客室リニューアル！四季の恵みの会席料理、厳選かけ流しの絶景露天風呂が自慢の福を結ぶ癒しの宿</div>
                       <div><strong className="text-stone-800">🚗 アクセス：</strong> 長崎自動車道 諫早ＩＣ及びＪＲ諌早駅より車で５５分</div>
                       <div><strong className="text-stone-800">💰 料金目安：</strong> <span className="text-amber-900 font-bold text-sm">1名あたり 9,900円〜</span>（※クーポン利用で実質2,000円）</div>
                     </div>
@@ -247,7 +247,7 @@ export default function FeatureArticlePage() {
                       和の贅を尽くした客室からの眺めが素晴らしい。湯処「莉園」は池を一望することが出来るかけ流し温泉です。
                     </p>
                     <div className="bg-stone-50 rounded-xl p-4 border border-stone-200/60 text-xs space-y-1.5 text-stone-600">
-                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> 和の贅を尽くした客室からの眺めが素晴らしい。湯処「莉園」は池を一望することが出来るかけ流し温泉です。...</div>
+                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> 和の贅を尽くした客室からの眺めが素晴らしい。湯処「莉園」は池を一望することが出来るかけ流し温泉です。</div>
                       <div><strong className="text-stone-800">🚗 アクセス：</strong> 諫早駅より路線バスで８０分</div>
                       <div><strong className="text-stone-800">💰 料金目安：</strong> <span className="text-amber-900 font-bold text-sm">1名あたり 11,385円〜</span>（※クーポン利用で実質2,000円）</div>
                     </div>
@@ -314,7 +314,7 @@ export default function FeatureArticlePage() {
                       【美肌の湯】 は、どこよりも濃く。 “最上のご褒美” をお届け。個室食プラン、露天風呂付きプランあり
                     </p>
                     <div className="bg-stone-50 rounded-xl p-4 border border-stone-200/60 text-xs space-y-1.5 text-stone-600">
-                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> 【美肌の湯】 は、どこよりも濃く。 “最上のご褒美” をお届け。個室食プラン、露天風呂付きプランあり...</div>
+                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> 【美肌の湯】 は、どこよりも濃く。 “最上のご褒美” をお届け。個室食プラン、露天風呂付きプランあり</div>
                       <div><strong className="text-stone-800">🚗 アクセス：</strong> ＪＲ諫早駅より車で60分、長崎空港から車で90分</div>
                       <div><strong className="text-stone-800">💰 料金目安：</strong> <span className="text-amber-900 font-bold text-sm">1名あたり 8,893円〜</span>（※クーポン利用で実質2,000円）</div>
                     </div>

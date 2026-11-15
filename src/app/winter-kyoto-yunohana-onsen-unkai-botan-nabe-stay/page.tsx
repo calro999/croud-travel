@@ -312,7 +312,7 @@ export default function YunohanaOnsenWinterPage() {
             </div>
             <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">11月・12月におすすめの京都湯の花温泉・厳選名宿5選</h2>
             <p className="text-sm text-slate-600">
-              楽天トラベルの最新APIデータに基づき、里山の静寂な露天風呂、本場ぼたん鍋・丹波牛の料理評価、おもてなしの満足度が高い宿を厳選しました。
+              楽天トラベルの最新宿泊データに基づき、里山の静寂な露天風呂、本場ぼたん鍋・丹波牛の料理評価、おもてなしの満足度が高い宿を厳選しました。
             </p>
           </div>
 

@@ -566,7 +566,7 @@ export default function KyotoHubPage() {
             <h2 className="text-2xl md:text-3xl font-black font-journal-serif text-white">京都 温泉旅館 ＆ おすすめ宿（楽天トラベルでリアルタイム空室確認）</h2>
 
             <p className="text-xs md:text-sm text-rose-100/90 leading-relaxed font-medium">
-              楽天トラベルAPIから直接取得した、京都の温泉旅館・風情ある京町家宿。客室露天風呂や会席料理プランの最安値・空室状況をリアルタイムで確認してご予約いただけます。
+              楽天トラベル公式データから直接取得した、京都の温泉旅館・風情ある京町家宿。客室露天風呂や会席料理プランの最安値・空室状況をリアルタイムで確認してご予約いただけます。
             </p>
           </div>
 

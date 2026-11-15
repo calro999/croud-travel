@@ -248,7 +248,7 @@ export default function FeatureDetailPage() {
                       <span className="text-xs font-bold text-emerald-600 bg-emerald-50 px-2 py-0.5 rounded border border-emerald-100">楽天高評価</span>
                     </div>
                     <ul className="space-y-1 mb-4 text-xs text-slate-600 bg-slate-50 p-3 rounded-lg">
-                      <li className="flex items-start gap-1"><span className="text-amber-500 shrink-0">•</span><span>房総、富津の里山に立地する自由度抜群のグランピング。猫と自然に触れ合いながらのんびり過ごせます…</span></li>
+                      <li className="flex items-start gap-1"><span className="text-amber-500 shrink-0">•</span><span>房総、富津の里山に立地する自由度抜群のグランピング。猫と自然に触れ合いながらのんびり過ごせます</span></li>
                       <li className="flex items-start gap-1"><span className="text-amber-500 shrink-0">•</span><span>アクセス: JR内房線・上総湊駅より車で約15分。館山自動車道・富津中央ICより車で約15分。高速バス・浅間山バス停から車で約15分</span></li>
                       <li className="flex items-start gap-1"><span className="text-amber-500 shrink-0">•</span><span>楽天トラベル総合評価: ★4.78（レビュー 23件）</span></li>
                     </ul>
@@ -305,7 +305,7 @@ export default function FeatureDetailPage() {
                       <span className="text-xs font-bold text-emerald-600 bg-emerald-50 px-2 py-0.5 rounded border border-emerald-100">楽天高評価</span>
                     </div>
                     <ul className="space-y-1 mb-4 text-xs text-slate-600 bg-slate-50 p-3 rounded-lg">
-                      <li className="flex items-start gap-1"><span className="text-amber-500 shrink-0">•</span><span>夏休みの早期予約がオススメ！！ホテル館内で宝探し、謎解きも開催中！…</span></li>
+                      <li className="flex items-start gap-1"><span className="text-amber-500 shrink-0">•</span><span>夏休みの早期予約がオススメ！！ホテル館内で宝探し、謎解きも開催中！</span></li>
                       <li className="flex items-start gap-1"><span className="text-amber-500 shrink-0">•</span><span>アクセス: 関越自動車道「塩沢石打IC」より直進1km、約2分！越後湯沢駅からは無料シャトルバスで約20分(春～秋は予約制)</span></li>
                       <li className="flex items-start gap-1"><span className="text-amber-500 shrink-0">•</span><span>楽天トラベル総合評価: ★4.43（レビュー 1509件）</span></li>
                     </ul>
@@ -362,7 +362,7 @@ export default function FeatureDetailPage() {
                       <span className="text-xs font-bold text-emerald-600 bg-emerald-50 px-2 py-0.5 rounded border border-emerald-100">楽天高評価</span>
                     </div>
                     <ul className="space-y-1 mb-4 text-xs text-slate-600 bg-slate-50 p-3 rounded-lg">
-                      <li className="flex items-start gap-1"><span className="text-amber-500 shrink-0">•</span><span>那須高原の＂森のアクティビティリゾート＂大人から子どもまで、ペットも一緒に森林を楽しみ尽くせます！…</span></li>
+                      <li className="flex items-start gap-1"><span className="text-amber-500 shrink-0">•</span><span>那須高原の＂森のアクティビティリゾート＂大人から子どもまで、ペットも一緒に森林を楽しみ尽くせます！</span></li>
                       <li className="flex items-start gap-1"><span className="text-amber-500 shrink-0">•</span><span>アクセス: 那須塩原駅より車で約25分（30分圏内であれば、送迎無料※要電話予約）</span></li>
                       <li className="flex items-start gap-1"><span className="text-amber-500 shrink-0">•</span><span>楽天トラベル総合評価: ★4.71（レビュー 30件）</span></li>
                     </ul>
@@ -419,7 +419,7 @@ export default function FeatureDetailPage() {
                       <span className="text-xs font-bold text-emerald-600 bg-emerald-50 px-2 py-0.5 rounded border border-emerald-100">楽天高評価</span>
                     </div>
                     <ul className="space-y-1 mb-4 text-xs text-slate-600 bg-slate-50 p-3 rounded-lg">
-                      <li className="flex items-start gap-1"><span className="text-amber-500 shrink-0">•</span><span>みんなで楽しむならここ！宿泊エンターテイメント！グループやカップル・ファミリーで楽しめる宿。…</span></li>
+                      <li className="flex items-start gap-1"><span className="text-amber-500 shrink-0">•</span><span>みんなで楽しむならここ！宿泊エンターテイメント！グループやカップル・ファミリーで楽しめる宿。</span></li>
                       <li className="flex items-start gap-1"><span className="text-amber-500 shrink-0">•</span><span>アクセス: ◆JR浜松駅より遠州鉄道 新浜松駅に乗り換え、4駅目の助信駅で下車　徒歩約４分　◆東名浜松ＩＣより16分</span></li>
                       <li className="flex items-start gap-1"><span className="text-amber-500 shrink-0">•</span><span>楽天トラベル総合評価: ★4.28（レビュー 133件）</span></li>
                     </ul>

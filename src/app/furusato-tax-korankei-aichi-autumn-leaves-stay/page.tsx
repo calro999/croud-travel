@@ -180,7 +180,7 @@ export default function FeatureArticlePage() {
                       名古屋ICから30分　/　駐車場無料　/　天然ラドン温泉　/　　藤ヶ丘駅より巡回バス有　
                     </p>
                     <div className="bg-stone-50 rounded-xl p-4 border border-stone-200/60 text-xs space-y-1.5 text-stone-600">
-                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> 名古屋ICから30分　/　駐車場無料　/　天然ラドン温泉　/　　藤ヶ丘駅より巡回バス有　...</div>
+                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> 名古屋ICから30分 / 駐車場無料 / 天然ラドン温泉 / 藤ヶ丘駅より巡回バス有</div>
                       <div><strong className="text-stone-800">🚗 アクセス：</strong> 東名高速、名古屋ICから車で30分。猿投グリーンロード加納IC下車。</div>
                       <div><strong className="text-stone-800">💰 料金目安：</strong> <span className="text-amber-900 font-bold text-sm">1名あたり 17,600円〜</span>（※クーポン利用で実質2,000円）</div>
                     </div>
@@ -247,7 +247,7 @@ export default function FeatureArticlePage() {
                       名鉄豊田市駅から徒歩約1分！VOD無料(※8階は除く）リファシャワーヘッド（※8階RN客室のみ）
                     </p>
                     <div className="bg-stone-50 rounded-xl p-4 border border-stone-200/60 text-xs space-y-1.5 text-stone-600">
-                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> 名鉄豊田市駅から徒歩約1分！VOD無料(※8階は除く）リファシャワーヘッド（※8階RN客室のみ）...</div>
+                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> 名鉄豊田市駅から徒歩約1分！VOD無料(※8階は除く）リファシャワーヘッド（※8階RN客室のみ）</div>
                       <div><strong className="text-stone-800">🚗 アクセス：</strong> 名鉄　豊田市駅から徒歩１分</div>
                       <div><strong className="text-stone-800">💰 料金目安：</strong> <span className="text-amber-900 font-bold text-sm">1名あたり 4,637円〜</span>（※クーポン利用で実質2,000円）</div>
                     </div>
@@ -314,7 +314,7 @@ export default function FeatureArticlePage() {
                       楽天トラベルブロンズアワード2023受賞★ツルツル美肌温泉！
                     </p>
                     <div className="bg-stone-50 rounded-xl p-4 border border-stone-200/60 text-xs space-y-1.5 text-stone-600">
-                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> 楽天トラベルブロンズアワード2023受賞★ツルツル美肌温泉！...</div>
+                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> 楽天トラベルブロンズアワード2023受賞★ツルツル美肌温泉！</div>
                       <div><strong className="text-stone-800">🚗 アクセス：</strong> ＪＲ飯田線　湯谷温泉駅より徒歩３分／新東名　新城ICより車で15分</div>
                       <div><strong className="text-stone-800">💰 料金目安：</strong> <span className="text-amber-900 font-bold text-sm">1名あたり 9,240円〜</span>（※クーポン利用で実質2,000円）</div>
                     </div>

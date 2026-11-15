@@ -99,7 +99,8 @@ const criticalFiles = [
   'sitemap-posts.xml',
   'feed.xml',
   'llms.txt',
-  'llms-full.txt'
+  'llms-full.txt',
+  'manifest.json'
 ];
 
 criticalFiles.forEach(file => {

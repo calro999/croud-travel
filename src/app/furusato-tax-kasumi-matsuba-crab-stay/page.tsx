@@ -180,7 +180,7 @@ export default function FeatureArticlePage() {
                       仲買人社長厳選の旬の魚介と香住温泉の宿　9月から香住ガニが解禁
                     </p>
                     <div className="bg-stone-50 rounded-xl p-4 border border-stone-200/60 text-xs space-y-1.5 text-stone-600">
-                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> 仲買人社長厳選の旬の魚介と香住温泉の宿　9月から香住ガニが解禁...</div>
+                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> 仲買人社長厳選の旬の魚介と香住温泉の宿 9月から香住ガニが解禁</div>
                       <div><strong className="text-stone-800">🚗 アクセス：</strong> 車－北近畿自動車道【豊岡出石IC】より178号線経由で約40分。JR－山陰本線【香住駅】から約2km。駅から送迎無料</div>
                       <div><strong className="text-stone-800">💰 料金目安：</strong> <span className="text-amber-900 font-bold text-sm">1名あたり 19,800円〜</span>（※クーポン利用で実質2,000円）</div>
                     </div>
@@ -247,7 +247,7 @@ export default function FeatureArticlePage() {
                       和のテイストと現代モダンが融合した、柴山湾一望の料理旅館
                     </p>
                     <div className="bg-stone-50 rounded-xl p-4 border border-stone-200/60 text-xs space-y-1.5 text-stone-600">
-                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> 和のテイストと現代モダンが融合した、柴山湾一望の料理旅館...</div>
+                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> 和のテイストと現代モダンが融合した、柴山湾一望の料理旅館</div>
                       <div><strong className="text-stone-800">🚗 アクセス：</strong> ＪＲ山陰本線　柴山駅より徒歩30秒／車で大阪・姫路より日高神鍋ICから50分　豊岡経由　柴山トンネル出てすぐ</div>
                       <div><strong className="text-stone-800">💰 料金目安：</strong> <span className="text-amber-900 font-bold text-sm">1名あたり 31,350円〜</span>（※クーポン利用で実質2,000円）</div>
                     </div>
@@ -314,7 +314,7 @@ export default function FeatureArticlePage() {
                       《限定４組様だけの小宿》G.W☆春カニぷらん受付中！【香住蟹＆地酒のマリアージュを楽しむ♪】
                     </p>
                     <div className="bg-stone-50 rounded-xl p-4 border border-stone-200/60 text-xs space-y-1.5 text-stone-600">
-                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> 《限定４組様だけの小宿》G.W☆春カニぷらん受付中！【香住蟹＆地酒のマリアージュを楽しむ♪】...</div>
+                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> 《限定４組様だけの小宿》G.W☆春カニぷらん受付中！【香住蟹＆地酒のマリアージュを楽しむ♪】</div>
                       <div><strong className="text-stone-800">🚗 アクセス：</strong> 車:北近畿豊岡道【但馬空港IC】より、R178号線経由で約40分（香住駅よりお車にて５分）／列車:ＪＲ香住駅より送迎あり</div>
                       <div><strong className="text-stone-800">💰 料金目安：</strong> <span className="text-amber-900 font-bold text-sm">1名あたり 24,339円〜</span>（※クーポン利用で実質2,000円）</div>
                     </div>

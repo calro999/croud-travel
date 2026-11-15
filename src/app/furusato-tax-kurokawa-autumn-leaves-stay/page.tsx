@@ -180,7 +180,7 @@ export default function FeatureArticlePage() {
                       黒川温泉の下手にある山河旅館。温泉街とはまた違った風情をお楽しみいただけます。
                     </p>
                     <div className="bg-stone-50 rounded-xl p-4 border border-stone-200/60 text-xs space-y-1.5 text-stone-600">
-                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> 黒川温泉の下手にある山河旅館。温泉街とはまた違った風情をお楽しみいただけます。...</div>
+                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> 黒川温泉の下手にある山河旅館。温泉街とはまた違った風情をお楽しみいただけます。</div>
                       <div><strong className="text-stone-800">🚗 アクセス：</strong> 阿蘇駅からバスで５０分</div>
                       <div><strong className="text-stone-800">💰 料金目安：</strong> <span className="text-amber-900 font-bold text-sm">1名あたり 25,300円〜</span>（※クーポン利用で実質2,000円）</div>
                     </div>
@@ -247,7 +247,7 @@ export default function FeatureArticlePage() {
                       黒川温泉街の中心に佇む老舗宿。手掘りの洞窟風呂を含む、趣ある５つの湯と温泉街散策も楽しめる立地が魅力
                     </p>
                     <div className="bg-stone-50 rounded-xl p-4 border border-stone-200/60 text-xs space-y-1.5 text-stone-600">
-                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> 黒川温泉街の中心に佇む老舗宿。手掘りの洞窟風呂を含む、趣ある５つの湯と温泉街散策も楽しめる立地が魅力...</div>
+                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> 黒川温泉街の中心に佇む老舗宿。手掘りの洞窟風呂を含む、趣ある５つの湯と温泉街散策も楽しめる立地が魅力</div>
                       <div><strong className="text-stone-800">🚗 アクセス：</strong> 九州自動車道・鳥栖JCTより大分道へ。日田IC下車後、黒川温泉まで約１時間</div>
                       <div><strong className="text-stone-800">💰 料金目安：</strong> <span className="text-amber-900 font-bold text-sm">1名あたり 20,900円〜</span>（※クーポン利用で実質2,000円）</div>
                     </div>
@@ -314,7 +314,7 @@ export default function FeatureArticlePage() {
                       黒川唯一の時間によって色が変わる不思議な硫黄泉、露天風呂・内湯・家族湯にてご堪能ください♪
                     </p>
                     <div className="bg-stone-50 rounded-xl p-4 border border-stone-200/60 text-xs space-y-1.5 text-stone-600">
-                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> 黒川唯一の時間によって色が変わる不思議な硫黄泉、露天風呂・内湯・家族湯にてご堪能ください♪...</div>
+                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> 黒川唯一の時間によって色が変わる不思議な硫黄泉、露天風呂・内湯・家族湯にてご堪能ください♪</div>
                       <div><strong className="text-stone-800">🚗 アクセス：</strong> 阿蘇駅から車で約４０分／九州横断バスにて約１時間</div>
                       <div><strong className="text-stone-800">💰 料金目安：</strong> <span className="text-amber-900 font-bold text-sm">1名あたり 11,000円〜</span>（※クーポン利用で実質2,000円）</div>
                     </div>

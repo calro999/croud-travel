@@ -180,7 +180,7 @@ export default function FeatureArticlePage() {
                       仙台駅から車で約30分。秋保温泉の高台に佇む一軒宿！篝火を灯す幻想的な露天風呂が人気です。
                     </p>
                     <div className="bg-stone-50 rounded-xl p-4 border border-stone-200/60 text-xs space-y-1.5 text-stone-600">
-                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> 仙台駅から車で約30分。秋保温泉の高台に佇む一軒宿！篝火を灯す幻想的な露天風呂が人気です。...</div>
+                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> 仙台駅から車で約30分。秋保温泉の高台に佇む一軒宿！篝火を灯す幻想的な露天風呂が人気です。</div>
                       <div><strong className="text-stone-800">🚗 アクセス：</strong> 東北自動車道仙台南ICから約15分。仙台中心部まで車で約30分。JR仙台駅東口より無料シャトルバス毎日運行（※要予約）</div>
                       <div><strong className="text-stone-800">💰 料金目安：</strong> <span className="text-amber-900 font-bold text-sm">1名あたり 10,450円〜</span>（※クーポン利用で実質2,000円）</div>
                     </div>
@@ -247,7 +247,7 @@ export default function FeatureArticlePage() {
                       美食・温泉・建築「三つの美」を五感で楽しむ秋保温泉の上質な湯宿
                     </p>
                     <div className="bg-stone-50 rounded-xl p-4 border border-stone-200/60 text-xs space-y-1.5 text-stone-600">
-                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> 美食・温泉・建築「三つの美」を五感で楽しむ秋保温泉の上質な湯宿...</div>
+                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> 美食・温泉・建築「三つの美」を五感で楽しむ秋保温泉の上質な湯宿</div>
                       <div><strong className="text-stone-800">🚗 アクセス：</strong> 仙台駅～車で約30分/仙台南IC～車で15分/仙台宮城IC～車で約20分/JR仙台駅～送迎バス（要予約）</div>
                       <div><strong className="text-stone-800">💰 料金目安：</strong> <span className="text-amber-900 font-bold text-sm">1名あたり 49,500円〜</span>（※クーポン利用で実質2,000円）</div>
                     </div>
@@ -314,7 +314,7 @@ export default function FeatureArticlePage() {
                       客室は全１６室。華やかさではなく、静かに寄り添う“こころなごむひととき”を。
                     </p>
                     <div className="bg-stone-50 rounded-xl p-4 border border-stone-200/60 text-xs space-y-1.5 text-stone-600">
-                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> 客室は全１６室。華やかさではなく、静かに寄り添う“こころなごむひととき”を。...</div>
+                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> 客室は全１６室。華やかさではなく、静かに寄り添う“こころなごむひととき”を。</div>
                       <div><strong className="text-stone-800">🚗 アクセス：</strong> ＪＲ仙台駅よりバス５０分。秋保温泉湯元バス停下車１分。仙台南インターよりお車で１５分。</div>
                       <div><strong className="text-stone-800">💰 料金目安：</strong> <span className="text-amber-900 font-bold text-sm">1名あたり 9,900円〜</span>（※クーポン利用で実質2,000円）</div>
                     </div>

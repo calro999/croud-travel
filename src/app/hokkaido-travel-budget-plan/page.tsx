@@ -237,7 +237,7 @@ export default function HokkaidoBudgetGuide() {
                   )}
                   <div className="p-4 flex-1 flex flex-col">
                     <h4 className="font-bold text-gray-800 mb-2">{hotel.hotelName}</h4>
-                    <p className="text-xs text-gray-500 mb-4 flex-1">{(hotel.hotelSpecial || '').substring(0, 80)}...</p>
+                    <p className="text-xs text-gray-500 mb-4 flex-1">{hotel.hotelSpecial || ''}</p>
                     <a 
                       href={hotel.affiliateUrl} 
                       target="_blank" 

@@ -416,7 +416,7 @@ export default function KinugawaWinterPage() {
             </div>
             <h2 className="text-2xl sm:text-3xl font-extrabold text-stone-900">11・12月に泊まりたい鬼怒川温泉の名宿厳選5選</h2>
             <p className="text-stone-600 text-sm max-w-2xl mx-auto">
-              楽天トラベルAPIから最新の口コミ評価・料金・空室情報を取得。初冬の鬼怒川渓谷美と名湯、とちぎ和牛＆日光生湯波を存分に堪能できる最高峰の5軒をご紹介します。
+              楽天トラベル公式データから最新の口コミ評価・料金・空室情報を取得。初冬の鬼怒川渓谷美と名湯、とちぎ和牛＆日光生湯波を存分に堪能できる最高峰の5軒をご紹介します。
             </p>
           </div>
 

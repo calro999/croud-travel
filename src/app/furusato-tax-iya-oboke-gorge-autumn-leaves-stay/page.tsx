@@ -180,7 +180,7 @@ export default function FeatureArticlePage() {
                       ケーブルカーで登る天空露天風呂と囲炉裏の宿。渓谷の絶景と郷土料理、温かなおもてなしでお迎えいたします
                     </p>
                     <div className="bg-stone-50 rounded-xl p-4 border border-stone-200/60 text-xs space-y-1.5 text-stone-600">
-                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> ケーブルカーで登る天空露天風呂と囲炉裏の宿。渓谷の絶景と郷土料理、温かなおもてなしでお迎えいたします...</div>
+                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> ケーブルカーで登る天空露天風呂と囲炉裏の宿。渓谷の絶景と郷土料理、温かなおもてなしでお迎えいたします</div>
                       <div><strong className="text-stone-800">🚗 アクセス：</strong> ＪＲのお客様 大歩危駅～路線バス20分（タクシー15分）・お車のお客様　徳島自動車道井川池田ＩＣより大歩危経由で５０分　</div>
                       <div><strong className="text-stone-800">💰 料金目安：</strong> <span className="text-amber-900 font-bold text-sm">1名あたり 19,250円〜</span>（※クーポン利用で実質2,000円）</div>
                     </div>
@@ -247,7 +247,7 @@ export default function FeatureArticlePage() {
                       ケーブルカーで行く谷底の源泉掛け流しの露天風呂
                     </p>
                     <div className="bg-stone-50 rounded-xl p-4 border border-stone-200/60 text-xs space-y-1.5 text-stone-600">
-                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> ケーブルカーで行く谷底の源泉掛け流しの露天風呂...</div>
+                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> ケーブルカーで行く谷底の源泉掛け流しの露天風呂</div>
                       <div><strong className="text-stone-800">🚗 アクセス：</strong> 井川池田ＩＣより約２５km（国道３２号線経由）／ＪＲ大歩危駅下車　四国交通バスで約30分　</div>
                       <div><strong className="text-stone-800">💰 料金目安：</strong> <span className="text-amber-900 font-bold text-sm">1名あたり 22,000円〜</span>（※クーポン利用で実質2,000円）</div>
                     </div>
@@ -314,7 +314,7 @@ export default function FeatureArticlePage() {
                       大歩危・小歩危を眼下に温泉を楽しめるホテル。山と川の幸にこだわった会席料理が自慢です！
                     </p>
                     <div className="bg-stone-50 rounded-xl p-4 border border-stone-200/60 text-xs space-y-1.5 text-stone-600">
-                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> 大歩危・小歩危を眼下に温泉を楽しめるホテル。山と川の幸にこだわった会席料理が自慢です！...</div>
+                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> 大歩危・小歩危を眼下に温泉を楽しめるホテル。山と川の幸にこだわった会席料理が自慢です！</div>
                       <div><strong className="text-stone-800">🚗 アクセス：</strong> お車は井川池田インターより国道32号線沿いに３０分。列車はＪＲ大歩危駅または小歩危駅から送迎有。（要連絡）</div>
                       <div><strong className="text-stone-800">💰 料金目安：</strong> <span className="text-amber-900 font-bold text-sm">1名あたり 5,500円〜</span>（※クーポン利用で実質2,000円）</div>
                     </div>

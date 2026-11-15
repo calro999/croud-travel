@@ -294,7 +294,7 @@ export default function FukushimaInawashiroBandaiWinterPage() {
             <h2 className="text-xl sm:text-3xl font-bold text-slate-900 flex items-center gap-2"><Building className="w-6 h-6 text-cyan-500 shrink-0" />
               猪苗代湖＆磐梯熱海温泉で泊まりたい冬の厳選名宿5選</h2>
             <p className="text-slate-500 text-xs sm:text-sm mt-2">
-              ※楽天トラベルの最新APIデータを反映。レイクビューの雪見風呂、多彩な湯巡り、会津地鶏と福島牛の美食を誇る名宿を厳選。
+              ※楽天トラベルの最新宿泊データを反映。レイクビューの雪見風呂、多彩な湯巡り、会津地鶏と福島牛の美食を誇る名宿を厳選。
             </p>
           </div>
 

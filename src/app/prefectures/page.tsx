@@ -1,6 +1,7 @@
 import { Metadata } from "next";
 import Link from "next/link";
 import { REGIONS_MAP, PREFECTURES_DATA, getPrefectureByName } from "@/data/prefecturesData";
+import ShareButtons from "@/app/components/ShareButtons";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/prefectures/" },
@@ -67,6 +68,12 @@ export default function PrefecturesIndexPage() {
           各都道府県を地域ミクロエリアごとに網羅ガイド。観光名所や絶景スポット、ご当地グルメ、さらに「オススメカフェ」「トレンドお土産」「地酒・日本酒」の特設ガイドと近隣のおすすめホテル・温泉宿を一挙にご紹介。
         </p>
       </section>
+
+      <ShareButtons
+        url="https://croud-travel.pages.dev/prefectures/"
+        title="全国47都道府県の観光ガイド＆厳選宿ハブ（名所・グルメ・地酒・お土産）"
+      />
+
       {/* 2026-2027 最強メガヒット特集ハブナビゲーション */}
       <section className="p-6 md:p-8 rounded-3xl bg-gradient-to-r from-stone-950 via-teal-950 to-stone-900 text-white shadow-xl border border-teal-500/30 space-y-4">
         <div className="flex flex-wrap items-center justify-between gap-3 border-b border-white/10 pb-4">
@@ -195,6 +202,11 @@ export default function PrefecturesIndexPage() {
           </section>
         ))}
       </div>
+
+      <ShareButtons
+        url="https://croud-travel.pages.dev/prefectures/"
+        title="全国47都道府県の観光ガイド＆厳選宿ハブ（名所・グルメ・地酒・お土産）"
+      />
     </div>
   );
 }

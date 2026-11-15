@@ -180,7 +180,7 @@ export default function FeatureArticlePage() {
                       【八王子駅から徒歩2分】施設＆サービス充実の総合シティホテル。羽田空港へはリムジンバスで楽々
                     </p>
                     <div className="bg-stone-50 rounded-xl p-4 border border-stone-200/60 text-xs space-y-1.5 text-stone-600">
-                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> 【八王子駅から徒歩2分】施設＆サービス充実の総合シティホテル。羽田空港へはリムジンバスで楽々...</div>
+                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> 【八王子駅から徒歩2分】施設＆サービス充実の総合シティホテル。羽田空港へはリムジンバスで楽々</div>
                       <div><strong className="text-stone-800">🚗 アクセス：</strong> JR京王八王子駅からは歩行者専用デッキ経由で徒歩2分の楽々アクセス／中央道八王子ICから車で15分</div>
                       <div><strong className="text-stone-800">💰 料金目安：</strong> <span className="text-amber-900 font-bold text-sm">1名あたり 9,318円〜</span>（※クーポン利用で実質2,000円）</div>
                     </div>
@@ -247,7 +247,7 @@ export default function FeatureArticlePage() {
                       京王線八王子駅徒歩1分！高尾山まで至近＆空港リムジンバス目の前【Wi-Fi 増強工事を実施しました】
                     </p>
                     <div className="bg-stone-50 rounded-xl p-4 border border-stone-200/60 text-xs space-y-1.5 text-stone-600">
-                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> 京王線八王子駅徒歩1分！高尾山まで至近＆空港リムジンバス目の前【Wi-Fi 増強工事を実施しました】...</div>
+                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> 京王線八王子駅徒歩1分！高尾山まで至近＆空港リムジンバス目の前【Wi-Fi 増強工事を実施しました】</div>
                       <div><strong className="text-stone-800">🚗 アクセス：</strong> 京王線「京王八王子駅」中央口より徒歩1分、JR「八王子駅」北口より徒歩7分</div>
                       <div><strong className="text-stone-800">💰 料金目安：</strong> <span className="text-amber-900 font-bold text-sm">1名あたり 4,800円〜</span>（※クーポン利用で実質2,000円）</div>
                     </div>
@@ -314,7 +314,7 @@ export default function FeatureArticlePage() {
                       緑ふかい山々に抱かれた、奥多摩檜原村。南北朝時代の落人伝説を秘めた数馬の里に当兜家旅館はあります。
                     </p>
                     <div className="bg-stone-50 rounded-xl p-4 border border-stone-200/60 text-xs space-y-1.5 text-stone-600">
-                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> 緑ふかい山々に抱かれた、奥多摩檜原村。南北朝時代の落人伝説を秘めた数馬の里に当兜家旅館はあります。...</div>
+                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> 緑ふかい山々に抱かれた、奥多摩檜原村。南北朝時代の落人伝説を秘めた数馬の里に当兜家旅館はあります。</div>
                       <div><strong className="text-stone-800">🚗 アクセス：</strong> 武蔵五日市駅より西東京バス「数馬行き」乗車１時間。終点下車徒歩１０分</div>
                       <div><strong className="text-stone-800">💰 料金目安：</strong> <span className="text-amber-900 font-bold text-sm">1名あたり 19,800円〜</span>（※クーポン利用で実質2,000円）</div>
                     </div>

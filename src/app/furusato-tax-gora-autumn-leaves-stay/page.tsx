@@ -180,7 +180,7 @@ export default function FeatureArticlePage() {
                       強羅駅前に位置し、全客室１５８室に露天風呂をご用意、温泉は源泉かけ流しをお愉しめる宿。
                     </p>
                     <div className="bg-stone-50 rounded-xl p-4 border border-stone-200/60 text-xs space-y-1.5 text-stone-600">
-                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> 強羅駅前に位置し、全客室１５８室に露天風呂をご用意、温泉は源泉かけ流しをお愉しめる宿。...</div>
+                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> 強羅駅前に位置し、全客室１５８室に露天風呂をご用意、温泉は源泉かけ流しをお愉しめる宿。</div>
                       <div><strong className="text-stone-800">🚗 アクセス：</strong> 箱根登山鉄道　強羅駅より徒歩1分　彫刻の森まで1駅、強羅公園まで徒歩約10分と観光スポットへのアクセスも良好！</div>
                       <div><strong className="text-stone-800">💰 料金目安：</strong> <span className="text-amber-900 font-bold text-sm">1名あたり 20,955円〜</span>（※クーポン利用で実質2,000円）</div>
                     </div>
@@ -247,7 +247,7 @@ export default function FeatureArticlePage() {
                       箱根強羅の自然に包まれた14室の和室。自家源泉の湯、旬の素材を活かした会席料理に癒される贅沢な時間
                     </p>
                     <div className="bg-stone-50 rounded-xl p-4 border border-stone-200/60 text-xs space-y-1.5 text-stone-600">
-                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> 箱根強羅の自然に包まれた14室の和室。自家源泉の湯、旬の素材を活かした会席料理に癒される贅沢な時間...</div>
+                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> 箱根強羅の自然に包まれた14室の和室。自家源泉の湯、旬の素材を活かした会席料理に癒される贅沢な時間</div>
                       <div><strong className="text-stone-800">🚗 アクセス：</strong> 箱根登山鉄道　強羅駅より徒歩３分</div>
                       <div><strong className="text-stone-800">💰 料金目安：</strong> <span className="text-amber-900 font-bold text-sm">1名あたり 36,465円〜</span>（※クーポン利用で実質2,000円）</div>
                     </div>
@@ -314,7 +314,7 @@ export default function FeatureArticlePage() {
                       楽天シルバーアワード＆日本の宿2024受賞★お食事好評価♪全10室の強羅のにごり湯宿を満喫！
                     </p>
                     <div className="bg-stone-50 rounded-xl p-4 border border-stone-200/60 text-xs space-y-1.5 text-stone-600">
-                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> 楽天シルバーアワード＆日本の宿2024受賞★お食事好評価♪全10室の強羅のにごり湯宿を満喫！...</div>
+                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> 楽天シルバーアワード＆日本の宿2024受賞★お食事好評価♪全10室の強羅のにごり湯宿を満喫！</div>
                       <div><strong className="text-stone-800">🚗 アクセス：</strong> 【無料送迎あり（15時～18時）】 早雲山駅より徒歩8分、強羅駅より車で5分</div>
                       <div><strong className="text-stone-800">💰 料金目安：</strong> <span className="text-amber-900 font-bold text-sm">1名あたり 12,100円〜</span>（※クーポン利用で実質2,000円）</div>
                     </div>

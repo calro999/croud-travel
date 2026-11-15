@@ -332,7 +332,7 @@ export default function ShizuokaCityWinterPage() {
             <span className="text-teal-600 font-bold text-xs sm:text-sm tracking-wider uppercase">Handpicked Hotels</span>
             <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">冬の静岡・日本平・清水を満喫する厳選名宿5選</h2>
             <p className="text-sm text-slate-600">
-              楽天トラベルAPIから最新取得した、富士山絶景パノラマ・駅直結・最上階天然温泉完備の信頼宿
+              楽天トラベル公式データから最新取得した、富士山絶景パノラマ・駅直結・最上階天然温泉完備の信頼宿
             </p>
           </div>
 

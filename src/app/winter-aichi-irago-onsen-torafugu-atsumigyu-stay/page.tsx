@@ -412,7 +412,7 @@ export default function AichiIragoOnsenWinterPage() {
             <h2 className="text-xl sm:text-2xl font-bold text-stone-900 flex items-center gap-2"><Star className="w-5 h-5 text-amber-500 fill-amber-500" />
               伊良湖温泉＆渥美半島のおすすめ名宿5選</h2>
             <p className="text-xs sm:text-sm text-stone-500 mt-1">
-              楽天トラベルAPIよりリアルタイムの空室料金・クチコミ評価・アクセス情報を取得して掲載
+              楽天トラベル公式データよりリアルタイムの空室料金・クチコミ評価・アクセス情報を取得して掲載
             </p>
           </div>
 

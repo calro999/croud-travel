@@ -3078,7 +3078,7 @@ export default function TravelSavingsGuide() {
                 <li key="furusato-tax-travel-beginners-complete-guide">
                   <Link href="/furusato-tax-travel-beginners-complete-guide/" className="group flex items-start gap-2 py-2 px-3 rounded-xl hover:bg-amber-50 transition">
                     <span className="text-amber-600 mt-0.5 text-sm shrink-0">▸</span>
-                    <span className="text-stone-700 group-hover:text-amber-800 transition text-sm leading-relaxed">【超初心者向け】ふるさと納税で旅行・ホテルに安く泊まる完全マニュアル｜仕組み・お金の流れ・失敗しない使い方を徹底解説…</span>
+                    <span className="text-stone-700 group-hover:text-amber-800 transition text-sm leading-relaxed">【超初心者向け】ふるさと納税で旅行・ホテルに安く泊まる完全マニュアル｜仕組み・お金の流れ・失敗しない使い方を徹底解説</span>
                   </Link>
                 </li>
               </ul>

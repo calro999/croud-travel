@@ -458,7 +458,7 @@ export default function ShizuokaKakegawaWinterPage() {
             </span>
             <h2 className="text-2xl md:text-3xl font-black text-slate-900 font-journal-serif">法多山初詣＆掛川城を満喫する厳選名宿5選</h2>
             <p className="text-slate-600 text-xs md:text-sm leading-relaxed">
-              楽天トラベルAPIより最新の空室・料金・レビュー情報を取得。掛川城を望む展望天然温泉ホテルから、新幹線駅直結シティホテル、袋井駅前の大浴場付きホテルまで厳選しました。
+              楽天トラベル公式データより最新の空室・料金・レビュー情報を取得。掛川城を望む展望天然温泉ホテルから、新幹線駅直結シティホテル、袋井駅前の大浴場付きホテルまで厳選しました。
             </p>
           </div>
 
@@ -663,7 +663,7 @@ export default function ShizuokaKakegawaWinterPage() {
       {/* Footer */}
       <footer className="bg-slate-900 text-slate-200 py-10 px-4 text-center text-xs border-t border-slate-800 mt-16">
         <p>© 2026 旅宿クラウド (croud-travel.pages.dev). All rights reserved.</p>
-        <p className="mt-2 text-slate-500">掲載の宿泊料金や施設情報は楽天トラベルAPIより取得した参考データです。最新のプラン内容は各宿泊施設ページをご確認ください。</p>
+        <p className="mt-2 text-slate-500">掲載の宿泊料金や施設情報は楽天トラベル公式データより取得した参考データです。最新のプラン内容は各宿泊施設ページをご確認ください。</p>
       </footer>
     </article>
   );

@@ -217,7 +217,7 @@ export default function Home() {
             </div>
             <h3 className="text-sm md:text-base font-bold text-white group-hover:text-amber-200 transition line-clamp-2 leading-snug">【2026-2027年末年始】まだ間に合う！年越し・お正月泊の穴場温泉宿＆ホテル全国厳選20選（予算別）</h3>
             <p className="text-xs text-stone-200 line-clamp-2 leading-relaxed">
-              箱根・湯河原・草津・北陸・有馬・九州！コスパ重視の年越し宿とご褒美名旅館をAPI実測データで徹底比較。
+              箱根・湯河原・草津・北陸・有馬・九州！コスパ重視の年越し宿とご褒美名旅館を最新宿泊データで徹底比較。
             </p>
           </Link>
 

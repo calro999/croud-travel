@@ -180,7 +180,7 @@ export default function FeatureArticlePage() {
                       【金沢奥座敷　深谷温泉の一軒宿】山里の静けさと出会い、都会の喧騒を忘れる。懐かしき時の流れる老舗
                     </p>
                     <div className="bg-stone-50 rounded-xl p-4 border border-stone-200/60 text-xs space-y-1.5 text-stone-600">
-                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> 【金沢奥座敷　深谷温泉の一軒宿】山里の静けさと出会い、都会の喧騒を忘れる。懐かしき時の流れる老舗...</div>
+                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> 【金沢奥座敷 深谷温泉の一軒宿】山里の静けさと出会い、都会の喧騒を忘れる。懐かしき時の流れる老舗</div>
                       <div><strong className="text-stone-800">🚗 アクセス：</strong> JR金沢駅からタクシーで約20分・ IR森本駅からタクシーで約7分・北陸自動車道金沢森本ＩＣより車5分</div>
                       <div><strong className="text-stone-800">💰 料金目安：</strong> <span className="text-amber-900 font-bold text-sm">1名あたり 24,200円〜</span>（※クーポン利用で実質2,000円）</div>
                     </div>
@@ -247,7 +247,7 @@ export default function FeatureArticlePage() {
                       金沢市街から車で15分〜20分。金沢の奥座敷。温泉と料理と趣贅沢にお愉しみいただける宿。
                     </p>
                     <div className="bg-stone-50 rounded-xl p-4 border border-stone-200/60 text-xs space-y-1.5 text-stone-600">
-                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> 金沢市街から車で15分〜20分。金沢の奥座敷。温泉と料理と趣贅沢にお愉しみいただける宿。...</div>
+                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> 金沢市街から車で15分〜20分。金沢の奥座敷。温泉と料理と趣贅沢にお愉しみいただける宿。</div>
                       <div><strong className="text-stone-800">🚗 アクセス：</strong> 兼六園より車で25分、金沢駅より車で約40分。金沢森本I.Cから山側環状経由で30分。</div>
                       <div><strong className="text-stone-800">💰 料金目安：</strong> <span className="text-amber-900 font-bold text-sm">1名あたり 17,325円〜</span>（※クーポン利用で実質2,000円）</div>
                     </div>
@@ -314,7 +314,7 @@ export default function FeatureArticlePage() {
                       2022楽天ゴールドアワード＆日本の宿47☆ダブル受賞
                     </p>
                     <div className="bg-stone-50 rounded-xl p-4 border border-stone-200/60 text-xs space-y-1.5 text-stone-600">
-                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> 2022楽天ゴールドアワード＆日本の宿47☆ダブル受賞...</div>
+                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> 2022楽天ゴールドアワード＆日本の宿47☆ダブル受賞</div>
                       <div><strong className="text-stone-800">🚗 アクセス：</strong> ★金沢中心街より車で20分★「金沢駅・兼六園」より“無料送迎”！お帰りは金沢駅近くへ荷物お届けサービス◎手ぶら観光もOK</div>
                       <div><strong className="text-stone-800">💰 料金目安：</strong> <span className="text-amber-900 font-bold text-sm">1名あたり 19,470円〜</span>（※クーポン利用で実質2,000円）</div>
                     </div>

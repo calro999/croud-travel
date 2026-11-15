@@ -372,7 +372,7 @@ export default function WakayamaAridaYuasaWinterPage() {
               <span className="text-amber-600 font-bold text-sm tracking-wider uppercase">Featured Accommodations</span>
               <h2 className="text-2xl md:text-3xl font-bold text-slate-900 mt-1">有田みかん海道と湯浅の美味を満喫する厳選名宿5選</h2>
               <p className="text-slate-600 text-sm mt-1">
-                楽天トラベルAPIより最新の空室情報・適正宿泊料金・評価スコアを取得。城郭温泉宿から老舗料理旅館、リゾートホテルまで厳選。
+                楽天トラベル公式データより最新の空室情報・適正宿泊料金・評価スコアを取得。城郭温泉宿から老舗料理旅館、リゾートホテルまで厳選。
               </p>
             </div>
 
@@ -569,7 +569,7 @@ export default function WakayamaAridaYuasaWinterPage() {
               >
                 <span className="text-cyan-400 text-xs font-bold block mb-1">和歌山特集</span>
                 <span className="font-bold text-sm block mb-1">加太温泉＆和歌山市！淡嶋神社初詣と天然クエ・鯛めし名宿</span>
-                <span className="text-xs text-slate-300">紀淡海峡を望む露天風呂と加太の鯛・クエ料理…</span>
+                <span className="text-xs text-slate-300">紀淡海峡を望む露天風呂と加太の鯛・クエ料理</span>
               </Link>
               <Link
                 href="/winter-wakayama-nanki-shirahama-kue-hotspring-stay/"
@@ -577,7 +577,7 @@ export default function WakayamaAridaYuasaWinterPage() {
               >
                 <span className="text-amber-400 text-xs font-bold block mb-1">和歌山特集</span>
                 <span className="font-bold text-sm block mb-1">南紀白浜温泉！冬の本クエ鍋と白良浜・名湯名宿</span>
-                <span className="text-xs text-slate-300">南紀白浜の冬の風物詩クエ鍋と太平洋露天風呂…</span>
+                <span className="text-xs text-slate-300">南紀白浜の冬の風物詩クエ鍋と太平洋露天風呂</span>
               </Link>
               <Link
                 href="/winter-wakayama-koyasan-shukubo-okunoin-snow-shojin-stay/"
@@ -585,7 +585,7 @@ export default function WakayamaAridaYuasaWinterPage() {
               >
                 <span className="text-rose-400 text-xs font-bold block mb-1">和歌山特集</span>
                 <span className="font-bold text-sm block mb-1">高野山宿坊！雪の奥の院参拝と精進料理・新春勤行体験</span>
-                <span className="text-xs text-slate-300">白銀に包まれる世界遺産の霊場高野山…</span>
+                <span className="text-xs text-slate-300">白銀に包まれる世界遺産の霊場高野山</span>
               </Link>
               <Link
                 href="/winter-osaka-minoo-katsuo-ji-daruma-botannabe-stay/"
@@ -593,7 +593,7 @@ export default function WakayamaAridaYuasaWinterPage() {
               >
                 <span className="text-emerald-400 text-xs font-bold block mb-1">大阪特集</span>
                 <span className="font-bold text-sm block mb-1">箕面＆能勢！勝尾寺勝ちダルマ初詣と天然猪鍋名宿</span>
-                <span className="text-xs text-slate-300">日本の滝百選箕面大滝と能勢の天然ぼたん鍋…</span>
+                <span className="text-xs text-slate-300">日本の滝百選箕面大滝と能勢の天然ぼたん鍋</span>
               </Link>
               <Link
                 href="/features/"
@@ -601,7 +601,7 @@ export default function WakayamaAridaYuasaWinterPage() {
               >
                 <span className="text-purple-400 text-xs font-bold block mb-1">特集一覧</span>
                 <span className="font-bold text-sm block mb-1">全国の冬シーズン・年末年始旅行特集一覧</span>
-                <span className="text-xs text-slate-300">全国各地の厳選温泉・初詣・冬の味覚特集を網羅…</span>
+                <span className="text-xs text-slate-300">全国各地の厳選温泉・初詣・冬の味覚特集を網羅</span>
               </Link>
               <Link
                 href="/"
@@ -609,7 +609,7 @@ export default function WakayamaAridaYuasaWinterPage() {
               >
                 <span className="text-blue-400 text-xs font-bold block mb-1">トップページ</span>
                 <span className="font-bold text-sm block mb-1">旅クラウド | 国内旅行・ホテル予約比較</span>
-                <span className="text-xs text-slate-300">楽天トラベルAPIと連携した安心の宿泊予約ポータル…</span>
+                <span className="text-xs text-slate-300">楽天トラベル公式データと連携した安心の宿泊予約ポータル</span>
               </Link>
             </div>
           </section>

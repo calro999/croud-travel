@@ -180,7 +180,7 @@ export default function FeatureArticlePage() {
                       赤湯温泉の源泉かけ流しを含む全12種類のお風呂！お風呂上りには米沢牛会席で食材王国山形を満喫
                     </p>
                     <div className="bg-stone-50 rounded-xl p-4 border border-stone-200/60 text-xs space-y-1.5 text-stone-600">
-                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> 赤湯温泉の源泉かけ流しを含む全12種類のお風呂！お風呂上りには米沢牛会席で食材王国山形を満喫...</div>
+                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> 赤湯温泉の源泉かけ流しを含む全12種類のお風呂！お風呂上りには米沢牛会席で食材王国山形を満喫</div>
                       <div><strong className="text-stone-800">🚗 アクセス：</strong> JR奥羽本線赤湯駅／車：東北自動車道で米沢方面へ※福島大笹生ＩＣ－米沢北ＩＣ間無料～南陽高畠ＩＣで下り赤湯温泉へ車5分程</div>
                       <div><strong className="text-stone-800">💰 料金目安：</strong> <span className="text-amber-900 font-bold text-sm">1名あたり 12,650円〜</span>（※クーポン利用で実質2,000円）</div>
                     </div>
@@ -247,7 +247,7 @@ export default function FeatureArticlePage() {
                       全館平屋の贅沢な造りの宿。これまでの露天付き客室がさらに上質で和風モダンな空間に生まれ変わる。禁煙
                     </p>
                     <div className="bg-stone-50 rounded-xl p-4 border border-stone-200/60 text-xs space-y-1.5 text-stone-600">
-                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> 全館平屋の贅沢な造りの宿。これまでの露天付き客室がさらに上質で和風モダンな空間に生まれ変わる。禁煙...</div>
+                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> 全館平屋の贅沢な造りの宿。これまでの露天付き客室がさらに上質で和風モダンな空間に生まれ変わる。禁煙</div>
                       <div><strong className="text-stone-800">🚗 アクセス：</strong> JR山形新幹線赤湯駅よりタクシーで約５分、徒歩で約２５分。 東北自動車道福島飯坂ICよりお車で約７５分。</div>
                       <div><strong className="text-stone-800">💰 料金目安：</strong> <span className="text-amber-900 font-bold text-sm">1名あたり 11,000円〜</span>（※クーポン利用で実質2,000円）</div>
                     </div>
@@ -314,7 +314,7 @@ export default function FeatureArticlePage() {
                       源泉掛け流しの天然温泉と米沢牛の美味しさに舌鼓！木造3階建ての風情ある老舗旅館をお楽しみ下さい。
                     </p>
                     <div className="bg-stone-50 rounded-xl p-4 border border-stone-200/60 text-xs space-y-1.5 text-stone-600">
-                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> 源泉掛け流しの天然温泉と米沢牛の美味しさに舌鼓！木造3階建ての風情ある老舗旅館をお楽しみ下さい。...</div>
+                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> 源泉掛け流しの天然温泉と米沢牛の美味しさに舌鼓！木造3階建ての風情ある老舗旅館をお楽しみ下さい。</div>
                       <div><strong className="text-stone-800">🚗 アクセス：</strong> JR東北新幹線「赤湯駅」より車で５分 / 東北道 福島飯坂ICより１３号線経由５５㎞</div>
                       <div><strong className="text-stone-800">💰 料金目安：</strong> <span className="text-amber-900 font-bold text-sm">1名あたり 6,200円〜</span>（※クーポン利用で実質2,000円）</div>
                     </div>

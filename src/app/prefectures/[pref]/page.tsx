@@ -11,6 +11,7 @@ import { getRecommendedFeatureHubs } from "@/data/featureHubsData";
 import { getTransitGuidesForPrefecture } from "@/data/transitGuidesData";
 import SpecialCouponBanner from "@/app/components/SpecialCouponBanner";
 import FloatingMobileCTA from "@/app/components/FloatingMobileCTA";
+import ShareButtons from "@/app/components/ShareButtons";
 
 interface Post {
   id: string;
@@ -346,6 +347,11 @@ export default async function PrefectureDetailPage({ params }: { params: Promise
           </div>
         </div>
       </section>
+
+      <ShareButtons
+        url={`https://croud-travel.pages.dev/prefectures/${prefInfo.slug}/`}
+        title={`【${prefInfo.name}】観光名所・ご当地グルメ・お土産・厳選温泉宿ガイド`}
+      />
 
       {/* 🎁 楽天トラベル公式 5と0のつく日＆ふるさと納税限定クーポン特大バナー */}
       <SpecialCouponBanner />
@@ -1300,6 +1306,12 @@ export default async function PrefectureDetailPage({ params }: { params: Promise
           </Link>
         </div>
       </section>
+
+      <ShareButtons
+        url={`https://croud-travel.pages.dev/prefectures/${prefInfo.slug}/`}
+        title={`【${prefInfo.name}】観光名所・ご当地グルメ・お土産・厳選温泉宿ガイド`}
+      />
+
       {/* モバイル追従CTA（47都道府県ページでもスマホ予約導線を完全固定） */}
       <FloatingMobileCTA
         affiliateUrl={allPrefPosts[0]?.affiliate_url || "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fsearch.travel.rakuten.co.jp%2Fds%2Fundated%2Fsearch%3Ff_query%3D%25E9%2583%25BD%25E9%2581%2593%25E5%25BA%259C%25E7%259C%258C%25E3%2581%258C%25E8%25A6%258B%25E3%2581%25A4%25E3%2581%258B%25E3%2582%258A%25E3%2581%25BE%25E3%2581%259B%25E3%2582%2593"}

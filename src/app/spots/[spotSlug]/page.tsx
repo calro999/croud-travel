@@ -7,6 +7,8 @@ import { SPOTS_DATA, getSpotBySlug } from "@/data/spotsData";
 import NextSearchQuestions, { NextQuestionItem } from "@/app/components/NextSearchQuestions";
 import { getRecommendedFeatureHubs } from "@/data/featureHubsData";
 import { getCityBySlug } from "@/data/citiesData";
+import ShareButtons from "@/app/components/ShareButtons";
+import FloatingMobileCTA from "@/app/components/FloatingMobileCTA";
 
 interface Post {
   id: string;
@@ -112,6 +114,7 @@ export default async function SpotDetailPage({ params }: { params: Promise<{ spo
     .filter((s): s is typeof spot => s !== undefined);
 
   const baseUrl = process.env.NEXT_PUBLIC_BASE_URL || 'https://croud-travel.pages.dev';
+  const rakutenSearchUrl = finalHotelPosts[0]?.affiliate_url || `https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=${encodeURIComponent(`https://search.travel.rakuten.co.jp/ds/undated/search?f_query=${spot.name}`)}`;
 
   const jsonLdBreadcrumb = {
     "@context": "https://schema.org",
@@ -150,7 +153,7 @@ export default async function SpotDetailPage({ params }: { params: Promise<{ spo
         <span>/</span>
         <Link href={`/prefectures/${spot.prefSlug}/`} className="hover:text-teal-800 transition">{spot.prefName}</Link>
         <span>/</span>
-        <Link href={`/prefectures/${spot.prefSlug}/${spot.citySlug}`} className="hover:text-teal-800 transition">{spot.cityName}</Link>
+        <Link href={`/prefectures/${spot.prefSlug}/${spot.citySlug}/`} className="hover:text-teal-800 transition">{spot.cityName}</Link>
         <span>/</span>
         <span className="text-emerald-950 font-bold">{spot.name} 徹底解説</span>
       </nav>
@@ -188,6 +191,11 @@ export default async function SpotDetailPage({ params }: { params: Promise<{ spo
           </div>
         </div>
       </section>
+
+      <ShareButtons
+        url={`${baseUrl}/spots/${spot.slug}/`}
+        title={`【${spot.name}】見どころ・アクセス・周辺おすすめホテル＆温泉宿ガイド`}
+      />
 
       {/* 🌟 1. この施設の見どころ・注目ポイント */}
       <section className="bg-white border border-emerald-950/10 rounded-3xl p-6 md:p-10 space-y-6 shadow-sm">
@@ -415,7 +423,7 @@ export default async function SpotDetailPage({ params }: { params: Promise<{ spo
           badge: "都道府県ポータル",
           answerSnippet: `${spot.prefName}全体の有名な観光スポット、名湯温泉旅館、地元で人気のトレンドお土産、地酒・酒蔵まで徹底解説しています。`,
           linkText: `【${spot.prefName}】観光・温泉・名物ガイドを見る`,
-          href: `/prefectures/${spot.prefSlug}`
+          href: `/prefectures/${spot.prefSlug}/`
         });
 
         for (const hub of recommendedHubs) {
@@ -424,7 +432,7 @@ export default async function SpotDetailPage({ params }: { params: Promise<{ spo
             badge: "目的・テーマ特集",
             answerSnippet: hub.description,
             linkText: `${hub.shortTitle}を見る`,
-            href: `/${hub.slug}`
+            href: `/${hub.slug}/`
           });
         }
 
@@ -437,10 +445,15 @@ export default async function SpotDetailPage({ params }: { params: Promise<{ spo
         );
       })()}
 
+      <ShareButtons
+        url={`${baseUrl}/spots/${spot.slug}/`}
+        title={`【${spot.name}】見どころ・アクセス・周辺おすすめホテル＆温泉宿ガイド`}
+      />
+
       {/* 都道府県＆市町村ハブへのバックリンク */}
       <div className="flex flex-wrap justify-center gap-4 pt-4">
         <Link
-          href={`/prefectures/${spot.prefSlug}/${spot.citySlug}`}
+          href={`/prefectures/${spot.prefSlug}/${spot.citySlug}/`}
           className="px-6 py-2.5 text-xs font-bold text-teal-900 bg-teal-50 hover:bg-teal-100 border border-teal-800/20 rounded-full transition"
         >
           📍 {spot.cityName} 観光＆料理ガイドへ戻る
@@ -452,6 +465,12 @@ export default async function SpotDetailPage({ params }: { params: Promise<{ spo
           🗾 {spot.prefName}全体の観光ハブへ戻る
         </Link>
       </div>
+
+      <FloatingMobileCTA
+        affiliateUrl={rakutenSearchUrl}
+        hotelName={`${spot.name}周辺の厳選宿・お得プラン`}
+        isSpecialFeature={true}
+      />
     </div>
   );
 }

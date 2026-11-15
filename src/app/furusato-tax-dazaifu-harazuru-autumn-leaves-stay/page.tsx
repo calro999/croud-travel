@@ -180,7 +180,7 @@ export default function FeatureArticlePage() {
                       ◇博多駅から20分◇源泉かけ流し天然温泉◇和の心を継ぐ宿【福岡】◇
                     </p>
                     <div className="bg-stone-50 rounded-xl p-4 border border-stone-200/60 text-xs space-y-1.5 text-stone-600">
-                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> ◇博多駅から20分◇源泉かけ流し天然温泉◇和の心を継ぐ宿【福岡】◇...</div>
+                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> ◇博多駅から20分◇源泉かけ流し天然温泉◇和の心を継ぐ宿【福岡】◇</div>
                       <div><strong className="text-stone-800">🚗 アクセス：</strong> 「福岡空港」より高速バスで約30分　「博多駅」よりＪＲ線利用で20分　「福岡天神駅」より西鉄電車利用で30分</div>
                       <div><strong className="text-stone-800">💰 料金目安：</strong> <span className="text-amber-900 font-bold text-sm">1名あたり 11,350円〜</span>（※クーポン利用で実質2,000円）</div>
                     </div>
@@ -247,7 +247,7 @@ export default function FeatureArticlePage() {
                       “ダブル美肌湯”と称される原鶴の良泉を宿名物ジャングル風呂などの個性あふれるお風呂でお楽しみ下さい。
                     </p>
                     <div className="bg-stone-50 rounded-xl p-4 border border-stone-200/60 text-xs space-y-1.5 text-stone-600">
-                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> “ダブル美肌湯”と称される原鶴の良泉を宿名物ジャングル風呂などの個性あふれるお風呂でお楽しみ下さい。...</div>
+                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> “ダブル美肌湯”と称される原鶴の良泉を宿名物ジャングル風呂などの個性あふれるお風呂でお楽しみ下さい。</div>
                       <div><strong className="text-stone-800">🚗 アクセス：</strong> 大分自動車道杷木インターより車で5分／ＪＲ筑後吉井駅より車で10分／日田行き高速バスで杷木下車、車で５分</div>
                       <div><strong className="text-stone-800">💰 料金目安：</strong> <span className="text-amber-900 font-bold text-sm">1名あたり 7,040円〜</span>（※クーポン利用で実質2,000円）</div>
                     </div>
@@ -314,7 +314,7 @@ export default function FeatureArticlePage() {
                       【楽天トラベルアワード9年連続受賞】創業145年。優しさが詰った畳風呂と、心尽しの美食が人気の老舗宿
                     </p>
                     <div className="bg-stone-50 rounded-xl p-4 border border-stone-200/60 text-xs space-y-1.5 text-stone-600">
-                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> 【楽天トラベルアワード9年連続受賞】創業145年。優しさが詰った畳風呂と、心尽しの美食が人気の老舗宿...</div>
+                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> 【楽天トラベルアワード9年連続受賞】創業145年。優しさが詰った畳風呂と、心尽しの美食が人気の老舗宿</div>
                       <div><strong className="text-stone-800">🚗 アクセス：</strong> 福岡市内から約60分！大分自動車道・杷木ＩＣより約5分！名跡『秋月城址』まで車で30分、太宰府まで車で50分</div>
                       <div><strong className="text-stone-800">💰 料金目安：</strong> <span className="text-amber-900 font-bold text-sm">1名あたり 8,415円〜</span>（※クーポン利用で実質2,000円）</div>
                     </div>

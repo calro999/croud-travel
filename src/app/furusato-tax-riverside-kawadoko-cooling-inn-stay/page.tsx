@@ -153,7 +153,7 @@ export default function FurusatoTaxPage() {
         <section className="space-y-12">
           <div className="border-l-4 border-amber-500 pl-4">
             <h2 className="text-2xl md:text-3xl font-black text-white">ふるさと納税対象・厳選おすすめ宿泊施設</h2>
-            <p className="text-slate-400 text-xs md:text-sm mt-1">楽天トラベルAPIより最新の料金・宿泊プラン・空室情報をリアルタイム反映中
+            <p className="text-slate-400 text-xs md:text-sm mt-1">楽天トラベル公式データより最新の料金・宿泊プラン・空室情報をリアルタイム反映中
             </p>
           </div>
 
@@ -466,9 +466,7 @@ export default function FurusatoTaxPage() {
                           </div>
                           <div className="p-4 space-y-2">
                             <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">岩室温泉　高志の宿　高島屋</h4>
-                            <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
-                              【楽天トラベルアワード2024】ブロンズアワード受賞！大切な日は高島屋で…
-                            </p>
+                            <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">【楽天トラベルアワード2024】ブロンズアワード受賞！大切な日は高島屋で特別なひとときをお過ごしください。</p>
                             <p className="text-xs text-slate-500 flex items-center gap-1">
                               <span>📍</span>
                               <span className="truncate">新潟県新潟市西蒲区岩室温泉678甲</span>

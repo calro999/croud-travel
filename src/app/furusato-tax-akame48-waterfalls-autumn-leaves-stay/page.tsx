@@ -180,7 +180,7 @@ export default function FeatureArticlePage() {
                       【美と静寂を楽しむ】赤目四十八滝！★森のリゾートリニューアル☆絶品伊賀牛と美食と温泉☆
                     </p>
                     <div className="bg-stone-50 rounded-xl p-4 border border-stone-200/60 text-xs space-y-1.5 text-stone-600">
-                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> 【美と静寂を楽しむ】赤目四十八滝！★森のリゾートリニューアル☆絶品伊賀牛と美食と温泉☆...</div>
+                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> 【美と静寂を楽しむ】赤目四十八滝！★森のリゾートリニューアル☆絶品伊賀牛と美食と温泉☆</div>
                       <div><strong className="text-stone-800">🚗 アクセス：</strong> 近鉄「赤目口」まで無料送迎バス。約10分（要予約）【大阪方面】名阪針IC～約30分【名古屋方面】名阪上野IC～約35分</div>
                       <div><strong className="text-stone-800">💰 料金目安：</strong> <span className="text-amber-900 font-bold text-sm">1名あたり 13,200円〜</span>（※クーポン利用で実質2,000円）</div>
                     </div>
@@ -247,7 +247,7 @@ export default function FeatureArticlePage() {
                       赤目四十八滝へ車で5分とアクセス便利。恵まれた自然の中、肌に優しい温泉とだわりの料理を堪能！
                     </p>
                     <div className="bg-stone-50 rounded-xl p-4 border border-stone-200/60 text-xs space-y-1.5 text-stone-600">
-                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> 赤目四十八滝へ車で5分とアクセス便利。恵まれた自然の中、肌に優しい温泉とだわりの料理を堪能！...</div>
+                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> 赤目四十八滝へ車で5分とアクセス便利。恵まれた自然の中、肌に優しい温泉とだわりの料理を堪能！</div>
                       <div><strong className="text-stone-800">🚗 アクセス：</strong> 近鉄大阪線「赤目口駅」より車で5分。送迎もございます（事前予約は不要ですが、当日の到着時間はお電話でご連絡ください）</div>
                       <div><strong className="text-stone-800">💰 料金目安：</strong> <span className="text-amber-900 font-bold text-sm">1名あたり 9,900円〜</span>（※クーポン利用で実質2,000円）</div>
                     </div>
@@ -314,7 +314,7 @@ export default function FeatureArticlePage() {
                       山間に位置する閑静な宿。 伊賀牛肉と地酒でおもてなし。
                     </p>
                     <div className="bg-stone-50 rounded-xl p-4 border border-stone-200/60 text-xs space-y-1.5 text-stone-600">
-                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> 山間に位置する閑静な宿。 伊賀牛肉と地酒でおもてなし。...</div>
+                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> 山間に位置する閑静な宿。 伊賀牛肉と地酒でおもてなし。</div>
                       <div><strong className="text-stone-800">🚗 アクセス：</strong> 大阪方面は名阪針IC下車。名古屋は名阪上野IC下車。近鉄大阪線「赤目口駅」</div>
                       <div><strong className="text-stone-800">💰 料金目安：</strong> <span className="text-amber-900 font-bold text-sm">1名あたり 16,500円〜</span>（※クーポン利用で実質2,000円）</div>
                     </div>

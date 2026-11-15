@@ -180,7 +180,7 @@ export default function FeatureArticlePage() {
                       1920年(大正9年)創業★文人墨客に愛された三朝の老舗宿で回遊式大庭園風呂と山陰の旬味覚を満喫
                     </p>
                     <div className="bg-stone-50 rounded-xl p-4 border border-stone-200/60 text-xs space-y-1.5 text-stone-600">
-                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> 1920年(大正9年)創業★文人墨客に愛された三朝の老舗宿で回遊式大庭園風呂と山陰の旬味覚を満喫...</div>
+                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> 1920年(大正9年)創業★文人墨客に愛された三朝の老舗宿で回遊式大庭園風呂と山陰の旬味覚を満喫</div>
                       <div><strong className="text-stone-800">🚗 アクセス：</strong> ◆車 中国道院庄IC60分／山陰道泊東郷IC20分 ◆JR 倉吉駅送迎バス14時20分～18時 ※要予約（前日まで）</div>
                       <div><strong className="text-stone-800">💰 料金目安：</strong> <span className="text-amber-900 font-bold text-sm">1名あたり 6,050円〜</span>（※クーポン利用で実質2,000円）</div>
                     </div>
@@ -247,7 +247,7 @@ export default function FeatureArticlePage() {
                       舘は国登録有形文化財。自家源泉５ヶ所の内、自噴泉が３ヶ所ある「巌窟の湯」が名物風呂！
                     </p>
                     <div className="bg-stone-50 rounded-xl p-4 border border-stone-200/60 text-xs space-y-1.5 text-stone-600">
-                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> 舘は国登録有形文化財。自家源泉５ヶ所の内、自噴泉が３ヶ所ある「巌窟の湯」が名物風呂！...</div>
+                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> 舘は国登録有形文化財。自家源泉５ヶ所の内、自噴泉が３ヶ所ある「巌窟の湯」が名物風呂！</div>
                       <div><strong className="text-stone-800">🚗 アクセス：</strong> JR山陰本線-倉吉駅下車～バス20分／中国道-院庄ICよりＲ１７９号を倉吉方面に約50分/ANA羽田～鳥取～バス～倉吉</div>
                       <div><strong className="text-stone-800">💰 料金目安：</strong> <span className="text-amber-900 font-bold text-sm">1名あたり 14,300円〜</span>（※クーポン利用で実質2,000円）</div>
                     </div>
@@ -314,7 +314,7 @@ export default function FeatureArticlePage() {
                       ８５０年の歴史を誇る古湯・三朝温泉。女性３代で営み、心を込めた田舎料理とおもてなしが自慢の宿です。
                     </p>
                     <div className="bg-stone-50 rounded-xl p-4 border border-stone-200/60 text-xs space-y-1.5 text-stone-600">
-                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> ８５０年の歴史を誇る古湯・三朝温泉。女性３代で営み、心を込めた田舎料理とおもてなしが自慢の宿です。...</div>
+                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> ８５０年の歴史を誇る古湯・三朝温泉。女性３代で営み、心を込めた田舎料理とおもてなしが自慢の宿です。</div>
                       <div><strong className="text-stone-800">🚗 アクセス：</strong> ＪＲ　倉吉駅よりお車にて約２０分</div>
                       <div><strong className="text-stone-800">💰 料金目安：</strong> <span className="text-amber-900 font-bold text-sm">1名あたり 6,050円〜</span>（※クーポン利用で実質2,000円）</div>
                     </div>

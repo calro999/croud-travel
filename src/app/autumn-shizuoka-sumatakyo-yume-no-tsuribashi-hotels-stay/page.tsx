@@ -98,9 +98,7 @@ export default function SumatakyoAutumnPage() {
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 笹間渡駅 / 大井川鐵道 大井川本線 川根温泉笹間渡駅から徒歩２分
                   </p>
-                  <p className="text-sm text-stone-600 mb-4 line-clamp-3 leading-relaxed">
-                    全棟源泉かけ流し温泉付きの一棟貸しコテージで、日常の喧騒から離れた心休まるひと時を…
-                  </p>
+                  <p className="text-sm text-stone-600 mb-4 line-clamp-3 leading-relaxed">全棟源泉かけ流し温泉付きの一棟貸しコテージで、日常の喧騒から離れた心休まるひと時をお過ごしください。</p>
                 </div>
                 <div className="pt-3 border-t border-stone-100 flex items-center justify-between">
                   <div>

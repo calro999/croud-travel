@@ -293,7 +293,7 @@ export default function TokyoShinjukuWinterPage() {
             <span className="text-indigo-600 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Verified Accommodations</span>
             <h2 className="text-xl sm:text-3xl font-bold text-slate-900">冬の新宿を満喫する実力派ホテル・ラグジュアリー名宿5選</h2>
             <p className="text-slate-500 text-xs sm:text-sm mt-1">
-              楽天トラベルAPIより最新の空室・プラン情報、クチコミ評価を取得。夜景・アクセス・美食に優れた宿を厳選
+              楽天トラベル公式データより最新の空室・プラン情報、クチコミ評価を取得。夜景・アクセス・美食に優れた宿を厳選
             </p>
           </div>
 

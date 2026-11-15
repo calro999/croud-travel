@@ -180,7 +180,7 @@ export default function FeatureArticlePage() {
                       ★5つ星の宿★最大【男性13種・女性19種の湯舟】に【サウナ】が堪能できる自慢のかけ流し庭園大浴場♪
                     </p>
                     <div className="bg-stone-50 rounded-xl p-4 border border-stone-200/60 text-xs space-y-1.5 text-stone-600">
-                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> ★5つ星の宿★最大【男性13種・女性19種の湯舟】に【サウナ】が堪能できる自慢のかけ流し庭園大浴場♪...</div>
+                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> ★5つ星の宿★最大【男性13種・女性19種の湯舟】に【サウナ】が堪能できる自慢のかけ流し庭園大浴場♪</div>
                       <div><strong className="text-stone-800">🚗 アクセス：</strong> ＪＲ　日豊本線　霧島神宮駅から車で２５分／鹿児島空港から車で３０分</div>
                       <div><strong className="text-stone-800">💰 料金目安：</strong> <span className="text-amber-900 font-bold text-sm">1名あたり 12,320円〜</span>（※クーポン利用で実質2,000円）</div>
                     </div>
@@ -247,7 +247,7 @@ export default function FeatureArticlePage() {
                       霧島丸尾森の温泉郷 露天風呂付客室の旅館
                     </p>
                     <div className="bg-stone-50 rounded-xl p-4 border border-stone-200/60 text-xs space-y-1.5 text-stone-600">
-                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> 霧島丸尾森の温泉郷 露天風呂付客室の旅館...</div>
+                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> 霧島丸尾森の温泉郷 露天風呂付客室の旅館</div>
                       <div><strong className="text-stone-800">🚗 アクセス：</strong> 鹿児島空港よりお車にて約３０分</div>
                       <div><strong className="text-stone-800">💰 料金目安：</strong> <span className="text-amber-900 font-bold text-sm">1名あたり 27,500円〜</span>（※クーポン利用で実質2,000円）</div>
                     </div>
@@ -314,7 +314,7 @@ export default function FeatureArticlePage() {
                       霧島神宮の参道沿い、匠の技が光る空間・食・湯で心癒せる宿
                     </p>
                     <div className="bg-stone-50 rounded-xl p-4 border border-stone-200/60 text-xs space-y-1.5 text-stone-600">
-                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> 霧島神宮の参道沿い、匠の技が光る空間・食・湯で心癒せる宿...</div>
+                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> 霧島神宮の参道沿い、匠の技が光る空間・食・湯で心癒せる宿</div>
                       <div><strong className="text-stone-800">🚗 アクセス：</strong> ★ＪＲ霧島神宮駅または丸尾バス停より車で15分　※霧島神宮駅および丸尾バス停まで送迎可能　★鹿児島空港から車で50分</div>
                       <div><strong className="text-stone-800">💰 料金目安：</strong> <span className="text-amber-900 font-bold text-sm">1名あたり 26,000円〜</span>（※クーポン利用で実質2,000円）</div>
                     </div>

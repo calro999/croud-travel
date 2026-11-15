@@ -380,7 +380,7 @@ export default function GunmaTakasakiHarunaWinterPage() {
               <span className="text-xs font-bold text-amber-600 uppercase tracking-widest block">FEATURED ACCOMMODATIONS</span>
               <h2 className="text-xl md:text-3xl font-black text-slate-900">高崎・榛名・磯部温泉を満喫する厳選ホテル・宿5選</h2>
               <p className="text-xs md:text-sm text-slate-500 mt-1">
-                ※楽天トラベルAPIより最新の空室状況・料金・レビュー情報を取得して掲載しています。
+                ※楽天トラベル公式データより最新の空室状況・料金・レビュー情報を取得して掲載しています。
               </p>
             </div>
 

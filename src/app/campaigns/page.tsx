@@ -1,6 +1,7 @@
 import { Metadata } from "next";
 import Link from "next/link";
 import FloatingMobileCTA from "@/app/components/FloatingMobileCTA";
+import ShareButtons from "@/app/components/ShareButtons";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/campaigns/" },
@@ -137,6 +138,11 @@ export default function CampaignsPage() {
           高級ホテルや温泉旅館、家族旅行、ドライブ旅を最も安く賢く予約するための「最新セール・限定クーポン」を一挙にまとめてご紹介。予約前にぜひエントリー・クーポン獲得をお忘れなく！
         </p>
       </section>
+
+      <ShareButtons
+        url="https://croud-travel.pages.dev/campaigns/"
+        title="【最新】楽天トラベルお得キャンペーン・クーポン・セール一覧 ｜ 日本全国・旅宿クラウド"
+      />
 
       {/* キャンペーン一覧グリッド */}
       <div className="space-y-8">
@@ -286,6 +292,12 @@ export default function CampaignsPage() {
           <span>→</span>
         </Link>
       </div>
+
+      <ShareButtons
+        url="https://croud-travel.pages.dev/campaigns/"
+        title="【最新】楽天トラベルお得キャンペーン・クーポン・セール一覧 ｜ 日本全国・旅宿クラウド"
+      />
+
       {/* キャンペーンページ用モバイル固定CTAバー */}
       <FloatingMobileCTA
         affiliateUrl="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fcamp%2F50luxday%2Ftop%2F"

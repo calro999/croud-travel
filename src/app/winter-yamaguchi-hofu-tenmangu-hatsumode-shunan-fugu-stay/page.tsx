@@ -366,7 +366,7 @@ export default function YamaguchiHofuShunanWinterPage() {
               <span className="text-rose-600 font-bold text-sm tracking-wider uppercase">Featured Accommodations</span>
               <h2 className="text-2xl md:text-3xl font-bold text-slate-900 mt-1">防府天満宮初詣と周南ふぐを満喫する厳選名宿5選</h2>
               <p className="text-slate-600 text-sm mt-1">
-                楽天トラベルAPIより最新の空室情報・適正宿泊料金・評価スコアを取得。瀬戸内オーシャンビュー露天風呂から駅近天然温泉まで厳選。
+                楽天トラベル公式データより最新の空室情報・適正宿泊料金・評価スコアを取得。瀬戸内オーシャンビュー露天風呂から駅近天然温泉まで厳選。
               </p>
             </div>
 
@@ -565,7 +565,7 @@ export default function YamaguchiHofuShunanWinterPage() {
               >
                 <span className="text-amber-400 text-xs font-bold block mb-1">山口特集</span>
                 <span className="font-bold text-sm block mb-1">岩国＆周防大島！錦帯橋雪景色とみかん鍋・高森牛名宿</span>
-                <span className="text-xs text-slate-300">名橋錦帯橋の冬情趣と名物みかん鍋…</span>
+                <span className="text-xs text-slate-300">名橋錦帯橋の冬情趣と名物みかん鍋</span>
               </Link>
               <Link
                 href="/winter-yamaguchi-nagato-tsunoshima-motonosumi-shrine-hatsumode-onsen-stay/"
@@ -573,7 +573,7 @@ export default function YamaguchiHofuShunanWinterPage() {
               >
                 <span className="text-cyan-400 text-xs font-bold block mb-1">山口特集</span>
                 <span className="font-bold text-sm block mb-1">長門＆角島！元乃隅神社初詣と美肌の長門湯本温泉名宿</span>
-                <span className="text-xs text-slate-300">赤い鳥居が連なる絶景神社初詣と老舗温泉街…</span>
+                <span className="text-xs text-slate-300">赤い鳥居が連なる絶景神社初詣と老舗温泉街</span>
               </Link>
               <Link
                 href="/winter-yamaguchi-shimonoseki-kawatana-onsen-torafugu-kawarasoba-stay/"
@@ -581,7 +581,7 @@ export default function YamaguchiHofuShunanWinterPage() {
               >
                 <span className="text-emerald-400 text-xs font-bold block mb-1">山口特集</span>
                 <span className="font-bold text-sm block mb-1">下関＆川棚温泉！本場とらふぐフルコースと瓦そば名宿</span>
-                <span className="text-xs text-slate-300">関門海峡の冬のふぐ本場と名湯川棚温泉…</span>
+                <span className="text-xs text-slate-300">関門海峡の冬のふぐ本場と名湯川棚温泉</span>
               </Link>
               <Link
                 href="/winter-yamaguchi-yuda-onsen-torafugu-byakko-choshu-beef-stay/"
@@ -589,7 +589,7 @@ export default function YamaguchiHofuShunanWinterPage() {
               >
                 <span className="text-purple-400 text-xs font-bold block mb-1">山口特集</span>
                 <span className="font-bold text-sm block mb-1">湯田温泉！白狐の湯と冬のとらふぐ・長州牛名宿</span>
-                <span className="text-xs text-slate-300">山口市街地の名湯・湯田温泉の足湯めぐりと美食…</span>
+                <span className="text-xs text-slate-300">山口市街地の名湯・湯田温泉の足湯めぐりと美食</span>
               </Link>
               <Link
                 href="/features/"
@@ -597,7 +597,7 @@ export default function YamaguchiHofuShunanWinterPage() {
               >
                 <span className="text-rose-400 text-xs font-bold block mb-1">特集一覧</span>
                 <span className="font-bold text-sm block mb-1">全国の冬シーズン・年末年始旅行特集一覧</span>
-                <span className="text-xs text-slate-300">全国各地の厳選温泉・初詣・冬の味覚特集を網羅…</span>
+                <span className="text-xs text-slate-300">全国各地の厳選温泉・初詣・冬の味覚特集を網羅</span>
               </Link>
               <Link
                 href="/"
@@ -605,7 +605,7 @@ export default function YamaguchiHofuShunanWinterPage() {
               >
                 <span className="text-blue-400 text-xs font-bold block mb-1">トップページ</span>
                 <span className="font-bold text-sm block mb-1">旅クラウド | 国内旅行・ホテル予約比較</span>
-                <span className="text-xs text-slate-300">楽天トラベルAPIと連携した安心の宿泊予約ポータル…</span>
+                <span className="text-xs text-slate-300">楽天トラベル公式データと連携した安心の宿泊予約ポータル</span>
               </Link>
             </div>
           </section>

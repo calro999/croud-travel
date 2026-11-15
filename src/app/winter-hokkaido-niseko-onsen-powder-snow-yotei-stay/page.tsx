@@ -312,7 +312,7 @@ export default function NisekoOnsenWinterPage() {
             </div>
             <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">11月・12月におすすめのニセコ温泉郷・厳選名宿5選</h2>
             <p className="text-sm text-slate-600">
-              楽天トラベルの最新APIデータに基づき、羊蹄山の絶景展望、源泉掛け流しの雪見露天、道産牛ディナーの満足度が高い宿を厳選しました。
+              楽天トラベルの最新宿泊データに基づき、羊蹄山の絶景展望、源泉掛け流しの雪見露天、道産牛ディナーの満足度が高い宿を厳選しました。
             </p>
           </div>
 

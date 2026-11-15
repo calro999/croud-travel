@@ -372,7 +372,7 @@ export default function KochiSukumoShimantoWinterPage() {
               <span className="text-orange-600 font-bold text-sm tracking-wider uppercase">Featured Accommodations</span>
               <h2 className="text-2xl md:text-3xl font-bold text-slate-900 mt-1">宿毛湾だるま夕日と四万十川を満喫する厳選名宿5選</h2>
               <p className="text-slate-600 text-sm mt-1">
-                楽天トラベルAPIより最新の空室情報・適正宿泊料金・評価スコアを取得。夕日展望露天風呂からリゾートホテルまで厳選。
+                楽天トラベル公式データより最新の空室情報・適正宿泊料金・評価スコアを取得。夕日展望露天風呂からリゾートホテルまで厳選。
               </p>
             </div>
 
@@ -569,7 +569,7 @@ export default function KochiSukumoShimantoWinterPage() {
               >
                 <span className="text-amber-400 text-xs font-bold block mb-1">高知特集</span>
                 <span className="font-bold text-sm block mb-1">足摺岬＆足摺温泉！冬の満天星空と鰹タタキ・土佐牛名宿</span>
-                <span className="text-xs text-slate-300">四国最南端の雄大な絶景と冬の星空温泉…</span>
+                <span className="text-xs text-slate-300">四国最南端の雄大な絶景と冬の星空温泉</span>
               </Link>
               <Link
                 href="/winter-tokushima-minamiawa-yakuouji-hatsumode-iseebi-stay/"
@@ -577,7 +577,7 @@ export default function KochiSukumoShimantoWinterPage() {
               >
                 <span className="text-cyan-400 text-xs font-bold block mb-1">徳島特集</span>
                 <span className="font-bold text-sm block mb-1">美波＆海陽町！薬王寺初詣と天然伊勢海老・絶景温泉名宿</span>
-                <span className="text-xs text-slate-300">南阿波の冬の太平洋水平線と厄除け初詣…</span>
+                <span className="text-xs text-slate-300">南阿波の冬の太平洋水平線と厄除け初詣</span>
               </Link>
               <Link
                 href="/winter-ehime-dogo-onsen-honkan-taimeshi-iyogyu-stay/"
@@ -585,7 +585,7 @@ export default function KochiSukumoShimantoWinterPage() {
               >
                 <span className="text-emerald-400 text-xs font-bold block mb-1">愛媛特集</span>
                 <span className="font-bold text-sm block mb-1">道後温泉本館！冬の鯛めしと伊予牛・松山名湯名宿</span>
-                <span className="text-xs text-slate-300">本館リニューアル完了の道後温泉と愛媛の美食…</span>
+                <span className="text-xs text-slate-300">本館リニューアル完了の道後温泉と愛媛の美食</span>
               </Link>
               <Link
                 href="/winter-kagawa-zentsuji-marugame-castle-udon-stay/"
@@ -593,7 +593,7 @@ export default function KochiSukumoShimantoWinterPage() {
               >
                 <span className="text-rose-400 text-xs font-bold block mb-1">香川特集</span>
                 <span className="font-bold text-sm block mb-1">善通寺＆丸亀城！空海生誕地初詣としっぽくうどん名宿</span>
-                <span className="text-xs text-slate-300">讃岐冬の名物うどんと歴史ある名刹巡り…</span>
+                <span className="text-xs text-slate-300">讃岐冬の名物うどんと歴史ある名刹巡り</span>
               </Link>
               <Link
                 href="/features/"
@@ -601,7 +601,7 @@ export default function KochiSukumoShimantoWinterPage() {
               >
                 <span className="text-purple-400 text-xs font-bold block mb-1">特集一覧</span>
                 <span className="font-bold text-sm block mb-1">全国の冬シーズン・年末年始旅行特集一覧</span>
-                <span className="text-xs text-slate-300">全国各地の厳選温泉・初詣・冬の味覚特集を網羅…</span>
+                <span className="text-xs text-slate-300">全国各地の厳選温泉・初詣・冬の味覚特集を網羅</span>
               </Link>
               <Link
                 href="/"
@@ -609,7 +609,7 @@ export default function KochiSukumoShimantoWinterPage() {
               >
                 <span className="text-blue-400 text-xs font-bold block mb-1">トップページ</span>
                 <span className="font-bold text-sm block mb-1">旅クラウド | 国内旅行・ホテル予約比較</span>
-                <span className="text-xs text-slate-300">楽天トラベルAPIと連携した安心の宿泊予約ポータル…</span>
+                <span className="text-xs text-slate-300">楽天トラベル公式データと連携した安心の宿泊予約ポータル</span>
               </Link>
             </div>
           </section>

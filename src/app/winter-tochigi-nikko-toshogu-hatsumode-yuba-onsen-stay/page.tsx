@@ -403,7 +403,7 @@ export default function TochigiNikkoToshoguPage() {
             </span>
             <h2 className="text-2xl sm:text-3xl font-black text-stone-900 font-serif">日光東照宮参拝と美食・雪見温泉を堪能する名宿5選</h2>
             <p className="text-stone-500 text-xs sm:text-sm">
-              公式楽天トラベルAPIより取得した最新の宿泊データ・クチコミ・最低料金を掲載
+              公式楽天トラベル公式データより取得した最新の宿泊データ・クチコミ・最低料金を掲載
             </p>
           </div>
 

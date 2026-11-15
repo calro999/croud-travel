@@ -332,7 +332,7 @@ export default function OkinawaNahaWinterPage() {
             <span className="text-cyan-600 font-bold text-xs sm:text-sm tracking-wider uppercase">Handpicked Hotels</span>
             <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">冬の那覇・瀬長島を満喫する厳選名宿5選</h2>
             <p className="text-sm text-slate-600">
-              楽天トラベルAPIから最新取得した、絶景天然温泉・国際通り至近・最高峰クラブラウンジ完備の信頼宿
+              楽天トラベル公式データから最新取得した、絶景天然温泉・国際通り至近・最高峰クラブラウンジ完備の信頼宿
             </p>
           </div>
 

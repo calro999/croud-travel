@@ -180,7 +180,7 @@ export default function FeatureArticlePage() {
                       『歴史と浪漫・優雅と静寂』の旅館棟。国の重要文化財のある「山荘」・贅を尽くした「佳松亭」
                     </p>
                     <div className="bg-stone-50 rounded-xl p-4 border border-stone-200/60 text-xs space-y-1.5 text-stone-600">
-                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> 『歴史と浪漫・優雅と静寂』の旅館棟。国の重要文化財のある「山荘」・贅を尽くした「佳松亭」...</div>
+                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> 『歴史と浪漫・優雅と静寂』の旅館棟。国の重要文化財のある「山荘」・贅を尽くした「佳松亭」</div>
                       <div><strong className="text-stone-800">🚗 アクセス：</strong> 中之条駅からバス４０分終点下車・車で２５分／渋川伊香保ＩＣ→Ｒ１７→Ｒ３５３で約３９ｋｍ６０分</div>
                       <div><strong className="text-stone-800">💰 料金目安：</strong> <span className="text-amber-900 font-bold text-sm">1名あたり 22,330円〜</span>（※クーポン利用で実質2,000円）</div>
                     </div>
@@ -247,7 +247,7 @@ export default function FeatureArticlePage() {
                       創業500年　露天グランプリ群馬県第1位＆6つの温泉を楽しめる料理旅館
                     </p>
                     <div className="bg-stone-50 rounded-xl p-4 border border-stone-200/60 text-xs space-y-1.5 text-stone-600">
-                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> 創業500年　露天グランプリ群馬県第1位＆6つの温泉を楽しめる料理旅館...</div>
+                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> 創業500年 露天グランプリ群馬県第1位＆6つの温泉を楽しめる料理旅館</div>
                       <div><strong className="text-stone-800">🚗 アクセス：</strong> ＪＲ吾妻線中之条駅／関越交通四万温泉行き終点下車３分／関越道渋川伊香保ＩＣより国道１７号・３５３号線経由約３９ｋｍ６０分</div>
                       <div><strong className="text-stone-800">💰 料金目安：</strong> <span className="text-amber-900 font-bold text-sm">1名あたり 14,300円〜</span>（※クーポン利用で実質2,000円）</div>
                     </div>
@@ -314,7 +314,7 @@ export default function FeatureArticlePage() {
                       ☆お子様の温泉デビューもお勧め！もう一度「ただいま」したくなる手作りのおもてなし
                     </p>
                     <div className="bg-stone-50 rounded-xl p-4 border border-stone-200/60 text-xs space-y-1.5 text-stone-600">
-                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> ☆お子様の温泉デビューもお勧め！もう一度「ただいま」したくなる手作りのおもてなし...</div>
+                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> ☆お子様の温泉デビューもお勧め！もう一度「ただいま」したくなる手作りのおもてなし</div>
                       <div><strong className="text-stone-800">🚗 アクセス：</strong> ＪＲ吾妻線中之条駅</div>
                       <div><strong className="text-stone-800">💰 料金目安：</strong> <span className="text-amber-900 font-bold text-sm">1名あたり 8,260円〜</span>（※クーポン利用で実質2,000円）</div>
                     </div>

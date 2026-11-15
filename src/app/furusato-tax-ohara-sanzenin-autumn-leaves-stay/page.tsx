@@ -180,7 +180,7 @@ export default function FeatureArticlePage() {
                       大原三千院畔、大原温泉の料理旅館。美しい庭園と山菜、地野菜、川魚など。自然食材を活かしたお料理が自慢
                     </p>
                     <div className="bg-stone-50 rounded-xl p-4 border border-stone-200/60 text-xs space-y-1.5 text-stone-600">
-                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> 大原三千院畔、大原温泉の料理旅館。美しい庭園と山菜、地野菜、川魚など。自然食材を活かしたお料理が自慢...</div>
+                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> 大原三千院畔、大原温泉の料理旅館。美しい庭園と山菜、地野菜、川魚など。自然食材を活かしたお料理が自慢</div>
                       <div><strong className="text-stone-800">🚗 アクセス：</strong> 地下鉄　国際会館駅よりバスにて２５分</div>
                       <div><strong className="text-stone-800">💰 料金目安：</strong> <span className="text-amber-900 font-bold text-sm">1名あたり 34,295円〜</span>（※クーポン利用で実質2,000円）</div>
                     </div>
@@ -247,7 +247,7 @@ export default function FeatureArticlePage() {
                       京都駅から一時間程、静かな洛北の地で山々とせせらぎに包まれて普段より湯っくり湯ったりお過ごし下さい。
                     </p>
                     <div className="bg-stone-50 rounded-xl p-4 border border-stone-200/60 text-xs space-y-1.5 text-stone-600">
-                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> 京都駅から一時間程、静かな洛北の地で山々とせせらぎに包まれて普段より湯っくり湯ったりお過ごし下さい。...</div>
+                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> 京都駅から一時間程、静かな洛北の地で山々とせせらぎに包まれて普段より湯っくり湯ったりお過ごし下さい。</div>
                       <div><strong className="text-stone-800">🚗 アクセス：</strong> 京都バス　大原バス停より田舎道をきれいな景色を眺めながらブラブラ歩いて約１５分。午後３時以降大原バス停より送迎あります。</div>
                       <div><strong className="text-stone-800">💰 料金目安：</strong> <span className="text-amber-900 font-bold text-sm">1名あたり 8,250円〜</span>（※クーポン利用で実質2,000円）</div>
                     </div>
@@ -314,7 +314,7 @@ export default function FeatureArticlePage() {
                       大原温泉湯元。露天・五右衛門風呂がある大原名物「味噌鍋」本家の民宿。
                     </p>
                     <div className="bg-stone-50 rounded-xl p-4 border border-stone-200/60 text-xs space-y-1.5 text-stone-600">
-                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> 大原温泉湯元。露天・五右衛門風呂がある大原名物「味噌鍋」本家の民宿。...</div>
+                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> 大原温泉湯元。露天・五右衛門風呂がある大原名物「味噌鍋」本家の民宿。</div>
                       <div><strong className="text-stone-800">🚗 アクセス：</strong> JR京都駅より京都バス 大原行きで「大原」下車 徒歩１２分★「四条河原町」～「大原」はバスで約５０分♪</div>
                       <div><strong className="text-stone-800">💰 料金目安：</strong> <span className="text-amber-900 font-bold text-sm">1名あたり 10,900円〜</span>（※クーポン利用で実質2,000円）</div>
                     </div>

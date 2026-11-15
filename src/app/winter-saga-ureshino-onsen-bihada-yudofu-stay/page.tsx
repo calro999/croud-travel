@@ -416,7 +416,7 @@ export default function UreshinoWinterPage() {
             </div>
             <h2 className="text-2xl sm:text-3xl font-extrabold text-stone-900">11・12月に泊まりたい嬉野温泉の名宿厳選5選</h2>
             <p className="text-stone-600 text-sm max-w-2xl mx-auto">
-              楽天トラベルAPIから最新の口コミ評価・宿泊料金・空室情報を取得。日本三大美肌の湯と名物とろける温泉湯豆腐、最高峰A5佐賀牛を心ゆくまで堪能できる名宿5軒をご紹介します。
+              楽天トラベル公式データから最新の口コミ評価・宿泊料金・空室情報を取得。日本三大美肌の湯と名物とろける温泉湯豆腐、最高峰A5佐賀牛を心ゆくまで堪能できる名宿5軒をご紹介します。
             </p>
           </div>
 

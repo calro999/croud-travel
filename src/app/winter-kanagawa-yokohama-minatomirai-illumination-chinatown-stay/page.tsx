@@ -332,7 +332,7 @@ export default function YokohamaMinatomiraiWinterPage() {
             <span className="text-rose-600 font-bold text-xs sm:text-sm tracking-wider uppercase">Prime Accommodations</span>
             <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">横浜・みなとみらい＆山下町で冬を愉しむ名宿5選</h2>
             <p className="text-slate-600 text-xs sm:text-sm">
-              楽天トラベルAPIより最新の空室・料金・口コミデータをリアルタイム取得。冬の特別な記念日や観光ステイにふさわしい極上の5軒を厳選しました。
+              楽天トラベル公式データより最新の空室・料金・口コミデータをリアルタイム取得。冬の特別な記念日や観光ステイにふさわしい極上の5軒を厳選しました。
             </p>
           </div>
 

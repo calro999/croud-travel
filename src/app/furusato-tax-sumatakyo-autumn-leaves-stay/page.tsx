@@ -180,7 +180,7 @@ export default function FeatureArticlePage() {
                       大正浪漫を感じる建物で、「美女づくりの湯」と「奥大井の食材をつかった料理」を堪能する
                     </p>
                     <div className="bg-stone-50 rounded-xl p-4 border border-stone-200/60 text-xs space-y-1.5 text-stone-600">
-                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> 大正浪漫を感じる建物で、「美女づくりの湯」と「奥大井の食材をつかった料理」を堪能する...</div>
+                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> 大正浪漫を感じる建物で、「美女づくりの湯」と「奥大井の食材をつかった料理」を堪能する</div>
                       <div><strong className="text-stone-800">🚗 アクセス：</strong> JR金谷駅より大井川鉄道乗換え千頭駅より寸又峡温泉行きバス40分</div>
                       <div><strong className="text-stone-800">💰 料金目安：</strong> <span className="text-amber-900 font-bold text-sm">1名あたり 10,450円〜</span>（※クーポン利用で実質2,000円）</div>
                     </div>
@@ -247,7 +247,7 @@ export default function FeatureArticlePage() {
                       温泉宿・ホテル総選挙ファミリー部門5年連続全国1位受賞！壮大な自然に囲まれた癒しと寛ぎの温泉宿
                     </p>
                     <div className="bg-stone-50 rounded-xl p-4 border border-stone-200/60 text-xs space-y-1.5 text-stone-600">
-                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> 温泉宿・ホテル総選挙ファミリー部門5年連続全国1位受賞！壮大な自然に囲まれた癒しと寛ぎの温泉宿...</div>
+                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> 温泉宿・ホテル総選挙ファミリー部門5年連続全国1位受賞！壮大な自然に囲まれた癒しと寛ぎの温泉宿</div>
                       <div><strong className="text-stone-800">🚗 アクセス：</strong> 新東名島田金谷ＩＣよりお車にて約３５分／大井川鉄道　川根温泉笹間渡駅より徒歩にて約１０分</div>
                       <div><strong className="text-stone-800">💰 料金目安：</strong> <span className="text-amber-900 font-bold text-sm">1名あたり 15,200円〜</span>（※クーポン利用で実質2,000円）</div>
                     </div>
@@ -314,7 +314,7 @@ export default function FeatureArticlePage() {
                       【PH9.1美女づくりの湯】寸又峡の秘境に佇む温泉旅館。「とろっぬる」露天風呂と山菜・川魚料理を堪能
                     </p>
                     <div className="bg-stone-50 rounded-xl p-4 border border-stone-200/60 text-xs space-y-1.5 text-stone-600">
-                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> 【PH9.1美女づくりの湯】寸又峡の秘境に佇む温泉旅館。「とろっぬる」露天風呂と山菜・川魚料理を堪能...</div>
+                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> 【PH9.1美女づくりの湯】寸又峡の秘境に佇む温泉旅館。「とろっぬる」露天風呂と山菜・川魚料理を堪能</div>
                       <div><strong className="text-stone-800">🚗 アクセス：</strong> 東海道線金谷駅より大井川鉄道で千頭駅下車 寸又峡温泉行きバスにて約60分 / 静岡ICより362号線経由約2時間</div>
                       <div><strong className="text-stone-800">💰 料金目安：</strong> <span className="text-amber-900 font-bold text-sm">1名あたり 9,900円〜</span>（※クーポン利用で実質2,000円）</div>
                     </div>

@@ -552,7 +552,7 @@ export default function Page() {
       {/* フッター */}
       <footer className="bg-slate-900 text-slate-200 py-8 px-4 text-xs text-center border-t border-slate-800 mt-16">
         <div className="max-w-5xl mx-auto space-y-3">
-          <p>© 2026 トラベルポータル All Rights Reserved. 掲載の宿情報・画像は楽天トラベルAPIより取得しています。</p>
+          <p>© 2026 トラベルポータル All Rights Reserved. 掲載の宿情報・画像は楽天トラベル公式データより取得しています。</p>
           <p>ふるさと納税クーポンの利用条件や最新の空室状況は楽天トラベル公式サイトをご確認ください。</p>
         </div>
       </footer>

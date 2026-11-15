@@ -223,7 +223,7 @@ export default function FeatureDetailPage() {
                       <span className="text-xs font-bold text-emerald-600 bg-emerald-50 px-2 py-0.5 rounded border border-emerald-100">楽天高評価</span>
                     </div>
                     <ul className="space-y-1 mb-4 text-xs text-slate-600 bg-slate-50 p-3 rounded-lg">
-                      <li className="flex items-start gap-1"><span className="text-amber-500 shrink-0">•</span><span>秋は釣り＆ハイキングがオススメ！季節の磯料理、海の幸をご堪能ください♪お部屋食OK！…</span></li>
+                      <li className="flex items-start gap-1"><span className="text-amber-500 shrink-0">•</span><span>秋は釣り＆ハイキングがオススメ！季節の磯料理、海の幸をご堪能ください♪お部屋食OK！</span></li>
                       <li className="flex items-start gap-1"><span className="text-amber-500 shrink-0">•</span><span>アクセス: ＪＲ内房線　富浦駅／館山道　富浦ＩＣより５分／アクアライン～１２７号（１時間）</span></li>
                       <li className="flex items-start gap-1"><span className="text-amber-500 shrink-0">•</span><span>楽天トラベル総合評価: ★3.30（レビュー 135件）</span></li>
                     </ul>
@@ -280,7 +280,7 @@ export default function FeatureDetailPage() {
                       <span className="text-xs font-bold text-emerald-600 bg-emerald-50 px-2 py-0.5 rounded border border-emerald-100">楽天高評価</span>
                     </div>
                     <ul className="space-y-1 mb-4 text-xs text-slate-600 bg-slate-50 p-3 rounded-lg">
-                      <li className="flex items-start gap-1"><span className="text-amber-500 shrink-0">•</span><span>食いしん坊に愛を込めて 話題の☆豪華な少食☆公式HPにご褒美いっぱい☆美味しい夢を見てほしい…</span></li>
+                      <li className="flex items-start gap-1"><span className="text-amber-500 shrink-0">•</span><span>食いしん坊に愛を込めて 話題の☆豪華な少食☆公式HPにご褒美いっぱい☆美味しい夢を見てほしい宿です。</span></li>
                       <li className="flex items-start gap-1"><span className="text-amber-500 shrink-0">•</span><span>アクセス: 館山道富浦ＩＣより車で約２５分、ＪＲ千倉駅よりタクシーで３分位、ご宿泊のお客様はお迎えのバスあり（１４時～１８時）</span></li>
                       <li className="flex items-start gap-1"><span className="text-amber-500 shrink-0">•</span><span>楽天トラベル総合評価: ★4.43（レビュー 2532件）</span></li>
                     </ul>
@@ -337,7 +337,7 @@ export default function FeatureDetailPage() {
                       <span className="text-xs font-bold text-emerald-600 bg-emerald-50 px-2 py-0.5 rounded border border-emerald-100">楽天高評価</span>
                     </div>
                     <ul className="space-y-1 mb-4 text-xs text-slate-600 bg-slate-50 p-3 rounded-lg">
-                      <li className="flex items-start gap-1"><span className="text-amber-500 shrink-0">•</span><span>1日4組限定。千葉で唯一の色が変わる源泉掛け流しの硫黄泉や、近海で取れた地魚料理で至福のひと時を。…</span></li>
+                      <li className="flex items-start gap-1"><span className="text-amber-500 shrink-0">•</span><span>1日4組限定。千葉で唯一の色が変わる源泉掛け流しの硫黄泉や、近海で取れた地魚料理で至福のひと時を。</span></li>
                       <li className="flex items-start gap-1"><span className="text-amber-500 shrink-0">•</span><span>アクセス: 【車】岩井駅---施設(10分)。【車】館山自動車道鋸南富山IC---施設(20分)</span></li>
                       <li className="flex items-start gap-1"><span className="text-amber-500 shrink-0">•</span><span>楽天トラベル総合評価: ★4.23（レビュー 26件）</span></li>
                     </ul>

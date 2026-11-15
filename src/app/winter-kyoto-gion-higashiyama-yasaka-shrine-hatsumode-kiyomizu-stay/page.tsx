@@ -332,7 +332,7 @@ export default function KyotoGionHigashiyamaWinterPage() {
             <span className="text-purple-600 font-bold text-xs sm:text-sm tracking-wider uppercase">Refined Accommodations</span>
             <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">祇園＆東山・清水寺周辺で冬を愉しむ名宿5選</h2>
             <p className="text-slate-600 text-xs sm:text-sm">
-              楽天トラベルAPIより最新の空室・料金・口コミデータをリアルタイム取得。冬の古都を雅に彩る至高の5軒を厳選しました。
+              楽天トラベル公式データより最新の空室・料金・口コミデータをリアルタイム取得。冬の古都を雅に彩る至高の5軒を厳選しました。
             </p>
           </div>
 

@@ -5,6 +5,7 @@ import { Metadata } from "next";
 import Link from "next/link";
 import SpecialCouponBanner from "@/app/components/SpecialCouponBanner";
 import FloatingMobileCTA from "@/app/components/FloatingMobileCTA";
+import ShareButtons from "@/app/components/ShareButtons";
 import FeaturesGrid, { FeaturePost } from "./FeaturesGrid";
 
 export const metadata: Metadata = {
@@ -74,6 +75,11 @@ export default async function FeaturesPage() {
           「特別な記念日に行きたい高級旅館」や「赤ちゃん連れでも安心のウェルカムベビーのお宿」「話題のサウナ付き絶景ホテル」など、旅の目的やテーマに合わせて厳選した最高品質のまとめ記事をお届けします。気になるタグをクリックして、あなたにぴったりの旅行プランを見つけてください。
         </p>
       </section>
+
+      <ShareButtons
+        url="https://croud-travel.pages.dev/features/"
+        title="【2026最新】全国旅行・温泉・グルメ・季節の特集記事一覧 ｜ 日本全国・旅宿クラウド"
+      />
 
       {/* 🎁 楽天トラベル公式 お得キャンペーンバナー */}
       <SpecialCouponBanner />
@@ -317,6 +323,12 @@ export default async function FeaturesPage() {
 
       {/* 特集記事グリッド（クライアントコンポーネント） */}
       <FeaturesGrid initialPosts={posts} />
+
+      <ShareButtons
+        url="https://croud-travel.pages.dev/features/"
+        title="【2026最新】全国旅行・温泉・グルメ・季節の特集記事一覧 ｜ 日本全国・旅宿クラウド"
+      />
+
       {/* 特集ハブ用モバイル追従CTAバー */}
       <FloatingMobileCTA
         affiliateUrl="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fcamp%2F50luxday%2Ftop%2F"

@@ -447,7 +447,7 @@ export default function HakubaOnsenWinterPage() {
             <span className="text-xs font-bold text-blue-800 uppercase tracking-widest">Selected Luxury Inns</span>
             <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">【11・12月】白馬山麓温泉の雪見露天とリゾートを極める厳選宿5選</h2>
             <p className="text-sm text-slate-600">
-              楽天トラベルの最新APIデータに基づき、北アルプスと雪森の眺望、源泉露天風呂の湯質、信州牛ディナーや会席、暖炉ラウンジ、口コミ評価で選び抜いた5軒。
+              楽天トラベルの最新宿泊データに基づき、北アルプスと雪森の眺望、源泉露天風呂の湯質、信州牛ディナーや会席、暖炉ラウンジ、口コミ評価で選び抜いた5軒。
             </p>
           </div>
 

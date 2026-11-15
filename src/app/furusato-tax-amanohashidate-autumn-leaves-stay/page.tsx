@@ -180,7 +180,7 @@ export default function FeatureArticlePage() {
                       日本三景天橋立の運河に佇む宿。2023年春サウナ付大浴場誕生。新しい和のリゾートをお楽しみください。
                     </p>
                     <div className="bg-stone-50 rounded-xl p-4 border border-stone-200/60 text-xs space-y-1.5 text-stone-600">
-                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> 日本三景天橋立の運河に佇む宿。2023年春サウナ付大浴場誕生。新しい和のリゾートをお楽しみください。...</div>
+                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> 日本三景天橋立の運河に佇む宿。2023年春サウナ付大浴場誕生。新しい和のリゾートをお楽しみください。</div>
                       <div><strong className="text-stone-800">🚗 アクセス：</strong> 京都丹後鉄道　天橋立駅より徒歩3分</div>
                       <div><strong className="text-stone-800">💰 料金目安：</strong> <span className="text-amber-900 font-bold text-sm">1名あたり 18,700円〜</span>（※クーポン利用で実質2,000円）</div>
                     </div>
@@ -247,7 +247,7 @@ export default function FeatureArticlePage() {
                       客室・大浴場・露天風呂より天橋立を一望していただける天然温泉のお宿：天橋立駅より徒歩1分
                     </p>
                     <div className="bg-stone-50 rounded-xl p-4 border border-stone-200/60 text-xs space-y-1.5 text-stone-600">
-                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> 客室・大浴場・露天風呂より天橋立を一望していただける天然温泉のお宿：天橋立駅より徒歩1分...</div>
+                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> 客室・大浴場・露天風呂より天橋立を一望していただける天然温泉のお宿：天橋立駅より徒歩1分</div>
                       <div><strong className="text-stone-800">🚗 アクセス：</strong> 天橋立駅より徒歩1分／宮津天橋立I.C.より約10分</div>
                       <div><strong className="text-stone-800">💰 料金目安：</strong> <span className="text-amber-900 font-bold text-sm">1名あたり 11,550円〜</span>（※クーポン利用で実質2,000円）</div>
                     </div>
@@ -314,7 +314,7 @@ export default function FeatureArticlePage() {
                       天橋立に１番近い宿。天橋立廻旋橋が目の前にあり、静かに流れる天橋立運河を眺める絶好のロケーション。
                     </p>
                     <div className="bg-stone-50 rounded-xl p-4 border border-stone-200/60 text-xs space-y-1.5 text-stone-600">
-                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> 天橋立に１番近い宿。天橋立廻旋橋が目の前にあり、静かに流れる天橋立運河を眺める絶好のロケーション。...</div>
+                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> 天橋立に１番近い宿。天橋立廻旋橋が目の前にあり、静かに流れる天橋立運河を眺める絶好のロケーション。</div>
                       <div><strong className="text-stone-800">🚗 アクセス：</strong> お車：京都縦貫自動車道宮津天橋立ＩＣより約７分　　電車：京都丹後鉄道　天橋立駅より徒歩約3分です。天橋立の入り口。</div>
                       <div><strong className="text-stone-800">💰 料金目安：</strong> <span className="text-amber-900 font-bold text-sm">1名あたり 27,170円〜</span>（※クーポン利用で実質2,000円）</div>
                     </div>

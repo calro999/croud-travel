@@ -372,7 +372,7 @@ export default function IwateSanrikuMiyakoWinterPage() {
               <span className="text-blue-600 font-bold text-sm tracking-wider uppercase">Featured Accommodations</span>
               <h2 className="text-2xl md:text-3xl font-bold text-slate-900 mt-1">白銀の浄土ヶ浜と三陸海鮮を満喫する厳選宿5選</h2>
               <p className="text-slate-600 text-sm mt-1">
-                楽天トラベルAPIより最新の空室情報・適正宿泊料金・評価スコアを取得。全室オーシャンビューから大浴場完備宿まで厳選。
+                楽天トラベル公式データより最新の空室情報・適正宿泊料金・評価スコアを取得。全室オーシャンビューから大浴場完備宿まで厳選。
               </p>
             </div>
 
@@ -570,7 +570,7 @@ export default function IwateSanrikuMiyakoWinterPage() {
               >
                 <span className="text-amber-400 text-xs font-bold block mb-1">岩手特集</span>
                 <span className="font-bold text-sm block mb-1">盛岡＆繋温泉！岩手山雪景色と前沢牛・いわて牛名宿</span>
-                <span className="text-xs text-slate-300">盛岡の奥座敷・繋温泉の源泉と名牛ステーキ…</span>
+                <span className="text-xs text-slate-300">盛岡の奥座敷・繋温泉の源泉と名牛ステーキ</span>
               </Link>
               <Link
                 href="/winter-iwate-hiraizumi-chusonji-geibikei-maesawagyu-stay/"
@@ -578,7 +578,7 @@ export default function IwateSanrikuMiyakoWinterPage() {
               >
                 <span className="text-emerald-400 text-xs font-bold block mb-1">岩手特集</span>
                 <span className="font-bold text-sm block mb-1">平泉＆猊鼻渓！中尊寺金色堂初詣と雪見こたつ舟名宿</span>
-                <span className="text-xs text-slate-300">世界遺産平泉の新春初詣と猊鼻渓の冬情趣…</span>
+                <span className="text-xs text-slate-300">世界遺産平泉の新春初詣と猊鼻渓の冬情趣</span>
               </Link>
               <Link
                 href="/winter-aomori-hachinohe-kabushima-ginsaba-senbeijiru-stay/"
@@ -586,7 +586,7 @@ export default function IwateSanrikuMiyakoWinterPage() {
               >
                 <span className="text-cyan-400 text-xs font-bold block mb-1">青森特集</span>
                 <span className="font-bold text-sm block mb-1">八戸＆蕪島！冬の前沖銀サバと館鼻岸壁・せんべい汁名宿</span>
-                <span className="text-xs text-slate-300">三陸北端の港町八戸の絶品銀サバと朝市…</span>
+                <span className="text-xs text-slate-300">三陸北端の港町八戸の絶品銀サバと朝市</span>
               </Link>
               <Link
                 href="/winter-miyagi-kesennuma-minamisanriku-mekajiki-ikuradon-stay/"
@@ -594,7 +594,7 @@ export default function IwateSanrikuMiyakoWinterPage() {
               >
                 <span className="text-rose-400 text-xs font-bold block mb-1">宮城特集</span>
                 <span className="font-bold text-sm block mb-1">気仙沼＆南三陸！冬の極上メカジキと太平洋絶景名宿</span>
-                <span className="text-xs text-slate-300">三陸南部の冬の主役メカジキしゃぶしゃぶ…</span>
+                <span className="text-xs text-slate-300">三陸南部の冬の主役メカジキしゃぶしゃぶ</span>
               </Link>
               <Link
                 href="/features/"
@@ -602,7 +602,7 @@ export default function IwateSanrikuMiyakoWinterPage() {
               >
                 <span className="text-purple-400 text-xs font-bold block mb-1">特集一覧</span>
                 <span className="font-bold text-sm block mb-1">全国の冬シーズン・年末年始旅行特集一覧</span>
-                <span className="text-xs text-slate-300">全国各地の厳選温泉・初詣・冬の味覚特集を網羅…</span>
+                <span className="text-xs text-slate-300">全国各地の厳選温泉・初詣・冬の味覚特集を網羅</span>
               </Link>
               <Link
                 href="/"
@@ -610,7 +610,7 @@ export default function IwateSanrikuMiyakoWinterPage() {
               >
                 <span className="text-blue-400 text-xs font-bold block mb-1">トップページ</span>
                 <span className="font-bold text-sm block mb-1">旅クラウド | 国内旅行・ホテル予約比較</span>
-                <span className="text-xs text-slate-300">楽天トラベルAPIと連携した安心の宿泊予約ポータル…</span>
+                <span className="text-xs text-slate-300">楽天トラベル公式データと連携した安心の宿泊予約ポータル</span>
               </Link>
             </div>
           </section>

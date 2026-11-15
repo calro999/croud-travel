@@ -294,7 +294,7 @@ export default function ShigaTakashimaMakinoWinterPage() {
             <h2 className="text-xl sm:text-3xl font-bold text-slate-900 flex items-center gap-2"><Building className="w-6 h-6 text-emerald-500 shrink-0" />
               高島＆マキノ・湖西エリアで泊まりたい冬の厳選名宿5選</h2>
             <p className="text-slate-500 text-xs sm:text-sm mt-2">
-              ※楽天トラベルの最新APIデータを反映。メタセコイア並木至近のリゾート、秘湯の鴨鍋旅館、おごと温泉の極上宿を厳選。
+              ※楽天トラベルの最新宿泊データを反映。メタセコイア並木至近のリゾート、秘湯の鴨鍋旅館、おごと温泉の極上宿を厳選。
             </p>
           </div>
 

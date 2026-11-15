@@ -180,7 +180,7 @@ export default function FeatureArticlePage() {
                       道内では珍しい民芸調の宿屋、館内には囲炉裏があり、田舎情緒たっぷり。
                     </p>
                     <div className="bg-stone-50 rounded-xl p-4 border border-stone-200/60 text-xs space-y-1.5 text-stone-600">
-                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> 道内では珍しい民芸調の宿屋、館内には囲炉裏があり、田舎情緒たっぷり。...</div>
+                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> 道内では珍しい民芸調の宿屋、館内には囲炉裏があり、田舎情緒たっぷり。</div>
                       <div><strong className="text-stone-800">🚗 アクセス：</strong> じょうてつバス定山渓線定山渓湯の町下車すぐ。無料送迎バス毎日１便運行／大通西１丁目テレビ塔北向かい出発。事前予約制。</div>
                       <div><strong className="text-stone-800">💰 料金目安：</strong> <span className="text-amber-900 font-bold text-sm">1名あたり 16,800円〜</span>（※クーポン利用で実質2,000円）</div>
                     </div>
@@ -247,7 +247,7 @@ export default function FeatureArticlePage() {
                       定山渓屈指の眺望とラウンジサービスの「蜂蜜バイキング」が大好評！
                     </p>
                     <div className="bg-stone-50 rounded-xl p-4 border border-stone-200/60 text-xs space-y-1.5 text-stone-600">
-                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> 定山渓屈指の眺望とラウンジサービスの「蜂蜜バイキング」が大好評！...</div>
+                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> 定山渓屈指の眺望とラウンジサービスの「蜂蜜バイキング」が大好評！</div>
                       <div><strong className="text-stone-800">🚗 アクセス：</strong> 札幌駅より片道1000円で送迎バス運行！要予約・運休日有／札幌中心部より車で約50分、駐車場有</div>
                       <div><strong className="text-stone-800">💰 料金目安：</strong> <span className="text-amber-900 font-bold text-sm">1名あたり 24,750円〜</span>（※クーポン利用で実質2,000円）</div>
                     </div>
@@ -314,7 +314,7 @@ export default function FeatureArticlePage() {
                       「体の内外からキレイになる」がコンセプト。身体にやさしいお料理とエステで自分にご褒美を。
                     </p>
                     <div className="bg-stone-50 rounded-xl p-4 border border-stone-200/60 text-xs space-y-1.5 text-stone-600">
-                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> 「体の内外からキレイになる」がコンセプト。身体にやさしいお料理とエステで自分にご褒美を。...</div>
+                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> 「体の内外からキレイになる」がコンセプト。身体にやさしいお料理とエステで自分にご褒美を。</div>
                       <div><strong className="text-stone-800">🚗 アクセス：</strong> 札幌より無料送迎バス運行（要予約） ／ＪＲ札幌駅より車で60分／新千歳空港より車で約2時間</div>
                       <div><strong className="text-stone-800">💰 料金目安：</strong> <span className="text-amber-900 font-bold text-sm">1名あたり 12,590円〜</span>（※クーポン利用で実質2,000円）</div>
                     </div>

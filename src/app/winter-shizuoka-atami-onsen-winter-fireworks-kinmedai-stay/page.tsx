@@ -470,7 +470,7 @@ export default function AtamiOnsenWinterPage() {
             <span className="text-xs font-bold text-cyan-800 uppercase tracking-widest">Selected Luxury Inns</span>
             <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">【11・12月】熱海温泉の冬花火と絶景を約束する厳選名宿5選</h2>
             <p className="text-sm text-slate-600">
-              楽天トラベルの最新APIデータに基づき、相模湾のオーシャンビュー、花火観覧の好立地、金目鯛姿煮会席、宿泊者レビュー評価で選び抜いた5軒。
+              楽天トラベルの最新宿泊データに基づき、相模湾のオーシャンビュー、花火観覧の好立地、金目鯛姿煮会席、宿泊者レビュー評価で選び抜いた5軒。
             </p>
           </div>
 

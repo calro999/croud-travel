@@ -449,7 +449,7 @@ export default function HyogoTakarazukaWinterPage() {
             <span className="text-rose-400 font-bold text-sm tracking-widest uppercase">HOTEL & RYOKAN SELECTION</span>
             <h2 className="text-2xl md:text-4xl font-black mt-2 mb-4 font-journal-serif">宝塚観劇・武田尾秘湯に選ばれる厳選名宿5選</h2>
             <p className="text-slate-300 text-sm md:text-base leading-relaxed">
-              楽天トラベルAPIから最新の空室状況・宿泊プラン・宿泊者評価を直接取得。隈研吾氏設計の絶景離れ宿から大劇場オフィシャルホテル、老舗温泉宿まで厳選しました。
+              楽天トラベル公式データから最新の空室状況・宿泊プラン・宿泊者評価を直接取得。隈研吾氏設計の絶景離れ宿から大劇場オフィシャルホテル、老舗温泉宿まで厳選しました。
             </p>
           </div>
 
@@ -637,7 +637,7 @@ export default function HyogoTakarazukaWinterPage() {
       <footer className="bg-slate-950 text-slate-400 py-8 px-4 text-center text-xs">
         <p>© 2026 旅宿クラウド (croud-travel.pages.dev). All rights reserved.</p>
         <p className="mt-1 text-slate-500">
-          ※本記事に掲載している宿泊施設情報、価格、評価、公演スケジュール等は、楽天トラベルAPIおよび公式サイトの最新データに基づいています。冬期の初詣参拝時間や劇場の休演日は変更となる場合がありますので、お出かけ前にご確認ください。
+          ※本記事に掲載している宿泊施設情報、価格、評価、公演スケジュール等は、楽天トラベル公式データおよび公式サイトの最新データに基づいています。冬期の初詣参拝時間や劇場の休演日は変更となる場合がありますので、お出かけ前にご確認ください。
         </p>
       </footer>
     </article>

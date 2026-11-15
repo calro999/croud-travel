@@ -372,7 +372,7 @@ export default function SaitamaNagatoroWinterPage() {
               <span className="text-amber-600 font-bold text-sm tracking-wider uppercase">Recommended Accommodations</span>
               <h2 className="text-2xl md:text-3xl font-bold text-slate-900 mt-1">宝登山初詣と長瀞こたつ舟・武州和牛を愉しむ厳選名宿5選</h2>
               <p className="text-slate-600 text-sm mt-1">
-                楽天トラベルAPIから最新の空室状況・宿泊プラン・宿泊者レビューをリアルタイム取得して厳選紹介しています。
+                楽天トラベル公式データから最新の空室状況・宿泊プラン・宿泊者レビューをリアルタイム取得して厳選紹介しています。
               </p>
             </div>
 
@@ -570,7 +570,7 @@ export default function SaitamaNagatoroWinterPage() {
               >
                 <span className="text-amber-400 text-xs font-bold block mb-1">秩父特集</span>
                 <span className="font-bold text-sm block mb-1">秩父夜祭と名湯温泉・武州和牛を味わう冬旅</span>
-                <span className="text-xs text-slate-300">日本三大曳山祭りの熱気と秩父温泉郷の名宿…</span>
+                <span className="text-xs text-slate-300">日本三大曳山祭りの熱気と秩父温泉郷の名宿</span>
               </Link>
               <Link
                 href="/features/"
@@ -578,7 +578,7 @@ export default function SaitamaNagatoroWinterPage() {
               >
                 <span className="text-cyan-400 text-xs font-bold block mb-1">特集一覧</span>
                 <span className="font-bold text-sm block mb-1">全国の冬シーズン・年末年始旅行特集一覧</span>
-                <span className="text-xs text-slate-300">全国47都道府県の厳選温泉・初詣・冬の味覚特集を網羅…</span>
+                <span className="text-xs text-slate-300">全国47都道府県の厳選温泉・初詣・冬の味覚特集を網羅</span>
               </Link>
               <Link
                 href="/"
@@ -586,7 +586,7 @@ export default function SaitamaNagatoroWinterPage() {
               >
                 <span className="text-emerald-400 text-xs font-bold block mb-1">トップページ</span>
                 <span className="font-bold text-sm block mb-1">旅クラウド | 国内旅行・ホテル予約比較</span>
-                <span className="text-xs text-slate-300">楽天トラベルAPIと連携した安心の宿泊予約ポータル…</span>
+                <span className="text-xs text-slate-300">楽天トラベル公式データと連携した安心の宿泊予約ポータル</span>
               </Link>
             </div>
           </section>

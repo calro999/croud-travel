@@ -616,7 +616,7 @@ export default function GlampingHubPage() {
                 <h2 className="font-journal-serif text-xl md:text-2xl font-bold text-slate-900 mt-0.5">グランピング施設ピックアップ</h2>
               </div>
               <span className="text-xs text-slate-500 bg-slate-100 px-3 py-1.5 rounded-full self-start md:self-auto">
-                楽天トラベルAPI取得データ
+                楽天トラベル公式データ取得データ
               </span>
             </div>
 

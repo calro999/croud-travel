@@ -296,7 +296,7 @@ export default function GunmaManzaWinterPage() {
             <span className="text-cyan-600 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Verified Accommodations</span>
             <h2 className="text-xl sm:text-3xl font-bold text-slate-900">極上の雪見にごり湯と星空を味わう万座温泉の名宿5選</h2>
             <p className="text-slate-500 text-xs sm:text-sm mt-1">
-              楽天トラベルAPIより最新の空室・プラン情報、クチコミ評価を取得。泉質・露天風呂の眺望・料理に優れた宿を厳選
+              楽天トラベル公式データより最新の空室・プラン情報、クチコミ評価を取得。泉質・露天風呂の眺望・料理に優れた宿を厳選
             </p>
           </div>
 

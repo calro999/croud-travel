@@ -298,7 +298,7 @@ export default function AkitaYokoteOyasukyoWinterPage() {
             <h2 className="text-xl sm:text-3xl font-bold text-slate-900 flex items-center gap-2"><Building className="w-6 h-6 text-blue-500 shrink-0" />
               横手＆湯沢・小安峡で泊まりたい冬の厳選宿5選</h2>
             <p className="text-slate-500 text-xs sm:text-sm mt-2">
-              ※楽天トラベルの最新APIデータを反映。駅前天然温泉、秋田杉の名湯、幻の皆瀬牛、文人ゆかりの極上離れ宿を厳選。
+              ※楽天トラベルの最新宿泊データを反映。駅前天然温泉、秋田杉の名湯、幻の皆瀬牛、文人ゆかりの極上離れ宿を厳選。
             </p>
           </div>
 

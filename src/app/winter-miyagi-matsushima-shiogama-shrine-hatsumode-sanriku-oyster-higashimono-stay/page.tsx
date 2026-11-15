@@ -434,7 +434,7 @@ export default function MiyagiMatsushimaWinterPage() {
             <span className="text-xs font-bold text-cyan-700 uppercase tracking-widest block">RECOMMENDED ACCOMMODATIONS</span>
             <h2 className="text-2xl md:text-3xl font-black text-slate-900 font-journal-serif">松島雪景色＆鹽竈神社初詣・三陸牡蠣を満喫する厳選名宿5選</h2>
             <p className="text-xs md:text-sm text-slate-600 leading-relaxed">
-              楽天トラベルAPIから最新の空室状況・評価を取得。水上庭園のオールインクルーシブから福浦橋望む絶景宿、駅近温泉ホテルまで網羅。
+              楽天トラベル公式データから最新の空室状況・評価を取得。水上庭園のオールインクルーシブから福浦橋望む絶景宿、駅近温泉ホテルまで網羅。
             </p>
           </div>
 
@@ -685,7 +685,7 @@ export default function MiyagiMatsushimaWinterPage() {
       {/* Footer */}
       <footer className="bg-slate-900 text-slate-200 py-10 px-4 text-center text-xs border-t border-slate-800 mt-16">
         <p>© 2026 旅宿クラウド (croud-travel.pages.dev). All rights reserved.</p>
-        <p className="mt-2 text-slate-500">掲載の宿泊料金や施設情報は楽天トラベルAPIより取得した参考データです。最新のプラン内容は各宿泊施設ページをご確認ください。</p>
+        <p className="mt-2 text-slate-500">掲載の宿泊料金や施設情報は楽天トラベル公式データより取得した参考データです。最新のプラン内容は各宿泊施設ページをご確認ください。</p>
       </footer>
     </article>
   );

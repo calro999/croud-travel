@@ -335,7 +335,7 @@ export default function KanazawaCityWinterPage() {
             <span className="text-rose-600 font-bold text-xs sm:text-sm tracking-wider uppercase">Handpicked Hotels</span>
             <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">冬の金沢を満喫する厳選名宿5選</h2>
             <p className="text-sm text-slate-600">
-              楽天トラベルAPIから最新取得した、金沢駅直結・近江町市場徒歩圏・自家源泉完備の信頼宿
+              楽天トラベル公式データから最新取得した、金沢駅直結・近江町市場徒歩圏・自家源泉完備の信頼宿
             </p>
           </div>
 

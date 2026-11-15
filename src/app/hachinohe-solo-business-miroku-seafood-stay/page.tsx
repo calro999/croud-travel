@@ -100,7 +100,7 @@ export default function ArticlePage() {
         <div className="space-y-10">
           <div className="border-l-4 border-amber-800 pl-4 py-1">
             <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900">編集部が厳選！おすすめの極上宿・ホテル詳細</h2>
-            <p className="text-xs sm:text-sm text-stone-500 mt-1">楽天トラベルの最新APIデータを反映。口コミ高評価＆こだわり設備を徹底チェック
+            <p className="text-xs sm:text-sm text-stone-500 mt-1">楽天トラベルの最新宿泊データを反映。口コミ高評価＆こだわり設備を徹底チェック
             </p>
           </div>
 

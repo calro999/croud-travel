@@ -447,7 +447,7 @@ export default function KawaguchikoOnsenWinterPage() {
             <span className="text-xs font-bold text-indigo-800 uppercase tracking-widest">Selected Luxury Inns</span>
             <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">【11・12月】富士山ビューと名湯を極める厳選宿5選</h2>
             <p className="text-sm text-slate-600">
-              楽天トラベルの最新APIデータに基づき、富士山と河口湖の眺望、源泉露天風呂の開放感、甲州牛会席やディナー、宿泊者レビュー評価で選び抜いた名宿。
+              楽天トラベルの最新宿泊データに基づき、富士山と河口湖の眺望、源泉露天風呂の開放感、甲州牛会席やディナー、宿泊者レビュー評価で選び抜いた名宿。
             </p>
           </div>
 

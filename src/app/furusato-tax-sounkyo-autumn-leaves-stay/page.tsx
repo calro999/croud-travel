@@ -180,7 +180,7 @@ export default function FeatureArticlePage() {
                       ２種の源泉「白濁の湯」と「赤茶の湯」は層雲峡エリアで当館だけ！貸切風呂と岩盤浴も利用できます。
                     </p>
                     <div className="bg-stone-50 rounded-xl p-4 border border-stone-200/60 text-xs space-y-1.5 text-stone-600">
-                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> ２種の源泉「白濁の湯」と「赤茶の湯」は層雲峡エリアで当館だけ！貸切風呂と岩盤浴も利用できます。...</div>
+                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> ２種の源泉「白濁の湯」と「赤茶の湯」は層雲峡エリアで当館だけ！貸切風呂と岩盤浴も利用できます。</div>
                       <div><strong className="text-stone-800">🚗 アクセス：</strong> JR上川駅下車　道北バスで約３０分/札幌・旭川発の送迎バス運行（迄）</div>
                       <div><strong className="text-stone-800">💰 料金目安：</strong> <span className="text-amber-900 font-bold text-sm">1名あたり 13,200円〜</span>（※クーポン利用で実質2,000円）</div>
                     </div>
@@ -247,7 +247,7 @@ export default function FeatureArticlePage() {
                       大雪山ならではの天然素材を使った料理と肌触りがやわらかな100%源泉掛け流しの天然温泉が自慢
                     </p>
                     <div className="bg-stone-50 rounded-xl p-4 border border-stone-200/60 text-xs space-y-1.5 text-stone-600">
-                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> 大雪山ならではの天然素材を使った料理と肌触りがやわらかな100%源泉掛け流しの天然温泉が自慢...</div>
+                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> 大雪山ならではの天然素材を使った料理と肌触りがやわらかな100%源泉掛け流しの天然温泉が自慢</div>
                       <div><strong className="text-stone-800">🚗 アクセス：</strong> ＪＲ函館本線旭川駅で乗換、石北本線上川駅下車バスで３０分</div>
                       <div><strong className="text-stone-800">💰 料金目安：</strong> <span className="text-amber-900 font-bold text-sm">1名あたり 5,350円〜</span>（※クーポン利用で実質2,000円）</div>
                     </div>
@@ -314,7 +314,7 @@ export default function FeatureArticlePage() {
                       「最上階天空露天風呂」からは四季折々の渓谷と、満天の星空をお楽しみいただけます。
                     </p>
                     <div className="bg-stone-50 rounded-xl p-4 border border-stone-200/60 text-xs space-y-1.5 text-stone-600">
-                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> 「最上階天空露天風呂」からは四季折々の渓谷と、満天の星空をお楽しみいただけます。...</div>
+                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> 「最上階天空露天風呂」からは四季折々の渓谷と、満天の星空をお楽しみいただけます。</div>
                       <div><strong className="text-stone-800">🚗 アクセス：</strong> 上川層雲峡ICよりR39号線を北見方面に車で25分/JR上川駅よりバスで30分/札幌旭川送迎バス運行（3/31迄・要予約</div>
                       <div><strong className="text-stone-800">💰 料金目安：</strong> <span className="text-amber-900 font-bold text-sm">1名あたり 14,740円〜</span>（※クーポン利用で実質2,000円）</div>
                     </div>

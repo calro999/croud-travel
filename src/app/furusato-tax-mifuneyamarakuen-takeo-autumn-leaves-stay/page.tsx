@@ -180,7 +180,7 @@ export default function FeatureArticlePage() {
                       １５万坪の雄大な敷地に自然と四季の花が溢れています。
                     </p>
                     <div className="bg-stone-50 rounded-xl p-4 border border-stone-200/60 text-xs space-y-1.5 text-stone-600">
-                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> １５万坪の雄大な敷地に自然と四季の花が溢れています。...</div>
+                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> １５万坪の雄大な敷地に自然と四季の花が溢れています。</div>
                       <div><strong className="text-stone-800">🚗 アクセス：</strong> JR佐世保線「武雄温泉駅」より車で５分 / 長崎自動車道 武雄・北方ICより嬉野方面へ約５km</div>
                       <div><strong className="text-stone-800">💰 料金目安：</strong> <span className="text-amber-900 font-bold text-sm">1名あたり 21,350円〜</span>（※クーポン利用で実質2,000円）</div>
                     </div>
@@ -247,7 +247,7 @@ export default function FeatureArticlePage() {
                       古き良き大正時代を思わせる宿。無料モーニングサービスあり。25年6月男女大浴場にドライサウナ新設
                     </p>
                     <div className="bg-stone-50 rounded-xl p-4 border border-stone-200/60 text-xs space-y-1.5 text-stone-600">
-                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> 古き良き大正時代を思わせる宿。無料モーニングサービスあり。25年6月男女大浴場にドライサウナ新設...</div>
+                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> 古き良き大正時代を思わせる宿。無料モーニングサービスあり。25年6月男女大浴場にドライサウナ新設</div>
                       <div><strong className="text-stone-800">🚗 アクセス：</strong> JR佐世保線武雄温泉駅下車徒歩8分</div>
                       <div><strong className="text-stone-800">💰 料金目安：</strong> <span className="text-amber-900 font-bold text-sm">1名あたり 6,480円〜</span>（※クーポン利用で実質2,000円）</div>
                     </div>
@@ -314,7 +314,7 @@ export default function FeatureArticlePage() {
                       もっと佐賀旅クーポン配布中！『料理の鉄人』に出演した主人が織り成す本格懐石料理。
                     </p>
                     <div className="bg-stone-50 rounded-xl p-4 border border-stone-200/60 text-xs space-y-1.5 text-stone-600">
-                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> もっと佐賀旅クーポン配布中！『料理の鉄人』に出演した主人が織り成す本格懐石料理。...</div>
+                      <div><strong className="text-stone-800">♨️ 特徴・魅力：</strong> もっと佐賀旅クーポン配布中！『料理の鉄人』に出演した主人が織り成す本格懐石料理。</div>
                       <div><strong className="text-stone-800">🚗 アクセス：</strong> 長崎自動車道武雄北方ＩＣより国道３４号線経由で５㎞、又はＪＲ佐世保線武雄温泉駅下車徒歩１２分</div>
                       <div><strong className="text-stone-800">💰 料金目安：</strong> <span className="text-amber-900 font-bold text-sm">1名あたり 24,800円〜</span>（※クーポン利用で実質2,000円）</div>
                     </div>
