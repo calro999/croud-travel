@@ -1,0 +1,1007 @@
+{
+  "currentMonth": "2026-11",
+  "themes": [
+    {
+      "id": "nov-furusato-luxury",
+      "slug": "furusato-tax-november-luxury-retreat",
+      "month": "2026-11",
+      "monthLabel": "11月",
+      "title": "【12月の駆け込み回避】11月こそ狙い目！楽天ふるさと納税で賢く泊まる憧れの高級宿",
+      "subTitle": "年内駆け込みの争奪戦前にゆっくり選ぶ。実質2,000円で叶える露天風呂付き客室と最高峰のおもてなし",
+      "lead": "12月末のふるさと納税駆け込み時期は人気日程の予約が即完売しがち。11月中にトラベルクーポンを確保し、憧れのハイクラス温泉旅館やリゾートホテルを先手必勝で押さえるのが大人の賢い旅スタイルです。評価★4.4以上の極上宿を厳選。",
+      "heroImage": "https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1200&q=80",
+      "keywords": [
+        "ふるさと納税",
+        "高級宿",
+        "温泉旅館",
+        "楽天トラベル",
+        "11月旅行",
+        "客室露天風呂"
+      ],
+      "searchQueries": [
+        "ふるさと納税 温泉",
+        "ふるさと納税 露天風呂",
+        "ふるさと納税 高級",
+        "ふるさと納税 旅館"
+      ],
+      "updatedAt": "2026-11-16 17:52",
+      "hotels": [
+        {
+          "hotelNo": 14124,
+          "hotelName": "ペンションマーガレット",
+          "rating": 5.0,
+          "minCharge": 4600,
+          "address": "静岡県 伊東市池614-179　南大室台5-10",
+          "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/14124/14124.jpg",
+          "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/14124/14124_w.jpg",
+          "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D14124",
+          "catchCopy": "天然温泉岩風呂（24時間〇貸切〇）眺望抜群なジャグジー露天風呂☆",
+          "specialHighlight": "天然温泉岩風呂（24時間〇貸切〇）眺望抜群なジャグジー露天風呂☆彡全館禁煙★WIFI完備",
+          "expertReview": "静岡県 伊東市池614-179　南大室台5-10に位置する人気宿。天然温泉岩風呂（24時間〇貸切〇）眺望抜群なジャグジー露天風呂☆彡全館禁煙★WIFI完備。旬の味覚と心地よい温泉で、特別な旅の時間を心ゆくまで堪能できます。",
+          "planHighlights": [
+            "天然温泉",
+            "絶品会席",
+            "楽天トラベル高評価"
+          ],
+          "addedAt": "2026-11-16 17:52"
+        },
+        {
+          "hotelNo": 108154,
+          "hotelName": "鷹ノ巣温泉　四季の郷　喜久屋",
+          "rating": 4.9,
+          "minCharge": 19800,
+          "address": "新潟県 岩船郡関川村湯沢1076-1",
+          "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/108154/108154.jpg",
+          "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/108154/108154_wst.jpg",
+          "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D108154",
+          "catchCopy": "露天風呂付離れ家・天然温泉かけ流しの宿、本物の山菜・摘み草料理を",
+          "specialHighlight": "露天風呂付離れ家・天然温泉かけ流しの宿、本物の山菜・摘み草料理を存分にお楽しみ下さい。",
+          "expertReview": "新潟県 岩船郡関川村湯沢1076-1に位置する人気宿。露天風呂付離れ家・天然温泉かけ流しの宿、本物の山菜・摘み草料理を存分にお楽しみ下さい。。旬の味覚と心地よい温泉で、特別な旅の時間を心ゆくまで堪能できます。",
+          "planHighlights": [
+            "天然温泉",
+            "絶品会席",
+            "楽天トラベル高評価"
+          ],
+          "addedAt": "2026-11-16 17:52"
+        },
+        {
+          "hotelNo": 31754,
+          "hotelName": "伊豆今井浜温泉　今井荘",
+          "rating": 4.71,
+          "minCharge": 26950,
+          "address": "静岡県 賀茂郡河津町見高127",
+          "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/31754/31754.jpg",
+          "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/31754/31754_room.jpg",
+          "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D31754",
+          "catchCopy": "2024年8月フルリニューアルオープン！「海まで0分」の立地と「",
+          "specialHighlight": "2024年8月フルリニューアルオープン！「海まで0分」の立地と「オールインクルーシブ」をご堪能下さい",
+          "expertReview": "静岡県 賀茂郡河津町見高127に位置する人気宿。2024年8月フルリニューアルオープン！「海まで0分」の立地と「オールインクルーシブ」をご堪能下さい。旬の味覚と心地よい温泉で、特別な旅の時間を心ゆくまで堪能できます。",
+          "planHighlights": [
+            "天然温泉",
+            "絶品会席",
+            "楽天トラベル高評価"
+          ],
+          "addedAt": "2026-11-16 17:52"
+        },
+        {
+          "hotelNo": 179211,
+          "hotelName": "民宿　神楽の館",
+          "rating": 4.6,
+          "minCharge": 7150,
+          "address": "宮崎県 西臼杵郡高千穂町岩戸58",
+          "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/179211/179211.jpg",
+          "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/179211/179211_kan1.jpg",
+          "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D179211",
+          "catchCopy": "高千穂牛を味わえる宿。戸を開けると、そこには神楽が舞う神秘な場所",
+          "specialHighlight": "高千穂牛を味わえる宿。戸を開けると、そこには神楽が舞う神秘な場所。天岩戸神社まで車で１０分。",
+          "expertReview": "宮崎県 西臼杵郡高千穂町岩戸58に位置する人気宿。高千穂牛を味わえる宿。戸を開けると、そこには神楽が舞う神秘な場所。天岩戸神社まで車で１０分。。旬の味覚と心地よい温泉で、特別な旅の時間を心ゆくまで堪能できます。",
+          "planHighlights": [
+            "天然温泉",
+            "絶品会席",
+            "楽天トラベル高評価"
+          ],
+          "addedAt": "2026-11-16 17:52"
+        },
+        {
+          "hotelNo": 40312,
+          "hotelName": "山中温泉　白鷺湯たわらや",
+          "rating": 4.55,
+          "minCharge": 9900,
+          "address": "石川県 加賀市山中温泉東町２丁目ヘ-1",
+          "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/40312/40312.jpg",
+          "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/40312/40312_ya.jpg",
+          "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D40312",
+          "catchCopy": "【2023年4月・露天風呂付特別室OPEN】創業800年/老舗/",
+          "specialHighlight": "【2023年4月・露天風呂付特別室OPEN】創業800年/老舗/渓流露天風呂/蟹/のどぐろ/能登牛",
+          "expertReview": "石川県 加賀市山中温泉東町２丁目ヘ-1に位置する人気宿。【2023年4月・露天風呂付特別室OPEN】創業800年/老舗/渓流露天風呂/蟹/のどぐろ/能登牛。旬の味覚と心地よい温泉で、特別な旅の時間を心ゆくまで堪能できます。",
+          "planHighlights": [
+            "天然温泉",
+            "絶品会席",
+            "楽天トラベル高評価"
+          ],
+          "addedAt": "2026-11-16 17:52"
+        },
+        {
+          "hotelNo": 142601,
+          "hotelName": "全室オーシャンフロントの宿　河津温泉郷　海遊亭",
+          "rating": 4.52,
+          "minCharge": 12127,
+          "address": "静岡県 賀茂郡河津町浜64-1-1",
+          "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/142601/142601.jpg",
+          "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/142601/142601_meal.jpg",
+          "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D142601",
+          "catchCopy": "2025年1月リニューアルオープン◆全室オーシャンフロントの12",
+          "specialHighlight": "2025年1月リニューアルオープン◆全室オーシャンフロントの12室。こだわりの新鮮な海の幸",
+          "expertReview": "静岡県 賀茂郡河津町浜64-1-1に位置する人気宿。2025年1月リニューアルオープン◆全室オーシャンフロントの12室。こだわりの新鮮な海の幸。旬の味覚と心地よい温泉で、特別な旅の時間を心ゆくまで堪能できます。",
+          "planHighlights": [
+            "天然温泉",
+            "絶品会席",
+            "楽天トラベル高評価"
+          ],
+          "addedAt": "2026-11-16 17:52"
+        },
+        {
+          "hotelNo": 9104,
+          "hotelName": "洲本温泉　淡路インターナショナルホテル　ザ・サンプラザ　＜淡路島＞",
+          "rating": 4.45,
+          "minCharge": 16500,
+          "address": "兵庫県 洲本市小路谷1279-13",
+          "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/9104/9104.jpg",
+          "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/9104/9104_w.jpg",
+          "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D9104",
+          "catchCopy": "海を一望するオーシャンビューに包まれ、四季の移ろいを五感で味わう",
+          "specialHighlight": "海を一望するオーシャンビューに包まれ、四季の移ろいを五感で味わう、特別な旅を。洲本温泉うるおいの湯。",
+          "expertReview": "兵庫県 洲本市小路谷1279-13に位置する人気宿。海を一望するオーシャンビューに包まれ、四季の移ろいを五感で味わう、特別な旅を。洲本温泉うるおいの湯。。旬の味覚と心地よい温泉で、特別な旅の時間を心ゆくまで堪能できます。",
+          "planHighlights": [
+            "天然温泉",
+            "絶品会席",
+            "楽天トラベル高評価"
+          ],
+          "addedAt": "2026-11-16 17:52"
+        },
+        {
+          "hotelNo": 52877,
+          "hotelName": "土出温泉　尾瀬岩鞍リゾートホテル",
+          "rating": 4.34,
+          "minCharge": 13400,
+          "address": "群馬県 利根郡片品村土出2609",
+          "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/52877/52877.jpg",
+          "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/52877/52877_yo.jpg",
+          "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D52877",
+          "catchCopy": "★ゲレンデはすぐそこ・・・　フロント、ラウンジ、スキーロッカー室",
+          "specialHighlight": "★ゲレンデはすぐそこ・・・　フロント、ラウンジ、スキーロッカー室、更衣室などがリニューアル！",
+          "expertReview": "群馬県 利根郡片品村土出2609に位置する人気宿。★ゲレンデはすぐそこ・・・　フロント、ラウンジ、スキーロッカー室、更衣室などがリニューアル！。旬の味覚と心地よい温泉で、特別な旅の時間を心ゆくまで堪能できます。",
+          "planHighlights": [
+            "天然温泉",
+            "絶品会席",
+            "楽天トラベル高評価"
+          ],
+          "addedAt": "2026-11-16 17:52"
+        },
+        {
+          "hotelNo": 1675,
+          "hotelName": "淡路島洲本温泉　海月舘",
+          "rating": 4.33,
+          "minCharge": 6600,
+          "address": "兵庫県 洲本市海岸通1-3-11",
+          "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/1675/1675.jpg",
+          "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/1675/1675_heya.jpg",
+          "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D1675",
+          "catchCopy": "《楽天アワード１２年連続受賞の温泉宿≫赤ちゃんお子様歓迎の宿☆立",
+          "specialHighlight": "《楽天アワード１２年連続受賞の温泉宿≫赤ちゃんお子様歓迎の宿☆立地条件№１☆ビーチ目の前☆",
+          "expertReview": "兵庫県 洲本市海岸通1-3-11に位置する人気宿。《楽天アワード１２年連続受賞の温泉宿≫赤ちゃんお子様歓迎の宿☆立地条件№１☆ビーチ目の前☆。旬の味覚と心地よい温泉で、特別な旅の時間を心ゆくまで堪能できます。",
+          "planHighlights": [
+            "天然温泉",
+            "絶品会席",
+            "楽天トラベル高評価"
+          ],
+          "addedAt": "2026-11-16 17:52"
+        },
+        {
+          "hotelNo": 4698,
+          "hotelName": "坂聖・玉樟園",
+          "rating": 4.22,
+          "minCharge": 10800,
+          "address": "静岡県 伊豆市土肥284-2",
+          "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/4698/4698.jpg",
+          "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/4698/4698_bas.jpg",
+          "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D4698",
+          "catchCopy": "和の伝統の日本庭園と源泉かけ流しの温泉に癒される。歴史と文化に触",
+          "specialHighlight": "和の伝統の日本庭園と源泉かけ流しの温泉に癒される。歴史と文化に触れる至福なひととき。",
+          "expertReview": "静岡県 伊豆市土肥284-2に位置する人気宿。和の伝統の日本庭園と源泉かけ流しの温泉に癒される。歴史と文化に触れる至福なひととき。。旬の味覚と心地よい温泉で、特別な旅の時間を心ゆくまで堪能できます。",
+          "planHighlights": [
+            "天然温泉",
+            "絶品会席",
+            "楽天トラベル高評価"
+          ],
+          "addedAt": "2026-11-16 17:52"
+        },
+        {
+          "hotelNo": 111192,
+          "hotelName": "石和温泉　みなもと旅館",
+          "rating": 4.17,
+          "minCharge": 6000,
+          "address": "山梨県 笛吹市石和町八田26-3",
+          "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/111192/111192.jpg",
+          "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/111192/111192_wa1.jpg",
+          "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D111192",
+          "catchCopy": "鴨鍋と露天ワイン風呂が自慢の宿◆内湯は24時間入浴OK♪ 露天風",
+          "specialHighlight": "鴨鍋と露天ワイン風呂が自慢の宿◆内湯は24時間入浴OK♪ 露天風呂付き客室有",
+          "expertReview": "山梨県 笛吹市石和町八田26-3に位置する人気宿。鴨鍋と露天ワイン風呂が自慢の宿◆内湯は24時間入浴OK♪ 露天風呂付き客室有。旬の味覚と心地よい温泉で、特別な旅の時間を心ゆくまで堪能できます。",
+          "planHighlights": [
+            "天然温泉",
+            "絶品会席",
+            "楽天トラベル高評価"
+          ],
+          "addedAt": "2026-11-16 17:52"
+        },
+        {
+          "hotelNo": 866,
+          "hotelName": "磐梯猪苗代はやま温泉　ヴィラ　イナワシロ",
+          "rating": 3.88,
+          "minCharge": 7150,
+          "address": "福島県 耶麻郡猪苗代町磐梯はやま温泉",
+          "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/866/866.jpg",
+          "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/866/866_kan.jpg",
+          "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D866",
+          "catchCopy": "磐梯山と猪苗代湖を望むリゾートホテル。塩化ナトリウム泉の大浴場も",
+          "specialHighlight": "磐梯山と猪苗代湖を望むリゾートホテル。塩化ナトリウム泉の大浴場もお勧めです",
+          "expertReview": "福島県 耶麻郡猪苗代町磐梯はやま温泉に位置する人気宿。磐梯山と猪苗代湖を望むリゾートホテル。塩化ナトリウム泉の大浴場もお勧めです。旬の味覚と心地よい温泉で、特別な旅の時間を心ゆくまで堪能できます。",
+          "planHighlights": [
+            "天然温泉",
+            "絶品会席",
+            "楽天トラベル高評価"
+          ],
+          "addedAt": "2026-11-16 17:52"
+        }
+      ]
+    },
+    {
+      "id": "nov-star-infinity",
+      "slug": "november-starry-sky-infinity-onsen",
+      "month": "2026-11",
+      "monthLabel": "11月",
+      "title": "【初冬の絶景】空気が澄み渡る11月！星空撮影と天空インフィニティ露天風呂を満喫できる宿",
+      "subTitle": "凛とした夜空に広がる天の川と、水面に溶け込む湯けむり。息をのむ大自然のパノラマビュー",
+      "lead": "秋から冬へと移り変わる11月は、湿度が下がり一年で最も星空が鮮明に輝く天体観測のベストシーズン。視界を遮るもののない高台のインフィニティ温泉露天や高原リゾートで、満天の星と名湯に包まれる究極のリフレッシュ旅をお届けします。",
+      "heroImage": "https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&w=1200&q=80",
+      "keywords": [
+        "星空温泉",
+        "インフィニティ露天風呂",
+        "絶景宿",
+        "阿智村",
+        "八ヶ岳",
+        "初冬旅行"
+      ],
+      "searchQueries": [
+        "星空 リゾート",
+        "星空 露天風呂",
+        "星空 温泉",
+        "八ヶ岳 星空"
+      ],
+      "updatedAt": "2026-11-16 17:52",
+      "hotels": [
+        {
+          "hotelNo": 179332,
+          "hotelName": "猫とピアノと星空のリゾートブティックコテージ　ＳｔａｒｒｙＦｏｒｅｓｔＣｏｔｔａｇｅ　Ｏｋｉｎａｗａ",
+          "rating": 5.0,
+          "minCharge": 4000,
+          "address": "沖縄県 国頭郡恩納村名嘉真2288-68  （カーナビゲーションの住所検索では裏口に着きますので、Google mapsの施設名検索でお越し下さい）",
+          "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/179332/179332.jpg",
+          "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/179332/179332_kan1.jpg",
+          "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D179332",
+          "catchCopy": "ピアノ、シアター、ブティックの3タイプ全5棟。Netflixやガ",
+          "specialHighlight": "ピアノ、シアター、ブティックの3タイプ全5棟。NetflixやガーデンBBQも楽しめます。",
+          "expertReview": "沖縄県 国頭郡恩納村名嘉真2288-68  （カーナビゲーションの住所検索では裏口に着きますので、Google mapsの施設名検索でお越し下さい）に位置する人気宿。ピアノ、シアター、ブティックの3タイプ全5棟。NetflixやガーデンBBQも楽しめます。。旬の味覚と心地よい温泉で、特別な旅の時間を心ゆくまで堪能できます。",
+          "planHighlights": [
+            "天然温泉",
+            "絶品会席",
+            "楽天トラベル高評価"
+          ],
+          "addedAt": "2026-11-16 17:52"
+        },
+        {
+          "hotelNo": 164535,
+          "hotelName": "ゲストハウス星空のあかり",
+          "rating": 4.8,
+          "minCharge": 5950,
+          "address": "長野県 松本市安曇千石平4026-3",
+          "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/164535/164535.jpg",
+          "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/164535/164535_kan1.jpg",
+          "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D164535",
+          "catchCopy": "＊天空の高原に静寂と良質な温泉に恵まれた小さなお宿。 完全貸し切",
+          "specialHighlight": "＊天空の高原に静寂と良質な温泉に恵まれた小さなお宿。 完全貸し切りの天然温泉は疲れた心身を癒します♪",
+          "expertReview": "長野県 松本市安曇千石平4026-3に位置する人気宿。＊天空の高原に静寂と良質な温泉に恵まれた小さなお宿。 完全貸し切りの天然温泉は疲れた心身を癒します♪。旬の味覚と心地よい温泉で、特別な旅の時間を心ゆくまで堪能できます。",
+          "planHighlights": [
+            "天然温泉",
+            "絶品会席",
+            "楽天トラベル高評価"
+          ],
+          "addedAt": "2026-11-16 17:52"
+        },
+        {
+          "hotelNo": 108274,
+          "hotelName": "全室海一望露天風呂付　ホワイトプリンセス",
+          "rating": 4.67,
+          "minCharge": 9999,
+          "address": "静岡県 伊東市伊豆高原大室3-531",
+          "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/108274/108274.jpg",
+          "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/108274/108274_roy.jpg",
+          "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D108274",
+          "catchCopy": "★全室海一望天然温泉露天風呂＆テラス付。バラ風呂、バラアメニティ",
+          "specialHighlight": "★全室海一望天然温泉露天風呂＆テラス付。バラ風呂、バラアメニティ女性に好評。記念日サプライズOK★",
+          "expertReview": "静岡県 伊東市伊豆高原大室3-531に位置する人気宿。★全室海一望天然温泉露天風呂＆テラス付。バラ風呂、バラアメニティ女性に好評。記念日サプライズOK★。旬の味覚と心地よい温泉で、特別な旅の時間を心ゆくまで堪能できます。",
+          "planHighlights": [
+            "天然温泉",
+            "絶品会席",
+            "楽天トラベル高評価"
+          ],
+          "addedAt": "2026-11-16 17:52"
+        },
+        {
+          "hotelNo": 151226,
+          "hotelName": "源泉掛け流し露天風呂付全室離れの宿　旅籠　彩くら",
+          "rating": 4.65,
+          "minCharge": 30800,
+          "address": "大分県 玖珠郡九重町町田2645",
+          "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/151226/151226.jpg",
+          "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/151226/151226_kan1.jpg",
+          "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D151226",
+          "catchCopy": "ミシュランガイド熊本大分特別版にて最上級の快適を受賞。離れの客室",
+          "specialHighlight": "ミシュランガイド熊本大分特別版にて最上級の快適を受賞。離れの客室と源泉掛け流しの湯でお愉しみ下さい",
+          "expertReview": "大分県 玖珠郡九重町町田2645に位置する人気宿。ミシュランガイド熊本大分特別版にて最上級の快適を受賞。離れの客室と源泉掛け流しの湯でお愉しみ下さい。旬の味覚と心地よい温泉で、特別な旅の時間を心ゆくまで堪能できます。",
+          "planHighlights": [
+            "天然温泉",
+            "絶品会席",
+            "楽天トラベル高評価"
+          ],
+          "addedAt": "2026-11-16 17:52"
+        },
+        {
+          "hotelNo": 187950,
+          "hotelName": "富士の星空　エフジェイフォレスト",
+          "rating": 4.65,
+          "minCharge": 10000,
+          "address": "山梨県 南都留郡富士河口湖町小立4784",
+          "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/187950/187950.jpg",
+          "roomImageUrl": "",
+          "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D187950",
+          "catchCopy": "富士山の森に囲まれたリゾートコテージ。全棟２階建てのメゾネットタ",
+          "specialHighlight": "富士山の森に囲まれたリゾートコテージ。全棟２階建てのメゾネットタイプで、ゆったりお寛ぎいただけます。",
+          "expertReview": "山梨県 南都留郡富士河口湖町小立4784に位置する人気宿。富士山の森に囲まれたリゾートコテージ。全棟２階建てのメゾネットタイプで、ゆったりお寛ぎいただけます。。旬の味覚と心地よい温泉で、特別な旅の時間を心ゆくまで堪能できます。",
+          "planHighlights": [
+            "天然温泉",
+            "絶品会席",
+            "楽天トラベル高評価"
+          ],
+          "addedAt": "2026-11-16 17:52"
+        },
+        {
+          "hotelNo": 67476,
+          "hotelName": "星空の見えるリゾートホテル　峰山高原ホテルリラクシア",
+          "rating": 4.38,
+          "minCharge": 8800,
+          "address": "兵庫県 神崎郡神河町上小田881-146",
+          "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/67476/67476.jpg",
+          "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/67476/67476_ys.jpg",
+          "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D67476",
+          "catchCopy": "見上げれば天然のプラネタリウム！標高930m星空が見えるリゾート",
+          "specialHighlight": "見上げれば天然のプラネタリウム！標高930m星空が見えるリゾートホテルです。",
+          "expertReview": "兵庫県 神崎郡神河町上小田881-146に位置する人気宿。見上げれば天然のプラネタリウム！標高930m星空が見えるリゾートホテルです。。旬の味覚と心地よい温泉で、特別な旅の時間を心ゆくまで堪能できます。",
+          "planHighlights": [
+            "天然温泉",
+            "絶品会席",
+            "楽天トラベル高評価"
+          ],
+          "addedAt": "2026-11-16 17:52"
+        },
+        {
+          "hotelNo": 109464,
+          "hotelName": "芦別温泉スターライトホテル＆おふろｃａｆｅ星遊館　満天の星空×サウナリゾート",
+          "rating": 4.36,
+          "minCharge": 9875,
+          "address": "北海道 芦別市旭町油谷1",
+          "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/109464/109464.jpg",
+          "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/109464/109464_twn.jpg",
+          "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D109464",
+          "catchCopy": "おふろcafeでのんびり！星空露天風呂と３種のサウナでととのう旅",
+          "specialHighlight": "おふろcafeでのんびり！星空露天風呂と３種のサウナでととのう旅を♪　空知・旭川・富良野美瑛観光に！",
+          "expertReview": "北海道 芦別市旭町油谷1に位置する人気宿。おふろcafeでのんびり！星空露天風呂と３種のサウナでととのう旅を♪　空知・旭川・富良野美瑛観光に！。旬の味覚と心地よい温泉で、特別な旅の時間を心ゆくまで堪能できます。",
+          "planHighlights": [
+            "天然温泉",
+            "絶品会席",
+            "楽天トラベル高評価"
+          ],
+          "addedAt": "2026-11-16 17:52"
+        },
+        {
+          "hotelNo": 139955,
+          "hotelName": "会津東山温泉　客室専用露天風呂付のスイートルーム　はなれ　松島閣",
+          "rating": 4.35,
+          "minCharge": 16830,
+          "address": "福島県 会津若松市東山町湯本滝ノ湯107（庄助の宿 瀧の湯）",
+          "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/139955/139955.jpg",
+          "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/139955/139955_kya1.jpg",
+          "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D139955",
+          "catchCopy": "全10部屋客室専用露天風呂付のスイートルーム♪本館『庄助の宿　瀧",
+          "specialHighlight": "全10部屋客室専用露天風呂付のスイートルーム♪本館『庄助の宿　瀧の湯』特別客室（スイートルーム）♪",
+          "expertReview": "福島県 会津若松市東山町湯本滝ノ湯107（庄助の宿 瀧の湯）に位置する人気宿。全10部屋客室専用露天風呂付のスイートルーム♪本館『庄助の宿　瀧の湯』特別客室（スイートルーム）♪。旬の味覚と心地よい温泉で、特別な旅の時間を心ゆくまで堪能できます。",
+          "planHighlights": [
+            "天然温泉",
+            "絶品会席",
+            "楽天トラベル高評価"
+          ],
+          "addedAt": "2026-11-16 17:52"
+        },
+        {
+          "hotelNo": 188023,
+          "hotelName": "丹波星空グランピング　ーＳＨＩＧＵＲＡ　ＲＥＳＯＲＴー",
+          "rating": 4.3,
+          "minCharge": 20500,
+          "address": "兵庫県 丹波市青垣町大名草2053-38",
+          "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/188023/188023.jpg",
+          "roomImageUrl": "",
+          "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D188023",
+          "catchCopy": "星空に包まれる非日常体験。自然溢れる丹波市で嬉しい・楽しい・あり",
+          "specialHighlight": "星空に包まれる非日常体験。自然溢れる丹波市で嬉しい・楽しい・ありがとうが溢れる時間をお届けします。",
+          "expertReview": "兵庫県 丹波市青垣町大名草2053-38に位置する人気宿。星空に包まれる非日常体験。自然溢れる丹波市で嬉しい・楽しい・ありがとうが溢れる時間をお届けします。。旬の味覚と心地よい温泉で、特別な旅の時間を心ゆくまで堪能できます。",
+          "planHighlights": [
+            "天然温泉",
+            "絶品会席",
+            "楽天トラベル高評価"
+          ],
+          "addedAt": "2026-11-16 17:52"
+        },
+        {
+          "hotelNo": 164639,
+          "hotelName": "ロッテアライリゾート＜上越・妙高＞",
+          "rating": 4.26,
+          "minCharge": 6077,
+          "address": "新潟県 妙高市両善寺1966",
+          "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/164639/164639.jpg",
+          "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/164639/164639_kan1.jpg",
+          "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D164639",
+          "catchCopy": "遊び・味覚・温泉を春夏秋冬楽しめる施設★非日常をLOTTEアライ",
+          "specialHighlight": "遊び・味覚・温泉を春夏秋冬楽しめる施設★非日常をLOTTEアライリゾートで",
+          "expertReview": "新潟県 妙高市両善寺1966に位置する人気宿。遊び・味覚・温泉を春夏秋冬楽しめる施設★非日常をLOTTEアライリゾートで。旬の味覚と心地よい温泉で、特別な旅の時間を心ゆくまで堪能できます。",
+          "planHighlights": [
+            "天然温泉",
+            "絶品会席",
+            "楽天トラベル高評価"
+          ],
+          "addedAt": "2026-11-16 17:52"
+        },
+        {
+          "hotelNo": 1537,
+          "hotelName": "メルキュール和歌山串本リゾート＆スパ",
+          "rating": 4.26,
+          "minCharge": 4300,
+          "address": "和歌山県 東牟婁郡串本町サンゴ台1184-10",
+          "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/1537/1537.jpg",
+          "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/1537/1537_twn.jpg",
+          "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D1537",
+          "catchCopy": "本州最南端の地でオールインクルーシブステイ！幻想的な朝日・夕日を",
+          "specialHighlight": "本州最南端の地でオールインクルーシブステイ！幻想的な朝日・夕日を満喫できるオールインクルーシブホテル",
+          "expertReview": "和歌山県 東牟婁郡串本町サンゴ台1184-10に位置する人気宿。本州最南端の地でオールインクルーシブステイ！幻想的な朝日・夕日を満喫できるオールインクルーシブホテル。旬の味覚と心地よい温泉で、特別な旅の時間を心ゆくまで堪能できます。",
+          "planHighlights": [
+            "天然温泉",
+            "絶品会席",
+            "楽天トラベル高評価"
+          ],
+          "addedAt": "2026-11-16 17:52"
+        },
+        {
+          "hotelNo": 141696,
+          "hotelName": "満天の星空が降りそそぐ森の別荘　リゾートヴィラ高山",
+          "rating": 4.08,
+          "minCharge": 8580,
+          "address": "岐阜県 高山市荘川町新渕892-11",
+          "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/141696/141696.jpg",
+          "roomImageUrl": "",
+          "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D141696",
+          "catchCopy": "≪白山ビューサウナ☆OPEN≫大自然に囲まれた『森の貸別荘』プー",
+          "specialHighlight": "≪白山ビューサウナ☆OPEN≫大自然に囲まれた『森の貸別荘』プール♪サウナ♪テラスBBQが人気♪",
+          "expertReview": "岐阜県 高山市荘川町新渕892-11に位置する人気宿。≪白山ビューサウナ☆OPEN≫大自然に囲まれた『森の貸別荘』プール♪サウナ♪テラスBBQが人気♪。旬の味覚と心地よい温泉で、特別な旅の時間を心ゆくまで堪能できます。",
+          "planHighlights": [
+            "天然温泉",
+            "絶品会席",
+            "楽天トラベル高評価"
+          ],
+          "addedAt": "2026-11-16 17:52"
+        }
+      ]
+    },
+    {
+      "id": "nov-crab-gourmet",
+      "slug": "november-brand-crab-onsen-gourmet",
+      "month": "2026-11",
+      "monthLabel": "11月",
+      "title": "【11月解禁】冬の美食！ブランド蟹とこだわりの地酒を堪能する極上温泉宿",
+      "subTitle": "越前蟹・松葉蟹・香住蟹が旬を迎える至福の季節。焼き・刺し・茹で・蟹すきと名湯三昧",
+      "lead": "11月上旬のズワイガニ漁解禁とともに、北陸・山陰の温泉街は美食の熱気に包まれます。生簀から引き揚げて直前に捌く極上の活蟹料理と、歴史ある名湯で心身を解きほぐす、この時期だけの贅沢な美食紀行へご案内します。",
+      "heroImage": "https://images.unsplash.com/photo-1565557623262-b51c2513a641?auto=format&fit=crop&w=1200&q=80",
+      "keywords": [
+        "解禁蟹",
+        "越前蟹",
+        "松葉蟹",
+        "蟹会席",
+        "城崎温泉",
+        "あわら温泉",
+        "冬の味覚"
+      ],
+      "searchQueries": [
+        "蟹 会席 温泉",
+        "越前蟹 温泉",
+        "香住蟹 温泉",
+        "蟹 露天風呂"
+      ],
+      "updatedAt": "2026-11-16 17:52",
+      "hotels": [
+        {
+          "hotelNo": 84652,
+          "hotelName": "越前あわら温泉　つるや",
+          "rating": 4.8,
+          "minCharge": 28820,
+          "address": "福井県 あわら市温泉4-601",
+          "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/84652/84652.jpg",
+          "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/84652/84652_ta.jpg",
+          "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D84652",
+          "catchCopy": "明治17年創業、あわら温泉と共に歩む－。洗練された大人の湯宿。",
+          "specialHighlight": "明治17年創業、あわら温泉と共に歩む－。洗練された大人の湯宿。",
+          "expertReview": "福井県 あわら市温泉4-601に位置する人気宿。明治17年創業、あわら温泉と共に歩む－。洗練された大人の湯宿。。旬の味覚と心地よい温泉で、特別な旅の時間を心ゆくまで堪能できます。",
+          "planHighlights": [
+            "天然温泉",
+            "絶品会席",
+            "楽天トラベル高評価"
+          ],
+          "addedAt": "2026-11-16 17:52"
+        },
+        {
+          "hotelNo": 25128,
+          "hotelName": "有馬温泉　有馬グランドホテル",
+          "rating": 4.67,
+          "minCharge": 17050,
+          "address": "兵庫県 神戸市北区有馬町1304-1",
+          "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/25128/25128.jpg",
+          "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/25128/25128_heya.jpg",
+          "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D25128",
+          "catchCopy": "小高い丘の上に立つ絶景のホテル。 最上階の展望大浴苑「雲海」から",
+          "specialHighlight": "小高い丘の上に立つ絶景のホテル。 最上階の展望大浴苑「雲海」からの景色は壮観です。",
+          "expertReview": "兵庫県 神戸市北区有馬町1304-1に位置する人気宿。小高い丘の上に立つ絶景のホテル。 最上階の展望大浴苑「雲海」からの景色は壮観です。。旬の味覚と心地よい温泉で、特別な旅の時間を心ゆくまで堪能できます。",
+          "planHighlights": [
+            "天然温泉",
+            "絶品会席",
+            "楽天トラベル高評価"
+          ],
+          "addedAt": "2026-11-16 17:52"
+        },
+        {
+          "hotelNo": 16207,
+          "hotelName": "あわら温泉　グランディア芳泉",
+          "rating": 4.64,
+          "minCharge": 22000,
+          "address": "福井県 あわら市舟津43-26",
+          "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/16207/16207.jpg",
+          "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/16207/16207_war.jpg",
+          "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D16207",
+          "catchCopy": "ラウンジ飲料は無料！5階天上のSPAは眺望随一★全33室庭園露天",
+          "specialHighlight": "ラウンジ飲料は無料！5階天上のSPAは眺望随一★全33室庭園露天風呂付客室や和洋室タイプなど色々♪",
+          "expertReview": "福井県 あわら市舟津43-26に位置する人気宿。ラウンジ飲料は無料！5階天上のSPAは眺望随一★全33室庭園露天風呂付客室や和洋室タイプなど色々♪。旬の味覚と心地よい温泉で、特別な旅の時間を心ゆくまで堪能できます。",
+          "planHighlights": [
+            "天然温泉",
+            "絶品会席",
+            "楽天トラベル高評価"
+          ],
+          "addedAt": "2026-11-16 17:52"
+        },
+        {
+          "hotelNo": 11351,
+          "hotelName": "城崎温泉　湯楽　Ｙｕｒａｋｕ　Ｋｉｎｏｓａｋｉ　Ｓｐａ＆Ｇａｒｄｅｎｓ",
+          "rating": 4.62,
+          "minCharge": 31980,
+          "address": "兵庫県 豊岡市城崎町湯島844",
+          "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/11351/11351.jpg",
+          "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/11351/11351_room.jpg",
+          "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D11351",
+          "catchCopy": "楽天アワード＆マイスター受賞★お料理評価好評◎＆３つのお花・フル",
+          "specialHighlight": "楽天アワード＆マイスター受賞★お料理評価好評◎＆３つのお花・フルーツの無料貸切風呂が大人気",
+          "expertReview": "兵庫県 豊岡市城崎町湯島844に位置する人気宿。楽天アワード＆マイスター受賞★お料理評価好評◎＆３つのお花・フルーツの無料貸切風呂が大人気。旬の味覚と心地よい温泉で、特別な旅の時間を心ゆくまで堪能できます。",
+          "planHighlights": [
+            "天然温泉",
+            "絶品会席",
+            "楽天トラベル高評価"
+          ],
+          "addedAt": "2026-11-16 17:52"
+        },
+        {
+          "hotelNo": 84545,
+          "hotelName": "北陸　あわら温泉　まつや千千",
+          "rating": 4.61,
+          "minCharge": 11000,
+          "address": "福井県 あわら市舟津31-24",
+          "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/84545/84545.jpg",
+          "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/84545/84545_ky1.jpg",
+          "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D84545",
+          "catchCopy": "源泉大浴場・大露天風呂「千のこぼれ湯」北陸最大級スケール♪日本の",
+          "specialHighlight": "源泉大浴場・大露天風呂「千のこぼれ湯」北陸最大級スケール♪日本の宿の贅沢は、お風呂から始まります。",
+          "expertReview": "福井県 あわら市舟津31-24に位置する人気宿。源泉大浴場・大露天風呂「千のこぼれ湯」北陸最大級スケール♪日本の宿の贅沢は、お風呂から始まります。。旬の味覚と心地よい温泉で、特別な旅の時間を心ゆくまで堪能できます。",
+          "planHighlights": [
+            "天然温泉",
+            "絶品会席",
+            "楽天トラベル高評価"
+          ],
+          "addedAt": "2026-11-16 17:52"
+        },
+        {
+          "hotelNo": 108608,
+          "hotelName": "三国温泉　ばんこ旅館",
+          "rating": 4.54,
+          "minCharge": 8000,
+          "address": "福井県 坂井市三国町宿3-7-25",
+          "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/108608/108608.jpg",
+          "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/108608/108608_wst.jpg",
+          "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D108608",
+          "catchCopy": "三国サンセットビーチ目の前◆三国温泉×地元の海の幸×自家製野菜や",
+          "specialHighlight": "三国サンセットビーチ目の前◆三国温泉×地元の海の幸×自家製野菜や手作り味噌を使った料理が自慢",
+          "expertReview": "福井県 坂井市三国町宿3-7-25に位置する人気宿。三国サンセットビーチ目の前◆三国温泉×地元の海の幸×自家製野菜や手作り味噌を使った料理が自慢。旬の味覚と心地よい温泉で、特別な旅の時間を心ゆくまで堪能できます。",
+          "planHighlights": [
+            "天然温泉",
+            "絶品会席",
+            "楽天トラベル高評価"
+          ],
+          "addedAt": "2026-11-16 17:52"
+        },
+        {
+          "hotelNo": 10714,
+          "hotelName": "山陰湯村温泉　朝野家",
+          "rating": 4.54,
+          "minCharge": 6600,
+          "address": "兵庫県 美方郡新温泉町湯1269",
+          "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/10714/10714.jpg",
+          "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/10714/10714_heya.jpg",
+          "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D10714",
+          "catchCopy": "98℃の湯量豊富な美肌の湯と、但馬牛や松葉蟹など旬の味覚を彩る創",
+          "specialHighlight": "98℃の湯量豊富な美肌の湯と、但馬牛や松葉蟹など旬の味覚を彩る創作会席が自慢のおもてなしの宿",
+          "expertReview": "兵庫県 美方郡新温泉町湯1269に位置する人気宿。98℃の湯量豊富な美肌の湯と、但馬牛や松葉蟹など旬の味覚を彩る創作会席が自慢のおもてなしの宿。旬の味覚と心地よい温泉で、特別な旅の時間を心ゆくまで堪能できます。",
+          "planHighlights": [
+            "天然温泉",
+            "絶品会席",
+            "楽天トラベル高評価"
+          ],
+          "addedAt": "2026-11-16 17:52"
+        },
+        {
+          "hotelNo": 5677,
+          "hotelName": "あわら温泉　伝統旅館のぬくもり　灰屋",
+          "rating": 4.38,
+          "minCharge": 11000,
+          "address": "福井県 あわら市温泉2-205",
+          "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/5677/5677.jpg",
+          "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/5677/5677_heya1.jpg",
+          "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D5677",
+          "catchCopy": "【ガーデンサウナOPEN】明治１７年創業当時の趣を残す伝統旅館。",
+          "specialHighlight": "【ガーデンサウナOPEN】明治１７年創業当時の趣を残す伝統旅館。奥深いおもてなしを提供いたします",
+          "expertReview": "福井県 あわら市温泉2-205に位置する人気宿。【ガーデンサウナOPEN】明治１７年創業当時の趣を残す伝統旅館。奥深いおもてなしを提供いたします。旬の味覚と心地よい温泉で、特別な旅の時間を心ゆくまで堪能できます。",
+          "planHighlights": [
+            "天然温泉",
+            "絶品会席",
+            "楽天トラベル高評価"
+          ],
+          "addedAt": "2026-11-16 17:52"
+        },
+        {
+          "hotelNo": 67189,
+          "hotelName": "鷹巣温泉　国民宿舎　鷹巣荘",
+          "rating": 4.26,
+          "minCharge": 6500,
+          "address": "福井県 福井市蓑町3-11-1",
+          "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/67189/67189.jpg",
+          "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/67189/67189_kan.jpg",
+          "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D67189",
+          "catchCopy": "自家源泉100％かけ流しが自慢〇目の前が日本海〇",
+          "specialHighlight": "自家源泉100％かけ流しが自慢〇目の前が日本海〇",
+          "expertReview": "福井県 福井市蓑町3-11-1に位置する人気宿。自家源泉100％かけ流しが自慢〇目の前が日本海〇。旬の味覚と心地よい温泉で、特別な旅の時間を心ゆくまで堪能できます。",
+          "planHighlights": [
+            "天然温泉",
+            "絶品会席",
+            "楽天トラベル高評価"
+          ],
+          "addedAt": "2026-11-16 17:52"
+        },
+        {
+          "hotelNo": 14121,
+          "hotelName": "越前温泉　平成　ＨＥＩＳＥＩ",
+          "rating": 4.25,
+          "minCharge": 37510,
+          "address": "福井県 丹生郡越前町高佐27-2-1",
+          "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/14121/14121.jpg",
+          "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/14121/14121_wa.jpg",
+          "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D14121",
+          "catchCopy": "≪ご夕食は完全個室食orお部屋食≫越前の海の幸をご堪能あれ！",
+          "specialHighlight": "≪ご夕食は完全個室食orお部屋食≫越前の海の幸をご堪能あれ！",
+          "expertReview": "福井県 丹生郡越前町高佐27-2-1に位置する人気宿。≪ご夕食は完全個室食orお部屋食≫越前の海の幸をご堪能あれ！。旬の味覚と心地よい温泉で、特別な旅の時間を心ゆくまで堪能できます。",
+          "planHighlights": [
+            "天然温泉",
+            "絶品会席",
+            "楽天トラベル高評価"
+          ],
+          "addedAt": "2026-11-16 17:52"
+        },
+        {
+          "hotelNo": 153245,
+          "hotelName": "越前糸生温泉　泰澄の杜",
+          "rating": 4.05,
+          "minCharge": 4980,
+          "address": "福井県 丹生郡越前町小倉88-55-1",
+          "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/153245/153245.jpg",
+          "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/153245/153245_kan1.jpg",
+          "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D153245",
+          "catchCopy": "テラス付和ベッド客室リニューアル！天然温泉と福井ならではの美食や",
+          "specialHighlight": "テラス付和ベッド客室リニューアル！天然温泉と福井ならではの美食やブドウ狩りを楽しめる宿",
+          "expertReview": "福井県 丹生郡越前町小倉88-55-1に位置する人気宿。テラス付和ベッド客室リニューアル！天然温泉と福井ならではの美食やブドウ狩りを楽しめる宿。旬の味覚と心地よい温泉で、特別な旅の時間を心ゆくまで堪能できます。",
+          "planHighlights": [
+            "天然温泉",
+            "絶品会席",
+            "楽天トラベル高評価"
+          ],
+          "addedAt": "2026-11-16 17:52"
+        },
+        {
+          "hotelNo": 5595,
+          "hotelName": "城崎温泉　しののめ荘",
+          "rating": 3.88,
+          "minCharge": 12900,
+          "address": "兵庫県 豊岡市城崎町湯島757番地",
+          "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/5595/5595.jpg",
+          "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/5595/5595_room.jpg",
+          "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D5595",
+          "catchCopy": "【岩風呂とカニ料理】”但馬”の旬を味わえる自慢の料理と温泉が楽し",
+          "specialHighlight": "【岩風呂とカニ料理】”但馬”の旬を味わえる自慢の料理と温泉が楽しめる木造三階建ての純和風旅館温泉",
+          "expertReview": "兵庫県 豊岡市城崎町湯島757番地に位置する人気宿。【岩風呂とカニ料理】”但馬”の旬を味わえる自慢の料理と温泉が楽しめる木造三階建ての純和風旅館温泉。旬の味覚と心地よい温泉で、特別な旅の時間を心ゆくまで堪能できます。",
+          "planHighlights": [
+            "天然温泉",
+            "絶品会席",
+            "楽天トラベル高評価"
+          ],
+          "addedAt": "2026-11-16 17:52"
+        }
+      ]
+    },
+    {
+      "id": "nov-late-autumn-momiji",
+      "slug": "november-late-autumn-leaves-secret-onsen",
+      "month": "2026-11",
+      "monthLabel": "11月",
+      "title": "【晩秋の静寂】見頃ピークと散り紅葉の絨毯！錦秋に染まる渓谷と秘湯隠れ宿",
+      "subTitle": "混雑を避けてゆったり愛でる紅葉露天風呂。ライトアップと旬の山海の幸",
+      "lead": "11月中旬から下旬は、山々が燃え盛るような紅葉のクライマックス。水面に映る逆さ紅葉や落ち葉が浮かぶ風流な露天風呂、地元名産のきのこや地酒が楽しめる風情あふれる温泉宿をラインナップしました。",
+      "heroImage": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&q=80",
+      "keywords": [
+        "紅葉温泉",
+        "晩秋旅行",
+        "秘湯",
+        "露天風呂",
+        "秋旅",
+        "隠れ宿"
+      ],
+      "searchQueries": [
+        "紅葉 温泉",
+        "紅葉 露天風呂",
+        "紅葉 宿",
+        "紅葉 ライトアップ 宿"
+      ],
+      "updatedAt": "2026-11-16 17:52",
+      "hotels": [
+        {
+          "hotelNo": 15086,
+          "hotelName": "紅葉館＜島根県＞",
+          "rating": 4.66,
+          "minCharge": 12430,
+          "address": "島根県 安来市清水町528",
+          "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/15086/15086.jpg",
+          "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/15086/15086_heya.jpg",
+          "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D15086",
+          "catchCopy": "山陰の名刹、安来清水寺の境内にある落ち着いた宿です。夕朝食ともに",
+          "specialHighlight": "山陰の名刹、安来清水寺の境内にある落ち着いた宿です。夕朝食ともに眺めの良い個室でご用意いたします。",
+          "expertReview": "島根県 安来市清水町528に位置する人気宿。山陰の名刹、安来清水寺の境内にある落ち着いた宿です。夕朝食ともに眺めの良い個室でご用意いたします。。旬の味覚と心地よい温泉で、特別な旅の時間を心ゆくまで堪能できます。",
+          "planHighlights": [
+            "天然温泉",
+            "絶品会席",
+            "楽天トラベル高評価"
+          ],
+          "addedAt": "2026-11-16 17:52"
+        },
+        {
+          "hotelNo": 151226,
+          "hotelName": "源泉掛け流し露天風呂付全室離れの宿　旅籠　彩くら",
+          "rating": 4.65,
+          "minCharge": 30800,
+          "address": "大分県 玖珠郡九重町町田2645",
+          "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/151226/151226.jpg",
+          "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/151226/151226_kan1.jpg",
+          "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D151226",
+          "catchCopy": "ミシュランガイド熊本大分特別版にて最上級の快適を受賞。離れの客室",
+          "specialHighlight": "ミシュランガイド熊本大分特別版にて最上級の快適を受賞。離れの客室と源泉掛け流しの湯でお愉しみ下さい",
+          "expertReview": "大分県 玖珠郡九重町町田2645に位置する人気宿。ミシュランガイド熊本大分特別版にて最上級の快適を受賞。離れの客室と源泉掛け流しの湯でお愉しみ下さい。旬の味覚と心地よい温泉で、特別な旅の時間を心ゆくまで堪能できます。",
+          "planHighlights": [
+            "天然温泉",
+            "絶品会席",
+            "楽天トラベル高評価"
+          ],
+          "addedAt": "2026-11-16 17:52"
+        },
+        {
+          "hotelNo": 15449,
+          "hotelName": "にっしょうかん別邸紅葉亭",
+          "rating": 4.54,
+          "minCharge": 14600,
+          "address": "長崎県 長崎市立山5-13-65",
+          "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/15449/15449.jpg",
+          "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/15449/15449_room.jpg",
+          "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D15449",
+          "catchCopy": "長崎港を見下ろす高台に位置し、全客室と展望風呂から世界新三大夜景",
+          "specialHighlight": "長崎港を見下ろす高台に位置し、全客室と展望風呂から世界新三大夜景に認定された夜景をお楽しみください。",
+          "expertReview": "長崎県 長崎市立山5-13-65に位置する人気宿。長崎港を見下ろす高台に位置し、全客室と展望風呂から世界新三大夜景に認定された夜景をお楽しみください。。旬の味覚と心地よい温泉で、特別な旅の時間を心ゆくまで堪能できます。",
+          "planHighlights": [
+            "天然温泉",
+            "絶品会席",
+            "楽天トラベル高評価"
+          ],
+          "addedAt": "2026-11-16 17:52"
+        },
+        {
+          "hotelNo": 76395,
+          "hotelName": "武田尾温泉　紅葉舘　別庭　あざれ",
+          "rating": 4.48,
+          "minCharge": 19000,
+          "address": "兵庫県 宝塚市玉瀬字イヅリハ1-47",
+          "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/76395/76395.jpg",
+          "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/76395/76395_k.jpg",
+          "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D76395",
+          "catchCopy": "渓流沿い離れ戸建、源泉かけ流し眺望半露天風呂付、全室テラス付、食",
+          "specialHighlight": "渓流沿い離れ戸建、源泉かけ流し眺望半露天風呂付、全室テラス付、食事は茶寮「心」にて",
+          "expertReview": "兵庫県 宝塚市玉瀬字イヅリハ1-47に位置する人気宿。渓流沿い離れ戸建、源泉かけ流し眺望半露天風呂付、全室テラス付、食事は茶寮「心」にて。旬の味覚と心地よい温泉で、特別な旅の時間を心ゆくまで堪能できます。",
+          "planHighlights": [
+            "天然温泉",
+            "絶品会席",
+            "楽天トラベル高評価"
+          ],
+          "addedAt": "2026-11-16 17:52"
+        },
+        {
+          "hotelNo": 178452,
+          "hotelName": "ヴィアインプライム広島新幹線口＜紅葉の湯＞（ＪＲ西日本グループ）",
+          "rating": 4.46,
+          "minCharge": 4520,
+          "address": "広島県 広島市南区松原町1番6号",
+          "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/178452/178452.jpg",
+          "roomImageUrl": "",
+          "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D178452",
+          "catchCopy": "広島駅新幹線口（北口）より3分。全室禁煙。最上階に男女別大浴場を",
+          "specialHighlight": "広島駅新幹線口（北口）より3分。全室禁煙。最上階に男女別大浴場を完備。",
+          "expertReview": "広島県 広島市南区松原町1番6号に位置する人気宿。広島駅新幹線口（北口）より3分。全室禁煙。最上階に男女別大浴場を完備。。旬の味覚と心地よい温泉で、特別な旅の時間を心ゆくまで堪能できます。",
+          "planHighlights": [
+            "天然温泉",
+            "絶品会席",
+            "楽天トラベル高評価"
+          ],
+          "addedAt": "2026-11-16 17:52"
+        },
+        {
+          "hotelNo": 130145,
+          "hotelName": "月美の宿　紅葉音",
+          "rating": 4.38,
+          "minCharge": 11000,
+          "address": "北海道 磯谷郡蘭越町湯里680-13",
+          "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/130145/130145.jpg",
+          "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/130145/130145_kya.jpg",
+          "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D130145",
+          "catchCopy": "～こころとからだにおもてなし～ 1日12組だけが味わえるくつろぎ",
+          "specialHighlight": "～こころとからだにおもてなし～ 1日12組だけが味わえるくつろぎの宿。2011年4月リニューアル。",
+          "expertReview": "北海道 磯谷郡蘭越町湯里680-13に位置する人気宿。～こころとからだにおもてなし～ 1日12組だけが味わえるくつろぎの宿。2011年4月リニューアル。。旬の味覚と心地よい温泉で、特別な旅の時間を心ゆくまで堪能できます。",
+          "planHighlights": [
+            "天然温泉",
+            "絶品会席",
+            "楽天トラベル高評価"
+          ],
+          "addedAt": "2026-11-16 17:52"
+        },
+        {
+          "hotelNo": 191906,
+          "hotelName": "塩原温泉　露天風呂付きヴィラ　紅葉（くれは）",
+          "rating": 4.35,
+          "minCharge": 31200,
+          "address": "栃木県 那須塩原市上塩原22",
+          "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/191906/191906.jpg",
+          "roomImageUrl": "",
+          "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D191906",
+          "catchCopy": "２００平米を誇るゆったりとした間取りが印象的なメゾネットタイプの",
+          "specialHighlight": "２００平米を誇るゆったりとした間取りが印象的なメゾネットタイプのラグジュアリーヴィラ。",
+          "expertReview": "栃木県 那須塩原市上塩原22に位置する人気宿。２００平米を誇るゆったりとした間取りが印象的なメゾネットタイプのラグジュアリーヴィラ。。旬の味覚と心地よい温泉で、特別な旅の時間を心ゆくまで堪能できます。",
+          "planHighlights": [
+            "天然温泉",
+            "絶品会席",
+            "楽天トラベル高評価"
+          ],
+          "addedAt": "2026-11-16 17:52"
+        },
+        {
+          "hotelNo": 13483,
+          "hotelName": "花巻温泉　ホテル紅葉館",
+          "rating": 4.28,
+          "minCharge": 8400,
+          "address": "岩手県 花巻市湯本第1地割125",
+          "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/13483/13483.jpg",
+          "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/13483/13483_w.jpg",
+          "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D13483",
+          "catchCopy": "日本の宿アワード TOP47＆ブロンズアワード受賞！10種のかに",
+          "specialHighlight": "日本の宿アワード TOP47＆ブロンズアワード受賞！10種のかに料理と牛ステーキ＆串揚げフェア開催中",
+          "expertReview": "岩手県 花巻市湯本第1地割125に位置する人気宿。日本の宿アワード TOP47＆ブロンズアワード受賞！10種のかに料理と牛ステーキ＆串揚げフェア開催中。旬の味覚と心地よい温泉で、特別な旅の時間を心ゆくまで堪能できます。",
+          "planHighlights": [
+            "天然温泉",
+            "絶品会席",
+            "楽天トラベル高評価"
+          ],
+          "addedAt": "2026-11-16 17:52"
+        },
+        {
+          "hotelNo": 7050,
+          "hotelName": "伊香保温泉　人気の露天風呂付客室と美味に和む宿　かのうや",
+          "rating": 4.27,
+          "minCharge": 15444,
+          "address": "群馬県 渋川市伊香保町伊香保591",
+          "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/7050/7050.jpg",
+          "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/7050/7050_room.jpg",
+          "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D7050",
+          "catchCopy": "ケーブルカーで、四季を感じながら玄関へ☆彡 大自然に囲まれた静か",
+          "specialHighlight": "ケーブルカーで、四季を感じながら玄関へ☆彡 大自然に囲まれた静かな宿♪石段街や河鹿橋まで徒歩5分",
+          "expertReview": "群馬県 渋川市伊香保町伊香保591に位置する人気宿。ケーブルカーで、四季を感じながら玄関へ☆彡 大自然に囲まれた静かな宿♪石段街や河鹿橋まで徒歩5分。旬の味覚と心地よい温泉で、特別な旅の時間を心ゆくまで堪能できます。",
+          "planHighlights": [
+            "天然温泉",
+            "絶品会席",
+            "楽天トラベル高評価"
+          ],
+          "addedAt": "2026-11-16 17:52"
+        },
+        {
+          "hotelNo": 8527,
+          "hotelName": "料理旅館　季（とき）と海の恵み　紅葉屋",
+          "rating": 4.0,
+          "minCharge": 5000,
+          "address": "愛知県 知多郡美浜町大字野間字畑中９番地",
+          "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/8527/8527.jpg",
+          "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/8527/8527_room.jpg",
+          "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D8527",
+          "catchCopy": "ファミリー向け～ビジネスプランまで充実★現地ではカード・QRコー",
+          "specialHighlight": "ファミリー向け～ビジネスプランまで充実★現地ではカード・QRコード決済もOK！",
+          "expertReview": "愛知県 知多郡美浜町大字野間字畑中９番地に位置する人気宿。ファミリー向け～ビジネスプランまで充実★現地ではカード・QRコード決済もOK！。旬の味覚と心地よい温泉で、特別な旅の時間を心ゆくまで堪能できます。",
+          "planHighlights": [
+            "天然温泉",
+            "絶品会席",
+            "楽天トラベル高評価"
+          ],
+          "addedAt": "2026-11-16 17:52"
+        },
+        {
+          "hotelNo": 37846,
+          "hotelName": "長湯温泉　紅葉館＜大分県＞",
+          "rating": 3.74,
+          "minCharge": 7150,
+          "address": "大分県 竹田市直入町長湯7996",
+          "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/37846/37846.jpg",
+          "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/37846/37846_spa.jpg",
+          "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D37846",
+          "catchCopy": "長湯名物カニ湯は目の前！温泉情緒あふれる老舗で心落ち着く静かな時",
+          "specialHighlight": "長湯名物カニ湯は目の前！温泉情緒あふれる老舗で心落ち着く静かな時間を♪自慢のチャンコ鍋はボリューム◎",
+          "expertReview": "大分県 竹田市直入町長湯7996に位置する人気宿。長湯名物カニ湯は目の前！温泉情緒あふれる老舗で心落ち着く静かな時間を♪自慢のチャンコ鍋はボリューム◎。旬の味覚と心地よい温泉で、特別な旅の時間を心ゆくまで堪能できます。",
+          "planHighlights": [
+            "天然温泉",
+            "絶品会席",
+            "楽天トラベル高評価"
+          ],
+          "addedAt": "2026-11-16 17:52"
+        }
+      ]
+    }
+  ]
+}

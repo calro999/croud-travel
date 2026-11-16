@@ -18,6 +18,7 @@ except ImportError:
         fetch_tourist_spot_image = None
 
 POSTS_DIR = "src/data/posts"
+MONTHLY_FEATURES_FILE = "src/data/monthly/monthly_features.json"
 BLUESKY_HISTORY_FILE = "bluesky_post_history.txt"
 ENGAGEMENT_HISTORY_FILE = "bluesky_engagement_history.txt"
 SITE_BASE_URL = "https://croud-travel.pages.dev"
@@ -219,6 +220,59 @@ def select_best_hotel_post(history_set):
         except Exception:
             continue
 
+    # 月次特集（最新11月等の蓄積型特集記事および最新TOP10宿）を優先候補に追加
+    if os.path.exists(MONTHLY_FEATURES_FILE):
+        try:
+            with open(MONTHLY_FEATURES_FILE, "r", encoding="utf-8") as mfp:
+                mdata = json.load(mfp)
+                for theme in mdata.get("themes", []):
+                    theme_slug = theme.get("slug")
+                    theme_url = f"{SITE_BASE_URL}/features/{theme_slug}"
+                    theme_post_id = f"monthly-feature-{theme_slug}"
+
+                    # 特集ページ自体のエントリー
+                    theme_entry = {
+                        "id": theme_post_id,
+                        "title": theme.get("title"),
+                        "description": theme.get("lead"),
+                        "image": theme.get("heroImage"),
+                        "other_images": [],
+                        "is_special_feature": True,
+                        "rating": 4.9,
+                        "prefecture": "全国厳選",
+                        "hotel_name": theme.get("title"),
+                        "custom_url": theme_url,
+                        "categories": theme.get("keywords", [])
+                    }
+                    if theme_post_id not in history_set:
+                        scored_candidates.append((85 + random.uniform(0, 5), theme_entry))
+                    else:
+                        fallback_candidates.append((40, theme_entry))
+
+                    # 特集内のTOP10宿エントリー
+                    hotels = theme.get("hotels", [])
+                    for rank_idx, h in enumerate(hotels[:5]): # 特にTOP5の極上宿
+                        h_post_id = f"monthly-hotel-{theme_slug}-{h.get('hotelNo')}"
+                        h_entry = {
+                            "id": h_post_id,
+                            "title": f"【{theme.get('monthLabel')}特集 第{rank_idx+1}位】{h.get('hotelName')}",
+                            "description": h.get("expertReview") or h.get("specialHighlight"),
+                            "image": h.get("hotelImageUrl"),
+                            "other_images": [h.get("roomImageUrl")] if h.get("roomImageUrl") else [],
+                            "is_special_feature": False,
+                            "rating": h.get("rating", 4.5),
+                            "prefecture": h.get("address", "").split(" ")[0] if " " in h.get("address", "") else "注目エリア",
+                            "hotel_name": h.get("hotelName"),
+                            "custom_url": theme_url, # 特集ページへ誘導
+                            "categories": theme.get("keywords", [])
+                        }
+                        if h_post_id not in history_set:
+                            scored_candidates.append((75 - rank_idx * 2 + random.uniform(0, 5), h_entry))
+                        else:
+                            fallback_candidates.append((35, h_entry))
+        except Exception as e:
+            print(f"Error loading monthly features in bluesky_poster: {e}")
+
     if scored_candidates:
         scored_candidates.sort(key=lambda x: x[0], reverse=True)
         # 上位20件の超高需要・高評価記事からランダム選定
@@ -290,7 +344,7 @@ Blueskyで旅行好きのフォロワーが思わず「ここ絶対行きたい�
 def build_hotel_post_content(post_data):
     post_id = str(post_data.get("id"))
     affiliate_url = post_data.get("affiliate_url", "")
-    article_url = f"{SITE_BASE_URL}/posts/{post_id}/"
+    article_url = post_data.get("custom_url") or f"{SITE_BASE_URL}/posts/{post_id}/"
     hotel_name = post_data.get("hotel_name", "")
     pref = post_data.get("prefecture", "")
     is_special = post_data.get("is_special_feature")

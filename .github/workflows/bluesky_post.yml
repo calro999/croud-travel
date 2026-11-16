@@ -1,20 +1,20 @@
-name: Post High-Quality Travel Article to Bluesky
+name: Monthly Features Curation & Bluesky Auto Post
 
 on:
   schedule:
-    # 混雑する00分を避け、毎時17分・47分（30分おき）に定期実行
+    # 毎時17分・47分（30分おき）に定期実行
     - cron: '17,47 * * * *'
   workflow_dispatch:
 
 concurrency:
-  group: bluesky-auto-post
+  group: monthly-curation-and-bluesky
   cancel-in-progress: false
 
 permissions:
   contents: write
 
 jobs:
-  bluesky-post:
+  curate-and-post:
     runs-on: ubuntu-latest
     timeout-minutes: 15
     steps:
@@ -32,20 +32,28 @@ jobs:
           python -m pip install --upgrade pip
           pip install requests atproto Pillow
 
-      - name: Post to Bluesky
+      - name: Curate Monthly Features (Auto Accumulate & Ranking)
+        env:
+          RAKUTEN_APPLICATION_ID: ${{ secrets.RAKUTEN_APPLICATION_ID || '1a3cdfd9-2aec-4b42-8290-1c53603b0012' }}
+          RAKUTEN_ACCESS_KEY: ${{ secrets.RAKUTEN_ACCESS_KEY || 'pk_XkZ5h9MDKSsuVr6T5CnLnlVNvFg3hiR5vMDGrQ75cU5' }}
+          RAKUTEN_AFFILIATE_ID: ${{ secrets.RAKUTEN_AFFILIATE_ID || '54d2a438.4bc4abc2.54d2a439.aa1be583' }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: python scripts/monthly_curator.py
+
+      - name: Post to Bluesky (High-Engagement Travel Content)
         env:
           BLUESKY_HANDLE: ${{ secrets.BLUESKY_HANDLE || 'travel-cloud.bsky.social' }}
           BLUESKY_APP_PASSWORD: ${{ secrets.BLUESKY_APP_PASSWORD || 'mxll-k37n-tgyx-usol' }}
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: python scripts/bluesky_poster.py
 
-      - name: Commit and Push History
+      - name: Commit and Push History & Monthly Features
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add bluesky_post_history.txt bluesky_engagement_history.txt
+          git add src/data/monthly/monthly_features.json bluesky_post_history.txt bluesky_engagement_history.txt
           if ! git diff --cached --quiet; then
-            git commit -m "chore: record bluesky post & engagement history [skip ci]"
+            git commit -m "chore: accumulate monthly features ranking & bluesky history [skip ci]"
             git pull --rebase origin main || true
             git push origin main || git push || true
           fi
