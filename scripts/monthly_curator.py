@@ -188,24 +188,64 @@ def fetch_rakuten_hotels(query, max_hits=8):
         print(f"Error fetching from Rakuten API ({query}):", e)
     return []
 
+def sanitize_sentence(text):
+    """句読点の重複（。。など）や連続スペースを除去し、完全な日本語文に整える"""
+    if not text:
+        return ""
+    s = str(text)
+    # 重複する句読点や記号の整理
+    s = re.sub(r'。+', '。', s)
+    s = re.sub(r'、+', '、', s)
+    s = re.sub(r'！+', '！', s)
+    s = re.sub(r'？+', '？', s)
+    s = re.sub(r'[ 　]+', ' ', s)
+    s = re.sub(r'([。！？])\s*([。！？])', r'\1', s)
+    s = s.strip()
+    return s
+
+def extract_clean_catchcopy(text, fallback_name=""):
+    """途中でぶつ切り・数字切れにならないよう、文の区切りで自然かつ完全なキャッチコピーを抽出"""
+    if not text:
+        return f"{fallback_name}で過ごす至福の滞在"
+    # 不要な定型タグ除去
+    cleaned = re.sub(r'【[^】]*】', '', str(text)).strip()
+    # 句読点や記号で分割
+    clauses = [c.strip() for c in re.split(r'[！!。．♪☆◆◇★｜|／/\n]+', cleaned) if len(c.strip()) >= 5]
+    for c in clauses:
+        # 末尾が助詞や半端な数字で終わらない完全な節を選択
+        c_clean = c.strip(" ◆◇★☆・-～〜")
+        if 8 <= len(c_clean) <= 45 and not re.search(r'[のへとでがをに連泊約全]$|\d+$', c_clean):
+            return sanitize_sentence(c_clean)
+    # 適切な節が見つからない場合は先頭のまとまりを使用
+    if clauses:
+        first = clauses[0].strip(" ◆◇★☆・-～〜")
+        return sanitize_sentence(first[:40])
+    return f"{fallback_name}で過ごす至福の滞在"
+
 def curate_hotel_with_gemini(hotel_info, theme_title):
     """Geminiで宿のキャッチコピー・リアルな口コミ解説を清書"""
+    special = hotel_info.get("specialHighlight") or hotel_info.get("hotelSpecial") or ""
+    user_review = hotel_info.get("userReview") or ""
+    hotel_name = hotel_info.get("hotelName", "")
+    address = hotel_info.get("address", "")
+
     prompt = f"""あなたは旅の魅力を伝えるプロの旅行ライターです。
 以下の宿情報をもとに、特集テーマ「{theme_title}」に合わせた魅力的な紹介文を作成してください。
 
 【宿データ】
-- 宿名: {hotel_info['hotelName']}
-- 所在地: {hotel_info['address']}
-- 特徴・設備: {hotel_info['hotelSpecial']}
-- 宿泊者の声: {hotel_info['userReview'][:250]}
+- 宿名: {hotel_name}
+- 所在地: {address}
+- 特徴・設備: {special}
+- 宿泊者の声: {user_review[:250]}
 
 【生成ルール】
 1. AI特有の「〜はいかがでしょうか」「ご紹介します」「必見です」などの決まり文句は絶対に使わないこと。
 2. 宿の具体的な魅力（湯船、料理、景色、客室、過ごし方）に触れ、旅行者が「ここに泊まりたい」と直感するリアルで情緒ある文章にすること。
-3. 以下のJSONフォーマットのみを出力してください（Markdownのバッククォート等も不要）：
+3. 文末が途中で切れたり、句読点が連続する（「。。」等）ミスは絶対に無くし、完全な文で完結させること。
+4. 以下のJSONフォーマットのみを出力してください（Markdownのバッククォート等も不要）：
 {{
-  "catchCopy": "30文字以内の惹きつけるキャッチコピー",
-  "expertReview": "130〜180文字程度の情緒あふれる解説文",
+  "catchCopy": "途中で途切れない完全な文としてのキャッチコピー（40文字以内）",
+  "expertReview": "130〜180文字程度の情緒あふれる美しい解説文（句読点や語尾の完全な日本語文）",
   "planHighlights": ["特徴タグ1", "特徴タグ2", "特徴タグ3"]
 }}
 """
@@ -215,18 +255,46 @@ def curate_hotel_with_gemini(hotel_info, theme_title):
             cleaned = re.sub(r'^```json\s*', '', raw.strip())
             cleaned = re.sub(r'\s*```$', '', cleaned)
             parsed = json.loads(cleaned)
-            return parsed
+            catch = sanitize_sentence(parsed.get("catchCopy", ""))
+            review = sanitize_sentence(parsed.get("expertReview", ""))
+            tags = [t.strip() for t in parsed.get("planHighlights", []) if t.strip()]
+            if catch and review and not re.search(r'[のへとでがをに]$|\d+$', catch):
+                return {
+                    "catchCopy": catch,
+                    "expertReview": review,
+                    "planHighlights": tags
+                }
         except Exception:
             pass
 
     # フォールバック（Gemini未設定またはパース失敗時）
-    special = hotel_info.get("hotelSpecial", "")
-    catch = special[:32] if special else f"{hotel_info['hotelName']}で過ごす至福のひととき"
-    review = f"{hotel_info['address']}に位置する人気宿。{special[:120]}。旬の味覚と心地よい温泉で、特別な旅の時間を心ゆくまで堪能できます。"
+    h_name = hotel_info.get("hotelName", "")
+    catch = extract_clean_catchcopy(special, h_name)
+
+    # 句読点の重複「。。」を完全に排除した高品質フォールバック文章
+    address_part = hotel_info.get("address", "").strip()
+    special_clean = re.sub(r'[。、\s]+$', '', special.strip())
+    
+    parts = []
+    if address_part:
+        parts.append(f"{address_part}に佇む人気宿")
+    if special_clean:
+        # 特徴文から完全な1文を抽出
+        first_sentence = special_clean.split("。")[0].strip()
+        if len(first_sentence) > 10:
+            parts.append(first_sentence)
+    
+    body_core = "。".join(parts)
+    if body_core and not body_core.endswith("。"):
+        body_core += "。"
+    
+    review_text = f"{body_core}心地よい温泉と旬の美食を心ゆくまで味わい、日常の喧騒を離れてリフレッシュできる特別な滞在が叶います。"
+    review_final = sanitize_sentence(review_text)
+
     tags = ["天然温泉", "絶品会席", "楽天トラベル高評価"]
     return {
         "catchCopy": catch,
-        "expertReview": review,
+        "expertReview": review_final,
         "planHighlights": tags
     }
 
