@@ -319,3 +319,4 @@ showcase_iwate
 january-shizuoka-atami-10selection
 showcase_kagawa
 january-tokyo-meijijingu-10selection
+showcase_gifu
