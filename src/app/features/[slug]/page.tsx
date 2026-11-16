@@ -135,8 +135,8 @@ export default async function MonthlyFeaturePage({
 
         <div className="relative max-w-4xl mx-auto text-center space-y-4">
           <div className="inline-flex items-center gap-2 px-3.5 py-1.5 rounded-full text-xs font-bold tracking-wide uppercase bg-emerald-500/20 text-emerald-300 border border-emerald-500/40">
-            <span className="w-2 h-2 rounded-full bg-emerald-400 animate-pulse" />
-            {theme.monthLabel} リアルタイム自動更新・厳選特集
+            <span className="w-2 h-2 rounded-full bg-emerald-400" />
+            {theme.monthLabel} 旬の旅 特集
           </div>
 
           <h1 className="text-2xl sm:text-3xl md:text-4xl font-extrabold tracking-tight text-white leading-tight">
@@ -153,13 +153,13 @@ export default async function MonthlyFeaturePage({
 
           <div className="pt-4 flex flex-wrap items-center justify-center gap-4 text-xs sm:text-sm text-slate-300">
             <span className="inline-flex items-center gap-1.5 bg-slate-800/80 px-3 py-1 rounded-full border border-slate-700">
-              📊 掲載宿数: <strong className="text-emerald-400 font-bold">{sortedHotels.length}軒</strong>
+              🏨 厳選宿: <strong className="text-emerald-400 font-bold">{sortedHotels.length}選</strong>
             </span>
             <span className="inline-flex items-center gap-1.5 bg-slate-800/80 px-3 py-1 rounded-full border border-slate-700">
-              ⭐ 採点方式: <span className="text-amber-300">楽天トラベル実口コミレート順（TOP10動的入替）</span>
+              ⭐ 実際の宿泊者満足度順に厳選
             </span>
             <span className="inline-flex items-center gap-1.5 bg-slate-800/80 px-3 py-1 rounded-full border border-slate-700">
-              🕒 最終更新: {theme.updatedAt || theme.month}
+              🕒 記事更新: {theme.updatedAt || theme.month}
             </span>
           </div>
 
@@ -175,10 +175,10 @@ export default async function MonthlyFeaturePage({
           <div className="text-sm text-slate-700">
             <p className="font-bold text-slate-900 flex items-center gap-2">
               <span>🏆</span>
-              <span>今月の実力派宿・評価順ランキング構成</span>
+              <span>今月泊まりたい、本当におすすめできる名宿ランキング</span>
             </p>
             <p className="text-xs text-slate-500 mt-0.5">
-              高評価（★レート）上位10宿が堂々のTOP10に君臨。11位以降の宿も隠れた銘宿として下部に蓄積掲載されます。
+              口コミで極めて高い満足度を誇る上位10宿と、個性豊かな体験が魅力の注目宿を詳しくご紹介します。
             </p>
           </div>
           <div className="flex items-center gap-2">
@@ -186,14 +186,14 @@ export default async function MonthlyFeaturePage({
               href="#ranking-top10"
               className="text-xs sm:text-sm font-bold px-4 py-2 bg-emerald-600 hover:bg-emerald-700 text-white rounded-xl shadow-sm transition"
             >
-              TOP10を見る ↓
+              おすすめBEST10を見る ↓
             </a>
             {others.length > 0 && (
               <a
                 href="#other-collection"
                 className="text-xs sm:text-sm font-semibold px-3 py-2 bg-slate-100 hover:bg-slate-200 text-slate-700 rounded-xl transition"
               >
-                11位以下（{others.length}軒）
+                あわせて読みたい注目宿
               </a>
             )}
           </div>
@@ -208,10 +208,10 @@ export default async function MonthlyFeaturePage({
           <div className="border-b-2 border-emerald-500 pb-3 flex items-center justify-between">
             <h2 className="text-xl sm:text-2xl font-black text-slate-900 flex items-center gap-2">
               <span className="text-2xl">👑</span>
-              <span>【TOP 10】口コミ評価ランキング</span>
+              <span>旅好きが選ぶ！満足度BEST 10</span>
             </h2>
             <span className="text-xs text-emerald-700 font-semibold bg-emerald-50 px-2.5 py-1 rounded-md border border-emerald-200">
-              レート降順リアルタイム昇格
+              高評価順
             </span>
           </div>
 
@@ -356,10 +356,10 @@ export default async function MonthlyFeaturePage({
               <div>
                 <h2 className="text-lg sm:text-xl font-bold text-slate-900 flex items-center gap-2">
                   <span>✨</span>
-                  <span>【こちらも見逃せない】厳選注目宿コレクション（{others.length}軒）</span>
+                  <span>あわせて泊まりたい！独自の魅力が光る注目宿（{others.length}選）</span>
                 </h2>
                 <p className="text-xs text-slate-500 mt-1">
-                  TOP10に惜しくも届かなかったものの、独自の強みやコスパ・体験価値で高い人気を誇るおすすめ宿です。
+                  隠れた絶景露天やこだわりの郷土料理、コスパ抜群の滞在など、旅好きの間で評判の個性豊かな名宿です。
                 </p>
               </div>
             </div>
