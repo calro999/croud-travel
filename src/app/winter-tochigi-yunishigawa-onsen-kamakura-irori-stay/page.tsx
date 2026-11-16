@@ -359,7 +359,7 @@ export default function TochigiYunishigawaOnsenWinterPage() {
                     </div>
 
                     <div className="pt-3 border-t border-stone-100 flex items-center justify-between">
-                      <div className="text-[11px] text-stone-500 truncate max-w-[200px]">
+                      <div className="text-[11px] text-stone-500 break-words max-w-[200px]">
                         {h.access}
                       </div>
                       <a 
@@ -537,21 +537,21 @@ export default function TochigiYunishigawaOnsenWinterPage() {
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-amber-700 font-bold block text-[10px]">栃木・板室温泉</span>
-              <p className="font-bold text-stone-800 line-clamp-2">開湯1000年「下野の薬湯」板室温泉・名物立ち湯と極上那須黒毛和牛名宿</p>
+              <p className="font-bold text-stone-800">開湯1000年「下野の薬湯」板室温泉・名物立ち湯と極上那須黒毛和牛名宿</p>
             </Link>
             <Link 
               href="/winter-tochigi-kinugawa-onsen-valley-snow-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-amber-700 font-bold block text-[10px]">栃木・鬼怒川温泉</span>
-              <p className="font-bold text-stone-800 line-clamp-2">鬼怒川渓谷の雪景色と名湯・とちぎ和牛すき焼き＆冬の絶景リゾート</p>
+              <p className="font-bold text-stone-800">鬼怒川渓谷の雪景色と名湯・とちぎ和牛すき焼き＆冬の絶景リゾート</p>
             </Link>
             <Link 
               href="/winter-gunma-oigami-onsen-fukiware-joshugyu-soba-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-amber-700 font-bold block text-[10px]">群馬・老神温泉</span>
-              <p className="font-bold text-stone-800 line-clamp-2">初冬の片品渓谷美と美肌単純硫黄泉・極上上州牛すき焼き名宿</p>
+              <p className="font-bold text-stone-800">初冬の片品渓谷美と美肌単純硫黄泉・極上上州牛すき焼き名宿</p>
             </Link>
           
       <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">

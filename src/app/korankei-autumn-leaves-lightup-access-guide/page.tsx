@@ -338,16 +338,16 @@ export default function KorankeiAutumnLeavesAccessPage() {
                       )}
                     </div>
 
-                    <h3 className="text-base font-bold font-serif text-white line-clamp-2 group-hover:text-red-300 transition">{hotel.hotelName}</h3>
+                    <h3 className="text-base font-bold font-serif text-white group-hover:text-red-300 transition">{hotel.hotelName}</h3>
 
                     {hotel.hotelSpecial && (
-                      <p className="text-xs text-stone-400 line-clamp-3 leading-relaxed">
+                      <p className="text-xs text-stone-400 leading-relaxed">
                         {hotel.hotelSpecial}
                       </p>
                     )}
 
                     {hotel.access && (
-                      <p className="text-[11px] text-stone-500 line-clamp-2 border-t border-stone-800 pt-2">
+                      <p className="text-[11px] text-stone-500 border-t border-stone-800 pt-2">
                         📍 {hotel.access}
                       </p>
                     )}
@@ -475,19 +475,19 @@ export default function KorankeiAutumnLeavesAccessPage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/furusato-tax-radium-radon-hotspring-healing-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">奇跡のホルミシス効果！世界屈指のラジウム・ラドン名湯温泉＆本格湯治名旅館×ふるさと納税厳選ガイド鳥取三朝・愛知猿投・新潟村杉</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">奇跡のホルミシス効果！世界屈指のラジウム・ラドン名湯温泉＆本格湯治名旅館×ふるさと納税厳選ガイド鳥取三朝・愛知猿投・新潟村杉</span>
             </a>
             <a href="/japan-top-brand-jidori-chicken-feast-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「日本三大地鶏＆銘柄鶏の宿」比内地鶏・名古屋コーチン・さつま地鶏・阿波尾鶏 厳選ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「日本三大地鶏＆銘柄鶏の宿」比内地鶏・名古屋コーチン・さつま地鶏・阿波尾鶏 厳選ガイド</span>
             </a>
             <a href="/nagoya-kanazawa-bus-vs-train-guide/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「名古屋から金沢 安く行く方法」特急しらさぎ vs 直行高速バス徹底比較！乗り換えなし1泊2日モデルコース</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「名古屋から金沢 安く行く方法」特急しらさぎ vs 直行高速バス徹底比較！乗り換えなし1泊2日モデルコース</span>
             </a>
             <a href="/silver-week-glamping-tokai-shizuoka-aichi-guide/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「東海シルバーウィーク グランピング」 静岡・伊豆・愛知おすすめ宿厳選 海鮮浜焼きBBQ＆秋の味覚体験ステイ</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「東海シルバーウィーク グランピング」 静岡・伊豆・愛知おすすめ宿厳選 海鮮浜焼きBBQ＆秋の味覚体験ステイ</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

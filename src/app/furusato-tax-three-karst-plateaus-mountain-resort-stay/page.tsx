@@ -168,7 +168,7 @@ export default function Page() {
                   <p className="text-xs text-slate-500 mt-0.5">
                     🚆 山陽本線小月駅よりバスにて１時間/小月ＩＣから（約30分）/美祢ＩＣから（約30分）
                   </p>
-                  <p className="text-sm text-slate-600 mt-3 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-slate-600 mt-3 leading-relaxed">
                     バリアフリー設備充実の家庭的旅館。pH9.8の秘湯『俵山温泉』！美肌や神経痛に効果的★湯治にも◎
                   </p>
                 </div>
@@ -228,7 +228,7 @@ export default function Page() {
                   <p className="text-xs text-slate-500 mt-0.5">
                     🚆 お車…小月I.C.もしくは美祢I.C.（中国自動車道）から約40分 / 電車…ＪＲ美祢線・長門湯本駅よりバスで20分
                   </p>
-                  <p className="text-sm text-slate-600 mt-3 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-slate-600 mt-3 leading-relaxed">
                     町の湯まで徒歩2分。白猿の湯も徒歩圏内ですので街並みをのんびりと歩きながら湯巡りを楽しんで頂けます。
                   </p>
                 </div>
@@ -288,7 +288,7 @@ export default function Page() {
                   <p className="text-xs text-slate-500 mt-0.5">
                     🚆 美祢線　長門湯本駅より徒歩８分／中国自動車道　美祢ＩＣより３０分
                   </p>
-                  <p className="text-sm text-slate-600 mt-3 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-slate-600 mt-3 leading-relaxed">
                     木の香漂う和風の旅館。掛けながしの天然温泉と女将の心のこもった手料理でおもてなしいたします。
                   </p>
                 </div>
@@ -362,7 +362,7 @@ export default function Page() {
                   <p className="text-xs text-slate-500 mt-0.5">
                     🚆 土佐新荘駅より車で約３０分
                   </p>
-                  <p className="text-sm text-slate-600 mt-3 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-slate-600 mt-3 leading-relaxed">
                     奥四万十のシンプルでスローなくつろぎ時間／地元のお母ちゃんが丁寧に作るお料理と故郷のようなおもてなし
                   </p>
                 </div>
@@ -422,7 +422,7 @@ export default function Page() {
                   <p className="text-xs text-slate-500 mt-0.5">
                     🚆 ＪＲ　須崎駅よりお車にて約６０分
                   </p>
-                  <p className="text-sm text-slate-600 mt-3 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-slate-600 mt-3 leading-relaxed">
                     【一日一組】和紙に触れ、里山に暮らすゲストハウス。
                   </p>
                 </div>
@@ -496,7 +496,7 @@ export default function Page() {
                   <p className="text-xs text-slate-500 mt-0.5">
                     🚆 【ＪＲ苅田駅東口】850m徒歩10分【北九州空港】11Kmタクシーで12分【苅田北九州空港IC】5Km車で5分
                   </p>
-                  <p className="text-sm text-slate-600 mt-3 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-slate-600 mt-3 leading-relaxed">
                     JR苅田駅から徒歩11分　北九州空港からタクシーで14分　満足の広さ、安心の使いやすさ。
                   </p>
                 </div>
@@ -556,7 +556,7 @@ export default function Page() {
                   <p className="text-xs text-slate-500 mt-0.5">
                     🚆 ＪＲ　小倉駅　小倉城口（南口）より徒歩にて約４分◆JR　博多駅から新幹線で約20分（ひと駅）◆モノレール沿い
                   </p>
-                  <p className="text-sm text-slate-600 mt-3 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-slate-600 mt-3 leading-relaxed">
                     お得なクーポン配布中！◆ＪＲ小倉駅南口より徒歩４分◆
                   </p>
                 </div>
@@ -616,7 +616,7 @@ export default function Page() {
                   <p className="text-xs text-slate-500 mt-0.5">
                     🚆 ＪＲ日豊本線　苅田駅徒歩0分／北九州空港より車で約１5分
                   </p>
-                  <p className="text-sm text-slate-600 mt-3 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-slate-600 mt-3 leading-relaxed">
                     ＷＯＷＯＷ全室で無料視聴可■VODルームシアター無料視聴可能（一般映画のみ：コンフォートルーム特典）
                   </p>
                 </div>
@@ -793,19 +793,19 @@ export default function Page() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/winter-iwate-tsunagi-onsen-koiwai-illumination-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12月盛岡つなぎ温泉の冬名湯と小岩井イルミ】銀河農場の夜・秀峰岩手山雪見露天と極上前沢牛会席の宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">【11・12月盛岡つなぎ温泉の冬名湯と小岩井イルミ】銀河農場の夜・秀峰岩手山雪見露天と極上前沢牛会席の宿5選</span>
             </a>
             <a href="/furusato-tax-iwate-hachimantai-appikogen-autumn-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">岩手・八幡平アスピーテラインの紅葉パノラマ＆安比高原！秘湯名湯と前沢牛・杜陵ポーク</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">岩手・八幡平アスピーテラインの紅葉パノラマ＆安比高原！秘湯名湯と前沢牛・杜陵ポーク</span>
             </a>
             <a href="/iwate-morioka-tsunagi-solo-retreat-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">盛岡つなぎ温泉ひとり旅・御所湖畔と岩手山おこもり：源泉かけ流し単純硫黄泉・前沢牛＆盛岡冷麺・南部鉄器文化！新幹線盛岡駅25分の名湯厳選3宿</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">盛岡つなぎ温泉ひとり旅・御所湖畔と岩手山おこもり：源泉かけ流し単純硫黄泉・前沢牛＆盛岡冷麺・南部鉄器文化！新幹線盛岡駅25分の名湯厳選3宿</span>
             </a>
             <a href="/winter-iwate-hachimantai-matsukawa-onsen-snow-maesawagyu-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12月岩手・八幡平温泉郷＆松川温泉】白銀の樹氷と乳白色雪見秘湯・極上前沢牛と南部鉄器すき焼きを堪能する名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">【11・12月岩手・八幡平温泉郷＆松川温泉】白銀の樹氷と乳白色雪見秘湯・極上前沢牛と南部鉄器すき焼きを堪能する名宿5選</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

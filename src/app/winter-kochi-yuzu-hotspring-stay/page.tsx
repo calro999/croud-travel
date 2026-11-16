@@ -404,19 +404,19 @@ export default function FeaturePage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/winter-kochi-ashizuri-onsen-ocean-starry-katsuo-tosa-beef-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">初冬の黒潮絶景と満天の星空 戻り鰹藁焼きタタキ＆幻の土佐あかうし会席を堪能する名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">初冬の黒潮絶景と満天の星空 戻り鰹藁焼きタタキ＆幻の土佐あかうし会席を堪能する名宿5選</span>
             </a>
             <a href="/winter-kochi-muroto-daruma-sunrise-kinmedai-deepsea-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「11・12・1月高知」太平洋の奇跡「だるま朝日・だるま夕日」と冬の極上「室戸キンメダイ」・御厨人窟初日の出＆海洋深層水リゾート宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「11・12・1月高知」太平洋の奇跡「だるま朝日・だるま夕日」と冬の極上「室戸キンメダイ」・御厨人窟初日の出＆海洋深層水リゾート宿5選</span>
             </a>
             <a href="/japan-bakumatsu-ishin-samurai-history-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「幕末維新の歴史浪漫宿」萩・会津若松・高知・薩摩・龍馬ゆかりの宿 厳選ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「幕末維新の歴史浪漫宿」萩・会津若松・高知・薩摩・龍馬ゆかりの宿 厳選ガイド</span>
             </a>
             <a href="/autumn-budget-kochi-castle-hirome-market-onsen-hotels-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「秋の高知×格安」高知城の紅葉とひろめ市場のカツオ藁焼き！大浴場付き1泊3,000円〜6,000円台のコスパ最強ホテル5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「秋の高知×格安」高知城の紅葉とひろめ市場のカツオ藁焼き！大浴場付き1泊3,000円〜6,000円台のコスパ最強ホテル5選</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

@@ -288,14 +288,14 @@ export default function SilverWeekGlampingSoloStayRetreatPage() {
                     )}
                   </div>
 
-                  <h3 className="font-black text-slate-900 text-base leading-snug group-hover:text-teal-700 transition line-clamp-2 font-journal-serif">{hotel.hotelName}</h3>
+                  <h3 className="font-black text-slate-900 text-base leading-snug group-hover:text-teal-700 transition font-journal-serif">{hotel.hotelName}</h3>
 
-                  <p className="text-xs text-slate-600 line-clamp-3 leading-relaxed font-medium">
+                  <p className="text-xs text-slate-600 leading-relaxed font-medium">
                     {hotel.hotelSpecial || "静寂の森に囲まれたプライベート空間。マイペースに焚き火や読書を楽しみながら心身をリセットするソロステイ。"}
                   </p>
 
                   {hotel.access && (
-                    <p className="text-[11px] text-slate-500 line-clamp-1">
+                    <p className="text-[11px] text-slate-500">
                       🚗 {hotel.access}
                     </p>
                   )}
@@ -380,7 +380,7 @@ export default function SilverWeekGlampingSoloStayRetreatPage() {
             <span className="text-[10px] font-bold text-teal-700 bg-teal-50 px-2 py-0.5 rounded-full inline-block mb-1.5">
               車なし北アルプス・清流リトリート
             </span>
-            <div className="font-bold text-xs sm:text-sm text-slate-900 group-hover:text-teal-700 transition line-clamp-2">
+            <div className="font-bold text-xs sm:text-sm text-slate-900 group-hover:text-teal-700 transition">
               【上高地・松本 車なし観光モデルコース】特急あずさ＆上高地線で巡る神降ちる山岳リゾート
             </div>
           </Link>
@@ -392,7 +392,7 @@ export default function SilverWeekGlampingSoloStayRetreatPage() {
             <span className="text-[10px] font-bold text-slate-700 bg-slate-100 px-2 py-0.5 rounded-full inline-block mb-1.5">
               夜行バス熟睡パッキング術
             </span>
-            <div className="font-bold text-xs sm:text-sm text-slate-900 group-hover:text-teal-700 transition line-clamp-2">
+            <div className="font-bold text-xs sm:text-sm text-slate-900 group-hover:text-teal-700 transition">
               【夜行高速バス 快適パッキング＆熟睡ガイド】首が痛くならない枕・快眠グッズ＆座席選び
             </div>
           </Link>

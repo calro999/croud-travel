@@ -465,19 +465,19 @@ export default function Page() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/furusato-tax-three-famous-confections-historic-town-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">日本三大銘菓＆城下町の伝統茶寮・老舗和菓子文化宿×ふるさと納税厳選ガイド金沢・長岡・京都</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">日本三大銘菓＆城下町の伝統茶寮・老舗和菓子文化宿×ふるさと納税厳選ガイド金沢・長岡・京都</span>
             </a>
             <a href="/furusato-tax-three-great-zen-temples-mindfulness-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">日本三大禅寺＆静寂の枯山水庭園・心洗われる坐禅・精進料理宿×ふるさと納税厳選ガイド京都南禅寺・鎌倉建長寺・福井永平寺</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">日本三大禅寺＆静寂の枯山水庭園・心洗われる坐禅・精進料理宿×ふるさと納税厳選ガイド京都南禅寺・鎌倉建長寺・福井永平寺</span>
             </a>
             <a href="/kyoto-couple-luxury-ryokan-guide/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">京都カップル旅行 おすすめ高級旅館＆町家ホテル：祇園・嵐山で二人きりの特別な夜を過ごす大人の宿</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">京都カップル旅行 おすすめ高級旅館＆町家ホテル：祇園・嵐山で二人きりの特別な夜を過ごす大人の宿</span>
             </a>
             <a href="/kyoto-travel-budget-how-many-nights/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">京都旅行 何泊がベスト？：1泊2日 vs 2泊3日 費用・満足度・モデルコース徹底比較</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">京都旅行 何泊がベスト？：1泊2日 vs 2泊3日 費用・満足度・モデルコース徹底比較</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

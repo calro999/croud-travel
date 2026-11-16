@@ -587,7 +587,7 @@ export default function NaganoKisojiNaraiTsumagoWinterPage() {
                 <span className="inline-block px-2 py-0.5 bg-orange-950/80 border border-orange-400/40 text-orange-300 text-[10px] font-bold rounded-md mb-2">
                   岐阜・飛騨高山温泉
                 </span>
-                <h3 className="font-bold text-white text-sm group-hover:text-orange-300 transition-colors line-clamp-2">白銀の古い町並み雪景色と飛騨高山温泉・A5飛騨牛すき焼き＆新酒利き酒</h3>
+                <h3 className="font-bold text-white text-sm group-hover:text-orange-300 transition-colors">白銀の古い町並み雪景色と飛騨高山温泉・A5飛騨牛すき焼き＆新酒利き酒</h3>
               </div>
               <span className="text-xs text-orange-400 font-semibold mt-3 flex items-center gap-1 group-hover:translate-x-1 transition-transform">
                 特集を見る →
@@ -602,7 +602,7 @@ export default function NaganoKisojiNaraiTsumagoWinterPage() {
                 <span className="inline-block px-2 py-0.5 bg-orange-950/80 border border-orange-400/40 text-orange-300 text-[10px] font-bold rounded-md mb-2">
                   滋賀・近江八幡＆彦根
                 </span>
-                <h3 className="font-bold text-white text-sm group-hover:text-orange-300 transition-colors line-clamp-2">近江八幡水郷雪景色と国宝彦根城雪化粧・近江牛すき焼き＆琵琶湖名宿</h3>
+                <h3 className="font-bold text-white text-sm group-hover:text-orange-300 transition-colors">近江八幡水郷雪景色と国宝彦根城雪化粧・近江牛すき焼き＆琵琶湖名宿</h3>
               </div>
               <span className="text-xs text-orange-400 font-semibold mt-3 flex items-center gap-1 group-hover:translate-x-1 transition-transform">
                 特集を見る →
@@ -617,7 +617,7 @@ export default function NaganoKisojiNaraiTsumagoWinterPage() {
                 <span className="inline-block px-2 py-0.5 bg-orange-950/80 border border-orange-400/40 text-orange-300 text-[10px] font-bold rounded-md mb-2">
                   奈良・洞川温泉
                 </span>
-                <h3 className="font-bold text-white text-sm group-hover:text-orange-300 transition-colors line-clamp-2">雪化粧の提灯灯る木造行者宿・大峯山麓洞川温泉のぼたん鍋＆名水とうふ</h3>
+                <h3 className="font-bold text-white text-sm group-hover:text-orange-300 transition-colors">雪化粧の提灯灯る木造行者宿・大峯山麓洞川温泉のぼたん鍋＆名水とうふ</h3>
               </div>
               <span className="text-xs text-orange-400 font-semibold mt-3 flex items-center gap-1 group-hover:translate-x-1 transition-transform">
                 特集を見る →
@@ -632,7 +632,7 @@ export default function NaganoKisojiNaraiTsumagoWinterPage() {
                 <span className="inline-block px-2 py-0.5 bg-orange-950/80 border border-orange-400/40 text-orange-300 text-[10px] font-bold rounded-md mb-2">
                   長野・昼神温泉
                 </span>
-                <h3 className="font-bold text-white text-sm group-hover:text-orange-300 transition-colors line-clamp-2">日本一の星空ナイトツアーとpH9.7強アルカリ美肌の湯・極上南信州牛名宿</h3>
+                <h3 className="font-bold text-white text-sm group-hover:text-orange-300 transition-colors">日本一の星空ナイトツアーとpH9.7強アルカリ美肌の湯・極上南信州牛名宿</h3>
               </div>
               <span className="text-xs text-orange-400 font-semibold mt-3 flex items-center gap-1 group-hover:translate-x-1 transition-transform">
                 特集を見る →
@@ -647,7 +647,7 @@ export default function NaganoKisojiNaraiTsumagoWinterPage() {
                 <span className="inline-block px-2 py-0.5 bg-orange-950/80 border border-orange-400/40 text-orange-300 text-[10px] font-bold rounded-md mb-2">
                   山梨・山中湖＆忍野八海
                 </span>
-                <h3 className="font-bold text-white text-sm group-hover:text-orange-300 transition-colors line-clamp-2">冬の澄天ダイヤモンド富士と忍野八海・熱々甲州ほうとう鍋富士見宿</h3>
+                <h3 className="font-bold text-white text-sm group-hover:text-orange-300 transition-colors">冬の澄天ダイヤモンド富士と忍野八海・熱々甲州ほうとう鍋富士見宿</h3>
               </div>
               <span className="text-xs text-orange-400 font-semibold mt-3 flex items-center gap-1 group-hover:translate-x-1 transition-transform">
                 特集を見る →
@@ -662,7 +662,7 @@ export default function NaganoKisojiNaraiTsumagoWinterPage() {
                 <span className="inline-block px-2 py-0.5 bg-orange-950/80 border border-orange-400/40 text-orange-300 text-[10px] font-bold rounded-md mb-2">
                   栃木・湯西川温泉
                 </span>
-                <h3 className="font-bold text-white text-sm group-hover:text-orange-300 transition-colors line-clamp-2">平家落人の隠れ里・雪見露天風呂と名物囲炉裏会席＆かまくら祭名宿</h3>
+                <h3 className="font-bold text-white text-sm group-hover:text-orange-300 transition-colors">平家落人の隠れ里・雪見露天風呂と名物囲炉裏会席＆かまくら祭名宿</h3>
               </div>
               <span className="text-xs text-orange-400 font-semibold mt-3 flex items-center gap-1 group-hover:translate-x-1 transition-transform">
                 特集を見る →

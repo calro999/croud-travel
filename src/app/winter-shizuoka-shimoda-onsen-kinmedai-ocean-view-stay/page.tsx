@@ -548,8 +548,8 @@ export default function ShizuokaShimodaWinterFeature() {
               className="group p-4 rounded-2xl bg-slate-50 hover:bg-cyan-50/60 border border-slate-100 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-cyan-700 bg-cyan-100/60 px-2 py-0.5 rounded-full inline-block">静岡・熱海</span>
-              <h4 className="text-xs font-bold text-slate-800 group-hover:text-cyan-800 transition line-clamp-2">初冬の熱海海上花火大会と金目鯛会席を愉しむ温泉宿</h4>
-              <p className="text-[11px] text-slate-500 line-clamp-2">
+              <h4 className="text-xs font-bold text-slate-800 group-hover:text-cyan-800 transition">初冬の熱海海上花火大会と金目鯛会席を愉しむ温泉宿</h4>
+              <p className="text-[11px] text-slate-500">
                 夜空を彩る冬花火と相模湾の海の幸を特等席で満喫。
               </p>
             </Link>
@@ -558,8 +558,8 @@ export default function ShizuokaShimodaWinterFeature() {
               className="group p-4 rounded-2xl bg-slate-50 hover:bg-cyan-50/60 border border-slate-100 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-cyan-700 bg-cyan-100/60 px-2 py-0.5 rounded-full inline-block">東伊豆・稲取</span>
-              <h4 className="text-xs font-bold text-slate-800 group-hover:text-cyan-800 transition line-clamp-2">稲取温泉の初冬海一望露天と伝統稲取金目鯛の姿煮宿</h4>
-              <p className="text-[11px] text-slate-500 line-clamp-2">
+              <h4 className="text-xs font-bold text-slate-800 group-hover:text-cyan-800 transition">稲取温泉の初冬海一望露天と伝統稲取金目鯛の姿煮宿</h4>
+              <p className="text-[11px] text-slate-500">
                 発祥の地で味わう濃厚な金目鯛の煮付けと絶景オーシャンビュー。
               </p>
             </Link>
@@ -568,8 +568,8 @@ export default function ShizuokaShimodaWinterFeature() {
               className="group p-4 rounded-2xl bg-slate-50 hover:bg-cyan-50/60 border border-slate-100 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-cyan-700 bg-cyan-100/60 px-2 py-0.5 rounded-full inline-block">中伊豆・修善寺</span>
-              <h4 className="text-xs font-bold text-slate-800 group-hover:text-cyan-800 transition line-clamp-2">修善寺温泉の名残紅葉と竹林の小径・伊豆の美食宿</h4>
-              <p className="text-[11px] text-slate-500 line-clamp-2">
+              <h4 className="text-xs font-bold text-slate-800 group-hover:text-cyan-800 transition">修善寺温泉の名残紅葉と竹林の小径・伊豆の美食宿</h4>
+              <p className="text-[11px] text-slate-500">
                 伊豆の小京都で過ごす静かな初冬の風情と名湯の寛ぎ。
               </p>
             </Link>
@@ -578,8 +578,8 @@ export default function ShizuokaShimodaWinterFeature() {
               className="group p-4 rounded-2xl bg-slate-50 hover:bg-cyan-50/60 border border-slate-100 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-cyan-700 bg-cyan-100/60 px-2 py-0.5 rounded-full inline-block">三重・鳥羽</span>
-              <h4 className="text-xs font-bold text-slate-800 group-hover:text-cyan-800 transition line-clamp-2">鳥羽温泉郷の初冬伊勢海老＆的矢かき会席と海の絶景宿</h4>
-              <p className="text-[11px] text-slate-500 line-clamp-2">
+              <h4 className="text-xs font-bold text-slate-800 group-hover:text-cyan-800 transition">鳥羽温泉郷の初冬伊勢海老＆的矢かき会席と海の絶景宿</h4>
+              <p className="text-[11px] text-slate-500">
                 伊勢志摩の豊かな海の恵みと波静かな鳥羽湾を望む名旅館。
               </p>
             </Link>

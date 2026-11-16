@@ -243,8 +243,8 @@ export default function HakoneVsAtamiPage() {
                     <img src={hotel.hotelImageUrl} alt={hotel.hotelName} className="w-full h-full object-cover" loading="eager" fetchPriority="high" decoding="async" />
                   </div>
                   <div className="p-5">
-                    <h3 className="font-bold text-lg mb-2 text-slate-800 line-clamp-2">{hotel.hotelName}</h3>
-                    <p className="text-sm text-slate-500 mb-4 line-clamp-2">{hotel.hotelSpecial}</p>
+                    <h3 className="font-bold text-lg mb-2 text-slate-800">{hotel.hotelName}</h3>
+                    <p className="text-sm text-slate-500 mb-4">{hotel.hotelSpecial}</p>
                     <div className="flex justify-between items-center mt-4">
                       <span className="text-teal-700 font-bold">
                         {hotel.hotelMinCharge ? `¥${hotel.hotelMinCharge.toLocaleString()}〜` : "価格未定"}

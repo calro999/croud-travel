@@ -367,19 +367,19 @@ export default function ArticlePage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/nagano-karuizawa-kyu-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「長野・旧軽井沢＆中軽井沢」雲場池・ハルニレテラス＆高原リゾート宿 厳選ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「長野・旧軽井沢＆中軽井沢」雲場池・ハルニレテラス＆高原リゾート宿 厳選ガイド</span>
             </a>
             <a href="/nagano-norikura-solo-retreat-milky-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「信州・乗鞍高原温泉ひとり旅・北アルプス白濁硫黄泉おこもり」乳白色源泉掛け流し・満天星空露天風呂・信州蕎麦と岩魚！乗鞍岳山麓の秘湯厳選3宿</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「信州・乗鞍高原温泉ひとり旅・北アルプス白濁硫黄泉おこもり」乳白色源泉掛け流し・満天星空露天風呂・信州蕎麦と岩魚！乗鞍岳山麓の秘湯厳選3宿</span>
             </a>
             <a href="/nagano-shibu-solo-retreat-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「信州渋温泉ひとり旅・九湯めぐり石畳おこもり」大正ロマン木造建築・厄除巡浴・信州牛！スノーモンキー近隣のノスタルジック温泉街厳選3宿</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「信州渋温泉ひとり旅・九湯めぐり石畳おこもり」大正ロマン木造建築・厄除巡浴・信州牛！スノーモンキー近隣のノスタルジック温泉街厳選3宿</span>
             </a>
             <a href="/nagano-shirahone-solo-retreat-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「信州白骨温泉ひとり旅・三日入れば三年風邪ひかない名湯おこもり」乳白色混浴大露天・湯元自家源泉・信州ジビエ！北アルプス深山の秘湯厳選3宿</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「信州白骨温泉ひとり旅・三日入れば三年風邪ひかない名湯おこもり」乳白色混浴大露天・湯元自家源泉・信州ジビエ！北アルプス深山の秘湯厳選3宿</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

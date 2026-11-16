@@ -42,7 +42,7 @@ export default function KawaguchikoAutumnPage() {
             <span className="px-3 py-1 bg-stone-800 text-amber-300 text-xs font-medium rounded-full border border-amber-400/30">見頃・まつり: 10月下旬〜11月中旬</span>
           </div>
           <h1 className="text-2xl md:text-4xl lg:text-5xl font-extrabold text-white leading-tight mb-4 drop-shadow-md">「秋の河口湖」もみじ回廊の紅葉まつりと富士山絶景！レイクサイド温泉を満喫するおすすめ名宿5選</h1>
-          <p className="text-stone-200 text-sm md:text-base max-w-3xl line-clamp-2 md:line-clamp-none">
+          <p className="text-stone-200 text-sm md:text-base max-w-3xl">
             湖畔を彩る約60本の古木が織りなす「もみじ回廊」の鮮烈な深紅。初冠雪をまとった霊峰富士と澄み切った湖水、夜間ライトアップの幻想的な輝きを客室や露天風呂から心ゆくまで堪能できる名宿をご案内します。
           </p>
         </div>
@@ -98,7 +98,7 @@ export default function KawaguchikoAutumnPage() {
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 河口湖駅 / 私鉄富士急行線　河口湖駅／中央自動車道　河口湖ＩＣより約４ｋｍ
                   </p>
-                  <p className="text-sm text-stone-600 mb-4 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-stone-600 mb-4 leading-relaxed">
                     富士山が見える大浴場＆展望足湯。富士山側と河口湖側の露天風呂付や豊富な部屋タイプ。ご夕食はお部屋で。
                   </p>
                 </div>
@@ -143,7 +143,7 @@ export default function KawaguchikoAutumnPage() {
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 富士吉田駅 / 富士急行線富士山駅より１３時～１８時の間無料送迎あり／車８分／駅到着時にお電話下さい／翌日のお送りは８：００より３０分毎
                   </p>
-                  <p className="text-sm text-stone-600 mb-4 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-stone-600 mb-4 leading-relaxed">
                     富士山の見える絶景露天風呂！【２０２４年プロが選んだ旅館１００選・全国総合８位】
                   </p>
                 </div>
@@ -188,7 +188,7 @@ export default function KawaguchikoAutumnPage() {
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 河口湖駅 / 車：中央自動車道富士吉田線河口湖ＩＣより１０分。 　電車、バス：富士急行河口湖駅より送迎アリ(詳細問合せ下さい)。
                   </p>
-                  <p className="text-sm text-stone-600 mb-4 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-stone-600 mb-4 leading-relaxed">
                     コンセプトは「人生を祝う」。大切な記念日に富士山を眺めながらゆっくり休み、家族みんなでお祝い下さい。
                   </p>
                 </div>
@@ -233,7 +233,7 @@ export default function KawaguchikoAutumnPage() {
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 河口湖駅 / 駅から無料送迎有■駐車場無料■河口湖駅から車で4分■富士急から車で7分河口湖ICから車で12分新宿駅からバスで約120分
                   </p>
-                  <p className="text-sm text-stone-600 mb-4 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-stone-600 mb-4 leading-relaxed">
                     山梨 富士山 河口湖 露天風呂 温泉 バイキング ブッフェ 温泉　貸切露天風呂
                   </p>
                 </div>
@@ -278,7 +278,7 @@ export default function KawaguchikoAutumnPage() {
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 富士急ハイランド駅 / 富士急ハイランド駅より徒歩５分♪ 　富士急行線河口湖駅より徒歩１６分 　中央自動車道河口湖ICより車で１０分
                   </p>
-                  <p className="text-sm text-stone-600 mb-4 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-stone-600 mb-4 leading-relaxed">
                     富士急ハイランドまで徒歩５分、大浴場・露天風呂あり！全室禁煙です
                   </p>
                 </div>

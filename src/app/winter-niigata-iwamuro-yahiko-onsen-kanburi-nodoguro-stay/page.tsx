@@ -568,7 +568,7 @@ export default function NiigataIwamuroYahikoWinterFeature() {
             >
               <span className="px-2 py-0.5 rounded bg-emerald-500/40 text-emerald-200 font-bold text-[10px]">新潟・エメラルド美肌湯</span>
               <h3 className="font-bold text-white text-sm">月岡温泉・エメラルドグリーンの硫黄泉と村上牛の宿</h3>
-              <p className="text-slate-300 text-[11px] line-clamp-2">国内随一の硫黄含有量を誇る美肌湯と越後美食。</p>
+              <p className="text-slate-300 text-[11px]">国内随一の硫黄含有量を誇る美肌湯と越後美食。</p>
             </Link>
 
             <Link 
@@ -577,7 +577,7 @@ export default function NiigataIwamuroYahikoWinterFeature() {
             >
               <span className="px-2 py-0.5 rounded bg-sky-500/40 text-sky-200 font-bold text-[10px]">越後湯沢・雪国日本酒</span>
               <h3 className="font-bold text-white text-sm">越後湯沢温泉・ぽんしゅ館の地酒巡りと雪見露天の宿</h3>
-              <p className="text-slate-300 text-[11px] line-clamp-2">新幹線直結の白銀リゾートと南魚沼産コシヒカリ。</p>
+              <p className="text-slate-300 text-[11px]">新幹線直結の白銀リゾートと南魚沼産コシヒカリ。</p>
             </Link>
 
             <Link 
@@ -586,7 +586,7 @@ export default function NiigataIwamuroYahikoWinterFeature() {
             >
               <span className="px-2 py-0.5 rounded bg-amber-500/40 text-amber-200 font-bold text-[10px]">富山・氷見寒ぶり</span>
               <h3 className="font-bold text-white text-sm">富山氷見温泉・本場ひみ寒ぶり尽くしと立山連峰絶景の宿</h3>
-              <p className="text-slate-300 text-[11px] line-clamp-2">富山湾越しに白銀の立山連峰を望む絶景と氷見寒ぶり。</p>
+              <p className="text-slate-300 text-[11px]">富山湾越しに白銀の立山連峰を望む絶景と氷見寒ぶり。</p>
             </Link>
 
             <Link 
@@ -595,7 +595,7 @@ export default function NiigataIwamuroYahikoWinterFeature() {
             >
               <span className="px-2 py-0.5 rounded bg-rose-500/40 text-rose-200 font-bold text-[10px]">福井・越前がに</span>
               <h3 className="font-bold text-white text-sm">三国温泉・黄色いタグの越前がにフルコースと東尋坊夕陽の宿</h3>
-              <p className="text-slate-300 text-[11px] line-clamp-2">11月解禁の本場越前がにと日本海に沈む夕日のパノラマ。</p>
+              <p className="text-slate-300 text-[11px]">11月解禁の本場越前がにと日本海に沈む夕日のパノラマ。</p>
             </Link>
           
       <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">

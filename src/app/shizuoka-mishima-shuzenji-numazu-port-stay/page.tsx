@@ -128,8 +128,8 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">富士山三島東急ホテル</h4>
-                      <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition">富士山三島東急ホテル</h4>
+                      <p className="text-xs text-stone-400 mt-1 leading-relaxed">
                         三島駅南口より徒歩1分★富士山の美しさを感じるアーバンリゾートホテル★最上階展望温浴施設がオススメ♪
                       </p>
                       <div className="mt-3 text-xs text-stone-300">
@@ -172,8 +172,8 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">東急バケーションズ富士山　三島</h4>
-                      <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition">東急バケーションズ富士山　三島</h4>
+                      <p className="text-xs text-stone-400 mt-1 leading-relaxed">
                         全室富士山ビューのゆったりとした客室、最上階の大浴場も開放的な露天風呂です
                       </p>
                       <div className="mt-3 text-xs text-stone-300">
@@ -216,8 +216,8 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">百年水の湯　富士山中湖ホテル</h4>
-                      <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition">百年水の湯　富士山中湖ホテル</h4>
+                      <p className="text-xs text-stone-400 mt-1 leading-relaxed">
                         高速バスターミナル旭日丘より徒歩1分。昔懐かしい面影を残し、気軽に「ただいま」と言えるそんな観光拠点
                       </p>
                       <div className="mt-3 text-xs text-stone-300">
@@ -260,8 +260,8 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">いやし処ほてる寛楽　富士山御殿場</h4>
-                      <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition">いやし処ほてる寛楽　富士山御殿場</h4>
+                      <p className="text-xs text-stone-400 mt-1 leading-relaxed">
                         御殿場ICから5分！観光・ビジネスの拠点に◆男女別大浴場で癒され、サータ製ベッドとマシュマロ枕で快眠
                       </p>
                       <div className="mt-3 text-xs text-stone-300">
@@ -346,8 +346,8 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">修善寺温泉　国の登録文化財の宿　新井旅館</h4>
-                      <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition">修善寺温泉　国の登録文化財の宿　新井旅館</h4>
+                      <p className="text-xs text-stone-400 mt-1 leading-relaxed">
                         ミシュランで二つ星の竹林の小径まで徒歩2分、修善寺温泉の中心で観光に便利です
                       </p>
                       <div className="mt-3 text-xs text-stone-300">
@@ -390,8 +390,8 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">修善寺温泉　瑞の里　〇久（まるきゅう）旅館</h4>
-                      <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition">修善寺温泉　瑞の里　〇久（まるきゅう）旅館</h4>
+                      <p className="text-xs text-stone-400 mt-1 leading-relaxed">
                         冷蔵庫飲物無料★2024「泳ぎ湯」「寝湯」新設★宴処新装★『お客様が選ぶ人気宿』常連宿
                       </p>
                       <div className="mt-3 text-xs text-stone-300">
@@ -434,8 +434,8 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">修善寺温泉　柳生の庄</h4>
-                      <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition">修善寺温泉　柳生の庄</h4>
+                      <p className="text-xs text-stone-400 mt-1 leading-relaxed">
                         修善寺温泉の奥にある閑静な旅館。本格懐石料理と露天風呂が好評。露天風呂付客室や離れもおすすめ。
                       </p>
                       <div className="mt-3 text-xs text-stone-300">
@@ -478,8 +478,8 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">とさわや旅館</h4>
-                      <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition">とさわや旅館</h4>
+                      <p className="text-xs text-stone-400 mt-1 leading-relaxed">
                         新鮮・豪快な海の幸に舌鼓☆目の前には駿河湾が広がる料理自慢の宿！
                       </p>
                       <div className="mt-3 text-xs text-stone-300">
@@ -564,8 +564,8 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">静鉄ホテルプレジオ沼津</h4>
-                      <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition">静鉄ホテルプレジオ沼津</h4>
+                      <p className="text-xs text-stone-400 mt-1 leading-relaxed">
                         ☆★楽天アワード3年連続受賞★☆　「港の朝ごはん」　全室バストイレ別　沼津駅近・PK有　
                       </p>
                       <div className="mt-3 text-xs text-stone-300">
@@ -608,8 +608,8 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">ホテルトレンド沼津駅前</h4>
-                      <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition">ホテルトレンド沼津駅前</h4>
+                      <p className="text-xs text-stone-400 mt-1 leading-relaxed">
                         駿河湾・富士山・富士サファリパーク・伊豆・三津シーパラダイスへ好アクセス！
                       </p>
                       <div className="mt-3 text-xs text-stone-300">
@@ -652,8 +652,8 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">ＫＯＫＯ　ＨＯＴＥＬ　沼津駅前</h4>
-                      <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition">ＫＯＫＯ　ＨＯＴＥＬ　沼津駅前</h4>
+                      <p className="text-xs text-stone-400 mt-1 leading-relaxed">
                         沼津駅前すぐ！らくらくアクセスでビジネス人気♪新東名「長泉沼津インター」からお車で15分
                       </p>
                       <div className="mt-3 text-xs text-stone-300">
@@ -696,8 +696,8 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">ホテル河内屋　伊豆下賀茂温泉　１００％源泉かけ流しの湯</h4>
-                      <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition">ホテル河内屋　伊豆下賀茂温泉　１００％源泉かけ流しの湯</h4>
+                      <p className="text-xs text-stone-400 mt-1 leading-relaxed">
                         【伊豆で初の温泉冷却装置導入！100％源泉掛け流し】金目鯛の煮付や伊勢海老など伊豆の海の幸をご堪能！
                       </p>
                       <div className="mt-3 text-xs text-stone-300">
@@ -825,19 +825,19 @@ export default function Page() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/luxury-private-onsen-with-scenic-bamboo-deck/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「竹林の静寂美」夜のライトアップとプライベート竹林露天！京都・伊豆の風雅な離れ隠れ宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「竹林の静寂美」夜のライトアップとプライベート竹林露天！京都・伊豆の風雅な離れ隠れ宿5選</span>
             </a>
             <a href="/shizuoka-atagawa-inatori-kinmedai-hotspring-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「静岡・熱川温泉＆稲取・東伊豆」湯けむり温泉櫓・波打ち際露天＆稲取キンメ宿 厳選ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「静岡・熱川温泉＆稲取・東伊豆」湯けむり温泉櫓・波打ち際露天＆稲取キンメ宿 厳選ガイド</span>
             </a>
             <a href="/shizuoka-atami-solo-retreat-ocean-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「熱海温泉ひとり旅・海一望おこもり」相模湾オーシャンビュー・貸切源泉露天・熱海海上花火！昭和レトロと絶景リゾート厳選3宿</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「熱海温泉ひとり旅・海一望おこもり」相模湾オーシャンビュー・貸切源泉露天・熱海海上花火！昭和レトロと絶景リゾート厳選3宿</span>
             </a>
             <a href="/shizuoka-ito-solo-retreat-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「伊東温泉ひとり旅・相模湾オーシャンおこもり」毎分3万L湧出の名湯・貸切源泉露天・金目鯛姿煮！伊豆東海岸の温暖な湯の街厳選3宿</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「伊東温泉ひとり旅・相模湾オーシャンおこもり」毎分3万L湧出の名湯・貸切源泉露天・金目鯛姿煮！伊豆東海岸の温暖な湯の街厳選3宿</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

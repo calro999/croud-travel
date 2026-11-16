@@ -762,7 +762,7 @@ export default function NyutoWinterPage() {
             >
               <span className="text-[11px] font-bold text-teal-800 bg-teal-100/80 px-2 py-0.5 rounded">東北雪見秘湯</span>
               <h3 className="font-bold text-stone-900 text-sm group-hover:text-teal-900 transition-colors">青森酸ヶ湯温泉の千人風呂と八甲田雪見ステイ</h3>
-              <p className="text-xs text-stone-500 line-clamp-2">
+              <p className="text-xs text-stone-500">
                 総ヒバ造りの巨大な混浴千人風呂と濃厚な白濁硫黄泉、豪雪の秘湯。
               </p>
             </Link>
@@ -773,7 +773,7 @@ export default function NyutoWinterPage() {
             >
               <span className="text-[11px] font-bold text-amber-800 bg-amber-100/80 px-2 py-0.5 rounded">山形冬特集</span>
               <h3 className="font-bold text-stone-900 text-sm group-hover:text-amber-900 transition-colors">銀山温泉の初雪と大正浪漫・白銀のガス灯宿</h3>
-              <p className="text-xs text-stone-500 line-clamp-2">
+              <p className="text-xs text-stone-500">
                 銀山川沿いに並ぶ木造建築群とオレンジのガス灯、尾花沢牛会席。
               </p>
             </Link>
@@ -784,7 +784,7 @@ export default function NyutoWinterPage() {
             >
               <span className="text-[11px] font-bold text-sky-800 bg-sky-100/80 px-2 py-0.5 rounded">にごり湯特集</span>
               <h3 className="font-bold text-stone-900 text-sm group-hover:text-sky-900 transition-colors">万座温泉の標高1800m乳白色にごり湯と星空雪見風呂</h3>
-              <p className="text-xs text-stone-500 line-clamp-2">
+              <p className="text-xs text-stone-500">
                 日本一の硫黄含有量を誇る濃厚にごり湯と満天の星空を仰ぐパノラマ露天。
               </p>
             </Link>

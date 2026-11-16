@@ -154,8 +154,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     山梨県南都留郡富士河口湖町河口2092
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">河口湖カントリーコテージＢａｎ＆グランピングリゾート</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">河口湖カントリーコテージＢａｎ＆グランピングリゾート</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     富士山と河口湖が一望できる一棟貸切リゾート！楽天トラベル　グランピング人気宿「全国1位」
                   </p>
                   
@@ -198,8 +198,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     山梨県南都留郡富士河口湖町勝山3283－1
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">ＨＡＮＺ　ＯＵＴＤＯＯＲ　ＲＥＳＯＲＴ（旧：グランピングヴィラハンズ河口湖）</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">ＨＡＮＺ　ＯＵＴＤＯＯＲ　ＲＥＳＯＲＴ（旧：グランピングヴィラハンズ河口湖）</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     Relax if you can... 自然と寄り添い、遊びつくす
                   </p>
                   
@@ -242,8 +242,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     山梨県南都留郡富士河口湖町河口2044　Ｍｔ．Ｆｕｊｉグランピングテラス嶺乃華
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">Ｍｔ．Ｆｕｊｉグランピングテラス嶺乃華　＾</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">Ｍｔ．Ｆｕｊｉグランピングテラス嶺乃華　＾</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     　
                   </p>
                   
@@ -299,8 +299,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     熊本県阿蘇郡南阿蘇村長野1874-1
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">南阿蘇　Ｂｌｕｅ　Ｂｅｅ　Ｇａｒｄｅｎ</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">南阿蘇　Ｂｌｕｅ　Ｂｅｅ　Ｇａｒｄｅｎ</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     9000坪の広大な敷地に11棟だけのグランピング★天然温泉など南阿蘇の大自然の中で贅沢なひと時を
                   </p>
                   
@@ -343,8 +343,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     熊本県阿蘇郡南阿蘇村河陰3624
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">南阿蘇フィールドホテル</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">南阿蘇フィールドホテル</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     Place To Life Sketch　人生の特別な1コマを描く場所。
                   </p>
                   
@@ -387,8 +387,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     熊本県阿蘇郡南阿蘇村河陽5953-1
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">南阿蘇ＳＴＡＹＨＡＰＰＹ</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">南阿蘇ＳＴＡＹＨＡＰＰＹ</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     南阿蘇の大自然の中でグランピング＆地産地消食材で手ぶらでBBQ
                   </p>
                   
@@ -444,8 +444,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     栃木県那須郡那須町高久甲5461-1
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">那須温泉グランピング　Ｎｅｎｎ（ネン）</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">那須温泉グランピング　Ｎｅｎｎ（ネン）</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     那須高原で天然温泉も楽しめる一味違ったグランピングで素敵な時間をお過ごしください。
                   </p>
                   
@@ -488,8 +488,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     栃木県那須塩原市関谷1093-2
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">プライベートグランピング｜ＮＡＧＯＭＩ　ＣＡＭＰ那須</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">プライベートグランピング｜ＮＡＧＯＭＩ　ＣＡＭＰ那須</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     和モダンをコンセプトにした４組限定のプライベートグランピング｜サウナ有・犬と宿泊が可能
                   </p>
                   
@@ -532,8 +532,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     栃木県那須郡那須町湯本213-333
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">フォレストグランピングリゾート稜「ＩＴＵ」</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">フォレストグランピングリゾート稜「ＩＴＵ」</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     総客室数５室のプライベート重視のグランピング施設！トイレや浴室も隣接ＢＢＱハウス兼水回り棟に常設！
                   </p>
                   

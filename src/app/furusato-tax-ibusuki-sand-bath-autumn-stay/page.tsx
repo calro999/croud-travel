@@ -462,19 +462,19 @@ export default function Page() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/winter-kagoshima-ibusuki-onsen-sunamushi-black-pork-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12月指宿温泉の南国初冬リゾートと天然砂むし温泉】 開聞岳望む錦江湾露天・極上かごしま黒豚しゃぶしゃぶ＆薩摩美味会席の宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">【11・12月指宿温泉の南国初冬リゾートと天然砂むし温泉】 開聞岳望む錦江湾露天・極上かごしま黒豚しゃぶしゃぶ＆薩摩美味会席の宿5選</span>
             </a>
             <a href="/winter-kagoshima-kirishima-myoken-luxury-gajin-ishiharaso-kurobuta-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【天孫降臨の地・霧島連山と天降川渓流の極上源泉離れ宿】2026-2027年11-12月の鹿児島・霧島＆妙見温泉！「妙見石原荘」＆「忘れの里 雅叙苑」・自噴かけ流し温泉と黒毛和牛・黒</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">【天孫降臨の地・霧島連山と天降川渓流の極上源泉離れ宿】2026-2027年11-12月の鹿児島・霧島＆妙見温泉！「妙見石原荘」＆「忘れの里 雅叙苑」・自噴かけ流し温泉と黒毛和牛・黒</span>
             </a>
             <a href="/winter-kagoshima-yakushima-shiratani-jomon-onsen-kubiore-saba-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「静寂の原生林と白谷雲水峡・極上温泉」2026-2027年冬の屋久島！首折れサバと天然露天風呂宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「静寂の原生林と白谷雲水峡・極上温泉」2026-2027年冬の屋久島！首折れサバと天然露天風呂宿5選</span>
             </a>
             <a href="/winter-warm-island-escape/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「冬の避寒リゾート」寒さ知らず！沖縄・奄美大島ぽかぽか旅 厳選ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「冬の避寒リゾート」寒さ知らず！沖縄・奄美大島ぽかぽか旅 厳選ガイド</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

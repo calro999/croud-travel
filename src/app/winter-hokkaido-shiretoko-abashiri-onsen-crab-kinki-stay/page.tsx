@@ -601,21 +601,21 @@ export default function HokkaidoShiretokoAbashiriWinterPage() {
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-sky-700 font-bold block text-[10px]">北海道・トマム＆富良野</span>
-              <p className="font-bold text-stone-800 line-clamp-2">氷の街アイスヴィレッジと極上富良野和牛・ふらのチーズフォンデュの冬宿</p>
+              <p className="font-bold text-stone-800">氷の街アイスヴィレッジと極上富良野和牛・ふらのチーズフォンデュの冬宿</p>
             </Link>
             <Link 
               href="/winter-hokkaido-niseko-onsen-powder-snow-yotei-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-sky-700 font-bold block text-[10px]">北海道・ニセコ温泉</span>
-              <p className="font-bold text-stone-800 line-clamp-2">世界最高峰のパウダースノーと羊蹄山ビュー露天風呂・贅沢リゾートステイ</p>
+              <p className="font-bold text-stone-800">世界最高峰のパウダースノーと羊蹄山ビュー露天風呂・贅沢リゾートステイ</p>
             </Link>
             <Link 
               href="/winter-hokkaido-noboribetsu-onsen-snow-jigokudani-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-sky-700 font-bold block text-[10px]">北海道・登別温泉</span>
-              <p className="font-bold text-stone-800 line-clamp-2">白煙上げる冬の地獄谷と9種の泉質・北海タラバガニと名湯を堪能する名宿</p>
+              <p className="font-bold text-stone-800">白煙上げる冬の地獄谷と9種の泉質・北海タラバガニと名湯を堪能する名宿</p>
             </Link>
           
       <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">

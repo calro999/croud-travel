@@ -579,7 +579,7 @@ export default function KyotoOharaSanzeninPage() {
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-emerald-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-emerald-700 font-bold text-xs block mb-1">京都・貴船＆鞍馬</span>
-              <span className="text-stone-900 font-bold group-hover:text-emerald-800 transition-colors line-clamp-2">
+              <span className="text-stone-900 font-bold group-hover:text-emerald-800 transition-colors">
                 雪の貴船神社ライトアップと名物ぼたん鍋・冬の奥座敷名宿
               </span>
             </Link>
@@ -589,7 +589,7 @@ export default function KyotoOharaSanzeninPage() {
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-emerald-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-emerald-700 font-bold text-xs block mb-1">京都・嵐山温泉</span>
-              <span className="text-stone-900 font-bold group-hover:text-emerald-800 transition-colors line-clamp-2">
+              <span className="text-stone-900 font-bold group-hover:text-emerald-800 transition-colors">
                 渡月橋雪景色と竹林の小径・名物湯豆腐と嵐山温泉露天風呂名宿
               </span>
             </Link>
@@ -599,7 +599,7 @@ export default function KyotoOharaSanzeninPage() {
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-emerald-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-emerald-700 font-bold text-xs block mb-1">滋賀・比叡山＆おごと温泉</span>
-              <span className="text-stone-900 font-bold group-hover:text-emerald-800 transition-colors line-clamp-2">
+              <span className="text-stone-900 font-bold group-hover:text-emerald-800 transition-colors">
                 世界遺産比叡山延暦寺の冬参拝＆不滅の法灯と琵琶湖一望近江牛名宿
               </span>
             </Link>
@@ -609,7 +609,7 @@ export default function KyotoOharaSanzeninPage() {
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-emerald-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-emerald-700 font-bold text-xs block mb-1">兵庫・丹波篠山</span>
-              <span className="text-stone-900 font-bold group-hover:text-emerald-800 transition-colors line-clamp-2">
+              <span className="text-stone-900 font-bold group-hover:text-emerald-800 transition-colors">
                 本場ぼたん鍋発祥の味＆雪化粧の篠山城下町・丹波篠山牛名宿
               </span>
             </Link>
@@ -619,7 +619,7 @@ export default function KyotoOharaSanzeninPage() {
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-emerald-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-emerald-700 font-bold text-xs block mb-1">奈良・長谷寺＆大神神社</span>
-              <span className="text-stone-900 font-bold group-hover:text-emerald-800 transition-colors line-clamp-2">
+              <span className="text-stone-900 font-bold group-hover:text-emerald-800 transition-colors">
                 花の御寺・長谷寺の冬牡丹と三輪山大神神社初詣・極上大和牛名宿
               </span>
             </Link>
@@ -629,7 +629,7 @@ export default function KyotoOharaSanzeninPage() {
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-emerald-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-emerald-700 font-bold text-xs block mb-1">京都・湯の花温泉</span>
-              <span className="text-stone-900 font-bold group-hover:text-emerald-800 transition-colors line-clamp-2">
+              <span className="text-stone-900 font-bold group-hover:text-emerald-800 transition-colors">
                 亀岡霧の雲海露天風呂と冬の名物ぼたん鍋を味わう隠れ家名宿
               </span>
             </Link>

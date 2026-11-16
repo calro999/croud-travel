@@ -462,19 +462,19 @@ export default function Page() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/kyoto-temple-walking-shoes-outfit-mistakes-guide/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「京都寺社巡り 靴と服装の失敗談まとめ」 1日2万歩で足崩壊＆靴の脱ぎ履き地獄を回避するスマート参拝術</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「京都寺社巡り 靴と服装の失敗談まとめ」 1日2万歩で足崩壊＆靴の脱ぎ履き地獄を回避するスマート参拝術</span>
             </a>
             <a href="/kyoto-ujigawa-greentea-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「京都・宇治」平等院鳳凰堂・宇治茶＆源氏物語ゆかりの川畔宿 厳選ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「京都・宇治」平等院鳳凰堂・宇治茶＆源氏物語ゆかりの川畔宿 厳選ガイド</span>
             </a>
             <a href="/traditional-kaiseki-in-room-open-air-bath-kyoto/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「古都の情緒と旬の京会席（客室露天風呂で贅沢に寛ぐ京都の隠れ家名旅館5選）」古都の情緒と旬の京会席！客室露天風呂で贅沢に寛ぐ京都の隠れ家名旅館5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「古都の情緒と旬の京会席（客室露天風呂で贅沢に寛ぐ京都の隠れ家名旅館5選）」古都の情緒と旬の京会席！客室露天風呂で贅沢に寛ぐ京都の隠れ家名旅館5選</span>
             </a>
             <a href="/traditional-kyoto-ujicha-matcha-sweets-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「宇治抹茶スイーツ＆京懐石」老舗茶寮の贅沢甘味と嵐山・東山・宇治の風雅名湯宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「宇治抹茶スイーツ＆京懐石」老舗茶寮の贅沢甘味と嵐山・東山・宇治の風雅名湯宿5選</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

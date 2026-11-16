@@ -343,9 +343,9 @@ export default function HighwayBusArticlePage() {
                         <span>⭐ {hotel.reviewAverage}点（{hotel.reviewCount}件）</span>
                       </div>
                     )}
-                    <h3 className="text-xs md:text-sm font-black font-journal-serif text-slate-900 line-clamp-2">{hotel.hotelName}</h3>
+                    <h3 className="text-xs md:text-sm font-black font-journal-serif text-slate-900">{hotel.hotelName}</h3>
                     {hotel.hotelSpecial && (
-                      <p className="text-[11px] text-slate-600 line-clamp-2 font-medium">
+                      <p className="text-[11px] text-slate-600 font-medium">
                         {hotel.hotelSpecial}
                       </p>
                     )}

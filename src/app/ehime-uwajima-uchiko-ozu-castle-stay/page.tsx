@@ -128,8 +128,8 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">ＣＡＮＤＥＯ　ＨＯＴＥＬＳ（カンデオホテルズ）松山大街道</h4>
-                      <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition">ＣＡＮＤＥＯ　ＨＯＴＥＬＳ（カンデオホテルズ）松山大街道</h4>
+                      <p className="text-xs text-stone-400 mt-1 leading-relaxed">
                         歴史と文化の街・松山の中心地、大街道に誕生した新たな街のシンボル。
                       </p>
                       <div className="mt-3 text-xs text-stone-300">
@@ -172,8 +172,8 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">ホテルイシバシ</h4>
-                      <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition">ホテルイシバシ</h4>
+                      <p className="text-xs text-stone-400 mt-1 leading-relaxed">
                         【夕食評価★4.5】JR宇和島駅10分＆大浴場完備/全室wi-fi・無料駐車場・有料レンタル自転車
                       </p>
                       <div className="mt-3 text-xs text-stone-300">
@@ -216,8 +216,8 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">道後ｈａｋｕｒｏ</h4>
-                      <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition">道後ｈａｋｕｒｏ</h4>
+                      <p className="text-xs text-stone-400 mt-1 leading-relaxed">
                         2020年ＯＰＥＮ★松山・道後の旅もっと気軽に自由に思い思いに楽しむ温泉ライフスタイルホテル
                       </p>
                       <div className="mt-3 text-xs text-stone-300">
@@ -260,8 +260,8 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">奥道後　壱湯の守（いちゆのもり）</h4>
-                      <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition">奥道後　壱湯の守（いちゆのもり）</h4>
+                      <p className="text-xs text-stone-400 mt-1 leading-relaxed">
                         【西日本最大級の露天風呂で湯巡り♪】道後から車で１０分！大自然に佇む美人湯の宿
                       </p>
                       <div className="mt-3 text-xs text-stone-300">
@@ -346,8 +346,8 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">ＮＩＰＰＯＮＩＡ　ＨＯＴＥＬ　大洲　城下町</h4>
-                      <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition">ＮＩＰＰＯＮＩＡ　ＨＯＴＥＬ　大洲　城下町</h4>
+                      <p className="text-xs text-stone-400 mt-1 leading-relaxed">
                         【松山から約1時間】大洲城下町をまるごとひとつのホテルに見立てた分散型ホテル
                       </p>
                       <div className="mt-3 text-xs text-stone-300">
@@ -390,8 +390,8 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">八幡浜センチュリーホテル　イトー</h4>
-                      <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition">八幡浜センチュリーホテル　イトー</h4>
+                      <p className="text-xs text-stone-400 mt-1 leading-relaxed">
                         四国随一の魚どころに位置するホテル　全室LAN有り ランチメニューの八幡浜ちゃんぽんが好評
                       </p>
                       <div className="mt-3 text-xs text-stone-300">
@@ -434,8 +434,8 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">道後プリンスホテル～旬華趣湯　あったらいいな、が湧く湯宿～</h4>
-                      <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition">道後プリンスホテル～旬華趣湯　あったらいいな、が湧く湯宿～</h4>
+                      <p className="text-xs text-stone-400 mt-1 leading-relaxed">
                         シルバーアワード受賞♪あったらいいな、が沸く湯宿＊wi-fi完備・道後温泉駅～レトロバスで無料送迎
                       </p>
                       <div className="mt-3 text-xs text-stone-300">
@@ -478,8 +478,8 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">山の手別邸葉隠れ</h4>
-                      <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition">山の手別邸葉隠れ</h4>
+                      <p className="text-xs text-stone-400 mt-1 leading-relaxed">
                         一棟一棟が完全に離れのお部屋は全室に道後温泉からの引き湯の露天風桧風呂をご用意しております。
                       </p>
                       <div className="mt-3 text-xs text-stone-300">
@@ -564,8 +564,8 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">スーパーホテル愛媛・大洲インター　天然温泉「朝霧の湯」</h4>
-                      <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition">スーパーホテル愛媛・大洲インター　天然温泉「朝霧の湯」</h4>
+                      <p className="text-xs text-stone-400 mt-1 leading-relaxed">
                         男女別天然温泉＆無料の平面駐車場完備♪日替わり健康朝食ビュッフェで元気にご出発！
                       </p>
                       <div className="mt-3 text-xs text-stone-300">
@@ -608,8 +608,8 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">ＮＩＰＰＯＮＩＡ　ＨＯＴＥＬ　大洲　城下町</h4>
-                      <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition">ＮＩＰＰＯＮＩＡ　ＨＯＴＥＬ　大洲　城下町</h4>
+                      <p className="text-xs text-stone-400 mt-1 leading-relaxed">
                         【松山から約1時間】大洲城下町をまるごとひとつのホテルに見立てた分散型ホテル
                       </p>
                       <div className="mt-3 text-xs text-stone-300">
@@ -652,8 +652,8 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">スーパーホテル八幡浜</h4>
-                      <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition">スーパーホテル八幡浜</h4>
+                      <p className="text-xs text-stone-400 mt-1 leading-relaxed">
                         焼き立てパン朝食無料！
                       </p>
                       <div className="mt-3 text-xs text-stone-300">
@@ -696,8 +696,8 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">山の手別邸葉隠れ</h4>
-                      <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition">山の手別邸葉隠れ</h4>
+                      <p className="text-xs text-stone-400 mt-1 leading-relaxed">
                         一棟一棟が完全に離れのお部屋は全室に道後温泉からの引き湯の露天風桧風呂をご用意しております。
                       </p>
                       <div className="mt-3 text-xs text-stone-300">
@@ -825,19 +825,19 @@ export default function Page() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/autumn-budget-ehime-matsuyama-station-castle-taimeshi-hotels-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「松山市駅・大街道」松山城紅葉＆名物鯛めし！2,000円台〜泊まれる格安・高コスパ宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「松山市駅・大街道」松山城紅葉＆名物鯛めし！2,000円台〜泊まれる格安・高コスパ宿5選</span>
             </a>
             <a href="/ehime-shimanami-kaido-imabari-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「愛媛・しまなみ海道＆今治」来島海峡大橋・多島美サイクリング＆来島鯛極上宿 厳選ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「愛媛・しまなみ海道＆今治」来島海峡大橋・多島美サイクリング＆来島鯛極上宿 厳選ガイド</span>
             </a>
             <a href="/furusato-tax-dogo-onsen-honkan-heritage-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">道後温泉をふるさと納税でお得に旅する！日本最古の名湯・道後温泉本館＆飛鳥乃湯泉！名門老舗宿ガイド｜ふなや・道後御湯・茶玻瑠</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">道後温泉をふるさと納税でお得に旅する！日本最古の名湯・道後温泉本館＆飛鳥乃湯泉！名門老舗宿ガイド｜ふなや・道後御湯・茶玻瑠</span>
             </a>
             <a href="/furusato-tax-nametoko-gorge-uwajima-autumn-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">滑床渓谷「雪輪の滝」紅葉キャニオニング美＆本場宇和島鯛めし・道後奥道後温泉ステイ｜ふるさと納税で泊まれる名宿ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">滑床渓谷「雪輪の滝」紅葉キャニオニング美＆本場宇和島鯛めし・道後奥道後温泉ステイ｜ふるさと納税で泊まれる名宿ガイド</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

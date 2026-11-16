@@ -168,7 +168,7 @@ export default function Page() {
                   <p className="text-xs text-slate-500 mt-0.5">
                     🚆 ＪＲ日豊本線別府駅より徒歩２分／九州自動車道別府ＩＣより車で１５分
                   </p>
-                  <p className="text-sm text-slate-600 mt-3 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-slate-600 mt-3 leading-relaxed">
                     【ミシュランガイド掲載】別府駅徒歩約3分！地元でしか味わえない関アジ・おおいた和牛・トラフグを堪能
                   </p>
                 </div>
@@ -228,7 +228,7 @@ export default function Page() {
                   <p className="text-xs text-slate-500 mt-0.5">
                     🚆 別府駅下車西口よりタクシーで約10分。 大分自動車道の別府IC出口より約10分。大分空港より車で約1時間。 駐車場無料。
                   </p>
-                  <p className="text-sm text-slate-600 mt-3 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-slate-600 mt-3 leading-relaxed">
                     オールインクルーシブの伝統的な数寄屋造りの割烹旅館。3種の源泉掛流し貸切風呂も♪
                   </p>
                 </div>
@@ -288,7 +288,7 @@ export default function Page() {
                   <p className="text-xs text-slate-500 mt-0.5">
                     🚆 JR別府駅より徒歩にて約10分（タクシーにて約3分）／別府国際観光港よりタクシーにて約6分／別府ICより車で約10分
                   </p>
-                  <p className="text-sm text-slate-600 mt-3 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-slate-600 mt-3 leading-relaxed">
                     【2025年5月全館リニューアルオープン】別府の歴史と文化が息づく地に新たな温泉リゾート
                   </p>
                 </div>
@@ -362,7 +362,7 @@ export default function Page() {
                   <p className="text-xs text-slate-500 mt-0.5">
                     🚆 京都駅より徒歩にて２分
                   </p>
-                  <p className="text-sm text-slate-600 mt-3 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-slate-600 mt-3 leading-relaxed">
                     すぐ駅！すぐバス！すぐタクシー！京都駅目の前の、元祖駅前宿でゆったり和の寛ぎを。
                   </p>
                 </div>
@@ -422,7 +422,7 @@ export default function Page() {
                   <p className="text-xs text-slate-500 mt-0.5">
                     🚆 車：京都南ＩＣ5分、京都駅10分　電車：JR稲荷10分、京阪龍谷大前深草5分、地下鉄くいな橋12分　バス龍谷大学前3分
                   </p>
-                  <p className="text-sm text-slate-600 mt-3 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-slate-600 mt-3 leading-relaxed">
                     伏見稲荷徒歩約10分／Wi-Fi完備／Ｐ有（先着順・大型要予約）／全室禁煙（1階喫煙スペースあり）
                   </p>
                 </div>
@@ -482,7 +482,7 @@ export default function Page() {
                   <p className="text-xs text-slate-500 mt-0.5">
                     🚆 京都駅より徒歩約７分、名神京都南ICから車で１０分
                   </p>
-                  <p className="text-sm text-slate-600 mt-3 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-slate-600 mt-3 leading-relaxed">
                     京都駅より徒歩約７分、名神京都南ICから車で約１０分
                   </p>
                 </div>
@@ -556,7 +556,7 @@ export default function Page() {
                   <p className="text-xs text-slate-500 mt-0.5">
                     🚆 地下鉄祇園駅2番出口より徒歩で約3分　博多駅からも徒歩12分　福岡空港から地下鉄祇園駅までは7分
                   </p>
-                  <p className="text-sm text-slate-600 mt-3 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-slate-600 mt-3 leading-relaxed">
                     2020年4月開業 祇園駅徒歩3分 博多駅徒歩11分。閑静でシンプルなビジネスホテルです。
                   </p>
                 </div>
@@ -616,7 +616,7 @@ export default function Page() {
                   <p className="text-xs text-slate-500 mt-0.5">
                     🚆 【地下鉄】博多駅から約12分/福岡空港から約17分/箱崎宮前駅・3番出口より徒歩約4分
                   </p>
-                  <p className="text-sm text-slate-600 mt-3 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-slate-600 mt-3 leading-relaxed">
                     【地下鉄】博多駅から約12分/福岡空港から約17分/箱崎宮前駅・3番出口より徒歩4分
                   </p>
                 </div>
@@ -676,7 +676,7 @@ export default function Page() {
                   <p className="text-xs text-slate-500 mt-0.5">
                     🚆 ★地下鉄箱崎線貝塚駅より徒歩5分★九州自動車道福岡ICより6ｋｍ★九州自動車道大宰府ICより都市高速大宰府線で約35分
                   </p>
-                  <p className="text-sm text-slate-600 mt-3 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-slate-600 mt-3 leading-relaxed">
                     ◆18歳以下添寝無料・駐車場無料！人気の朝食バイキング♪全室加湿空気清浄機完備☆部屋もベッドも広々☆
                   </p>
                 </div>
@@ -853,19 +853,19 @@ export default function Page() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/winter-iwate-appi-kogen-snow-resort-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【12月オープン！安比高原シルキースノー】東北随一のビッグゲレンデと白樺美肌温泉宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">【12月オープン！安比高原シルキースノー】東北随一のビッグゲレンデと白樺美肌温泉宿5選</span>
             </a>
             <a href="/winter-iwate-sanriku-kotatsu-train-kaisen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12・1月岩手】三陸鉄道こたつ列車の冬絶景と浄土ヶ浜雪景色・名物瓶ドン＆極上三陸あわび・毛ガニを味わう海沿いの名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">【11・12・1月岩手】三陸鉄道こたつ列車の冬絶景と浄土ヶ浜雪景色・名物瓶ドン＆極上三陸あわび・毛ガニを味わう海沿いの名宿5選</span>
             </a>
             <a href="/furusato-tax-hiraizumi-chusonji-genbikei-autumn-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">平泉・中尊寺金色堂の紅葉ライトアップ＆厳美渓郭公だんご！前沢牛・花巻温泉郷×ふるさと納税厳選ガイド岩手</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">平泉・中尊寺金色堂の紅葉ライトアップ＆厳美渓郭公だんご！前沢牛・花巻温泉郷×ふるさと納税厳選ガイド岩手</span>
             </a>
             <a href="/iwate-hiraizumi-chusonji-heritage-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">岩手・平泉中尊寺＆厳美渓：世界遺産金色堂・空飛ぶだんご＆前沢牛極上宿 厳選ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">岩手・平泉中尊寺＆厳美渓：世界遺産金色堂・空飛ぶだんご＆前沢牛極上宿 厳選ガイド</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

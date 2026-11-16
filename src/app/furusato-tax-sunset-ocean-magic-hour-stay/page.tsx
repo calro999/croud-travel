@@ -189,8 +189,8 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">西伊豆小土肥温泉　茜色の海　あるじ栖</h4>
-                            <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
+                            <h4 className="font-bold text-white text-sm group-hover:text-amber-300 transition">西伊豆小土肥温泉　茜色の海　あるじ栖</h4>
+                            <p className="text-xs text-slate-400 leading-relaxed">
                               2019年9月にリニューアル！西伊豆の浜辺に佇む隠れ宿。眺望抜群の露天風呂付客室が大人気！
                             </p>
                             <p className="text-xs text-slate-500 flex items-center gap-1">
@@ -239,8 +239,8 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">戸田温泉　ときわや</h4>
-                            <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
+                            <h4 className="font-bold text-white text-sm group-hover:text-amber-300 transition">戸田温泉　ときわや</h4>
+                            <p className="text-xs text-slate-400 leading-relaxed">
                               海一望！２か所の貸切露天は予約不要で無料。貸し竿での海釣り体験も好評。コンビニまで徒歩2分
                             </p>
                             <p className="text-xs text-slate-500 flex items-center gap-1">
@@ -289,8 +289,8 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">旅館たか屋</h4>
-                            <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
+                            <h4 className="font-bold text-white text-sm group-hover:text-amber-300 transition">旅館たか屋</h4>
+                            <p className="text-xs text-slate-400 leading-relaxed">
                               【個室食で安心】旬の素材をふんだんに使った海鮮料理が自慢！地元・田子名物の鰹尽くしの料理に舌鼓。
                             </p>
                             <p className="text-xs text-slate-500 flex items-center gap-1">
@@ -352,8 +352,8 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">由良温泉　民宿　石川</h4>
-                            <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
+                            <h4 className="font-bold text-white text-sm group-hover:text-amber-300 transition">由良温泉　民宿　石川</h4>
+                            <p className="text-xs text-slate-400 leading-relaxed">
                               海水浴場に徒歩で1分とかからない絶好のロケーションが自慢の宿です。日本海に沈む美しい夕日は絶景です。
                             </p>
                             <p className="text-xs text-slate-500 flex items-center gap-1">
@@ -402,8 +402,8 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">湯らゆら温泉郷　民宿　海月楼</h4>
-                            <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
+                            <h4 className="font-bold text-white text-sm group-hover:text-amber-300 transition">湯らゆら温泉郷　民宿　海月楼</h4>
+                            <p className="text-xs text-slate-400 leading-relaxed">
                               由良海岸まで徒歩１０　秒！豪快な海の幸を味わう♪
                             </p>
                             <p className="text-xs text-slate-500 flex items-center gap-1">
@@ -452,8 +452,8 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">湯らゆら温泉郷　旅館芳月（ほうげつ）</h4>
-                            <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
+                            <h4 className="font-bold text-white text-sm group-hover:text-amber-300 transition">湯らゆら温泉郷　旅館芳月（ほうげつ）</h4>
+                            <p className="text-xs text-slate-400 leading-relaxed">
                               由良海岸の料理自慢の宿。夏は海水浴・冬はカニ料理を満喫
                             </p>
                             <p className="text-xs text-slate-500 flex items-center gap-1">
@@ -515,8 +515,8 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">白浜温泉　ホテル三楽荘</h4>
-                            <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
+                            <h4 className="font-bold text-white text-sm group-hover:text-amber-300 transition">白浜温泉　ホテル三楽荘</h4>
+                            <p className="text-xs text-slate-400 leading-relaxed">
                               得旅ポイント最大15倍■全室オーシャンビュー&amp;白良浜徒歩1分■露天風呂付き客室はすべて源泉掛け流し
                             </p>
                             <p className="text-xs text-slate-500 flex items-center gap-1">
@@ -565,8 +565,8 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">ガーデンホテルハナヨ</h4>
-                            <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
+                            <h4 className="font-bold text-white text-sm group-hover:text-amber-300 transition">ガーデンホテルハナヨ</h4>
+                            <p className="text-xs text-slate-400 leading-relaxed">
                               アドベンチャーワールド車15分☆海沿いのホテル♪とろ～り天然温泉で笑顔咲く☆貸切露天風呂も最高♪
                             </p>
                             <p className="text-xs text-slate-500 flex items-center gap-1">
@@ -614,10 +614,10 @@ export default function FurusatoTaxPage() {
                 href="/furusato-tax-oceanfront-wave-sound-healing-stay/"
                 className="block p-4 rounded-2xl bg-slate-950/60 border border-slate-800/80 hover:border-amber-500/50 transition group"
               >
-                <div className="font-bold text-amber-400 group-hover:text-amber-300 transition text-sm mb-1 line-clamp-1">
+                <div className="font-bold text-amber-400 group-hover:text-amber-300 transition text-sm mb-1">
                   絶景オーシャンフロント×波音ヒーリングの海宿ふるさと納税完全ガイド
                 </div>
-                <div className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
+                <div className="text-xs text-slate-400 leading-relaxed">
                   稲取・南房総・読谷村の全室オーシャンビューと潮騒露天風呂。
                 </div>
               </Link>
@@ -627,10 +627,10 @@ export default function FurusatoTaxPage() {
                 href="/furusato-tax-infinity-onsen-sky-ocean-view-stay/"
                 className="block p-4 rounded-2xl bg-slate-950/60 border border-slate-800/80 hover:border-amber-500/50 transition group"
               >
-                <div className="font-bold text-amber-400 group-hover:text-amber-300 transition text-sm mb-1 line-clamp-1">
+                <div className="font-bold text-amber-400 group-hover:text-amber-300 transition text-sm mb-1">
                   絶景インフィニティ温泉×海空一体パノラマ露天宿
                 </div>
-                <div className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
+                <div className="text-xs text-slate-400 leading-relaxed">
                   海と空、そして湯面が一体化する開放感抜群のインフィニティ湯宿。
                 </div>
               </Link>
@@ -640,10 +640,10 @@ export default function FurusatoTaxPage() {
                 href="/furusato-tax-morning-market-hamayaki-seafood-inn-stay/"
                 className="block p-4 rounded-2xl bg-slate-950/60 border border-slate-800/80 hover:border-amber-500/50 transition group"
               >
-                <div className="font-bold text-amber-400 group-hover:text-amber-300 transition text-sm mb-1 line-clamp-1">
+                <div className="font-bold text-amber-400 group-hover:text-amber-300 transition text-sm mb-1">
                   海鮮浜焼き・港町朝市めぐり直結宿×ふるさと納税完全ガイド
                 </div>
-                <div className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
+                <div className="text-xs text-slate-400 leading-relaxed">
                   八戸岸壁朝市・沼津港・高知ひろめ市場の朝獲れ市場グルメ。
                 </div>
               </Link>
@@ -746,19 +746,19 @@ export default function FurusatoTaxPage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/winter-hokkaido-sapporo-odori-illumination-jozankei-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12・1月北海道】さっぽろホワイトイルミネーション＆定山渓雪見露天！札幌味噌ラーメンと北の味覚に酔いしれる名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">【11・12・1月北海道】さっぽろホワイトイルミネーション＆定山渓雪見露天！札幌味噌ラーメンと北の味覚に酔いしれる名宿5選</span>
             </a>
             <a href="/winter-hokkaido-tokachi-jewelry-ice-mall-onsen-sauna-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">極寒の奇跡ジュエリーアイスとモール温泉：2026-2027年冬の十勝川温泉＆極上サウナ宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">極寒の奇跡ジュエリーアイスとモール温泉：2026-2027年冬の十勝川温泉＆極上サウナ宿5選</span>
             </a>
             <a href="/autumn-budget-hokkaido-furano-wine-tomita-hotels-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">富良野：秋の収穫祭・ふらのワイン＆丘陵紅葉！4,000円台〜泊まれる格安リゾートホテル5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">富良野：秋の収穫祭・ふらのワイン＆丘陵紅葉！4,000円台〜泊まれる格安リゾートホテル5選</span>
             </a>
             <a href="/autumn-budget-hokkaido-obihiro-station-tokachi-butadon-hotels-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">帯広駅前：ばんえい十勝の迫力＆名物十勝豚丼・モール温泉！3,000円台〜泊まれる格安ホテル5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">帯広駅前：ばんえい十勝の迫力＆名物十勝豚丼・モール温泉！3,000円台〜泊まれる格安ホテル5選</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

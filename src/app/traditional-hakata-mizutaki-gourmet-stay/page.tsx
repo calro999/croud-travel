@@ -629,19 +629,19 @@ export default function FeatureDetailPage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/osaka-fukuoka-bus-vs-shinkansen-guide/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「大阪から福岡・博多 安く行く方法」新幹線 vs 夜行バス徹底比較！中洲屋台・もつ鍋1泊2日モデルコース</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「大阪から福岡・博多 安く行く方法」新幹線 vs 夜行バス徹底比較！中洲屋台・もつ鍋1泊2日モデルコース</span>
             </a>
             <a href="/winter-fukuoka-dazaifu-tenmangu-hatsumode-futsukaichi-beef-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">天神さまの祈りと熱々梅ヶ枝餅、万葉の古湯 太宰府天満宮合格祈願・初詣＆二日市温泉・博多和牛の名宿</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">天神さまの祈りと熱々梅ヶ枝餅、万葉の古湯 太宰府天満宮合格祈願・初詣＆二日市温泉・博多和牛の名宿</span>
             </a>
             <a href="/winter-fukuoka-harazuru-onsen-w-bihada-hakata-beef-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">筑後川冬情緒と奇跡のW美肌の湯 博多和牛会席＆掛け流し展望露天の湯巡り宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">筑後川冬情緒と奇跡のW美肌の湯 博多和牛会席＆掛け流し展望露天の湯巡り宿5選</span>
             </a>
             <a href="/winter-fukuoka-munakata-taisha-hatsumode-torafugu-munakatagyu-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">世界遺産・宗像大社新春開運初詣＆玄界灘冬絶景！ 鐘崎天然とらふぐと極上宗像牛を堪能する名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">世界遺産・宗像大社新春開運初詣＆玄界灘冬絶景！ 鐘崎天然とらふぐと極上宗像牛を堪能する名宿5選</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

@@ -352,19 +352,19 @@ export default function FeaturePage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/kyoto-amanohashidate-ine-funaya-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「京都・天橋立＆伊根・丹後半島」天橋立股のぞき・伊根の舟屋群＆幻の間人ガニ宿 厳選ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「京都・天橋立＆伊根・丹後半島」天橋立股のぞき・伊根の舟屋群＆幻の間人ガニ宿 厳選ガイド</span>
             </a>
             <a href="/kyoto-couple-luxury-ryokan-guide/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「京都カップル旅行 おすすめ高級旅館＆町家ホテル」 祇園・嵐山で二人きりの特別な夜を過ごす大人の宿</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「京都カップル旅行 おすすめ高級旅館＆町家ホテル」 祇園・嵐山で二人きりの特別な夜を過ごす大人の宿</span>
             </a>
             <a href="/kyoto-shijo-karasuma-solo-retreat-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「京都四条烏丸ひとり旅・大浴場おこもり」京町家の風情・ラウンジ無料ワイン・錦市場！古都の中心で癒やされる大人の厳選3宿</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「京都四条烏丸ひとり旅・大浴場おこもり」京町家の風情・ラウンジ無料ワイン・錦市場！古都の中心で癒やされる大人の厳選3宿</span>
             </a>
             <a href="/kyoto-temple-walking-shoes-outfit-mistakes-guide/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「京都寺社巡り 靴と服装の失敗談まとめ」 1日2万歩で足崩壊＆靴の脱ぎ履き地獄を回避するスマート参拝術</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「京都寺社巡り 靴と服装の失敗談まとめ」 1日2万歩で足崩壊＆靴の脱ぎ履き地獄を回避するスマート参拝術</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">
@@ -431,7 +431,7 @@ export default function FeaturePage() {
                 <span className="inline-block text-[10px] font-bold px-2 py-0.5 rounded bg-amber-100 text-amber-800 mb-2">
                   厳選おすすめ特集
                 </span>
-                <h3 className="font-bold text-stone-900 group-hover:text-amber-700 text-xs md:text-sm line-clamp-2 leading-snug">【2026年】南の島の至高の美食！極上石垣牛ステーキ＆川平湾エメラルドビーチリゾート5選 | 日本全国・旅宿クラウド</h3>
+                <h3 className="font-bold text-stone-900 group-hover:text-amber-700 text-xs md:text-sm leading-snug">【2026年】南の島の至高の美食！極上石垣牛ステーキ＆川平湾エメラルドビーチリゾート5選 | 日本全国・旅宿クラウド</h3>
               </div>
               <span className="text-[11px] text-amber-600 font-semibold mt-3 flex items-center gap-1">
                 特集を見る →
@@ -445,7 +445,7 @@ export default function FeaturePage() {
                 <span className="inline-block text-[10px] font-bold px-2 py-0.5 rounded bg-amber-100 text-amber-800 mb-2">
                   厳選おすすめ特集
                 </span>
-                <h3 className="font-bold text-stone-900 group-hover:text-amber-700 text-xs md:text-sm line-clamp-2 leading-snug">黒部峡谷トロッコ列車とエメラルドの清流！宇奈月温泉の断崖絶景露天風呂＆富山湾キトキト海の幸名宿×ふるさと納税完全攻略ガイド【2026年最新】延対寺荘・やまのは・延楽！宇奈月温泉の断崖絶景露天風呂＆富山湾キトキト海の幸名宿×ふるさと納税完全攻略ガイド【2026年最新】延対寺荘・やまのは・延楽</h3>
+                <h3 className="font-bold text-stone-900 group-hover:text-amber-700 text-xs md:text-sm leading-snug">黒部峡谷トロッコ列車とエメラルドの清流！宇奈月温泉の断崖絶景露天風呂＆富山湾キトキト海の幸名宿×ふるさと納税完全攻略ガイド【2026年最新】延対寺荘・やまのは・延楽！宇奈月温泉の断崖絶景露天風呂＆富山湾キトキト海の幸名宿×ふるさと納税完全攻略ガイド【2026年最新】延対寺荘・やまのは・延楽</h3>
               </div>
               <span className="text-[11px] text-amber-600 font-semibold mt-3 flex items-center gap-1">
                 特集を見る →
@@ -459,7 +459,7 @@ export default function FeaturePage() {
                 <span className="inline-block text-[10px] font-bold px-2 py-0.5 rounded bg-amber-100 text-amber-800 mb-2">
                   厳選おすすめ特集
                 </span>
-                <h3 className="font-bold text-stone-900 group-hover:text-amber-700 text-xs md:text-sm line-clamp-2 leading-snug">日本百名道の絶景ドライブルートと高原温泉宿×ふるさと納税完全ガイド【2026年最新】ビーナスライン・志賀草津・やまなみ</h3>
+                <h3 className="font-bold text-stone-900 group-hover:text-amber-700 text-xs md:text-sm leading-snug">日本百名道の絶景ドライブルートと高原温泉宿×ふるさと納税完全ガイド【2026年最新】ビーナスライン・志賀草津・やまなみ</h3>
               </div>
               <span className="text-[11px] text-amber-600 font-semibold mt-3 flex items-center gap-1">
                 特集を見る →
@@ -473,7 +473,7 @@ export default function FeaturePage() {
                 <span className="inline-block text-[10px] font-bold px-2 py-0.5 rounded bg-amber-100 text-amber-800 mb-2">
                   厳選おすすめ特集
                 </span>
-                <h3 className="font-bold text-stone-900 group-hover:text-amber-700 text-xs md:text-sm line-clamp-2 leading-snug">霧島神宮のモミジ参道紅葉＆霧島連山の湯けむり温泉郷！黒豚しゃぶ宿×ふるさと納税完全ガイド【2026年最新秋旅】鹿児島</h3>
+                <h3 className="font-bold text-stone-900 group-hover:text-amber-700 text-xs md:text-sm leading-snug">霧島神宮のモミジ参道紅葉＆霧島連山の湯けむり温泉郷！黒豚しゃぶ宿×ふるさと納税完全ガイド【2026年最新秋旅】鹿児島</h3>
               </div>
               <span className="text-[11px] text-amber-600 font-semibold mt-3 flex items-center gap-1">
                 特集を見る →

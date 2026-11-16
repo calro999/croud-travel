@@ -389,19 +389,19 @@ export default function FeaturePage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/pure-100-percent-kakenagashi-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「自家源泉かけ流し100%の宿」加水なし・加温なし・循環なし！本物の名湯 厳選ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「自家源泉かけ流し100%の宿」加水なし・加温なし・循環なし！本物の名湯 厳選ガイド</span>
             </a>
             <a href="/traditional-gifu-mino-washi-lantern-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「美濃和紙あかりの町並みと清流鵜飼い。長良川温泉＆飛騨牛会席の風情名宿5選」美濃和紙あかりの町並みと清流鵜飼い。長良川温泉＆飛騨牛会席の風情名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「美濃和紙あかりの町並みと清流鵜飼い。長良川温泉＆飛騨牛会席の風情名宿5選」美濃和紙あかりの町並みと清流鵜飼い。長良川温泉＆飛騨牛会席の風情名宿5選</span>
             </a>
             <a href="/winter-gifu-gero-onsen-fireworks-hida-beef-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12月下呂温泉の冬花火ミュージカル】 日本三名泉の美肌湯ととろける飛騨牛会席宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">【11・12月下呂温泉の冬花火ミュージカル】 日本三名泉の美肌湯ととろける飛騨牛会席宿5選</span>
             </a>
             <a href="/winter-gifu-hida-takayama-onsen-snow-beef-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「11・12・1月飛騨高山」白銀の古い町並み雪景色と飛騨高山温泉・極上A5飛騨牛すき焼き＆冬限定「しぼりたて新酒」酒蔵めぐりを堪能する名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「11・12・1月飛騨高山」白銀の古い町並み雪景色と飛騨高山温泉・極上A5飛騨牛すき焼き＆冬限定「しぼりたて新酒」酒蔵めぐりを堪能する名宿5選</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

@@ -630,19 +630,19 @@ export default function FeatureDetailPage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/winter-mie-iga-ueno-castle-akame-48waterfalls-hyobaku-igagyu-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「三重・伊賀上野＆赤目四十八滝」 忍者の里「伊賀上野城」白銀の高石垣と上野天神宮新春初詣！ 神秘の「赤目四十八滝」氷瀑と幻の極上伊賀牛すき焼き名宿</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「三重・伊賀上野＆赤目四十八滝」 忍者の里「伊賀上野城」白銀の高石垣と上野天神宮新春初詣！ 神秘の「赤目四十八滝」氷瀑と幻の極上伊賀牛すき焼き名宿</span>
             </a>
             <a href="/winter-okinawa-miyakojima-shigira-resort-sunrisepoint-miyakogyu-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">冬の避寒リゾート＆宮古ブルー！ シギラリゾートの南国極上ステイと宮古牛名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">冬の避寒リゾート＆宮古ブルー！ シギラリゾートの南国極上ステイと宮古牛名宿5選</span>
             </a>
             <a href="/winter-okinawa-nanjo-sefa-utaki-chinen-misaki-hatsuhinode-ryukyu-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「琉球最高の聖地・斎場御嶽新春祈願と知念岬初日の出」2026-2027年冬の沖縄・南城！美ら海絶景と琉球温泉・あぐー豚名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「琉球最高の聖地・斎場御嶽新春祈願と知念岬初日の出」2026-2027年冬の沖縄・南城！美ら海絶景と琉球温泉・あぐー豚名宿5選</span>
             </a>
             <a href="/airport-access-direct-resort-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「空港直行＆空港至近リゾート宿」羽田・成田・関空・福岡・那覇・千歳 厳選ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「空港直行＆空港至近リゾート宿」羽田・成田・関空・福岡・那覇・千歳 厳選ガイド</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

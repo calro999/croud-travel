@@ -422,19 +422,19 @@ export default function ArticlePage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/winter-shiga-omihachiman-hikone-snow-castle-omigyu-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「11・12・1月滋賀」近江八幡水郷雪景色＆国宝・彦根城雪化粧と日本三大和牛「近江牛すき焼き」＆冬の琵琶湖名物・湖畔の絶景名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「11・12・1月滋賀」近江八幡水郷雪景色＆国宝・彦根城雪化粧と日本三大和牛「近江牛すき焼き」＆冬の琵琶湖名物・湖畔の絶景名宿5選</span>
             </a>
             <a href="/winter-shiga-takashima-makino-metasequoia-snow-shirahige-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">高島＆マキノ・白鬚神社！ 白銀のメタセコイア並木雪景色と湖中大鳥居初詣・天然鴨鍋＆近江牛名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">高島＆マキノ・白鬚神社！ 白銀のメタセコイア並木雪景色と湖中大鳥居初詣・天然鴨鍋＆近江牛名宿5選</span>
             </a>
             <a href="/furusato-tax-dog-friendly-dogrun-luxury-resort-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">愛犬とずっと一緒！天然芝ドッグラン＆愛犬同伴温泉リゾート名宿×ふるさと納税厳選ガイド伊豆高原・那須高原・びわ湖長浜</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">愛犬とずっと一緒！天然芝ドッグラン＆愛犬同伴温泉リゾート名宿×ふるさと納税厳選ガイド伊豆高原・那須高原・びわ湖長浜</span>
             </a>
             <a href="/japan-national-treasure-castle-heritage-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「国宝五城＆現存十二天守を巡る宿」姫路城・松本城・犬山城・彦根城・松江城 厳選ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「国宝五城＆現存十二天守を巡る宿」姫路城・松本城・犬山城・彦根城・松江城 厳選ガイド</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

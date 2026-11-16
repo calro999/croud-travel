@@ -485,19 +485,19 @@ export default function Page() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/winter-ibaraki-kashima-jingu-hatsumode-itako-hamaguri-hitachigyu-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">関東最古の霊場・鹿島神宮新春初詣と水郷の冬景色：2026-2027年冬の茨城・鹿島＆潮来！鹿島灘はまぐりと極上常陸牛名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">関東最古の霊場・鹿島神宮新春初詣と水郷の冬景色：2026-2027年冬の茨城・鹿島＆潮来！鹿島灘はまぐりと極上常陸牛名宿5選</span>
             </a>
             <a href="/autumn-budget-ibaraki-mito-station-kairakuen-koudoukan-hotels-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">水戸駅前：国指定特別史跡弘道館＆名物あんこう鍋！2,000円台〜泊まれる格安ホテル5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">水戸駅前：国指定特別史跡弘道館＆名物あんこう鍋！2,000円台〜泊まれる格安ホテル5選</span>
             </a>
             <a href="/winter-ibaraki-kitaibaraki-isohara-onsen-ankou-dobujiru-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12月茨城・北茨城温泉郷の元祖あんこう鍋・濃厚どぶ汁と太平洋絶景】五浦・磯原の温まり美肌塩化物泉＆常陸牛の宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">【11・12月茨城・北茨城温泉郷の元祖あんこう鍋・濃厚どぶ汁と太平洋絶景】五浦・磯原の温まり美肌塩化物泉＆常陸牛の宿5選</span>
             </a>
             <a href="/autumn-ibaraki-hitachi-seaside-park-kochia-hotels-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【10月見頃！国営ひたち海浜公園コキア紅葉】みはらしの丘と勝田・大洗の人気宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">【10月見頃！国営ひたち海浜公園コキア紅葉】みはらしの丘と勝田・大洗の人気宿5選</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

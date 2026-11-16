@@ -399,19 +399,19 @@ export default function Page() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/furusato-tax-dakigaeri-kakunodate-autumn-leaves-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">抱返り渓谷の碧い渓流紅葉＆角館武家屋敷の黒板塀！田沢湖温泉郷宿×ふるさと納税厳選ガイド秋田</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">抱返り渓谷の碧い渓流紅葉＆角館武家屋敷の黒板塀！田沢湖温泉郷宿×ふるさと納税厳選ガイド秋田</span>
             </a>
             <a href="/traditional-akita-magewappa-kiritanpo-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「大館曲げわっぱと比内地鶏きりたんぽ」秋田の伝統工芸と乳頭温泉郷の秘湯宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「大館曲げわっぱと比内地鶏きりたんぽ」秋田の伝統工芸と乳頭温泉郷の秘湯宿5選</span>
             </a>
             <a href="/winter-akita-nyuto-onsen-yukimi-kiritanpo-hinaijidori-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12月秋田・乳頭温泉郷】初冬雪見秘湯と濁り湯めぐり 名物きりたんぽ鍋＆比内地鶏・ブナ原生林に湧く七湯の濁り湯を巡る名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">【11・12月秋田・乳頭温泉郷】初冬雪見秘湯と濁り湯めぐり 名物きりたんぽ鍋＆比内地鶏・ブナ原生林に湧く七湯の濁り湯を巡る名宿5選</span>
             </a>
             <a href="/winter-akita-oyasukyo-akinomiya-onsen-minasegyu-seri-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">（metadata.title as string）</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">（metadata.title as string）</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

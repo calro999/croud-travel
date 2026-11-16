@@ -367,19 +367,19 @@ export default function ArticlePage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/autumn-budget-shizuoka-hamamatsu-hamanako-unagi-hotels-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「浜松・浜名湖」秋うなぎ＆浜名湖の夕陽を満喫！2,000円台〜泊まれる格安・高コスパ宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「浜松・浜名湖」秋うなぎ＆浜名湖の夕陽を満喫！2,000円台〜泊まれる格安・高コスパ宿5選</span>
             </a>
             <a href="/autumn-budget-shizuoka-nihondaira-fuji-oden-hotels-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「静岡」日本平の富士山絶景＆静岡黒おでん！1,000円台〜泊まれる格安・高コスパ宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「静岡」日本平の富士山絶景＆静岡黒おでん！1,000円台〜泊まれる格安・高コスパ宿5選</span>
             </a>
             <a href="/autumn-shizuoka-izu-shuzenji-bamboo-path-momiji-hotels-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「秋の伊豆・修善寺温泉」竹林の小径紅葉と桂川の清流散策！歴史薫る風雅なおすすめ名旅館5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「秋の伊豆・修善寺温泉」竹林の小径紅葉と桂川の清流散策！歴史薫る風雅なおすすめ名旅館5選</span>
             </a>
             <a href="/furusato-tax-atami-ocean-view-fireworks-hotel-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">客室から大迫力の花火を特等席鑑賞！熱海オーシャンビュー温泉ホテル×ふるさと納税極上旅ガイド後楽園・ニューアカオ・パールスター</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">客室から大迫力の花火を特等席鑑賞！熱海オーシャンビュー温泉ホテル×ふるさと納税極上旅ガイド後楽園・ニューアカオ・パールスター</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

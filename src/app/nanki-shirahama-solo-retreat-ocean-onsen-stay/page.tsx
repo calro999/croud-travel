@@ -422,19 +422,19 @@ export default function ArticlePage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/furusato-tax-brand-maguro-tuna-feast-luxury-inn-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">本場黒マグロ・生マグロ尽くし会席＆絶景温泉宿×ふるさと納税厳選ガイド大間・那智勝浦・三崎港</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">本場黒マグロ・生マグロ尽くし会席＆絶景温泉宿×ふるさと納税厳選ガイド大間・那智勝浦・三崎港</span>
             </a>
             <a href="/furusato-tax-ise-kumano-sacred-power-spot-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">お伊勢参り＆熊野古道をふるさと納税でお得に旅する！日本最強パワースポット巡礼と心洗われる老舗門前宿ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">お伊勢参り＆熊野古道をふるさと納税でお得に旅する！日本最強パワースポット巡礼と心洗われる老舗門前宿ガイド</span>
             </a>
             <a href="/furusato-tax-koyasan-autumn-leaves-shukubo-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">世界遺産・高野山の壇上伽藍紅葉ライトアップ＆奥之院参拝！宿坊精進料理×ふるさと納税厳選ガイド和歌山</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">世界遺産・高野山の壇上伽藍紅葉ライトアップ＆奥之院参拝！宿坊精進料理×ふるさと納税厳選ガイド和歌山</span>
             </a>
             <a href="/furusato-tax-nanki-nachikatsuura-tuna-autumn-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">那智の滝と熊野古道の秋紅葉！南紀勝浦温泉の海辺洞窟露天風呂・生まぐろ＆熊野牛を味わう聖地紀州旅｜ふるさと納税で泊まれる名宿ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">那智の滝と熊野古道の秋紅葉！南紀勝浦温泉の海辺洞窟露天風呂・生まぐろ＆熊野牛を味わう聖地紀州旅｜ふるさと納税で泊まれる名宿ガイド</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

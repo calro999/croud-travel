@@ -245,7 +245,7 @@ export default function TohokuBudgetGuidePage() {
                     {hotel.reviewAverage > 0 && (
                       <div className="text-[10px] font-bold text-amber-500 mb-1">⭐ {hotel.reviewAverage}（{hotel.reviewCount}件）</div>
                     )}
-                    <h3 className="text-sm font-bold text-slate-900 line-clamp-2 mb-2">{hotel.hotelName}</h3>
+                    <h3 className="text-sm font-bold text-slate-900 mb-2">{hotel.hotelName}</h3>
                   </div>
                   <a href={hotel.affiliateUrl} target="_blank" rel="sponsored noopener noreferrer" className="mt-3 block w-full text-center py-2 text-xs font-bold text-white bg-teal-600 hover:bg-teal-700 rounded-xl transition">
                     楽天トラベルで見る

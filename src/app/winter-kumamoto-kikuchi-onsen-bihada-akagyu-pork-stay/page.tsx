@@ -670,21 +670,21 @@ export default function KumamotoKikuchiValleyWinterPage() {
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-teal-700 font-bold block text-[10px]">熊本・山鹿＆平山</span>
-              <p className="font-bold text-stone-800 line-clamp-2">八千代座の初冬風情と極上とろとろ硫黄泉・熊本あか牛＆馬刺し名宿</p>
+              <p className="font-bold text-stone-800">八千代座の初冬風情と極上とろとろ硫黄泉・熊本あか牛＆馬刺し名宿</p>
             </Link>
             <Link 
               href="/winter-kumamoto-aso-uchinomaki-onsen-akagyu-caldera-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-teal-700 font-bold block text-[10px]">熊本・阿蘇内牧温泉</span>
-              <p className="font-bold text-stone-800 line-clamp-2">阿蘇カルデラの初冬絶景と極上あか牛丼・名湯百選露天風呂名宿</p>
+              <p className="font-bold text-stone-800">阿蘇カルデラの初冬絶景と極上あか牛丼・名湯百選露天風呂名宿</p>
             </Link>
             <Link 
               href="/winter-saga-furuyu-kumanokawa-onsen-nuruyu-sagagyu-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-teal-700 font-bold block text-[10px]">佐賀・古湯＆熊の川</span>
-              <p className="font-bold text-stone-800 line-clamp-2">ぬる湯の聖地・嘉瀬川渓谷美と温冷交互浴・極上佐賀牛すき焼き名宿</p>
+              <p className="font-bold text-stone-800">ぬる湯の聖地・嘉瀬川渓谷美と温冷交互浴・極上佐賀牛すき焼き名宿</p>
             </Link>
           
       <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">

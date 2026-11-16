@@ -546,19 +546,19 @@ export default function FurusatoArticlePage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/fukuoka-beppu-yufuin-bus-vs-train-guide/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「福岡・博多〜別府・由布院」特急ゆふいんの森 vs 高速バス徹底比較！料金半額＆湯布院・別府地獄めぐり1泊2日モデルコース</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「福岡・博多〜別府・由布院」特急ゆふいんの森 vs 高速バス徹底比較！料金半額＆湯布院・別府地獄めぐり1泊2日モデルコース</span>
             </a>
             <a href="/furusato-tax-luxury-buffet-gourmet-resort-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">豪華ディナービュッフェ＆出来たてライブキッチン極上温泉宿×ふるさと納税厳選ガイド鬼怒川あさや・別府杉乃井・登別グランド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">豪華ディナービュッフェ＆出来たてライブキッチン極上温泉宿×ふるさと納税厳選ガイド鬼怒川あさや・別府杉乃井・登別グランド</span>
             </a>
             <a href="/furusato-tax-resort-infinity-pool-luxury-hotel-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">海と空に溶け込む圧倒的開放感！絶景インフィニティプール＆ラグジュアリーリゾートホテル×ふるさと納税厳選ガイド熱海・沖縄恩納村・別府</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">海と空に溶け込む圧倒的開放感！絶景インフィニティプール＆ラグジュアリーリゾートホテル×ふるさと納税厳選ガイド熱海・沖縄恩納村・別府</span>
             </a>
             <a href="/furusato-tax-yabakei-kurokawa-autumn-leaves-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">奇岩と紅葉が織りなす山水画の世界！耶馬渓・九重連山＆黒川温泉入湯手形露天名宿×ふるさと納税厳選ガイド九州</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">奇岩と紅葉が織りなす山水画の世界！耶馬渓・九重連山＆黒川温泉入湯手形露天名宿×ふるさと納税厳選ガイド九州</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

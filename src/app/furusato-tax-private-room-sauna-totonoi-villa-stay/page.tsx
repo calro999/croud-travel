@@ -477,19 +477,19 @@ export default function FurusatoPrivateRoomSaunaTotonoiStayPage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/gunma-manza-solo-retreat-milky-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">上信越高原・万座温泉ひとり旅・標高1800m雲上の白濁硫黄泉おこもり：日本一の硫黄含有量・星空露天風呂・上州牛会席！空に一番近い秘湯厳選3宿</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">上信越高原・万座温泉ひとり旅・標高1800m雲上の白濁硫黄泉おこもり：日本一の硫黄含有量・星空露天風呂・上州牛会席！空に一番近い秘湯厳選3宿</span>
             </a>
             <a href="/traditional-gunma-joshu-beef-sukiyaki-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">上州牛すき焼き＆下仁田ねぎ：群馬名物とろける極上すき焼き会席！草津・伊香保・四万の名湯宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">上州牛すき焼き＆下仁田ねぎ：群馬名物とろける極上すき焼き会席！草津・伊香保・四万の名湯宿5選</span>
             </a>
             <a href="/winter-gunma-manza-onsen-snow-milky-sulfur-starry-joshugyu-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【12・1月群馬】万座温泉＆嬬恋！標高1800m極上白濁にごり湯雪見露天と満天の星空・上州牛すき焼きを堪能する名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">【12・1月群馬】万座温泉＆嬬恋！標高1800m極上白濁にごり湯雪見露天と満天の星空・上州牛すき焼きを堪能する名宿5選</span>
             </a>
             <a href="/autumn-budget-gunma-takasaki-station-pasta-haruna-hotels-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">高崎駅前：上毛三山・榛名山紅葉＆名物高崎パスタ！3,000円台〜泊まれる格安ホテル5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">高崎駅前：上毛三山・榛名山紅葉＆名物高崎パスタ！3,000円台〜泊まれる格安ホテル5選</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

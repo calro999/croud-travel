@@ -467,19 +467,19 @@ export default function FeatureArticlePage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/winter-saga-karatsu-onsen-yobuko-ika-sagagyu-genkai-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12月佐賀・唐津呼子温泉】冬の玄界灘と呼子活イカ 極上佐賀牛ステーキ＆唐津城パノラマ・唐津焼の器で味わう海辺美食名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">【11・12月佐賀・唐津呼子温泉】冬の玄界灘と呼子活イカ 極上佐賀牛ステーキ＆唐津城パノラマ・唐津焼の器で味わう海辺美食名宿5選</span>
             </a>
             <a href="/winter-saga-tara-takezaki-crab-yutoku-inari-ureshino-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「11・12・1月佐賀」冬の有明海名物「竹崎カニ」と日本三大稲荷・祐徳稲荷神社の初詣・日本三大美肌の湯「嬉野温泉」温泉湯豆腐を堪能する名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「11・12・1月佐賀」冬の有明海名物「竹崎カニ」と日本三大稲荷・祐徳稲荷神社の初詣・日本三大美肌の湯「嬉野温泉」温泉湯豆腐を堪能する名宿5選</span>
             </a>
             <a href="/winter-wakayama-arida-yuasa-mikan-tachiuo-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">和歌山・有田＆湯浅・広川 黄金色に輝く「有田みかん海道」と重伝建・湯浅醤油蔵通り 箕島一本釣り太刀魚・本クエ鍋・熊野牛＆絶景名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">和歌山・有田＆湯浅・広川 黄金色に輝く「有田みかん海道」と重伝建・湯浅醤油蔵通り 箕島一本釣り太刀魚・本クエ鍋・熊野牛＆絶景名宿5選</span>
             </a>
             <a href="/fukuoka-departure-daytrip-bus-tour-guide/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「福岡・博多発 日帰りバスツアー」 呼子活イカ・由布院温泉街散策・阿蘇カルデラ絶景 の格安ツアー比較</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「福岡・博多発 日帰りバスツアー」 呼子活イカ・由布院温泉街散策・阿蘇カルデラ絶景 の格安ツアー比較</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

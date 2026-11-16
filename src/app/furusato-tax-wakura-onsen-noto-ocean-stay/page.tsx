@@ -546,19 +546,19 @@ export default function FurusatoArticlePage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/winter-ishikawa-kanazawa-city-kenrokuen-yukizuri-koubako-crab-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">冬の兼六園雪吊り＆尾山神社新春初詣！ 近江町市場の香箱ガニ・寒ブリ・加賀おでんに寛ぐ厳選宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">冬の兼六園雪吊り＆尾山神社新春初詣！ 近江町市場の香箱ガニ・寒ブリ・加賀おでんに寛ぐ厳選宿5選</span>
             </a>
             <a href="/winter-ishikawa-noto-wakura-onsen-kanburi-kanogani-ocean-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12月石川・能登和倉温泉】七尾湾冬景色と寒の味覚 名物能登寒ぶり＆加能ガニ・極上能登牛・開湯1200年の海のいで湯を愉しむ海辺名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">【11・12月石川・能登和倉温泉】七尾湾冬景色と寒の味覚 名物能登寒ぶり＆加能ガニ・極上能登牛・開湯1200年の海のいで湯を愉しむ海辺名宿5選</span>
             </a>
             <a href="/furusato-tax-fresh-sushi-kaiseki-gourmet-inn-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">漁港直送の極上寿司会席＆職人握りを味わう名湯温泉宿×ふるさと納税厳選ガイド石川加賀・東伊豆熱川・伊東</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">漁港直送の極上寿司会席＆職人握りを味わう名湯温泉宿×ふるさと納税厳選ガイド石川加賀・東伊豆熱川・伊東</span>
             </a>
             <a href="/furusato-tax-japanese-garden-view-luxury-ryokan-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">客室から名園を愛でる贅沢！日本庭園ビュー＆伝統数寄屋造り名門温泉旅館×ふるさと納税厳選ガイド島根玉造・佐賀武雄・石川加賀</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">客室から名園を愛でる贅沢！日本庭園ビュー＆伝統数寄屋造り名門温泉旅館×ふるさと納税厳選ガイド島根玉造・佐賀武雄・石川加賀</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

@@ -160,7 +160,7 @@ export default function Page() {
           <span>&gt;</span>
           <Link href="/features/" className="hover:text-emerald-700">特集一覧</Link>
           <span>&gt;</span>
-          <span className="text-stone-800 font-semibold truncate">インフィニティプール×絶景温泉</span>
+          <span className="text-stone-800 font-semibold break-words">インフィニティプール×絶景温泉</span>
         </div>
       </div>
 
@@ -348,19 +348,19 @@ export default function Page() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/autumn-tokyo-disney-resort-halloween-maihama-hotels-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">秋の東京ディズニーリゾート・ハロウィーン：ディズニー・ハロウィーン＆ヴィランズの饗宴！仮装・限定パレード・秋のグルメ＆舞浜オフィシャル・パートナー厳選名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">秋の東京ディズニーリゾート・ハロウィーン：ディズニー・ハロウィーン＆ヴィランズの饗宴！仮装・限定パレード・秋のグルメ＆舞浜オフィシャル・パートナー厳選名宿5選</span>
             </a>
             <a href="/furusato-tax-tokyo-disney-resort-official-hotel-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">舞浜直結！東京ディズニーリゾート公式オフィシャルホテル×ふるさと納税極上旅ガイドシェラトン・ヒルトン・グランドニッコーで夢の国をお得に満喫</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">舞浜直結！東京ディズニーリゾート公式オフィシャルホテル×ふるさと納税極上旅ガイドシェラトン・ヒルトン・グランドニッコーで夢の国をお得に満喫</span>
             </a>
             <a href="/solo-luxury-club-lounge-reward-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">一人ホテルステイ・ご褒美宿泊：クラブラウンジアクセス付き！東京＆横浜の高層ラグジュアリーホテル 厳選3選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">一人ホテルステイ・ご褒美宿泊：クラブラウンジアクセス付き！東京＆横浜の高層ラグジュアリーホテル 厳選3選</span>
             </a>
             <a href="/tokyo-disney-resort-partner-official-hotel-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">東京ディズニーリゾート®提携ホテル：オフィシャル＆パートナーホテル・無料シャトル宿 厳選ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">東京ディズニーリゾート®提携ホテル：オフィシャル＆パートナーホテル・無料シャトル宿 厳選ガイド</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

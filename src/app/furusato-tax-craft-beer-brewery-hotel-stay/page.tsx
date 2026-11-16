@@ -189,8 +189,8 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">プチリゾート　アピア</h4>
-                            <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
+                            <h4 className="font-bold text-white text-sm group-hover:text-amber-300 transition">プチリゾート　アピア</h4>
+                            <p className="text-xs text-slate-400 leading-relaxed">
                               開田高原にたたずむプチリゾートホテル「Aｐｐｅａｒ」。癒しの空間で、贅沢な時間を◎
                             </p>
                             <p className="text-xs text-slate-500 flex items-center gap-1">
@@ -252,8 +252,8 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">修善寺温泉　国の登録文化財の宿　新井旅館</h4>
-                            <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
+                            <h4 className="font-bold text-white text-sm group-hover:text-amber-300 transition">修善寺温泉　国の登録文化財の宿　新井旅館</h4>
+                            <p className="text-xs text-slate-400 leading-relaxed">
                               ミシュランで二つ星の竹林の小径まで徒歩2分、修善寺温泉の中心で観光に便利です
                             </p>
                             <p className="text-xs text-slate-500 flex items-center gap-1">
@@ -302,8 +302,8 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">長岡温泉　伊豆長岡金城館（伊東園ホテルズ）</h4>
-                            <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
+                            <h4 className="font-bold text-white text-sm group-hover:text-amber-300 transition">長岡温泉　伊豆長岡金城館（伊東園ホテルズ）</h4>
+                            <p className="text-xs text-slate-400 leading-relaxed">
                               あやめ御前ゆかりの源氏山の山裾で、葛城山を近くに望む豊かな自然に囲まれた立地。
                             </p>
                             <p className="text-xs text-slate-500 flex items-center gap-1">
@@ -352,8 +352,8 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">伊豆長岡温泉　ホテル茜</h4>
-                            <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
+                            <h4 className="font-bold text-white text-sm group-hover:text-amber-300 transition">伊豆長岡温泉　ホテル茜</h4>
+                            <p className="text-xs text-slate-400 leading-relaxed">
                               実る心地よさに出逢うたび・・・
                             </p>
                             <p className="text-xs text-slate-500 flex items-center gap-1">
@@ -415,8 +415,8 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">オーセントホテル小樽</h4>
-                            <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
+                            <h4 className="font-bold text-white text-sm group-hover:text-amber-300 transition">オーセントホテル小樽</h4>
+                            <p className="text-xs text-slate-400 leading-relaxed">
                               小樽駅より徒歩5分で観光便利♪海と街を望むノスタルジックなホテル。地産地消の美食も口コミ高評価！
                             </p>
                             <p className="text-xs text-slate-500 flex items-center gap-1">
@@ -465,8 +465,8 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">アールジェイホテルズ＜小樽＞</h4>
-                            <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
+                            <h4 className="font-bold text-white text-sm group-hover:text-amber-300 transition">アールジェイホテルズ＜小樽＞</h4>
+                            <p className="text-xs text-slate-400 leading-relaxed">
                               無人チェックインのトレーラーホテル。ペットをお連れの方は「ペット可」ルームをご予約ください。
                             </p>
                             <p className="text-xs text-slate-500 flex items-center gap-1">
@@ -514,10 +514,10 @@ export default function FurusatoTaxPage() {
                 href="/furusato-tax-winery-craft-beer-auberge-stay/"
                 className="block p-4 rounded-2xl bg-slate-950/60 border border-slate-800/80 hover:border-amber-500/50 transition group"
               >
-                <div className="font-bold text-amber-400 group-hover:text-amber-300 transition text-sm mb-1 line-clamp-1">
+                <div className="font-bold text-amber-400 group-hover:text-amber-300 transition text-sm mb-1">
                   ワイン＆地ビール×醸造オーベルジュ旅ガイド
                 </div>
-                <div className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
+                <div className="text-xs text-slate-400 leading-relaxed">
                   勝沼・富良野・余市のワイナリーホテル＆オーベルジュ。
                 </div>
               </Link>
@@ -527,10 +527,10 @@ export default function FurusatoTaxPage() {
                 href="/furusato-tax-local-gourmet-inn-stay/"
                 className="block p-4 rounded-2xl bg-slate-950/60 border border-slate-800/80 hover:border-amber-500/50 transition group"
               >
-                <div className="font-bold text-amber-400 group-hover:text-amber-300 transition text-sm mb-1 line-clamp-1">
+                <div className="font-bold text-amber-400 group-hover:text-amber-300 transition text-sm mb-1">
                   ご当地グルメ宿を堪能する美食旅特集
                 </div>
-                <div className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
+                <div className="text-xs text-slate-400 leading-relaxed">
                   高千穂牛・天然あなご・伊勢海老を味わう返礼クーポン旅。
                 </div>
               </Link>
@@ -540,10 +540,10 @@ export default function FurusatoTaxPage() {
                 href="/furusato-tax-award-winning-breakfast-gourmet-hotel-stay/"
                 className="block p-4 rounded-2xl bg-slate-950/60 border border-slate-800/80 hover:border-amber-500/50 transition group"
               >
-                <div className="font-bold text-amber-400 group-hover:text-amber-300 transition text-sm mb-1 line-clamp-1">
+                <div className="font-bold text-amber-400 group-hover:text-amber-300 transition text-sm mb-1">
                   朝食日本一受賞・究極の朝ごはんホテル×ふるさと納税完全ガイド
                 </div>
-                <div className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
+                <div className="text-xs text-slate-400 leading-relaxed">
                   函館・神戸・金沢のいくら盛り放題＆美食ビュッフェ。
                 </div>
               </Link>
@@ -646,19 +646,19 @@ export default function FurusatoTaxPage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/autumn-hokkaido-sapporo-jozankei-hoheikyo-momiji-hotels-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【10月上旬〜中旬！札幌定山渓＆豊平峡の紅葉】渓谷美と名湯に寛ぐおすすめ温泉旅館5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">【10月上旬〜中旬！札幌定山渓＆豊平峡の紅葉】渓谷美と名湯に寛ぐおすすめ温泉旅館5選</span>
             </a>
             <a href="/furusato-tax-noboribetsu-onsen-buffet-gourmet-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">登別温泉をふるさと納税でお得に旅する！豪華バイキング＆名湯大浴場！北海道三大蟹と地獄谷の絶景を巡る宿ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">登別温泉をふるさと納税でお得に旅する！豪華バイキング＆名湯大浴場！北海道三大蟹と地獄谷の絶景を巡る宿ガイド</span>
             </a>
             <a href="/hokkaido-furano-biei-lavender-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">北海道・富良野＆美瑛：青い池・ファーム富田ラベンダー＆白金温泉・富良野牛宿 厳選ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">北海道・富良野＆美瑛：青い池・ファーム富田ラベンダー＆白金温泉・富良野牛宿 厳選ガイド</span>
             </a>
             <a href="/hokkaido-otaru-yoichi-canal-distillery-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">北海道・小樽＆余市：小樽運河・ニッカウヰスキー蒸溜所＆寿司海鮮丼宿 厳選ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">北海道・小樽＆余市：小樽運河・ニッカウヰスキー蒸溜所＆寿司海鮮丼宿 厳選ガイド</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

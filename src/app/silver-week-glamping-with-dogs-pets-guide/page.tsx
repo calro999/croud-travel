@@ -281,8 +281,8 @@ export default function SilverWeekGlampingWithDogsPetsPage() {
                       <span>📍</span>
                       <span>{hotel.address1 || "リゾート"} {hotel.nearestStation ? `（最寄り: ${hotel.nearestStation}駅）` : ""}</span>
                     </div>
-                    <h3 className="font-black text-slate-900 text-lg leading-snug group-hover:text-amber-700 transition line-clamp-2">{hotel.hotelName}</h3>
-                    <p className="text-xs text-slate-600 mt-2 line-clamp-3 leading-relaxed">
+                    <h3 className="font-black text-slate-900 text-lg leading-snug group-hover:text-amber-700 transition">{hotel.hotelName}</h3>
+                    <p className="text-xs text-slate-600 mt-2 leading-relaxed">
                       {hotel.hotelSpecial || "愛犬と一緒に自然を満喫できる専用ドッグラン付きグランピング。広大な芝生と充実のペット用設備で、大切な家族みんなで特別な休日を過ごせます。"}
                     </p>
                   </div>
@@ -393,19 +393,19 @@ export default function SilverWeekGlampingWithDogsPetsPage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/chiba-tateyama-shirahama-nojimazaki-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">千葉・館山＆白浜・野島崎：房総最南端白亜の灯台・フラワーライン＆伊勢海老宿 厳選ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">千葉・館山＆白浜・野島崎：房総最南端白亜の灯台・フラワーライン＆伊勢海老宿 厳選ガイド</span>
             </a>
             <a href="/winter-chiba-katori-shrine-hatsumode-sawara-inubosaki-kinmedai-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">下総国一宮・香取神宮新春初詣と小江戸佐原の雪情話：2026-2027年冬の千葉・香取＆犬吠埼！本州最速初日の出と極上寒金目鯛名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">下総国一宮・香取神宮新春初詣と小江戸佐原の雪情話：2026-2027年冬の千葉・香取＆犬吠埼！本州最速初日の出と極上寒金目鯛名宿5選</span>
             </a>
             <a href="/chiba-choshi-kujukuri-inubosaki-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">千葉・銚子＆九十九里・犬吠埼：本州一早い日の出・犬吠埼灯台＆銚子電鉄・金目鯛宿 厳選ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">千葉・銚子＆九十九里・犬吠埼：本州一早い日の出・犬吠埼灯台＆銚子電鉄・金目鯛宿 厳選ガイド</span>
             </a>
             <a href="/furusato-tax-yoro-keikoku-autumn-leaves-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">関東で最も遅い紅葉！千葉・養老渓谷の粟又の滝＆房総黒湯温泉旅館×ふるさと納税厳選ガイド千葉</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">関東で最も遅い紅葉！千葉・養老渓谷の粟又の滝＆房総黒湯温泉旅館×ふるさと納税厳選ガイド千葉</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

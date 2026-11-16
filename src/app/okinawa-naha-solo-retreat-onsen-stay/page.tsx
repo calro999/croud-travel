@@ -398,19 +398,19 @@ export default function ArticlePage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/okinawa-luxury-anniversary-resort-guide/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「沖縄・宮古島 記念日ヴィラ＆極上リゾート」 プライベートプール付き客室で過ごすプロポーズ・ハネムーン旅</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「沖縄・宮古島 記念日ヴィラ＆極上リゾート」 プライベートプール付き客室で過ごすプロポーズ・ハネムーン旅</span>
             </a>
             <a href="/okinawa-packing-mistakes-sunburn-rentalcar-guide/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「沖縄旅行で後悔したことワースト5」 本州の3倍の紫外線で大火傷！？レンタカー返却渋滞＆必須持ち物</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「沖縄旅行で後悔したことワースト5」 本州の3倍の紫外線で大火傷！？レンタカー返却渋滞＆必須持ち物</span>
             </a>
             <a href="/super-panoramic-snorkeling-blue-cave-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「青の洞窟シュノーケリング」神秘のブルー＆ウミガメ遭遇体験！沖縄・恩納村のビーチリゾート宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「青の洞窟シュノーケリング」神秘のブルー＆ウミガメ遭遇体験！沖縄・恩納村のビーチリゾート宿5選</span>
             </a>
             <a href="/traditional-okinawa-ishigaki-beef-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「南の島の至高の美食（極上石垣牛ステーキ＆川平湾エメラルドビーチリゾート5選）」南の島の至高の美食！極上石垣牛ステーキ＆川平湾エメラルドビーチリゾート5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「南の島の至高の美食（極上石垣牛ステーキ＆川平湾エメラルドビーチリゾート5選）」南の島の至高の美食！極上石垣牛ステーキ＆川平湾エメラルドビーチリゾート5選</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

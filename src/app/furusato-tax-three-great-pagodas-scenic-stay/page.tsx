@@ -290,14 +290,14 @@ export default function Page() {
                         </div>
                       </div>
 
-                      <p className="text-xs md:text-sm text-slate-600 line-clamp-3 leading-relaxed">
+                      <p className="text-xs md:text-sm text-slate-600 leading-relaxed">
                         {h.hotelSpecial || '歴史ある名所や豊かな自然に囲まれた特別な拠点。四季折々の美食と心温まるおもてなしでお寛ぎください。'}
                       </p>
 
                       {h.userReview && (
                         <div className="bg-amber-50/70 border border-amber-100 p-3 rounded-lg text-xs space-y-1">
                           <span className="font-semibold text-amber-900">宿泊者のクチコミ:</span>
-                          <p className="text-slate-700 italic line-clamp-2 leading-relaxed">
+                          <p className="text-slate-700 italic leading-relaxed">
                             “{h.userReview}”
                           </p>
                         </div>
@@ -398,7 +398,7 @@ export default function Page() {
           <div className="grid md:grid-cols-3 gap-4">
             
             <Link href="/furusato-tax-three-great-zen-temples-mindfulness-stay/" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
-              <div className="font-bold text-sm text-slate-800 group-hover:text-emerald-700 transition line-clamp-2">
+              <div className="font-bold text-sm text-slate-800 group-hover:text-emerald-700 transition">
                 日本三大禅寺＆静寂の枯山水・心洗われる禅寺名宿×ふるさと納税完全ガイド
               </div>
               <p className="text-xs text-slate-500 mt-2">
@@ -406,7 +406,7 @@ export default function Page() {
               </p>
             </Link>
             <Link href="/furusato-tax-three-great-castles-historic-stay/" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
-              <div className="font-bold text-sm text-slate-800 group-hover:text-emerald-700 transition line-clamp-2">
+              <div className="font-bold text-sm text-slate-800 group-hover:text-emerald-700 transition">
                 日本三大名城＆不落の巨城を望む城見ステイ×ふるさと納税完全ガイド
               </div>
               <p className="text-xs text-slate-500 mt-2">
@@ -414,7 +414,7 @@ export default function Page() {
               </p>
             </Link>
             <Link href="/furusato-tax-famous-castles-stone-walls-stay/" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
-              <div className="font-bold text-sm text-slate-800 group-hover:text-emerald-700 transition line-clamp-2">
+              <div className="font-bold text-sm text-slate-800 group-hover:text-emerald-700 transition">
                 日本百名城＆石垣美を訪ねる名城ステイふるさと納税完全ガイド
               </div>
               <p className="text-xs text-slate-500 mt-2">
@@ -501,19 +501,19 @@ export default function Page() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/autumn-yamagata-yamadera-risshakuji-tendo-onsen-hotels-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">秋の山形：山寺（立石寺）の奇岩絶壁紅葉クライミングと天童温泉！美食と名湯を楽しむおすすめ旅館5選「2026最新」</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">秋の山形：山寺（立石寺）の奇岩絶壁紅葉クライミングと天童温泉！美食と名湯を楽しむおすすめ旅館5選「2026最新」</span>
             </a>
             <a href="/furusato-tax-yamadera-tendo-autumn-leaves-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">山寺立石寺の奇岩絶壁紅葉＆開運千段石段！天童温泉湯めぐり・山形牛芋煮宿×ふるさと納税厳選ガイド山形</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">山寺立石寺の奇岩絶壁紅葉＆開運千段石段！天童温泉湯めぐり・山形牛芋煮宿×ふるさと納税厳選ガイド山形</span>
             </a>
             <a href="/spring-yamagata-yonezawa-beef-cherry-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">A5米沢牛すき焼き＆佐藤錦さくらんぼ：山形名物グルメと小野川・天童・かみのやま温泉宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">A5米沢牛すき焼き＆佐藤錦さくらんぼ：山形名物グルメと小野川・天童・かみのやま温泉宿5選</span>
             </a>
             <a href="/winter-yamagata-kaminoyama-onsen-hoshigaki-yamagata-beef-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12月山形・かみのやま温泉の初冬風情と開湯五百六十年美肌泉】干し柿暖簾・特選山形牛すき焼き＆蔵王雪見露天の宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">【11・12月山形・かみのやま温泉の初冬風情と開湯五百六十年美肌泉】干し柿暖簾・特選山形牛すき焼き＆蔵王雪見露天の宿5選</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

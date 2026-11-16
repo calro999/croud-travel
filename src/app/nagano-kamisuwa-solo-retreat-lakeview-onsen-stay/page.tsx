@@ -370,19 +370,19 @@ export default function ArticlePage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/furusato-tax-shinshu-soba-kaiseki-luxury-ryokan-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">名水が育む挽きたて・打ちたて・茹でたて！信州手打ち蕎麦会席＆山里温泉名旅館×ふるさと納税厳選ガイド戸隠・安曇野・浅間温泉</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">名水が育む挽きたて・打ちたて・茹でたて！信州手打ち蕎麦会席＆山里温泉名旅館×ふるさと納税厳選ガイド戸隠・安曇野・浅間温泉</span>
             </a>
             <a href="/furusato-tax-tenryukyo-hirugami-autumn-leaves-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">南信州・天竜峡の紅葉ライン舟下り＆りんご狩り！昼神温泉美肌の湯×ふるさと納税厳選ガイド長野</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">南信州・天竜峡の紅葉ライン舟下り＆りんご狩り！昼神温泉美肌の湯×ふるさと納税厳選ガイド長野</span>
             </a>
             <a href="/kamikochi-hiking-shoes-packing-checklist/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「上高地ハイキング 服装と靴のリアル失敗談」 スニーカーで大丈夫？大正池〜河童橋で後悔しない持ち物完全版</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「上高地ハイキング 服装と靴のリアル失敗談」 スニーカーで大丈夫？大正池〜河童橋で後悔しない持ち物完全版</span>
             </a>
             <a href="/luxury-private-onsen-with-starry-astronomy-deck/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「日本一の星空・阿智村（天体観測専用デッキ＆満天星露天風呂付き極上宿5選）」日本一の星空・阿智村！天体観測専用デッキ＆満天星露天風呂付き極上宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「日本一の星空・阿智村（天体観測専用デッキ＆満天星露天風呂付き極上宿5選）」日本一の星空・阿智村！天体観測専用デッキ＆満天星露天風呂付き極上宿5選</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

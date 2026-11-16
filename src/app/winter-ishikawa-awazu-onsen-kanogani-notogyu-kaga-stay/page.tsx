@@ -516,8 +516,8 @@ export default function WinterIshikawaAwazuPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-teal-300 bg-teal-400/20 px-2 py-0.5 rounded-full inline-block">石川・和倉温泉</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-teal-200 transition line-clamp-2">七尾湾の絶景露天風呂と寒ブリ・加能ガニ</h4>
-              <p className="text-[11px] text-stone-200 line-clamp-2">
+              <h4 className="text-xs font-bold text-white group-hover:text-teal-200 transition">七尾湾の絶景露天風呂と寒ブリ・加能ガニ</h4>
+              <p className="text-[11px] text-stone-200">
                 能登の名湯・和倉の塩化物泉と初冬の日本海オーシャンビュー、海の幸尽くし。
               </p>
             </Link>
@@ -527,8 +527,8 @@ export default function WinterIshikawaAwazuPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-teal-300 bg-teal-400/20 px-2 py-0.5 rounded-full inline-block">石川・山中温泉</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-teal-200 transition line-clamp-2">鶴仙渓の初冬雪景色と山中漆器の器美・加能ガニ</h4>
-              <p className="text-[11px] text-stone-200 line-clamp-2">
+              <h4 className="text-xs font-bold text-white group-hover:text-teal-200 transition">鶴仙渓の初冬雪景色と山中漆器の器美・加能ガニ</h4>
+              <p className="text-[11px] text-stone-200">
                 芭蕉も絶賛した名湯山中温泉と渓谷美、解禁されたばかりのズワイガニ会席。
               </p>
             </Link>
@@ -538,8 +538,8 @@ export default function WinterIshikawaAwazuPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-teal-300 bg-teal-400/20 px-2 py-0.5 rounded-full inline-block">富山・氷見温泉</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-teal-200 transition line-clamp-2">富山湾越しに望む冠雪立山連峰と氷見の寒ブリ</h4>
-              <p className="text-[11px] text-stone-200 line-clamp-2">
+              <h4 className="text-xs font-bold text-white group-hover:text-teal-200 transition">富山湾越しに望む冠雪立山連峰と氷見の寒ブリ</h4>
+              <p className="text-[11px] text-stone-200">
                 冬の日本海の王者・氷見寒ブリづくしと海沿いの絶景露天風呂を巡る名宿。
               </p>
             </Link>

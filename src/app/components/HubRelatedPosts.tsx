@@ -164,8 +164,8 @@ export default function HubRelatedPosts({ currentSlug, prefecture }: HubRelatedP
                     <span>⭐ {post.rating}</span>
                   </div>
                 )}
-                <h4 className="text-sm font-black font-journal-serif text-emerald-950 line-clamp-2 group-hover:text-teal-800 transition">{post.hotel_name}</h4>
-                <p className="text-[11px] text-emerald-950/70 line-clamp-2 leading-relaxed font-medium">
+                <h4 className="text-sm font-black font-journal-serif text-emerald-950 group-hover:text-teal-800 transition">{post.hotel_name}</h4>
+                <p className="text-[11px] text-emerald-950/70 leading-relaxed font-medium">
                   {post.description || post.title}
                 </p>
               </div>

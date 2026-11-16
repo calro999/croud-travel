@@ -153,8 +153,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     鹿児島県熊毛郡屋久島町安房410-165
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">ホテルオーベルジュ＜屋久島＞</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">ホテルオーベルジュ＜屋久島＞</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     おかげさまで＜口コミ総合高評価＞☆家族と島のおばちゃんの素朴なおもてなし♪
                   </p>
                   
@@ -197,8 +197,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     鹿児島県熊毛郡屋久島町尾之間136-2
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">ｓａｍａｎａ　ｈｏｔｅｌ　Ｙａｋｕｓｈｉｍａ（旧・ホテル屋久島）＜屋久島＞</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">ｓａｍａｎａ　ｈｏｔｅｌ　Ｙａｋｕｓｈｉｍａ（旧・ホテル屋久島）＜屋久島＞</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     ＜4月26日で1周年＞自然豊かな屋久島の特等席で天然温泉とビュッフェを満喫ください
                   </p>
                   
@@ -241,8 +241,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     鹿児島県熊毛郡屋久町安房2364-35
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">ホテル　屋久島山荘　＜屋久島＞</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">ホテル　屋久島山荘　＜屋久島＞</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     宮之浦岳、縄文杉に一番近いホテルです。又部屋からのロケーションが最高です。
                   </p>
                   
@@ -298,8 +298,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     長野県下伊那郡阿智村智里338-19
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">昼神温泉　癒楽（ゆら）の宿　清風苑</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">昼神温泉　癒楽（ゆら）の宿　清風苑</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     【2025年楽天トラベルブロンズアワード受賞】★日本一の星空と笑顔のおもてなし
                   </p>
                   
@@ -355,8 +355,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     青森県青森市荒川八甲田山中
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">八甲田城ヶ倉温泉　ホテル城ヶ倉－ＨＯＴＥＬ　Ｊｏｇａｋｕｒａ－</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">八甲田城ヶ倉温泉　ホテル城ヶ倉－ＨＯＴＥＬ　Ｊｏｇａｋｕｒａ－</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     源泉かけ流し温泉を八甲田の自然と共に楽しむ北欧風マウンテンリゾート。地元青森の旬の味覚をご用意。
                   </p>
                   
@@ -399,8 +399,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     青森県青森市浅虫坂本51-1
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">浅虫温泉　絶景の宿　浅虫さくら観光ホテル</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">浅虫温泉　絶景の宿　浅虫さくら観光ホテル</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     【全室海側】陸奥湾を一望★絶景の春夏秋冬★眺望露天風呂★青森の旬な食材★唯一海岸沿に建つ希少な宿
                   </p>
                   

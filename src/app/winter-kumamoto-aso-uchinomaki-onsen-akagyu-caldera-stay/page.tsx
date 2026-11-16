@@ -611,7 +611,7 @@ export default function KumamotoAsoUchinomakiWinterFeature() {
             >
               <span className="px-2 py-0.5 rounded bg-amber-500/40 text-amber-200 font-bold text-[10px]">黒川・湯あかり幻想</span>
               <h3 className="font-bold text-white text-sm">黒川温泉・冬の湯あかり竹灯籠と渓流雪見露天・肥後牛の宿</h3>
-              <p className="text-slate-300 text-[11px] line-clamp-2">竹灯籠が渓流を照らす幻想的な冬の夜と入湯手形での名湯巡り。</p>
+              <p className="text-slate-300 text-[11px]">竹灯籠が渓流を照らす幻想的な冬の夜と入湯手形での名湯巡り。</p>
             </Link>
 
             <Link 
@@ -620,7 +620,7 @@ export default function KumamotoAsoUchinomakiWinterFeature() {
             >
               <span className="px-2 py-0.5 rounded bg-rose-500/40 text-rose-200 font-bold text-[10px]">平山・極上硫黄泉</span>
               <h3 className="font-bold text-white text-sm">平山温泉・とろとろ美肌の硫黄泉掛け流しと馬刺し・肥後牛の宿</h3>
-              <p className="text-slate-300 text-[11px] line-clamp-2">化粧水のようなとろみの極上美肌湯と隠れ家風の静かな湯宿。</p>
+              <p className="text-slate-300 text-[11px]">化粧水のようなとろみの極上美肌湯と隠れ家風の静かな湯宿。</p>
             </Link>
 
             <Link 
@@ -629,7 +629,7 @@ export default function KumamotoAsoUchinomakiWinterFeature() {
             >
               <span className="px-2 py-0.5 rounded bg-emerald-500/40 text-emerald-200 font-bold text-[10px]">由布院・金鱗湖朝霧</span>
               <h3 className="font-bold text-white text-sm">由布院温泉・金鱗湖の冬朝霧と由布岳展望露天・豊後牛の宿</h3>
-              <p className="text-slate-300 text-[11px] line-clamp-2">湖面から立ち上る幻想的な朝霧と由布岳を望む上質な大人の離れ宿。</p>
+              <p className="text-slate-300 text-[11px]">湖面から立ち上る幻想的な朝霧と由布岳を望む上質な大人の離れ宿。</p>
             </Link>
 
             <Link 
@@ -638,7 +638,7 @@ export default function KumamotoAsoUchinomakiWinterFeature() {
             >
               <span className="px-2 py-0.5 rounded bg-orange-500/40 text-orange-200 font-bold text-[10px]">原鶴・W美肌の湯</span>
               <h3 className="font-bold text-white text-sm">原鶴温泉・筑後川の初冬情緒とダブル美肌の湯・博多和牛の宿</h3>
-              <p className="text-slate-300 text-[11px] line-clamp-2">弱アルカリ性と硫黄泉のダブル美肌効果と博多和牛すき焼き。</p>
+              <p className="text-slate-300 text-[11px]">弱アルカリ性と硫黄泉のダブル美肌効果と博多和牛すき焼き。</p>
             </Link>
           
       <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">

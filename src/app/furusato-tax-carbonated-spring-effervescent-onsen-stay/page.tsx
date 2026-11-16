@@ -153,8 +153,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     大分県竹田市直入町長湯7996
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">長湯温泉　紅葉館＜大分県＞</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">長湯温泉　紅葉館＜大分県＞</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     長湯名物カニ湯は目の前！温泉情緒あふれる老舗で心落ち着く静かな時間を♪自慢のチャンコ鍋はボリューム◎
                   </p>
                   
@@ -197,8 +197,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     大分県竹田市直入町長湯7992-1
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">長湯温泉　大丸旅館</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">長湯温泉　大丸旅館</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     長湯温泉の老舗宿。全室・芹川に面し温泉街散策にも便利。泡付き炭酸泉「ラムネ温泉館」入浴無料。
                   </p>
                   
@@ -241,8 +241,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     大分県竹田市久住町仏原1066-2
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">三船温泉　民宿城山＜大分県＞</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">三船温泉　民宿城山＜大分県＞</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     炭酸泉の100％源泉掛け流し天然温泉宿☆野菜やお米は自家栽培♪
                   </p>
                   
@@ -298,8 +298,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     岐阜県下呂市小坂町湯屋427番地1
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">下呂の奥座敷　炭酸泉の宿　泉岳舘</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">下呂の奥座敷　炭酸泉の宿　泉岳舘</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     天然炭酸泉を飲む　浸かる　美容。炭酸泉づくしを楽しむ宿
                   </p>
                   
@@ -342,8 +342,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     岐阜県高山市朝日町胡桃島8
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">くるみ温泉＆キャンプ</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">くるみ温泉＆キャンプ</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     御嶽山から流れる清流秋神川　広がる大自然を眺めながら、くつろぎのひとときをご堪能ください。
                   </p>
                   
@@ -386,8 +386,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     岐阜県下呂市小坂町落合2376-1
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">濁河温泉　湯の谷荘</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">濁河温泉　湯の谷荘</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     秘湯 濁河温泉 御嶽山北麓 標高1800m 源泉掛け流し 静謐なひと時を
                   </p>
                   
@@ -443,8 +443,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     兵庫県神戸市北区有馬町1537-2
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">有馬温泉　ねぎや陵楓閣</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">有馬温泉　ねぎや陵楓閣</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     有馬温泉・落葉山（おちばやま）の中腹に位置し、自然を満喫できるくつろぎの宿。
                   </p>
                   
@@ -487,8 +487,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     和歌山県西牟婁郡白浜町2411-1
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">クリスタル旅館　白浜　灯りや</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">クリスタル旅館　白浜　灯りや</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     南紀白浜の人気ビーチ「白良浜」まで徒歩約7分！リニューアルし人気宿！好立地でリピーター様多数 ♪
                   </p>
                   
@@ -531,8 +531,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     兵庫県神戸市中央区熊内町4-3-7
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">料亭旅館　ほてるＩＳＡＧＯ神戸</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">料亭旅館　ほてるＩＳＡＧＯ神戸</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     料理口コミ高評価！証明書付き神戸牛会席は絶品♪新神戸駅徒歩5分、貸切天然温泉が人気の和モダン旅館
                   </p>
                   

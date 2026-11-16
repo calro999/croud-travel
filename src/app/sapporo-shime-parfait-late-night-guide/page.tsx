@@ -444,16 +444,16 @@ export default function SapporoShimeParfaitLateNightGuidePage() {
                           )}
                         </div>
 
-                        <h3 className="text-base sm:text-lg font-bold text-white mb-2 line-clamp-2 leading-snug">{hotel.hotelName}</h3>
+                        <h3 className="text-base sm:text-lg font-bold text-white mb-2 leading-snug">{hotel.hotelName}</h3>
 
                         {hotel.hotelSpecial && (
-                          <p className="text-xs text-slate-300 line-clamp-3 mb-3 leading-relaxed">
+                          <p className="text-xs text-slate-300 mb-3 leading-relaxed">
                             {hotel.hotelSpecial}
                           </p>
                         )}
 
                         {hotel.access && (
-                          <p className="text-[11px] text-slate-400 line-clamp-2">
+                          <p className="text-[11px] text-slate-400">
                             🚶 {hotel.access}
                           </p>
                         )}
@@ -548,19 +548,19 @@ export default function SapporoShimeParfaitLateNightGuidePage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/furusato-tax-hokkaido-kushiro-akan-autumn-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">北海道・阿寒湖温泉と釧路湿原の秋！マリモの森紅葉クルーズ＆鶴雅リゾート極上ビュッフェ</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">北海道・阿寒湖温泉と釧路湿原の秋！マリモの森紅葉クルーズ＆鶴雅リゾート極上ビュッフェ</span>
             </a>
             <a href="/furusato-tax-noboribetsu-onsen-jigokudani-resort-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">登別温泉をふるさと納税でお得に旅する！地獄谷の大パノラマ＆五大泉質温泉天国！巨大露天風呂と北海道ビュッフェガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">登別温泉をふるさと納税でお得に旅する！地獄谷の大パノラマ＆五大泉質温泉天国！巨大露天風呂と北海道ビュッフェガイド</span>
             </a>
             <a href="/hokkaido-hakodate-motomachi-goryokaku-nightview-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">北海道・函館＆五稜郭：世界三大夜景・星形城郭＆朝市海鮮宿 厳選ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">北海道・函館＆五稜郭：世界三大夜景・星形城郭＆朝市海鮮宿 厳選ガイド</span>
             </a>
             <a href="/hokkaido-shiretoko-utoro-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">北海道・世界遺産知床ウトロ：オホーツク流氷・知床五湖＆エゾシカ海鮮極上宿 厳選ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">北海道・世界遺産知床ウトロ：オホーツク流氷・知床五湖＆エゾシカ海鮮極上宿 厳選ガイド</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

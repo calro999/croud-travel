@@ -292,8 +292,8 @@ export default function SilverWeekGlampingLargeGroupCharterPage() {
                       <span>📍</span>
                       <span>{hotel.address1} {hotel.address2} {hotel.nearestStation ? `（最寄り: ${hotel.nearestStation}駅）` : ""}</span>
                     </div>
-                    <h3 className="font-black text-slate-900 text-lg leading-snug group-hover:text-indigo-700 transition line-clamp-2">{hotel.hotelName}</h3>
-                    <p className="text-xs text-slate-600 mt-2 line-clamp-3 leading-relaxed">
+                    <h3 className="font-black text-slate-900 text-lg leading-snug group-hover:text-indigo-700 transition">{hotel.hotelName}</h3>
+                    <p className="text-xs text-slate-600 mt-2 leading-relaxed">
                       {hotel.hotelSpecial || "大人数でのグループステイに最適な一棟貸切リゾート。広いウッドデッキでの大型BBQや焚き火、プライベートな時間をお楽しみいただけます。"}
                     </p>
                   </div>
@@ -404,19 +404,19 @@ export default function SilverWeekGlampingLargeGroupCharterPage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/furusato-tax-art-museum-architecture-luxury-hotel-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">安藤忠雄建築や現代アートと眠る美術館ホテル＆アートリゾート×ふるさと納税厳選ガイド直島・箱根強羅・青森</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">安藤忠雄建築や現代アートと眠る美術館ホテル＆アートリゾート×ふるさと納税厳選ガイド直島・箱根強羅・青森</span>
             </a>
             <a href="/furusato-tax-three-major-forest-therapy-retreat-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">日本三大美林＆巨樹・森林セラピー癒やしの宿×ふるさと納税厳選ガイド屋久島・木曽ヒノキ・青森ヒバの森</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">日本三大美林＆巨樹・森林セラピー癒やしの宿×ふるさと納税厳選ガイド屋久島・木曽ヒノキ・青森ヒバの森</span>
             </a>
             <a href="/winter-aomori-oirase-hakkoda-onsen-frozen-waterfall-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12月奥入瀬渓流温泉と八甲田山樹氷の初冬秘湯】幻想的な氷瀑ライトアップ・白濁名湯露天風呂と青森倉石牛＆陸奥湾ホタテ会席の宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">【11・12月奥入瀬渓流温泉と八甲田山樹氷の初冬秘湯】幻想的な氷瀑ライトアップ・白濁名湯露天風呂と青森倉石牛＆陸奥湾ホタテ会席の宿5選</span>
             </a>
             <a href="/aomori-oirase-towada-nature-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">青森・十和田湖＆奥入瀬渓流：苔むす清流・銚子大滝＆青森りんご極上宿 厳選ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">青森・十和田湖＆奥入瀬渓流：苔むす清流・銚子大滝＆青森りんご極上宿 厳選ガイド</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

@@ -404,19 +404,19 @@ export default function FeaturePage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/winter-kochi-sukumo-daruma-sunset-shimanto-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">高知・宿毛＆四万十 奇跡の絶景「宿毛湾だるま夕日」と四万十川の冬情趣 冬が旬の「宿毛寒ブリ・本マグロ・四万十牛」＆絶景名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">高知・宿毛＆四万十 奇跡の絶景「宿毛湾だるま夕日」と四万十川の冬情趣 冬が旬の「宿毛寒ブリ・本マグロ・四万十牛」＆絶景名宿5選</span>
             </a>
             <a href="/autumn-budget-gunma-takasaki-station-pasta-haruna-hotels-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「高崎駅前」榛名山紅葉＆名物高崎パスタ！3,000円台〜泊まれる格安・高コスパ宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「高崎駅前」榛名山紅葉＆名物高崎パスタ！3,000円台〜泊まれる格安・高コスパ宿5選</span>
             </a>
             <a href="/furusato-tax-ikaho-kajikabashi-autumn-leaves-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">伊香保温泉の河鹿橋もみじライトアップ＆365段石段街！黄金の湯宿×ふるさと納税厳選ガイド群馬</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">伊香保温泉の河鹿橋もみじライトアップ＆365段石段街！黄金の湯宿×ふるさと納税厳選ガイド群馬</span>
             </a>
             <a href="/furusato-tax-ikaho-stone-steps-retro-luxury-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">伊香保温泉をふるさと納税でお得に旅する！365段の石段街と黄金の湯＆白銀の湯！名門老舗旅館ステイ厳選ガイド｜福一・ホテル木暮・岸権旅館</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">伊香保温泉をふるさと納税でお得に旅する！365段の石段街と黄金の湯＆白銀の湯！名門老舗旅館ステイ厳選ガイド｜福一・ホテル木暮・岸権旅館</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

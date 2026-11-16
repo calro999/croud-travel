@@ -433,19 +433,19 @@ export default function ArticlePage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/kagawa-kotohira-konpira-shrine-sanuki-udon-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「香川・琴平＆こんぴら温泉・讃岐うどん」金刀比羅宮785段階段・金丸座＆うどん宿 厳選ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「香川・琴平＆こんぴら温泉・讃岐うどん」金刀比羅宮785段階段・金丸座＆うどん宿 厳選ガイド</span>
             </a>
             <a href="/kagawa-shodoshima-olive-beach-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「香川・小豆島」エンジェルロード・寒霞渓＆オリーブ牛・海辺リゾート 厳選ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「香川・小豆島」エンジェルロード・寒霞渓＆オリーブ牛・海辺リゾート 厳選ガイド</span>
             </a>
             <a href="/tokyo-shikoku-takamatsu-bus-vs-shinkansen-guide/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「東京〜高松・香川」寝台特急サンライズ vs 新幹線 vs 夜行バス徹底比較！片道5,000円〜行く本場讃岐うどん爆食1泊2日モデルコース</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「東京〜高松・香川」寝台特急サンライズ vs 新幹線 vs 夜行バス徹底比較！片道5,000円〜行く本場讃岐うどん爆食1泊2日モデルコース</span>
             </a>
             <a href="/winter-kagawa-kotohira-konpira-shrine-hatsumode-zentsuji-olivegyu-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">四国随一の初詣「金刀比羅宮」785段石段と弘法大師誕生の地「善通寺」新春祈願 讃岐オリーブ牛＆こんぴら温泉郷 名湯露天風呂宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">四国随一の初詣「金刀比羅宮」785段石段と弘法大師誕生の地「善通寺」新春祈願 讃岐オリーブ牛＆こんぴら温泉郷 名湯露天風呂宿5選</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

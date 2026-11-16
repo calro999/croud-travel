@@ -399,19 +399,19 @@ export default function Page() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/organic-forest-infinity-panoramic-sauna-kyushu/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「九州名峰パノラマサウナ＆阿蘇湧水」由布院・黒川・霧島！大自然の外気浴サウナ宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「九州名峰パノラマサウナ＆阿蘇湧水」由布院・黒川・霧島！大自然の外気浴サウナ宿5選</span>
             </a>
             <a href="/spring-kumamoto-sweet-melon-kaiseki-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「糖度際立つ春メロン（肥後グリーン会席＆阿蘇カルデラ大パノラマ温泉宿5選）」糖度際立つ春メロン！肥後グリーン会席＆阿蘇カルデラ大パノラマ温泉宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「糖度際立つ春メロン（肥後グリーン会席＆阿蘇カルデラ大パノラマ温泉宿5選）」糖度際立つ春メロン！肥後グリーン会席＆阿蘇カルデラ大パノラマ温泉宿5選</span>
             </a>
             <a href="/winter-kumamoto-amakusa-shimoda-onsen-sunset-seafood-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12月天草・下田温泉の冬名湯と夕陽海鮮】 東シナ海サンセット露天と白鷺古湯・冬の伊勢海老＆天然車海老会席の宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">【11・12月天草・下田温泉の冬名湯と夕陽海鮮】 東シナ海サンセット露天と白鷺古湯・冬の伊勢海老＆天然車海老会席の宿5選</span>
             </a>
             <a href="/winter-kumamoto-hitoyoshi-onsen-kumagawa-mist-wagyu-ayu-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12月熊本・人吉温泉郷】球磨川初冬朝霧絶景と美肌名湯 名物子持ち落ち鮎塩焼き＆極上球磨黒毛和牛・球磨焼酎会席を味わう老舗宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">【11・12月熊本・人吉温泉郷】球磨川初冬朝霧絶景と美肌名湯 名物子持ち落ち鮎塩焼き＆極上球磨黒毛和牛・球磨焼酎会席を味わう老舗宿5選</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

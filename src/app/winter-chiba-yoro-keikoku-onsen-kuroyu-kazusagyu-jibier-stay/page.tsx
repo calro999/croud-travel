@@ -709,7 +709,7 @@ export default function ChibaYoroKeikokuWinterPage() {
               className="bg-white p-4 rounded-2xl border border-stone-200 hover:border-amber-500 hover:shadow-xs transition group space-y-2"
             >
               <span className="text-[11px] font-bold text-amber-700 bg-amber-50 px-2 py-0.5 rounded-md">千葉・南房総館山</span>
-              <h4 className="text-xs sm:text-sm font-bold text-stone-900 group-hover:text-amber-700 transition line-clamp-2">温暖な南房総の避寒温泉と旬の伊勢海老・房総地魚舟盛り名宿</h4>
+              <h4 className="text-xs sm:text-sm font-bold text-stone-900 group-hover:text-amber-700 transition">温暖な南房総の避寒温泉と旬の伊勢海老・房総地魚舟盛り名宿</h4>
             </Link>
 
             <Link
@@ -717,7 +717,7 @@ export default function ChibaYoroKeikokuWinterPage() {
               className="bg-white p-4 rounded-2xl border border-stone-200 hover:border-amber-500 hover:shadow-xs transition group space-y-2"
             >
               <span className="text-[11px] font-bold text-amber-700 bg-amber-50 px-2 py-0.5 rounded-md">神奈川・湯河原温泉</span>
-              <h4 className="text-xs sm:text-sm font-bold text-stone-900 group-hover:text-amber-700 transition line-clamp-2">文豪が愛した万葉の隠れ名湯と相模湾地魚・懐石料理</h4>
+              <h4 className="text-xs sm:text-sm font-bold text-stone-900 group-hover:text-amber-700 transition">文豪が愛した万葉の隠れ名湯と相模湾地魚・懐石料理</h4>
             </Link>
 
             <Link
@@ -725,7 +725,7 @@ export default function ChibaYoroKeikokuWinterPage() {
               className="bg-white p-4 rounded-2xl border border-stone-200 hover:border-amber-500 hover:shadow-xs transition group space-y-2"
             >
               <span className="text-[11px] font-bold text-amber-700 bg-amber-50 px-2 py-0.5 rounded-md">静岡・修善寺温泉</span>
-              <h4 className="text-xs sm:text-sm font-bold text-stone-900 group-hover:text-amber-700 transition line-clamp-2">竹林の小径と初冬の遅い紅葉・桂川沿いの老舗湯宿</h4>
+              <h4 className="text-xs sm:text-sm font-bold text-stone-900 group-hover:text-amber-700 transition">竹林の小径と初冬の遅い紅葉・桂川沿いの老舗湯宿</h4>
             </Link>
 
             <Link
@@ -733,7 +733,7 @@ export default function ChibaYoroKeikokuWinterPage() {
               className="bg-white p-4 rounded-2xl border border-stone-200 hover:border-amber-500 hover:shadow-xs transition group space-y-2"
             >
               <span className="text-[11px] font-bold text-amber-700 bg-amber-50 px-2 py-0.5 rounded-md">埼玉・秩父温泉</span>
-              <h4 className="text-xs sm:text-sm font-bold text-stone-900 group-hover:text-amber-700 transition line-clamp-2">12月秩父夜祭の屋台曳行と武州牛・長瀞渓谷の初冬風情</h4>
+              <h4 className="text-xs sm:text-sm font-bold text-stone-900 group-hover:text-amber-700 transition">12月秩父夜祭の屋台曳行と武州牛・長瀞渓谷の初冬風情</h4>
             </Link>
 
             <Link
@@ -741,7 +741,7 @@ export default function ChibaYoroKeikokuWinterPage() {
               className="bg-white p-4 rounded-2xl border border-stone-200 hover:border-amber-500 hover:shadow-xs transition group space-y-2"
             >
               <span className="text-[11px] font-bold text-amber-700 bg-amber-50 px-2 py-0.5 rounded-md">栃木・鬼怒川温泉</span>
-              <h4 className="text-xs sm:text-sm font-bold text-stone-900 group-hover:text-amber-700 transition line-clamp-2">鬼怒川渓谷の初冬美景とアルカリ性単純温泉・とちぎ和牛</h4>
+              <h4 className="text-xs sm:text-sm font-bold text-stone-900 group-hover:text-amber-700 transition">鬼怒川渓谷の初冬美景とアルカリ性単純温泉・とちぎ和牛</h4>
             </Link>
 
             <Link

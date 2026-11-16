@@ -709,7 +709,7 @@ export default function KumamotoYamagaHirayamaWinterPage() {
               className="bg-white p-4 rounded-2xl border border-stone-200 hover:border-red-500 hover:shadow-xs transition group space-y-2"
             >
               <span className="text-[11px] font-bold text-red-700 bg-red-50 px-2 py-0.5 rounded-md">熊本・黒川温泉</span>
-              <h4 className="text-xs sm:text-sm font-bold text-stone-900 group-hover:text-red-700 transition line-clamp-2">黒川温泉の湯あかりイルミネーションと入湯手形めぐり名宿</h4>
+              <h4 className="text-xs sm:text-sm font-bold text-stone-900 group-hover:text-red-700 transition">黒川温泉の湯あかりイルミネーションと入湯手形めぐり名宿</h4>
             </Link>
 
             <Link
@@ -717,7 +717,7 @@ export default function KumamotoYamagaHirayamaWinterPage() {
               className="bg-white p-4 rounded-2xl border border-stone-200 hover:border-red-500 hover:shadow-xs transition group space-y-2"
             >
               <span className="text-[11px] font-bold text-red-700 bg-red-50 px-2 py-0.5 rounded-md">熊本・阿蘇内牧温泉</span>
-              <h4 className="text-xs sm:text-sm font-bold text-stone-900 group-hover:text-red-700 transition line-clamp-2">阿蘇カルデラの初冬絶景とあか牛丼・自家源泉かけ流し宿</h4>
+              <h4 className="text-xs sm:text-sm font-bold text-stone-900 group-hover:text-red-700 transition">阿蘇カルデラの初冬絶景とあか牛丼・自家源泉かけ流し宿</h4>
             </Link>
 
             <Link
@@ -725,7 +725,7 @@ export default function KumamotoYamagaHirayamaWinterPage() {
               className="bg-white p-4 rounded-2xl border border-stone-200 hover:border-red-500 hover:shadow-xs transition group space-y-2"
             >
               <span className="text-[11px] font-bold text-red-700 bg-red-50 px-2 py-0.5 rounded-md">佐賀・嬉野温泉</span>
-              <h4 className="text-xs sm:text-sm font-bold text-stone-900 group-hover:text-red-700 transition line-clamp-2">日本三大美肌の湯ととろける温泉湯豆腐・極上佐賀牛ステイ</h4>
+              <h4 className="text-xs sm:text-sm font-bold text-stone-900 group-hover:text-red-700 transition">日本三大美肌の湯ととろける温泉湯豆腐・極上佐賀牛ステイ</h4>
             </Link>
 
             <Link
@@ -733,7 +733,7 @@ export default function KumamotoYamagaHirayamaWinterPage() {
               className="bg-white p-4 rounded-2xl border border-stone-200 hover:border-red-500 hover:shadow-xs transition group space-y-2"
             >
               <span className="text-[11px] font-bold text-red-700 bg-red-50 px-2 py-0.5 rounded-md">大分・日田＆天瀬温泉</span>
-              <h4 className="text-xs sm:text-sm font-bold text-stone-900 group-hover:text-red-700 transition line-clamp-2">水郷ひたの初冬川霧と天領小江戸・玖珠川渓流露天とおおいた豊後牛</h4>
+              <h4 className="text-xs sm:text-sm font-bold text-stone-900 group-hover:text-red-700 transition">水郷ひたの初冬川霧と天領小江戸・玖珠川渓流露天とおおいた豊後牛</h4>
             </Link>
 
             <Link
@@ -741,7 +741,7 @@ export default function KumamotoYamagaHirayamaWinterPage() {
               className="bg-white p-4 rounded-2xl border border-stone-200 hover:border-red-500 hover:shadow-xs transition group space-y-2"
             >
               <span className="text-[11px] font-bold text-red-700 bg-red-50 px-2 py-0.5 rounded-md">熊本・杖立温泉</span>
-              <h4 className="text-xs sm:text-sm font-bold text-stone-900 group-hover:text-red-700 transition line-clamp-2">立ちのぼる湯煙とむし湯体験・肥後牛と昭和レトロ温泉街</h4>
+              <h4 className="text-xs sm:text-sm font-bold text-stone-900 group-hover:text-red-700 transition">立ちのぼる湯煙とむし湯体験・肥後牛と昭和レトロ温泉街</h4>
             </Link>
 
             <Link

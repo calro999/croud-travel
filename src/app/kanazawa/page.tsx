@@ -474,8 +474,8 @@ export default function KanazawaGuidePage() {
                       </span>
                     )}
                   </div>
-                  <h3 className="text-sm font-black font-journal-serif text-white line-clamp-2">{post.hotel_name}</h3>
-                  <p className="text-xs text-emerald-100/70 line-clamp-2">
+                  <h3 className="text-sm font-black font-journal-serif text-white">{post.hotel_name}</h3>
+                  <p className="text-xs text-emerald-100/70">
                     {post.description || post.title}
                   </p>
                 </div>

@@ -42,7 +42,7 @@ export default function HakodateBudgetAutumnPage() {
             <span className="px-3 py-1 bg-stone-800 text-amber-300 text-xs font-medium rounded-full border border-amber-400/30">1泊目安: 2,000円台〜5,000円台</span>
           </div>
           <h1 className="text-2xl md:text-4xl lg:text-5xl font-extrabold text-white leading-tight mb-4 drop-shadow-md">「秋の函館×格安」五稜郭の紅葉と海鮮グルメ！1泊2,000円〜5,000円台の高コスパおすすめホテル5選</h1>
-          <p className="text-stone-200 text-sm md:text-base max-w-3xl line-clamp-2 md:line-clamp-none">
+          <p className="text-stone-200 text-sm md:text-base max-w-3xl">
             五稜郭タワーから見下ろす星形の紅葉パノラマと、空気が澄み渡り輝きを増す函館山からの「100万ドルの夜景」。海鮮市場での食べ歩きや名湯・湯の川温泉を驚きの低価格で満喫できる格安宿をご紹介します。
           </p>
         </div>
@@ -98,7 +98,7 @@ export default function HakodateBudgetAutumnPage() {
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 函館 / ＪＲ　函館駅から0.7K徒歩にて約７分。函館空港より車15分、空港より函館駅までシャトルバス有り
                   </p>
-                  <p className="text-sm text-stone-600 mb-4 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-stone-600 mb-4 leading-relaxed">
                     ＪＲ函館駅から徒歩にて７分の好立地、観光やビジネス、小グループの拠点として最適です。
                   </p>
                 </div>
@@ -143,7 +143,7 @@ export default function HakodateBudgetAutumnPage() {
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 函館駅・市電電停 / 市電「五稜郭公園前」より徒歩約3分
                   </p>
-                  <p className="text-sm text-stone-600 mb-4 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-stone-600 mb-4 leading-relaxed">
                     【全館全室禁煙】すべてのお部屋に空気清浄機完備★五稜郭公園まで徒歩約5分♪
                   </p>
                 </div>
@@ -188,7 +188,7 @@ export default function HakodateBudgetAutumnPage() {
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 函館空港 / 函館空港から車で約31分／新函館北斗駅から車で約17分／大沼公園駅から定期無料送迎バス運行/屋外無料駐車場完備
                   </p>
-                  <p className="text-sm text-stone-600 mb-4 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-stone-600 mb-4 leading-relaxed">
                     大沼公園の自然を感じるホテル。無料駐車場完備・和洋ブッフェ・温泉を満喫。ゴルフ場も隣接しています♪。
                   </p>
                 </div>
@@ -233,7 +233,7 @@ export default function HakodateBudgetAutumnPage() {
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 宝来町 / 函館市電『宝来町』徒歩約3分・『十字街』徒歩約5分、JR函館駅より車で約5分、函館空港よりバスにて約40分
                   </p>
-                  <p className="text-sm text-stone-600 mb-4 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-stone-600 mb-4 leading-relaxed">
                     24年10月OPEN♪宿泊者限定ラウンジで地酒を愉しみ＆海鮮含む70種の朝食ブッフェで舌鼓
                   </p>
                 </div>
@@ -278,7 +278,7 @@ export default function HakodateBudgetAutumnPage() {
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 函館 / 『函館空港』からお車にて約6分/『函館駅』よりお車にて約12分/バス停『熱帯植物園前』から徒歩約3分
                   </p>
-                  <p className="text-sm text-stone-600 mb-4 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-stone-600 mb-4 leading-relaxed">
                     【楽天トラベルゴールドアワード2025受賞！】海と星空が広がる【絶景露天風呂】
                   </p>
                 </div>

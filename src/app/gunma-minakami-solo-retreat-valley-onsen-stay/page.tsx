@@ -369,19 +369,19 @@ export default function ArticlePage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/super-panoramic-canyon-bungee-jump-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「日本一のバンジージャンプ」竜神大吊橋・みなかみ渓谷の絶叫体験と名湯温泉宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「日本一のバンジージャンプ」竜神大吊橋・みなかみ渓谷の絶叫体験と名湯温泉宿5選</span>
             </a>
             <a href="/super-panoramic-lake-canoe-kayak-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「湖上カヌー＆カヤック冒険」富士五湖・中禅寺湖・十和田湖！水上パノラマと絶景温泉宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「湖上カヌー＆カヤック冒険」富士五湖・中禅寺湖・十和田湖！水上パノラマと絶景温泉宿5選</span>
             </a>
             <a href="/traditional-gunma-daruma-craft-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「福を呼ぶ伝統工芸体験（高崎だるま絵付け＆伊香保石段街・黄金の湯の名旅館5選）」福を呼ぶ伝統工芸体験！高崎だるま絵付け＆伊香保石段街・黄金の湯の名旅館5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「福を呼ぶ伝統工芸体験（高崎だるま絵付け＆伊香保石段街・黄金の湯の名旅館5選）」福を呼ぶ伝統工芸体験！高崎だるま絵付け＆伊香保石段街・黄金の湯の名旅館5選</span>
             </a>
             <a href="/winter-gunma-ikaho-stone-steps-joshu-beef-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12月伊香保温泉の初冬散策】 365段の石段街と黄金の湯・上州牛会席を味わう名旅館5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">【11・12月伊香保温泉の初冬散策】 365段の石段街と黄金の湯・上州牛会席を味わう名旅館5選</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

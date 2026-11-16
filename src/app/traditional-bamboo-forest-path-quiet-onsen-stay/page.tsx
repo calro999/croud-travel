@@ -160,7 +160,7 @@ export default function Page() {
           <span>&gt;</span>
           <Link href="/features/" className="hover:text-emerald-700">特集一覧</Link>
           <span>&gt;</span>
-          <span className="text-stone-800 font-semibold truncate">竹林ライトアップ×静寂露天風呂</span>
+          <span className="text-stone-800 font-semibold break-words">竹林ライトアップ×静寂露天風呂</span>
         </div>
       </div>
 
@@ -348,19 +348,19 @@ export default function Page() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/niigata-echigo-yuzawa-snow-sake-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">新潟・越後湯沢＆魚沼：川端康成雪国・ぽんしゅ館利き酒＆魚沼産コシヒカリ極上宿 厳選ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">新潟・越後湯沢＆魚沼：川端康成雪国・ぽんしゅ館利き酒＆魚沼産コシヒカリ極上宿 厳選ガイド</span>
             </a>
             <a href="/tokyo-niigata-bus-vs-shinkansen-guide/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">東京〜新潟：新幹線 vs 高速バス徹底比較！片道2,500円〜行く日本酒・極上寿司・ぽんしゅ館1泊2日モデルコース</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">東京〜新潟：新幹線 vs 高速バス徹底比較！片道2,500円〜行く日本酒・極上寿司・ぽんしゅ館1泊2日モデルコース</span>
             </a>
             <a href="/winter-niigata-senami-onsen-sunset-ocean-salmon-murakami-beef-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12月新潟・瀬波温泉の初冬日本海夕日絶景露天と越後村上鮭三昧】名物塩引鮭・はらこ飯＆極上村上牛会席の海辺宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">【11・12月新潟・瀬波温泉の初冬日本海夕日絶景露天と越後村上鮭三昧】名物塩引鮭・はらこ飯＆極上村上牛会席の海辺宿5選</span>
             </a>
             <a href="/furusato-tax-myoko-akakura-autumn-leaves-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">妙高山と妙高スカイケーブルの紅葉空中散歩＆赤倉温泉！絶景クラシックホテル×ふるさと納税厳選ガイド新潟</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">妙高山と妙高スカイケーブルの紅葉空中散歩＆赤倉温泉！絶景クラシックホテル×ふるさと納税厳選ガイド新潟</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

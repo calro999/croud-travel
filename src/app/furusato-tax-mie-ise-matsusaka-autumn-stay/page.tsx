@@ -399,19 +399,19 @@ export default function Page() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/mie-shima-kashikojima-resort-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「三重・志摩賢島」英虞湾リアス多島美＆志摩観光ホテル・伊勢海老極上宿 厳選ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「三重・志摩賢島」英虞湾リアス多島美＆志摩観光ホテル・伊勢海老極上宿 厳選ガイド</span>
             </a>
             <a href="/mie-toba-solo-retreat-ocean-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「鳥羽温泉郷ひとり旅・伊勢志摩オーシャンビューおこもり」鳥羽湾一望の展望露天・伊勢海老＆鮑・静寂の岬リゾート！お伊勢参り後のご褒美厳選3宿</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「鳥羽温泉郷ひとり旅・伊勢志摩オーシャンビューおこもり」鳥羽湾一望の展望露天・伊勢海老＆鮑・静寂の岬リゾート！お伊勢参り後のご褒美厳選3宿</span>
             </a>
             <a href="/nagoya-departure-daytrip-bus-tour-guide/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「名古屋発 日帰りバスツアー＆温泉ランチおすすめ」 下呂温泉・伊勢神宮参拝・飛騨牛食べ放題 プラン深掘り特集</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「名古屋発 日帰りバスツアー＆温泉ランチおすすめ」 下呂温泉・伊勢神宮参拝・飛騨牛食べ放題 プラン深掘り特集</span>
             </a>
             <a href="/traditional-mie-ise-ebi-abalone-gourmet-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「伊勢志摩の王道美食」活伊勢海老お造り＆極上あわび踊り焼き！鳥羽・賢島オーシャンビュー温泉宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「伊勢志摩の王道美食」活伊勢海老お造り＆極上あわび踊り焼き！鳥羽・賢島オーシャンビュー温泉宿5選</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

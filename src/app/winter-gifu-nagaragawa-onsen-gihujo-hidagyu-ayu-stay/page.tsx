@@ -599,8 +599,8 @@ export default function GifuNagaragawaWinterPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-red-300 bg-red-400/20 px-2 py-0.5 rounded-full inline-block">岐阜・下呂温泉</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-red-200 transition line-clamp-2">下呂冬花火物語＆つるすべ名泉と飛騨牛すき焼き名宿</h4>
-              <p className="text-[11px] text-stone-200 line-clamp-2">
+              <h4 className="text-xs font-bold text-white group-hover:text-red-200 transition">下呂冬花火物語＆つるすべ名泉と飛騨牛すき焼き名宿</h4>
+              <p className="text-[11px] text-stone-200">
                 日本三名泉の極上美肌湯と冬の澄んだ夜空を彩る花火、極上飛騨牛を堪能。
               </p>
             </Link>
@@ -610,8 +610,8 @@ export default function GifuNagaragawaWinterPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-red-300 bg-red-400/20 px-2 py-0.5 rounded-full inline-block">岐阜・奥飛騨温泉郷</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-red-200 transition line-clamp-2">奥飛騨の雪見大露天風呂＆飛騨牛朴葉味噌焼き名宿</h4>
-              <p className="text-[11px] text-stone-200 line-clamp-2">
+              <h4 className="text-xs font-bold text-white group-hover:text-red-200 transition">奥飛騨の雪見大露天風呂＆飛騨牛朴葉味噌焼き名宿</h4>
+              <p className="text-[11px] text-stone-200">
                 北アルプスの白銀絶景と湯量日本屈指の雪見露天、囲炉裏料理で温まる冬旅。
               </p>
             </Link>
@@ -621,8 +621,8 @@ export default function GifuNagaragawaWinterPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-red-300 bg-red-400/20 px-2 py-0.5 rounded-full inline-block">滋賀・長浜太閤温泉</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-red-200 transition line-clamp-2">初冬琵琶湖夕景＆解禁名物天然真鴨鍋と極上近江牛名宿</h4>
-              <p className="text-[11px] text-stone-200 line-clamp-2">
+              <h4 className="text-xs font-bold text-white group-hover:text-red-200 transition">初冬琵琶湖夕景＆解禁名物天然真鴨鍋と極上近江牛名宿</h4>
+              <p className="text-[11px] text-stone-200">
                 秀吉ゆかりの総鉄泉と初冬の琵琶湖、冬の味覚の王様天然真鴨鍋を味わう旅。
               </p>
             </Link>

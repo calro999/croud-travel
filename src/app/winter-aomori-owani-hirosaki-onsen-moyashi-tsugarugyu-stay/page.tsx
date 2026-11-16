@@ -670,21 +670,21 @@ export default function AomoriOwaniHirosakiWinterPage() {
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-cyan-700 font-bold block text-[10px]">青森・浅虫温泉</span>
-              <p className="font-bold text-stone-800 line-clamp-2">津軽の熱の湯と陸奥湾の冬マグロ・津軽三味線が響く老舗宿</p>
+              <p className="font-bold text-stone-800">津軽の熱の湯と陸奥湾の冬マグロ・津軽三味線が響く老舗宿</p>
             </Link>
             <Link 
               href="/winter-akita-oyasukyo-akinomiya-onsen-minasegyu-seri-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-cyan-700 font-bold block text-[10px]">秋田・小安峡＆秋の宮</span>
-              <p className="font-bold text-stone-800 line-clamp-2">白い湯煙の大噴湯と秋田最古の湯・皆瀬牛ステーキ＆三関せり鍋名宿</p>
+              <p className="font-bold text-stone-800">白い湯煙の大噴湯と秋田最古の湯・皆瀬牛ステーキ＆三関せり鍋名宿</p>
             </Link>
             <Link 
               href="/winter-iwate-hanamaki-onsen-yukimi-maesawa-beef-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-cyan-700 font-bold block text-[10px]">岩手・花巻温泉郷</span>
-              <p className="font-bold text-stone-800 line-clamp-2">名湯台温泉・大沢温泉の雪見風呂と極上前沢牛すき焼きの贅沢</p>
+              <p className="font-bold text-stone-800">名湯台温泉・大沢温泉の雪見風呂と極上前沢牛すき焼きの贅沢</p>
             </Link>
           
       <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">

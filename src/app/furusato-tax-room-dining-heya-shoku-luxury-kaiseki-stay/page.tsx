@@ -477,19 +477,19 @@ export default function FurusatoRoomDiningHeyaShokuStayPage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/furusato-tax-kochi-shimanto-ashizuri-autumn-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">高知・日本最後の清流 四万十川と足摺岬！太平洋パノラマ絶景温泉＆戻り鰹タタキ・天然鮎｜ふるさと納税で泊まれる名宿ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">高知・日本最後の清流 四万十川と足摺岬！太平洋パノラマ絶景温泉＆戻り鰹タタキ・天然鮎｜ふるさと納税で泊まれる名宿ガイド</span>
             </a>
             <a href="/furusato-tax-mie-ise-matsusaka-autumn-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">三重・松阪城跡の紅葉と本場松阪牛！伊勢神宮参拝の宿場町と松阪温泉・老舗すき焼き｜ふるさと納税で泊まれる名宿ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">三重・松阪城跡の紅葉と本場松阪牛！伊勢神宮参拝の宿場町と松阪温泉・老舗すき焼き｜ふるさと納税で泊まれる名宿ガイド</span>
             </a>
             <a href="/furusato-tax-minakami-tanigawadake-autumn-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">谷川岳一ノ倉沢の岩壁紅葉と利根川渓谷美＆みなかみ温泉郷の源泉湯宿・上州牛会席｜ふるさと納税で泊まれる名宿ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">谷川岳一ノ倉沢の岩壁紅葉と利根川渓谷美＆みなかみ温泉郷の源泉湯宿・上州牛会席｜ふるさと納税で泊まれる名宿ガイド</span>
             </a>
             <a href="/furusato-tax-miyajima-itsukushima-shrine-luxury-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">宮島・厳島神社をふるさと納税でお得に旅する！世界遺産の大鳥居と潮湯温泉！瀬戸内名物牡蠣・穴子会席特集｜錦水館・岩惣・有もと</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">宮島・厳島神社をふるさと納税でお得に旅する！世界遺産の大鳥居と潮湯温泉！瀬戸内名物牡蠣・穴子会席特集｜錦水館・岩惣・有もと</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

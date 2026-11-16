@@ -542,19 +542,19 @@ export default function FurusatoTaxArticle() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/furusato-tax-solo-travel-retreat-private-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">一人旅歓迎！誰にも気兼ねせず自分を癒やす極上おこもり温泉宿×ふるさと納税厳選ガイド箱根湯本・草津・由布院</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">一人旅歓迎！誰にも気兼ねせず自分を癒やす極上おこもり温泉宿×ふるさと納税厳選ガイド箱根湯本・草津・由布院</span>
             </a>
             <a href="/furusato-tax-traditional-hearth-irori-charcoal-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">赤々と燃える炭火と香ばしい煙！囲炉裏料理＆歴史ある古民家名湯宿×ふるさと納税厳選ガイド白川郷・群馬法師・徳島祖谷</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">赤々と燃える炭火と香ばしい煙！囲炉裏料理＆歴史ある古民家名湯宿×ふるさと納税厳選ガイド白川郷・群馬法師・徳島祖谷</span>
             </a>
             <a href="/gunma-ikaho-stairs-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「群馬・伊香保温泉」365段の石段街・黄金の湯＆水沢うどん極上宿 厳選ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「群馬・伊香保温泉」365段の石段街・黄金の湯＆水沢うどん極上宿 厳選ガイド</span>
             </a>
             <a href="/gunma-manza-solo-retreat-milky-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「上信越高原・万座温泉ひとり旅・標高1800m雲上の白濁硫黄泉おこもり」日本一の硫黄含有量・星空露天風呂・上州牛会席！空に一番近い秘湯厳選3宿</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「上信越高原・万座温泉ひとり旅・標高1800m雲上の白濁硫黄泉おこもり」日本一の硫黄含有量・星空露天風呂・上州牛会席！空に一番近い秘湯厳選3宿</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

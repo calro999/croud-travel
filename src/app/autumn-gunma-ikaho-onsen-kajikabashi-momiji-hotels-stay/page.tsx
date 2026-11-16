@@ -42,7 +42,7 @@ export default function IkahoOnsenAutumnPage() {
             <span className="px-3 py-1 bg-stone-800 text-amber-300 text-xs font-medium rounded-full border border-amber-400/30">見頃目安: 10月下旬〜11月中旬</span>
           </div>
           <h1 className="text-2xl md:text-4xl lg:text-5xl font-extrabold text-white leading-tight mb-4 drop-shadow-md">「秋の伊香保温泉」河鹿橋の紅葉ライトアップと石段街レトロ散策！黄金の湯を楽しむおすすめ名宿5選</h1>
-          <p className="text-stone-200 text-sm md:text-base max-w-3xl line-clamp-2 md:line-clamp-none">
+          <p className="text-stone-200 text-sm md:text-base max-w-3xl">
             朱塗りの太鼓橋「河鹿橋」を取り囲むモミジやカエデの艶やかな紅葉。夜間には幽玄なライトアップが行われ、昼夜で異なる表情を見せます。情緒あふれる365段の石段街と歴史ある名湯を心ゆくまで堪能できる宿をご紹介します。
           </p>
         </div>
@@ -98,7 +98,7 @@ export default function IkahoOnsenAutumnPage() {
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 渋川駅 / ＪＲ渋川駅から伊香保温泉行きバス乗車で２５分※バス停までは随時送迎可。到着時お電話下さい。
                   </p>
-                  <p className="text-sm text-stone-600 mb-4 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-stone-600 mb-4 leading-relaxed">
                     ★全10室・全室露天風呂付客室の宿★大浴場はわずか8軒の【黄金の湯】を100％源泉掛け流しで贅沢に。
                   </p>
                 </div>
@@ -143,7 +143,7 @@ export default function IkahoOnsenAutumnPage() {
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 渋川駅 / 関越道『渋川伊香保IC』より12km/JR上越線『渋川駅』
                   </p>
-                  <p className="text-sm text-stone-600 mb-4 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-stone-600 mb-4 leading-relaxed">
                     口コミサービス部門「4.7点」石段まで徒歩5分、標高800mの絶景露天風呂・貸切風呂あり
                   </p>
                 </div>
@@ -188,7 +188,7 @@ export default function IkahoOnsenAutumnPage() {
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 渋川駅 / ＪＲ上越線渋川駅よりバスで見晴下下車／関越自動車道渋川・伊香保ＩＣより約１０ｋｍ
                   </p>
-                  <p className="text-sm text-stone-600 mb-4 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-stone-600 mb-4 leading-relaxed">
                     露天風呂付客室、サウナ付客室、展望部屋、バリアフリールームなど8種以上の客室タイプ。
                   </p>
                 </div>
@@ -233,7 +233,7 @@ export default function IkahoOnsenAutumnPage() {
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 渋川駅 / 関越自動車道 渋川・伊香保ICより車にて20分　※路線バス・高速バスをご利用の際はバス停送迎有（到着時連絡）
                   </p>
-                  <p className="text-sm text-stone-600 mb-4 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-stone-600 mb-4 leading-relaxed">
                     伊香保に語り継がれる希少泉質「黄金の湯」を、贅沢に源泉かけ流しで楽しむ至福の宿泊体験。
                   </p>
                 </div>
@@ -278,7 +278,7 @@ export default function IkahoOnsenAutumnPage() {
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 渋川駅 / ＪＲ上越線【渋川駅】より路線バス又はお車で約20分　「伊香保温泉バスターミナル」徒歩3分　★石段まで徒歩圏内★
                   </p>
-                  <p className="text-sm text-stone-600 mb-4 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-stone-600 mb-4 leading-relaxed">
                     どこかなつかしい横丁のような雰囲気の館内。上州牛すきやきと地酒がたのしめる心地よい宿
                   </p>
                 </div>

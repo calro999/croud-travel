@@ -394,14 +394,14 @@ export default function HakoneCoupleAnniversaryGuidePage() {
                           </span>
                         ) : null}
                         {hotel.access ? (
-                          <span className="text-[11px] text-stone-600 truncate ml-auto max-w-[180px]">
+                          <span className="text-[11px] text-stone-600 break-words ml-auto max-w-[180px]">
                             {hotel.access}
                           </span>
                         ) : null}
                       </div>
 
                       {/* 特徴・アピール */}
-                      <p className="text-xs text-stone-600 leading-relaxed line-clamp-2">
+                      <p className="text-xs text-stone-600 leading-relaxed">
                         {hotel.hotelSpecial || ""}
                       </p>
                     </div>
@@ -498,19 +498,19 @@ export default function HakoneCoupleAnniversaryGuidePage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/furusato-tax-kamakura-shonan-ocean-history-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">鎌倉・湘南をふるさと納税でお得に旅する！七里ヶ浜オーシャンビュー＆古都の歴史情緒！鶴岡八幡宮・江ノ電の名宿特集｜鎌倉プリンス・HOTEL AO・メトロポリタン</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">鎌倉・湘南をふるさと納税でお得に旅する！七里ヶ浜オーシャンビュー＆古都の歴史情緒！鶴岡八幡宮・江ノ電の名宿特集｜鎌倉プリンス・HOTEL AO・メトロポリタン</span>
             </a>
             <a href="/furusato-tax-private-room-open-air-bath-luxury-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">客室露天風呂付き客室で過ごす大人のプライベート温泉ステイ名旅館×ふるさと納税厳選ガイド修善寺・箱根・京都嵐山</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">客室露天風呂付き客室で過ごす大人のプライベート温泉ステイ名旅館×ふるさと納税厳選ガイド修善寺・箱根・京都嵐山</span>
             </a>
             <a href="/furusato-tax-wa-modern-twin-bed-comfortable-ryokan-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">畳の温もりと高級ベッドの極上快眠！和モダンツインベッド客室温泉旅館×ふるさと納税厳選ガイド黒川・箱根強羅・京都嵐山</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">畳の温もりと高級ベッドの極上快眠！和モダンツインベッド客室温泉旅館×ふるさと納税厳選ガイド黒川・箱根強羅・京都嵐山</span>
             </a>
             <a href="/furusato-tax-yugawara-autumn-leaves-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">都心から70分！湯河原温泉・万葉公園の紅葉散策＆文豪が愛した名湯旅館×ふるさと納税厳選ガイド神奈川</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">都心から70分！湯河原温泉・万葉公園の紅葉散策＆文豪が愛した名湯旅館×ふるさと納税厳選ガイド神奈川</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

@@ -601,21 +601,21 @@ export default function HokkaidoTomamuFuranoWinterPage() {
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-indigo-700 font-bold block text-[10px]">北海道・ニセコ</span>
-              <p className="font-bold text-stone-800 line-clamp-2">世界最高峰パウダースノーと羊蹄山雪景色・ラグジュアリースキーリゾート</p>
+              <p className="font-bold text-stone-800">世界最高峰パウダースノーと羊蹄山雪景色・ラグジュアリースキーリゾート</p>
             </Link>
             <Link 
               href="/winter-hokkaido-toyako-onsen-lakeview-illumination-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-indigo-700 font-bold block text-[10px]">北海道・洞爺湖温泉</span>
-              <p className="font-bold text-stone-800 line-clamp-2">洞爺湖イルミネーショントンネルとレイクビュー絶景温泉・冬の北海道牛</p>
+              <p className="font-bold text-stone-800">洞爺湖イルミネーショントンネルとレイクビュー絶景温泉・冬の北海道牛</p>
             </Link>
             <Link 
               href="/winter-hokkaido-hakodate-yunokawa-onsen-isaribi-seafood-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-indigo-700 font-bold block text-[10px]">北海道・函館湯の川温泉</span>
-              <p className="font-bold text-stone-800 line-clamp-2">函館山雪夜景と津軽海峡の漁火を望む湯の川温泉・活イカ＆戸井マグロ</p>
+              <p className="font-bold text-stone-800">函館山雪夜景と津軽海峡の漁火を望む湯の川温泉・活イカ＆戸井マグロ</p>
             </Link>
           
       <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">

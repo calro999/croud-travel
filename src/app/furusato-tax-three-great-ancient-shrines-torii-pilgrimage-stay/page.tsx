@@ -460,19 +460,19 @@ export default function FurusatoRound62ArticlePage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/winter-ehime-niihama-besshi-copper-mine-ishizuchi-shrine-hatsumode-iyogyu-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「東洋のマチュピチュ・別子銅山の冬霧氷と石鎚神社新春初詣」2026-2027年冬の愛媛・新居浜＆西条！名水うちぬきの里と伊予牛会席名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「東洋のマチュピチュ・別子銅山の冬霧氷と石鎚神社新春初詣」2026-2027年冬の愛媛・新居浜＆西条！名水うちぬきの里と伊予牛会席名宿5選</span>
             </a>
             <a href="/winter-fukuoka-fukutsu-miyajidake-shrine-hatsumode-hikari-genkainada-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「光の道夕景と日本一の大注連縄・宮地嶽神社新春初詣」2026-2027年冬の福岡・福津＆玄界灘！天然とらふぐと博多和牛名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「光の道夕景と日本一の大注連縄・宮地嶽神社新春初詣」2026-2027年冬の福岡・福津＆玄界灘！天然とらふぐと博多和牛名宿5選</span>
             </a>
             <a href="/winter-gunma-kiryu-houtokuji-hatsumode-himokawa-udon-joshugyu-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">織物の都・桐生新町と床もみじの名刹「宝徳寺」新春初詣 熱々「幅広ひもかわうどん」＆上州牛・両毛厳選名宿</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">織物の都・桐生新町と床もみじの名刹「宝徳寺」新春初詣 熱々「幅広ひもかわうどん」＆上州牛・両毛厳選名宿</span>
             </a>
             <a href="/winter-hyogo-akashi-uonotana-kakimoto-shrine-hatsumode-akashiyaki-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「兵庫・明石＆加古川」 明石海峡大橋を望む人麿山「柿本神社」新春初詣と魚の棚商店街！ 熱々の本場「明石焼き」・加古川かつめし＆播磨灘の厳選名宿</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「兵庫・明石＆加古川」 明石海峡大橋を望む人麿山「柿本神社」新春初詣と魚の棚商店街！ 熱々の本場「明石焼き」・加古川かつめし＆播磨灘の厳選名宿</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

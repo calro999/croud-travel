@@ -120,14 +120,14 @@ export default function Page() {
                   </div>
                   <div className="p-5 flex-1 flex flex-col justify-between">
                     <div>
-                      <h3 className="font-bold text-stone-900 text-lg mb-2 line-clamp-2 font-serif group-hover:text-emerald-800 transition">{hotel.hotelName}</h3>
+                      <h3 className="font-bold text-stone-900 text-lg mb-2 font-serif group-hover:text-emerald-800 transition">{hotel.hotelName}</h3>
                       <p className="text-stone-600 text-xs mb-3 flex items-center gap-1">
                         <svg className="w-3.5 h-3.5 text-stone-400 shrink-0" fill="currentColor" viewBox="0 0 20 20">
                           <path fillRule="evenodd" d="M5.05 4.05a7 7 0 119.9 9.9L10 18.9l-4.95-4.95a7 7 0 010-9.9zM10 11a2 2 0 100-4 2 2 0 000 4z" clipRule="evenodd" />
                         </svg>
-                        <span className="line-clamp-1">{hotel.address1}{hotel.address2}</span>
+                        <span className="">{hotel.address1}{hotel.address2}</span>
                       </p>
-                      <p className="text-stone-600 text-sm line-clamp-3 mb-4 leading-relaxed">
+                      <p className="text-stone-600 text-sm mb-4 leading-relaxed">
                         {hotel.hotelSpecial || hotel.userReview || '本格サウナと心地よい水風呂、極上の外気浴で心身が深く整うリトリートをご満喫いただけます。'}
                       </p>
                     </div>
@@ -194,14 +194,14 @@ export default function Page() {
                   </div>
                   <div className="p-5 flex-1 flex flex-col justify-between">
                     <div>
-                      <h3 className="font-bold text-stone-900 text-lg mb-2 line-clamp-2 font-serif group-hover:text-emerald-800 transition">{hotel.hotelName}</h3>
+                      <h3 className="font-bold text-stone-900 text-lg mb-2 font-serif group-hover:text-emerald-800 transition">{hotel.hotelName}</h3>
                       <p className="text-stone-600 text-xs mb-3 flex items-center gap-1">
                         <svg className="w-3.5 h-3.5 text-stone-400 shrink-0" fill="currentColor" viewBox="0 0 20 20">
                           <path fillRule="evenodd" d="M5.05 4.05a7 7 0 119.9 9.9L10 18.9l-4.95-4.95a7 7 0 010-9.9zM10 11a2 2 0 100-4 2 2 0 000 4z" clipRule="evenodd" />
                         </svg>
-                        <span className="line-clamp-1">{hotel.address1}{hotel.address2}</span>
+                        <span className="">{hotel.address1}{hotel.address2}</span>
                       </p>
-                      <p className="text-stone-600 text-sm line-clamp-3 mb-4 leading-relaxed">
+                      <p className="text-stone-600 text-sm mb-4 leading-relaxed">
                         {hotel.hotelSpecial || hotel.userReview || '本格サウナと心地よい水風呂、極上の外気浴で心身が深く整うリトリートをご満喫いただけます。'}
                       </p>
                     </div>
@@ -268,14 +268,14 @@ export default function Page() {
                   </div>
                   <div className="p-5 flex-1 flex flex-col justify-between">
                     <div>
-                      <h3 className="font-bold text-stone-900 text-lg mb-2 line-clamp-2 font-serif group-hover:text-emerald-800 transition">{hotel.hotelName}</h3>
+                      <h3 className="font-bold text-stone-900 text-lg mb-2 font-serif group-hover:text-emerald-800 transition">{hotel.hotelName}</h3>
                       <p className="text-stone-600 text-xs mb-3 flex items-center gap-1">
                         <svg className="w-3.5 h-3.5 text-stone-400 shrink-0" fill="currentColor" viewBox="0 0 20 20">
                           <path fillRule="evenodd" d="M5.05 4.05a7 7 0 119.9 9.9L10 18.9l-4.95-4.95a7 7 0 010-9.9zM10 11a2 2 0 100-4 2 2 0 000 4z" clipRule="evenodd" />
                         </svg>
-                        <span className="line-clamp-1">{hotel.address1}{hotel.address2}</span>
+                        <span className="">{hotel.address1}{hotel.address2}</span>
                       </p>
-                      <p className="text-stone-600 text-sm line-clamp-3 mb-4 leading-relaxed">
+                      <p className="text-stone-600 text-sm mb-4 leading-relaxed">
                         {hotel.hotelSpecial || hotel.userReview || '本格サウナと心地よい水風呂、極上の外気浴で心身が深く整うリトリートをご満喫いただけます。'}
                       </p>
                     </div>
@@ -428,19 +428,19 @@ export default function Page() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/autumn-budget-hokkaido-asahikawa-sounkyo-momiji-ramen-hotels-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">旭川：日本一早い大雪山紅葉拠点＆旭川ラーメン！2,000円台〜格安ホテル5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">旭川：日本一早い大雪山紅葉拠点＆旭川ラーメン！2,000円台〜格安ホテル5選</span>
             </a>
             <a href="/autumn-budget-hokkaido-kushiro-station-sunset-robata-hotels-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">釧路駅前：世界三大夕日・幣舞橋＆名物炉端焼き・秋刀魚！4,000円台〜泊まれる格安ホテル5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">釧路駅前：世界三大夕日・幣舞橋＆名物炉端焼き・秋刀魚！4,000円台〜泊まれる格安ホテル5選</span>
             </a>
             <a href="/autumn-budget-hokkaido-sapporo-gourmet-large-bath-hotels-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">秋の札幌×格安：紅葉散策とすすきのグルメ！大浴場付き1泊3,000円台〜のコスパ最強おすすめホテル5選「2026最新」</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">秋の札幌×格安：紅葉散策とすすきのグルメ！大浴場付き1泊3,000円台〜のコスパ最強おすすめホテル5選「2026最新」</span>
             </a>
             <a href="/furusato-tax-kawayu-akan-mashu-autumn-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">阿寒摩周の秋霧と屈斜路湖の紅葉！川湯温泉の強酸性硫黄泉・秋サケ・イクラ＆北海道和牛を味わう道東旅</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">阿寒摩周の秋霧と屈斜路湖の紅葉！川湯温泉の強酸性硫黄泉・秋サケ・イクラ＆北海道和牛を味わう道東旅</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

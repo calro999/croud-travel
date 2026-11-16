@@ -120,14 +120,14 @@ export default function Page() {
                   </div>
                   <div className="p-5 flex-1 flex flex-col justify-between">
                     <div>
-                      <h3 className="font-bold text-stone-900 text-lg mb-2 line-clamp-2 font-serif group-hover:text-amber-800 transition">{hotel.hotelName}</h3>
+                      <h3 className="font-bold text-stone-900 text-lg mb-2 font-serif group-hover:text-amber-800 transition">{hotel.hotelName}</h3>
                       <p className="text-stone-600 text-xs mb-3 flex items-center gap-1">
                         <svg className="w-3.5 h-3.5 text-stone-400 shrink-0" fill="currentColor" viewBox="0 0 20 20">
                           <path fillRule="evenodd" d="M5.05 4.05a7 7 0 119.9 9.9L10 18.9l-4.95-4.95a7 7 0 010-9.9zM10 11a2 2 0 100-4 2 2 0 000 4z" clipRule="evenodd" />
                         </svg>
-                        <span className="line-clamp-1">{hotel.address1}{hotel.address2}</span>
+                        <span className="">{hotel.address1}{hotel.address2}</span>
                       </p>
-                      <p className="text-stone-600 text-sm line-clamp-3 mb-4 leading-relaxed">
+                      <p className="text-stone-600 text-sm mb-4 leading-relaxed">
                         {hotel.hotelSpecial || hotel.userReview || '歴史と情緒あふれる空間で、心ほどける特別な宿泊体験をお楽しみいただけます。'}
                       </p>
                     </div>
@@ -194,14 +194,14 @@ export default function Page() {
                   </div>
                   <div className="p-5 flex-1 flex flex-col justify-between">
                     <div>
-                      <h3 className="font-bold text-stone-900 text-lg mb-2 line-clamp-2 font-serif group-hover:text-amber-800 transition">{hotel.hotelName}</h3>
+                      <h3 className="font-bold text-stone-900 text-lg mb-2 font-serif group-hover:text-amber-800 transition">{hotel.hotelName}</h3>
                       <p className="text-stone-600 text-xs mb-3 flex items-center gap-1">
                         <svg className="w-3.5 h-3.5 text-stone-400 shrink-0" fill="currentColor" viewBox="0 0 20 20">
                           <path fillRule="evenodd" d="M5.05 4.05a7 7 0 119.9 9.9L10 18.9l-4.95-4.95a7 7 0 010-9.9zM10 11a2 2 0 100-4 2 2 0 000 4z" clipRule="evenodd" />
                         </svg>
-                        <span className="line-clamp-1">{hotel.address1}{hotel.address2}</span>
+                        <span className="">{hotel.address1}{hotel.address2}</span>
                       </p>
-                      <p className="text-stone-600 text-sm line-clamp-3 mb-4 leading-relaxed">
+                      <p className="text-stone-600 text-sm mb-4 leading-relaxed">
                         {hotel.hotelSpecial || hotel.userReview || '歴史と情緒あふれる空間で、心ほどける特別な宿泊体験をお楽しみいただけます。'}
                       </p>
                     </div>
@@ -268,14 +268,14 @@ export default function Page() {
                   </div>
                   <div className="p-5 flex-1 flex flex-col justify-between">
                     <div>
-                      <h3 className="font-bold text-stone-900 text-lg mb-2 line-clamp-2 font-serif group-hover:text-amber-800 transition">{hotel.hotelName}</h3>
+                      <h3 className="font-bold text-stone-900 text-lg mb-2 font-serif group-hover:text-amber-800 transition">{hotel.hotelName}</h3>
                       <p className="text-stone-600 text-xs mb-3 flex items-center gap-1">
                         <svg className="w-3.5 h-3.5 text-stone-400 shrink-0" fill="currentColor" viewBox="0 0 20 20">
                           <path fillRule="evenodd" d="M5.05 4.05a7 7 0 119.9 9.9L10 18.9l-4.95-4.95a7 7 0 010-9.9zM10 11a2 2 0 100-4 2 2 0 000 4z" clipRule="evenodd" />
                         </svg>
-                        <span className="line-clamp-1">{hotel.address1}{hotel.address2}</span>
+                        <span className="">{hotel.address1}{hotel.address2}</span>
                       </p>
-                      <p className="text-stone-600 text-sm line-clamp-3 mb-4 leading-relaxed">
+                      <p className="text-stone-600 text-sm mb-4 leading-relaxed">
                         {hotel.hotelSpecial || hotel.userReview || '歴史と情緒あふれる空間で、心ほどける特別な宿泊体験をお楽しみいただけます。'}
                       </p>
                     </div>
@@ -428,19 +428,19 @@ export default function Page() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/winter-saitama-nagatoro-hodosan-roubai-kotatsubune-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【12・1月埼玉】長瀞＆秩父・宝登山！冬の風物詩「長瀞こたつ舟下り」と早咲き満開「宝登山ロウバイ園」・宝登山神社初詣＆名物「秩父豚みそ丼・武州和牛」名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">【12・1月埼玉】長瀞＆秩父・宝登山！冬の風物詩「長瀞こたつ舟下り」と早咲き満開「宝登山ロウバイ園」・宝登山神社初詣＆名物「秩父豚みそ丼・武州和牛」名宿5選</span>
             </a>
             <a href="/winter-saitama-chichibu-hyochu-onouchi-ogano-onsen-jibier-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">尾ノ内百景氷柱と薬師の湯：2026-2027年冬の埼玉・秩父＆小鹿野！猪鹿ぼたん鍋と武州和牛名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">尾ノ内百景氷柱と薬師の湯：2026-2027年冬の埼玉・秩父＆小鹿野！猪鹿ぼたん鍋と武州和牛名宿5選</span>
             </a>
             <a href="/winter-saitama-omiya-hikawa-shrine-hatsumode-keyaki-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12・1月埼玉】武蔵一宮氷川神社新春初詣＆けやきひろばイルミネーション！武州和牛と天然温泉に寛ぐ名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">【11・12・1月埼玉】武蔵一宮氷川神社新春初詣＆けやきひろばイルミネーション！武州和牛と天然温泉に寛ぐ名宿5選</span>
             </a>
             <a href="/winter-saitama-chichibu-onsen-yomatsuri-nagatoro-bushugyu-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12月埼玉・秩父温泉郷の秩父夜祭と長瀞こたつ舟】名物武州和牛すき焼き＆秩父みそ豚・創業文政の美肌鉱泉を満喫する山里名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">【11・12月埼玉・秩父温泉郷の秩父夜祭と長瀞こたつ舟】名物武州和牛すき焼き＆秩父みそ豚・創業文政の美肌鉱泉を満喫する山里名宿5選</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

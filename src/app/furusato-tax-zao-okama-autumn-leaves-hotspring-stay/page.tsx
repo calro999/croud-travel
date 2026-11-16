@@ -510,19 +510,19 @@ export default function FurusatoZaoOkamaAutumnLeavesStayPage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/winter-yamagata-hijiori-onsen-snow-yamagatagyu-toji-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「山形・肘折温泉」豪雪の奇跡・開湯1200年の黄金湯治と名物納豆汁＆極上山形牛・肘折幻想雪回廊を巡る名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「山形・肘折温泉」豪雪の奇跡・開湯1200年の黄金湯治と名物納豆汁＆極上山形牛・肘折幻想雪回廊を巡る名宿5選</span>
             </a>
             <a href="/winter-yamagata-onogawa-yonezawa-beef-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12月米沢牛すき焼きと小野川温泉】 小野小町ゆかりの美肌名湯とかまくら雪見宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">【11・12月米沢牛すき焼きと小野川温泉】 小野小町ゆかりの美肌名湯とかまくら雪見宿5選</span>
             </a>
             <a href="/winter-yamagata-shonai-hagurosan-sakata-kandarajiru-yunohama-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">羽黒山「国宝五重塔」雪景色と酒田山居倉庫の冬静寂 冬名物「寒鱈どんがら汁」・日本海寒魚＆湯野浜・あつみ温泉名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">羽黒山「国宝五重塔」雪景色と酒田山居倉庫の冬静寂 冬名物「寒鱈どんがら汁」・日本海寒魚＆湯野浜・あつみ温泉名宿5選</span>
             </a>
             <a href="/winter-yamagata-tendo-onsen-yamadera-snow-risshakuji-yamagatagyu-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「白銀の水墨画世界・山寺立石寺と将棋のまち天童温泉」2026-2027年冬の山形・山寺＆天童！美肌名湯と極上山形牛すき焼き名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「白銀の水墨画世界・山寺立石寺と将棋のまち天童温泉」2026-2027年冬の山形・山寺＆天童！美肌名湯と極上山形牛すき焼き名宿5選</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

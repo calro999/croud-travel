@@ -168,7 +168,7 @@ export default function Page() {
                   <p className="text-xs text-slate-500 mt-0.5">
                     🚆 東京・仙台方面→東北自動車道→村田JCT→山形自動車道→山形北IC→国道13号→国道47号→宿
                   </p>
-                  <p className="text-sm text-slate-600 mt-3 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-slate-600 mt-3 leading-relaxed">
                     ～名湯一門　高見屋～全ての窓から最上川の風雅な景色を眺める、寛ぎの温泉旅館-ＢＥＮＩ-
                   </p>
                 </div>
@@ -228,7 +228,7 @@ export default function Page() {
                   <p className="text-xs text-slate-500 mt-0.5">
                     🚆 瀬見温泉駅よりお車にて２分、徒歩にて１０分
                   </p>
-                  <p className="text-sm text-slate-600 mt-3 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-slate-600 mt-3 leading-relaxed">
                     【口コミ総合評価4.6】個室食＆貸切風呂で安心♪山形牛、馬刺し…山形の【ごっつぉ】を堪能！
                   </p>
                 </div>
@@ -288,7 +288,7 @@ export default function Page() {
                   <p className="text-xs text-slate-500 mt-0.5">
                     🚆 ＪＲ新庄駅から車で３０分。新庄駅まで車で送迎致します。（１名様から可能、迎えは17時まで、2日前まで要予約）
                   </p>
-                  <p className="text-sm text-slate-600 mt-3 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-slate-600 mt-3 leading-relaxed">
                     池の上に建つ珍しい宿です。朝夕お部屋食か個室、お風呂は源泉かけ流しの美人の湯。客室で無線LAN可
                   </p>
                 </div>
@@ -362,7 +362,7 @@ export default function Page() {
                   <p className="text-xs text-slate-500 mt-0.5">
                     🚆 ＪＲ身延線下部温泉駅徒歩１分／車：中部横断道下部温泉早川ＩＣより５分
                   </p>
-                  <p className="text-sm text-slate-600 mt-3 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-slate-600 mt-3 leading-relaxed">
                     泉質の異なる「三種類の源泉」を、七つの露天風呂を含む大浴場など「十二の湯舟」でご堪能いただけます
                   </p>
                 </div>
@@ -422,7 +422,7 @@ export default function Page() {
                   <p className="text-xs text-slate-500 mt-0.5">
                     🚆 中部横断自動車道経由、身延山ICより約10分。JR身延駅からも車で10分。無料送迎あり。新宿からの高速バスも便利です。
                   </p>
-                  <p className="text-sm text-slate-600 mt-3 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-slate-600 mt-3 leading-relaxed">
                     ■江戸時代創業■身延山三門徒歩30秒！朝のおつとめ体験が好評！身延駅無料送迎あり
                   </p>
                 </div>
@@ -482,7 +482,7 @@ export default function Page() {
                   <p className="text-xs text-slate-500 mt-0.5">
                     🚆 ＪＲ身延線下部温泉駅下車（送迎車で3分）／中部横断自動車道下部温泉早川ＩＣよりＲ300号経由8分
                   </p>
-                  <p className="text-sm text-slate-600 mt-3 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-slate-600 mt-3 leading-relaxed">
                     【薬石サウナも人気】あつ湯とぬる湯を交互に楽しむ「武田信玄のかくし湯」が有名
                   </p>
                 </div>
@@ -556,7 +556,7 @@ export default function Page() {
                   <p className="text-xs text-slate-500 mt-0.5">
                     🚆 人吉ICより車で約8分
                   </p>
-                  <p className="text-sm text-slate-600 mt-3 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-slate-600 mt-3 leading-relaxed">
                     【国登録有形文化財の宿】歴史感じる純和風旅館　源泉掛け流し天然温泉と旬の会席料理で心和むひと時を
                   </p>
                 </div>
@@ -616,7 +616,7 @@ export default function Page() {
                   <p className="text-xs text-slate-500 mt-0.5">
                     🚆 九州新幹線新八代駅から高速バスで約30分。周辺観光：青井阿蘇神社へ徒歩約10分。
                   </p>
-                  <p className="text-sm text-slate-600 mt-3 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-slate-600 mt-3 leading-relaxed">
                     人吉ICから車で約7分の好アクセス。自家源泉の湯と地元食材の創作会席で極上の癒し～5つ星の宿～
                   </p>
                 </div>
@@ -676,7 +676,7 @@ export default function Page() {
                   <p className="text-xs text-slate-500 mt-0.5">
                     🚆 鹿児島空港から高速バスで1時間。ＪＲ人吉駅から車で7分。高速道人吉インターチェンジから車で10分。
                   </p>
-                  <p className="text-sm text-slate-600 mt-3 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-slate-600 mt-3 leading-relaxed">
                     【元祖 人吉温泉の宿】 明治４３年創業の老舗宿。豊富な ≪3つの源泉≫ で愉しむ「湯めぐり旅」
                   </p>
                 </div>
@@ -853,19 +853,19 @@ export default function Page() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/winter-yamagata-atsumi-onsen-kandara-shonaigyu-snow-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12月山形・庄内あつみ温泉の開湯1200年名湯と冬の日本海味覚】名物寒鱈汁＆紅ズワイガニ・極上庄内牛・温海川雪景色を愛でる老舗名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">【11・12月山形・庄内あつみ温泉の開湯1200年名湯と冬の日本海味覚】名物寒鱈汁＆紅ズワイガニ・極上庄内牛・温海川雪景色を愛でる老舗名宿5選</span>
             </a>
             <a href="/winter-yamagata-sakata-tsuruoka-hagurosan-kandara-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12・1月山形】酒田＆鶴岡・羽黒山！出羽三山神社の雪の初詣と山居倉庫雪景色・冬の日本海名物「寒鱈どんがら汁」＆名湯5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">【11・12・1月山形】酒田＆鶴岡・羽黒山！出羽三山神社の雪の初詣と山居倉庫雪景色・冬の日本海名物「寒鱈どんがら汁」＆名湯5選</span>
             </a>
             <a href="/yamagata-ginzan-onsen-retro-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">山形・銀山温泉：ガス灯揺れる大正ロマン木造街＆尾花沢牛極上宿 厳選ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">山形・銀山温泉：ガス灯揺れる大正ロマン木造街＆尾花沢牛極上宿 厳選ガイド</span>
             </a>
             <a href="/yamagata-tendo-solo-retreat-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">天童温泉ひとり旅・将棋駒と名湯おこもり：山寺立石寺パノラマ・源泉かけ流し・山形牛＆さくらんぼ！山形新幹線直通の果樹王国厳選3宿</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">天童温泉ひとり旅・将棋駒と名湯おこもり：山寺立石寺パノラマ・源泉かけ流し・山形牛＆さくらんぼ！山形新幹線直通の果樹王国厳選3宿</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

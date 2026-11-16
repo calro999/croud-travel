@@ -189,8 +189,8 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">奥入瀬渓流ホテル　ｂｙ　星野リゾート</h4>
-                            <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
+                            <h4 className="font-bold text-white text-sm group-hover:text-amber-300 transition">奥入瀬渓流ホテル　ｂｙ　星野リゾート</h4>
+                            <p className="text-xs text-slate-400 leading-relaxed">
                               日本屈指の景勝地奥入瀬渓流。その畔に佇むリゾートホテルで大自然が演出する非日常空間をご堪能下さい
                             </p>
                             <p className="text-xs text-slate-500 flex items-center gap-1">
@@ -239,8 +239,8 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">八甲田城ヶ倉温泉　ホテル城ヶ倉－ＨＯＴＥＬ　Ｊｏｇａｋｕｒａ－</h4>
-                            <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
+                            <h4 className="font-bold text-white text-sm group-hover:text-amber-300 transition">八甲田城ヶ倉温泉　ホテル城ヶ倉－ＨＯＴＥＬ　Ｊｏｇａｋｕｒａ－</h4>
+                            <p className="text-xs text-slate-400 leading-relaxed">
                               源泉かけ流し温泉を八甲田の自然と共に楽しむ北欧風マウンテンリゾート。地元青森の旬の味覚をご用意。
                             </p>
                             <p className="text-xs text-slate-500 flex items-center gap-1">
@@ -289,8 +289,8 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">十和田西湖畔温泉　十和田プリンスホテル</h4>
-                            <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
+                            <h4 className="font-bold text-white text-sm group-hover:text-amber-300 transition">十和田西湖畔温泉　十和田プリンスホテル</h4>
+                            <p className="text-xs text-slate-400 leading-relaxed">
                               「秋田県宿泊応援事業」対象施設　予約受付は５月７日より受付開始
                             </p>
                             <p className="text-xs text-slate-500 flex items-center gap-1">
@@ -352,8 +352,8 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">天城湯ヶ島温泉　白壁　和とモダンが織りなす里山の古民家</h4>
-                            <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
+                            <h4 className="font-bold text-white text-sm group-hover:text-amber-300 transition">天城湯ヶ島温泉　白壁　和とモダンが織りなす里山の古民家</h4>
+                            <p className="text-xs text-slate-400 leading-relaxed">
                               源泉掛け流しの温泉旅館。湯浴みテラス付露天風呂付客室で贅沢なひと時を。
                             </p>
                             <p className="text-xs text-slate-500 flex items-center gap-1">
@@ -402,8 +402,8 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">水のみち　風のみち　湯ヶ島　たつた</h4>
-                            <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
+                            <h4 className="font-bold text-white text-sm group-hover:text-amber-300 transition">水のみち　風のみち　湯ヶ島　たつた</h4>
+                            <p className="text-xs text-slate-400 leading-relaxed">
                               ＜田舎で過ごすあたたかな時間＞伊豆唯一の川床料理と100％源泉け流し温泉で心ほどけるひとときを。
                             </p>
                             <p className="text-xs text-slate-500 flex items-center gap-1">
@@ -452,8 +452,8 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">天城湯ヶ島　湯宿　嵯峨沢館</h4>
-                            <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
+                            <h4 className="font-bold text-white text-sm group-hover:text-amber-300 transition">天城湯ヶ島　湯宿　嵯峨沢館</h4>
+                            <p className="text-xs text-slate-400 leading-relaxed">
                               100%天然自家源泉　掛け流しのお風呂で日頃の疲れを流してください
                             </p>
                             <p className="text-xs text-slate-500 flex items-center gap-1">
@@ -515,8 +515,8 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">大江戸温泉物語Ｐｒｅｍｉｕｍ　仙台作並（旧：作並温泉　鷹泉閣岩松旅館）</h4>
-                            <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
+                            <h4 className="font-bold text-white text-sm group-hover:text-amber-300 transition">大江戸温泉物語Ｐｒｅｍｉｕｍ　仙台作並（旧：作並温泉　鷹泉閣岩松旅館）</h4>
+                            <p className="text-xs text-slate-400 leading-relaxed">
                               ４つの天然岩風呂で館内湯めぐりをお楽しみください。広瀬川に溶け込む贅沢な時間をお過ごしいただけます。
                             </p>
                             <p className="text-xs text-slate-500 flex items-center gap-1">
@@ -564,10 +564,10 @@ export default function FurusatoTaxPage() {
                 href="/furusato-tax-bihada-medicinal-springs-retreat-stay/"
                 className="block p-4 rounded-2xl bg-slate-950/60 border border-slate-800/80 hover:border-amber-500/50 transition group"
               >
-                <div className="font-bold text-amber-400 group-hover:text-amber-300 transition text-sm mb-1 line-clamp-1">
+                <div className="font-bold text-amber-400 group-hover:text-amber-300 transition text-sm mb-1">
                   奇跡の名湯×強炭酸泉・泥湯・美肌温泉リトリート
                 </div>
-                <div className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
+                <div className="text-xs text-slate-400 leading-relaxed">
                   長湯・霧島・嬉野の本格薬湯治と自家源泉かけ流しステイ。
                 </div>
               </Link>
@@ -577,10 +577,10 @@ export default function FurusatoTaxPage() {
                 href="/furusato-tax-scenic-train-trolley-onsen-stay/"
                 className="block p-4 rounded-2xl bg-slate-950/60 border border-slate-800/80 hover:border-amber-500/50 transition group"
               >
-                <div className="font-bold text-amber-400 group-hover:text-amber-300 transition text-sm mb-1 line-clamp-1">
+                <div className="font-bold text-amber-400 group-hover:text-amber-300 transition text-sm mb-1">
                   絶景観光列車×途中下車の名湯温泉旅館ガイド
                 </div>
-                <div className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
+                <div className="text-xs text-slate-400 leading-relaxed">
                   黒部トロッコやわたらせ渓谷鐵道で巡る清流と秘湯の旅。
                 </div>
               </Link>
@@ -590,10 +590,10 @@ export default function FurusatoTaxPage() {
                 href="/furusato-tax-kominka-heritage-townhouse-auberge-stay/"
                 className="block p-4 rounded-2xl bg-slate-950/60 border border-slate-800/80 hover:border-amber-500/50 transition group"
               >
-                <div className="font-bold text-amber-400 group-hover:text-amber-300 transition text-sm mb-1 line-clamp-1">
+                <div className="font-bold text-amber-400 group-hover:text-amber-300 transition text-sm mb-1">
                   古民家再生・歴史的町家オーベルジュ×文化財ホテル滞在記
                 </div>
-                <div className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
+                <div className="text-xs text-slate-400 leading-relaxed">
                   篠山・飛騨高山の歴史情緒と地産馳走を味わう極上滞在。
                 </div>
               </Link>
@@ -696,19 +696,19 @@ export default function FurusatoTaxPage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/winter-aomori-oirase-hakkoda-onsen-frozen-waterfall-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12月奥入瀬渓流温泉と八甲田山樹氷の初冬秘湯】幻想的な氷瀑ライトアップ・白濁名湯露天風呂と青森倉石牛＆陸奥湾ホタテ会席の宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">【11・12月奥入瀬渓流温泉と八甲田山樹氷の初冬秘湯】幻想的な氷瀑ライトアップ・白濁名湯露天風呂と青森倉石牛＆陸奥湾ホタテ会席の宿5選</span>
             </a>
             <a href="/aomori-oirase-towada-nature-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">青森・十和田湖＆奥入瀬渓流：苔むす清流・銚子大滝＆青森りんご極上宿 厳選ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">青森・十和田湖＆奥入瀬渓流：苔むす清流・銚子大滝＆青森りんご極上宿 厳選ガイド</span>
             </a>
             <a href="/autumn-budget-aomori-hirosaki-castle-momiji-hotels-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">秋の弘前×格安：弘前城菊と紅葉まつりと焼きたてアップルパイ！大浴場付き1泊4,000円〜7,000円台のコスパ最強ホテル5選「2026最新」！大浴場付き1泊4,000円〜7,000円台のコスパ最強ホテル5選「2026最新」</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">秋の弘前×格安：弘前城菊と紅葉まつりと焼きたてアップルパイ！大浴場付き1泊4,000円〜7,000円台のコスパ最強ホテル5選「2026最新」！大浴場付き1泊4,000円〜7,000円台のコスパ最強ホテル5選「2026最新」</span>
             </a>
             <a href="/furusato-tax-oirase-towada-autumn-leaves-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">奥入瀬渓流の黄金紅葉トンネル＆十和田湖畔温泉！十和田荘・賑山亭・プリンスホテル×ふるさと納税厳選ガイド青森・秋田</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">奥入瀬渓流の黄金紅葉トンネル＆十和田湖畔温泉！十和田荘・賑山亭・プリンスホテル×ふるさと納税厳選ガイド青森・秋田</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

@@ -579,7 +579,7 @@ export default function HyogoTanbaSasayamaPage() {
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-rose-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-rose-700 font-bold text-xs block mb-1">兵庫・有馬温泉</span>
-              <span className="text-stone-900 font-bold group-hover:text-rose-800 transition-colors line-clamp-2">
+              <span className="text-stone-900 font-bold group-hover:text-rose-800 transition-colors">
                 日本三古湯の金泉・銀泉と極上神戸牛会席を堪能する名宿
               </span>
             </Link>
@@ -589,7 +589,7 @@ export default function HyogoTanbaSasayamaPage() {
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-rose-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-rose-700 font-bold text-xs block mb-1">兵庫・城崎温泉</span>
-              <span className="text-stone-900 font-bold group-hover:text-rose-800 transition-colors line-clamp-2">
+              <span className="text-stone-900 font-bold group-hover:text-rose-800 transition-colors">
                 外湯めぐりと冬の日本海が誇る本場松葉ガニ会席の贅沢ステイ
               </span>
             </Link>
@@ -599,7 +599,7 @@ export default function HyogoTanbaSasayamaPage() {
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-rose-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-rose-700 font-bold text-xs block mb-1">京都・湯の花温泉</span>
-              <span className="text-stone-900 font-bold group-hover:text-rose-800 transition-colors line-clamp-2">
+              <span className="text-stone-900 font-bold group-hover:text-rose-800 transition-colors">
                 亀岡霧の雲海露天風呂と冬の名物ぼたん鍋を味わう隠れ家名宿
               </span>
             </Link>
@@ -609,7 +609,7 @@ export default function HyogoTanbaSasayamaPage() {
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-rose-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-rose-700 font-bold text-xs block mb-1">奈良・洞川温泉</span>
-              <span className="text-stone-900 font-bold group-hover:text-rose-800 transition-colors line-clamp-2">
+              <span className="text-stone-900 font-bold group-hover:text-rose-800 transition-colors">
                 白銀の大峯山麓と名物名水ぼたん鍋・縁側ノスタルジー名宿
               </span>
             </Link>
@@ -619,7 +619,7 @@ export default function HyogoTanbaSasayamaPage() {
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-rose-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-rose-700 font-bold text-xs block mb-1">滋賀・長浜太閤温泉</span>
-              <span className="text-stone-900 font-bold group-hover:text-rose-800 transition-colors line-clamp-2">
+              <span className="text-stone-900 font-bold group-hover:text-rose-800 transition-colors">
                 琵琶湖雪景色と天然真鴨の鴨鍋・極上近江牛を味わう名宿
               </span>
             </Link>
@@ -629,7 +629,7 @@ export default function HyogoTanbaSasayamaPage() {
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-rose-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-rose-700 font-bold text-xs block mb-1">兵庫・淡路島洲本</span>
-              <span className="text-stone-900 font-bold group-hover:text-rose-800 transition-colors line-clamp-2">
+              <span className="text-stone-900 font-bold group-hover:text-rose-800 transition-colors">
                 冬の鳴門海峡育ち淡路島3年とらふぐ尽くしとオーシャン名宿
               </span>
             </Link>

@@ -589,7 +589,7 @@ export default function KanagawaOyamaWinterPage() {
               <div className="font-bold text-slate-900 group-hover:text-teal-600 transition mb-2">
                 高尾山薬王院新春初詣とダイヤモンド富士・自然薯とろろそば＆極楽湯
               </div>
-              <p className="text-xs text-slate-500 line-clamp-2">
+              <p className="text-xs text-slate-500">
                 大山と並び立つ関東屈指の霊峰・高尾山。冬至前後のダイヤモンド富士と天狗信仰、名物とろろそばと温泉を満喫。
               </p>
             </Link>
@@ -602,7 +602,7 @@ export default function KanagawaOyamaWinterPage() {
               <div className="font-bold text-slate-900 group-hover:text-teal-600 transition mb-2">
                 鶴岡八幡宮初詣と江の島「湘南の宝石」イルミネーション・葉山牛名宿
               </div>
-              <p className="text-xs text-slate-500 line-clamp-2">
+              <p className="text-xs text-slate-500">
                 大山山頂からも望む相模湾の宝石・江の島と古都鎌倉。冬の澄んだ光のアートと新春の祈願を巡る定番特集。
               </p>
             </Link>
@@ -615,7 +615,7 @@ export default function KanagawaOyamaWinterPage() {
               <div className="font-bold text-slate-900 group-hover:text-teal-600 transition mb-2">
                 箱根神社新春初詣と芦ノ湖の冬富士・湯本温泉名湯と極上会席
               </div>
-              <p className="text-xs text-slate-500 line-clamp-2">
+              <p className="text-xs text-slate-500">
                 小田急線沿線のもう一つの大聖地・箱根。芦ノ湖に浮かぶ平和の鳥居と富士の絶景、名湯温泉街を味わい尽くす。
               </p>
             </Link>

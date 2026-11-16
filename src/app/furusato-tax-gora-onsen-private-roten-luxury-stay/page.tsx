@@ -546,19 +546,19 @@ export default function FurusatoArticlePage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/winter-kanagawa-hakone-fuji-view-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12月箱根芦ノ湖の冬晴れ富士山絶景】 澄み渡る空と雪化粧の富士を望む露天風呂＆極上湯宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">【11・12月箱根芦ノ湖の冬晴れ富士山絶景】 澄み渡る空と雪化粧の富士を望む露天風呂＆極上湯宿5選</span>
             </a>
             <a href="/winter-kanagawa-hakone-yumoto-ashinoko-shrine-fuji-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">冬の箱根湯本＆芦ノ湖・箱根神社新春初詣！ 澄み渡る白雪富士の絶景と名湯に寛ぐ厳選宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">冬の箱根湯本＆芦ノ湖・箱根神社新春初詣！ 澄み渡る白雪富士の絶景と名湯に寛ぐ厳選宿5選</span>
             </a>
             <a href="/winter-kanagawa-kamakura-tsurugaoka-hachimangu-hatsumode-enoshima-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「鎌倉・鶴岡八幡宮初詣＆湘南の宝石」 冬牡丹咲く古都の祈りと江の島シーキャンドルの光！ 小町通り冬グルメ＆相模湾絶景を味わう上質宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「鎌倉・鶴岡八幡宮初詣＆湘南の宝石」 冬牡丹咲く古都の祈りと江の島シーキャンドルの光！ 小町通り冬グルメ＆相模湾絶景を味わう上質宿5選</span>
             </a>
             <a href="/winter-kanagawa-yokohama-minatomirai-illumination-chinatown-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">赤レンガ倉庫クリスマスマーケット＆ヨルノヨ夜景！ 中華街熱々点心と絶景港宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">赤レンガ倉庫クリスマスマーケット＆ヨルノヨ夜景！ 中華街熱々点心と絶景港宿5選</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

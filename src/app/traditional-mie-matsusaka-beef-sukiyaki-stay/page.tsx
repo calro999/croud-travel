@@ -389,19 +389,19 @@ export default function FeaturePage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/japan-top-brand-wagyu-beef-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「日本五大ブランド和牛の宿」松阪牛・神戸牛・米沢牛・近江牛・佐賀牛極上会席 厳選ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「日本五大ブランド和牛の宿」松阪牛・神戸牛・米沢牛・近江牛・佐賀牛極上会席 厳選ガイド</span>
             </a>
             <a href="/mie-kumano-owase-onigajo-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「三重・熊野＆尾鷲・鬼ヶ城」世界遺産鬼ヶ城・獅子岩＆熊野古道伊勢路・尾鷲ガスエビ宿 厳選ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「三重・熊野＆尾鷲・鬼ヶ城」世界遺産鬼ヶ城・獅子岩＆熊野古道伊勢路・尾鷲ガスエビ宿 厳選ガイド</span>
             </a>
             <a href="/mie-toba-shima-kashikojima-pearl-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「三重・鳥羽＆志摩・賢島」英虞湾リアス式夕日・ミキモト真珠島＆伊勢海老海女小屋宿 厳選ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「三重・鳥羽＆志摩・賢島」英虞湾リアス式夕日・ミキモト真珠島＆伊勢海老海女小屋宿 厳選ガイド</span>
             </a>
             <a href="/nagano-bessho-solo-retreat-temple-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「信州の鎌倉・別所温泉ひとり旅・信州最古の名湯おこもり」信州サーモン＆松茸会席・木造建築文化財・国宝八角三重塔！上田電鉄で行く古刹厳選3宿</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「信州の鎌倉・別所温泉ひとり旅・信州最古の名湯おこもり」信州サーモン＆松茸会席・木造建築文化財・国宝八角三重塔！上田電鉄で行く古刹厳選3宿</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

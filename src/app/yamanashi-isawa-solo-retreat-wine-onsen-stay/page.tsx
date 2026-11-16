@@ -370,19 +370,19 @@ export default function ArticlePage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/kofu-solo-business-takeda-wine-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「甲府出張・信玄公の城下町」天然温泉甲斐路の湯・甲府城天守台・甲州ワイン＆名物ほうとう！武田の杜でととのう厳選3宿</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「甲府出張・信玄公の城下町」天然温泉甲斐路の湯・甲府城天守台・甲州ワイン＆名物ほうとう！武田の杜でととのう厳選3宿</span>
             </a>
             <a href="/super-panoramic-lake-wakeboard-sup-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「湖上アクティビティ」爽快ウェイクボード＆絶景SUPクルーズ！富士五湖・浜名湖のリゾート温泉宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「湖上アクティビティ」爽快ウェイクボード＆絶景SUPクルーズ！富士五湖・浜名湖のリゾート温泉宿5選</span>
             </a>
             <a href="/winter-yamanashi-isawa-onsen-wine-koshu-beef-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12月石和温泉の新酒ワインと美肌湯】 富士を望む甲州名湯と甲州牛ステーキ・冬のほうとう会席宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">【11・12月石和温泉の新酒ワインと美肌湯】 富士を望む甲州名湯と甲州牛ステーキ・冬のほうとう会席宿5選</span>
             </a>
             <a href="/winter-yamanashi-kiyosato-yatsugatake-starry-sky-winebeef-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「11・12・1月山梨」冬の八ヶ岳ブルーと満天の星空観賞・萌木の村冬景色＆極上「甲州ワインビーフ」・八ヶ岳南麓の高原温泉リゾート宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「11・12・1月山梨」冬の八ヶ岳ブルーと満天の星空観賞・萌木の村冬景色＆極上「甲州ワインビーフ」・八ヶ岳南麓の高原温泉リゾート宿5選</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

@@ -546,19 +546,19 @@ export default function FurusatoArticlePage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/autumn-budget-okinawa-naha-resort-large-bath-hotels-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「秋の沖縄・那覇×格安」快適オフシーズン旅！大浴場付き1泊2,000円〜5,000円台の高コスパリゾートホテル5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「秋の沖縄・那覇×格安」快適オフシーズン旅！大浴場付き1泊2,000円〜5,000円台の高コスパリゾートホテル5選</span>
             </a>
             <a href="/furusato-tax-famous-castles-stone-walls-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">日本百名城の石垣美と天守を望む城下町名門ホテル×ふるさと納税厳選ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">日本百名城の石垣美と天守を望む城下町名門ホテル×ふるさと納税厳選ガイド</span>
             </a>
             <a href="/furusato-tax-okinawa-beach-resort-luxury-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">美ら海と白い砂浜が目の前！沖縄本島最高峰ビーチリゾートホテル×ふるさと納税極上旅ガイドハレクラニ・ルネッサンス・ロワジール</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">美ら海と白い砂浜が目の前！沖縄本島最高峰ビーチリゾートホテル×ふるさと納税極上旅ガイドハレクラニ・ルネッサンス・ロワジール</span>
             </a>
             <a href="/furusato-tax-resort-infinity-pool-luxury-hotel-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">海と空に溶け込む圧倒的開放感！絶景インフィニティプール＆ラグジュアリーリゾートホテル×ふるさと納税厳選ガイド熱海・沖縄恩納村・別府</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">海と空に溶け込む圧倒的開放感！絶景インフィニティプール＆ラグジュアリーリゾートホテル×ふるさと納税厳選ガイド熱海・沖縄恩納村・別府</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

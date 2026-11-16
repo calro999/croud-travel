@@ -320,7 +320,7 @@ export default function HokkaidoWinterShoesClothingGuidePage() {
 
                 <h3 className="text-lg md:text-xl font-bold text-slate-900 leading-snug">{hotel.hotelName}</h3>
 
-                <p className="text-xs md:text-sm text-slate-600 line-clamp-2">
+                <p className="text-xs md:text-sm text-slate-600">
                   {hotel.hotelSpecial || "冬の北海道観光に最高のアクセスと快適な客室を備えた宿泊施設です。"}
                 </p>
 

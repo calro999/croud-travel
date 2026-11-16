@@ -352,19 +352,19 @@ export default function FeaturePage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/furusato-tax-beppu-onsen-jigoku-meguri-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">源泉数・湧出量日本一！別府八湯＆地獄めぐりと大パノラマ露天風呂名門ホテル×ふるさと納税極上旅ガイド杉乃井・山水館・亀の井</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">源泉数・湧出量日本一！別府八湯＆地獄めぐりと大パノラマ露天風呂名門ホテル×ふるさと納税極上旅ガイド杉乃井・山水館・亀の井</span>
             </a>
             <a href="/furusato-tax-yabakei-hitomehakkei-autumn-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">日本新三景「耶馬渓・一目八景」奇岩と紅葉のパノラマ絶景＆名湯別府鉄輪温泉・極上関あじ関さば｜ふるさと納税で泊まれる名宿ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">日本新三景「耶馬渓・一目八景」奇岩と紅葉のパノラマ絶景＆名湯別府鉄輪温泉・極上関あじ関さば｜ふるさと納税で泊まれる名宿ガイド</span>
             </a>
             <a href="/furusato-tax-yufuin-onsen-kinrinko-luxury-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">朝霧煙る金鱗湖と由布岳の絶景！由布院温泉の露天風呂付き離れ＆憧れ名門旅館×ふるさと納税極上旅ガイド花由・秀峰館・梅園</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">朝霧煙る金鱗湖と由布岳の絶景！由布院温泉の露天風呂付き離れ＆憧れ名門旅館×ふるさと納税極上旅ガイド花由・秀峰館・梅園</span>
             </a>
             <a href="/oita-nagayu-solo-retreat-carbonated-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「竹田・長湯温泉ひとり旅・世界屈指の高濃度炭酸泉おこもり」ラムネ温泉館・芹川せせらぎ露天・豊後牛＆エノハ料理！くじゅう連山山麓厳選3宿</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「竹田・長湯温泉ひとり旅・世界屈指の高濃度炭酸泉おこもり」ラムネ温泉館・芹川せせらぎ露天・豊後牛＆エノハ料理！くじゅう連山山麓厳選3宿</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">
@@ -425,19 +425,19 @@ export default function FeaturePage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/winter-oita-yunohira-onsen-ishidatami-bungogyu-kamonabe-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">（metadata.title as string）</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">（metadata.title as string）</span>
             </a>
             <a href="/aichi-chita-minamichita-himakajima-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「愛知・知多半島＆南知多温泉郷」内海千鳥ヶ浜・日間賀島タコふぐ＆知多牛宿 厳選ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「愛知・知多半島＆南知多温泉郷」内海千鳥ヶ浜・日間賀島タコふぐ＆知多牛宿 厳選ガイド</span>
             </a>
             <a href="/autumn-budget-oita-beppu-station-onsen-toriten-hotels-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「別府駅前」別府温泉めぐり＆名物とり天！2,000円台〜泊まれる格安・高コスパ宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「別府駅前」別府温泉めぐり＆名物とり天！2,000円台〜泊まれる格安・高コスパ宿5選</span>
             </a>
             <a href="/autumn-oita-yufuin-kinrinko-morning-mist-hotels-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「幻想の朝霧と紅葉！秋の由布院」金鱗湖徒歩圏＆由布岳ビューの極上離れ宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「幻想の朝霧と紅葉！秋の由布院」金鱗湖徒歩圏＆由布岳ビューの極上離れ宿5選</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

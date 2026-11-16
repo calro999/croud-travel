@@ -368,19 +368,19 @@ export default function ArticlePage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/osaka-departure-daytrip-bus-tour-guide/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「大阪・梅田・難波発 日帰りバスツアーおすすめ」 カニ食べ放題・有馬温泉・天橋立・淡路島 の人気プラン比較</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「大阪・梅田・難波発 日帰りバスツアーおすすめ」 カニ食べ放題・有馬温泉・天橋立・淡路島 の人気プラン比較</span>
             </a>
             <a href="/osaka-tottori-matsue-bus-vs-train-guide/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「大阪・神戸〜鳥取・松江・出雲」高速バス vs 特急スーパーはくと徹底比較！料金半額＆縁結び出雲大社・鳥取砂丘1泊2日モデルコース</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「大阪・神戸〜鳥取・松江・出雲」高速バス vs 特急スーパーはくと徹底比較！料金半額＆縁結び出雲大社・鳥取砂丘1泊2日モデルコース</span>
             </a>
             <a href="/spring-hyogo-tajima-beef-crab-spa-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「但馬牛ステーキ＆香住ガニ」兵庫・城崎温泉の七湯めぐりと極上グルメ宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「但馬牛ステーキ＆香住ガニ」兵庫・城崎温泉の七湯めぐりと極上グルメ宿5選</span>
             </a>
             <a href="/winter-hyogo-arima-onsen-kinsen-kobe-beef-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12月有馬温泉の金泉銀泉と六甲山夜景】 日本最古の名湯で芯から温まる冬・最高峰神戸牛会席を味わう老舗宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">【11・12月有馬温泉の金泉銀泉と六甲山夜景】 日本最古の名湯で芯から温まる冬・最高峰神戸牛会席を味わう老舗宿5選</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

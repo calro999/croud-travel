@@ -339,7 +339,7 @@ export default function KamikochiPackingChecklistPage() {
 
                 <h3 className="text-lg md:text-xl font-bold text-slate-900 leading-snug">{hotel.hotelName}</h3>
 
-                <p className="text-xs md:text-sm text-slate-600 line-clamp-2">
+                <p className="text-xs md:text-sm text-slate-600">
                   {hotel.hotelSpecial || "上高地観光のゲートウェイに位置し、マイカー駐車やバスターミナルへのアクセスも抜群の宿です。"}
                 </p>
 

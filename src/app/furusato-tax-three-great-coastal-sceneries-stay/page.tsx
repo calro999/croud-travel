@@ -282,7 +282,7 @@ export default function Page() {
                         </div>
                       </div>
 
-                      <p className="text-xs md:text-sm text-slate-600 line-clamp-3 leading-relaxed">
+                      <p className="text-xs md:text-sm text-slate-600 leading-relaxed">
                         {h.hotelSpecial || '日本三大清流のせせらぎ、千年の巨樹パワースポット、三大八幡宮の開運、白砂青松の海浜絶景を巡る極上の旅路。四季折々の美食と名湯でお寛ぎください。'}
                       </p>
 
@@ -381,7 +381,7 @@ export default function Page() {
           <div className="grid md:grid-cols-3 gap-4">
             
             <Link href="/furusato-tax-three-coastal-pine-glamping-resort-stay/" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
-              <div className="font-bold text-sm text-slate-800 group-hover:text-emerald-700 transition line-clamp-2">
+              <div className="font-bold text-sm text-slate-800 group-hover:text-emerald-700 transition">
                 日本三大松原・海岸グランピング宿×ふるさと納税完全ガイド
               </div>
               <p className="text-xs text-slate-500 mt-2">
@@ -390,7 +390,7 @@ export default function Page() {
             </Link>
             
             <Link href="/furusato-tax-three-great-precipitous-coasts-stay/" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
-              <div className="font-bold text-sm text-slate-800 group-hover:text-emerald-700 transition line-clamp-2">
+              <div className="font-bold text-sm text-slate-800 group-hover:text-emerald-700 transition">
                 日本三大名勝断崖海岸＆パノラマ海宿×ふるさと納税完全ガイド
               </div>
               <p className="text-xs text-slate-500 mt-2">
@@ -399,7 +399,7 @@ export default function Page() {
             </Link>
             
             <Link href="/furusato-tax-three-great-tidal-flats-nature-stay/" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
-              <div className="font-bold text-sm text-slate-800 group-hover:text-emerald-700 transition line-clamp-2">
+              <div className="font-bold text-sm text-slate-800 group-hover:text-emerald-700 transition">
                 日本三大干潟＆海の満ち引き海鮮宿×ふるさと納税完全ガイド
               </div>
               <p className="text-xs text-slate-500 mt-2">
@@ -487,19 +487,19 @@ export default function Page() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/winter-fukui-obama-myotsuji-temple-snow-wakasa-fugu-mackerel-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">御食国の冬味覚・明通寺国宝本堂の静寂と若狭ふぐ：2026-2027年冬の福井・若狭小浜！名物若狭とらふぐフルコースと雪見温泉名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">御食国の冬味覚・明通寺国宝本堂の静寂と若狭ふぐ：2026-2027年冬の福井・若狭小浜！名物若狭とらふぐフルコースと雪見温泉名宿5選</span>
             </a>
             <a href="/fukui-awara-solo-retreat-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">あわら温泉ひとり旅・関西の奥座敷おこもり：74本もの独自源泉・庭園露天風呂・越前がにと若狭牛！北陸新幹線延伸で注目の名湯厳選3宿</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">あわら温泉ひとり旅・関西の奥座敷おこもり：74本もの独自源泉・庭園露天風呂・越前がにと若狭牛！北陸新幹線延伸で注目の名湯厳選3宿</span>
             </a>
             <a href="/winter-fukui-awara-onsen-echizen-crab-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12月あわら温泉の冬名湯と越前がに】関西の奥座敷・庭園露天風呂と黄色いタグ付き越前蟹＆若狭牛会席の宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">【11・12月あわら温泉の冬名湯と越前がに】関西の奥座敷・庭園露天風呂と黄色いタグ付き越前蟹＆若狭牛会席の宿5選</span>
             </a>
             <a href="/winter-fukui-wakasa-mikatagoko-onsen-fugu-echizen-crab-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12月福井・若狭三方五湖＆敦賀温泉郷の初冬レイクビューと若狭ふぐ】越前蟹・名物焼き鯖＆敦賀港冬海鮮会席を愉しむ湖畔・海辺名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">【11・12月福井・若狭三方五湖＆敦賀温泉郷の初冬レイクビューと若狭ふぐ】越前蟹・名物焼き鯖＆敦賀港冬海鮮会席を愉しむ湖畔・海辺名宿5選</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

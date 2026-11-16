@@ -109,9 +109,35 @@ export default function RootLayout({
       </head>
       <body className="min-h-full flex flex-col selection:bg-teal-700 selection:text-white antialiased">
 
-        {/* 日本旅行情緒を高めるインフォバー */}
-        <div className="w-full text-center py-2.5 bg-gradient-to-r from-teal-800 via-emerald-700 to-amber-700 text-[10px] font-bold tracking-widest text-white uppercase">
-          日本全国の隠れた名宿・憧れリゾートを毎日発信中 🧭 旅にでかけよう
+        {/* 日本旅行情緒を高めるインフォバー（洗練された1列レイアウト・モバイル＆PC完全レスポンシブ） */}
+        <div className="w-full bg-gradient-to-r from-teal-900 via-emerald-800 to-amber-800 text-white shadow-xs">
+          <div className="max-w-6xl mx-auto px-3 sm:px-4 py-2 flex items-center justify-between text-[11px] sm:text-xs">
+            <div className="flex items-center gap-1.5 sm:gap-2 truncate font-medium">
+              <span className="inline-flex items-center justify-center w-4 h-4 rounded-full bg-amber-400/20 text-amber-300 text-[10px] shrink-0">
+                🧭
+              </span>
+              <span className="truncate tracking-wide text-white/95">
+                日本全国の隠れた名宿・憧れリゾートを毎日発信中
+              </span>
+            </div>
+            <div className="flex items-center gap-2 sm:gap-3 shrink-0 pl-2 border-l border-white/15 text-[10px] sm:text-[11px] font-bold">
+              <Link
+                href="/campaigns/"
+                className="inline-flex items-center gap-1 text-amber-300 hover:text-amber-200 transition"
+              >
+                <span>🎁 クーポン・セール</span>
+              </Link>
+              <a
+                href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fsearch.travel.rakuten.co.jp%2Fds%2Fundated%2Fsearch%3Ff_query%3D%25E4%25BA%25BA%25E6%25B0%2597%25E6%25B8%25A9%25E6%25B3%2589%25E5%25AE%25BF"
+                target="_blank"
+                rel="sponsored noopener noreferrer"
+                className="hidden sm:inline-flex items-center gap-0.5 text-emerald-200 hover:text-white transition"
+              >
+                <span>楽天トラベル公式</span>
+                <span className="text-[9px]">↗</span>
+              </a>
+            </div>
+          </div>
         </div>
 
         {/* プレミアム和モダン風ヘッダー */}

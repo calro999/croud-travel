@@ -620,7 +620,7 @@ export default function KanagawaKamakuraEnoshimaWinterPage() {
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-blue-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-blue-800 font-bold text-xs block mb-1">神奈川・箱根温泉</span>
-              <span className="text-stone-900 font-bold group-hover:text-blue-900 transition-colors line-clamp-2">
+              <span className="text-stone-900 font-bold group-hover:text-blue-900 transition-colors">
                 冬の箱根温泉・雪化粧の富士山を望む絶景露天風呂と名旅館
               </span>
             </Link>
@@ -630,7 +630,7 @@ export default function KanagawaKamakuraEnoshimaWinterPage() {
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-blue-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-blue-800 font-bold text-xs block mb-1">神奈川・湯河原温泉</span>
-              <span className="text-stone-900 font-bold group-hover:text-blue-900 transition-colors line-clamp-2">
+              <span className="text-stone-900 font-bold group-hover:text-blue-900 transition-colors">
                 文豪が愛した湯河原の名湯・冬の相模湾魚介と会席料理を味わう老舗湯宿
               </span>
             </Link>
@@ -640,7 +640,7 @@ export default function KanagawaKamakuraEnoshimaWinterPage() {
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-blue-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-blue-800 font-bold text-xs block mb-1">千葉・銚子犬吠埼</span>
-              <span className="text-stone-900 font-bold group-hover:text-blue-900 transition-colors line-clamp-2">
+              <span className="text-stone-900 font-bold group-hover:text-blue-900 transition-colors">
                 本州一早い初日の出と極上つりきんめ・犬吠埼温泉リゾートステイ
               </span>
             </Link>
@@ -650,7 +650,7 @@ export default function KanagawaKamakuraEnoshimaWinterPage() {
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-blue-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-blue-800 font-bold text-xs block mb-1">静岡・熱海温泉</span>
-              <span className="text-stone-900 font-bold group-hover:text-blue-900 transition-colors line-clamp-2">
+              <span className="text-stone-900 font-bold group-hover:text-blue-900 transition-colors">
                 冬の熱海海上花火大会と絶景露天風呂・金目鯛煮付けを味わう名門宿
               </span>
             </Link>
@@ -660,7 +660,7 @@ export default function KanagawaKamakuraEnoshimaWinterPage() {
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-blue-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-blue-800 font-bold text-xs block mb-1">長野・軽井沢星野</span>
-              <span className="text-stone-900 font-bold group-hover:text-blue-900 transition-colors line-clamp-2">
+              <span className="text-stone-900 font-bold group-hover:text-blue-900 transition-colors">
                 冬の軽井沢・もみの木イルミネーションと星野温泉トンボの湯・信州牛ステイ
               </span>
             </Link>

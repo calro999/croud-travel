@@ -186,14 +186,14 @@ export default function Page() {
                   </div>
                   <div className="p-6 flex-1 flex flex-col justify-between">
                     <div>
-                      <h3 className="font-bold text-stone-900 text-lg md:text-xl mb-2 line-clamp-2 font-serif group-hover:text-amber-800 transition">{hotel.hotelName}</h3>
+                      <h3 className="font-bold text-stone-900 text-lg md:text-xl mb-2 font-serif group-hover:text-amber-800 transition">{hotel.hotelName}</h3>
                       <p className="text-stone-600 text-xs mb-3 flex items-center gap-1.5">
                         <svg className="w-3.5 h-3.5 text-amber-600 shrink-0" fill="currentColor" viewBox="0 0 20 20">
                           <path fillRule="evenodd" d="M5.05 4.05a7 7 0 119.9 9.9L10 18.9l-4.95-4.95a7 7 0 010-9.9zM10 11a2 2 0 100-4 2 2 0 000 4z" clipRule="evenodd" />
                         </svg>
-                        <span className="line-clamp-1">{hotel.address1}{hotel.address2}</span>
+                        <span className="">{hotel.address1}{hotel.address2}</span>
                       </p>
-                      <p className="text-stone-600 text-sm line-clamp-3 mb-4 leading-relaxed">
+                      <p className="text-stone-600 text-sm mb-4 leading-relaxed">
                         {hotel.hotelSpecial || hotel.userReview || '極上のおもてなしと特別な空間を堪能できる、ふるさと納税トラベルクーポン対象宿です。'}
                       </p>
                     </div>
@@ -268,14 +268,14 @@ export default function Page() {
                   </div>
                   <div className="p-6 flex-1 flex flex-col justify-between">
                     <div>
-                      <h3 className="font-bold text-stone-900 text-lg md:text-xl mb-2 line-clamp-2 font-serif group-hover:text-amber-800 transition">{hotel.hotelName}</h3>
+                      <h3 className="font-bold text-stone-900 text-lg md:text-xl mb-2 font-serif group-hover:text-amber-800 transition">{hotel.hotelName}</h3>
                       <p className="text-stone-600 text-xs mb-3 flex items-center gap-1.5">
                         <svg className="w-3.5 h-3.5 text-amber-600 shrink-0" fill="currentColor" viewBox="0 0 20 20">
                           <path fillRule="evenodd" d="M5.05 4.05a7 7 0 119.9 9.9L10 18.9l-4.95-4.95a7 7 0 010-9.9zM10 11a2 2 0 100-4 2 2 0 000 4z" clipRule="evenodd" />
                         </svg>
-                        <span className="line-clamp-1">{hotel.address1}{hotel.address2}</span>
+                        <span className="">{hotel.address1}{hotel.address2}</span>
                       </p>
-                      <p className="text-stone-600 text-sm line-clamp-3 mb-4 leading-relaxed">
+                      <p className="text-stone-600 text-sm mb-4 leading-relaxed">
                         {hotel.hotelSpecial || hotel.userReview || '極上のおもてなしと特別な空間を堪能できる、ふるさと納税トラベルクーポン対象宿です。'}
                       </p>
                     </div>
@@ -350,14 +350,14 @@ export default function Page() {
                   </div>
                   <div className="p-6 flex-1 flex flex-col justify-between">
                     <div>
-                      <h3 className="font-bold text-stone-900 text-lg md:text-xl mb-2 line-clamp-2 font-serif group-hover:text-amber-800 transition">{hotel.hotelName}</h3>
+                      <h3 className="font-bold text-stone-900 text-lg md:text-xl mb-2 font-serif group-hover:text-amber-800 transition">{hotel.hotelName}</h3>
                       <p className="text-stone-600 text-xs mb-3 flex items-center gap-1.5">
                         <svg className="w-3.5 h-3.5 text-amber-600 shrink-0" fill="currentColor" viewBox="0 0 20 20">
                           <path fillRule="evenodd" d="M5.05 4.05a7 7 0 119.9 9.9L10 18.9l-4.95-4.95a7 7 0 010-9.9zM10 11a2 2 0 100-4 2 2 0 000 4z" clipRule="evenodd" />
                         </svg>
-                        <span className="line-clamp-1">{hotel.address1}{hotel.address2}</span>
+                        <span className="">{hotel.address1}{hotel.address2}</span>
                       </p>
-                      <p className="text-stone-600 text-sm line-clamp-3 mb-4 leading-relaxed">
+                      <p className="text-stone-600 text-sm mb-4 leading-relaxed">
                         {hotel.hotelSpecial || hotel.userReview || '極上のおもてなしと特別な空間を堪能できる、ふるさと納税トラベルクーポン対象宿です。'}
                       </p>
                     </div>
@@ -556,19 +556,19 @@ export default function Page() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/hikone-omihachiman-solo-business-castle-beef-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「彦根・近江八幡出張」国宝彦根城ビュー・名湯城見風呂・極上近江牛グルメ！湖東ビジネスを格上げする厳選3宿</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「彦根・近江八幡出張」国宝彦根城ビュー・名湯城見風呂・極上近江牛グルメ！湖東ビジネスを格上げする厳選3宿</span>
             </a>
             <a href="/hiroshima-miyajima-itsukushima-shrine-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「広島・宮島＆嚴島神社」世界遺産海上大鳥居・弥山ロープウエー＆あなごめし宿 厳選ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「広島・宮島＆嚴島神社」世界遺産海上大鳥居・弥山ロープウエー＆あなごめし宿 厳選ガイド</span>
             </a>
             <a href="/ine-funaya-solo-retreat-ocean-seafood-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「伊根の舟屋・宮津ひとり旅」海に浮かぶ重要伝統的建造物群・奥伊根温泉客室露天・旬の寒ブリ地魚！日本海最深部の静謐おこもり厳選3宿</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「伊根の舟屋・宮津ひとり旅」海に浮かぶ重要伝統的建造物群・奥伊根温泉客室露天・旬の寒ブリ地魚！日本海最深部の静謐おこもり厳選3宿</span>
             </a>
             <a href="/kagawa-kotohira-konpira-shrine-sanuki-udon-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「香川・琴平＆こんぴら温泉・讃岐うどん」金刀比羅宮785段階段・金丸座＆うどん宿 厳選ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「香川・琴平＆こんぴら温泉・讃岐うどん」金刀比羅宮785段階段・金丸座＆うどん宿 厳選ガイド</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

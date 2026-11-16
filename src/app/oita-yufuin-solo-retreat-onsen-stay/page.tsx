@@ -367,19 +367,19 @@ export default function ArticlePage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/oita-yufuin-kinrin-lake-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「大分・由布院」金鱗湖・湯の坪街道＆由布岳パノラマ極上宿 厳選ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「大分・由布院」金鱗湖・湯の坪街道＆由布岳パノラマ極上宿 厳選ガイド</span>
             </a>
             <a href="/winter-oita-hita-amagase-onsen-mamedamachi-bungogyu-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">（metadata.title as string）</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">（metadata.title as string）</span>
             </a>
             <a href="/winter-oita-sujiyu-onsen-kuju-snow-bungo-beef-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">標高1000mくじゅう連山の霧氷雪景色 日本一の打たせ湯と極上おおいた豊後牛名宿</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">標高1000mくじゅう連山の霧氷雪景色 日本一の打たせ湯と極上おおいた豊後牛名宿</span>
             </a>
             <a href="/winter-oita-yufuin-onsen-kinrinko-asamiri-bungo-beef-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12月由布院温泉の冬名湯と金鱗湖の幻想朝霧】 由布岳冠雪・離れ露天風呂と極上豊後牛＆冠地鶏鍋会席の宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">【11・12月由布院温泉の冬名湯と金鱗湖の幻想朝霧】 由布岳冠雪・離れ露天風呂と極上豊後牛＆冠地鶏鍋会席の宿5選</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

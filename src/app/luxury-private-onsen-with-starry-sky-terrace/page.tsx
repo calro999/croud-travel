@@ -389,19 +389,19 @@ export default function FeaturePage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/furusato-tax-starry-sky-astronomy-night-view-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">満天の星空・天体観測＆星空露天風呂リトリート極上宿×ふるさと納税厳選ガイド阿智村・野辺山高原・石垣島</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">満天の星空・天体観測＆星空露天風呂リトリート極上宿×ふるさと納税厳選ガイド阿智村・野辺山高原・石垣島</span>
             </a>
             <a href="/japan-national-treasure-castle-heritage-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「国宝五城＆現存十二天守を巡る宿」姫路城・松本城・犬山城・彦根城・松江城 厳選ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「国宝五城＆現存十二天守を巡る宿」姫路城・松本城・犬山城・彦根城・松江城 厳選ガイド</span>
             </a>
             <a href="/tokyo-matsumoto-kamikochi-bus-vs-train-guide/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「東京・新宿〜松本・上高地」特急あずさ vs 直行高速バス徹底比較！片道2,500円〜行く国宝松本城＆上高地1泊2日モデルコース</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「東京・新宿〜松本・上高地」特急あずさ vs 直行高速バス徹底比較！片道2,500円〜行く国宝松本城＆上高地1泊2日モデルコース</span>
             </a>
             <a href="/winter-nagano-shiga-kogen-snow-monkey-jigokudani-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「志賀高原＆地獄谷野猿公苑」 世界が息を呑むスノーモンキーと極上パウダースノー！ 湯田中・渋温泉郷の九湯めぐり＆信州牛会席を満喫する名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「志賀高原＆地獄谷野猿公苑」 世界が息を呑むスノーモンキーと極上パウダースノー！ 湯田中・渋温泉郷の九湯めぐり＆信州牛会席を満喫する名宿5選</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

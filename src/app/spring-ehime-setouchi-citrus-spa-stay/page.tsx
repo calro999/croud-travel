@@ -389,19 +389,19 @@ export default function FeaturePage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/winter-ehime-niihama-besshi-copper-mine-ishizuchi-shrine-hatsumode-iyogyu-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「東洋のマチュピチュ・別子銅山の冬霧氷と石鎚神社新春初詣」2026-2027年冬の愛媛・新居浜＆西条！名水うちぬきの里と伊予牛会席名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「東洋のマチュピチュ・別子銅山の冬霧氷と石鎚神社新春初詣」2026-2027年冬の愛媛・新居浜＆西条！名水うちぬきの里と伊予牛会席名宿5選</span>
             </a>
             <a href="/traditional-sea-bream-rice-taimeshi-gourmet-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「愛媛・明石・鳴門の極上天然真鯛（名物「鯛めし」＆鯛しゃぶ会席が自慢の温泉宿5選）」愛媛・明石・鳴門の極上天然真鯛！名物「鯛めし」＆鯛しゃぶ会席が自慢の温泉宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「愛媛・明石・鳴門の極上天然真鯛（名物「鯛めし」＆鯛しゃぶ会席が自慢の温泉宿5選）」愛媛・明石・鳴門の極上天然真鯛！名物「鯛めし」＆鯛しゃぶ会席が自慢の温泉宿5選</span>
             </a>
             <a href="/autumn-budget-ehime-matsuyama-dogo-onsen-hotels-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「秋の松山・道後温泉×格安」松山城の紅葉と最古の名湯外湯めぐり！1泊4,000円台〜のコスパ最強おすすめ宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「秋の松山・道後温泉×格安」松山城の紅葉と最古の名湯外湯めぐり！1泊4,000円台〜のコスパ最強おすすめ宿5選</span>
             </a>
             <a href="/ehime-dogo-solo-retreat-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「道後温泉ひとり旅・日本最古の名湯おこもり」道後温泉本館・美人の湯・愛媛鯛めし！松山城下町と文学の香りに浸る厳選3宿</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「道後温泉ひとり旅・日本最古の名湯おこもり」道後温泉本館・美人の湯・愛媛鯛めし！松山城下町と文学の香りに浸る厳選3宿</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

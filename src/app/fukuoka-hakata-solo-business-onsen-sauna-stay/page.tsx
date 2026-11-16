@@ -421,19 +421,19 @@ export default function ArticlePage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/autumn-budget-fukuoka-kurume-station-ramen-yakitori-hotels-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「久留米駅前」高良大社の秋景＆元祖豚骨ラーメン！2,000円台〜泊まれる格安・高コスパ宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「久留米駅前」高良大社の秋景＆元祖豚骨ラーメン！2,000円台〜泊まれる格安・高コスパ宿5選</span>
             </a>
             <a href="/fukuoka-departure-daytrip-bus-tour-guide/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「福岡・博多発 日帰りバスツアー」 呼子活イカ・由布院温泉街散策・阿蘇カルデラ絶景 の格安ツアー比較</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「福岡・博多発 日帰りバスツアー」 呼子活イカ・由布院温泉街散策・阿蘇カルデラ絶景 の格安ツアー比較</span>
             </a>
             <a href="/fukuoka-kagoshima-bus-vs-shinkansen-guide/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「福岡・博多〜鹿児島」九州新幹線 vs 高速バス「桜島号」徹底比較！料金半額＆桜島・黒豚・天文館1泊2日モデルコース</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「福岡・博多〜鹿児島」九州新幹線 vs 高速バス「桜島号」徹底比較！料金半額＆桜島・黒豚・天文館1泊2日モデルコース</span>
             </a>
             <a href="/furusato-tax-fukuoka-hakata-luxury-gourmet-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">福岡・博多をふるさと納税でお得に旅する！駅直結ラグジュアリー＆天然温泉スパ！もつ鍋・水炊き美食特集｜都ホテル博多・グランドハイアット・ヒルトンシーホーク</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">福岡・博多をふるさと納税でお得に旅する！駅直結ラグジュアリー＆天然温泉スパ！もつ鍋・水炊き美食特集｜都ホテル博多・グランドハイアット・ヒルトンシーホーク</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

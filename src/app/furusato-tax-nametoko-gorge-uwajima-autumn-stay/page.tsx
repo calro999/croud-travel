@@ -461,19 +461,19 @@ export default function Page() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/spring-ehime-setouchi-citrus-spa-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「愛媛みかん＆柑橘の癒やし」爽やかな生搾り柑橘ジュースと果実風呂！道後温泉の極上癒やし宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「愛媛みかん＆柑橘の癒やし」爽やかな生搾り柑橘ジュースと果実風呂！道後温泉の極上癒やし宿5選</span>
             </a>
             <a href="/traditional-ehime-towel-and-dogo-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「ふんわり極上の肌触り（今治タオルアメニティ＆日本最古の名湯・道後温泉の宿5選）」ふんわり極上の肌触り！今治タオルアメニティ＆日本最古の名湯・道後温泉の宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「ふんわり極上の肌触り（今治タオルアメニティ＆日本最古の名湯・道後温泉の宿5選）」ふんわり極上の肌触り！今治タオルアメニティ＆日本最古の名湯・道後温泉の宿5選</span>
             </a>
             <a href="/winter-ehime-dogo-onsen-taimeshi-heritage-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12月道後温泉の冬情緒と瀬戸内美味】 日本最古の名湯と極上真鯛鯛めし・伊予牛会席の名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">【11・12月道後温泉の冬情緒と瀬戸内美味】 日本最古の名湯と極上真鯛鯛めし・伊予牛会席の名宿5選</span>
             </a>
             <a href="/winter-ehime-kumakogen-shikoku-karst-snow-starry-hoshifuru-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「標高1400mの白銀カルストと満天の星空」2026-2027年冬の愛媛・久万高原！高原温泉と冬絶景宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「標高1400mの白銀カルストと満天の星空」2026-2027年冬の愛媛・久万高原！高原温泉と冬絶景宿5選</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

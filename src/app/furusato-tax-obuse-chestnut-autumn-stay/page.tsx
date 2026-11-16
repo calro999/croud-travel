@@ -462,19 +462,19 @@ export default function Page() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/saitama-chichibu-solo-retreat-secret-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">秩父・長瀞ひとり旅・秩父七湯と囲炉裏古民家おこもり：開湯190年卵水美肌湯・地酒秩父錦・囲炉裏炭火焼き！池袋特急ラビュー77分の里山厳選3宿</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">秩父・長瀞ひとり旅・秩父七湯と囲炉裏古民家おこもり：開湯190年卵水美肌湯・地酒秩父錦・囲炉裏炭火焼き！池袋特急ラビュー77分の里山厳選3宿</span>
             </a>
             <a href="/winter-saitama-nagatoro-hodosan-roubai-kotatsubune-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【12・1月埼玉】長瀞＆秩父・宝登山！冬の風物詩「長瀞こたつ舟下り」と早咲き満開「宝登山ロウバイ園」・宝登山神社初詣＆名物「秩父豚みそ丼・武州和牛」名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">【12・1月埼玉】長瀞＆秩父・宝登山！冬の風物詩「長瀞こたつ舟下り」と早咲き満開「宝登山ロウバイ園」・宝登山神社初詣＆名物「秩父豚みそ丼・武州和牛」名宿5選</span>
             </a>
             <a href="/winter-saitama-chichibu-hyochu-onouchi-ogano-onsen-jibier-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">尾ノ内百景氷柱と薬師の湯：2026-2027年冬の埼玉・秩父＆小鹿野！猪鹿ぼたん鍋と武州和牛名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">尾ノ内百景氷柱と薬師の湯：2026-2027年冬の埼玉・秩父＆小鹿野！猪鹿ぼたん鍋と武州和牛名宿5選</span>
             </a>
             <a href="/winter-saitama-omiya-hikawa-shrine-hatsumode-keyaki-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12・1月埼玉】武蔵一宮氷川神社新春初詣＆けやきひろばイルミネーション！武州和牛と天然温泉に寛ぐ名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">【11・12・1月埼玉】武蔵一宮氷川神社新春初詣＆けやきひろばイルミネーション！武州和牛と天然温泉に寛ぐ名宿5選</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

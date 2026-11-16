@@ -362,19 +362,19 @@ export default function FeatureArticlePage() {
             <ul className="space-y-4 text-xs md:text-sm">
               <li>
                 <a href={HOTEL_DATA.iya_hikyounoyu.url} target="_blank" rel="sponsored noopener noreferrer" className="block p-3 rounded-xl hover:bg-stone-50 transition border border-stone-100 hover:border-amber-200">
-                  <div className="font-bold text-stone-800 line-clamp-1">{HOTEL_DATA.iya_hikyounoyu.name}</div>
+                  <div className="font-bold text-stone-800">{HOTEL_DATA.iya_hikyounoyu.name}</div>
                   <div className="text-stone-500 text-xs mt-1">★ {HOTEL_DATA.iya_hikyounoyu.rating} | 楽天トラベルで詳細確認</div>
                 </a>
               </li>
               <li>
                 <a href={HOTEL_DATA.iya_kazurabashi.url} target="_blank" rel="sponsored noopener noreferrer" className="block p-3 rounded-xl hover:bg-stone-50 transition border border-stone-100 hover:border-amber-200">
-                  <div className="font-bold text-stone-800 line-clamp-1">{HOTEL_DATA.iya_kazurabashi.name}</div>
+                  <div className="font-bold text-stone-800">{HOTEL_DATA.iya_kazurabashi.name}</div>
                   <div className="text-stone-500 text-xs mt-1">★ {HOTEL_DATA.iya_kazurabashi.rating} | 楽天トラベルで詳細確認</div>
                 </a>
               </li>
               <li>
                 <a href={HOTEL_DATA.iya_hotel_iyaonsen.url} target="_blank" rel="sponsored noopener noreferrer" className="block p-3 rounded-xl hover:bg-stone-50 transition border border-stone-100 hover:border-amber-200">
-                  <div className="font-bold text-stone-800 line-clamp-1">{HOTEL_DATA.iya_hotel_iyaonsen.name}</div>
+                  <div className="font-bold text-stone-800">{HOTEL_DATA.iya_hotel_iyaonsen.name}</div>
                   <div className="text-stone-500 text-xs mt-1">★ {HOTEL_DATA.iya_hotel_iyaonsen.rating} | 楽天トラベルで詳細確認</div>
                 </a>
               </li>
@@ -491,19 +491,19 @@ export default function FeatureArticlePage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/furusato-tax-traditional-hearth-irori-charcoal-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">赤々と燃える炭火と香ばしい煙！囲炉裏料理＆歴史ある古民家名湯宿×ふるさと納税厳選ガイド白川郷・群馬法師・徳島祖谷</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">赤々と燃える炭火と香ばしい煙！囲炉裏料理＆歴史ある古民家名湯宿×ふるさと納税厳選ガイド白川郷・群馬法師・徳島祖谷</span>
             </a>
             <a href="/traditional-sea-bream-rice-taimeshi-gourmet-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「愛媛・明石・鳴門の極上天然真鯛（名物「鯛めし」＆鯛しゃぶ会席が自慢の温泉宿5選）」愛媛・明石・鳴門の極上天然真鯛！名物「鯛めし」＆鯛しゃぶ会席が自慢の温泉宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「愛媛・明石・鳴門の極上天然真鯛（名物「鯛めし」＆鯛しゃぶ会席が自慢の温泉宿5選）」愛媛・明石・鳴門の極上天然真鯛！名物「鯛めし」＆鯛しゃぶ会席が自慢の温泉宿5選</span>
             </a>
             <a href="/autumn-budget-tokushima-station-bizan-ramen-hotels-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「徳島駅前」眉山秋の絶景＆名物徳島ラーメン！4,000円台〜泊まれる格安・高コスパ宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「徳島駅前」眉山秋の絶景＆名物徳島ラーメン！4,000円台〜泊まれる格安・高コスパ宿5選</span>
             </a>
             <a href="/furusato-tax-tokushima-naruto-uzushio-autumn-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">徳島・鳴門海峡の秋の大潮うずしお＆大毛島リゾート！鳴門鯛・阿波牛と絶景オーシャンビュー温泉｜ふるさと納税で泊まれる名宿ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">徳島・鳴門海峡の秋の大潮うずしお＆大毛島リゾート！鳴門鯛・阿波牛と絶景オーシャンビュー温泉｜ふるさと納税で泊まれる名宿ガイド</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

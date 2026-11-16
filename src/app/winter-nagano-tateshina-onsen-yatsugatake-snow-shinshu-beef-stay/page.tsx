@@ -548,8 +548,8 @@ export default function NaganoTateshinaWinterFeature() {
               className="group p-4 rounded-2xl bg-slate-50 hover:bg-emerald-50/60 border border-slate-100 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-emerald-700 bg-emerald-100/60 px-2 py-0.5 rounded-full inline-block">長野・上諏訪</span>
-              <h4 className="text-xs font-bold text-slate-800 group-hover:text-emerald-800 transition line-clamp-2">諏訪湖畔温泉の初冬レイクビュー露天と信州牛すき焼き宿</h4>
-              <p className="text-[11px] text-slate-500 line-clamp-2">
+              <h4 className="text-xs font-bold text-slate-800 group-hover:text-emerald-800 transition">諏訪湖畔温泉の初冬レイクビュー露天と信州牛すき焼き宿</h4>
+              <p className="text-[11px] text-slate-500">
                 諏訪五蔵の銘酒と湯量豊富な上諏訪温泉で温まる冬の湖畔ステイ。
               </p>
             </Link>
@@ -558,8 +558,8 @@ export default function NaganoTateshinaWinterFeature() {
               className="group p-4 rounded-2xl bg-slate-50 hover:bg-emerald-50/60 border border-slate-100 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-emerald-700 bg-emerald-100/60 px-2 py-0.5 rounded-full inline-block">信州・別所</span>
-              <h4 className="text-xs font-bold text-slate-800 group-hover:text-emerald-800 transition line-clamp-2">信州最古の別所温泉・信州牛会席と国宝巡りの湯宿</h4>
-              <p className="text-[11px] text-slate-500 line-clamp-2">
+              <h4 className="text-xs font-bold text-slate-800 group-hover:text-emerald-800 transition">信州最古の別所温泉・信州牛会席と国宝巡りの湯宿</h4>
+              <p className="text-[11px] text-slate-500">
                 信州の鎌倉と呼ばれる名刹と極上の硫黄泉を巡る文化紀行。
               </p>
             </Link>
@@ -568,8 +568,8 @@ export default function NaganoTateshinaWinterFeature() {
               className="group p-4 rounded-2xl bg-slate-50 hover:bg-emerald-50/60 border border-slate-100 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-emerald-700 bg-emerald-100/60 px-2 py-0.5 rounded-full inline-block">山梨・河口湖</span>
-              <h4 className="text-xs font-bold text-slate-800 group-hover:text-emerald-800 transition line-clamp-2">河口湖温泉の冬富士絶景露天風呂と甲州牛ステーキ宿</h4>
-              <p className="text-[11px] text-slate-500 line-clamp-2">
+              <h4 className="text-xs font-bold text-slate-800 group-hover:text-emerald-800 transition">河口湖温泉の冬富士絶景露天風呂と甲州牛ステーキ宿</h4>
+              <p className="text-[11px] text-slate-500">
                 冠雪した富士山を真正面に望むパノラマ露天と甲州ワインの贅沢。
               </p>
             </Link>
@@ -578,8 +578,8 @@ export default function NaganoTateshinaWinterFeature() {
               className="group p-4 rounded-2xl bg-slate-50 hover:bg-emerald-50/60 border border-slate-100 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-emerald-700 bg-emerald-100/60 px-2 py-0.5 rounded-full inline-block">信州・松本浅間</span>
-              <h4 className="text-xs font-bold text-slate-800 group-hover:text-emerald-800 transition line-clamp-2">浅間温泉の初冬松本城雪景色と信州牛ステーキ会席宿</h4>
-              <p className="text-[11px] text-slate-500 line-clamp-2">
+              <h4 className="text-xs font-bold text-slate-800 group-hover:text-emerald-800 transition">浅間温泉の初冬松本城雪景色と信州牛ステーキ会席宿</h4>
+              <p className="text-[11px] text-slate-500">
                 国宝松本城の冬の風情と城下町の奥座敷・浅間温泉の温もり。
               </p>
             </Link>

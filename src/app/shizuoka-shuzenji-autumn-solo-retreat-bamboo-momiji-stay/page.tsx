@@ -371,19 +371,19 @@ export default function ArticlePage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/shizuoka-hamanako-kanzanji-unagi-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「静岡・浜名湖＆舘山寺温泉」湖畔パノラマ・ロープウェイ＆浜名湖うなぎ宿 厳選ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「静岡・浜名湖＆舘山寺温泉」湖畔パノラマ・ロープウェイ＆浜名湖うなぎ宿 厳選ガイド</span>
             </a>
             <a href="/shizuoka-izu-ito-jogasaki-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「静岡・伊豆伊東＆城ヶ崎海岸」門脇つり橋・大室山リフト＆東海館・地魚海鮮宿 厳選ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「静岡・伊豆伊東＆城ヶ崎海岸」門脇つり橋・大室山リフト＆東海館・地魚海鮮宿 厳選ガイド</span>
             </a>
             <a href="/shizuoka-izu-shuzenji-bamboo-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「静岡・伊豆修善寺」竹林の小径・独鈷の湯＆伊豆牛・本わさび極上宿 厳選ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「静岡・伊豆修善寺」竹林の小径・独鈷の湯＆伊豆牛・本わさび極上宿 厳選ガイド</span>
             </a>
             <a href="/shizuoka-shimoda-solo-retreat-ocean-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「南伊豆・下田温泉ひとり旅・ペリー黒船と白砂ビーチおこもり」自家源泉掛け流し・下田金目鯛づくし・海一望露天風呂！特急サフィール直通の港町厳選3宿</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「南伊豆・下田温泉ひとり旅・ペリー黒船と白砂ビーチおこもり」自家源泉掛け流し・下田金目鯛づくし・海一望露天風呂！特急サフィール直通の港町厳選3宿</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

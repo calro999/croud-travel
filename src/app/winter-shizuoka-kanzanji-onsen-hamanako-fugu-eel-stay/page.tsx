@@ -568,7 +568,7 @@ export default function ShizuokaKanzanjiWinterFeature() {
             >
               <span className="px-2 py-0.5 rounded bg-rose-500/40 text-rose-200 font-bold text-[10px]">東伊豆・金目鯛</span>
               <h3 className="font-bold text-white text-sm">伊豆稲取温泉・地金目鯛姿煮と相模灘絶景露天の宿5選</h3>
-              <p className="text-slate-300 text-[11px] line-clamp-2">一本釣り地金目鯛のふっくら姿煮と水平線から昇る朝日。</p>
+              <p className="text-slate-300 text-[11px]">一本釣り地金目鯛のふっくら姿煮と水平線から昇る朝日。</p>
             </Link>
 
             <Link 
@@ -577,7 +577,7 @@ export default function ShizuokaKanzanjiWinterFeature() {
             >
               <span className="px-2 py-0.5 rounded bg-amber-500/40 text-amber-200 font-bold text-[10px]">全国ふぐ名宿</span>
               <h3 className="font-bold text-white text-sm">全国のとらふぐ会席＆極上温泉宿ランキング</h3>
-              <p className="text-slate-300 text-[11px] line-clamp-2">下関や日間賀島、遠州灘の極上ふぐを味わい尽くす冬旅。</p>
+              <p className="text-slate-300 text-[11px]">下関や日間賀島、遠州灘の極上ふぐを味わい尽くす冬旅。</p>
             </Link>
 
             <Link 
@@ -586,7 +586,7 @@ export default function ShizuokaKanzanjiWinterFeature() {
             >
               <span className="px-2 py-0.5 rounded bg-sky-500/40 text-sky-200 font-bold text-[10px]">熱海・冬花火</span>
               <h3 className="font-bold text-white text-sm">熱海温泉・冬海上花火大会と金目鯛会席の宿</h3>
-              <p className="text-slate-300 text-[11px] line-clamp-2">澄んだ冬の夜空に大輪の花火が咲くオーシャンビュー客室。</p>
+              <p className="text-slate-300 text-[11px]">澄んだ冬の夜空に大輪の花火が咲くオーシャンビュー客室。</p>
             </Link>
 
             <Link 
@@ -595,7 +595,7 @@ export default function ShizuokaKanzanjiWinterFeature() {
             >
               <span className="px-2 py-0.5 rounded bg-emerald-500/40 text-emerald-200 font-bold text-[10px]">焼津・南まぐろ</span>
               <h3 className="font-bold text-white text-sm">焼津温泉・富士山一望と極上南まぐろ尽くしの宿</h3>
-              <p className="text-slate-300 text-[11px] line-clamp-2">駿河湾越しに富士山を望む絶景と本場ミナミマグロの脂のり。</p>
+              <p className="text-slate-300 text-[11px]">駿河湾越しに富士山を望む絶景と本場ミナミマグロの脂のり。</p>
             </Link>
           
       <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">

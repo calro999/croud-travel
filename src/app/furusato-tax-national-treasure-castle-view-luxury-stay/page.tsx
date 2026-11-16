@@ -153,8 +153,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     兵庫県姫路市十二所前町22番地
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">姫路城下町　ホテルクレール日笠</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">姫路城下町　ホテルクレール日笠</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     2022年★改装客室OPEN★駅チカ×江戸風湯屋有り
                   </p>
                   
@@ -197,8 +197,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     兵庫県相生市相生金ケ崎5321
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">ＨＯＴＥＬ万葉岬</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">ＨＯＴＥＬ万葉岬</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     瀬戸内絶景パノラマ！瀬戸の山頂にひっそりと佇む癒しの宿。
                   </p>
                   
@@ -241,8 +241,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     兵庫県神戸市中央区波止場町2-1  メリケンパーク内
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">ホテルオークラ神戸</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">ホテルオークラ神戸</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     神戸ポートタワーのとなり、35階建てホテル。夜景が自慢。ホテル～三宮間無料シャトルバス毎日運行
                   </p>
                   
@@ -298,8 +298,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     長野県塩尻市広丘吉田366-1
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">クア・アンド・ホテル　信州健康ランド</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">クア・アンド・ホテル　信州健康ランド</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     ご宿泊のお客様は健康ランドのお風呂とサウナが無料！レストランなどの館内施設が充実、駐車場無料！
                   </p>
                   
@@ -342,8 +342,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     長野県松本市浅間温泉1-28-16
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">松本　浅間温泉　ホテル玉之湯</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">松本　浅間温泉　ホテル玉之湯</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     「心と体を元気に」バリアフリーの宿  個室で愉しむ郷土の味＜3つの無料貸切露天風呂＞
                   </p>
                   
@@ -386,8 +386,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     長野県東筑摩郡麻績村日3434
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">シェーンガルテンおみ</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">シェーンガルテンおみ</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     「シェーンガルテン」とは美しい庭園という意味。アルプスの眺望と四季折々に大自然を満喫できる公共の宿。
                   </p>
                   
@@ -443,8 +443,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     滋賀県彦根市松原町1836-1
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">トレイルイン彦根城（Ｔｒａｉｌ　ｉｎｎ　彦根城）</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">オープン！！各室完全独立型のトレーラーホテル！洗濯機・電子レンジ完備！！
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">トレイルイン彦根城（Ｔｒａｉｌ　ｉｎｎ　彦根城）</h3>
+                  <p className="text-xs text-stone-400 mb-4">オープン！！各室完全独立型のトレーラーホテル！洗濯機・電子レンジ完備！！
                   </p>
                   
                   <div className="mt-auto pt-4 border-t border-stone-800/80 flex items-center justify-between">
@@ -486,8 +486,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     滋賀県守山市勝部一丁目1番17号　守山駅前近江鉄道ビル(フロント4F)
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">ベッセルイン滋賀守山駅前（守山・栗東・草津）</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">ベッセルイン滋賀守山駅前（守山・栗東・草津）</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     JR守山駅から徒歩1分でアクセス抜群◆ビジネスや観光の拠点に最適◆全室Ｗｉ－Ｆｉ無料！
                   </p>
                   
@@ -530,8 +530,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     滋賀県彦根市西今町62-2
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">ホテルレイクランド彦根</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">ホテルレイクランド彦根</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     南彦根駅より徒歩１分観光にビジネスに最適■アパ直参画ホテル■全室43・49型ＴＶ設置
                   </p>
                   

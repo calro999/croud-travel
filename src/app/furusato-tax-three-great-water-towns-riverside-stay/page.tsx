@@ -168,7 +168,7 @@ export default function Page() {
                   <p className="text-xs text-slate-500 mt-0.5">
                     🚆 西鉄　柳川駅より車で５分/九州自動車道みやま柳川I..Cより車で15分、八女I..Cより20分
                   </p>
-                  <p className="text-sm text-slate-600 mt-3 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-slate-600 mt-3 leading-relaxed">
                     2024年春夏リニューアルオープン！柳川で数少ない天然温泉が楽しめる宿。
                   </p>
                 </div>
@@ -228,7 +228,7 @@ export default function Page() {
                   <p className="text-xs text-slate-500 mt-0.5">
                     🚆 西鉄柳川駅よりバス25分/JR佐賀駅よりバス25分(バス停「大川橋」より徒歩5分）、佐賀空港より車20分
                   </p>
-                  <p className="text-sm text-slate-600 mt-3 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-slate-600 mt-3 leading-relaxed">
                     筑後川や有明海に育まれた、大川の名物料理を堪能できる料亭・旅館
                   </p>
                 </div>
@@ -288,7 +288,7 @@ export default function Page() {
                   <p className="text-xs text-slate-500 mt-0.5">
                     🚆 九州自動車道八女ICより8分・ＪＲ筑後船小屋駅より徒歩15分
                   </p>
-                  <p className="text-sm text-slate-600 mt-3 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-slate-600 mt-3 leading-relaxed">
                     絶景を望む新客室が誕生！見飽きることのない眺めは非日常の時間をお約束。クチコミ評価の高い料理も人気
                   </p>
                 </div>
@@ -358,7 +358,7 @@ export default function Page() {
                   <p className="text-xs text-slate-500 mt-0.5">
                     🚆 JR近江八幡駅より車で5分、徒歩15分
                   </p>
-                  <p className="text-sm text-slate-600 mt-3 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-slate-600 mt-3 leading-relaxed">
                     サウナで整う、集いのための一軒宿
                   </p>
                 </div>
@@ -418,7 +418,7 @@ export default function Page() {
                   <p className="text-xs text-slate-500 mt-0.5">
                     🚆 近江鉄道「八日市駅」下車徒歩7分。新大阪駅よりJR新快速で1時間＆近江八幡駅乗り換えで約15分
                   </p>
-                  <p className="text-sm text-slate-600 mt-3 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-slate-600 mt-3 leading-relaxed">
                     八日市IC車で18分、駐車場17台無料・無料Wifi完備、天然鉱石温泉風呂無料、家庭的なお宿です
                   </p>
                 </div>
@@ -478,7 +478,7 @@ export default function Page() {
                   <p className="text-xs text-slate-500 mt-0.5">
                     🚆 彦根ＩＣから１０分・無料駐車場あり／ＪＲ彦根駅よりタクシーで約5分
                   </p>
-                  <p className="text-sm text-slate-600 mt-3 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-slate-600 mt-3 leading-relaxed">
                     国宝「彦根城」のほど近く、明治二年創業の料亭旅館やす井で至福の時間をお過ごし下さい
                   </p>
                 </div>
@@ -552,7 +552,7 @@ export default function Page() {
                   <p className="text-xs text-slate-500 mt-0.5">
                     🚆 成田空港より車約15分 成田空港シャトルバス第2ターミナル13番乗り場【多古町役場前】徒歩5分 八重州口より高速バスあり
                   </p>
-                  <p className="text-sm text-slate-600 mt-3 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-slate-600 mt-3 leading-relaxed">
                     成田空港からアクセスしやすい多古町の静かな宿。出張・長期滞在にもおすすめです。
                   </p>
                 </div>
@@ -612,7 +612,7 @@ export default function Page() {
                   <p className="text-xs text-slate-500 mt-0.5">
                     🚆 JR 佐原駅より徒歩7分／東関道 ／香取ICより10分
                   </p>
-                  <p className="text-sm text-slate-600 mt-3 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-slate-600 mt-3 leading-relaxed">
                     小野川沿いの和風旅館。年間を通して何名様でも同一料金（例外あり）。観光に、商用に。無線ラン接続可能
                   </p>
                 </div>
@@ -672,7 +672,7 @@ export default function Page() {
                   <p className="text-xs text-slate-500 mt-0.5">
                     🚆 ＪＲ成田線小見川駅／ＪＲ鹿島線鹿島神宮駅／東関東自動車最終の潮来ＩＣより車で２０分
                   </p>
-                  <p className="text-sm text-slate-600 mt-3 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-slate-600 mt-3 leading-relaxed">
                     ビジネス・シティホテル旅館、宿泊部屋あり、レストラン2店舗（直営）
                   </p>
                 </div>
@@ -849,19 +849,19 @@ export default function Page() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/gunma-ikaho-solo-retreat-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「伊香保温泉ひとり旅・石段街おこもり」黄金の湯・白銀の湯・屋上絶景露天！レトロな石段街で情緒と癒やしを味わう厳選3宿</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「伊香保温泉ひとり旅・石段街おこもり」黄金の湯・白銀の湯・屋上絶景露天！レトロな石段街で情緒と癒やしを味わう厳選3宿</span>
             </a>
             <a href="/gunma-kusatsu-yubatake-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「群馬・草津温泉」湯畑・西の河原＆湯もみ体験極上宿 厳選ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「群馬・草津温泉」湯畑・西の河原＆湯もみ体験極上宿 厳選ガイド</span>
             </a>
             <a href="/gunma-minakami-tanigawadake-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「群馬・水上温泉郷＆谷川岳」一ノ倉沢大岩壁・宝川温泉巨石大露天＆利根川宿 厳選ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「群馬・水上温泉郷＆谷川岳」一ノ倉沢大岩壁・宝川温泉巨石大露天＆利根川宿 厳選ガイド</span>
             </a>
             <a href="/gunma-takasaki-solo-business-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「高崎出張・天然温泉サウナ」新幹線結節点・榛名の湯・高崎パスタ！上州ビジネスハブを制する厳選3宿</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「高崎出張・天然温泉サウナ」新幹線結節点・榛名の湯・高崎パスタ！上州ビジネスハブを制する厳選3宿</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

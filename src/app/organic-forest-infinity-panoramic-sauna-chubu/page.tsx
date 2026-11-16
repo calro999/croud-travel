@@ -389,19 +389,19 @@ export default function FeaturePage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/furusato-tax-azumino-autumn-leaves-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">北アルプス冠雪と安曇野の安曇野わさび田紅葉！美肌の穂高温泉郷宿×ふるさと納税厳選ガイド長野</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">北アルプス冠雪と安曇野の安曇野わさび田紅葉！美肌の穂高温泉郷宿×ふるさと納税厳選ガイド長野</span>
             </a>
             <a href="/furusato-tax-footbath-cafe-ashiyu-terrace-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">清流のせせらぎと温もり足湯カフェ！ベーカリーテラス＆足湯散策リゾート温泉宿×ふるさと納税厳選ガイド伊豆吉奈・黒川温泉・上高地</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">清流のせせらぎと温もり足湯カフェ！ベーカリーテラス＆足湯散策リゾート温泉宿×ふるさと納税厳選ガイド伊豆吉奈・黒川温泉・上高地</span>
             </a>
             <a href="/furusato-tax-hakuba-three-stage-autumn-leaves-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">白馬八方尾根・北アルプス冠雪と山麓紅葉の「三段紅葉」＆日本屈指の強アルカリ美肌温泉ステイ｜ふるさと納税で泊まれる名宿ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">白馬八方尾根・北アルプス冠雪と山麓紅葉の「三段紅葉」＆日本屈指の強アルカリ美肌温泉ステイ｜ふるさと納税で泊まれる名宿ガイド</span>
             </a>
             <a href="/furusato-tax-kamikochi-japan-alps-resort-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">神降ちる清流と穂高連峰の絶景！上高地の大正池・梓川温泉＆本格山岳フレンチ名宿×ふるさと納税完全攻略ガイド【2026年最新】ルミエスタ・大正池ホテル・上高地温泉ホテル！上高地の大正池</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">神降ちる清流と穂高連峰の絶景！上高地の大正池・梓川温泉＆本格山岳フレンチ名宿×ふるさと納税完全攻略ガイド【2026年最新】ルミエスタ・大正池ホテル・上高地温泉ホテル！上高地の大正池</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

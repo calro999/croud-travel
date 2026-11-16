@@ -368,19 +368,19 @@ export default function ArticlePage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/kumamoto-amakusa-sakitsu-dolphin-islands-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「熊本・天草五橋＆下島・崎津集落」世界遺産崎津天主堂・天草五橋＆野生イルカ・車海老宿 厳選ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「熊本・天草五橋＆下島・崎津集落」世界遺産崎津天主堂・天草五橋＆野生イルカ・車海老宿 厳選ガイド</span>
             </a>
             <a href="/kumamoto-city-solo-business-sauna-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「熊本出張・極上サウナ温泉ステイ」西の聖地湯らっくす・阿蘇伏流水MADMAX水風呂・熊本城！火の国ビジネスを極める厳選3宿</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「熊本出張・極上サウナ温泉ステイ」西の聖地湯らっくす・阿蘇伏流水MADMAX水風呂・熊本城！火の国ビジネスを極める厳選3宿</span>
             </a>
             <a href="/kumamoto-solo-business-skyspa-gourmet-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「熊本出張＆城下町ひとり旅」最上階展望スカイスパ・天然温泉・熊本城ビュー！名物馬刺しを満喫する極上宿 厳選3選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「熊本出張＆城下町ひとり旅」最上階展望スカイスパ・天然温泉・熊本城ビュー！名物馬刺しを満喫する極上宿 厳選3選</span>
             </a>
             <a href="/scenic-open-air-trolley-train-resort-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「絶景観光トロッコ列車＆オープン客車」黒部峡谷・嵯峨野・南阿蘇＆名湯 厳選ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「絶景観光トロッコ列車＆オープン客車」黒部峡谷・嵯峨野・南阿蘇＆名湯 厳選ガイド</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

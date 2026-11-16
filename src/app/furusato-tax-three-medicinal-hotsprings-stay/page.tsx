@@ -282,7 +282,7 @@ export default function Page() {
                         </div>
                       </div>
 
-                      <p className="text-xs md:text-sm text-slate-600 line-clamp-3 leading-relaxed">
+                      <p className="text-xs md:text-sm text-slate-600 leading-relaxed">
                         {h.hotelSpecial || '日本三大柱状節理の奇岩絶壁、陶器まつりの工芸美、日本三大薬湯の湯治、大名庭園の四季散策を満喫する極上の滞在。四季折々の美食と名湯でお寛ぎください。'}
                       </p>
 
@@ -381,7 +381,7 @@ export default function Page() {
           <div className="grid md:grid-cols-3 gap-4">
             
             <Link href="/furusato-tax-three-famous-bridges-heritage-stay/" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
-              <div className="font-bold text-sm text-slate-800 group-hover:text-emerald-700 transition line-clamp-2">
+              <div className="font-bold text-sm text-slate-800 group-hover:text-emerald-700 transition">
                 日本三名泉＆天下の名湯巡り極上宿×ふるさと納税完全ガイド
               </div>
               <p className="text-xs text-slate-500 mt-2">
@@ -390,7 +390,7 @@ export default function Page() {
             </Link>
             
             <Link href="/furusato-tax-three-great-ancient-baths-heritage-stay/" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
-              <div className="font-bold text-sm text-slate-800 group-hover:text-emerald-700 transition line-clamp-2">
+              <div className="font-bold text-sm text-slate-800 group-hover:text-emerald-700 transition">
                 日本三古湯＆飛鳥時代からの歴史名湯宿×ふるさと納税完全ガイド
               </div>
               <p className="text-xs text-slate-500 mt-2">
@@ -399,7 +399,7 @@ export default function Page() {
             </Link>
             
             <Link href="/furusato-tax-three-great-hotsprings-luxury-villas-stay/" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
-              <div className="font-bold text-sm text-slate-800 group-hover:text-emerald-700 transition line-clamp-2">
+              <div className="font-bold text-sm text-slate-800 group-hover:text-emerald-700 transition">
                 日本三大美肌の湯＆とろとろ美容液温泉宿×ふるさと納税完全ガイド
               </div>
               <p className="text-xs text-slate-500 mt-2">
@@ -487,19 +487,19 @@ export default function Page() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/gunma-shima-onsen-okushima-lake-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">群馬・四万温泉＆奥四万湖：奇跡の四万ブルー・千と千尋レトロ木造湯宿 厳選ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">群馬・四万温泉＆奥四万湖：奇跡の四万ブルー・千と千尋レトロ木造湯宿 厳選ガイド</span>
             </a>
             <a href="/winter-gunma-kiryu-houtokuji-hatsumode-himokawa-udon-joshugyu-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12・1月群馬】織物の都・桐生新町と床もみじの名刹「宝徳寺」新春初詣！冬の熱々「幅広ひもかわうどん」＆上州牛・両毛名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">【11・12・1月群馬】織物の都・桐生新町と床もみじの名刹「宝徳寺」新春初詣！冬の熱々「幅広ひもかわうどん」＆上州牛・両毛名宿5選</span>
             </a>
             <a href="/winter-gunma-oigami-onsen-fukiware-joshugyu-soba-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12月老神温泉】赤城山北麓・初冬の片品渓谷美と美肌単純硫黄泉・極上上州牛すき焼き＆上州麦豚・手打ち十割蕎麦を味わう名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">【11・12月老神温泉】赤城山北麓・初冬の片品渓谷美と美肌単純硫黄泉・極上上州牛すき焼き＆上州麦豚・手打ち十割蕎麦を味わう名宿5選</span>
             </a>
             <a href="/furusato-tax-minakami-tanigawa-autumn-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">谷川岳の紅葉ロープウェイとみなかみ十八湯！利根川源流の渓谷美と上州牛・舞茸を味わう秋の群馬旅</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">谷川岳の紅葉ロープウェイとみなかみ十八湯！利根川源流の渓谷美と上州牛・舞茸を味わう秋の群馬旅</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

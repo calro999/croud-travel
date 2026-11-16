@@ -382,7 +382,7 @@ export default function WinterAichiGamagoriPage() {
                     <div className="absolute bottom-4 left-4 right-4 bg-slate-950/75 text-white p-3 rounded-xl backdrop-blur-xs text-xs space-y-1">
                       <div className="flex items-center gap-1 text-sky-300 font-semibold">
                         <MapPin className="w-3.5 h-3.5 shrink-0" />
-                        <span className="line-clamp-1">{hotel.access}</span>
+                        <span className="">{hotel.access}</span>
                       </div>
                     </div>
                   </div>
@@ -586,8 +586,8 @@ export default function WinterAichiGamagoriPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">三重・鳥羽温泉郷</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">鳥羽温泉郷の伊勢海老＆的矢牡蠣会席と海景露天宿</h4>
-              <p className="text-[11px] text-sky-100 line-clamp-2">
+              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition">鳥羽温泉郷の伊勢海老＆的矢牡蠣会席と海景露天宿</h4>
+              <p className="text-[11px] text-sky-100">
                 伊勢志摩の冬の二大味覚とオーシャンビュー露天風呂を満喫。
               </p>
             </Link>
@@ -597,8 +597,8 @@ export default function WinterAichiGamagoriPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">静岡・浜名湖舘山寺</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">舘山寺温泉の浜名湖天然とらふぐ＆極上鰻会席宿</h4>
-              <p className="text-[11px] text-sky-100 line-clamp-2">
+              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition">舘山寺温泉の浜名湖天然とらふぐ＆極上鰻会席宿</h4>
+              <p className="text-[11px] text-sky-100">
                 冬の遠州灘天然とらふぐと浜名湖レイクビュー温泉ステイ。
               </p>
             </Link>
@@ -608,8 +608,8 @@ export default function WinterAichiGamagoriPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">三重・なばなの里</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">なばなの里イルミネーション絶景と長島温泉リゾート</h4>
-              <p className="text-[11px] text-sky-100 line-clamp-2">
+              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition">なばなの里イルミネーション絶景と長島温泉リゾート</h4>
+              <p className="text-[11px] text-sky-100">
                 日本最大級の光の祭典と天然温泉を満喫する冬の休日。
               </p>
             </Link>

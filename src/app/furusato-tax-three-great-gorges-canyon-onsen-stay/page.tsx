@@ -153,8 +153,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     新潟県十日町市小出癸2126-1
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">清津峡湯元温泉　清津館</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">清津峡湯元温泉　清津館</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     インスタ映え間違いなし☆十日町市人気No1スポット「清津峡トンネル」へ徒歩1分の秘湯の宿
                   </p>
                   
@@ -197,8 +197,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     新潟県南魚沼郡湯沢町湯沢419
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">越後湯沢温泉　音羽屋旅館</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">越後湯沢温泉　音羽屋旅館</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     温泉街中央高台にあり、料理自慢・風呂自慢のこじんまりとした純和風宿
                   </p>
                   
@@ -241,8 +241,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     新潟県南魚沼市坂戸292-4
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">旬彩の庄　坂戸城</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">旬彩の庄　坂戸城</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     【魚沼産コシヒカリ食べ放題！】当宿人気のにいがた朝ごはん＆源泉かけ流しの温泉宿です♪
                   </p>
                   
@@ -298,8 +298,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     富山県黒部市宇奈月温泉７番地
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">黒部峡谷・宇奈月温泉　ホテル黒部</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">黒部峡谷・宇奈月温泉　ホテル黒部</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     『宇奈月温泉随一の眺望』四季折々の地元食材と透明な美肌湯を堪能
                   </p>
                   
@@ -342,8 +342,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     富山県黒部市宇奈月温泉347-1
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">宇奈月温泉　延楽</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">宇奈月温泉　延楽</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     季節のお料理と樹齢四百年の総檜露天風呂。露天風呂付き客室でゆったり自分時間。
                   </p>
                   
@@ -386,8 +386,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     富山県黒部市宇奈月温泉352番地7
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">黒部・宇奈月温泉　やまのは（オリックスホテルズ＆リゾーツ）</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">黒部・宇奈月温泉　やまのは（オリックスホテルズ＆リゾーツ）</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     おかげさまで連続受賞！「楽天トラベル 日本の宿アワード2025 TOP47」♪
                   </p>
                   
@@ -443,8 +443,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     三重県多気郡大台町薗993
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">奥伊勢宮川温泉　奥伊勢フォレストピア宮川山荘</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">奥伊勢宮川温泉　奥伊勢フォレストピア宮川山荘</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     サイクリング・アスレチック・美人の湯…自然一体型施設☆ユネスコエコパークにも認定！
                   </p>
                   
@@ -487,8 +487,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     三重県多気郡大台町佐原（字下中通）654-41
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">フェアフィールド・バイ・マリオット・三重奥伊勢おおだい</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">フェアフィールド・バイ・マリオット・三重奥伊勢おおだい</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     三重の自然や食を巡る旅の拠点に。洗練された心地よい空間で、ふっと肩の力が抜ける穏やかな滞在を。
                   </p>
                   
@@ -531,8 +531,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     三重県多気郡大台町久豆382-2
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">溯渓寮</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">溯渓寮</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     日本三大峡谷「大杉谷」麓にある、自然と歴史、数々のアクティビティが融合するゲストハウス
                   </p>
                   

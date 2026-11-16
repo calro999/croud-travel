@@ -620,7 +620,7 @@ export default function SaitamaKawagoeKoedoWinterPage() {
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-amber-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-amber-800 font-bold text-xs block mb-1">埼玉・秩父長瀞</span>
-              <span className="text-stone-900 font-bold group-hover:text-amber-900 transition-colors line-clamp-2">
+              <span className="text-stone-900 font-bold group-hover:text-amber-900 transition-colors">
                 秩父夜祭の熱気と三十槌の氷柱・武州和牛と長瀞温泉を満喫する冬名宿
               </span>
             </Link>
@@ -630,7 +630,7 @@ export default function SaitamaKawagoeKoedoWinterPage() {
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-amber-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-amber-800 font-bold text-xs block mb-1">栃木・足利佐野</span>
-              <span className="text-stone-900 font-bold group-hover:text-amber-900 transition-colors line-clamp-2">
+              <span className="text-stone-900 font-bold group-hover:text-amber-900 transition-colors">
                 あしかがフラワーパーク光の花の庭と佐野厄除け大師初詣・佐野ラーメンの宿
               </span>
             </Link>
@@ -640,7 +640,7 @@ export default function SaitamaKawagoeKoedoWinterPage() {
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-amber-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-amber-800 font-bold text-xs block mb-1">神奈川・鎌倉江の島</span>
-              <span className="text-stone-900 font-bold group-hover:text-amber-900 transition-colors line-clamp-2">
+              <span className="text-stone-900 font-bold group-hover:text-amber-900 transition-colors">
                 湘南の宝石イルミネーションと鶴岡八幡宮初詣・富士山夕景と地魚を味わう宿
               </span>
             </Link>
@@ -650,7 +650,7 @@ export default function SaitamaKawagoeKoedoWinterPage() {
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-amber-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-amber-800 font-bold text-xs block mb-1">長野・軽井沢星野</span>
-              <span className="text-stone-900 font-bold group-hover:text-amber-900 transition-colors line-clamp-2">
+              <span className="text-stone-900 font-bold group-hover:text-amber-900 transition-colors">
                 冬の軽井沢・もみの木イルミネーションと星野温泉トンボの湯・信州牛ステイ
               </span>
             </Link>
@@ -660,7 +660,7 @@ export default function SaitamaKawagoeKoedoWinterPage() {
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-amber-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-amber-800 font-bold text-xs block mb-1">三重・伊勢神宮</span>
-              <span className="text-stone-900 font-bold group-hover:text-amber-900 transition-colors line-clamp-2">
+              <span className="text-stone-900 font-bold group-hover:text-amber-900 transition-colors">
                 新春初詣とおかげ横丁・五十鈴川の朝霧と冬の伊勢海老・松阪牛会席の名宿
               </span>
             </Link>

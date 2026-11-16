@@ -467,19 +467,19 @@ export default function FeatureArticlePage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/hyogo-takeda-castle-asago-ikuno-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「兵庫・竹田城跡＆朝来・生野銀山」雲海に浮かぶ天空の城・生野鉱山坑道＆但馬牛宿 厳選ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「兵庫・竹田城跡＆朝来・生野銀山」雲海に浮かぶ天空の城・生野鉱山坑道＆但馬牛宿 厳選ガイド</span>
             </a>
             <a href="/kobe-solo-luxury-oceanview-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「神戸ひとり旅・港町ご褒美泊」ハーバーランド夜景・地下天然温泉・極上朝食！海風に癒やされる大人のおこもり宿 厳選3選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「神戸ひとり旅・港町ご褒美泊」ハーバーランド夜景・地下天然温泉・極上朝食！海風に癒やされる大人のおこもり宿 厳選3選</span>
             </a>
             <a href="/winter-hyogo-akashi-uonotana-kakimoto-shrine-hatsumode-akashiyaki-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「兵庫・明石＆加古川」 明石海峡大橋を望む人麿山「柿本神社」新春初詣と魚の棚商店街！ 熱々の本場「明石焼き」・加古川かつめし＆播磨灘の厳選名宿</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「兵庫・明石＆加古川」 明石海峡大橋を望む人麿山「柿本神社」新春初詣と魚の棚商店街！ 熱々の本場「明石焼き」・加古川かつめし＆播磨灘の厳選名宿</span>
             </a>
             <a href="/winter-hyogo-arima-onsen-luxury-kinzan-gold-silver-kobe-beef-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【日本最古の名湯・金湯銀湯を客室露天で独り占め】2026-2027年11-12月初冬の兵庫・有馬温泉！名門・欽山＆中の坊瑞苑・極上神戸牛ステーキと伝統会席・ミシュラン掲載の大人の最</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">【日本最古の名湯・金湯銀湯を客室露天で独り占め】2026-2027年11-12月初冬の兵庫・有馬温泉！名門・欽山＆中の坊瑞苑・極上神戸牛ステーキと伝統会席・ミシュラン掲載の大人の最</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

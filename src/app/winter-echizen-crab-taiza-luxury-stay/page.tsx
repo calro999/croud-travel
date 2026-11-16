@@ -352,19 +352,19 @@ export default function FeaturePage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/winter-fukui-eiheiji-snow-zen-echizen-oroshi-soba-wakasa-beef-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">曹洞宗大本山永平寺の雪静寂＆新春開運参拝！ 名物越前おろしそばと極上若狭牛・越前がにを味わう名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">曹洞宗大本山永平寺の雪静寂＆新春開運参拝！ 名物越前おろしそばと極上若狭牛・越前がにを味わう名宿5選</span>
             </a>
             <a href="/winter-fukui-wakasa-fugu-tsuruga-echizen-crab-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「11・12・1月福井」冬の若狭湾「若狭ふぐ」てっさ・てっちり＆敦賀港越前がに・三方五湖寒うなぎ・海絶景温泉を満喫する名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「11・12・1月福井」冬の若狭湾「若狭ふぐ」てっさ・てっちり＆敦賀港越前がに・三方五湖寒うなぎ・海絶景温泉を満喫する名宿5選</span>
             </a>
             <a href="/furusato-tax-nagasaki-unzen-obama-autumn-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">長崎・雲仙地獄の紅葉とクラシックリゾート！白濁硫黄泉の名湯＆長崎和牛・秋島原グルメ｜ふるさと納税で泊まれる名宿ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">長崎・雲仙地獄の紅葉とクラシックリゾート！白濁硫黄泉の名湯＆長崎和牛・秋島原グルメ｜ふるさと納税で泊まれる名宿ガイド</span>
             </a>
             <a href="/japan-winter-crab-fugu-seafood-feast-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「冬の四大味覚極上宿」松葉ガニ・越前ガニ・下関とらふぐ・寒ブリ 厳選ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「冬の四大味覚極上宿」松葉ガニ・越前ガニ・下関とらふぐ・寒ブリ 厳選ガイド</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">
@@ -425,19 +425,19 @@ export default function FeaturePage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/winter-fukui-obama-myotsuji-temple-snow-wakasa-fugu-mackerel-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「御食国の冬味覚・明通寺国宝本堂の静寂と若狭ふぐ」2026-2027年冬の福井・若狭小浜！名物若狭とらふぐフルコースと雪見温泉名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「御食国の冬味覚・明通寺国宝本堂の静寂と若狭ふぐ」2026-2027年冬の福井・若狭小浜！名物若狭とらふぐフルコースと雪見温泉名宿5選</span>
             </a>
             <a href="/winter-fukui-wakasa-mikatagoko-onsen-fugu-echizen-crab-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12月福井・若狭三方五湖】初冬レイクビューと若狭ふぐ 越前蟹・名物焼き鯖＆敦賀港冬海鮮会席を愉しむ湖畔・海辺名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">【11・12月福井・若狭三方五湖】初冬レイクビューと若狭ふぐ 越前蟹・名物焼き鯖＆敦賀港冬海鮮会席を愉しむ湖畔・海辺名宿5選</span>
             </a>
             <a href="/winter-kanagawa-yugawara-onsen-bungo-kaiseki-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12月湯河原温泉の名湯と奥湯河原晩秋紅葉】 文豪が愛した万葉の隠れ家・相模湾の伊勢海老＆地魚会席の宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">【11・12月湯河原温泉の名湯と奥湯河原晩秋紅葉】 文豪が愛した万葉の隠れ家・相模湾の伊勢海老＆地魚会席の宿5選</span>
             </a>
             <a href="/winter-shiga-yogo-lake-wakasagi-kamonabe-shizugatake-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「神秘の余呉湖ワカサギと本場天然真鴨鍋」2026-2027年冬の滋賀・湖北！賤ヶ岳雪景色と近江牛名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「神秘の余呉湖ワカサギと本場天然真鴨鍋」2026-2027年冬の滋賀・湖北！賤ヶ岳雪景色と近江牛名宿5選</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

@@ -352,19 +352,19 @@ export default function FeaturePage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/autumn-nagano-achimura-hirugami-starry-sky-hotels-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「秋の阿智村・昼神温泉」日本一の星空ナイトツアーと美肌温泉！南信州の秋を満喫するおすすめ名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「秋の阿智村・昼神温泉」日本一の星空ナイトツアーと美肌温泉！南信州の秋を満喫するおすすめ名宿5選</span>
             </a>
             <a href="/autumn-nagano-karuizawa-momiji-halloween-resort-hotels-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【10月紅葉＆ハロウィン！秋の軽井沢】雲場池もみじと星野・旧軽井沢リゾートホテル5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">【10月紅葉＆ハロウィン！秋の軽井沢】雲場池もみじと星野・旧軽井沢リゾートホテル5選</span>
             </a>
             <a href="/furusato-tax-echigo-tsumari-tokamachi-autumn-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">十日町・星峠の棚田雲海と日本三大薬湯・松之山温泉！魚沼新米コシヒカリ＆越後妻有秋アート旅｜ふるさと納税で泊まれる名宿ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">十日町・星峠の棚田雲海と日本三大薬湯・松之山温泉！魚沼新米コシヒカリ＆越後妻有秋アート旅｜ふるさと納税で泊まれる名宿ガイド</span>
             </a>
             <a href="/furusato-tax-hakuba-happo-autumn-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">長野・白馬八方尾根の三段紅葉＆北アルプス！日本最高峰pH白馬八方温泉と信州牛フレンチ｜ふるさと納税で泊まれる名宿ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">長野・白馬八方尾根の三段紅葉＆北アルプス！日本最高峰pH白馬八方温泉と信州牛フレンチ｜ふるさと納税で泊まれる名宿ガイド</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">
@@ -425,19 +425,19 @@ export default function FeaturePage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/autumn-nagano-achimura-hirugami-starry-sky-hotels-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「秋の阿智村・昼神温泉」日本一の星空ナイトツアーと美肌温泉！南信州の秋を満喫するおすすめ名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「秋の阿智村・昼神温泉」日本一の星空ナイトツアーと美肌温泉！南信州の秋を満喫するおすすめ名宿5選</span>
             </a>
             <a href="/autumn-nagano-karuizawa-momiji-halloween-resort-hotels-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【10月紅葉＆ハロウィン！秋の軽井沢】雲場池もみじと星野・旧軽井沢リゾートホテル5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">【10月紅葉＆ハロウィン！秋の軽井沢】雲場池もみじと星野・旧軽井沢リゾートホテル5選</span>
             </a>
             <a href="/furusato-tax-echigo-tsumari-tokamachi-autumn-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">十日町・星峠の棚田雲海と日本三大薬湯・松之山温泉！魚沼新米コシヒカリ＆越後妻有秋アート旅｜ふるさと納税で泊まれる名宿ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">十日町・星峠の棚田雲海と日本三大薬湯・松之山温泉！魚沼新米コシヒカリ＆越後妻有秋アート旅｜ふるさと納税で泊まれる名宿ガイド</span>
             </a>
             <a href="/furusato-tax-hakuba-happo-autumn-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">長野・白馬八方尾根の三段紅葉＆北アルプス！日本最高峰pH白馬八方温泉と信州牛フレンチ｜ふるさと納税で泊まれる名宿ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">長野・白馬八方尾根の三段紅葉＆北アルプス！日本最高峰pH白馬八方温泉と信州牛フレンチ｜ふるさと納税で泊まれる名宿ガイド</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

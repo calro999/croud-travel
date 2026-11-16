@@ -516,8 +516,8 @@ export default function WinterYamagataHijioriPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">山形・銀山温泉</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">銀山温泉の大正ロマン雪景色とガス灯の宵</h4>
-              <p className="text-[11px] text-stone-200 line-clamp-2">
+              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition">銀山温泉の大正ロマン雪景色とガス灯の宵</h4>
+              <p className="text-[11px] text-stone-200">
                 木造多層建築が連なる銀山川の雪景色と尾花沢牛・雪見露天の贅。
               </p>
             </Link>
@@ -527,8 +527,8 @@ export default function WinterYamagataHijioriPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">山形・小野川温泉</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">小野川温泉のラジウム美肌湯と米沢牛すき焼き</h4>
-              <p className="text-[11px] text-stone-200 line-clamp-2">
+              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition">小野川温泉のラジウム美肌湯と米沢牛すき焼き</h4>
+              <p className="text-[11px] text-stone-200">
                 小野小町ゆかりの美肌湯と米沢牛・冬の雪見かまくら村を楽しむ旅。
               </p>
             </Link>
@@ -538,8 +538,8 @@ export default function WinterYamagataHijioriPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">山形・赤湯温泉</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">赤湯温泉のワイナリー巡りと米沢牛ステーキ</h4>
-              <p className="text-[11px] text-stone-200 line-clamp-2">
+              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition">赤湯温泉のワイナリー巡りと米沢牛ステーキ</h4>
+              <p className="text-[11px] text-stone-200">
                 開湯900余年の名湯と地元産赤湯ワイン、極上米沢牛を味わう冬の美食旅。
               </p>
             </Link>

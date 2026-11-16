@@ -587,7 +587,7 @@ export default function YamanashiYamanakakoOshinoWinterPage() {
                 <span className="inline-block px-2 py-0.5 bg-orange-950/80 border border-orange-400/40 text-orange-300 text-[10px] font-bold rounded-md mb-2">
                   神奈川・箱根富士見温泉
                 </span>
-                <h3 className="font-bold text-white text-sm group-hover:text-orange-300 transition-colors line-clamp-2">冬の澄んだ芦ノ湖と富士山絶景露天・箱根名湯と極上会席を堪能する名宿</h3>
+                <h3 className="font-bold text-white text-sm group-hover:text-orange-300 transition-colors">冬の澄んだ芦ノ湖と富士山絶景露天・箱根名湯と極上会席を堪能する名宿</h3>
               </div>
               <span className="text-xs text-orange-400 font-semibold mt-3 flex items-center gap-1 group-hover:translate-x-1 transition-transform">
                 特集を見る →
@@ -602,7 +602,7 @@ export default function YamanashiYamanakakoOshinoWinterPage() {
                 <span className="inline-block px-2 py-0.5 bg-orange-950/80 border border-orange-400/40 text-orange-300 text-[10px] font-bold rounded-md mb-2">
                   静岡・伊豆長岡温泉
                 </span>
-                <h3 className="font-bold text-white text-sm group-hover:text-orange-300 transition-colors line-clamp-2">富士見テラスパノラマと伊豆の美肌名湯・金目鯛姿煮＆伊豆牛を味わう名宿</h3>
+                <h3 className="font-bold text-white text-sm group-hover:text-orange-300 transition-colors">富士見テラスパノラマと伊豆の美肌名湯・金目鯛姿煮＆伊豆牛を味わう名宿</h3>
               </div>
               <span className="text-xs text-orange-400 font-semibold mt-3 flex items-center gap-1 group-hover:translate-x-1 transition-transform">
                 特集を見る →
@@ -617,7 +617,7 @@ export default function YamanashiYamanakakoOshinoWinterPage() {
                 <span className="inline-block px-2 py-0.5 bg-orange-950/80 border border-orange-400/40 text-orange-300 text-[10px] font-bold rounded-md mb-2">
                   長野・上諏訪温泉
                 </span>
-                <h3 className="font-bold text-white text-sm group-hover:text-orange-300 transition-colors line-clamp-2">冬の諏訪湖御神渡りと名湯上諏訪温泉・信州牛すき焼き＆諏訪五蔵地酒名宿</h3>
+                <h3 className="font-bold text-white text-sm group-hover:text-orange-300 transition-colors">冬の諏訪湖御神渡りと名湯上諏訪温泉・信州牛すき焼き＆諏訪五蔵地酒名宿</h3>
               </div>
               <span className="text-xs text-orange-400 font-semibold mt-3 flex items-center gap-1 group-hover:translate-x-1 transition-transform">
                 特集を見る →
@@ -632,7 +632,7 @@ export default function YamanashiYamanakakoOshinoWinterPage() {
                 <span className="inline-block px-2 py-0.5 bg-orange-950/80 border border-orange-400/40 text-orange-300 text-[10px] font-bold rounded-md mb-2">
                   山梨・河口湖温泉
                 </span>
-                <h3 className="font-bold text-white text-sm group-hover:text-orange-300 transition-colors line-clamp-2">冬花火と逆さ富士・甲州ワインビーフと絶景露天風呂を愉しむ河口湖名宿</h3>
+                <h3 className="font-bold text-white text-sm group-hover:text-orange-300 transition-colors">冬花火と逆さ富士・甲州ワインビーフと絶景露天風呂を愉しむ河口湖名宿</h3>
               </div>
               <span className="text-xs text-orange-400 font-semibold mt-3 flex items-center gap-1 group-hover:translate-x-1 transition-transform">
                 特集を見る →
@@ -647,7 +647,7 @@ export default function YamanashiYamanakakoOshinoWinterPage() {
                 <span className="inline-block px-2 py-0.5 bg-orange-950/80 border border-orange-400/40 text-orange-300 text-[10px] font-bold rounded-md mb-2">
                   茨城・大洗＆那珂湊
                 </span>
-                <h3 className="font-bold text-white text-sm group-hover:text-orange-300 transition-colors line-clamp-2">神磯の鳥居初日の出と冬の極上あんこう鍋どぶ汁・那珂湊市場買い出し名宿</h3>
+                <h3 className="font-bold text-white text-sm group-hover:text-orange-300 transition-colors">神磯の鳥居初日の出と冬の極上あんこう鍋どぶ汁・那珂湊市場買い出し名宿</h3>
               </div>
               <span className="text-xs text-orange-400 font-semibold mt-3 flex items-center gap-1 group-hover:translate-x-1 transition-transform">
                 特集を見る →
@@ -662,7 +662,7 @@ export default function YamanashiYamanakakoOshinoWinterPage() {
                 <span className="inline-block px-2 py-0.5 bg-orange-950/80 border border-orange-400/40 text-orange-300 text-[10px] font-bold rounded-md mb-2">
                   千葉・犬吠埼＆銚子
                 </span>
-                <h3 className="font-bold text-white text-sm group-hover:text-orange-300 transition-colors line-clamp-2">本州一早い初日の出「犬吠埼」と冬の極上銚子つりきんめ・九十九里地蛤鍋</h3>
+                <h3 className="font-bold text-white text-sm group-hover:text-orange-300 transition-colors">本州一早い初日の出「犬吠埼」と冬の極上銚子つりきんめ・九十九里地蛤鍋</h3>
               </div>
               <span className="text-xs text-orange-400 font-semibold mt-3 flex items-center gap-1 group-hover:translate-x-1 transition-transform">
                 特集を見る →

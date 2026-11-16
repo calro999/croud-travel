@@ -424,19 +424,19 @@ export default function ArticlePage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/winter-nagano-shirahone-onsen-milky-snow-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12月白骨温泉の北アルプス初冬雪景色と乳白色秘湯】 3日入れば3年風邪ひかぬ霊泉・信州プレミアム牛＆投汁そばの宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">【11・12月白骨温泉の北アルプス初冬雪景色と乳白色秘湯】 3日入れば3年風邪ひかぬ霊泉・信州プレミアム牛＆投汁そばの宿5選</span>
             </a>
             <a href="/winter-nagano-tobira-onsen-myojinkan-relais-chateaux-shinshu-french-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【世界基準ルレ・エ・シャトー加盟「明神館」と山峡の秘湯】2026-2027年11-12月初冬の長野・松本奥座敷！渓流立ち湯雪見露天風呂と信州オーガニックフレンチ・自然に抱かれる最高</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">【世界基準ルレ・エ・シャトー加盟「明神館」と山峡の秘湯】2026-2027年11-12月初冬の長野・松本奥座敷！渓流立ち湯雪見露天風呂と信州オーガニックフレンチ・自然に抱かれる最高</span>
             </a>
             <a href="/winter-nagano-yamada-onsen-matsukawakeikoku-shinshugyu-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">長野・高山村山田温泉＆松川渓谷 松川渓谷の雪見露天と信州牛・小布施栗おこわ名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">長野・高山村山田温泉＆松川渓谷 松川渓谷の雪見露天と信州牛・小布施栗おこわ名宿5選</span>
             </a>
             <a href="/autumn-budget-nagano-matsumoto-castle-momiji-hotels-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「松本」国宝松本城の紅葉と新そばを満喫！城下町散策に便利な格安・高コスパ宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「松本」国宝松本城の紅葉と新そばを満喫！城下町散策に便利な格安・高コスパ宿5選</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

@@ -128,8 +128,8 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">指宿温泉　いぶすき秀水園</h4>
-                      <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">南薩摩の湯の里指宿にて心尽くしの料理とやすらぎのひとときをお過ごしください。</p>
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition">指宿温泉　いぶすき秀水園</h4>
+                      <p className="text-xs text-stone-400 mt-1 leading-relaxed">南薩摩の湯の里指宿にて心尽くしの料理とやすらぎのひとときをお過ごしください。</p>
                       <div className="mt-3 text-xs text-stone-300">
                         📍 鹿児島県指宿市湯の浜5-27-27
                       </div>
@@ -170,8 +170,8 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">指宿温泉　こらんの湯　錦江楼</h4>
-                      <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition">指宿温泉　こらんの湯　錦江楼</h4>
+                      <p className="text-xs text-stone-400 mt-1 leading-relaxed">
                         美肌の湯（美肌成分のメタケイ酸を豊富に含む泉質）と桜島を望める和モダン旅館。
                       </p>
                       <div className="mt-3 text-xs text-stone-300">
@@ -256,8 +256,8 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">指宿温泉　指宿ロイヤルホテル　～すべての女性へ美と健康を楽しむホテル～</h4>
-                      <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition">指宿温泉　指宿ロイヤルホテル　～すべての女性へ美と健康を楽しむホテル～</h4>
+                      <p className="text-xs text-stone-400 mt-1 leading-relaxed">
                         南九州鹿児島。薩摩半島最南端に位置するホテルからの海の眺めは最高！女性に喜ばれるホテルです
                       </p>
                       <div className="mt-3 text-xs text-stone-300">
@@ -300,8 +300,8 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">指宿砂むし温泉　指宿シーサイドホテル</h4>
-                      <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition">指宿砂むし温泉　指宿シーサイドホテル</h4>
+                      <p className="text-xs text-stone-400 mt-1 leading-relaxed">
                         錦江湾を目の前に望む海辺の絶好のロケーション！館内で名物砂むし温泉が楽しめる♪
                       </p>
                       <div className="mt-3 text-xs text-stone-300">
@@ -344,8 +344,8 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">ローズマリーホテル</h4>
-                      <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition">ローズマリーホテル</h4>
+                      <p className="text-xs text-stone-400 mt-1 leading-relaxed">
                         ハーブに囲まれた閑静な小さなお宿。手作りの家庭料理とアットホームなおもてなしでお出迎え。。
                       </p>
                       <div className="mt-3 text-xs text-stone-300">
@@ -388,8 +388,8 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">ＨＯＴＥＬ　ＡＺ　鹿児島喜入店</h4>
-                      <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition">ＨＯＴＥＬ　ＡＺ　鹿児島喜入店</h4>
+                      <p className="text-xs text-stone-400 mt-1 leading-relaxed">
                         全室禁煙、朝食無料、Wi-Fi無料、駐車場無料（大・中型車除く）ＪＲ指宿枕崎線　中名駅より徒歩５分。
                       </p>
                       <div className="mt-3 text-xs text-stone-300">
@@ -474,8 +474,8 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">指宿温泉　指宿ロイヤルホテル　～すべての女性へ美と健康を楽しむホテル～</h4>
-                      <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition">指宿温泉　指宿ロイヤルホテル　～すべての女性へ美と健康を楽しむホテル～</h4>
+                      <p className="text-xs text-stone-400 mt-1 leading-relaxed">
                         南九州鹿児島。薩摩半島最南端に位置するホテルからの海の眺めは最高！女性に喜ばれるホテルです
                       </p>
                       <div className="mt-3 text-xs text-stone-300">
@@ -518,8 +518,8 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">指宿温泉　指宿フェニックスホテル</h4>
-                      <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition">指宿温泉　指宿フェニックスホテル</h4>
+                      <p className="text-xs text-stone-400 mt-1 leading-relaxed">
                         ★全室オーシャンビュー★名物砂蒸し温泉に貸切風呂も♪鹿児島特産を使ったお料理を味わう♪全館禁煙
                       </p>
                       <div className="mt-3 text-xs text-stone-300">
@@ -562,8 +562,8 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">指宿砂むし温泉　指宿シーサイドホテル</h4>
-                      <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition">指宿砂むし温泉　指宿シーサイドホテル</h4>
+                      <p className="text-xs text-stone-400 mt-1 leading-relaxed">
                         錦江湾を目の前に望む海辺の絶好のロケーション！館内で名物砂むし温泉が楽しめる♪
                       </p>
                       <div className="mt-3 text-xs text-stone-300">
@@ -606,8 +606,8 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">指宿温泉　休暇村　指宿</h4>
-                      <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition">指宿温泉　休暇村　指宿</h4>
+                      <p className="text-xs text-stone-400 mt-1 leading-relaxed">
                         ～自然にときめくリゾート～砂むし温泉を愉しむ癒しの旅をどうぞ★
                       </p>
                       <div className="mt-3 text-xs text-stone-300">
@@ -735,19 +735,19 @@ export default function Page() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/furusato-tax-kirishima-autumn-leaves-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">国宝・霧島神宮の厳かな紅葉参道＆えびの高原大パノラマ！湯けむり霧島温泉宿×ふるさと納税厳選ガイド鹿児島</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">国宝・霧島神宮の厳かな紅葉参道＆えびの高原大パノラマ！湯けむり霧島温泉宿×ふるさと納税厳選ガイド鹿児島</span>
             </a>
             <a href="/furusato-tax-natural-mud-bath-mineral-detox-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">天然ミネラル泥パックで全身ツルツル美肌！極上泥湯温泉＆湯治名旅館×ふるさと納税厳選ガイド八幡平後生掛・霧島・別府鉄輪</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">天然ミネラル泥パックで全身ツルツル美肌！極上泥湯温泉＆湯治名旅館×ふるさと納税厳選ガイド八幡平後生掛・霧島・別府鉄輪</span>
             </a>
             <a href="/furusato-tax-sand-bath-sunamushi-detox-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">天然砂むし温泉＆海辺の名湯で極上デトックス！名門湯宿×ふるさと納税厳選ガイド指宿・別府</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">天然砂むし温泉＆海辺の名湯で極上デトックス！名門湯宿×ふるさと納税厳選ガイド指宿・別府</span>
             </a>
             <a href="/kagoshima-ibusuki-sand-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「鹿児島・指宿温泉」天然砂むし温泉＆開聞岳パノラマ・黒豚極上宿 厳選ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「鹿児島・指宿温泉」天然砂むし温泉＆開聞岳パノラマ・黒豚極上宿 厳選ガイド</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

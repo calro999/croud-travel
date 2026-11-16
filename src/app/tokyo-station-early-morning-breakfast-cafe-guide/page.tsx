@@ -430,16 +430,16 @@ export default function TokyoStationEarlyMorningBreakfastPage() {
                           )}
                         </div>
 
-                        <h3 className="text-base sm:text-lg font-bold text-white mb-2 line-clamp-2 leading-snug">{hotel.hotelName}</h3>
+                        <h3 className="text-base sm:text-lg font-bold text-white mb-2 leading-snug">{hotel.hotelName}</h3>
 
                         {hotel.hotelSpecial && (
-                          <p className="text-xs text-slate-300 line-clamp-3 mb-3 leading-relaxed">
+                          <p className="text-xs text-slate-300 mb-3 leading-relaxed">
                             {hotel.hotelSpecial}
                           </p>
                         )}
 
                         {hotel.access && (
-                          <p className="text-[11px] text-slate-400 line-clamp-2">
+                          <p className="text-[11px] text-slate-400">
                             🚌 {hotel.access}
                           </p>
                         )}
@@ -534,19 +534,19 @@ export default function TokyoStationEarlyMorningBreakfastPage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/tokyo-departure-daytrip-bus-tour-guide/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「東京・新宿発 日帰りバスツアーおすすめ2026」 季節のフルーツ狩り・絶景温泉・食べ放題 の最強プラン徹底比較</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「東京・新宿発 日帰りバスツアーおすすめ2026」 季節のフルーツ狩り・絶景温泉・食べ放題 の最強プラン徹底比較</span>
             </a>
             <a href="/tokyo-ginza-solo-retreat-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「銀座ひとり旅・大浴場おこもり」歌舞伎座・洗練モダン大浴殿・極上江戸前グルメ！大人の憧れ街で心満たされる厳選3宿</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「銀座ひとり旅・大浴場おこもり」歌舞伎座・洗練モダン大浴殿・極上江戸前グルメ！大人の憧れ街で心満たされる厳選3宿</span>
             </a>
             <a href="/tokyo-ueno-solo-business-sauna-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「上野出張・極上サウナステイ」新幹線直結・徒士の湯・アメ横グルメ！下町情緒と北の玄関口を極める厳選3宿</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「上野出張・極上サウナステイ」新幹線直結・徒士の湯・アメ横グルメ！下町情緒と北の玄関口を極める厳選3宿</span>
             </a>
             <a href="/winter-tokyo-marunouchi-illumination-luxury-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12月！丸の内シャンパンゴールド夜景】大手町・銀座の煌めきと極上クラブラウンジ宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">【11・12月！丸の内シャンパンゴールド夜景】大手町・銀座の煌めきと極上クラブラウンジ宿5選</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

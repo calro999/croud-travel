@@ -396,7 +396,7 @@ export default function OnogawaWinterPage() {
                       <Star className="w-3.5 h-3.5 fill-rose-400 text-rose-400" />
                       評価 {hotel.rating} // 5.0
                     </p>
-                    <p className="text-[11px] text-stone-300 line-clamp-1">{hotel.access}</p>
+                    <p className="text-[11px] text-stone-300">{hotel.access}</p>
                   </div>
                 </div>
 
@@ -648,7 +648,7 @@ export default function OnogawaWinterPage() {
             >
               <span className="text-[11px] font-bold text-cyan-800 bg-cyan-100/80 px-2 py-0.5 rounded">山形冬の絶景</span>
               <h3 className="font-bold text-stone-900 text-sm group-hover:text-cyan-900 transition-colors">蔵王樹氷スノーモンスターと蔵王強酸性温泉宿</h3>
-              <p className="text-xs text-stone-500 line-clamp-2">
+              <p className="text-xs text-stone-500">
                 世界的奇観「樹氷ライトアップ」と強酸性硫黄泉の極上雪見露天風呂。
               </p>
             </Link>
@@ -659,7 +659,7 @@ export default function OnogawaWinterPage() {
             >
               <span className="text-[11px] font-bold text-teal-800 bg-teal-100/80 px-2 py-0.5 rounded">東北豪雪名湯</span>
               <h3 className="font-bold text-stone-900 text-sm group-hover:text-teal-900 transition-colors">青森酸ヶ湯温泉の千人風呂と八甲田雪見宿</h3>
-              <p className="text-xs text-stone-500 line-clamp-2">
+              <p className="text-xs text-stone-500">
                 日本屈指の豪雪地帯！ヒバ千人風呂の白濁硫黄泉と津軽の滋味鍋。
               </p>
             </Link>
@@ -670,7 +670,7 @@ export default function OnogawaWinterPage() {
             >
               <span className="text-[11px] font-bold text-amber-800 bg-amber-100/80 px-2 py-0.5 rounded">東北スノーリゾート</span>
               <h3 className="font-bold text-stone-900 text-sm group-hover:text-amber-900 transition-colors">安比高原シルキースノーと白樺美肌温泉宿</h3>
-              <p className="text-xs text-stone-500 line-clamp-2">
+              <p className="text-xs text-stone-500">
                 東北屈指のロングゲレンデと白樺の湯、前沢牛ディナーリゾート。
               </p>
             </Link>

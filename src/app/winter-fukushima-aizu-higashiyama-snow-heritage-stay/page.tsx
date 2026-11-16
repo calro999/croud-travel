@@ -632,7 +632,7 @@ export default function HigashiyamaWinterPage() {
               className="bg-white p-4 rounded-2xl border border-stone-200/80 hover:border-red-700 hover:shadow-md transition group block"
             >
               <span className="text-[10px] font-extrabold text-red-800 uppercase block mb-1">山形の冬名湯</span>
-              <h3 className="text-sm font-bold text-stone-900 group-hover:text-red-800 transition line-clamp-2">【小野川温泉】雪見露天風呂と最高峰米沢牛すき焼き・小野小町ゆかりの名湯宿</h3>
+              <h3 className="text-sm font-bold text-stone-900 group-hover:text-red-800 transition">【小野川温泉】雪見露天風呂と最高峰米沢牛すき焼き・小野小町ゆかりの名湯宿</h3>
             </Link>
 
             <Link 
@@ -640,7 +640,7 @@ export default function HigashiyamaWinterPage() {
               className="bg-white p-4 rounded-2xl border border-stone-200/80 hover:border-red-700 hover:shadow-md transition group block"
             >
               <span className="text-[10px] font-extrabold text-red-800 uppercase block mb-1">東北の初雪</span>
-              <h3 className="text-sm font-bold text-stone-900 group-hover:text-red-800 transition line-clamp-2">【銀山温泉】白銀の木造建築に灯るガス灯と尾花沢牛会席・極上雪見宿</h3>
+              <h3 className="text-sm font-bold text-stone-900 group-hover:text-red-800 transition">【銀山温泉】白銀の木造建築に灯るガス灯と尾花沢牛会席・極上雪見宿</h3>
             </Link>
 
             <Link 
@@ -648,7 +648,7 @@ export default function HigashiyamaWinterPage() {
               className="bg-white p-4 rounded-2xl border border-stone-200/80 hover:border-red-700 hover:shadow-md transition group block"
             >
               <span className="text-[10px] font-extrabold text-red-800 uppercase block mb-1">秋田の秘湯雪見</span>
-              <h3 className="text-sm font-bold text-stone-900 group-hover:text-red-800 transition line-clamp-2">【乳頭温泉郷】ブナ原生林の雪見露天風呂と本場比内地鶏きりたんぽ鍋の宿</h3>
+              <h3 className="text-sm font-bold text-stone-900 group-hover:text-red-800 transition">【乳頭温泉郷】ブナ原生林の雪見露天風呂と本場比内地鶏きりたんぽ鍋の宿</h3>
             </Link>
 
             <Link 
@@ -656,7 +656,7 @@ export default function HigashiyamaWinterPage() {
               className="bg-white p-4 rounded-2xl border border-stone-200/80 hover:border-red-700 hover:shadow-md transition group block"
             >
               <span className="text-[10px] font-extrabold text-red-800 uppercase block mb-1">北関東の雪見</span>
-              <h3 className="text-sm font-bold text-stone-900 group-hover:text-red-800 transition line-clamp-2">【奥日光湯元温泉】乳白色のにごり湯と白銀の静寂・雪見露天宿</h3>
+              <h3 className="text-sm font-bold text-stone-900 group-hover:text-red-800 transition">【奥日光湯元温泉】乳白色のにごり湯と白銀の静寂・雪見露天宿</h3>
             </Link>
 
             <Link 
@@ -664,7 +664,7 @@ export default function HigashiyamaWinterPage() {
               className="bg-white p-4 rounded-2xl border border-stone-200/80 hover:border-red-700 hover:shadow-md transition group block"
             >
               <span className="text-[10px] font-extrabold text-red-800 uppercase block mb-1">山形の樹氷絶景</span>
-              <h3 className="text-sm font-bold text-stone-900 group-hover:text-red-800 transition line-clamp-2">【蔵王温泉】スノーモンスター樹氷ライトアップと強酸性硫黄泉の老舗宿</h3>
+              <h3 className="text-sm font-bold text-stone-900 group-hover:text-red-800 transition">【蔵王温泉】スノーモンスター樹氷ライトアップと強酸性硫黄泉の老舗宿</h3>
             </Link>
 
             <Link 
@@ -672,7 +672,7 @@ export default function HigashiyamaWinterPage() {
               className="bg-white p-4 rounded-2xl border border-stone-200/80 hover:border-red-700 hover:shadow-md transition group block"
             >
               <span className="text-[10px] font-extrabold text-red-800 uppercase block mb-1">上州の名湯</span>
-              <h3 className="text-sm font-bold text-stone-900 group-hover:text-red-800 transition line-clamp-2">【伊香保温泉】365段の石段街と黄金の湯・上州牛会席を味わう名旅館</h3>
+              <h3 className="text-sm font-bold text-stone-900 group-hover:text-red-800 transition">【伊香保温泉】365段の石段街と黄金の湯・上州牛会席を味わう名旅館</h3>
             </Link>
           
       <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">

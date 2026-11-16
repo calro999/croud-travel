@@ -213,8 +213,8 @@ export default function OsakaTravelBudgetPage() {
                       ⭐ {hotel.reviewAverage} ({hotel.reviewCount}件)
                     </div>
                   )}
-                  <h3 className="text-sm font-black text-emerald-950 line-clamp-2 leading-tight">{hotel.hotelName}</h3>
-                  <p className="text-xs text-stone-600 line-clamp-2 mt-auto">
+                  <h3 className="text-sm font-black text-emerald-950 leading-tight">{hotel.hotelName}</h3>
+                  <p className="text-xs text-stone-600 mt-auto">
                     {hotel.hotelSpecial || "大阪の観光拠点に便利なホテルです。"}
                   </p>
                   <a

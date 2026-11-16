@@ -362,19 +362,19 @@ export default function FeatureArticlePage() {
             <ul className="space-y-4 text-xs md:text-sm">
               <li>
                 <a href={HOTEL_DATA.hakkoda_jogakura.url} target="_blank" rel="sponsored noopener noreferrer" className="block p-3 rounded-xl hover:bg-stone-50 transition border border-stone-100 hover:border-amber-200">
-                  <div className="font-bold text-stone-800 line-clamp-1">{HOTEL_DATA.hakkoda_jogakura.name}</div>
+                  <div className="font-bold text-stone-800">{HOTEL_DATA.hakkoda_jogakura.name}</div>
                   <div className="text-stone-500 text-xs mt-1">★ {HOTEL_DATA.hakkoda_jogakura.rating} | 楽天トラベルで詳細確認</div>
                 </a>
               </li>
               <li>
                 <a href={HOTEL_DATA.hakkoda_sukayu.url} target="_blank" rel="sponsored noopener noreferrer" className="block p-3 rounded-xl hover:bg-stone-50 transition border border-stone-100 hover:border-amber-200">
-                  <div className="font-bold text-stone-800 line-clamp-1">{HOTEL_DATA.hakkoda_sukayu.name}</div>
+                  <div className="font-bold text-stone-800">{HOTEL_DATA.hakkoda_sukayu.name}</div>
                   <div className="text-stone-500 text-xs mt-1">★ {HOTEL_DATA.hakkoda_sukayu.rating} | 楽天トラベルで詳細確認</div>
                 </a>
               </li>
               <li>
                 <a href={HOTEL_DATA.hakkoda_tsuta.url} target="_blank" rel="sponsored noopener noreferrer" className="block p-3 rounded-xl hover:bg-stone-50 transition border border-stone-100 hover:border-amber-200">
-                  <div className="font-bold text-stone-800 line-clamp-1">{HOTEL_DATA.hakkoda_tsuta.name}</div>
+                  <div className="font-bold text-stone-800">{HOTEL_DATA.hakkoda_tsuta.name}</div>
                   <div className="text-stone-500 text-xs mt-1">★ {HOTEL_DATA.hakkoda_tsuta.rating} | 楽天トラベルで詳細確認</div>
                 </a>
               </li>
@@ -491,19 +491,19 @@ export default function FeatureArticlePage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/winter-aomori-hachinohe-kabushima-ginsaba-senbeijiru-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12・1月青森】八戸前沖銀鯖と本場せんべい汁・八食センター七輪村買い出し＆蕪島神社初詣・太平洋一望の八戸名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">【11・12・1月青森】八戸前沖銀鯖と本場せんべい汁・八食センター七輪村買い出し＆蕪島神社初詣・太平洋一望の八戸名宿5選</span>
             </a>
             <a href="/aomori-hirosaki-castle-cherry-apple-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【青森・弘前】弘前城桜・津軽りんご＆三味線宿 完全ガイド ｜ 日本全国・旅宿クラウド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">【青森・弘前】弘前城桜・津軽りんご＆三味線宿 完全ガイド ｜ 日本全国・旅宿クラウド</span>
             </a>
             <a href="/autumn-budget-aomori-hachinohe-tanesashi-senbeijiru-hotels-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">八戸：種差海岸の秋風散策と八戸せんべい汁！2,000円台〜泊まれる格安ホテル5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">八戸：種差海岸の秋風散策と八戸せんべい汁！2,000円台〜泊まれる格安ホテル5選</span>
             </a>
             <a href="/furusato-tax-oirase-towada-autumn-leaves-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">奥入瀬渓流の黄金紅葉トンネル＆十和田湖畔温泉！十和田荘・賑山亭・プリンスホテル×ふるさと納税厳選ガイド青森・秋田</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">奥入瀬渓流の黄金紅葉トンネル＆十和田湖畔温泉！十和田荘・賑山亭・プリンスホテル×ふるさと納税厳選ガイド青森・秋田</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

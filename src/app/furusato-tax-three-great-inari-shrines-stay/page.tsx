@@ -285,7 +285,7 @@ export default function Page() {
                         </div>
                       </div>
 
-                      <p className="text-xs md:text-sm text-slate-600 line-clamp-3 leading-relaxed">
+                      <p className="text-xs md:text-sm text-slate-600 leading-relaxed">
                         {h.hotelSpecial || '日本三大急潮のうず潮絶景、日本三大車窓の天空パノラマ、日本三大稲荷の商売繁盛祈願、日本三大美林の森林浴アロマを巡る極上の拠点。四季折々の美食と名湯でお寛ぎください。'}
                       </p>
 
@@ -384,7 +384,7 @@ export default function Page() {
           <div className="grid md:grid-cols-3 gap-4">
             
             <Link href="/furusato-tax-three-sacred-hachiman-shrines-stay/" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
-              <div className="font-bold text-sm text-slate-800 group-hover:text-emerald-700 transition line-clamp-2">
+              <div className="font-bold text-sm text-slate-800 group-hover:text-emerald-700 transition">
                 日本三大八幡宮＆開運厄除け宿×ふるさと納税完全ガイド
               </div>
               <p className="text-xs text-slate-500 mt-2">
@@ -393,7 +393,7 @@ export default function Page() {
             </Link>
             
             <Link href="/furusato-tax-three-great-bihada-onsen-stay/" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
-              <div className="font-bold text-sm text-slate-800 group-hover:text-emerald-700 transition line-clamp-2">
+              <div className="font-bold text-sm text-slate-800 group-hover:text-emerald-700 transition">
                 日本三大美肌の湯＆とろとろ美肌温泉宿×ふるさと納税完全ガイド
               </div>
               <p className="text-xs text-slate-500 mt-2">
@@ -402,7 +402,7 @@ export default function Page() {
             </Link>
             
             <Link href="/furusato-tax-three-great-unusual-bridges-stay/" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
-              <div className="font-bold text-sm text-slate-800 group-hover:text-emerald-700 transition line-clamp-2">
+              <div className="font-bold text-sm text-slate-800 group-hover:text-emerald-700 transition">
                 日本三大奇橋＆渓谷美・歴史ロマンの名宿×ふるさと納税完全ガイド
               </div>
               <p className="text-xs text-slate-500 mt-2">
@@ -490,19 +490,19 @@ export default function Page() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/kofu-solo-business-takeda-wine-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「甲府出張・信玄公の城下町」天然温泉甲斐路の湯・甲府城天守台・甲州ワイン＆名物ほうとう！武田の杜でととのう厳選3宿</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「甲府出張・信玄公の城下町」天然温泉甲斐路の湯・甲府城天守台・甲州ワイン＆名物ほうとう！武田の杜でととのう厳選3宿</span>
             </a>
             <a href="/kumamoto-solo-business-skyspa-gourmet-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「熊本出張＆城下町ひとり旅」最上階展望スカイスパ・天然温泉・熊本城ビュー！名物馬刺しを満喫する極上宿 厳選3選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「熊本出張＆城下町ひとり旅」最上階展望スカイスパ・天然温泉・熊本城ビュー！名物馬刺しを満喫する極上宿 厳選3選</span>
             </a>
             <a href="/kyoto-amanohashidate-ine-funaya-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「京都・天橋立＆伊根・丹後半島」天橋立股のぞき・伊根の舟屋群＆幻の間人ガニ宿 厳選ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「京都・天橋立＆伊根・丹後半島」天橋立股のぞき・伊根の舟屋群＆幻の間人ガニ宿 厳選ガイド</span>
             </a>
             <a href="/kyoto-couple-luxury-ryokan-guide/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「京都カップル旅行 おすすめ高級旅館＆町家ホテル」 祇園・嵐山で二人きりの特別な夜を過ごす大人の宿</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「京都カップル旅行 おすすめ高級旅館＆町家ホテル」 祇園・嵐山で二人きりの特別な夜を過ごす大人の宿</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

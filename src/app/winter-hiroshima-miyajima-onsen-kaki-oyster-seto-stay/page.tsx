@@ -572,7 +572,7 @@ export default function HiroshimaMiyajimaWinterFeature() {
             >
               <span className="px-2 py-0.5 rounded bg-amber-500/40 text-amber-200 font-bold text-[10px]">下関・本場とらふぐ</span>
               <h3 className="font-bold text-white text-sm">川棚温泉・下関本場とらふぐフルコースと瓦そばの宿</h3>
-              <p className="text-slate-300 text-[11px] line-clamp-2">本場下関のとらふぐ会席と名物瓦そばを味わう山陰の名湯。</p>
+              <p className="text-slate-300 text-[11px]">本場下関のとらふぐ会席と名物瓦そばを味わう山陰の名湯。</p>
             </Link>
 
             <Link 
@@ -581,7 +581,7 @@ export default function HiroshimaMiyajimaWinterFeature() {
             >
               <span className="px-2 py-0.5 rounded bg-rose-500/40 text-rose-200 font-bold text-[10px]">道後・日本最古の湯</span>
               <h3 className="font-bold text-white text-sm">道後温泉・本館保存修理完了と宇和島鯛めし・伊予牛の宿</h3>
-              <p className="text-slate-300 text-[11px] line-clamp-2">夏目漱石ゆかりの坊っちゃん湯と冬の瀬戸内真鯛づくし。</p>
+              <p className="text-slate-300 text-[11px]">夏目漱石ゆかりの坊っちゃん湯と冬の瀬戸内真鯛づくし。</p>
             </Link>
 
             <Link 
@@ -590,7 +590,7 @@ export default function HiroshimaMiyajimaWinterFeature() {
             >
               <span className="px-2 py-0.5 rounded bg-emerald-500/40 text-emerald-200 font-bold text-[10px]">赤穂・坂越かき</span>
               <h3 className="font-bold text-white text-sm">赤穂温泉・坂越牡蠣と瀬戸内インフィニティ絶景露天の宿</h3>
-              <p className="text-slate-300 text-[11px] line-clamp-2">名水が注ぐ坂越湾で育つ甘み豊かな牡蠣と海と一体化する露天。</p>
+              <p className="text-slate-300 text-[11px]">名水が注ぐ坂越湾で育つ甘み豊かな牡蠣と海と一体化する露天。</p>
             </Link>
 
             <Link 
@@ -599,7 +599,7 @@ export default function HiroshimaMiyajimaWinterFeature() {
             >
               <span className="px-2 py-0.5 rounded bg-sky-500/40 text-sky-200 font-bold text-[10px]">鳴門・冬の渦潮＆鳴門鯛</span>
               <h3 className="font-bold text-white text-sm">鳴門温泉・冬の鳴門海峡絶景と鳴門鯛・阿波尾鶏の宿</h3>
-              <p className="text-slate-300 text-[11px] line-clamp-2">渦潮が巻く鳴門海峡のパノラマ露天と脂の乗った寒鯛会席。</p>
+              <p className="text-slate-300 text-[11px]">渦潮が巻く鳴門海峡のパノラマ露天と脂の乗った寒鯛会席。</p>
             </Link>
           
       <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">

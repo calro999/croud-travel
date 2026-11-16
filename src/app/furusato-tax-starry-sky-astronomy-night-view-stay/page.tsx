@@ -478,19 +478,19 @@ export default function FurusatoStarrySkyAstronomyStayPage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/nagano-karuizawa-kyu-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">長野・旧軽井沢＆中軽井沢：雲場池・ハルニレテラス＆高原リゾート宿 厳選ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">長野・旧軽井沢＆中軽井沢：雲場池・ハルニレテラス＆高原リゾート宿 厳選ガイド</span>
             </a>
             <a href="/nagano-shibu-solo-retreat-retro-kyutou-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">信州・渋温泉ひとり旅・石畳小路と九湯巡りおこもり：厄除巡浴外湯めぐり・登録有形文化財の街並み・信州牛朴葉味噌！レトロ温泉街厳選3宿</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">信州・渋温泉ひとり旅・石畳小路と九湯巡りおこもり：厄除巡浴外湯めぐり・登録有形文化財の街並み・信州牛朴葉味噌！レトロ温泉街厳選3宿</span>
             </a>
             <a href="/nagano-yudanaka-solo-retreat-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">信州湯田中温泉ひとり旅・開湯千三百年おこもり：長命長寿の霊泉・スノーモンキー拠点・信州郷土会席！志賀高原の麓で静寂にととのう厳選3宿</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">信州湯田中温泉ひとり旅・開湯千三百年おこもり：長命長寿の霊泉・スノーモンキー拠点・信州郷土会席！志賀高原の麓で静寂にととのう厳選3宿</span>
             </a>
             <a href="/winter-nagano-bessho-onsen-shinshu-beef-heritage-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12月長野・信州 別所温泉の古湯情緒と北向観音初冬参拝】極上信州プレミアム牛＆名湯掛け流し硫黄泉で寛ぐ老舗旅館5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">【11・12月長野・信州 別所温泉の古湯情緒と北向観音初冬参拝】極上信州プレミアム牛＆名湯掛け流し硫黄泉で寛ぐ老舗旅館5選</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

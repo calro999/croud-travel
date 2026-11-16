@@ -398,12 +398,12 @@ export default function KyotoSubwayBusPassPage() {
                   )}
 
                   <div className="p-5">
-                    <h3 className="font-bold text-slate-900 text-lg group-hover:text-teal-700 transition-colors line-clamp-2">{hotel.hotelName}</h3>
-                    <p className="text-xs text-slate-500 mt-1 line-clamp-2">
+                    <h3 className="font-bold text-slate-900 text-lg group-hover:text-teal-700 transition-colors">{hotel.hotelName}</h3>
+                    <p className="text-xs text-slate-500 mt-1">
                       {hotel.access}
                     </p>
                     {hotel.hotelSpecial && (
-                      <p className="text-xs text-teal-800 bg-teal-50 p-2.5 rounded-lg mt-3 line-clamp-2 font-medium">
+                      <p className="text-xs text-teal-800 bg-teal-50 p-2.5 rounded-lg mt-3 font-medium">
                         {hotel.hotelSpecial}
                       </p>
                     )}
@@ -500,19 +500,19 @@ export default function KyotoSubwayBusPassPage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/winter-oita-hita-onsen-mamedamachi-river-mist-hita-yakisoba-oita-wagyu-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【水郷日田の初冬川霧と天領小京都・豆田町の白壁通り散策】2026-2027年11-12月初冬の大分・日田温泉！三隈川の川霧を望む屋形船情緒と名物日田焼きそば・おおいた和牛と美肌の名</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">【水郷日田の初冬川霧と天領小京都・豆田町の白壁通り散策】2026-2027年11-12月初冬の大分・日田温泉！三隈川の川霧を望む屋形船情緒と名物日田焼きそば・おおいた和牛と美肌の名</span>
             </a>
             <a href="/amanohashidate-maizuru-solo-retreat-ocean-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「天橋立・舞鶴ひとり旅」日本三景パノラマ・茶褐色天橋立温泉・若狭湾の海の幸！海の京都でととのう厳選3宿</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「天橋立・舞鶴ひとり旅」日本三景パノラマ・茶褐色天橋立温泉・若狭湾の海の幸！海の京都でととのう厳選3宿</span>
             </a>
             <a href="/furusato-tax-amanohashidate-autumn-leaves-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">日本三景・天橋立の松並木紅葉＆西国札所成相寺！天橋立温泉名宿×ふるさと納税厳選ガイド京都</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">日本三景・天橋立の松並木紅葉＆西国札所成相寺！天橋立温泉名宿×ふるさと納税厳選ガイド京都</span>
             </a>
             <a href="/furusato-tax-kifune-kurama-autumn-leaves-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">京都・貴船神社のもみじ灯篭ライトアップ＆叡山電車もみじトンネル！貴船料理旅館×ふるさと納税厳選ガイド京都</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">京都・貴船神社のもみじ灯篭ライトアップ＆叡山電車もみじトンネル！貴船料理旅館×ふるさと納税厳選ガイド京都</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

@@ -325,7 +325,7 @@ export default function KanazawaTripPackingRegretsWorst5Page() {
                         <p className="text-xs text-stone-500 mb-2">
                           {hotel.address1} {hotel.address2}
                         </p>
-                        <p className="text-xs text-stone-600 leading-relaxed line-clamp-3 mb-3">
+                        <p className="text-xs text-stone-600 leading-relaxed mb-3">
                           {hotel.hotelSpecial || "金沢駅や主要観光名所へのフットワークが抜群の快適ホテル。"}
                         </p>
                         {hotel.access && (
@@ -429,19 +429,19 @@ export default function KanazawaTripPackingRegretsWorst5Page() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/ishikawa-wakura-solo-retreat-ocean-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「能登・和倉温泉ひとり旅・七尾湾オーシャンフロントおこもり」開湯1200年塩化物泉・能登前寿司＆能登牛・復興応援ステイ！海の温泉郷厳選3宿</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「能登・和倉温泉ひとり旅・七尾湾オーシャンフロントおこもり」開湯1200年塩化物泉・能登前寿司＆能登牛・復興応援ステイ！海の温泉郷厳選3宿</span>
             </a>
             <a href="/kanazawa/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「金沢旅行 完全計画ガイド」 モデルコース・観光スポット・海鮮グルメ・宿選びから予約まで</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「金沢旅行 完全計画ガイド」 モデルコース・観光スポット・海鮮グルメ・宿選びから予約まで</span>
             </a>
             <a href="/kanazawa-solo-retreat-onsen-gourmet-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「金沢ひとり旅・美食おこもり」近江町市場徒歩すぐ・最上階天然温泉・のどぐろ会席！加賀百万石の極上ステイ 厳選3選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「金沢ひとり旅・美食おこもり」近江町市場徒歩すぐ・最上階天然温泉・のどぐろ会席！加賀百万石の極上ステイ 厳選3選</span>
             </a>
             <a href="/noto/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「能登旅行 完全計画ガイド」 モデルコース・和倉温泉・白米千枚田・能登丼・宿選びから予約まで</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「能登旅行 完全計画ガイド」 モデルコース・和倉温泉・白米千枚田・能登丼・宿選びから予約まで</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

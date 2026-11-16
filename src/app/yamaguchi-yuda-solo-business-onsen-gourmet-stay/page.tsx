@@ -424,19 +424,19 @@ export default function ArticlePage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/winter-tochigi-okunikko-kegon-falls-ice-yumoto-snow-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「奥日光華厳の滝ブルーアイス氷瀑と乳白色硫黄泉」2026-2027年冬の日光湯元温泉！雪見露天ととちぎ和牛名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「奥日光華厳の滝ブルーアイス氷瀑と乳白色硫黄泉」2026-2027年冬の日光湯元温泉！雪見露天ととちぎ和牛名宿5選</span>
             </a>
             <a href="/winter-yamaguchi-hofu-tenmangu-hatsumode-shunan-fugu-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">山口・防府＆周南・下松 日本最初の天神「防府天満宮」新春初詣と 延縄発祥の地・周南徳山の「冬とらふぐ・笠戸ひらめ」名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">山口・防府＆周南・下松 日本最初の天神「防府天満宮」新春初詣と 延縄発祥の地・周南徳山の「冬とらふぐ・笠戸ひらめ」名宿5選</span>
             </a>
             <a href="/winter-yamaguchi-nagato-yumoto-onsen-fugu-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12月長門湯本温泉の冬情緒と名湯】 音信川の冬灯りと開湯600年美肌泉・本場下関直送本とらふぐ＆山口県産和牛の宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">【11・12月長門湯本温泉の冬情緒と名湯】 音信川の冬灯りと開湯600年美肌泉・本場下関直送本とらふぐ＆山口県産和牛の宿5選</span>
             </a>
             <a href="/yamaguchi-akiyoshidai-karst-cave-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「山口・秋吉台＆美祢・長門萩」秋芳洞地底探検・カルスト台地＆長門湯本温泉宿 厳選ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「山口・秋吉台＆美祢・長門萩」秋芳洞地底探検・カルスト台地＆長門湯本温泉宿 厳選ガイド</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

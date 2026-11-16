@@ -285,7 +285,7 @@ export default function Page() {
                         </div>
                       </div>
 
-                      <p className="text-xs md:text-sm text-slate-600 line-clamp-3 leading-relaxed">
+                      <p className="text-xs md:text-sm text-slate-600 leading-relaxed">
                         {h.hotelSpecial || '日本三大美肌の湯のとろとろ泉質、大自然の原生林に抱かれた秘湯の一軒宿、エメラルドグリーンに輝く渓谷美、轟音とともに飛沫をあげる日本三大名瀑を巡る極上の拠点。四季折々の美食と名湯でお寛ぎください。'}
                       </p>
 
@@ -384,7 +384,7 @@ export default function Page() {
           <div className="grid md:grid-cols-3 gap-4">
             
             <Link href="/furusato-tax-three-great-medicinal-springs-healing-stay/" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
-              <div className="font-bold text-sm text-slate-800 group-hover:text-emerald-700 transition line-clamp-2">
+              <div className="font-bold text-sm text-slate-800 group-hover:text-emerald-700 transition">
                 日本三大薬湯＆湯治デトックス宿×ふるさと納税完全ガイド
               </div>
               <p className="text-xs text-slate-500 mt-2">
@@ -393,7 +393,7 @@ export default function Page() {
             </Link>
             
             <Link href="/furusato-tax-three-great-hotsprings-luxury-villas-stay/" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
-              <div className="font-bold text-sm text-slate-800 group-hover:text-emerald-700 transition line-clamp-2">
+              <div className="font-bold text-sm text-slate-800 group-hover:text-emerald-700 transition">
                 日本三大名湯＆極上温泉宿×ふるさと納税完全ガイド
               </div>
               <p className="text-xs text-slate-500 mt-2">
@@ -402,7 +402,7 @@ export default function Page() {
             </Link>
             
             <Link href="/furusato-tax-three-great-bihada-onsen-stay/" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
-              <div className="font-bold text-sm text-slate-800 group-hover:text-emerald-700 transition line-clamp-2">
+              <div className="font-bold text-sm text-slate-800 group-hover:text-emerald-700 transition">
                 日本三大美肌の湯＆とろとろ美肌温泉宿×ふるさと納税完全ガイド
               </div>
               <p className="text-xs text-slate-500 mt-2">
@@ -490,19 +490,19 @@ export default function Page() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/autumn-budget-hokkaido-kushiro-station-sunset-robata-hotels-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">釧路駅前：世界三大夕日・幣舞橋＆名物炉端焼き・秋刀魚！4,000円台〜泊まれる格安ホテル5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">釧路駅前：世界三大夕日・幣舞橋＆名物炉端焼き・秋刀魚！4,000円台〜泊まれる格安ホテル5選</span>
             </a>
             <a href="/autumn-budget-hokkaido-sapporo-gourmet-large-bath-hotels-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">秋の札幌×格安：紅葉散策とすすきのグルメ！大浴場付き1泊3,000円台〜のコスパ最強おすすめホテル5選「2026最新」</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">秋の札幌×格安：紅葉散策とすすきのグルメ！大浴場付き1泊3,000円台〜のコスパ最強おすすめホテル5選「2026最新」</span>
             </a>
             <a href="/furusato-tax-kawayu-akan-mashu-autumn-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">阿寒摩周の秋霧と屈斜路湖の紅葉！川湯温泉の強酸性硫黄泉・秋サケ・イクラ＆北海道和牛を味わう道東旅</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">阿寒摩周の秋霧と屈斜路湖の紅葉！川湯温泉の強酸性硫黄泉・秋サケ・イクラ＆北海道和牛を味わう道東旅</span>
             </a>
             <a href="/hokkaido-family-trip-zoo-nature-guide/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">子連れ北海道旅行 2泊3日モデルコース：旭山動物園＆美瑛富良野ドライブ！子供が喜ぶ体験型ホテルガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">子連れ北海道旅行 2泊3日モデルコース：旭山動物園＆美瑛富良野ドライブ！子供が喜ぶ体験型ホテルガイド</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

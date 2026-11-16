@@ -357,7 +357,7 @@ export default function IkahoAutumnLeavesGuidePage() {
                         </p>
                       )}
                       {hotel.access && (
-                        <p className="line-clamp-2">
+                        <p className="">
                           <span>🚗 </span>{hotel.access}
                         </p>
                       )}
@@ -475,19 +475,19 @@ export default function IkahoAutumnLeavesGuidePage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/furusato-tax-kusatsu-onsen-yubatake-heritage-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">草津温泉をふるさと納税でお得に旅する！湯畑徒歩圏内の老舗名宿特集！源泉かけ流しと名湯巡り厳選ガイド｜望雲・ホテル一井・奈良屋</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">草津温泉をふるさと納税でお得に旅する！湯畑徒歩圏内の老舗名宿特集！源泉かけ流しと名湯巡り厳選ガイド｜望雲・ホテル一井・奈良屋</span>
             </a>
             <a href="/furusato-tax-manza-onsen-milky-sulfur-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">万座温泉をふるさと納税でお得に旅する！日本一の高濃度硫黄泉！標高1800mの雲上露天風呂＆満天星空ステイガイド｜万座プリンスホテル・万座高原ホテル・日進舘</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">万座温泉をふるさと納税でお得に旅する！日本一の高濃度硫黄泉！標高1800mの雲上露天風呂＆満天星空ステイガイド｜万座プリンスホテル・万座高原ホテル・日進舘</span>
             </a>
             <a href="/furusato-tax-minakami-tanigawadake-autumn-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">谷川岳一ノ倉沢の岩壁紅葉と利根川渓谷美＆みなかみ温泉郷の源泉湯宿・上州牛会席｜ふるさと納税で泊まれる名宿ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">谷川岳一ノ倉沢の岩壁紅葉と利根川渓谷美＆みなかみ温泉郷の源泉湯宿・上州牛会席｜ふるさと納税で泊まれる名宿ガイド</span>
             </a>
             <a href="/gunma-ikaho-solo-retreat-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「伊香保温泉ひとり旅・石段街おこもり」黄金の湯・白銀の湯・屋上絶景露天！レトロな石段街で情緒と癒やしを味わう厳選3宿</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「伊香保温泉ひとり旅・石段街おこもり」黄金の湯・白銀の湯・屋上絶景露天！レトロな石段街で情緒と癒やしを味わう厳選3宿</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

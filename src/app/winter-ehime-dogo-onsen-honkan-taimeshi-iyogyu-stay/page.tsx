@@ -560,8 +560,8 @@ export default function WinterEhimeDogoOnsenPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-orange-300 bg-orange-400/20 px-2 py-0.5 rounded-full inline-block">香川・琴平</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-orange-200 transition line-clamp-2">こんぴら温泉郷の石段参拝とオリーブ牛会席</h4>
-              <p className="text-[11px] text-stone-200 line-clamp-2">
+              <h4 className="text-xs font-bold text-white group-hover:text-orange-200 transition">こんぴら温泉郷の石段参拝とオリーブ牛会席</h4>
+              <p className="text-[11px] text-stone-200">
                 金刀比羅宮の初冬参拝と讃岐の美肌温泉、香川県産オリーブ牛を味わう旅。
               </p>
             </Link>
@@ -571,8 +571,8 @@ export default function WinterEhimeDogoOnsenPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-orange-300 bg-orange-400/20 px-2 py-0.5 rounded-full inline-block">徳島・鳴門</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-orange-200 transition line-clamp-2">鳴門温泉の渦潮絶景露天と鳴門鯛・阿波牛</h4>
-              <p className="text-[11px] text-stone-200 line-clamp-2">
+              <h4 className="text-xs font-bold text-white group-hover:text-orange-200 transition">鳴門温泉の渦潮絶景露天と鳴門鯛・阿波牛</h4>
+              <p className="text-[11px] text-stone-200">
                 大鳴門橋と鳴門海峡を望むオーシャンビュー温泉と名物鳴門鯛のフルコース。
               </p>
             </Link>
@@ -582,8 +582,8 @@ export default function WinterEhimeDogoOnsenPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-orange-300 bg-orange-400/20 px-2 py-0.5 rounded-full inline-block">高知・あしずり温泉</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-orange-200 transition line-clamp-2">足摺岬の太平洋パノラマ絶景と戻り鰹・土佐あかうし</h4>
-              <p className="text-[11px] text-stone-200 line-clamp-2">
+              <h4 className="text-xs font-bold text-white group-hover:text-orange-200 transition">足摺岬の太平洋パノラマ絶景と戻り鰹・土佐あかうし</h4>
+              <p className="text-[11px] text-stone-200">
                 四国最南端の暖かな冬リゾートと黒潮の絶景露天、極上の土佐グルメ。
               </p>
             </Link>

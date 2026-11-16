@@ -510,19 +510,19 @@ export default function FurusatoTakachihoAutumnLeavesGorgeStayPage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/miyazaki-takachiho-gorge-myth-power-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「宮崎・高千穂峡＆天岩戸神社」真名井の滝貸ボート・八百万の神天安河原＆高千穂牛宿 厳選ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「宮崎・高千穂峡＆天岩戸神社」真名井の滝貸ボート・八百万の神天安河原＆高千穂牛宿 厳選ガイド</span>
             </a>
             <a href="/spring-miyazaki-mango-parfait-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「とろける黄金の果肉・太陽のタマゴ（宮崎完熟マンゴースイーツ＆青島オーシャン宿5選）」とろける黄金の果肉・太陽のタマゴ！宮崎完熟マンゴースイーツ＆青島オーシャン宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「とろける黄金の果肉・太陽のタマゴ（宮崎完熟マンゴースイーツ＆青島オーシャン宿5選）」とろける黄金の果肉・太陽のタマゴ！宮崎完熟マンゴースイーツ＆青島オーシャン宿5選</span>
             </a>
             <a href="/winter-miyazaki-hyuga-umagase-sea-cross-iseebi-miyazakigyu-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">日向岬「馬ヶ背」断崖絶壁と「クルスの海」新春祈願！ 冬旬「日向灘伊勢海老」＆宮崎牛・延岡名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">日向岬「馬ヶ背」断崖絶壁と「クルスの海」新春祈願！ 冬旬「日向灘伊勢海老」＆宮崎牛・延岡名宿5選</span>
             </a>
             <a href="/winter-miyazaki-nichinan-udo-shrine-hatsumode-iseebi-wagyu-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">冬の鵜戸神宮新春開運初詣＆日南海岸絶景ドライブ！ 名物伊勢海老・極上宮崎牛と日南温泉名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">冬の鵜戸神宮新春開運初詣＆日南海岸絶景ドライブ！ 名物伊勢海老・極上宮崎牛と日南温泉名宿5選</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

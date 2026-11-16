@@ -128,8 +128,8 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">裏磐梯レイクリゾート　迎賓館　猫魔離宮（旧：裏磐梯猫魔ホテル）</h4>
-                      <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition">裏磐梯レイクリゾート　迎賓館　猫魔離宮（旧：裏磐梯猫魔ホテル）</h4>
+                      <p className="text-xs text-stone-400 mt-1 leading-relaxed">
                         気取らない贅沢、心やわらぐ宮殿リゾートで非日常体験を。宿泊者専用温泉を完備。
                       </p>
                       <div className="mt-3 text-xs text-stone-300">
@@ -172,8 +172,8 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">裏磐梯レイクリゾート　本館　五色の森（旧：裏磐梯猫魔ホテル）</h4>
-                      <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition">裏磐梯レイクリゾート　本館　五色の森（旧：裏磐梯猫魔ホテル）</h4>
+                      <p className="text-xs text-stone-400 mt-1 leading-relaxed">
                         五色沼まで徒歩3分。エリア唯一の自噴式源泉かけ流しとライブキッチン＆会津野菜の50種バイキングを満喫
                       </p>
                       <div className="mt-3 text-xs text-stone-300">
@@ -216,8 +216,8 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">サイズリゾートホテル裏磐梯</h4>
-                      <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition">サイズリゾートホテル裏磐梯</h4>
+                      <p className="text-xs text-stone-400 mt-1 leading-relaxed">
                         みずみずしい自然にあふれた裏磐梯。五色沼まで徒歩5分♪
                       </p>
                       <div className="mt-3 text-xs text-stone-300">
@@ -260,8 +260,8 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">メルキュール裏磐梯リゾート＆スパ</h4>
-                      <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition">メルキュール裏磐梯リゾート＆スパ</h4>
+                      <p className="text-xs text-stone-400 mt-1 leading-relaxed">
                         4月1日よりディナービュッフェがリニューアル♪
                       </p>
                       <div className="mt-3 text-xs text-stone-300">
@@ -346,8 +346,8 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">磐梯熱海温泉　萩姫の湯　栄楽館</h4>
-                      <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition">磐梯熱海温泉　萩姫の湯　栄楽館</h4>
+                      <p className="text-xs text-stone-400 mt-1 leading-relaxed">
                         最上級の泉質　アルカリ性単純泉の自家源泉と市営泉の湯量豊富なブレンド天然温泉でお肌もつるつる
                       </p>
                       <div className="mt-3 text-xs text-stone-300">
@@ -390,8 +390,8 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">白布温泉　東屋（ひがしや）</h4>
-                      <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition">白布温泉　東屋（ひがしや）</h4>
+                      <p className="text-xs text-stone-400 mt-1 leading-relaxed">
                         開湯700年湧き続ける温泉の歴史を 変わらぬおもてなしの心で未来へ伝える宿
                       </p>
                       <div className="mt-3 text-xs text-stone-300">
@@ -476,8 +476,8 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">ＥＮ　ＲＥＳＯＲＴ　Ｇｒａｎｄｅｃｏ　Ｈｏｔｅｌ（エンリゾート　グランデコ）</h4>
-                      <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition">ＥＮ　ＲＥＳＯＲＴ　Ｇｒａｎｄｅｃｏ　Ｈｏｔｅｌ（エンリゾート　グランデコ）</h4>
+                      <p className="text-xs text-stone-400 mt-1 leading-relaxed">
                         標高１,０００ｍの高原リゾート！手が届きそうな星空とあふれる四季折々の大自然をお楽しみください！
                       </p>
                       <div className="mt-3 text-xs text-stone-300">
@@ -520,8 +520,8 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">裏磐梯五色沼ホテル</h4>
-                      <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition">裏磐梯五色沼ホテル</h4>
+                      <p className="text-xs text-stone-400 mt-1 leading-relaxed">
                         磐梯山の眺望が自慢。夏はテニスやサイクリング。冬はスキーにスノボ。アクティブな旅行にぴったり！
                       </p>
                       <div className="mt-3 text-xs text-stone-300">
@@ -564,8 +564,8 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">猪苗代湖　ＬＡＫＥ　ＳＩＤＥ　ＨＯＴＥＬ　みなとや</h4>
-                      <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition">猪苗代湖　ＬＡＫＥ　ＳＩＤＥ　ＨＯＴＥＬ　みなとや</h4>
+                      <p className="text-xs text-stone-400 mt-1 leading-relaxed">
                         猪苗代湖がすぐ目前！本格中国料理×麦飯石の湯を満喫できる
                       </p>
                       <div className="mt-3 text-xs text-stone-300">
@@ -608,8 +608,8 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">休暇村　裏磐梯</h4>
-                      <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition">休暇村　裏磐梯</h4>
+                      <p className="text-xs text-stone-400 mt-1 leading-relaxed">
                         森と湖が広がる雄大な高原で四季のアウトドアを楽しむ全室磐梯山ビューのホテル。お子様365日同一料金。
                       </p>
                       <div className="mt-3 text-xs text-stone-300">
@@ -737,19 +737,19 @@ export default function Page() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/autumn-budget-fukushima-iwaki-hawaiians-joban-seafood-hotels-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「いわき」ハワイアンズ拠点＆極上常磐もの！2,000円台〜泊まれる格安・高コスパ宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「いわき」ハワイアンズ拠点＆極上常磐もの！2,000円台〜泊まれる格安・高コスパ宿5選</span>
             </a>
             <a href="/fukushima-aizu-higashiyama-solo-retreat-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「会津東山温泉ひとり旅・湯川渓谷美おこもり」竹久夢二・土方歳三ゆかりの自噴泉・会津郷土料理！会津藩の歴史薫る奥座敷厳選3宿</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「会津東山温泉ひとり旅・湯川渓谷美おこもり」竹久夢二・土方歳三ゆかりの自噴泉・会津郷土料理！会津藩の歴史薫る奥座敷厳選3宿</span>
             </a>
             <a href="/fukushima-iizaka-solo-retreat-hotspring-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「奥州三名湯・飯坂温泉ひとり旅・摺上川渓谷あつ湯おこもり」松尾芭蕉ゆかりの古湯・摺上川のせせらぎ・円盤餃子＆福島地酒！福島交通飯坂線直通厳選3宿</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「奥州三名湯・飯坂温泉ひとり旅・摺上川渓谷あつ湯おこもり」松尾芭蕉ゆかりの古湯・摺上川のせせらぎ・円盤餃子＆福島地酒！福島交通飯坂線直通厳選3宿</span>
             </a>
             <a href="/furusato-tax-all-inclusive-luxury-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">オールインクルーシブで財布を気にせず寛ぐ極上温泉宿×ふるさと納税厳選ガイド作並・箱根宮ノ下・磐梯熱海</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">オールインクルーシブで財布を気にせず寛ぐ極上温泉宿×ふるさと納税厳選ガイド作並・箱根宮ノ下・磐梯熱海</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

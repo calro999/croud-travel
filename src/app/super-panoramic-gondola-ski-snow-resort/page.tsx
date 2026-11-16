@@ -160,7 +160,7 @@ export default function Page() {
           <span>&gt;</span>
           <Link href="/features/" className="hover:text-emerald-700">特集一覧</Link>
           <span>&gt;</span>
-          <span className="text-stone-800 font-semibold truncate">ゴンドラ直結×暖炉ラウンジ宿</span>
+          <span className="text-stone-800 font-semibold break-words">ゴンドラ直結×暖炉ラウンジ宿</span>
         </div>
       </div>
 
@@ -348,19 +348,19 @@ export default function Page() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/silver-week-glamping-tohoku-sendai-fukushima-guide/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">東北シルバーウィーク グランピング：宮城・福島・秋田の雄大な自然＆紅葉先取りステイ</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">東北シルバーウィーク グランピング：宮城・福島・秋田の雄大な自然＆紅葉先取りステイ</span>
             </a>
             <a href="/winter-miyagi-matsushima-shiogama-shrine-hatsumode-sanriku-oyster-higashimono-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12・1月宮城】陸奥総鎮守「鹽竈神社」新春初詣と日本三景「松島」雪景色！冬旬「三陸松島かき」・極上ひがしもの鮪＆松島温泉名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">【11・12・1月宮城】陸奥総鎮守「鹽竈神社」新春初詣と日本三景「松島」雪景色！冬旬「三陸松島かき」・極上ひがしもの鮪＆松島温泉名宿5選</span>
             </a>
             <a href="/autumn-budget-miyagi-sendai-station-zuihoden-gyutan-hotels-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">仙台駅前：瑞鳳殿紅葉ライトアップ＆名物牛たん炭火焼き！2,000円台〜泊まれる格安ホテル5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">仙台駅前：瑞鳳殿紅葉ライトアップ＆名物牛たん炭火焼き！2,000円台〜泊まれる格安ホテル5選</span>
             </a>
             <a href="/furusato-tax-narukokyo-autumn-leaves-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">鳴子峡の深紅の大峡谷＆多彩な名湯・鳴子温泉郷！湯めぐり露天風呂宿×ふるさと納税厳選ガイド宮城</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">鳴子峡の深紅の大峡谷＆多彩な名湯・鳴子温泉郷！湯めぐり露天風呂宿×ふるさと納税厳選ガイド宮城</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

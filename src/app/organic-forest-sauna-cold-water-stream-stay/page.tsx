@@ -160,7 +160,7 @@ export default function Page() {
           <span>&gt;</span>
           <Link href="/features/" className="hover:text-emerald-700">特集一覧</Link>
           <span>&gt;</span>
-          <span className="text-stone-800 font-semibold truncate">清流ダイブ水風呂×森林薪サウナ</span>
+          <span className="text-stone-800 font-semibold break-words">清流ダイブ水風呂×森林薪サウナ</span>
         </div>
       </div>
 
@@ -348,19 +348,19 @@ export default function Page() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/tokyo-osaka-bus-vs-shinkansen-guide/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">東京から大阪 安く行く方法：新幹線 vs 夜行バス徹底比較！差額2万円でUSJ・道頓堀1泊2日モデルコース</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">東京から大阪 安く行く方法：新幹線 vs 夜行バス徹底比較！差額2万円でUSJ・道頓堀1泊2日モデルコース</span>
             </a>
             <a href="/tokyo-subway-ticket-24h-golden-route/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">東京メトロ24時間券 活用厳選ガイド：600円で都内観光乗り倒し！元を取るコスパ最強ルート＆駅チカ宿</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">東京メトロ24時間券 活用厳選ガイド：600円で都内観光乗り倒し！元を取るコスパ最強ルート＆駅チカ宿</span>
             </a>
             <a href="/winter-tokyo-marunouchi-illumination-luxury-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12月！丸の内シャンパンゴールド夜景】大手町・銀座の煌めきと極上クラブラウンジ宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">【11・12月！丸の内シャンパンゴールド夜景】大手町・銀座の煌めきと極上クラブラウンジ宿5選</span>
             </a>
             <a href="/winter-tokyo-takao-yakuoin-shrine-hatsumode-fuji-tororo-soba-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12・1月東京】霊峰「高尾山薬王院」新春初詣と冬晴れのダイヤモンド富士！名物自然薯とろろそば＆極楽湯・八王子厳選名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">【11・12・1月東京】霊峰「高尾山薬王院」新春初詣と冬晴れのダイヤモンド富士！名物自然薯とろろそば＆極楽湯・八王子厳選名宿5選</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

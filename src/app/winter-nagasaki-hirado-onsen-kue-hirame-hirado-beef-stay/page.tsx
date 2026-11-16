@@ -568,8 +568,8 @@ export default function WinterNagasakiHiradoPage() {
               className="group p-4 rounded-2xl bg-slate-50 hover:bg-teal-50/60 border border-slate-100 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-teal-700 bg-teal-100/60 px-2 py-0.5 rounded-full inline-block">長崎・雲仙</span>
-              <h4 className="text-xs font-bold text-slate-800 group-hover:text-teal-800 transition line-clamp-2">雲仙温泉の初冬地獄白煙と普賢岳霧氷・長崎和牛宿</h4>
-              <p className="text-[11px] text-slate-500 line-clamp-2">
+              <h4 className="text-xs font-bold text-slate-800 group-hover:text-teal-800 transition">雲仙温泉の初冬地獄白煙と普賢岳霧氷・長崎和牛宿</h4>
+              <p className="text-[11px] text-slate-500">
                 立ち込める地獄の湯けむりと白濁硫黄泉・島原名物を堪能。
               </p>
             </Link>
@@ -578,8 +578,8 @@ export default function WinterNagasakiHiradoPage() {
               className="group p-4 rounded-2xl bg-slate-50 hover:bg-teal-50/60 border border-slate-100 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-teal-700 bg-teal-100/60 px-2 py-0.5 rounded-full inline-block">佐賀・武雄</span>
-              <h4 className="text-xs font-bold text-slate-800 group-hover:text-teal-800 transition line-clamp-2">武雄温泉の歴史楼門と弱アルカリ美肌湯・佐賀牛会席宿</h4>
-              <p className="text-[11px] text-slate-500 line-clamp-2">
+              <h4 className="text-xs font-bold text-slate-800 group-hover:text-teal-800 transition">武雄温泉の歴史楼門と弱アルカリ美肌湯・佐賀牛会席宿</h4>
+              <p className="text-[11px] text-slate-500">
                 辰野金吾設計の朱塗り楼門と1300年の名湯を楽しむ冬旅。
               </p>
             </Link>
@@ -588,8 +588,8 @@ export default function WinterNagasakiHiradoPage() {
               className="group p-4 rounded-2xl bg-slate-50 hover:bg-teal-50/60 border border-slate-100 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-teal-700 bg-teal-100/60 px-2 py-0.5 rounded-full inline-block">佐賀・嬉野</span>
-              <h4 className="text-xs font-bold text-slate-800 group-hover:text-teal-800 transition line-clamp-2">嬉野温泉の日本三大美肌の湯と名物温泉湯豆腐宿</h4>
-              <p className="text-[11px] text-slate-500 line-clamp-2">
+              <h4 className="text-xs font-bold text-slate-800 group-hover:text-teal-800 transition">嬉野温泉の日本三大美肌の湯と名物温泉湯豆腐宿</h4>
+              <p className="text-[11px] text-slate-500">
                 とろとろの重曹泉と熱々とろける温泉湯豆腐で温まるひととき。
               </p>
             </Link>
@@ -598,8 +598,8 @@ export default function WinterNagasakiHiradoPage() {
               className="group p-4 rounded-2xl bg-slate-50 hover:bg-teal-50/60 border border-slate-100 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-teal-700 bg-teal-100/60 px-2 py-0.5 rounded-full inline-block">熊本・天草</span>
-              <h4 className="text-xs font-bold text-slate-800 group-hover:text-teal-800 transition line-clamp-2">天草下田温泉の東シナ海夕陽絶景と極上冬海鮮宿</h4>
-              <p className="text-[11px] text-slate-500 line-clamp-2">
+              <h4 className="text-xs font-bold text-slate-800 group-hover:text-teal-800 transition">天草下田温泉の東シナ海夕陽絶景と極上冬海鮮宿</h4>
+              <p className="text-[11px] text-slate-500">
                 茜色に染まる夕陽と天草の車海老・地魚会席を満喫。
               </p>
             </Link>

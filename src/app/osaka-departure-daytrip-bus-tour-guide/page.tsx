@@ -390,9 +390,9 @@ export default function OsakaDepartureDaytripBusTourPage() {
                           <span className="text-[10px] text-slate-500">{hotel.address1}</span>
                         </div>
                       )}
-                      <h3 className="text-xs md:text-sm font-black text-slate-900 line-clamp-2">{hotel.hotelName}</h3>
+                      <h3 className="text-xs md:text-sm font-black text-slate-900">{hotel.hotelName}</h3>
                       {hotel.hotelSpecial && (
-                        <p className="text-[11px] text-slate-600 line-clamp-2 font-medium">
+                        <p className="text-[11px] text-slate-600 font-medium">
                           {hotel.hotelSpecial}
                         </p>
                       )}
@@ -502,19 +502,19 @@ export default function OsakaDepartureDaytripBusTourPage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/osaka-tottori-matsue-bus-vs-train-guide/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「大阪・神戸〜鳥取・松江・出雲」高速バス vs 特急スーパーはくと徹底比較！料金半額＆縁結び出雲大社・鳥取砂丘1泊2日モデルコース</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「大阪・神戸〜鳥取・松江・出雲」高速バス vs 特急スーパーはくと徹底比較！料金半額＆縁結び出雲大社・鳥取砂丘1泊2日モデルコース</span>
             </a>
             <a href="/tokyo-osaka-bus-vs-shinkansen-guide/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「東京から大阪 安く行く方法」新幹線 vs 夜行バス徹底比較！差額2万円でUSJ・道頓堀1泊2日モデルコース</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「東京から大阪 安く行く方法」新幹線 vs 夜行バス徹底比較！差額2万円でUSJ・道頓堀1泊2日モデルコース</span>
             </a>
             <a href="/usj-partner-official-hotel-osaka-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「ユニバーサル・スタジオ・ジャパン（USJ）公認ホテル」オフィシャルホテル＆駅直結宿 厳選ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「ユニバーサル・スタジオ・ジャパン（USJ）公認ホテル」オフィシャルホテル＆駅直結宿 厳選ガイド</span>
             </a>
             <a href="/winter-osaka-city-sumiyoshi-taisha-hatsumode-illumination-fugu-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">冬の大阪・住吉大社新春初詣＆御堂筋イルミネーション！ 本場てっちりと煌めく夜景・天然温泉に寛ぐ名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">冬の大阪・住吉大社新春初詣＆御堂筋イルミネーション！ 本場てっちりと煌めく夜景・天然温泉に寛ぐ名宿5選</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

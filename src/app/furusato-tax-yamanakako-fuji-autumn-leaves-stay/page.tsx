@@ -467,19 +467,19 @@ export default function FeatureArticlePage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/yamanashi-yatsugatake-kiyosato-resort-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">山梨・八ヶ岳＆清里高原：清里テラス・萌木の村＆八ヶ岳南麓・星空温泉リゾート 厳選ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">山梨・八ヶ岳＆清里高原：清里テラス・萌木の村＆八ヶ岳南麓・星空温泉リゾート 厳選ガイド</span>
             </a>
             <a href="/furusato-tax-katsunuma-isawa-grape-wine-autumn-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">勝沼ぶどう郷のワイナリー巡りと石和温泉！山梨の新酒甲州ワイン・甲州牛＆ほうとうを味わう秋旅</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">勝沼ぶどう郷のワイナリー巡りと石和温泉！山梨の新酒甲州ワイン・甲州牛＆ほうとうを味わう秋旅</span>
             </a>
             <a href="/winter-yamanashi-kawaguchiko-luxury-fufu-konansou-fuji-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">winter-yamanashi-kawaguchiko-luxury-fufu-konansou-fuji-stay</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">winter-yamanashi-kawaguchiko-luxury-fufu-konansou-fuji-stay</span>
             </a>
             <a href="/winter-yamanashi-yamanakako-oshino-diamond-fuji-houtou-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12・1月山梨】冬の澄天に輝く「ダイヤモンド富士」と雪化粧の忍野八海・熱々「甲州ほうとう鍋」＆富士山を望む絶景温泉宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">【11・12・1月山梨】冬の澄天に輝く「ダイヤモンド富士」と雪化粧の忍野八海・熱々「甲州ほうとう鍋」＆富士山を望む絶景温泉宿5選</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

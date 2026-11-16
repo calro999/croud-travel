@@ -461,19 +461,19 @@ export default function Page() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/furusato-tax-kyoto-takao-autumn-leaves-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">京都・高雄の三尾紅葉（神護寺・高山寺）＆清滝川沿い隠れ家宿で味わう秋の川床名残会席｜ふるさと納税で泊まれる名宿ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">京都・高雄の三尾紅葉（神護寺・高山寺）＆清滝川沿い隠れ家宿で味わう秋の川床名残会席｜ふるさと納税で泊まれる名宿ガイド</span>
             </a>
             <a href="/furusato-tax-three-sacred-mountains-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">日本三大霊峰の神気満ちる聖地と雲海・高山温泉宿×ふるさと納税厳選ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">日本三大霊峰の神気満ちる聖地と雲海・高山温泉宿×ふるさと納税厳選ガイド</span>
             </a>
             <a href="/gifu-gero-onsen-heritage-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「岐阜・下呂温泉」日本三名泉・美肌の湯＆飛騨牛トマト丼・温泉街湯めぐり 厳選ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「岐阜・下呂温泉」日本三名泉・美肌の湯＆飛騨牛トマト丼・温泉街湯めぐり 厳選ガイド</span>
             </a>
             <a href="/gifu-gujo-hachiman-mino-udatsu-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「岐阜・郡上八幡＆美濃・うだつの上がる町並み」宗祇水・郡上おどり＆美濃和紙宿 厳選ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「岐阜・郡上八幡＆美濃・うだつの上がる町並み」宗祇水・郡上おどり＆美濃和紙宿 厳選ガイド</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

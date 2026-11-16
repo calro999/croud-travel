@@ -510,19 +510,19 @@ export default function FurusatoYabakeiKurokawaAutumnLeavesStayPage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/furusato-tax-fragrant-hinoki-bath-healing-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">天然ヒノキの香りと美肌温泉に包まれる総檜風呂名旅館×ふるさと納税厳選ガイド信州木曽・伊豆湯ヶ島・熊本黒川</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">天然ヒノキの香りと美肌温泉に包まれる総檜風呂名旅館×ふるさと納税厳選ガイド信州木曽・伊豆湯ヶ島・熊本黒川</span>
             </a>
             <a href="/furusato-tax-waterfall-view-sound-stream-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">滝の轟きとマイナスイオンに包まれる！名瀑・清流を望む絶景露天風呂旅館×ふるさと納税厳選ガイド伊豆天城・那須板室・熊本黒川</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">滝の轟きとマイナスイオンに包まれる！名瀑・清流を望む絶景露天風呂旅館×ふるさと納税厳選ガイド伊豆天城・那須板室・熊本黒川</span>
             </a>
             <a href="/scenic-open-air-trolley-train-resort-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「絶景観光トロッコ列車＆オープン客車」黒部峡谷・嵯峨野・南阿蘇＆名湯 厳選ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「絶景観光トロッコ列車＆オープン客車」黒部峡谷・嵯峨野・南阿蘇＆名湯 厳選ガイド</span>
             </a>
             <a href="/winter-kumamoto-amakusa-shimoda-onsen-sunset-seafood-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12月天草・下田温泉の冬名湯と夕陽海鮮】 東シナ海サンセット露天と白鷺古湯・冬の伊勢海老＆天然車海老会席の宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">【11・12月天草・下田温泉の冬名湯と夕陽海鮮】 東シナ海サンセット露天と白鷺古湯・冬の伊勢海老＆天然車海老会席の宿5選</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

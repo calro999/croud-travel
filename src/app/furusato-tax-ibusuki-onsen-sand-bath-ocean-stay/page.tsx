@@ -546,19 +546,19 @@ export default function FurusatoArticlePage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/furusato-tax-kirishima-shrine-autumn-leaves-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">霧島神宮のモミジ参道紅葉＆霧島連山の湯けむり温泉郷！黒豚しゃぶ宿×ふるさと納税厳選ガイド鹿児島</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">霧島神宮のモミジ参道紅葉＆霧島連山の湯けむり温泉郷！黒豚しゃぶ宿×ふるさと納税厳選ガイド鹿児島</span>
             </a>
             <a href="/furusato-tax-private-room-sauna-totonoi-villa-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">客室専用プライベートサウナ＆天然水風呂・露天風呂付きヴィラ宿×ふるさと納税厳選ガイド熱海・河口湖・霧島</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">客室専用プライベートサウナ＆天然水風呂・露天風呂付きヴィラ宿×ふるさと納税厳選ガイド熱海・河口湖・霧島</span>
             </a>
             <a href="/japan-luxury-private-pool-suite-villa-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「客室プライベートプール付きオールスイートヴィラ」沖縄・奄美・宮古・関東 厳選ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「客室プライベートプール付きオールスイートヴィラ」沖縄・奄美・宮古・関東 厳選ガイド</span>
             </a>
             <a href="/kagoshima-ibusuki-solo-retreat-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「指宿温泉ひとり旅・砂むし温泉おこもり」錦江湾パノラマ・砂むし会席・黒豚しゃぶ！南国薩摩の潮風と地熱に癒やされる厳選3宿</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「指宿温泉ひとり旅・砂むし温泉おこもり」錦江湾パノラマ・砂むし会席・黒豚しゃぶ！南国薩摩の潮風と地熱に癒やされる厳選3宿</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

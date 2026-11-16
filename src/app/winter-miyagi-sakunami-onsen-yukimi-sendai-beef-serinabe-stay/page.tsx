@@ -548,8 +548,8 @@ export default function MiyagiSakunamiWinterFeature() {
               className="group p-4 rounded-2xl bg-slate-50 hover:bg-rose-50/60 border border-slate-100 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-rose-700 bg-rose-100/60 px-2 py-0.5 rounded-full inline-block">宮城・秋保</span>
-              <h4 className="text-xs font-bold text-slate-800 group-hover:text-rose-800 transition line-clamp-2">秋保温泉の初冬磊々峡雪景色と仙台牛・せり鍋会席宿</h4>
-              <p className="text-[11px] text-slate-500 line-clamp-2">
+              <h4 className="text-xs font-bold text-slate-800 group-hover:text-rose-800 transition">秋保温泉の初冬磊々峡雪景色と仙台牛・せり鍋会席宿</h4>
+              <p className="text-[11px] text-slate-500">
                 名取川の渓谷美と名門宿の至福の温泉で温まる仙台の休日。
               </p>
             </Link>
@@ -558,8 +558,8 @@ export default function MiyagiSakunamiWinterFeature() {
               className="group p-4 rounded-2xl bg-slate-50 hover:bg-rose-50/60 border border-slate-100 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-rose-700 bg-rose-100/60 px-2 py-0.5 rounded-full inline-block">宮城・松島</span>
-              <h4 className="text-xs font-bold text-slate-800 group-hover:text-rose-800 transition line-clamp-2">松島温泉の初冬松島湾絶景と名物松島牡蠣・三陸海鮮宿</h4>
-              <p className="text-[11px] text-slate-500 line-clamp-2">
+              <h4 className="text-xs font-bold text-slate-800 group-hover:text-rose-800 transition">松島温泉の初冬松島湾絶景と名物松島牡蠣・三陸海鮮宿</h4>
+              <p className="text-[11px] text-slate-500">
                 日本三景・松島湾の絶景露天風呂とぷりぷりの冬牡蠣を堪能。
               </p>
             </Link>
@@ -568,8 +568,8 @@ export default function MiyagiSakunamiWinterFeature() {
               className="group p-4 rounded-2xl bg-slate-50 hover:bg-rose-50/60 border border-slate-100 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-rose-700 bg-rose-100/60 px-2 py-0.5 rounded-full inline-block">山形・赤湯</span>
-              <h4 className="text-xs font-bold text-slate-800 group-hover:text-rose-800 transition line-clamp-2">赤湯温泉の初冬ワイナリー巡りと米沢牛すき焼き宿</h4>
-              <p className="text-[11px] text-slate-500 line-clamp-2">
+              <h4 className="text-xs font-bold text-slate-800 group-hover:text-rose-800 transition">赤湯温泉の初冬ワイナリー巡りと米沢牛すき焼き宿</h4>
+              <p className="text-[11px] text-slate-500">
                 置賜盆地の名湯と極上の米沢牛、地ワインを味わう文化旅。
               </p>
             </Link>
@@ -578,8 +578,8 @@ export default function MiyagiSakunamiWinterFeature() {
               className="group p-4 rounded-2xl bg-slate-50 hover:bg-rose-50/60 border border-slate-100 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-rose-700 bg-rose-100/60 px-2 py-0.5 rounded-full inline-block">山形・銀山</span>
-              <h4 className="text-xs font-bold text-slate-800 group-hover:text-rose-800 transition line-clamp-2">銀山温泉の大正ロマン初冬ガス灯雪景色と尾花沢牛宿</h4>
-              <p className="text-[11px] text-slate-500 line-clamp-2">
+              <h4 className="text-xs font-bold text-slate-800 group-hover:text-rose-800 transition">銀山温泉の大正ロマン初冬ガス灯雪景色と尾花沢牛宿</h4>
+              <p className="text-[11px] text-slate-500">
                 銀世界にガス灯が灯る奇跡の温泉街と雪見露天風呂の風情。
               </p>
             </Link>

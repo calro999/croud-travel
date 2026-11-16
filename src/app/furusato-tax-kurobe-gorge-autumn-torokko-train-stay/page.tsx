@@ -510,19 +510,19 @@ export default function FurusatoKurobeGorgeAutumnTorokkoStayPage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/winter-chiba-minamiboso-tateyama-chikura-ocean-iseebi-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">海越しに望む冠雪富士と温暖避寒の海辺名湯 房州伊勢海老＆地魚一本買い舟盛りとかずさ和牛名宿</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">海越しに望む冠雪富士と温暖避寒の海辺名湯 房州伊勢海老＆地魚一本買い舟盛りとかずさ和牛名宿</span>
             </a>
             <a href="/winter-toyama-amaharashi-tateyama-snow-zuiryuji-hatsumode-kanburi-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「富山湾越しの冠雪立山連峰・雨晴海岸と国宝瑞龍寺初詣」2026-2027年冬の富山・高岡＆氷見！寒ぶりの王様「ひみ寒ぶり」会席名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「富山湾越しの冠雪立山連峰・雨晴海岸と国宝瑞龍寺初詣」2026-2027年冬の富山・高岡＆氷見！寒ぶりの王様「ひみ寒ぶり」会席名宿5選</span>
             </a>
             <a href="/autumn-toyama-kurobe-gorge-torokko-unazuki-onsen-hotels-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【10月下旬〜11月！黒部峡谷トロッコ電車紅葉】日本一のV字峡谷と宇奈月温泉おすすめ宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">【10月下旬〜11月！黒部峡谷トロッコ電車紅葉】日本一のV字峡谷と宇奈月温泉おすすめ宿5選</span>
             </a>
             <a href="/furusato-tax-shirakawa-gokayama-gassho-autumn-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">世界遺産・五箇山合掌造りと庄川峡紅葉遊覧船！庄川温泉郷の美肌湯・秋の鮎料理と富山地酒を味わう秋旅｜ふるさと納税で泊まれる名宿ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">世界遺産・五箇山合掌造りと庄川峡紅葉遊覧船！庄川温泉郷の美肌湯・秋の鮎料理と富山地酒を味わう秋旅｜ふるさと納税で泊まれる名宿ガイド</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

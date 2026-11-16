@@ -362,19 +362,19 @@ export default function FeatureArticlePage() {
             <ul className="space-y-4 text-xs md:text-sm">
               <li>
                 <a href={HOTEL_DATA.shuzenji_katsuragawa.url} target="_blank" rel="sponsored noopener noreferrer" className="block p-3 rounded-xl hover:bg-stone-50 transition border border-stone-100 hover:border-amber-200">
-                  <div className="font-bold text-stone-800 line-clamp-1">{HOTEL_DATA.shuzenji_katsuragawa.name}</div>
+                  <div className="font-bold text-stone-800">{HOTEL_DATA.shuzenji_katsuragawa.name}</div>
                   <div className="text-stone-500 text-xs mt-1">★ {HOTEL_DATA.shuzenji_katsuragawa.rating} | 楽天トラベルで詳細確認</div>
                 </a>
               </li>
               <li>
                 <a href={HOTEL_DATA.shuzenji_marukyu.url} target="_blank" rel="sponsored noopener noreferrer" className="block p-3 rounded-xl hover:bg-stone-50 transition border border-stone-100 hover:border-amber-200">
-                  <div className="font-bold text-stone-800 line-clamp-1">{HOTEL_DATA.shuzenji_marukyu.name}</div>
+                  <div className="font-bold text-stone-800">{HOTEL_DATA.shuzenji_marukyu.name}</div>
                   <div className="text-stone-500 text-xs mt-1">★ {HOTEL_DATA.shuzenji_marukyu.rating} | 楽天トラベルで詳細確認</div>
                 </a>
               </li>
               <li>
                 <a href={HOTEL_DATA.shuzenji_yukairou.url} target="_blank" rel="sponsored noopener noreferrer" className="block p-3 rounded-xl hover:bg-stone-50 transition border border-stone-100 hover:border-amber-200">
-                  <div className="font-bold text-stone-800 line-clamp-1">{HOTEL_DATA.shuzenji_yukairou.name}</div>
+                  <div className="font-bold text-stone-800">{HOTEL_DATA.shuzenji_yukairou.name}</div>
                   <div className="text-stone-500 text-xs mt-1">★ {HOTEL_DATA.shuzenji_yukairou.rating} | 楽天トラベルで詳細確認</div>
                 </a>
               </li>
@@ -491,19 +491,19 @@ export default function FeatureArticlePage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/winter-shizuoka-shimoda-onsen-kinmedai-ocean-view-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12月静岡・下田南伊豆温泉郷の初冬海絶景と極上地金目鯛】水揚げ日本一の金目鯛姿煮＆伊勢海老会席を満喫する絶景宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">【11・12月静岡・下田南伊豆温泉郷の初冬海絶景と極上地金目鯛】水揚げ日本一の金目鯛姿煮＆伊勢海老会席を満喫する絶景宿5選</span>
             </a>
             <a href="/autumn-budget-shizuoka-hamamatsu-hamanako-unagi-hotels-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">浜松・浜名湖：秋の旬うなぎと湖畔の絶景夕陽！格安・高コスパホテル5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">浜松・浜名湖：秋の旬うなぎと湖畔の絶景夕陽！格安・高コスパホテル5選</span>
             </a>
             <a href="/autumn-shizuoka-sumatakyo-yume-no-tsuribashi-hotels-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">秋の寸又峡：夢の吊橋のエメラルド湖水と鮮烈な紅葉！美女づくりの湯を満喫するおすすめ秘境宿5選「2026最新」</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">秋の寸又峡：夢の吊橋のエメラルド湖水と鮮烈な紅葉！美女づくりの湯を満喫するおすすめ秘境宿5選「2026最新」</span>
             </a>
             <a href="/furusato-tax-sumatakyo-yumenotsuribashi-autumn-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">寸又峡・夢の吊橋のエメラルド湖面紅葉＆美女づくりの湯！秘境寸又峡温泉×ふるさと納税厳選ガイド静岡</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">寸又峡・夢の吊橋のエメラルド湖面紅葉＆美女づくりの湯！秘境寸又峡温泉×ふるさと納税厳選ガイド静岡</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

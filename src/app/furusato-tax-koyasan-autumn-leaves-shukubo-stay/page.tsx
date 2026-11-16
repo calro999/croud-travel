@@ -362,19 +362,19 @@ export default function FeatureArticlePage() {
             <ul className="space-y-4 text-xs md:text-sm">
               <li>
                 <a href={HOTEL_DATA.koyasan_saimonin.url} target="_blank" rel="sponsored noopener noreferrer" className="block p-3 rounded-xl hover:bg-stone-50 transition border border-stone-100 hover:border-amber-200">
-                  <div className="font-bold text-stone-800 line-clamp-1">{HOTEL_DATA.koyasan_saimonin.name}</div>
+                  <div className="font-bold text-stone-800">{HOTEL_DATA.koyasan_saimonin.name}</div>
                   <div className="text-stone-500 text-xs mt-1">★ {HOTEL_DATA.koyasan_saimonin.rating} | 楽天トラベルで詳細確認</div>
                 </a>
               </li>
               <li>
                 <a href={HOTEL_DATA.koyasan_muryokoin.url} target="_blank" rel="sponsored noopener noreferrer" className="block p-3 rounded-xl hover:bg-stone-50 transition border border-stone-100 hover:border-amber-200">
-                  <div className="font-bold text-stone-800 line-clamp-1">{HOTEL_DATA.koyasan_muryokoin.name}</div>
+                  <div className="font-bold text-stone-800">{HOTEL_DATA.koyasan_muryokoin.name}</div>
                   <div className="text-stone-500 text-xs mt-1">★ {HOTEL_DATA.koyasan_muryokoin.rating} | 楽天トラベルで詳細確認</div>
                 </a>
               </li>
               <li>
                 <a href={HOTEL_DATA.koyasan_fukuchiin.url} target="_blank" rel="sponsored noopener noreferrer" className="block p-3 rounded-xl hover:bg-stone-50 transition border border-stone-100 hover:border-amber-200">
-                  <div className="font-bold text-stone-800 line-clamp-1">{HOTEL_DATA.koyasan_fukuchiin.name}</div>
+                  <div className="font-bold text-stone-800">{HOTEL_DATA.koyasan_fukuchiin.name}</div>
                   <div className="text-stone-500 text-xs mt-1">★ {HOTEL_DATA.koyasan_fukuchiin.rating} | 楽天トラベルで詳細確認</div>
                 </a>
               </li>
@@ -491,19 +491,19 @@ export default function FeatureArticlePage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/autumn-budget-wakayama-castle-momijidani-ramen-hotels-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「和歌山」和歌山城の紅葉渓庭園＆中華そば！2,000円台〜泊まれる格安・高コスパ宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「和歌山」和歌山城の紅葉渓庭園＆中華そば！2,000円台〜泊まれる格安・高コスパ宿5選</span>
             </a>
             <a href="/chiba-tateyama-shirahama-nojimazaki-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「千葉・館山＆白浜・野島崎」房総最南端白亜の灯台・フラワーライン＆伊勢海老宿 厳選ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「千葉・館山＆白浜・野島崎」房総最南端白亜の灯台・フラワーライン＆伊勢海老宿 厳選ガイド</span>
             </a>
             <a href="/furusato-tax-firefly-viewing-hotaru-night-stream-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">闇夜に舞う無数の光の幻想！初夏のホタル観賞＆清流のせせらぎ温泉宿×ふるさと納税厳選ガイド熊本菊池・兵庫神鍋・神奈川湯河原</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">闇夜に舞う無数の光の幻想！初夏のホタル観賞＆清流のせせらぎ温泉宿×ふるさと納税厳選ガイド熊本菊池・兵庫神鍋・神奈川湯河原</span>
             </a>
             <a href="/furusato-tax-kawayu-akan-mashu-autumn-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">阿寒摩周の秋霧と屈斜路湖の紅葉！川湯温泉の強酸性硫黄泉・秋サケ・イクラ＆北海道和牛を味わう道東旅｜ふるさと納税で泊まれる名宿ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">阿寒摩周の秋霧と屈斜路湖の紅葉！川湯温泉の強酸性硫黄泉・秋サケ・イクラ＆北海道和牛を味わう道東旅｜ふるさと納税で泊まれる名宿ガイド</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

@@ -429,9 +429,9 @@ export default async function PrefectureDetailPage({ params }: { params: Promise
                           <span className="text-amber-600 font-black">⭐ {h.rating}</span>
                         )}
                       </div>
-                      <h3 className="text-sm font-black text-stone-900 line-clamp-2 leading-snug">{h.hotel_name}</h3>
+                      <h3 className="text-sm font-black text-stone-900 leading-snug">{h.hotel_name}</h3>
                       {h.hotelSpecial && (
-                        <p className="text-[11px] text-stone-600 line-clamp-2 leading-relaxed">
+                        <p className="text-[11px] text-stone-600 leading-relaxed">
                           {h.hotelSpecial}
                         </p>
                       )}
@@ -793,9 +793,9 @@ export default async function PrefectureDetailPage({ params }: { params: Promise
                               </span>
                             )}
                           </div>
-                          <h4 className="text-xs md:text-sm font-black font-journal-serif text-emerald-950 line-clamp-2">{post.hotel_name}</h4>
+                          <h4 className="text-xs md:text-sm font-black font-journal-serif text-emerald-950">{post.hotel_name}</h4>
                           {post.hotelSpecial && (
-                            <p className="text-[11px] text-emerald-950/70 line-clamp-2 font-medium">
+                            <p className="text-[11px] text-emerald-950/70 font-medium">
                               {post.hotelSpecial}
                             </p>
                           )}
@@ -1100,8 +1100,8 @@ export default async function PrefectureDetailPage({ params }: { params: Promise
                       {guide.priceNote}
                     </span>
                   </div>
-                  <h4 className="text-sm font-black text-white group-hover:text-cyan-200 transition font-journal-serif line-clamp-2">{guide.title}</h4>
-                  <p className="text-xs text-slate-300 line-clamp-2 leading-relaxed font-medium">
+                  <h4 className="text-sm font-black text-white group-hover:text-cyan-200 transition font-journal-serif">{guide.title}</h4>
+                  <p className="text-xs text-slate-300 leading-relaxed font-medium">
                     {guide.description}
                   </p>
                   <div className="text-[11px] font-bold text-cyan-400 group-hover:translate-x-1 transition flex items-center gap-1 pt-1">
@@ -1198,9 +1198,9 @@ export default async function PrefectureDetailPage({ params }: { params: Promise
                         <span className="inline-block text-[9px] font-bold text-amber-800 bg-amber-100/80 px-2 py-0.5 rounded-md">
                           特設ガイド
                         </span>
-                        <h4 className="text-xs md:text-sm font-bold text-stone-900 line-clamp-2 group-hover:text-amber-800 transition leading-snug">{post.title}</h4>
+                        <h4 className="text-xs md:text-sm font-bold text-stone-900 group-hover:text-amber-800 transition leading-snug">{post.title}</h4>
                         <div className="flex items-center justify-between text-[10px] text-stone-500 font-medium">
-                          <span className="truncate max-w-[140px]">{post.area || post.prefecture}</span>
+                          <span className="break-words max-w-[140px]">{post.area || post.prefecture}</span>
                           {post.rating && <span className="text-amber-600 font-bold shrink-0">⭐ {post.rating}</span>}
                         </div>
                       </div>
@@ -1224,10 +1224,10 @@ export default async function PrefectureDetailPage({ params }: { params: Promise
                       href={`/posts/${guide.id}/`}
                       className="p-3 rounded-xl bg-white/10 hover:bg-white/20 border border-white/10 transition block space-y-1"
                     >
-                      <span className="text-[10px] text-teal-300 font-bold block truncate">
+                      <span className="text-[10px] text-teal-300 font-bold block break-words">
                         {guide.categories ? guide.categories[0] : '全国特集'}
                       </span>
-                      <p className="text-xs font-bold text-white line-clamp-2 leading-tight hover:text-amber-300 transition">
+                      <p className="text-xs font-bold text-white leading-tight hover:text-amber-300 transition">
                         {guide.title}
                       </p>
                     </Link>
@@ -1267,9 +1267,9 @@ export default async function PrefectureDetailPage({ params }: { params: Promise
                       )}
                     </div>
                     <div className="flex-grow min-w-0 space-y-0.5">
-                      <h5 className="text-[11px] font-bold text-stone-900 line-clamp-2 group-hover:text-teal-800 transition leading-snug">{post.title}</h5>
+                      <h5 className="text-[11px] font-bold text-stone-900 group-hover:text-teal-800 transition leading-snug">{post.title}</h5>
                       <div className="flex items-center justify-between text-[10px] text-stone-500 font-medium">
-                        <span className="truncate max-w-[110px]">{post.area || post.prefecture}</span>
+                        <span className="break-words max-w-[110px]">{post.area || post.prefecture}</span>
                         {post.price && (
                           <span className="text-red-600 font-bold shrink-0">
                             {typeof post.price === 'number' ? `¥${post.price.toLocaleString()}〜` : post.price}

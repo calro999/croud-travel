@@ -397,19 +397,19 @@ export default function ArticlePage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/kusatsu-onsen-packing-mistakes-silver-guide/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「草津温泉で後悔したことワースト5」 銀製品が真っ黒に変色！？強酸性泉の落とし穴＆持ち物リスト</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「草津温泉で後悔したことワースト5」 銀製品が真っ黒に変色！？強酸性泉の落とし穴＆持ち物リスト</span>
             </a>
             <a href="/mie-ise-shima-gourmet-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「三重・伊勢志摩」お伊勢参り＆伊勢海老・的矢かき極上宿 厳選ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「三重・伊勢志摩」お伊勢参り＆伊勢海老・的矢かき極上宿 厳選ガイド</span>
             </a>
             <a href="/organic-forest-floating-tent-sauna-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「水上サウナ＆浮遊外気浴」湖や池に浮かぶフローティングサウナと温泉宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「水上サウナ＆浮遊外気浴」湖や池に浮かぶフローティングサウナと温泉宿5選</span>
             </a>
             <a href="/super-panoramic-canyon-packrafting-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「超軽量パックラフト冒険」清流の静水と急流を漕ぎ抜ける！奥多摩・みなかみ渓谷温泉宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「超軽量パックラフト冒険」清流の静水と急流を漕ぎ抜ける！奥多摩・みなかみ渓谷温泉宿5選</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

@@ -399,19 +399,19 @@ export default function Page() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/winter-niigata-nagaoka-teradomari-kani-yomogihira-onsen-koryu-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「日本海魚のアメ横・寺泊冬のカニ市場と商売繁盛高龍神社」2026-2027年冬の新潟・寺泊＆長岡！とろみ美肌湯と越後牛名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「日本海魚のアメ横・寺泊冬のカニ市場と商売繁盛高龍神社」2026-2027年冬の新潟・寺泊＆長岡！とろみ美肌湯と越後牛名宿5選</span>
             </a>
             <a href="/winter-niigata-tsukioka-onsen-emerald-bihada-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12月月岡温泉のエメラルド美肌名湯と初冬味覚】 国内屈指の硫黄泉雪見露天と村上牛・初冬寒ブリ＆新潟地酒の宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">【11・12月月岡温泉のエメラルド美肌名湯と初冬味覚】 国内屈指の硫黄泉雪見露天と村上牛・初冬寒ブリ＆新潟地酒の宿5選</span>
             </a>
             <a href="/winter-okayama-mimasaka-okutsu-yunogo-onsen-sakushugyu-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12月岡山・奥津＆湯郷温泉】美作三湯の初冬雪見と美肌湯 吉井川の足元湧出天然岩風呂・極上作州牛＆津山そずり鍋を堪能する名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">【11・12月岡山・奥津＆湯郷温泉】美作三湯の初冬雪見と美肌湯 吉井川の足元湧出天然岩風呂・極上作州牛＆津山そずり鍋を堪能する名宿5選</span>
             </a>
             <a href="/autumn-budget-niigata-yahiko-momiji-nodoguro-hotels-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「新潟」弥彦紅葉谷＆極上のどぐろを満喫！3,000円台〜泊まれる格安・高コスパ宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「新潟」弥彦紅葉谷＆極上のどぐろを満喫！3,000円台〜泊まれる格安・高コスパ宿5選</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

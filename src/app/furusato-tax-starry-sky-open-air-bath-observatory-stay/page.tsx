@@ -168,7 +168,7 @@ export default function Page() {
                   <p className="text-xs text-slate-500 mt-0.5">
                     🚆 中央自動車道・園原ICより車にて10分(名古屋・関西方面)、中央自動車道・飯田山本ICより車にて10分(関東・長野方面)
                   </p>
-                  <p className="text-sm text-slate-600 mt-3 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-slate-600 mt-3 leading-relaxed">
                     日本一の星空ナイトツアー：当日の天気次第でもチケットキャンセルが対応可な宿★彡
                   </p>
                 </div>
@@ -228,7 +228,7 @@ export default function Page() {
                   <p className="text-xs text-slate-500 mt-0.5">
                     🚆 飯田駅より路線バスにて３０分
                   </p>
-                  <p className="text-sm text-slate-600 mt-3 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-slate-600 mt-3 leading-relaxed">
                     「24時間入り放題＆無料」の【貸切露天風呂】トロトロ泉質の美人の湯♪全17室のおもてなしの宿
                   </p>
                 </div>
@@ -288,7 +288,7 @@ export default function Page() {
                   <p className="text-xs text-slate-500 mt-0.5">
                     🚆 JR飯田駅より無料送迎（要事前予約最終17:00） 中央道飯田山本ICより10分。園原ICより10分。
                   </p>
-                  <p className="text-sm text-slate-600 mt-3 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-slate-600 mt-3 leading-relaxed">
                     【楽天トラベルブロンズアワード2024受賞】歴史ある老舗料亭を姉妹館に持つ料理自慢の宿
                   </p>
                 </div>
@@ -362,7 +362,7 @@ export default function Page() {
                   <p className="text-xs text-slate-500 mt-0.5">
                     🚆 井原線 子守唄の里高屋駅より徒歩約１０分、井原駅より車で約５分、山陽自動車道 福山東ＩＣから車で約２０分
                   </p>
-                  <p className="text-sm text-slate-600 mt-3 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-slate-600 mt-3 leading-relaxed">
                     デニムの聖地岡山県井原市にOPEN！バイキング朝食無料！光明石人工温泉大浴場、無料駐車場完備！
                   </p>
                 </div>
@@ -422,7 +422,7 @@ export default function Page() {
                   <p className="text-xs text-slate-500 mt-0.5">
                     🚆 倉敷駅よりお車で約３５分、岡山桃太郎空港からお車で約６０分
                   </p>
-                  <p className="text-sm text-slate-600 mt-3 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-slate-600 mt-3 leading-relaxed">
                     令和7年10月リニューアルOPEN／全１４室が異なる造りの温宿
                   </p>
                 </div>
@@ -496,7 +496,7 @@ export default function Page() {
                   <p className="text-xs text-slate-500 mt-0.5">
                     🚆 ■レンタカー■石垣空港より約25分。離島ターミナルより約10分　■路線バス■バス停フサキビーチリゾートより徒歩約5分。
                   </p>
-                  <p className="text-sm text-slate-600 mt-3 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-slate-600 mt-3 leading-relaxed">
                     八重山ブルーの海、八重山の島々を見下ろす絶好のロケーション。島内でも屈指のサンセットをご堪能下さい。
                   </p>
                 </div>
@@ -556,7 +556,7 @@ export default function Page() {
                   <p className="text-xs text-slate-500 mt-0.5">
                     🚆 南ぬ島石垣空港：車で約10分／石垣港離島ターミナル・市街地：車で約30分／川平湾：車で約30分
                   </p>
-                  <p className="text-sm text-slate-600 mt-3 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-slate-600 mt-3 leading-relaxed">
                     バリアフリー対応ホテルや一棟貸4タイプも選べる！
                   </p>
                 </div>
@@ -616,7 +616,7 @@ export default function Page() {
                   <p className="text-xs text-slate-500 mt-0.5">
                     🚆 新石垣空港より車で40分
                   </p>
-                  <p className="text-sm text-slate-600 mt-3 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-slate-600 mt-3 leading-relaxed">
                     オーシャンズウィングとヴィラガーデン　趣の異なる２つの宿泊エリアと充実の施設が魅力的な南国リゾート
                   </p>
                 </div>
@@ -793,19 +793,19 @@ export default function Page() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/hokkaido-jozankei-solo-retreat-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">定山渓温泉ひとり旅・渓谷美おこもり：札幌から60分・豊平川渓流露天・道産美食！札幌の奥座敷で静寂にととのう厳選3宿</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">定山渓温泉ひとり旅・渓谷美おこもり：札幌から60分・豊平川渓流露天・道産美食！札幌の奥座敷で静寂にととのう厳選3宿</span>
             </a>
             <a href="/hokkaido-toya-noboribetsu-jigokudani-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">北海道・洞爺湖＆登別：地獄谷・洞爺湖花火＆絶景温泉宿 厳選ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">北海道・洞爺湖＆登別：地獄谷・洞爺湖花火＆絶景温泉宿 厳選ガイド</span>
             </a>
             <a href="/traditional-hokkaido-furano-lavender-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">2026年：紫の絨毯が広がる夏の富良野！ラベンダー畑パノラマ＆ふらの和牛ディナーの宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">2026年：紫の絨毯が広がる夏の富良野！ラベンダー畑パノラマ＆ふらの和牛ディナーの宿5選</span>
             </a>
             <a href="/winter-hokkaido-kawayu-onsen-mashu-kussharo-crab-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12月北海道・川湯温泉＆屈斜路湖・摩周湖】pH1.7極上強酸性硫黄泉と白鳥の雪景色・冬の味覚オホーツク毛ガニと十勝牛を味わう名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">【11・12月北海道・川湯温泉＆屈斜路湖・摩周湖】pH1.7極上強酸性硫黄泉と白鳥の雪景色・冬の味覚オホーツク毛ガニと十勝牛を味わう名宿5選</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

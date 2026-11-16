@@ -546,19 +546,19 @@ export default function FurusatoArticlePage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/winter-mie-shima-kashikojima-onsen-iseebi-anorifugu-matsusaka-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12月三重・志摩賢島温泉】英虞湾夕日と冬の伊勢志摩美食 本場伊勢海老＆幻のあのりふぐ・極上松阪牛・真珠の海を望む絶景宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">【11・12月三重・志摩賢島温泉】英虞湾夕日と冬の伊勢志摩美食 本場伊勢海老＆幻のあのりふぐ・極上松阪牛・真珠の海を望む絶景宿5選</span>
             </a>
             <a href="/autumn-gunma-ikaho-onsen-kajikabashi-momiji-hotels-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「秋の伊香保温泉」河鹿橋の紅葉ライトアップと石段街レトロ散策！黄金の湯を楽しむおすすめ名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「秋の伊香保温泉」河鹿橋の紅葉ライトアップと石段街レトロ散策！黄金の湯を楽しむおすすめ名宿5選</span>
             </a>
             <a href="/furusato-tax-ikaho-kajikabashi-autumn-leaves-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">伊香保温泉の河鹿橋もみじライトアップ＆365段石段街！黄金の湯宿×ふるさと納税厳選ガイド群馬</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">伊香保温泉の河鹿橋もみじライトアップ＆365段石段街！黄金の湯宿×ふるさと納税厳選ガイド群馬</span>
             </a>
             <a href="/furusato-tax-ikaho-stone-steps-retro-luxury-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">伊香保温泉をふるさと納税でお得に旅する！365段の石段街と黄金の湯＆白銀の湯！名門老舗旅館ステイ厳選ガイド｜福一・ホテル木暮・岸権旅館</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">伊香保温泉をふるさと納税でお得に旅する！365段の石段街と黄金の湯＆白銀の湯！名門老舗旅館ステイ厳選ガイド｜福一・ホテル木暮・岸権旅館</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

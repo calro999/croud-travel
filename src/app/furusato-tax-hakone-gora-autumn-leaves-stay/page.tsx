@@ -362,19 +362,19 @@ export default function FeatureArticlePage() {
             <ul className="space-y-4 text-xs md:text-sm">
               <li>
                 <a href={HOTEL_DATA.hakone_gora_nounou.url} target="_blank" rel="sponsored noopener noreferrer" className="block p-3 rounded-xl hover:bg-stone-50 transition border border-stone-100 hover:border-amber-200">
-                  <div className="font-bold text-stone-800 line-clamp-1">{HOTEL_DATA.hakone_gora_nounou.name}</div>
+                  <div className="font-bold text-stone-800">{HOTEL_DATA.hakone_gora_nounou.name}</div>
                   <div className="text-stone-500 text-xs mt-1">★ {HOTEL_DATA.hakone_gora_nounou.rating} | 楽天トラベルで詳細確認</div>
                 </a>
               </li>
               <li>
                 <a href={HOTEL_DATA.hakone_gora_mizunokaori.url} target="_blank" rel="sponsored noopener noreferrer" className="block p-3 rounded-xl hover:bg-stone-50 transition border border-stone-100 hover:border-amber-200">
-                  <div className="font-bold text-stone-800 line-clamp-1">{HOTEL_DATA.hakone_gora_mizunokaori.name}</div>
+                  <div className="font-bold text-stone-800">{HOTEL_DATA.hakone_gora_mizunokaori.name}</div>
                   <div className="text-stone-500 text-xs mt-1">★ {HOTEL_DATA.hakone_gora_mizunokaori.rating} | 楽天トラベルで詳細確認</div>
                 </a>
               </li>
               <li>
                 <a href={HOTEL_DATA.hakone_gora_byakudan.url} target="_blank" rel="sponsored noopener noreferrer" className="block p-3 rounded-xl hover:bg-stone-50 transition border border-stone-100 hover:border-amber-200">
-                  <div className="font-bold text-stone-800 line-clamp-1">{HOTEL_DATA.hakone_gora_byakudan.name}</div>
+                  <div className="font-bold text-stone-800">{HOTEL_DATA.hakone_gora_byakudan.name}</div>
                   <div className="text-stone-500 text-xs mt-1">★ {HOTEL_DATA.hakone_gora_byakudan.rating} | 楽天トラベルで詳細確認</div>
                 </a>
               </li>
@@ -491,19 +491,19 @@ export default function FeatureArticlePage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/autumn-kanagawa-hakone-sengokuhara-susuki-onsen-hotels-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「秋の箱根」仙石原すすき草原の黄金絨毯と強羅温泉にごり湯！秋絶景を愛でるおすすめ名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「秋の箱根」仙石原すすき草原の黄金絨毯と強羅温泉にごり湯！秋絶景を愛でるおすすめ名宿5選</span>
             </a>
             <a href="/furusato-tax-autumn-sengokuhara-silver-grass-hotspring-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">黄金色に輝くススキの大海原！箱根仙石原ススキ草原＆大涌谷にごり湯温泉名宿×ふるさと納税厳選ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">黄金色に輝くススキの大海原！箱根仙石原ススキ草原＆大涌谷にごり湯温泉名宿×ふるさと納税厳選ガイド</span>
             </a>
             <a href="/furusato-tax-hakone-gora-onsen-art-luxury-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">箱根強羅温泉をふるさと納税でお得に旅する！美肌のにごり湯＆全室露天風呂付き客室！大人の隠れ家名旅館厳選ガイド｜箱根強羅白檀・季の湯雪月花・桐谷箱根荘</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">箱根強羅温泉をふるさと納税でお得に旅する！美肌のにごり湯＆全室露天風呂付き客室！大人の隠れ家名旅館厳選ガイド｜箱根強羅白檀・季の湯雪月花・桐谷箱根荘</span>
             </a>
             <a href="/furusato-tax-kamakura-shonan-ocean-history-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">鎌倉・湘南をふるさと納税でお得に旅する！七里ヶ浜オーシャンビュー＆古都の歴史情緒！鶴岡八幡宮・江ノ電の名宿特集｜鎌倉プリンス・HOTEL AO・メトロポリタン</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">鎌倉・湘南をふるさと納税でお得に旅する！七里ヶ浜オーシャンビュー＆古都の歴史情緒！鶴岡八幡宮・江ノ電の名宿特集｜鎌倉プリンス・HOTEL AO・メトロポリタン</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

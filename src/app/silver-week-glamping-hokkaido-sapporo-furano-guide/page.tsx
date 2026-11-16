@@ -303,14 +303,14 @@ export default function SilverWeekGlampingHokkaidoPage() {
                     </span>
                   </div>
 
-                  <h3 className="font-black text-slate-900 text-base leading-snug group-hover:text-cyan-700 transition line-clamp-2 font-journal-serif">{hotel.hotelName}</h3>
+                  <h3 className="font-black text-slate-900 text-base leading-snug group-hover:text-cyan-700 transition font-journal-serif">{hotel.hotelName}</h3>
 
-                  <p className="text-xs text-slate-600 line-clamp-3 leading-relaxed font-medium">
+                  <p className="text-xs text-slate-600 leading-relaxed font-medium">
                     {hotel.hotelSpecial || "北海道の雄大な大地で過ごす爽快なアウトドアステイ。澄み切った秋の風と道産食材の滋味をお楽しみください。"}
                   </p>
 
                   {hotel.access && (
-                    <p className="text-[11px] text-slate-500 line-clamp-1">
+                    <p className="text-[11px] text-slate-500">
                       🚗 {hotel.access}
                     </p>
                   )}
@@ -370,7 +370,7 @@ export default function SilverWeekGlampingHokkaidoPage() {
             <span className="text-[10px] font-bold text-cyan-300 bg-cyan-400/20 px-2 py-0.5 rounded-full inline-block mb-1.5">
               北海道 予算シミュレーション
             </span>
-            <div className="font-bold text-xs sm:text-sm text-white group-hover:text-cyan-200 transition line-clamp-2">
+            <div className="font-bold text-xs sm:text-sm text-white group-hover:text-cyan-200 transition">
               【北海道旅行の予算・費用完全ガイド】2泊3日〜3泊4日の航空券・レンタカー・宿泊費・グルメ相場まとめ
             </div>
           </Link>
@@ -382,7 +382,7 @@ export default function SilverWeekGlampingHokkaidoPage() {
             <span className="text-[10px] font-bold text-cyan-300 bg-cyan-400/20 px-2 py-0.5 rounded-full inline-block mb-1.5">
               家族旅行＆大自然モデルコース
             </span>
-            <div className="font-bold text-xs sm:text-sm text-white group-hover:text-cyan-200 transition line-clamp-2">
+            <div className="font-bold text-xs sm:text-sm text-white group-hover:text-cyan-200 transition">
               【北海道ファミリー旅行】旭山動物園・富良野ファーム・大自然を巡る子連れ安心のモデルコース徹底解説
             </div>
           </Link>

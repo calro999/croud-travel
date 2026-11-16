@@ -42,7 +42,7 @@ export default function KyotoBudgetAutumnPage() {
             <span className="px-3 py-1 bg-stone-800 text-amber-300 text-xs font-medium rounded-full border border-amber-400/30">1泊目安: 4,000円台〜7,000円台</span>
           </div>
           <h1 className="text-2xl md:text-4xl lg:text-5xl font-extrabold text-white leading-tight mb-4 drop-shadow-md">「秋の京都×格安」紅葉狩りをお得に満喫！大浴場・サウナ付き1泊4,000円台〜のコスパ最強おすすめホテル5選</h1>
-          <p className="text-stone-200 text-sm md:text-base max-w-3xl line-clamp-2 md:line-clamp-none">
+          <p className="text-stone-200 text-sm md:text-base max-w-3xl">
             ハイシーズンの京都はホテル代が高騰しがちですが、大浴場付き＆高評価でも1泊4,000円台から泊まれる優良宿が実は存在します。紅葉散策で歩き疲れた身体を癒やすおすすめコスパホテルをご紹介します。
           </p>
         </div>
@@ -98,7 +98,7 @@ export default function KyotoBudgetAutumnPage() {
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 京都駅 / JR「京都駅」八条西口より徒歩12分、近鉄「東寺駅」より徒歩3分
                   </p>
-                  <p className="text-sm text-stone-600 mb-4 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-stone-600 mb-4 leading-relaxed">
                     京都駅から徒歩10分 | 世界遺産「東寺」ビューと大浴場・サウナ、おばんざい朝食ビュッフェで京都満喫
                   </p>
                 </div>
@@ -143,7 +143,7 @@ export default function KyotoBudgetAutumnPage() {
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 京都駅 / ＪＲ京都駅八条東口徒歩2分 ◇ 空港リムジンバスのりば（伊丹・関空）すぐ◇京都南ICから約15分
                   </p>
-                  <p className="text-sm text-stone-600 mb-4 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-stone-600 mb-4 leading-relaxed">
                     京都駅・空港バス徒歩2分。全室リニューアル！駅前ホテル最大級の大浴場完備（サウナ付）
                   </p>
                 </div>
@@ -188,7 +188,7 @@ export default function KyotoBudgetAutumnPage() {
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 山科駅 / ※新快速停車※京都・大津から約５分！ＪＲ琵琶湖線・湖西線／京阪京津線／市営地下鉄東西線　山科駅より地下道直結で徒歩1分！
                   </p>
-                  <p className="text-sm text-stone-600 mb-4 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-stone-600 mb-4 leading-relaxed">
                     京都観光の定番「祇園・清水」エリアまで地下鉄で乗換なし。大浴場は女性専用で人気のシャンプーバーあり
                   </p>
                 </div>
@@ -233,7 +233,7 @@ export default function KyotoBudgetAutumnPage() {
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 五条（京都市営）駅 / 京都市営地下鉄烏丸線五条駅３番出口より徒歩１分■京都駅より徒歩約15分■新京都東ICから約16分■京都南ICから約21分
                   </p>
-                  <p className="text-sm text-stone-600 mb-4 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-stone-600 mb-4 leading-relaxed">
                     サウナ付大浴場完備 京都市営地下鉄烏丸線五条駅3番出口徒歩1分 京都観光に最適 18歳以下添い寝無料
                   </p>
                 </div>
@@ -278,7 +278,7 @@ export default function KyotoBudgetAutumnPage() {
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 烏丸駅 / 阪急京都線 烏丸駅・ 地下鉄烏丸線 四条駅より徒歩にて約５分
                   </p>
-                  <p className="text-sm text-stone-600 mb-4 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-stone-600 mb-4 leading-relaxed">
                     ハッピーアワーからぶぶ漬けバイキングまで『無料ラウンジサービス』付き  | 手足伸ばせる大浴場 完備
                   </p>
                 </div>

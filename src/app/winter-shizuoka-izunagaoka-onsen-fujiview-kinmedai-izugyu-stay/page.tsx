@@ -657,8 +657,8 @@ export default function ShizuokaIzunagaokaWinterPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">静岡・焼津温泉</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">駿河湾富士山絶景露天＆天然南まぐろ名宿</h4>
-              <p className="text-[11px] text-stone-200 line-clamp-2">
+              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition">駿河湾富士山絶景露天＆天然南まぐろ名宿</h4>
+              <p className="text-[11px] text-stone-200">
                 海越しに望む冠雪富士パノラマと、焼津港直送の極上天然南マグロ・高濃度温泉を満喫する冬旅。
               </p>
             </Link>
@@ -668,8 +668,8 @@ export default function ShizuokaIzunagaokaWinterPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">千葉・南房総館山</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">海越し冠雪富士＆解禁房州伊勢海老・地魚名宿</h4>
-              <p className="text-[11px] text-stone-200 line-clamp-2">
+              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition">海越し冠雪富士＆解禁房州伊勢海老・地魚名宿</h4>
+              <p className="text-[11px] text-stone-200">
                 鏡ヶ浦越しに夕暮れの紅富士を望む温暖避寒リゾートと、獲れたて房州伊勢海老を味わう休日。
               </p>
             </Link>
@@ -679,8 +679,8 @@ export default function ShizuokaIzunagaokaWinterPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">静岡・浜名湖</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">かんざんじ温泉 遠州灘天然とらふぐ＆浜名湖うなぎ宿</h4>
-              <p className="text-[11px] text-stone-200 line-clamp-2">
+              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition">かんざんじ温泉 遠州灘天然とらふぐ＆浜名湖うなぎ宿</h4>
+              <p className="text-[11px] text-stone-200">
                 浜名湖夕景を望む露天風呂と、冬の味覚天然とらふぐフルコース・名物鰻を堪能する冬旅。
               </p>
             </Link>

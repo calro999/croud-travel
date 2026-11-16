@@ -367,19 +367,19 @@ export default function ArticlePage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/winter-saga-furuyu-kumanokawa-onsen-nuruyu-sagagyu-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">（metadata.title as string）</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">（metadata.title as string）</span>
             </a>
             <a href="/winter-saga-takeo-onsen-romon-saga-beef-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12月武雄温泉の冬名湯と最高峰佐賀牛】 国重文・朱塗り楼門と1300年美肌古湯・御船山初冬風情＆極上佐賀牛会席の宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">【11・12月武雄温泉の冬名湯と最高峰佐賀牛】 国重文・朱塗り楼門と1300年美肌古湯・御船山初冬風情＆極上佐賀牛会席の宿5選</span>
             </a>
             <a href="/fukuoka-departure-daytrip-bus-tour-guide/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「福岡・博多発 日帰りバスツアー」 呼子活イカ・由布院温泉街散策・阿蘇カルデラ絶景 の格安ツアー比較</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「福岡・博多発 日帰りバスツアー」 呼子活イカ・由布院温泉街散策・阿蘇カルデラ絶景 の格安ツアー比較</span>
             </a>
             <a href="/japan-top-brand-wagyu-beef-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「日本五大ブランド和牛の宿」松阪牛・神戸牛・米沢牛・近江牛・佐賀牛極上会席 厳選ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「日本五大ブランド和牛の宿」松阪牛・神戸牛・米沢牛・近江牛・佐賀牛極上会席 厳選ガイド</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

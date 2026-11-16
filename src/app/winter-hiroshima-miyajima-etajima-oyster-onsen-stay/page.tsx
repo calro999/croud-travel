@@ -601,21 +601,21 @@ export default function HiroshimaMiyajimaOysterWinterPage() {
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-rose-700 font-bold block text-[10px]">愛媛・道後温泉</span>
-              <p className="font-bold text-stone-800 line-clamp-2">日本最古の名湯道後温泉本館と名物宇和島鯛めし・瀬戸内の冬美食ステイ</p>
+              <p className="font-bold text-stone-800">日本最古の名湯道後温泉本館と名物宇和島鯛めし・瀬戸内の冬美食ステイ</p>
             </Link>
             <Link 
               href="/winter-hyogo-awajishima-sumoto-3year-torafugu-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-rose-700 font-bold block text-[10px]">兵庫・淡路島</span>
-              <p className="font-bold text-stone-800 line-clamp-2">冬の淡路島3年とらふぐフルコースと洲本温泉・鳴門海峡の冬絶景露天宿</p>
+              <p className="font-bold text-stone-800">冬の淡路島3年とらふぐフルコースと洲本温泉・鳴門海峡の冬絶景露天宿</p>
             </Link>
             <Link 
               href="/winter-kagawa-shodoshima-onsen-kankakei-olive-beef-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-rose-700 font-bold block text-[10px]">香川・小豆島温泉</span>
-              <p className="font-bold text-stone-800 line-clamp-2">寒霞渓の冬景色とオリーブ牛ステーキ・瀬戸内海を一望する海辺リゾート</p>
+              <p className="font-bold text-stone-800">寒霞渓の冬景色とオリーブ牛ステーキ・瀬戸内海を一望する海辺リゾート</p>
             </Link>
           
       <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">

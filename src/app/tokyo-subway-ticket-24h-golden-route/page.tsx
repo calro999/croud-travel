@@ -411,8 +411,8 @@ export default function TokyoSubwayTicket24hPage() {
                     <div className="text-[11px] font-bold text-cyan-800 mb-1">
                       {hotel.nearestStation ? `最寄駅: ${hotel.nearestStation}` : hotel.address1 || "東京・銀座・築地"}
                     </div>
-                    <h3 className="font-black text-slate-900 text-base leading-snug group-hover:text-cyan-700 transition line-clamp-2">{hotel.hotelName}</h3>
-                    <p className="text-xs text-slate-600 mt-2 line-clamp-2 leading-relaxed">
+                    <h3 className="font-black text-slate-900 text-base leading-snug group-hover:text-cyan-700 transition">{hotel.hotelName}</h3>
+                    <p className="text-xs text-slate-600 mt-2 leading-relaxed">
                       {hotel.hotelSpecial || "地下鉄各線へのアクセス抜群。東京観光・ショッピングの拠点に最適な快適ステイ。"}
                     </p>
                   </div>
@@ -534,19 +534,19 @@ export default function TokyoSubwayTicket24hPage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/tokyo-fujikawaguchiko-highway-bus-guide/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">新宿・東京から富士急・河口湖 直行バス：電車とどっちが安い？料金・時間比較＆絶景1泊2日モデルコース</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">新宿・東京から富士急・河口湖 直行バス：電車とどっちが安い？料金・時間比較＆絶景1泊2日モデルコース</span>
             </a>
             <a href="/tokyo-kyoto-bus-vs-shinkansen-guide/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">東京から京都 安く行く方法：新幹線 vs 夜行バス比較！早朝6時着で清水寺・嵐山1泊2日モデルコース</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">東京から京都 安く行く方法：新幹線 vs 夜行バス比較！早朝6時着で清水寺・嵐山1泊2日モデルコース</span>
             </a>
             <a href="/tokyo-sendai-bus-vs-shinkansen-guide/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">東京から仙台 安く行く方法：新幹線 vs 高速バス徹底比較！牛たん・松島1泊2日モデルコース「2026最新」</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">東京から仙台 安く行く方法：新幹線 vs 高速バス徹底比較！牛たん・松島1泊2日モデルコース「2026最新」</span>
             </a>
             <a href="/tokyo-ueno-solo-business-sauna-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">上野出張・極上サウナステイ：新幹線直結・徒士の湯・アメ横グルメ！下町情緒と北の玄関口を極める厳選3宿</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">上野出張・極上サウナステイ：新幹線直結・徒士の湯・アメ横グルメ！下町情緒と北の玄関口を極める厳選3宿</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

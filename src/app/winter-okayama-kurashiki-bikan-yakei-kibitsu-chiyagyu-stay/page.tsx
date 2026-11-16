@@ -620,7 +620,7 @@ export default function OkayamaKurashikiBikanWinterPage() {
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-indigo-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-indigo-800 font-bold text-xs block mb-1">岡山・日生牛窓</span>
-              <span className="text-stone-900 font-bold group-hover:text-indigo-900 transition-colors line-clamp-2">
+              <span className="text-stone-900 font-bold group-hover:text-indigo-900 transition-colors">
                 冬の日生牡蠣・名物カキオコと牛窓オリーブ園の絶景オーシャンビュー宿
               </span>
             </Link>
@@ -630,7 +630,7 @@ export default function OkayamaKurashikiBikanWinterPage() {
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-indigo-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-indigo-800 font-bold text-xs block mb-1">岡山・湯原温泉</span>
-              <span className="text-stone-900 font-bold group-hover:text-indigo-900 transition-colors line-clamp-2">
+              <span className="text-stone-900 font-bold group-hover:text-indigo-900 transition-colors">
                 天下の名湯砂湯露天風呂と蒜山和牛・冬の雪見風呂を満喫する老舗温泉宿
               </span>
             </Link>
@@ -640,7 +640,7 @@ export default function OkayamaKurashikiBikanWinterPage() {
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-indigo-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-indigo-800 font-bold text-xs block mb-1">広島・鞆の浦温泉</span>
-              <span className="text-stone-900 font-bold group-hover:text-indigo-900 transition-colors line-clamp-2">
+              <span className="text-stone-900 font-bold group-hover:text-indigo-900 transition-colors">
                 潮待ちの港・鞆の浦の冬情緒と瀬戸内鯛めし・峠下牛を味わう絶景温泉宿
               </span>
             </Link>
@@ -650,7 +650,7 @@ export default function OkayamaKurashikiBikanWinterPage() {
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-indigo-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-indigo-800 font-bold text-xs block mb-1">香川・琴平温泉</span>
-              <span className="text-stone-900 font-bold group-hover:text-indigo-900 transition-colors line-clamp-2">
+              <span className="text-stone-900 font-bold group-hover:text-indigo-900 transition-colors">
                 金刀比羅宮新春初詣と讃岐うどん・オリーブ牛を堪能する琴平温泉の名宿
               </span>
             </Link>
@@ -660,7 +660,7 @@ export default function OkayamaKurashikiBikanWinterPage() {
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-indigo-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-indigo-800 font-bold text-xs block mb-1">三重・伊勢神宮</span>
-              <span className="text-stone-900 font-bold group-hover:text-indigo-900 transition-colors line-clamp-2">
+              <span className="text-stone-900 font-bold group-hover:text-indigo-900 transition-colors">
                 新春初詣とおかげ横丁・五十鈴川の朝霧と冬の伊勢海老・松阪牛会席の名宿
               </span>
             </Link>

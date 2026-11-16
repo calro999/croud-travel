@@ -567,8 +567,8 @@ export default function KagoshimaMyokenPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">鹿児島・霧島温泉郷</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">霧島神宮の初冬参拝と坂本龍馬ゆかりの名湯</h4>
-              <p className="text-[11px] text-stone-200 line-clamp-2">
+              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition">霧島神宮の初冬参拝と坂本龍馬ゆかりの名湯</h4>
+              <p className="text-[11px] text-stone-200">
                 立ち込める硫黄の湯けむりと国宝霧島神宮、かごしま黒豚しゃぶしゃぶを味わう歴史ロマン旅。
               </p>
             </Link>
@@ -578,8 +578,8 @@ export default function KagoshimaMyokenPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">鹿児島・指宿温泉</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">指宿名物砂むし温泉と冬の錦江湾絶景</h4>
-              <p className="text-[11px] text-stone-200 line-clamp-2">
+              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition">指宿名物砂むし温泉と冬の錦江湾絶景</h4>
+              <p className="text-[11px] text-stone-200">
                 波打ち際の天然砂むし温泉で全身デトックス、黒豚料理と温かな南国ステイを満喫。
               </p>
             </Link>
@@ -589,8 +589,8 @@ export default function KagoshimaMyokenPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">宮崎・高千穂峡</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">神話の里・高千穂の夜神楽と高千穂牛会席</h4>
-              <p className="text-[11px] text-stone-200 line-clamp-2">
+              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition">神話の里・高千穂の夜神楽と高千穂牛会席</h4>
+              <p className="text-[11px] text-stone-200">
                 冬の夜に奉納される重要無形民俗文化財の夜神楽と高千穂峡の荘厳な渓谷美を巡る旅。
               </p>
             </Link>

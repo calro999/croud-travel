@@ -433,19 +433,19 @@ export default function ArticlePage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/fukuoka-kumamoto-bus-vs-shinkansen-guide/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「博多から熊本 新幹線と高速バスどっち？」ひのくに号 vs 九州新幹線比較＆熊本城・あか牛1泊2日モデルコース</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「博多から熊本 新幹線と高速バスどっち？」ひのくに号 vs 九州新幹線比較＆熊本城・あか牛1泊2日モデルコース</span>
             </a>
             <a href="/furusato-tax-traditional-unagi-eel-gourmet-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">名産地で味わう極上うなぎ会席＆蒲焼・ひつまぶし名湯宿×ふるさと納税厳選ガイド浜名湖・三島・柳川</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">名産地で味わう極上うなぎ会席＆蒲焼・ひつまぶし名湯宿×ふるさと納税厳選ガイド浜名湖・三島・柳川</span>
             </a>
             <a href="/spring-fukuoka-amaou-strawberry-sweets-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「あまおう苺スイーツ＆博多水炊き」福岡特産いちごパフェと原鶴・秋月温泉の美食名湯宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「あまおう苺スイーツ＆博多水炊き」福岡特産いちごパフェと原鶴・秋月温泉の美食名湯宿5選</span>
             </a>
             <a href="/winter-fukuoka-fukutsu-miyajidake-shrine-hatsumode-hikari-genkainada-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「光の道夕景と日本一の大注連縄・宮地嶽神社新春初詣」2026-2027年冬の福岡・福津＆玄界灘！天然とらふぐと博多和牛名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「光の道夕景と日本一の大注連縄・宮地嶽神社新春初詣」2026-2027年冬の福岡・福津＆玄界灘！天然とらふぐと博多和牛名宿5選</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

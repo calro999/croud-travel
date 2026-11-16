@@ -42,7 +42,7 @@ export default function KorankeiAutumnPage() {
             <span className="px-3 py-1 bg-stone-800 text-amber-300 text-xs font-medium rounded-full border border-amber-400/30">見頃・まつり: 11月上旬〜11月下旬</span>
           </div>
           <h1 className="text-2xl md:text-4xl lg:text-5xl font-extrabold text-white leading-tight mb-4 drop-shadow-md">「秋の香嵐渓」4000本のもみじ狩りと巴川ライトアップ！三河の名湯と美食を味わうおすすめ宿5選</h1>
-          <p className="text-stone-200 text-sm md:text-base max-w-3xl line-clamp-2 md:line-clamp-none">
+          <p className="text-stone-200 text-sm md:text-base max-w-3xl">
             寛永年間に香積寺の三栄和尚が一筋の祈りを込めて植えたのが始まりとされる香嵐渓の紅葉。清流・巴川を黄金と真紅に染める4,000本のもみじトンネルと、三河の名湯・天然ラドン温泉に癒やされる秋の贅沢ステイをご紹介します。
           </p>
         </div>
@@ -98,7 +98,7 @@ export default function KorankeiAutumnPage() {
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 豊田市駅 / お車で新東名高速道路　新城I.Cより約１時間。岡崎東I.Cより約４５分
                   </p>
-                  <p className="text-sm text-stone-600 mb-4 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-stone-600 mb-4 leading-relaxed">
                     山間の四季折々の風景と心地良い音を奏でる。自家栽培の素材を生かした女将の手作り料理でおもてなし♪
                   </p>
                 </div>
@@ -143,7 +143,7 @@ export default function KorankeiAutumnPage() {
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 猿投駅 / 豊田市駅より（おいでんバス）小渡（おど）行き乗車（加茂橋下駅）下車徒歩1分(東海環状自動車道、豊田藤岡インターから15分
                   </p>
-                  <p className="text-sm text-stone-600 mb-4 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-stone-600 mb-4 leading-relaxed">
                     低料金で家庭的な宿。紅葉の名所足助香嵐渓まで20分,西広瀬工業団地まで15分。行楽,ビジネスにどうぞ
                   </p>
                 </div>
@@ -188,7 +188,7 @@ export default function KorankeiAutumnPage() {
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 保見駅 / 東名高速、名古屋ICから車で30分。猿投グリーンロード加納IC下車。
                   </p>
-                  <p className="text-sm text-stone-600 mb-4 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-stone-600 mb-4 leading-relaxed">
                     名古屋ICから30分　/　駐車場無料　/　天然ラドン温泉　/　　藤ヶ丘駅より巡回バス有　
                   </p>
                 </div>
@@ -233,7 +233,7 @@ export default function KorankeiAutumnPage() {
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 豊田市駅 / 名鉄　豊田市駅から徒歩１分
                   </p>
-                  <p className="text-sm text-stone-600 mb-4 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-stone-600 mb-4 leading-relaxed">
                     名鉄豊田市駅から徒歩約1分！VOD無料(※8階は除く）リファシャワーヘッド（※8階RN客室のみ）
                   </p>
                 </div>
@@ -278,7 +278,7 @@ export default function KorankeiAutumnPage() {
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 豊田市駅 / 名鉄三河線　梅平駅より徒歩約１０分／名鉄三河線　豊田市駅より徒歩約２０分
                   </p>
-                  <p className="text-sm text-stone-600 mb-4 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-stone-600 mb-4 leading-relaxed">
                     ＷＯＷＯＷ全室で無料視聴可■VODルームシアター無料視聴可能（一般映画のみ：コンフォート特典）
                   </p>
                 </div>

@@ -339,15 +339,15 @@ export default function KamakuraRainyDayCafeMuseumPage() {
                             )}
                           </div>
                         )}
-                        <span className="text-[11px] text-indigo-300 truncate">
+                        <span className="text-[11px] text-indigo-300 break-words">
                           {hotel.address1}
                         </span>
                       </div>
 
-                      <h3 className="text-base font-bold text-white line-clamp-2 leading-snug">{hotel.hotelName}</h3>
+                      <h3 className="text-base font-bold text-white leading-snug">{hotel.hotelName}</h3>
 
                       {special && (
-                        <p className="text-xs text-indigo-200 line-clamp-3 leading-relaxed bg-indigo-950/50 p-2.5 rounded-lg border border-indigo-800/60">
+                        <p className="text-xs text-indigo-200 leading-relaxed bg-indigo-950/50 p-2.5 rounded-lg border border-indigo-800/60">
                           {special}
                         </p>
                       )}
@@ -440,19 +440,19 @@ export default function KamakuraRainyDayCafeMuseumPage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/kanagawa-kamakura-shonan-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「古都鎌倉＆湘南江の島」鶴岡八幡宮・江ノ電・富士夕景ホテル 厳選ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「古都鎌倉＆湘南江の島」鶴岡八幡宮・江ノ電・富士夕景ホテル 厳選ガイド</span>
             </a>
             <a href="/luxury-private-onsen-with-scenic-moss-garden/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「幽玄の苔庭テラス」青苔と石灯籠を望むプライベート露天風呂！京都・箱根の侘び寂び隠れ宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「幽玄の苔庭テラス」青苔と石灯籠を望むプライベート露天風呂！京都・箱根の侘び寂び隠れ宿5選</span>
             </a>
             <a href="/shakyo-meditation-mindfulness-sacred-temple-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">写経・写仏＆瞑想マインドフルネス宿厳選ガイド「出羽三山・お遍路・鎌倉」</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">写経・写仏＆瞑想マインドフルネス宿厳選ガイド「出羽三山・お遍路・鎌倉」</span>
             </a>
             <a href="/winter-akita-yokote-kamakura-oyasukyo-shigakko-inaniwa-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">横手＆湯沢・小安峡！ 約450年の伝統「横手のかまくら」雪まつり＆小安峡大噴湯の巨大氷柱「しがっこ」・本場稲庭うどん＆雪見露天名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">横手＆湯沢・小安峡！ 約450年の伝統「横手のかまくら」雪まつり＆小安峡大噴湯の巨大氷柱「しがっこ」・本場稲庭うどん＆雪見露天名宿5選</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

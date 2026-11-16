@@ -160,7 +160,7 @@ export default function Page() {
           <span>&gt;</span>
           <Link href="/features/" className="hover:text-emerald-700">特集一覧</Link>
           <span>&gt;</span>
-          <span className="text-stone-800 font-semibold truncate">世界遺産×聖地巡礼の秘湯</span>
+          <span className="text-stone-800 font-semibold break-words">世界遺産×聖地巡礼の秘湯</span>
         </div>
       </div>
 
@@ -348,19 +348,19 @@ export default function Page() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/winter-crab-gourmet/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【冬の味覚の王様】ブランド松葉ガニ・越前ガニ食べ放題＆温泉旅館厳選特集</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">【冬の味覚の王様】ブランド松葉ガニ・越前ガニ食べ放題＆温泉旅館厳選特集</span>
             </a>
             <a href="/winter-snow-onsen/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">雪見露天風呂の絶景宿特集｜銀世界の温泉とあったか部屋食を楽しむ冬旅</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">雪見露天風呂の絶景宿特集｜銀世界の温泉とあったか部屋食を楽しむ冬旅</span>
             </a>
             <a href="/furusato/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【最大30%還元】楽天トラベルふるさと納税宿泊クーポン完全攻略ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">【最大30%還元】楽天トラベルふるさと納税宿泊クーポン完全攻略ガイド</span>
             </a>
             <a href="/winter-travel-special/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">2026-2027冬の絶景＆美食旅行特集まとめ｜年末年始・雪見温泉・イルミ</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">2026-2027冬の絶景＆美食旅行特集まとめ｜年末年始・雪見温泉・イルミ</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

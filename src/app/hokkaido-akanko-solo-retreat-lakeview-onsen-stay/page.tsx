@@ -370,19 +370,19 @@ export default function ArticlePage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/hokkaido-travel-budget-plan/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">北海道旅行 予算：2泊3日・3泊4日はいくら必要？レンタカーなしでも回れる費用計画ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">北海道旅行 予算：2泊3日・3泊4日はいくら必要？レンタカーなしでも回れる費用計画ガイド</span>
             </a>
             <a href="/winter-hokkaido-akanko-onsen-lakeview-frost-flower-hokkaido-beef-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12月北海道・阿寒湖温泉の初冬フロストフラワーとアイヌ文化】極上道東海鮮蟹会席＆北海道黒毛和牛を愉しむ湖畔名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">【11・12月北海道・阿寒湖温泉の初冬フロストフラワーとアイヌ文化】極上道東海鮮蟹会席＆北海道黒毛和牛を愉しむ湖畔名宿5選</span>
             </a>
             <a href="/winter-hokkaido-monbetsu-drift-ice-garinko-driftice-gourmet-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【紋別流氷観光＆ガリンコ号】巨大ドリルで氷を砕く圧巻の航海！氷海オホーツクタワー・極上毛ガニ＆ホタテを満喫する冬の厳選宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">【紋別流氷観光＆ガリンコ号】巨大ドリルで氷を砕く圧巻の航海！氷海オホーツクタワー・極上毛ガニ＆ホタテを満喫する冬の厳選宿5選</span>
             </a>
             <a href="/winter-hokkaido-shikaribetsu-kotan-nukabira-onsen-ice-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【12・1月北海道】然別湖＆ぬかびら源泉郷！氷結した湖上の幻の村「しかりべつ湖コタン」氷上露天風呂＆タウシュベツ川橋梁・十勝ハーブ牛名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">【12・1月北海道】然別湖＆ぬかびら源泉郷！氷結した湖上の幻の村「しかりべつ湖コタン」氷上露天風呂＆タウシュベツ川橋梁・十勝ハーブ牛名宿5選</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

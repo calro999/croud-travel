@@ -623,19 +623,19 @@ export default function FeatureDetailPage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/mie-toba-shima-kashikojima-pearl-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「三重・鳥羽＆志摩・賢島」英虞湾リアス式夕日・ミキモト真珠島＆伊勢海老海女小屋宿 厳選ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「三重・鳥羽＆志摩・賢島」英虞湾リアス式夕日・ミキモト真珠島＆伊勢海老海女小屋宿 厳選ガイド</span>
             </a>
             <a href="/okayama-kurashiki-solo-retreat-culture-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「岡山・倉敷ひとり旅＆出張」岡山駅直結・倉敷美観地区・大浴場！白壁の街と日本庭園に癒やされる大人のおこもり宿 厳選3選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「岡山・倉敷ひとり旅＆出張」岡山駅直結・倉敷美観地区・大浴場！白壁の街と日本庭園に癒やされる大人のおこもり宿 厳選3選</span>
             </a>
             <a href="/spring-okayama-muscat-sweets-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「フルーツ王国岡山」シャインマスカット贅沢パフェ＆美作三湯！湯原・奥津・湯郷の美食温泉宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「フルーツ王国岡山」シャインマスカット贅沢パフェ＆美作三湯！湯原・奥津・湯郷の美食温泉宿5選</span>
             </a>
             <a href="/winter-okayama-kibiji-soja-saijo-inari-hatsumode-chiyagyu-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">岡山・吉備路・総社＆最上稲荷 最上稲荷の新春初詣＆国宝吉備津神社の400m廻廊！ 備中国分寺五重塔と幻の千屋牛を味わう厳選名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">岡山・吉備路・総社＆最上稲荷 最上稲荷の新春初詣＆国宝吉備津神社の400m廻廊！ 備中国分寺五重塔と幻の千屋牛を味わう厳選名宿5選</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

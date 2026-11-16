@@ -618,7 +618,7 @@ export default function NoboribetsuWinterPage() {
               className="bg-white p-4 rounded-2xl border border-stone-200/80 hover:border-cyan-700 hover:shadow-md transition group block"
             >
               <span className="text-[10px] font-extrabold text-cyan-800 uppercase block mb-1">東北の雪見名湯</span>
-              <h3 className="text-sm font-bold text-stone-900 group-hover:text-cyan-800 transition line-clamp-2">【銀山温泉】白銀の温泉街に灯るガス灯と尾花沢牛会席・極上雪見宿</h3>
+              <h3 className="text-sm font-bold text-stone-900 group-hover:text-cyan-800 transition">【銀山温泉】白銀の温泉街に灯るガス灯と尾花沢牛会席・極上雪見宿</h3>
             </Link>
 
             <Link 
@@ -626,7 +626,7 @@ export default function NoboribetsuWinterPage() {
               className="bg-white p-4 rounded-2xl border border-stone-200/80 hover:border-cyan-700 hover:shadow-md transition group block"
             >
               <span className="text-[10px] font-extrabold text-cyan-800 uppercase block mb-1">秘湯の雪見露天</span>
-              <h3 className="text-sm font-bold text-stone-900 group-hover:text-cyan-800 transition line-clamp-2">【乳頭温泉郷】雪深いブナ原生林の秘湯とにごり湯・比内地鶏きりたんぽ鍋</h3>
+              <h3 className="text-sm font-bold text-stone-900 group-hover:text-cyan-800 transition">【乳頭温泉郷】雪深いブナ原生林の秘湯とにごり湯・比内地鶏きりたんぽ鍋</h3>
             </Link>
 
             <Link 
@@ -634,7 +634,7 @@ export default function NoboribetsuWinterPage() {
               className="bg-white p-4 rounded-2xl border border-stone-200/80 hover:border-cyan-700 hover:shadow-md transition group block"
             >
               <span className="text-[10px] font-extrabold text-cyan-800 uppercase block mb-1">北関東の雪見秘湯</span>
-              <h3 className="text-sm font-bold text-stone-900 group-hover:text-cyan-800 transition line-clamp-2">【奥日光湯元温泉】乳白色のにごり湯と白銀の静寂・雪見露天宿</h3>
+              <h3 className="text-sm font-bold text-stone-900 group-hover:text-cyan-800 transition">【奥日光湯元温泉】乳白色のにごり湯と白銀の静寂・雪見露天宿</h3>
             </Link>
 
             <Link 
@@ -642,7 +642,7 @@ export default function NoboribetsuWinterPage() {
               className="bg-white p-4 rounded-2xl border border-stone-200/80 hover:border-cyan-700 hover:shadow-md transition group block"
             >
               <span className="text-[10px] font-extrabold text-cyan-800 uppercase block mb-1">冬の味覚の王様</span>
-              <h3 className="text-sm font-bold text-stone-900 group-hover:text-cyan-800 transition line-clamp-2">【極上カニ宿ランキング】冬の味覚・本場活ガニをフルコースで味わう至高の温泉旅館</h3>
+              <h3 className="text-sm font-bold text-stone-900 group-hover:text-cyan-800 transition">【極上カニ宿ランキング】冬の味覚・本場活ガニをフルコースで味わう至高の温泉旅館</h3>
             </Link>
 
             <Link 
@@ -650,7 +650,7 @@ export default function NoboribetsuWinterPage() {
               className="bg-white p-4 rounded-2xl border border-stone-200/80 hover:border-cyan-700 hover:shadow-md transition group block"
             >
               <span className="text-[10px] font-extrabold text-cyan-800 uppercase block mb-1">信州の白銀名湯</span>
-              <h3 className="text-sm font-bold text-stone-900 group-hover:text-cyan-800 transition line-clamp-2">【野沢温泉】極上パウダースノーと十三外湯めぐり・信州牛郷土会席</h3>
+              <h3 className="text-sm font-bold text-stone-900 group-hover:text-cyan-800 transition">【野沢温泉】極上パウダースノーと十三外湯めぐり・信州牛郷土会席</h3>
             </Link>
 
             <Link 
@@ -658,7 +658,7 @@ export default function NoboribetsuWinterPage() {
               className="bg-white p-4 rounded-2xl border border-stone-200/80 hover:border-cyan-700 hover:shadow-md transition group block"
             >
               <span className="text-[10px] font-extrabold text-cyan-800 uppercase block mb-1">会津の初雪名湯</span>
-              <h3 className="text-sm font-bold text-stone-900 group-hover:text-cyan-800 transition line-clamp-2">【会津東山温泉】雪化粧の湯川渓谷露天と会津地鶏・極上馬刺し会席の宿</h3>
+              <h3 className="text-sm font-bold text-stone-900 group-hover:text-cyan-800 transition">【会津東山温泉】雪化粧の湯川渓谷露天と会津地鶏・極上馬刺し会席の宿</h3>
             </Link>
           
       <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">

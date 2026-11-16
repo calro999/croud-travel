@@ -135,7 +135,7 @@ export default function RelatedPosts({
             className="p-3 rounded-2xl bg-white/10 hover:bg-white/20 border border-amber-400/30 hover:border-amber-400 transition block group space-y-1"
           >
             <span className="text-[10px] text-amber-300 font-bold block">♨️ 全国温泉地ランキングTOP12</span>
-            <p className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">
+            <p className="text-xs font-bold text-white group-hover:text-amber-200 transition">
               草津・箱根・有馬・由布院・別府・城崎の名旅館徹底比較（泉質・露天比較）
             </p>
           </Link>
@@ -144,7 +144,7 @@ export default function RelatedPosts({
             className="p-3 rounded-2xl bg-white/10 hover:bg-white/20 border border-indigo-400/30 hover:border-indigo-400 transition block group space-y-1"
           >
             <span className="text-[10px] text-indigo-300 font-bold block">🍷 オールインクルーシブTOP12</span>
-            <p className="text-xs font-bold text-white group-hover:text-indigo-200 transition line-clamp-2">
+            <p className="text-xs font-bold text-white group-hover:text-indigo-200 transition">
               ビール・地酒・夜食・貸切風呂まで全て無料の極上リゾート（滞在体験まとめ）
             </p>
           </Link>
@@ -153,7 +153,7 @@ export default function RelatedPosts({
             className="p-3 rounded-2xl bg-white/10 hover:bg-white/20 border border-teal-400/30 hover:border-teal-400 transition block group space-y-1"
           >
             <span className="text-[10px] text-teal-300 font-bold block">🧖 サウナシュラン受賞宿TOP12</span>
-            <p className="text-xs font-bold text-white group-hover:text-teal-200 transition line-clamp-2">
+            <p className="text-xs font-bold text-white group-hover:text-teal-200 transition">
               らかんの湯・北こぶし知床・マウント富士の絶景ととのい（水風呂・外気浴案内）
             </p>
           </Link>
@@ -162,7 +162,7 @@ export default function RelatedPosts({
             className="p-3 rounded-2xl bg-white/10 hover:bg-white/20 border border-teal-400/30 hover:border-teal-400 transition block group space-y-1"
           >
             <span className="text-[10px] text-teal-300 font-bold block">♨️ 客室露天＆貸切風呂TOP12</span>
-            <p className="text-xs font-bold text-white group-hover:text-teal-200 transition line-clamp-2">
+            <p className="text-xs font-bold text-white group-hover:text-teal-200 transition">
               箱根・草津・有馬・由布院！誰の目も気にせず名湯独占（プライベート湯宿比較）
             </p>
           </Link>
@@ -171,7 +171,7 @@ export default function RelatedPosts({
             className="p-3 rounded-2xl bg-white/10 hover:bg-white/20 border border-cyan-400/30 hover:border-cyan-400 transition block group space-y-1"
           >
             <span className="text-[10px] text-cyan-300 font-bold block">🌅 絶景インフィニティ温泉TOP12</span>
-            <p className="text-xs font-bold text-white group-hover:text-cyan-200 transition line-clamp-2">
+            <p className="text-xs font-bold text-white group-hover:text-cyan-200 transition">
               熱海・河口湖・別府・洞爺湖！海と空に浮かぶ奇跡の天空露天（絶景湯厳選）
             </p>
           </Link>
@@ -180,7 +180,7 @@ export default function RelatedPosts({
             className="p-3 rounded-2xl bg-white/10 hover:bg-white/20 border border-rose-400/30 hover:border-rose-400 transition block group space-y-1"
           >
             <span className="text-[10px] text-rose-300 font-bold block">⛩️ 年末年始・初詣＆初日の出</span>
-            <p className="text-xs font-bold text-white group-hover:text-rose-200 transition line-clamp-2">
+            <p className="text-xs font-bold text-white group-hover:text-rose-200 transition">
               伊勢神宮・出雲大社・富士山近くの開運旅館ランキング（年越し・正月滞在）
             </p>
           </Link>
@@ -189,7 +189,7 @@ export default function RelatedPosts({
             className="p-3 rounded-2xl bg-white/10 hover:bg-white/20 border border-amber-400/30 hover:border-amber-400 transition block group space-y-1"
           >
             <span className="text-[10px] text-amber-300 font-bold block">💰 実質2000円宿泊</span>
-            <p className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">
+            <p className="text-xs font-bold text-white group-hover:text-amber-200 transition">
               楽天ふるさと納税×高級宿！還元率30%クーポンで泊まる憧れの宿12選
             </p>
           </Link>
@@ -198,7 +198,7 @@ export default function RelatedPosts({
             className="p-3 rounded-2xl bg-white/10 hover:bg-white/20 border border-red-400/30 hover:border-red-400 transition block group space-y-1"
           >
             <span className="text-[10px] text-red-300 font-bold block">🦀 冬の味覚・カニ解禁</span>
-            <p className="text-xs font-bold text-white group-hover:text-red-200 transition line-clamp-2">
+            <p className="text-xs font-bold text-white group-hover:text-red-200 transition">
               松葉ガニ・越前がに・間人ガニ解禁！タグ付き活蟹が食べられる宿12選
             </p>
           </Link>
@@ -241,7 +241,7 @@ export default function RelatedPosts({
                 </span>
               </div>
               <div className="p-4 flex flex-col justify-between flex-grow space-y-2">
-                <h4 className="text-xs font-bold text-emerald-950 line-clamp-2 group-hover:text-teal-800 transition">{post.title}</h4>
+                <h4 className="text-xs font-bold text-emerald-950 group-hover:text-teal-800 transition">{post.title}</h4>
                 <div className="flex items-center justify-between text-[10px] text-teal-900/60 font-semibold pt-2 border-t border-emerald-950/5">
                   <span className="truncate max-w-[140px]">{post.hotel_name}</span>
                   {post.rating && <span className="text-amber-600 font-bold shrink-0">⭐ {post.rating}</span>}

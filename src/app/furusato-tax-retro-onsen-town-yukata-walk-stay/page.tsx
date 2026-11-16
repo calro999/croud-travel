@@ -476,19 +476,19 @@ export default function FurusatoRetroOnsenTownYukataStayPage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/furusato-tax-kanreki-celebration-oyakoukou-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">還暦・古希・長寿祝い＆親孝行温泉旅に選ぶ極上名旅館×ふるさと納税厳選ガイド有馬・金沢湯涌・淡路島</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">還暦・古希・長寿祝い＆親孝行温泉旅に選ぶ極上名旅館×ふるさと納税厳選ガイド有馬・金沢湯涌・淡路島</span>
             </a>
             <a href="/furusato-tax-room-dining-heya-shoku-luxury-kaiseki-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">お部屋食でゆったり寛ぐ極上会席料理＆老舗名門温泉旅館×ふるさと納税厳選ガイド城崎・有馬・草津</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">お部屋食でゆったり寛ぐ極上会席料理＆老舗名門温泉旅館×ふるさと納税厳選ガイド城崎・有馬・草津</span>
             </a>
             <a href="/furusato-tax-strawberry-buffet-sweets-resort-hotel-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">甘酸っぱい贅沢！いちごスイーツビュッフェ＆高級リゾートホテルステイ×ふるさと納税厳選ガイド那須・神戸・幕張</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">甘酸っぱい贅沢！いちごスイーツビュッフェ＆高級リゾートホテルステイ×ふるさと納税厳選ガイド那須・神戸・幕張</span>
             </a>
             <a href="/japan-top-brand-wagyu-beef-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「日本五大ブランド和牛の宿」松阪牛・神戸牛・米沢牛・近江牛・佐賀牛極上会席 厳選ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「日本五大ブランド和牛の宿」松阪牛・神戸牛・米沢牛・近江牛・佐賀牛極上会席 厳選ガイド</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

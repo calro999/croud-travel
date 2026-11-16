@@ -361,7 +361,7 @@ export default function AkitaMoriyoshiAniPage() {
                     </div>
 
                     <div className="pt-3 border-t border-stone-100 flex items-center justify-between">
-                      <div className="text-[11px] text-stone-500 truncate max-w-[200px]">
+                      <div className="text-[11px] text-stone-500 break-words max-w-[200px]">
                         {h.access}
                       </div>
                       <a 
@@ -547,21 +547,21 @@ export default function AkitaMoriyoshiAniPage() {
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-blue-700 font-bold block text-[10px]">秋田・乳頭温泉郷</span>
-              <p className="font-bold text-stone-800 line-clamp-2">秘湯鶴の湯の雪見露天風呂と乳白色のにごり湯・比内地鶏きりたんぽ鍋名宿</p>
+              <p className="font-bold text-stone-800">秘湯鶴の湯の雪見露天風呂と乳白色のにごり湯・比内地鶏きりたんぽ鍋名宿</p>
             </Link>
             <Link 
               href="/winter-akita-oga-onsen-ishiyaki-namahage-snow-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-blue-700 font-bold block text-[10px]">秋田・男鹿温泉</span>
-              <p className="font-bold text-stone-800 line-clamp-2">名物石焼料理と冬の日本海・なまはげ柴灯まつりの雪景色を巡る名宿</p>
+              <p className="font-bold text-stone-800">名物石焼料理と冬の日本海・なまはげ柴灯まつりの雪景色を巡る名宿</p>
             </Link>
             <Link 
               href="/winter-yamagata-zao-onsen-snow-jyuhyo-beef-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-blue-700 font-bold block text-[10px]">山形・蔵王温泉</span>
-              <p className="font-bold text-stone-800 line-clamp-2">幻想の樹氷ライトアップと強酸性美肌硫黄泉・極上山形牛を味わう名宿</p>
+              <p className="font-bold text-stone-800">幻想の樹氷ライトアップと強酸性美肌硫黄泉・極上山形牛を味わう名宿</p>
             </Link>
           
       <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">

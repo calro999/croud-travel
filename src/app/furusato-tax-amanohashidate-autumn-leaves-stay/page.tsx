@@ -467,19 +467,19 @@ export default function FeatureArticlePage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/luxury-private-onsen-with-scenic-bamboo-deck/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「竹林の静寂美」夜のライトアップとプライベート竹林露天！京都・伊豆の風雅な離れ隠れ宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「竹林の静寂美」夜のライトアップとプライベート竹林露天！京都・伊豆の風雅な離れ隠れ宿5選</span>
             </a>
             <a href="/nagoya-kyoto-bus-vs-shinkansen-guide/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「名古屋〜京都」新幹線 vs 近鉄特急 vs 名神ハイウェイバス徹底比較！片道1,500円〜行く古都日帰り＆1泊2日モデルコース</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「名古屋〜京都」新幹線 vs 近鉄特急 vs 名神ハイウェイバス徹底比較！片道1,500円〜行く古都日帰り＆1泊2日モデルコース</span>
             </a>
             <a href="/shizuoka-shuzenji-autumn-solo-retreat-bamboo-momiji-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【10月・11月秋の伊豆修善寺温泉ひとり旅・竹林の小径と修善寺自然公園もみじ林おこもり】桂川のせせらぎ・伊豆最古の美肌湯・伊豆旬会席！小京都リトリート厳選3宿！桂川のせせらぎ・伊豆</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">【10月・11月秋の伊豆修善寺温泉ひとり旅・竹林の小径と修善寺自然公園もみじ林おこもり】桂川のせせらぎ・伊豆最古の美肌湯・伊豆旬会席！小京都リトリート厳選3宿！桂川のせせらぎ・伊豆</span>
             </a>
             <a href="/tea-ceremony-authentic-chashitsu-matcha-ryokan-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">茶道・本格茶室＆抹茶体験宿厳選ガイド「京都・金沢・宇治数寄屋ステイ」</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">茶道・本格茶室＆抹茶体験宿厳選ガイド「京都・金沢・宇治数寄屋ステイ」</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

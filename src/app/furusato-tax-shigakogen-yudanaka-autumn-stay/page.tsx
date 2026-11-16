@@ -465,19 +465,19 @@ export default function Page() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/winter-nagano-azumino-omachi-hotaka-snow-shinshugyu-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「11・12・1月長野」安曇野＆大町温泉郷！白銀の北アルプス後立山連峰と穂高神社初詣・光のイルミネーション＆雪見露天名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「11・12・1月長野」安曇野＆大町温泉郷！白銀の北アルプス後立山連峰と穂高神社初詣・光のイルミネーション＆雪見露天名宿5選</span>
             </a>
             <a href="/winter-nagano-hakuba-valley-powder-snow-happo-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「HAKUBA VALLEY極上パウダースノーと白馬八方温泉」2026-2027年冬の白馬山麓！高アルカリ美肌湯と信州牛名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「HAKUBA VALLEY極上パウダースノーと白馬八方温泉」2026-2027年冬の白馬山麓！高アルカリ美肌湯と信州牛名宿5選</span>
             </a>
             <a href="/winter-nagano-kakeyu-onsen-toji-soba-shinshugyu-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12月長野・鹿教湯温泉＆信州上田】文殊菩薩の霊泉と雪見露天 屋根付き五台橋の初冬雪景色・名物信州投じ蕎麦と極上信州牛を味わう名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">【11・12月長野・鹿教湯温泉＆信州上田】文殊菩薩の霊泉と雪見露天 屋根付き五台橋の初冬雪景色・名物信州投じ蕎麦と極上信州牛を味わう名宿5選</span>
             </a>
             <a href="/winter-nagano-nozawa-onsen-powder-snow-sotoyu-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【12月開幕！野沢温泉パウダースノー】 天然雪100%ゲレンデと名物13外湯めぐり＆信州牛美食宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">【12月開幕！野沢温泉パウダースノー】 天然雪100%ゲレンデと名物13外湯めぐり＆信州牛美食宿5選</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

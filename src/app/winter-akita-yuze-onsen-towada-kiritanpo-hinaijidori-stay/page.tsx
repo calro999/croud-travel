@@ -516,8 +516,8 @@ export default function WinterAkitaYuzePage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-emerald-300 bg-emerald-400/20 px-2 py-0.5 rounded-full inline-block">秋田・乳頭温泉郷</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-emerald-200 transition line-clamp-2">乳頭温泉郷・鶴の湯の雪見白濁露天と山の芋鍋</h4>
-              <p className="text-[11px] text-stone-200 line-clamp-2">
+              <h4 className="text-xs font-bold text-white group-hover:text-emerald-200 transition">乳頭温泉郷・鶴の湯の雪見白濁露天と山の芋鍋</h4>
+              <p className="text-[11px] text-stone-200">
                 秘境ブナ林に湧く日本屈指の白濁薬湯とランプの宿、秋田郷土料理の冬ごもり。
               </p>
             </Link>
@@ -527,8 +527,8 @@ export default function WinterAkitaYuzePage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-emerald-300 bg-emerald-400/20 px-2 py-0.5 rounded-full inline-block">秋田・男鹿温泉</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-emerald-200 transition line-clamp-2">男鹿半島の日本海荒波雪景色と名物石焼料理</h4>
-              <p className="text-[11px] text-stone-200 line-clamp-2">
+              <h4 className="text-xs font-bold text-white group-hover:text-emerald-200 transition">男鹿半島の日本海荒波雪景色と名物石焼料理</h4>
+              <p className="text-[11px] text-stone-200">
                 灼熱の小石を桶に投入する豪快な石焼料理となまはげ文化、塩化物泉の温もり。
               </p>
             </Link>
@@ -538,8 +538,8 @@ export default function WinterAkitaYuzePage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-emerald-300 bg-emerald-400/20 px-2 py-0.5 rounded-full inline-block">岩手・鶯宿温泉</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-emerald-200 transition line-clamp-2">鶯宿温泉の雪見露天と小岩井農場・極上雫石牛</h4>
-              <p className="text-[11px] text-stone-200 line-clamp-2">
+              <h4 className="text-xs font-bold text-white group-hover:text-emerald-200 transition">鶯宿温泉の雪見露天と小岩井農場・極上雫石牛</h4>
+              <p className="text-[11px] text-stone-200">
                 岩手山麓に湧く450年の名湯と冬のイルミネーション、盛岡三大麺の美食旅。
               </p>
             </Link>

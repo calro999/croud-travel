@@ -128,8 +128,8 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">奥州・平泉温泉旅館　ＩＴＳＵＭＵ</h4>
-                      <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition">奥州・平泉温泉旅館　ＩＴＳＵＭＵ</h4>
+                      <p className="text-xs text-stone-400 mt-1 leading-relaxed">
                         【いわて割第2弾 9/1～開催】世界遺産の地・平泉に佇む古都奥州の宿。東北観光の拠点に。
                       </p>
                       <div className="mt-3 text-xs text-stone-300">
@@ -172,8 +172,8 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">千貫石温泉　湯元　東館</h4>
-                      <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition">千貫石温泉　湯元　東館</h4>
+                      <p className="text-xs text-stone-400 mt-1 leading-relaxed">
                         中尊寺まで35分！とろとろの極上湯でお肌しっとり、身体ぽかぽか長続き×品数豊富な手作り朝食が大人気！
                       </p>
                       <div className="mt-3 text-xs text-stone-300">
@@ -216,8 +216,8 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">花巻温泉　佳松園</h4>
-                      <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition">花巻温泉　佳松園</h4>
+                      <p className="text-xs text-stone-400 mt-1 leading-relaxed">
                         とろとろの湯と心に残るおもてなし。特別な日を佳松園で過ごす愉しみ。花巻ICよりわずか5分の別世界。
                       </p>
                       <div className="mt-3 text-xs text-stone-300">
@@ -260,8 +260,8 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">旅館　舞鶴＜岩手県＞</h4>
-                      <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition">旅館　舞鶴＜岩手県＞</h4>
+                      <p className="text-xs text-stone-400 mt-1 leading-relaxed">
                         楽天トラベルブロンズアワード2020受賞｜世界遺産平泉の中心♪料理が高評価のおもてなしの宿
                       </p>
                       <div className="mt-3 text-xs text-stone-300">
@@ -346,8 +346,8 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">祭畤温泉　かみくら</h4>
-                      <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition">祭畤温泉　かみくら</h4>
+                      <p className="text-xs text-stone-400 mt-1 leading-relaxed">
                         全7室のリトリート宿。泡付き温泉と着物で愉しむJapanese French。
                       </p>
                       <div className="mt-3 text-xs text-stone-300">
@@ -390,8 +390,8 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">須川高原温泉</h4>
-                      <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition">須川高原温泉</h4>
+                      <p className="text-xs text-stone-400 mt-1 leading-relaxed">
                         何もいらない、この湯けむりと暖かい陽ざし、植物を揺らす風が少しあればいい、そこが癒しの宿須川高原温泉
                       </p>
                       <div className="mt-3 text-xs text-stone-300">
@@ -434,8 +434,8 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">伊豆・伊東温泉　お風呂ずきの宿　大東館</h4>
-                      <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition">伊豆・伊東温泉　お風呂ずきの宿　大東館</h4>
+                      <p className="text-xs text-stone-400 mt-1 leading-relaxed">
                         源泉１００％掛け流し！２４時間入浴OK！３種の貸切風呂は無料♪日替わり手作り朝食付！平日８５５０円☆
                       </p>
                       <div className="mt-3 text-xs text-stone-300">
@@ -478,8 +478,8 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">奥州・平泉温泉旅館　ＩＴＳＵＭＵ</h4>
-                      <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition">奥州・平泉温泉旅館　ＩＴＳＵＭＵ</h4>
+                      <p className="text-xs text-stone-400 mt-1 leading-relaxed">
                         【いわて割第2弾 9/1～開催】世界遺産の地・平泉に佇む古都奥州の宿。東北観光の拠点に。
                       </p>
                       <div className="mt-3 text-xs text-stone-300">
@@ -564,8 +564,8 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">亀の井ホテル　一関</h4>
-                      <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition">亀の井ホテル　一関</h4>
+                      <p className="text-xs text-stone-400 mt-1 leading-relaxed">
                         無料の「ねまらいラウンジ」、温泉はエリア最大級。前沢牛や松茸釜飯など料理押し。土曜は郷土イベント開催
                       </p>
                       <div className="mt-3 text-xs text-stone-300">
@@ -608,8 +608,8 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">奥州平泉温泉　そば庵　しづか亭</h4>
-                      <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition">奥州平泉温泉　そば庵　しづか亭</h4>
+                      <p className="text-xs text-stone-400 mt-1 leading-relaxed">
                         源泉かけ流しの大浴場と、自家菜園から収穫する野菜の美味しさ。岩手名産「前沢牛」も味わえる
                       </p>
                       <div className="mt-3 text-xs text-stone-300">
@@ -652,8 +652,8 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">陸前高田　キャピタルホテル１０００</h4>
-                      <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition">陸前高田　キャピタルホテル１０００</h4>
+                      <p className="text-xs text-stone-400 mt-1 leading-relaxed">
                         奇跡の一本松、東日本大震災津波伝承館から車で５分の好立地。復興を象徴するホテルです！
                       </p>
                       <div className="mt-3 text-xs text-stone-300">
@@ -696,8 +696,8 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">水沢　翠明荘＜岩手県＞</h4>
-                      <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition">水沢　翠明荘＜岩手県＞</h4>
+                      <p className="text-xs text-stone-400 mt-1 leading-relaxed">
                         ◆大好評！前沢牛のビーフカレーなど食べ放題／24時間大浴場・Wi-Fi無料
                       </p>
                       <div className="mt-3 text-xs text-stone-300">
@@ -825,19 +825,19 @@ export default function Page() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/iwate-hanamaki-solo-retreat-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「岩手花巻温泉ひとり旅・宮沢賢治イーハトーブおこもり」台川渓谷美・pH9.0美肌の湯・前沢牛会席！イーハトーブの森でととのう厳選3宿</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「岩手花巻温泉ひとり旅・宮沢賢治イーハトーブおこもり」台川渓谷美・pH9.0美肌の湯・前沢牛会席！イーハトーブの森でととのう厳選3宿</span>
             </a>
             <a href="/iwate-morioka-tsunagi-solo-retreat-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「盛岡つなぎ温泉ひとり旅・御所湖畔と岩手山おこもり」源泉かけ流し単純硫黄泉・前沢牛＆盛岡冷麺・南部鉄器文化！新幹線盛岡駅25分の名湯厳選3宿</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「盛岡つなぎ温泉ひとり旅・御所湖畔と岩手山おこもり」源泉かけ流し単純硫黄泉・前沢牛＆盛岡冷麺・南部鉄器文化！新幹線盛岡駅25分の名湯厳選3宿</span>
             </a>
             <a href="/japan-ocean-cliff-sunset-view-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「絶景断崖オーシャン＆夕陽パノラマ宿」三陸・男鹿・越前・室戸岬・天草 厳選ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「絶景断崖オーシャン＆夕陽パノラマ宿」三陸・男鹿・越前・室戸岬・天草 厳選ガイド</span>
             </a>
             <a href="/morioka-station-solo-business-onsen-sauna-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「盛岡出張・天然温泉ステイ」東北新幹線・天然温泉さんさの湯・三大麺グルメ！北東北の文化拠点に泊まる厳選3宿</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「盛岡出張・天然温泉ステイ」東北新幹線・天然温泉さんさの湯・三大麺グルメ！北東北の文化拠点に泊まる厳選3宿</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

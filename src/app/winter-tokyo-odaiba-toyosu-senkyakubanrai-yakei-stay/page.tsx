@@ -339,7 +339,7 @@ export default function TokyoOdaibaToyosuWinterPage() {
                     <span>厳選宿 #{hotel.id}</span>
                   </div>
                   <div className="absolute bottom-4 left-4 right-4 bg-slate-950/75 backdrop-blur-sm text-white p-3 rounded-2xl text-xs space-y-1 border border-white/10">
-                    <p className="text-slate-300 line-clamp-1 flex items-center gap-1">
+                    <p className="text-slate-300 flex items-center gap-1">
                       <MapPin className="w-3.5 h-3.5 text-rose-400 shrink-0" />
                       {hotel.access}
                     </p>
@@ -573,42 +573,42 @@ export default function TokyoOdaibaToyosuWinterPage() {
               href="/winter-tokyo-asakusa-sensoji-hatsumode-skytree-edomae-stay/"
               className="bg-white p-3.5 rounded-2xl border border-slate-200 hover:border-sky-400 hover:shadow-xs transition flex flex-col justify-between"
             >
-              <span className="font-bold text-xs sm:text-sm text-slate-800 line-clamp-2">浅草寺新春初詣＆スカイツリー冬夜景！下町老舗グルメ宿</span>
+              <span className="font-bold text-xs sm:text-sm text-slate-800">浅草寺新春初詣＆スカイツリー冬夜景！下町老舗グルメ宿</span>
               <span className="text-[11px] text-sky-600 font-medium mt-2 flex items-center gap-1">東京・浅草特集を読む →</span>
             </Link>
             <Link 
               href="/winter-tokyo-marunouchi-illumination-luxury-stay/"
               className="bg-white p-3.5 rounded-2xl border border-slate-200 hover:border-sky-400 hover:shadow-xs transition flex flex-col justify-between"
             >
-              <span className="font-bold text-xs sm:text-sm text-slate-800 line-clamp-2">丸の内シャンパンゴールドイルミ＆大手町ラグジュアリーステイ</span>
+              <span className="font-bold text-xs sm:text-sm text-slate-800">丸の内シャンパンゴールドイルミ＆大手町ラグジュアリーステイ</span>
               <span className="text-[11px] text-sky-600 font-medium mt-2 flex items-center gap-1">東京・丸の内特集を読む →</span>
             </Link>
             <Link 
               href="/winter-kanagawa-kamakura-enoshima-jewel-shrine-fuji-stay/"
               className="bg-white p-3.5 rounded-2xl border border-slate-200 hover:border-sky-400 hover:shadow-xs transition flex flex-col justify-between"
             >
-              <span className="font-bold text-xs sm:text-sm text-slate-800 line-clamp-2">湘南の宝石イルミ＆江の島・鎌倉八幡宮初詣！冬富士の絶景宿</span>
+              <span className="font-bold text-xs sm:text-sm text-slate-800">湘南の宝石イルミ＆江の島・鎌倉八幡宮初詣！冬富士の絶景宿</span>
               <span className="text-[11px] text-sky-600 font-medium mt-2 flex items-center gap-1">神奈川・鎌倉江の島特集を読む →</span>
             </Link>
             <Link 
               href="/winter-chiba-naritasan-shinshoji-hatsumode-unagi-sawara-stay/"
               className="bg-white p-3.5 rounded-2xl border border-slate-200 hover:border-sky-400 hover:shadow-xs transition flex flex-col justify-between"
             >
-              <span className="font-bold text-xs sm:text-sm text-slate-800 line-clamp-2">成田山新勝寺新春初詣＆佐原の小江戸！名物うなぎと天然温泉宿</span>
+              <span className="font-bold text-xs sm:text-sm text-slate-800">成田山新勝寺新春初詣＆佐原の小江戸！名物うなぎと天然温泉宿</span>
               <span className="text-[11px] text-sky-600 font-medium mt-2 flex items-center gap-1">千葉・成田佐原特集を読む →</span>
             </Link>
             <Link 
               href="/winter-saitama-omiya-hikawa-shrine-hatsumode-keyaki-stay/"
               className="bg-white p-3.5 rounded-2xl border border-slate-200 hover:border-sky-400 hover:shadow-xs transition flex flex-col justify-between"
             >
-              <span className="font-bold text-xs sm:text-sm text-slate-800 line-clamp-2">武蔵一宮氷川神社新春初詣＆けやきひろば光の森！武州牛の寛ぎ宿</span>
+              <span className="font-bold text-xs sm:text-sm text-slate-800">武蔵一宮氷川神社新春初詣＆けやきひろば光の森！武州牛の寛ぎ宿</span>
               <span className="text-[11px] text-sky-600 font-medium mt-2 flex items-center gap-1">埼玉・大宮新都心特集を読む →</span>
             </Link>
             <Link 
               href="/features/"
               className="bg-sky-50 p-3.5 rounded-2xl border border-sky-200 hover:bg-sky-100 transition flex flex-col justify-between"
             >
-              <span className="font-bold text-xs sm:text-sm text-sky-900 line-clamp-2">全国の冬旅・新春初詣＆温泉特選特集一覧</span>
+              <span className="font-bold text-xs sm:text-sm text-sky-900">全国の冬旅・新春初詣＆温泉特選特集一覧</span>
               <span className="text-[11px] text-sky-700 font-medium mt-2 flex items-center gap-1">全特集一覧へ戻る →</span>
             </Link>
           

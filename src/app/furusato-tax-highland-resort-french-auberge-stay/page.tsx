@@ -189,8 +189,8 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">フォートリート＋那須高原</h4>
-                            <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
+                            <h4 className="font-bold text-white text-sm group-hover:text-amber-300 transition">フォートリート＋那須高原</h4>
+                            <p className="text-xs text-slate-400 leading-relaxed">
                               那須高原の絶景に癒される大人の高原リゾート旅。鹿の湯源泉の白濁硫黄泉で心ほどけるひとときを。
                             </p>
                             <p className="text-xs text-slate-500 flex items-center gap-1">
@@ -239,8 +239,8 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">那須高原の貸し切り温泉　ペンション　タム！（TAM！）</h4>
-                            <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
+                            <h4 className="font-bold text-white text-sm group-hover:text-amber-300 transition">那須高原の貸し切り温泉　ペンション　タム！（TAM！）</h4>
+                            <p className="text-xs text-slate-400 leading-relaxed">
                               ペンションタムは楽しさいっぱいの宿です！
                             </p>
                             <p className="text-xs text-slate-500 flex items-center gap-1">
@@ -289,8 +289,8 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">那須温泉　ホテルエピナール那須</h4>
-                            <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
+                            <h4 className="font-bold text-white text-sm group-hover:text-amber-300 transition">那須温泉　ホテルエピナール那須</h4>
+                            <p className="text-xs text-slate-400 leading-relaxed">
                               地元の旬菜にこだわる食事＆施設充実のトップリゾート
                             </p>
                             <p className="text-xs text-slate-500 flex items-center gap-1">
@@ -352,8 +352,8 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">八ヶ岳の恵みを味わうレストラン＆ホテル　オーベルジュ清里</h4>
-                            <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
+                            <h4 className="font-bold text-white text-sm group-hover:text-amber-300 transition">八ヶ岳の恵みを味わうレストラン＆ホテル　オーベルジュ清里</h4>
+                            <p className="text-xs text-slate-400 leading-relaxed">
                               自家農園野菜を使ったレストランが人気！牧場、工房、農園など体験も充実のホテル
                             </p>
                             <p className="text-xs text-slate-500 flex items-center gap-1">
@@ -402,8 +402,8 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">清里高原リゾート（旧：清里高原ホテル）</h4>
-                            <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">（金）リニューアルオープン ―天空の青音リトリート‐Calm Blue―
+                            <h4 className="font-bold text-white text-sm group-hover:text-amber-300 transition">清里高原リゾート（旧：清里高原ホテル）</h4>
+                            <p className="text-xs text-slate-400 leading-relaxed">（金）リニューアルオープン ―天空の青音リトリート‐Calm Blue―
                             </p>
                             <p className="text-xs text-slate-500 flex items-center gap-1">
                               <span>📍</span>
@@ -451,8 +451,8 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">１０００Ｍのおもてなし　八ヶ岳　ホテル風か</h4>
-                            <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
+                            <h4 className="font-bold text-white text-sm group-hover:text-amber-300 transition">１０００Ｍのおもてなし　八ヶ岳　ホテル風か</h4>
+                            <p className="text-xs text-slate-400 leading-relaxed">
                               「オールインクルーシブ」ご夕食時約50種&amp;バータイム約80種のフリードリンク
                             </p>
                             <p className="text-xs text-slate-500 flex items-center gap-1">
@@ -514,8 +514,8 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">裏磐梯高原ホテル</h4>
-                            <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
+                            <h4 className="font-bold text-white text-sm group-hover:text-amber-300 transition">裏磐梯高原ホテル</h4>
+                            <p className="text-xs text-slate-400 leading-relaxed">
                               標高800ｍの裏磐梯高原。豊かな大自然に囲まれた、四季の移ろい感じる湖畔のリゾートホテルへようこそ！
                             </p>
                             <p className="text-xs text-slate-500 flex items-center gap-1">
@@ -564,8 +564,8 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">裏磐梯レイクリゾート　本館　五色の森（旧：裏磐梯猫魔ホテル）</h4>
-                            <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
+                            <h4 className="font-bold text-white text-sm group-hover:text-amber-300 transition">裏磐梯レイクリゾート　本館　五色の森（旧：裏磐梯猫魔ホテル）</h4>
+                            <p className="text-xs text-slate-400 leading-relaxed">
                               五色沼まで徒歩3分。エリア唯一の自噴式源泉かけ流しとライブキッチン＆会津野菜の50種バイキングを満喫
                             </p>
                             <p className="text-xs text-slate-500 flex items-center gap-1">
@@ -614,8 +614,8 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">裏磐梯レイクリゾート　迎賓館　猫魔離宮（旧：裏磐梯猫魔ホテル）</h4>
-                            <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
+                            <h4 className="font-bold text-white text-sm group-hover:text-amber-300 transition">裏磐梯レイクリゾート　迎賓館　猫魔離宮（旧：裏磐梯猫魔ホテル）</h4>
+                            <p className="text-xs text-slate-400 leading-relaxed">
                               気取らない贅沢、心やわらぐ宮殿リゾートで非日常体験を。宿泊者専用温泉を完備。
                             </p>
                             <p className="text-xs text-slate-500 flex items-center gap-1">
@@ -663,10 +663,10 @@ export default function FurusatoTaxPage() {
                 href="/furusato-tax-winery-craft-beer-auberge-stay/"
                 className="block p-4 rounded-2xl bg-slate-950/60 border border-slate-800/80 hover:border-amber-500/50 transition group"
               >
-                <div className="font-bold text-amber-400 group-hover:text-amber-300 transition text-sm mb-1 line-clamp-1">
+                <div className="font-bold text-amber-400 group-hover:text-amber-300 transition text-sm mb-1">
                   ワイン＆地ビール×醸造オーベルジュ旅ガイド
                 </div>
-                <div className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
+                <div className="text-xs text-slate-400 leading-relaxed">
                   勝沼・富良野・余市のワイナリーホテル＆オーベルジュ。
                 </div>
               </Link>
@@ -676,10 +676,10 @@ export default function FurusatoTaxPage() {
                 href="/furusato-tax-craft-beer-brewery-hotel-stay/"
                 className="block p-4 rounded-2xl bg-slate-950/60 border border-slate-800/80 hover:border-amber-500/50 transition group"
               >
-                <div className="font-bold text-amber-400 group-hover:text-amber-300 transition text-sm mb-1 line-clamp-1">
+                <div className="font-bold text-amber-400 group-hover:text-amber-300 transition text-sm mb-1">
                   クラフトビール＆ご当地ブルワリーホテル×ふるさと納税完全ガイド
                 </div>
-                <div className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
+                <div className="text-xs text-slate-400 leading-relaxed">
                   軽井沢・修善寺・小樽の出来立て生ビールと美食ステイ。
                 </div>
               </Link>
@@ -689,10 +689,10 @@ export default function FurusatoTaxPage() {
                 href="/furusato-tax-starry-sky-astronomy-retreat-stay/"
                 className="block p-4 rounded-2xl bg-slate-950/60 border border-slate-800/80 hover:border-amber-500/50 transition group"
               >
-                <div className="font-bold text-amber-400 group-hover:text-amber-300 transition text-sm mb-1 line-clamp-1">
+                <div className="font-bold text-amber-400 group-hover:text-amber-300 transition text-sm mb-1">
                   日本三大星空・天体観測リゾート×ふるさと納税完全ガイド
                 </div>
-                <div className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
+                <div className="text-xs text-slate-400 leading-relaxed">
                   阿智村・八ヶ岳清里・鳥取大山の満天星空リゾート。
                 </div>
               </Link>
@@ -795,19 +795,19 @@ export default function FurusatoTaxPage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/winter-miyagi-akiu-onsen-sendai-beef-serinabe-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12月秋保温泉の初冬渓谷美と名湯】伊達政宗公ゆかりの奥座敷・最高峰A5仙台牛＆名物せり鍋の宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">【11・12月秋保温泉の初冬渓谷美と名湯】伊達政宗公ゆかりの奥座敷・最高峰A5仙台牛＆名物せり鍋の宿5選</span>
             </a>
             <a href="/winter-miyagi-sendai-city-hikarino-pageant-zundamochi-sendaigyu-kaki-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">冬の仙台市内・光のページェント厳選ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">冬の仙台市内・光のページェント厳選ガイド</span>
             </a>
             <a href="/furusato-tax-miyagi-matsushima-shiogama-kaki-autumn-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">日本三景・松島＆塩竈の秋！松島湾の紅葉ライトアップ・解禁松島牡蠣＆極上三陸海鮮</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">日本三景・松島＆塩竈の秋！松島湾の紅葉ライトアップ・解禁松島牡蠣＆極上三陸海鮮</span>
             </a>
             <a href="/miyagi-matsushima-shiogama-bay-seafood-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">宮城・松島＆塩竈：日本三景松島・塩竈生マグロ＆焼き牡蠣温泉宿 厳選ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">宮城・松島＆塩竈：日本三景松島・塩竈生マグロ＆焼き牡蠣温泉宿 厳選ガイド</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

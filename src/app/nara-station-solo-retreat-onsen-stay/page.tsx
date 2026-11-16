@@ -399,19 +399,19 @@ export default function ArticlePage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/winter-nara-park-kasuga-taisha-hatsumode-todaiji-yamatogyu-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">春日大社新春開運初詣＆東大寺大仏殿冬景色！ 大和牛すき焼きと古都の静謐に寛ぐ厳選宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">春日大社新春開運初詣＆東大寺大仏殿冬景色！ 大和牛すき焼きと古都の静謐に寛ぐ厳選宿5選</span>
             </a>
             <a href="/winter-nara-yamatoji-wakakusayama-yamatogyu-asukabeef-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12月奈良・大和路奈良町】初冬古都散策と若草山冬景色 名物極上大和牛すき焼き＆飛鳥鍋・東大寺大仏殿を望む歴史名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">【11・12月奈良・大和路奈良町】初冬古都散策と若草山冬景色 名物極上大和牛すき焼き＆飛鳥鍋・東大寺大仏殿を望む歴史名宿5選</span>
             </a>
             <a href="/winter-tokushima-mima-udatsu-historic-awao-dori-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「藍商のうだつの町並みと阿波尾鶏鍋」2026-2027年冬の徳島・美馬！吉野川展望温泉と老舗名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「藍商のうだつの町並みと阿波尾鶏鍋」2026-2027年冬の徳島・美馬！吉野川展望温泉と老舗名宿5選</span>
             </a>
             <a href="/autumn-budget-nara-station-todaiji-kofukuji-daibutsu-hotels-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「奈良駅前」東大寺大仏殿＆古都紅葉散歩！3,000円台〜泊まれる格安・高コスパ宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「奈良駅前」東大寺大仏殿＆古都紅葉散歩！3,000円台〜泊まれる格安・高コスパ宿5選</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

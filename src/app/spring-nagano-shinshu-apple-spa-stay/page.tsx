@@ -389,19 +389,19 @@ export default function FeaturePage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/autumn-nagano-karuizawa-momiji-halloween-resort-hotels-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【10月紅葉＆ハロウィン！秋の軽井沢】雲場池もみじと星野・旧軽井沢リゾートホテル5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">【10月紅葉＆ハロウィン！秋の軽井沢】雲場池もみじと星野・旧軽井沢リゾートホテル5選</span>
             </a>
             <a href="/furusato-tax-hakuba-three-stage-autumn-leaves-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">白馬八方尾根・北アルプス冠雪と山麓紅葉の「三段紅葉」＆日本屈指の強アルカリ美肌温泉ステイ｜ふるさと納税で泊まれる名宿ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">白馬八方尾根・北アルプス冠雪と山麓紅葉の「三段紅葉」＆日本屈指の強アルカリ美肌温泉ステイ｜ふるさと納税で泊まれる名宿ガイド</span>
             </a>
             <a href="/furusato-tax-kamikochi-shirahone-autumn-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">上高地・河童橋の黄金カラマツ紅葉と梓川清流＆「３日入れば３年風邪ひかぬ」白骨温泉・信州牛｜ふるさと納税で泊まれる名宿ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">上高地・河童橋の黄金カラマツ紅葉と梓川清流＆「３日入れば３年風邪ひかぬ」白骨温泉・信州牛｜ふるさと納税で泊まれる名宿ガイド</span>
             </a>
             <a href="/furusato-tax-nagano-azumino-hotaka-autumn-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">長野・安曇野の田園紅葉＆北アルプス眺望！穂高温泉郷の秘湯と名水わさび・信州サーモン｜ふるさと納税で泊まれる名宿ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">長野・安曇野の田園紅葉＆北アルプス眺望！穂高温泉郷の秘湯と名水わさび・信州サーモン｜ふるさと納税で泊まれる名宿ガイド</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

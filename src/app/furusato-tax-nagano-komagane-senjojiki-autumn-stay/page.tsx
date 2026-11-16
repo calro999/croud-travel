@@ -399,19 +399,19 @@ export default function Page() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/luxury-private-onsen-with-starry-astronomy-deck/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「日本一の星空・阿智村（天体観測専用デッキ＆満天星露天風呂付き極上宿5選）」日本一の星空・阿智村！天体観測専用デッキ＆満天星露天風呂付き極上宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「日本一の星空・阿智村（天体観測専用デッキ＆満天星露天風呂付き極上宿5選）」日本一の星空・阿智村！天体観測専用デッキ＆満天星露天風呂付き極上宿5選</span>
             </a>
             <a href="/matsumoto-solo-retreat-mingei-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「松本ひとり旅・民芸おこもり」国宝松本城・民芸家具クラシック・美ヶ原温泉！北アルプスの麓で心を整える名宿 厳選3選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「松本ひとり旅・民芸おこもり」国宝松本城・民芸家具クラシック・美ヶ原温泉！北アルプスの麓で心を整える名宿 厳選3選</span>
             </a>
             <a href="/nagano-azumino-wasabi-hotaka-art-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「長野・安曇野＆大王わさび農場・穂高」常念岳絶景・蓼川水車小屋＆安曇野アート宿 厳選ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「長野・安曇野＆大王わさび農場・穂高」常念岳絶景・蓼川水車小屋＆安曇野アート宿 厳選ガイド</span>
             </a>
             <a href="/nagano-bessho-solo-retreat-temple-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「信州の鎌倉・別所温泉ひとり旅・信州最古の名湯おこもり」信州サーモン＆松茸会席・木造建築文化財・国宝八角三重塔！上田電鉄で行く古刹厳選3宿</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「信州の鎌倉・別所温泉ひとり旅・信州最古の名湯おこもり」信州サーモン＆松茸会席・木造建築文化財・国宝八角三重塔！上田電鉄で行く古刹厳選3宿</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

@@ -462,19 +462,19 @@ export default function Page() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/japan-top-brand-wagyu-beef-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「日本五大ブランド和牛の宿」松阪牛・神戸牛・米沢牛・近江牛・佐賀牛極上会席 厳選ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「日本五大ブランド和牛の宿」松阪牛・神戸牛・米沢牛・近江牛・佐賀牛極上会席 厳選ガイド</span>
             </a>
             <a href="/nara-yoshino-cherry-mountain-temple-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「奈良・吉野山＆金峯山寺」一目千本桜・世界遺産蔵王堂青神仏＆吉野葛・柿の葉寿司宿 厳選ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「奈良・吉野山＆金峯山寺」一目千本桜・世界遺産蔵王堂青神仏＆吉野葛・柿の葉寿司宿 厳選ガイド</span>
             </a>
             <a href="/spring-yamagata-yonezawa-beef-cherry-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「A5米沢牛すき焼き＆佐藤錦さくらんぼ」山形名物グルメと小野川・天童・かみのやま温泉宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「A5米沢牛すき焼き＆佐藤錦さくらんぼ」山形名物グルメと小野川・天童・かみのやま温泉宿5選</span>
             </a>
             <a href="/traditional-yonezawa-beef-sukiyaki-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「とろける極上霜降り（A5米沢牛すき焼き会席＆白布・小野川名湯宿5選）」とろける極上霜降り！A5米沢牛すき焼き会席＆白布・小野川名湯宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「とろける極上霜降り（A5米沢牛すき焼き会席＆白布・小野川名湯宿5選）」とろける極上霜降り！A5米沢牛すき焼き会席＆白布・小野川名湯宿5選</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

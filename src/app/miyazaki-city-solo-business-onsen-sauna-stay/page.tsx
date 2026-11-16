@@ -398,19 +398,19 @@ export default function ArticlePage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/furusato-tax-unzen-onsen-jigoku-sulfur-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">雲仙温泉をふるさと納税でお得に旅する！雲仙地獄の湯煙と濃厚白濁硫黄泉！名門クラシックホテル＆美食リゾート滞在ガイド｜雲仙宮崎旅館・雲仙観光ホテル・雲仙福田屋</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">雲仙温泉をふるさと納税でお得に旅する！雲仙地獄の湯煙と濃厚白濁硫黄泉！名門クラシックホテル＆美食リゾート滞在ガイド｜雲仙宮崎旅館・雲仙観光ホテル・雲仙福田屋</span>
             </a>
             <a href="/miyazaki-solo-business-jidori-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「宮崎出張＆南国ソログルメ泊」橘通り中心街・天然温泉大浴場・地鶏炭火焼！チキン南蛮を満喫する極上ホテル 厳選3選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「宮崎出張＆南国ソログルメ泊」橘通り中心街・天然温泉大浴場・地鶏炭火焼！チキン南蛮を満喫する極上ホテル 厳選3選</span>
             </a>
             <a href="/spring-miyazaki-hyuganatsu-citrus-spa-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「宮崎日向夏スイーツ＆宮崎牛」爽やか柑橘と南国リゾート青島温泉の美食名湯宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「宮崎日向夏スイーツ＆宮崎牛」爽やか柑橘と南国リゾート青島温泉の美食名湯宿5選</span>
             </a>
             <a href="/winter-miyazaki-ebino-plateau-shiratori-onsen-miyazakigyu-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「霧島連山樹氷と西郷隆盛癒やしの白鳥温泉」2026-2027年冬の宮崎・えびの＆小林！最高峰宮崎牛名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「霧島連山樹氷と西郷隆盛癒やしの白鳥温泉」2026-2027年冬の宮崎・えびの＆小林！最高峰宮崎牛名宿5選</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

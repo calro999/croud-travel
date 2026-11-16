@@ -42,7 +42,7 @@ export default function NyutoOnsenAutumnPage() {
             <span className="px-3 py-1 bg-stone-800 text-amber-300 text-xs font-medium rounded-full border border-amber-400/30">見頃目安: 10月中旬〜11月上旬</span>
           </div>
           <h1 className="text-2xl md:text-4xl lg:text-5xl font-extrabold text-white leading-tight mb-4 drop-shadow-md">「秋の乳頭温泉郷・田沢湖」ブナ原生林の黄金紅葉と名物きりたんぽ鍋！憧れの秘湯温泉宿5選</h1>
-          <p className="text-stone-200 text-sm md:text-base max-w-3xl line-clamp-2 md:line-clamp-none">
+          <p className="text-stone-200 text-sm md:text-base max-w-3xl">
             手つかずのブナ原生林が黄金色に輝く乳頭山麓。立ちのぼる湯煙と乳白色の掛け流し露天風呂、比内地鶏の出汁で煮込む新米きりたんぽ鍋に身も心もとろける、みちのくの憧れ秘湯旅をお届けします。
           </p>
         </div>
@@ -98,7 +98,7 @@ export default function NyutoOnsenAutumnPage() {
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 田沢湖駅 / 田沢湖駅からお車で約12分
                   </p>
-                  <p className="text-sm text-stone-600 mb-4 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-stone-600 mb-4 leading-relaxed">
                     【10月～秋田得旅クーポン配布！】秋田を纏う日本旅館。素足の解放感、専用個室ダイニングで味わう美味。
                   </p>
                 </div>
@@ -143,7 +143,7 @@ export default function NyutoOnsenAutumnPage() {
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 田沢湖駅 / ＪＲ　田沢湖駅より羽後交通乳頭温泉行「休暇村」下車、徒歩０分
                   </p>
-                  <p className="text-sm text-stone-600 mb-4 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-stone-600 mb-4 leading-relaxed">
                     美しいブナ林に囲まれた静かな宿です。温泉浴や森林浴が楽しめ、ここでは時間がゆっくりと流れています。
                   </p>
                 </div>
@@ -188,7 +188,7 @@ export default function NyutoOnsenAutumnPage() {
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 田沢湖駅 / 田沢湖駅よりバスで約２５分（乳頭線、水沢温泉郷で降車）、タクシーで約１５分
                   </p>
-                  <p className="text-sm text-stone-600 mb-4 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-stone-600 mb-4 leading-relaxed">
                     ★2024年露天風呂リニューアル！美肌成分豊富な源泉かけ流しの露天風呂付き大浴場と地元食材の料理
                   </p>
                 </div>
@@ -233,7 +233,7 @@ export default function NyutoOnsenAutumnPage() {
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 田沢湖駅 / JR秋田新幹線田沢湖駅からバスで２０分、盛岡Ｉ．Ｃから５０分。田沢湖駅から送迎バスにて約15分（要事前予約）
                   </p>
-                  <p className="text-sm text-stone-600 mb-4 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-stone-600 mb-4 leading-relaxed">
                     静寂の美、田沢湖まで車で約15分　わんちゃんと一緒の宿泊も人気です♪
                   </p>
                 </div>
@@ -278,7 +278,7 @@ export default function NyutoOnsenAutumnPage() {
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 田沢湖駅 / JR田沢湖駅より乳頭温泉行バス約35分「杉谷地」下車　駒ケ岳登山口行きバス停まで徒歩約10分　乳頭温泉まで車で約10分
                   </p>
-                  <p className="text-sm text-stone-600 mb-4 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-stone-600 mb-4 leading-relaxed">
                     ブナの森に包まれる泉質自慢の温泉と旬の郷土料理を味わうくつろぎの宿
                   </p>
                 </div>

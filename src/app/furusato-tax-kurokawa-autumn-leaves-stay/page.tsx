@@ -467,19 +467,19 @@ export default function FeatureArticlePage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/organic-forest-infinity-panoramic-sauna-kyushu/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「九州名峰パノラマサウナ＆阿蘇湧水」由布院・黒川・霧島！大自然の外気浴サウナ宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「九州名峰パノラマサウナ＆阿蘇湧水」由布院・黒川・霧島！大自然の外気浴サウナ宿5選</span>
             </a>
             <a href="/super-panoramic-rafting-canyon-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「大激流ラフティング」吉野川・球磨川で挑む白波アドベンチャー＆天然温泉リゾート宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「大激流ラフティング」吉野川・球磨川で挑む白波アドベンチャー＆天然温泉リゾート宿5選</span>
             </a>
             <a href="/autumn-budget-kumamoto-castle-ginkgo-onsen-sauna-hotels-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「秋の熊本×格安」熊本城の巨大銀杏と阿蘇すすき草原！天然温泉＆サウナ付き1泊4,000円〜7,000円台のコスパ最強ホテル5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「秋の熊本×格安」熊本城の巨大銀杏と阿蘇すすき草原！天然温泉＆サウナ付き1泊4,000円〜7,000円台のコスパ最強ホテル5選</span>
             </a>
             <a href="/autumn-kumamoto-kurokawa-onsen-rotenburo-hopping-hotels-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「今すぐ予約したい！秋の黒川温泉」入湯手形露天風呂巡りとあか牛会席の名旅館5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「今すぐ予約したい！秋の黒川温泉」入湯手形露天風呂巡りとあか牛会席の名旅館5選</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

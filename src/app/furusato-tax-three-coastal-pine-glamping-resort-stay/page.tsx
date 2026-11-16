@@ -485,19 +485,19 @@ export default function Page() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/winter-okinawa-naha-naminoe-shrine-hatsumode-agu-resort-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">新春波上宮初詣＆首里城復興見学！ 国際通り・あぐー豚しゃぶしゃぶとあったか避冬ホテル5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">新春波上宮初詣＆首里城復興見学！ 国際通り・あぐー豚しゃぶしゃぶとあったか避冬ホテル5選</span>
             </a>
             <a href="/winter-shiga-hieizan-enryakuji-ogoto-onsen-omigyu-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">白銀の霊峰に灯る不滅の法灯と湖畔の雪見名湯 世界遺産・比叡山延暦寺の静謐な冬参拝＆おごと温泉・極上近江牛の名宿</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">白銀の霊峰に灯る不滅の法灯と湖畔の雪見名湯 世界遺産・比叡山延暦寺の静謐な冬参拝＆おごと温泉・極上近江牛の名宿</span>
             </a>
             <a href="/winter-shizuoka-gotemba-tokinosumika-illumination-fuji-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「御殿場・時之栖イルミネーション」 ひかりのすみか550万球の回廊と白銀の富士山！ クラフトビール＆天然温泉を満喫する高原名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「御殿場・時之栖イルミネーション」 ひかりのすみか550万球の回廊と白銀の富士山！ クラフトビール＆天然温泉を満喫する高原名宿5選</span>
             </a>
             <a href="/winter-shizuoka-mishima-numazu-taisha-fuji-suruga-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">冬の三嶋大社新春開運初詣＆富士山スカイウォーク絶景！ 駿河湾深海魚・沼津港寒魚と名湯に寛ぐ厳選宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">冬の三嶋大社新春開運初詣＆富士山スカイウォーク絶景！ 駿河湾深海魚・沼津港寒魚と名湯に寛ぐ厳選宿5選</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

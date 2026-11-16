@@ -510,19 +510,19 @@ export default function FurusatoTaxArticle() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/winter-kanagawa-kamakura-tsurugaoka-hachimangu-hatsumode-enoshima-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「鎌倉・鶴岡八幡宮初詣＆湘南の宝石」 冬牡丹咲く古都の祈りと江の島シーキャンドルの光！ 小町通り冬グルメ＆相模湾絶景を味わう上質宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「鎌倉・鶴岡八幡宮初詣＆湘南の宝石」 冬牡丹咲く古都の祈りと江の島シーキャンドルの光！ 小町通り冬グルメ＆相模湾絶景を味わう上質宿5選</span>
             </a>
             <a href="/winter-kanagawa-yokohama-minatomirai-illumination-chinatown-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">赤レンガ倉庫クリスマスマーケット＆ヨルノヨ夜景！ 中華街熱々点心と絶景港宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">赤レンガ倉庫クリスマスマーケット＆ヨルノヨ夜景！ 中華街熱々点心と絶景港宿5選</span>
             </a>
             <a href="/yokohama-minatomirai-solo-nightview-luxury-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「横浜・みなとみらいひとり旅」大観覧車バルコニー・天空プール・Kアリーナ遠征！大人が心奪われる極上夜景ホテル 厳選3選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「横浜・みなとみらいひとり旅」大観覧車バルコニー・天空プール・Kアリーナ遠征！大人が心奪われる極上夜景ホテル 厳選3選</span>
             </a>
             <a href="/furusato-tax-art-museum-architecture-luxury-hotel-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">安藤忠雄建築や現代アートと眠る美術館ホテル＆アートリゾート×ふるさと納税厳選ガイド直島・箱根強羅・青森</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">安藤忠雄建築や現代アートと眠る美術館ホテル＆アートリゾート×ふるさと納税厳選ガイド直島・箱根強羅・青森</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

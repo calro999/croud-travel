@@ -412,8 +412,8 @@ export default function GlampingFirstTimeRegretsPage() {
                     <div className="text-[11px] font-bold text-teal-700 mb-1">
                       {hotel.nearestStation || hotel.address1 || "グランピングリゾート"}
                     </div>
-                    <h3 className="font-black text-slate-900 text-base leading-snug group-hover:text-teal-700 transition line-clamp-2">{hotel.hotelName}</h3>
-                    <p className="text-xs text-slate-600 mt-2 line-clamp-2 leading-relaxed">
+                    <h3 className="font-black text-slate-900 text-base leading-snug group-hover:text-teal-700 transition">{hotel.hotelName}</h3>
+                    <p className="text-xs text-slate-600 mt-2 leading-relaxed">
                       {hotel.hotelSpecial || "大自然の開放感とリゾートホテルの快適さを融合した、源泉温泉付きの贅沢グランピング滞在。"}
                     </p>
                   </div>
@@ -542,19 +542,19 @@ export default function GlampingFirstTimeRegretsPage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/traditional-hokkaido-furano-lavender-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">2026年：紫の絨毯が広がる夏の富良野！ラベンダー畑パノラマ＆ふらの和牛ディナーの宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">2026年：紫の絨毯が広がる夏の富良野！ラベンダー畑パノラマ＆ふらの和牛ディナーの宿5選</span>
             </a>
             <a href="/winter-hokkaido-kawayu-onsen-mashu-kussharo-crab-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12月北海道・川湯温泉＆屈斜路湖・摩周湖】pH1.7極上強酸性硫黄泉と白鳥の雪景色・冬の味覚オホーツク毛ガニと十勝牛を味わう名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">【11・12月北海道・川湯温泉＆屈斜路湖・摩周湖】pH1.7極上強酸性硫黄泉と白鳥の雪景色・冬の味覚オホーツク毛ガニと十勝牛を味わう名宿5選</span>
             </a>
             <a href="/winter-hokkaido-sapporo-odori-illumination-jozankei-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12・1月北海道】さっぽろホワイトイルミネーション＆定山渓雪見露天！札幌味噌ラーメンと北の味覚に酔いしれる名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">【11・12・1月北海道】さっぽろホワイトイルミネーション＆定山渓雪見露天！札幌味噌ラーメンと北の味覚に酔いしれる名宿5選</span>
             </a>
             <a href="/winter-hokkaido-tokachi-jewelry-ice-mall-onsen-sauna-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">極寒の奇跡ジュエリーアイスとモール温泉：2026-2027年冬の十勝川温泉＆極上サウナ宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">極寒の奇跡ジュエリーアイスとモール温泉：2026-2027年冬の十勝川温泉＆極上サウナ宿5選</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

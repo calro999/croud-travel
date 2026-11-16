@@ -368,19 +368,19 @@ export default function ArticlePage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/furusato-tax-takeo-onsen-romon-pottery-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">武雄温泉をふるさと納税でお得に旅する！国重文・武雄温泉楼門＆美肌とろとろ湯！焼き物の里宿特集｜京都屋・春慶屋・なかます旅館</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">武雄温泉をふるさと納税でお得に旅する！国重文・武雄温泉楼門＆美肌とろとろ湯！焼き物の里宿特集｜京都屋・春慶屋・なかます旅館</span>
             </a>
             <a href="/saga-arita-imari-hasami-pottery-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「佐賀＆長崎・有田＆伊万里・波佐見」日本磁器発祥の地・トンバイ塀の窯元＆伊万里牛宿 厳選ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「佐賀＆長崎・有田＆伊万里・波佐見」日本磁器発祥の地・トンバイ塀の窯元＆伊万里牛宿 厳選ガイド</span>
             </a>
             <a href="/saga-solo-business-sagagyu-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「佐賀出張・男一人旅」お濠の水辺ビュー・佐賀牛グルメ・駅前快適ビジネス！城下町の静けさで整う厳選3宿</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「佐賀出張・男一人旅」お濠の水辺ビュー・佐賀牛グルメ・駅前快適ビジネス！城下町の静けさで整う厳選3宿</span>
             </a>
             <a href="/spring-saga-imari-beef-takeo-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「極上A5伊万里牛＆武雄温泉美肌湯」1300年の名湯と佐賀の最高峰グルメを堪能する名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「極上A5伊万里牛＆武雄温泉美肌湯」1300年の名湯と佐賀の最高峰グルメを堪能する名宿5選</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

@@ -359,7 +359,7 @@ export default function ShizuokaNishiizuToiOnsenWinterPage() {
                     </div>
 
                     <div className="pt-3 border-t border-stone-100 flex items-center justify-between">
-                      <div className="text-[11px] text-stone-500 truncate max-w-[200px]">
+                      <div className="text-[11px] text-stone-500 break-words max-w-[200px]">
                         {h.access}
                       </div>
                       <a 
@@ -537,21 +537,21 @@ export default function ShizuokaNishiizuToiOnsenWinterPage() {
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-orange-700 font-bold block text-[10px]">静岡・伊豆長岡温泉</span>
-              <p className="font-bold text-stone-800 line-clamp-2">富士山ビューと金目鯛・伊豆牛会席・開湯1300年の名湯を巡る名宿</p>
+              <p className="font-bold text-stone-800">富士山ビューと金目鯛・伊豆牛会席・開湯1300年の名湯を巡る名宿</p>
             </Link>
             <Link 
               href="/winter-shizuoka-inatori-onsen-kinmedai-oceanview-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-orange-700 font-bold block text-[10px]">静岡・東伊豆稲取温泉</span>
-              <p className="font-bold text-stone-800 line-clamp-2">本場稲取金目鯛の姿煮と太平洋オーシャンビュー露天風呂宿</p>
+              <p className="font-bold text-stone-800">本場稲取金目鯛の姿煮と太平洋オーシャンビュー露天風呂宿</p>
             </Link>
             <Link 
               href="/winter-aichi-irago-onsen-torafugu-atsumigyu-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-orange-700 font-bold block text-[10px]">愛知・渥美半島伊良湖</span>
-              <p className="font-bold text-stone-800 line-clamp-2">伊良湖天然とらふぐと新源泉美肌湯・渥美牛＆夕日パノラマ名宿</p>
+              <p className="font-bold text-stone-800">伊良湖天然とらふぐと新源泉美肌湯・渥美牛＆夕日パノラマ名宿</p>
             </Link>
           
       <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">

@@ -401,19 +401,19 @@ export default function ArticlePage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/tea-ceremony-authentic-chashitsu-matcha-ryokan-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">茶道・本格茶室＆抹茶体験宿厳選ガイド「京都・金沢・宇治数寄屋ステイ」</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">茶道・本格茶室＆抹茶体験宿厳選ガイド「京都・金沢・宇治数寄屋ステイ」</span>
             </a>
             <a href="/traditional-gold-leaf-craft-kanazawa-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「黄金の輝きと加賀百万石の雅（金箔貼り体験＆金箔風呂が自慢の金沢温泉宿5選）」黄金の輝きと加賀百万石の雅！金箔貼り体験＆金箔風呂が自慢の金沢温泉宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「黄金の輝きと加賀百万石の雅（金箔貼り体験＆金箔風呂が自慢の金沢温泉宿5選）」黄金の輝きと加賀百万石の雅！金箔貼り体験＆金箔風呂が自慢の金沢温泉宿5選</span>
             </a>
             <a href="/traditional-kanazawa-kinpaku-gold-leaf-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「金沢金箔エステ＆加賀会席」純金箔の贅沢スパ体験と山中・山代・粟津温泉の名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「金沢金箔エステ＆加賀会席」純金箔の贅沢スパ体験と山中・山代・粟津温泉の名宿5選</span>
             </a>
             <a href="/winter-ishikawa-hakusan-shirayamahime-hatsumode-tatsunokuchi-onsen-kanougani-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">加賀一ノ宮「白山比咩神社」新春初詣と手取川雪景色 開湯1400年・辰口温泉の美肌名湯＆加能ガニ名宿</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">加賀一ノ宮「白山比咩神社」新春初詣と手取川雪景色 開湯1400年・辰口温泉の美肌名湯＆加能ガニ名宿</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

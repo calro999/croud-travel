@@ -362,19 +362,19 @@ export default function FeatureArticlePage() {
             <ul className="space-y-4 text-xs md:text-sm">
               <li>
                 <a href={HOTEL_DATA.inawashiro_ichiraku.url} target="_blank" rel="sponsored noopener noreferrer" className="block p-3 rounded-xl hover:bg-stone-50 transition border border-stone-100 hover:border-amber-200">
-                  <div className="font-bold text-stone-800 line-clamp-1">{HOTEL_DATA.inawashiro_ichiraku.name}</div>
+                  <div className="font-bold text-stone-800">{HOTEL_DATA.inawashiro_ichiraku.name}</div>
                   <div className="text-stone-500 text-xs mt-1">★ {HOTEL_DATA.inawashiro_ichiraku.rating} | 楽天トラベルで詳細確認</div>
                 </a>
               </li>
               <li>
                 <a href={HOTEL_DATA.inawashiro_yomogino.url} target="_blank" rel="sponsored noopener noreferrer" className="block p-3 rounded-xl hover:bg-stone-50 transition border border-stone-100 hover:border-amber-200">
-                  <div className="font-bold text-stone-800 line-clamp-1">{HOTEL_DATA.inawashiro_yomogino.name}</div>
+                  <div className="font-bold text-stone-800">{HOTEL_DATA.inawashiro_yomogino.name}</div>
                   <div className="text-stone-500 text-xs mt-1">★ {HOTEL_DATA.inawashiro_yomogino.rating} | 楽天トラベルで詳細確認</div>
                 </a>
               </li>
               <li>
                 <a href={HOTEL_DATA.inawashiro_seiranso.url} target="_blank" rel="sponsored noopener noreferrer" className="block p-3 rounded-xl hover:bg-stone-50 transition border border-stone-100 hover:border-amber-200">
-                  <div className="font-bold text-stone-800 line-clamp-1">{HOTEL_DATA.inawashiro_seiranso.name}</div>
+                  <div className="font-bold text-stone-800">{HOTEL_DATA.inawashiro_seiranso.name}</div>
                   <div className="text-stone-500 text-xs mt-1">★ {HOTEL_DATA.inawashiro_seiranso.rating} | 楽天トラベルで詳細確認</div>
                 </a>
               </li>
@@ -491,19 +491,19 @@ export default function FeatureArticlePage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/winter-fukushima-ashinomaki-onsen-okawa-valley-snow-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12月福島・会津芦ノ牧温泉】 大川渓谷の初雪絶景と渓流露天・極上会津馬刺し＆会津牛の宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">【11・12月福島・会津芦ノ牧温泉】 大川渓谷の初雪絶景と渓流露天・極上会津馬刺し＆会津牛の宿5選</span>
             </a>
             <a href="/winter-fukushima-dake-onsen-adatara-milky-bath-fukushimagyu-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">（metadata.title as string）</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">（metadata.title as string）</span>
             </a>
             <a href="/winter-fukushima-iwaki-yumoto-onsen-ankou-jobanmono-fukushimagyu-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">（metadata.title as string）</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">（metadata.title as string）</span>
             </a>
             <a href="/winter-fukushima-urabandai-onsen-goshikinuma-snow-fukushimagyu-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12月福島・裏磐梯温泉郷】五色沼初雪ウォークと磐梯山雪景色 極上福島牛ステーキ＆会津地鶏鍋・桧原湖ワカサギを味わう高原リゾート名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">【11・12月福島・裏磐梯温泉郷】五色沼初雪ウォークと磐梯山雪景色 極上福島牛ステーキ＆会津地鶏鍋・桧原湖ワカサギを味わう高原リゾート名宿5選</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

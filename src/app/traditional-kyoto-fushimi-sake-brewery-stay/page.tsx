@@ -630,19 +630,19 @@ export default function FeatureDetailPage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/furusato-tax-shuzenji-bamboo-autumn-leaves-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">伊豆の小京都・修善寺温泉の竹林の小径紅葉＆桂川もみじ散策！登録文化財名宿×ふるさと納税厳選ガイド静岡</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">伊豆の小京都・修善寺温泉の竹林の小径紅葉＆桂川もみじ散策！登録文化財名宿×ふるさと納税厳選ガイド静岡</span>
             </a>
             <a href="/furusato-tax-wa-modern-twin-bed-comfortable-ryokan-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">畳の温もりと高級ベッドの極上快眠！和モダンツインベッド客室温泉旅館×ふるさと納税厳選ガイド黒川・箱根強羅・京都嵐山</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">畳の温もりと高級ベッドの極上快眠！和モダンツインベッド客室温泉旅館×ふるさと納税厳選ガイド黒川・箱根強羅・京都嵐山</span>
             </a>
             <a href="/kyoto/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「京都旅行 厳選ガイド」 観光モデルコース・穴場・季節・公式おすすめ人気ホテル＆温泉旅館</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「京都旅行 厳選ガイド」 観光モデルコース・穴場・季節・公式おすすめ人気ホテル＆温泉旅館</span>
             </a>
             <a href="/kyoto-autumn-leaves-night-lightup-hotel-guide/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「京都 紅葉ライトアップ2026おすすめ7選」 夜間特別拝観・永観堂・東寺・清水寺＆混雑回避の夜回り宿</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「京都 紅葉ライトアップ2026おすすめ7選」 夜間特別拝観・永観堂・東寺・清水寺＆混雑回避の夜回り宿</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

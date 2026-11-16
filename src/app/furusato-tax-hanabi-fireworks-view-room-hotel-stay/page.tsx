@@ -478,19 +478,19 @@ export default function FurusatoHanabiFireworksViewStayPage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/silver-week-glamping-hokkaido-sapporo-furano-guide/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">北海道シルバーウィーク グランピング：札幌・富良野・トマム！秋晴れの爽快リゾートヴィラ</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">北海道シルバーウィーク グランピング：札幌・富良野・トマム！秋晴れの爽快リゾートヴィラ</span>
             </a>
             <a href="/winter-hokkaido-jozankei-onsen-snow-keikoku-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12月定山渓温泉の雪渓谷美と名湯】札幌の奥座敷・ナトリウム塩化物泉と道産和牛＆北海道冬の三大蟹会席の宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">【11・12月定山渓温泉の雪渓谷美と名湯】札幌の奥座敷・ナトリウム塩化物泉と道産和牛＆北海道冬の三大蟹会席の宿5選</span>
             </a>
             <a href="/winter-hokkaido-otaru-canal-illumination-sushi-asarigawa-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12月北海道・小樽の青の運河イルミネーションと朝里川雪見露天】小樽前浜極上寿司＆道産牛会席を味わう冬の運河・温泉名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">【11・12月北海道・小樽の青の運河イルミネーションと朝里川雪見露天】小樽前浜極上寿司＆道産牛会席を味わう冬の運河・温泉名宿5選</span>
             </a>
             <a href="/winter-hokkaido-sounkyo-onsen-snow-gorge-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12月北海道・層雲峡温泉の初冬峡谷美と大雪山雪見露天】名湯硫黄泉＆上川十勝牛・オホーツク冬海鮮会席の宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">【11・12月北海道・層雲峡温泉の初冬峡谷美と大雪山雪見露天】名湯硫黄泉＆上川十勝牛・オホーツク冬海鮮会席の宿5選</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

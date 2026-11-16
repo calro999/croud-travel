@@ -465,19 +465,19 @@ export default function Page() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/nikko-chuzenji-car-free-travel-guide/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「日光・中禅寺湖 車なし観光 1泊2日モデルコース」 東武特急スペーシアX＆東武バスで行く世界遺産＆奥日光湯宿</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「日光・中禅寺湖 車なし観光 1泊2日モデルコース」 東武特急スペーシアX＆東武バスで行く世界遺産＆奥日光湯宿</span>
             </a>
             <a href="/spring-tochigi-tochiotome-strawberry-spa-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「とちおとめ＆スカイベリー苺スイーツ」日光・鬼怒川温泉の贅沢ビュッフェと名湯宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「とちおとめ＆スカイベリー苺スイーツ」日光・鬼怒川温泉の贅沢ビュッフェと名湯宿5選</span>
             </a>
             <a href="/tochigi-kinugawa-onsen-valley-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「栃木・鬼怒川温泉」渓谷美・鬼怒楯岩大吊橋＆ライン下り極上宿 厳選ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「栃木・鬼怒川温泉」渓谷美・鬼怒楯岩大吊橋＆ライン下り極上宿 厳選ガイド</span>
             </a>
             <a href="/tochigi-nasu-shiobara-itamuro-kuroiso-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「栃木・那須塩原＆板室・黒磯」那須茶臼岳・板室立ち湯＆黒磯レトロカフェ宿 厳選ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「栃木・那須塩原＆板室・黒磯」那須茶臼岳・板室立ち湯＆黒磯レトロカフェ宿 厳選ガイド</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

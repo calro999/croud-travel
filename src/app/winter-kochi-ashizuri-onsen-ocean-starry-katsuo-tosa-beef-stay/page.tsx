@@ -548,8 +548,8 @@ export default function KochiAshizuriWinterFeature() {
               className="group p-4 rounded-2xl bg-slate-50 hover:bg-blue-50/60 border border-slate-100 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-blue-700 bg-blue-100/60 px-2 py-0.5 rounded-full inline-block">徳島・鳴門</span>
-              <h4 className="text-xs font-bold text-slate-800 group-hover:text-blue-800 transition line-clamp-2">鳴門温泉の初冬鳴門海峡絶景と名物鳴門鯛づくし会席宿</h4>
-              <p className="text-[11px] text-slate-500 line-clamp-2">
+              <h4 className="text-xs font-bold text-slate-800 group-hover:text-blue-800 transition">鳴門温泉の初冬鳴門海峡絶景と名物鳴門鯛づくし会席宿</h4>
+              <p className="text-[11px] text-slate-500">
                 引き締まった鳴門鯛の旨味と渦潮の雄大なパノラマを堪能。
               </p>
             </Link>
@@ -558,8 +558,8 @@ export default function KochiAshizuriWinterFeature() {
               className="group p-4 rounded-2xl bg-slate-50 hover:bg-blue-50/60 border border-slate-100 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-blue-700 bg-blue-100/60 px-2 py-0.5 rounded-full inline-block">香川・琴平</span>
-              <h4 className="text-xs font-bold text-slate-800 group-hover:text-blue-800 transition line-clamp-2">ことひら温泉の初冬こんぴら参拝と極上オリーブ牛会席宿</h4>
-              <p className="text-[11px] text-slate-500 line-clamp-2">
+              <h4 className="text-xs font-bold text-slate-800 group-hover:text-blue-800 transition">ことひら温泉の初冬こんぴら参拝と極上オリーブ牛会席宿</h4>
+              <p className="text-[11px] text-slate-500">
                 金刀比羅宮の初冬参拝と讃岐の名湯、オリーブ牛の贅沢ステイ。
               </p>
             </Link>
@@ -568,8 +568,8 @@ export default function KochiAshizuriWinterFeature() {
               className="group p-4 rounded-2xl bg-slate-50 hover:bg-blue-50/60 border border-slate-100 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-blue-700 bg-blue-100/60 px-2 py-0.5 rounded-full inline-block">愛媛・道後</span>
-              <h4 className="text-xs font-bold text-slate-800 group-hover:text-blue-800 transition line-clamp-2">道後温泉本館全館営業再開と冬の鯛めし・伊予牛会席宿</h4>
-              <p className="text-[11px] text-slate-500 line-clamp-2">
+              <h4 className="text-xs font-bold text-slate-800 group-hover:text-blue-800 transition">道後温泉本館全館営業再開と冬の鯛めし・伊予牛会席宿</h4>
+              <p className="text-[11px] text-slate-500">
                 日本最古の名湯の歴史ロマンと瀬戸内の極上鯛めしに舌鼓。
               </p>
             </Link>
@@ -578,8 +578,8 @@ export default function KochiAshizuriWinterFeature() {
               className="group p-4 rounded-2xl bg-slate-50 hover:bg-blue-50/60 border border-slate-100 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-blue-700 bg-blue-100/60 px-2 py-0.5 rounded-full inline-block">宮崎・青島</span>
-              <h4 className="text-xs font-bold text-slate-800 group-hover:text-blue-800 transition line-clamp-2">青島温泉の初冬パームビーチ絶景と宮崎牛・伊勢海老宿</h4>
-              <p className="text-[11px] text-slate-500 line-clamp-2">
+              <h4 className="text-xs font-bold text-slate-800 group-hover:text-blue-800 transition">青島温泉の初冬パームビーチ絶景と宮崎牛・伊勢海老宿</h4>
+              <p className="text-[11px] text-slate-500">
                 南国リゾートの心地よい潮風と極上の宮崎牛を味わう海辺ステイ。
               </p>
             </Link>

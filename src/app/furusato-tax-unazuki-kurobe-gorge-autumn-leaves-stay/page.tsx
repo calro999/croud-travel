@@ -362,19 +362,19 @@ export default function FeatureArticlePage() {
             <ul className="space-y-4 text-xs md:text-sm">
               <li>
                 <a href={HOTEL_DATA.unazuki_entaijisou.url} target="_blank" rel="sponsored noopener noreferrer" className="block p-3 rounded-xl hover:bg-stone-50 transition border border-stone-100 hover:border-amber-200">
-                  <div className="font-bold text-stone-800 line-clamp-1">{HOTEL_DATA.unazuki_entaijisou.name}</div>
+                  <div className="font-bold text-stone-800">{HOTEL_DATA.unazuki_entaijisou.name}</div>
                   <div className="text-stone-500 text-xs mt-1">★ {HOTEL_DATA.unazuki_entaijisou.rating} | 楽天トラベルで詳細確認</div>
                 </a>
               </li>
               <li>
                 <a href={HOTEL_DATA.unazuki_hotel_kurobe.url} target="_blank" rel="sponsored noopener noreferrer" className="block p-3 rounded-xl hover:bg-stone-50 transition border border-stone-100 hover:border-amber-200">
-                  <div className="font-bold text-stone-800 line-clamp-1">{HOTEL_DATA.unazuki_hotel_kurobe.name}</div>
+                  <div className="font-bold text-stone-800">{HOTEL_DATA.unazuki_hotel_kurobe.name}</div>
                   <div className="text-stone-500 text-xs mt-1">★ {HOTEL_DATA.unazuki_hotel_kurobe.rating} | 楽天トラベルで詳細確認</div>
                 </a>
               </li>
               <li>
                 <a href={HOTEL_DATA.unazuki_togen.url} target="_blank" rel="sponsored noopener noreferrer" className="block p-3 rounded-xl hover:bg-stone-50 transition border border-stone-100 hover:border-amber-200">
-                  <div className="font-bold text-stone-800 line-clamp-1">{HOTEL_DATA.unazuki_togen.name}</div>
+                  <div className="font-bold text-stone-800">{HOTEL_DATA.unazuki_togen.name}</div>
                   <div className="text-stone-500 text-xs mt-1">★ {HOTEL_DATA.unazuki_togen.rating} | 楽天トラベルで詳細確認</div>
                 </a>
               </li>
@@ -491,19 +491,19 @@ export default function FeatureArticlePage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/furusato-tax-terraced-rice-fields-satoyama-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">絶景棚田＆日本の原風景里山温泉宿×ふるさと納税厳選ガイド星峠・白米千枚田・大山千枚田の休日</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">絶景棚田＆日本の原風景里山温泉宿×ふるさと納税厳選ガイド星峠・白米千枚田・大山千枚田の休日</span>
             </a>
             <a href="/toyama-solo-business-tateyama-sauna-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">富山出張＆立山連峰ビュー：富山駅近・天然温泉サウナ・白えび美食！「天然の生簀」富山湾を味わう極上宿 厳選3選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">富山出張＆立山連峰ビュー：富山駅近・天然温泉サウナ・白えび美食！「天然の生簀」富山湾を味わう極上宿 厳選3選</span>
             </a>
             <a href="/winter-hot-pot-gibier-wild-game-satoyama-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">2026年：【2026年】滋味あふれる天然猪肉と特製味噌出汁！伝統の「ぼたん鍋」＆里山ジビエ会席宿5選 ｜ 日本全国・旅宿クラウド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">2026年：【2026年】滋味あふれる天然猪肉と特製味噌出汁！伝統の「ぼたん鍋」＆里山ジビエ会席宿5選 ｜ 日本全国・旅宿クラウド</span>
             </a>
             <a href="/winter-toyama-takaoka-imizu-zuiryuji-hatsumode-shinminato-crab-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12・1月富山】国宝「高岡瑞龍寺」初詣と雨晴海岸の気嵐絶景！新湊紅ズワイガニ＆高岡名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">【11・12・1月富山】国宝「高岡瑞龍寺」初詣と雨晴海岸の気嵐絶景！新湊紅ズワイガニ＆高岡名宿5選</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

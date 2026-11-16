@@ -153,8 +153,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     山梨県笛吹市石和町川中島1607
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">石和温泉　美と健康と癒しの宿　ホテル八田</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">石和温泉　美と健康と癒しの宿　ホテル八田</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     【美肌の湯◇認証】県内最大級の露天風呂・展望ワイン風呂・貸切風呂で癒しの湯を堪能。甲州の旬を味わう宿
                   </p>
                   
@@ -197,8 +197,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     山梨県笛吹市石和町川中島538
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">石和温泉　ホテル平安</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">石和温泉　ホテル平安</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     石和温泉駅無料送迎有◆温泉24時間OK◆水晶焼ステーキ・ほうとう鍋など郷土の味を堪能
                   </p>
                   
@@ -241,8 +241,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     山梨県笛吹市石和町八田97
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">大江戸温泉物語　ホテル新光</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">大江戸温泉物語　ホテル新光</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     見どころ満載の石和温泉を楽しんだ後は、自慢のバイキングと美肌の湯でゆっくりとおくつろぎください。
                   </p>
                   
@@ -298,8 +298,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     北海道小樽市色内1-8-25
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">アンワインドホテルアンドバー小樽（ＵＮＷＩＮＤ　ＨＯＴＥＬ　＆　ＢＡＲ　小樽）</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">アンワインドホテルアンドバー小樽（ＵＮＷＩＮＤ　ＨＯＴＥＬ　＆　ＢＡＲ　小樽）</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     北海道随一のクラシックホテルを現代的感性で再生
                   </p>
                   
@@ -342,8 +342,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     北海道札幌市豊平区豊平4条1丁目1-1
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">プレミアホテル－ＴＳＵＢＡＫＩ－札幌</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">プレミアホテル－ＴＳＵＢＡＫＩ－札幌</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     ご宿泊者様専用サウナ＆フィットネス◇すすきの徒歩圏内◇ご宿泊者様専用ラウンジ（利用条件有り）
                   </p>
                   
@@ -386,8 +386,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     北海道札幌市中央区北3条西1丁目
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">ＡＮＡクラウンプラザホテル札幌　ｂｙ　ＩＨＧ</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">ＡＮＡクラウンプラザホテル札幌　ｂｙ　ＩＨＧ</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     全室禁煙・ＪＲ札幌駅徒歩7分、地下鉄さっぽろ駅東豊線改札21番出口徒歩1分、空港バスホテル正面停車
                   </p>
                   
@@ -443,8 +443,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     北海道帯広市西7条南19丁目１
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">森のスパリゾート　北海道ホテル</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">森のスパリゾート　北海道ホテル</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     セルフロウリュ可能なサウナと北海道遺産のモール温泉浴場を備えた緑に囲まれたシティホテル
                   </p>
                   
@@ -487,8 +487,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     北海道河東郡音更町十勝川温泉北9丁目1番地
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">ホテルテトラリゾート十勝川</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">ホテルテトラリゾート十勝川</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     自家源泉の温泉と、十勝・北海道産食材にこだわった料理が自慢のホテルです。
                   </p>
                   
@@ -531,8 +531,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     北海道河東郡音更町十勝川温泉南14-2
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">十勝川温泉　観月苑</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">十勝川温泉　観月苑</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     十勝川温泉初！２０２０年５月フィンランド式サウナへリニューアル！
                   </p>
                   

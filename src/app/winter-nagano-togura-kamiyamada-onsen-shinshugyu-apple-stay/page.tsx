@@ -657,8 +657,8 @@ export default function NaganoToguraKamiyamadaWinterPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-emerald-300 bg-emerald-400/20 px-2 py-0.5 rounded-full inline-block">長野・上田鹿教湯</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-emerald-200 transition line-clamp-2">鹿教湯温泉 文殊堂雪景色＆信州牛湯治宿</h4>
-              <p className="text-[11px] text-stone-200 line-clamp-2">
+              <h4 className="text-xs font-bold text-white group-hover:text-emerald-200 transition">鹿教湯温泉 文殊堂雪景色＆信州牛湯治宿</h4>
+              <p className="text-[11px] text-stone-200">
                 環境庁指定保養温泉地の名湯と、氷灯ろう夢まつり・信州牛を味わう冬の湯治旅。
               </p>
             </Link>
@@ -668,8 +668,8 @@ export default function NaganoToguraKamiyamadaWinterPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-emerald-300 bg-emerald-400/20 px-2 py-0.5 rounded-full inline-block">長野・信州高山</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-emerald-200 transition line-clamp-2">松川渓流雪見露天＆信州プレミアム牛名宿</h4>
-              <p className="text-[11px] text-stone-200 line-clamp-2">
+              <h4 className="text-xs font-bold text-white group-hover:text-emerald-200 transition">松川渓流雪見露天＆信州プレミアム牛名宿</h4>
+              <p className="text-[11px] text-stone-200">
                 松川渓谷の雪景色と白濁硫黄泉、信州プレミアム牛のすき焼きを味わう秘湯旅。
               </p>
             </Link>
@@ -679,8 +679,8 @@ export default function NaganoToguraKamiyamadaWinterPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-emerald-300 bg-emerald-400/20 px-2 py-0.5 rounded-full inline-block">長野・阿智村昼神</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-emerald-200 transition line-clamp-2">日本一の星空ナイトツアー＆美肌湯宿</h4>
-              <p className="text-[11px] text-stone-200 line-clamp-2">
+              <h4 className="text-xs font-bold text-white group-hover:text-emerald-200 transition">日本一の星空ナイトツアー＆美肌湯宿</h4>
+              <p className="text-[11px] text-stone-200">
                 初冬の澄み渡る満天の星とpH9.7の超アルカリ性美肌温泉、南信州牛を味わう旅。
               </p>
             </Link>

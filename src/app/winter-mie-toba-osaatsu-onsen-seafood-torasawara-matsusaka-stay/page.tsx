@@ -596,8 +596,8 @@ export default function MieTobaOsaatsuWinterPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-blue-300 bg-blue-400/20 px-2 py-0.5 rounded-full inline-block">三重・伊勢志摩</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-blue-200 transition line-clamp-2">伊勢神宮冬至朝日＆的矢かき温泉宿</h4>
-              <p className="text-[11px] text-stone-200 line-clamp-2">
+              <h4 className="text-xs font-bold text-white group-hover:text-blue-200 transition">伊勢神宮冬至朝日＆的矢かき温泉宿</h4>
+              <p className="text-[11px] text-stone-200">
                 宇治橋鳥居から昇る冬至の奇跡の朝日と、旬を迎えるブランド的矢牡蠣を味わう旅。
               </p>
             </Link>
@@ -607,8 +607,8 @@ export default function MieTobaOsaatsuWinterPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-blue-300 bg-blue-400/20 px-2 py-0.5 rounded-full inline-block">愛知・南知多</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-blue-200 transition line-clamp-2">日間賀島天然とらふぐ＆知多牛ステーキ名宿</h4>
-              <p className="text-[11px] text-stone-200 line-clamp-2">
+              <h4 className="text-xs font-bold text-white group-hover:text-blue-200 transition">日間賀島天然とらふぐ＆知多牛ステーキ名宿</h4>
+              <p className="text-[11px] text-stone-200">
                 伊勢湾の夕日絶景露天風呂と、冬の王様天然とらふぐフルコースを味わう休日。
               </p>
             </Link>
@@ -618,8 +618,8 @@ export default function MieTobaOsaatsuWinterPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-blue-300 bg-blue-400/20 px-2 py-0.5 rounded-full inline-block">和歌山・南紀白浜</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-blue-200 transition line-clamp-2">太平洋夕陽＆幻の天然本クエ鍋名宿</h4>
-              <p className="text-[11px] text-stone-200 line-clamp-2">
+              <h4 className="text-xs font-bold text-white group-hover:text-blue-200 transition">太平洋夕陽＆幻の天然本クエ鍋名宿</h4>
+              <p className="text-[11px] text-stone-200">
                 白良浜のパノラマ露天風呂と、コラーゲンたっぷりの天然本クエ鍋を堪能する冬旅。
               </p>
             </Link>

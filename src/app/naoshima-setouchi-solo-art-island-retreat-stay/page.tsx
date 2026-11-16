@@ -423,19 +423,19 @@ export default function ArticlePage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/winter-kagawa-zentsuji-marugame-castle-udon-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「11・12・1月香川」善通寺＆丸亀！弘法大師生誕地・総本山善通寺の雪の初詣と丸亀城石垣ライトアップ・冬の讃岐しっぽくうどん＆骨付鳥名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「11・12・1月香川」善通寺＆丸亀！弘法大師生誕地・総本山善通寺の雪の初詣と丸亀城石垣ライトアップ・冬の讃岐しっぽくうどん＆骨付鳥名宿5選</span>
             </a>
             <a href="/autumn-budget-kagawa-takamatsu-udon-ritsurin-hotels-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「高松」名店讃岐うどん巡り＆栗林公園の錦秋！3,000円台〜泊まれる格安・高コスパ宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「高松」名店讃岐うどん巡り＆栗林公園の錦秋！3,000円台〜泊まれる格安・高コスパ宿5選</span>
             </a>
             <a href="/furusato-tax-setouchi-island-luxury-ocean-resort-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">穏やかな海と多島美に癒やされる瀬戸内アイランドリゾート名宿×ふるさと納税厳選ガイド小豆島・鞆の浦・生口島</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">穏やかな海と多島美に癒やされる瀬戸内アイランドリゾート名宿×ふるさと納税厳選ガイド小豆島・鞆の浦・生口島</span>
             </a>
             <a href="/kagawa-kotohira-konpira-shrine-sanuki-udon-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「香川・琴平＆こんぴら温泉・讃岐うどん」金刀比羅宮785段階段・金丸座＆うどん宿 厳選ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「香川・琴平＆こんぴら温泉・讃岐うどん」金刀比羅宮785段階段・金丸座＆うどん宿 厳選ガイド</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

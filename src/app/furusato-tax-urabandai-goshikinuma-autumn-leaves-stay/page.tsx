@@ -362,19 +362,19 @@ export default function FeatureArticlePage() {
             <ul className="space-y-4 text-xs md:text-sm">
               <li>
                 <a href={HOTEL_DATA.urabandai_kogen_hotel.url} target="_blank" rel="sponsored noopener noreferrer" className="block p-3 rounded-xl hover:bg-stone-50 transition border border-stone-100 hover:border-amber-200">
-                  <div className="font-bold text-stone-800 line-clamp-1">{HOTEL_DATA.urabandai_kogen_hotel.name}</div>
+                  <div className="font-bold text-stone-800">{HOTEL_DATA.urabandai_kogen_hotel.name}</div>
                   <div className="text-stone-500 text-xs mt-1">★ {HOTEL_DATA.urabandai_kogen_hotel.rating} | 楽天トラベルで詳細確認</div>
                 </a>
               </li>
               <li>
                 <a href={HOTEL_DATA.urabandai_lake_resort.url} target="_blank" rel="sponsored noopener noreferrer" className="block p-3 rounded-xl hover:bg-stone-50 transition border border-stone-100 hover:border-amber-200">
-                  <div className="font-bold text-stone-800 line-clamp-1">{HOTEL_DATA.urabandai_lake_resort.name}</div>
+                  <div className="font-bold text-stone-800">{HOTEL_DATA.urabandai_lake_resort.name}</div>
                   <div className="text-stone-500 text-xs mt-1">★ {HOTEL_DATA.urabandai_lake_resort.rating} | 楽天トラベルで詳細確認</div>
                 </a>
               </li>
               <li>
                 <a href={HOTEL_DATA.urabandai_active_resort.url} target="_blank" rel="sponsored noopener noreferrer" className="block p-3 rounded-xl hover:bg-stone-50 transition border border-stone-100 hover:border-amber-200">
-                  <div className="font-bold text-stone-800 line-clamp-1">{HOTEL_DATA.urabandai_active_resort.name}</div>
+                  <div className="font-bold text-stone-800">{HOTEL_DATA.urabandai_active_resort.name}</div>
                   <div className="text-stone-500 text-xs mt-1">★ {HOTEL_DATA.urabandai_active_resort.rating} | 楽天トラベルで詳細確認</div>
                 </a>
               </li>
@@ -491,19 +491,19 @@ export default function FeatureArticlePage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/winter-fukushima-aizu-ashinomaki-higashiyama-luxury-ookawaso-mukaitaki-snow-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">winter-fukushima-aizu-ashinomaki-higashiyama-luxury-ookawaso-mukaitaki-snow-stay</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">winter-fukushima-aizu-ashinomaki-higashiyama-luxury-ookawaso-mukaitaki-snow-stay</span>
             </a>
             <a href="/winter-fukushima-dake-onsen-adatara-milky-bath-fukushimagyu-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12月岳温泉】安達太良山初冬の雪景色と奇跡の強酸性ミルキー美肌湯・極上福島牛＆川俣シャモ鍋・二本松銘酒を味わう名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">【11・12月岳温泉】安達太良山初冬の雪景色と奇跡の強酸性ミルキー美肌湯・極上福島牛＆川俣シャモ鍋・二本松銘酒を味わう名宿5選</span>
             </a>
             <a href="/autumn-budget-fukushima-bandai-azuma-momiji-gyoza-hotels-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">福島：磐梯吾妻スカイラインの絶景紅葉と円盤餃子！格安ホテル5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">福島：磐梯吾妻スカイラインの絶景紅葉と円盤餃子！格安ホテル5選</span>
             </a>
             <a href="/fukushima-iizaka-solo-retreat-hotspring-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">奥州三名湯・飯坂温泉ひとり旅・摺上川渓谷あつ湯おこもり：松尾芭蕉ゆかりの古湯・摺上川のせせらぎ・円盤餃子＆福島地酒！福島交通飯坂線直通厳選3宿</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">奥州三名湯・飯坂温泉ひとり旅・摺上川渓谷あつ湯おこもり：松尾芭蕉ゆかりの古湯・摺上川のせせらぎ・円盤餃子＆福島地酒！福島交通飯坂線直通厳選3宿</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

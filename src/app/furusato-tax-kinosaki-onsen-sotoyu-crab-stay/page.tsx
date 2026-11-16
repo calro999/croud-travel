@@ -546,19 +546,19 @@ export default function FurusatoArticlePage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/kobe-sannomiya-solo-business-sauna-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「神戸三宮出張・極上サウナステイ」サウナシュラン殿堂の聖地・異人館港町夜景・神戸牛！関西屈指の洗練都市を極める厳選3宿</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「神戸三宮出張・極上サウナステイ」サウナシュラン殿堂の聖地・異人館港町夜景・神戸牛！関西屈指の洗練都市を極める厳選3宿</span>
             </a>
             <a href="/spring-hyogo-tajima-beef-crab-spa-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「但馬牛ステーキ＆香住ガニ」兵庫・城崎温泉の七湯めぐりと極上グルメ宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「但馬牛ステーキ＆香住ガニ」兵庫・城崎温泉の七湯めぐりと極上グルメ宿5選</span>
             </a>
             <a href="/winter-hyogo-arima-onsen-kinsen-kobe-beef-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12月有馬温泉の金泉銀泉と六甲山夜景】 日本最古の名湯で芯から温まる冬・最高峰神戸牛会席を味わう老舗宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">【11・12月有馬温泉の金泉銀泉と六甲山夜景】 日本最古の名湯で芯から温まる冬・最高峰神戸牛会席を味わう老舗宿5選</span>
             </a>
             <a href="/winter-hyogo-himeji-castle-shoshasan-hatsumode-oyster-banshubee-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">世界遺産・白鷺城の冬絶景＆書写山圓教寺新春初詣！ 播磨灘の旬牡蠣と極上播州牛を味わう名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">世界遺産・白鷺城の冬絶景＆書写山圓教寺新春初詣！ 播磨灘の旬牡蠣と極上播州牛を味わう名宿5選</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

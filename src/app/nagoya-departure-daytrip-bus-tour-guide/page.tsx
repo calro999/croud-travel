@@ -397,9 +397,9 @@ export default function NagoyaDepartureDaytripBusTourPage() {
                           <span className="text-[10px] text-slate-500">{hotel.address1}</span>
                         </div>
                       )}
-                      <h3 className="text-xs md:text-sm font-black text-slate-900 line-clamp-2">{hotel.hotelName}</h3>
+                      <h3 className="text-xs md:text-sm font-black text-slate-900">{hotel.hotelName}</h3>
                       {hotel.hotelSpecial && (
-                        <p className="text-[11px] text-slate-600 line-clamp-2 font-medium">
+                        <p className="text-[11px] text-slate-600 font-medium">
                           {hotel.hotelSpecial}
                         </p>
                       )}
@@ -509,19 +509,19 @@ export default function NagoyaDepartureDaytripBusTourPage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/aichi-chita-minamichita-himakajima-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「愛知・知多半島＆南知多温泉郷」内海千鳥ヶ浜・日間賀島タコふぐ＆知多牛宿 厳選ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「愛知・知多半島＆南知多温泉郷」内海千鳥ヶ浜・日間賀島タコふぐ＆知多牛宿 厳選ガイド</span>
             </a>
             <a href="/autumn-budget-aichi-nagoya-momiji-large-bath-hotels-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「秋の名古屋×格安」東山動植物園の紅葉ライトアップと名古屋めし！大浴場付き1泊3,000円台〜のコスパ最強ホテル5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「秋の名古屋×格安」東山動植物園の紅葉ライトアップと名古屋めし！大浴場付き1泊3,000円台〜のコスパ最強ホテル5選</span>
             </a>
             <a href="/furusato-tax-book-library-hotel-retreat-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">数千冊の本に囲まれて眠る至福の読書リトリート＆ブックホテル×ふるさと納税厳選ガイド播磨福崎・神保町・名古屋</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">数千冊の本に囲まれて眠る至福の読書リトリート＆ブックホテル×ふるさと納税厳選ガイド播磨福崎・神保町・名古屋</span>
             </a>
             <a href="/furusato-tax-nagoya-luxury-gourmet-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">名古屋をふるさと納税でお得に旅する！駅直結スカイビュー＆最新ラグジュアリー！ひつまぶし・名古屋コーチン美食特集｜マリオット・TIAD・名古屋観光ホテル</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">名古屋をふるさと納税でお得に旅する！駅直結スカイビュー＆最新ラグジュアリー！ひつまぶし・名古屋コーチン美食特集｜マリオット・TIAD・名古屋観光ホテル</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

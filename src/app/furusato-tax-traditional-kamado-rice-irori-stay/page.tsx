@@ -153,8 +153,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     岐阜県高山市西之一色町3-829
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">飛騨高山温泉　飛騨の里　旅館　むら山</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">飛騨高山温泉　飛騨の里　旅館　むら山</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     飛騨高山温泉◎カップル・ファミリーにうれしい無料貸切風呂あり♪個室食事処も★駐車場無料♪
                   </p>
                   
@@ -197,8 +197,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     岐阜県郡上市八幡町柳町264
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">料理旅館　備前屋</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">料理旅館　備前屋</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     一期一会の気持ちを込めて郡上の季節をお届けします。明治創業、日本庭園には四季の移り変わりが見られます
                   </p>
                   
@@ -241,8 +241,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     岐阜県高山市一之宮町1682
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">日本の宿　ひだ高山　倭乃里</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">日本の宿　ひだ高山　倭乃里</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     全室スイートのやすらぎの一室　絶景、美食、清流の宿
                   </p>
                   
@@ -298,8 +298,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     岩手県花巻市鉛中平75-1
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">岩手　花巻温泉郷　鉛温泉　藤三旅館</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">岩手　花巻温泉郷　鉛温泉　藤三旅館</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     2024年6月宮沢賢治をテーマにした「なめとこ山サウナ」がグランドオープン
                   </p>
                   
@@ -342,8 +342,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     岩手県花巻市台２－４５
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">花巻温泉郷　台温泉　いやしろの湯　ホテル三右ェ門</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">花巻温泉郷　台温泉　いやしろの湯　ホテル三右ェ門</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     閑静で落ち着いた昔変らぬ宿心。移り変わる風情とともに、台温泉で過ごすお時間をごゆるりとお寛ぎ下さい
                   </p>
                   
@@ -399,8 +399,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     兵庫県丹波篠山市立町15
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">豆家</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">豆家</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     十件の文化財と灯る石庭に包まれ過ごす一棟宿
                   </p>
                   

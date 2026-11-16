@@ -42,7 +42,7 @@ export default function IzuShuzenjiAutumnPage() {
             <span className="px-3 py-1 bg-stone-800 text-amber-300 text-xs font-medium rounded-full border border-amber-400/30">見頃目安: 11月中旬〜12月上旬</span>
           </div>
           <h1 className="text-2xl md:text-4xl lg:text-5xl font-extrabold text-white leading-tight mb-4 drop-shadow-md">「秋の伊豆・修善寺温泉」竹林の小径紅葉と桂川の清流散策！歴史薫る風雅なおすすめ名旅館5選</h1>
-          <p className="text-stone-200 text-sm md:text-base max-w-3xl line-clamp-2 md:line-clamp-none">
+          <p className="text-stone-200 text-sm md:text-base max-w-3xl">
             桂川のせせらぎに寄り添う石畳と竹林の青、そして頭上を覆う真紅のカエデ。文人墨客に愛された伊豆最古の湯の街で、贅沢な懐石料理と名湯に癒やされる珠玉の宿をご案内します。
           </p>
         </div>
@@ -98,7 +98,7 @@ export default function IzuShuzenjiAutumnPage() {
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 修善寺駅 / 伊豆箱根鉄道　修善寺駅から車で約１０分 東名高速道路沼津ICまたは新東名高速道路長泉沼津ICから30分　
                   </p>
-                  <p className="text-sm text-stone-600 mb-4 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-stone-600 mb-4 leading-relaxed">
                     修善寺温泉の奥にある閑静な旅館。本格懐石料理と露天風呂が好評。露天風呂付客室や離れもおすすめ。
                   </p>
                 </div>
@@ -143,7 +143,7 @@ export default function IzuShuzenjiAutumnPage() {
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 修善寺駅 / 伊豆箱根鉄道修善寺駅から路線バスまたはタクシー（送迎不可）/東名高速沼津ICから伊豆縦貫道・伊豆中央道経由約３５分
                   </p>
-                  <p className="text-sm text-stone-600 mb-4 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-stone-600 mb-4 leading-relaxed">
                     客室からは四季を感じられる自然が一望できます。月替りの会席は人気の絶品です。
                   </p>
                 </div>
@@ -188,7 +188,7 @@ export default function IzuShuzenjiAutumnPage() {
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 修善寺駅 / 伊豆箱根鉄道線 修善寺駅よりバスまたはタクシーで10分／東名・新東名高速 沼津ICより伊豆縦貫道経由45分
                   </p>
-                  <p className="text-sm text-stone-600 mb-4 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-stone-600 mb-4 leading-relaxed">
                     ミシュランで二つ星の竹林の小径まで徒歩2分、修善寺温泉の中心で観光に便利です
                   </p>
                 </div>
@@ -233,7 +233,7 @@ export default function IzuShuzenjiAutumnPage() {
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 修善寺駅 / 伊豆箱根鉄道　修善寺駅よりバスで８分／お車は、東名沼津ICより伊豆縦貫道・伊豆中央道・修善寺道路で約30分
                   </p>
-                  <p className="text-sm text-stone-600 mb-4 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-stone-600 mb-4 leading-relaxed">
                     旅のご褒美は、口の中でとろける伊豆牛と3つの貸切風呂。美味と湯に癒される、特別な時間をお届けします。
                   </p>
                 </div>
@@ -278,7 +278,7 @@ export default function IzuShuzenjiAutumnPage() {
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 修善寺駅 / 伊豆箱根鉄道修善寺駅よりタクシーで８分。
                   </p>
-                  <p className="text-sm text-stone-600 mb-4 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-stone-600 mb-4 leading-relaxed">
                     2021年1月グランドオープン◇無料の7つの貸切風呂で楽しむ美肌の修善寺温泉
                   </p>
                 </div>

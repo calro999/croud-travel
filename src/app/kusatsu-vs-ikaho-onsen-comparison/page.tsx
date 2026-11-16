@@ -265,8 +265,8 @@ export default function KusatsuVsIkahoPage() {
                   <img src={hotel.hotelImageUrl} alt={hotel.hotelName} className="w-full h-full object-cover transition-transform hover:scale-105 duration-300" loading="eager" fetchPriority="high" decoding="async" />
                 </div>
                 <div className="p-5 flex-grow flex flex-col">
-                  <h3 className="font-bold text-lg mb-2 text-slate-800 line-clamp-2">{hotel.hotelName}</h3>
-                  <p className="text-sm text-slate-500 mb-4 line-clamp-3 flex-grow">{hotel.hotelSpecial}</p>
+                  <h3 className="font-bold text-lg mb-2 text-slate-800">{hotel.hotelName}</h3>
+                  <p className="text-sm text-slate-500 mb-4 flex-grow">{hotel.hotelSpecial}</p>
                   <div className="flex justify-between items-center mt-auto pt-4 border-t border-slate-100">
                     <span className="text-emerald-700 font-bold">
                       {hotel.hotelMinCharge ? `¥${hotel.hotelMinCharge.toLocaleString()}〜` : "価格未定"}

@@ -516,8 +516,8 @@ export default function WinterYamanashiShimobePage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">山梨・石和温泉</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">石和温泉の美肌湯と甲州ワイン・甲州牛会席</h4>
-              <p className="text-[11px] text-stone-200 line-clamp-2">
+              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition">石和温泉の美肌湯と甲州ワイン・甲州牛会席</h4>
+              <p className="text-[11px] text-stone-200">
                 甲府盆地の名湯と冬のワイナリー巡り、極上甲州牛すき焼きを堪能する冬旅。
               </p>
             </Link>
@@ -527,8 +527,8 @@ export default function WinterYamanashiShimobePage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">山梨・河口湖温泉</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">富士山を望む絶景露天風呂と甲州ワインビーフ</h4>
-              <p className="text-[11px] text-stone-200 line-clamp-2">
+              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition">富士山を望む絶景露天風呂と甲州ワインビーフ</h4>
+              <p className="text-[11px] text-stone-200">
                 初冬の澄み渡る湖畔から仰ぎ見る白銀富士と極上温泉リゾートの贅沢ステイ。
               </p>
             </Link>
@@ -538,8 +538,8 @@ export default function WinterYamanashiShimobePage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">神奈川・箱根温泉</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">箱根の富士見露天風呂と冬の美食名宿</h4>
-              <p className="text-[11px] text-stone-200 line-clamp-2">
+              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition">箱根の富士見露天風呂と冬の美食名宿</h4>
+              <p className="text-[11px] text-stone-200">
                 初冬の芦ノ湖と雄大な富士山を望む名湯、伝統の懐石料理と癒やしの湯浴み。
               </p>
             </Link>

@@ -586,7 +586,7 @@ export default function YamanashiKiyosatoYatsugatakeWinterPage() {
             >
               <div>
                 <span className="text-[11px] font-bold text-indigo-700 bg-indigo-50 px-2 py-0.5 rounded block w-fit mb-2">山梨・山中湖忍野</span>
-                <h3 className="text-sm font-bold text-stone-800 group-hover:text-indigo-600 line-clamp-2">山中湖ダイヤモンド富士と忍野八海・熱々ほうとう鍋ステイ</h3>
+                <h3 className="text-sm font-bold text-stone-800 group-hover:text-indigo-600">山中湖ダイヤモンド富士と忍野八海・熱々ほうとう鍋ステイ</h3>
               </div>
               <span className="text-xs text-indigo-600 font-semibold mt-3 block">記事を読む →</span>
             </Link>
@@ -597,7 +597,7 @@ export default function YamanashiKiyosatoYatsugatakeWinterPage() {
             >
               <div>
                 <span className="text-[11px] font-bold text-indigo-700 bg-indigo-50 px-2 py-0.5 rounded block w-fit mb-2">山梨・河口湖</span>
-                <h3 className="text-sm font-bold text-stone-800 group-hover:text-indigo-600 line-clamp-2">河口湖温泉から望む冬富士絶景と甲州牛会席露天風呂ステイ</h3>
+                <h3 className="text-sm font-bold text-stone-800 group-hover:text-indigo-600">河口湖温泉から望む冬富士絶景と甲州牛会席露天風呂ステイ</h3>
               </div>
               <span className="text-xs text-indigo-600 font-semibold mt-3 block">記事を読む →</span>
             </Link>
@@ -608,7 +608,7 @@ export default function YamanashiKiyosatoYatsugatakeWinterPage() {
             >
               <div>
                 <span className="text-[11px] font-bold text-indigo-700 bg-indigo-50 px-2 py-0.5 rounded block w-fit mb-2">山梨・石和温泉</span>
-                <h3 className="text-sm font-bold text-stone-800 group-hover:text-indigo-600 line-clamp-2">石和温泉の名湯大浴場と甲州ワイン・甲州牛すき焼きステイ</h3>
+                <h3 className="text-sm font-bold text-stone-800 group-hover:text-indigo-600">石和温泉の名湯大浴場と甲州ワイン・甲州牛すき焼きステイ</h3>
               </div>
               <span className="text-xs text-indigo-600 font-semibold mt-3 block">記事を読む →</span>
             </Link>
@@ -619,7 +619,7 @@ export default function YamanashiKiyosatoYatsugatakeWinterPage() {
             >
               <div>
                 <span className="text-[11px] font-bold text-indigo-700 bg-indigo-50 px-2 py-0.5 rounded block w-fit mb-2">長野・蓼科八ヶ岳</span>
-                <h3 className="text-sm font-bold text-stone-800 group-hover:text-indigo-600 line-clamp-2">蓼科温泉の雪景色と八ヶ岳連峰・信州プレミアム牛肉ステイ</h3>
+                <h3 className="text-sm font-bold text-stone-800 group-hover:text-indigo-600">蓼科温泉の雪景色と八ヶ岳連峰・信州プレミアム牛肉ステイ</h3>
               </div>
               <span className="text-xs text-indigo-600 font-semibold mt-3 block">記事を読む →</span>
             </Link>

@@ -435,7 +435,7 @@ export default function WinterYamagataAtsumiPage() {
                     <div className="pt-2 flex flex-col sm:flex-row items-center justify-between gap-4 border-t border-stone-100">
                       <div className="flex items-center gap-1.5 text-xs text-stone-500 w-full sm:w-auto">
                         <MapPin className="w-3.5 h-3.5 text-stone-400 shrink-0" />
-                        <span className="truncate">{h.access}</span>
+                        <span className="break-words">{h.access}</span>
                       </div>
                       <a
                         href={h.url}
@@ -584,8 +584,8 @@ export default function WinterYamagataAtsumiPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-sky-300 bg-sky-400/20 px-2 py-0.5 rounded-full inline-block">山形・銀山温泉</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-sky-200 transition line-clamp-2">銀山温泉の大正ロマン雪景色とガス灯の情景</h4>
-              <p className="text-[11px] text-stone-200 line-clamp-2">
+              <h4 className="text-xs font-bold text-white group-hover:text-sky-200 transition">銀山温泉の大正ロマン雪景色とガス灯の情景</h4>
+              <p className="text-[11px] text-stone-200">
                 銀世界に包まれる木造多層建築と名湯、尾花沢牛を味わう冬の憧れ滞在。
               </p>
             </Link>
@@ -595,8 +595,8 @@ export default function WinterYamagataAtsumiPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-sky-300 bg-sky-400/20 px-2 py-0.5 rounded-full inline-block">山形・天童温泉</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-sky-200 transition line-clamp-2">天童温泉の初冬ラ・フランス会席と山形牛名宿</h4>
-              <p className="text-[11px] text-stone-200 line-clamp-2">
+              <h4 className="text-xs font-bold text-white group-hover:text-sky-200 transition">天童温泉の初冬ラ・フランス会席と山形牛名宿</h4>
+              <p className="text-[11px] text-stone-200">
                 将棋の街の風情と果樹王国の冬の味覚、広々とした美肌温泉を満喫。
               </p>
             </Link>
@@ -606,8 +606,8 @@ export default function WinterYamagataAtsumiPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-sky-300 bg-sky-400/20 px-2 py-0.5 rounded-full inline-block">山形・蔵王温泉</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-sky-200 transition line-clamp-2">蔵王温泉の強酸性白濁硫黄泉と樹氷ライトアップ</h4>
-              <p className="text-[11px] text-stone-200 line-clamp-2">
+              <h4 className="text-xs font-bold text-white group-hover:text-sky-200 transition">蔵王温泉の強酸性白濁硫黄泉と樹氷ライトアップ</h4>
+              <p className="text-[11px] text-stone-200">
                 白銀のスノーモンスターと日本屈指の強酸性泉、山形牛すき焼きの極楽旅。
               </p>
             </Link>

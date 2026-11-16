@@ -460,19 +460,19 @@ export default function FurusatoRound66ArticlePage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/winter-nara-kashihara-jingu-hatsumode-asuka-asukunabe-yamatogyu-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">日本建国の聖地「橿原神宮」新春初詣と畝傍山の冬朝霧 飛鳥路の静寂と名物「飛鳥鍋」・極上大和牛名宿</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">日本建国の聖地「橿原神宮」新春初詣と畝傍山の冬朝霧 飛鳥路の静寂と名物「飛鳥鍋」・極上大和牛名宿</span>
             </a>
             <a href="/winter-nara-shigisan-chogosonshiji-hatsumode-onsen-yamatogyu-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「聖徳太子開創の霊峰・信貴山朝護孫子寺と世界一の福寅」2026-2027年冬の奈良・生駒＆信貴山！信貴山温泉と大和牛・ぼたん鍋名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「聖徳太子開創の霊峰・信貴山朝護孫子寺と世界一の福寅」2026-2027年冬の奈良・生駒＆信貴山！信貴山温泉と大和牛・ぼたん鍋名宿5選</span>
             </a>
             <a href="/winter-saga-yoshinogari-hikarinohibiki-ariake-nori-sagagyu-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「古代環濠の灯火・吉野ヶ里光の響と冬の初摘み有明海苔」2026-2027年冬の佐賀・神埼＆佐賀城下！古湯名湯と最高峰佐賀牛名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「古代環濠の灯火・吉野ヶ里光の響と冬の初摘み有明海苔」2026-2027年冬の佐賀・神埼＆佐賀城下！古湯名湯と最高峰佐賀牛名宿5選</span>
             </a>
             <a href="/autumn-budget-nara-park-todaiji-momiji-hotels-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「奈良」奈良公園の紅葉と鹿たちに会う秋旅！2,000円台〜泊まれる格安・高コスパ宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「奈良」奈良公園の紅葉と鹿たちに会う秋旅！2,000円台〜泊まれる格安・高コスパ宿5選</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

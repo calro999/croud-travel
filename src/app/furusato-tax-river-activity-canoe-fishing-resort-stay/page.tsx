@@ -153,8 +153,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     岐阜県岐阜市長良112
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">長良川温泉　石金</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">長良川温泉　石金</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     【源泉かけ流し】長良川と金華山の絶景◆地元食材を堪能できる会席料理【全16室の歴史ある温泉宿】
                   </p>
                   
@@ -197,8 +197,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     岐阜県岐阜市湊町397-2
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">長良川温泉　ホテルパーク</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">長良川温泉　ホテルパーク</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     清流長良川、金華山に囲まれ四季折々のロケーションです。
                   </p>
                   
@@ -241,8 +241,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     岐阜県岐阜市湊町１０番地
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">長良川温泉　十八楼</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">長良川温泉　十八楼</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     江戸時代より時を刻む麗しの老舗宿。長良川温泉 『蔵の湯』が好評です。
                   </p>
                   
@@ -298,8 +298,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     高知県香南市野市町東野1630
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">高知黒潮ホテル</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">高知黒潮ホテル</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     クチコミ4.2★エリア最大級の温泉ビジネスホテル。高知空港まで車で10分【トロトロ美肌湯】を満喫！
                   </p>
                   
@@ -342,8 +342,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     高知県高知市南宝永町4-2
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">高知プリンスホテル</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">高知プリンスホテル</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     地球33番地の宿から観光もビジネスもおもいのまま。
                   </p>
                   
@@ -386,8 +386,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     高知県四万十市西土佐用井1111-11
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">四万十・川の駅　カヌー館　四万十ひろばバンガロー「ゆうゆう」</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">四万十・川の駅　カヌー館　四万十ひろばバンガロー「ゆうゆう」</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     清流四万十川で、カヌー・レンタサイクル等、アクティビティを満喫しよう！
                   </p>
                   
@@ -443,8 +443,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     京都府亀岡市亀岡駅北1-6-1
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">天然温泉　旅人の湯　ホテルルートイン京都亀岡駅前</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">天然温泉　旅人の湯　ホテルルートイン京都亀岡駅前</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     JR亀岡駅北口すぐ。 サンガスタジアム徒歩2分。ホテルルートイン京都亀岡駅前7月1日OPEN！
                   </p>
                   
@@ -487,8 +487,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     京都府亀岡市湯の花温泉
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">京都　湯の花温泉　すみや亀峰菴</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">京都　湯の花温泉　すみや亀峰菴</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     京都の旅館ならではの日本の伝統美と現代アートの空間で四季折々の京懐石とオーストリアワインを愉しむ
                   </p>
                   
@@ -531,8 +531,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     京都府京都市西京区大原野東境谷町2-4
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">京都竹の郷温泉　万葉の湯　ホテル京都エミナース</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">京都竹の郷温泉　万葉の湯　ホテル京都エミナース</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     ご宿泊者は24時間万葉の湯入り放題！.心ゆくまで温泉を満喫下さい。
                   </p>
                   

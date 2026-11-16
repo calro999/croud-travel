@@ -611,7 +611,7 @@ export default function WakayamaKoyasanShukuboWinterPage() {
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-indigo-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-indigo-900 font-bold text-xs block mb-1">和歌山・熊野古道</span>
-              <span className="text-stone-900 font-bold group-hover:text-indigo-950 transition-colors line-clamp-2">
+              <span className="text-stone-900 font-bold group-hover:text-indigo-950 transition-colors">
                 川湯温泉の巨大仙人風呂と世界遺産湯の峰温泉つぼ湯・熊野牛名宿
               </span>
             </Link>
@@ -621,7 +621,7 @@ export default function WakayamaKoyasanShukuboWinterPage() {
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-indigo-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-indigo-900 font-bold text-xs block mb-1">和歌山・南紀白浜</span>
-              <span className="text-stone-900 font-bold group-hover:text-indigo-950 transition-colors line-clamp-2">
+              <span className="text-stone-900 font-bold group-hover:text-indigo-950 transition-colors">
                 幻の高級魚クエ鍋と白良浜イルミネーション・絶景海辺温泉名宿
               </span>
             </Link>
@@ -631,7 +631,7 @@ export default function WakayamaKoyasanShukuboWinterPage() {
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-indigo-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-indigo-900 font-bold text-xs block mb-1">奈良・洞川温泉</span>
-              <span className="text-stone-900 font-bold group-hover:text-indigo-950 transition-colors line-clamp-2">
+              <span className="text-stone-900 font-bold group-hover:text-indigo-950 transition-colors">
                 大峯山麓の雪景色・縁側が美しいノスタルジック温泉街と名物ぼたん鍋
               </span>
             </Link>
@@ -641,7 +641,7 @@ export default function WakayamaKoyasanShukuboWinterPage() {
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-indigo-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-indigo-900 font-bold text-xs block mb-1">三重・伊勢神宮</span>
-              <span className="text-stone-900 font-bold group-hover:text-indigo-950 transition-colors line-clamp-2">
+              <span className="text-stone-900 font-bold group-hover:text-indigo-950 transition-colors">
                 新春の伊勢神宮初詣とおかげ横丁・伊勢海老＆松阪牛会席名宿
               </span>
             </Link>
@@ -651,7 +651,7 @@ export default function WakayamaKoyasanShukuboWinterPage() {
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-indigo-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-indigo-900 font-bold text-xs block mb-1">京都・嵐山温泉</span>
-              <span className="text-stone-900 font-bold group-hover:text-indigo-950 transition-colors line-clamp-2">
+              <span className="text-stone-900 font-bold group-hover:text-indigo-950 transition-colors">
                 冬の渡月橋雪景色と静寂の竹林の小径・名物嵯峨野湯豆腐名宿
               </span>
             </Link>
@@ -661,7 +661,7 @@ export default function WakayamaKoyasanShukuboWinterPage() {
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-indigo-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-indigo-900 font-bold text-xs block mb-1">宮崎・高千穂</span>
-              <span className="text-stone-900 font-bold group-hover:text-indigo-950 transition-colors line-clamp-2">
+              <span className="text-stone-900 font-bold group-hover:text-indigo-950 transition-colors">
                 神話の里・高千穂の冬の夜神楽と天岩戸神社初詣・高千穂牛名宿
               </span>
             </Link>

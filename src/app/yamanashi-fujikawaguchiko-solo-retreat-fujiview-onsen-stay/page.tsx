@@ -370,19 +370,19 @@ export default function ArticlePage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/furusato-tax-kawaguchiko-fuji-view-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">富士河口湖温泉をふるさと納税でお得に旅する！富士山一望露天風呂＆逆さ富士ステイ！絶景客室で癒やされる宿特集｜秀峰閣湖月・若草の宿丸栄・富士レークホテル</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">富士河口湖温泉をふるさと納税でお得に旅する！富士山一望露天風呂＆逆さ富士ステイ！絶景客室で癒やされる宿特集｜秀峰閣湖月・若草の宿丸栄・富士レークホテル</span>
             </a>
             <a href="/furusato-tax-seasonal-fruit-picking-vineyard-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">果樹園の旬フルーツ狩り＆名門ワイナリー・美肌温泉宿×ふるさと納税厳選ガイド石和・伊豆長岡・飯坂</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">果樹園の旬フルーツ狩り＆名門ワイナリー・美肌温泉宿×ふるさと納税厳選ガイド石和・伊豆長岡・飯坂</span>
             </a>
             <a href="/furusato-tax-yamanakako-fuji-autumn-leaves-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">富士山と紅葉の絶景コラボ！山中湖「夕焼けの渚紅葉まつり」＆忍野八海と温泉名宿×ふるさと納税厳選ガイド山梨</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">富士山と紅葉の絶景コラボ！山中湖「夕焼けの渚紅葉まつり」＆忍野八海と温泉名宿×ふるさと納税厳選ガイド山梨</span>
             </a>
             <a href="/spring-yamanashi-koshu-wine-beef-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「甲州ワインビーフ＆勝沼ワイナリー」芳醇ワインペアリングと石和温泉の美食宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「甲州ワインビーフ＆勝沼ワイナリー」芳醇ワインペアリングと石和温泉の美食宿5選</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

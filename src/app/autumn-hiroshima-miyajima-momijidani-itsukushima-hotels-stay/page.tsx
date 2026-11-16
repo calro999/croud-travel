@@ -42,7 +42,7 @@ export default function MiyajimaMomijidaniAutumnPage() {
             <span className="px-3 py-1 bg-stone-800 text-amber-300 text-xs font-medium rounded-full border border-amber-400/30">見頃目安: 11月中旬〜11月下旬</span>
           </div>
           <h1 className="text-2xl md:text-4xl lg:text-5xl font-extrabold text-white leading-tight mb-4 drop-shadow-md">「秋の宮島」紅葉谷公園の真紅のモミジと世界遺産・嚴島神社！秋の味覚と絶景を愛でるおすすめ名宿5選</h1>
-          <p className="text-stone-200 text-sm md:text-base max-w-3xl line-clamp-2 md:line-clamp-none">
+          <p className="text-stone-200 text-sm md:text-base max-w-3xl">
             弥山の麓に広がる名所「紅葉谷公園」を真紅に染め上げる約700本のもみじ。満潮時に海上に浮かぶ大鳥居の神々しい姿と、秋に旬を迎える焼き牡蠣や名物あなごめしを贅沢に味わう極上ステイをご提案します。
           </p>
         </div>
@@ -98,7 +98,7 @@ export default function MiyajimaMomijidaniAutumnPage() {
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 宮島口駅 / 宮島口桟橋よりフェリーで１０分～宮島桟橋よりマイクロバスにて送迎
                   </p>
-                  <p className="text-sm text-stone-600 mb-4 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-stone-600 mb-4 leading-relaxed">
                     すべてはお客様の満足と笑顔のために。宮島の歴史とともに時を重ねる、世界遺産「厳島神社」に最も近い宿。
                   </p>
                 </div>
@@ -143,7 +143,7 @@ export default function MiyajimaMomijidaniAutumnPage() {
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 宮島桟橋駅 / 宮島桟橋より徒歩にて約１５分。無料送迎有り（要ご乗船時連絡）
                   </p>
-                  <p className="text-sm text-stone-600 mb-4 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-stone-600 mb-4 leading-relaxed">
                     創業以来160年もの歴史と伝統を誇る、多くの著名人に愛された老舗旅館。自慢の温泉とお料理を心ゆくまで
                   </p>
                 </div>
@@ -188,7 +188,7 @@ export default function MiyajimaMomijidaniAutumnPage() {
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 宮島口駅 / 宮島桟橋より徒歩15分（ホテルより送迎あり。フェリー乗船前にお電話いただけましたらお迎えに参ります）
                   </p>
-                  <p className="text-sm text-stone-600 mb-4 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-stone-600 mb-4 leading-relaxed">
                     ２０２５年８月菊乃家別邸オープン。宮島の自然に囲まれひっそりと佇む、大人の隠れ家宿。
                   </p>
                 </div>
@@ -233,7 +233,7 @@ export default function MiyajimaMomijidaniAutumnPage() {
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 大野浦駅 / ＪＲ大野浦駅より送迎有り／山陽自動車道大野ＩＣより約７～８分
                   </p>
-                  <p className="text-sm text-stone-600 mb-4 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-stone-600 mb-4 leading-relaxed">
                     展望大浴場と旬の素材を使った料理が好評。宮島口から車で12分。無料駐車場有！
                   </p>
                 </div>
@@ -278,7 +278,7 @@ export default function MiyajimaMomijidaniAutumnPage() {
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 宮島口駅 / ＪＲ山陽本線または広島電鉄「宮島口駅」下車、宮島口桟橋より船にて約１０分。【厳島神社まで徒歩約10分】
                   </p>
-                  <p className="text-sm text-stone-600 mb-4 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-stone-600 mb-4 leading-relaxed">
                     いにしえの歴史と自然にふれる宿
                   </p>
                 </div>

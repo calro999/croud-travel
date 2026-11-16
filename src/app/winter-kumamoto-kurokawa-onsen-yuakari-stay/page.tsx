@@ -618,7 +618,7 @@ export default function KurokawaWinterPage() {
               className="bg-white p-4 rounded-2xl border border-stone-200/80 hover:border-emerald-700 hover:shadow-md transition group block"
             >
               <span className="text-[10px] font-extrabold text-emerald-800 uppercase block mb-1">九州の冬グルメ</span>
-              <h3 className="text-sm font-bold text-stone-900 group-hover:text-emerald-800 transition line-clamp-2">【博多】クリスマスアドベント＆本場もつ鍋・水炊きを堪能する冬宿</h3>
+              <h3 className="text-sm font-bold text-stone-900 group-hover:text-emerald-800 transition">【博多】クリスマスアドベント＆本場もつ鍋・水炊きを堪能する冬宿</h3>
             </Link>
 
             <Link 
@@ -626,7 +626,7 @@ export default function KurokawaWinterPage() {
               className="bg-white p-4 rounded-2xl border border-stone-200/80 hover:border-emerald-700 hover:shadow-md transition group block"
             >
               <span className="text-[10px] font-extrabold text-emerald-800 uppercase block mb-1">九州のイルミ名所</span>
-              <h3 className="text-sm font-bold text-stone-900 group-hover:text-emerald-800 transition line-clamp-2">【ハウステンボス】世界最大級1300万球の光の街＆極上ホテルステイ</h3>
+              <h3 className="text-sm font-bold text-stone-900 group-hover:text-emerald-800 transition">【ハウステンボス】世界最大級1300万球の光の街＆極上ホテルステイ</h3>
             </Link>
 
             <Link 
@@ -634,7 +634,7 @@ export default function KurokawaWinterPage() {
               className="bg-white p-4 rounded-2xl border border-stone-200/80 hover:border-emerald-700 hover:shadow-md transition group block"
             >
               <span className="text-[10px] font-extrabold text-emerald-800 uppercase block mb-1">西日本の名湯</span>
-              <h3 className="text-sm font-bold text-stone-900 group-hover:text-emerald-800 transition line-clamp-2">【道後温泉】保存修理完了の本館と真鯛鯛めし・伊予牛会席の宿</h3>
+              <h3 className="text-sm font-bold text-stone-900 group-hover:text-emerald-800 transition">【道後温泉】保存修理完了の本館と真鯛鯛めし・伊予牛会席の宿</h3>
             </Link>
 
             <Link 
@@ -642,7 +642,7 @@ export default function KurokawaWinterPage() {
               className="bg-white p-4 rounded-2xl border border-stone-200/80 hover:border-emerald-700 hover:shadow-md transition group block"
             >
               <span className="text-[10px] font-extrabold text-emerald-800 uppercase block mb-1">関東の石段名湯</span>
-              <h3 className="text-sm font-bold text-stone-900 group-hover:text-emerald-800 transition line-clamp-2">【伊香保温泉】365段の石段街と黄金の湯・上州牛会席を味わう名旅館</h3>
+              <h3 className="text-sm font-bold text-stone-900 group-hover:text-emerald-800 transition">【伊香保温泉】365段の石段街と黄金の湯・上州牛会席を味わう名旅館</h3>
             </Link>
 
             <Link 
@@ -650,7 +650,7 @@ export default function KurokawaWinterPage() {
               className="bg-white p-4 rounded-2xl border border-stone-200/80 hover:border-emerald-700 hover:shadow-md transition group block"
             >
               <span className="text-[10px] font-extrabold text-emerald-800 uppercase block mb-1">山陰の冬の味覚</span>
-              <h3 className="text-sm font-bold text-stone-900 group-hover:text-emerald-800 transition line-clamp-2">【三朝温泉】世界屈指のラジウム泉と冬の極上松葉がにフルコース</h3>
+              <h3 className="text-sm font-bold text-stone-900 group-hover:text-emerald-800 transition">【三朝温泉】世界屈指のラジウム泉と冬の極上松葉がにフルコース</h3>
             </Link>
 
             <Link 
@@ -658,7 +658,7 @@ export default function KurokawaWinterPage() {
               className="bg-white p-4 rounded-2xl border border-stone-200/80 hover:border-emerald-700 hover:shadow-md transition group block"
             >
               <span className="text-[10px] font-extrabold text-emerald-800 uppercase block mb-1">東海の冬花火</span>
-              <h3 className="text-sm font-bold text-stone-900 group-hover:text-emerald-800 transition line-clamp-2">【下呂温泉】冬花火ミュージカルと日本三名泉美肌湯・飛騨牛会席</h3>
+              <h3 className="text-sm font-bold text-stone-900 group-hover:text-emerald-800 transition">【下呂温泉】冬花火ミュージカルと日本三名泉美肌湯・飛騨牛会席</h3>
             </Link>
           
       <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">

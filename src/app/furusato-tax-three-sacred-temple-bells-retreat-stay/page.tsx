@@ -164,7 +164,7 @@ export default function Page() {
                   <p className="text-xs text-slate-500 mt-0.5">
                     🚆 三井寺駅から徒歩で約３分
                   </p>
-                  <p className="text-sm text-slate-600 mt-3 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-slate-600 mt-3 leading-relaxed">
                     　
                   </p>
                 </div>
@@ -224,7 +224,7 @@ export default function Page() {
                   <p className="text-xs text-slate-500 mt-0.5">
                     🚆 JR石山駅南出口徒歩2分。JR京都駅まで約13分、大阪駅まで43分。大津ICから約10分。
                   </p>
-                  <p className="text-sm text-slate-600 mt-3 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-slate-600 mt-3 leading-relaxed">
                     ＪＲ京都駅から新快速利用で3駅13分　JR・京阪石山駅前徒歩2分
                   </p>
                 </div>
@@ -284,7 +284,7 @@ export default function Page() {
                   <p className="text-xs text-slate-500 mt-0.5">
                     🚆 ＪＲ東海道本線（琵琶湖線）大津駅から無料シャトルバスで10分／名神高速道路・大津ＩＣより3.7ｋm（平常時10分）
                   </p>
-                  <p className="text-sm text-slate-600 mt-3 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-slate-600 mt-3 leading-relaxed">
                     ＪＲ京都駅から2駅10分のリゾート　38階建て、高層階のレストラン、全客室からレイクビューを満喫
                   </p>
                 </div>
@@ -358,7 +358,7 @@ export default function Page() {
                   <p className="text-xs text-slate-500 mt-0.5">
                     🚆 ＪＲ京都駅からバスで５０分。
                   </p>
-                  <p className="text-sm text-slate-600 mt-3 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-slate-600 mt-3 leading-relaxed">
                     京の奥座敷・高雄で、桜・蛍・紅葉・雪景色の四季を愛でながら、夏限定の川床料理と旬の京懐石を愉しむ宿
                   </p>
                 </div>
@@ -414,7 +414,7 @@ export default function Page() {
                   <p className="text-xs text-slate-500 mt-0.5">
                     🚆 JR山陰本線花園駅下車、車で15分／名神高速道京都南ICより国道１６２号線経由（約４０分）
                   </p>
-                  <p className="text-sm text-slate-600 mt-3 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-slate-600 mt-3 leading-relaxed">
                     四季の美食と貸切風呂を愉しむ。春は桜、夏期は蛍鑑賞や納涼床、秋は紅葉、冬は雪景色。移ろう四季を満喫。
                   </p>
                 </div>
@@ -474,7 +474,7 @@ export default function Page() {
                   <p className="text-xs text-slate-500 mt-0.5">
                     🚆 ＪＲ花園駅からタクシーで約１５分。予約制の無料送迎バスあり。詳しくはお問合せ下さいませ。
                   </p>
-                  <p className="text-sm text-slate-600 mt-3 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-slate-600 mt-3 leading-relaxed">
                     四季折々の移ろいを感じる宿。夏季期間は別館川床での夕食となり、舞妓さんによる京舞鑑賞もご覧頂けます。
                   </p>
                 </div>
@@ -548,7 +548,7 @@ export default function Page() {
                   <p className="text-xs text-slate-500 mt-0.5">
                     🚆 「福岡空港」より高速バスで約30分　「博多駅」よりＪＲ線利用で20分　「福岡天神駅」より西鉄電車利用で30分
                   </p>
-                  <p className="text-sm text-slate-600 mt-3 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-slate-600 mt-3 leading-relaxed">
                     ◇博多駅から20分◇源泉かけ流し天然温泉◇和の心を継ぐ宿【福岡】◇
                   </p>
                 </div>
@@ -608,7 +608,7 @@ export default function Page() {
                   <p className="text-xs text-slate-500 mt-0.5">
                     🚆 ＪＲ　二日市駅から車で５分／西鉄　二日市駅から車で８分
                   </p>
-                  <p className="text-sm text-slate-600 mt-3 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-slate-600 mt-3 leading-relaxed">
                     万葉の香りといで湯の里　二日市温泉　大観荘
                   </p>
                 </div>
@@ -668,7 +668,7 @@ export default function Page() {
                   <p className="text-xs text-slate-500 mt-0.5">
                     🚆 JR　二日市駅より車で５分／西鉄大牟田線　二日市駅よりバスで１０分
                   </p>
-                  <p className="text-sm text-slate-600 mt-3 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-slate-600 mt-3 leading-relaxed">
                     真心こもったサービス。家庭的な温かい宿で旅の疲れを癒してください。
                   </p>
                 </div>
@@ -845,19 +845,19 @@ export default function Page() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/autumn-budget-ibaraki-mito-station-kairakuen-koudoukan-hotels-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">水戸駅前：国指定特別史跡弘道館＆名物あんこう鍋！2,000円台〜泊まれる格安ホテル5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">水戸駅前：国指定特別史跡弘道館＆名物あんこう鍋！2,000円台〜泊まれる格安ホテル5選</span>
             </a>
             <a href="/winter-ibaraki-kitaibaraki-isohara-onsen-ankou-dobujiru-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12月茨城・北茨城温泉郷の元祖あんこう鍋・濃厚どぶ汁と太平洋絶景】五浦・磯原の温まり美肌塩化物泉＆常陸牛の宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">【11・12月茨城・北茨城温泉郷の元祖あんこう鍋・濃厚どぶ汁と太平洋絶景】五浦・磯原の温まり美肌塩化物泉＆常陸牛の宿5選</span>
             </a>
             <a href="/autumn-ibaraki-hitachi-seaside-park-kochia-hotels-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【10月見頃！国営ひたち海浜公園コキア紅葉】みはらしの丘と勝田・大洗の人気宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">【10月見頃！国営ひたち海浜公園コキア紅葉】みはらしの丘と勝田・大洗の人気宿5選</span>
             </a>
             <a href="/winter-ibaraki-mito-kasama-inari-hatsumode-ankou-hitachigyu-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12・1月茨城】笠間稲荷神社新春開運初詣＆水戸偕楽園冬梅！本場濃厚あんこう鍋と極上常陸牛を味わう名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">【11・12・1月茨城】笠間稲荷神社新春開運初詣＆水戸偕楽園冬梅！本場濃厚あんこう鍋と極上常陸牛を味わう名宿5選</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

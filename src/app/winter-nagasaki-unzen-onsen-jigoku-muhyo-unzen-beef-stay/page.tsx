@@ -359,7 +359,7 @@ export default function NagasakiUnzenOnsenWinterPage() {
                     </div>
 
                     <div className="pt-3 border-t border-stone-100 flex items-center justify-between">
-                      <div className="text-[11px] text-stone-500 truncate max-w-[200px]">
+                      <div className="text-[11px] text-stone-500 break-words max-w-[200px]">
                         {h.access}
                       </div>
                       <a 
@@ -537,21 +537,21 @@ export default function NagasakiUnzenOnsenWinterPage() {
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-emerald-700 font-bold block text-[10px]">長崎・小浜温泉</span>
-              <p className="font-bold text-stone-800 line-clamp-2">橘湾の夕日と日本一の熱量・小浜ちゃんぽんと長崎和牛名宿</p>
+              <p className="font-bold text-stone-800">橘湾の夕日と日本一の熱量・小浜ちゃんぽんと長崎和牛名宿</p>
             </Link>
             <Link 
               href="/winter-saga-takeo-onsen-romon-saga-beef-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-emerald-700 font-bold block text-[10px]">佐賀・武雄温泉</span>
-              <p className="font-bold text-stone-800 line-clamp-2">辰野金吾設計の楼門と美肌湯・極上佐賀牛すき焼き名宿</p>
+              <p className="font-bold text-stone-800">辰野金吾設計の楼門と美肌湯・極上佐賀牛すき焼き名宿</p>
             </Link>
             <Link 
               href="/winter-kumamoto-kikuchi-onsen-bihada-akagyu-pork-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-emerald-700 font-bold block text-[10px]">熊本・菊池温泉</span>
-              <p className="font-bold text-stone-800 line-clamp-2">名湯百選「化粧の湯」の極上とろみ泉・熊本あか牛ステーキ名宿</p>
+              <p className="font-bold text-stone-800">名湯百選「化粧の湯」の極上とろみ泉・熊本あか牛ステーキ名宿</p>
             </Link>
           
       <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">

@@ -362,19 +362,19 @@ export default function FeatureArticlePage() {
             <ul className="space-y-4 text-xs md:text-sm">
               <li>
                 <a href={HOTEL_DATA.kinosaki_senkei.url} target="_blank" rel="sponsored noopener noreferrer" className="block p-3 rounded-xl hover:bg-stone-50 transition border border-stone-100 hover:border-amber-200">
-                  <div className="font-bold text-stone-800 line-clamp-1">{HOTEL_DATA.kinosaki_senkei.name}</div>
+                  <div className="font-bold text-stone-800">{HOTEL_DATA.kinosaki_senkei.name}</div>
                   <div className="text-stone-500 text-xs mt-1">★ {HOTEL_DATA.kinosaki_senkei.rating} | 楽天トラベルで詳細確認</div>
                 </a>
               </li>
               <li>
                 <a href={HOTEL_DATA.kinosaki_mikiya.url} target="_blank" rel="sponsored noopener noreferrer" className="block p-3 rounded-xl hover:bg-stone-50 transition border border-stone-100 hover:border-amber-200">
-                  <div className="font-bold text-stone-800 line-clamp-1">{HOTEL_DATA.kinosaki_mikiya.name}</div>
+                  <div className="font-bold text-stone-800">{HOTEL_DATA.kinosaki_mikiya.name}</div>
                   <div className="text-stone-500 text-xs mt-1">★ {HOTEL_DATA.kinosaki_mikiya.rating} | 楽天トラベルで詳細確認</div>
                 </a>
               </li>
               <li>
                 <a href={HOTEL_DATA.kinosaki_nishimuraya.url} target="_blank" rel="sponsored noopener noreferrer" className="block p-3 rounded-xl hover:bg-stone-50 transition border border-stone-100 hover:border-amber-200">
-                  <div className="font-bold text-stone-800 line-clamp-1">{HOTEL_DATA.kinosaki_nishimuraya.name}</div>
+                  <div className="font-bold text-stone-800">{HOTEL_DATA.kinosaki_nishimuraya.name}</div>
                   <div className="text-stone-500 text-xs mt-1">★ {HOTEL_DATA.kinosaki_nishimuraya.rating} | 楽天トラベルで詳細確認</div>
                 </a>
               </li>
@@ -491,19 +491,19 @@ export default function FeatureArticlePage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/winter-hyogo-arima-onsen-luxury-kinzan-gold-silver-kobe-beef-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【日本最古の名湯・金湯銀湯を客室露天で独り占め】2026-2027年11-12月初冬の兵庫・有馬温泉！名門・欽山＆中の坊瑞苑・極上神戸牛ステーキと伝統会席・ミシュラン掲載の大人の最高峰高級旅館5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">【日本最古の名湯・金湯銀湯を客室露天で独り占め】2026-2027年11-12月初冬の兵庫・有馬温泉！名門・欽山＆中の坊瑞苑・極上神戸牛ステーキと伝統会席・ミシュラン掲載の大人の最高峰高級旅館5選</span>
             </a>
             <a href="/winter-hyogo-takarazuka-kiyoshikojin-hatsumode-takedao-onsen-sandagyu-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12・1月兵庫】宝塚大劇場冬公演と「清荒神清澄寺」新春初詣！武田尾温泉の秘湯雪見露天＆極上「三田牛」厳選名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">【11・12・1月兵庫】宝塚大劇場冬公演と「清荒神清澄寺」新春初詣！武田尾温泉の秘湯雪見露天＆極上「三田牛」厳選名宿5選</span>
             </a>
             <a href="/autumn-hyogo-takedajo-unkai-castle-tajima-hotels-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">秋の竹田城跡：天空の城の幻想的な雲海と但馬牛グルメ！城下町を満喫するおすすめ宿5選「2026最新」</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">秋の竹田城跡：天空の城の幻想的な雲海と但馬牛グルメ！城下町を満喫するおすすめ宿5選「2026最新」</span>
             </a>
             <a href="/furusato-tax-kinosaki-matsuba-crab-autumn-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">11月6日解禁の本場・城崎温泉松葉ガニ＆七つの外湯めぐり！老舗旅館×ふるさと納税厳選ガイド兵庫</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">11月6日解禁の本場・城崎温泉松葉ガニ＆七つの外湯めぐり！老舗旅館×ふるさと納税厳選ガイド兵庫</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

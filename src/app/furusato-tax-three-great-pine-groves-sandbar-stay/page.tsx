@@ -485,19 +485,19 @@ export default function Page() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/furusato-tax-miyajima-autumn-momijidani-heritage-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">海に浮かぶ大鳥居と紅葉谷の錦絵！世界遺産・安芸の宮島＆厳島神社秋詣名門旅館×ふるさと納税厳選ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">海に浮かぶ大鳥居と紅葉谷の錦絵！世界遺産・安芸の宮島＆厳島神社秋詣名門旅館×ふるさと納税厳選ガイド</span>
             </a>
             <a href="/furusato-tax-nagano-suwa-kirigamine-autumn-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">長野・諏訪湖の秋風情＆霧ヶ峰高原！上諏訪温泉の自家源泉と信州諏訪美酒・信州牛会席｜ふるさと納税で泊まれる名宿ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">長野・諏訪湖の秋風情＆霧ヶ峰高原！上諏訪温泉の自家源泉と信州諏訪美酒・信州牛会席｜ふるさと納税で泊まれる名宿ガイド</span>
             </a>
             <a href="/furusato-tax-natural-mud-bath-mineral-detox-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">天然ミネラル泥パックで全身ツルツル美肌！極上泥湯温泉＆湯治名旅館×ふるさと納税厳選ガイド八幡平後生掛・霧島・別府鉄輪</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">天然ミネラル泥パックで全身ツルツル美肌！極上泥湯温泉＆湯治名旅館×ふるさと納税厳選ガイド八幡平後生掛・霧島・別府鉄輪</span>
             </a>
             <a href="/furusato-tax-private-room-open-air-bath-luxury-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">客室露天風呂付き客室で過ごす大人のプライベート温泉ステイ名旅館×ふるさと納税厳選ガイド修善寺・箱根・京都嵐山</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">客室露天風呂付き客室で過ごす大人のプライベート温泉ステイ名旅館×ふるさと納税厳選ガイド修善寺・箱根・京都嵐山</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

@@ -389,19 +389,19 @@ export default function FeaturePage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/super-panoramic-canyon-bungee-jumping-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「絶景バンジー＆渓谷アドベンチャー」日本屈指の高さから大ジャンプ！みなかみ温泉宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「絶景バンジー＆渓谷アドベンチャー」日本屈指の高さから大ジャンプ！みなかみ温泉宿5選</span>
             </a>
             <a href="/tokyo-kusatsu-onsen-highway-bus-guide/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「東京・新宿から草津温泉 直行バス厳選ガイド」電車とどっちが安い？料金・時間比較＆湯畑1泊2日モデルコース</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「東京・新宿から草津温泉 直行バス厳選ガイド」電車とどっちが安い？料金・時間比較＆湯畑1泊2日モデルコース</span>
             </a>
             <a href="/winter-gunma-houshi-sarugakyo-onsen-snow-joshu-beef-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">白銀の三国峠と足元湧出「法師乃湯」 赤谷湖畔で味わう極上面上州牛すき焼き名宿</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">白銀の三国峠と足元湧出「法師乃湯」 赤谷湖畔で味わう極上面上州牛すき焼き名宿</span>
             </a>
             <a href="/winter-gunma-kusatsu-onsen-yubatake-joshu-beef-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12月草津温泉の冬名湯と湯畑ライトアップ】 湯畑の冬幻想イルミ・湯けむり露天と極上上州牛すき焼き・群馬地酒の宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">【11・12月草津温泉の冬名湯と湯畑ライトアップ】 湯畑の冬幻想イルミ・湯けむり露天と極上上州牛すき焼き・群馬地酒の宿5選</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

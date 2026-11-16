@@ -705,7 +705,7 @@ export default function MiyagiTogattaWinterPage() {
               className="bg-white p-4 rounded-2xl border border-stone-200 hover:border-blue-500 hover:shadow-xs transition group space-y-2"
             >
               <span className="text-[11px] font-bold text-blue-700 bg-blue-50 px-2 py-0.5 rounded-md">宮城・秋保温泉</span>
-              <h4 className="text-xs sm:text-sm font-bold text-stone-900 group-hover:text-blue-700 transition line-clamp-2">秋保温泉の仙台牛とせり鍋・名取川渓谷美肌ステイ</h4>
+              <h4 className="text-xs sm:text-sm font-bold text-stone-900 group-hover:text-blue-700 transition">秋保温泉の仙台牛とせり鍋・名取川渓谷美肌ステイ</h4>
             </Link>
 
             <Link
@@ -713,7 +713,7 @@ export default function MiyagiTogattaWinterPage() {
               className="bg-white p-4 rounded-2xl border border-stone-200 hover:border-blue-500 hover:shadow-xs transition group space-y-2"
             >
               <span className="text-[11px] font-bold text-blue-700 bg-blue-50 px-2 py-0.5 rounded-md">宮城・作並温泉</span>
-              <h4 className="text-xs sm:text-sm font-bold text-stone-900 group-hover:text-blue-700 transition line-clamp-2">作並温泉の雪見露天風呂とニッカウヰスキー宮城峡蒸溜所</h4>
+              <h4 className="text-xs sm:text-sm font-bold text-stone-900 group-hover:text-blue-700 transition">作並温泉の雪見露天風呂とニッカウヰスキー宮城峡蒸溜所</h4>
             </Link>
 
             <Link
@@ -721,7 +721,7 @@ export default function MiyagiTogattaWinterPage() {
               className="bg-white p-4 rounded-2xl border border-stone-200 hover:border-blue-500 hover:shadow-xs transition group space-y-2"
             >
               <span className="text-[11px] font-bold text-blue-700 bg-blue-50 px-2 py-0.5 rounded-md">山形・蔵王温泉</span>
-              <h4 className="text-xs sm:text-sm font-bold text-stone-900 group-hover:text-blue-700 transition line-clamp-2">蔵王温泉の強酸性美肌湯と樹氷スノーモンスター・山形牛</h4>
+              <h4 className="text-xs sm:text-sm font-bold text-stone-900 group-hover:text-blue-700 transition">蔵王温泉の強酸性美肌湯と樹氷スノーモンスター・山形牛</h4>
             </Link>
 
             <Link
@@ -729,7 +729,7 @@ export default function MiyagiTogattaWinterPage() {
               className="bg-white p-4 rounded-2xl border border-stone-200 hover:border-blue-500 hover:shadow-xs transition group space-y-2"
             >
               <span className="text-[11px] font-bold text-blue-700 bg-blue-50 px-2 py-0.5 rounded-md">福島・磐梯熱海温泉</span>
-              <h4 className="text-xs sm:text-sm font-bold text-stone-900 group-hover:text-blue-700 transition line-clamp-2">磐梯熱海温泉の萩姫美肌湯と猪苗代湖の白鳥・福島牛会席</h4>
+              <h4 className="text-xs sm:text-sm font-bold text-stone-900 group-hover:text-blue-700 transition">磐梯熱海温泉の萩姫美肌湯と猪苗代湖の白鳥・福島牛会席</h4>
             </Link>
 
             <Link
@@ -737,7 +737,7 @@ export default function MiyagiTogattaWinterPage() {
               className="bg-white p-4 rounded-2xl border border-stone-200 hover:border-blue-500 hover:shadow-xs transition group space-y-2"
             >
               <span className="text-[11px] font-bold text-blue-700 bg-blue-50 px-2 py-0.5 rounded-md">宮城・松島温泉</span>
-              <h4 className="text-xs sm:text-sm font-bold text-stone-900 group-hover:text-blue-700 transition line-clamp-2">松島湾展望露天風呂と解禁直後のぷりぷり松島牡蠣三昧</h4>
+              <h4 className="text-xs sm:text-sm font-bold text-stone-900 group-hover:text-blue-700 transition">松島湾展望露天風呂と解禁直後のぷりぷり松島牡蠣三昧</h4>
             </Link>
 
             <Link

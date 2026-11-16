@@ -465,19 +465,19 @@ export default function Page() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/japan-winter-crab-fugu-seafood-feast-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「冬の四大味覚極上宿」松葉ガニ・越前ガニ・下関とらふぐ・寒ブリ 厳選ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「冬の四大味覚極上宿」松葉ガニ・越前ガニ・下関とらふぐ・寒ブリ 厳選ガイド</span>
             </a>
             <a href="/shimonoseki-solo-business-fugu-kaikyo-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「下関出張・男一人旅」天然温泉関門の湯・関門海峡パノラマ・本場下関ふく料理！本州最西端の海峡拠点でととのう厳選3宿</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「下関出張・男一人旅」天然温泉関門の湯・関門海峡パノラマ・本場下関ふく料理！本州最西端の海峡拠点でととのう厳選3宿</span>
             </a>
             <a href="/winter-fukushima-bandai-atami-onsen-bihada-swan-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12月磐梯熱海温泉の冬名湯と美肌ぬる湯】 萩姫伝説の美人の湯・猪苗代湖白鳥飛来と極上福島牛＆会津新酒の宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">【11・12月磐梯熱海温泉の冬名湯と美肌ぬる湯】 萩姫伝説の美人の湯・猪苗代湖白鳥飛来と極上福島牛＆会津新酒の宿5選</span>
             </a>
             <a href="/winter-kanagawa-hakone-yumoto-ashinoko-shrine-fuji-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">冬の箱根湯本＆芦ノ湖・箱根神社新春初詣！ 澄み渡る白雪富士の絶景と名湯に寛ぐ厳選宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">冬の箱根湯本＆芦ノ湖・箱根神社新春初詣！ 澄み渡る白雪富士の絶景と名湯に寛ぐ厳選宿5選</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

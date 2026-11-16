@@ -42,7 +42,7 @@ export default function TakedaCastleAutumnPage() {
             <span className="px-3 py-1 bg-stone-800 text-amber-300 text-xs font-medium rounded-full border border-amber-400/30">雲海ピーク: 10月上旬〜11月下旬</span>
           </div>
           <h1 className="text-2xl md:text-4xl lg:text-5xl font-extrabold text-white leading-tight mb-4 drop-shadow-md">「秋の竹田城跡」天空の城の幻想的な雲海と但馬牛グルメ！城下町を満喫するおすすめ宿5選</h1>
-          <p className="text-stone-200 text-sm md:text-base max-w-3xl line-clamp-2 md:line-clamp-none">
+          <p className="text-stone-200 text-sm md:text-base max-w-3xl">
             夜明けとともに円山川から湧き上がる真っ白な霧が谷を埋め尽くし、山頂の石垣群だけが浮かび上がる「天空の城」。立雲峡からの奇跡の眺望と、風情ある城下町の町屋宿で味わう極上但馬牛会席をご案内します。
           </p>
         </div>
@@ -98,7 +98,7 @@ export default function TakedaCastleAutumnPage() {
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 竹田（兵庫）駅 / ＪＲ播但線　竹田駅より徒歩１分（約100ｍ）／北近畿自動車道和田山IC～竹田方面へお車５分
                   </p>
-                  <p className="text-sm text-stone-600 mb-4 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-stone-600 mb-4 leading-relaxed">
                     それぞれ独立した3棟メゾネット貸切で気兼ねなく＋夕・朝食お部屋食だからお子様連れでも安心！
                   </p>
                 </div>
@@ -143,7 +143,7 @@ export default function TakedaCastleAutumnPage() {
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 竹田（兵庫）駅 / JR播但線　竹田駅より徒歩にて3分（駅より250ｍ）
                   </p>
-                  <p className="text-sm text-stone-600 mb-4 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-stone-600 mb-4 leading-relaxed">
                     【大阪から車で約100分】竹田城跡の麓で約400年の歴史を持つ旧酒造場に泊まる。
                   </p>
                 </div>
@@ -188,7 +188,7 @@ export default function TakedaCastleAutumnPage() {
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 和田山駅 / ＪＲ山陰本線　和田山駅より徒歩５分
                   </p>
-                  <p className="text-sm text-stone-600 mb-4 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-stone-600 mb-4 leading-relaxed">
                     季節の花と心にひびくおもてなしをモットーにしています。素朴な味と心づくしの手料理が自慢です。
                   </p>
                 </div>
@@ -233,7 +233,7 @@ export default function TakedaCastleAutumnPage() {
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 寺前駅 / ＪＲ播但線寺前駅より無料送迎15分。神崎南ICより峰山高原方向へ車で約15分。
                   </p>
-                  <p className="text-sm text-stone-600 mb-4 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-stone-600 mb-4 leading-relaxed">
                     味、素材にこだわり、自然を味わう料理自慢の宿【最寄駅JR播但線寺前駅より無料送迎有】
                   </p>
                 </div>
@@ -278,7 +278,7 @@ export default function TakedaCastleAutumnPage() {
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 竹田（兵庫）駅 / 北近畿自動車道・播但有料道路和田山ＩＣから車で10分。ＪＲ和田山駅乗り換え7分のＪＲ竹田駅より徒歩にて１分
                   </p>
-                  <p className="text-sm text-stone-600 mb-4 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-stone-600 mb-4 leading-relaxed">
                     天空の城「竹田城」の麓の温泉付き貸切町屋宿2棟、30坪1戸建貸切1棟。パン工房も新設。
                   </p>
                 </div>

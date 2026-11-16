@@ -435,7 +435,7 @@ export default function WinterSaitamaChichibuPage() {
                     <div className="pt-2 flex flex-col sm:flex-row items-center justify-between gap-4 border-t border-stone-100">
                       <div className="flex items-center gap-1.5 text-xs text-stone-500 w-full sm:w-auto">
                         <MapPin className="w-3.5 h-3.5 text-stone-400 shrink-0" />
-                        <span className="truncate">{h.access}</span>
+                        <span className="break-words">{h.access}</span>
                       </div>
                       <a
                         href={h.url}
@@ -584,8 +584,8 @@ export default function WinterSaitamaChichibuPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">群馬・伊香保温泉</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">伊香保温泉の石段街と黄金の湯・上州牛会席</h4>
-              <p className="text-[11px] text-stone-200 line-clamp-2">
+              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition">伊香保温泉の石段街と黄金の湯・上州牛会席</h4>
+              <p className="text-[11px] text-stone-200">
                 365段の石段街の初冬情景と二大名湯、上州牛を味わう温泉情緒。
               </p>
             </Link>
@@ -595,8 +595,8 @@ export default function WinterSaitamaChichibuPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">神奈川・箱根温泉</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">箱根温泉の雪化粧富士山パノラマと老舗名宿</h4>
-              <p className="text-[11px] text-stone-200 line-clamp-2">
+              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition">箱根温泉の雪化粧富士山パノラマと老舗名宿</h4>
+              <p className="text-[11px] text-stone-200">
                 澄み切った冬空に映える白銀の富士を望む展望露天風呂と美食会席。
               </p>
             </Link>
@@ -606,8 +606,8 @@ export default function WinterSaitamaChichibuPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">静岡・熱海温泉</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">熱海海上冬花火と名物金目鯛・オーシャンビュー温泉</h4>
-              <p className="text-[11px] text-stone-200 line-clamp-2">
+              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition">熱海海上冬花火と名物金目鯛・オーシャンビュー温泉</h4>
+              <p className="text-[11px] text-stone-200">
                 冬の夜空に響く圧巻の熱海海上花火と脂の乗った金目鯛の煮付けを堪能。
               </p>
             </Link>

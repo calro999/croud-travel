@@ -568,8 +568,8 @@ export default function WinterFukuiWakasaPage() {
               className="group p-4 rounded-2xl bg-slate-50 hover:bg-teal-50/60 border border-slate-100 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-teal-700 bg-teal-100/60 px-2 py-0.5 rounded-full inline-block">福井・あわら</span>
-              <h4 className="text-xs font-bold text-slate-800 group-hover:text-teal-800 transition line-clamp-2">あわら温泉の関西奥座敷名湯と越前蟹尽くし宿</h4>
-              <p className="text-[11px] text-slate-500 line-clamp-2">
+              <h4 className="text-xs font-bold text-slate-800 group-hover:text-teal-800 transition">あわら温泉の関西奥座敷名湯と越前蟹尽くし宿</h4>
+              <p className="text-[11px] text-slate-500">
                 名湯庭園露天風呂と解禁直後のタグ付き越前蟹を堪能。
               </p>
             </Link>
@@ -578,8 +578,8 @@ export default function WinterFukuiWakasaPage() {
               className="group p-4 rounded-2xl bg-slate-50 hover:bg-teal-50/60 border border-slate-100 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-teal-700 bg-teal-100/60 px-2 py-0.5 rounded-full inline-block">福井・三国</span>
-              <h4 className="text-xs font-bold text-slate-800 group-hover:text-teal-800 transition line-clamp-2">三国温泉の東尋坊日本海絶景と皇室献上越前蟹宿</h4>
-              <p className="text-[11px] text-slate-500 line-clamp-2">
+              <h4 className="text-xs font-bold text-slate-800 group-hover:text-teal-800 transition">三国温泉の東尋坊日本海絶景と皇室献上越前蟹宿</h4>
+              <p className="text-[11px] text-slate-500">
                 三国港直送の極上越前蟹と荒波の東尋坊を望む旅。
               </p>
             </Link>
@@ -588,8 +588,8 @@ export default function WinterFukuiWakasaPage() {
               className="group p-4 rounded-2xl bg-slate-50 hover:bg-teal-50/60 border border-slate-100 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-teal-700 bg-teal-100/60 px-2 py-0.5 rounded-full inline-block">石川・山代</span>
-              <h4 className="text-xs font-bold text-slate-800 group-hover:text-teal-800 transition line-clamp-2">山代温泉の加賀百万石名湯と加能ガニ・香箱ガニ宿</h4>
-              <p className="text-[11px] text-slate-500 line-clamp-2">
+              <h4 className="text-xs font-bold text-slate-800 group-hover:text-teal-800 transition">山代温泉の加賀百万石名湯と加能ガニ・香箱ガニ宿</h4>
+              <p className="text-[11px] text-slate-500">
                 開湯1300年の総湯文化と北陸のズワイガニ会席を満喫。
               </p>
             </Link>
@@ -598,8 +598,8 @@ export default function WinterFukuiWakasaPage() {
               className="group p-4 rounded-2xl bg-slate-50 hover:bg-teal-50/60 border border-slate-100 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-teal-700 bg-teal-100/60 px-2 py-0.5 rounded-full inline-block">山口・下関</span>
-              <h4 className="text-xs font-bold text-slate-800 group-hover:text-teal-800 transition line-clamp-2">下関の天然とらふぐ本場極上フルコース名宿</h4>
-              <p className="text-[11px] text-slate-500 line-clamp-2">
+              <h4 className="text-xs font-bold text-slate-800 group-hover:text-teal-800 transition">下関の天然とらふぐ本場極上フルコース名宿</h4>
+              <p className="text-[11px] text-slate-500">
                 南風泊市場直送のとらふぐ刺し・ちり鍋と関門海峡絶景。
               </p>
             </Link>

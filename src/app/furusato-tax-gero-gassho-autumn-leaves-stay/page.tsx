@@ -362,19 +362,19 @@ export default function FeatureArticlePage() {
             <ul className="space-y-4 text-xs md:text-sm">
               <li>
                 <a href={HOTEL_DATA.gero_suimeikan.url} target="_blank" rel="sponsored noopener noreferrer" className="block p-3 rounded-xl hover:bg-stone-50 transition border border-stone-100 hover:border-amber-200">
-                  <div className="font-bold text-stone-800 line-clamp-1">{HOTEL_DATA.gero_suimeikan.name}</div>
+                  <div className="font-bold text-stone-800">{HOTEL_DATA.gero_suimeikan.name}</div>
                   <div className="text-stone-500 text-xs mt-1">★ {HOTEL_DATA.gero_suimeikan.rating} | 楽天トラベルで詳細確認</div>
                 </a>
               </li>
               <li>
                 <a href={HOTEL_DATA.gero_ogawaya.url} target="_blank" rel="sponsored noopener noreferrer" className="block p-3 rounded-xl hover:bg-stone-50 transition border border-stone-100 hover:border-amber-200">
-                  <div className="font-bold text-stone-800 line-clamp-1">{HOTEL_DATA.gero_ogawaya.name}</div>
+                  <div className="font-bold text-stone-800">{HOTEL_DATA.gero_ogawaya.name}</div>
                   <div className="text-stone-500 text-xs mt-1">★ {HOTEL_DATA.gero_ogawaya.rating} | 楽天トラベルで詳細確認</div>
                 </a>
               </li>
               <li>
                 <a href={HOTEL_DATA.gero_yunoshimakan.url} target="_blank" rel="sponsored noopener noreferrer" className="block p-3 rounded-xl hover:bg-stone-50 transition border border-stone-100 hover:border-amber-200">
-                  <div className="font-bold text-stone-800 line-clamp-1">{HOTEL_DATA.gero_yunoshimakan.name}</div>
+                  <div className="font-bold text-stone-800">{HOTEL_DATA.gero_yunoshimakan.name}</div>
                   <div className="text-stone-500 text-xs mt-1">★ {HOTEL_DATA.gero_yunoshimakan.rating} | 楽天トラベルで詳細確認</div>
                 </a>
               </li>
@@ -491,19 +491,19 @@ export default function FeatureArticlePage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/furusato-tax-tateyama-kurobe-alpen-route-resort-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">標高2000m超の雲上リゾート！立山黒部アルペンルートの夕日・満天の星と高山植物トレッキング名宿×ふるさと納税完全攻略ガイド【2026年最新】弥陀ヶ原・立山高原・森の風！立山黒部ア</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">標高2000m超の雲上リゾート！立山黒部アルペンルートの夕日・満天の星と高山植物トレッキング名宿×ふるさと納税完全攻略ガイド【2026年最新】弥陀ヶ原・立山高原・森の風！立山黒部ア</span>
             </a>
             <a href="/furusato-tax-yoro-falls-autumn-leaves-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">養老の滝の紅葉グラデーション＆養老公園散策！飛騨牛会席の隠れ宿×ふるさと納税厳選ガイド岐阜</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">養老の滝の紅葉グラデーション＆養老公園散策！飛騨牛会席の隠れ宿×ふるさと納税厳選ガイド岐阜</span>
             </a>
             <a href="/gifu-gero-onsen-hida-river-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「岐阜・下呂温泉＆飛騨川・馬瀬川」日本三名泉美肌の湯・飛騨牛懐石＆合掌の里宿 厳選ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「岐阜・下呂温泉＆飛騨川・馬瀬川」日本三名泉美肌の湯・飛騨牛懐石＆合掌の里宿 厳選ガイド</span>
             </a>
             <a href="/gifu-hirayu-solo-retreat-alps-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「奥飛騨・平湯温泉ひとり旅・北アルプス秘湯おこもり」毎分1万リットル湧出・飛騨牛炭火焼き・新穂高ロープウェイ！乗鞍・上高地玄関口の厳選3宿</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「奥飛騨・平湯温泉ひとり旅・北アルプス秘湯おこもり」毎分1万リットル湧出・飛騨牛炭火焼き・新穂高ロープウェイ！乗鞍・上高地玄関口の厳選3宿</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

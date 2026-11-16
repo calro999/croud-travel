@@ -667,21 +667,21 @@ export default function AomoriAjigasawaFukauraWinterPage() {
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-teal-700 font-bold block text-[10px]">青森・大鰐＆弘前</span>
-              <p className="font-bold text-stone-800 line-clamp-2">冬限定大鰐温泉もやし鍋と開湯800年の温まり湯・弘前城冬さくらライトアップ</p>
+              <p className="font-bold text-stone-800">冬限定大鰐温泉もやし鍋と開湯800年の温まり湯・弘前城冬さくらライトアップ</p>
             </Link>
             <Link 
               href="/winter-aomori-asamushi-onsen-mutsu-bay-maguro-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-teal-700 font-bold block text-[10px]">青森・浅虫温泉</span>
-              <p className="font-bold text-stone-800 line-clamp-2">津軽の熱の湯と陸奥湾の冬マグロ・津軽三味線が響く老舗宿</p>
+              <p className="font-bold text-stone-800">津軽の熱の湯と陸奥湾の冬マグロ・津軽三味線が響く老舗宿</p>
             </Link>
             <Link 
               href="/akita-oga-peninsula-namahage-nyudozaki-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-teal-700 font-bold block text-[10px]">秋田・男鹿半島</span>
-              <p className="font-bold text-stone-800 line-clamp-2">真冬の日本海絶景と名物石焼料理・なまはげ伝説が息づく温泉名宿</p>
+              <p className="font-bold text-stone-800">真冬の日本海絶景と名物石焼料理・なまはげ伝説が息づく温泉名宿</p>
             </Link>
           
       <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">

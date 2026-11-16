@@ -54,7 +54,7 @@ export default function NotFound() {
               ❄️ 秋冬〜年末年始特設
             </span>
             <h3 className="text-sm font-bold text-emerald-950 group-hover:text-teal-800 transition">冬の絶景温泉＆冬の味覚（カニ・フグ）特集</h3>
-            <p className="text-xs text-emerald-950/70 line-clamp-2">
+            <p className="text-xs text-emerald-950/70">
               越前がに・松葉ガニ解禁、雪見露天風呂、年末年始・お正月におすすめの名宿を厳選。
             </p>
           </Link>
@@ -67,7 +67,7 @@ export default function NotFound() {
               🏷️ お得な割引情報
             </span>
             <h3 className="text-sm font-bold text-emerald-950 group-hover:text-amber-800 transition">楽天トラベル最新セール＆限定クーポン</h3>
-            <p className="text-xs text-emerald-950/70 line-clamp-2">
+            <p className="text-xs text-emerald-950/70">
               「5と0のつく日」最大20%OFFクーポンや宿限定クーポンの最新獲得リンク一覧。
             </p>
           </Link>
@@ -80,7 +80,7 @@ export default function NotFound() {
               💰 実質2,000円で泊まる
             </span>
             <h3 className="text-sm font-bold text-emerald-950 group-hover:text-emerald-800 transition">ふるさと納税宿泊クーポンの賢い活用法</h3>
-            <p className="text-xs text-emerald-950/70 line-clamp-2">
+            <p className="text-xs text-emerald-950/70">
               予約済みの宿泊予約にも「あとから割引」可能！賢く旅費を節約する完全ガイド。
             </p>
           </Link>
@@ -106,7 +106,7 @@ export default function NotFound() {
               <span className="block text-xs font-bold text-emerald-950 group-hover:text-teal-800">
                 {pref.name}
               </span>
-              <span className="block text-[10px] text-teal-900/50 line-clamp-1">
+              <span className="block text-[10px] text-teal-900/50">
                 {pref.highlights[0]}
               </span>
             </Link>

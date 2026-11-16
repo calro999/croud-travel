@@ -297,7 +297,7 @@ export default function TransitNavigationSection() {
             </div>
 
             {/* タイトル */}
-            <h3 className="text-sm md:text-base font-black text-slate-900 group-hover:text-teal-800 transition font-journal-serif line-clamp-2 leading-snug">{item.title}</h3>
+            <h3 className="text-sm md:text-base font-black text-slate-900 group-hover:text-teal-800 transition font-journal-serif leading-snug">{item.title}</h3>
 
             {/* 料金目安 */}
             <div className="text-[11px] font-bold text-amber-800 bg-amber-50 border border-amber-200 px-3 py-1 rounded-lg">
@@ -305,7 +305,7 @@ export default function TransitNavigationSection() {
             </div>
 
             {/* 説明文 */}
-            <p className="text-xs text-slate-600 line-clamp-2 leading-relaxed font-medium">
+            <p className="text-xs text-slate-600 leading-relaxed font-medium">
               {item.desc}
             </p>
 

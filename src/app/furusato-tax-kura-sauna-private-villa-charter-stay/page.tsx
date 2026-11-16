@@ -189,8 +189,8 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">黒姫高原　ホテル若月＜長野県＞</h4>
-                            <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
+                            <h4 className="font-bold text-white text-sm group-hover:text-amber-300 transition">黒姫高原　ホテル若月＜長野県＞</h4>
+                            <p className="text-xs text-slate-400 leading-relaxed">
                               森と清流に恵まれた黒姫高原の宿「ホテル若月」広い敷地内で釣りやBBQも楽しめます♪
                             </p>
                             <p className="text-xs text-slate-500 flex items-center gap-1">
@@ -239,8 +239,8 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">ペンション　とも　＜長野県＞</h4>
-                            <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
+                            <h4 className="font-bold text-white text-sm group-hover:text-amber-300 transition">ペンション　とも　＜長野県＞</h4>
+                            <p className="text-xs text-slate-400 leading-relaxed">
                               全室ユニットバス・トイレ付。他に貸切風呂も有。ゲレンデまで送迎２分。静かでお食事の美味しい宿。
                             </p>
                             <p className="text-xs text-slate-500 flex items-center gap-1">
@@ -289,8 +289,8 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">ＡＲＣＡＤＩＡ　～ふたつとない景色～</h4>
-                            <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
+                            <h4 className="font-bold text-white text-sm group-hover:text-amber-300 transition">ＡＲＣＡＤＩＡ　～ふたつとない景色～</h4>
+                            <p className="text-xs text-slate-400 leading-relaxed">
                               信州天空resort　絶景と美食で癒す神聖なる森の惠宿　信州2大パワースポット巡りに（善光寺・戸隠）
                             </p>
                             <p className="text-xs text-slate-500 flex items-center gap-1">
@@ -347,8 +347,8 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">Ａ－Ｆｒａｍｅ　Ｖｉｌｌａ　八ヶ岳　＾</h4>
-                            <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
+                            <h4 className="font-bold text-white text-sm group-hover:text-amber-300 transition">Ａ－Ｆｒａｍｅ　Ｖｉｌｌａ　八ヶ岳　＾</h4>
+                            <p className="text-xs text-slate-400 leading-relaxed">
                               八ヶ岳の絶景を望むガラス張りのデザイナーズヴィラ。サウナやBBQ、シアターを備えた上質な隠れ家です。
                             </p>
                             <p className="text-xs text-slate-500 flex items-center gap-1">
@@ -405,8 +405,8 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">ぽつんと一軒家｜サウナ・ＢＢＱ・ＤＪルーム付き貸切古民家｜最大１０名　＾</h4>
-                            <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
+                            <h4 className="font-bold text-white text-sm group-hover:text-amber-300 transition">ぽつんと一軒家｜サウナ・ＢＢＱ・ＤＪルーム付き貸切古民家｜最大１０名　＾</h4>
+                            <p className="text-xs text-slate-400 leading-relaxed">
                               　
                             </p>
                             <p className="text-xs text-slate-500 flex items-center gap-1">
@@ -450,8 +450,8 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">ゲストハウス環</h4>
-                            <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
+                            <h4 className="font-bold text-white text-sm group-hover:text-amber-300 transition">ゲストハウス環</h4>
+                            <p className="text-xs text-slate-400 leading-relaxed">
                               築１００年の古民家をリノベーション！１日１組限定の一棟貸しで寛ぎの空間
                             </p>
                             <p className="text-xs text-slate-500 flex items-center gap-1">
@@ -495,8 +495,8 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">阡陌ｓｅｎｐａｋｕ</h4>
-                            <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
+                            <h4 className="font-bold text-white text-sm group-hover:text-amber-300 transition">阡陌ｓｅｎｐａｋｕ</h4>
+                            <p className="text-xs text-slate-400 leading-relaxed">
                               阡陌 Senpaku｜蔵湯のある「阡」と土間キッチン付「陌」二棟の一棟貸し古民家宿
                             </p>
                             <p className="text-xs text-slate-500 flex items-center gap-1">
@@ -544,10 +544,10 @@ export default function FurusatoTaxPage() {
                 href="/furusato-tax-pet-sauna-private-hotspring-stay/"
                 className="block p-4 rounded-2xl bg-slate-950/60 border border-slate-800/80 hover:border-amber-500/50 transition group"
               >
-                <div className="font-bold text-amber-400 group-hover:text-amber-300 transition text-sm mb-1 line-clamp-1">
+                <div className="font-bold text-amber-400 group-hover:text-amber-300 transition text-sm mb-1">
                   愛犬同伴＆プライベートサウナご褒美ステイ
                 </div>
-                <div className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
+                <div className="text-xs text-slate-400 leading-relaxed">
                   裏磐梯・伊豆高原・白馬の特化宿ガイド。
                 </div>
               </Link>
@@ -557,10 +557,10 @@ export default function FurusatoTaxPage() {
                 href="/furusato-tax-kominka-heritage-townhouse-auberge-stay/"
                 className="block p-4 rounded-2xl bg-slate-950/60 border border-slate-800/80 hover:border-amber-500/50 transition group"
               >
-                <div className="font-bold text-amber-400 group-hover:text-amber-300 transition text-sm mb-1 line-clamp-1">
+                <div className="font-bold text-amber-400 group-hover:text-amber-300 transition text-sm mb-1">
                   古民家再生・歴史的町家オーベルジュ×文化財ホテル滞在記
                 </div>
-                <div className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
+                <div className="text-xs text-slate-400 leading-relaxed">
                   篠山・飛騨高山・竹田城下の歴史情緒と地産馳走ステイ。
                 </div>
               </Link>
@@ -570,10 +570,10 @@ export default function FurusatoTaxPage() {
                 href="/furusato-tax-luxury-glamping-bbq-dome-stay/"
                 className="block p-4 rounded-2xl bg-slate-950/60 border border-slate-800/80 hover:border-amber-500/50 transition group"
               >
-                <div className="font-bold text-amber-400 group-hover:text-amber-300 transition text-sm mb-1 line-clamp-1">
+                <div className="font-bold text-amber-400 group-hover:text-amber-300 transition text-sm mb-1">
                   豪華グランピング×星空ドームテント完全ガイド
                 </div>
-                <div className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
+                <div className="text-xs text-slate-400 leading-relaxed">
                   河口湖・琵琶湖・淡路島の手ぶら焚き火BBQ。
                 </div>
               </Link>
@@ -676,19 +676,19 @@ export default function FurusatoTaxPage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/furusato-tax-toyama-himi-amaharashi-autumn-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">富山・氷見温泉郷と雨晴海岸！富山湾越しの立山連峰初冠雪＆氷見寒ブリ・紅ズワイガニ</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">富山・氷見温泉郷と雨晴海岸！富山湾越しの立山連峰初冠雪＆氷見寒ブリ・紅ズワイガニ</span>
             </a>
             <a href="/toyama-solo-business-tateyama-sauna-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">富山出張＆立山連峰ビュー：富山駅近・天然温泉サウナ・白えび美食！「天然の生簀」富山湾を味わう極上宿 厳選3選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">富山出張＆立山連峰ビュー：富山駅近・天然温泉サウナ・白えび美食！「天然の生簀」富山湾を味わう極上宿 厳選3選</span>
             </a>
             <a href="/winter-hot-pot-gibier-wild-game-satoyama-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">2026年：【2026年】滋味あふれる天然猪肉と特製味噌出汁！伝統の「ぼたん鍋」＆里山ジビエ会席宿5選 ｜ 日本全国・旅宿クラウド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">2026年：【2026年】滋味あふれる天然猪肉と特製味噌出汁！伝統の「ぼたん鍋」＆里山ジビエ会席宿5選 ｜ 日本全国・旅宿クラウド</span>
             </a>
             <a href="/winter-toyama-takaoka-imizu-zuiryuji-hatsumode-shinminato-crab-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12・1月富山】国宝「高岡瑞龍寺」初詣と雨晴海岸の気嵐絶景！新湊紅ズワイガニ＆高岡名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">【11・12・1月富山】国宝「高岡瑞龍寺」初詣と雨晴海岸の気嵐絶景！新湊紅ズワイガニ＆高岡名宿5選</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

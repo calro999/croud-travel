@@ -362,19 +362,19 @@ export default function FeatureArticlePage() {
             <ul className="space-y-4 text-xs md:text-sm">
               <li>
                 <a href={HOTEL_DATA.arima_hyoe.url} target="_blank" rel="sponsored noopener noreferrer" className="block p-3 rounded-xl hover:bg-stone-50 transition border border-stone-100 hover:border-amber-200">
-                  <div className="font-bold text-stone-800 line-clamp-1">{HOTEL_DATA.arima_hyoe.name}</div>
+                  <div className="font-bold text-stone-800">{HOTEL_DATA.arima_hyoe.name}</div>
                   <div className="text-stone-500 text-xs mt-1">★ {HOTEL_DATA.arima_hyoe.rating} | 楽天トラベルで詳細確認</div>
                 </a>
               </li>
               <li>
                 <a href={HOTEL_DATA.arima_gosho.url} target="_blank" rel="sponsored noopener noreferrer" className="block p-3 rounded-xl hover:bg-stone-50 transition border border-stone-100 hover:border-amber-200">
-                  <div className="font-bold text-stone-800 line-clamp-1">{HOTEL_DATA.arima_gosho.name}</div>
+                  <div className="font-bold text-stone-800">{HOTEL_DATA.arima_gosho.name}</div>
                   <div className="text-stone-500 text-xs mt-1">★ {HOTEL_DATA.arima_gosho.rating} | 楽天トラベルで詳細確認</div>
                 </a>
               </li>
               <li>
                 <a href={HOTEL_DATA.arima_gekkoen.url} target="_blank" rel="sponsored noopener noreferrer" className="block p-3 rounded-xl hover:bg-stone-50 transition border border-stone-100 hover:border-amber-200">
-                  <div className="font-bold text-stone-800 line-clamp-1">{HOTEL_DATA.arima_gekkoen.name}</div>
+                  <div className="font-bold text-stone-800">{HOTEL_DATA.arima_gekkoen.name}</div>
                   <div className="text-stone-500 text-xs mt-1">★ {HOTEL_DATA.arima_gekkoen.rating} | 楽天トラベルで詳細確認</div>
                 </a>
               </li>
@@ -491,19 +491,19 @@ export default function FeatureArticlePage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/furusato-tax-minoh-falls-arima-autumn-leaves-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">日本の滝百選・箕面大滝の紅葉美＆日本最古の名湯・有馬温泉金泉銀泉名宿×ふるさと納税厳選ガイド関西</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">日本の滝百選・箕面大滝の紅葉美＆日本最古の名湯・有馬温泉金泉銀泉名宿×ふるさと納税厳選ガイド関西</span>
             </a>
             <a href="/furusato-tax-sotoyu-meguri-historic-onsen-town-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">カランコロンと下駄を鳴らす外湯めぐり＆情緒あふれる浴衣散策名門温泉宿×ふるさと納税厳選ガイド城崎・野沢温泉・渋温泉</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">カランコロンと下駄を鳴らす外湯めぐり＆情緒あふれる浴衣散策名門温泉宿×ふるさと納税厳選ガイド城崎・野沢温泉・渋温泉</span>
             </a>
             <a href="/japan-national-treasure-castle-heritage-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「国宝五城＆現存十二天守を巡る宿」姫路城・松本城・犬山城・彦根城・松江城 厳選ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「国宝五城＆現存十二天守を巡る宿」姫路城・松本城・犬山城・彦根城・松江城 厳選ガイド</span>
             </a>
             <a href="/osaka-departure-daytrip-bus-tour-guide/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「大阪・梅田・難波発 日帰りバスツアーおすすめ」 カニ食べ放題・有馬温泉・天橋立・淡路島 の人気プラン比較</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「大阪・梅田・難波発 日帰りバスツアーおすすめ」 カニ食べ放題・有馬温泉・天橋立・淡路島 の人気プラン比較</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

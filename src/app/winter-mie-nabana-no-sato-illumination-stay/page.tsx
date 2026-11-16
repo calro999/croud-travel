@@ -352,19 +352,19 @@ export default function FeaturePage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/winter-mie-kumano-kodo-onigajo-owase-tai-kumanogyu-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「世界遺産熊野古道と鬼ヶ城の絶景」2026-2027年冬の三重・熊野＆尾鷲！尾鷲真鯛と熊野牛名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「世界遺産熊野古道と鬼ヶ城の絶景」2026-2027年冬の三重・熊野＆尾鷲！尾鷲真鯛と熊野牛名宿5選</span>
             </a>
             <a href="/winter-miyazaki-hyuga-umagase-sea-cross-iseebi-miyazakigyu-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">日向岬「馬ヶ背」断崖絶壁と「クルスの海」新春祈願！ 冬旬「日向灘伊勢海老」＆宮崎牛・延岡名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">日向岬「馬ヶ背」断崖絶壁と「クルスの海」新春祈願！ 冬旬「日向灘伊勢海老」＆宮崎牛・延岡名宿5選</span>
             </a>
             <a href="/winter-shizuoka-izu-shuzenji-luxury-asaba-sora-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【竹林の小径の静寂と数寄屋露天離れ】2026-2027年11-1月冬の静岡・伊豆修善寺温泉！「柳生の庄」＆「宙 SORA 渡月荘金龍」・天城軍鶏と伊豆伊勢海老・名門美食宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">【竹林の小径の静寂と数寄屋露天離れ】2026-2027年11-1月冬の静岡・伊豆修善寺温泉！「柳生の庄」＆「宙 SORA 渡月荘金龍」・天城軍鶏と伊豆伊勢海老・名門美食宿5選</span>
             </a>
             <a href="/winter-shizuoka-nishiizu-toi-onsen-sunset-kinmedai-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「静岡・土肥温泉」西伊豆の黄金夕日富士と極上寒金目鯛姿煮＆伊勢海老・日本一早咲きの土肥桜露天を巡る名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「静岡・土肥温泉」西伊豆の黄金夕日富士と極上寒金目鯛姿煮＆伊勢海老・日本一早咲きの土肥桜露天を巡る名宿5選</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">
@@ -431,7 +431,7 @@ export default function FeaturePage() {
                 <span className="inline-block text-[10px] font-bold px-2 py-0.5 rounded bg-amber-100 text-amber-800 mb-2">
                   厳選おすすめ特集
                 </span>
-                <h3 className="font-bold text-stone-900 group-hover:text-amber-700 text-xs md:text-sm line-clamp-2 leading-snug">本場名産地で味わう極上牡蠣尽くし会席＆生牡蠣・焼き牡蠣の贅沢温泉宿×ふるさと納税完全ガイド【2026年最新】宮島・伊勢志摩・三陸気仙沼</h3>
+                <h3 className="font-bold text-stone-900 group-hover:text-amber-700 text-xs md:text-sm leading-snug">本場名産地で味わう極上牡蠣尽くし会席＆生牡蠣・焼き牡蠣の贅沢温泉宿×ふるさと納税完全ガイド【2026年最新】宮島・伊勢志摩・三陸気仙沼</h3>
               </div>
               <span className="text-[11px] text-amber-600 font-semibold mt-3 flex items-center gap-1">
                 特集を見る →
@@ -445,7 +445,7 @@ export default function FeaturePage() {
                 <span className="inline-block text-[10px] font-bold px-2 py-0.5 rounded bg-amber-100 text-amber-800 mb-2">
                   厳選おすすめ特集
                 </span>
-                <h3 className="font-bold text-stone-900 group-hover:text-amber-700 text-xs md:text-sm line-clamp-2 leading-snug">名水百選・湧水めぐり＆名水蕎麦豆腐料理の宿×ふるさと納税完全ガイド【2026年最新】忍野八海・安曇野・郡上八幡の名湯</h3>
+                <h3 className="font-bold text-stone-900 group-hover:text-amber-700 text-xs md:text-sm leading-snug">名水百選・湧水めぐり＆名水蕎麦豆腐料理の宿×ふるさと納税完全ガイド【2026年最新】忍野八海・安曇野・郡上八幡の名湯</h3>
               </div>
               <span className="text-[11px] text-amber-600 font-semibold mt-3 flex items-center gap-1">
                 特集を見る →
@@ -459,7 +459,7 @@ export default function FeaturePage() {
                 <span className="inline-block text-[10px] font-bold px-2 py-0.5 rounded bg-amber-100 text-amber-800 mb-2">
                   厳選おすすめ特集
                 </span>
-                <h3 className="font-bold text-stone-900 group-hover:text-amber-700 text-xs md:text-sm line-clamp-2 leading-snug">定山渓温泉の豊平峡ダム紅葉＆渓谷ネイチャールミナリエ！札幌奥座敷露天風呂宿×ふるさと納税完全ガイド【2026年最新秋旅】北海道</h3>
+                <h3 className="font-bold text-stone-900 group-hover:text-amber-700 text-xs md:text-sm leading-snug">定山渓温泉の豊平峡ダム紅葉＆渓谷ネイチャールミナリエ！札幌奥座敷露天風呂宿×ふるさと納税完全ガイド【2026年最新秋旅】北海道</h3>
               </div>
               <span className="text-[11px] text-amber-600 font-semibold mt-3 flex items-center gap-1">
                 特集を見る →
@@ -473,7 +473,7 @@ export default function FeaturePage() {
                 <span className="inline-block text-[10px] font-bold px-2 py-0.5 rounded bg-amber-100 text-amber-800 mb-2">
                   厳選おすすめ特集
                 </span>
-                <h3 className="font-bold text-stone-900 group-hover:text-amber-700 text-xs md:text-sm line-clamp-2 leading-snug">【別府鉄輪温泉×ふるさと納税】湯けむり展望＆名物地獄蒸し！湧出量日本一の名湯宿完全ガイド｜山荘神和苑・おにやまホテル・ホテル山水館</h3>
+                <h3 className="font-bold text-stone-900 group-hover:text-amber-700 text-xs md:text-sm leading-snug">【別府鉄輪温泉×ふるさと納税】湯けむり展望＆名物地獄蒸し！湧出量日本一の名湯宿完全ガイド｜山荘神和苑・おにやまホテル・ホテル山水館</h3>
               </div>
               <span className="text-[11px] text-amber-600 font-semibold mt-3 flex items-center gap-1">
                 特集を見る →

@@ -601,21 +601,21 @@ export default function GifuHidaTakayamaWinterPage() {
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-amber-700 font-bold block text-[10px]">岐阜・白川郷</span>
-              <p className="font-bold text-stone-800 line-clamp-2">世界遺産白川郷の合掌造り雪景色ライトアップと飛騨牛会席の宿</p>
+              <p className="font-bold text-stone-800">世界遺産白川郷の合掌造り雪景色ライトアップと飛騨牛会席の宿</p>
             </Link>
             <Link 
               href="/winter-gifu-okuhida-onsen-yukimi-roten-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-amber-700 font-bold block text-[10px]">岐阜・奥飛騨温泉郷</span>
-              <p className="font-bold text-stone-800 line-clamp-2">日本屈指の大露天風呂と北アルプス雪見風呂・青だる氷瀑めぐりの名宿</p>
+              <p className="font-bold text-stone-800">日本屈指の大露天風呂と北アルプス雪見風呂・青だる氷瀑めぐりの名宿</p>
             </Link>
             <Link 
               href="/winter-nagano-asama-onsen-matsumoto-castle-snow-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-amber-700 font-bold block text-[10px]">長野・浅間温泉＆松本城</span>
-              <p className="font-bold text-stone-800 line-clamp-2">国宝松本城の白銀雪景色と浅間温泉の美肌湯・信州牛すき焼きの宿</p>
+              <p className="font-bold text-stone-800">国宝松本城の白銀雪景色と浅間温泉の美肌湯・信州牛すき焼きの宿</p>
             </Link>
           
       <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">

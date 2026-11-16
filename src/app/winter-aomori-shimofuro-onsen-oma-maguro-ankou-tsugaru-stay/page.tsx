@@ -516,8 +516,8 @@ export default function WinterAomoriShimofuroPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-sky-300 bg-sky-400/20 px-2 py-0.5 rounded-full inline-block">青森・浅虫温泉</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-sky-200 transition line-clamp-2">浅虫温泉の陸奥湾雪景色と本マグロ・ホタテ会席</h4>
-              <p className="text-[11px] text-stone-200 line-clamp-2">
+              <h4 className="text-xs font-bold text-white group-hover:text-sky-200 transition">浅虫温泉の陸奥湾雪景色と本マグロ・ホタテ会席</h4>
+              <p className="text-[11px] text-stone-200">
                 青森の奥座敷・浅虫温泉で味わう陸奥湾の海の幸と歴史ある名湯。
               </p>
             </Link>
@@ -527,8 +527,8 @@ export default function WinterAomoriShimofuroPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-sky-300 bg-sky-400/20 px-2 py-0.5 rounded-full inline-block">青森・酸ヶ湯温泉</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-sky-200 transition line-clamp-2">八甲田・酸ヶ湯温泉の千人風呂と豪雪雪見</h4>
-              <p className="text-[11px] text-stone-200 line-clamp-2">
+              <h4 className="text-xs font-bold text-white group-hover:text-sky-200 transition">八甲田・酸ヶ湯温泉の千人風呂と豪雪雪見</h4>
+              <p className="text-[11px] text-stone-200">
                 総ヒバ造りの名物千人風呂と圧倒的な積雪量を誇る酸性硫黄泉の真髄。
               </p>
             </Link>
@@ -538,8 +538,8 @@ export default function WinterAomoriShimofuroPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-sky-300 bg-sky-400/20 px-2 py-0.5 rounded-full inline-block">青森・奥入瀬渓流</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-sky-200 transition line-clamp-2">奥入瀬渓流の氷瀑ライトアップと八甲田名湯</h4>
-              <p className="text-[11px] text-stone-200 line-clamp-2">
+              <h4 className="text-xs font-bold text-white group-hover:text-sky-200 transition">奥入瀬渓流の氷瀑ライトアップと八甲田名湯</h4>
+              <p className="text-[11px] text-stone-200">
                 凍りつく滝「氷瀑」の幻想的な雪景色と渓流リゾートの冬ステイ。
               </p>
             </Link>

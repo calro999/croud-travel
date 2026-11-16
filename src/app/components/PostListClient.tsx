@@ -220,8 +220,8 @@ function PostListInner({ initialPosts }: { initialPosts: Post[] }) {
                     <span>{post.date}</span>
                     {post.rating && <span className="text-amber-600 font-extrabold flex items-center gap-0.5">⭐ {post.rating}</span>}
                   </div>
-                  <h2 className="text-base md:text-lg font-black font-journal-serif leading-snug text-emerald-950 line-clamp-2 hover:text-teal-800 transition">{post.hotel_name}</h2>
-                  <p className="text-xs text-emerald-950/60 leading-relaxed line-clamp-3 font-medium">
+                  <h2 className="text-base md:text-lg font-black font-journal-serif leading-snug text-emerald-950 hover:text-teal-800 transition">{post.hotel_name}</h2>
+                  <p className="text-xs text-emerald-950/60 leading-relaxed font-medium">
                     {post.description || post.title}
                   </p>
                 </div>

@@ -361,7 +361,7 @@ export default function IwateSanrikuKotatsuTrainPage() {
                     </div>
 
                     <div className="pt-3 border-t border-stone-100 flex items-center justify-between">
-                      <div className="text-[11px] text-stone-500 truncate max-w-[200px]">
+                      <div className="text-[11px] text-stone-500 break-words max-w-[200px]">
                         {h.access}
                       </div>
                       <a 
@@ -543,21 +543,21 @@ export default function IwateSanrikuKotatsuTrainPage() {
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-cyan-700 font-bold block text-[10px]">岩手・花巻南温泉郷</span>
-              <p className="font-bold text-stone-800 line-clamp-2">鉛温泉・大沢温泉の白銀秘湯と前沢牛・立ち湯湯治の冬籠もり</p>
+              <p className="font-bold text-stone-800">鉛温泉・大沢温泉の白銀秘湯と前沢牛・立ち湯湯治の冬籠もり</p>
             </Link>
             <Link 
               href="/winter-miyagi-matsushima-onsen-kaki-matsushimawan-view-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-cyan-700 font-bold block text-[10px]">宮城・松島温泉</span>
-              <p className="font-bold text-stone-800 line-clamp-2">日本三景松島の冬景色と焼き牡蠣食べ放題・絶景松島湾の海沿い名宿</p>
+              <p className="font-bold text-stone-800">日本三景松島の冬景色と焼き牡蠣食べ放題・絶景松島湾の海沿い名宿</p>
             </Link>
             <Link 
               href="/winter-aomori-shimofuro-onsen-oma-maguro-ankou-tsugaru-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-cyan-700 font-bold block text-[10px]">青森・下風呂温泉</span>
-              <p className="font-bold text-stone-800 line-clamp-2">津軽海峡冬の荒波と大間本マグロ・幻のアンコウ鍋を堪能する秘湯</p>
+              <p className="font-bold text-stone-800">津軽海峡冬の荒波と大間本マグロ・幻のアンコウ鍋を堪能する秘湯</p>
             </Link>
           
       <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">

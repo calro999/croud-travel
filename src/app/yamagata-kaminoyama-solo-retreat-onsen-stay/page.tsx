@@ -368,19 +368,19 @@ export default function ArticlePage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/furusato-tax-tendo-yamadera-autumn-leaves-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">松尾芭蕉ゆかりの山寺・立石寺の絶景紅葉＆天童温泉！山形牛と名湯旅館×ふるさと納税厳選ガイド山形</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">松尾芭蕉ゆかりの山寺・立石寺の絶景紅葉＆天童温泉！山形牛と名湯旅館×ふるさと納税厳選ガイド山形</span>
             </a>
             <a href="/furusato-tax-yamagata-yonezawa-onogawa-autumn-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">山形・米沢牛のふるさと小野川温泉＆白布温泉！小野小町開湯の美肌湯と天元台紅葉｜ふるさと納税で泊まれる名宿ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">山形・米沢牛のふるさと小野川温泉＆白布温泉！小野小町開湯の美肌湯と天元台紅葉｜ふるさと納税で泊まれる名宿ガイド</span>
             </a>
             <a href="/furusato-tax-zao-okama-autumn-leaves-hotspring-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">神秘の火口湖・御釜と三段紅葉！蔵王エコーライン＆強酸性白濁にごり湯名宿×ふるさと納税厳選ガイド山形</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">神秘の火口湖・御釜と三段紅葉！蔵王エコーライン＆強酸性白濁にごり湯名宿×ふるさと納税厳選ガイド山形</span>
             </a>
             <a href="/kanagawa-kamakura-shonan-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「古都鎌倉＆湘南江の島」鶴岡八幡宮・江ノ電・富士夕景ホテル 厳選ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「古都鎌倉＆湘南江の島」鶴岡八幡宮・江ノ電・富士夕景ホテル 厳選ガイド</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

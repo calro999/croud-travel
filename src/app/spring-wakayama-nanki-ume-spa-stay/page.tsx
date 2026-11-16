@@ -389,19 +389,19 @@ export default function FeaturePage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/shizuoka-izu-shimoda-beach-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「静岡・伊豆下田＆白浜海岸」エメラルドの海・白浜大浜＆金目鯛水揚げ日本一宿 厳選ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「静岡・伊豆下田＆白浜海岸」エメラルドの海・白浜大浜＆金目鯛水揚げ日本一宿 厳選ガイド</span>
             </a>
             <a href="/tokyo-shirahama-kumano-bus-vs-train-guide/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「東京・大阪〜南紀白浜・熊野古道」夜行バス vs 特急くろしお徹底比較！白良浜ビーチ＆世界遺産熊野古道1泊2日モデルコース</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「東京・大阪〜南紀白浜・熊野古道」夜行バス vs 特急くろしお徹底比較！白良浜ビーチ＆世界遺産熊野古道1泊2日モデルコース</span>
             </a>
             <a href="/winter-niigata-nagaoka-teradomari-kani-yomogihira-onsen-koryu-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「日本海魚のアメ横・寺泊冬のカニ市場と商売繁盛高龍神社」2026-2027年冬の新潟・寺泊＆長岡！とろみ美肌湯と越後牛名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「日本海魚のアメ横・寺泊冬のカニ市場と商売繁盛高龍神社」2026-2027年冬の新潟・寺泊＆長岡！とろみ美肌湯と越後牛名宿5選</span>
             </a>
             <a href="/autumn-budget-wakayama-castle-momijidani-ramen-hotels-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「和歌山」和歌山城の紅葉渓庭園＆中華そば！2,000円台〜泊まれる格安・高コスパ宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「和歌山」和歌山城の紅葉渓庭園＆中華そば！2,000円台〜泊まれる格安・高コスパ宿5選</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

@@ -430,7 +430,7 @@ export default function KagawaKotohiraWinterPage() {
                     </div>
 
                     <h3 className="text-lg md:text-xl font-black text-slate-900 leading-snug mb-2 font-journal-serif">{hotel.name}</h3>
-                    <p className="text-xs text-slate-500 mb-3 line-clamp-2">
+                    <p className="text-xs text-slate-500 mb-3">
                       {hotel.special}
                     </p>
 

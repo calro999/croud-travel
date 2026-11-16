@@ -368,19 +368,19 @@ export default function ArticlePage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/winter-kanagawa-yugawara-onsen-bungo-kaiseki-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12月湯河原温泉の名湯と奥湯河原晩秋紅葉】 文豪が愛した万葉の隠れ家・相模湾の伊勢海老＆地魚会席の宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">【11・12月湯河原温泉の名湯と奥湯河原晩秋紅葉】 文豪が愛した万葉の隠れ家・相模湾の伊勢海老＆地魚会席の宿5選</span>
             </a>
             <a href="/winter-mie-ago-bay-luxury-basara-shimanokaze-matsusaka-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【英虞湾の夕景リアス美と全室離れ露天風呂スイート】2026-2027年11-12月の三重・志摩賢島！「汀渚 ばさら邸」＆ベイスイート・冬の伊勢志摩天然伊勢海老・極上松阪牛名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">【英虞湾の夕景リアス美と全室離れ露天風呂スイート】2026-2027年11-12月の三重・志摩賢島！「汀渚 ばさら邸」＆ベイスイート・冬の伊勢志摩天然伊勢海老・極上松阪牛名宿5選</span>
             </a>
             <a href="/winter-mie-ise-jingu-hatsumode-okageyokocho-iseebi-matsusaka-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「11・12・1月三重」伊勢神宮新春初詣とおかげ横丁・五十鈴川の朝霧と神域参拝・冬の極上伊勢海老＆松阪牛会席を味わう伊勢名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「11・12・1月三重」伊勢神宮新春初詣とおかげ横丁・五十鈴川の朝霧と神域参拝・冬の極上伊勢海老＆松阪牛会席を味わう伊勢名宿5選</span>
             </a>
             <a href="/winter-mie-nabana-no-sato-illumination-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12月！なばなの里イルミネーション】光のトンネルと湯の山温泉・長島リゾート宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">【11・12月！なばなの里イルミネーション】光のトンネルと湯の山温泉・長島リゾート宿5選</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

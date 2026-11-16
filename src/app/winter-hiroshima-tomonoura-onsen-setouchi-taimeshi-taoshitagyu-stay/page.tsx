@@ -657,8 +657,8 @@ export default function HiroshimaTomonouraWinterPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-sky-300 bg-sky-400/20 px-2 py-0.5 rounded-full inline-block">広島・安芸宮島</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-sky-200 transition line-clamp-2">厳島神社初冬夕暮れ＆極上焼き牡蠣・宮島温泉名宿</h4>
-              <p className="text-[11px] text-stone-200 line-clamp-2">
+              <h4 className="text-xs font-bold text-white group-hover:text-sky-200 transition">厳島神社初冬夕暮れ＆極上焼き牡蠣・宮島温泉名宿</h4>
+              <p className="text-[11px] text-stone-200">
                 大鳥居の荘厳な佇まいと旬を迎える大粒広島牡蠣、厳島神社ライトアップを満喫する旅。
               </p>
             </Link>
@@ -668,8 +668,8 @@ export default function HiroshimaTomonouraWinterPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-sky-300 bg-sky-400/20 px-2 py-0.5 rounded-full inline-block">徳島・鳴門海峡</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-sky-200 transition line-clamp-2">鳴門海峡渦潮絶景＆鳴門真鯛・鳴門わかめ名宿</h4>
-              <p className="text-[11px] text-stone-200 line-clamp-2">
+              <h4 className="text-xs font-bold text-white group-hover:text-sky-200 transition">鳴門海峡渦潮絶景＆鳴門真鯛・鳴門わかめ名宿</h4>
+              <p className="text-[11px] text-stone-200">
                 鳴門海峡を望むオーシャンビュー展望露天風呂と、激流で引き締まった名物鳴門鯛を味わう冬旅。
               </p>
             </Link>
@@ -679,8 +679,8 @@ export default function HiroshimaTomonouraWinterPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-sky-300 bg-sky-400/20 px-2 py-0.5 rounded-full inline-block">岡山・美作三湯</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-sky-200 transition line-clamp-2">湯原温泉 砂湯露天＆蒜山高原和牛・冬野菜名宿</h4>
-              <p className="text-[11px] text-stone-200 line-clamp-2">
+              <h4 className="text-xs font-bold text-white group-hover:text-sky-200 transition">湯原温泉 砂湯露天＆蒜山高原和牛・冬野菜名宿</h4>
+              <p className="text-[11px] text-stone-200">
                 西の横綱と称される天然自噴露天風呂「砂湯」と、初冬の蒜山高原・極上千屋牛を味わう秘湯旅。
               </p>
             </Link>

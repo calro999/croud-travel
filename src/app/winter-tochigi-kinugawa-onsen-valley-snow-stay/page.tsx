@@ -456,7 +456,7 @@ export default function KinugawaWinterPage() {
 
                       <h3 className="text-xl sm:text-2xl font-bold text-stone-900 leading-snug mb-3">{hotel.name}</h3>
 
-                      <p className="text-xs sm:text-sm text-stone-600 line-clamp-2 mb-4 italic">
+                      <p className="text-xs sm:text-sm text-stone-600 mb-4 italic">
                         「{hotel.special}」
                       </p>
 

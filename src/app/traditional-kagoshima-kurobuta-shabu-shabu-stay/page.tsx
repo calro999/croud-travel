@@ -389,19 +389,19 @@ export default function FeaturePage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/furusato-tax-ibusuki-sand-bath-autumn-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">世界唯一の天然砂むし温泉「指宿温泉」＆薩摩の小京都「知覧武家屋敷」紅葉・鹿児島黒豚黒牛｜ふるさと納税で泊まれる名宿ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">世界唯一の天然砂むし温泉「指宿温泉」＆薩摩の小京都「知覧武家屋敷」紅葉・鹿児島黒豚黒牛｜ふるさと納税で泊まれる名宿ガイド</span>
             </a>
             <a href="/furusato-tax-kirishima-autumn-leaves-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">国宝・霧島神宮の厳かな紅葉参道＆えびの高原大パノラマ！湯けむり霧島温泉宿×ふるさと納税厳選ガイド鹿児島</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">国宝・霧島神宮の厳かな紅葉参道＆えびの高原大パノラマ！湯けむり霧島温泉宿×ふるさと納税厳選ガイド鹿児島</span>
             </a>
             <a href="/furusato-tax-natural-mud-bath-mineral-detox-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">天然ミネラル泥パックで全身ツルツル美肌！極上泥湯温泉＆湯治名旅館×ふるさと納税厳選ガイド八幡平後生掛・霧島・別府鉄輪</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">天然ミネラル泥パックで全身ツルツル美肌！極上泥湯温泉＆湯治名旅館×ふるさと納税厳選ガイド八幡平後生掛・霧島・別府鉄輪</span>
             </a>
             <a href="/furusato-tax-sand-bath-sunamushi-detox-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">天然砂むし温泉＆海辺の名湯で極上デトックス！名門湯宿×ふるさと納税厳選ガイド指宿・別府</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">天然砂むし温泉＆海辺の名湯で極上デトックス！名門湯宿×ふるさと納税厳選ガイド指宿・別府</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

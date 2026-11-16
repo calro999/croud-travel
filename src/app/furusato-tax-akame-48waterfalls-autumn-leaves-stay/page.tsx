@@ -362,19 +362,19 @@ export default function FeatureArticlePage() {
             <ul className="space-y-4 text-xs md:text-sm">
               <li>
                 <a href={HOTEL_DATA.akame_taisenkaku.url} target="_blank" rel="sponsored noopener noreferrer" className="block p-3 rounded-xl hover:bg-stone-50 transition border border-stone-100 hover:border-amber-200">
-                  <div className="font-bold text-stone-800 line-clamp-1">{HOTEL_DATA.akame_taisenkaku.name}</div>
+                  <div className="font-bold text-stone-800">{HOTEL_DATA.akame_taisenkaku.name}</div>
                   <div className="text-stone-500 text-xs mt-1">★ {HOTEL_DATA.akame_taisenkaku.rating} | 楽天トラベルで詳細確認</div>
                 </a>
               </li>
               <li>
                 <a href={HOTEL_DATA.akame_sansuien.url} target="_blank" rel="sponsored noopener noreferrer" className="block p-3 rounded-xl hover:bg-stone-50 transition border border-stone-100 hover:border-amber-200">
-                  <div className="font-bold text-stone-800 line-clamp-1">{HOTEL_DATA.akame_sansuien.name}</div>
+                  <div className="font-bold text-stone-800">{HOTEL_DATA.akame_sansuien.name}</div>
                   <div className="text-stone-500 text-xs mt-1">★ {HOTEL_DATA.akame_sansuien.rating} | 楽天トラベルで詳細確認</div>
                 </a>
               </li>
               <li>
                 <a href={HOTEL_DATA.akame_routeinn.url} target="_blank" rel="sponsored noopener noreferrer" className="block p-3 rounded-xl hover:bg-stone-50 transition border border-stone-100 hover:border-amber-200">
-                  <div className="font-bold text-stone-800 line-clamp-1">{HOTEL_DATA.akame_routeinn.name}</div>
+                  <div className="font-bold text-stone-800">{HOTEL_DATA.akame_routeinn.name}</div>
                   <div className="text-stone-500 text-xs mt-1">★ {HOTEL_DATA.akame_routeinn.rating} | 楽天トラベルで詳細確認</div>
                 </a>
               </li>
@@ -491,19 +491,19 @@ export default function FeatureArticlePage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/furusato-tax-mie-ise-matsusaka-autumn-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">三重・松阪城跡の紅葉と本場松阪牛！伊勢神宮参拝の宿場町と松阪温泉・老舗すき焼き｜ふるさと納税で泊まれる名宿ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">三重・松阪城跡の紅葉と本場松阪牛！伊勢神宮参拝の宿場町と松阪温泉・老舗すき焼き｜ふるさと納税で泊まれる名宿ガイド</span>
             </a>
             <a href="/furusato-tax-nagashima-spaland-official-hotel-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">遊園地・なばなの里・湯あみの島直結！ナガシマスパーランド公式オフィシャルホテル×ふるさと納税完全攻略ガイド【2026年最新】花水木・ホテルナガシマ・オリーブ！ナガシマスパーランド公</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">遊園地・なばなの里・湯あみの島直結！ナガシマスパーランド公式オフィシャルホテル×ふるさと納税完全攻略ガイド【2026年最新】花水木・ホテルナガシマ・オリーブ！ナガシマスパーランド公</span>
             </a>
             <a href="/furusato-tax-shima-onsen-autumn-leaves-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">奇跡の四万ブルーと奥四万湖の錦秋カヌー！千と千尋のモデル積善館＆名湯宿×ふるさと納税厳選ガイド群馬</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">奇跡の四万ブルーと奥四万湖の錦秋カヌー！千と千尋のモデル積善館＆名湯宿×ふるさと納税厳選ガイド群馬</span>
             </a>
             <a href="/furusato-tax-toba-ise-shima-iseebi-autumn-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">鳥羽・伊勢志摩の秋味覚「伊勢海老漁解禁」＆リアス海岸美・絶景オーシャンビュー温泉｜ふるさと納税で泊まれる名宿ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">鳥羽・伊勢志摩の秋味覚「伊勢海老漁解禁」＆リアス海岸美・絶景オーシャンビュー温泉｜ふるさと納税で泊まれる名宿ガイド</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

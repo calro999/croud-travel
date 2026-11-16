@@ -568,8 +568,8 @@ export default function WinterKumamotoHitoyoshiPage() {
               className="group p-4 rounded-2xl bg-slate-50 hover:bg-teal-50/60 border border-slate-100 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-teal-700 bg-teal-100/60 px-2 py-0.5 rounded-full inline-block">熊本・阿蘇内牧</span>
-              <h4 className="text-xs font-bold text-slate-800 group-hover:text-teal-800 transition line-clamp-2">阿蘇内牧温泉のカルデラ初冬絶景とあか牛ステーキ宿</h4>
-              <p className="text-[11px] text-slate-500 line-clamp-2">
+              <h4 className="text-xs font-bold text-slate-800 group-hover:text-teal-800 transition">阿蘇内牧温泉のカルデラ初冬絶景とあか牛ステーキ宿</h4>
+              <p className="text-[11px] text-slate-500">
                 阿蘇五岳の初雪景色とヘルシーなあか牛・町湯巡りを堪能。
               </p>
             </Link>
@@ -578,8 +578,8 @@ export default function WinterKumamotoHitoyoshiPage() {
               className="group p-4 rounded-2xl bg-slate-50 hover:bg-teal-50/60 border border-slate-100 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-teal-700 bg-teal-100/60 px-2 py-0.5 rounded-full inline-block">熊本・黒川</span>
-              <h4 className="text-xs font-bold text-slate-800 group-hover:text-teal-800 transition line-clamp-2">黒川温泉の湯あかり竹灯籠イルミネーションと入湯手形宿</h4>
-              <p className="text-[11px] text-slate-500 line-clamp-2">
+              <h4 className="text-xs font-bold text-slate-800 group-hover:text-teal-800 transition">黒川温泉の湯あかり竹灯籠イルミネーションと入湯手形宿</h4>
+              <p className="text-[11px] text-slate-500">
                 渓流を温かく照らす竹灯籠と風情ある露天風呂巡りの旅。
               </p>
             </Link>
@@ -588,8 +588,8 @@ export default function WinterKumamotoHitoyoshiPage() {
               className="group p-4 rounded-2xl bg-slate-50 hover:bg-teal-50/60 border border-slate-100 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-teal-700 bg-teal-100/60 px-2 py-0.5 rounded-full inline-block">鹿児島・霧島</span>
-              <h4 className="text-xs font-bold text-slate-800 group-hover:text-teal-800 transition line-clamp-2">霧島温泉郷の白煙立ち込める硫黄泉と黒豚しゃぶしゃぶ宿</h4>
-              <p className="text-[11px] text-slate-500 line-clamp-2">
+              <h4 className="text-xs font-bold text-slate-800 group-hover:text-teal-800 transition">霧島温泉郷の白煙立ち込める硫黄泉と黒豚しゃぶしゃぶ宿</h4>
+              <p className="text-[11px] text-slate-500">
                 坂本龍馬の新婚旅行の地・霧島連山の雄大な自然と名湯。
               </p>
             </Link>
@@ -598,8 +598,8 @@ export default function WinterKumamotoHitoyoshiPage() {
               className="group p-4 rounded-2xl bg-slate-50 hover:bg-teal-50/60 border border-slate-100 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-teal-700 bg-teal-100/60 px-2 py-0.5 rounded-full inline-block">大分・由布院</span>
-              <h4 className="text-xs font-bold text-slate-800 group-hover:text-teal-800 transition line-clamp-2">由布院温泉の金鱗湖朝霧絶景と豊後牛ステーキ名宿</h4>
-              <p className="text-[11px] text-slate-500 line-clamp-2">
+              <h4 className="text-xs font-bold text-slate-800 group-hover:text-teal-800 transition">由布院温泉の金鱗湖朝霧絶景と豊後牛ステーキ名宿</h4>
+              <p className="text-[11px] text-slate-500">
                 由布岳を望む露天風呂と初冬の幻想的な朝霧を巡る癒やし旅。
               </p>
             </Link>

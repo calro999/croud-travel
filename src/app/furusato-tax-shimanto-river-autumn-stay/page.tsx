@@ -467,19 +467,19 @@ export default function FeatureArticlePage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/winter-kochi-yuzu-hotspring-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12月ゆず湯＆冬至の香り】日本一の高知ゆず温泉と戻りカツオ塩たたき宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">【11・12月ゆず湯＆冬至の香り】日本一の高知ゆず温泉と戻りカツオ塩たたき宿5選</span>
             </a>
             <a href="/autumn-budget-kochi-station-katsuo-hirome-market-hotels-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「高知駅前」秋の戻り鰹塩たたき＆ひろめ市場！3,000円台〜泊まれる格安・高コスパ宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「高知駅前」秋の戻り鰹塩たたき＆ひろめ市場！3,000円台〜泊まれる格安・高コスパ宿5選</span>
             </a>
             <a href="/japan-ocean-cliff-sunset-view-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「絶景断崖オーシャン＆夕陽パノラマ宿」三陸・男鹿・越前・室戸岬・天草 厳選ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「絶景断崖オーシャン＆夕陽パノラマ宿」三陸・男鹿・越前・室戸岬・天草 厳選ガイド</span>
             </a>
             <a href="/kochi-solo-business-hirome-katsuo-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「高知出張＆土佐酒ひとり旅」ひろめ市場徒歩すぐ・天然温泉露天風呂・絶品カツオ藁焼き！南国土佐で魂を解放する名宿 厳選3選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「高知出張＆土佐酒ひとり旅」ひろめ市場徒歩すぐ・天然温泉露天風呂・絶品カツオ藁焼き！南国土佐で魂を解放する名宿 厳選3選</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

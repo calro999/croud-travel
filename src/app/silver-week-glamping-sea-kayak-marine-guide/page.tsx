@@ -288,14 +288,14 @@ export default function SilverWeekGlampingSeaKayakMarinePage() {
                     )}
                   </div>
 
-                  <h3 className="font-black text-slate-900 text-base leading-snug group-hover:text-cyan-700 transition line-clamp-2 font-journal-serif">{hotel.hotelName}</h3>
+                  <h3 className="font-black text-slate-900 text-base leading-snug group-hover:text-cyan-700 transition font-journal-serif">{hotel.hotelName}</h3>
 
-                  <p className="text-xs text-slate-600 line-clamp-3 leading-relaxed font-medium">
+                  <p className="text-xs text-slate-600 leading-relaxed font-medium">
                     {hotel.hotelSpecial || "目の前に広がる穏やかな海と白い砂浜。SUPやカヤックなど多彩なマリンアクティビティを楽しめるウォーターフロント施設。"}
                   </p>
 
                   {hotel.access && (
-                    <p className="text-[11px] text-slate-500 line-clamp-1">
+                    <p className="text-[11px] text-slate-500">
                       🚗 {hotel.access}
                     </p>
                   )}
@@ -380,7 +380,7 @@ export default function SilverWeekGlampingSeaKayakMarinePage() {
             <span className="text-[10px] font-bold text-cyan-700 bg-cyan-50 px-2 py-0.5 rounded-full inline-block mb-1.5">
               車なし伊豆・エメラルドグリーンの海
             </span>
-            <div className="font-bold text-xs sm:text-sm text-slate-900 group-hover:text-cyan-700 transition line-clamp-2">
+            <div className="font-bold text-xs sm:text-sm text-slate-900 group-hover:text-cyan-700 transition">
               【伊豆下田 車なし女子旅・カップル旅行】特急サフィール踊り子で行く白砂ビーチ＆絶景温泉宿
             </div>
           </Link>
@@ -392,7 +392,7 @@ export default function SilverWeekGlampingSeaKayakMarinePage() {
             <span className="text-[10px] font-bold text-slate-700 bg-slate-100 px-2 py-0.5 rounded-full inline-block mb-1.5">
               熱海・伊豆旅行の費用試算
             </span>
-            <div className="font-bold text-xs sm:text-sm text-slate-900 group-hover:text-cyan-700 transition line-clamp-2">
+            <div className="font-bold text-xs sm:text-sm text-slate-900 group-hover:text-cyan-700 transition">
               【熱海・伊豆旅行の費用・予算完全ガイド】新幹線・宿泊・海鮮グルメのリアル相場と節約術
             </div>
           </Link>

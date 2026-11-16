@@ -261,9 +261,9 @@ export default function WinterSpecialHubClient({ posts }: Props) {
                       ))}
                     </div>
 
-                    <h3 className="text-sm md:text-base font-bold text-slate-900 line-clamp-2 leading-snug group-hover:text-sky-700 transition-colors">{post.title}</h3>
+                    <h3 className="text-sm md:text-base font-bold text-slate-900 leading-snug group-hover:text-sky-700 transition-colors">{post.title}</h3>
 
-                    <p className="text-xs text-slate-600 line-clamp-2 leading-relaxed">
+                    <p className="text-xs text-slate-600 leading-relaxed">
                       {post.description}
                     </p>
                   </div>

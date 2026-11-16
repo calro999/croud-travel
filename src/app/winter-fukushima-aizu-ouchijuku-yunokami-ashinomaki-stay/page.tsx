@@ -611,7 +611,7 @@ export default function FukushimaAizuOuchijukuWinterPage() {
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-orange-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-orange-900 font-bold text-xs block mb-1">福島・裏磐梯</span>
-              <span className="text-stone-900 font-bold group-hover:text-orange-950 transition-colors line-clamp-2">
+              <span className="text-stone-900 font-bold group-hover:text-orange-950 transition-colors">
                 神秘の五色沼雪景色と磐梯山パノラマ・源泉掛け流し福島牛名宿
               </span>
             </Link>
@@ -621,7 +621,7 @@ export default function FukushimaAizuOuchijukuWinterPage() {
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-orange-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-orange-900 font-bold text-xs block mb-1">福島・磐梯熱海</span>
-              <span className="text-stone-900 font-bold group-hover:text-orange-950 transition-colors line-clamp-2">
+              <span className="text-stone-900 font-bold group-hover:text-orange-950 transition-colors">
                 猪苗代湖のしぶき氷と白鳥・美人の湯磐梯熱海温泉＆会津牛名宿
               </span>
             </Link>
@@ -631,7 +631,7 @@ export default function FukushimaAizuOuchijukuWinterPage() {
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-orange-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-orange-900 font-bold text-xs block mb-1">山形・銀山温泉</span>
-              <span className="text-stone-900 font-bold group-hover:text-orange-950 transition-colors line-clamp-2">
+              <span className="text-stone-900 font-bold group-hover:text-orange-950 transition-colors">
                 大正ロマンのガス灯雪景色と木造多層建築・尾花沢牛と名湯名宿
               </span>
             </Link>
@@ -641,7 +641,7 @@ export default function FukushimaAizuOuchijukuWinterPage() {
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-orange-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-orange-900 font-bold text-xs block mb-1">栃木・湯西川温泉</span>
-              <span className="text-stone-900 font-bold group-hover:text-orange-950 transition-colors line-clamp-2">
+              <span className="text-stone-900 font-bold group-hover:text-orange-950 transition-colors">
                 かまくら祭の幻想的な雪あかりと平家落人伝説・囲炉裏会席名宿
               </span>
             </Link>
@@ -651,7 +651,7 @@ export default function FukushimaAizuOuchijukuWinterPage() {
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-orange-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-orange-900 font-bold text-xs block mb-1">岐阜・白川郷</span>
-              <span className="text-stone-900 font-bold group-hover:text-orange-950 transition-colors line-clamp-2">
+              <span className="text-stone-900 font-bold group-hover:text-orange-950 transition-colors">
                 世界遺産白川郷の合掌造り雪景色ライトアップと飛騨牛名宿
               </span>
             </Link>
@@ -661,7 +661,7 @@ export default function FukushimaAizuOuchijukuWinterPage() {
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-orange-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-orange-900 font-bold text-xs block mb-1">茨城・奥久慈袋田</span>
-              <span className="text-stone-900 font-bold group-hover:text-orange-950 transition-colors line-clamp-2">
+              <span className="text-stone-900 font-bold group-hover:text-orange-950 transition-colors">
                 袋田の滝の完全凍結氷瀑と奥久慈軍鶏鍋・常陸牛温泉名宿
               </span>
             </Link>

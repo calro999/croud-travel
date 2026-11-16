@@ -153,8 +153,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     青森県青森市本町2-4-7
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">スマイルホテル青森</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">スマイルホテル青森</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     官庁街に隣接しビジネスに最適な立地・繁華街もすぐ近くです！インターネット無料で接続できます！
                   </p>
                   
@@ -210,8 +210,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     岩手県花巻市台２－４５
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">花巻温泉郷　台温泉　いやしろの湯　ホテル三右ェ門</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">花巻温泉郷　台温泉　いやしろの湯　ホテル三右ェ門</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     閑静で落ち着いた昔変らぬ宿心。移り変わる風情とともに、台温泉で過ごすお時間をごゆるりとお寛ぎ下さい
                   </p>
                   
@@ -254,8 +254,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     岩手県花巻市大通り1-7-41
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">ホテル狩野</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">ホテル狩野</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     花巻駅前のホテル狩野。女将手作りの日替り料理と24時間入浴OKのミネラル泉が好評。
                   </p>
                   
@@ -298,8 +298,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     岩手県花巻市湯本第1地割125-2
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">花巻温泉　佳松園</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">花巻温泉　佳松園</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     とろとろの湯と心に残るおもてなし。特別な日を佳松園で過ごす愉しみ。花巻ICよりわずか5分の別世界。
                   </p>
                   
@@ -355,8 +355,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     長野県伊那市高遠町勝間217
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">高遠温泉　高遠さくらホテル</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">高遠温泉　高遠さくらホテル</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     ■pH9.7トロトロ肌触りの天然温泉／露天風呂＆貸切風呂／城址公園・高遠湖望む全室レイクビュー■
                   </p>
                   

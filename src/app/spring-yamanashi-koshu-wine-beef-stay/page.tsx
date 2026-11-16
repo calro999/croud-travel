@@ -389,19 +389,19 @@ export default function FeaturePage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/yamanashi-fujigoko-kawaguchiko-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「山梨・富士五湖＆河口湖」逆さ富士・富士急ハイランド＆ほうとう極上宿 厳選ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「山梨・富士五湖＆河口湖」逆さ富士・富士急ハイランド＆ほうとう極上宿 厳選ガイド</span>
             </a>
             <a href="/yamanashi-isawa-solo-retreat-wine-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「甲州・石和温泉ひとり旅・甲州ワインと名湯おこもり」広大な日本庭園露天風呂・甲州牛鉄板焼き・ワイナリー巡り！新宿特急90分の果樹郷厳選3宿</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「甲州・石和温泉ひとり旅・甲州ワインと名湯おこもり」広大な日本庭園露天風呂・甲州牛鉄板焼き・ワイナリー巡り！新宿特急90分の果樹郷厳選3宿</span>
             </a>
             <a href="/yamanashi-yatsugatake-kiyosato-resort-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「山梨・八ヶ岳＆清里高原」清里テラス・萌木の村＆八ヶ岳南麓・星空温泉リゾート 厳選ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「山梨・八ヶ岳＆清里高原」清里テラス・萌木の村＆八ヶ岳南麓・星空温泉リゾート 厳選ガイド</span>
             </a>
             <a href="/autumn-budget-yamanashi-kofu-station-shosenkyo-houtou-hotels-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「甲府駅前」昇仙峡の錦秋＆名物ほうとう！3,000円台〜泊まれる格安・高コスパ宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「甲府駅前」昇仙峡の錦秋＆名物ほうとう！3,000円台〜泊まれる格安・高コスパ宿5選</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

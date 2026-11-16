@@ -153,8 +153,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     山口県周南市湯野4255-1
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">湯野温泉　芳山園</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">湯野温泉　芳山園</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     名湯の露天風呂の硫黄の香りと四季折々の日本庭園に心癒される。旬の味覚と共に至福の時間を独り占め。
                   </p>
                   
@@ -197,8 +197,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     広島県廿日市市宮浜温泉2-5-4
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">宮浜温泉　湯の宿　宮浜グランドホテル</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">宮浜温泉　湯の宿　宮浜グランドホテル</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     展望大浴場と旬の素材を使った料理が好評。宮島口から車で12分。無料駐車場有！
                   </p>
                   
@@ -254,8 +254,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     長崎県長崎市大鳥町523
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">大江戸温泉物語Ｐｒｅｍｉｕｍ　長崎ホテル清風（リニューアルオープン）</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">大江戸温泉物語Ｐｒｅｍｉｕｍ　長崎ホテル清風（リニューアルオープン）</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     露天風呂や客室、プレミアムラウンジから世界新三大夜景を望む温泉ホテル
                   </p>
                   
@@ -298,8 +298,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     長崎県長崎市新地町1-14
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">長崎バスターミナルホテル</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">長崎バスターミナルホテル</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     ■長崎中華街まで徒歩1分■≪全室Wi-Fi完備≫長崎市の中心部、ビジネス・観光の拠点に最適な立地です
                   </p>
                   
@@ -342,8 +342,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     長崎県長崎市曙町39-38
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">稲佐山温泉　ホテルアマンディ　～長崎の日本三大夜景を一望～</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">稲佐山温泉　ホテルアマンディ　～長崎の日本三大夜景を一望～</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     日本三大夜景を一望！100％源泉の露天風呂や岩盤浴が人気のリゾートホテル。駐車場無料・Wi-Fi完備
                   </p>
                   
@@ -399,8 +399,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     東京都江東区東陽6-3-3
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">ホテルイースト２１東京（オークラホテルズ＆リゾーツ）</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">ホテルイースト２１東京（オークラホテルズ＆リゾーツ）</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     東京駅から電車で約30分！東陽町駅から徒歩7分！19世紀のヨーロッパの雰囲気漂うホテル
                   </p>
                   
@@ -443,8 +443,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     茨城県水戸市千波町2078-1
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">水戸プラザホテル</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">水戸プラザホテル</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     ■シアワセを記憶するホテル■ジョン・デビッド・エジソンをインテリアデザイナーに迎えた森の中の迎賓館
                   </p>
                   

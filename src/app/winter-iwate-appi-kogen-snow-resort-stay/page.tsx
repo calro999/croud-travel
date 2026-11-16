@@ -404,19 +404,19 @@ export default function FeaturePage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/furusato-tax-iwate-hanamaki-tsunagi-autumn-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「岩手・花巻温泉郷＆盛岡」錦秋の奥羽山脈＆名湯12湯！前沢牛・白金豚と渓谷露天風呂を巡る秋旅</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「岩手・花巻温泉郷＆盛岡」錦秋の奥羽山脈＆名湯12湯！前沢牛・白金豚と渓谷露天風呂を巡る秋旅</span>
             </a>
             <a href="/furusato-tax-natural-mud-bath-mineral-detox-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">天然ミネラル泥パックで全身ツルツル美肌！極上泥湯温泉＆湯治名旅館×ふるさと納税厳選ガイド八幡平後生掛・霧島・別府鉄輪</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">天然ミネラル泥パックで全身ツルツル美肌！極上泥湯温泉＆湯治名旅館×ふるさと納税厳選ガイド八幡平後生掛・霧島・別府鉄輪</span>
             </a>
             <a href="/iwate-hiraizumi-chusonji-heritage-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「岩手・平泉中尊寺＆厳美渓」世界遺産金色堂・空飛ぶだんご＆前沢牛極上宿 厳選ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「岩手・平泉中尊寺＆厳美渓」世界遺産金色堂・空飛ぶだんご＆前沢牛極上宿 厳選ガイド</span>
             </a>
             <a href="/iwate-sanriku-miyako-jodogahama-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「岩手・三陸宮古＆浄土ヶ浜」極楽浄土の白い奇岩・青の洞窟＆名物「瓶ドン」宿 厳選ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「岩手・三陸宮古＆浄土ヶ浜」極楽浄土の白い奇岩・青の洞窟＆名物「瓶ドン」宿 厳選ガイド</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

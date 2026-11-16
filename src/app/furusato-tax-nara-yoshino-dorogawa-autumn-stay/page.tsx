@@ -399,19 +399,19 @@ export default function Page() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/furusato-tax-kusatsu-onsen-yubatake-walk-luxury-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">天下の名湯・草津温泉の真髄を味わう！湯畑徒歩圏＆名物源泉掛け流し名門旅館×ふるさと納税極上旅ガイド櫻井・一井・奈良屋</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">天下の名湯・草津温泉の真髄を味わう！湯畑徒歩圏＆名物源泉掛け流し名門旅館×ふるさと納税極上旅ガイド櫻井・一井・奈良屋</span>
             </a>
             <a href="/furusato-tax-yoshinoyama-autumn-leaves-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">世界遺産・吉野山の秋色グラデーション（下千本〜奥千本）と千年の歴史漂う隠れ宿＆大和牛会席｜ふるさと納税で泊まれる名宿ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">世界遺産・吉野山の秋色グラデーション（下千本〜奥千本）と千年の歴史漂う隠れ宿＆大和牛会席｜ふるさと納税で泊まれる名宿ガイド</span>
             </a>
             <a href="/nara-totsukawa-solo-retreat-secret-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「日本一広い村・十津川温泉郷ひとり旅・源泉かけ流し宣言おこもり」100%完全かけ流し・世界遺産熊野参詣道小辺路・谷瀬の吊り橋！紀伊山地秘境厳選3宿</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「日本一広い村・十津川温泉郷ひとり旅・源泉かけ流し宣言おこもり」100%完全かけ流し・世界遺産熊野参詣道小辺路・谷瀬の吊り橋！紀伊山地秘境厳選3宿</span>
             </a>
             <a href="/traditional-nara-yamato-beef-tea-porridge-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「大和牛すき焼き＆名物茶粥」古都奈良の歴史浪漫と飛鳥・吉野・奈良町の名湯美食宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「大和牛すき焼き＆名物茶粥」古都奈良の歴史浪漫と飛鳥・吉野・奈良町の名湯美食宿5選</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

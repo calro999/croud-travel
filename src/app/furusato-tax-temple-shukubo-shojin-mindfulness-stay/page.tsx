@@ -189,8 +189,8 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">高野山別格本山　宿坊　西門院</h4>
-                            <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
+                            <h4 className="font-bold text-white text-sm group-hover:text-amber-300 transition">高野山別格本山　宿坊　西門院</h4>
+                            <p className="text-xs text-slate-400 leading-relaxed">
                               高野山街の中央.お買い物や各所観光に便利な宿坊。手作りごま豆腐と伝統の「精進料理」は好評です。
                             </p>
                             <p className="text-xs text-slate-500 flex items-center gap-1">
@@ -239,8 +239,8 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">高野山　熊谷寺</h4>
-                            <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
+                            <h4 className="font-bold text-white text-sm group-hover:text-amber-300 transition">高野山　熊谷寺</h4>
+                            <p className="text-xs text-slate-400 leading-relaxed">
                               アットホームなおもてなしを心がけ、満足していただけるよう精一杯御奉仕しております。
                             </p>
                             <p className="text-xs text-slate-500 flex items-center gap-1">
@@ -284,8 +284,8 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">高野山　宿坊　大明王院</h4>
-                            <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
+                            <h4 className="font-bold text-white text-sm group-hover:text-amber-300 transition">高野山　宿坊　大明王院</h4>
+                            <p className="text-xs text-slate-400 leading-relaxed">
                               四季折々の精進料理や総高野槙風呂でおもてなし。美しい庭園を眺めながら当院で四季の高野山をご満喫下さい
                             </p>
                             <p className="text-xs text-slate-500 flex items-center gap-1">
@@ -347,8 +347,8 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">善光寺宿坊　兄部坊</h4>
-                            <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
+                            <h4 className="font-bold text-white text-sm group-hover:text-amber-300 transition">善光寺宿坊　兄部坊</h4>
+                            <p className="text-xs text-slate-400 leading-relaxed">
                               善光寺境内の宿坊。趣ある空間と自慢の精進料理でおもてなし。翌朝は善光寺の「お朝事法要」へご案内。
                             </p>
                             <p className="text-xs text-slate-500 flex items-center gap-1">
@@ -397,8 +397,8 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">善光寺宿坊　淵之坊</h4>
-                            <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
+                            <h4 className="font-bold text-white text-sm group-hover:text-amber-300 transition">善光寺宿坊　淵之坊</h4>
+                            <p className="text-xs text-slate-400 leading-relaxed">
                               善光寺境内表参道沿いにある宿坊。介助用エレベーターご利用できます。
                             </p>
                             <p className="text-xs text-slate-500 flex items-center gap-1">
@@ -447,8 +447,8 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">信州善光寺　薬王院</h4>
-                            <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
+                            <h4 className="font-bold text-white text-sm group-hover:text-amber-300 transition">信州善光寺　薬王院</h4>
+                            <p className="text-xs text-slate-400 leading-relaxed">
                               善光寺本堂まで徒歩3分の好立地。善光寺が建立された1400年前に、阿弥陀堂として建てられた伝統の宿坊
                             </p>
                             <p className="text-xs text-slate-500 flex items-center gap-1">
@@ -510,8 +510,8 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">京都センチュリーホテル</h4>
-                            <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
+                            <h4 className="font-bold text-white text-sm group-hover:text-amber-300 transition">京都センチュリーホテル</h4>
+                            <p className="text-xs text-slate-400 leading-relaxed">
                               旅するように過ごす、京都駅前より新しい「旅」が始まります
                             </p>
                             <p className="text-xs text-slate-500 flex items-center gap-1">
@@ -560,8 +560,8 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">三井ガーデンホテル京都河原町浄教寺</h4>
-                            <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
+                            <h4 className="font-bold text-white text-sm group-hover:text-amber-300 transition">三井ガーデンホテル京都河原町浄教寺</h4>
+                            <p className="text-xs text-slate-400 leading-relaxed">
                               先斗町・祇園へ徒歩圏内。朝食も人気な、寺院と一体の”寺のホテル”
                             </p>
                             <p className="text-xs text-slate-500 flex items-center gap-1">
@@ -610,8 +610,8 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">アルモントホテル京都</h4>
-                            <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
+                            <h4 className="font-bold text-white text-sm group-hover:text-amber-300 transition">アルモントホテル京都</h4>
+                            <p className="text-xs text-slate-400 leading-relaxed">
                               男女別の大浴場完備。ＪＲ京都駅八条東口より徒歩約５分と、観光やビジネスにも最適です。
                             </p>
                             <p className="text-xs text-slate-500 flex items-center gap-1">
@@ -659,10 +659,10 @@ export default function FurusatoTaxPage() {
                 href="/furusato-tax-ise-kumano-sacred-power-spot-stay/"
                 className="block p-4 rounded-2xl bg-slate-950/60 border border-slate-800/80 hover:border-amber-500/50 transition group"
               >
-                <div className="font-bold text-amber-400 group-hover:text-amber-300 transition text-sm mb-1 line-clamp-1">
+                <div className="font-bold text-amber-400 group-hover:text-amber-300 transition text-sm mb-1">
                   お伊勢参り＆熊野古道×聖地巡礼・門前宿ガイド
                 </div>
-                <div className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
+                <div className="text-xs text-slate-400 leading-relaxed">
                   伊勢神宮・熊野三山・出雲大社の祈願ステイ。
                 </div>
               </Link>
@@ -672,10 +672,10 @@ export default function FurusatoTaxPage() {
                 href="/furusato-tax-secret-hotspring-lamp-retreat-stay/"
                 className="block p-4 rounded-2xl bg-slate-950/60 border border-slate-800/80 hover:border-amber-500/50 transition group"
               >
-                <div className="font-bold text-amber-400 group-hover:text-amber-300 transition text-sm mb-1 line-clamp-1">
+                <div className="font-bold text-amber-400 group-hover:text-amber-300 transition text-sm mb-1">
                   秘湯・ランプの宿×デジタルデトックス温泉旅
                 </div>
-                <div className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
+                <div className="text-xs text-slate-400 leading-relaxed">
                   法師・祖谷・酸ヶ湯の渓谷野天風呂。
                 </div>
               </Link>
@@ -685,10 +685,10 @@ export default function FurusatoTaxPage() {
                 href="/furusato-tax-tangible-cultural-property-architectural-ryokan-stay/"
                 className="block p-4 rounded-2xl bg-slate-950/60 border border-slate-800/80 hover:border-amber-500/50 transition group"
               >
-                <div className="font-bold text-amber-400 group-hover:text-amber-300 transition text-sm mb-1 line-clamp-1">
+                <div className="font-bold text-amber-400 group-hover:text-amber-300 transition text-sm mb-1">
                   登録有形文化財・宮大工名建築旅館×ふるさと納税完全ガイド
                 </div>
-                <div className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
+                <div className="text-xs text-slate-400 leading-relaxed">
                   修善寺新井旅館・渋温泉金具屋・箱根環翠楼の歴史宿。
                 </div>
               </Link>
@@ -791,19 +791,19 @@ export default function FurusatoTaxPage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/tochigi-kinugawa-onsen-valley-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">栃木・鬼怒川温泉：渓谷美・鬼怒楯岩大吊橋＆ライン下り極上宿 厳選ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">栃木・鬼怒川温泉：渓谷美・鬼怒楯岩大吊橋＆ライン下り極上宿 厳選ガイド</span>
             </a>
             <a href="/tochigi-shiobara-solo-retreat-valley-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">那須塩原・塩原温泉郷ひとり旅・十一湯渓谷おこもり：開湯1200年名瀑露天・乳白色硫黄泉・文豪の愛した湯治場！箒川渓谷美の秘湯厳選3宿</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">那須塩原・塩原温泉郷ひとり旅・十一湯渓谷おこもり：開湯1200年名瀑露天・乳白色硫黄泉・文豪の愛した湯治場！箒川渓谷美の秘湯厳選3宿</span>
             </a>
             <a href="/winter-tochigi-okunikko-chuzenji-lake-onsen-snow-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12月奥日光中禅寺温泉の初冬中禅寺湖と男体山雪絶景】乳白色硫黄泉露天風呂・極上とちぎ和牛＆日光湯波会席の宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">【11・12月奥日光中禅寺温泉の初冬中禅寺湖と男体山雪絶景】乳白色硫黄泉露天風呂・極上とちぎ和牛＆日光湯波会席の宿5選</span>
             </a>
             <a href="/autumn-budget-tochigi-utsunomiya-station-gyoza-hotels-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">宇都宮駅前：熱々宇都宮餃子ハシゴ旅＆大谷石散策！2,000円台〜泊まれる格安ホテル5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">宇都宮駅前：熱々宇都宮餃子ハシゴ旅＆大谷石散策！2,000円台〜泊まれる格安ホテル5選</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

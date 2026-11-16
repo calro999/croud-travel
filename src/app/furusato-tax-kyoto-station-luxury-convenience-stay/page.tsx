@@ -546,19 +546,19 @@ export default function FurusatoArticlePage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/kyoto-autumn-leaves-night-lightup-hotel-guide/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「京都 紅葉ライトアップ2026おすすめ7選」 夜間特別拝観・永観堂・東寺・清水寺＆混雑回避の夜回り宿</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「京都 紅葉ライトアップ2026おすすめ7選」 夜間特別拝観・永観堂・東寺・清水寺＆混雑回避の夜回り宿</span>
             </a>
             <a href="/kyoto-rainy-day-temple-cafe-guide/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「京都 雨の日こそ行きたい名所＆町家カフェ」 緑鮮やかな苔寺・瑠璃光院・三千院＆おこもり温泉宿</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「京都 雨の日こそ行きたい名所＆町家カフェ」 緑鮮やかな苔寺・瑠璃光院・三千院＆おこもり温泉宿</span>
             </a>
             <a href="/kyoto-subway-bus-1day-pass-golden-route/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「地下鉄・バス1日券で巡る京都観光」 1,100円で元を取る黄金ルート＆市バス大渋滞を完全回避する裏ワザ</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「地下鉄・バス1日券で巡る京都観光」 1,100円で元を取る黄金ルート＆市バス大渋滞を完全回避する裏ワザ</span>
             </a>
             <a href="/kyoto-uji-fushimi-sake-matcha-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「京都・宇治＆伏見酒蔵」世界遺産平等院・宇治抹茶＆伏見十石舟・酒蔵宿 厳選ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「京都・宇治＆伏見酒蔵」世界遺産平等院・宇治抹茶＆伏見十石舟・酒蔵宿 厳選ガイド</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

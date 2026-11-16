@@ -629,19 +629,19 @@ export default function FeatureDetailPage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/shimonoseki-solo-business-fugu-kaikyo-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「下関出張・男一人旅」天然温泉関門の湯・関門海峡パノラマ・本場下関ふく料理！本州最西端の海峡拠点でととのう厳選3宿</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「下関出張・男一人旅」天然温泉関門の湯・関門海峡パノラマ・本場下関ふく料理！本州最西端の海峡拠点でととのう厳選3宿</span>
             </a>
             <a href="/shizuoka-solo-business-maguro-fujiview-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「静岡出張＆富士山ひとり旅」新幹線直結・清水港まぐろ・静岡茶ラウンジ！名峰の絶景に癒やされる極上ホテル 厳選3選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「静岡出張＆富士山ひとり旅」新幹線直結・清水港まぐろ・静岡茶ラウンジ！名峰の絶景に癒やされる極上ホテル 厳選3選</span>
             </a>
             <a href="/silver-week-glamping-kanto-fuji-guide/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「シルバーウィーク2026 富士山・関東グランピング」 客室天然温泉＆富士絶景ドームテント 秋風と焚き火に癒やされる極上リゾート厳選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「シルバーウィーク2026 富士山・関東グランピング」 客室天然温泉＆富士絶景ドームテント 秋風と焚き火に癒やされる極上リゾート厳選</span>
             </a>
             <a href="/spring-kyoto-bamboo-grove-arashiyama-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「竹林の小径と渡月橋の風情。嵐山温泉＆極上京懐石を味わう京都の名旅館5選」竹林の小径と渡月橋の風情。嵐山温泉＆極上京懐石を味わう京都の名旅館5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「竹林の小径と渡月橋の風情。嵐山温泉＆極上京懐石を味わう京都の名旅館5選」竹林の小径と渡月橋の風情。嵐山温泉＆極上京懐石を味わう京都の名旅館5選</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

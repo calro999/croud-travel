@@ -398,19 +398,19 @@ export default function ArticlePage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/winter-kumamoto-hitoyoshi-onsen-kumagawa-mist-wagyu-ayu-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12月熊本・人吉温泉郷】球磨川初冬朝霧絶景と美肌名湯 名物子持ち落ち鮎塩焼き＆極上球磨黒毛和牛・球磨焼酎会席を味わう老舗宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">【11・12月熊本・人吉温泉郷】球磨川初冬朝霧絶景と美肌名湯 名物子持ち落ち鮎塩焼き＆極上球磨黒毛和牛・球磨焼酎会席を味わう老舗宿5選</span>
             </a>
             <a href="/winter-kumamoto-kurokawa-onsen-yuakari-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12月黒川温泉の湯あかりと秘湯情緒】 竹灯籠が彩る渓流露天風呂と阿蘇あか牛・肥後会席の名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">【11・12月黒川温泉の湯あかりと秘湯情緒】 竹灯籠が彩る渓流露天風呂と阿蘇あか牛・肥後会席の名宿5選</span>
             </a>
             <a href="/winter-kumamoto-minamiaso-takamori-snow-dengaku-akagyu-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">熊本・南阿蘇＆高森 白銀の阿蘇五岳パノラマと冬の伝統「高森田楽」囲炉裏炭火！ 美肌の南阿蘇温泉郷＆極上あか牛名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">熊本・南阿蘇＆高森 白銀の阿蘇五岳パノラマと冬の伝統「高森田楽」囲炉裏炭火！ 美肌の南阿蘇温泉郷＆極上あか牛名宿5選</span>
             </a>
             <a href="/aso-kumamoto-car-free-trip-guide/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「熊本・阿蘇 車なし観光 1泊2日」 特急あそぼーい！＆産交バスで行くカルデラ大自然旅</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「熊本・阿蘇 車なし観光 1泊2日」 特急あそぼーい！＆産交バスで行くカルデラ大自然旅</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

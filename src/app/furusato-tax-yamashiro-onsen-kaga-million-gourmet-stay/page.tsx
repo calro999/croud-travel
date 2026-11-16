@@ -542,19 +542,19 @@ export default function FurusatoTaxArticle() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/winter-ishikawa-awazu-onsen-kanogani-notogyu-kaga-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12月石川・粟津温泉＆加賀温泉郷】白山霊泉と冬の美食 全宿自家堀り源泉の純度100%硫酸塩泉・解禁加能ガニ＆香箱ガニと能登牛を味わう名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">【11・12月石川・粟津温泉＆加賀温泉郷】白山霊泉と冬の美食 全宿自家堀り源泉の純度100%硫酸塩泉・解禁加能ガニ＆香箱ガニと能登牛を味わう名宿5選</span>
             </a>
             <a href="/winter-ishikawa-kaga-yamashiro-luxury-araya-totoan-kanogani-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【魯山人の美意識が宿る数寄屋造りの名門と加能ガニ極上フルコース】2026-2027年11-12月初冬の石川・加賀温泉郷！名門「あらや滔々庵」＆「山中温泉 花紫」・源泉掛け流し客室露</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">【魯山人の美意識が宿る数寄屋造りの名門と加能ガニ極上フルコース】2026-2027年11-12月初冬の石川・加賀温泉郷！名門「あらや滔々庵」＆「山中温泉 花紫」・源泉掛け流し客室露</span>
             </a>
             <a href="/winter-ishikawa-katayamazu-onsen-hakusan-kano-crab-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12月石川・加賀片山津温泉】 柴山潟と白山初冠雪パノラマ・11月解禁加能ガニ＆香箱ガニの宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">【11・12月石川・加賀片山津温泉】 柴山潟と白山初冠雪パノラマ・11月解禁加能ガニ＆香箱ガニの宿5選</span>
             </a>
             <a href="/winter-kanazawa-kenrokuen-yukizuri-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11月雪吊り開幕！金沢兼六園＆加賀百万石美食】冬の風物詩と近江町市場・山代名湯宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">【11月雪吊り開幕！金沢兼六園＆加賀百万石美食】冬の風物詩と近江町市場・山代名湯宿5選</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

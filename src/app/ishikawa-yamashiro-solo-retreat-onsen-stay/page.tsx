@@ -369,19 +369,19 @@ export default function ArticlePage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/nagoya-kanazawa-bus-vs-train-guide/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「名古屋から金沢 安く行く方法」特急しらさぎ vs 直行高速バス徹底比較！乗り換えなし1泊2日モデルコース</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「名古屋から金沢 安く行く方法」特急しらさぎ vs 直行高速バス徹底比較！乗り換えなし1泊2日モデルコース</span>
             </a>
             <a href="/tokyo-kanazawa-bus-vs-shinkansen-guide/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「東京から金沢 安く行く方法」新幹線と高速バスどっち？料金・時間比較＆1泊2日モデルコース</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「東京から金沢 安く行く方法」新幹線と高速バスどっち？料金・時間比較＆1泊2日モデルコース</span>
             </a>
             <a href="/autumn-budget-ishikawa-kanazawa-station-kenrokuen-tsuzumimon-hotels-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「金沢駅前」兼六園雪吊り散歩＆旬の海鮮・おでん！2,000円台〜泊まれる格安・高コスパ宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「金沢駅前」兼六園雪吊り散歩＆旬の海鮮・おでん！2,000円台〜泊まれる格安・高コスパ宿5選</span>
             </a>
             <a href="/furusato-tax-chirihama-wakura-autumn-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">日本唯一の波打ち際ドライブ「千里浜なぎさドライブウェイ」夕景＆和倉温泉・極上能登牛と七尾湾秋魚｜ふるさと納税で泊まれる名宿ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">日本唯一の波打ち際ドライブ「千里浜なぎさドライブウェイ」夕景＆和倉温泉・極上能登牛と七尾湾秋魚｜ふるさと納税で泊まれる名宿ガイド</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

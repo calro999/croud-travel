@@ -128,8 +128,8 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">ホテルルートイン丸亀</h4>
-                      <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition">ホテルルートイン丸亀</h4>
+                      <p className="text-xs text-stone-400 mt-1 leading-relaxed">
                         ＷＯＷＯＷ全室で無料視聴可■男女別大浴場完備■朝食バイキング無料！24時間チェックインOK
                       </p>
                       <div className="mt-3 text-xs text-stone-300">
@@ -172,8 +172,8 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">スーパーホテル丸亀駅前　天然温泉「京極の湯」</h4>
-                      <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition">スーパーホテル丸亀駅前　天然温泉「京極の湯」</h4>
+                      <p className="text-xs text-stone-400 mt-1 leading-relaxed">
                         ＪＲ予讃線「丸亀」駅から徒歩約4分！男女別天然温泉、無料健康朝食。無料平面駐車場約１１０台完備！
                       </p>
                       <div className="mt-3 text-xs text-stone-300">
@@ -216,8 +216,8 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">丸亀プラザホテル</h4>
-                      <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition">丸亀プラザホテル</h4>
+                      <p className="text-xs text-stone-400 mt-1 leading-relaxed">
                         室内バス及びウォシュレット付・全室ゆとりのセミダブルベッド・お部屋にてインターネット可（無料）
                       </p>
                       <div className="mt-3 text-xs text-stone-300">
@@ -260,8 +260,8 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">アパホテル〈丸亀駅前大通〉</h4>
-                      <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition">アパホテル〈丸亀駅前大通〉</h4>
+                      <p className="text-xs text-stone-400 mt-1 leading-relaxed">
                         JR予讃線「丸亀駅」南口から徒歩5分（高松駅より特急で3駅約30分。岡山駅より特急で約40分）
                       </p>
                       <div className="mt-3 text-xs text-stone-300">
@@ -346,8 +346,8 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">ホテルルートイン坂出北インター</h4>
-                      <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition">ホテルルートイン坂出北インター</h4>
+                      <p className="text-xs text-stone-400 mt-1 leading-relaxed">
                         ＷＯＷＯＷ全室で無料視聴可■VODルームシアター無料視聴可能（一般映画のみ：コンフォートルーム特典）
                       </p>
                       <div className="mt-3 text-xs text-stone-300">
@@ -390,8 +390,8 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">アパホテル〈丸亀駅前大通〉</h4>
-                      <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition">アパホテル〈丸亀駅前大通〉</h4>
+                      <p className="text-xs text-stone-400 mt-1 leading-relaxed">
                         JR予讃線「丸亀駅」南口から徒歩5分（高松駅より特急で3駅約30分。岡山駅より特急で約40分）
                       </p>
                       <div className="mt-3 text-xs text-stone-300">
@@ -434,8 +434,8 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">ホテルアネシス瀬戸大橋</h4>
-                      <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition">ホテルアネシス瀬戸大橋</h4>
+                      <p className="text-xs text-stone-400 mt-1 leading-relaxed">
                         丸亀・坂出より一駅５分、ＪＲ宇多津駅より徒歩０分！香川県下で最も駅からフロントが近いホテルです。ご宿泊のお客様は朝食無料！
                       </p>
                       <div className="mt-3 text-xs text-stone-300">
@@ -520,8 +520,8 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">ホテルアネシス瀬戸大橋</h4>
-                      <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition">ホテルアネシス瀬戸大橋</h4>
+                      <p className="text-xs text-stone-400 mt-1 leading-relaxed">
                         丸亀・坂出より一駅５分、ＪＲ宇多津駅より徒歩０分！香川県下で最も駅からフロントが近いホテルです。ご宿泊のお客様は朝食無料！
                       </p>
                       <div className="mt-3 text-xs text-stone-300">
@@ -564,8 +564,8 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">ホテルルートイン坂出北インター</h4>
-                      <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition">ホテルルートイン坂出北インター</h4>
+                      <p className="text-xs text-stone-400 mt-1 leading-relaxed">
                         ＷＯＷＯＷ全室で無料視聴可■VODルームシアター無料視聴可能（一般映画のみ：コンフォートルーム特典）
                       </p>
                       <div className="mt-3 text-xs text-stone-300">
@@ -608,8 +608,8 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">坂出グランドホテル</h4>
-                      <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition">坂出グランドホテル</h4>
+                      <p className="text-xs text-stone-400 mt-1 leading-relaxed">
                         懐かしいぬくもりとクラシカルな趣。心温まるひと時を。
                       </p>
                       <div className="mt-3 text-xs text-stone-300">
@@ -652,8 +652,8 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">坂出プラザホテル</h4>
-                      <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition">坂出プラザホテル</h4>
+                      <p className="text-xs text-stone-400 mt-1 leading-relaxed">
                         ★自家製朝食ビュッフェ・クチコミ4.7★楽天アワード４年連続受賞★姉妹館美肌温泉無料★坂出北インタ近
                       </p>
                       <div className="mt-3 text-xs text-stone-300">
@@ -781,19 +781,19 @@ export default function Page() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/autumn-budget-kagawa-takamatsu-station-ritsurin-udon-hotels-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「高松駅前」栗林公園紅葉＆本場讃岐うどん！3,000円台〜泊まれる格安・高コスパ宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「高松駅前」栗林公園紅葉＆本場讃岐うどん！3,000円台〜泊まれる格安・高コスパ宿5選</span>
             </a>
             <a href="/furusato-tax-art-museum-architecture-luxury-hotel-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">安藤忠雄建築や現代アートと眠る美術館ホテル＆アートリゾート×ふるさと納税厳選ガイド直島・箱根強羅・青森</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">安藤忠雄建築や現代アートと眠る美術館ホテル＆アートリゾート×ふるさと納税厳選ガイド直島・箱根強羅・青森</span>
             </a>
             <a href="/furusato-tax-shodoshima-olive-island-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">小豆島をふるさと納税でお得に旅する！エンジェルロード＆オリーブの島！瀬戸内海一望の温泉宿特集｜島宿真里・オリビアン小豆島・ベイリゾート</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">小豆島をふるさと納税でお得に旅する！エンジェルロード＆オリーブの島！瀬戸内海一望の温泉宿特集｜島宿真里・オリビアン小豆島・ベイリゾート</span>
             </a>
             <a href="/kagawa-shodoshima-olive-beach-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「香川・小豆島」エンジェルロード・寒霞渓＆オリーブ牛・海辺リゾート 厳選ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「香川・小豆島」エンジェルロード・寒霞渓＆オリーブ牛・海辺リゾート 厳選ガイド</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

@@ -657,7 +657,7 @@ export default function AmanohashidateWinterPage() {
               <div className="font-bold text-stone-900 group-hover:text-teal-700 mb-1">
                 城崎温泉の七田外湯めぐりと松葉ガニ特集
               </div>
-              <p className="text-xs text-stone-500 line-clamp-2">
+              <p className="text-xs text-stone-500">
                 浴衣と下駄で巡る外湯めぐりと津居山ガニ。大谿川の柳並木に舞う雪景色。
               </p>
             </Link>
@@ -669,7 +669,7 @@ export default function AmanohashidateWinterPage() {
               <div className="font-bold text-stone-900 group-hover:text-teal-700 mb-1">
                 鳥取・三朝温泉の高濃度ラジウム泉と松葉ガニ
               </div>
-              <p className="text-xs text-stone-500 line-clamp-2">
+              <p className="text-xs text-stone-500">
                 世界屈指のラドン温泉・三朝温泉。冬の境港直送・極上松葉ガニ会席。
               </p>
             </Link>
@@ -681,7 +681,7 @@ export default function AmanohashidateWinterPage() {
               <div className="font-bold text-stone-900 group-hover:text-teal-700 mb-1">
                 加賀温泉郷の加能ガニ解禁と九谷焼会席特集
               </div>
-              <p className="text-xs text-stone-500 line-clamp-2">
+              <p className="text-xs text-stone-500">
                 山代・山中温泉の名湯と青タグの加能ガニ・香箱ガニを名窯の器で堪能。
               </p>
             </Link>
@@ -693,7 +693,7 @@ export default function AmanohashidateWinterPage() {
               <div className="font-bold text-stone-900 group-hover:text-teal-700 mb-1">
                 京都・嵐山温泉の湯豆腐と渡月橋雪景色
               </div>
-              <p className="text-xs text-stone-500 line-clamp-2">
+              <p className="text-xs text-stone-500">
                 冬の静寂に包まれる嵐山・嵯峨野。渡月橋の雪景色と老舗湯豆腐・京会席。
               </p>
             </Link>
@@ -705,7 +705,7 @@ export default function AmanohashidateWinterPage() {
               <div className="font-bold text-stone-900 group-hover:text-teal-700 mb-1">
                 有馬温泉の金泉銀泉と六甲山夜景・神戸牛会席
               </div>
-              <p className="text-xs text-stone-500 line-clamp-2">
+              <p className="text-xs text-stone-500">
                 日本最古の名湯・有馬温泉。冬の湯冷め知らずの金泉と最高峰神戸牛会席。
               </p>
             </Link>

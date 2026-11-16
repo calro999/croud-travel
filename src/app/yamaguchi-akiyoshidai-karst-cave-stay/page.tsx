@@ -128,8 +128,8 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">一の俣温泉グランドホテル</h4>
-                      <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition">一の俣温泉グランドホテル</h4>
+                      <p className="text-xs text-stone-400 mt-1 leading-relaxed">
                         珍百景のひとつである名物の打たせ湯！まるで入る化粧水、ph10.0の温泉は県下No.1の美肌の湯
                       </p>
                       <div className="mt-3 text-xs text-stone-300">
@@ -172,8 +172,8 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">川棚グランドホテル　お多福</h4>
-                      <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition">川棚グランドホテル　お多福</h4>
+                      <p className="text-xs text-stone-400 mt-1 leading-relaxed">
                         下関観光に便利な立地。今話題の「元乃隅稲成神社」に行くのも便利
                       </p>
                       <div className="mt-3 text-xs text-stone-300">
@@ -216,8 +216,8 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">コンフォートホテル新山口</h4>
-                      <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition">コンフォートホテル新山口</h4>
+                      <p className="text-xs text-stone-400 mt-1 leading-relaxed">
                         日替わりスムージーが人気★無料朝食サービスがイチオシのコスパ最強ホテル◆小学6年生まで添い寝無料
                       </p>
                       <div className="mt-3 text-xs text-stone-300">
@@ -260,8 +260,8 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">グリーンリッチホテル山口湯田温泉</h4>
-                      <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition">グリーンリッチホテル山口湯田温泉</h4>
+                      <p className="text-xs text-stone-400 mt-1 leading-relaxed">
                         ■隣接のおんせんの森も利用可能■広いお部屋とワイドベッドで快適に宿泊■全館Wi-Fi
                       </p>
                       <div className="mt-3 text-xs text-stone-300">
@@ -346,8 +346,8 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">長門湯本温泉　原田屋旅館</h4>
-                      <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition">長門湯本温泉　原田屋旅館</h4>
+                      <p className="text-xs text-stone-400 mt-1 leading-relaxed">
                         木の香漂う和風の旅館。掛けながしの天然温泉と女将の心のこもった手料理でおもてなしいたします。
                       </p>
                       <div className="mt-3 text-xs text-stone-300">
@@ -390,8 +390,8 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">長門湯本温泉　山村別館</h4>
-                      <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition">長門湯本温泉　山村別館</h4>
+                      <p className="text-xs text-stone-400 mt-1 leading-relaxed">
                         本場フィンランドのロウリュウ式バレルサウナ！四季を観望できる洋風造りの露天風呂を備えた宿です
                       </p>
                       <div className="mt-3 text-xs text-stone-300">
@@ -434,8 +434,8 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">長門湯本温泉　楊貴妃浪漫の宿　玉仙閣</h4>
-                      <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition">長門湯本温泉　楊貴妃浪漫の宿　玉仙閣</h4>
+                      <p className="text-xs text-stone-400 mt-1 leading-relaxed">
                         ２０２４年にお食事会場と客室４室をリノベーション、ライトアップされた長門湯本温泉街まで徒歩5分！
                       </p>
                       <div className="mt-3 text-xs text-stone-300">
@@ -478,8 +478,8 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">山口県　長門湯本温泉　大谷山荘</h4>
-                      <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition">山口県　長門湯本温泉　大谷山荘</h4>
+                      <p className="text-xs text-stone-400 mt-1 leading-relaxed">
                         山間の自然に佇む明治14年創業の温泉旅館。長州藩主も湯治に訪れた長門湯本温泉で、四季折々のお寛ぎを
                       </p>
                       <div className="mt-3 text-xs text-stone-300">
@@ -564,8 +564,8 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">萩温泉郷　夕景の宿　海のゆりかご　萩小町</h4>
-                      <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition">萩温泉郷　夕景の宿　海のゆりかご　萩小町</h4>
+                      <p className="text-xs text-stone-400 mt-1 leading-relaxed">
                         【楽天トラベルアワード　10年連続受賞】～日本海の絶景が楽しめる・癒し＆遊びが盛り沢山の宿～
                       </p>
                       <div className="mt-3 text-xs text-stone-300">
@@ -608,8 +608,8 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">萩温泉郷　萩の宿・常茂恵</h4>
-                      <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition">萩温泉郷　萩の宿・常茂恵</h4>
+                      <p className="text-xs text-stone-400 mt-1 leading-relaxed">
                         ＜大正14年創業＞文化と歴史の薫る「萩」の迎賓館で癒しのひと時をお過ごしください。
                       </p>
                       <div className="mt-3 text-xs text-stone-300">
@@ -737,19 +737,19 @@ export default function Page() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/winter-tochigi-okunikko-kegon-falls-ice-yumoto-snow-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「奥日光華厳の滝ブルーアイス氷瀑と乳白色硫黄泉」2026-2027年冬の日光湯元温泉！雪見露天ととちぎ和牛名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「奥日光華厳の滝ブルーアイス氷瀑と乳白色硫黄泉」2026-2027年冬の日光湯元温泉！雪見露天ととちぎ和牛名宿5選</span>
             </a>
             <a href="/winter-yamaguchi-hofu-tenmangu-hatsumode-shunan-fugu-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">山口・防府＆周南・下松 日本最初の天神「防府天満宮」新春初詣と 延縄発祥の地・周南徳山の「冬とらふぐ・笠戸ひらめ」名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">山口・防府＆周南・下松 日本最初の天神「防府天満宮」新春初詣と 延縄発祥の地・周南徳山の「冬とらふぐ・笠戸ひらめ」名宿5選</span>
             </a>
             <a href="/winter-yamaguchi-nagato-yumoto-onsen-fugu-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12月長門湯本温泉の冬情緒と名湯】 音信川の冬灯りと開湯600年美肌泉・本場下関直送本とらふぐ＆山口県産和牛の宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">【11・12月長門湯本温泉の冬情緒と名湯】 音信川の冬灯りと開湯600年美肌泉・本場下関直送本とらふぐ＆山口県産和牛の宿5選</span>
             </a>
             <a href="/yamaguchi-hagi-nagato-yumoto-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「山口・萩＆長門湯本温泉」維新の城下町・川床テラス＆元乃隅神社・瓦そば宿 厳選ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「山口・萩＆長門湯本温泉」維新の城下町・川床テラス＆元乃隅神社・瓦そば宿 厳選ガイド</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

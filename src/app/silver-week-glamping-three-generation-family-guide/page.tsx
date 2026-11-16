@@ -320,9 +320,9 @@ export default function SilverWeekGlampingThreeGenerationFamilyPage() {
                 </div>
 
                 <div className="p-5 sm:p-6 space-y-3">
-                  <h3 className="font-bold text-base sm:text-lg text-stone-900 leading-snug line-clamp-2">{hotel.hotelName}</h3>
+                  <h3 className="font-bold text-base sm:text-lg text-stone-900 leading-snug">{hotel.hotelName}</h3>
 
-                  <p className="text-xs text-stone-600 leading-relaxed line-clamp-3">
+                  <p className="text-xs text-stone-600 leading-relaxed">
                     {hotel.hotelSpecial || "3世代家族でゆったり過ごせる充実のアウトドアリゾート。温泉と広々ヴィラで快適な休日をお過ごしいただけます。"}
                   </p>
 
@@ -404,7 +404,7 @@ export default function SilverWeekGlampingThreeGenerationFamilyPage() {
             <span className="text-[10px] font-bold text-teal-800 bg-teal-100/70 px-2 py-0.5 rounded-full inline-block mb-1.5">
               関東・温泉旅館
             </span>
-            <div className="font-bold text-xs sm:text-sm text-stone-900 group-hover:text-teal-700 transition line-clamp-2">
+            <div className="font-bold text-xs sm:text-sm text-stone-900 group-hover:text-teal-700 transition">
               【関東】赤ちゃん・子連れに優しい温泉旅館特集！部屋食＆家族風呂完備の安心ステイ
             </div>
           </Link>
@@ -416,7 +416,7 @@ export default function SilverWeekGlampingThreeGenerationFamilyPage() {
             <span className="text-[10px] font-bold text-teal-800 bg-teal-100/70 px-2 py-0.5 rounded-full inline-block mb-1.5">
               家族旅行モデルコース
             </span>
-            <div className="font-bold text-xs sm:text-sm text-stone-900 group-hover:text-teal-700 transition line-clamp-2">
+            <div className="font-bold text-xs sm:text-sm text-stone-900 group-hover:text-teal-700 transition">
               【子連れ・家族で行く金沢1泊2日】兼六園・近江町市場・21世紀美術館を満喫する王道プラン
             </div>
           </Link>

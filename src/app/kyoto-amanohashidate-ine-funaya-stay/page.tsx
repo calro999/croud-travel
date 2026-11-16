@@ -128,8 +128,8 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">天橋立温泉　料理旅館　鳥喜</h4>
-                      <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition">天橋立温泉　料理旅館　鳥喜</h4>
+                      <p className="text-xs text-stone-400 mt-1 leading-relaxed">
                         「一度食べたら本物だとわかる」天然にこだわる四季折々の旨いもんを堪能する天橋立の料理旅館
                       </p>
                       <div className="mt-3 text-xs text-stone-300">
@@ -172,8 +172,8 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">天橋立荘</h4>
-                      <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition">天橋立荘</h4>
+                      <p className="text-xs text-stone-400 mt-1 leading-relaxed">
                         日本三景天橋立の奥座敷、あたたかいおもてなしと漁港直送の新鮮素材を使った海鮮料理自慢の宿
                       </p>
                       <div className="mt-3 text-xs text-stone-300">
@@ -216,8 +216,8 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">宮津温泉　料理旅館　茶六別館</h4>
-                      <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition">宮津温泉　料理旅館　茶六別館</h4>
+                      <p className="text-xs text-stone-400 mt-1 leading-relaxed">
                         天橋立を望む数奇屋造りの料理宿。春夏には岩牡蠣など丹後の海の幸を生かした京風会席をご堪能下さい。
                       </p>
                       <div className="mt-3 text-xs text-stone-300">
@@ -260,8 +260,8 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">夕日ヶ浦温泉　丹後・食の宿　みのり旅館</h4>
-                      <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition">夕日ヶ浦温泉　丹後・食の宿　みのり旅館</h4>
+                      <p className="text-xs text-stone-400 mt-1 leading-relaxed">
                         【カニの街・夕日ヶ浦】全12室の静寂な湯宿。夕日ヶ浦の天然温泉と極上の蟹料理を個室食で堪能
                       </p>
                       <div className="mt-3 text-xs text-stone-300">
@@ -346,8 +346,8 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">旅館　浜乃屋</h4>
-                      <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition">旅館　浜乃屋</h4>
+                      <p className="text-xs text-stone-400 mt-1 leading-relaxed">
                         京丹後・夕日ヶ浦の旅館です。別館のオーシャンビュー客室や露天風呂が自慢！波音を聴きながらゆっくりと。
                       </p>
                       <div className="mt-3 text-xs text-stone-300">
@@ -390,8 +390,8 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">海辺の料理旅館　浜の路　臨江庵</h4>
-                      <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition">海辺の料理旅館　浜の路　臨江庵</h4>
+                      <p className="text-xs text-stone-400 mt-1 leading-relaxed">
                         【1日5組限定◆3つの貸切温泉＆個室食事処】個室お食事処で食べる旬の味覚会席を堪能する料理旅館
                       </p>
                       <div className="mt-3 text-xs text-stone-300">
@@ -434,8 +434,8 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">喜久屋旅館</h4>
-                      <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition">喜久屋旅館</h4>
+                      <p className="text-xs text-stone-400 mt-1 leading-relaxed">
                         創業明治３５年、丹後の奥座敷に佇む歴史ある旅館で安らぎのひとときをお過ごしください。
                       </p>
                       <div className="mt-3 text-xs text-stone-300">
@@ -478,8 +478,8 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">指宿旅館　里のやど　川尻</h4>
-                      <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition">指宿旅館　里のやど　川尻</h4>
+                      <p className="text-xs text-stone-400 mt-1 leading-relaxed">
                         天橋立の海水浴場まで徒歩数分！家族で営む古くて小さな温泉民宿です！＜ペット宿泊OK＞
                       </p>
                       <div className="mt-3 text-xs text-stone-300">
@@ -564,8 +564,8 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">丹後神の温泉　旅館　すずらん</h4>
-                      <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition">丹後神の温泉　旅館　すずらん</h4>
+                      <p className="text-xs text-stone-400 mt-1 leading-relaxed">
                         【クチコミ★4.6】カニ料理が自慢♪丹後弁のおもてなしと温泉に大満足！！
                       </p>
                       <div className="mt-3 text-xs text-stone-300">
@@ -608,8 +608,8 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">夕日ヶ浦温泉　丹後・食の宿　みのり旅館</h4>
-                      <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition">夕日ヶ浦温泉　丹後・食の宿　みのり旅館</h4>
+                      <p className="text-xs text-stone-400 mt-1 leading-relaxed">
                         【カニの街・夕日ヶ浦】全12室の静寂な湯宿。夕日ヶ浦の天然温泉と極上の蟹料理を個室食で堪能
                       </p>
                       <div className="mt-3 text-xs text-stone-300">
@@ -652,8 +652,8 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">城崎温泉　医食同源の宿　かに庵</h4>
-                      <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition">城崎温泉　医食同源の宿　かに庵</h4>
+                      <p className="text-xs text-stone-400 mt-1 leading-relaxed">
                         但馬牛や松葉かになど、地産地消を基本にグルメと健康を両立した6室の宿でございます。
                       </p>
                       <div className="mt-3 text-xs text-stone-300">
@@ -696,8 +696,8 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">丹後旅の宿　万助楼（まんすけろう）</h4>
-                      <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition">丹後旅の宿　万助楼（まんすけろう）</h4>
+                      <p className="text-xs text-stone-400 mt-1 leading-relaxed">
                         まるで竜宮城のようなロビー◆全７室がオーシャンビュー、温泉風呂付客室でごゆるりと。
                       </p>
                       <div className="mt-3 text-xs text-stone-300">
@@ -825,19 +825,19 @@ export default function Page() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/winter-hyogo-tatsuno-murotsu-oyster-shinmaiko-sunset-aioi-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【播磨灘の初冬の味覚・室津牡蠣解禁と小京都たつの白壁散策】2026-2027年11-12月の兵庫・西播磨！加熱しても縮まない極上室津かき尽くしと新舞子海岸の絶景夕日・播磨灘オーシャ</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">【播磨灘の初冬の味覚・室津牡蠣解禁と小京都たつの白壁散策】2026-2027年11-12月の兵庫・西播磨！加熱しても縮まない極上室津かき尽くしと新舞子海岸の絶景夕日・播磨灘オーシャ</span>
             </a>
             <a href="/winter-kochi-aki-noradokei-muroto-daruma-sunrise-kinmedai-akagyu-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「土佐の小京都・安芸武家屋敷と室戸岬冬のだるま朝日」2026-2027年冬の高知・安芸＆室戸！脂の乗った室戸キンメダイと土佐あかうし名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「土佐の小京都・安芸武家屋敷と室戸岬冬のだるま朝日」2026-2027年冬の高知・安芸＆室戸！脂の乗った室戸キンメダイと土佐あかうし名宿5選</span>
             </a>
             <a href="/winter-kyoto-arashiyama-onsen-yudofu-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12月冬の嵐山と静寂の名刹】 嵯峨野の竹林雪景色と嵐山温泉・熱々湯豆腐宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">【11・12月冬の嵐山と静寂の名刹】 嵯峨野の竹林雪景色と嵐山温泉・熱々湯豆腐宿5選</span>
             </a>
             <a href="/winter-kyoto-heian-jingu-hatsumode-nanzenji-okazaki-yudofu-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">平安神宮＆南禅寺・岡崎！ 初詣と神苑雪景色・水路閣の冬情趣と名物湯豆腐・京懐石の名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">平安神宮＆南禅寺・岡崎！ 初詣と神苑雪景色・水路閣の冬情趣と名物湯豆腐・京懐石の名宿5選</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

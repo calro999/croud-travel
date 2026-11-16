@@ -591,7 +591,7 @@ export default function NaraHasederaOomiwaPage() {
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-purple-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-purple-700 font-bold text-xs block mb-1">奈良・洞川温泉</span>
-              <span className="text-stone-900 font-bold group-hover:text-purple-800 transition-colors line-clamp-2">
+              <span className="text-stone-900 font-bold group-hover:text-purple-800 transition-colors">
                 ノスタルジックな行者宿の雪景色と名物極上ぼたん鍋名宿
               </span>
             </Link>
@@ -601,7 +601,7 @@ export default function NaraHasederaOomiwaPage() {
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-purple-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-purple-700 font-bold text-xs block mb-1">和歌山・高野山</span>
-              <span className="text-stone-900 font-bold group-hover:text-purple-800 transition-colors line-clamp-2">
+              <span className="text-stone-900 font-bold group-hover:text-purple-800 transition-colors">
                 世界遺産高野山の白銀壇上伽藍＆宿坊阿字観体験・精進料理名宿
               </span>
             </Link>
@@ -611,7 +611,7 @@ export default function NaraHasederaOomiwaPage() {
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-purple-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-purple-700 font-bold text-xs block mb-1">三重・伊勢神宮</span>
-              <span className="text-stone-900 font-bold group-hover:text-purple-800 transition-colors line-clamp-2">
+              <span className="text-stone-900 font-bold group-hover:text-purple-800 transition-colors">
                 新春の伊勢神宮初詣とおかげ横丁・伊勢海老＆松阪牛会席名宿
               </span>
             </Link>
@@ -621,7 +621,7 @@ export default function NaraHasederaOomiwaPage() {
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-purple-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-purple-700 font-bold text-xs block mb-1">京都・貴船＆鞍馬</span>
-              <span className="text-stone-900 font-bold group-hover:text-purple-800 transition-colors line-clamp-2">
+              <span className="text-stone-900 font-bold group-hover:text-purple-800 transition-colors">
                 貴船神社積雪日限定ライトアップと本場ぼたん鍋名宿
               </span>
             </Link>
@@ -631,7 +631,7 @@ export default function NaraHasederaOomiwaPage() {
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-purple-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-purple-700 font-bold text-xs block mb-1">滋賀・近江八幡＆彦根</span>
-              <span className="text-stone-900 font-bold group-hover:text-purple-800 transition-colors line-clamp-2">
+              <span className="text-stone-900 font-bold group-hover:text-purple-800 transition-colors">
                 国宝彦根城雪景色と八幡堀水郷・極上近江牛すき焼き名宿
               </span>
             </Link>
@@ -641,7 +641,7 @@ export default function NaraHasederaOomiwaPage() {
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-purple-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-purple-700 font-bold text-xs block mb-1">岡山・倉敷＆吉備津</span>
-              <span className="text-stone-900 font-bold group-hover:text-purple-800 transition-colors line-clamp-2">
+              <span className="text-stone-900 font-bold group-hover:text-purple-800 transition-colors">
                 白壁倉敷美観地区冬夜景と吉備津神社初詣・千屋牛会席名宿
               </span>
             </Link>

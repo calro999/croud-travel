@@ -128,8 +128,8 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">ベイリゾートホテル　鳴門海月</h4>
-                      <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition">ベイリゾートホテル　鳴門海月</h4>
+                      <p className="text-xs text-stone-400 mt-1 leading-relaxed">
                         部屋食で鳴門の会席を♪鳴門うず潮に一番近い景色に感動の旅館
                       </p>
                       <div className="mt-3 text-xs text-stone-300">
@@ -172,8 +172,8 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">サンセットビューホテル　けひの海～うずしお温泉～　＜淡路島＞</h4>
-                      <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition">サンセットビューホテル　けひの海～うずしお温泉～　＜淡路島＞</h4>
+                      <p className="text-xs text-stone-400 mt-1 leading-relaxed">
                         夕日百選に選ばれる慶野松原に臨む海辺のリゾートホテル。夕食は淡路島の素材を活かした自慢の和食会席。
                       </p>
                       <div className="mt-3 text-xs text-stone-300">
@@ -216,8 +216,8 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">アオアヲナルトリゾート</h4>
-                      <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition">アオアヲナルトリゾート</h4>
+                      <p className="text-xs text-stone-400 mt-1 leading-relaxed">
                         温泉もお部屋もオーシャンビュー！瀬戸内海国立公園内に位置する南欧風リゾートホテルです。
                       </p>
                       <div className="mt-3 text-xs text-stone-300">
@@ -260,8 +260,8 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">グランドメルキュール淡路島リゾート＆スパ</h4>
-                      <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition">グランドメルキュール淡路島リゾート＆スパ</h4>
+                      <p className="text-xs text-stone-400 mt-1 leading-relaxed">
                         【オールインクルーシブ】海と空を愉しむ！淡路島の癒しの絶景リゾートで上質な滞在を
                       </p>
                       <div className="mt-3 text-xs text-stone-300">
@@ -346,8 +346,8 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">新祖谷温泉　ホテルかずら橋</h4>
-                      <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition">新祖谷温泉　ホテルかずら橋</h4>
+                      <p className="text-xs text-stone-400 mt-1 leading-relaxed">
                         ケーブルカーで登る天空露天風呂と囲炉裏の宿。渓谷の絶景と郷土料理、温かなおもてなしでお迎えいたします
                       </p>
                       <div className="mt-3 text-xs text-stone-300">
@@ -432,8 +432,8 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">祖谷渓温泉　ホテル秘境の湯</h4>
-                      <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition">祖谷渓温泉　ホテル秘境の湯</h4>
+                      <p className="text-xs text-stone-400 mt-1 leading-relaxed">
                         静寂な空間に古え時がよみがえる…平家伝説の里。落人伝説の地『祖谷渓』は歴史の香り漂う秘湯です。
                       </p>
                       <div className="mt-3 text-xs text-stone-300">
@@ -476,8 +476,8 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">新祖谷温泉　ホテルかずら橋</h4>
-                      <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition">新祖谷温泉　ホテルかずら橋</h4>
+                      <p className="text-xs text-stone-400 mt-1 leading-relaxed">
                         ケーブルカーで登る天空露天風呂と囲炉裏の宿。渓谷の絶景と郷土料理、温かなおもてなしでお迎えいたします
                       </p>
                       <div className="mt-3 text-xs text-stone-300">
@@ -520,8 +520,8 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">和の宿　ホテル祖谷温泉</h4>
-                      <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition">和の宿　ホテル祖谷温泉</h4>
+                      <p className="text-xs text-stone-400 mt-1 leading-relaxed">
                         ケーブルカーで行く谷底の源泉掛け流しの露天風呂
                       </p>
                       <div className="mt-3 text-xs text-stone-300">
@@ -564,8 +564,8 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">スーパーホテル徳島・小松島天然温泉</h4>
-                      <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">オープン！！駐車場87台無料！男女別天然温泉「金長の湯」★焼立てパン健康朝食無料
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition">スーパーホテル徳島・小松島天然温泉</h4>
+                      <p className="text-xs text-stone-400 mt-1 leading-relaxed">オープン！！駐車場87台無料！男女別天然温泉「金長の湯」★焼立てパン健康朝食無料
                       </p>
                       <div className="mt-3 text-xs text-stone-300">
                         📍 徳島県小松島市小松島町字若井崎10-6
@@ -692,19 +692,19 @@ export default function Page() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/furusato-tax-iya-valley-autumn-leaves-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">祖谷のかずら橋の紅葉絶景＆日本三大秘境・祖谷温泉郷！ケーブルカー露天風呂宿×ふるさと納税厳選ガイド徳島</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">祖谷のかずら橋の紅葉絶景＆日本三大秘境・祖谷温泉郷！ケーブルカー露天風呂宿×ふるさと納税厳選ガイド徳島</span>
             </a>
             <a href="/hyogo-awaji-naruto-whirlpool-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「兵庫・淡路島＆鳴門海峡」うずしおクルーズ・淡路牛＆玉ねぎ・オーシャンビュー宿 厳選ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「兵庫・淡路島＆鳴門海峡」うずしおクルーズ・淡路牛＆玉ねぎ・オーシャンビュー宿 厳選ガイド</span>
             </a>
             <a href="/super-panoramic-canyon-bridge-walk-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「日本三大秘境のスリルと絶景（祖谷のかずら橋＆断崖ケーブルカー露天の秘境宿5選）」日本三大秘境のスリルと絶景！祖谷のかずら橋＆断崖ケーブルカー露天の秘境宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「日本三大秘境のスリルと絶景（祖谷のかずら橋＆断崖ケーブルカー露天の秘境宿5選）」日本三大秘境のスリルと絶景！祖谷のかずら橋＆断崖ケーブルカー露天の秘境宿5選</span>
             </a>
             <a href="/tokushima-solo-business-awataisen-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「徳島出張＆眉山ひとり旅」徳島駅直結・リバーサイド天然温泉・阿波尾鶏＆徳島ラーメン！四国の東玄関で癒やされる極上ホテル 厳選3選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「徳島出張＆眉山ひとり旅」徳島駅直結・リバーサイド天然温泉・阿波尾鶏＆徳島ラーメン！四国の東玄関で癒やされる極上ホテル 厳選3選</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

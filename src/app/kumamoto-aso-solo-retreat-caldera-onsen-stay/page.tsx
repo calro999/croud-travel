@@ -369,19 +369,19 @@ export default function ArticlePage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/kumamoto-kurokawa-autumn-solo-retreat-onsen-hopping-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【10月・11月秋の熊本黒川温泉ひとり旅・田の原川の紅葉と入湯手形めぐりおこもり】雑木林の秘湯露天・囲炉裏会席・肥後牛炭火焼き！阿蘇山麓リトリート厳選3宿！雑木林の秘湯露天・囲炉裏</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">【10月・11月秋の熊本黒川温泉ひとり旅・田の原川の紅葉と入湯手形めぐりおこもり】雑木林の秘湯露天・囲炉裏会席・肥後牛炭火焼き！阿蘇山麓リトリート厳選3宿！雑木林の秘湯露天・囲炉裏</span>
             </a>
             <a href="/kumamoto-solo-business-skyspa-gourmet-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「熊本出張＆城下町ひとり旅」最上階展望スカイスパ・天然温泉・熊本城ビュー！名物馬刺しを満喫する極上宿 厳選3選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「熊本出張＆城下町ひとり旅」最上階展望スカイスパ・天然温泉・熊本城ビュー！名物馬刺しを満喫する極上宿 厳選3選</span>
             </a>
             <a href="/scenic-open-air-trolley-train-resort-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「絶景観光トロッコ列車＆オープン客車」黒部峡谷・嵯峨野・南阿蘇＆名湯 厳選ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「絶景観光トロッコ列車＆オープン客車」黒部峡谷・嵯峨野・南阿蘇＆名湯 厳選ガイド</span>
             </a>
             <a href="/spring-kumamoto-sweet-melon-kaiseki-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「糖度際立つ春メロン（肥後グリーン会席＆阿蘇カルデラ大パノラマ温泉宿5選）」糖度際立つ春メロン！肥後グリーン会席＆阿蘇カルデラ大パノラマ温泉宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「糖度際立つ春メロン（肥後グリーン会席＆阿蘇カルデラ大パノラマ温泉宿5選）」糖度際立つ春メロン！肥後グリーン会席＆阿蘇カルデラ大パノラマ温泉宿5選</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

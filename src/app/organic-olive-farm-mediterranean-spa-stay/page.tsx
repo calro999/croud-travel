@@ -630,19 +630,19 @@ export default function FeatureDetailPage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/kagawa-kotohira-solo-retreat-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「こんぴら温泉郷ひとり旅・金刀比羅宮門前おこもり」石段街を望む展望露天・美肌の名湯・讃岐牛＆手打ちうどん！四国随一の霊峰リトリート厳選3宿</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「こんぴら温泉郷ひとり旅・金刀比羅宮門前おこもり」石段街を望む展望露天・美肌の名湯・讃岐牛＆手打ちうどん！四国随一の霊峰リトリート厳選3宿</span>
             </a>
             <a href="/naoshima-setouchi-solo-art-island-retreat-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「直島・瀬戸内アートひとり旅」美術館に泊まる至高体験・瀬戸内海パノラマ・本場讃岐うどん！島と港でととのう厳選3宿</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「直島・瀬戸内アートひとり旅」美術館に泊まる至高体験・瀬戸内海パノラマ・本場讃岐うどん！島と港でととのう厳選3宿</span>
             </a>
             <a href="/traditional-sanuki-udon-gourmet-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「本場讃岐うどん巡礼（こんぴら温泉郷＆香川グルメを堪能する極上名宿5選）」本場讃岐うどん巡礼！こんぴら温泉郷＆香川グルメを堪能する極上名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「本場讃岐うどん巡礼（こんぴら温泉郷＆香川グルメを堪能する極上名宿5選）」本場讃岐うどん巡礼！こんぴら温泉郷＆香川グルメを堪能する極上名宿5選</span>
             </a>
             <a href="/winter-kagawa-kotohira-onsen-konpira-olive-beef-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12月ことひら温泉郷のこんぴら参りと讃岐富士冬絶景】初冬の金刀比羅宮門前名湯・讃岐オリーブ牛ステーキ＆本場手打ち讃岐うどん会席の宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">【11・12月ことひら温泉郷のこんぴら参りと讃岐富士冬絶景】初冬の金刀比羅宮門前名湯・讃岐オリーブ牛ステーキ＆本場手打ち讃岐うどん会席の宿5選</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

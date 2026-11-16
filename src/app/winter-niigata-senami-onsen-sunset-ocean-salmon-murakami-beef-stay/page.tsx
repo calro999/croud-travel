@@ -611,7 +611,7 @@ export default function NiigataSenamiWinterFeature() {
             >
               <span className="px-2 py-0.5 rounded bg-emerald-500/40 text-emerald-200 font-bold text-[10px]">弥彦・岩室名物黒湯</span>
               <h3 className="font-bold text-white text-sm">弥彦＆岩室温泉・彌彦神社初冬参詣と寒ブリ・のどぐろ会席の宿</h3>
-              <p className="text-slate-300 text-[11px] line-clamp-2">開湯300年名物黒湯と越後一宮参拝、日本海の寒ブリ・のどぐろ。</p>
+              <p className="text-slate-300 text-[11px]">開湯300年名物黒湯と越後一宮参拝、日本海の寒ブリ・のどぐろ。</p>
             </Link>
 
             <Link 
@@ -620,7 +620,7 @@ export default function NiigataSenamiWinterFeature() {
             >
               <span className="px-2 py-0.5 rounded bg-green-500/40 text-green-200 font-bold text-[10px]">月岡・エメラルド美肌湯</span>
               <h3 className="font-bold text-white text-sm">月岡温泉・エメラルドグリーンの硫黄泉と越後美食の宿</h3>
-              <p className="text-slate-300 text-[11px] line-clamp-2">国内随一の硫黄含有量を誇る美肌湯と新潟銘酒・コシヒカリ。</p>
+              <p className="text-slate-300 text-[11px]">国内随一の硫黄含有量を誇る美肌湯と新潟銘酒・コシヒカリ。</p>
             </Link>
 
             <Link 
@@ -629,7 +629,7 @@ export default function NiigataSenamiWinterFeature() {
             >
               <span className="px-2 py-0.5 rounded bg-sky-500/40 text-sky-200 font-bold text-[10px]">氷見・本場寒ブリ</span>
               <h3 className="font-bold text-white text-sm">氷見温泉郷・富山湾寒ブリ宣言と立山連峰雪景色・氷見牛の宿</h3>
-              <p className="text-slate-300 text-[11px] line-clamp-2">富山湾越しに冠雪の立山連峰を望む絶景露天と本場氷見寒ブリ。</p>
+              <p className="text-slate-300 text-[11px]">富山湾越しに冠雪の立山連峰を望む絶景露天と本場氷見寒ブリ。</p>
             </Link>
 
             <Link 
@@ -638,7 +638,7 @@ export default function NiigataSenamiWinterFeature() {
             >
               <span className="px-2 py-0.5 rounded bg-amber-500/40 text-amber-200 font-bold text-[10px]">越後湯沢・雪国情緒</span>
               <h3 className="font-bold text-white text-sm">越後湯沢温泉・川端康成雪国の世界と日本酒・魚沼コシヒカリの宿</h3>
-              <p className="text-slate-300 text-[11px] line-clamp-2">新幹線直結の白銀の温泉街で楽しむ越後地酒利き酒と名湯巡り。</p>
+              <p className="text-slate-300 text-[11px]">新幹線直結の白銀の温泉街で楽しむ越後地酒利き酒と名湯巡り。</p>
             </Link>
           
       <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">

@@ -311,7 +311,7 @@ export default function FeaturePage() {
 
                     <div className="bg-amber-50/70 border border-amber-200/60 rounded-lg p-3 text-xs text-stone-700 space-y-1">
                       <span className="font-bold text-amber-900 block">宿泊者のクチコミ・評判抜粋</span>
-                      <p className="line-clamp-2 italic text-stone-600">「筑波山のふもとにあり、非常によい場所だったと思います。夕食、朝食ともに、良好。年寄りが1人おりましたが、おいしくいただき、たいそう喜んでおりました。温泉は私はよかったのですが、年寄にとっては、」</p>
+                      <p className="italic text-stone-600">「筑波山のふもとにあり、非常によい場所だったと思います。夕食、朝食ともに、良好。年寄りが1人おりましたが、おいしくいただき、たいそう喜んでおりました。温泉は私はよかったのですが、年寄にとっては、」</p>
                     </div>
                   </div>
                 </div>
@@ -384,7 +384,7 @@ export default function FeaturePage() {
 
                     <div className="bg-amber-50/70 border border-amber-200/60 rounded-lg p-3 text-xs text-stone-700 space-y-1">
                       <span className="font-bold text-amber-900 block">宿泊者のクチコミ・評判抜粋</span>
-                      <p className="line-clamp-2 italic text-stone-600">「温泉からの夜景が絶景。だが、今回天候がイマイチだった」</p>
+                      <p className="italic text-stone-600">「温泉からの夜景が絶景。だが、今回天候がイマイチだった」</p>
                     </div>
                   </div>
                 </div>
@@ -457,7 +457,7 @@ export default function FeaturePage() {
 
                     <div className="bg-amber-50/70 border border-amber-200/60 rounded-lg p-3 text-xs text-stone-700 space-y-1">
                       <span className="font-bold text-amber-900 block">宿泊者のクチコミ・評判抜粋</span>
-                      <p className="line-clamp-2 italic text-stone-600">「毎回広々とした部屋で居心地よく過ごせる何度か利用させていただいていますが、毎回部屋も広く、居心地良く滞在させて頂いています。ありがとうございました」</p>
+                      <p className="italic text-stone-600">「毎回広々とした部屋で居心地よく過ごせる何度か利用させていただいていますが、毎回部屋も広く、居心地良く滞在させて頂いています。ありがとうございました」</p>
                     </div>
                   </div>
                 </div>
@@ -530,7 +530,7 @@ export default function FeaturePage() {
 
                     <div className="bg-amber-50/70 border border-amber-200/60 rounded-lg p-3 text-xs text-stone-700 space-y-1">
                       <span className="font-bold text-amber-900 block">宿泊者のクチコミ・評判抜粋</span>
-                      <p className="line-clamp-2 italic text-stone-600">「前回よりも朝食バイキングが良くなった朝食バイキングが前回より良かったと思いました」</p>
+                      <p className="italic text-stone-600">「前回よりも朝食バイキングが良くなった朝食バイキングが前回より良かったと思いました」</p>
                     </div>
                   </div>
                 </div>
@@ -603,7 +603,7 @@ export default function FeaturePage() {
 
                     <div className="bg-amber-50/70 border border-amber-200/60 rounded-lg p-3 text-xs text-stone-700 space-y-1">
                       <span className="font-bold text-amber-900 block">宿泊者のクチコミ・評判抜粋</span>
-                      <p className="line-clamp-2 italic text-stone-600">「丁寧な接客と清掃で快適な連泊に別館への宿泊でしたが、順路の説明時も新設に対応していただきました。また、連泊をさせていただきましたが、部屋の清掃及びベッドメーキングも丁寧にしていただきました」</p>
+                      <p className="italic text-stone-600">「丁寧な接客と清掃で快適な連泊に別館への宿泊でしたが、順路の説明時も新設に対応していただきました。また、連泊をさせていただきましたが、部屋の清掃及びベッドメーキングも丁寧にしていただきました」</p>
                     </div>
                   </div>
                 </div>

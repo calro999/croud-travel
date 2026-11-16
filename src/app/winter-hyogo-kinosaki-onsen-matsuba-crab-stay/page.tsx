@@ -396,7 +396,7 @@ export default function KinosakiWinterPage() {
                       <Star className="w-3.5 h-3.5 fill-cyan-400 text-cyan-400" />
                       評価 {hotel.rating} // 5.0
                     </p>
-                    <p className="text-[11px] text-stone-300 line-clamp-1">{hotel.access}</p>
+                    <p className="text-[11px] text-stone-300">{hotel.access}</p>
                   </div>
                 </div>
 
@@ -648,7 +648,7 @@ export default function KinosakiWinterPage() {
             >
               <span className="text-[11px] font-bold text-amber-800 bg-amber-100/80 px-2 py-0.5 rounded">山陰カニ名湯</span>
               <h3 className="font-bold text-stone-900 text-sm group-hover:text-amber-900 transition-colors">鳥取松葉ガニと世界屈指の三朝ラジウム温泉宿</h3>
-              <p className="text-xs text-stone-500 line-clamp-2">
+              <p className="text-xs text-stone-500">
                 境港直送の活松葉ガニフルコースと高濃度ラジウム泉の奇跡の治癒力。
               </p>
             </Link>
@@ -659,7 +659,7 @@ export default function KinosakiWinterPage() {
             >
               <span className="text-[11px] font-bold text-rose-800 bg-rose-100/80 px-2 py-0.5 rounded">幻の最高峰ガニ</span>
               <h3 className="font-bold text-stone-900 text-sm group-hover:text-rose-900 transition-colors">越前ガニ・間人ガニ（たいざがに）極上高級宿</h3>
-              <p className="text-xs text-stone-500 line-clamp-2">
+              <p className="text-xs text-stone-500">
                 黄色いタグの越前ガニと幻の間人ガニを味わう一生に一度の贅沢ステイ。
               </p>
             </Link>
@@ -670,7 +670,7 @@ export default function KinosakiWinterPage() {
             >
               <span className="text-[11px] font-bold text-teal-800 bg-teal-100/80 px-2 py-0.5 rounded">幻の高級魚鍋</span>
               <h3 className="font-bold text-stone-900 text-sm group-hover:text-teal-900 transition-colors">和歌山白浜・日高の本クエ鍋と絶景露天風呂宿</h3>
-              <p className="text-xs text-stone-500 line-clamp-2">
+              <p className="text-xs text-stone-500">
                 冬の南紀が誇る幻の高級魚クエ！ぷりぷりゼラチン質と濃厚クエ鍋。
               </p>
             </Link>

@@ -153,8 +153,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     三重県三重郡菰野町菰野8585
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">湯の山温泉　旅館寿亭</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">湯の山温泉　旅館寿亭</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     選べる6つの貸切風呂と部屋食で味わう三重の旬。大切な人と気兼ねなく過ごす湯の山温泉の老舗旅館
                   </p>
                   
@@ -197,8 +197,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     三重県三重郡菰野町菰野8520-1
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">湯の山温泉　鹿の湯ホテル</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">湯の山温泉　鹿の湯ホテル</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     露天風呂付き客室・貸切風呂・無料スイーツカフェが人気■女性に色浴衣無料サービス■長島・鈴鹿近い温泉地
                   </p>
                   
@@ -241,8 +241,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     三重県鳥羽市相差町1471 ◆千鳥ヶ浜沿い高台／伊勢神宮３５分
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">リゾートヒルズ豊浜蒼空の風　～ＳＯＲＡ　ｎｏ　ＫＡＺＥ～</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">リゾートヒルズ豊浜蒼空の風　～ＳＯＲＡ　ｎｏ　ＫＡＺＥ～</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     全プラン舟盛付！ハンモックやフィッシュ足湯で笑顔いっぱいの思い出を♪温泉を満喫できるアットホームな宿
                   </p>
                   
@@ -298,8 +298,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     滋賀県長浜市公園町4-25
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">びわ湖畔　おいしい湯の宿　長浜太閤温泉　浜湖月</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">びわ湖畔　おいしい湯の宿　長浜太閤温泉　浜湖月</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     琵琶湖を眺め、新鮮な湖国の幸を活かした料理自慢
                   </p>
                   
@@ -342,8 +342,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     滋賀県彦根市松原町網代口1377
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">びわ湖畔　味覚の宿　双葉荘</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">びわ湖畔　味覚の宿　双葉荘</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     びわ湖まで徒歩1分。 レイクビューの客室で美しい夕日と料理を堪能！
                   </p>
                   
@@ -399,8 +399,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     山形県米沢市小野川町2436
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">小野川温泉　湯杜　匠味庵　山川　ｙｕｍｏｒｉ－ｓｈｏｍｉａｎ　ＹＡＭＡＫＡＷＡ</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">小野川温泉　湯杜　匠味庵　山川　ｙｕｍｏｒｉ－ｓｈｏｍｉａｎ　ＹＡＭＡＫＡＷＡ</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     ～名湯一門　高見屋～★ 湯×味 ★ 「美人の湯」で癒されて、ここでしか味わえない美食の時間♪
                   </p>
                   

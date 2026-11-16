@@ -510,19 +510,19 @@ export default function FurusatoIseshimaAutumnIseLobsterStayPage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/traditional-aichi-seto-ware-pottery-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">瀬戸焼とうなぎ会席：伝統のやきもの美と三河一色産うなぎ！愛知・蒲郡・南知多の名湯宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">瀬戸焼とうなぎ会席：伝統のやきもの美と三河一色産うなぎ！愛知・蒲郡・南知多の名湯宿5選</span>
             </a>
             <a href="/winter-aichi-okazaki-castle-iga-hachimangu-hatsumode-hatcho-miso-mikawagyu-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">徳川家康生誕の城下町・岡崎城雪景色と伊賀八幡宮新春初詣：2026-2027年冬の愛知・岡崎！本場八丁味噌鍋と三河牛会席名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">徳川家康生誕の城下町・岡崎城雪景色と伊賀八幡宮新春初詣：2026-2027年冬の愛知・岡崎！本場八丁味噌鍋と三河牛会席名宿5選</span>
             </a>
             <a href="/autumn-budget-aichi-nagoya-station-tokugawaen-hitsumabushi-hotels-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">名古屋駅前：徳川園錦秋ライトアップ＆名物ひつまぶし・味噌カツ！3,000円台〜泊まれる格安ホテル5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">名古屋駅前：徳川園錦秋ライトアップ＆名物ひつまぶし・味噌カツ！3,000円台〜泊まれる格安ホテル5選</span>
             </a>
             <a href="/silver-week-glamping-tokai-shizuoka-aichi-guide/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">東海シルバーウィーク グランピング：静岡・伊豆・愛知おすすめ！海鮮BBQ＆みかん狩り体験</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">東海シルバーウィーク グランピング：静岡・伊豆・愛知おすすめ！海鮮BBQ＆みかん狩り体験</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

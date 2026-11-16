@@ -361,7 +361,7 @@ export default function NiigataSadoIslandPage() {
                     </div>
 
                     <div className="pt-3 border-t border-stone-100 flex items-center justify-between">
-                      <div className="text-[11px] text-stone-500 truncate max-w-[200px]">
+                      <div className="text-[11px] text-stone-500 break-words max-w-[200px]">
                         {h.access}
                       </div>
                       <a 
@@ -547,21 +547,21 @@ export default function NiigataSadoIslandPage() {
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-teal-700 font-bold block text-[10px]">新潟・岩室＆弥彦温泉</span>
-              <p className="font-bold text-stone-800 line-clamp-2">越後一宮弥彦神社の雪景色と日本海寒ブリ・極上のどぐろを味わう名宿</p>
+              <p className="font-bold text-stone-800">越後一宮弥彦神社の雪景色と日本海寒ブリ・極上のどぐろを味わう名宿</p>
             </Link>
             <Link 
               href="/winter-toyama-himi-kanburi-luxury-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-teal-700 font-bold block text-[10px]">富山・氷見温泉</span>
-              <p className="font-bold text-stone-800 line-clamp-2">富山湾越しに望む白銀の立山連峰と最高峰の氷見寒ブリづくし名宿</p>
+              <p className="font-bold text-stone-800">富山湾越しに望む白銀の立山連峰と最高峰の氷見寒ブリづくし名宿</p>
             </Link>
             <Link 
               href="/winter-niigata-senami-onsen-sunset-ocean-salmon-murakami-beef-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-teal-700 font-bold block text-[10px]">新潟・瀬波温泉</span>
-              <p className="font-bold text-stone-800 line-clamp-2">日本海の夕日絶景露天風呂と村上伝統鮭料理・極上村上牛を味わう名宿</p>
+              <p className="font-bold text-stone-800">日本海の夕日絶景露天風呂と村上伝統鮭料理・極上村上牛を味わう名宿</p>
             </Link>
           
       <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">

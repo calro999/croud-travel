@@ -478,19 +478,19 @@ export default function FurusatoSandBathSunamushiStayPage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/furusato-tax-three-great-torii-sacred-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">日本三大鳥居＆神聖なる巨木の門・古都の歴史宿×ふるさと納税厳選ガイド宮島・奈良・敦賀</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">日本三大鳥居＆神聖なる巨木の門・古都の歴史宿×ふるさと納税厳選ガイド宮島・奈良・敦賀</span>
             </a>
             <a href="/winter-nara-dorogawa-onsen-snow-botannabe-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12・1月奈良】雪化粧の提灯灯る木造行者宿・大峯山麓洞川温泉の名物ぼたん鍋＆名水とうふ・極上大和牛を味わう隠れ宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">【11・12・1月奈良】雪化粧の提灯灯る木造行者宿・大峯山麓洞川温泉の名物ぼたん鍋＆名水とうふ・極上大和牛を味わう隠れ宿5選</span>
             </a>
             <a href="/winter-nara-yoshinoyama-kinpusenji-snow-temple-onsen-yamatotori-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">世界遺産金峯山寺蔵王堂の新春初詣と雪の吉野山：2026-2027年冬の吉野温泉！大和肉鶏と本葛鍋名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">世界遺産金峯山寺蔵王堂の新春初詣と雪の吉野山：2026-2027年冬の吉野温泉！大和肉鶏と本葛鍋名宿5選</span>
             </a>
             <a href="/furusato-tax-three-great-buddhas-heritage-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">日本三大仏＆歴史古都の門前町・国宝仏閣と伝統会席宿×ふるさと納税厳選ガイド奈良・鎌倉・高岡大仏</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">日本三大仏＆歴史古都の門前町・国宝仏閣と伝統会席宿×ふるさと納税厳選ガイド奈良・鎌倉・高岡大仏</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

@@ -362,19 +362,19 @@ export default function FeatureArticlePage() {
             <ul className="space-y-4 text-xs md:text-sm">
               <li>
                 <a href={HOTEL_DATA.karuizawa_greenplaza.url} target="_blank" rel="sponsored noopener noreferrer" className="block p-3 rounded-xl hover:bg-stone-50 transition border border-stone-100 hover:border-amber-200">
-                  <div className="font-bold text-stone-800 line-clamp-1">{HOTEL_DATA.karuizawa_greenplaza.name}</div>
+                  <div className="font-bold text-stone-800">{HOTEL_DATA.karuizawa_greenplaza.name}</div>
                   <div className="text-stone-500 text-xs mt-1">★ {HOTEL_DATA.karuizawa_greenplaza.rating} | 楽天トラベルで詳細確認</div>
                 </a>
               </li>
               <li>
                 <a href={HOTEL_DATA.karuizawa_yutorelo.url} target="_blank" rel="sponsored noopener noreferrer" className="block p-3 rounded-xl hover:bg-stone-50 transition border border-stone-100 hover:border-amber-200">
-                  <div className="font-bold text-stone-800 line-clamp-1">{HOTEL_DATA.karuizawa_yutorelo.name}</div>
+                  <div className="font-bold text-stone-800">{HOTEL_DATA.karuizawa_yutorelo.name}</div>
                   <div className="text-stone-500 text-xs mt-1">★ {HOTEL_DATA.karuizawa_yutorelo.rating} | 楽天トラベルで詳細確認</div>
                 </a>
               </li>
               <li>
                 <a href={HOTEL_DATA.karuizawa_harvest.url} target="_blank" rel="sponsored noopener noreferrer" className="block p-3 rounded-xl hover:bg-stone-50 transition border border-stone-100 hover:border-amber-200">
-                  <div className="font-bold text-stone-800 line-clamp-1">{HOTEL_DATA.karuizawa_harvest.name}</div>
+                  <div className="font-bold text-stone-800">{HOTEL_DATA.karuizawa_harvest.name}</div>
                   <div className="text-stone-500 text-xs mt-1">★ {HOTEL_DATA.karuizawa_harvest.rating} | 楽天トラベルで詳細確認</div>
                 </a>
               </li>
@@ -491,19 +491,19 @@ export default function FeatureArticlePage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/furusato-tax-kamikochi-shirahone-autumn-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">上高地・河童橋の黄金カラマツ紅葉と梓川清流＆「３日入れば３年風邪ひかぬ」白骨温泉・信州牛｜ふるさと納税で泊まれる名宿ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">上高地・河童橋の黄金カラマツ紅葉と梓川清流＆「３日入れば３年風邪ひかぬ」白骨温泉・信州牛｜ふるさと納税で泊まれる名宿ガイド</span>
             </a>
             <a href="/furusato-tax-nagano-komagane-senjojiki-autumn-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">長野・中央アルプス千畳敷カールの黄金紅葉＆早太郎温泉！美肌名湯と信州アルプス牛・ソースかつ丼｜ふるさと納税で泊まれる名宿ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">長野・中央アルプス千畳敷カールの黄金紅葉＆早太郎温泉！美肌名湯と信州アルプス牛・ソースかつ丼｜ふるさと納税で泊まれる名宿ガイド</span>
             </a>
             <a href="/furusato-tax-nozawa-onsen-sotoyu-heritage-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">野沢温泉をふるさと納税でお得に旅する！十三の外湯めぐり＆源泉麻釜！信州郷土料理の名宿特集｜旅館さかや・河一屋旅館・住吉屋</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">野沢温泉をふるさと納税でお得に旅する！十三の外湯めぐり＆源泉麻釜！信州郷土料理の名宿特集｜旅館さかや・河一屋旅館・住吉屋</span>
             </a>
             <a href="/furusato-tax-shinshu-soba-kaiseki-luxury-ryokan-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">名水が育む挽きたて・打ちたて・茹でたて！信州手打ち蕎麦会席＆山里温泉名旅館×ふるさと納税厳選ガイド戸隠・安曇野・浅間温泉</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">名水が育む挽きたて・打ちたて・茹でたて！信州手打ち蕎麦会席＆山里温泉名旅館×ふるさと納税厳選ガイド戸隠・安曇野・浅間温泉</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

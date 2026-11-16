@@ -389,19 +389,19 @@ export default function FeaturePage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/furusato-tax-station-walk-car-free-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">新幹線駅から徒歩すぐ！車なし・運転不要で行ける極上駅近温泉宿×ふるさと納税厳選ガイド熱海・越後湯沢・嬉野</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">新幹線駅から徒歩すぐ！車なし・運転不要で行ける極上駅近温泉宿×ふるさと納税厳選ガイド熱海・越後湯沢・嬉野</span>
             </a>
             <a href="/furusato-tax-ureshino-onsen-bihada-tofu-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">嬉野温泉をふるさと納税でお得に旅する！日本三大美肌の湯＆名物とろける温泉湯豆腐！茶香る歴史宿厳選ガイド｜和多屋別荘・大正屋・茶心の宿和楽園</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">嬉野温泉をふるさと納税でお得に旅する！日本三大美肌の湯＆名物とろける温泉湯豆腐！茶香る歴史宿厳選ガイド｜和多屋別荘・大正屋・茶心の宿和楽園</span>
             </a>
             <a href="/saga-karatsu-yobuko-genkai-squid-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「佐賀・唐津＆呼子・玄海」唐津城・虹の松原＆呼子朝市透明イカ活き造り宿 厳選ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「佐賀・唐津＆呼子・玄海」唐津城・虹の松原＆呼子朝市透明イカ活き造り宿 厳選ガイド</span>
             </a>
             <a href="/saga-takeo-solo-retreat-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「佐賀・武雄温泉ひとり旅・楼門辰野金吾おこもり」千三百年美肌湯・御船山楽園チームラボ・佐賀牛！武雄温泉駅直通の極上厳選3宿</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「佐賀・武雄温泉ひとり旅・楼門辰野金吾おこもり」千三百年美肌湯・御船山楽園チームラボ・佐賀牛！武雄温泉駅直通の極上厳選3宿</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

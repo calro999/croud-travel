@@ -460,19 +460,19 @@ export default function FurusatoRound65ArticlePage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/winter-chiba-minamiboso-onsen-ise-ebi-oceanview-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12月千葉・南房総温泉郷の温暖避寒旅と旬の伊勢海老・房州地魚】太平洋パノラマ絶景露天＆貸切風呂の宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">【11・12月千葉・南房総温泉郷の温暖避寒旅と旬の伊勢海老・房州地魚】太平洋パノラマ絶景露天＆貸切風呂の宿5選</span>
             </a>
             <a href="/chiba-kamogawa-solo-retreat-ocean-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">南房総・鴨川温泉ひとり旅・太平洋水平線おこもり：波音の露天風呂・地魚舟盛り・里山棚田ウォーキング！都心特急特等席の海リトリート厳選3宿</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">南房総・鴨川温泉ひとり旅・太平洋水平線おこもり：波音の露天風呂・地魚舟盛り・里山棚田ウォーキング！都心特急特等席の海リトリート厳選3宿</span>
             </a>
             <a href="/winter-chiba-kamogawa-seaworld-kominato-kinmedai-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12・1月千葉】冬の鴨川シーワールドシャチパフォーマンスと小湊鯛の浦温泉・外房寒金目鯛煮付け＆房総伊勢海老を堪能する絶景名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">【11・12・1月千葉】冬の鴨川シーワールドシャチパフォーマンスと小湊鯛の浦温泉・外房寒金目鯛煮付け＆房総伊勢海老を堪能する絶景名宿5選</span>
             </a>
             <a href="/winter-chiba-yoro-keikoku-onsen-kuroyu-kazusagyu-jibier-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12月養老渓谷温泉郷】本州一遅い初冬の紅葉ライトアップと美肌黒湯天然温泉・房総かずさ和牛＆天然猪ジビエ鍋を堪能する名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">【11・12月養老渓谷温泉郷】本州一遅い初冬の紅葉ライトアップと美肌黒湯天然温泉・房総かずさ和牛＆天然猪ジビエ鍋を堪能する名宿5選</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

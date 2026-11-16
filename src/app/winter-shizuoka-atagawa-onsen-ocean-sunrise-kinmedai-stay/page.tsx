@@ -568,8 +568,8 @@ export default function WinterShizuokaAtagawaPage() {
               className="group p-4 rounded-2xl bg-slate-50 hover:bg-teal-50/60 border border-slate-100 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-teal-700 bg-teal-100/60 px-2 py-0.5 rounded-full inline-block">静岡・下田</span>
-              <h4 className="text-xs font-bold text-slate-800 group-hover:text-teal-800 transition line-clamp-2">下田温泉の水揚げ日本一地金目鯛姿煮と海絶景露天宿</h4>
-              <p className="text-[11px] text-slate-500 line-clamp-2">
+              <h4 className="text-xs font-bold text-slate-800 group-hover:text-teal-800 transition">下田温泉の水揚げ日本一地金目鯛姿煮と海絶景露天宿</h4>
+              <p className="text-[11px] text-slate-500">
                 爪木崎水仙まつりと伊豆半島南端のオーシャンビューを満喫。
               </p>
             </Link>
@@ -578,8 +578,8 @@ export default function WinterShizuokaAtagawaPage() {
               className="group p-4 rounded-2xl bg-slate-50 hover:bg-teal-50/60 border border-slate-100 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-teal-700 bg-teal-100/60 px-2 py-0.5 rounded-full inline-block">静岡・稲取</span>
-              <h4 className="text-xs font-bold text-slate-800 group-hover:text-teal-800 transition line-clamp-2">稲取温泉の稲取キンメ姿煮と海一望インフィニティ露天宿</h4>
-              <p className="text-[11px] text-slate-500 line-clamp-2">
+              <h4 className="text-xs font-bold text-slate-800 group-hover:text-teal-800 transition">稲取温泉の稲取キンメ姿煮と海一望インフィニティ露天宿</h4>
+              <p className="text-[11px] text-slate-500">
                 ブランド稲取金目鯛の極上会席と雛のつるし飾り発祥の地。
               </p>
             </Link>
@@ -588,8 +588,8 @@ export default function WinterShizuokaAtagawaPage() {
               className="group p-4 rounded-2xl bg-slate-50 hover:bg-teal-50/60 border border-slate-100 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-teal-700 bg-teal-100/60 px-2 py-0.5 rounded-full inline-block">静岡・熱海</span>
-              <h4 className="text-xs font-bold text-slate-800 group-hover:text-teal-800 transition line-clamp-2">熱海温泉の冬海上花火大会と夜景オーシャンビュー露天宿</h4>
-              <p className="text-[11px] text-slate-500 line-clamp-2">
+              <h4 className="text-xs font-bold text-slate-800 group-hover:text-teal-800 transition">熱海温泉の冬海上花火大会と夜景オーシャンビュー露天宿</h4>
+              <p className="text-[11px] text-slate-500">
                 澄み渡る夜空に咲く冬の花火と老舗の名湯・近海鮮魚会席。
               </p>
             </Link>
@@ -598,8 +598,8 @@ export default function WinterShizuokaAtagawaPage() {
               className="group p-4 rounded-2xl bg-slate-50 hover:bg-teal-50/60 border border-slate-100 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-teal-700 bg-teal-100/60 px-2 py-0.5 rounded-full inline-block">静岡・修善寺</span>
-              <h4 className="text-xs font-bold text-slate-800 group-hover:text-teal-800 transition line-clamp-2">修善寺温泉の竹林の小径と伊豆最古の美肌名湯宿</h4>
-              <p className="text-[11px] text-slate-500 line-clamp-2">
+              <h4 className="text-xs font-bold text-slate-800 group-hover:text-teal-800 transition">修善寺温泉の竹林の小径と伊豆最古の美肌名湯宿</h4>
+              <p className="text-[11px] text-slate-500">
                 伊豆の小京都・桂川のせせらぎと歴史ある静寂の温泉街。
               </p>
             </Link>

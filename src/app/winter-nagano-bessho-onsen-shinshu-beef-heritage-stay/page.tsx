@@ -572,7 +572,7 @@ export default function NaganoBesshoWinterFeature() {
             >
               <span className="px-2 py-0.5 rounded bg-blue-500/40 text-blue-200 font-bold text-[10px]">諏訪湖・冬レイクビュー</span>
               <h3 className="font-bold text-white text-sm">上諏訪温泉・諏訪湖一望の展望露天と信州牛すき焼きの宿</h3>
-              <p className="text-slate-300 text-[11px] line-clamp-2">湯量豊富な自家源泉と澄み切った諏訪湖の初冬パノラマ。</p>
+              <p className="text-slate-300 text-[11px]">湯量豊富な自家源泉と澄み切った諏訪湖の初冬パノラマ。</p>
             </Link>
 
             <Link 
@@ -581,7 +581,7 @@ export default function NaganoBesshoWinterFeature() {
             >
               <span className="px-2 py-0.5 rounded bg-amber-500/40 text-amber-200 font-bold text-[10px]">渋温泉・九湯めぐり</span>
               <h3 className="font-bold text-white text-sm">渋温泉・石畳の九湯めぐりと信州牛会席のレトロ宿</h3>
-              <p className="text-slate-300 text-[11px] line-clamp-2">下駄の音が響く石畳の温泉街と厄除け巡浴の旅。</p>
+              <p className="text-slate-300 text-[11px]">下駄の音が響く石畳の温泉街と厄除け巡浴の旅。</p>
             </Link>
 
             <Link 
@@ -590,7 +590,7 @@ export default function NaganoBesshoWinterFeature() {
             >
               <span className="px-2 py-0.5 rounded bg-rose-500/40 text-rose-200 font-bold text-[10px]">伊香保・石段街の黄金の湯</span>
               <h3 className="font-bold text-white text-sm">伊香保温泉・365段の石段街と黄金の湯・上州牛会席の宿</h3>
-              <p className="text-slate-300 text-[11px] line-clamp-2">鉄分を含む茶褐色の名湯と上州黒毛和牛の贅沢会席。</p>
+              <p className="text-slate-300 text-[11px]">鉄分を含む茶褐色の名湯と上州黒毛和牛の贅沢会席。</p>
             </Link>
 
             <Link 
@@ -599,7 +599,7 @@ export default function NaganoBesshoWinterFeature() {
             >
               <span className="px-2 py-0.5 rounded bg-emerald-500/40 text-emerald-200 font-bold text-[10px]">河口湖・富士山絶景露天</span>
               <h3 className="font-bold text-white text-sm">富士河口湖温泉・冠雪の富士山一望露天と甲州牛の宿</h3>
-              <p className="text-slate-300 text-[11px] line-clamp-2">初冬の澄み渡る空気の中で眺める逆さ富士と極上ワイン。</p>
+              <p className="text-slate-300 text-[11px]">初冬の澄み渡る空気の中で眺める逆さ富士と極上ワイン。</p>
             </Link>
           
       <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">

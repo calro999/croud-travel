@@ -461,19 +461,19 @@ export default function Page() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/nagasaki-hirado-sasebo-kujukushima-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「長崎・平戸＆佐世保・九十九島」世界遺産キリシタン史跡・平戸城＆九十九島遊覧・ヒラメ宿 厳選ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「長崎・平戸＆佐世保・九十九島」世界遺産キリシタン史跡・平戸城＆九十九島遊覧・ヒラメ宿 厳選ガイド</span>
             </a>
             <a href="/nagasaki-unzen-onsen-hell-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「長崎・雲仙温泉」雲仙地獄の湯けむり＆白濁硫黄泉・レトロ洋館宿 厳選ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「長崎・雲仙温泉」雲仙地獄の湯けむり＆白濁硫黄泉・レトロ洋館宿 厳選ガイド</span>
             </a>
             <a href="/sasebo-solo-business-kujukushima-burger-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「佐世保出張・西九州ひとり旅」九十九島パノラマ・天然温泉ばってんの湯・名物佐世保バーガー！港町でととのう厳選3宿</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「佐世保出張・西九州ひとり旅」九十九島パノラマ・天然温泉ばってんの湯・名物佐世保バーガー！港町でととのう厳選3宿</span>
             </a>
             <a href="/traditional-nagasaki-hasami-yaki-porcelain-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「波佐見焼のモダン器美学」お洒落なうつわで味わう長崎創作フレンチ＆嬉野・雲仙温泉宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「波佐見焼のモダン器美学」お洒落なうつわで味わう長崎創作フレンチ＆嬉野・雲仙温泉宿5選</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

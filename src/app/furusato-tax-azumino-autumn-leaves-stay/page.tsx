@@ -467,19 +467,19 @@ export default function FeatureArticlePage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/nagano-shibu-solo-retreat-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「信州渋温泉ひとり旅・九湯めぐり石畳おこもり」大正ロマン木造建築・厄除巡浴・信州牛！スノーモンキー近隣のノスタルジック温泉街厳選3宿</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「信州渋温泉ひとり旅・九湯めぐり石畳おこもり」大正ロマン木造建築・厄除巡浴・信州牛！スノーモンキー近隣のノスタルジック温泉街厳選3宿</span>
             </a>
             <a href="/nagano-shirahone-solo-retreat-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「信州白骨温泉ひとり旅・三日入れば三年風邪ひかない名湯おこもり」乳白色混浴大露天・湯元自家源泉・信州ジビエ！北アルプス深山の秘湯厳選3宿</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「信州白骨温泉ひとり旅・三日入れば三年風邪ひかない名湯おこもり」乳白色混浴大露天・湯元自家源泉・信州ジビエ！北アルプス深山の秘湯厳選3宿</span>
             </a>
             <a href="/nagano-togakushi-shrine-soba-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「長野・戸隠＆飯綱高原」戸隠神社五社巡り・奥社杉並木＆日本三大戸隠そば宿 厳選ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「長野・戸隠＆飯綱高原」戸隠神社五社巡り・奥社杉並木＆日本三大戸隠そば宿 厳選ガイド</span>
             </a>
             <a href="/organic-forest-infinity-panoramic-sauna-chubu/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「信州・白馬アルプス森林サウナ」北アルプス絶景パノラマ＆白樺水風呂の極上リゾート宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「信州・白馬アルプス森林サウナ」北アルプス絶景パノラマ＆白樺水風呂の極上リゾート宿5選</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

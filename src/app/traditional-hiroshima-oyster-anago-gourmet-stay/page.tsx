@@ -389,19 +389,19 @@ export default function FeaturePage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/tokyo-hiroshima-bus-vs-shinkansen-guide/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「東京〜広島」新幹線 vs 飛行機 vs 夜行バス徹底比較！厳島神社＆広島お好み焼き1泊2日モデルコース</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「東京〜広島」新幹線 vs 飛行機 vs 夜行バス徹底比較！厳島神社＆広島お好み焼き1泊2日モデルコース</span>
             </a>
             <a href="/winter-hiroshima-miyajima-onsen-kaki-oyster-seto-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">世界遺産初冬絶景と旬解禁広島カキづくし会席 厳島神社大鳥居一望＆瀬戸内海オーシャンビュー露天の宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">世界遺産初冬絶景と旬解禁広島カキづくし会席 厳島神社大鳥居一望＆瀬戸内海オーシャンビュー露天の宿5選</span>
             </a>
             <a href="/winter-hiroshima-saijo-takehara-sake-brewery-bikan-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">広島・東広島西条＆竹原 西条酒蔵通りの冬新酒仕込みと名物「美酒鍋」！ 安芸の小京都・竹原町並み保存地区＆厳選名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">広島・東広島西条＆竹原 西条酒蔵通りの冬新酒仕込みと名物「美酒鍋」！ 安芸の小京都・竹原町並み保存地区＆厳選名宿5選</span>
             </a>
             <a href="/winter-shiga-yogo-lake-wakasagi-kamonabe-shizugatake-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「神秘の余呉湖ワカサギと本場天然真鴨鍋」2026-2027年冬の滋賀・湖北！賤ヶ岳雪景色と近江牛名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「神秘の余呉湖ワカサギと本場天然真鴨鍋」2026-2027年冬の滋賀・湖北！賤ヶ岳雪景色と近江牛名宿5選</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

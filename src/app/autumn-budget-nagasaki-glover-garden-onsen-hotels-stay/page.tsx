@@ -42,7 +42,7 @@ export default function NagasakiBudgetAutumnPage() {
             <span className="px-3 py-1 bg-stone-800 text-amber-300 text-xs font-medium rounded-full border border-amber-400/30">1泊目安: 3,000円台〜5,000円台</span>
           </div>
           <h1 className="text-2xl md:text-4xl lg:text-5xl font-extrabold text-white leading-tight mb-4 drop-shadow-md">「秋の長崎×格安」グラバー園の秋バラと世界新三大夜景！大浴場付き1泊3,000円〜5,000円台のコスパ最強ホテル5選</h1>
-          <p className="text-stone-200 text-sm md:text-base max-w-3xl line-clamp-2 md:line-clamp-none">
+          <p className="text-stone-200 text-sm md:text-base max-w-3xl">
             洋館のテラスから長崎港を見下ろすグラバー園の秋景色と、すり鉢状の夜景が輝く稲佐山パノラマ。本場の長崎ちゃんぽんや角煮まんじゅうを味わい、サウナや大浴場で疲れを癒やせる長崎の格安ホテルをご案内します。
           </p>
         </div>
@@ -98,7 +98,7 @@ export default function NagasakiBudgetAutumnPage() {
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 長崎駅・路面電車電停 / 長崎駅より徒歩約 8 分
                   </p>
-                  <p className="text-sm text-stone-600 mb-4 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-stone-600 mb-4 leading-relaxed">
                     ◆◇長崎駅より徒歩約 8 分◇◆お仕事・観光に最適【全室Wi-Fi完備／全室トイレ風呂別】
                   </p>
                 </div>
@@ -143,7 +143,7 @@ export default function NagasakiBudgetAutumnPage() {
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 長崎（長崎） / ＪＲ長崎駅東口から徒歩約5分　高速バスターミナルより徒歩約１分
                   </p>
-                  <p className="text-sm text-stone-600 mb-4 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-stone-600 mb-4 leading-relaxed">
                     ＪＲ長崎駅正面に立地。全客室にＷｉ－Ｆｉ回線完備。女性専用フロアあり。
                   </p>
                 </div>
@@ -188,7 +188,7 @@ export default function NagasakiBudgetAutumnPage() {
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 長崎（長崎） / 空港バス「中央橋」下車徒歩約１分／長崎駅前より路面電車「西浜町」下車徒歩２分／長崎IC～出島道路出口から車で約3分
                   </p>
-                  <p className="text-sm text-stone-600 mb-4 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-stone-600 mb-4 leading-relaxed">
                     最上階大浴場＆露天風呂／ 提携駐車場３ヶ所／空港バス停徒歩１分／電停徒歩２分／繁華街徒歩１分
                   </p>
                 </div>
@@ -233,7 +233,7 @@ export default function NagasakiBudgetAutumnPage() {
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 長崎（長崎） / JR長崎駅より車で10分
                   </p>
-                  <p className="text-sm text-stone-600 mb-4 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-stone-600 mb-4 leading-relaxed">
                     長崎1,000万＄の夜景を一望できる料理自慢のお宿
                   </p>
                 </div>
@@ -278,7 +278,7 @@ export default function NagasakiBudgetAutumnPage() {
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 長崎（長崎） / 長崎駅より徒歩にて約10分
                   </p>
-                  <p className="text-sm text-stone-600 mb-4 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-stone-600 mb-4 leading-relaxed">
                     駅前周辺ホテルで唯一！男女別天然温泉大浴場完備！
                   </p>
                 </div>

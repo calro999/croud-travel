@@ -396,7 +396,7 @@ export default function ArashiyamaWinterPage() {
                       <Star className="w-3.5 h-3.5 fill-amber-400 text-amber-400" />
                       評価 {hotel.rating} // 5.0
                     </p>
-                    <p className="text-[11px] text-stone-300 line-clamp-1">{hotel.access}</p>
+                    <p className="text-[11px] text-stone-300">{hotel.access}</p>
                   </div>
                 </div>
 
@@ -639,7 +639,7 @@ export default function ArashiyamaWinterPage() {
             >
               <span className="text-[11px] font-bold text-amber-800 bg-amber-100/80 px-2 py-0.5 rounded">11・12月北陸</span>
               <h3 className="font-bold text-stone-900 text-sm group-hover:text-amber-900 transition-colors">金沢兼六園の雪吊りと加賀百万石美食宿</h3>
-              <p className="text-xs text-stone-500 line-clamp-2">
+              <p className="text-xs text-stone-500">
                 11月1日開幕の伝統の雪吊りと近江町市場のカニ・のどぐろ、山代温泉。
               </p>
             </Link>
@@ -650,7 +650,7 @@ export default function ArashiyamaWinterPage() {
             >
               <span className="text-[11px] font-bold text-rose-800 bg-rose-100/80 px-2 py-0.5 rounded">関西イルミネーション</span>
               <h3 className="font-bold text-stone-900 text-sm group-hover:text-rose-900 transition-colors">神戸ルミナリエと有馬温泉・神戸牛ステイ</h3>
-              <p className="text-xs text-stone-500 line-clamp-2">
+              <p className="text-xs text-stone-500">
                 光の芸術作品と日本三名泉・有馬温泉の金湯銀湯、極上神戸ビーフ。
               </p>
             </Link>
@@ -661,7 +661,7 @@ export default function ArashiyamaWinterPage() {
             >
               <span className="text-[11px] font-bold text-teal-800 bg-teal-100/80 px-2 py-0.5 rounded">冬の味覚ランキング</span>
               <h3 className="font-bold text-stone-900 text-sm group-hover:text-teal-900 transition-colors">全国の活カニ・カニ尽くし名宿ランキング</h3>
-              <p className="text-xs text-stone-500 line-clamp-2">
+              <p className="text-xs text-stone-500">
                 松葉ガニ、越前ガニ、ズワイガニのフルコースを味わう極上の冬旅。
               </p>
             </Link>

@@ -369,19 +369,19 @@ export default function ArticlePage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/furusato-tax-retro-onsen-town-yukata-walk-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">色浴衣と下駄で外湯めぐり＆レトロ温泉街歩き情緒の名宿×ふるさと納税厳選ガイド城崎・渋・銀山</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">色浴衣と下駄で外湯めぐり＆レトロ温泉街歩き情緒の名宿×ふるさと納税厳選ガイド城崎・渋・銀山</span>
             </a>
             <a href="/furusato-tax-shosenkyo-kofu-autumn-leaves-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">甲府・御岳昇仙峡の覚円峰奇岩紅葉＆仙娥滝！信玄の隠し湯・湯村温泉×ふるさと納税厳選ガイド山梨</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">甲府・御岳昇仙峡の覚円峰奇岩紅葉＆仙娥滝！信玄の隠し湯・湯村温泉×ふるさと納税厳選ガイド山梨</span>
             </a>
             <a href="/furusato-tax-strawberry-buffet-sweets-resort-hotel-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">甘酸っぱい贅沢！いちごスイーツビュッフェ＆高級リゾートホテルステイ×ふるさと納税厳選ガイド那須・神戸・幕張</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">甘酸っぱい贅沢！いちごスイーツビュッフェ＆高級リゾートホテルステイ×ふるさと納税厳選ガイド那須・神戸・幕張</span>
             </a>
             <a href="/himeji-castle-solo-business-onsen-sauna-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「姫路出張・天然温泉サウナ」世界遺産姫路城ビュー・天然温泉白鷺の湯・播州美食！山陽新幹線拠点を制する厳選3宿</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「姫路出張・天然温泉サウナ」世界遺産姫路城ビュー・天然温泉白鷺の湯・播州美食！山陽新幹線拠点を制する厳選3宿</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

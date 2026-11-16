@@ -630,19 +630,19 @@ export default function FeatureDetailPage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/nagoya-departure-daytrip-bus-tour-guide/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「名古屋発 日帰りバスツアー＆温泉ランチおすすめ」 下呂温泉・伊勢神宮参拝・飛騨牛食べ放題 プラン深掘り特集</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「名古屋発 日帰りバスツアー＆温泉ランチおすすめ」 下呂温泉・伊勢神宮参拝・飛騨牛食べ放題 プラン深掘り特集</span>
             </a>
             <a href="/tokyo-takayama-shirakawago-highway-bus-guide/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「東京・新宿〜飛騨高山・白川郷」直行高速バスが最強！電車との料金・時間比較＆飛騨牛1泊2日モデルコース</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「東京・新宿〜飛騨高山・白川郷」直行高速バスが最強！電車との料金・時間比較＆飛騨牛1泊2日モデルコース</span>
             </a>
             <a href="/winter-gifu-ena-iwamura-castle-snow-enakyo-onsen-goheimochi-hidagyu-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「日本三大山城・岩村城跡の霧氷美と女城主の里重伝建」2026-2027年冬の岐阜・恵那！恵那峡温泉の絶景露天と飛騨牛朴葉味噌・五平餅名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「日本三大山城・岩村城跡の霧氷美と女城主の里重伝建」2026-2027年冬の岐阜・恵那！恵那峡温泉の絶景露天と飛騨牛朴葉味噌・五平餅名宿5選</span>
             </a>
             <a href="/winter-gifu-gujo-hachiman-snow-castle-hidagyu-keichan-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">奥美濃の小京都・郡上八幡城雪景色＆宗祇水！ 名物鶏ちゃんと極上飛騨牛すき焼きの名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">奥美濃の小京都・郡上八幡城雪景色＆宗祇水！ 名物鶏ちゃんと極上飛騨牛すき焼きの名宿5選</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

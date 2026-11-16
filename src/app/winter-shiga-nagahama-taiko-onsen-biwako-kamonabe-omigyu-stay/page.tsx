@@ -611,7 +611,7 @@ export default function ShigaNagahamaWinterFeature() {
             >
               <span className="px-2 py-0.5 rounded bg-amber-500/40 text-amber-200 font-bold text-[10px]">雄琴・美肌の湯</span>
               <h3 className="font-bold text-white text-sm">おごと温泉・初冬琵琶湖レイクビューと極上近江牛の宿</h3>
-              <p className="text-slate-300 text-[11px] line-clamp-2">開湯千二百年最澄ゆかりの美肌湯と近江牛霜降りステーキ。</p>
+              <p className="text-slate-300 text-[11px]">開湯千二百年最澄ゆかりの美肌湯と近江牛霜降りステーキ。</p>
             </Link>
 
             <Link 
@@ -620,7 +620,7 @@ export default function ShigaNagahamaWinterFeature() {
             >
               <span className="px-2 py-0.5 rounded bg-rose-500/40 text-rose-200 font-bold text-[10px]">湯の花・ぼたん鍋</span>
               <h3 className="font-bold text-white text-sm">京都湯の花温泉・初冬の朝霧雲海と名物ぼたん鍋・丹波牛の宿</h3>
-              <p className="text-slate-300 text-[11px] line-clamp-2">京の奥座敷で味わう天然猪肉のぼたん鍋と静かな隠れ湯。</p>
+              <p className="text-slate-300 text-[11px]">京の奥座敷で味わう天然猪肉のぼたん鍋と静かな隠れ湯。</p>
             </Link>
 
             <Link 
@@ -629,7 +629,7 @@ export default function ShigaNagahamaWinterFeature() {
             >
               <span className="px-2 py-0.5 rounded bg-amber-500/40 text-amber-200 font-bold text-[10px]">有馬・金泉銀泉</span>
               <h3 className="font-bold text-white text-sm">有馬温泉・秀吉が愛した日本最古の金泉と神戸牛贅沢会席の宿</h3>
-              <p className="text-slate-300 text-[11px] line-clamp-2">赤褐色の濃厚な金泉と無色透明の炭酸銀泉、極上神戸牛ステーキ。</p>
+              <p className="text-slate-300 text-[11px]">赤褐色の濃厚な金泉と無色透明の炭酸銀泉、極上神戸牛ステーキ。</p>
             </Link>
 
             <Link 
@@ -638,7 +638,7 @@ export default function ShigaNagahamaWinterFeature() {
             >
               <span className="px-2 py-0.5 rounded bg-emerald-500/40 text-emerald-200 font-bold text-[10px]">湯村・松葉ガニ＆但馬牛</span>
               <h3 className="font-bold text-white text-sm">湯村温泉・荒湯の初冬湯けむりと冬の松葉ガニ・但馬牛の宿</h3>
-              <p className="text-slate-300 text-[11px] line-clamp-2">日本屈指の高温泉「荒湯」と本場松葉ガニの炭火焼き・但馬牛。</p>
+              <p className="text-slate-300 text-[11px]">日本屈指の高温泉「荒湯」と本場松葉ガニの炭火焼き・但馬牛。</p>
             </Link>
           
       <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">

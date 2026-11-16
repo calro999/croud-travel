@@ -153,8 +153,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     和歌山県東牟婁郡那智勝浦町勝浦448
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">南紀勝浦温泉　くつろぎの宿　料理旅館　万清楼</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">南紀勝浦温泉　くつろぎの宿　料理旅館　万清楼</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     【ホテル浦島の温泉も利用可】紀州勝浦産の生まぐろや南紀の食材を使った会席料理をお楽しみください。
                   </p>
                   
@@ -210,8 +210,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     栃木県日光市瀬尾1640-14
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">日光東照宮晃陽苑</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">日光東照宮晃陽苑</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     4万坪（東京D約2個半）の敷地の中に、四季折々の自然とゆったりと時間を感じられる日光東照宮ゆかりの宿
                   </p>
                   
@@ -254,8 +254,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     栃木県日光市湯西川597
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">湯西川温泉　ホテル湯西川（伊東園ホテルズ）</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">湯西川温泉　ホテル湯西川（伊東園ホテルズ）</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     平家の落人伝説の残る温泉地。Ph9.2のアルカリ性単純泉『美肌の湯』と言われています。
                   </p>
                   
@@ -298,8 +298,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     栃木県日光市鬼怒川温泉大原1021
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">鬼怒川温泉　鬼怒川グランドホテル　夢の季（ゆめのとき）</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">鬼怒川温泉　鬼怒川グランドホテル　夢の季（ゆめのとき）</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     【９つの湯めぐり】緑美しい山並みに包まれて、四季の味わいと天然温泉で喧騒から離れた癒しの季に。
                   </p>
                   
@@ -355,8 +355,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     茨城県久慈郡大子町袋田978
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">袋田温泉　思い出浪漫館</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">袋田温泉　思い出浪漫館</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     【オールインクルーシブ】日本三名瀑・袋田の滝まで車で5分。奥久慈さとやまバイキングと天然温泉の宿。
                   </p>
                   

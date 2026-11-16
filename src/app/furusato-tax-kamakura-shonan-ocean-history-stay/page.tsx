@@ -546,19 +546,19 @@ export default function FurusatoArticlePage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/hakone-solo-retreat-forest-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「箱根ひとり旅・極上おこもり」滝の流れる大露天風呂・全室客室露天風呂・芦ノ湖インフィニティ！都心から85分の至高温泉リトリート 厳選3選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「箱根ひとり旅・極上おこもり」滝の流れる大露天風呂・全室客室露天風呂・芦ノ湖インフィニティ！都心から85分の至高温泉リトリート 厳選3選</span>
             </a>
             <a href="/hakone-vs-atami-which-better/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「箱根 vs 熱海 どっちに行く？」日帰り・1泊2日それぞれのおすすめを本気で比較</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「箱根 vs 熱海 どっちに行く？」日帰り・1泊2日それぞれのおすすめを本気で比較</span>
             </a>
             <a href="/kamakura-rainy-day-cafe-museum-guide/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「鎌倉・江の島 雨の日の過ごし方」 しっとり濡れる古刹・小町通りアーケード・新江ノ島水族館デート</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「鎌倉・江の島 雨の日の過ごし方」 しっとり濡れる古刹・小町通りアーケード・新江ノ島水族館デート</span>
             </a>
             <a href="/kanagawa-hakone-gora-solo-retreat-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「箱根強羅温泉ひとり旅・濁り湯アートおこもり」箱根登山鉄道・大涌谷白濁温泉・創作フレンチ会席！箱根屈指の高級別荘地で癒やされる厳選3宿</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「箱根強羅温泉ひとり旅・濁り湯アートおこもり」箱根登山鉄道・大涌谷白濁温泉・創作フレンチ会席！箱根屈指の高級別荘地で癒やされる厳選3宿</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

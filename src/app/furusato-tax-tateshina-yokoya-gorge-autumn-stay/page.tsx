@@ -461,19 +461,19 @@ export default function Page() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/nagano-matsumoto-asama-utsukushigahara-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「長野・松本＆浅間温泉・美ヶ原」国宝松本城・クラフトの街＆信州そば・雲海宿 厳選ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「長野・松本＆浅間温泉・美ヶ原」国宝松本城・クラフトの街＆信州そば・雲海宿 厳選ガイド</span>
             </a>
             <a href="/nagano-shibu-onsen-retro-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「長野・信州渋温泉」九湯めぐり＆金具屋・スノーモンキー極上宿 厳選ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「長野・信州渋温泉」九湯めぐり＆金具屋・スノーモンキー極上宿 厳選ガイド</span>
             </a>
             <a href="/nagano-shigakogen-shibutoge-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「長野・志賀高原＆渋峠」日本国道最高地点・雲海テラス＆パウダースノー極上宿 厳選ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「長野・志賀高原＆渋峠」日本国道最高地点・雲海テラス＆パウダースノー極上宿 厳選ガイド</span>
             </a>
             <a href="/nagano-suwa-lake-onbashira-shrine-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「長野・諏訪湖＆諏訪大社・上諏訪」諏訪大社四社まいり・片倉館千人風呂＆五蔵酒蔵宿 厳選ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「長野・諏訪湖＆諏訪大社・上諏訪」諏訪大社四社まいり・片倉館千人風呂＆五蔵酒蔵宿 厳選ガイド</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

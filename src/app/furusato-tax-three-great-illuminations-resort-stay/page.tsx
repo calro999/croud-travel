@@ -153,8 +153,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     栃木県足利市掘込町2460
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">ホテルルートイン第２足利ー国道50号沿ー</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">ホテルルートイン第２足利ー国道50号沿ー</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     【朝食無料・大浴場完備・駐車場無料】あしかがフラワーパークや佐野プレミアムアウトレットへアクセス抜群
                   </p>
                   
@@ -197,8 +197,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     栃木県足利市通1-2688-1　
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">ホテルルートイン足利駅前</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">ホテルルートイン足利駅前</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     ＪＲ足利駅徒歩５分ビジネスや観光で是非ご利用くださいませ　あしかがフラワーパークまで電車で６分
                   </p>
                   
@@ -241,8 +241,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     栃木県足利市福富町2213-1
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">ＨＯＴＥＬ　Ｒ９　Ｔｈｅ　Ｙａｒｄ　足利福富</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">ＨＯＴＥＬ　Ｒ９　Ｔｈｅ　Ｙａｒｄ　足利福富</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     「日本一の足利三名所」の足利学校、あしかがフラワーパーク、鑁阿寺などに程近く、旅の宿泊拠点に最適♪
                   </p>
                   
@@ -298,8 +298,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     長崎県佐世保市ハウステンボス町10
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">ホテルオークラＪＲハウステンボス</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">ホテルオークラＪＲハウステンボス</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     スタッフのおもてなしに心和らぎ、天然温泉が疲れを癒す魅力あるリゾートホテルです。
                   </p>
                   
@@ -342,8 +342,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     長崎県佐世保市ハウステンボス町6番地
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">ホテル日航ハウステンボス</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">ホテル日航ハウステンボス</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     ハウステンボスまでは徒歩３分♪花と緑に囲まれたリゾートホテル
                   </p>
                   
@@ -386,8 +386,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     長崎県佐世保市鹿子前町740
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">ホテルフラッグス佐世保九十九島</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">『the BEKKAN』リニューアル！長崎グルメ満載な朝食＆夕食ビュッフェ！
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">ホテルフラッグス佐世保九十九島</h3>
+                  <p className="text-xs text-stone-400 mb-4">『the BEKKAN』リニューアル！長崎グルメ満載な朝食＆夕食ビュッフェ！
                   </p>
                   
                   <div className="mt-auto pt-4 border-t border-stone-800/80 flex items-center justify-between">
@@ -442,8 +442,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     北海道札幌市中央区北4条西13-1-53
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">ホテルルートイン札幌北四条</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">ホテルルートイン札幌北四条</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     駐車場38台完備！大浴場大好評♪
                   </p>
                   
@@ -486,8 +486,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     北海道札幌市北区北7条西4-2-2
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">ホテルルートイン　札幌駅前北口</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">ホテルルートイン　札幌駅前北口</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     札幌駅北口から徒歩1分■ＷＯＷＯＷ全室で無料視聴可■朝食無料サービス＆大浴場あり！
                   </p>
                   
@@ -530,8 +530,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     北海道札幌市中央区南8条西6-289-193
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">ビジネスホテルライン</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">ビジネスホテルライン</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     宿泊者専用サウナ付浴場あり！便利なアクセス！ビジネスマン応援！
                   </p>
                   

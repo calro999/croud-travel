@@ -189,8 +189,8 @@ export default function OkinawaHubPage() {
                       <span>{hotel.address1} {hotel.address2.slice(0, 8)}</span>
                       {hotel.reviewAverage > 0 && <span className="text-amber-600 font-extrabold">⭐ {hotel.reviewAverage} ({hotel.reviewCount}件)</span>}
                     </div>
-                    <h3 className="text-sm font-black font-journal-serif text-slate-900 line-clamp-2">{hotel.hotelName}</h3>
-                    <p className="text-xs text-slate-600 line-clamp-2">{hotel.hotelSpecial || hotel.access}</p>
+                    <h3 className="text-sm font-black font-journal-serif text-slate-900">{hotel.hotelName}</h3>
+                    <p className="text-xs text-slate-600">{hotel.hotelSpecial || hotel.access}</p>
                   </div>
                 </div>
                 <div className="p-4 pt-0">

@@ -42,7 +42,7 @@ export default function OsakaBudgetAutumnPage() {
             <span className="px-3 py-1 bg-stone-800 text-amber-300 text-xs font-medium rounded-full border border-amber-400/30">1泊目安: 3,000円台〜6,000円台</span>
           </div>
           <h1 className="text-2xl md:text-4xl lg:text-5xl font-extrabold text-white leading-tight mb-4 drop-shadow-md">「秋の大阪×格安」御堂筋の黄金イチョウ並木と道頓堀グルメ！天然温泉＆大浴場付き1泊3,000円〜6,000円台のコスパ最強ホテル5選</h1>
-          <p className="text-stone-200 text-sm md:text-base max-w-3xl line-clamp-2 md:line-clamp-none">
+          <p className="text-stone-200 text-sm md:text-base max-w-3xl">
             梅田から難波まで続く約4kmの黄金ロード「御堂筋のイチョウ並木」。大阪城の紅葉や道頓堀・新世界のソウルフードを食べ歩き、地下1,000mから湧く本物の天然温泉で寛げる大阪の掘り出し物ホテルをご紹介します。
           </p>
         </div>
@@ -98,7 +98,7 @@ export default function OsakaBudgetAutumnPage() {
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 新大阪駅 / JR新大阪駅 【東口】から徒歩約5分、地下鉄御堂筋線新大阪駅から徒歩10分、大阪梅田・なんば・天王寺へもアクセス抜群
                   </p>
-                  <p className="text-sm text-stone-600 mb-4 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-stone-600 mb-4 leading-relaxed">
                     大阪駅まで１駅！京セラドーム、ＵＳＪまで約30分　朝食無料・天然温泉（男女入れ替え制）
                   </p>
                 </div>
@@ -143,7 +143,7 @@ export default function OsakaBudgetAutumnPage() {
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 阿波座駅 / 地下鉄中央線・千日前線【阿波座駅】出口⑨右へ徒歩約5分/JR【大阪駅】大阪市営バス88系天保山行「土佐堀三丁目」下車
                   </p>
-                  <p className="text-sm text-stone-600 mb-4 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-stone-600 mb-4 leading-relaxed">
                     【】リニューアルオープン！本物の天然温泉とオートロウリュ付きサウナをご体感下さい
                   </p>
                 </div>
@@ -188,7 +188,7 @@ export default function OsakaBudgetAutumnPage() {
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 本町駅 / 大阪メトロ　四つ橋線　西梅田駅から2駅！なんば駅から2駅！四つ橋線・御堂筋線本町駅２４号出口ほぼ直結♪
                   </p>
-                  <p className="text-sm text-stone-600 mb-4 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-stone-600 mb-4 leading-relaxed">
                     四ツ橋鮮・御堂筋線本町駅24号出口すぐ★男女別天然温泉★レディースフロアに温泉あり♪
                   </p>
                 </div>
@@ -233,7 +233,7 @@ export default function OsakaBudgetAutumnPage() {
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 堺筋本町駅 / 大阪メトロ「堺筋本町駅（12-1番出口）」より徒歩6分／大阪メトロ「谷町四丁目（4号出口）」より徒歩7分
                   </p>
-                  <p className="text-sm text-stone-600 mb-4 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-stone-600 mb-4 leading-relaxed">
                     最上階にある、天然温泉大浴場!!ビジネスに観光に疲れた体を空を眺めながら癒してください。
                   </p>
                 </div>
@@ -278,7 +278,7 @@ export default function OsakaBudgetAutumnPage() {
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 桜島駅 / ＪＲゆめ咲線 桜島駅より徒歩1分　テーマパークまで徒歩約13分、ユニバーサルシティ駅1分1駅　大阪駅まで電車で最短14分
                   </p>
-                  <p className="text-sm text-stone-600 mb-4 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-stone-600 mb-4 leading-relaxed">
                     ≪6年連続楽天トラベルアワード受賞≫2025ゴールドアワード☆ホテル＆旅館オブ・ザ・イヤー全国9位☆
                   </p>
                 </div>

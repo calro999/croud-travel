@@ -433,19 +433,19 @@ export default function ArticlePage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/furusato-tax-amanohashidate-autumn-leaves-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">日本三景・天橋立の松並木紅葉＆西国札所成相寺！天橋立温泉名宿×ふるさと納税厳選ガイド京都</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">日本三景・天橋立の松並木紅葉＆西国札所成相寺！天橋立温泉名宿×ふるさと納税厳選ガイド京都</span>
             </a>
             <a href="/furusato-tax-kifune-kurama-autumn-leaves-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">京都・貴船神社のもみじ灯篭ライトアップ＆叡山電車もみじトンネル！貴船料理旅館×ふるさと納税厳選ガイド京都</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">京都・貴船神社のもみじ灯篭ライトアップ＆叡山電車もみじトンネル！貴船料理旅館×ふるさと納税厳選ガイド京都</span>
             </a>
             <a href="/furusato-tax-kyoto-arashiyama-bamboo-luxury-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">渡月橋と竹林の小径の静寂！京都嵐山温泉の保津川一望ラグジュアリー＆老舗料理旅館×ふるさと納税極上旅ガイド翠嵐・花伝抄・辨慶</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">渡月橋と竹林の小径の静寂！京都嵐山温泉の保津川一望ラグジュアリー＆老舗料理旅館×ふるさと納税極上旅ガイド翠嵐・花伝抄・辨慶</span>
             </a>
             <a href="/furusato-tax-kyoto-private-machiya-charter-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">歴史ある京町家を一棟丸ごと貸切！暮らすように泊まる露天風呂付きプライベート町家旅館×ふるさと納税完全攻略ガイド【2026年最新】Nazuna椿通・Nazuna二条城・お宿花！暮らす</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">歴史ある京町家を一棟丸ごと貸切！暮らすように泊まる露天風呂付きプライベート町家旅館×ふるさと納税完全攻略ガイド【2026年最新】Nazuna椿通・Nazuna二条城・お宿花！暮らす</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

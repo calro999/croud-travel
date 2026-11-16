@@ -478,19 +478,19 @@ export default function FurusatoFireflyViewingStayPage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/toyama-solo-business-tateyama-sauna-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「富山出張＆立山連峰ビュー」富山駅近・天然温泉サウナ・白えび美食！「天然の生簀」富山湾を味わう極上宿 厳選3選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「富山出張＆立山連峰ビュー」富山駅近・天然温泉サウナ・白えび美食！「天然の生簀」富山湾を味わう極上宿 厳選3選</span>
             </a>
             <a href="/toyama-tateyama-kurobe-alpen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「富山・立山黒部アルペンルート」雪の大谷・みくりが池＆立山連峰・富山湾宿 厳選ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「富山・立山黒部アルペンルート」雪の大谷・みくりが池＆立山連峰・富山湾宿 厳選ガイド</span>
             </a>
             <a href="/traditional-hokkaido-furano-lavender-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「紫の絨毯が広がる夏の富良野（ラベンダー畑パノラマ＆ふらの和牛ディナーの宿5選）」紫の絨毯が広がる夏の富良野！ラベンダー畑パノラマ＆ふらの和牛ディナーの宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「紫の絨毯が広がる夏の富良野（ラベンダー畑パノラマ＆ふらの和牛ディナーの宿5選）」紫の絨毯が広がる夏の富良野！ラベンダー畑パノラマ＆ふらの和牛ディナーの宿5選</span>
             </a>
             <a href="/winter-hokkaido-akanko-onsen-lakeview-frost-flower-hokkaido-beef-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">初冬のフロストフラワーとアイヌ文化 極上道東海鮮蟹会席＆北海道黒毛和牛を愉しむ湖畔名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">初冬のフロストフラワーとアイヌ文化 極上道東海鮮蟹会席＆北海道黒毛和牛を愉しむ湖畔名宿5選</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

@@ -42,7 +42,7 @@ export default function HiroshimaBudgetAutumnPage() {
             <span className="px-3 py-1 bg-stone-800 text-amber-300 text-xs font-medium rounded-full border border-amber-400/30">1泊目安: 3,000円台〜6,000円台</span>
           </div>
           <h1 className="text-2xl md:text-4xl lg:text-5xl font-extrabold text-white leading-tight mb-4 drop-shadow-md">「秋の広島×格安」縮景園の紅葉ライトアップと旬の牡蠣・お好み焼き！大浴場付き1泊3,000円〜6,000円台のコスパ最強ホテル5選</h1>
-          <p className="text-stone-200 text-sm md:text-base max-w-3xl line-clamp-2 md:line-clamp-none">
+          <p className="text-stone-200 text-sm md:text-base max-w-3xl">
             池の水面に映り込む縮景園の鮮やかな紅葉と夜間ライトアップ。宮島観光の拠点としても便利な広島駅・八丁堀周辺で、大浴場やサウナ付きながら驚きのリーズナブル料金で泊まれる名宿をご案内します。
           </p>
         </div>
@@ -98,7 +98,7 @@ export default function HiroshimaBudgetAutumnPage() {
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 広島駅 / 広島駅より徒歩6分
                   </p>
-                  <p className="text-sm text-stone-600 mb-4 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-stone-600 mb-4 leading-relaxed">
                     個室とカプセルが充実のビジネスホテル、朝食無料、大浴場、広島駅より徒歩6分
                   </p>
                 </div>
@@ -143,7 +143,7 @@ export default function HiroshimaBudgetAutumnPage() {
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 広島駅 / JR広島駅からタクシー約5分。路面電車なら「女学院前」徒歩1分。迷わず着ける好立地。
                   </p>
-                  <p className="text-sm text-stone-600 mb-4 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-stone-600 mb-4 leading-relaxed">
                     【男性専用サウナ亀の家】100℃の熱気×オートロウリュで整う。宿泊者無料。心身をリセットし再起動！
                   </p>
                 </div>
@@ -188,7 +188,7 @@ export default function HiroshimaBudgetAutumnPage() {
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 広島駅 / ［山陽新幹線＋JR各線］広島駅南口8番出口から徒歩4分［市内電車］広島電停から徒歩6分　［空港］広島駅から直通バス50分
                   </p>
-                  <p className="text-sm text-stone-600 mb-4 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-stone-600 mb-4 leading-relaxed">
                     ご宿泊者様専用露天風呂付大浴殿完備！おいしい朝食ビュッフェ付きプランあり！
                   </p>
                 </div>
@@ -233,7 +233,7 @@ export default function HiroshimaBudgetAutumnPage() {
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 広島駅 / 山陽新幹線・JR各線「広島駅」新幹線口（北口）徒歩4分
                   </p>
-                  <p className="text-sm text-stone-600 mb-4 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-stone-600 mb-4 leading-relaxed">
                     大浴殿・露天風呂完備！観光・ビジネスの拠点ホテルにおすすめです。
                   </p>
                 </div>
@@ -278,7 +278,7 @@ export default function HiroshimaBudgetAutumnPage() {
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 広島駅 / バス：広島電鉄　エキまちループ線「田中町」下車1分、路面電車：広島電鉄「銀山町(かなやまちょう）」電停より徒歩約10分。
                   </p>
-                  <p className="text-sm text-stone-600 mb-4 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-stone-600 mb-4 leading-relaxed">
                     広島県に2店舗目OPEN！最上階には天然温泉と男女共に高温サウナを完備。水風呂も完備
                   </p>
                 </div>

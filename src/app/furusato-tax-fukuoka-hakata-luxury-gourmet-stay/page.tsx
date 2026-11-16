@@ -546,19 +546,19 @@ export default function FurusatoArticlePage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/winter-fukuoka-yanagawa-onsen-kotatsubune-unagi-seiromushi-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12月福岡・水郷柳川】冬の風物詩「こたつ舟」川下り 名物元祖うなぎのせいろ蒸し＆博多和牛会席を味わう城下町・掘割温泉名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">【11・12月福岡・水郷柳川】冬の風物詩「こたつ舟」川下り 名物元祖うなぎのせいろ蒸し＆博多和牛会席を味わう城下町・掘割温泉名宿5選</span>
             </a>
             <a href="/airport-access-direct-resort-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「空港直行＆空港至近リゾート宿」羽田・成田・関空・福岡・那覇・千歳 厳選ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「空港直行＆空港至近リゾート宿」羽田・成田・関空・福岡・那覇・千歳 厳選ガイド</span>
             </a>
             <a href="/autumn-budget-fukuoka-kurume-station-ramen-yakitori-hotels-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「久留米駅前」高良大社の秋景＆元祖豚骨ラーメン！2,000円台〜泊まれる格安・高コスパ宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「久留米駅前」高良大社の秋景＆元祖豚骨ラーメン！2,000円台〜泊まれる格安・高コスパ宿5選</span>
             </a>
             <a href="/fukuoka-departure-daytrip-bus-tour-guide/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「福岡・博多発 日帰りバスツアー」 呼子活イカ・由布院温泉街散策・阿蘇カルデラ絶景 の格安ツアー比較</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「福岡・博多発 日帰りバスツアー」 呼子活イカ・由布院温泉街散策・阿蘇カルデラ絶景 の格安ツアー比較</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

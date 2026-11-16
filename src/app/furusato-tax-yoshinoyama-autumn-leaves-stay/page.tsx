@@ -465,19 +465,19 @@ export default function Page() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/traditional-nara-yamato-beef-tea-porridge-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「大和牛すき焼き＆名物茶粥」古都奈良の歴史浪漫と飛鳥・吉野・奈良町の名湯美食宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「大和牛すき焼き＆名物茶粥」古都奈良の歴史浪漫と飛鳥・吉野・奈良町の名湯美食宿5選</span>
             </a>
             <a href="/winter-nara-hasedera-winter-peony-oomiwa-yamatogyu-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">藁囲いに咲く雪中の花と神宿る三輪山の静謐 長谷寺「冬牡丹」と日本最古大神神社初詣・極上大和牛の名宿</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">藁囲いに咲く雪中の花と神宿る三輪山の静謐 長谷寺「冬牡丹」と日本最古大神神社初詣・極上大和牛の名宿</span>
             </a>
             <a href="/winter-nara-sakurai-oomiwa-shrine-hatsumode-miwa-somen-yamatogyu-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「日本最古の神域・三輪明神大神神社新春初詣と山の辺の道」2026-2027年冬の奈良・桜井！本場三輪にゅうめんと大和牛すき焼き名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「日本最古の神域・三輪明神大神神社新春初詣と山の辺の道」2026-2027年冬の奈良・桜井！本場三輪にゅうめんと大和牛すき焼き名宿5選</span>
             </a>
             <a href="/winter-nara-yoshinoyama-kinpusenji-snow-temple-onsen-yamatotori-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「世界遺産金峯山寺蔵王堂の新春初詣と雪の吉野山」2026-2027年冬の吉野温泉！大和肉鶏と本葛鍋名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「世界遺産金峯山寺蔵王堂の新春初詣と雪の吉野山」2026-2027年冬の吉野温泉！大和肉鶏と本葛鍋名宿5選</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

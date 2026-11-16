@@ -705,7 +705,7 @@ export default function FukushimaIwakiYumotoWinterPage() {
               className="bg-white p-4 rounded-2xl border border-stone-200 hover:border-amber-500 hover:shadow-xs transition group space-y-2"
             >
               <span className="text-[11px] font-bold text-amber-700 bg-amber-50 px-2 py-0.5 rounded-md">福島・岳温泉</span>
-              <h4 className="text-xs sm:text-sm font-bold text-stone-900 group-hover:text-amber-700 transition line-clamp-2">安達太良山麓のミルキー強酸性美肌湯と川俣シャモ・福島牛</h4>
+              <h4 className="text-xs sm:text-sm font-bold text-stone-900 group-hover:text-amber-700 transition">安達太良山麓のミルキー強酸性美肌湯と川俣シャモ・福島牛</h4>
             </Link>
 
             <Link
@@ -713,7 +713,7 @@ export default function FukushimaIwakiYumotoWinterPage() {
               className="bg-white p-4 rounded-2xl border border-stone-200 hover:border-amber-500 hover:shadow-xs transition group space-y-2"
             >
               <span className="text-[11px] font-bold text-amber-700 bg-amber-50 px-2 py-0.5 rounded-md">福島・高湯＆土湯温泉</span>
-              <h4 className="text-xs sm:text-sm font-bold text-stone-900 group-hover:text-amber-700 transition line-clamp-2">吾妻連峰の雪見露天風呂と白濁硫黄泉・極上福島牛すき焼き</h4>
+              <h4 className="text-xs sm:text-sm font-bold text-stone-900 group-hover:text-amber-700 transition">吾妻連峰の雪見露天風呂と白濁硫黄泉・極上福島牛すき焼き</h4>
             </Link>
 
             <Link
@@ -721,7 +721,7 @@ export default function FukushimaIwakiYumotoWinterPage() {
               className="bg-white p-4 rounded-2xl border border-stone-200 hover:border-amber-500 hover:shadow-xs transition group space-y-2"
             >
               <span className="text-[11px] font-bold text-amber-700 bg-amber-50 px-2 py-0.5 rounded-md">福島・会津東山温泉</span>
-              <h4 className="text-xs sm:text-sm font-bold text-stone-900 group-hover:text-amber-700 transition line-clamp-2">鶴ヶ城初冬の雪景色と渓谷美・会津馬刺しと地酒めぐり名宿</h4>
+              <h4 className="text-xs sm:text-sm font-bold text-stone-900 group-hover:text-amber-700 transition">鶴ヶ城初冬の雪景色と渓谷美・会津馬刺しと地酒めぐり名宿</h4>
             </Link>
 
             <Link
@@ -729,7 +729,7 @@ export default function FukushimaIwakiYumotoWinterPage() {
               className="bg-white p-4 rounded-2xl border border-stone-200 hover:border-amber-500 hover:shadow-xs transition group space-y-2"
             >
               <span className="text-[11px] font-bold text-amber-700 bg-amber-50 px-2 py-0.5 rounded-md">千葉・南房総館山</span>
-              <h4 className="text-xs sm:text-sm font-bold text-stone-900 group-hover:text-amber-700 transition line-clamp-2">温暖な南房総の避寒温泉と旬の伊勢海老・房総地魚舟盛り</h4>
+              <h4 className="text-xs sm:text-sm font-bold text-stone-900 group-hover:text-amber-700 transition">温暖な南房総の避寒温泉と旬の伊勢海老・房総地魚舟盛り</h4>
             </Link>
 
             <Link
@@ -737,7 +737,7 @@ export default function FukushimaIwakiYumotoWinterPage() {
               className="bg-white p-4 rounded-2xl border border-stone-200 hover:border-amber-500 hover:shadow-xs transition group space-y-2"
             >
               <span className="text-[11px] font-bold text-amber-700 bg-amber-50 px-2 py-0.5 rounded-md">宮城・松島温泉</span>
-              <h4 className="text-xs sm:text-sm font-bold text-stone-900 group-hover:text-amber-700 transition line-clamp-2">日本三景松島の朝日パノラマ露天風呂と冬の焼き牡蠣食べ放題</h4>
+              <h4 className="text-xs sm:text-sm font-bold text-stone-900 group-hover:text-amber-700 transition">日本三景松島の朝日パノラマ露天風呂と冬の焼き牡蠣食べ放題</h4>
             </Link>
 
             <Link

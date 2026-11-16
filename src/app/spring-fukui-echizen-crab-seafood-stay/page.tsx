@@ -389,19 +389,19 @@ export default function FeaturePage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/tsuruga-solo-business-shinkansen-seafood-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「敦賀出張・北陸新幹線ひとり旅」新幹線始発駅直結・名物敦賀真鯛＆越前ガニ・気比神宮大鳥居！日本海ハブ拠点でととのう厳選3宿</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「敦賀出張・北陸新幹線ひとり旅」新幹線始発駅直結・名物敦賀真鯛＆越前ガニ・気比神宮大鳥居！日本海ハブ拠点でととのう厳選3宿</span>
             </a>
             <a href="/winter-fukui-awara-onsen-echizen-crab-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12月あわら温泉の冬名湯と越前がに】 関西の奥座敷・庭園露天風呂と黄色いタグ付き越前蟹＆若狭牛会席の宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">【11・12月あわら温泉の冬名湯と越前がに】 関西の奥座敷・庭園露天風呂と黄色いタグ付き越前蟹＆若狭牛会席の宿5選</span>
             </a>
             <a href="/winter-fukui-mikuni-onsen-echizen-crab-tojinbo-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12月越前三国温泉の解禁越前がにと東尋坊冬絶景】日本海パノラマ露天風呂・本場越前蟹フルコース＆若狭牛会席の宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">【11・12月越前三国温泉の解禁越前がにと東尋坊冬絶景】日本海パノラマ露天風呂・本場越前蟹フルコース＆若狭牛会席の宿5選</span>
             </a>
             <a href="/winter-fukui-wakasa-mikatagoko-onsen-fugu-echizen-crab-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12月福井・若狭三方五湖】初冬レイクビューと若狭ふぐ 越前蟹・名物焼き鯖＆敦賀港冬海鮮会席を愉しむ湖畔・海辺名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">【11・12月福井・若狭三方五湖】初冬レイクビューと若狭ふぐ 越前蟹・名物焼き鯖＆敦賀港冬海鮮会席を愉しむ湖畔・海辺名宿5選</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

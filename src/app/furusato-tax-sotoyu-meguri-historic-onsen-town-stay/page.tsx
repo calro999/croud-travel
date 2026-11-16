@@ -477,19 +477,19 @@ export default function FurusatoSotoyuMeguriTownStayPage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/furusato-tax-iwate-hanamaki-tsunagi-autumn-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">岩手・花巻温泉郷＆盛岡つなぎ温泉！奥羽山脈の紅葉渓谷と前沢牛・いわて牛</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">岩手・花巻温泉郷＆盛岡つなぎ温泉！奥羽山脈の紅葉渓谷と前沢牛・いわて牛</span>
             </a>
             <a href="/iwate-sanriku-miyako-jodogahama-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">岩手・三陸宮古＆浄土ヶ浜：極楽浄土の白い奇岩・青の洞窟＆名物「瓶ドン」宿 厳選ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">岩手・三陸宮古＆浄土ヶ浜：極楽浄土の白い奇岩・青の洞窟＆名物「瓶ドン」宿 厳選ガイド</span>
             </a>
             <a href="/winter-iwate-hanamaki-minami-namari-osawa-snow-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12月岩手・花巻南温泉郷】白銀の豊沢渓谷と宮沢賢治ゆかりの木造湯治宿・自噴立ち湯「白猿の湯」と極上前沢牛＆白金豚を堪能する名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">【11・12月岩手・花巻南温泉郷】白銀の豊沢渓谷と宮沢賢治ゆかりの木造湯治宿・自噴立ち湯「白猿の湯」と極上前沢牛＆白金豚を堪能する名宿5選</span>
             </a>
             <a href="/winter-iwate-tsunagi-onsen-koiwai-illumination-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12月盛岡つなぎ温泉の冬名湯と小岩井イルミ】銀河農場の夜・秀峰岩手山雪見露天と極上前沢牛会席の宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">【11・12月盛岡つなぎ温泉の冬名湯と小岩井イルミ】銀河農場の夜・秀峰岩手山雪見露天と極上前沢牛会席の宿5選</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

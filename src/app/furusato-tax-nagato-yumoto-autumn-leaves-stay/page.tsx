@@ -467,19 +467,19 @@ export default function FeatureArticlePage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/winter-yamaguchi-shimonoseki-kawatana-onsen-torafugu-kawarasoba-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">本場とらふぐ解禁美食と元祖瓦そば 関門海峡夕景＆開湯八百年ラジウム美肌泉の極上宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">本場とらふぐ解禁美食と元祖瓦そば 関門海峡夕景＆開湯八百年ラジウム美肌泉の極上宿5選</span>
             </a>
             <a href="/yamaguchi-hagi-nagato-yumoto-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「山口・萩＆長門湯本温泉」維新の城下町・川床テラス＆元乃隅神社・瓦そば宿 厳選ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「山口・萩＆長門湯本温泉」維新の城下町・川床テラス＆元乃隅神社・瓦そば宿 厳選ガイド</span>
             </a>
             <a href="/autumn-budget-yamaguchi-shimonoseki-karato-market-fuku-hotels-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「下関」唐戸市場の秋ふく＆関門海峡絶景へ！2,000円台〜泊まれる格安・高コスパ宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「下関」唐戸市場の秋ふく＆関門海峡絶景へ！2,000円台〜泊まれる格安・高コスパ宿5選</span>
             </a>
             <a href="/fukushima-iwaki-yumoto-solo-retreat-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「いわき湯本温泉ひとり旅・三函の名湯おこもり」日本三古湯・毎分5トン自噴硫黄泉・常磐もの海鮮！フラガール温泉郷厳選3宿</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「いわき湯本温泉ひとり旅・三函の名湯おこもり」日本三古湯・毎分5トン自噴硫黄泉・常磐もの海鮮！フラガール温泉郷厳選3宿</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

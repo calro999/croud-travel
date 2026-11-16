@@ -424,19 +424,19 @@ export default function ArticlePage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/super-panoramic-sand-dune-camel-trekking-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「らくだライド＆砂丘夕日」エキゾチックな砂丘体験と三朝・皆生温泉の海鮮美食宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「らくだライド＆砂丘夕日」エキゾチックな砂丘体験と三朝・皆生温泉の海鮮美食宿5選</span>
             </a>
             <a href="/tottori-misasa-onsen-mitokusan-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「鳥取・三朝温泉＆三徳山三仏寺」世界屈指のラジウム温泉・国宝投入堂宿 厳選ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「鳥取・三朝温泉＆三徳山三仏寺」世界屈指のラジウム温泉・国宝投入堂宿 厳選ガイド</span>
             </a>
             <a href="/winter-ehime-imabari-shimanami-oomishima-taimeshi-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">冬の来島海峡絶景＆日本総鎮守・大山祇神社新春初詣！ 来島天然真鯛と名湯に寛ぐ厳選宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">冬の来島海峡絶景＆日本総鎮守・大山祇神社新春初詣！ 来島天然真鯛と名湯に寛ぐ厳選宿5選</span>
             </a>
             <a href="/winter-kanagawa-isehara-oyama-afuri-shrine-hatsumode-tofu-tsurumaki-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「大山阿夫利神社」新春初詣と相模湾冬パノラマ！ 名水大山豆腐料理＆名湯「鶴巻・七沢温泉」厳選名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「大山阿夫利神社」新春初詣と相模湾冬パノラマ！ 名水大山豆腐料理＆名湯「鶴巻・七沢温泉」厳選名宿5選</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

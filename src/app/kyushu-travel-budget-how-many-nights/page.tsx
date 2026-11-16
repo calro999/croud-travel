@@ -208,7 +208,7 @@ export default function KyushuTravelNightsPage() {
                   )}
                 </div>
                 <div className="p-3">
-                  <h3 className="text-sm font-bold text-stone-800 line-clamp-1 mb-1 group-hover:text-emerald-700 transition-colors">{hotel.hotelName}</h3>
+                  <h3 className="text-sm font-bold text-stone-800 mb-1 group-hover:text-emerald-700 transition-colors">{hotel.hotelName}</h3>
                   {hotel.reviewAverage > 0 && (
                     <div className="text-[10px] font-bold text-amber-500">
                       ★ {hotel.reviewAverage} ({hotel.reviewCount})

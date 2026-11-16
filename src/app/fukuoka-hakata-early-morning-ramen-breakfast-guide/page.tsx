@@ -301,8 +301,8 @@ export default function FukuokaHakataEarlyMorningGuidePage() {
                       </div>
                     )}
                     <div className="p-4">
-                      <h3 className="font-bold text-sm sm:text-base text-slate-800 line-clamp-2 mb-2 hover:text-slate-600">{hotel.hotelName}</h3>
-                      <p className="text-xs text-slate-600 line-clamp-3 mb-3 leading-relaxed">
+                      <h3 className="font-bold text-sm sm:text-base text-slate-800 mb-2 hover:text-slate-600">{hotel.hotelName}</h3>
+                      <p className="text-xs text-slate-600 mb-3 leading-relaxed">
                         {hotel.hotelSpecial || "博多駅・祇園駅至近。天然温泉大浴場やこだわりの朝食バイキングで福岡旅行を快適にサポート。"}
                       </p>
                       {hotel.access && (
@@ -346,7 +346,7 @@ export default function FukuokaHakataEarlyMorningGuidePage() {
               <div>
                 <span className="text-[11px] text-slate-600 font-semibold mb-1 block">九州内移動</span>
                 <h3 className="font-bold text-sm text-slate-800 mb-1">【福岡〜熊本】新幹線 vs 高速バス（ひのくに号）徹底比較！</h3>
-                <p className="text-xs text-slate-500 line-clamp-2">
+                <p className="text-xs text-slate-500">
                   九州新幹線つばめ・さくらと高速バスひのくに号の料金・時間を検証。熊本城・阿蘇への日帰り旅にも便利。
                 </p>
               </div>
@@ -362,7 +362,7 @@ export default function FukuokaHakataEarlyMorningGuidePage() {
               <div>
                 <span className="text-[11px] text-slate-600 font-semibold mb-1 block">長距離移動</span>
                 <h3 className="font-bold text-sm text-slate-800 mb-1">【大阪〜福岡】山陽新幹線 vs 夜行高速バス 料金・時間比較</h3>
-                <p className="text-xs text-slate-500 line-clamp-2">
+                <p className="text-xs text-slate-500">
                   格安夜行バスで早朝博多駅に到着し、そのまま長浜ラーメン朝食へ向かう弾丸トラベルの活用術。
                 </p>
               </div>
@@ -411,19 +411,19 @@ export default function FukuokaHakataEarlyMorningGuidePage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/traditional-hakata-mizutaki-gourmet-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「博多名物・濃厚鶏白湯水炊き（呼子イカ活造り＆福岡名湯・サウナの極上宿5選）」博多名物・濃厚鶏白湯水炊き！呼子イカ活造り＆福岡名湯・サウナの極上宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「博多名物・濃厚鶏白湯水炊き（呼子イカ活造り＆福岡名湯・サウナの極上宿5選）」博多名物・濃厚鶏白湯水炊き！呼子イカ活造り＆福岡名湯・サウナの極上宿5選</span>
             </a>
             <a href="/winter-fukuoka-hakata-christmas-advent-gourmet-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12月福岡クリスマスアドベント】 博多駅・天神の光の街と本場もつ鍋・水炊き極上宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">【11・12月福岡クリスマスアドベント】 博多駅・天神の光の街と本場もつ鍋・水炊き極上宿5選</span>
             </a>
             <a href="/winter-fukuoka-mojiko-retro-illumination-buzen-oyster-kokuragyu-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">門司港レトロ浪漫灯彩イルミネーション＆関門海峡！ 旬の「豊前海一粒牡蠣」と元祖焼きカレー・小倉牛の名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">門司港レトロ浪漫灯彩イルミネーション＆関門海峡！ 旬の「豊前海一粒牡蠣」と元祖焼きカレー・小倉牛の名宿5選</span>
             </a>
             <a href="/winter-mie-iga-ueno-castle-akame-48waterfalls-hyobaku-igagyu-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「三重・伊賀上野＆赤目四十八滝」 忍者の里「伊賀上野城」白銀の高石垣と上野天神宮新春初詣！ 神秘の「赤目四十八滝」氷瀑と幻の極上伊賀牛すき焼き名宿</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「三重・伊賀上野＆赤目四十八滝」 忍者の里「伊賀上野城」白銀の高石垣と上野天神宮新春初詣！ 神秘の「赤目四十八滝」氷瀑と幻の極上伊賀牛すき焼き名宿</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

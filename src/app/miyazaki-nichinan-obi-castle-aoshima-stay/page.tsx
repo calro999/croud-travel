@@ -128,8 +128,8 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">青島天然温泉ルートイングランティアあおしま太陽閣</h4>
-                      <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition">青島天然温泉ルートイングランティアあおしま太陽閣</h4>
+                      <p className="text-xs text-stone-400 mt-1 leading-relaxed">
                         ◇サンマリンスタジアム宮崎まで車で7分◇朝食は日向灘オーシャンビュー◇天然温泉◇露天風呂◇夕食◇
                       </p>
                       <div className="mt-3 text-xs text-stone-300">
@@ -172,8 +172,8 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">天然温泉”たまゆらの湯”　宮崎観光ホテル</h4>
-                      <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition">天然温泉”たまゆらの湯”　宮崎観光ホテル</h4>
+                      <p className="text-xs text-stone-400 mt-1 leading-relaxed">
                         楽天トラベルからお申込み頂いた方専用ラウンジ10/26OPEN★17時からは宮崎の焼酎もご用意♪
                       </p>
                       <div className="mt-3 text-xs text-stone-300">
@@ -216,8 +216,8 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">ＡＮＡホリデイ・インリゾート宮崎　ｂｙ　ＩＨＧ</h4>
-                      <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition">ＡＮＡホリデイ・インリゾート宮崎　ｂｙ　ＩＨＧ</h4>
+                      <p className="text-xs text-stone-400 mt-1 leading-relaxed">
                         サウナ付天然温泉完備で泉質は美肌の湯、海を眺めながらご入浴が可能な展望大浴場です
                       </p>
                       <div className="mt-3 text-xs text-stone-300">
@@ -260,8 +260,8 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">ＡＯＳＨＩＭＡ　ＰＩＣＮＩＣ　ＣＬＵＢ</h4>
-                      <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition">ＡＯＳＨＩＭＡ　ＰＩＣＮＩＣ　ＣＬＵＢ</h4>
+                      <p className="text-xs text-stone-400 mt-1 leading-relaxed">
                         木々に囲まれたプライベート空間で手ぶらで快適なキャンプを楽しめます。
                       </p>
                       <div className="mt-3 text-xs text-stone-300">
@@ -346,8 +346,8 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">ホテル日南北郷リゾート</h4>
-                      <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition">ホテル日南北郷リゾート</h4>
+                      <p className="text-xs text-stone-400 mt-1 leading-relaxed">
                         宮崎の奥座敷、天然温泉を生かした山の上のリゾートホテルです。
                       </p>
                       <div className="mt-3 text-xs text-stone-300">
@@ -390,8 +390,8 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">ＡＮＡホリデイ・インリゾート宮崎　ｂｙ　ＩＨＧ</h4>
-                      <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition">ＡＮＡホリデイ・インリゾート宮崎　ｂｙ　ＩＨＧ</h4>
+                      <p className="text-xs text-stone-400 mt-1 leading-relaxed">
                         サウナ付天然温泉完備で泉質は美肌の湯、海を眺めながらご入浴が可能な展望大浴場です
                       </p>
                       <div className="mt-3 text-xs text-stone-300">
@@ -434,8 +434,8 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">フェニックス・シーガイア・オーシャン・タワー</h4>
-                      <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition">フェニックス・シーガイア・オーシャン・タワー</h4>
+                      <p className="text-xs text-stone-400 mt-1 leading-relaxed">
                         都会を離れ、心を整える、太陽と海のリゾート
                       </p>
                       <div className="mt-3 text-xs text-stone-300">
@@ -520,8 +520,8 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">ビジネス旅館　マルミ</h4>
-                      <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition">ビジネス旅館　マルミ</h4>
+                      <p className="text-xs text-stone-400 mt-1 leading-relaxed">
                         ★リニューアル★　生まれ変わったマルミ　日替わり料理はビジネス長期滞在に大好評♪　
                       </p>
                       <div className="mt-3 text-xs text-stone-300">
@@ -564,8 +564,8 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">皆生温泉　華水亭</h4>
-                      <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">お食事処リニューアルオープン♪日本海の眺望と季節の会席が愉しめる自家源泉の宿
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition">皆生温泉　華水亭</h4>
+                      <p className="text-xs text-stone-400 mt-1 leading-relaxed">お食事処リニューアルオープン♪日本海の眺望と季節の会席が愉しめる自家源泉の宿
                       </p>
                       <div className="mt-3 text-xs text-stone-300">
                         📍 鳥取県米子市皆生温泉4-19-10
@@ -607,8 +607,8 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">ＡＯＳＨＩＭＡ　ＳＵＩＫＯＥＮ</h4>
-                      <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition">ＡＯＳＨＩＭＡ　ＳＵＩＫＯＥＮ</h4>
+                      <p className="text-xs text-stone-400 mt-1 leading-relaxed">
                         リニューアルオープンAOSHIMA SUIKOEN&amp;Villa Anela インスタ映え間違い無し
                       </p>
                       <div className="mt-3 text-xs text-stone-300">
@@ -736,19 +736,19 @@ export default function Page() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/spring-miyazaki-hyuganatsu-citrus-spa-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「宮崎日向夏スイーツ＆宮崎牛」爽やか柑橘と南国リゾート青島温泉の美食名湯宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「宮崎日向夏スイーツ＆宮崎牛」爽やか柑橘と南国リゾート青島温泉の美食名湯宿5選</span>
             </a>
             <a href="/winter-miyazaki-ebino-plateau-shiratori-onsen-miyazakigyu-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「霧島連山樹氷と西郷隆盛癒やしの白鳥温泉」2026-2027年冬の宮崎・えびの＆小林！最高峰宮崎牛名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「霧島連山樹氷と西郷隆盛癒やしの白鳥温泉」2026-2027年冬の宮崎・えびの＆小林！最高峰宮崎牛名宿5選</span>
             </a>
             <a href="/winter-miyazaki-nichinan-obi-castle-udo-jingu-hatsumode-miyazakigyu-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「日州の小京都・飫肥城下町重伝建と鵜戸神宮新春初詣」2026-2027年冬の宮崎・日南！名物一本釣りカツオと宮崎牛会席名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「日州の小京都・飫肥城下町重伝建と鵜戸神宮新春初詣」2026-2027年冬の宮崎・日南！名物一本釣りカツオと宮崎牛会席名宿5選</span>
             </a>
             <a href="/winter-miyazaki-takachiho-yokagura-gorge-takachihogyu-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12月宮崎・神話の里高千穂】冬の夜神楽と真名井の滝 名物A5高千穂牛ステーキ＆かっぽ鶏・竹筒かっぽ酒を味わうパワースポット名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">【11・12月宮崎・神話の里高千穂】冬の夜神楽と真名井の滝 名物A5高千穂牛ステーキ＆かっぽ鶏・竹筒かっぽ酒を味わうパワースポット名宿5選</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

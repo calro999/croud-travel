@@ -42,7 +42,7 @@ export default function MatsuyamaBudgetAutumnPage() {
             <span className="px-3 py-1 bg-stone-800 text-amber-300 text-xs font-medium rounded-full border border-amber-400/30">1泊目安: 4,000円台〜6,000円台</span>
           </div>
           <h1 className="text-2xl md:text-4xl lg:text-5xl font-extrabold text-white leading-tight mb-4 drop-shadow-md">「秋の松山・道後温泉×格安」松山城の紅葉と最古の名湯外湯めぐり！1泊4,000円台〜のコスパ最強おすすめ宿5選</h1>
-          <p className="text-stone-200 text-sm md:text-base max-w-3xl line-clamp-2 md:line-clamp-none">
+          <p className="text-stone-200 text-sm md:text-base max-w-3xl">
             保存修理工事を終えて約5年半ぶりに全館営業を再開した「道後温泉本館」。城山全体が色づく松山城の絶景と、愛媛名物・鯛めしを堪能しながら、手頃な料金で名湯に浸かれる格安宿をご紹介します。
           </p>
         </div>
@@ -98,7 +98,7 @@ export default function MatsuyamaBudgetAutumnPage() {
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 松山市駅・道後温泉駅 / 市内路面電車「大街道駅」より徒歩約1分の駅ちかホテル。松山空港からリムジンバス（約30分）大街道下車、徒歩約1分
                   </p>
-                  <p className="text-sm text-stone-600 mb-4 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-stone-600 mb-4 leading-relaxed">
                     ★基本セミセパレートバス採用★路面電車「大街道駅」徒歩約1分「道後温泉駅」まで約15分♪観光拠点に◎
                   </p>
                 </div>
@@ -143,7 +143,7 @@ export default function MatsuyamaBudgetAutumnPage() {
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 道後温泉 / ＪＲ松山駅より路面電車２０分→道後温泉駅下車→徒歩５分 伊佐爾波神社の右手
                   </p>
-                  <p className="text-sm text-stone-600 mb-4 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-stone-600 mb-4 leading-relaxed">
                     道後温泉内に位置し、観光＆ビジネスに便利！　
                   </p>
                 </div>
@@ -188,7 +188,7 @@ export default function MatsuyamaBudgetAutumnPage() {
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 松山（愛媛） / ＪＲ　松山駅より徒歩約３分
                   </p>
-                  <p className="text-sm text-stone-600 mb-4 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-stone-600 mb-4 leading-relaxed">
                     サウナランキング2023で日本１位を受賞した5つのサウナと地下1,700ｍから湧き出た天然温泉
                   </p>
                 </div>
@@ -233,7 +233,7 @@ export default function MatsuyamaBudgetAutumnPage() {
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 松山空港 / 先ずは道後温泉本館を目指して下さい。ホテルは道後温泉本館の北側真向かい。温泉とホテルの間にある石畳の道へお入り下さい。
                   </p>
-                  <p className="text-sm text-stone-600 mb-4 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-stone-600 mb-4 leading-relaxed">
                     道後温泉本館に一番近いヨーロピアンホテル　”HOTEL PATIO DOGO”
                   </p>
                 </div>
@@ -278,7 +278,7 @@ export default function MatsuyamaBudgetAutumnPage() {
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 松山市 / 伊予鉄「松山市駅」から徒歩1分■松山空港から約24分 ■松山自動車道松山ICから車で約15分■松山港から約26分
                   </p>
-                  <p className="text-sm text-stone-600 mb-4 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-stone-600 mb-4 leading-relaxed">
                     サウナ付大浴場有！伊予鉄「松山市駅」横。道後温泉へ約20分、松山市内の観光やビジネス利用に便利。
                   </p>
                 </div>

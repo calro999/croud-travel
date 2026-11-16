@@ -601,21 +601,21 @@ export default function IshikawaKanazawaYuwakuWinterPage() {
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-rose-700 font-bold block text-[10px]">石川・金沢兼六園</span>
-              <p className="font-bold text-stone-800 line-clamp-2">兼六園雪吊り冬景色と金沢城・冬の味覚加能ガニを味わう加賀名宿</p>
+              <p className="font-bold text-stone-800">兼六園雪吊り冬景色と金沢城・冬の味覚加能ガニを味わう加賀名宿</p>
             </Link>
             <Link 
               href="/winter-ishikawa-awazu-onsen-kanogani-notogyu-kaga-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-rose-700 font-bold block text-[10px]">石川・加賀粟津温泉</span>
-              <p className="font-bold text-stone-800 line-clamp-2">開湯1300年粟津温泉の美肌湯と加能ガニ・能登牛を堪能する老舗宿</p>
+              <p className="font-bold text-stone-800">開湯1300年粟津温泉の美肌湯と加能ガニ・能登牛を堪能する老舗宿</p>
             </Link>
             <Link 
               href="/winter-toyama-amaharashi-shinminato-tateyama-crab-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-rose-700 font-bold block text-[10px]">富山・雨晴海岸＆新湊</span>
-              <p className="font-bold text-stone-800 line-clamp-2">冠雪立山連峰の奇跡絶景と新湊昼セリ本ズワイガニ・寒ブリを満喫する宿</p>
+              <p className="font-bold text-stone-800">冠雪立山連峰の奇跡絶景と新湊昼セリ本ズワイガニ・寒ブリを満喫する宿</p>
             </Link>
           
       <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">

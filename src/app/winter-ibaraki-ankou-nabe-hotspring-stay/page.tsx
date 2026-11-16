@@ -352,19 +352,19 @@ export default function FeaturePage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/winter-ibaraki-mito-kasama-inari-hatsumode-ankou-hitachigyu-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">笠間稲荷神社新春開運初詣＆水戸偕楽園冬梅！ 本場濃厚あんこう鍋と極上常陸牛の名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">笠間稲荷神社新春開運初詣＆水戸偕楽園冬梅！ 本場濃厚あんこう鍋と極上常陸牛の名宿5選</span>
             </a>
             <a href="/winter-ibaraki-tsukubasan-shrine-hatsumode-yakei-onsen-hitachigyu-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">冬の筑波山神社新春初詣＆スターダスト夜景！ 名湯筑波山温泉と極上常陸牛に寛ぐ厳選宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">冬の筑波山神社新春初詣＆スターダスト夜景！ 名湯筑波山温泉と極上常陸牛に寛ぐ厳選宿5選</span>
             </a>
             <a href="/autumn-budget-ibaraki-mito-kairakuen-momiji-ankou-hotels-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「水戸」偕楽園もみじ谷の紅葉＆旬のあんこう鍋！2,000円台〜泊まれる格安・高コスパ宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「水戸」偕楽園もみじ谷の紅葉＆旬のあんこう鍋！2,000円台〜泊まれる格安・高コスパ宿5選</span>
             </a>
             <a href="/furusato-tax-akiu-onsen-sendai-retreat-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">秋保温泉をふるさと納税でお得に旅する！名取川渓谷美＆伊達政宗公ゆかりの名湯！仙台牛美食と老舗宿厳選ガイド｜伝承千年の宿佐勘・緑水亭・ホテルニュー水戸屋</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">秋保温泉をふるさと納税でお得に旅する！名取川渓谷美＆伊達政宗公ゆかりの名湯！仙台牛美食と老舗宿厳選ガイド｜伝承千年の宿佐勘・緑水亭・ホテルニュー水戸屋</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">
@@ -425,19 +425,19 @@ export default function FeaturePage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/winter-ibaraki-mito-kasama-inari-hatsumode-ankou-hitachigyu-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">笠間稲荷神社新春開運初詣＆水戸偕楽園冬梅！ 本場濃厚あんこう鍋と極上常陸牛の名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">笠間稲荷神社新春開運初詣＆水戸偕楽園冬梅！ 本場濃厚あんこう鍋と極上常陸牛の名宿5選</span>
             </a>
             <a href="/winter-ibaraki-tsukubasan-shrine-hatsumode-yakei-onsen-hitachigyu-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">冬の筑波山神社新春初詣＆スターダスト夜景！ 名湯筑波山温泉と極上常陸牛に寛ぐ厳選宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">冬の筑波山神社新春初詣＆スターダスト夜景！ 名湯筑波山温泉と極上常陸牛に寛ぐ厳選宿5選</span>
             </a>
             <a href="/autumn-budget-ibaraki-mito-kairakuen-momiji-ankou-hotels-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「水戸」偕楽園もみじ谷の紅葉＆旬のあんこう鍋！2,000円台〜泊まれる格安・高コスパ宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「水戸」偕楽園もみじ谷の紅葉＆旬のあんこう鍋！2,000円台〜泊まれる格安・高コスパ宿5選</span>
             </a>
             <a href="/furusato-tax-akiu-onsen-sendai-retreat-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">秋保温泉をふるさと納税でお得に旅する！名取川渓谷美＆伊達政宗公ゆかりの名湯！仙台牛美食と老舗宿厳選ガイド｜伝承千年の宿佐勘・緑水亭・ホテルニュー水戸屋</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">秋保温泉をふるさと納税でお得に旅する！名取川渓谷美＆伊達政宗公ゆかりの名湯！仙台牛美食と老舗宿厳選ガイド｜伝承千年の宿佐勘・緑水亭・ホテルニュー水戸屋</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

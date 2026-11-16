@@ -292,14 +292,14 @@ export default function SilverWeekGlampingBonfireMarshmallowBarPage() {
                     🔥 {hotel.address1} {hotel.address2}
                   </div>
 
-                  <h3 className="font-black text-stone-900 text-base leading-snug group-hover:text-rose-700 transition line-clamp-2 font-journal-serif">{hotel.hotelName}</h3>
+                  <h3 className="font-black text-stone-900 text-base leading-snug group-hover:text-rose-700 transition font-journal-serif">{hotel.hotelName}</h3>
 
-                  <p className="text-xs text-stone-600 line-clamp-3 leading-relaxed font-medium">
+                  <p className="text-xs text-stone-600 leading-relaxed font-medium">
                     {hotel.hotelSpecial || "専用ファイヤーピットや薪火演出、充実のドリンクBARで大人時間を満喫する極上グランピング。"}
                   </p>
 
                   {hotel.access && (
-                    <p className="text-[11px] text-stone-500 line-clamp-1">
+                    <p className="text-[11px] text-stone-500">
                       🚗 {hotel.access}
                     </p>
                   )}
@@ -365,7 +365,7 @@ export default function SilverWeekGlampingBonfireMarshmallowBarPage() {
             <span className="text-[10px] font-bold text-rose-700 bg-rose-100 px-2 py-0.5 rounded-full inline-block mb-1.5">
               記念日＆温泉デート
             </span>
-            <div className="font-bold text-xs sm:text-sm text-stone-900 group-hover:text-rose-700 transition line-clamp-2">
+            <div className="font-bold text-xs sm:text-sm text-stone-900 group-hover:text-rose-700 transition">
               【冬の記念日＆温泉デート】露天風呂付き客室と美食ディナーで過ごす二人だけの特別旅ガイド
             </div>
           </Link>
@@ -377,7 +377,7 @@ export default function SilverWeekGlampingBonfireMarshmallowBarPage() {
             <span className="text-[10px] font-bold text-rose-700 bg-rose-100 px-2 py-0.5 rounded-full inline-block mb-1.5">
               大人の夜スイーツ
             </span>
-            <div className="font-bold text-xs sm:text-sm text-stone-900 group-hover:text-rose-700 transition line-clamp-2">
+            <div className="font-bold text-xs sm:text-sm text-stone-900 group-hover:text-rose-700 transition">
               【札幌締めパフェ完全攻略】お酒の後に味わう夜限定スイーツの名店とおすすめペアリング
             </div>
           </Link>

@@ -168,7 +168,7 @@ export default function Page() {
         <span>/</span>
         <Link href="/features/" className="hover:text-teal-800 transition">特集一覧</Link>
         <span>/</span>
-        <span className="text-emerald-950/40 line-clamp-1">星空保護区・天体観測リゾート</span>
+        <span className="text-emerald-950/40">星空保護区・天体観測リゾート</span>
       </nav>
 
       {/* ヒーローヘッダー */}

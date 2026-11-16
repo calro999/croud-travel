@@ -359,7 +359,7 @@ export default function NaganoHirugamiOnsenWinterPage() {
                     </div>
 
                     <div className="pt-3 border-t border-stone-100 flex items-center justify-between">
-                      <div className="text-[11px] text-stone-500 truncate max-w-[200px]">
+                      <div className="text-[11px] text-stone-500 break-words max-w-[200px]">
                         {h.access}
                       </div>
                       <a 
@@ -541,21 +541,21 @@ export default function NaganoHirugamiOnsenWinterPage() {
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-indigo-700 font-bold block text-[10px]">長野・渋温泉＆小布施</span>
-              <p className="font-bold text-stone-800 line-clamp-2">小布施の冬栗おこわ＆完熟サンふじ・石畳の渋温泉「九湯めぐり」名宿</p>
+              <p className="font-bold text-stone-800">小布施の冬栗おこわ＆完熟サンふじ・石畳の渋温泉「九湯めぐり」名宿</p>
             </Link>
             <Link 
               href="/winter-nagano-suwa-onsen-lake-view-shinshu-beef-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-indigo-700 font-bold block text-[10px]">長野・諏訪湖温泉</span>
-              <p className="font-bold text-stone-800 line-clamp-2">諏訪湖の湖畔絶景と信州牛すき焼き・冬の澄んだ空気と名湯めぐり</p>
+              <p className="font-bold text-stone-800">諏訪湖の湖畔絶景と信州牛すき焼き・冬の澄んだ空気と名湯めぐり</p>
             </Link>
             <Link 
               href="/winter-gifu-gero-onsen-hidagyu-bihada-hanabi-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-indigo-700 font-bold block text-[10px]">岐阜・下呂温泉</span>
-              <p className="font-bold text-stone-800 line-clamp-2">天下三名泉のとろとろ美肌湯と極上飛騨牛・冬の花火物語を巡る名宿</p>
+              <p className="font-bold text-stone-800">天下三名泉のとろとろ美肌湯と極上飛騨牛・冬の花火物語を巡る名宿</p>
             </Link>
           
       <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">

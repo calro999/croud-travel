@@ -389,19 +389,19 @@ export default function FeaturePage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/kanazawa/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「金沢旅行 完全計画ガイド」 モデルコース・観光スポット・海鮮グルメ・宿選びから予約まで</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「金沢旅行 完全計画ガイド」 モデルコース・観光スポット・海鮮グルメ・宿選びから予約まで</span>
             </a>
             <a href="/kanazawa-solo-retreat-onsen-gourmet-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「金沢ひとり旅・美食おこもり」近江町市場徒歩すぐ・最上階天然温泉・のどぐろ会席！加賀百万石の極上ステイ 厳選3選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「金沢ひとり旅・美食おこもり」近江町市場徒歩すぐ・最上階天然温泉・のどぐろ会席！加賀百万石の極上ステイ 厳選3選</span>
             </a>
             <a href="/kanazawa-trip-packing-regrets-worst5-guide/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「金沢旅行で後悔したことワースト5」 月曜定休トラップ＆21美予約忘れ！海鮮丼行列を回避する持ち物＆知恵袋</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「金沢旅行で後悔したことワースト5」 月曜定休トラップ＆21美予約忘れ！海鮮丼行列を回避する持ち物＆知恵袋</span>
             </a>
             <a href="/noto/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「能登旅行 完全計画ガイド」 モデルコース・和倉温泉・白米千枚田・能登丼・宿選びから予約まで</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「能登旅行 完全計画ガイド」 モデルコース・和倉温泉・白米千枚田・能登丼・宿選びから予約まで</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

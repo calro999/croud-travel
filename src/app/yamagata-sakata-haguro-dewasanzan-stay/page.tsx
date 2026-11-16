@@ -128,8 +128,8 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">日和山ホテル</h4>
-                      <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition">日和山ホテル</h4>
+                      <p className="text-xs text-stone-400 mt-1 leading-relaxed">
                         故郷に帰ったような温かい昭和の宿。Wifi無料・館内イノベーション済・日和山公園すぐそば。
                       </p>
                       <div className="mt-3 text-xs text-stone-300">
@@ -172,8 +172,8 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">湯野浜ホテル</h4>
-                      <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition">湯野浜ホテル</h4>
+                      <p className="text-xs text-stone-400 mt-1 leading-relaxed">
                         本格的な韓国料理を楽しめる海辺の温泉旅館。全部屋トイレ付でプライバシーも安心です♬
                       </p>
                       <div className="mt-3 text-xs text-stone-300">
@@ -216,8 +216,8 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">ＫＡＭＥＹＡ　ＨＯＴＥＬ</h4>
-                      <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition">ＫＡＭＥＹＡ　ＨＯＴＥＬ</h4>
+                      <p className="text-xs text-stone-400 mt-1 leading-relaxed">
                         水平線に沈む絶景の夕陽を全てのお部屋から。 庄内の豊かな海の幸、山の幸を生かした極上の美食宿。
                       </p>
                       <div className="mt-3 text-xs text-stone-300">
@@ -302,8 +302,8 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">羽黒山　三光院</h4>
-                      <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition">羽黒山　三光院</h4>
+                      <p className="text-xs text-stone-400 mt-1 leading-relaxed">
                         羽黒山の玄関「隋神門」まで徒歩約7分の宿坊。東北の山岳信仰の中心地で自然と伝統をじっくり体験
                       </p>
                       <div className="mt-3 text-xs text-stone-300">
@@ -346,8 +346,8 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">旅館　羽黒館</h4>
-                      <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition">旅館　羽黒館</h4>
+                      <p className="text-xs text-stone-400 mt-1 leading-relaxed">
                         羽黒の歴史を感じ、伝統息づく料理に舌鼓。国宝「羽黒山五重塔」の入り口までは、当館より徒歩約10分。
                       </p>
                       <div className="mt-3 text-xs text-stone-300">
@@ -390,8 +390,8 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">大進坊</h4>
-                      <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition">大進坊</h4>
+                      <p className="text-xs text-stone-400 mt-1 leading-relaxed">
                         三百年の歴史ある宿坊。地元の素材に拘った手作り精進料理、ごま豆腐・栃餅が好評。希望者は祈祷体験可能。
                       </p>
                       <div className="mt-3 text-xs text-stone-300">
@@ -476,8 +476,8 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">湯野浜温泉　竹屋ホテル（鶴岡・酒田）</h4>
-                      <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition">湯野浜温泉　竹屋ホテル（鶴岡・酒田）</h4>
+                      <p className="text-xs text-stone-400 mt-1 leading-relaxed">
                         日本海に面した砂浜に位置し夕陽が大変美しい宿。出来たてを大切にした料理で名物「浜焼き」が好評です。
                       </p>
                       <div className="mt-3 text-xs text-stone-300">
@@ -520,8 +520,8 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">ホテルルートイン鶴岡インター</h4>
-                      <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition">ホテルルートイン鶴岡インター</h4>
+                      <p className="text-xs text-stone-400 mt-1 leading-relaxed">
                         WOWOW全室で無料視聴可能！！山形自動車道鶴岡ICより車で3分のホテルルートイン鶴岡インター
                       </p>
                       <div className="mt-3 text-xs text-stone-300">
@@ -564,8 +564,8 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">ホテルルートイン鶴岡駅前</h4>
-                      <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition">ホテルルートイン鶴岡駅前</h4>
+                      <p className="text-xs text-stone-400 mt-1 leading-relaxed">
                         鶴岡駅より徒歩１分の好立地。男女別ラジウム人工温泉大浴場を完備。朝食は、品数豊富な和洋バイキング。
                       </p>
                       <div className="mt-3 text-xs text-stone-300">
@@ -608,8 +608,8 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">東京第一ホテル鶴岡</h4>
-                      <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition">東京第一ホテル鶴岡</h4>
+                      <p className="text-xs text-stone-400 mt-1 leading-relaxed">
                         鶴岡駅より徒歩約5分、バスターミナル隣接、ショッピングモール直結の好立地。
                       </p>
                       <div className="mt-3 text-xs text-stone-300">
@@ -737,19 +737,19 @@ export default function Page() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/winter-yamagata-shonai-kandara-atsumi-yunohama-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12・1月山形】庄内名物「寒鱈汁（どんがら汁）」と極上白子・寒ブリ・出羽三山雪景色＆名湯あつみ・湯野浜温泉を巡る厳選宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">【11・12・1月山形】庄内名物「寒鱈汁（どんがら汁）」と極上白子・寒ブリ・出羽三山雪景色＆名湯あつみ・湯野浜温泉を巡る厳選宿5選</span>
             </a>
             <a href="/yamagata-sakata-sankyo-warehouse-shonai-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">山形・酒田＆山居倉庫・庄内砂丘：北前船豪商の港町・酒田ラーメン＆日本海夕陽宿 厳選ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">山形・酒田＆山居倉庫・庄内砂丘：北前船豪商の港町・酒田ラーメン＆日本海夕陽宿 厳選ガイド</span>
             </a>
             <a href="/yamagata-zao-onsen-frost-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">山形・蔵王温泉：樹氷スノーモンスター・強酸性硫黄泉＆山形牛極上宿 厳選ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">山形・蔵王温泉：樹氷スノーモンスター・強酸性硫黄泉＆山形牛極上宿 厳選ガイド</span>
             </a>
             <a href="/furusato-tax-sake-bar-unlimited-tasting-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">地酒BAR＆日本酒利き酒し放題の名湯宿×ふるさと納税厳選ガイド越後湯沢・山形赤湯・京都伏見の酒蔵ステイ</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">地酒BAR＆日本酒利き酒し放題の名湯宿×ふるさと納税厳選ガイド越後湯沢・山形赤湯・京都伏見の酒蔵ステイ</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

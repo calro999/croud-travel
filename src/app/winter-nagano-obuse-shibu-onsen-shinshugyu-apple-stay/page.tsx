@@ -667,21 +667,21 @@ export default function NaganoObuseShibuWinterPage() {
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-amber-700 font-bold block text-[10px]">長野・渋温泉</span>
-              <p className="font-bold text-stone-800 line-clamp-2">名湯九湯めぐりと石畳の情緒・信州牛すき焼きを味わう冬の湯治宿</p>
+              <p className="font-bold text-stone-800">名湯九湯めぐりと石畳の情緒・信州牛すき焼きを味わう冬の湯治宿</p>
             </Link>
             <Link 
               href="/winter-nagano-yudanaka-onsen-snow-monkey-shinshu-beef-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-amber-700 font-bold block text-[10px]">長野・湯田中温泉</span>
-              <p className="font-bold text-stone-800 line-clamp-2">開湯1350年の歴史と桃山風呂・スノーモンキー散策と信州プレミアム牛</p>
+              <p className="font-bold text-stone-800">開湯1350年の歴史と桃山風呂・スノーモンキー散策と信州プレミアム牛</p>
             </Link>
             <Link 
               href="/winter-nagano-jigokudani-snow-monkey-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-amber-700 font-bold block text-[10px]">長野・地獄谷温泉</span>
-              <p className="font-bold text-stone-800 line-clamp-2">温泉に浸かる野生ザルの神秘と冬の秘湯・信州そばと温まりの露天風呂</p>
+              <p className="font-bold text-stone-800">温泉に浸かる野生ザルの神秘と冬の秘湯・信州そばと温まりの露天風呂</p>
             </Link>
           
       <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">

@@ -516,8 +516,8 @@ export default function WinterNaganoKakeyuPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-indigo-300 bg-indigo-400/20 px-2 py-0.5 rounded-full inline-block">長野・別所温泉</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-indigo-200 transition line-clamp-2">信州の鎌倉・別所温泉の厄除け名湯と信州牛</h4>
-              <p className="text-[11px] text-stone-200 line-clamp-2">
+              <h4 className="text-xs font-bold text-white group-hover:text-indigo-200 transition">信州の鎌倉・別所温泉の厄除け名湯と信州牛</h4>
+              <p className="text-[11px] text-stone-200">
                 国宝安楽寺の初冬静寂と外湯めぐり、信州プレミアム牛すき焼きの名宿。
               </p>
             </Link>
@@ -527,8 +527,8 @@ export default function WinterNaganoKakeyuPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-indigo-300 bg-indigo-400/20 px-2 py-0.5 rounded-full inline-block">長野・浅間温泉</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-indigo-200 transition line-clamp-2">国宝松本城の白銀絶景と浅間温泉の名宿</h4>
-              <p className="text-[11px] text-stone-200 line-clamp-2">
+              <h4 className="text-xs font-bold text-white group-hover:text-indigo-200 transition">国宝松本城の白銀絶景と浅間温泉の名宿</h4>
+              <p className="text-[11px] text-stone-200">
                 城下町松本の文化薫る奥座敷、弱アルカリ性単純温泉と信州郷土会席。
               </p>
             </Link>
@@ -538,8 +538,8 @@ export default function WinterNaganoKakeyuPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-indigo-300 bg-indigo-400/20 px-2 py-0.5 rounded-full inline-block">長野・野沢温泉</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-indigo-200 transition line-clamp-2">外湯十三湯めぐりと極上パウダースノー</h4>
-              <p className="text-[11px] text-stone-200 line-clamp-2">
+              <h4 className="text-xs font-bold text-white group-hover:text-indigo-200 transition">外湯十三湯めぐりと極上パウダースノー</h4>
+              <p className="text-[11px] text-stone-200">
                 豪雪地帯に湧く熱々の硫黄泉と名物野沢菜新漬け、信州牛すき焼きの冬旅。
               </p>
             </Link>

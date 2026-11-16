@@ -611,7 +611,7 @@ export default function TokushimaIyaValleyWinterPage() {
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-teal-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-teal-800 font-bold text-xs block mb-1">鳥取・境港＆皆生温泉</span>
-              <span className="text-stone-900 font-bold group-hover:text-teal-900 transition-colors line-clamp-2">
+              <span className="text-stone-900 font-bold group-hover:text-teal-900 transition-colors">
                 山陰松葉ガニ解禁！境港水産物市場と皆生温泉「塩の湯」名宿
               </span>
             </Link>
@@ -621,7 +621,7 @@ export default function TokushimaIyaValleyWinterPage() {
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-teal-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-teal-800 font-bold text-xs block mb-1">佐賀・太良＆嬉野</span>
-              <span className="text-stone-900 font-bold group-hover:text-teal-900 transition-colors line-clamp-2">
+              <span className="text-stone-900 font-bold group-hover:text-teal-900 transition-colors">
                 冬の内子竹崎カニと祐徳稲荷初詣・日本三大美肌湯嬉野温泉名宿
               </span>
             </Link>
@@ -631,7 +631,7 @@ export default function TokushimaIyaValleyWinterPage() {
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-teal-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-teal-800 font-bold text-xs block mb-1">静岡・下田＆爪木崎</span>
-              <span className="text-stone-900 font-bold group-hover:text-teal-900 transition-colors line-clamp-2">
+              <span className="text-stone-900 font-bold group-hover:text-teal-900 transition-colors">
                 300万本の爪木崎水仙まつりと富士山絶景・一本釣り地金目鯛名宿
               </span>
             </Link>
@@ -641,7 +641,7 @@ export default function TokushimaIyaValleyWinterPage() {
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-teal-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-teal-800 font-bold text-xs block mb-1">北海道・千歳支笏湖</span>
-              <span className="text-stone-900 font-bold group-hover:text-teal-900 transition-colors line-clamp-2">
+              <span className="text-stone-900 font-bold group-hover:text-teal-900 transition-colors">
                 支笏湖ブルーと氷濤まつり・丸駒温泉秘湯＆冬ヒメマス料理名宿
               </span>
             </Link>
@@ -651,7 +651,7 @@ export default function TokushimaIyaValleyWinterPage() {
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-teal-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-teal-800 font-bold text-xs block mb-1">茨城・袋田＆奥久慈</span>
-              <span className="text-stone-900 font-bold group-hover:text-teal-900 transition-colors line-clamp-2">
+              <span className="text-stone-900 font-bold group-hover:text-teal-900 transition-colors">
                 日本三名瀑・袋田の滝の完全凍結「氷瀑」と奥久慈軍鶏鍋＆常陸牛名宿
               </span>
             </Link>

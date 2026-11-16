@@ -352,19 +352,19 @@ export default function FeaturePage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/super-panoramic-lake-canoe-kayak-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「湖上カヌー＆カヤック冒険」富士五湖・中禅寺湖・十和田湖！水上パノラマと絶景温泉宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「湖上カヌー＆カヤック冒険」富士五湖・中禅寺湖・十和田湖！水上パノラマと絶景温泉宿5選</span>
             </a>
             <a href="/winter-yamanashi-kofu-takeda-shrine-yumura-onsen-koshugyu-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">武田神社新春初詣＆富士山・南アルプス雪景色！ 開湯1200年信玄の隠し湯「湯村温泉」と熱々ほうとう・甲州牛の名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">武田神社新春初詣＆富士山・南アルプス雪景色！ 開湯1200年信玄の隠し湯「湯村温泉」と熱々ほうとう・甲州牛の名宿5選</span>
             </a>
             <a href="/autumn-budget-yamanashi-kofu-station-shosenkyo-houtou-hotels-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「甲府駅前」昇仙峡の錦秋＆名物ほうとう！3,000円台〜泊まれる格安・高コスパ宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「甲府駅前」昇仙峡の錦秋＆名物ほうとう！3,000円台〜泊まれる格安・高コスパ宿5選</span>
             </a>
             <a href="/fuji-five-lakes-car-free-bus-guide/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「富士五湖・河口湖 車なし観光ガイド」 周遊バス・富士急行で回る！逆さ富士・忍野八海・浅間神社モデルコース</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「富士五湖・河口湖 車なし観光ガイド」 周遊バス・富士急行で回る！逆さ富士・忍野八海・浅間神社モデルコース</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">
@@ -431,7 +431,7 @@ export default function FeaturePage() {
                 <span className="inline-block text-[10px] font-bold px-2 py-0.5 rounded bg-amber-100 text-amber-800 mb-2">
                   厳選おすすめ特集
                 </span>
-                <h3 className="font-bold text-stone-900 group-hover:text-amber-700 text-xs md:text-sm line-clamp-2 leading-snug">【北海道シルバーウィーク グランピング】札幌・富良野・トマム！秋晴れの爽快リゾートヴィラ ｜ 日本全国・旅宿クラウド</h3>
+                <h3 className="font-bold text-stone-900 group-hover:text-amber-700 text-xs md:text-sm leading-snug">【北海道シルバーウィーク グランピング】札幌・富良野・トマム！秋晴れの爽快リゾートヴィラ ｜ 日本全国・旅宿クラウド</h3>
               </div>
               <span className="text-[11px] text-amber-600 font-semibold mt-3 flex items-center gap-1">
                 特集を見る →
@@ -445,7 +445,7 @@ export default function FeaturePage() {
                 <span className="inline-block text-[10px] font-bold px-2 py-0.5 rounded bg-amber-100 text-amber-800 mb-2">
                   厳選おすすめ特集
                 </span>
-                <h3 className="font-bold text-stone-900 group-hover:text-amber-700 text-xs md:text-sm line-clamp-2 leading-snug">日本三大夜景＆天空スカイラウンジホテル×ふるさと納税完全ガイド【2026年最新】長崎・神戸・函館の1000万ドル夜景ステイ</h3>
+                <h3 className="font-bold text-stone-900 group-hover:text-amber-700 text-xs md:text-sm leading-snug">日本三大夜景＆天空スカイラウンジホテル×ふるさと納税完全ガイド【2026年最新】長崎・神戸・函館の1000万ドル夜景ステイ</h3>
               </div>
               <span className="text-[11px] text-amber-600 font-semibold mt-3 flex items-center gap-1">
                 特集を見る →
@@ -459,7 +459,7 @@ export default function FeaturePage() {
                 <span className="inline-block text-[10px] font-bold px-2 py-0.5 rounded bg-amber-100 text-amber-800 mb-2">
                   厳選おすすめ特集
                 </span>
-                <h3 className="font-bold text-stone-900 group-hover:text-amber-700 text-xs md:text-sm line-clamp-2 leading-snug">日本三大名水・湧水水源地＆清流酒蔵グルメ・名水露天風呂宿×ふるさと納税完全ガイド【2026年最新】黒部湧水群・白州尾白川・南阿蘇白川水源</h3>
+                <h3 className="font-bold text-stone-900 group-hover:text-amber-700 text-xs md:text-sm leading-snug">日本三大名水・湧水水源地＆清流酒蔵グルメ・名水露天風呂宿×ふるさと納税完全ガイド【2026年最新】黒部湧水群・白州尾白川・南阿蘇白川水源</h3>
               </div>
               <span className="text-[11px] text-amber-600 font-semibold mt-3 flex items-center gap-1">
                 特集を見る →
@@ -473,7 +473,7 @@ export default function FeaturePage() {
                 <span className="inline-block text-[10px] font-bold px-2 py-0.5 rounded bg-amber-100 text-amber-800 mb-2">
                   厳選おすすめ特集
                 </span>
-                <h3 className="font-bold text-stone-900 group-hover:text-amber-700 text-xs md:text-sm line-clamp-2 leading-snug">絶景夕日・サンセット特等席の海宿×ふるさと納税完全ガイド【2026年最新】堂ヶ島・由良・白浜の茜色マジックアワー温泉</h3>
+                <h3 className="font-bold text-stone-900 group-hover:text-amber-700 text-xs md:text-sm leading-snug">絶景夕日・サンセット特等席の海宿×ふるさと納税完全ガイド【2026年最新】堂ヶ島・由良・白浜の茜色マジックアワー温泉</h3>
               </div>
               <span className="text-[11px] text-amber-600 font-semibold mt-3 flex items-center gap-1">
                 特集を見る →

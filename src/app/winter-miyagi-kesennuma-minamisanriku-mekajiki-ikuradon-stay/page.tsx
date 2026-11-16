@@ -611,7 +611,7 @@ export default function MiyagiKesennumaMinamisanrikuWinterPage() {
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-cyan-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-cyan-800 font-bold text-xs block mb-1">宮城・松島</span>
-              <span className="text-stone-900 font-bold group-hover:text-cyan-900 transition-colors line-clamp-2">
+              <span className="text-stone-900 font-bold group-hover:text-cyan-900 transition-colors">
                 日本三景・冬の松島湾雪景色と旬の焼き牡蠣・松島温泉パノラマ名宿
               </span>
             </Link>
@@ -621,7 +621,7 @@ export default function MiyagiKesennumaMinamisanrikuWinterPage() {
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-cyan-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-cyan-800 font-bold text-xs block mb-1">宮城・秋保温泉</span>
-              <span className="text-stone-900 font-bold group-hover:text-cyan-900 transition-colors line-clamp-2">
+              <span className="text-stone-900 font-bold group-hover:text-cyan-900 transition-colors">
                 仙台の奥座敷・冬の磊々峡雪景色と極上仙台牛＆仙台せり鍋名宿
               </span>
             </Link>
@@ -631,7 +631,7 @@ export default function MiyagiKesennumaMinamisanrikuWinterPage() {
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-cyan-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-cyan-800 font-bold text-xs block mb-1">青森・奥入瀬＆八甲田</span>
-              <span className="text-stone-900 font-bold group-hover:text-cyan-900 transition-colors line-clamp-2">
+              <span className="text-stone-900 font-bold group-hover:text-cyan-900 transition-colors">
                 奥入瀬渓流の幻想的な氷瀑ライトアップと八甲田樹氷・雪見秘湯名宿
               </span>
             </Link>
@@ -641,7 +641,7 @@ export default function MiyagiKesennumaMinamisanrikuWinterPage() {
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-cyan-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-cyan-800 font-bold text-xs block mb-1">鳥取・境港＆皆生温泉</span>
-              <span className="text-stone-900 font-bold group-hover:text-cyan-900 transition-colors line-clamp-2">
+              <span className="text-stone-900 font-bold group-hover:text-cyan-900 transition-colors">
                 山陰松葉ガニ解禁！境港水産物直売センター＆皆生温泉「塩の湯」名宿
               </span>
             </Link>
@@ -651,7 +651,7 @@ export default function MiyagiKesennumaMinamisanrikuWinterPage() {
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-cyan-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-cyan-800 font-bold text-xs block mb-1">静岡・下田＆爪木崎</span>
-              <span className="text-stone-900 font-bold group-hover:text-cyan-900 transition-colors line-clamp-2">
+              <span className="text-stone-900 font-bold group-hover:text-cyan-900 transition-colors">
                 300万本の爪木崎水仙まつりと一本釣り極上「地金目鯛」姿煮名宿
               </span>
             </Link>
@@ -661,7 +661,7 @@ export default function MiyagiKesennumaMinamisanrikuWinterPage() {
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-cyan-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-cyan-800 font-bold text-xs block mb-1">佐賀・太良町＆嬉野温泉</span>
-              <span className="text-stone-900 font-bold group-hover:text-cyan-900 transition-colors line-clamp-2">
+              <span className="text-stone-900 font-bold group-hover:text-cyan-900 transition-colors">
                 冬の有明海名物「内子たっぷり竹崎カニ」と祐徳稲荷神社初詣名宿
               </span>
             </Link>

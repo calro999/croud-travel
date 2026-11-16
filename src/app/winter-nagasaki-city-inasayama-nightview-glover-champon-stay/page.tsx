@@ -611,7 +611,7 @@ export default function NagasakiCityInasayamaWinterPage() {
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-amber-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-amber-800 font-bold text-xs block mb-1">長崎・佐世保</span>
-              <span className="text-stone-900 font-bold group-hover:text-amber-900 transition-colors line-clamp-2">
+              <span className="text-stone-900 font-bold group-hover:text-amber-900 transition-colors">
                 世界最大1300万球・ハウステンボスの光の王国クリスマス＆直営名宿
               </span>
             </Link>
@@ -621,7 +621,7 @@ export default function NagasakiCityInasayamaWinterPage() {
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-amber-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-amber-800 font-bold text-xs block mb-1">長崎・雲仙温泉</span>
-              <span className="text-stone-900 font-bold group-hover:text-amber-900 transition-colors line-clamp-2">
+              <span className="text-stone-900 font-bold group-hover:text-amber-900 transition-colors">
                 白煙上げる雲仙地獄と普賢岳の霧氷絶景・濃厚硫黄泉＆雲仙牛名宿
               </span>
             </Link>
@@ -631,7 +631,7 @@ export default function NagasakiCityInasayamaWinterPage() {
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-amber-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-amber-800 font-bold text-xs block mb-1">長崎・平戸</span>
-              <span className="text-stone-900 font-bold group-hover:text-amber-900 transition-colors line-clamp-2">
+              <span className="text-stone-900 font-bold group-hover:text-amber-900 transition-colors">
                 冬の高級魚クエ＆平目まつり・平戸牛と南蛮情緒の平戸温泉名宿
               </span>
             </Link>
@@ -641,7 +641,7 @@ export default function NagasakiCityInasayamaWinterPage() {
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-amber-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-amber-800 font-bold text-xs block mb-1">佐賀・太良町＆嬉野</span>
-              <span className="text-stone-900 font-bold group-hover:text-amber-900 transition-colors line-clamp-2">
+              <span className="text-stone-900 font-bold group-hover:text-amber-900 transition-colors">
                 冬の内子たっぷり竹崎カニと日本三大稲荷・祐徳稲荷神社初詣名宿
               </span>
             </Link>
@@ -651,7 +651,7 @@ export default function NagasakiCityInasayamaWinterPage() {
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-amber-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-amber-800 font-bold text-xs block mb-1">宮崎・高千穂</span>
-              <span className="text-stone-900 font-bold group-hover:text-amber-900 transition-colors line-clamp-2">
+              <span className="text-stone-900 font-bold group-hover:text-amber-900 transition-colors">
                 国の重要無形文化財・高千穂の夜神楽と真名井の滝・高千穂牛名宿
               </span>
             </Link>
@@ -661,7 +661,7 @@ export default function NagasakiCityInasayamaWinterPage() {
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-amber-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-amber-800 font-bold text-xs block mb-1">北海道・函館</span>
-              <span className="text-stone-900 font-bold group-hover:text-amber-900 transition-colors line-clamp-2">
+              <span className="text-stone-900 font-bold group-hover:text-amber-900 transition-colors">
                 冬の函館山100万ドルの雪夜景といさり火・湯の川温泉の海鮮名宿
               </span>
             </Link>

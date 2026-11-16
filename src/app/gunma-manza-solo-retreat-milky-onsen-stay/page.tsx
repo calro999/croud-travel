@@ -368,19 +368,19 @@ export default function ArticlePage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/organic-forest-floating-tent-sauna-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「水上サウナ＆浮遊外気浴」湖や池に浮かぶフローティングサウナと温泉宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「水上サウナ＆浮遊外気浴」湖や池に浮かぶフローティングサウナと温泉宿5選</span>
             </a>
             <a href="/super-panoramic-canyon-packrafting-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「超軽量パックラフト冒険」清流の静水と急流を漕ぎ抜ける！奥多摩・みなかみ渓谷温泉宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「超軽量パックラフト冒険」清流の静水と急流を漕ぎ抜ける！奥多摩・みなかみ渓谷温泉宿5選</span>
             </a>
             <a href="/tokyo-mie-ise-shima-bus-vs-train-guide/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「東京〜伊勢神宮・鳥羽」新幹線＋近鉄特急 vs 直行夜行バス徹底比較！片道4,000円〜行くお伊勢参り＆おかげ横丁1泊2日モデルコース</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「東京〜伊勢神宮・鳥羽」新幹線＋近鉄特急 vs 直行夜行バス徹底比較！片道4,000円〜行くお伊勢参り＆おかげ横丁1泊2日モデルコース</span>
             </a>
             <a href="/winter-gunma-houshi-sarugakyo-onsen-snow-joshu-beef-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">白銀の三国峠と足元湧出「法師乃湯」 赤谷湖畔で味わう極上面上州牛すき焼き名宿</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">白銀の三国峠と足元湧出「法師乃湯」 赤谷湖畔で味わう極上面上州牛すき焼き名宿</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

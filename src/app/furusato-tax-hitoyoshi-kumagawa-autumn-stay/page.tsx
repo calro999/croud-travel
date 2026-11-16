@@ -463,19 +463,19 @@ export default function Page() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/furusato-tax-kurokawa-onsen-yumeguri-luxury-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">阿蘇の秘湯・黒川温泉の入湯手形めぐり＆渓流絶景露天風呂×ふるさと納税極上旅ガイド山みず木・奥の湯・新明館</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">阿蘇の秘湯・黒川温泉の入湯手形めぐり＆渓流絶景露天風呂×ふるさと納税極上旅ガイド山みず木・奥の湯・新明館</span>
             </a>
             <a href="/furusato-tax-yabakei-kurokawa-autumn-leaves-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">奇岩と紅葉が織りなす山水画の世界！耶馬渓・九重連山＆黒川温泉入湯手形露天名宿×ふるさと納税厳選ガイド九州</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">奇岩と紅葉が織りなす山水画の世界！耶馬渓・九重連山＆黒川温泉入湯手形露天名宿×ふるさと納税厳選ガイド九州</span>
             </a>
             <a href="/kumamoto-amakusa-sakitsu-dolphin-islands-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「熊本・天草五橋＆下島・崎津集落」世界遺産崎津天主堂・天草五橋＆野生イルカ・車海老宿 厳選ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「熊本・天草五橋＆下島・崎津集落」世界遺産崎津天主堂・天草五橋＆野生イルカ・車海老宿 厳選ガイド</span>
             </a>
             <a href="/kumamoto-city-solo-business-sauna-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「熊本出張・極上サウナ温泉ステイ」西の聖地湯らっくす・阿蘇伏流水MADMAX水風呂・熊本城！火の国ビジネスを極める厳選3宿</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「熊本出張・極上サウナ温泉ステイ」西の聖地湯らっくす・阿蘇伏流水MADMAX水風呂・熊本城！火の国ビジネスを極める厳選3宿</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

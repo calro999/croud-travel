@@ -324,9 +324,9 @@ export default async function CityDetailPage({ params }: { params: Promise<{ pre
                       <span className="text-amber-600 font-extrabold">⭐ {post.rating}</span>
                     )}
                   </div>
-                  <h3 className="text-xs md:text-sm font-black font-journal-serif text-emerald-950 line-clamp-2">{post.hotel_name}</h3>
+                  <h3 className="text-xs md:text-sm font-black font-journal-serif text-emerald-950">{post.hotel_name}</h3>
                   {post.description && (
-                    <p className="text-[11px] text-stone-600 leading-relaxed line-clamp-3">
+                    <p className="text-[11px] text-stone-600 leading-relaxed">
                       {post.description}
                     </p>
                   )}

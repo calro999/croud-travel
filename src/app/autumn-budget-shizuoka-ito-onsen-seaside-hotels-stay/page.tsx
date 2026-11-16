@@ -42,7 +42,7 @@ export default function ItoBudgetAutumnPage() {
             <span className="px-3 py-1 bg-stone-800 text-amber-300 text-xs font-medium rounded-full border border-amber-400/30">1泊目安: 4,000円台〜7,000円台</span>
           </div>
           <h1 className="text-2xl md:text-4xl lg:text-5xl font-extrabold text-white leading-tight mb-4 drop-shadow-md">「秋の伊東温泉×格安」伊豆高原の紅葉とオーシャンビュー！1泊4,000円台〜のコスパ最強おすすめ温泉宿5選</h1>
-          <p className="text-stone-200 text-sm md:text-base max-w-3xl line-clamp-2 md:line-clamp-none">
+          <p className="text-stone-200 text-sm md:text-base max-w-3xl">
             首都圏から好アクセスで毎分3万リットル以上の湧出量を誇る伊東温泉。「伊豆の瞳」一碧湖の鮮やかな紅葉や大室山のすすき草原を巡り、豊富な天然温泉をお財布に優しい価格で堪能できる厳選宿をご紹介します。
           </p>
         </div>
@@ -98,7 +98,7 @@ export default function ItoBudgetAutumnPage() {
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 伊東駅 / ＪＲ　伊東駅より徒歩にて約6分
                   </p>
-                  <p className="text-sm text-stone-600 mb-4 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-stone-600 mb-4 leading-relaxed">
                     伊東駅から徒歩6分のビジネスホテル。お仕事やご旅行のお客様、どなたでも気軽に泊まれます。
                   </p>
                 </div>
@@ -143,7 +143,7 @@ export default function ItoBudgetAutumnPage() {
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 伊東駅 / JR伊東線「伊東駅」下車 徒歩７分／車で東名高速沼津ICから1時間20分・厚木ICから1時間40分／送迎バスあり
                   </p>
-                  <p className="text-sm text-stone-600 mb-4 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-stone-600 mb-4 leading-relaxed">
                     湯舟から溢れる天然100％の温泉と、海の幸が網焼きできる60種類のバイキングを堪能！
                   </p>
                 </div>
@@ -188,7 +188,7 @@ export default function ItoBudgetAutumnPage() {
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 伊東駅 / 厚木ＩＣより約90分・東名沼津ＩＣより約60分 ＪＲ伊東駅から車約2分・徒歩約5～7分　※細い急坂はのぼりません
                   </p>
-                  <p className="text-sm text-stone-600 mb-4 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-stone-600 mb-4 leading-relaxed">
                     【駅近好立地】源泉かけ流し畳風呂や金目鯛等海の幸が魅力の宿
                   </p>
                 </div>
@@ -233,7 +233,7 @@ export default function ItoBudgetAutumnPage() {
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 伊東駅 / 伊東駅より徒歩１０分
                   </p>
-                  <p className="text-sm text-stone-600 mb-4 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-stone-600 mb-4 leading-relaxed">
                     全国第３位の湧出量を誇る伊東温泉。伊東園ホテル松川館で天然温泉かけ流しの湯をお楽しみ下さい。
                   </p>
                 </div>
@@ -278,7 +278,7 @@ export default function ItoBudgetAutumnPage() {
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 伊東駅 / 電車：JR伊東線伊東駅より徒歩約12分／車：東名高速道路厚木IC→小田原・厚木道路→R１３５伊東
                   </p>
-                  <p className="text-sm text-stone-600 mb-4 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-stone-600 mb-4 leading-relaxed">
                     【東急グループ運営】海と山を望む絶景の湯宿。最上階の温泉とプールで癒しのひととき
                   </p>
                 </div>

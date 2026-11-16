@@ -42,7 +42,7 @@ export default function KanazawaBudgetAutumnPage() {
             <span className="px-3 py-1 bg-stone-800 text-amber-300 text-xs font-medium rounded-full border border-amber-400/30">1泊目安: 3,000円台〜6,000円台</span>
           </div>
           <h1 className="text-2xl md:text-4xl lg:text-5xl font-extrabold text-white leading-tight mb-4 drop-shadow-md">「秋の金沢×格安」兼六園の雪吊りと秋のカニ解禁！天然温泉付き1泊3,000円〜6,000円台の高コスパホテル5選</h1>
-          <p className="text-stone-200 text-sm md:text-base max-w-3xl line-clamp-2 md:line-clamp-none">
+          <p className="text-stone-200 text-sm md:text-base max-w-3xl">
             情緒あふれるひがし茶屋街と兼六園の雪吊りライトアップ。11月上旬に解禁される香箱ガニやのどぐろを近江町市場で満喫し、自家源泉やサウナで寛げる金沢の格安温泉ホテルをご紹介します。
           </p>
         </div>
@@ -98,7 +98,7 @@ export default function KanazawaBudgetAutumnPage() {
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 金沢駅 / 金沢駅からバスで10分(金沢駅東口⑨⑩⑪のりばから乗車）片町バス停から徒歩2分/金沢西I.Cより車で10分
                   </p>
-                  <p className="text-sm text-stone-600 mb-4 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-stone-600 mb-4 leading-relaxed">
                     【北陸エリア初進出】ｔｈｅ　ｂ　金沢片町が８月１日グランドオープン！全室32㎡以上｜バス・トイレ別
                   </p>
                 </div>
@@ -143,7 +143,7 @@ export default function KanazawaBudgetAutumnPage() {
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 金沢駅 / ■片町スクランブル交差点30秒 ■金沢駅東口⑨⑩⑪乗り場から「片町」バス停下車徒歩1分
                   </p>
-                  <p className="text-sm text-stone-600 mb-4 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-stone-600 mb-4 leading-relaxed">
                     最上階天然温泉・サウナ・岩盤浴完備、客室Wi-Fi無料。兼六園や21世紀美術館も徒歩圏内で観光便利。
                   </p>
                 </div>
@@ -188,7 +188,7 @@ export default function KanazawaBudgetAutumnPage() {
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 金沢駅 / 金沢駅東口より徒歩7分。金沢東ICより約15分。
                   </p>
-                  <p className="text-sm text-stone-600 mb-4 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-stone-600 mb-4 leading-relaxed">
                     金沢駅東口より徒歩７分！主要駅からのアクセスが良くビジネスや観光に便利♪
                   </p>
                 </div>
@@ -233,7 +233,7 @@ export default function KanazawaBudgetAutumnPage() {
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 金沢駅 / 金沢駅発無料バス　10：45～18：45　の間、毎時間「４５分」に金沢駅西口団体バス乗降所を出発
                   </p>
-                  <p className="text-sm text-stone-600 mb-4 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-stone-600 mb-4 leading-relaxed">
                     天然温泉大浴場など各種施設も充実。ホテル満室時でも簡易宿泊施設がございます。お気軽にお問合せ下さい。
                   </p>
                 </div>
@@ -278,7 +278,7 @@ export default function KanazawaBudgetAutumnPage() {
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 金沢駅 / JR金沢駅より徒歩15分または北鉄バス6～10番乗り場からバスで4分「武蔵が辻・近江町市場」バス停下車後徒歩1分
                   </p>
-                  <p className="text-sm text-stone-600 mb-4 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-stone-600 mb-4 leading-relaxed">
                     「近江町市場」「兼六園」まで徒歩圏内！天然温泉大浴場＆サウナ完備！朝食は「お好み海鮮丼」
                   </p>
                 </div>

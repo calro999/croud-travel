@@ -390,16 +390,16 @@ export default function AwajiIslandCarFreePage() {
                         )}
                       </div>
 
-                      <h3 className="text-xs md:text-sm font-black font-journal-serif text-slate-900 line-clamp-2">{hotel.hotelName}</h3>
+                      <h3 className="text-xs md:text-sm font-black font-journal-serif text-slate-900">{hotel.hotelName}</h3>
 
                       {hotel.hotelSpecial && (
-                        <p className="text-[11px] text-slate-600 line-clamp-2 leading-relaxed font-medium">
+                        <p className="text-[11px] text-slate-600 leading-relaxed font-medium">
                           {hotel.hotelSpecial}
                         </p>
                       )}
 
                       {hotel.access && (
-                        <p className="text-[10px] text-slate-500 line-clamp-1">
+                        <p className="text-[10px] text-slate-500">
                           📍 {hotel.access}
                         </p>
                       )}
@@ -439,7 +439,7 @@ export default function AwajiIslandCarFreePage() {
             >
               <div className="text-[11px] text-indigo-700 font-bold mb-1">鳴門・徳島アクセス比較</div>
               <h3 className="text-xs md:text-sm font-bold text-slate-900 group-hover:text-indigo-700 transition">【大阪〜徳島・鳴門】高速バス vs 車（マイカー/レンタカー）徹底比較！明石海峡大橋・大塚国際美術館旅</h3>
-              <p className="text-[11px] text-slate-500 mt-1 line-clamp-2">
+              <p className="text-[11px] text-slate-500 mt-1">
                 淡路島を通過して徳島・鳴門の渦潮へ行く場合の高速バス料金とマイカー高速代・ガソリン代比較。
               </p>
             </Link>
@@ -450,7 +450,7 @@ export default function AwajiIslandCarFreePage() {
             >
               <div className="text-[11px] text-indigo-700 font-bold mb-1">大阪発日帰りツアー</div>
               <h3 className="text-xs md:text-sm font-bold text-slate-900 group-hover:text-indigo-700 transition">【大阪発 日帰りバスツアー完全ガイド】旬の味覚狩り・絶景温泉・アウトレット満喫プラン</h3>
-              <p className="text-[11px] text-slate-500 mt-1 line-clamp-2">
+              <p className="text-[11px] text-slate-500 mt-1">
                 淡路島や丹波篠山、京都天橋立へ添乗員付きで手軽に行ける人気日帰りバスツアー。
               </p>
             </Link>

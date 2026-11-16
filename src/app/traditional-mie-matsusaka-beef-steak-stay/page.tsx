@@ -630,19 +630,19 @@ export default function FeatureDetailPage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/winter-aichi-minamichita-onsen-torafugu-chita-beef-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12月南知多温泉郷】 伊勢湾パノラマ夕日露天と本場とらふぐフルコース・知多牛の海辺宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">【11・12月南知多温泉郷】 伊勢湾パノラマ夕日露天と本場とらふぐフルコース・知多牛の海辺宿5選</span>
             </a>
             <a href="/winter-chiba-minamiboso-kyonan-suisen-road-awa-shrine-hatsumode-iseebi-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「千葉・南房総＆鋸南・館山」 1000万本の水仙香る「江月水仙ロード」と安房神社新春初詣！ 野島埼灯台の初日の出＆房総伊勢海老・金目鯛姿煮名宿</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「千葉・南房総＆鋸南・館山」 1000万本の水仙香る「江月水仙ロード」と安房神社新春初詣！ 野島埼灯台の初日の出＆房総伊勢海老・金目鯛姿煮名宿</span>
             </a>
             <a href="/winter-gunma-shima-onsen-shima-blue-sekizenkan-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12月群馬・四万温泉】 神秘の四万ブルーと千二百年霊泉・積善館の歴史美＆上州牛の宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">【11・12月群馬・四万温泉】 神秘の四万ブルーと千二百年霊泉・積善館の歴史美＆上州牛の宿5選</span>
             </a>
             <a href="/winter-kanagawa-yugawara-onsen-bungo-kaiseki-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12月湯河原温泉の名湯と奥湯河原晩秋紅葉】 文豪が愛した万葉の隠れ家・相模湾の伊勢海老＆地魚会席の宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">【11・12月湯河原温泉の名湯と奥湯河原晩秋紅葉】 文豪が愛した万葉の隠れ家・相模湾の伊勢海老＆地魚会席の宿5選</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

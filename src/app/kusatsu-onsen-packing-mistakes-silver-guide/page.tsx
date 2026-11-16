@@ -316,7 +316,7 @@ export default function KusatsuPackingMistakesPage() {
 
                 <h3 className="text-lg md:text-xl font-bold text-slate-900 leading-snug">{hotel.hotelName}</h3>
 
-                <p className="text-xs md:text-sm text-slate-600 line-clamp-2">
+                <p className="text-xs md:text-sm text-slate-600">
                   {hotel.hotelSpecial || "草津温泉の極上源泉を掛け流しで楽しめる温泉宿。観光名所へのアクセスも良好です。"}
                 </p>
 

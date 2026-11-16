@@ -422,19 +422,19 @@ export default function ArticlePage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/japan-top-night-view-luxury-hotel-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「日本三大夜景＆摩天楼パノラマ宿」函館・長崎・神戸・横浜・東京高層ホテル 厳選ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「日本三大夜景＆摩天楼パノラマ宿」函館・長崎・神戸・横浜・東京高層ホテル 厳選ガイド</span>
             </a>
             <a href="/kanagawa-hakone-ashinoko-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「箱根・芦ノ湖＆元箱根」湖畔鳥居・海賊船＆富士ビュー極上宿 厳選ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「箱根・芦ノ湖＆元箱根」湖畔鳥居・海賊船＆富士ビュー極上宿 厳選ガイド</span>
             </a>
             <a href="/kanagawa-hakone-sengokuhara-solo-retreat-pampas-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「箱根仙石原温泉ひとり旅・ススキ草原白濁おこもり」黄金色のススキ・大涌谷引湯白濁露天・極上フレンチ！標高700mの高原アートリゾート厳選3宿</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「箱根仙石原温泉ひとり旅・ススキ草原白濁おこもり」黄金色のススキ・大涌谷引湯白濁露天・極上フレンチ！標高700mの高原アートリゾート厳選3宿</span>
             </a>
             <a href="/kanagawa-yugawara-onsen-bangei-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「神奈川・湯河原温泉」文豪ゆかりの名湯・万葉公園＆相模湾地魚極上宿 厳選ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「神奈川・湯河原温泉」文豪ゆかりの名湯・万葉公園＆相模湾地魚極上宿 厳選ガイド</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

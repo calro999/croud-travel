@@ -433,19 +433,19 @@ export default function ArticlePage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/winter-okayama-mimasaka-okutsu-yunogo-onsen-sakushugyu-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12月岡山・奥津＆湯郷温泉】美作三湯の初冬雪見と美肌湯 吉井川の足元湧出天然岩風呂・極上作州牛＆津山そずり鍋を堪能する名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">【11・12月岡山・奥津＆湯郷温泉】美作三湯の初冬雪見と美肌湯 吉井川の足元湧出天然岩風呂・極上作州牛＆津山そずり鍋を堪能する名宿5選</span>
             </a>
             <a href="/winter-okayama-yubara-onsen-sunayu-hiruzen-wagyu-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">初冬渓谷美と美作三湯・名物「砂湯」 pH9.3アルカリ美肌自噴泉＆蒜山ジャージー牛会席の宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">初冬渓谷美と美作三湯・名物「砂湯」 pH9.3アルカリ美肌自噴泉＆蒜山ジャージー牛会席の宿5選</span>
             </a>
             <a href="/autumn-budget-ehime-matsuyama-castle-momiji-taimeshi-hotels-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「松山」松山城の紅葉＆本場鯛めしを満喫！3,000円台〜泊まれる格安・高コスパ宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「松山」松山城の紅葉＆本場鯛めしを満喫！3,000円台〜泊まれる格安・高コスパ宿5選</span>
             </a>
             <a href="/autumn-budget-ehime-matsuyama-station-castle-taimeshi-hotels-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「松山市駅・大街道」松山城紅葉＆名物鯛めし！2,000円台〜泊まれる格安・高コスパ宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「松山市駅・大街道」松山城紅葉＆名物鯛めし！2,000円台〜泊まれる格安・高コスパ宿5選</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

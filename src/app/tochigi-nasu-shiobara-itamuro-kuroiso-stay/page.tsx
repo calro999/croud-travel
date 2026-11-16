@@ -128,8 +128,8 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">那須湯本温泉　鹿の湯源泉かけ流しの宿　旅館　清水屋＜栃木県・那須郡＞</h4>
-                      <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition">那須湯本温泉　鹿の湯源泉かけ流しの宿　旅館　清水屋＜栃木県・那須郡＞</h4>
+                      <p className="text-xs text-stone-400 mt-1 leading-relaxed">
                         老舗旅館■「鹿の湯」源泉かけ流し白濁温泉　24時間OK■お食事処にて栃木牛と季節の懐石膳
                       </p>
                       <div className="mt-3 text-xs text-stone-300">
@@ -172,8 +172,8 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">那須温泉　大丸温泉旅館</h4>
-                      <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition">那須温泉　大丸温泉旅館</h4>
+                      <p className="text-xs text-stone-400 mt-1 leading-relaxed">
                         山あいの渓谷にたたずむ野趣溢れる露天風呂が名物！奥那須温泉郷の自然と癒しを感じられる天然温泉宿。
                       </p>
                       <div className="mt-3 text-xs text-stone-300">
@@ -216,8 +216,8 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">那須温泉　中藤屋旅館</h4>
-                      <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition">那須温泉　中藤屋旅館</h4>
+                      <p className="text-xs text-stone-400 mt-1 leading-relaxed">
                         １３００年の昔より湧き出づる名湯「鹿の湯」より引湯の源泉かけ流しの宿。家庭的なサービスでおもてなし。
                       </p>
                       <div className="mt-3 text-xs text-stone-300">
@@ -260,8 +260,8 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">新那須高原温泉　こころのおやど　自在荘</h4>
-                      <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition">新那須高原温泉　こころのおやど　自在荘</h4>
+                      <p className="text-xs text-stone-400 mt-1 leading-relaxed">
                         楽天トラベルブロンズアワード2022を受賞！那須の源泉ととちぎ和牛の創作会席を愉しむ小さな湯宿です
                       </p>
                       <div className="mt-3 text-xs text-stone-300">
@@ -346,8 +346,8 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">板室温泉大黒屋　保養とアートの宿</h4>
-                      <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition">板室温泉大黒屋　保養とアートの宿</h4>
+                      <p className="text-xs text-stone-400 mt-1 leading-relaxed">
                         栃木県那須・板室の大自然の中に静かに佇む、隠れ家のような旅館「保養とアートの宿」板室温泉大黒屋
                       </p>
                       <div className="mt-3 text-xs text-stone-300">
@@ -390,8 +390,8 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">板室温泉　奥那須・大正村　幸乃湯温泉</h4>
-                      <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition">板室温泉　奥那須・大正村　幸乃湯温泉</h4>
+                      <p className="text-xs text-stone-400 mt-1 leading-relaxed">
                         源泉掛け流しの湯を畳敷きひのき造りの大浴場で味わう一軒宿！当館自慢の野天風呂＆豪快4m滝打たせ湯
                       </p>
                       <div className="mt-3 text-xs text-stone-300">
@@ -434,8 +434,8 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">板室別邸リトリート　SPA和薬草</h4>
-                      <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition">板室別邸リトリート　SPA和薬草</h4>
+                      <p className="text-xs text-stone-400 mt-1 leading-relaxed">
                         那須の秘境で湯治体験。様々なコンテンツであなただけのオリジナルリトリート時間を。
                       </p>
                       <div className="mt-3 text-xs text-stone-300">
@@ -520,8 +520,8 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">ドゥカーレリゾートホテル那須　甘露の湯</h4>
-                      <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition">ドゥカーレリゾートホテル那須　甘露の湯</h4>
+                      <p className="text-xs text-stone-400 mt-1 leading-relaxed">
                         大自然に囲まれ、温泉とお食事を楽しむ、温泉リゾート・ドームテントグランピングホテル！
                       </p>
                       <div className="mt-3 text-xs text-stone-300">
@@ -564,8 +564,8 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">フォレストリゾート　ホテルグリーンパール那須</h4>
-                      <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">～のご予約はこちら！　自慢の源泉掛け流しのにごり湯が自慢の宿！
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition">フォレストリゾート　ホテルグリーンパール那須</h4>
+                      <p className="text-xs text-stone-400 mt-1 leading-relaxed">～のご予約はこちら！　自慢の源泉掛け流しのにごり湯が自慢の宿！
                       </p>
                       <div className="mt-3 text-xs text-stone-300">
                         📍 栃木県那須郡那須町湯本213
@@ -607,8 +607,8 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">フォレストグランピングリゾート稜「ＩＴＵ」</h4>
-                      <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition">フォレストグランピングリゾート稜「ＩＴＵ」</h4>
+                      <p className="text-xs text-stone-400 mt-1 leading-relaxed">
                         総客室数５室のプライベート重視のグランピング施設！トイレや浴室も隣接ＢＢＱハウス兼水回り棟に常設！
                       </p>
                       <div className="mt-3 text-xs text-stone-300">
@@ -736,19 +736,19 @@ export default function Page() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/tochigi-nasu-highland-nature-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">栃木・那須高原：茶臼岳・御用邸の森＆ベーカリー・温泉リゾート 厳選ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">栃木・那須高原：茶臼岳・御用邸の森＆ベーカリー・温泉リゾート 厳選ガイド</span>
             </a>
             <a href="/winter-tochigi-nasu-itamuro-onsen-toji-tochigigyu-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12月那須】開湯1000年「下野の薬湯」板室温泉・名物立ち湯と極上那須黒毛和牛＆初雪の那須連山を望む隠れ宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">【11・12月那須】開湯1000年「下野の薬湯」板室温泉・名物立ち湯と極上那須黒毛和牛＆初雪の那須連山を望む隠れ宿5選</span>
             </a>
             <a href="/winter-tochigi-shiobara-onsen-yukimi-tochigi-beef-radish-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12月栃木・塩原温泉の初冬箒川雪見露天と名湯十一湯巡り】極上とちぎ和牛会席＆旬の塩原高原大根を味わう老舗宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">【11・12月栃木・塩原温泉の初冬箒川雪見露天と名湯十一湯巡り】極上とちぎ和牛会席＆旬の塩原高原大根を味わう老舗宿5選</span>
             </a>
             <a href="/autumn-tochigi-nikko-chuzenji-lake-momiji-hotels-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【10月中旬〜下旬！日光中禅寺湖の紅葉】いろは坂・男体山ビューと奥日光名湯宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">【10月中旬〜下旬！日光中禅寺湖の紅葉】いろは坂・男体山ビューと奥日光名湯宿5選</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

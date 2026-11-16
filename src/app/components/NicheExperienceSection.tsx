@@ -97,8 +97,8 @@ export default function NicheExperienceSection() {
                   {topic.badge}
                 </span>
               </div>
-              <h3 className="text-sm md:text-base font-bold text-white group-hover:text-teal-300 transition line-clamp-1">{topic.title}</h3>
-              <p className="text-xs text-stone-300 line-clamp-2 leading-relaxed">
+              <h3 className="text-sm md:text-base font-bold text-white group-hover:text-teal-300 transition">{topic.title}</h3>
+              <p className="text-xs text-stone-300 leading-relaxed">
                 {topic.desc}
               </p>
             </div>

@@ -216,7 +216,7 @@ export default function OkinawaTravelBudgetPage() {
                     {hotel.reviewAverage > 0 && (
                       <div className="text-xs text-amber-500 font-bold mb-1">★ {hotel.reviewAverage} ({hotel.reviewCount})</div>
                     )}
-                    <h3 className="text-sm font-bold text-stone-800 line-clamp-2 mb-2">{hotel.hotelName}</h3>
+                    <h3 className="text-sm font-bold text-stone-800 mb-2">{hotel.hotelName}</h3>
                   </div>
                   <a
                     href={hotel.affiliateUrl}

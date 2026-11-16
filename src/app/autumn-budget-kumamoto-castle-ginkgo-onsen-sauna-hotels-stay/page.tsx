@@ -42,7 +42,7 @@ export default function KumamotoBudgetAutumnPage() {
             <span className="px-3 py-1 bg-stone-800 text-amber-300 text-xs font-medium rounded-full border border-amber-400/30">1泊目安: 4,000円台〜7,000円台</span>
           </div>
           <h1 className="text-2xl md:text-4xl lg:text-5xl font-extrabold text-white leading-tight mb-4 drop-shadow-md">「秋の熊本×格安」熊本城の巨大銀杏と阿蘇すすき草原！天然温泉＆サウナ付き1泊4,000円〜7,000円台のコスパ最強ホテル5選</h1>
-          <p className="text-stone-200 text-sm md:text-base max-w-3xl line-clamp-2 md:line-clamp-none">
+          <p className="text-stone-200 text-sm md:text-base max-w-3xl">
             天守閣前で黄金に輝く大イチョウが圧巻の「銀杏城」熊本城。サウナの聖地と呼ばれる「湯らっくす」をはじめ、天然地下水や温泉大浴場を備えた熊本のコスパ最強ホテルをご案内します。
           </p>
         </div>
@@ -98,7 +98,7 @@ export default function KumamotoBudgetAutumnPage() {
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 平成（熊本） / JR熊本駅より車で約5分、JR平成駅より徒歩約3分
                   </p>
-                  <p className="text-sm text-stone-600 mb-4 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-stone-600 mb-4 leading-relaxed">
                     ◆サウナの西の聖地◆3つのサウナと日本一深い水風呂でととのう。個室感覚のドミトリーは女性専用もあり◎
                   </p>
                 </div>
@@ -143,7 +143,7 @@ export default function KumamotoBudgetAutumnPage() {
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 熊本駅・辛島町電停 / ＪＲ西熊本駅より徒歩にて約１分・熊本駅より車で約11分・益城熊本空港ICより車で約32分・御船ICより車で約29分
                   </p>
-                  <p className="text-sm text-stone-600 mb-4 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-stone-600 mb-4 leading-relaxed">
                     【大浴場有】大好評！宿泊者専用ラウンジ！全客室エアウィーヴ採用&amp;トイレバス別のセパレートタイプ
                   </p>
                 </div>
@@ -188,7 +188,7 @@ export default function KumamotoBudgetAutumnPage() {
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 熊本駅・辛島町電停 / 熊本市電　水道町駅より徒歩にて約３分
                   </p>
-                  <p className="text-sm text-stone-600 mb-4 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-stone-600 mb-4 leading-relaxed">
                     熊本城を望む最上階で『浴場＆サウナ』を満喫！館内にコンビニ併設
                   </p>
                 </div>
@@ -233,7 +233,7 @@ export default function KumamotoBudgetAutumnPage() {
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 熊本 / JR熊本駅白川口（東口）より徒歩２分/九州自動車道 『熊本IC』より車で約30分
                   </p>
-                  <p className="text-sm text-stone-600 mb-4 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-stone-600 mb-4 leading-relaxed">
                     ■JR熊本駅目の前■男女別天然温泉完備。無料のウェルカムバー・焼立てパン健康朝食をご用意！
                   </p>
                 </div>
@@ -278,7 +278,7 @@ export default function KumamotoBudgetAutumnPage() {
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 熊本駅・辛島町電停 / 新市街アーケード沿い　熊本市電・辛島町駅より徒歩1分　熊本ICから約30分　益城熊本空港ICから約40分
                   </p>
-                  <p className="text-sm text-stone-600 mb-4 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-stone-600 mb-4 leading-relaxed">
                     辛島町駅（熊本市電）から徒歩1分。アーケード沿いのため、お車を寄せるスペースはございません。
                   </p>
                 </div>

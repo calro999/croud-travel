@@ -371,10 +371,10 @@ export default function AtamiIzuRainyDayIndoorMuseumSpaPage() {
                         </span>
                       </div>
 
-                      <h3 className="text-base sm:text-lg font-bold text-white line-clamp-2 leading-snug">{hotel.hotelName}</h3>
+                      <h3 className="text-base sm:text-lg font-bold text-white leading-snug">{hotel.hotelName}</h3>
 
                       {special && (
-                        <p className="text-xs text-amber-200/90 line-clamp-3 leading-relaxed bg-stone-950/60 p-2.5 rounded-lg border border-amber-950">
+                        <p className="text-xs text-amber-200/90 leading-relaxed bg-stone-950/60 p-2.5 rounded-lg border border-amber-950">
                           {special}
                         </p>
                       )}
@@ -425,7 +425,7 @@ export default function AtamiIzuRainyDayIndoorMuseumSpaPage() {
             >
               <span className="text-xs font-bold text-amber-400 block mb-1">日帰りプラン ♨️</span>
               <h3 className="text-sm font-bold text-white group-hover:text-amber-200 transition-colors">【熱海 日帰り温泉 ランチ付きおすすめ】絶景露天風呂＆海鮮ランチ・個室休憩プラン</h3>
-              <p className="text-xs text-amber-300/80 mt-1 line-clamp-2">
+              <p className="text-xs text-amber-300/80 mt-1">
                 宿泊せずに贅沢ランチと名湯を堪能できる日帰りプランを徹底比較。
               </p>
             </Link>
@@ -436,7 +436,7 @@ export default function AtamiIzuRainyDayIndoorMuseumSpaPage() {
             >
               <span className="text-xs font-bold text-amber-400 block mb-1">費用シミュレーション 💰</span>
               <h3 className="text-sm font-bold text-white group-hover:text-amber-200 transition-colors">【熱海・伊豆旅行 費用】日帰り・1泊2日・2泊3日いくら？新幹線代・宿代・温泉代</h3>
-              <p className="text-xs text-amber-300/80 mt-1 line-clamp-2">
+              <p className="text-xs text-amber-300/80 mt-1">
                 交通費や食事代、観光入場料を含めたリアルな出費計算ガイド。
               </p>
             </Link>
@@ -480,19 +480,19 @@ export default function AtamiIzuRainyDayIndoorMuseumSpaPage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/winter-shizuoka-izukogen-luxury-hanare-roten-zagyoso-kinmedai-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【全室離れ客室露天風呂と相模湾絶景オーシャンビュー】2026-2027年11-12月初冬の静岡・伊豆高原！最高峰ABBA RESORTS坐漁荘＆お宿うち山・極上地金目鯛と伊勢海老・</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">【全室離れ客室露天風呂と相模湾絶景オーシャンビュー】2026-2027年11-12月初冬の静岡・伊豆高原！最高峰ABBA RESORTS坐漁荘＆お宿うち山・極上地金目鯛と伊勢海老・</span>
             </a>
             <a href="/winter-shizuoka-kanzanji-onsen-hamanako-fugu-eel-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">初冬の浜名湖レイクビューと遠州灘天然とらふぐ 名物冬うなぎ＆湖畔パノラマ展望露天風呂の宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">初冬の浜名湖レイクビューと遠州灘天然とらふぐ 名物冬うなぎ＆湖畔パノラマ展望露天風呂の宿5選</span>
             </a>
             <a href="/winter-shizuoka-nishiizu-dogashima-onsen-sunset-fuji-takaashigani-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12月静岡・西伊豆堂ヶ島温泉】夕陽百選＆駿河湾越しの雪化粧富士 名物戸田高足ガニ＆伊勢海老・地金目鯛会席を堪能する絶景オーシャンビュー名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">【11・12月静岡・西伊豆堂ヶ島温泉】夕陽百選＆駿河湾越しの雪化粧富士 名物戸田高足ガニ＆伊勢海老・地金目鯛会席を堪能する絶景オーシャンビュー名宿5選</span>
             </a>
             <a href="/winter-shizuoka-shimoda-tsumekizaki-suisen-kinmedai-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【12・1月静岡】300万本が咲き誇る爪木崎水仙まつりと富士山絶景・下田港直送極上「一本釣り地金目鯛」を堪能する下田・南伊豆の名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">【12・1月静岡】300万本が咲き誇る爪木崎水仙まつりと富士山絶景・下田港直送極上「一本釣り地金目鯛」を堪能する下田・南伊豆の名宿5選</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

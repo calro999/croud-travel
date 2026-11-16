@@ -404,19 +404,19 @@ export default function FeaturePage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/winter-nagasaki-shimabara-onsen-guzoni-castle-ariake-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">島原温泉＆雲仙・有明海！ 冬の島原城初詣と名物「具雑煮」・有明海冬牡蠣＆海一望の美肌温泉名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">島原温泉＆雲仙・有明海！ 冬の島原城初詣と名物「具雑煮」・有明海冬牡蠣＆海一望の美肌温泉名宿5選</span>
             </a>
             <a href="/winter-tokyo-asakusa-sensoji-hatsumode-skytree-edomae-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">浅草寺新春初詣＆東京スカイツリー冬夜景！ 老舗すき焼き・江戸前天ぷら・下町天然温泉宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">浅草寺新春初詣＆東京スカイツリー冬夜景！ 老舗すき焼き・江戸前天ぷら・下町天然温泉宿5選</span>
             </a>
             <a href="/winter-tokyo-odaiba-toyosu-senkyakubanrai-yakei-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">お台場レインボー花火＆豊洲千客万来！ 冬の東京ベイ夜景と江戸前海鮮・天然温泉に寛ぐ名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">お台場レインボー花火＆豊洲千客万来！ 冬の東京ベイ夜景と江戸前海鮮・天然温泉に寛ぐ名宿5選</span>
             </a>
             <a href="/winter-tokyo-shibuya-omotesando-meijijingu-hatsumode-illumination-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">渋谷＆表参道・原宿！ 明治神宮初詣＆青の洞窟・表参道イルミとSHIBUYA SKY夜景を味わう名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">渋谷＆表参道・原宿！ 明治神宮初詣＆青の洞窟・表参道イルミとSHIBUYA SKY夜景を味わう名宿5選</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

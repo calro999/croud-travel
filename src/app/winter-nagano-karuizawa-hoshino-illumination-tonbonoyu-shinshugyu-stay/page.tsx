@@ -620,7 +620,7 @@ export default function NaganoKaruizawaHoshinoWinterPage() {
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-teal-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-teal-800 font-bold text-xs block mb-1">長野・白馬温泉</span>
-              <span className="text-stone-900 font-bold group-hover:text-teal-900 transition-colors line-clamp-2">
+              <span className="text-stone-900 font-bold group-hover:text-teal-900 transition-colors">
                 白馬パウダースノーと北アルプス絶景・信州プレミアム牛を堪能する極上リゾート
               </span>
             </Link>
@@ -630,7 +630,7 @@ export default function NaganoKaruizawaHoshinoWinterPage() {
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-teal-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-teal-800 font-bold text-xs block mb-1">長野・昼神温泉</span>
-              <span className="text-stone-900 font-bold group-hover:text-teal-900 transition-colors line-clamp-2">
+              <span className="text-stone-900 font-bold group-hover:text-teal-900 transition-colors">
                 日本一の星空ナイトツアーと美肌湯・信州牛すき焼きを味わう南信州の名湯宿
               </span>
             </Link>
@@ -640,7 +640,7 @@ export default function NaganoKaruizawaHoshinoWinterPage() {
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-teal-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-teal-800 font-bold text-xs block mb-1">長野・渋温泉</span>
-              <span className="text-stone-900 font-bold group-hover:text-teal-900 transition-colors line-clamp-2">
+              <span className="text-stone-900 font-bold group-hover:text-teal-900 transition-colors">
                 レトロな石畳と厄除け九湯めぐり・地獄谷スノーモンキーと信州牛の湯宿
               </span>
             </Link>
@@ -650,7 +650,7 @@ export default function NaganoKaruizawaHoshinoWinterPage() {
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-teal-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-teal-800 font-bold text-xs block mb-1">山梨・清里八ヶ岳</span>
-              <span className="text-stone-900 font-bold group-hover:text-teal-900 transition-colors line-clamp-2">
+              <span className="text-stone-900 font-bold group-hover:text-teal-900 transition-colors">
                 八ヶ岳ブルーと満天の星空観賞・甲州ワインビーフと高原リゾート名宿
               </span>
             </Link>
@@ -660,7 +660,7 @@ export default function NaganoKaruizawaHoshinoWinterPage() {
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-teal-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-teal-800 font-bold text-xs block mb-1">三重・伊勢神宮</span>
-              <span className="text-stone-900 font-bold group-hover:text-teal-900 transition-colors line-clamp-2">
+              <span className="text-stone-900 font-bold group-hover:text-teal-900 transition-colors">
                 新春初詣とおかげ横丁・五十鈴川の朝霧と冬の伊勢海老・松阪牛会席の名宿
               </span>
             </Link>

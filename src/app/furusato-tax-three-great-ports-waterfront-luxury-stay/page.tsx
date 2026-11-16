@@ -168,7 +168,7 @@ export default function Page() {
                   <p className="text-xs text-slate-500 mt-0.5">
                     🚆 JR三ノ宮間の送迎バス運行。大阪まで約20分、元町から徒歩約15分。
                   </p>
-                  <p className="text-sm text-slate-600 mt-3 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-slate-600 mt-3 leading-relaxed">
                     神戸リゾートの時間へ、ようこそ。　全てのお部屋にバルコニーをご用意！
                   </p>
                 </div>
@@ -228,7 +228,7 @@ export default function Page() {
                   <p className="text-xs text-slate-500 mt-0.5">
                     🚆 元町駅から徒歩5分、阪神高速「京橋」から15分　【ホテルから】メリケンパークまで徒歩5分、南京町まで徒歩5分
                   </p>
-                  <p className="text-sm text-slate-600 mt-3 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-slate-600 mt-3 leading-relaxed">
                     全室禁煙◆神戸観光の拠点に最適な立地◆全室にコーヒーメーカー設置◆本場インド・ネパール料理の朝食
                   </p>
                 </div>
@@ -288,7 +288,7 @@ export default function Page() {
                   <p className="text-xs text-slate-500 mt-0.5">
                     🚆 JR・阪神元町駅東口徒歩3分／阪急三宮駅西口徒歩10分／JR三ノ宮駅西口徒歩12分／新神戸駅から車で10分／甲子園30分
                   </p>
-                  <p className="text-sm text-slate-600 mt-3 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-slate-600 mt-3 leading-relaxed">
                     WiFi対応・オリジナルベッド・多機能シャワー（ツイン除く）・フリードリンクのゲストラウンジ♪
                   </p>
                 </div>
@@ -362,7 +362,7 @@ export default function Page() {
                   <p className="text-xs text-slate-500 mt-0.5">
                     🚆 ＪＲ「桜木町駅」新南口（市役所口）より徒歩約３分 みなとみらい線 「馬車道駅」1C出口より徒歩約1分　横浜新市庁舎目の前
                   </p>
-                  <p className="text-sm text-slate-600 mt-3 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-slate-600 mt-3 leading-relaxed">
                     ★北欧デザインのホテル　◇全室Refaのシャワーヘッド完備！◇
                   </p>
                 </div>
@@ -422,7 +422,7 @@ export default function Page() {
                   <p className="text-xs text-slate-500 mt-0.5">
                     🚆 みなとみらい線「馬車道駅」4番口（万国橋口）徒歩約3分、JR・市営地下鉄線「桜木町駅」徒歩約9分、「関内駅」徒歩約10分
                   </p>
-                  <p className="text-sm text-slate-600 mt-3 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-slate-600 mt-3 leading-relaxed">
                     日本最大級2311室！横浜みなとみらいのアーバンリゾートホテル♪
                   </p>
                 </div>
@@ -482,7 +482,7 @@ export default function Page() {
                   <p className="text-xs text-slate-500 mt-0.5">
                     🚆 JR桜木町駅より徒歩１分、市営地下鉄 桜木町駅 北1口より徒歩３分
                   </p>
-                  <p className="text-sm text-slate-600 mt-3 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-slate-600 mt-3 leading-relaxed">
                     完全禁煙ホテル。海側眺望の感動夜景がウリ。客室のネット接続は有線、無線（Wi-Fi）無料。
                   </p>
                 </div>
@@ -556,7 +556,7 @@ export default function Page() {
                   <p className="text-xs text-slate-500 mt-0.5">
                     🚆 JR長崎駅からお車で7分。長崎バス5番系統「稲佐山」または「稲佐山中腹」行きバス乗車　無料送迎バス有
                   </p>
-                  <p className="text-sm text-slate-600 mt-3 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-slate-600 mt-3 leading-relaxed">
                     日本三大夜景を一望！100％源泉の露天風呂や岩盤浴が人気のリゾートホテル。駐車場無料・Wi-Fi完備
                   </p>
                 </div>
@@ -616,7 +616,7 @@ export default function Page() {
                   <p className="text-xs text-slate-500 mt-0.5">
                     🚆 ＪＲ長崎駅より車で10分◆長崎駅から「稲佐山高部」行きバス「観光ホテル前」下車◆長崎駅から無料送迎有（1日2便、要予約）
                   </p>
-                  <p className="text-sm text-slate-600 mt-3 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-slate-600 mt-3 leading-relaxed">
                     長崎の夜景を最高にお楽しみいただけます。季節感を大切にしたお料理をご提供！全館無料Wi-Fi接続
                   </p>
                 </div>
@@ -676,7 +676,7 @@ export default function Page() {
                   <p className="text-xs text-slate-500 mt-0.5">
                     🚆 JR長崎駅かもめ口より徒歩約１分
                   </p>
-                  <p className="text-sm text-slate-600 mt-3 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-slate-600 mt-3 leading-relaxed">
                     稲佐山と長崎港を望む抜群の立地に客船を思わせる外観の「長崎マリオットホテル」が誕生します。
                   </p>
                 </div>
@@ -853,19 +853,19 @@ export default function Page() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/winter-kanagawa-isehara-oyama-afuri-shrine-hatsumode-tofu-tsurumaki-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12・1月神奈川】「大山阿夫利神社」新春初詣と相模湾冬パノラマ！名水大山豆腐料理＆名湯「鶴巻・七沢温泉」厳選名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">【11・12・1月神奈川】「大山阿夫利神社」新春初詣と相模湾冬パノラマ！名水大山豆腐料理＆名湯「鶴巻・七沢温泉」厳選名宿5選</span>
             </a>
             <a href="/autumn-kanagawa-hakone-sengokuhara-susuki-onsen-hotels-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">秋の箱根：仙石原すすき草原の黄金絨毯と強羅温泉にごり湯！秋絶景を愛でるおすすめ名宿5選「2026最新」</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">秋の箱根：仙石原すすき草原の黄金絨毯と強羅温泉にごり湯！秋絶景を愛でるおすすめ名宿5選「2026最新」</span>
             </a>
             <a href="/kanagawa-hakone-gora-solo-retreat-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">箱根強羅温泉ひとり旅・濁り湯アートおこもり：箱根登山鉄道・大涌谷白濁温泉・創作フレンチ会席！箱根屈指の高級別荘地で癒やされる厳選3宿</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">箱根強羅温泉ひとり旅・濁り湯アートおこもり：箱根登山鉄道・大涌谷白濁温泉・創作フレンチ会席！箱根屈指の高級別荘地で癒やされる厳選3宿</span>
             </a>
             <a href="/winter-kanagawa-hakone-fuji-view-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12月箱根芦ノ湖の冬晴れ富士山絶景】澄み渡る空と雪化粧の富士を望む露天風呂＆極上湯宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">【11・12月箱根芦ノ湖の冬晴れ富士山絶景】澄み渡る空と雪化粧の富士を望む露天風呂＆極上湯宿5選</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

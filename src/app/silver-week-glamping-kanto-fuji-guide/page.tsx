@@ -277,8 +277,8 @@ export default function SilverWeekGlampingKantoFujiPage() {
                       <span>📍</span>
                       <span>{hotel.address1 || "山梨県"} {hotel.nearestStation ? `（最寄り: ${hotel.nearestStation}駅）` : ""}</span>
                     </div>
-                    <h3 className="font-black text-slate-900 text-lg leading-snug group-hover:text-emerald-700 transition line-clamp-2">{hotel.hotelName}</h3>
-                    <p className="text-xs text-slate-600 mt-2 line-clamp-3 leading-relaxed">
+                    <h3 className="font-black text-slate-900 text-lg leading-snug group-hover:text-emerald-700 transition">{hotel.hotelName}</h3>
+                    <p className="text-xs text-slate-600 mt-2 leading-relaxed">
                       {hotel.hotelSpecial || "雄大な富士山を正面に望む極上ロケーション。客室専用露天風呂やプライベートサウナ、地産食材をふんだんに使ったグランピングBBQで非日常を体験できます。"}
                     </p>
                   </div>
@@ -389,19 +389,19 @@ export default function SilverWeekGlampingKantoFujiPage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/shimonoseki-solo-business-fugu-kaikyo-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「下関出張・男一人旅」天然温泉関門の湯・関門海峡パノラマ・本場下関ふく料理！本州最西端の海峡拠点でととのう厳選3宿</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「下関出張・男一人旅」天然温泉関門の湯・関門海峡パノラマ・本場下関ふく料理！本州最西端の海峡拠点でととのう厳選3宿</span>
             </a>
             <a href="/shizuoka-solo-business-maguro-fujiview-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「静岡出張＆富士山ひとり旅」新幹線直結・清水港まぐろ・静岡茶ラウンジ！名峰の絶景に癒やされる極上ホテル 厳選3選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「静岡出張＆富士山ひとり旅」新幹線直結・清水港まぐろ・静岡茶ラウンジ！名峰の絶景に癒やされる極上ホテル 厳選3選</span>
             </a>
             <a href="/silver-week-glamping-sea-kayak-marine-guide/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「海グランピング SUP＆シーカヤック体験」秋のビーチ直結！波音を聞いて眠るウォーターフロントリゾート</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「海グランピング SUP＆シーカヤック体験」秋のビーチ直結！波音を聞いて眠るウォーターフロントリゾート</span>
             </a>
             <a href="/spring-yamanashi-koshu-wine-beef-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「甲州ワインビーフ＆勝沼ワイナリー」芳醇ワインペアリングと石和温泉の美食宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「甲州ワインビーフ＆勝沼ワイナリー」芳醇ワインペアリングと石和温泉の美食宿5選</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

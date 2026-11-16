@@ -283,14 +283,14 @@ export default function SilverWeekGlampingPrivateSaunaPage() {
                     )}
                   </div>
 
-                  <h3 className="font-black text-stone-900 text-base leading-snug group-hover:text-rose-700 transition line-clamp-2 font-journal-serif">{hotel.hotelName}</h3>
+                  <h3 className="font-black text-stone-900 text-base leading-snug group-hover:text-rose-700 transition font-journal-serif">{hotel.hotelName}</h3>
 
-                  <p className="text-xs text-stone-600 line-clamp-3 leading-relaxed font-medium">
+                  <p className="text-xs text-stone-600 leading-relaxed font-medium">
                     {hotel.hotelSpecial || "客室専用の本格サウナと外気浴スペースを完備。大自然に囲まれながら心ゆくまでととのうグランピングリゾート。"}
                   </p>
 
                   {hotel.access && (
-                    <p className="text-[11px] text-stone-500 line-clamp-1">
+                    <p className="text-[11px] text-stone-500">
                       🚗 {hotel.access}
                     </p>
                   )}
@@ -375,7 +375,7 @@ export default function SilverWeekGlampingPrivateSaunaPage() {
             <span className="text-[10px] font-bold text-rose-600 bg-rose-50 px-2 py-0.5 rounded-full inline-block mb-1.5">
               記念日・客室露天風呂
             </span>
-            <div className="font-bold text-xs sm:text-sm text-stone-900 group-hover:text-rose-600 transition line-clamp-2">
+            <div className="font-bold text-xs sm:text-sm text-stone-900 group-hover:text-rose-600 transition">
               【箱根カップル温泉旅行 1泊2日モデルコース】客室露天風呂・フレンチ懐石ディナー＆サプライズ宿
             </div>
           </Link>
@@ -387,7 +387,7 @@ export default function SilverWeekGlampingPrivateSaunaPage() {
             <span className="text-[10px] font-bold text-stone-600 bg-stone-100 px-2 py-0.5 rounded-full inline-block mb-1.5">
               予算シミュレーション
             </span>
-            <div className="font-bold text-xs sm:text-sm text-stone-900 group-hover:text-rose-600 transition line-clamp-2">
+            <div className="font-bold text-xs sm:text-sm text-stone-900 group-hover:text-rose-600 transition">
               【熱海・伊豆旅行の費用・予算完全ガイド】新幹線・宿泊・海鮮グルメのリアル相場と節約術
             </div>
           </Link>

@@ -42,7 +42,7 @@ export default function KanazawaKenrokuenAutumnPage() {
             <span className="px-3 py-1 bg-stone-800 text-amber-300 text-xs font-medium rounded-full border border-amber-400/30">見頃・雪吊り: 11月上旬〜11月下旬</span>
           </div>
           <h1 className="text-2xl md:text-4xl lg:text-5xl font-extrabold text-white leading-tight mb-4 drop-shadow-md">「秋の金沢」兼六園の雪吊りと紅葉ライトアップ！秋の風情と温泉を味わうおすすめ名宿5選</h1>
-          <p className="text-stone-200 text-sm md:text-base max-w-3xl line-clamp-2 md:line-clamp-none">
+          <p className="text-stone-200 text-sm md:text-base max-w-3xl">
             国の特別名勝・兼六園で11月1日から始まる風物詩「雪吊り」。霞ヶ池の水面に映る唐崎松の幾何学的な縄張りと錦秋のモミジ、夜間の幽玄なライトアップを愛でる極上の金沢宿泊プランをご提案します。
           </p>
         </div>
@@ -98,7 +98,7 @@ export default function KanazawaKenrokuenAutumnPage() {
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 金沢駅 / ★金沢中心街より車で20分★「金沢駅・兼六園」より“無料送迎”！お帰りは金沢駅近くへ荷物お届けサービス◎手ぶら観光もOK
                   </p>
-                  <p className="text-sm text-stone-600 mb-4 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-stone-600 mb-4 leading-relaxed">
                     2022楽天ゴールドアワード＆日本の宿47☆ダブル受賞
                   </p>
                 </div>
@@ -143,7 +143,7 @@ export default function KanazawaKenrokuenAutumnPage() {
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 森本駅 / JR金沢駅からタクシーで約20分・ IR森本駅からタクシーで約7分・北陸自動車道金沢森本ＩＣより車5分
                   </p>
-                  <p className="text-sm text-stone-600 mb-4 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-stone-600 mb-4 leading-relaxed">
                     【金沢奥座敷　深谷温泉の一軒宿】山里の静けさと出会い、都会の喧騒を忘れる。懐かしき時の流れる老舗
                   </p>
                 </div>
@@ -188,7 +188,7 @@ export default function KanazawaKenrokuenAutumnPage() {
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 金沢駅 / 兼六園より車で25分、金沢駅より車で約40分。金沢森本I.Cから山側環状経由で30分。
                   </p>
-                  <p className="text-sm text-stone-600 mb-4 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-stone-600 mb-4 leading-relaxed">
                     金沢市街から車で15分～20分。金沢の奥座敷。温泉と料理と趣贅沢にお愉しみいただける宿。
                   </p>
                 </div>
@@ -233,7 +233,7 @@ export default function KanazawaKenrokuenAutumnPage() {
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 金沢駅 / ■金沢駅⇔ホテル無料送迎バス■金沢駅東口より車で１０分■金沢駅東口⑥、⑦乗り場【兼六園下・金沢城】バス停下車徒歩５分
                   </p>
-                  <p className="text-sm text-stone-600 mb-4 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-stone-600 mb-4 leading-relaxed">
                     金沢城のすぐ側で美肌の湯と金沢美食、そして心温まるおもてなしに癒されて日常をひと休みしませんか。
                   </p>
                 </div>
@@ -278,7 +278,7 @@ export default function KanazawaKenrokuenAutumnPage() {
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 金沢駅 / JR金沢駅より徒歩15分または北鉄バス6～10番乗り場からバスで4分「武蔵が辻・近江町市場」バス停下車後徒歩1分
                   </p>
-                  <p className="text-sm text-stone-600 mb-4 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-stone-600 mb-4 leading-relaxed">
                     「近江町市場」「兼六園」まで徒歩圏内！天然温泉大浴場＆サウナ完備！朝食は「お好み海鮮丼」
                   </p>
                 </div>

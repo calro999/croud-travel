@@ -414,7 +414,7 @@ export default function IzuShimodaCarFreeTravelGuidePage() {
                       <h3 className="font-black text-slate-900 text-lg leading-snug group-hover:text-cyan-700 transition-colors">{hotel.hotelName}</h3>
 
                       {specialText && (
-                        <p className="text-xs text-slate-600 line-clamp-2 leading-relaxed bg-cyan-50/50 p-2.5 rounded-xl border border-cyan-100">
+                        <p className="text-xs text-slate-600 leading-relaxed bg-cyan-50/50 p-2.5 rounded-xl border border-cyan-100">
                           {specialText}
                         </p>
                       )}
@@ -423,7 +423,7 @@ export default function IzuShimodaCarFreeTravelGuidePage() {
                         {hotel.access && (
                           <div className="flex items-start gap-1.5">
                             <span className="text-cyan-600 font-bold shrink-0">交通:</span>
-                            <span className="line-clamp-2">{hotel.access}</span>
+                            <span className="">{hotel.access}</span>
                           </div>
                         )}
                         {hotel.address1 && hotel.address2 && (

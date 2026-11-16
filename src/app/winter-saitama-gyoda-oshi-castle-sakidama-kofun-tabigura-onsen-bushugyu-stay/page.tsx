@@ -312,7 +312,7 @@ export default function FeaturePage() {
 
                     <div className="bg-amber-50/70 border border-amber-200/60 rounded-lg p-3 text-xs text-stone-700 space-y-1">
                       <span className="font-bold text-amber-900 block">宿泊者のクチコミ・評判抜粋</span>
-                      <p className="line-clamp-2 italic text-stone-600">「天然温泉と生演奏に癒やされる特別な空間ルートインなんですが、他のルートインとは全然違います。もろ、健康ランド(笑)しかもちゃんと天然温泉の浴槽があります。湯船の縁に析出物がついていて、」</p>
+                      <p className="italic text-stone-600">「天然温泉と生演奏に癒やされる特別な空間ルートインなんですが、他のルートインとは全然違います。もろ、健康ランド(笑)しかもちゃんと天然温泉の浴槽があります。湯船の縁に析出物がついていて、」</p>
                     </div>
                   </div>
                 </div>
@@ -385,7 +385,7 @@ export default function FeaturePage() {
 
                     <div className="bg-amber-50/70 border border-amber-200/60 rounded-lg p-3 text-xs text-stone-700 space-y-1">
                       <span className="font-bold text-amber-900 block">宿泊者のクチコミ・評判抜粋</span>
-                      <p className="line-clamp-2 italic text-stone-600">「広い部屋と美味しい朝食ブッフェに満足部屋も広くリーズナブルな宿泊代とブッフェ形式の朝ごはんが美味しいです」</p>
+                      <p className="italic text-stone-600">「広い部屋と美味しい朝食ブッフェに満足部屋も広くリーズナブルな宿泊代とブッフェ形式の朝ごはんが美味しいです」</p>
                     </div>
                   </div>
                 </div>
@@ -458,7 +458,7 @@ export default function FeaturePage() {
 
                     <div className="bg-amber-50/70 border border-amber-200/60 rounded-lg p-3 text-xs text-stone-700 space-y-1">
                       <span className="font-bold text-amber-900 block">宿泊者のクチコミ・評判抜粋</span>
-                      <p className="line-clamp-2 italic text-stone-600">「1000円で飲み放題が最高でした。 」</p>
+                      <p className="italic text-stone-600">「1000円で飲み放題が最高でした。 」</p>
                     </div>
                   </div>
                 </div>
@@ -531,7 +531,7 @@ export default function FeaturePage() {
 
                     <div className="bg-amber-50/70 border border-amber-200/60 rounded-lg p-3 text-xs text-stone-700 space-y-1">
                       <span className="font-bold text-amber-900 block">宿泊者のクチコミ・評判抜粋</span>
-                      <p className="line-clamp-2 italic text-stone-600">「落ち着いた心地よい空間の中、温かい温泉とおいしいお料理で日頃の疲れを癒やすことができました」</p>
+                      <p className="italic text-stone-600">「落ち着いた心地よい空間の中、温かい温泉とおいしいお料理で日頃の疲れを癒やすことができました」</p>
                     </div>
                   </div>
                 </div>
@@ -604,7 +604,7 @@ export default function FeaturePage() {
 
                     <div className="bg-amber-50/70 border border-amber-200/60 rounded-lg p-3 text-xs text-stone-700 space-y-1">
                       <span className="font-bold text-amber-900 block">宿泊者のクチコミ・評判抜粋</span>
-                      <p className="line-clamp-2 italic text-stone-600">「気分転換の滞在で疲れがしっかり取れた素泊まりでした気分短観したくてホテル滞在しましたお陰で色々疲れが取れましたお世話になりました」</p>
+                      <p className="italic text-stone-600">「気分転換の滞在で疲れがしっかり取れた素泊まりでした気分短観したくてホテル滞在しましたお陰で色々疲れが取れましたお世話になりました」</p>
                     </div>
                   </div>
                 </div>

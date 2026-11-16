@@ -339,7 +339,7 @@ export default function NaraParkKasugaWinterPage() {
                     <span>厳選宿 #{hotel.id}</span>
                   </div>
                   <div className="absolute bottom-4 left-4 right-4 bg-slate-950/75 backdrop-blur-sm text-white p-3 rounded-2xl text-xs space-y-1 border border-white/10">
-                    <p className="text-slate-300 line-clamp-1 flex items-center gap-1">
+                    <p className="text-slate-300 flex items-center gap-1">
                       <MapPin className="w-3.5 h-3.5 text-rose-400 shrink-0" />
                       {hotel.access}
                     </p>
@@ -573,42 +573,42 @@ export default function NaraParkKasugaWinterPage() {
               href="/winter-nara-hasedera-winter-peony-oomiwa-yamatogyu-stay/"
               className="bg-white p-3.5 rounded-2xl border border-slate-200 hover:border-emerald-400 hover:shadow-xs transition flex flex-col justify-between"
             >
-              <span className="font-bold text-xs sm:text-sm text-slate-800 line-clamp-2">長谷寺の冬牡丹＆大神神社初詣！大和牛すき焼きの滋味宿</span>
+              <span className="font-bold text-xs sm:text-sm text-slate-800">長谷寺の冬牡丹＆大神神社初詣！大和牛すき焼きの滋味宿</span>
               <span className="text-[11px] text-emerald-600 font-medium mt-2 flex items-center gap-1">奈良・桜井長谷寺特集を読む →</span>
             </Link>
             <Link 
               href="/winter-nara-dorogawa-onsen-snow-botannabe-stay/"
               className="bg-white p-3.5 rounded-2xl border border-slate-200 hover:border-emerald-400 hover:shadow-xs transition flex flex-col justify-between"
             >
-              <span className="font-bold text-xs sm:text-sm text-slate-800 line-clamp-2">洞川温泉の雪景色＆名物ぼたん鍋！修験道の秘湯宿</span>
+              <span className="font-bold text-xs sm:text-sm text-slate-800">洞川温泉の雪景色＆名物ぼたん鍋！修験道の秘湯宿</span>
               <span className="text-[11px] text-emerald-600 font-medium mt-2 flex items-center gap-1">奈良・洞川温泉特集を読む →</span>
             </Link>
             <Link 
               href="/winter-osaka-castle-nakanoshima-illumination-tenmangu-stay/"
               className="bg-white p-3.5 rounded-2xl border border-slate-200 hover:border-emerald-400 hover:shadow-xs transition flex flex-col justify-between"
             >
-              <span className="font-bold text-xs sm:text-sm text-slate-800 line-clamp-2">大阪城イルミナージュ＆大阪天満宮初詣！中之島水都夜景宿</span>
+              <span className="font-bold text-xs sm:text-sm text-slate-800">大阪城イルミナージュ＆大阪天満宮初詣！中之島水都夜景宿</span>
               <span className="text-[11px] text-emerald-600 font-medium mt-2 flex items-center gap-1">大阪・大阪城特集を読む →</span>
             </Link>
             <Link 
               href="/winter-kyoto-fushimi-inari-hatsumode-uji-sake-matcha-stay/"
               className="bg-white p-3.5 rounded-2xl border border-slate-200 hover:border-emerald-400 hover:shadow-xs transition flex flex-col justify-between"
             >
-              <span className="font-bold text-xs sm:text-sm text-slate-800 line-clamp-2">伏見稲荷大社新春初詣＆宇治抹茶！冬の酒蔵めぐりと京会席宿</span>
+              <span className="font-bold text-xs sm:text-sm text-slate-800">伏見稲荷大社新春初詣＆宇治抹茶！冬の酒蔵めぐりと京会席宿</span>
               <span className="text-[11px] text-emerald-600 font-medium mt-2 flex items-center gap-1">京都・伏見宇治特集を読む →</span>
             </Link>
             <Link 
               href="/winter-mie-suzuka-tsubaki-shrine-nabana-kuwana-hamaguri-stay/"
               className="bg-white p-3.5 rounded-2xl border border-slate-200 hover:border-emerald-400 hover:shadow-xs transition flex flex-col justify-between"
             >
-              <span className="font-bold text-xs sm:text-sm text-slate-800 line-clamp-2">椿大神社開運初詣＆なばなの里イルミ！桑名蛤と天然温泉宿</span>
+              <span className="font-bold text-xs sm:text-sm text-slate-800">椿大神社開運初詣＆なばなの里イルミ！桑名蛤と天然温泉宿</span>
               <span className="text-[11px] text-emerald-600 font-medium mt-2 flex items-center gap-1">三重・鈴鹿桑名特集を読む →</span>
             </Link>
             <Link 
               href="/features/"
               className="bg-emerald-50 p-3.5 rounded-2xl border border-emerald-200 hover:bg-emerald-100 transition flex flex-col justify-between"
             >
-              <span className="font-bold text-xs sm:text-sm text-emerald-900 line-clamp-2">全国の冬旅・新春初詣＆温泉特選特集一覧</span>
+              <span className="font-bold text-xs sm:text-sm text-emerald-900">全国の冬旅・新春初詣＆温泉特選特集一覧</span>
               <span className="text-[11px] text-emerald-700 font-medium mt-2 flex items-center gap-1">全特集一覧へ戻る →</span>
             </Link>
           

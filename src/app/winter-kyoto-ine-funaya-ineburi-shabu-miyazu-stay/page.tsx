@@ -587,7 +587,7 @@ export default function KyotoIneFunayaMiyazuWinterPage() {
                 <span className="inline-block px-2 py-0.5 bg-orange-950/80 border border-orange-400/40 text-orange-300 text-[10px] font-bold rounded-md mb-2">
                   福井・若狭ふぐ＆越前がに
                 </span>
-                <h3 className="font-bold text-white text-sm group-hover:text-orange-300 transition-colors line-clamp-2">日本最北限の若狭ふぐてっさ・てっちりと越前がに極上鍋＆三方五湖名宿</h3>
+                <h3 className="font-bold text-white text-sm group-hover:text-orange-300 transition-colors">日本最北限の若狭ふぐてっさ・てっちりと越前がに極上鍋＆三方五湖名宿</h3>
               </div>
               <span className="text-xs text-orange-400 font-semibold mt-3 flex items-center gap-1 group-hover:translate-x-1 transition-transform">
                 特集を見る →
@@ -602,7 +602,7 @@ export default function KyotoIneFunayaMiyazuWinterPage() {
                 <span className="inline-block px-2 py-0.5 bg-orange-950/80 border border-orange-400/40 text-orange-300 text-[10px] font-bold rounded-md mb-2">
                   新潟・佐渡島寒ブリ
                 </span>
-                <h3 className="font-bold text-white text-sm group-hover:text-orange-300 transition-colors line-clamp-2">冬の王者佐渡寒ブリと活本ズワイガニ・雪化粧の佐渡金山＆温泉名宿</h3>
+                <h3 className="font-bold text-white text-sm group-hover:text-orange-300 transition-colors">冬の王者佐渡寒ブリと活本ズワイガニ・雪化粧の佐渡金山＆温泉名宿</h3>
               </div>
               <span className="text-xs text-orange-400 font-semibold mt-3 flex items-center gap-1 group-hover:translate-x-1 transition-transform">
                 特集を見る →
@@ -617,7 +617,7 @@ export default function KyotoIneFunayaMiyazuWinterPage() {
                 <span className="inline-block px-2 py-0.5 bg-orange-950/80 border border-orange-400/40 text-orange-300 text-[10px] font-bold rounded-md mb-2">
                   京都・貴船＆鞍馬
                 </span>
-                <h3 className="font-bold text-white text-sm group-hover:text-orange-300 transition-colors line-clamp-2">白銀の貴船神社積雪ライトアップと冬の奥座敷・天然猪肉ぼたん鍋名宿</h3>
+                <h3 className="font-bold text-white text-sm group-hover:text-orange-300 transition-colors">白銀の貴船神社積雪ライトアップと冬の奥座敷・天然猪肉ぼたん鍋名宿</h3>
               </div>
               <span className="text-xs text-orange-400 font-semibold mt-3 flex items-center gap-1 group-hover:translate-x-1 transition-transform">
                 特集を見る →
@@ -632,7 +632,7 @@ export default function KyotoIneFunayaMiyazuWinterPage() {
                 <span className="inline-block px-2 py-0.5 bg-orange-950/80 border border-orange-400/40 text-orange-300 text-[10px] font-bold rounded-md mb-2">
                   兵庫・播州赤穂温泉
                 </span>
-                <h3 className="font-bold text-white text-sm group-hover:text-orange-300 transition-colors line-clamp-2">大粒で縮まない坂越牡蠣フルコースと赤穂温泉インフィニティ露天名宿</h3>
+                <h3 className="font-bold text-white text-sm group-hover:text-orange-300 transition-colors">大粒で縮まない坂越牡蠣フルコースと赤穂温泉インフィニティ露天名宿</h3>
               </div>
               <span className="text-xs text-orange-400 font-semibold mt-3 flex items-center gap-1 group-hover:translate-x-1 transition-transform">
                 特集を見る →
@@ -647,7 +647,7 @@ export default function KyotoIneFunayaMiyazuWinterPage() {
                 <span className="inline-block px-2 py-0.5 bg-orange-950/80 border border-orange-400/40 text-orange-300 text-[10px] font-bold rounded-md mb-2">
                   富山・雨晴海岸＆新湊
                 </span>
-                <h3 className="font-bold text-white text-sm group-hover:text-orange-300 transition-colors line-clamp-2">冠雪立山連峰奇跡絶景と新湊昼セリ本ズワイガニ・寒ブリ富山湾鮨名宿</h3>
+                <h3 className="font-bold text-white text-sm group-hover:text-orange-300 transition-colors">冠雪立山連峰奇跡絶景と新湊昼セリ本ズワイガニ・寒ブリ富山湾鮨名宿</h3>
               </div>
               <span className="text-xs text-orange-400 font-semibold mt-3 flex items-center gap-1 group-hover:translate-x-1 transition-transform">
                 特集を見る →
@@ -662,7 +662,7 @@ export default function KyotoIneFunayaMiyazuWinterPage() {
                 <span className="inline-block px-2 py-0.5 bg-orange-950/80 border border-orange-400/40 text-orange-300 text-[10px] font-bold rounded-md mb-2">
                   石川・金沢湯涌温泉
                 </span>
-                <h3 className="font-bold text-white text-sm group-hover:text-orange-300 transition-colors line-clamp-2">兼六園雪吊りと奥金沢湯涌温泉・冬限定の幻「香箱ガニ」加能ガニ名宿</h3>
+                <h3 className="font-bold text-white text-sm group-hover:text-orange-300 transition-colors">兼六園雪吊りと奥金沢湯涌温泉・冬限定の幻「香箱ガニ」加能ガニ名宿</h3>
               </div>
               <span className="text-xs text-orange-400 font-semibold mt-3 flex items-center gap-1 group-hover:translate-x-1 transition-transform">
                 特集を見る →

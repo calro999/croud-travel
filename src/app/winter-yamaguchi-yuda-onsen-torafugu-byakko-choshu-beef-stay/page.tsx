@@ -435,7 +435,7 @@ export default function WinterYamaguchiYudaPage() {
                     <div className="pt-2 flex flex-col sm:flex-row items-center justify-between gap-4 border-t border-stone-100">
                       <div className="flex items-center gap-1.5 text-xs text-stone-500 w-full sm:w-auto">
                         <MapPin className="w-3.5 h-3.5 text-stone-400 shrink-0" />
-                        <span className="truncate">{h.access}</span>
+                        <span className="break-words">{h.access}</span>
                       </div>
                       <a
                         href={h.url}
@@ -584,8 +584,8 @@ export default function WinterYamaguchiYudaPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-rose-300 bg-rose-400/20 px-2 py-0.5 rounded-full inline-block">山口・萩温泉</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-rose-200 transition line-clamp-2">萩温泉郷の城下町冬散策と日本海とらふぐ・長州牛会席</h4>
-              <p className="text-[11px] text-stone-200 line-clamp-2">
+              <h4 className="text-xs font-bold text-white group-hover:text-rose-200 transition">萩温泉郷の城下町冬散策と日本海とらふぐ・長州牛会席</h4>
+              <p className="text-[11px] text-stone-200">
                 白壁となまこ壁が続く世界遺産の城下町と、冬の日本海地魚・名湯を味わう旅。
               </p>
             </Link>
@@ -595,8 +595,8 @@ export default function WinterYamaguchiYudaPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-rose-300 bg-rose-400/20 px-2 py-0.5 rounded-full inline-block">山口・長門湯本温泉</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-rose-200 transition line-clamp-2">長門湯本温泉の音信川うたかたの冬宵と立ち寄り温泉街</h4>
-              <p className="text-[11px] text-stone-200 line-clamp-2">
+              <h4 className="text-xs font-bold text-white group-hover:text-rose-200 transition">長門湯本温泉の音信川うたかたの冬宵と立ち寄り温泉街</h4>
+              <p className="text-[11px] text-stone-200">
                 リノベーションされた美しい川沿い温泉街と名物恩湯、冬のとらふぐ会席。
               </p>
             </Link>
@@ -606,8 +606,8 @@ export default function WinterYamaguchiYudaPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-rose-300 bg-rose-400/20 px-2 py-0.5 rounded-full inline-block">山口・下関川棚温泉</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-rose-200 transition line-clamp-2">下関川棚温泉の本場とらふぐと熱々名物瓦そばステイ</h4>
-              <p className="text-[11px] text-stone-200 line-clamp-2">
+              <h4 className="text-xs font-bold text-white group-hover:text-rose-200 transition">下関川棚温泉の本場とらふぐと熱々名物瓦そばステイ</h4>
+              <p className="text-[11px] text-stone-200">
                 熱した瓦で焼く元祖瓦そばと下関ふく料理、毛利侯ゆかりの青龍伝説の湯。
               </p>
             </Link>

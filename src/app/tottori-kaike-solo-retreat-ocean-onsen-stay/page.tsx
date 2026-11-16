@@ -367,19 +367,19 @@ export default function ArticlePage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/winter-tottori-sakyu-snow-hakuto-shrine-hatsumode-matsubagani-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">白銀に染まる「鳥取砂丘」雪景色と因幡の白兎「白兎神社」新春縁結び初詣 冬旬「鳥取松葉がに」・幻のモサエビ＆鳥取温泉名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">白銀に染まる「鳥取砂丘」雪景色と因幡の白兎「白兎神社」新春縁結び初詣 冬旬「鳥取松葉がに」・幻のモサエビ＆鳥取温泉名宿5選</span>
             </a>
             <a href="/autumn-budget-tottori-station-sakyu-mosaebi-beef-hotels-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「鳥取駅前」黄金の鳥取砂丘＆幻のモサエビ！3,000円台〜泊まれる格安・高コスパ宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「鳥取駅前」黄金の鳥取砂丘＆幻のモサエビ！3,000円台〜泊まれる格安・高コスパ宿5選</span>
             </a>
             <a href="/autumn-budget-tottori-yonago-station-crab-hotels-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「米子駅前」秋の境港紅ズワイガニ＆米子城跡展望！3,000円台〜泊まれる格安・高コスパ宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「米子駅前」秋の境港紅ズワイガニ＆米子城跡展望！3,000円台〜泊まれる格安・高コスパ宿5選</span>
             </a>
             <a href="/furusato-tax-daisen-kagikake-kaike-autumn-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">霊峰大山・鍵掛峠の錦秋大パノラマ＆皆生温泉オーシャンビュー露天！松葉ガニ・境港宿×ふるさと納税厳選ガイド鳥取</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">霊峰大山・鍵掛峠の錦秋大パノラマ＆皆生温泉オーシャンビュー露天！松葉ガニ・境港宿×ふるさと納税厳選ガイド鳥取</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

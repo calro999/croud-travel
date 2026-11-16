@@ -42,7 +42,7 @@ export default function HirosakiBudgetAutumnPage() {
             <span className="px-3 py-1 bg-stone-800 text-amber-300 text-xs font-medium rounded-full border border-amber-400/30">1泊目安: 4,000円台〜7,000円台</span>
           </div>
           <h1 className="text-2xl md:text-4xl lg:text-5xl font-extrabold text-white leading-tight mb-4 drop-shadow-md">「秋の弘前×格安」弘前城菊と紅葉まつりと焼きたてアップルパイ！大浴場付き1泊4,000円〜7,000円台のコスパ最強ホテル5選</h1>
-          <p className="text-stone-200 text-sm md:text-base max-w-3xl line-clamp-2 md:line-clamp-none">
+          <p className="text-stone-200 text-sm md:text-base max-w-3xl">
             約1,000本のカエデと約2,600本の桜が一斉に紅葉する弘前公園。夜はお濠の水鏡に映る幻想的なライトアップを堪能し、りんご王国ならではの極上スイーツや天然温泉に癒やされる格安ステイをご提案します。
           </p>
         </div>
@@ -98,7 +98,7 @@ export default function HirosakiBudgetAutumnPage() {
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 弘前駅 / ＪＲ弘前駅中央口より徒歩1分、青森空港より車で約６０分、東北自動車道（大鰐・弘前ＩＣ）より車で約１５分
                   </p>
-                  <p className="text-sm text-stone-600 mb-4 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-stone-600 mb-4 leading-relaxed">
                     JR弘前駅前、津軽の自然の彩を感じるホテル。旅の拠点として最適です。
                   </p>
                 </div>
@@ -143,7 +143,7 @@ export default function HirosakiBudgetAutumnPage() {
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 弘前駅 / 弘前駅より徒歩約１2分　100円バスで6分　東北自動車道路「大鰐弘前ＩＣ」より20分　駐車場は先着順（1台500円/泊）
                   </p>
-                  <p className="text-sm text-stone-600 mb-4 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-stone-600 mb-4 leading-relaxed">
                     ◆弘前市内の土手町で唯一の天然温泉＆日替わりバイキング朝食無料◆52台駐車場（先着順／500円）◆
                   </p>
                 </div>
@@ -188,7 +188,7 @@ export default function HirosakiBudgetAutumnPage() {
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 弘前駅 / JR奥羽本線弘前駅城東口より約2km/東北自動車道大鰐・弘前ICより約8km/青森空港より弘前バスターミナルまで約60分
                   </p>
-                  <p className="text-sm text-stone-600 mb-4 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-stone-600 mb-4 leading-relaxed">
                     ＷＯＷＯＷ全室で無料視聴可■VODルームシアター無料視聴可能（一般映画のみ）（コンフォート特典）
                   </p>
                 </div>
@@ -233,7 +233,7 @@ export default function HirosakiBudgetAutumnPage() {
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 中央弘前駅 / JR弘前駅より車で約10分
                   </p>
-                  <p className="text-sm text-stone-600 mb-4 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-stone-600 mb-4 leading-relaxed">
                     最上階天然温泉大浴場と、高温サウナで心身共にととのう！男性露天風呂からは青森の津軽富士をご覧頂けます
                   </p>
                 </div>
@@ -278,7 +278,7 @@ export default function HirosakiBudgetAutumnPage() {
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 駅 / 東北自動車道　黒石ＩＣからお車にて約１０分
                   </p>
-                  <p className="text-sm text-stone-600 mb-4 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-stone-600 mb-4 leading-relaxed">
                     ご当地牛すき焼き、大間まぐろ、ご当地そばなどの夕食が人気。露天風呂完備。全室Wi-Fi無料。
                   </p>
                 </div>

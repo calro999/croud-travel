@@ -369,19 +369,19 @@ export default function ArticlePage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/hakone-daytrip-hotspring-lunch-guide/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「箱根 日帰り温泉 ランチ付きおすすめ」 個室休憩＆貸切風呂・老舗旅館の贅沢プラン完全比較</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「箱根 日帰り温泉 ランチ付きおすすめ」 個室休憩＆貸切風呂・老舗旅館の贅沢プラン完全比較</span>
             </a>
             <a href="/hakone-rainy-day-indoor-model-course/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「箱根 雨の日の観光モデルコース」 ポーラ美術館・ガラスの森・彫刻の森室内＆早めチェックイン温泉おこもり旅</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「箱根 雨の日の観光モデルコース」 ポーラ美術館・ガラスの森・彫刻の森室内＆早めチェックイン温泉おこもり旅</span>
             </a>
             <a href="/hakone-trip-packing-regrets-worst5-guide/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「箱根旅行で後悔したことワースト5」 大涌谷ロープウェイ強風運休＆夕方カフェ難民！ 渋滞回避の知恵袋＆パッキング術</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「箱根旅行で後悔したことワースト5」 大涌谷ロープウェイ強風運休＆夕方カフェ難民！ 渋滞回避の知恵袋＆パッキング術</span>
             </a>
             <a href="/japan-top-night-view-luxury-hotel-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「日本三大夜景＆摩天楼パノラマ宿」函館・長崎・神戸・横浜・東京高層ホテル 厳選ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「日本三大夜景＆摩天楼パノラマ宿」函館・長崎・神戸・横浜・東京高層ホテル 厳選ガイド</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

@@ -582,7 +582,7 @@ export default function ShizuokaSumatakyoOnsenWinterPage() {
             >
               <div>
                 <span className="text-[11px] font-bold text-teal-700 bg-teal-50 px-2 py-0.5 rounded block w-fit mb-2">静岡・奥静岡</span>
-                <h3 className="text-sm font-bold text-stone-800 group-hover:text-teal-600 line-clamp-2">梅ヶ島温泉の極上美肌湯と奥静岡の雪景色・駿河軍鶏鍋ステイ</h3>
+                <h3 className="text-sm font-bold text-stone-800 group-hover:text-teal-600">梅ヶ島温泉の極上美肌湯と奥静岡の雪景色・駿河軍鶏鍋ステイ</h3>
               </div>
               <span className="text-xs text-teal-600 font-semibold mt-3 block">記事を読む →</span>
             </Link>
@@ -593,7 +593,7 @@ export default function ShizuokaSumatakyoOnsenWinterPage() {
             >
               <div>
                 <span className="text-[11px] font-bold text-teal-700 bg-teal-50 px-2 py-0.5 rounded block w-fit mb-2">静岡・焼津温泉</span>
-                <h3 className="text-sm font-bold text-stone-800 group-hover:text-teal-600 line-clamp-2">焼津温泉から望む富士山絶景と冬の極上南マグロ尽くしステイ</h3>
+                <h3 className="text-sm font-bold text-stone-800 group-hover:text-teal-600">焼津温泉から望む富士山絶景と冬の極上南マグロ尽くしステイ</h3>
               </div>
               <span className="text-xs text-teal-600 font-semibold mt-3 block">記事を読む →</span>
             </Link>
@@ -604,7 +604,7 @@ export default function ShizuokaSumatakyoOnsenWinterPage() {
             >
               <div>
                 <span className="text-[11px] font-bold text-teal-700 bg-teal-50 px-2 py-0.5 rounded block w-fit mb-2">静岡・伊豆修善寺</span>
-                <h3 className="text-sm font-bold text-stone-800 group-hover:text-teal-600 line-clamp-2">修善寺温泉の竹林の小径と冬の静寂・歴史ある湯治ステイ</h3>
+                <h3 className="text-sm font-bold text-stone-800 group-hover:text-teal-600">修善寺温泉の竹林の小径と冬の静寂・歴史ある湯治ステイ</h3>
               </div>
               <span className="text-xs text-teal-600 font-semibold mt-3 block">記事を読む →</span>
             </Link>
@@ -615,7 +615,7 @@ export default function ShizuokaSumatakyoOnsenWinterPage() {
             >
               <div>
                 <span className="text-[11px] font-bold text-teal-700 bg-teal-50 px-2 py-0.5 rounded block w-fit mb-2">静岡・浜名湖舘山寺</span>
-                <h3 className="text-sm font-bold text-stone-800 group-hover:text-teal-600 line-clamp-2">浜名湖舘山寺温泉と冬の天然トラフグ・名物鰻と湖畔温泉ステイ</h3>
+                <h3 className="text-sm font-bold text-stone-800 group-hover:text-teal-600">浜名湖舘山寺温泉と冬の天然トラフグ・名物鰻と湖畔温泉ステイ</h3>
               </div>
               <span className="text-xs text-teal-600 font-semibold mt-3 block">記事を読む →</span>
             </Link>

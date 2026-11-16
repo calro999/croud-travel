@@ -591,7 +591,7 @@ export default function ChibaNaritasanSawaraPage() {
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-rose-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-rose-700 font-bold text-xs block mb-1">埼玉・川越小江戸</span>
-              <span className="text-stone-900 font-bold group-hover:text-rose-800 transition-colors line-clamp-2">
+              <span className="text-stone-900 font-bold group-hover:text-rose-800 transition-colors">
                 蔵造りの町並みと喜多院だるま市・初詣＆名物小江戸鰻名宿
               </span>
             </Link>
@@ -601,7 +601,7 @@ export default function ChibaNaritasanSawaraPage() {
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-rose-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-rose-700 font-bold text-xs block mb-1">千葉・銚子犬吠埼</span>
-              <span className="text-stone-900 font-bold group-hover:text-rose-800 transition-colors line-clamp-2">
+              <span className="text-stone-900 font-bold group-hover:text-rose-800 transition-colors">
                 日本一早い初日の出と極上銚子つりきんめ・天然温泉絶景名宿
               </span>
             </Link>
@@ -611,7 +611,7 @@ export default function ChibaNaritasanSawaraPage() {
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-rose-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-rose-700 font-bold text-xs block mb-1">千葉・南房総鴨川</span>
-              <span className="text-stone-900 font-bold group-hover:text-rose-800 transition-colors line-clamp-2">
+              <span className="text-stone-900 font-bold group-hover:text-rose-800 transition-colors">
                 冬の鴨川シーワールドと小湊鯛の浦・極上地金目鯛の姿煮名宿
               </span>
             </Link>
@@ -621,7 +621,7 @@ export default function ChibaNaritasanSawaraPage() {
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-rose-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-rose-700 font-bold text-xs block mb-1">神奈川・鎌倉＆江の島</span>
-              <span className="text-stone-900 font-bold group-hover:text-rose-800 transition-colors line-clamp-2">
+              <span className="text-stone-900 font-bold group-hover:text-rose-800 transition-colors">
                 鶴岡八幡宮初詣と江の島イルミネーション・富士山夕景名宿
               </span>
             </Link>
@@ -631,7 +631,7 @@ export default function ChibaNaritasanSawaraPage() {
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-rose-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-rose-700 font-bold text-xs block mb-1">栃木・日光東照宮</span>
-              <span className="text-stone-900 font-bold group-hover:text-rose-800 transition-colors line-clamp-2">
+              <span className="text-stone-900 font-bold group-hover:text-rose-800 transition-colors">
                 世界遺産日光東照宮冬初詣と名物日光湯波会席・とちぎ和牛名宿
               </span>
             </Link>
@@ -641,7 +641,7 @@ export default function ChibaNaritasanSawaraPage() {
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-rose-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-rose-700 font-bold text-xs block mb-1">茨城・大洗＆那珂湊</span>
-              <span className="text-stone-900 font-bold group-hover:text-rose-800 transition-colors line-clamp-2">
+              <span className="text-stone-900 font-bold group-hover:text-rose-800 transition-colors">
                 大洗磯前神社神磯の鳥居初日の出と冬の常磐アンコウ鍋名宿
               </span>
             </Link>

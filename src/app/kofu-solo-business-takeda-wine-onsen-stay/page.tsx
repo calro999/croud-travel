@@ -423,19 +423,19 @@ export default function ArticlePage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/winter-yamanashi-shimobe-onsen-minobu-koshu-beef-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12月山梨・下部温泉＆身延】武田信玄公の隠し湯とぬる湯治 初冬富士山の絶景・自噴源泉の交互浴と極上甲州牛・名物ほうとうを味わう名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">【11・12月山梨・下部温泉＆身延】武田信玄公の隠し湯とぬる湯治 初冬富士山の絶景・自噴源泉の交互浴と極上甲州牛・名物ほうとうを味わう名宿5選</span>
             </a>
             <a href="/yamanashi-fujikawaguchiko-solo-retreat-fujiview-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「富士山麓・富士河口湖温泉ひとり旅・富士絶景おこもり」屋上展望足湯・富士ビュー露天風呂・甲州牛懐石！新宿特急直通の絶景リトリート厳選3宿</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「富士山麓・富士河口湖温泉ひとり旅・富士絶景おこもり」屋上展望足湯・富士ビュー露天風呂・甲州牛懐石！新宿特急直通の絶景リトリート厳選3宿</span>
             </a>
             <a href="/yamanashi-koshu-katsunuma-wine-isawa-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「山梨・甲州勝沼＆笛吹・石和」勝沼ワイナリー巡り・桃源郷＆石和名湯美肌宿 厳選ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「山梨・甲州勝沼＆笛吹・石和」勝沼ワイナリー巡り・桃源郷＆石和名湯美肌宿 厳選ガイド</span>
             </a>
             <a href="/yamanashi-yumura-solo-retreat-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「甲府・湯村温泉ひとり旅・信玄隠し湯おこもり」自家源泉かけ流し・太宰治ゆかりの文学宿・甲州ワイン＆ほうとう！都心特急90分の古湯厳選3宿</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「甲府・湯村温泉ひとり旅・信玄隠し湯おこもり」自家源泉かけ流し・太宰治ゆかりの文学宿・甲州ワイン＆ほうとう！都心特急90分の古湯厳選3宿</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

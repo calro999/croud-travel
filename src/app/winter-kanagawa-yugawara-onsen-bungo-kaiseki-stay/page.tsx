@@ -648,7 +648,7 @@ export default function YugawaraWinterPage() {
               <div className="font-bold text-stone-900 group-hover:text-orange-700 mb-1">
                 箱根温泉の富士山ビュー露天風呂特集
               </div>
-              <p className="text-xs text-stone-500 line-clamp-2">
+              <p className="text-xs text-stone-500">
                 初冬の澄み切った空に浮かぶ白銀の富士山を望む箱根の名湯リゾートガイド。
               </p>
             </Link>
@@ -660,7 +660,7 @@ export default function YugawaraWinterPage() {
               <div className="font-bold text-stone-900 group-hover:text-orange-700 mb-1">
                 熱海海上花火大会とオーシャンビュー宿
               </div>
-              <p className="text-xs text-stone-500 line-clamp-2">
+              <p className="text-xs text-stone-500">
                 冬の澄んだ夜空に響き渡る圧巻の花火ミュージカルと相模湾を見晴らす名湯。
               </p>
             </Link>
@@ -672,7 +672,7 @@ export default function YugawaraWinterPage() {
               <div className="font-bold text-stone-900 group-hover:text-orange-700 mb-1">
                 伊豆・修善寺温泉の竹林の小径と晩秋紅葉
               </div>
-              <p className="text-xs text-stone-500 line-clamp-2">
+              <p className="text-xs text-stone-500">
                 弘法大師開湯の伊豆最古の名湯。竹林のライトアップと桂川沿いの老舗旅館。
               </p>
             </Link>
@@ -684,7 +684,7 @@ export default function YugawaraWinterPage() {
               <div className="font-bold text-stone-900 group-hover:text-orange-700 mb-1">
                 伊豆高原グランイルミと伊東温泉特集
               </div>
-              <p className="text-xs text-stone-500 line-clamp-2">
+              <p className="text-xs text-stone-500">
                 日本屈指の体験型イルミネーションと湯量豊富な伊東温泉の名宿ガイド。
               </p>
             </Link>
@@ -696,7 +696,7 @@ export default function YugawaraWinterPage() {
               <div className="font-bold text-stone-900 group-hover:text-orange-700 mb-1">
                 埼玉・秩父の三十槌の氷柱と郷土宿
               </div>
-              <p className="text-xs text-stone-500 line-clamp-2">
+              <p className="text-xs text-stone-500">
                 大自然が創り出す神秘の氷の芸術・三十槌の氷柱と秩父の山里温泉。
               </p>
             </Link>

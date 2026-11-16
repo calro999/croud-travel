@@ -762,7 +762,7 @@ export default function HakoneWinterPage() {
             >
               <span className="text-[11px] font-bold text-rose-800 bg-rose-100/80 px-2 py-0.5 rounded">富士山特集</span>
               <h3 className="font-bold text-stone-900 text-sm group-hover:text-cyan-900 transition-colors">富士河口湖紅葉まつりと逆さ富士を望む露天風呂宿</h3>
-              <p className="text-xs text-stone-500 line-clamp-2">
+              <p className="text-xs text-stone-500">
                 もみじ回廊ライトアップと湖畔から望む圧倒的な冬富士パノラマ。
               </p>
             </Link>
@@ -773,7 +773,7 @@ export default function HakoneWinterPage() {
             >
               <span className="text-[11px] font-bold text-amber-800 bg-amber-100/80 px-2 py-0.5 rounded">近隣温泉特集</span>
               <h3 className="font-bold text-stone-900 text-sm group-hover:text-amber-900 transition-colors">伊豆の極上金目鯛しゃぶしゃぶとオーシャンビュー温泉</h3>
-              <p className="text-xs text-stone-500 line-clamp-2">
+              <p className="text-xs text-stone-500">
                 箱根から足を伸ばせる伊豆半島で冬が旬の脂の乗った金目鯛を堪能。
               </p>
             </Link>
@@ -784,7 +784,7 @@ export default function HakoneWinterPage() {
             >
               <span className="text-[11px] font-bold text-teal-800 bg-teal-100/80 px-2 py-0.5 rounded">首都圏冬ステイ</span>
               <h3 className="font-bold text-stone-900 text-sm group-hover:text-teal-900 transition-colors">東京丸の内シャンパンゴールドイルミネーション宿</h3>
-              <p className="text-xs text-stone-500 line-clamp-2">
+              <p className="text-xs text-stone-500">
                 丸の内仲通りの光の並木道と東京駅周辺のラグジュアリーホテル。
               </p>
             </Link>

@@ -339,7 +339,7 @@ export default function SaitamaOmiyaHikawaWinterPage() {
                     <span>厳選宿 #{hotel.id}</span>
                   </div>
                   <div className="absolute bottom-4 left-4 right-4 bg-slate-950/75 backdrop-blur-sm text-white p-3 rounded-2xl text-xs space-y-1 border border-white/10">
-                    <p className="text-slate-300 line-clamp-1 flex items-center gap-1">
+                    <p className="text-slate-300 flex items-center gap-1">
                       <MapPin className="w-3.5 h-3.5 text-rose-400 shrink-0" />
                       {hotel.access}
                     </p>
@@ -573,42 +573,42 @@ export default function SaitamaOmiyaHikawaWinterPage() {
               href="/winter-saitama-chichibu-onsen-yomatsuri-nagatoro-bushugyu-stay/"
               className="bg-white p-3.5 rounded-2xl border border-slate-200 hover:border-teal-400 hover:shadow-xs transition flex flex-col justify-between"
             >
-              <span className="font-bold text-xs sm:text-sm text-slate-800 line-clamp-2">秩父夜祭の屋台曳行＆長瀞雪景色！武州牛と美肌温泉宿</span>
+              <span className="font-bold text-xs sm:text-sm text-slate-800">秩父夜祭の屋台曳行＆長瀞雪景色！武州牛と美肌温泉宿</span>
               <span className="text-[11px] text-teal-600 font-medium mt-2 flex items-center gap-1">埼玉・秩父特集を読む →</span>
             </Link>
             <Link 
               href="/winter-saitama-kawagoe-koedo-kitain-daruma-unagi-stay/"
               className="bg-white p-3.5 rounded-2xl border border-slate-200 hover:border-teal-400 hover:shadow-xs transition flex flex-col justify-between"
             >
-              <span className="font-bold text-xs sm:text-sm text-slate-800 line-clamp-2">小江戸川越喜多院初詣＆だるま市！名物うなぎと蔵造り宿</span>
+              <span className="font-bold text-xs sm:text-sm text-slate-800">小江戸川越喜多院初詣＆だるま市！名物うなぎと蔵造り宿</span>
               <span className="text-[11px] text-teal-600 font-medium mt-2 flex items-center gap-1">埼玉・川越特集を読む →</span>
             </Link>
             <Link 
               href="/winter-tokyo-odaiba-toyosu-senkyakubanrai-yakei-stay/"
               className="bg-white p-3.5 rounded-2xl border border-slate-200 hover:border-teal-400 hover:shadow-xs transition flex flex-col justify-between"
             >
-              <span className="font-bold text-xs sm:text-sm text-slate-800 line-clamp-2">お台場レインボー花火＆豊洲千客万来！東京ベイ夜景と温泉宿</span>
+              <span className="font-bold text-xs sm:text-sm text-slate-800">お台場レインボー花火＆豊洲千客万来！東京ベイ夜景と温泉宿</span>
               <span className="text-[11px] text-teal-600 font-medium mt-2 flex items-center gap-1">東京・お台場豊洲特集を読む →</span>
             </Link>
             <Link 
               href="/winter-tochigi-ashikaga-flowerpark-sano-yakuyoke-stay/"
               className="bg-white p-3.5 rounded-2xl border border-slate-200 hover:border-teal-400 hover:shadow-xs transition flex flex-col justify-between"
             >
-              <span className="font-bold text-xs sm:text-sm text-slate-800 line-clamp-2">あしかがフラワーパーク日本三大イルミ＆佐野厄除け大師初詣宿</span>
+              <span className="font-bold text-xs sm:text-sm text-slate-800">あしかがフラワーパーク日本三大イルミ＆佐野厄除け大師初詣宿</span>
               <span className="text-[11px] text-teal-600 font-medium mt-2 flex items-center gap-1">栃木・足利佐野特集を読む →</span>
             </Link>
             <Link 
               href="/winter-ibaraki-tsukubasan-shrine-hatsumode-yakei-onsen-hitachigyu-stay/"
               className="bg-white p-3.5 rounded-2xl border border-slate-200 hover:border-teal-400 hover:shadow-xs transition flex flex-col justify-between"
             >
-              <span className="font-bold text-xs sm:text-sm text-slate-800 line-clamp-2">筑波山神社新春初詣＆関東平野大夜景！常陸牛と天然温泉宿</span>
+              <span className="font-bold text-xs sm:text-sm text-slate-800">筑波山神社新春初詣＆関東平野大夜景！常陸牛と天然温泉宿</span>
               <span className="text-[11px] text-teal-600 font-medium mt-2 flex items-center gap-1">茨城・筑波山特集を読む →</span>
             </Link>
             <Link 
               href="/features/"
               className="bg-teal-50 p-3.5 rounded-2xl border border-teal-200 hover:bg-teal-100 transition flex flex-col justify-between"
             >
-              <span className="font-bold text-xs sm:text-sm text-teal-900 line-clamp-2">全国の冬旅・新春初詣＆温泉特選特集一覧</span>
+              <span className="font-bold text-xs sm:text-sm text-teal-900">全国の冬旅・新春初詣＆温泉特選特集一覧</span>
               <span className="text-[11px] text-teal-700 font-medium mt-2 flex items-center gap-1">全特集一覧へ戻る →</span>
             </Link>
           

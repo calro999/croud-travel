@@ -705,7 +705,7 @@ export default function ShizuokaMinamiizuShimogamoWinterPage() {
               className="bg-white p-4 rounded-2xl border border-stone-200 hover:border-teal-500 hover:shadow-xs transition group space-y-2"
             >
               <span className="text-[11px] font-bold text-teal-700 bg-teal-50 px-2 py-0.5 rounded-md">静岡・伊豆長岡温泉</span>
-              <h4 className="text-xs sm:text-sm font-bold text-stone-900 group-hover:text-teal-700 transition line-clamp-2">富士山眺望と碧テラス絶景・伊豆牛ステーキと古奈の名湯</h4>
+              <h4 className="text-xs sm:text-sm font-bold text-stone-900 group-hover:text-teal-700 transition">富士山眺望と碧テラス絶景・伊豆牛ステーキと古奈の名湯</h4>
             </Link>
 
             <Link
@@ -713,7 +713,7 @@ export default function ShizuokaMinamiizuShimogamoWinterPage() {
               className="bg-white p-4 rounded-2xl border border-stone-200 hover:border-teal-500 hover:shadow-xs transition group space-y-2"
             >
               <span className="text-[11px] font-bold text-teal-700 bg-teal-50 px-2 py-0.5 rounded-md">静岡・熱海温泉</span>
-              <h4 className="text-xs sm:text-sm font-bold text-stone-900 group-hover:text-teal-700 transition line-clamp-2">熱海冬花火のパノラマ絶景露天風呂と金目鯛しゃぶしゃぶ</h4>
+              <h4 className="text-xs sm:text-sm font-bold text-stone-900 group-hover:text-teal-700 transition">熱海冬花火のパノラマ絶景露天風呂と金目鯛しゃぶしゃぶ</h4>
             </Link>
 
             <Link
@@ -721,7 +721,7 @@ export default function ShizuokaMinamiizuShimogamoWinterPage() {
               className="bg-white p-4 rounded-2xl border border-stone-200 hover:border-teal-500 hover:shadow-xs transition group space-y-2"
             >
               <span className="text-[11px] font-bold text-teal-700 bg-teal-50 px-2 py-0.5 rounded-md">静岡・稲取温泉</span>
-              <h4 className="text-xs sm:text-sm font-bold text-stone-900 group-hover:text-teal-700 transition line-clamp-2">稲取港の初冬名物・地金目鯛の姿煮と太平洋オーシャンビュー</h4>
+              <h4 className="text-xs sm:text-sm font-bold text-stone-900 group-hover:text-teal-700 transition">稲取港の初冬名物・地金目鯛の姿煮と太平洋オーシャンビュー</h4>
             </Link>
 
             <Link
@@ -729,7 +729,7 @@ export default function ShizuokaMinamiizuShimogamoWinterPage() {
               className="bg-white p-4 rounded-2xl border border-stone-200 hover:border-teal-500 hover:shadow-xs transition group space-y-2"
             >
               <span className="text-[11px] font-bold text-teal-700 bg-teal-50 px-2 py-0.5 rounded-md">静岡・西伊豆堂ヶ島温泉</span>
-              <h4 className="text-xs sm:text-sm font-bold text-stone-900 group-hover:text-teal-700 transition line-clamp-2">夕陽百選のリアス式海岸絶景と世界最大の高足ガニ会席</h4>
+              <h4 className="text-xs sm:text-sm font-bold text-stone-900 group-hover:text-teal-700 transition">夕陽百選のリアス式海岸絶景と世界最大の高足ガニ会席</h4>
             </Link>
 
             <Link
@@ -737,7 +737,7 @@ export default function ShizuokaMinamiizuShimogamoWinterPage() {
               className="bg-white p-4 rounded-2xl border border-stone-200 hover:border-teal-500 hover:shadow-xs transition group space-y-2"
             >
               <span className="text-[11px] font-bold text-teal-700 bg-teal-50 px-2 py-0.5 rounded-md">静岡・修善寺温泉</span>
-              <h4 className="text-xs sm:text-sm font-bold text-stone-900 group-hover:text-teal-700 transition line-clamp-2">竹林の小径と伊豆最古の湯・初冬の紅葉ライトアップ散策</h4>
+              <h4 className="text-xs sm:text-sm font-bold text-stone-900 group-hover:text-teal-700 transition">竹林の小径と伊豆最古の湯・初冬の紅葉ライトアップ散策</h4>
             </Link>
 
             <Link

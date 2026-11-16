@@ -601,21 +601,21 @@ export default function FukuiWakasaFuguWinterPage() {
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-teal-700 font-bold block text-[10px]">福井・三国温泉</span>
-              <p className="font-bold text-stone-800 line-clamp-2">東尋坊の冬景色と本場越前がにの極上フルコース・夕陽の海辺温泉宿</p>
+              <p className="font-bold text-stone-800">東尋坊の冬景色と本場越前がにの極上フルコース・夕陽の海辺温泉宿</p>
             </Link>
             <Link 
               href="/winter-fukui-awara-onsen-echizen-crab-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-teal-700 font-bold block text-[10px]">福井・あわら温泉</span>
-              <p className="font-bold text-stone-800 line-clamp-2">関西の奥座敷あわら温泉の庭園名宿と越前がに・日本海の冬美食ステイ</p>
+              <p className="font-bold text-stone-800">関西の奥座敷あわら温泉の庭園名宿と越前がに・日本海の冬美食ステイ</p>
             </Link>
             <Link 
               href="/winter-kyoto-amanohashidate-matsuba-crab-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-teal-700 font-bold block text-[10px]">京都・天橋立温泉</span>
-              <p className="font-bold text-stone-800 line-clamp-2">日本三景天橋立の冬絶景と幻の間人ガニ・松葉ガニを味わう海絶景宿</p>
+              <p className="font-bold text-stone-800">日本三景天橋立の冬絶景と幻の間人ガニ・松葉ガニを味わう海絶景宿</p>
             </Link>
           
       <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">

@@ -461,19 +461,19 @@ export default function Page() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/winter-tottori-misasa-onsen-matsuba-crab-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11月解禁！鳥取松葉ガニと三朝温泉】 日本海直送タグ付き活ガニと世界屈指のラジウム名湯宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">【11月解禁！鳥取松葉ガニと三朝温泉】 日本海直送タグ付き活ガニと世界屈指のラジウム名湯宿5選</span>
             </a>
             <a href="/winter-tottori-sand-dunes-snow-matsubagani-hakuto-shrine-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「冬の鳥取砂丘＆白兎神社初詣」 白銀の雪砂丘と神秘の風紋！因幡の白兎伝説の縁結び祈願と 冬の味覚の王様「本場松葉ガニ・鳥取温泉」名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「冬の鳥取砂丘＆白兎神社初詣」 白銀の雪砂丘と神秘の風紋！因幡の白兎伝説の縁結び祈願と 冬の味覚の王様「本場松葉ガニ・鳥取温泉」名宿5選</span>
             </a>
             <a href="/autumn-budget-tottori-station-sakyu-mosaebi-hotels-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「鳥取駅前」幻のモサエビ＆黄金に輝く鳥取砂丘！3,000円台〜泊まれる格安・高コスパ宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「鳥取駅前」幻のモサエビ＆黄金に輝く鳥取砂丘！3,000円台〜泊まれる格安・高コスパ宿5選</span>
             </a>
             <a href="/autumn-budget-tottori-yonago-station-daisen-crab-hotels-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「米子駅前」名峰大山の紅葉＆境港の紅ズワイガニ！2,000円台〜泊まれる格安・高コスパ宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「米子駅前」名峰大山の紅葉＆境港の紅ズワイガニ！2,000円台〜泊まれる格安・高コスパ宿5選</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

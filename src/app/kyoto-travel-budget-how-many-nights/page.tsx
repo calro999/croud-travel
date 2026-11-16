@@ -227,8 +227,8 @@ export default function KyotoNightsGuide() {
                   )}
                   <div className="p-3 flex flex-col justify-between w-full bg-white">
                     <div>
-                      <h4 className="font-bold text-stone-800 text-sm line-clamp-1">{hotel.hotelName}</h4>
-                      <p className="text-xs text-stone-500 mt-1 line-clamp-2">{hotel.description}</p>
+                      <h4 className="font-bold text-stone-800 text-sm">{hotel.hotelName}</h4>
+                      <p className="text-xs text-stone-500 mt-1">{hotel.description}</p>
                     </div>
                     <a 
                       href={hotel.affiliateUrl} 

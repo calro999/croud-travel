@@ -398,19 +398,19 @@ export default function ArticlePage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/furusato-tax-okayama-kurashiki-tsuyama-autumn-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「岡山・倉敷＆津山」白壁の町並み紅葉＆晴れの国の秋旅！名門ホテルと幻の千屋牛・瀬戸内海鮮</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「岡山・倉敷＆津山」白壁の町並み紅葉＆晴れの国の秋旅！名門ホテルと幻の千屋牛・瀬戸内海鮮</span>
             </a>
             <a href="/gifu-shirakawago-gokayama-gassho-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「岐阜・白川郷＆五箇山」世界遺産合掌造り集落・荻町展望台＆飛騨牛・すったて汁宿 厳選ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「岐阜・白川郷＆五箇山」世界遺産合掌造り集落・荻町展望台＆飛騨牛・すったて汁宿 厳選ガイド</span>
             </a>
             <a href="/matsuyama-dogo-solo-retreat-onsen-taimeshi-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「松山・道後温泉ひとり旅」日本最古の名湯・坊っちゃん湯・松山城・絶品鯛めし！文学と名湯に浸る大人のおこもり宿 厳選3選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「松山・道後温泉ひとり旅」日本最古の名湯・坊っちゃん湯・松山城・絶品鯛めし！文学と名湯に浸る大人のおこもり宿 厳選3選</span>
             </a>
             <a href="/okayama-kurashiki-bikan-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「岡山・倉敷美観地区」白壁土蔵・大原美術館＆倉敷デニム・フルーツ極上宿 厳選ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「岡山・倉敷美観地区」白壁土蔵・大原美術館＆倉敷デニム・フルーツ極上宿 厳選ガイド</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

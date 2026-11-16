@@ -607,7 +607,7 @@ export default function KagaWinterPage() {
               className="bg-white p-4 rounded-2xl border border-stone-200/80 hover:border-red-700 hover:shadow-md transition group block"
             >
               <span className="text-[10px] font-extrabold text-red-800 uppercase block mb-1">冬の味覚の王様</span>
-              <h3 className="text-sm font-bold text-stone-900 group-hover:text-red-800 transition line-clamp-2">【極上カニ宿ランキング】冬の味覚・本場活ガニをフルコースで味わう至高の温泉旅館</h3>
+              <h3 className="text-sm font-bold text-stone-900 group-hover:text-red-800 transition">【極上カニ宿ランキング】冬の味覚・本場活ガニをフルコースで味わう至高の温泉旅館</h3>
             </Link>
 
             <Link 
@@ -615,7 +615,7 @@ export default function KagaWinterPage() {
               className="bg-white p-4 rounded-2xl border border-stone-200/80 hover:border-red-700 hover:shadow-md transition group block"
             >
               <span className="text-[10px] font-extrabold text-red-800 uppercase block mb-1">山陰の松葉ガニ名湯</span>
-              <h3 className="text-sm font-bold text-stone-900 group-hover:text-red-800 transition line-clamp-2">【城崎温泉】冬の松葉ガニ解禁と七田外湯めぐり・浴衣そぞろ歩き宿</h3>
+              <h3 className="text-sm font-bold text-stone-900 group-hover:text-red-800 transition">【城崎温泉】冬の松葉ガニ解禁と七田外湯めぐり・浴衣そぞろ歩き宿</h3>
             </Link>
 
             <Link 
@@ -623,7 +623,7 @@ export default function KagaWinterPage() {
               className="bg-white p-4 rounded-2xl border border-stone-200/80 hover:border-red-700 hover:shadow-md transition group block"
             >
               <span className="text-[10px] font-extrabold text-red-800 uppercase block mb-1">ラジウム名湯＆カニ</span>
-              <h3 className="text-sm font-bold text-stone-900 group-hover:text-red-800 transition line-clamp-2">【三朝温泉】世界屈指のラジウム泉と冬の極上松葉がにフルコース</h3>
+              <h3 className="text-sm font-bold text-stone-900 group-hover:text-red-800 transition">【三朝温泉】世界屈指のラジウム泉と冬の極上松葉がにフルコース</h3>
             </Link>
 
             <Link 
@@ -631,7 +631,7 @@ export default function KagaWinterPage() {
               className="bg-white p-4 rounded-2xl border border-stone-200/80 hover:border-red-700 hover:shadow-md transition group block"
             >
               <span className="text-[10px] font-extrabold text-red-800 uppercase block mb-1">東海の美肌名湯</span>
-              <h3 className="text-sm font-bold text-stone-900 group-hover:text-red-800 transition line-clamp-2">【下呂温泉】冬花火ミュージカルと日本三名泉美肌湯・飛騨牛会席</h3>
+              <h3 className="text-sm font-bold text-stone-900 group-hover:text-red-800 transition">【下呂温泉】冬花火ミュージカルと日本三名泉美肌湯・飛騨牛会席</h3>
             </Link>
 
             <Link 
@@ -639,7 +639,7 @@ export default function KagaWinterPage() {
               className="bg-white p-4 rounded-2xl border border-stone-200/80 hover:border-red-700 hover:shadow-md transition group block"
             >
               <span className="text-[10px] font-extrabold text-red-800 uppercase block mb-1">京都の冬情緒</span>
-              <h3 className="text-sm font-bold text-stone-900 group-hover:text-red-800 transition line-clamp-2">【京都嵐山】渡月橋の初冬絶景と名物湯豆腐会席・静寂の名旅館</h3>
+              <h3 className="text-sm font-bold text-stone-900 group-hover:text-red-800 transition">【京都嵐山】渡月橋の初冬絶景と名物湯豆腐会席・静寂の名旅館</h3>
             </Link>
 
             <Link 
@@ -647,7 +647,7 @@ export default function KagaWinterPage() {
               className="bg-white p-4 rounded-2xl border border-stone-200/80 hover:border-red-700 hover:shadow-md transition group block"
             >
               <span className="text-[10px] font-extrabold text-red-800 uppercase block mb-1">会津の初雪名湯</span>
-              <h3 className="text-sm font-bold text-stone-900 group-hover:text-red-800 transition line-clamp-2">【会津東山温泉】雪化粧の湯川渓谷露天と会津地鶏・極上馬刺し会席の宿</h3>
+              <h3 className="text-sm font-bold text-stone-900 group-hover:text-red-800 transition">【会津東山温泉】雪化粧の湯川渓谷露天と会津地鶏・極上馬刺し会席の宿</h3>
             </Link>
           
       <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">

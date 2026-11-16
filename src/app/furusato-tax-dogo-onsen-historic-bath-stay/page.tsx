@@ -542,19 +542,19 @@ export default function FurusatoTaxArticle() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/furusato-tax-ishizuchi-omogo-dogo-autumn-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">西日本最高峰・石鎚山＆面河渓エメラルド紅葉！道後温泉本館湯守り宿×ふるさと納税厳選ガイド愛媛</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">西日本最高峰・石鎚山＆面河渓エメラルド紅葉！道後温泉本館湯守り宿×ふるさと納税厳選ガイド愛媛</span>
             </a>
             <a href="/matsuyama-dogo-solo-retreat-onsen-taimeshi-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「松山・道後温泉ひとり旅」日本最古の名湯・坊っちゃん湯・松山城・絶品鯛めし！文学と名湯に浸る大人のおこもり宿 厳選3選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「松山・道後温泉ひとり旅」日本最古の名湯・坊っちゃん湯・松山城・絶品鯛めし！文学と名湯に浸る大人のおこもり宿 厳選3選</span>
             </a>
             <a href="/traditional-ehime-towel-and-dogo-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「ふんわり極上の肌触り（今治タオルアメニティ＆日本最古の名湯・道後温泉の宿5選）」ふんわり極上の肌触り！今治タオルアメニティ＆日本最古の名湯・道後温泉の宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「ふんわり極上の肌触り（今治タオルアメニティ＆日本最古の名湯・道後温泉の宿5選）」ふんわり極上の肌触り！今治タオルアメニティ＆日本最古の名湯・道後温泉の宿5選</span>
             </a>
             <a href="/winter-ehime-dogo-onsen-taimeshi-heritage-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12月道後温泉の冬情緒と瀬戸内美味】 日本最古の名湯と極上真鯛鯛めし・伊予牛会席の名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">【11・12月道後温泉の冬情緒と瀬戸内美味】 日本最古の名湯と極上真鯛鯛めし・伊予牛会席の名宿5選</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

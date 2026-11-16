@@ -453,16 +453,16 @@ export default function AsoKumamotoCarFreePage() {
                         )}
                       </div>
 
-                      <h3 className="text-xs md:text-sm font-black font-journal-serif text-stone-900 line-clamp-2">{hotel.hotelName}</h3>
+                      <h3 className="text-xs md:text-sm font-black font-journal-serif text-stone-900">{hotel.hotelName}</h3>
 
                       {hotel.hotelSpecial && (
-                        <p className="text-[11px] text-stone-600 line-clamp-2 leading-relaxed font-medium">
+                        <p className="text-[11px] text-stone-600 leading-relaxed font-medium">
                           {hotel.hotelSpecial}
                         </p>
                       )}
 
                       {hotel.access && (
-                        <p className="text-[10px] text-stone-500 line-clamp-1">
+                        <p className="text-[10px] text-stone-500">
                           📍 {hotel.access}
                         </p>
                       )}
@@ -502,7 +502,7 @@ export default function AsoKumamotoCarFreePage() {
             >
               <div className="text-[11px] text-amber-700 font-bold mb-1">九州新幹線 vs 高速バス</div>
               <h3 className="text-xs md:text-sm font-bold text-stone-900 group-hover:text-amber-700 transition">【福岡・博多〜熊本】新幹線 vs 高速バス（ひのくに号）徹底比較！最安往復と所要時間まとめ</h3>
-              <p className="text-[11px] text-stone-500 mt-1 line-clamp-2">
+              <p className="text-[11px] text-stone-500 mt-1">
                 博多・天神から熊本への移動コストを半額に抑えるコツと乗り換えテクニック。
               </p>
             </Link>
@@ -513,7 +513,7 @@ export default function AsoKumamotoCarFreePage() {
             >
               <div className="text-[11px] text-amber-700 font-bold mb-1">旅行予算＆宿泊日数目安</div>
               <h3 className="text-xs md:text-sm font-bold text-stone-900 group-hover:text-amber-700 transition">【九州旅行 何泊何日？予算ガイド】1泊2日・2泊3日・3泊4日の費用内訳と周遊ルート</h3>
-              <p className="text-[11px] text-stone-500 mt-1 line-clamp-2">
+              <p className="text-[11px] text-stone-500 mt-1">
                 電車＆バスで回る九州一周や熊本・阿蘇・湯布院を組み合わせたモデルコースの予算感。
               </p>
             </Link>

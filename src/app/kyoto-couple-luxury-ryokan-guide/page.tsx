@@ -282,13 +282,13 @@ export default function KyotoCoupleLuxuryRyokanPage() {
                           </span>
                         ) : null}
                         {hotel.nearestStation ? (
-                          <span className="text-[11px] text-stone-600 truncate ml-auto">
+                          <span className="text-[11px] text-stone-600 break-words ml-auto">
                             最寄: {hotel.nearestStation}駅
                           </span>
                         ) : null}
                       </div>
 
-                      <p className="text-xs text-stone-600 leading-relaxed line-clamp-2">
+                      <p className="text-xs text-stone-600 leading-relaxed">
                         {hotel.hotelSpecial || ""}
                       </p>
                     </div>
@@ -381,19 +381,19 @@ export default function KyotoCoupleLuxuryRyokanPage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/furusato-tax-izu-shuzenji-bamboo-luxury-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">伊豆最古の小京都！修善寺温泉の竹林の小径散策＆桂川のせせらぎ望む老舗旅館×ふるさと納税極上旅ガイド湯回廊菊屋・宙SORA・桂川</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">伊豆最古の小京都！修善寺温泉の竹林の小径散策＆桂川のせせらぎ望む老舗旅館×ふるさと納税極上旅ガイド湯回廊菊屋・宙SORA・桂川</span>
             </a>
             <a href="/furusato-tax-kifune-kurama-autumn-leaves-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">京都・貴船神社のもみじ灯篭ライトアップ＆叡山電車もみじトンネル！貴船料理旅館×ふるさと納税厳選ガイド京都</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">京都・貴船神社のもみじ灯篭ライトアップ＆叡山電車もみじトンネル！貴船料理旅館×ふるさと納税厳選ガイド京都</span>
             </a>
             <a href="/furusato-tax-koyasan-ryujin-onsen-autumn-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">世界遺産「高野山」壇上伽藍の紅葉ライトアップ＆日本三美人の湯「龍神温泉」・極上熊野牛会席｜ふるさと納税で泊まれる名宿ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">世界遺産「高野山」壇上伽藍の紅葉ライトアップ＆日本三美人の湯「龍神温泉」・極上熊野牛会席｜ふるさと納税で泊まれる名宿ガイド</span>
             </a>
             <a href="/furusato-tax-kyoto-arashiyama-bamboo-luxury-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">渡月橋と竹林の小径の静寂！京都嵐山温泉の保津川一望ラグジュアリー＆老舗料理旅館×ふるさと納税極上旅ガイド翠嵐・花伝抄・辨慶</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">渡月橋と竹林の小径の静寂！京都嵐山温泉の保津川一望ラグジュアリー＆老舗料理旅館×ふるさと納税極上旅ガイド翠嵐・花伝抄・辨慶</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

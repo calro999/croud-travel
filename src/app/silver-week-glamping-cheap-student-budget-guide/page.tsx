@@ -334,14 +334,14 @@ export default function SilverWeekGlampingCheapStudentBudgetPage() {
                     </span>
                   </div>
 
-                  <h3 className="font-black text-slate-900 text-base leading-snug group-hover:text-emerald-700 transition line-clamp-2 font-journal-serif">{hotel.hotelName}</h3>
+                  <h3 className="font-black text-slate-900 text-base leading-snug group-hover:text-emerald-700 transition font-journal-serif">{hotel.hotelName}</h3>
 
-                  <p className="text-xs text-slate-600 line-clamp-3 leading-relaxed font-medium">
+                  <p className="text-xs text-slate-600 leading-relaxed font-medium">
                     {hotel.hotelSpecial || "グループ利用や学生合宿にも最適な広々コテージ。自炊可能なキッチン設備やテラスBBQコンロを完備したコスパ自慢の宿。"}
                   </p>
 
                   {hotel.access && (
-                    <p className="text-[11px] text-slate-500 line-clamp-1">
+                    <p className="text-[11px] text-slate-500">
                       🚗 {hotel.access}
                     </p>
                   )}
@@ -401,7 +401,7 @@ export default function SilverWeekGlampingCheapStudentBudgetPage() {
             <span className="text-[10px] font-bold text-emerald-700 bg-emerald-50 px-2 py-0.5 rounded-full inline-block mb-1.5">
               交通費比較ガイド
             </span>
-            <div className="font-bold text-xs sm:text-sm text-slate-900 group-hover:text-emerald-700 transition line-clamp-2">
+            <div className="font-bold text-xs sm:text-sm text-slate-900 group-hover:text-emerald-700 transition">
               【東京〜大阪 夜行バス vs 新幹線】徹底比較！安さ・所要時間・快適度で選ぶ学生旅行ルート
             </div>
           </Link>
@@ -413,7 +413,7 @@ export default function SilverWeekGlampingCheapStudentBudgetPage() {
             <span className="text-[10px] font-bold text-slate-600 bg-slate-100 px-2 py-0.5 rounded-full inline-block mb-1.5">
               コスパ周遊プラン
             </span>
-            <div className="font-bold text-xs sm:text-sm text-slate-900 group-hover:text-emerald-700 transition line-clamp-2">
+            <div className="font-bold text-xs sm:text-sm text-slate-900 group-hover:text-emerald-700 transition">
               【北海道格安旅行プラン】学生・20代向けレンタカー＆格安宿で巡る絶景ロードトリップ
             </div>
           </Link>

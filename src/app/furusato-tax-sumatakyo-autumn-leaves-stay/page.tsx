@@ -467,19 +467,19 @@ export default function FeatureArticlePage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/winter-shizuoka-fujinomiya-sengen-taisha-fuji-view-wagyu-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">白雪の富士山絶景＆富士山本宮浅間大社新春初詣！ 田貫湖逆さ富士と特選「静岡そだち」牛の名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">白雪の富士山絶景＆富士山本宮浅間大社新春初詣！ 田貫湖逆さ富士と特選「静岡そだち」牛の名宿5選</span>
             </a>
             <a href="/winter-shizuoka-hamanako-kanzanji-torafugu-unagi-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「11・12・1月静岡」冬限定「遠州灘天然とらふぐ」＆脂の乗る冬の浜名湖うなぎ・牡蠣カバ丼・三ヶ日みかん風呂とレイクビュー名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「11・12・1月静岡」冬限定「遠州灘天然とらふぐ」＆脂の乗る冬の浜名湖うなぎ・牡蠣カバ丼・三ヶ日みかん風呂とレイクビュー名宿5選</span>
             </a>
             <a href="/winter-shizuoka-izukogen-granillumi-ito-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12月伊豆高原グランイルミ】 日本一の体験型イルミと伊東温泉・金目鯛姿煮宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">【11・12月伊豆高原グランイルミ】 日本一の体験型イルミと伊東温泉・金目鯛姿煮宿5選</span>
             </a>
             <a href="/winter-shizuoka-kakegawa-fukuroi-hattasan-hatsumode-yumesakigyu-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">厄除け大本山「法多山尊永寺」新春初詣と掛川城木造天守 可睡齋ひなまつり＆幻の黒毛和牛「遠州夢咲牛」名宿</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">厄除け大本山「法多山尊永寺」新春初詣と掛川城木造天守 可睡齋ひなまつり＆幻の黒毛和牛「遠州夢咲牛」名宿</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

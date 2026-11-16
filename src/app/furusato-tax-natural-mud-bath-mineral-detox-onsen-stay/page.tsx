@@ -478,19 +478,19 @@ export default function FurusatoNaturalMudBathStayPage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/osaka-solo-business-sky-sauna-retreat-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「大阪出張・梅田ご褒美泊」地上130mスカイスパ・展望サウナ・夜景クラブラウンジ完備！ビジネス＆ソロステイ 厳選3選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「大阪出張・梅田ご褒美泊」地上130mスカイスパ・展望サウナ・夜景クラブラウンジ完備！ビジネス＆ソロステイ 厳選3選</span>
             </a>
             <a href="/planetarium-private-cinema-theater-room-hotel-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「プラネタリウム＆大画面シアタールーム完備宿」部屋ごもり・星空上映 厳選ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「プラネタリウム＆大画面シアタールーム完備宿」部屋ごもり・星空上映 厳選ガイド</span>
             </a>
             <a href="/saga-solo-business-sagagyu-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「佐賀出張・男一人旅」お濠の水辺ビュー・佐賀牛グルメ・駅前快適ビジネス！城下町の静けさで整う厳選3宿</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「佐賀出張・男一人旅」お濠の水辺ビュー・佐賀牛グルメ・駅前快適ビジネス！城下町の静けさで整う厳選3宿</span>
             </a>
             <a href="/sasebo-solo-business-kujukushima-burger-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「佐世保出張・西九州ひとり旅」九十九島パノラマ・天然温泉ばってんの湯・名物佐世保バーガー！港町でととのう厳選3宿</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「佐世保出張・西九州ひとり旅」九十九島パノラマ・天然温泉ばってんの湯・名物佐世保バーガー！港町でととのう厳選3宿</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

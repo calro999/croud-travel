@@ -567,8 +567,8 @@ export default function NaganoYamadaPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">長野・渋温泉</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">渋温泉の九湯めぐりと石畳の雪景色</h4>
-              <p className="text-[11px] text-stone-200 line-clamp-2">
+              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition">渋温泉の九湯めぐりと石畳の雪景色</h4>
+              <p className="text-[11px] text-stone-200">
                 厄除け巡浴祈願と情緒あふれる木造宿、スノーモンキー地獄谷野猿公苑を巡る冬旅。
               </p>
             </Link>
@@ -578,8 +578,8 @@ export default function NaganoYamadaPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">長野・別所温泉</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">信州の鎌倉・別所温泉の古刹と信州牛</h4>
-              <p className="text-[11px] text-stone-200 line-clamp-2">
+              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition">信州の鎌倉・別所温泉の古刹と信州牛</h4>
+              <p className="text-[11px] text-stone-200">
                 北向観音の門前町に湧く美肌の湯と雪景色、極上信州牛すき焼きを味わう歴史ロマン旅。
               </p>
             </Link>
@@ -589,8 +589,8 @@ export default function NaganoYamadaPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">長野・浅間温泉</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">国宝松本城の白銀雪景色と浅間温泉名宿</h4>
-              <p className="text-[11px] text-stone-200 line-clamp-2">
+              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition">国宝松本城の白銀雪景色と浅間温泉名宿</h4>
+              <p className="text-[11px] text-stone-200">
                 松本藩主ゆかりの奥座敷と冬の城下町散策、信州サーモンと手打ち蕎麦を堪能。
               </p>
             </Link>

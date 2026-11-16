@@ -280,7 +280,7 @@ export default function KyotoRainyDayTempleCafeGuidePage() {
                         <p className="text-xs text-stone-500 mb-3">
                           {hotel.address1} {hotel.address2}
                         </p>
-                        <p className="text-xs text-stone-600 leading-relaxed line-clamp-3 mb-3">
+                        <p className="text-xs text-stone-600 leading-relaxed mb-3">
                           {hotel.hotelSpecial || "京都観光の拠点に便利な立地。天然温泉で雨の日の旅の疲れを心地よく癒やします。"}
                         </p>
                         {hotel.access && (
@@ -396,19 +396,19 @@ export default function KyotoRainyDayTempleCafeGuidePage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/winter-kyoto-kifune-kurama-snow-lightup-botannabe-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「京都・貴船鞍馬」白銀の貴船神社・積雪日限定ライトアップと冬の京都奥座敷・極上天然猪肉ぼたん鍋＆京都牛を愉しむ静寂の名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「京都・貴船鞍馬」白銀の貴船神社・積雪日限定ライトアップと冬の京都奥座敷・極上天然猪肉ぼたん鍋＆京都牛を愉しむ静寂の名宿5選</span>
             </a>
             <a href="/winter-kyoto-tango-amanohashidate-ine-funaya-taizagani-kanburi-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「天橋立」幻雪の飛龍観と伊根の舟屋雪景色 元伊勢籠神社初詣＆幻の「間人ガニ」・伊根寒ブリ名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「天橋立」幻雪の飛龍観と伊根の舟屋雪景色 元伊勢籠神社初詣＆幻の「間人ガニ」・伊根寒ブリ名宿5選</span>
             </a>
             <a href="/winter-kyoto-yunohana-onsen-unkai-botan-nabe-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12月京都湯の花温泉の幻想的な亀岡霧雲海と名物ぼたん鍋】初冬の京奥座敷露天・最高級丹波牛ステーキ＆丹波黒豆会席の隠れ宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">【11・12月京都湯の花温泉の幻想的な亀岡霧雲海と名物ぼたん鍋】初冬の京奥座敷露天・最高級丹波牛ステーキ＆丹波黒豆会席の隠れ宿5選</span>
             </a>
             <a href="/furusato-tax-crab-all-you-can-eat-winter-buffet-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">冬の味覚の王様！本場カニ食べ放題＆極上松葉ガニ名門宿×ふるさと納税極上旅ガイド夕日ヶ浦・城崎温泉で絶品カニ旅</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">冬の味覚の王様！本場カニ食べ放題＆極上松葉ガニ名門宿×ふるさと納税極上旅ガイド夕日ヶ浦・城崎温泉で絶品カニ旅</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

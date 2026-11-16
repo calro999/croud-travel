@@ -670,21 +670,21 @@ export default function MieSakakibaraAkameWinterPage() {
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-emerald-700 font-bold block text-[10px]">三重・湯の山温泉</span>
-              <p className="font-bold text-stone-800 line-clamp-2">御在所岳の樹氷ロープウェイと開湯1300年鹿の湯・僧兵鍋名宿</p>
+              <p className="font-bold text-stone-800">御在所岳の樹氷ロープウェイと開湯1300年鹿の湯・僧兵鍋名宿</p>
             </Link>
             <Link 
               href="/winter-mie-toba-osaatsu-onsen-seafood-torasawara-matsusaka-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-emerald-700 font-bold block text-[10px]">三重・鳥羽相差</span>
-              <p className="font-bold text-stone-800 line-clamp-2">伊勢志摩の冬の恵み・答志島トロサワラ＆極上松阪牛と美肌露天風呂</p>
+              <p className="font-bold text-stone-800">伊勢志摩の冬の恵み・答志島トロサワラ＆極上松阪牛と美肌露天風呂</p>
             </Link>
             <Link 
               href="/winter-wakayama-kawayu-yunomine-onsen-senninburo-kumanogyu-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-emerald-700 font-bold block text-[10px]">和歌山・熊野本宮</span>
-              <p className="font-bold text-stone-800 line-clamp-2">大塔川仙人風呂オープンと世界遺産つぼ湯・熊野牛会席＆名物温泉粥</p>
+              <p className="font-bold text-stone-800">大塔川仙人風呂オープンと世界遺産つぼ湯・熊野牛会席＆名物温泉粥</p>
             </Link>
           
       <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">

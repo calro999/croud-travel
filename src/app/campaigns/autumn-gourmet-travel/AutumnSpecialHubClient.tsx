@@ -245,9 +245,9 @@ export default function AutumnSpecialHubClient({ posts }: Props) {
                     ))}
                   </div>
 
-                  <h3 className="text-sm md:text-base font-bold text-stone-900 line-clamp-2 leading-snug group-hover:text-amber-700 transition-colors">{post.title}</h3>
+                  <h3 className="text-sm md:text-base font-bold text-stone-900 leading-snug group-hover:text-amber-700 transition-colors">{post.title}</h3>
 
-                  <p className="text-xs text-stone-600 line-clamp-2 leading-relaxed">
+                  <p className="text-xs text-stone-600 leading-relaxed">
                     {post.description}
                   </p>
 
@@ -255,7 +255,7 @@ export default function AutumnSpecialHubClient({ posts }: Props) {
                     <div className="pt-2 border-t border-stone-100">
                       <p className="text-[11px] font-bold text-stone-700 flex items-center gap-1">
                         <span className="text-amber-700">🏨 おすすめ宿:</span>
-                        <span className="text-stone-900 line-clamp-1">{post.hotel_name}</span>
+                        <span className="text-stone-900">{post.hotel_name}</span>
                       </p>
                     </div>
                   )}

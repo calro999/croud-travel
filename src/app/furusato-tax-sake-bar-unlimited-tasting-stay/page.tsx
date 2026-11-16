@@ -153,8 +153,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     新潟県南魚沼郡湯沢町湯沢318-5
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">越後湯沢温泉　松泉閣花月</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">越後湯沢温泉　松泉閣花月</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     「お帰りなさいませ「「いってらっしゃいませ」が花月の合言葉　故郷に帰ってきたようにお過ごしください
                   </p>
                   
@@ -210,8 +210,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     山形県南陽市赤湯1014
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">赤湯温泉　大正ロマン香る癒しの宿　丹波館</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">赤湯温泉　大正ロマン香る癒しの宿　丹波館</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     源泉掛け流しの天然温泉と米沢牛の美味しさに舌鼓！木造3階建ての風情ある老舗旅館をお楽しみ下さい。
                   </p>
                   
@@ -254,8 +254,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     山形県南陽市赤湯972
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">赤湯温泉　美術館のような宿　旅館やまと屋</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">赤湯温泉　美術館のような宿　旅館やまと屋</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     源泉かけ流しの湯と四季の会席料理を愉しむ、私設美術館のような食の宿。
                   </p>
                   
@@ -311,8 +311,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     京都府京都市伏見区深草祓川町11-29
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">奏　伏見稲荷大社前</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">奏　伏見稲荷大社前</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     古き良き街並みを再現した連棟の町家ホテル。人気の観光地「伏見稲荷大社」徒歩約５分。
                   </p>
                   

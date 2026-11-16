@@ -589,7 +589,7 @@ export default function HokkaidoWakkanaiWinterPage() {
               <div className="font-bold text-slate-900 group-hover:text-cyan-600 transition mb-2">
                 雪原に舞う丹頂鶴と幣舞橋の世界三大夕日・炭火炉端焼き＆天然温泉
               </div>
-              <p className="text-xs text-slate-500 line-clamp-2">
+              <p className="text-xs text-slate-500">
                 道東の冬を代表する絶景。優雅なタンチョウ鶴の姿と夕日、港町の炉端焼きを満喫する北海道特集。
               </p>
             </Link>
@@ -602,7 +602,7 @@ export default function HokkaidoWakkanaiWinterPage() {
               <div className="font-bold text-slate-900 group-hover:text-cyan-600 transition mb-2">
                 小樽運河イルミネーションと雪あかり・極上握り寿司と朝里川温泉
               </div>
-              <p className="text-xs text-slate-500 line-clamp-2">
+              <p className="text-xs text-slate-500">
                 ガス灯が灯る冬の小樽運河の幻想的なロマンと、日本海の新鮮なネタを握る名店、静かな雪見温泉。
               </p>
             </Link>
@@ -615,7 +615,7 @@ export default function HokkaidoWakkanaiWinterPage() {
               <div className="font-bold text-slate-900 group-hover:text-cyan-600 transition mb-2">
                 本州最北端大間マグロと下風呂温泉の白濁硫黄泉・津軽海峡冬景色
               </div>
-              <p className="text-xs text-slate-500 line-clamp-2">
+              <p className="text-xs text-slate-500">
                 宗谷岬と並び立つ最果ての旅情。津軽海峡の荒波を望む本州最北端・大間崎と極上マグロを味わう旅。
               </p>
             </Link>

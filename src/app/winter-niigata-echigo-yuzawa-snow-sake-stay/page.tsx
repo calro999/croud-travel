@@ -607,7 +607,7 @@ export default function YuzawaWinterPage() {
               className="bg-white p-4 rounded-2xl border border-stone-200/80 hover:border-indigo-700 hover:shadow-md transition group block"
             >
               <span className="text-[10px] font-extrabold text-indigo-800 uppercase block mb-1">信州の白銀名湯</span>
-              <h3 className="text-sm font-bold text-stone-900 group-hover:text-indigo-800 transition line-clamp-2">【野沢温泉】極上パウダースノーと十三外湯めぐり・信州牛郷土会席</h3>
+              <h3 className="text-sm font-bold text-stone-900 group-hover:text-indigo-800 transition">【野沢温泉】極上パウダースノーと十三外湯めぐり・信州牛郷土会席</h3>
             </Link>
 
             <Link 
@@ -615,7 +615,7 @@ export default function YuzawaWinterPage() {
               className="bg-white p-4 rounded-2xl border border-stone-200/80 hover:border-indigo-700 hover:shadow-md transition group block"
             >
               <span className="text-[10px] font-extrabold text-indigo-800 uppercase block mb-1">東北の米沢牛名湯</span>
-              <h3 className="text-sm font-bold text-stone-900 group-hover:text-indigo-800 transition line-clamp-2">【小野川温泉】かまくら村と極上米沢牛すき焼き・美肌の硫黄泉宿</h3>
+              <h3 className="text-sm font-bold text-stone-900 group-hover:text-indigo-800 transition">【小野川温泉】かまくら村と極上米沢牛すき焼き・美肌の硫黄泉宿</h3>
             </Link>
 
             <Link 
@@ -623,7 +623,7 @@ export default function YuzawaWinterPage() {
               className="bg-white p-4 rounded-2xl border border-stone-200/80 hover:border-indigo-700 hover:shadow-md transition group block"
             >
               <span className="text-[10px] font-extrabold text-indigo-800 uppercase block mb-1">関越沿線の名湯</span>
-              <h3 className="text-sm font-bold text-stone-900 group-hover:text-indigo-800 transition line-clamp-2">【伊香保温泉】365段の石段街と黄金の湯・上州牛会席を味わう名旅館</h3>
+              <h3 className="text-sm font-bold text-stone-900 group-hover:text-indigo-800 transition">【伊香保温泉】365段の石段街と黄金の湯・上州牛会席を味わう名旅館</h3>
             </Link>
 
             <Link 
@@ -631,7 +631,7 @@ export default function YuzawaWinterPage() {
               className="bg-white p-4 rounded-2xl border border-stone-200/80 hover:border-indigo-700 hover:shadow-md transition group block"
             >
               <span className="text-[10px] font-extrabold text-indigo-800 uppercase block mb-1">会津の初雪名湯</span>
-              <h3 className="text-sm font-bold text-stone-900 group-hover:text-indigo-800 transition line-clamp-2">【会津東山温泉】雪化粧の湯川渓谷露天と会津地鶏・極上馬刺し会席の宿</h3>
+              <h3 className="text-sm font-bold text-stone-900 group-hover:text-indigo-800 transition">【会津東山温泉】雪化粧の湯川渓谷露天と会津地鶏・極上馬刺し会席の宿</h3>
             </Link>
 
             <Link 
@@ -639,7 +639,7 @@ export default function YuzawaWinterPage() {
               className="bg-white p-4 rounded-2xl border border-stone-200/80 hover:border-indigo-700 hover:shadow-md transition group block"
             >
               <span className="text-[10px] font-extrabold text-indigo-800 uppercase block mb-1">甲州の新酒ワイン名湯</span>
-              <h3 className="text-sm font-bold text-stone-900 group-hover:text-indigo-800 transition line-clamp-2">【石和温泉】山梨ヌーボー解禁と美肌湯・甲州牛ステーキ＆ほうとう宿</h3>
+              <h3 className="text-sm font-bold text-stone-900 group-hover:text-indigo-800 transition">【石和温泉】山梨ヌーボー解禁と美肌湯・甲州牛ステーキ＆ほうとう宿</h3>
             </Link>
 
             <Link 
@@ -647,7 +647,7 @@ export default function YuzawaWinterPage() {
               className="bg-white p-4 rounded-2xl border border-stone-200/80 hover:border-indigo-700 hover:shadow-md transition group block"
             >
               <span className="text-[10px] font-extrabold text-indigo-800 uppercase block mb-1">北関東の雪見秘湯</span>
-              <h3 className="text-sm font-bold text-stone-900 group-hover:text-indigo-800 transition line-clamp-2">【奥日光湯元温泉】乳白色のにごり湯と白銀の静寂・雪見露天宿</h3>
+              <h3 className="text-sm font-bold text-stone-900 group-hover:text-indigo-800 transition">【奥日光湯元温泉】乳白色のにごり湯と白銀の静寂・雪見露天宿</h3>
             </Link>
           
       <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">

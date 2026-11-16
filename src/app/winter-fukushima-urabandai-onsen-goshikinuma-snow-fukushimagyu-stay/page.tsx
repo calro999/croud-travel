@@ -382,7 +382,7 @@ export default function WinterFukushimaUrabandaiPage() {
                     <div className="absolute bottom-4 left-4 right-4 bg-slate-950/75 text-white p-3 rounded-xl backdrop-blur-xs text-xs space-y-1">
                       <div className="flex items-center gap-1 text-teal-300 font-semibold">
                         <MapPin className="w-3.5 h-3.5 shrink-0" />
-                        <span className="line-clamp-1">{hotel.access}</span>
+                        <span className="">{hotel.access}</span>
                       </div>
                     </div>
                   </div>
@@ -598,8 +598,8 @@ export default function WinterFukushimaUrabandaiPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">福島・会津東山</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">会津東山温泉の渓流雪見露天と歴史名門宿</h4>
-              <p className="text-[11px] text-teal-100 line-clamp-2">
+              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition">会津東山温泉の渓流雪見露天と歴史名門宿</h4>
+              <p className="text-[11px] text-teal-100">
                 湯川渓谷の雪景色と竹久夢二ゆかりの老舗旅館ステイ。
               </p>
             </Link>
@@ -609,8 +609,8 @@ export default function WinterFukushimaUrabandaiPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">福島・芦ノ牧温泉</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">芦ノ牧温泉の大川渓谷雪見露天と会津美食宿</h4>
-              <p className="text-[11px] text-teal-100 line-clamp-2">
+              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition">芦ノ牧温泉の大川渓谷雪見露天と会津美食宿</h4>
+              <p className="text-[11px] text-teal-100">
                 大川渓谷の絶景を見下ろす棚田状露天風呂と会津牛会席。
               </p>
             </Link>
@@ -620,8 +620,8 @@ export default function WinterFukushimaUrabandaiPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">山形・米沢小野川</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">小野川温泉のかまくら雪見露天と米沢牛すき焼き宿</h4>
-              <p className="text-[11px] text-teal-100 line-clamp-2">
+              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition">小野川温泉のかまくら雪見露天と米沢牛すき焼き宿</h4>
+              <p className="text-[11px] text-teal-100">
                 小野小町ゆかりの美肌硫黄泉と本場極上米沢牛を満喫。
               </p>
             </Link>

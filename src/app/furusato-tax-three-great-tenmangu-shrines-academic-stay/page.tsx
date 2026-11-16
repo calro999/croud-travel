@@ -460,19 +460,19 @@ export default function FurusatoRound63ArticlePage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/yamanashi-fujigoko-kawaguchiko-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「山梨・富士五湖＆河口湖」逆さ富士・富士急ハイランド＆ほうとう極上宿 厳選ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「山梨・富士五湖＆河口湖」逆さ富士・富士急ハイランド＆ほうとう極上宿 厳選ガイド</span>
             </a>
             <a href="/yamanashi-koshu-katsunuma-wine-isawa-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「山梨・甲州勝沼＆笛吹・石和」勝沼ワイナリー巡り・桃源郷＆石和名湯美肌宿 厳選ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「山梨・甲州勝沼＆笛吹・石和」勝沼ワイナリー巡り・桃源郷＆石和名湯美肌宿 厳選ガイド</span>
             </a>
             <a href="/akita-station-solo-business-onsen-sauna-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「秋田駅前出張・天然温泉サウナ」秋田新幹線こまち・中通温泉こまちの湯・比内地鶏＆きりたんぽ！美酒王国の厳選3宿</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「秋田駅前出張・天然温泉サウナ」秋田新幹線こまち・中通温泉こまちの湯・比内地鶏＆きりたんぽ！美酒王国の厳選3宿</span>
             </a>
             <a href="/asahikawa-solo-business-ramen-sauna-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「旭川出張・男一人旅サウナ」天然温泉神威の湯・駅直結半露天・本場旭川醤油ラーメン！道北ビジネスを極上の癒やしに変える厳選3宿</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「旭川出張・男一人旅サウナ」天然温泉神威の湯・駅直結半露天・本場旭川醤油ラーメン！道北ビジネスを極上の癒やしに変える厳選3宿</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

@@ -353,12 +353,12 @@ export default function OsakaAmazingPassPage() {
                   )}
 
                   <div className="p-5">
-                    <h3 className="font-bold text-slate-900 text-lg group-hover:text-rose-700 transition-colors line-clamp-2">{hotel.hotelName}</h3>
-                    <p className="text-xs text-slate-500 mt-1 line-clamp-2">
+                    <h3 className="font-bold text-slate-900 text-lg group-hover:text-rose-700 transition-colors">{hotel.hotelName}</h3>
+                    <p className="text-xs text-slate-500 mt-1">
                       {hotel.access}
                     </p>
                     {hotel.hotelSpecial && (
-                      <p className="text-xs text-rose-800 bg-rose-50 p-2.5 rounded-lg mt-3 line-clamp-2 font-medium">
+                      <p className="text-xs text-rose-800 bg-rose-50 p-2.5 rounded-lg mt-3 font-medium">
                         {hotel.hotelSpecial}
                       </p>
                     )}
@@ -455,19 +455,19 @@ export default function OsakaAmazingPassPage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/winter-osaka-usj-bayarea-christmas-countdown-official-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">USJ冬のクリスマス＆ベイエリア夜景！ 天然温泉スパと絶景オフィシャルホテル名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">USJ冬のクリスマス＆ベイエリア夜景！ 天然温泉スパと絶景オフィシャルホテル名宿5選</span>
             </a>
             <a href="/autumn-budget-osaka-midosuji-ichou-onsen-hotels-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「秋の大阪×格安」御堂筋の黄金イチョウ並木と道頓堀グルメ！天然温泉＆大浴場付き1泊3,000円〜6,000円台のコスパ最強ホテル5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「秋の大阪×格安」御堂筋の黄金イチョウ並木と道頓堀グルメ！天然温泉＆大浴場付き1泊3,000円〜6,000円台のコスパ最強ホテル5選</span>
             </a>
             <a href="/furusato-tax-minoh-falls-arima-autumn-leaves-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">日本の滝百選・箕面大滝の紅葉美＆日本最古の名湯・有馬温泉金泉銀泉名宿×ふるさと納税厳選ガイド関西</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">日本の滝百選・箕面大滝の紅葉美＆日本最古の名湯・有馬温泉金泉銀泉名宿×ふるさと納税厳選ガイド関西</span>
             </a>
             <a href="/furusato-tax-usj-osaka-official-partner-hotel-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">パーク徒歩圏＆天然温泉！USJオフィシャルホテル×ふるさと納税極上旅ガイド近鉄・京阪タワー・リーベルで大阪旅行をお得に満喫</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">パーク徒歩圏＆天然温泉！USJオフィシャルホテル×ふるさと納税極上旅ガイド近鉄・京阪タワー・リーベルで大阪旅行をお得に満喫</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

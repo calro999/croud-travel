@@ -620,7 +620,7 @@ export default function HokkaidoShikotsukoHyotoWinterPage() {
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-indigo-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-indigo-800 font-bold text-xs block mb-1">北海道・登別温泉</span>
-              <span className="text-stone-900 font-bold group-hover:text-indigo-900 transition-colors line-clamp-2">
+              <span className="text-stone-900 font-bold group-hover:text-indigo-900 transition-colors">
                 冬の登別地獄谷雪景色と多彩な名湯泉質・北海道白老牛と海鮮会席名宿
               </span>
             </Link>
@@ -630,7 +630,7 @@ export default function HokkaidoShikotsukoHyotoWinterPage() {
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-indigo-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-indigo-800 font-bold text-xs block mb-1">北海道・小樽運河</span>
-              <span className="text-stone-900 font-bold group-hover:text-indigo-900 transition-colors line-clamp-2">
+              <span className="text-stone-900 font-bold group-hover:text-indigo-900 transition-colors">
                 小樽雪あかりの路と冬の運河イルミネーション・極上小樽前浜寿司と朝里川温泉宿
               </span>
             </Link>
@@ -640,7 +640,7 @@ export default function HokkaidoShikotsukoHyotoWinterPage() {
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-indigo-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-indigo-800 font-bold text-xs block mb-1">北海道・層雲峡温泉</span>
-              <span className="text-stone-900 font-bold group-hover:text-indigo-900 transition-colors line-clamp-2">
+              <span className="text-stone-900 font-bold group-hover:text-indigo-900 transition-colors">
                 大雪山層雲峡氷瀑まつりと白銀の断崖絶景・源泉掛け流し雪見露天名宿
               </span>
             </Link>
@@ -650,7 +650,7 @@ export default function HokkaidoShikotsukoHyotoWinterPage() {
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-indigo-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-indigo-800 font-bold text-xs block mb-1">青森・八戸蕪島</span>
-              <span className="text-stone-900 font-bold group-hover:text-indigo-900 transition-colors line-clamp-2">
+              <span className="text-stone-900 font-bold group-hover:text-indigo-900 transition-colors">
                 八戸前沖銀鯖と本場せんべい汁・八食センター七輪村買い出し＆蕪島神社初詣名宿
               </span>
             </Link>
@@ -660,7 +660,7 @@ export default function HokkaidoShikotsukoHyotoWinterPage() {
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-indigo-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-indigo-800 font-bold text-xs block mb-1">茨城・袋田の滝</span>
-              <span className="text-stone-900 font-bold group-hover:text-indigo-900 transition-colors line-clamp-2">
+              <span className="text-stone-900 font-bold group-hover:text-indigo-900 transition-colors">
                 日本三名瀑袋田の滝の完全凍結氷瀑と奥久慈軍鶏鍋・常陸牛を味わう名宿
               </span>
             </Link>

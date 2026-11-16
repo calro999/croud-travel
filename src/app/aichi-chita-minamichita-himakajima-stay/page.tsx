@@ -195,9 +195,9 @@ export default function MicroTouristHubPage() {
                               <span>⭐ {hotel.reviewAverage}点（{hotel.reviewCount}件）</span>
                             </div>
                           )}
-                          <h4 className="text-xs md:text-sm font-black font-journal-serif text-emerald-950 line-clamp-2">{hotel.hotelName}</h4>
+                          <h4 className="text-xs md:text-sm font-black font-journal-serif text-emerald-950">{hotel.hotelName}</h4>
                           {hotel.hotelSpecial && (
-                            <p className="text-[11px] text-emerald-950/70 line-clamp-2 font-medium">
+                            <p className="text-[11px] text-emerald-950/70 font-medium">
                               {hotel.hotelSpecial}
                             </p>
                           )}

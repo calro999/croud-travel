@@ -623,8 +623,8 @@ export default function OitaSujiyuKujuPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">大分・由布院温泉</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">金鱗湖の幻想的な朝霧と豊後牛会席</h4>
-              <p className="text-[11px] text-stone-200 line-clamp-2">
+              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition">金鱗湖の幻想的な朝霧と豊後牛会席</h4>
+              <p className="text-[11px] text-stone-200">
                 冬の金鱗湖から立ち上る湯気と由布岳の雪景色、極上豊後牛を堪能する大人の休日。
               </p>
             </Link>
@@ -634,8 +634,8 @@ export default function OitaSujiyuKujuPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">大分・別府鉄輪温泉</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">鉄輪温泉の湯けむり展望と地獄蒸し</h4>
-              <p className="text-[11px] text-stone-200 line-clamp-2">
+              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition">鉄輪温泉の湯けむり展望と地獄蒸し</h4>
+              <p className="text-[11px] text-stone-200">
                 立ち上る湯けむりと別府湾の夜景、名物地獄蒸し料理と豊後牛ステーキを味わう旅。
               </p>
             </Link>
@@ -645,8 +645,8 @@ export default function OitaSujiyuKujuPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">大分・竹田長湯温泉</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">日本一の高濃度炭酸泉と芹川雪景色</h4>
-              <p className="text-[11px] text-stone-200 line-clamp-2">
+              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition">日本一の高濃度炭酸泉と芹川雪景色</h4>
+              <p className="text-[11px] text-stone-200">
                 全身を泡が包む世界屈指の炭酸泉と名物ラムネ温泉館、豊後牛しゃぶしゃぶ。
               </p>
             </Link>

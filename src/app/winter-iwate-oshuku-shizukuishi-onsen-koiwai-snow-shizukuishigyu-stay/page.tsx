@@ -516,8 +516,8 @@ export default function WinterIwateOshukuPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-emerald-300 bg-emerald-400/20 px-2 py-0.5 rounded-full inline-block">岩手・花巻温泉郷</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-emerald-200 transition line-clamp-2">花巻温泉郷の台川渓谷雪見露天と前沢牛ステーキ</h4>
-              <p className="text-[11px] text-stone-200 line-clamp-2">
+              <h4 className="text-xs font-bold text-white group-hover:text-emerald-200 transition">花巻温泉郷の台川渓谷雪見露天と前沢牛ステーキ</h4>
+              <p className="text-[11px] text-stone-200">
                 宮沢賢治ゆかりのイーハトーブ花巻で味わう極上前沢牛と清流雪見風呂。
               </p>
             </Link>
@@ -527,8 +527,8 @@ export default function WinterIwateOshukuPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-emerald-300 bg-emerald-400/20 px-2 py-0.5 rounded-full inline-block">岩手・盛岡つなぎ温泉</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-emerald-200 transition line-clamp-2">盛岡つなぎ温泉の御所湖雪景色と小岩井イルミ</h4>
-              <p className="text-[11px] text-stone-200 line-clamp-2">
+              <h4 className="text-xs font-bold text-white group-hover:text-emerald-200 transition">盛岡つなぎ温泉の御所湖雪景色と小岩井イルミ</h4>
+              <p className="text-[11px] text-stone-200">
                 御所湖畔に湧く名湯つなぎ温泉から楽しむ小岩井農場の光の祭典。
               </p>
             </Link>
@@ -538,8 +538,8 @@ export default function WinterIwateOshukuPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-emerald-300 bg-emerald-400/20 px-2 py-0.5 rounded-full inline-block">秋田・乳頭温泉郷</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-emerald-200 transition line-clamp-2">乳頭温泉郷の初冬雪見秘湯ときりたんぽ鍋</h4>
-              <p className="text-[11px] text-stone-200 line-clamp-2">
+              <h4 className="text-xs font-bold text-white group-hover:text-emerald-200 transition">乳頭温泉郷の初冬雪見秘湯ときりたんぽ鍋</h4>
+              <p className="text-[11px] text-stone-200">
                 ブナ原生林の雪景色に湧く七湯の濁り湯と比内地鶏きりたんぽ鍋の名宿。
               </p>
             </Link>

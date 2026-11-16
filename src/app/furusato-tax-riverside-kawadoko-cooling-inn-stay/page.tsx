@@ -189,8 +189,8 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">京都“元祖川床”発祥の老舗料理旅館　貴船ふじや</h4>
-                            <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
+                            <h4 className="font-bold text-white text-sm group-hover:text-amber-300 transition">京都“元祖川床”発祥の老舗料理旅館　貴船ふじや</h4>
+                            <p className="text-xs text-slate-400 leading-relaxed">
                               貴船・川床の元祖【創業天保年間】貴船神社門前に佇み、洛北の四季を盛り込んだ川魚生簀料理が自慢。
                             </p>
                             <p className="text-xs text-slate-500 flex items-center gap-1">
@@ -239,8 +239,8 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">料理旅館　ひろ文</h4>
-                            <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
+                            <h4 className="font-bold text-white text-sm group-hover:text-amber-300 transition">料理旅館　ひろ文</h4>
+                            <p className="text-xs text-slate-400 leading-relaxed">
                               貴船川の最上流に位置する当館で川床料理を愉しむ！貴船神社結社に徒歩1分の好立地。
                             </p>
                             <p className="text-xs text-slate-500 flex items-center gap-1">
@@ -289,8 +289,8 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">京・貴船　ひろや</h4>
-                            <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
+                            <h4 className="font-bold text-white text-sm group-hover:text-amber-300 transition">京・貴船　ひろや</h4>
+                            <p className="text-xs text-slate-400 leading-relaxed">
                               貴船川に面した昔ながらの料理旅館。季節京会席が自慢で、特に貴船川の川床は夏の風物詩として好評。
                             </p>
                             <p className="text-xs text-slate-500 flex items-center gap-1">
@@ -352,8 +352,8 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">薬湯風呂　ホテルクラウンヒルズ中村（ＢＢＨホテルグループ）</h4>
-                            <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
+                            <h4 className="font-bold text-white text-sm group-hover:text-amber-300 transition">薬湯風呂　ホテルクラウンヒルズ中村（ＢＢＨホテルグループ）</h4>
+                            <p className="text-xs text-slate-400 leading-relaxed">
                               中村駅より徒歩約５分。国道５６号線を折れてすぐ！駐車場無料！
                             </p>
                             <p className="text-xs text-slate-500 flex items-center gap-1">
@@ -415,8 +415,8 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">岩室温泉　ゆもとや</h4>
-                            <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
+                            <h4 className="font-bold text-white text-sm group-hover:text-amber-300 transition">岩室温泉　ゆもとや</h4>
+                            <p className="text-xs text-slate-400 leading-relaxed">
                               館内は五層吹き抜けのつくりとなっており、広々とした開放的な空間が広がります。
                             </p>
                             <p className="text-xs text-slate-500 flex items-center gap-1">
@@ -465,8 +465,8 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">岩室温泉　高志の宿　高島屋</h4>
-                            <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">【楽天トラベルアワード2024】ブロンズアワード受賞！大切な日は高島屋で特別なひとときをお過ごしください。</p>
+                            <h4 className="font-bold text-white text-sm group-hover:text-amber-300 transition">岩室温泉　高志の宿　高島屋</h4>
+                            <p className="text-xs text-slate-400 leading-relaxed">【楽天トラベルアワード2024】ブロンズアワード受賞！大切な日は高島屋で特別なひとときをお過ごしください。</p>
                             <p className="text-xs text-slate-500 flex items-center gap-1">
                               <span>📍</span>
                               <span className="truncate">新潟県新潟市西蒲区岩室温泉678甲</span>
@@ -513,8 +513,8 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">岩室温泉　めんめん亭わたや</h4>
-                            <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
+                            <h4 className="font-bold text-white text-sm group-hover:text-amber-300 transition">岩室温泉　めんめん亭わたや</h4>
+                            <p className="text-xs text-slate-400 leading-relaxed">
                               ２本の源泉100％かけ流し!癒しの宿★ご予約特典★だいろの湯入館券プレゼント！
                             </p>
                             <p className="text-xs text-slate-500 flex items-center gap-1">
@@ -562,10 +562,10 @@ export default function FurusatoTaxPage() {
                 href="/furusato-tax-local-gourmet-inn-stay/"
                 className="block p-4 rounded-2xl bg-slate-950/60 border border-slate-800/80 hover:border-amber-500/50 transition group"
               >
-                <div className="font-bold text-amber-400 group-hover:text-amber-300 transition text-sm mb-1 line-clamp-1">
+                <div className="font-bold text-amber-400 group-hover:text-amber-300 transition text-sm mb-1">
                   ご当地グルメ宿を堪能する美食旅特集
                 </div>
-                <div className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
+                <div className="text-xs text-slate-400 leading-relaxed">
                   高千穂牛・天然あなご・伊勢海老を味わう返礼クーポン旅。
                 </div>
               </Link>
@@ -575,10 +575,10 @@ export default function FurusatoTaxPage() {
                 href="/furusato-tax-sake-brewery-pairing-onsen-stay/"
                 className="block p-4 rounded-2xl bg-slate-950/60 border border-slate-800/80 hover:border-amber-500/50 transition group"
               >
-                <div className="font-bold text-amber-400 group-hover:text-amber-300 transition text-sm mb-1 line-clamp-1">
+                <div className="font-bold text-amber-400 group-hover:text-amber-300 transition text-sm mb-1">
                   日本酒ペアリング＆酒蔵直結名宿×ふるさと納税完全ガイド
                 </div>
-                <div className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
+                <div className="text-xs text-slate-400 leading-relaxed">
                   越後湯沢・諏訪・会津の名酒と温泉旅。
                 </div>
               </Link>
@@ -588,10 +588,10 @@ export default function FurusatoTaxPage() {
                 href="/furusato-tax-waterfall-river-gorge-healing-onsen-stay/"
                 className="block p-4 rounded-2xl bg-slate-950/60 border border-slate-800/80 hover:border-amber-500/50 transition group"
               >
-                <div className="font-bold text-amber-400 group-hover:text-amber-300 transition text-sm mb-1 line-clamp-1">
+                <div className="font-bold text-amber-400 group-hover:text-amber-300 transition text-sm mb-1">
                   清流渓谷＆名瀑ヒーリング温泉宿×ふるさと納税完全ガイド
                 </div>
-                <div className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
+                <div className="text-xs text-slate-400 leading-relaxed">
                   奥入瀬渓流・天城湯ヶ島・作並温泉の滝見露天宿。
                 </div>
               </Link>
@@ -694,19 +694,19 @@ export default function FurusatoTaxPage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/kanagawa-hakone-yumoto-solo-retreat-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">箱根湯本ひとり旅・自然渓流おこもり：ロマンスカー直通・渓流露天風呂・旬会席！都心から85分の極上ソロ温泉リトリート厳選3宿</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">箱根湯本ひとり旅・自然渓流おこもり：ロマンスカー直通・渓流露天風呂・旬会席！都心から85分の極上ソロ温泉リトリート厳選3宿</span>
             </a>
             <a href="/winter-kanagawa-hakone-yumoto-ashinoko-shrine-fuji-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12・1月箱根】冬の箱根湯本＆芦ノ湖・箱根神社新春初詣！澄み渡る白雪富士の絶景と名湯に寛ぐ厳選宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">【11・12・1月箱根】冬の箱根湯本＆芦ノ湖・箱根神社新春初詣！澄み渡る白雪富士の絶景と名湯に寛ぐ厳選宿5選</span>
             </a>
             <a href="/winter-kanagawa-yugawara-onsen-bungo-kaiseki-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12月湯河原温泉の名湯と奥湯河原晩秋紅葉】文豪が愛した万葉の隠れ家・相模湾の伊勢海老＆地魚会席の宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">【11・12月湯河原温泉の名湯と奥湯河原晩秋紅葉】文豪が愛した万葉の隠れ家・相模湾の伊勢海老＆地魚会席の宿5選</span>
             </a>
             <a href="/kanagawa-hakone-ashinoko-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">箱根・芦ノ湖＆元箱根：湖畔鳥居・海賊船＆富士ビュー極上宿 厳選ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">箱根・芦ノ湖＆元箱根：湖畔鳥居・海賊船＆富士ビュー極上宿 厳選ガイド</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

@@ -362,19 +362,19 @@ export default function FeatureArticlePage() {
             <ul className="space-y-4 text-xs md:text-sm">
               <li>
                 <a href={HOTEL_DATA.kifune_fujiya.url} target="_blank" rel="sponsored noopener noreferrer" className="block p-3 rounded-xl hover:bg-stone-50 transition border border-stone-100 hover:border-amber-200">
-                  <div className="font-bold text-stone-800 line-clamp-1">{HOTEL_DATA.kifune_fujiya.name}</div>
+                  <div className="font-bold text-stone-800">{HOTEL_DATA.kifune_fujiya.name}</div>
                   <div className="text-stone-500 text-xs mt-1">★ {HOTEL_DATA.kifune_fujiya.rating} | 楽天トラベルで詳細確認</div>
                 </a>
               </li>
               <li>
                 <a href={HOTEL_DATA.kifune_uosen.url} target="_blank" rel="sponsored noopener noreferrer" className="block p-3 rounded-xl hover:bg-stone-50 transition border border-stone-100 hover:border-amber-200">
-                  <div className="font-bold text-stone-800 line-clamp-1">{HOTEL_DATA.kifune_uosen.name}</div>
+                  <div className="font-bold text-stone-800">{HOTEL_DATA.kifune_uosen.name}</div>
                   <div className="text-stone-500 text-xs mt-1">★ {HOTEL_DATA.kifune_uosen.rating} | 楽天トラベルで詳細確認</div>
                 </a>
               </li>
               <li>
                 <a href={HOTEL_DATA.kifune_beniya.url} target="_blank" rel="sponsored noopener noreferrer" className="block p-3 rounded-xl hover:bg-stone-50 transition border border-stone-100 hover:border-amber-200">
-                  <div className="font-bold text-stone-800 line-clamp-1">{HOTEL_DATA.kifune_beniya.name}</div>
+                  <div className="font-bold text-stone-800">{HOTEL_DATA.kifune_beniya.name}</div>
                   <div className="text-stone-500 text-xs mt-1">★ {HOTEL_DATA.kifune_beniya.rating} | 楽天トラベルで詳細確認</div>
                 </a>
               </li>
@@ -491,19 +491,19 @@ export default function FeatureArticlePage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/furusato-tax-kyoto-onsen-ryokan-machiya-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">渡月橋と竹林の小径を巡る！京都・嵐山温泉の名門旅館＆客室露天×ふるさと納税極上旅ガイド渡月亭・翠嵐・花伝抄</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">渡月橋と竹林の小径を巡る！京都・嵐山温泉の名門旅館＆客室露天×ふるさと納税極上旅ガイド渡月亭・翠嵐・花伝抄</span>
             </a>
             <a href="/furusato-tax-matsutake-autumn-gourmet-kaiseki-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">本場名産地で味わう極上松茸尽くし会席＆焼き松茸・土瓶蒸しの名門温泉宿×ふるさと納税厳選ガイド信州別所・丹波篠山・京都湯の花</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">本場名産地で味わう極上松茸尽くし会席＆焼き松茸・土瓶蒸しの名門温泉宿×ふるさと納税厳選ガイド信州別所・丹波篠山・京都湯の花</span>
             </a>
             <a href="/kyoto/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「京都旅行 厳選ガイド」 観光モデルコース・穴場・季節・公式おすすめ人気ホテル＆温泉旅館</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「京都旅行 厳選ガイド」 観光モデルコース・穴場・季節・公式おすすめ人気ホテル＆温泉旅館</span>
             </a>
             <a href="/kyoto-autumn-leaves-night-lightup-hotel-guide/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「京都 紅葉ライトアップ2026おすすめ7選」 夜間特別拝観・永観堂・東寺・清水寺＆混雑回避の夜回り宿</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「京都 紅葉ライトアップ2026おすすめ7選」 夜間特別拝観・永観堂・東寺・清水寺＆混雑回避の夜回り宿</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

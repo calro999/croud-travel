@@ -370,19 +370,19 @@ export default function ArticlePage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/winter-nagano-shiga-kogen-snow-monkey-jigokudani-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【志賀高原＆地獄谷野猿公苑】スノーモンキーと極上パウダースノー！湯田中・渋温泉郷の九湯めぐり＆信州牛を堪能する冬の名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">【志賀高原＆地獄谷野猿公苑】スノーモンキーと極上パウダースノー！湯田中・渋温泉郷の九湯めぐり＆信州牛を堪能する冬の名宿5選</span>
             </a>
             <a href="/winter-nagano-yamada-onsen-matsukawakeikoku-shinshugyu-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12月長野・高山村山田温泉＆松川渓谷】松川渓谷の雪見露天と信州牛・小布施栗おこわと信州高山ワインを味わう名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">【11・12月長野・高山村山田温泉＆松川渓谷】松川渓谷の雪見露天と信州牛・小布施栗おこわと信州高山ワインを味わう名宿5選</span>
             </a>
             <a href="/autumn-nagano-kamikochi-karamatsu-shirahone-onsen-hotels-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【10月下旬！上高地黄金のカラマツ黄葉】大正池・河童橋と乳白色の白骨名湯宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">【10月下旬！上高地黄金のカラマツ黄葉】大正池・河童橋と乳白色の白骨名湯宿5選</span>
             </a>
             <a href="/furusato-tax-nagano-azumino-hotaka-autumn-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">長野・安曇野の田園紅葉＆北アルプス眺望！穂高温泉郷の秘湯と名水わさび・信州サーモン</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">長野・安曇野の田園紅葉＆北アルプス眺望！穂高温泉郷の秘湯と名水わさび・信州サーモン</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

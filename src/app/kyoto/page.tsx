@@ -453,8 +453,8 @@ export default function KyotoHubPage() {
                         </span>
                       )}
                     </div>
-                    <h3 className="text-sm font-black font-journal-serif text-stone-900 line-clamp-2">{hotel.hotelName}</h3>
-                    <p className="text-xs text-stone-600 line-clamp-2">
+                    <h3 className="text-sm font-black font-journal-serif text-stone-900">{hotel.hotelName}</h3>
+                    <p className="text-xs text-stone-600">
                       {hotel.hotelSpecial || hotel.access}
                     </p>
                   </div>
@@ -527,8 +527,8 @@ export default function KyotoHubPage() {
                         </span>
                       )}
                     </div>
-                    <h3 className="text-sm font-black font-journal-serif text-stone-900 line-clamp-2">{hotel.hotelName}</h3>
-                    <p className="text-xs text-stone-600 line-clamp-2">
+                    <h3 className="text-sm font-black font-journal-serif text-stone-900">{hotel.hotelName}</h3>
+                    <p className="text-xs text-stone-600">
                       {hotel.hotelSpecial || hotel.access}
                     </p>
                   </div>
@@ -603,8 +603,8 @@ export default function KyotoHubPage() {
                         </span>
                       )}
                     </div>
-                    <h3 className="text-sm font-black font-journal-serif text-white line-clamp-2">{hotel.hotelName}</h3>
-                    <p className="text-xs text-rose-100/70 line-clamp-2">
+                    <h3 className="text-sm font-black font-journal-serif text-white">{hotel.hotelName}</h3>
+                    <p className="text-xs text-rose-100/70">
                       {hotel.hotelSpecial || hotel.access}
                     </p>
                   </div>

@@ -362,19 +362,19 @@ export default function FeatureArticlePage() {
             <ul className="space-y-4 text-xs md:text-sm">
               <li>
                 <a href={HOTEL_DATA.kokonoe_shirataki.url} target="_blank" rel="sponsored noopener noreferrer" className="block p-3 rounded-xl hover:bg-stone-50 transition border border-stone-100 hover:border-amber-200">
-                  <div className="font-bold text-stone-800 line-clamp-1">{HOTEL_DATA.kokonoe_shirataki.name}</div>
+                  <div className="font-bold text-stone-800">{HOTEL_DATA.kokonoe_shirataki.name}</div>
                   <div className="text-stone-500 text-xs mt-1">★ {HOTEL_DATA.kokonoe_shirataki.rating} | 楽天トラベルで詳細確認</div>
                 </a>
               </li>
               <li>
                 <a href={HOTEL_DATA.kokonoe_fukumoto.url} target="_blank" rel="sponsored noopener noreferrer" className="block p-3 rounded-xl hover:bg-stone-50 transition border border-stone-100 hover:border-amber-200">
-                  <div className="font-bold text-stone-800 line-clamp-1">{HOTEL_DATA.kokonoe_fukumoto.name}</div>
+                  <div className="font-bold text-stone-800">{HOTEL_DATA.kokonoe_fukumoto.name}</div>
                   <div className="text-stone-500 text-xs mt-1">★ {HOTEL_DATA.kokonoe_fukumoto.rating} | 楽天トラベルで詳細確認</div>
                 </a>
               </li>
               <li>
                 <a href={HOTEL_DATA.kokonoe_takaraya.url} target="_blank" rel="sponsored noopener noreferrer" className="block p-3 rounded-xl hover:bg-stone-50 transition border border-stone-100 hover:border-amber-200">
-                  <div className="font-bold text-stone-800 line-clamp-1">{HOTEL_DATA.kokonoe_takaraya.name}</div>
+                  <div className="font-bold text-stone-800">{HOTEL_DATA.kokonoe_takaraya.name}</div>
                   <div className="text-stone-500 text-xs mt-1">★ {HOTEL_DATA.kokonoe_takaraya.rating} | 楽天トラベルで詳細確認</div>
                 </a>
               </li>
@@ -491,19 +491,19 @@ export default function FeatureArticlePage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/furusato-tax-yufuin-onsen-hanare-private-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">由布院温泉をふるさと納税でお得に旅する！全室離れ・客室露天風呂の極上リゾート！静寂の大人ステイ厳選ガイド｜梅園・なな川・由布院別邸樹</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">由布院温泉をふるさと納税でお得に旅する！全室離れ・客室露天風呂の極上リゾート！静寂の大人ステイ厳選ガイド｜梅園・なな川・由布院別邸樹</span>
             </a>
             <a href="/oita-beppu-solo-retreat-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「別府温泉ひとり旅・名湯おこもり」別府湾パノラマ露天・源泉かけ流し・豊後牛！湯けむり湧く日本一の温泉都に癒やされる厳選3宿</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「別府温泉ひとり旅・名湯おこもり」別府湾パノラマ露天・源泉かけ流し・豊後牛！湯けむり湧く日本一の温泉都に癒やされる厳選3宿</span>
             </a>
             <a href="/oita-station-solo-business-onsen-sauna-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「大分駅前出張・天然温泉サウナ」日本一のおんせん県・天然温泉白糸の湯・豊後とり天！九州東部ビジネスを制する厳選3宿</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「大分駅前出張・天然温泉サウナ」日本一のおんせん県・天然温泉白糸の湯・豊後とり天！九州東部ビジネスを制する厳選3宿</span>
             </a>
             <a href="/oita-yufuin-solo-retreat-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「由布院温泉ひとり旅・由布岳望むおこもり」金鱗湖朝霧・源泉かけ流し貸切露天・豊後牛！大自然に抱かれる大人のソロリトリート厳選3宿</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「由布院温泉ひとり旅・由布岳望むおこもり」金鱗湖朝霧・源泉かけ流し貸切露天・豊後牛！大自然に抱かれる大人のソロリトリート厳選3宿</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

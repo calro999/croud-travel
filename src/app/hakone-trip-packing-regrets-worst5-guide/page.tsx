@@ -414,8 +414,8 @@ export default function HakoneTripPackingRegretsPage() {
                     <div className="text-[11px] font-bold text-amber-700 mb-1">
                       {hotel.nearestStation || hotel.address1 || "箱根湯本・強羅エリア"}
                     </div>
-                    <h3 className="font-black text-slate-900 text-base leading-snug group-hover:text-amber-700 transition line-clamp-2">{hotel.hotelName}</h3>
-                    <p className="text-xs text-slate-600 mt-2 line-clamp-2 leading-relaxed">
+                    <h3 className="font-black text-slate-900 text-base leading-snug group-hover:text-amber-700 transition">{hotel.hotelName}</h3>
+                    <p className="text-xs text-slate-600 mt-2 leading-relaxed">
                       {hotel.hotelSpecial || "箱根の豊かな自然に包まれた良質な名湯と、旬の味覚を詰め込んだ和会席が魅力の人気宿。"}
                     </p>
                   </div>
@@ -544,19 +544,19 @@ export default function HakoneTripPackingRegretsPage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/luxury-private-onsen-with-scenic-moss-garden/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「幽玄の苔庭テラス」青苔と石灯籠を望むプライベート露天風呂！京都・箱根の侘び寂び隠れ宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「幽玄の苔庭テラス」青苔と石灯籠を望むプライベート露天風呂！京都・箱根の侘び寂び隠れ宿5選</span>
             </a>
             <a href="/solo-luxury-club-lounge-reward-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「一人ホテルステイ・ご褒美宿泊」クラブラウンジアクセス付き！東京＆横浜の高層ラグジュアリーホテル 厳選3選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「一人ホテルステイ・ご褒美宿泊」クラブラウンジアクセス付き！東京＆横浜の高層ラグジュアリーホテル 厳選3選</span>
             </a>
             <a href="/winter-tochigi-yunishigawa-onsen-kamakura-irori-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「栃木・湯西川温泉」平家落人の隠れ里・雪見露天風呂と名物平家囲炉裏会席＆日本夜景遺産かまくら祭を巡る名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「栃木・湯西川温泉」平家落人の隠れ里・雪見露天風呂と名物平家囲炉裏会席＆日本夜景遺産かまくら祭を巡る名宿5選</span>
             </a>
             <a href="/enoshima-kamakura-noriorikun-golden-route/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「江ノ電1日乗車券のりおりくん完全攻略」 800円で元を取るモデルコース ＆海沿い途中下車の旅</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「江ノ電1日乗車券のりおりくん完全攻略」 800円で元を取るモデルコース ＆海沿い途中下車の旅</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

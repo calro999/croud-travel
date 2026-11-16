@@ -579,7 +579,7 @@ export default function IwateHiraizumiGeibikeiPage() {
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-amber-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-amber-700 font-bold text-xs block mb-1">岩手・花巻温泉郷</span>
-              <span className="text-stone-900 font-bold group-hover:text-amber-800 transition-colors line-clamp-2">
+              <span className="text-stone-900 font-bold group-hover:text-amber-800 transition-colors">
                 鉛温泉・大沢温泉の秘湯雪見露天風呂と宮沢賢治ゆかりの宿
               </span>
             </Link>
@@ -589,7 +589,7 @@ export default function IwateHiraizumiGeibikeiPage() {
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-amber-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-amber-700 font-bold text-xs block mb-1">岩手・三陸鉄道</span>
-              <span className="text-stone-900 font-bold group-hover:text-amber-800 transition-colors line-clamp-2">
+              <span className="text-stone-900 font-bold group-hover:text-amber-800 transition-colors">
                 冬の名物こたつ列車と三陸極上海鮮丼・オーシャンビュー名宿
               </span>
             </Link>
@@ -599,7 +599,7 @@ export default function IwateHiraizumiGeibikeiPage() {
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-amber-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-amber-700 font-bold text-xs block mb-1">栃木・日光東照宮</span>
-              <span className="text-stone-900 font-bold group-hover:text-amber-800 transition-colors line-clamp-2">
+              <span className="text-stone-900 font-bold group-hover:text-amber-800 transition-colors">
                 世界遺産日光東照宮の冬参拝＆名物日光湯波会席・日光温泉名宿
               </span>
             </Link>
@@ -609,7 +609,7 @@ export default function IwateHiraizumiGeibikeiPage() {
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-amber-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-amber-700 font-bold text-xs block mb-1">宮城・気仙沼</span>
-              <span className="text-stone-900 font-bold group-hover:text-amber-800 transition-colors line-clamp-2">
+              <span className="text-stone-900 font-bold group-hover:text-amber-800 transition-colors">
                 冬の極上メカジキしゃぶしゃぶ＆フカヒレと気仙沼温泉名宿
               </span>
             </Link>
@@ -619,7 +619,7 @@ export default function IwateHiraizumiGeibikeiPage() {
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-amber-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-amber-700 font-bold text-xs block mb-1">山形・銀山温泉</span>
-              <span className="text-stone-900 font-bold group-hover:text-amber-800 transition-colors line-clamp-2">
+              <span className="text-stone-900 font-bold group-hover:text-amber-800 transition-colors">
                 大正ロマンのガス灯雪景色と木造多層建築のぬくもり名宿
               </span>
             </Link>
@@ -629,7 +629,7 @@ export default function IwateHiraizumiGeibikeiPage() {
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-amber-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-amber-700 font-bold text-xs block mb-1">福島・会津大内宿</span>
-              <span className="text-stone-900 font-bold group-hover:text-amber-800 transition-colors line-clamp-2">
+              <span className="text-stone-900 font-bold group-hover:text-amber-800 transition-colors">
                 茅葺き宿場町の白銀雪景色と名物ねぎそば・芦ノ牧温泉名宿
               </span>
             </Link>

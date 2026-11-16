@@ -42,7 +42,7 @@ export default function BiwakoOgotoAutumnPage() {
             <span className="px-3 py-1 bg-stone-800 text-amber-300 text-xs font-medium rounded-full border border-amber-400/30">見頃目安: 10月下旬〜11月中旬</span>
           </div>
           <h1 className="text-2xl md:text-4xl lg:text-5xl font-extrabold text-white leading-tight mb-4 drop-shadow-md">「秋の琵琶湖」びわ湖バレイの紅葉テラスとおごと温泉！近江牛とレイクビューを満喫するおすすめ名宿5選</h1>
-          <p className="text-stone-200 text-sm md:text-base max-w-3xl line-clamp-2 md:line-clamp-none">
+          <p className="text-stone-200 text-sm md:text-base max-w-3xl">
             青く輝く琵琶湖を見下ろす山頂テラスから眺める錦秋のパノラマ絶景。伝教大師最澄が開湯した歴史あるおごと温泉で、極上の近江牛しゃぶしゃぶと琵琶湖を望む展望露天風呂に心癒やされる宿をご紹介します。
           </p>
         </div>
@@ -98,7 +98,7 @@ export default function BiwakoOgotoAutumnPage() {
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 雄琴駅 / 京都駅より20分、JR湖西線おごと温泉駅下車、車5分＜送迎有＞。京都東ICより湖西道路経由20分558号線沿い
                   </p>
-                  <p className="text-sm text-stone-600 mb-4 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-stone-600 mb-4 leading-relaxed">
                     地元食材を使った会席料理■テラスラウンジでフリードリンク■8/31-12/5貸切風呂リニューアル工事
                   </p>
                 </div>
@@ -143,7 +143,7 @@ export default function BiwakoOgotoAutumnPage() {
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 雄琴駅 / 車：名神京都東ＩＣ～約20分　電車：京都駅よりJR湖西線で20分。おごと温泉駅～無料送迎あり。（要連絡）
                   </p>
-                  <p className="text-sm text-stone-600 mb-4 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-stone-600 mb-4 leading-relaxed">
                     湖も碧、山の蒼。時を忘れ。そして心がほどける。湖国が織りなす季節に移ろいを感じて。
                   </p>
                 </div>
@@ -188,7 +188,7 @@ export default function BiwakoOgotoAutumnPage() {
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: おごと温泉駅 / ＪＲ　おごと温泉駅からお車で５分（送迎バスあり※要予約）無料駐車場有り
                   </p>
-                  <p className="text-sm text-stone-600 mb-4 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-stone-600 mb-4 leading-relaxed">
                     〓楽天トラベル日本の宿アワード2025受賞〓びわ湖を望む屋上露天風呂など趣の違う館内４つの温泉めぐり
                   </p>
                 </div>
@@ -233,7 +233,7 @@ export default function BiwakoOgotoAutumnPage() {
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 雄琴駅 / JR湖西線おごと温泉駅送迎バス有/名神京都東IC～湖西道路(国道161号)経由約15分/栗東IC～琵琶湖大橋経由約40分
                   </p>
-                  <p className="text-sm text-stone-600 mb-4 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-stone-600 mb-4 leading-relaxed">
                     「自然と文化との共生」里山がテーマです。
                   </p>
                 </div>
@@ -278,7 +278,7 @@ export default function BiwakoOgotoAutumnPage() {
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 雄琴駅 / ＪＲ湖西線おごと温泉駅下車、車5分(送迎有)　名神高速道路、京都東ＩＣより湖西道路経由仰木雄琴より5分無料駐車場有り
                   </p>
-                  <p className="text-sm text-stone-600 mb-4 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-stone-600 mb-4 leading-relaxed">
                     お1人様～カップル・ファミリー・グループ様大歓迎。大切な方と琵琶湖ステイ。京都や延暦寺へアクセス良好
                   </p>
                 </div>

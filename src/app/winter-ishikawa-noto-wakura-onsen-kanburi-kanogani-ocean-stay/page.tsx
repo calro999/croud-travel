@@ -435,7 +435,7 @@ export default function WinterIshikawaWakuraPage() {
                     <div className="pt-2 flex flex-col sm:flex-row items-center justify-between gap-4 border-t border-stone-100">
                       <div className="flex items-center gap-1.5 text-xs text-stone-500 w-full sm:w-auto">
                         <MapPin className="w-3.5 h-3.5 text-stone-400 shrink-0" />
-                        <span className="truncate">{h.access}</span>
+                        <span className="break-words">{h.access}</span>
                       </div>
                       <a
                         href={h.url}
@@ -584,8 +584,8 @@ export default function WinterIshikawaWakuraPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-teal-300 bg-teal-400/20 px-2 py-0.5 rounded-full inline-block">石川・金沢</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-teal-200 transition line-clamp-2">金沢兼六園の雪吊りと近江町市場カニ三昧ステイ</h4>
-              <p className="text-[11px] text-stone-200 line-clamp-2">
+              <h4 className="text-xs font-bold text-white group-hover:text-teal-200 transition">金沢兼六園の雪吊りと近江町市場カニ三昧ステイ</h4>
+              <p className="text-[11px] text-stone-200">
                 兼六園の初冬の風物詩「雪吊り」と近江町市場の香箱ガニ・加能ガニを堪能。
               </p>
             </Link>
@@ -595,8 +595,8 @@ export default function WinterIshikawaWakuraPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-teal-300 bg-teal-400/20 px-2 py-0.5 rounded-full inline-block">石川・加賀山代温泉</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-teal-200 transition line-clamp-2">加賀山代温泉の総湯情緒と加能ガニフルコース</h4>
-              <p className="text-[11px] text-stone-200 line-clamp-2">
+              <h4 className="text-xs font-bold text-white group-hover:text-teal-200 transition">加賀山代温泉の総湯情緒と加能ガニフルコース</h4>
+              <p className="text-[11px] text-stone-200">
                 赤瓦の古総湯を囲む温泉街と開湯1300年の名湯、極上のズワイガニ会席。
               </p>
             </Link>
@@ -606,8 +606,8 @@ export default function WinterIshikawaWakuraPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-teal-300 bg-teal-400/20 px-2 py-0.5 rounded-full inline-block">福井・あわら温泉</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-teal-200 transition line-clamp-2">あわら温泉の本場越前ガニと関西の奥座敷名宿</h4>
-              <p className="text-[11px] text-stone-200 line-clamp-2">
+              <h4 className="text-xs font-bold text-white group-hover:text-teal-200 transition">あわら温泉の本場越前ガニと関西の奥座敷名宿</h4>
+              <p className="text-[11px] text-stone-200">
                 黄色いタグの越前ガニと多彩な源泉、数寄屋造りの庭園名宿で味わう至高の冬。
               </p>
             </Link>

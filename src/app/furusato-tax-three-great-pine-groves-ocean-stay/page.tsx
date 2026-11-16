@@ -168,7 +168,7 @@ export default function Page() {
                   <p className="text-xs text-slate-500 mt-0.5">
                     🚆 東名高速清水ICより三保方面へ、羽衣の松を目標に。
                   </p>
-                  <p className="text-sm text-slate-600 mt-3 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-slate-600 mt-3 leading-relaxed">
                     三保の松原中心にあり、羽衣伝説の「羽衣の松」迄庭続きで徒歩１分
                   </p>
                 </div>
@@ -228,7 +228,7 @@ export default function Page() {
                   <p className="text-xs text-slate-500 mt-0.5">
                     🚆 東名高速道路『清水インター』より車で1分／ＪＲ東海道線『清水駅』より車で10分
                   </p>
-                  <p className="text-sm text-slate-600 mt-3 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-slate-600 mt-3 leading-relaxed">
                     独立型デスクとソファで機能的な客室■人工温泉大浴場・ランドリー完備■朝食バイキング・駐車場無料
                   </p>
                 </div>
@@ -302,7 +302,7 @@ export default function Page() {
                   <p className="text-xs text-slate-500 mt-0.5">
                     🚆 九州自動車道多久ICより有料道路経由、車で約30分／JR東唐津駅より車で約3分、徒歩15分※福岡市内より約60分
                   </p>
-                  <p className="text-sm text-slate-600 mt-3 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-slate-600 mt-3 leading-relaxed">
                     種類豊富なビュッフェや宿泊者限定ラウンジで子供から大人まで満喫ステイ
                   </p>
                 </div>
@@ -362,7 +362,7 @@ export default function Page() {
                   <p className="text-xs text-slate-500 mt-0.5">
                     🚆 【ＪＲ和多田駅】より徒歩８分／【ＪＲ唐津駅】・【ＪＲ東唐津駅】より車で５分／長崎自動車道【多久ＩＣ】より車にて約３０分
                   </p>
-                  <p className="text-sm text-slate-600 mt-3 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-slate-600 mt-3 leading-relaxed">
                     宿泊者専用大浴場『にじの湯』オープン♪インターネット無料！ゆったり過ごせるハイセンスなビジネスホテル
                   </p>
                 </div>
@@ -418,7 +418,7 @@ export default function Page() {
                   <p className="text-xs text-slate-500 mt-0.5">
                     🚆 西唐津駅から車で約２２分
                   </p>
-                  <p className="text-sm text-slate-600 mt-3 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-slate-600 mt-3 leading-relaxed">
                     　
                   </p>
                 </div>
@@ -492,7 +492,7 @@ export default function Page() {
                   <p className="text-xs text-slate-500 mt-0.5">
                     🚆 ＪＲ敦賀駅・敦賀ＩＣ～車１５分／気比の松原～３分
                   </p>
-                  <p className="text-sm text-slate-600 mt-3 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-slate-600 mt-3 leading-relaxed">
                     敦賀湾の絶景を望む展望風呂とシモンズベットが自慢の和洋室『朝焼け』『波音』『浜風』がおもてなし♪
                   </p>
                 </div>
@@ -552,7 +552,7 @@ export default function Page() {
                   <p className="text-xs text-slate-500 mt-0.5">
                     🚆 JR北陸本線敦賀駅よりタクシーで約8分/北陸自動車道・敦賀Ｉ.Ｃより約10分
                   </p>
-                  <p className="text-sm text-slate-600 mt-3 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-slate-600 mt-3 leading-relaxed">
                     2022年恐竜ルームが新設！恐竜たちが暮らす太古の森と草原をイメージした迫力ある空間が広がります！
                   </p>
                 </div>
@@ -612,7 +612,7 @@ export default function Page() {
                   <p className="text-xs text-slate-500 mt-0.5">
                     🚆 敦賀駅よりお車にて２５分
                   </p>
-                  <p className="text-sm text-slate-600 mt-3 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-slate-600 mt-3 leading-relaxed">
                     漁師宿ならではの新鮮な海鮮料理をお楽しみいただけます★日本海の獲れたて海の幸をぜひこの機会に！！
                   </p>
                 </div>
@@ -789,19 +789,19 @@ export default function Page() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/winter-akita-kakunodate-bukeyashiki-snow-kiritanpo-hinaijidori-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12・1月秋田】陸奥の小京都・角館武家屋敷の雪景色＆冬の田沢湖！本場比内地鶏きりたんぽ鍋と名湯に寛ぐ名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">【11・12・1月秋田】陸奥の小京都・角館武家屋敷の雪景色＆冬の田沢湖！本場比内地鶏きりたんぽ鍋と名湯に寛ぐ名宿5選</span>
             </a>
             <a href="/winter-akita-yuze-onsen-towada-kiritanpo-hinaijidori-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12月秋田・湯瀬温泉＆鹿角】日本三大美人の湯と米代川雪渓谷・本場きりたんぽ鍋と比内地鶏を味わう名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">【11・12月秋田・湯瀬温泉＆鹿角】日本三大美人の湯と米代川雪渓谷・本場きりたんぽ鍋と比内地鶏を味わう名宿5選</span>
             </a>
             <a href="/furusato-tax-akita-tazawako-nyuto-autumn-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">秋田・乳頭温泉郷の秘湯紅葉＆田沢湖！乳白色硫黄泉の湯めぐりと名物きりたんぽ・比内地鶏</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">秋田・乳頭温泉郷の秘湯紅葉＆田沢湖！乳白色硫黄泉の湯めぐりと名物きりたんぽ・比内地鶏</span>
             </a>
             <a href="/silver-week-glamping-tohoku-sendai-fukushima-guide/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">東北シルバーウィーク グランピング：宮城・福島・秋田の雄大な自然＆紅葉先取りステイ</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">東北シルバーウィーク グランピング：宮城・福島・秋田の雄大な自然＆紅葉先取りステイ</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

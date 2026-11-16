@@ -297,8 +297,8 @@ export default function OsakaNambaLateNightGuidePage() {
                       </div>
                     )}
                     <div className="p-4">
-                      <h3 className="font-bold text-sm sm:text-base text-white line-clamp-2 mb-2 hover:text-emerald-300">{hotel.hotelName}</h3>
-                      <p className="text-xs text-slate-400 line-clamp-3 mb-3 leading-relaxed">
+                      <h3 className="font-bold text-sm sm:text-base text-white mb-2 hover:text-emerald-300">{hotel.hotelName}</h3>
+                      <p className="text-xs text-slate-400 mb-3 leading-relaxed">
                         {hotel.hotelSpecial || "なんば・心斎橋の繁華街から至近。大浴場やサウナを備え、深夜のチェックインにも対応した拠点ホテル。"}
                       </p>
                       {hotel.access && (
@@ -342,7 +342,7 @@ export default function OsakaNambaLateNightGuidePage() {
               <div>
                 <span className="text-[11px] text-emerald-400 font-semibold mb-1 block">費用・節約</span>
                 <h3 className="font-bold text-sm text-white mb-1">【大阪旅行 予算シミュレーション】1泊2日いくらで楽しめる？</h3>
-                <p className="text-xs text-slate-400 line-clamp-2">
+                <p className="text-xs text-slate-400">
                   食い倒れグルメ、交通費、ホテル代の最安値目安。USJとミナミ観光を組み合わせた賢い予算設計。
                 </p>
               </div>
@@ -358,7 +358,7 @@ export default function OsakaNambaLateNightGuidePage() {
               <div>
                 <span className="text-[11px] text-emerald-400 font-semibold mb-1 block">交通比較</span>
                 <h3 className="font-bold text-sm text-white mb-1">【東京〜大阪】新幹線 vs 夜行バス徹底比較！差額2万円の活用術</h3>
-                <p className="text-xs text-slate-400 line-clamp-2">
+                <p className="text-xs text-slate-400">
                   最安2,500円からの夜行高速バスで早朝なんば着。浮いたお金で道頓堀グルメを食べ尽くす！
                 </p>
               </div>
@@ -407,19 +407,19 @@ export default function OsakaNambaLateNightGuidePage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/osaka-fukuoka-bus-vs-shinkansen-guide/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「大阪から福岡・博多 安く行く方法」新幹線 vs 夜行バス徹底比較！中洲屋台・もつ鍋1泊2日モデルコース</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「大阪から福岡・博多 安く行く方法」新幹線 vs 夜行バス徹底比較！中洲屋台・もつ鍋1泊2日モデルコース</span>
             </a>
             <a href="/osaka-tokushima-naruto-bus-vs-car-guide/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「大阪・神戸〜徳島・鳴門」高速バスが圧倒的に便利！料金・時間比較＆大塚国際美術館・鳴門の渦潮1泊2日モデルコース</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「大阪・神戸〜徳島・鳴門」高速バスが圧倒的に便利！料金・時間比較＆大塚国際美術館・鳴門の渦潮1泊2日モデルコース</span>
             </a>
             <a href="/tokyo-shirahama-kumano-bus-vs-train-guide/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「東京・大阪〜南紀白浜・熊野古道」夜行バス vs 特急くろしお徹底比較！白良浜ビーチ＆世界遺産熊野古道1泊2日モデルコース</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「東京・大阪〜南紀白浜・熊野古道」夜行バス vs 特急くろしお徹底比較！白良浜ビーチ＆世界遺産熊野古道1泊2日モデルコース</span>
             </a>
             <a href="/furusato-tax-osaka-umeda-luxury-skyview-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">大阪・梅田をふるさと納税でお得に旅する！JR大阪駅直結＆地上摩天楼夜景！天下の台所美食特集｜リッツカールトン大阪・インターコンチネンタル・ヒルトン</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">大阪・梅田をふるさと納税でお得に旅する！JR大阪駅直結＆地上摩天楼夜景！天下の台所美食特集｜リッツカールトン大阪・インターコンチネンタル・ヒルトン</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

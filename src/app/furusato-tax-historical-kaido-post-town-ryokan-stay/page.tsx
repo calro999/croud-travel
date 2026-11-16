@@ -189,8 +189,8 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">木曽路の宿　いわや</h4>
-                            <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
+                            <h4 className="font-bold text-white text-sm group-hover:text-amber-300 transition">木曽路の宿　いわや</h4>
+                            <p className="text-xs text-slate-400 leading-relaxed">
                               宮家の方々や文人に愛された、木曽路で最も古い老舗。木曽川眺望、総檜造りのお部屋や展望露天など。
                             </p>
                             <p className="text-xs text-slate-500 flex items-center gap-1">
@@ -239,8 +239,8 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">普寛堂　くるみ沢旅館</h4>
-                            <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
+                            <h4 className="font-bold text-white text-sm group-hover:text-amber-300 transition">普寛堂　くるみ沢旅館</h4>
+                            <p className="text-xs text-slate-400 leading-relaxed">
                               明治2年創業。【お部屋食】で精進料理や信州の旬料理＆【薬草人参檜風呂】でゆったり！御嶽山への拠点に
                             </p>
                             <p className="text-xs text-slate-500 flex items-center gap-1">
@@ -289,8 +289,8 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">宿とそば処　ふもと屋</h4>
-                            <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
+                            <h4 className="font-bold text-white text-sm group-hover:text-amber-300 transition">宿とそば処　ふもと屋</h4>
+                            <p className="text-xs text-slate-400 leading-relaxed">
                               築二百年の建物を利用した古民家風の旅宿。開田蕎麦と郷土料理・地元の材料でおもてなし
                             </p>
                             <p className="text-xs text-slate-500 flex items-center gap-1">
@@ -352,8 +352,8 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">料理旅館　準坊池</h4>
-                            <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
+                            <h4 className="font-bold text-white text-sm group-hover:text-amber-300 transition">料理旅館　準坊池</h4>
+                            <p className="text-xs text-slate-400 leading-relaxed">
                               いけすの鮮度抜群な川魚と山菜料理★中津川・鮎釣りポイントへは徒歩1分です♪＜ペット相談可＞
                             </p>
                             <p className="text-xs text-slate-500 flex items-center gap-1">
@@ -410,8 +410,8 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">一棟貸切【広々９７平米】　定員８人　禁煙　駅徒歩９分　駐車場３台ＥＶ対応　日光杉並木街道の家　＾</h4>
-                            <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
+                            <h4 className="font-bold text-white text-sm group-hover:text-amber-300 transition">一棟貸切【広々９７平米】　定員８人　禁煙　駅徒歩９分　駐車場３台ＥＶ対応　日光杉並木街道の家　＾</h4>
+                            <p className="text-xs text-slate-400 leading-relaxed">
                               日光市下野大沢駅９分の貸し切り一軒家です
                             </p>
                             <p className="text-xs text-slate-500 flex items-center gap-1">
@@ -460,8 +460,8 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">トレイルイン日光今市（Ｔｒａｉｌ　ｉｎｎ　日光今市）</h4>
-                            <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
+                            <h4 className="font-bold text-white text-sm group-hover:text-amber-300 transition">トレイルイン日光今市（Ｔｒａｉｌ　ｉｎｎ　日光今市）</h4>
+                            <p className="text-xs text-slate-400 leading-relaxed">
                               各室完全独立型のトレーラーホテル！洗濯機・電子レンジ完備！！
                             </p>
                             <p className="text-xs text-slate-500 flex items-center gap-1">
@@ -510,8 +510,8 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">日光素泊まりの宿　憩～ikoi～</h4>
-                            <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
+                            <h4 className="font-bold text-white text-sm group-hover:text-amber-300 transition">日光素泊まりの宿　憩～ikoi～</h4>
+                            <p className="text-xs text-slate-400 leading-relaxed">
                               日光東照宮まで1.８ｋｍ！ビジネス・観光にもおすすめ！心からのおもてなしでお待ちしております♪
                             </p>
                             <p className="text-xs text-slate-500 flex items-center gap-1">
@@ -559,10 +559,10 @@ export default function FurusatoTaxPage() {
                 href="/furusato-tax-kominka-heritage-townhouse-auberge-stay/"
                 className="block p-4 rounded-2xl bg-slate-950/60 border border-slate-800/80 hover:border-amber-500/50 transition group"
               >
-                <div className="font-bold text-amber-400 group-hover:text-amber-300 transition text-sm mb-1 line-clamp-1">
+                <div className="font-bold text-amber-400 group-hover:text-amber-300 transition text-sm mb-1">
                   古民家再生・歴史的町家オーベルジュ×文化財ホテル滞在記
                 </div>
-                <div className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
+                <div className="text-xs text-slate-400 leading-relaxed">
                   篠山・飛騨高山の歴史情緒と地産馳走を味わう極上滞在。
                 </div>
               </Link>
@@ -572,10 +572,10 @@ export default function FurusatoTaxPage() {
                 href="/furusato-tax-tangible-cultural-property-architectural-ryokan-stay/"
                 className="block p-4 rounded-2xl bg-slate-950/60 border border-slate-800/80 hover:border-amber-500/50 transition group"
               >
-                <div className="font-bold text-amber-400 group-hover:text-amber-300 transition text-sm mb-1 line-clamp-1">
+                <div className="font-bold text-amber-400 group-hover:text-amber-300 transition text-sm mb-1">
                   登録有形文化財・宮大工名建築旅館×ふるさと納税完全ガイド
                 </div>
-                <div className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
+                <div className="text-xs text-slate-400 leading-relaxed">
                   修善寺新井旅館・渋温泉金具屋・箱根環翠楼の歴史宿。
                 </div>
               </Link>
@@ -585,10 +585,10 @@ export default function FurusatoTaxPage() {
                 href="/furusato-tax-castle-town-heritage-onsen-stay/"
                 className="block p-4 rounded-2xl bg-slate-950/60 border border-slate-800/80 hover:border-amber-500/50 transition group"
               >
-                <div className="font-bold text-amber-400 group-hover:text-amber-300 transition text-sm mb-1 line-clamp-1">
+                <div className="font-bold text-amber-400 group-hover:text-amber-300 transition text-sm mb-1">
                   国宝名城めぐり×城下町老舗名宿ガイド
                 </div>
-                <div className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
+                <div className="text-xs text-slate-400 leading-relaxed">
                   姫路・松本・彦根の天守展望露天風呂宿。
                 </div>
               </Link>
@@ -691,19 +691,19 @@ export default function FurusatoTaxPage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/autumn-ibaraki-hitachi-seaside-park-kochia-hotels-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【10月見頃！国営ひたち海浜公園コキア紅葉】みはらしの丘と勝田・大洗の人気宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">【10月見頃！国営ひたち海浜公園コキア紅葉】みはらしの丘と勝田・大洗の人気宿5選</span>
             </a>
             <a href="/winter-ibaraki-mito-kasama-inari-hatsumode-ankou-hitachigyu-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12・1月茨城】笠間稲荷神社新春開運初詣＆水戸偕楽園冬梅！本場濃厚あんこう鍋と極上常陸牛を味わう名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">【11・12・1月茨城】笠間稲荷神社新春開運初詣＆水戸偕楽園冬梅！本場濃厚あんこう鍋と極上常陸牛を味わう名宿5選</span>
             </a>
             <a href="/furusato-tax-daigo-fukuroda-falls-autumn-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">袋田の滝の四段紅葉と奥久慈大子温泉！名物奥久慈軍鶏・常陸牛と秋蕎麦を味わう茨城の奥座敷旅</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">袋田の滝の四段紅葉と奥久慈大子温泉！名物奥久慈軍鶏・常陸牛と秋蕎麦を味わう茨城の奥座敷旅</span>
             </a>
             <a href="/winter-ibaraki-oarai-nakaminato-ankou-sunrise-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12・1月茨城】大洗磯前神社「神磯の鳥居」初日の出と冬の極上「大洗あんこう鍋（どぶ汁）」・那珂湊おさかな市場買い出し＆太平洋一望の大洗温泉宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">【11・12・1月茨城】大洗磯前神社「神磯の鳥居」初日の出と冬の極上「大洗あんこう鍋（どぶ汁）」・那珂湊おさかな市場買い出し＆太平洋一望の大洗温泉宿5選</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

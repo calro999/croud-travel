@@ -567,8 +567,8 @@ export default function NiigataMatsunoyamaPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">新潟・越後湯沢</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">越後湯沢の雪国温泉とぽんしゅ館・地酒の旅</h4>
-              <p className="text-[11px] text-stone-200 line-clamp-2">
+              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition">越後湯沢の雪国温泉とぽんしゅ館・地酒の旅</h4>
+              <p className="text-[11px] text-stone-200">
                 新幹線直結のスノーリゾートと川端康成ゆかりの雪国名湯、越後日本酒飲み比べを満喫。
               </p>
             </Link>
@@ -578,8 +578,8 @@ export default function NiigataMatsunoyamaPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">新潟・月岡温泉</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">月岡温泉のエメラルドグリーン美肌硫黄泉</h4>
-              <p className="text-[11px] text-stone-200 line-clamp-2">
+              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition">月岡温泉のエメラルドグリーン美肌硫黄泉</h4>
+              <p className="text-[11px] text-stone-200">
                 日本有数の硫黄含有量を誇る美肌の湯と越後銘菓・地酒を巡る温泉街歩き。
               </p>
             </Link>
@@ -589,8 +589,8 @@ export default function NiigataMatsunoyamaPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">新潟・瀬波温泉</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">日本海夕日露天風呂と村上牛・越後名物鮭会席</h4>
-              <p className="text-[11px] text-stone-200 line-clamp-2">
+              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition">日本海夕日露天風呂と村上牛・越後名物鮭会席</h4>
+              <p className="text-[11px] text-stone-200">
                 波打ち際の熱狂名湯と冬の日本海に沈む夕陽、伝統の塩引き鮭と村上牛ステーキを堪能。
               </p>
             </Link>

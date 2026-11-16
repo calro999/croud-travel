@@ -399,19 +399,19 @@ export default function Page() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/winter-kyoto-ine-funaya-ineburi-shabu-miyazu-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「11・12・1月京都」雪化粧の伊根湾「伊根の舟屋」と日本三大寒ブリ「伊根ブリしゃぶしゃぶ」・海の京都宮津温泉＆冬の天橋立雪景色名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「11・12・1月京都」雪化粧の伊根湾「伊根の舟屋」と日本三大寒ブリ「伊根ブリしゃぶしゃぶ」・海の京都宮津温泉＆冬の天橋立雪景色名宿5選</span>
             </a>
             <a href="/winter-kyoto-miyama-kayabuki-snow-botannabe-tanba-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">美山かやぶきの里＆丹波！ 白銀の茅葺き集落雪景色と雪灯廊・冬の最高峰「天然ぼたん鍋」＆里山雪見温泉名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">美山かやぶきの里＆丹波！ 白銀の茅葺き集落雪景色と雪灯廊・冬の最高峰「天然ぼたん鍋」＆里山雪見温泉名宿5選</span>
             </a>
             <a href="/winter-kyoto-tango-taizagani-luxury-sumihei-amadori-matsuba-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【幻のブランド蟹・間人ガニと日本海の荒波を望む名旅館】2026-2027年11-12月初冬の京都・丹後間人＆京丹後！創業明治「間人温泉 炭平」＆全室海一望露天スイート・極上活松葉ガ</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">【幻のブランド蟹・間人ガニと日本海の荒波を望む名旅館】2026-2027年11-12月初冬の京都・丹後間人＆京丹後！創業明治「間人温泉 炭平」＆全室海一望露天スイート・極上活松葉ガ</span>
             </a>
             <a href="/winter-mie-iseshima-jingu-hatsumode-toba-matoya-oyster-ise-ebi-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「伊勢神宮」新春初詣と宇治橋大鳥居の冬日の出 冬旬「的矢かき」・伊勢海老・松阪牛会席＆鳥羽・賢島名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「伊勢神宮」新春初詣と宇治橋大鳥居の冬日の出 冬旬「的矢かき」・伊勢海老・松阪牛会席＆鳥羽・賢島名宿5選</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

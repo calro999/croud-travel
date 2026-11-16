@@ -440,7 +440,7 @@ export default function FujiFiveLakesCarFreeBusGuidePage() {
                       <h3 className="font-black text-slate-900 text-lg leading-snug group-hover:text-teal-700 transition-colors">{hotel.hotelName}</h3>
 
                       {specialText && (
-                        <p className="text-xs text-slate-600 line-clamp-2 leading-relaxed bg-teal-50/50 p-2.5 rounded-xl border border-teal-100">
+                        <p className="text-xs text-slate-600 leading-relaxed bg-teal-50/50 p-2.5 rounded-xl border border-teal-100">
                           {specialText}
                         </p>
                       )}
@@ -449,7 +449,7 @@ export default function FujiFiveLakesCarFreeBusGuidePage() {
                         {hotel.access && (
                           <div className="flex items-start gap-1.5">
                             <span className="text-teal-700 font-bold shrink-0">交通:</span>
-                            <span className="line-clamp-2">{hotel.access}</span>
+                            <span className="">{hotel.access}</span>
                           </div>
                         )}
                         {hotel.address1 && hotel.address2 && (

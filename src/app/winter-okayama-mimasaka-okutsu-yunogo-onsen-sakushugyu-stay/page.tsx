@@ -516,8 +516,8 @@ export default function WinterOkayamaMimasakaPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-rose-300 bg-rose-400/20 px-2 py-0.5 rounded-full inline-block">岡山・湯原温泉</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-rose-200 transition line-clamp-2">湯原温泉の砂湯雪景色と蒜山和牛ステーキ</h4>
-              <p className="text-[11px] text-stone-200 line-clamp-2">
+              <h4 className="text-xs font-bold text-white group-hover:text-rose-200 transition">湯原温泉の砂湯雪景色と蒜山和牛ステーキ</h4>
+              <p className="text-[11px] text-stone-200">
                 露天風呂番付西の横綱「砂湯」の豪快雪見と蒜山ジャージー乳製品。
               </p>
             </Link>
@@ -527,8 +527,8 @@ export default function WinterOkayamaMimasakaPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-rose-300 bg-rose-400/20 px-2 py-0.5 rounded-full inline-block">鳥取・三朝温泉</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-rose-200 transition line-clamp-2">三朝温泉の世界屈指ラジウム泉と松葉ガニ</h4>
-              <p className="text-[11px] text-stone-200 line-clamp-2">
+              <h4 className="text-xs font-bold text-white group-hover:text-rose-200 transition">三朝温泉の世界屈指ラジウム泉と松葉ガニ</h4>
+              <p className="text-[11px] text-stone-200">
                 高濃度ラドン温泉の湯治と11月解禁の本場松葉ガニフルコースの極み。
               </p>
             </Link>
@@ -538,8 +538,8 @@ export default function WinterOkayamaMimasakaPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-rose-300 bg-rose-400/20 px-2 py-0.5 rounded-full inline-block">島根・玉造温泉</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-rose-200 transition line-clamp-2">玉造温泉の神の湯美肌としまね和牛・松葉ガニ</h4>
-              <p className="text-[11px] text-stone-200 line-clamp-2">
+              <h4 className="text-xs font-bold text-white group-hover:text-rose-200 transition">玉造温泉の神の湯美肌としまね和牛・松葉ガニ</h4>
+              <p className="text-[11px] text-stone-200">
                 出雲大社のお膝元に湧く日本最古の美肌温泉と冬の山陰美味づくし。
               </p>
             </Link>

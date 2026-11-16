@@ -128,8 +128,8 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">ホテルルートイン長浜インター</h4>
-                      <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition">ホテルルートイン長浜インター</h4>
+                      <p className="text-xs text-stone-400 mt-1 leading-relaxed">
                         ＷＯＷＯＷ全室で無料視聴可■VODルームシアター無料視聴可能(一般映画のみ：コンフォートルーム特典）
                       </p>
                       <div className="mt-3 text-xs text-stone-300">
@@ -172,8 +172,8 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">グランドメルキュール琵琶湖リゾート＆スパ</h4>
-                      <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition">グランドメルキュール琵琶湖リゾート＆スパ</h4>
+                      <p className="text-xs text-stone-400 mt-1 leading-relaxed">
                         4月リブランドオープン！全てのお客様が無料で利用できるラウンジ特典付のリゾート
                       </p>
                       <div className="mt-3 text-xs text-stone-300">
@@ -216,8 +216,8 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">グリーンホテルＹｅｓ長浜　みなと館</h4>
-                      <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition">グリーンホテルＹｅｓ長浜　みなと館</h4>
+                      <p className="text-xs text-stone-400 mt-1 leading-relaxed">
                         和をモチーフにした落ち着いた雰囲気と、炭酸カルシウム温泉で心と体の疲れを癒して下さい
                       </p>
                       <div className="mt-3 text-xs text-stone-300">
@@ -260,8 +260,8 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">ベッセルイン滋賀守山駅前（守山・栗東・草津）</h4>
-                      <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition">ベッセルイン滋賀守山駅前（守山・栗東・草津）</h4>
+                      <p className="text-xs text-stone-400 mt-1 leading-relaxed">
                         JR守山駅から徒歩1分でアクセス抜群◆ビジネスや観光の拠点に最適◆全室Ｗｉ－Ｆｉ無料！
                       </p>
                       <div className="mt-3 text-xs text-stone-300">
@@ -346,8 +346,8 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">びわ湖畔　おいしい湯の宿　長浜太閤温泉　浜湖月</h4>
-                      <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition">びわ湖畔　おいしい湯の宿　長浜太閤温泉　浜湖月</h4>
+                      <p className="text-xs text-stone-400 mt-1 leading-relaxed">
                         琵琶湖を眺め、新鮮な湖国の幸を活かした料理自慢
                       </p>
                       <div className="mt-3 text-xs text-stone-300">
@@ -390,8 +390,8 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">レジーナリゾートびわ湖長浜</h4>
-                      <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition">レジーナリゾートびわ湖長浜</h4>
+                      <p className="text-xs text-stone-400 mt-1 leading-relaxed">
                         ～愛犬とともに琵琶湖を望む温宿でくつろぎの時間を～
                       </p>
                       <div className="mt-3 text-xs text-stone-300">
@@ -434,8 +434,8 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">旅館　紅鮎</h4>
-                      <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition">旅館　紅鮎</h4>
+                      <p className="text-xs text-stone-400 mt-1 leading-relaxed">
                         「いらっしゃいませ」と申し上げるより、「おかえりなさいませ」と迎えてさしあげたい。
                       </p>
                       <div className="mt-3 text-xs text-stone-300">
@@ -478,8 +478,8 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">尾上　旅館　うをよし</h4>
-                      <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition">尾上　旅館　うをよし</h4>
+                      <p className="text-xs text-stone-400 mt-1 leading-relaxed">
                         目の前に広がる北琵琶湖、竹生島、神秘的な景色は旅人の期待を決して裏切りません。
                       </p>
                       <div className="mt-3 text-xs text-stone-300">
@@ -564,8 +564,8 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">ＡＢホテル近江八幡</h4>
-                      <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition">ＡＢホテル近江八幡</h4>
+                      <p className="text-xs text-stone-400 mt-1 leading-relaxed">
                         近江八幡駅より徒歩２分！和洋バイキング無料朝食！男女別大浴場完備♪
                       </p>
                       <div className="mt-3 text-xs text-stone-300">
@@ -608,8 +608,8 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">グリーンホテルＹＥＳ近江八幡</h4>
-                      <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition">グリーンホテルＹＥＳ近江八幡</h4>
+                      <p className="text-xs text-stone-400 mt-1 leading-relaxed">
                         ★ウェルカムワイン実施中★赤・白ワインを選べます＜宿泊者限定＞
                       </p>
                       <div className="mt-3 text-xs text-stone-300">
@@ -652,8 +652,8 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">近江八幡ステーションホテル</h4>
-                      <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition">近江八幡ステーションホテル</h4>
+                      <p className="text-xs text-stone-400 mt-1 leading-relaxed">
                         ＪＲ近江八幡駅から徒歩１分。ビジネス・レジャーと用途に合わせて、お気軽にご利用下さい。
                       </p>
                       <div className="mt-3 text-xs text-stone-300">
@@ -696,8 +696,8 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">近江八幡　まちや倶楽部（旧名称：ＭＡＣＨＩＹＡ　ＩＮＮ近江八幡）</h4>
-                      <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition">近江八幡　まちや倶楽部（旧名称：ＭＡＣＨＩＹＡ　ＩＮＮ近江八幡）</h4>
+                      <p className="text-xs text-stone-400 mt-1 leading-relaxed">
                         近江八幡の工芸やアートに触れる、小さな町家ホテル。江戸時代からの空間で心休まるひとときをどうぞ
                       </p>
                       <div className="mt-3 text-xs text-stone-300">
@@ -825,19 +825,19 @@ export default function Page() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/winter-shiga-omihachiman-suigo-himure-shrine-hatsumode-omigyu-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「滋賀・近江八幡」 白壁土蔵佇む「近江八幡水郷めぐり」冬のこたつ舟！ 千年の古社「日牟禮八幡宮」新春初詣・極上近江牛＆名宿</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「滋賀・近江八幡」 白壁土蔵佇む「近江八幡水郷めぐり」冬のこたつ舟！ 千年の古社「日牟禮八幡宮」新春初詣・極上近江牛＆名宿</span>
             </a>
             <a href="/winter-shiga-yogo-lake-wakasagi-kamonabe-shizugatake-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「神秘の余呉湖ワカサギと本場天然真鴨鍋」2026-2027年冬の滋賀・湖北！賤ヶ岳雪景色と近江牛名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「神秘の余呉湖ワカサギと本場天然真鴨鍋」2026-2027年冬の滋賀・湖北！賤ヶ岳雪景色と近江牛名宿5選</span>
             </a>
             <a href="/furusato-tax-dog-friendly-dogrun-luxury-resort-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">愛犬とずっと一緒！天然芝ドッグラン＆愛犬同伴温泉リゾート名宿×ふるさと納税厳選ガイド伊豆高原・那須高原・びわ湖長浜</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">愛犬とずっと一緒！天然芝ドッグラン＆愛犬同伴温泉リゾート名宿×ふるさと納税厳選ガイド伊豆高原・那須高原・びわ湖長浜</span>
             </a>
             <a href="/furusato-tax-lake-biwa-metasequoia-autumn-leaves-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">黄金に輝く2.4kmの並木道！マキノ高原メタセコイア並木＆びわ湖おごと温泉名宿×ふるさと納税厳選ガイド滋賀</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">黄金に輝く2.4kmの並木道！マキノ高原メタセコイア並木＆びわ湖おごと温泉名宿×ふるさと納税厳選ガイド滋賀</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

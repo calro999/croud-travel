@@ -42,7 +42,7 @@ export default function KoyasanShukuboAutumnPage() {
             <span className="px-3 py-1 bg-stone-800 text-amber-300 text-xs font-medium rounded-full border border-amber-400/30">見頃目安: 10月下旬〜11月上旬</span>
           </div>
           <h1 className="text-2xl md:text-4xl lg:text-5xl font-extrabold text-white leading-tight mb-4 drop-shadow-md">「秋の高野山」壇上伽藍の蛇腹道紅葉トンネルと奥の院！心洗われるおすすめ歴史宿坊5選</h1>
-          <p className="text-stone-200 text-sm md:text-base max-w-3xl line-clamp-2 md:line-clamp-none">
+          <p className="text-stone-200 text-sm md:text-base max-w-3xl">
             弘法大師空海が開いた天空の宗教都市・高野山。平地より一足早く山全体が鮮やかな錦秋に染まり、壇上伽藍へ続く「蛇腹道」は紅葉のアーチで包まれます。名刹の宿坊でいただく旬の精進料理と朝の勤行で、心澄みわたる特別な時間をお過ごしください。
           </p>
         </div>
@@ -98,7 +98,7 @@ export default function KoyasanShukuboAutumnPage() {
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 極楽橋・高野山駅 / 高野山駅より大門行バス乗車、金剛峯寺前又は大塔口下車徒歩３分～７分
                   </p>
-                  <p className="text-sm text-stone-600 mb-4 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-stone-600 mb-4 leading-relaxed">
                     高野山の原風景を残す地区、本中院谷に位置し、日本三不動のひとつ赤不動の寺としても御参詣頂いています。
                   </p>
                 </div>
@@ -143,7 +143,7 @@ export default function KoyasanShukuboAutumnPage() {
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 極楽橋・高野山駅 / 南海電鉄高野山駅下車、南海りんかんバスで１５分（蓮花谷下車徒歩３分）
                   </p>
-                  <p className="text-sm text-stone-600 mb-4 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-stone-600 mb-4 leading-relaxed">
                     出来たての精進料理が自慢の心安らぐ静寂の宿坊。皆様のご来山をお待ち申し上げております。
                   </p>
                 </div>
@@ -188,7 +188,7 @@ export default function KoyasanShukuboAutumnPage() {
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 極楽橋駅 / 南海電鉄　高野山駅より車で５分
                   </p>
-                  <p className="text-sm text-stone-600 mb-4 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-stone-600 mb-4 leading-relaxed">
                     「静寂の中にやすらぎあり・・」　落ち着いた客室でゆったりとした時間をお過ごし頂けます。
                   </p>
                 </div>
@@ -233,7 +233,7 @@ export default function KoyasanShukuboAutumnPage() {
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 極楽橋駅 / 南海『難波駅』より南海電鉄高野線で『高野山駅』より南海バス10分
                   </p>
-                  <p className="text-sm text-stone-600 mb-4 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-stone-600 mb-4 leading-relaxed">
                     霊峰高野山。静かな宿坊でのひとときが心を癒します。
                   </p>
                 </div>
@@ -278,7 +278,7 @@ export default function KoyasanShukuboAutumnPage() {
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 極楽橋駅 / 南海電車林間高野線『極楽橋駅』
                   </p>
-                  <p className="text-sm text-stone-600 mb-4 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-stone-600 mb-4 leading-relaxed">
                     ９００年の歴史があり武田家、京極家等とゆかりの深いお寺です。庭園に囲まれた落ち着ける宿坊です。
                   </p>
                 </div>

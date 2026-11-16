@@ -267,7 +267,7 @@ export default function KanazawaBudgetGuide() {
                 <div className="p-5">
                   <h3 className="font-bold text-lg text-emerald-900 mb-2">{hotel.hotelName}</h3>
                   <p className="text-xs text-gray-500 mb-3">{hotel.address}</p>
-                  <p className="text-sm text-gray-700 line-clamp-2 mb-4">{hotel.description}</p>
+                  <p className="text-sm text-gray-700 mb-4">{hotel.description}</p>
                   <div className="flex justify-end">
                     <span className="inline-block bg-amber-500 text-white text-xs font-bold px-4 py-2 rounded-full">
                       楽天トラベルで見る

@@ -362,19 +362,19 @@ export default function FeatureArticlePage() {
             <ul className="space-y-4 text-xs md:text-sm">
               <li>
                 <a href={HOTEL_DATA.takachiho_shinsen.url} target="_blank" rel="sponsored noopener noreferrer" className="block p-3 rounded-xl hover:bg-stone-50 transition border border-stone-100 hover:border-amber-200">
-                  <div className="font-bold text-stone-800 line-clamp-1">{HOTEL_DATA.takachiho_shinsen.name}</div>
+                  <div className="font-bold text-stone-800">{HOTEL_DATA.takachiho_shinsen.name}</div>
                   <div className="text-stone-500 text-xs mt-1">★ {HOTEL_DATA.takachiho_shinsen.rating} | 楽天トラベルで詳細確認</div>
                 </a>
               </li>
               <li>
                 <a href={HOTEL_DATA.takachiho_yamatoya.url} target="_blank" rel="sponsored noopener noreferrer" className="block p-3 rounded-xl hover:bg-stone-50 transition border border-stone-100 hover:border-amber-200">
-                  <div className="font-bold text-stone-800 line-clamp-1">{HOTEL_DATA.takachiho_yamatoya.name}</div>
+                  <div className="font-bold text-stone-800">{HOTEL_DATA.takachiho_yamatoya.name}</div>
                   <div className="text-stone-500 text-xs mt-1">★ {HOTEL_DATA.takachiho_yamatoya.rating} | 楽天トラベルで詳細確認</div>
                 </a>
               </li>
               <li>
                 <a href={HOTEL_DATA.takachiho_imakuni.url} target="_blank" rel="sponsored noopener noreferrer" className="block p-3 rounded-xl hover:bg-stone-50 transition border border-stone-100 hover:border-amber-200">
-                  <div className="font-bold text-stone-800 line-clamp-1">{HOTEL_DATA.takachiho_imakuni.name}</div>
+                  <div className="font-bold text-stone-800">{HOTEL_DATA.takachiho_imakuni.name}</div>
                   <div className="text-stone-500 text-xs mt-1">★ {HOTEL_DATA.takachiho_imakuni.rating} | 楽天トラベルで詳細確認</div>
                 </a>
               </li>
@@ -491,19 +491,19 @@ export default function FeatureArticlePage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/miyazaki-nichinan-obi-castle-aoshima-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「宮崎・日南海岸＆飫肥城下町・青島」鬼の洗濯板・モアイ像＆飫肥武家屋敷宿 厳選ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「宮崎・日南海岸＆飫肥城下町・青島」鬼の洗濯板・モアイ像＆飫肥武家屋敷宿 厳選ガイド</span>
             </a>
             <a href="/miyazaki-takachiho-gorge-myth-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「宮崎・高千穂峡」真名井の滝・高千穂神楽＆天安河原・宮崎牛極上宿 厳選ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「宮崎・高千穂峡」真名井の滝・高千穂神楽＆天安河原・宮崎牛極上宿 厳選ガイド</span>
             </a>
             <a href="/winter-miyazaki-aoshima-onsen-miyazakigyu-iseebi-resort-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">南国温暖避寒と鬼の洗濯板絶景 最高峰宮崎牛・伊勢海老＆美肌炭酸泉リゾートの宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">南国温暖避寒と鬼の洗濯板絶景 最高峰宮崎牛・伊勢海老＆美肌炭酸泉リゾートの宿5選</span>
             </a>
             <a href="/winter-miyazaki-miyakonojo-kobayashi-kirishima-wagyu-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">宮崎・都城＆小林・えびの 白銀の霧島連山と神話の「狭野神社・霧島東神社」初詣 日本一の肉のまち「都城産宮崎牛」＆美肌温泉宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">宮崎・都城＆小林・えびの 白銀の霧島連山と神話の「狭野神社・霧島東神社」初詣 日本一の肉のまち「都城産宮崎牛」＆美肌温泉宿5選</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

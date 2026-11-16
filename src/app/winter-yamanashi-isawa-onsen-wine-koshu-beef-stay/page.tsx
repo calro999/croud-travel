@@ -621,7 +621,7 @@ export default function IsawaWinterPage() {
               className="bg-white p-4 rounded-2xl border border-stone-200/80 hover:border-purple-700 hover:shadow-md transition group block"
             >
               <span className="text-[10px] font-extrabold text-purple-800 uppercase block mb-1">富士見名湯</span>
-              <h3 className="text-sm font-bold text-stone-900 group-hover:text-purple-800 transition line-clamp-2">【箱根芦ノ湖】冬晴れの雪化粧富士を望む絶景露天風呂＆極上リゾート宿</h3>
+              <h3 className="text-sm font-bold text-stone-900 group-hover:text-purple-800 transition">【箱根芦ノ湖】冬晴れの雪化粧富士を望む絶景露天風呂＆極上リゾート宿</h3>
             </Link>
 
             <Link 
@@ -629,7 +629,7 @@ export default function IsawaWinterPage() {
               className="bg-white p-4 rounded-2xl border border-stone-200/80 hover:border-purple-700 hover:shadow-md transition group block"
             >
               <span className="text-[10px] font-extrabold text-purple-800 uppercase block mb-1">山梨の富士絶景</span>
-              <h3 className="text-sm font-bold text-stone-900 group-hover:text-purple-800 transition line-clamp-2">【河口湖】もみじ回廊ライトアップと逆さ富士を望む湖畔の温泉旅館</h3>
+              <h3 className="text-sm font-bold text-stone-900 group-hover:text-purple-800 transition">【河口湖】もみじ回廊ライトアップと逆さ富士を望む湖畔の温泉旅館</h3>
             </Link>
 
             <Link 
@@ -637,7 +637,7 @@ export default function IsawaWinterPage() {
               className="bg-white p-4 rounded-2xl border border-stone-200/80 hover:border-purple-700 hover:shadow-md transition group block"
             >
               <span className="text-[10px] font-extrabold text-purple-800 uppercase block mb-1">信州の星空名湯</span>
-              <h3 className="text-sm font-bold text-stone-900 group-hover:text-purple-800 transition line-clamp-2">【阿智村・昼神温泉】日本一の星空ナイトツアーと極上美肌湯・南信州冬味覚</h3>
+              <h3 className="text-sm font-bold text-stone-900 group-hover:text-purple-800 transition">【阿智村・昼神温泉】日本一の星空ナイトツアーと極上美肌湯・南信州冬味覚</h3>
             </Link>
 
             <Link 
@@ -645,7 +645,7 @@ export default function IsawaWinterPage() {
               className="bg-white p-4 rounded-2xl border border-stone-200/80 hover:border-purple-700 hover:shadow-md transition group block"
             >
               <span className="text-[10px] font-extrabold text-purple-800 uppercase block mb-1">伊豆の小京都</span>
-              <h3 className="text-sm font-bold text-stone-900 group-hover:text-purple-800 transition line-clamp-2">【修善寺温泉】遅咲き紅葉と竹林の小径・伊豆牛会席と名湯宿</h3>
+              <h3 className="text-sm font-bold text-stone-900 group-hover:text-purple-800 transition">【修善寺温泉】遅咲き紅葉と竹林の小径・伊豆牛会席と名湯宿</h3>
             </Link>
 
             <Link 
@@ -653,7 +653,7 @@ export default function IsawaWinterPage() {
               className="bg-white p-4 rounded-2xl border border-stone-200/80 hover:border-purple-700 hover:shadow-md transition group block"
             >
               <span className="text-[10px] font-extrabold text-purple-800 uppercase block mb-1">上州の名湯</span>
-              <h3 className="text-sm font-bold text-stone-900 group-hover:text-purple-800 transition line-clamp-2">【伊香保温泉】365段の石段街と黄金の湯・上州牛会席を味わう名旅館</h3>
+              <h3 className="text-sm font-bold text-stone-900 group-hover:text-purple-800 transition">【伊香保温泉】365段の石段街と黄金の湯・上州牛会席を味わう名旅館</h3>
             </Link>
 
             <Link 
@@ -661,7 +661,7 @@ export default function IsawaWinterPage() {
               className="bg-white p-4 rounded-2xl border border-stone-200/80 hover:border-purple-700 hover:shadow-md transition group block"
             >
               <span className="text-[10px] font-extrabold text-purple-800 uppercase block mb-1">東海の三名泉</span>
-              <h3 className="text-sm font-bold text-stone-900 group-hover:text-purple-800 transition line-clamp-2">【下呂温泉】冬花火ミュージカルと日本三名泉の美肌湯・飛騨牛会席</h3>
+              <h3 className="text-sm font-bold text-stone-900 group-hover:text-purple-800 transition">【下呂温泉】冬花火ミュージカルと日本三名泉の美肌湯・飛騨牛会席</h3>
             </Link>
           
       <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">

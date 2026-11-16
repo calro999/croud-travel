@@ -389,19 +389,19 @@ export default function FeaturePage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/saga-ureshino-solo-retreat-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「嬉野温泉ひとり旅・美肌名湯おこもり」日本三大美肌の湯・嬉野茶・温泉湯豆腐！とろとろの重曹泉に包まれる贅沢ソロリトリート厳選3宿</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「嬉野温泉ひとり旅・美肌名湯おこもり」日本三大美肌の湯・嬉野茶・温泉湯豆腐！とろとろの重曹泉に包まれる贅沢ソロリトリート厳選3宿</span>
             </a>
             <a href="/traditional-craft-pottery-artisan-village-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「手仕事の器と窯元のぬくもり（益子・有田・波佐見・信楽など陶芸体験ができる名湯宿5選）」手仕事の器と窯元のぬくもり！益子・有田・波佐見・信楽など陶芸体験ができる名湯宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「手仕事の器と窯元のぬくもり（益子・有田・波佐見・信楽など陶芸体験ができる名湯宿5選）」手仕事の器と窯元のぬくもり！益子・有田・波佐見・信楽など陶芸体験ができる名湯宿5選</span>
             </a>
             <a href="/traditional-nagasaki-hasami-yaki-porcelain-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「波佐見焼のモダン器美学」お洒落なうつわで味わう長崎創作フレンチ＆嬉野・雲仙温泉宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「波佐見焼のモダン器美学」お洒落なうつわで味わう長崎創作フレンチ＆嬉野・雲仙温泉宿5選</span>
             </a>
             <a href="/winter-saga-imari-arita-ookawachiyama-imarigyu-pottery-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「秘窯の里大川内山と最高峰伊万里牛」2026-2027年冬の佐賀・伊万里＆有田！名窯巡りと美食名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「秘窯の里大川内山と最高峰伊万里牛」2026-2027年冬の佐賀・伊万里＆有田！名窯巡りと美食名宿5選</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

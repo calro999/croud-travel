@@ -401,7 +401,7 @@ export default function OkinawaLuxuryAnniversaryResortGuidePage() {
               <span>✈️</span> 旅費・予算シミュレーション
             </div>
             <h3 className="font-bold text-slate-900 text-sm md:text-base group-hover:text-violet-700 transition">【沖縄旅行 費用】2泊3日・3泊4日でいくら？航空券・ホテル・レンタカーの全予算</h3>
-            <p className="text-xs text-slate-500 mt-2 line-clamp-2">
+            <p className="text-xs text-slate-500 mt-2">
               シーズン別の航空券相場から、リゾートホテル宿泊費、アクティビティ代までリアルな費用内訳を大公開。
             </p>
           </Link>
@@ -414,7 +414,7 @@ export default function OkinawaLuxuryAnniversaryResortGuidePage() {
               <span>📅</span> 泊数＆スケジュール設計
             </div>
             <h3 className="font-bold text-slate-900 text-sm md:text-base group-hover:text-violet-700 transition">【沖縄旅行 何泊がベスト？】2泊3日〜4泊5日のモデルコースと費用総額まとめ</h3>
-            <p className="text-xs text-slate-500 mt-2 line-clamp-2">
+            <p className="text-xs text-slate-500 mt-2">
               宮古島・離島巡りやのんびりヴィラ滞在に最適な宿泊数と、失敗しない旅程の組み立て方を徹底アドバイス。
             </p>
           </Link>

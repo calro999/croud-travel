@@ -367,19 +367,19 @@ export default function ArticlePage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/winter-gunma-kusatsu-yukimi-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【12月初雪の湯畑ライトアップ】名湯草津の雪見露天風呂と湯もみ体験！源泉かけ流し宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">【12月初雪の湯畑ライトアップ】名湯草津の雪見露天風呂と湯もみ体験！源泉かけ流し宿5選</span>
             </a>
             <a href="/autumn-budget-gunma-takasaki-haruna-momiji-pasta-hotels-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">高崎：榛名湖・妙義山紅葉ドライブ拠点＆高崎パスタ！3,000円台〜格安ホテル5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">高崎：榛名湖・妙義山紅葉ドライブ拠点＆高崎パスタ！3,000円台〜格安ホテル5選</span>
             </a>
             <a href="/furusato-tax-three-gorge-open-air-baths-retreat-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">日本三大渓谷露天風呂＆大自然パノラマ野天温泉宿×ふるさと納税厳選ガイド天城湯ヶ島・群馬尻焼・秋田秋の宮</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">日本三大渓谷露天風呂＆大自然パノラマ野天温泉宿×ふるさと納税厳選ガイド天城湯ヶ島・群馬尻焼・秋田秋の宮</span>
             </a>
             <a href="/gunma-manza-solo-retreat-milky-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">上信越高原・万座温泉ひとり旅・標高1800m雲上の白濁硫黄泉おこもり：日本一の硫黄含有量・星空露天風呂・上州牛会席！空に一番近い秘湯厳選3宿</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">上信越高原・万座温泉ひとり旅・標高1800m雲上の白濁硫黄泉おこもり：日本一の硫黄含有量・星空露天風呂・上州牛会席！空に一番近い秘湯厳選3宿</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

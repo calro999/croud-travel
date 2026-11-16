@@ -546,19 +546,19 @@ export default function FurusatoArticlePage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/winter-nara-yoshinoyama-kinpusenji-snow-temple-onsen-yamatotori-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「世界遺産金峯山寺蔵王堂の新春初詣と雪の吉野山」2026-2027年冬の吉野温泉！大和肉鶏と本葛鍋名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「世界遺産金峯山寺蔵王堂の新春初詣と雪の吉野山」2026-2027年冬の吉野温泉！大和肉鶏と本葛鍋名宿5選</span>
             </a>
             <a href="/winter-tokushima-mima-udatsu-kirihataji-hatsumode-awaodori-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「藍商人の白壁美・うだつの町並みと四国霊場切幡寺初詣」2026-2027年冬の徳島・美馬＆吉野川！阿波尾鶏地鶏鍋と清流温泉名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「藍商人の白壁美・うだつの町並みと四国霊場切幡寺初詣」2026-2027年冬の徳島・美馬＆吉野川！阿波尾鶏地鶏鍋と清流温泉名宿5選</span>
             </a>
             <a href="/ehime-matsuyama-dogo-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「愛媛・道後温泉」本館・飛鳥乃湯泉＆坊っちゃん文学・鯛めし極上宿 厳選ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「愛媛・道後温泉」本館・飛鳥乃湯泉＆坊っちゃん文学・鯛めし極上宿 厳選ガイド</span>
             </a>
             <a href="/furusato-tax-kusatsu-onsen-yubatake-walk-luxury-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">天下の名湯・草津温泉の真髄を味わう！湯畑徒歩圏＆名物源泉掛け流し名門旅館×ふるさと納税極上旅ガイド櫻井・一井・奈良屋</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">天下の名湯・草津温泉の真髄を味わう！湯畑徒歩圏＆名物源泉掛け流し名門旅館×ふるさと納税極上旅ガイド櫻井・一井・奈良屋</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

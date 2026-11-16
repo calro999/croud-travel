@@ -510,19 +510,19 @@ export default function FurusatoNikkoChuzenjiAutumnFoliageStayPage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/winter-tochigi-okunikko-yumoto-snow-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12月奥日光の白銀世界と濃厚にごり湯】 日本屈指のエメラルド硫黄泉と日光湯波会席宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">【11・12月奥日光の白銀世界と濃厚にごり湯】 日本屈指のエメラルド硫黄泉と日光湯波会席宿5選</span>
             </a>
             <a href="/winter-tochigi-yunishigawa-onsen-kamakura-irori-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「栃木・湯西川温泉」平家落人の隠れ里・雪見露天風呂と名物平家囲炉裏会席＆日本夜景遺産かまくら祭を巡る名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「栃木・湯西川温泉」平家落人の隠れ里・雪見露天風呂と名物平家囲炉裏会席＆日本夜景遺産かまくら祭を巡る名宿5選</span>
             </a>
             <a href="/autumn-budget-tochigi-utsunomiya-station-gyoza-oya-hotels-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「宇都宮駅前」日光紅葉前泊＆名物宇都宮餃子！2,000円台〜泊まれる格安・高コスパ宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「宇都宮駅前」日光紅葉前泊＆名物宇都宮餃子！2,000円台〜泊まれる格安・高コスパ宿5選</span>
             </a>
             <a href="/dog-friendly-private-onsen-bath-resort-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「愛犬専用温泉付き客室＆露天風呂宿」伊豆・那須・箱根・関西 厳選ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「愛犬専用温泉付き客室＆露天風呂宿」伊豆・那須・箱根・関西 厳選ガイド</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

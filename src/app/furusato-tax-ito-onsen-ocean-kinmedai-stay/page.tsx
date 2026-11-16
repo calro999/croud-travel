@@ -546,19 +546,19 @@ export default function FurusatoArticlePage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/shizuoka-shimoda-solo-retreat-ocean-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「南伊豆・下田温泉ひとり旅・ペリー黒船と白砂ビーチおこもり」自家源泉掛け流し・下田金目鯛づくし・海一望露天風呂！特急サフィール直通の港町厳選3宿</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「南伊豆・下田温泉ひとり旅・ペリー黒船と白砂ビーチおこもり」自家源泉掛け流し・下田金目鯛づくし・海一望露天風呂！特急サフィール直通の港町厳選3宿</span>
             </a>
             <a href="/shizuoka-solo-business-maguro-fujiview-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「静岡出張＆富士山ひとり旅」新幹線直結・清水港まぐろ・静岡茶ラウンジ！名峰の絶景に癒やされる極上ホテル 厳選3選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「静岡出張＆富士山ひとり旅」新幹線直結・清水港まぐろ・静岡茶ラウンジ！名峰の絶景に癒やされる極上ホテル 厳選3選</span>
             </a>
             <a href="/shizuoka-sumatakyo-okuoi-lake-bridge-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「静岡・寸又峡＆奥大井湖上駅」死ぬまでに渡りたい夢の吊橋・アプト式鉄道宿 厳選ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「静岡・寸又峡＆奥大井湖上駅」死ぬまでに渡りたい夢の吊橋・アプト式鉄道宿 厳選ガイド</span>
             </a>
             <a href="/traditional-shizuoka-unagi-kabayaki-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「香ばしい秘伝のタレとふっくら極上肉厚（浜名湖うなぎ尽くし会席＆舘山寺名湯宿5選）」香ばしい秘伝のタレとふっくら極上肉厚！浜名湖うなぎ尽くし会席＆舘山寺名湯宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「香ばしい秘伝のタレとふっくら極上肉厚（浜名湖うなぎ尽くし会席＆舘山寺名湯宿5選）」香ばしい秘伝のタレとふっくら極上肉厚！浜名湖うなぎ尽くし会席＆舘山寺名湯宿5選</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

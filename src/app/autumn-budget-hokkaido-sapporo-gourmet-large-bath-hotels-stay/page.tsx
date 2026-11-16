@@ -42,7 +42,7 @@ export default function SapporoBudgetAutumnPage() {
             <span className="px-3 py-1 bg-stone-800 text-amber-300 text-xs font-medium rounded-full border border-amber-400/30">1泊目安: 3,000円台〜5,000円台</span>
           </div>
           <h1 className="text-2xl md:text-4xl lg:text-5xl font-extrabold text-white leading-tight mb-4 drop-shadow-md">「秋の札幌×格安」紅葉散策とすすきのグルメ！大浴場付き1泊3,000円台〜のコスパ最強おすすめホテル5選</h1>
-          <p className="text-stone-200 text-sm md:text-base max-w-3xl line-clamp-2 md:line-clamp-none">
+          <p className="text-stone-200 text-sm md:text-base max-w-3xl">
             黄金に輝く北海道大学のイチョウ並木と中島公園の水鏡紅葉。すすきのの絶品海鮮やラーメンを心ゆくまで堪能し、清潔な大浴場やサウナで足を伸ばして寛げる札幌の厳選コスパホテルをご紹介します。
           </p>
         </div>
@@ -98,7 +98,7 @@ export default function SapporoBudgetAutumnPage() {
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: すすきの駅 / 地下鉄南北線　すすきの駅から徒歩７分、中島公園駅から徒歩4分。地下鉄東豊線　豊水すすきの駅から徒歩７分。
                   </p>
-                  <p className="text-sm text-stone-600 mb-4 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-stone-600 mb-4 leading-relaxed">
                     すすきの繁華街からすぐ。全室シモンズベッドで快眠×大浴場（男女入替）完備！抗菌・抗ウイルス対応で安心
                   </p>
                 </div>
@@ -143,7 +143,7 @@ export default function SapporoBudgetAutumnPage() {
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 札幌駅 / JR札幌駅西改札より徒歩約4分　　
                   </p>
-                  <p className="text-sm text-stone-600 mb-4 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-stone-600 mb-4 leading-relaxed">
                     【２０２６年２月リニューアルオープン】ＪＲ札幌駅南口徒歩約４分！宿泊者専用大浴場やラウンジが好評。
                   </p>
                 </div>
@@ -188,7 +188,7 @@ export default function SapporoBudgetAutumnPage() {
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 札幌駅 / 【新千歳空港からホテルまで約44分】JR「札幌」駅西口より徒歩約4分★詳しくはアクセスページをご覧ください。
                   </p>
-                  <p className="text-sm text-stone-600 mb-4 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-stone-600 mb-4 leading-relaxed">
                     JR「札幌」駅より徒歩約4分！全客室にReFa製シャワーヘッド・ドライヤーを新しく導入しました！
                   </p>
                 </div>
@@ -233,7 +233,7 @@ export default function SapporoBudgetAutumnPage() {
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 札幌駅 / 地下鉄大通駅②より徒歩1分(南大通)・新千歳空港連絡バス停留所は正面にあり(停留所：ホテルリソルトリニティ札幌前)
                   </p>
-                  <p className="text-sm text-stone-600 mb-4 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-stone-600 mb-4 leading-relaxed">
                     市内中心部、大通公園に位置した出張・観光にも便利なアクセス。人気の大浴場もございます。
                   </p>
                 </div>
@@ -278,7 +278,7 @@ export default function SapporoBudgetAutumnPage() {
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: すすきの駅 / すすきの駅より徒歩にて約４分
                   </p>
-                  <p className="text-sm text-stone-600 mb-4 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-stone-600 mb-4 leading-relaxed">
                     旅の疲れを癒してくれるサウナ付き大浴場完備。すすきの駅から徒歩４分の好立地
                   </p>
                 </div>

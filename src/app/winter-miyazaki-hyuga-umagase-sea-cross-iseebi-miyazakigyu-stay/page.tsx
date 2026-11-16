@@ -589,7 +589,7 @@ export default function MiyazakiHyugaWinterPage() {
               <div className="font-bold text-slate-900 group-hover:text-amber-600 transition mb-2">
                 青島神社新春初詣と鬼の洗濯板・太平洋初日の出と宮崎牛温泉リゾート
               </div>
-              <p className="text-xs text-slate-500 line-clamp-2">
+              <p className="text-xs text-slate-500">
                 宮崎南部を代表する神話の聖地・青島。縁結び初詣と海を望む青島温泉、宮崎牛の贅沢ステーキを味わう特集。
               </p>
             </Link>
@@ -602,7 +602,7 @@ export default function MiyazakiHyugaWinterPage() {
               <div className="font-bold text-slate-900 group-hover:text-amber-600 transition mb-2">
                 高千穂峡の冬静寂と夜神楽33番・天安河原初詣＆高千穂牛会席
               </div>
-              <p className="text-xs text-slate-500 line-clamp-2">
+              <p className="text-xs text-slate-500">
                 延岡から神話街道を登る神々の郷・高千穂。冬の夜を徹して奉納される夜神楽と霊験あらたかな神社巡り。
               </p>
             </Link>
@@ -615,7 +615,7 @@ export default function MiyazakiHyugaWinterPage() {
               <div className="font-bold text-slate-900 group-hover:text-amber-600 transition mb-2">
                 八幡総本社「宇佐神宮」新春初詣と昭和の町・豊後牛＆冬の豊後水道
               </div>
-              <p className="text-xs text-slate-500 line-clamp-2">
+              <p className="text-xs text-slate-500">
                 日豊海岸をさらに北上する東九州の古社紀行。全国4万社の八幡宮総本社初詣と豊後水道の冬魚を満喫。
               </p>
             </Link>

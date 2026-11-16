@@ -478,19 +478,19 @@ export default function FurusatoFragrantHinokiBathStayPage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/okinawa-travel-budget-plan/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「沖縄旅行の予算」 最安旅 vs リゾート贅沢旅の振れ幅がすごい！</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「沖縄旅行の予算」 最安旅 vs リゾート贅沢旅の振れ幅がすごい！</span>
             </a>
             <a href="/shimane-tamatsukuri-solo-retreat-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「出雲・玉造温泉ひとり旅・美肌神湯おこもり」日本最古の美肌温泉・玉湯川足湯・しまね和牛会席！出雲大社参拝と縁結びの温泉郷厳選3宿</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「出雲・玉造温泉ひとり旅・美肌神湯おこもり」日本最古の美肌温泉・玉湯川足湯・しまね和牛会席！出雲大社参拝と縁結びの温泉郷厳選3宿</span>
             </a>
             <a href="/traditional-okinawa-agu-pork-shabu-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「旨味と甘み極まる幻の島豚（あぐー豚しゃぶしゃぶ＆美ら海・古宇利島リゾート5選）」旨味と甘み極まる幻の島豚！あぐー豚しゃぶしゃぶ＆美ら海・古宇利島リゾート5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「旨味と甘み極まる幻の島豚（あぐー豚しゃぶしゃぶ＆美ら海・古宇利島リゾート5選）」旨味と甘み極まる幻の島豚！あぐー豚しゃぶしゃぶ＆美ら海・古宇利島リゾート5選</span>
             </a>
             <a href="/traditional-okinawa-ishigaki-beef-yaeyama-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「A5石垣牛ステーキ＆八重山そば」南国石垣島の島素材美食と美ら海リゾート宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「A5石垣牛ステーキ＆八重山そば」南国石垣島の島素材美食と美ら海リゾート宿5選</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

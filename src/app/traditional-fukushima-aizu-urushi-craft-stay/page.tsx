@@ -389,19 +389,19 @@ export default function FeaturePage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/furusato-tax-seasonal-fruit-picking-vineyard-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">果樹園の旬フルーツ狩り＆名門ワイナリー・美肌温泉宿×ふるさと納税厳選ガイド石和・伊豆長岡・飯坂</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">果樹園の旬フルーツ狩り＆名門ワイナリー・美肌温泉宿×ふるさと納税厳選ガイド石和・伊豆長岡・飯坂</span>
             </a>
             <a href="/furusato-tax-urabandai-goshikinuma-autumn-leaves-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">裏磐梯五色沼の神秘の湖沼群紅葉＆磐梯山ゴールドライン！高原リゾート温泉×ふるさと納税厳選ガイド福島</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">裏磐梯五色沼の神秘の湖沼群紅葉＆磐梯山ゴールドライン！高原リゾート温泉×ふるさと納税厳選ガイド福島</span>
             </a>
             <a href="/nagano-kiso-fukushima-nezamenotoko-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「長野・木曽福島＆寝覚の床・御嶽山」中山道関所宿場町・木曽そば＆五平餅宿 厳選ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「長野・木曽福島＆寝覚の床・御嶽山」中山道関所宿場町・木曽そば＆五平餅宿 厳選ガイド</span>
             </a>
             <a href="/traditional-craft-lacquerware-wajima-aizu-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「艶やかな漆の器と伝統の技（輪島塗・会津塗の手仕事美を愛でる名湯の宿5選）」艶やかな漆の器と伝統の技！輪島塗・会津塗の手仕事美を愛でる名湯の宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「艶やかな漆の器と伝統の技（輪島塗・会津塗の手仕事美を愛でる名湯の宿5選）」艶やかな漆の器と伝統の技！輪島塗・会津塗の手仕事美を愛でる名湯の宿5選</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

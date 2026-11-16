@@ -362,19 +362,19 @@ export default function FeatureArticlePage() {
             <ul className="space-y-4 text-xs md:text-sm">
               <li>
                 <a href={HOTEL_DATA.arashiyama_benkei.url} target="_blank" rel="sponsored noopener noreferrer" className="block p-3 rounded-xl hover:bg-stone-50 transition border border-stone-100 hover:border-amber-200">
-                  <div className="font-bold text-stone-800 line-clamp-1">{HOTEL_DATA.arashiyama_benkei.name}</div>
+                  <div className="font-bold text-stone-800">{HOTEL_DATA.arashiyama_benkei.name}</div>
                   <div className="text-stone-500 text-xs mt-1">★ {HOTEL_DATA.arashiyama_benkei.rating} | 楽天トラベルで詳細確認</div>
                 </a>
               </li>
               <li>
                 <a href={HOTEL_DATA.arashiyama_kadokura.url} target="_blank" rel="sponsored noopener noreferrer" className="block p-3 rounded-xl hover:bg-stone-50 transition border border-stone-100 hover:border-amber-200">
-                  <div className="font-bold text-stone-800 line-clamp-1">{HOTEL_DATA.arashiyama_kadokura.name}</div>
+                  <div className="font-bold text-stone-800">{HOTEL_DATA.arashiyama_kadokura.name}</div>
                   <div className="text-stone-500 text-xs mt-1">★ {HOTEL_DATA.arashiyama_kadokura.rating} | 楽天トラベルで詳細確認</div>
                 </a>
               </li>
               <li>
                 <a href={HOTEL_DATA.arashiyama_suiran.url} target="_blank" rel="sponsored noopener noreferrer" className="block p-3 rounded-xl hover:bg-stone-50 transition border border-stone-100 hover:border-amber-200">
-                  <div className="font-bold text-stone-800 line-clamp-1">{HOTEL_DATA.arashiyama_suiran.name}</div>
+                  <div className="font-bold text-stone-800">{HOTEL_DATA.arashiyama_suiran.name}</div>
                   <div className="text-stone-500 text-xs mt-1">★ {HOTEL_DATA.arashiyama_suiran.rating} | 楽天トラベルで詳細確認</div>
                 </a>
               </li>
@@ -491,19 +491,19 @@ export default function FeatureArticlePage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/kanazawa-vs-kyoto-comparison/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「金沢 vs 京都 どっちが面白い？」 食べ歩き・美術館・温泉・費用で古都対決</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「金沢 vs 京都 どっちが面白い？」 食べ歩き・美術館・温泉・費用で古都対決</span>
             </a>
             <a href="/kyoto-arashiyama-bamboo-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「京都・嵐山」竹林の小径・渡月橋＆嵯峨野おこもり宿 厳選ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「京都・嵐山」竹林の小径・渡月橋＆嵯峨野おこもり宿 厳選ガイド</span>
             </a>
             <a href="/kyoto-night-bus-early-morning-onsen-breakfast-guide/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「京都 夜行バス早朝到着の過ごし方」 朝6時から入れる銭湯・天然温泉＆京都名物「朝粥」厳選ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「京都 夜行バス早朝到着の過ごし方」 朝6時から入れる銭湯・天然温泉＆京都名物「朝粥」厳選ガイド</span>
             </a>
             <a href="/kyoto-solo-retreat-temple-modern-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「京都ひとり旅・静寂おこもり」朝のお勤め・枯山水庭園・祇園の隠れ家！大人が心洗われる極上和モダン宿 厳選3選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「京都ひとり旅・静寂おこもり」朝のお勤め・枯山水庭園・祇園の隠れ家！大人が心洗われる極上和モダン宿 厳選3選</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

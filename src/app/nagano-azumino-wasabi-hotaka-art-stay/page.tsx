@@ -128,8 +128,8 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">安曇野高原リゾート（旧：ＡＭＢＩＥＮＴ安曇野ホテル／ＡＭＢＩＥＮＴ安曇野コテージ）</h4>
-                      <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition">安曇野高原リゾート（旧：ＡＭＢＩＥＮＴ安曇野ホテル／ＡＭＢＩＥＮＴ安曇野コテージ）</h4>
+                      <p className="text-xs text-stone-400 mt-1 leading-relaxed">
                         北アルプスを望む癒しの温泉大浴場が自慢■ご夕食は信州安曇野ご当地グルメを楽しむ飲み放題付ビュッフェ！
                       </p>
                       <div className="mt-3 text-xs text-stone-300">
@@ -172,8 +172,8 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">温泉ホテル安曇野アートキャビン</h4>
-                      <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition">温泉ホテル安曇野アートキャビン</h4>
+                      <p className="text-xs text-stone-400 mt-1 leading-relaxed">
                         全室温泉付き｜好きなときに温泉に浸かれる10室の静かな宿
                       </p>
                       <div className="mt-3 text-xs text-stone-300">
@@ -216,8 +216,8 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">白馬みずばしょう温泉　ホテル　シェラリゾート白馬</h4>
-                      <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition">白馬みずばしょう温泉　ホテル　シェラリゾート白馬</h4>
+                      <p className="text-xs text-stone-400 mt-1 leading-relaxed">
                         温泉リゾートホテル、フレンチが人気！楽天トラベルアワード２０２５ゴールド／日本の宿ＴＯＰ４７受賞★
                       </p>
                       <div className="mt-3 text-xs text-stone-300">
@@ -260,8 +260,8 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">休暇村リトリート安曇野ホテル</h4>
-                      <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition">休暇村リトリート安曇野ホテル</h4>
+                      <p className="text-xs text-stone-400 mt-1 leading-relaxed">
                         穂高温泉郷に位置し、旬の食材を堪能できる隠れ家のようなホテル。信州観光の拠点としてご利用ください。
                       </p>
                       <div className="mt-3 text-xs text-stone-300">
@@ -346,8 +346,8 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">信州安曇野穂高温泉郷　旅館　山のたこ平</h4>
-                      <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition">信州安曇野穂高温泉郷　旅館　山のたこ平</h4>
+                      <p className="text-xs text-stone-400 mt-1 leading-relaxed">
                         信州安曇野を味わい尽くすお料理★エリア随一の広々とした温泉★松本上高地や白馬へのアクセス良好
                       </p>
                       <div className="mt-3 text-xs text-stone-300">
@@ -390,8 +390,8 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">穂高温泉郷　御宿　穂高城</h4>
-                      <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition">穂高温泉郷　御宿　穂高城</h4>
+                      <p className="text-xs text-stone-400 mt-1 leading-relaxed">
                         豪商が建てた豪壮な別荘=隠れ家です。その荘厳な佇まいと非日常の雰囲気を存分にお楽しみください。
                       </p>
                       <div className="mt-3 text-xs text-stone-300">
@@ -476,8 +476,8 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">信州安曇野穂高温泉郷　旅館　山のたこ平</h4>
-                      <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition">信州安曇野穂高温泉郷　旅館　山のたこ平</h4>
+                      <p className="text-xs text-stone-400 mt-1 leading-relaxed">
                         信州安曇野を味わい尽くすお料理★エリア随一の広々とした温泉★松本上高地や白馬へのアクセス良好
                       </p>
                       <div className="mt-3 text-xs text-stone-300">
@@ -520,8 +520,8 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">民芸旅館　深志荘</h4>
-                      <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition">民芸旅館　深志荘</h4>
+                      <p className="text-xs text-stone-400 mt-1 leading-relaxed">
                         城下町松本の小さな料理宿 　地粉を使った手打ち蕎麦と旬の味　真心込めたおもてなしを大切にしております
                       </p>
                       <div className="mt-3 text-xs text-stone-300">
@@ -564,8 +564,8 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">松本　浅間温泉　ホテル玉之湯</h4>
-                      <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition">松本　浅間温泉　ホテル玉之湯</h4>
+                      <p className="text-xs text-stone-400 mt-1 leading-relaxed">
                         「心と体を元気に」バリアフリーの宿  個室で愉しむ郷土の味＜3つの無料貸切露天風呂＞
                       </p>
                       <div className="mt-3 text-xs text-stone-300">
@@ -608,8 +608,8 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">大町温泉郷　黒部観光ホテル（ＢＢＨホテルグループ）</h4>
-                      <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition">大町温泉郷　黒部観光ホテル（ＢＢＨホテルグループ）</h4>
+                      <p className="text-xs text-stone-400 mt-1 leading-relaxed">
                         アルペンルート・安曇野エリアの観光拠点に最適温泉郷一広い大浴場が自慢の宿
                       </p>
                       <div className="mt-3 text-xs text-stone-300">
@@ -737,19 +737,19 @@ export default function Page() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/nagano-hirugami-solo-retreat-starry-sky-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「昼神温泉ひとり旅・日本一の星空おこもり」pH9.7超とろとろ美肌の湯・阿智村ナイトツアー・信州郷土会席！南信州の星降る里厳選3宿</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「昼神温泉ひとり旅・日本一の星空おこもり」pH9.7超とろとろ美肌の湯・阿智村ナイトツアー・信州郷土会席！南信州の星降る里厳選3宿</span>
             </a>
             <a href="/nagano-kamisuwa-solo-retreat-lakeview-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「信州・上諏訪温泉ひとり旅・諏訪湖パノラマおこもり」自家源泉掛け流し・諏訪大社四社巡り・信州サーモン＆地酒呑み歩き！特急あずさ直通の湖畔厳選3宿</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「信州・上諏訪温泉ひとり旅・諏訪湖パノラマおこもり」自家源泉掛け流し・諏訪大社四社巡り・信州サーモン＆地酒呑み歩き！特急あずさ直通の湖畔厳選3宿</span>
             </a>
             <a href="/nagano-matsumoto-asama-utsukushigahara-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「長野・松本＆浅間温泉・美ヶ原」国宝松本城・クラフトの街＆信州そば・雲海宿 厳選ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「長野・松本＆浅間温泉・美ヶ原」国宝松本城・クラフトの街＆信州そば・雲海宿 厳選ガイド</span>
             </a>
             <a href="/nagano-shibu-onsen-retro-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「長野・信州渋温泉」九湯めぐり＆金具屋・スノーモンキー極上宿 厳選ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「長野・信州渋温泉」九湯めぐり＆金具屋・スノーモンキー極上宿 厳選ガイド</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

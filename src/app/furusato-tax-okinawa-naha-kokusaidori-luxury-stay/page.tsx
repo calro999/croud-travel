@@ -546,19 +546,19 @@ export default function FurusatoArticlePage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/winter-warm-island-escape/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「冬の避寒リゾート」寒さ知らず！沖縄・奄美大島ぽかぽか旅 厳選ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「冬の避寒リゾート」寒さ知らず！沖縄・奄美大島ぽかぽか旅 厳選ガイド</span>
             </a>
             <a href="/autumn-budget-okinawa-naha-kokusaidori-yatai-orion-hotels-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「那覇国際通り」秋の夜風と屋台村ビールへ！2,000円台〜泊まれる格安・高コスパ宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「那覇国際通り」秋の夜風と屋台村ビールへ！2,000円台〜泊まれる格安・高コスパ宿5選</span>
             </a>
             <a href="/furusato-tax-aquarium-family-ocean-resort-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">水族館直結＆イルカ・シャチの感動体験！ファミリー大満足オーシャンリゾートホテル×ふるさと納税厳選ガイド鴨川・鳥羽・沖縄美ら海</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">水族館直結＆イルカ・シャチの感動体験！ファミリー大満足オーシャンリゾートホテル×ふるさと納税厳選ガイド鴨川・鳥羽・沖縄美ら海</span>
             </a>
             <a href="/furusato-tax-miyakojima-allamanda-resort-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">東洋一の宮古ブルーとウミガメの楽園！宮古島の全室スイートリゾート＆プライベートプール付き極上ヴィラ×ふるさと納税完全攻略ガイド【2026年最新】アラマンダ・ヒルトン・シギラミラージ</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">東洋一の宮古ブルーとウミガメの楽園！宮古島の全室スイートリゾート＆プライベートプール付き極上ヴィラ×ふるさと納税完全攻略ガイド【2026年最新】アラマンダ・ヒルトン・シギラミラージ</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

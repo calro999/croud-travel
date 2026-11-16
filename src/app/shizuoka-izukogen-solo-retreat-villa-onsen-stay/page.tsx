@@ -370,19 +370,19 @@ export default function ArticlePage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/winter-shizuoka-kanzanji-onsen-hamanako-fugu-eel-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">初冬の浜名湖レイクビューと遠州灘天然とらふぐ 名物冬うなぎ＆湖畔パノラマ展望露天風呂の宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">初冬の浜名湖レイクビューと遠州灘天然とらふぐ 名物冬うなぎ＆湖畔パノラマ展望露天風呂の宿5選</span>
             </a>
             <a href="/winter-shizuoka-nishiizu-dogashima-onsen-sunset-fuji-takaashigani-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12月静岡・西伊豆堂ヶ島温泉】夕陽百選＆駿河湾越しの雪化粧富士 名物戸田高足ガニ＆伊勢海老・地金目鯛会席を堪能する絶景オーシャンビュー名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">【11・12月静岡・西伊豆堂ヶ島温泉】夕陽百選＆駿河湾越しの雪化粧富士 名物戸田高足ガニ＆伊勢海老・地金目鯛会席を堪能する絶景オーシャンビュー名宿5選</span>
             </a>
             <a href="/winter-shizuoka-shimoda-tsumekizaki-suisen-kinmedai-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【12・1月静岡】300万本が咲き誇る爪木崎水仙まつりと富士山絶景・下田港直送極上「一本釣り地金目鯛」を堪能する下田・南伊豆の名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">【12・1月静岡】300万本が咲き誇る爪木崎水仙まつりと富士山絶景・下田港直送極上「一本釣り地金目鯛」を堪能する下田・南伊豆の名宿5選</span>
             </a>
             <a href="/winter-shizuoka-umegashima-onsen-okushizu-surugashamo-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">（metadata.title as string）</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">（metadata.title as string）</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

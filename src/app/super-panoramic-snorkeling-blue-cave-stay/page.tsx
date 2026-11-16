@@ -380,19 +380,19 @@ export default function FeaturePage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/furusato-tax-resort-infinity-pool-luxury-hotel-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">海と空に溶け込む圧倒的開放感！絶景インフィニティプール＆ラグジュアリーリゾートホテル×ふるさと納税厳選ガイド熱海・沖縄恩納村・別府</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">海と空に溶け込む圧倒的開放感！絶景インフィニティプール＆ラグジュアリーリゾートホテル×ふるさと納税厳選ガイド熱海・沖縄恩納村・別府</span>
             </a>
             <a href="/japan-starry-sky-astrophotography-resort-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「満天の星空＆星空案内人の宿」阿智村・野辺山・石垣島＆星空露天風呂 厳選ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「満天の星空＆星空案内人の宿」阿智村・野辺山・石垣島＆星空露天風呂 厳選ガイド</span>
             </a>
             <a href="/winter-mie-iga-ueno-castle-akame-48waterfalls-hyobaku-igagyu-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「三重・伊賀上野＆赤目四十八滝」 忍者の里「伊賀上野城」白銀の高石垣と上野天神宮新春初詣！ 神秘の「赤目四十八滝」氷瀑と幻の極上伊賀牛すき焼き名宿</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「三重・伊賀上野＆赤目四十八滝」 忍者の里「伊賀上野城」白銀の高石垣と上野天神宮新春初詣！ 神秘の「赤目四十八滝」氷瀑と幻の極上伊賀牛すき焼き名宿</span>
             </a>
             <a href="/autumn-budget-okinawa-naha-resort-large-bath-hotels-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「秋の沖縄・那覇×格安」快適オフシーズン旅！大浴場付き1泊2,000円〜5,000円台の高コスパリゾートホテル5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「秋の沖縄・那覇×格安」快適オフシーズン旅！大浴場付き1泊2,000円〜5,000円台の高コスパリゾートホテル5選</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

@@ -42,7 +42,7 @@ export default function HakoneSengokuharaAutumnPage() {
             <span className="px-3 py-1 bg-stone-800 text-amber-300 text-xs font-medium rounded-full border border-amber-400/30">見頃目安: 10月上旬〜11月上旬</span>
           </div>
           <h1 className="text-2xl md:text-4xl lg:text-5xl font-extrabold text-white leading-tight mb-4 drop-shadow-md">「秋の箱根」仙石原すすき草原の黄金絨毯と強羅温泉にごり湯！秋絶景を愛でるおすすめ名宿5選</h1>
-          <p className="text-stone-200 text-sm md:text-base max-w-3xl line-clamp-2 md:line-clamp-none">
+          <p className="text-stone-200 text-sm md:text-base max-w-3xl">
             秋風にそよぐ一面のススキが夕陽を浴びて黄金色に輝く仙石原草原。大涌谷から引き湯された白濁の硫黄泉やスタイリッシュなリゾート空間で、秋の箱根の贅沢な休日を演出する厳選5宿をご紹介します。
           </p>
         </div>
@@ -98,7 +98,7 @@ export default function HakoneSengokuharaAutumnPage() {
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 箱根湯本駅 / 箱根湯本駅よりお車にて約25分、東名高速道路御殿場ICからお車で約25分。
                   </p>
-                  <p className="text-sm text-stone-600 mb-4 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-stone-600 mb-4 leading-relaxed">
                     ◆自然に囲まれた13室の隠れ温泉宿◆全室客室露天風呂完備  オーナーこだわりの世界をお愉しみ下さい。
                   </p>
                 </div>
@@ -143,7 +143,7 @@ export default function HakoneSengokuharaAutumnPage() {
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 箱根湯本駅 / バス停「仙石原小学校前」徒歩2分／箱根湯本駅よりバスで約25分／バスタ新宿より高速バスにて約2時間
                   </p>
-                  <p className="text-sm text-stone-600 mb-4 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-stone-600 mb-4 leading-relaxed">
                     《コンドミニアム型ホテル》全室50㎡以上の広々客室で優雅な時間を
                   </p>
                 </div>
@@ -188,7 +188,7 @@ export default function HakoneSengokuharaAutumnPage() {
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 箱根湯本駅 / 箱根湯本駅から箱根登山バス乗車３０分。「仙石バス亭」下車・御殿場方面に向かって徒歩１０分
                   </p>
-                  <p className="text-sm text-stone-600 mb-4 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-stone-600 mb-4 leading-relaxed">
                     自然にひたるやすらぎのひと時を…新姥子温泉は24時間入浴可能♪
                   </p>
                 </div>
@@ -233,7 +233,7 @@ export default function HakoneSengokuharaAutumnPage() {
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 小田原駅 / 東名高速御殿場ＩＣより１３８号線で箱根方面へ。仙石原交差点（県道75号線分岐）を芦ノ湖方面へ。
                   </p>
-                  <p className="text-sm text-stone-600 mb-4 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-stone-600 mb-4 leading-relaxed">
                     自家源泉の天然温泉（大浴場）と、大涌谷からの硫黄泉を供給する「貸切風呂」が楽しめる高原のホテル
                   </p>
                 </div>
@@ -278,7 +278,7 @@ export default function HakoneSengokuharaAutumnPage() {
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 箱根湯本駅 / 箱根湯本駅／箱根登山バス湖尻桃源台行約２５分、俵石・箱根ガラスの森前徒歩約１５分
                   </p>
-                  <p className="text-sm text-stone-600 mb-4 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-stone-600 mb-4 leading-relaxed">
                     全客室ダイニングテーブル・キッチン完備／長期滞在・グループ旅行におすすめ
                   </p>
                 </div>

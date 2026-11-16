@@ -447,8 +447,8 @@ export default function FujiClimbingPackingRegretsPage() {
                     <div className="text-[11px] font-bold text-emerald-700 mb-1">
                       {hotel.nearestStation || hotel.address1 || "富士山・河口湖エリア"}
                     </div>
-                    <h3 className="font-black text-slate-900 text-base leading-snug group-hover:text-emerald-700 transition line-clamp-2">{hotel.hotelName}</h3>
-                    <p className="text-xs text-slate-600 mt-2 line-clamp-2 leading-relaxed">
+                    <h3 className="font-black text-slate-900 text-base leading-snug group-hover:text-emerald-700 transition">{hotel.hotelName}</h3>
+                    <p className="text-xs text-slate-600 mt-2 leading-relaxed">
                       {hotel.hotelSpecial || "富士登山の前泊・後泊に最適な立地と癒しの温泉設備を完備した人気宿。"}
                     </p>
                   </div>
@@ -590,19 +590,19 @@ export default function FujiClimbingPackingRegretsPage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/gifu-gero-onsen-hida-river-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「岐阜・下呂温泉＆飛騨川・馬瀬川」日本三名泉美肌の湯・飛騨牛懐石＆合掌の里宿 厳選ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「岐阜・下呂温泉＆飛騨川・馬瀬川」日本三名泉美肌の湯・飛騨牛懐石＆合掌の里宿 厳選ガイド</span>
             </a>
             <a href="/gifu-hirayu-solo-retreat-alps-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「奥飛騨・平湯温泉ひとり旅・北アルプス秘湯おこもり」毎分1万リットル湧出・飛騨牛炭火焼き・新穂高ロープウェイ！乗鞍・上高地玄関口の厳選3宿</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「奥飛騨・平湯温泉ひとり旅・北アルプス秘湯おこもり」毎分1万リットル湧出・飛騨牛炭火焼き・新穂高ロープウェイ！乗鞍・上高地玄関口の厳選3宿</span>
             </a>
             <a href="/gifu-shirakawago-gokayama-gassho-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「岐阜・白川郷＆五箇山」世界遺産合掌造り集落・荻町展望台＆飛騨牛・すったて汁宿 厳選ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「岐阜・白川郷＆五箇山」世界遺産合掌造り集落・荻町展望台＆飛騨牛・すったて汁宿 厳選ガイド</span>
             </a>
             <a href="/nagoya-departure-daytrip-bus-tour-guide/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「名古屋発 日帰りバスツアー＆温泉ランチおすすめ」 下呂温泉・伊勢神宮参拝・飛騨牛食べ放題 プラン深掘り特集</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「名古屋発 日帰りバスツアー＆温泉ランチおすすめ」 下呂温泉・伊勢神宮参拝・飛騨牛食べ放題 プラン深掘り特集</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

@@ -381,12 +381,12 @@ export default function KyotoEarlyMorningGuidePage() {
                       </div>
                     )}
                     <div className="p-4">
-                      <h3 className="font-bold text-base text-slate-800 line-clamp-2 mb-2 hover:text-rose-700">{hotel.hotelName}</h3>
-                      <p className="text-xs text-slate-600 line-clamp-3 mb-3 leading-relaxed">
+                      <h3 className="font-bold text-base text-slate-800 mb-2 hover:text-rose-700">{hotel.hotelName}</h3>
+                      <p className="text-xs text-slate-600 mb-3 leading-relaxed">
                         {hotel.hotelSpecial || "大浴場・サウナ完備で夜行バス到着後や観光後のリフレッシュに最適な京都駅近郊ホテル。"}
                       </p>
                       {hotel.access && (
-                        <p className="text-[11px] text-slate-500 mb-2 truncate">
+                        <p className="text-[11px] text-slate-500 mb-2 break-words">
                           🚶 {hotel.access}
                         </p>
                       )}
@@ -426,7 +426,7 @@ export default function KyotoEarlyMorningGuidePage() {
               <div>
                 <span className="text-[11px] text-rose-600 font-semibold mb-1 block">交通比較</span>
                 <h3 className="font-bold text-sm text-slate-800 mb-1">【東京〜京都】新幹線 vs 高速夜行バス 徹底比較！</h3>
-                <p className="text-xs text-slate-500 line-clamp-2">
+                <p className="text-xs text-slate-500">
                   料金差額・所要時間・体力の消耗度を徹底検証。おすすめの夜行便運行会社も紹介。
                 </p>
               </div>
@@ -442,7 +442,7 @@ export default function KyotoEarlyMorningGuidePage() {
               <div>
                 <span className="text-[11px] text-rose-600 font-semibold mb-1 block">市内観光</span>
                 <h3 className="font-bold text-sm text-slate-800 mb-1">地下鉄・バス1日券で巡る京都ゴールデン観光ルート</h3>
-                <p className="text-xs text-slate-500 line-clamp-2">
+                <p className="text-xs text-slate-500">
                   バス渋滞を完全回避！地下鉄をフル活用して伏見稲荷・嵐山・祇園をスムーズに巡るコツ。
                 </p>
               </div>
@@ -491,19 +491,19 @@ export default function KyotoEarlyMorningGuidePage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/traditional-kyoto-ujicha-matcha-sweets-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「宇治抹茶スイーツ＆京懐石」老舗茶寮の贅沢甘味と嵐山・東山・宇治の風雅名湯宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「宇治抹茶スイーツ＆京懐石」老舗茶寮の贅沢甘味と嵐山・東山・宇治の風雅名湯宿5選</span>
             </a>
             <a href="/winter-kyoto-arashiyama-luxury-suiran-roten-suite-kaiseki-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【保津川渓流沿いの歴史美と嵐山温泉露天付きプライベートスイート】2026-2027年11-12月初冬の京都・嵐山！世界最高峰「翠嵐 ラグジュアリーコレクションホテル 京都」＆老舗料</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">【保津川渓流沿いの歴史美と嵐山温泉露天付きプライベートスイート】2026-2027年11-12月初冬の京都・嵐山！世界最高峰「翠嵐 ラグジュアリーコレクションホテル 京都」＆老舗料</span>
             </a>
             <a href="/winter-kyoto-gion-higashiyama-yasaka-shrine-hatsumode-kiyomizu-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">八坂神社新春初詣＆雪の清水寺！ 冬の祇園白川の風情と老舗湯豆腐・京懐石の雅宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">八坂神社新春初詣＆雪の清水寺！ 冬の祇園白川の風情と老舗湯豆腐・京懐石の雅宿5選</span>
             </a>
             <a href="/winter-kyoto-kifune-kurama-snow-lightup-botannabe-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「京都・貴船鞍馬」白銀の貴船神社・積雪日限定ライトアップと冬の京都奥座敷・極上天然猪肉ぼたん鍋＆京都牛を愉しむ静寂の名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「京都・貴船鞍馬」白銀の貴船神社・積雪日限定ライトアップと冬の京都奥座敷・極上天然猪肉ぼたん鍋＆京都牛を愉しむ静寂の名宿5選</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

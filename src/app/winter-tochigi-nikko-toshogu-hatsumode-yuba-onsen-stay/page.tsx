@@ -591,7 +591,7 @@ export default function TochigiNikkoToshoguPage() {
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-amber-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-amber-700 font-bold text-xs block mb-1">栃木・奥日光湯元</span>
-              <span className="text-stone-900 font-bold group-hover:text-amber-800 transition-colors line-clamp-2">
+              <span className="text-stone-900 font-bold group-hover:text-amber-800 transition-colors">
                 白銀の湯ノ湖と濃厚な乳白色硫黄泉・極上雪見露天風呂名宿
               </span>
             </Link>
@@ -601,7 +601,7 @@ export default function TochigiNikkoToshoguPage() {
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-amber-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-amber-700 font-bold text-xs block mb-1">栃木・足利＆佐野</span>
-              <span className="text-stone-900 font-bold group-hover:text-amber-800 transition-colors line-clamp-2">
+              <span className="text-stone-900 font-bold group-hover:text-amber-800 transition-colors">
                 日本三大イルミネーション「光の花の庭」＆佐野厄除け大師初詣名宿
               </span>
             </Link>
@@ -611,7 +611,7 @@ export default function TochigiNikkoToshoguPage() {
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-amber-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-amber-700 font-bold text-xs block mb-1">長野・戸隠＆善光寺</span>
-              <span className="text-stone-900 font-bold group-hover:text-amber-800 transition-colors line-clamp-2">
+              <span className="text-stone-900 font-bold group-hover:text-amber-800 transition-colors">
                 白銀の戸隠神社奥社杉並木と国宝善光寺冬のお朝事・信州牛名宿
               </span>
             </Link>
@@ -621,7 +621,7 @@ export default function TochigiNikkoToshoguPage() {
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-amber-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-amber-700 font-bold text-xs block mb-1">三重・伊勢神宮</span>
-              <span className="text-stone-900 font-bold group-hover:text-amber-800 transition-colors line-clamp-2">
+              <span className="text-stone-900 font-bold group-hover:text-amber-800 transition-colors">
                 新春の伊勢神宮初詣とおかげ横丁・伊勢海老＆松阪牛会席名宿
               </span>
             </Link>
@@ -631,7 +631,7 @@ export default function TochigiNikkoToshoguPage() {
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-amber-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-amber-700 font-bold text-xs block mb-1">群馬・草津温泉</span>
-              <span className="text-stone-900 font-bold group-hover:text-amber-800 transition-colors line-clamp-2">
+              <span className="text-stone-900 font-bold group-hover:text-amber-800 transition-colors">
                 湯畑ライトアップと西の河原露天風呂雪景色・名湯上州牛名宿
               </span>
             </Link>
@@ -641,7 +641,7 @@ export default function TochigiNikkoToshoguPage() {
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-amber-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-amber-700 font-bold text-xs block mb-1">神奈川・鎌倉＆江の島</span>
-              <span className="text-stone-900 font-bold group-hover:text-amber-800 transition-colors line-clamp-2">
+              <span className="text-stone-900 font-bold group-hover:text-amber-800 transition-colors">
                 鶴岡八幡宮初詣と江の島「湘南の宝石」＆富士山夕景オーシャン名宿
               </span>
             </Link>

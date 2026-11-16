@@ -153,8 +153,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     北海道小樽市色内1-8-25
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">アンワインドホテルアンドバー小樽（ＵＮＷＩＮＤ　ＨＯＴＥＬ　＆　ＢＡＲ　小樽）</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">アンワインドホテルアンドバー小樽（ＵＮＷＩＮＤ　ＨＯＴＥＬ　＆　ＢＡＲ　小樽）</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     北海道随一のクラシックホテルを現代的感性で再生
                   </p>
                   
@@ -197,8 +197,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     北海道小樽市稲穂2-15-1
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">オーセントホテル小樽</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">オーセントホテル小樽</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     小樽駅より徒歩5分で観光便利♪海と街を望むノスタルジックなホテル。地産地消の美食も口コミ高評価！
                   </p>
                   
@@ -241,8 +241,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     北海道小樽市稲穂1丁目3-13
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">グリッズプレミアムホテル小樽</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">グリッズプレミアムホテル小樽</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     小樽運河まで徒歩4分！露天風呂付き展望大浴場や3～4名様まで泊まれるバラエティ豊富な客室をご用意♪
                   </p>
                   
@@ -298,8 +298,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     山梨県北杜市高根町清里３５４５－９４３　コートドゥヴェール内
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">八ヶ岳の恵みを味わうレストラン＆ホテル　オーベルジュ清里</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">八ヶ岳の恵みを味わうレストラン＆ホテル　オーベルジュ清里</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     自家農園野菜を使ったレストランが人気！牧場、工房、農園など体験も充実のホテル
                   </p>
                   
@@ -355,8 +355,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     埼玉県秩父市大宮5911-1
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">ナチュラルファームシティ農園ホテル　＜秩父の街並みを眼下に望むロケーション＞</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">ナチュラルファームシティ農園ホテル　＜秩父の街並みを眼下に望むロケーション＞</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     高台に位置する当ホテルは運が良ければ雲海に出会えるかも　～「雲海に 出会えたあなたは 運がいい」～
                   </p>
                   
@@ -399,8 +399,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     埼玉県秩父市宮側町17-5（MARUJU棟）
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">ＮＩＰＰＯＮＩＡ　秩父　門前町</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">ＮＩＰＰＯＮＩＡ　秩父　門前町</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     【池袋から約70分】歴史建築に泊まり、レトロなまちなみに溶け込む非日常体験
                   </p>
                   
@@ -443,8 +443,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     埼玉県秩父郡長瀞町井戸419-1
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">小さなホテル　セラヴィ</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">小さなホテル　セラヴィ</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     アンティークな空間と65種の旬野菜を使った料理と客室露天風呂でもてなす、5組限定の小さなオーベルジュ
                   </p>
                   

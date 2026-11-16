@@ -428,7 +428,7 @@ export default function NikkoChuzenjiCarFreeTravelGuidePage() {
                       <h3 className="font-black text-slate-900 text-lg leading-snug group-hover:text-emerald-700 transition-colors">{hotel.hotelName}</h3>
 
                       {specialText && (
-                        <p className="text-xs text-slate-600 line-clamp-2 leading-relaxed bg-emerald-50/50 p-2.5 rounded-xl border border-emerald-100">
+                        <p className="text-xs text-slate-600 leading-relaxed bg-emerald-50/50 p-2.5 rounded-xl border border-emerald-100">
                           {specialText}
                         </p>
                       )}
@@ -437,7 +437,7 @@ export default function NikkoChuzenjiCarFreeTravelGuidePage() {
                         {hotel.access && (
                           <div className="flex items-start gap-1.5">
                             <span className="text-emerald-700 font-bold shrink-0">交通:</span>
-                            <span className="line-clamp-2">{hotel.access}</span>
+                            <span className="">{hotel.access}</span>
                           </div>
                         )}
                         {hotel.address1 && hotel.address2 && (

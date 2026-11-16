@@ -460,19 +460,19 @@ export default function FurusatoRound63ArticlePage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/winter-wakayama-koyasan-shukubo-okunoin-snow-shojin-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「11・12・1月和歌山」世界遺産・高野山の白銀「壇上伽藍＆奥之院」雪景色と宿坊阿字観体験＆冬の滋味精進料理・新春初詣名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「11・12・1月和歌山」世界遺産・高野山の白銀「壇上伽藍＆奥之院」雪景色と宿坊阿字観体験＆冬の滋味精進料理・新春初詣名宿5選</span>
             </a>
             <a href="/winter-wakayama-nanki-shirahama-kue-hotspring-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12月南紀白浜温泉の太平洋絶景と名湯】 白良浜夕陽と日本三古湯・幻の天然本クエ鍋＆熊野牛の宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">【11・12月南紀白浜温泉の太平洋絶景と名湯】 白良浜夕陽と日本三古湯・幻の天然本クエ鍋＆熊野牛の宿5選</span>
             </a>
             <a href="/autumn-budget-wakayama-castle-momijidani-ramen-hotels-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「和歌山」和歌山城の紅葉渓庭園＆中華そば！2,000円台〜泊まれる格安・高コスパ宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「和歌山」和歌山城の紅葉渓庭園＆中華そば！2,000円台〜泊まれる格安・高コスパ宿5選</span>
             </a>
             <a href="/chiba-tateyama-shirahama-nojimazaki-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「千葉・館山＆白浜・野島崎」房総最南端白亜の灯台・フラワーライン＆伊勢海老宿 厳選ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「千葉・館山＆白浜・野島崎」房総最南端白亜の灯台・フラワーライン＆伊勢海老宿 厳選ガイド</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

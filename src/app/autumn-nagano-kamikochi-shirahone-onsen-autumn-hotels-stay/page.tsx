@@ -42,7 +42,7 @@ export default function KamikochiShirahoneAutumnPage() {
             <span className="px-3 py-1 bg-stone-800 text-amber-300 text-xs font-medium rounded-full border border-amber-400/30">見頃目安: 10月中旬〜11月上旬</span>
           </div>
           <h1 className="text-2xl md:text-4xl lg:text-5xl font-extrabold text-white leading-tight mb-4 drop-shadow-md">「秋の上高地・白骨温泉」カラマツ黄葉と乳白色の秘湯！閉山前に訪れたい絶景名宿5選</h1>
-          <p className="text-stone-200 text-sm md:text-base max-w-3xl line-clamp-2 md:line-clamp-none">
+          <p className="text-stone-200 text-sm md:text-base max-w-3xl">
             冠雪した穂高連峰を背景に梓川沿いのカラマツ林が一面黄金色に輝く晩秋の上高地。11月15日の閉山祭を控えた静謐な山岳リゾートと、古くから愛される白骨温泉の白濁した秘湯で心洗われる特別な旅をお届けします。
           </p>
         </div>
@@ -98,7 +98,7 @@ export default function KamikochiShirahoneAutumnPage() {
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 松本駅 / ＪＲ　松本駅より、松本電鉄　新島々下車、バスにて６０分
                   </p>
-                  <p className="text-sm text-stone-600 mb-4 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-stone-600 mb-4 leading-relaxed">
                     白樺林が織りなす静けさへ。自然に包まれて貸切露天に浸かる、心も身体も湯に溶ける大人旅
                   </p>
                 </div>
@@ -143,7 +143,7 @@ export default function KamikochiShirahoneAutumnPage() {
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 松本・新島々駅 / お車で松本ICから60分、高山ICから70分。上高地へは「さわんどバスターミナル」乗り換えで約60分。
                   </p>
-                  <p className="text-sm text-stone-600 mb-4 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-stone-600 mb-4 leading-relaxed">
                     二百八十余年の間源泉を守り続ける湯守の宿。レトロモダンな造りの館内には寛ぎの空間が広がっています。
                   </p>
                 </div>
@@ -188,7 +188,7 @@ export default function KamikochiShirahoneAutumnPage() {
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 新島々駅 / 松本ICから約60分、高山西ICから約70分。国道158号線経由、沢渡（さわんど）より県道300号線が最短ルートです。
                   </p>
-                  <p className="text-sm text-stone-600 mb-4 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-stone-600 mb-4 leading-relaxed">
                     湯元の源泉を掛け流しで贅沢に堪能できる昔ながらのお湯の宿で、皆様のご来館を心よりお待ちしております。
                   </p>
                 </div>
@@ -233,7 +233,7 @@ export default function KamikochiShirahoneAutumnPage() {
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 新島々駅 / JR松本駅から私鉄上高地線　新島々駅より白骨温泉行バス乗車→終点白骨温泉下車
                   </p>
-                  <p className="text-sm text-stone-600 mb-4 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-stone-600 mb-4 leading-relaxed">
                     極上の自家源泉は８ヶ所の浴槽で掛け流し、加温なしの天然源泉をお楽しみいただけます
                   </p>
                 </div>
@@ -278,7 +278,7 @@ export default function KamikochiShirahoneAutumnPage() {
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 新島々駅 / 松本ICより約60分、高山西ICより約80分。R158経由、さわんど温泉より県道300号線で車15分
                   </p>
-                  <p className="text-sm text-stone-600 mb-4 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-stone-600 mb-4 leading-relaxed">
                     大自然を堪能できる露天風呂。名湯白骨温泉の人気宿です。お料理は地元食材を中心としております。
                   </p>
                 </div>

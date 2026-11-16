@@ -467,19 +467,19 @@ export default function FeatureArticlePage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/tokushima-naruto-otsuka-museum-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「徳島・鳴門＆大塚国際美術館」世界三大潮流・鳴門の渦潮＆陶板名画・鳴門鯛宿 厳選ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「徳島・鳴門＆大塚国際美術館」世界三大潮流・鳴門の渦潮＆陶板名画・鳴門鯛宿 厳選ガイド</span>
             </a>
             <a href="/traditional-tokushima-awa-odori-indigo-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「阿波藍と鳴門鯛」藍染め体験＆鳴門の渦潮オーシャンビュー！徳島・鳴門の絶景温泉リゾート5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「阿波藍と鳴門鯛」藍染め体験＆鳴門の渦潮オーシャンビュー！徳島・鳴門の絶景温泉リゾート5選</span>
             </a>
             <a href="/winter-tokushima-iya-valley-onsen-hikyo-awa-beef-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12月徳島・祖谷温泉】 日本三大秘境初雪渓谷と谷底露天風呂・特選阿波牛＆名物祖谷そばの宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">【11・12月徳島・祖谷温泉】 日本三大秘境初雪渓谷と谷底露天風呂・特選阿波牛＆名物祖谷そばの宿5選</span>
             </a>
             <a href="/winter-tokushima-minamiawa-yakuouji-hatsumode-iseebi-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">徳島・美波＆牟岐・海陽町 四国霊場第23番札所「薬王寺」厄除け初詣と 冬が最旬の天然伊勢海老・太平洋絶景温泉宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">徳島・美波＆牟岐・海陽町 四国霊場第23番札所「薬王寺」厄除け初詣と 冬が最旬の天然伊勢海老・太平洋絶景温泉宿5選</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

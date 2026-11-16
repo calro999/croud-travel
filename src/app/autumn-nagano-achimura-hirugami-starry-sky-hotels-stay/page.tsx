@@ -42,7 +42,7 @@ export default function AchimuraHirugamiAutumnPage() {
             <span className="px-3 py-1 bg-stone-800 text-amber-300 text-xs font-medium rounded-full border border-amber-400/30">星空・紅葉: 10月中旬〜11月下旬</span>
           </div>
           <h1 className="text-2xl md:text-4xl lg:text-5xl font-extrabold text-white leading-tight mb-4 drop-shadow-md">「秋の阿智村・昼神温泉」日本一の星空ナイトツアーと美肌温泉！南信州の秋を満喫するおすすめ名宿5選</h1>
-          <p className="text-stone-200 text-sm md:text-base max-w-3xl line-clamp-2 md:line-clamp-none">
+          <p className="text-stone-200 text-sm md:text-base max-w-3xl">
             大気が澄みわたり星の瞬きがひときわ輝く秋の阿智村。ロープウェイで標高1,400mの高原へ向かう「天空の楽園 ナイトツアー」と、全国屈指の強アルカリ性を誇る昼神温泉で心身をとろけさせる極上のリトリート旅をご紹介します。
           </p>
         </div>
@@ -98,7 +98,7 @@ export default function AchimuraHirugamiAutumnPage() {
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 飯田（長野）駅 / 飯田駅より路線バスにて３０分
                   </p>
-                  <p className="text-sm text-stone-600 mb-4 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-stone-600 mb-4 leading-relaxed">
                     「24時間入り放題＆無料」の【貸切露天風呂】トロトロ泉質の美人の湯♪全17室のおもてなしの宿
                   </p>
                 </div>
@@ -143,7 +143,7 @@ export default function AchimuraHirugamiAutumnPage() {
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 天竜峡駅 / 中央自動車道・園原ICより車にて10分(名古屋・関西方面)、中央自動車道・飯田山本ICより車にて10分(関東・長野方面)
                   </p>
-                  <p className="text-sm text-stone-600 mb-4 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-stone-600 mb-4 leading-relaxed">
                     日本一の星空ナイトツアー：当日の天気次第でもチケットキャンセルが対応可な宿★彡
                   </p>
                 </div>
@@ -188,7 +188,7 @@ export default function AchimuraHirugamiAutumnPage() {
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 唐笠駅 / 中央道飯田山本ＩＣ～Ｒ１５３～R２５６（約10分）/　中央道園原IC～（約10分）
                   </p>
-                  <p className="text-sm text-stone-600 mb-4 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-stone-600 mb-4 leading-relaxed">
                     【2025年楽天トラベルブロンズアワード受賞】★日本一の星空と笑顔のおもてなし
                   </p>
                 </div>
@@ -233,7 +233,7 @@ export default function AchimuraHirugamiAutumnPage() {
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 飯田（長野）駅 / 【お車でお越しの方】中央道　飯田山本ICから約15分・園原ICから約5分【電車でお越しの方】飯田駅からバス等で約30分
                   </p>
-                  <p className="text-sm text-stone-600 mb-4 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-stone-600 mb-4 leading-relaxed">
                     【楽天トラベルブロンズアワード2024受賞】【23年4月リニューアル】オールインクルーシブの宿
                   </p>
                 </div>
@@ -278,7 +278,7 @@ export default function AchimuraHirugamiAutumnPage() {
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 天竜峡駅 / 天竜峡駅よりお車にて約３０分（車でお迎えあり）
                   </p>
-                  <p className="text-sm text-stone-600 mb-4 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-stone-600 mb-4 leading-relaxed">
                     やわらかな畳敷きの浴場で和の粋と深いやさしさに包まれる、ツルツルの温泉と豊かな自然に囲まれた純和風宿
                   </p>
                 </div>

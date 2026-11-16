@@ -153,8 +153,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     島根県出雲市湖陵町二部1230
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">湖畔の温泉宿くにびき　グランピングベースＩＺＵＭＯ</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">湖畔の温泉宿くにびき　グランピングベースＩＺＵＭＯ</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     この春リニューアル！出雲国風土記にも登場する美しい神西湖。雄大な景色に包まれて天然温泉でリフレッシュ
                   </p>
                   
@@ -210,8 +210,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     千葉県銚子市三軒町16-13
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">犬吠埼温泉　黒潮の湯　ホテルルートイン銚子駅西</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">犬吠埼温泉　黒潮の湯　ホテルルートイン銚子駅西</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     天然温泉「犬吠埼温泉黒潮の湯」大浴場完備！銚子駅より徒歩4分！無料朝食バイキングで大満足★
                   </p>
                   
@@ -254,8 +254,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     千葉県銚子市犬吠埼10293
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">犬吠埼潮の湯温泉　犬吠埼観光ホテル</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">犬吠埼潮の湯温泉　犬吠埼観光ホテル</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     全室オーシャンビュー！まるで海と繋がるかのような露天風呂？！◆温泉宿ホテル総選挙´２１犬吠埼地区１位
                   </p>
                   
@@ -298,8 +298,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     千葉県銚子市犬吠埼9574-1
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">‐犬吠埼温泉元湯　黒潮の湯‐　絶景の宿　犬吠埼ホテル</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">‐犬吠埼温泉元湯　黒潮の湯‐　絶景の宿　犬吠埼ホテル</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     全室から太平洋が一望、新鮮魚介類中心の料理自慢の宿。海の見える露天風呂が人気です。
                   </p>
                   
@@ -355,8 +355,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     高知県安芸郡芸西村西分甲2995
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">メルキュール高知土佐リゾート＆スパ</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">メルキュール高知土佐リゾート＆スパ</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     2024年4月より「メルキュール高知土佐リゾート＆スパ」へリブランド
                   </p>
                   
@@ -399,8 +399,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     高知県室戸市室戸岬町4037
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">岬観光ホテル</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">岬観光ホテル</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     【登録有形文化財に登録】室戸岬の海岸にあり朝日や夕日が楽しめます
                   </p>
                   

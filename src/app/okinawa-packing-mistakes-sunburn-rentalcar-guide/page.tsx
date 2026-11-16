@@ -372,14 +372,14 @@ export default function OkinawaPackingMistakesGuidePage() {
                           <span>⭐ {hotel.reviewAverage}点（{hotel.reviewCount || 0}件）</span>
                         </div>
                       )}
-                      <h3 className="text-sm font-black text-white line-clamp-2">{hotel.hotelName}</h3>
+                      <h3 className="text-sm font-black text-white">{hotel.hotelName}</h3>
                       {hotel.hotelSpecial && (
-                        <p className="text-xs text-slate-400 line-clamp-2">
+                        <p className="text-xs text-slate-400">
                           {hotel.hotelSpecial}
                         </p>
                       )}
                       {hotel.access && (
-                        <p className="text-[11px] text-slate-500 line-clamp-1">
+                        <p className="text-[11px] text-slate-500">
                           📍 {hotel.access}
                         </p>
                       )}
@@ -421,7 +421,7 @@ export default function OkinawaPackingMistakesGuidePage() {
                 💰 沖縄予算シュミレーション
               </div>
               <h3 className="text-sm font-bold text-white">沖縄旅行の予算相場と費用を安く抑える賢い節約術</h3>
-              <p className="text-[11px] text-slate-400 line-clamp-2">
+              <p className="text-[11px] text-slate-400">
                 飛行機・ホテル・レンタカー・食事代の時期別リアル相場とコスパ重視の旅費設計。
               </p>
             </Link>
@@ -434,7 +434,7 @@ export default function OkinawaPackingMistakesGuidePage() {
                 👨‍👩‍👧 子連れ・ファミリー旅行
               </div>
               <h3 className="text-sm font-bold text-white">子連れ沖縄は何泊がベスト？年齢別モデルコース＆予算内訳</h3>
-              <p className="text-[11px] text-slate-400 line-clamp-2">
+              <p className="text-[11px] text-slate-400">
                 無理のない移動スケジュールとキッズプール・離乳食対応ホテル選びの極意。
               </p>
             </Link>
@@ -490,19 +490,19 @@ export default function OkinawaPackingMistakesGuidePage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/okinawa-ishigaki-yaeyama-kabira-bay-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「沖縄・石垣島＆八重山諸島・川平湾」ミシュラン三ツ星川平ブルー・離島巡り＆石垣牛宿 厳選ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「沖縄・石垣島＆八重山諸島・川平湾」ミシュラン三ツ星川平ブルー・離島巡り＆石垣牛宿 厳選ガイド</span>
             </a>
             <a href="/okinawa-naha-solo-retreat-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「那覇・国際通りひとり旅」大浴場＆プール・ゆいレール直結・やちむん通り！南国の潮風と琉球文化に浸る大人の厳選3宿</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「那覇・国際通りひとり旅」大浴場＆プール・ゆいレール直結・やちむん通り！南国の潮風と琉球文化に浸る大人の厳選3宿</span>
             </a>
             <a href="/okinawa-travel-budget-plan/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「沖縄旅行の予算」 最安旅 vs リゾート贅沢旅の振れ幅がすごい！</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「沖縄旅行の予算」 最安旅 vs リゾート贅沢旅の振れ幅がすごい！</span>
             </a>
             <a href="/traditional-okinawa-bingata-textile-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「琉球王朝の雅を体感（琉球紅型染め体験＆読谷やちむんの里のオーシャンリゾート5選）」琉球王朝の雅を体感！琉球紅型染め体験＆読谷やちむんの里のオーシャンリゾート5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「琉球王朝の雅を体感（琉球紅型染め体験＆読谷やちむんの里のオーシャンリゾート5選）」琉球王朝の雅を体感！琉球紅型染め体験＆読谷やちむんの里のオーシャンリゾート5選</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

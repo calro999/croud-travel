@@ -546,19 +546,19 @@ export default function FurusatoArticlePage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/winter-wakayama-city-kada-onsen-hatsumode-taimeshi-kue-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">冬の日前神宮新春開運初詣＆紀淡海峡夕陽絶景！ 加太温泉名湯と冬の寒真鯛・幻のクエに寛ぐ名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">冬の日前神宮新春開運初詣＆紀淡海峡夕陽絶景！ 加太温泉名湯と冬の寒真鯛・幻のクエに寛ぐ名宿5選</span>
             </a>
             <a href="/winter-wakayama-kushimoto-shionomisaki-sunrise-hashiguiiwa-kindai-maguro-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">本州最南端「潮岬」冬の太平洋初日の出と朝焼け「橋杭岩」絶景 発祥の地「近大マグロ」会席＆串本温泉リゾート名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">本州最南端「潮岬」冬の太平洋初日の出と朝焼け「橋杭岩」絶景 発祥の地「近大マグロ」会席＆串本温泉リゾート名宿5選</span>
             </a>
             <a href="/winter-wakayama-ryujin-onsen-bihada-botannabe-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">初冬渓谷美と日本三美人の湯 名物紀州天然ぼたん鍋＆最高峰熊野牛会席の隠れ家宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">初冬渓谷美と日本三美人の湯 名物紀州天然ぼたん鍋＆最高峰熊野牛会席の隠れ家宿5選</span>
             </a>
             <a href="/autumn-wakayama-koyasan-danjo-garan-shukubo-momiji-hotels-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「秋の高野山」壇上伽藍の蛇腹道紅葉トンネルと奥の院！心洗われるおすすめ歴史宿坊5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「秋の高野山」壇上伽藍の蛇腹道紅葉トンネルと奥の院！心洗われるおすすめ歴史宿坊5選</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

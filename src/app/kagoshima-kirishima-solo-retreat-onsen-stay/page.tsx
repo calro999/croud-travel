@@ -368,19 +368,19 @@ export default function ArticlePage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/kagoshima-ibusuki-solo-retreat-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「指宿温泉ひとり旅・砂むし温泉おこもり」錦江湾パノラマ・砂むし会席・黒豚しゃぶ！南国薩摩の潮風と地熱に癒やされる厳選3宿</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「指宿温泉ひとり旅・砂むし温泉おこもり」錦江湾パノラマ・砂むし会席・黒豚しゃぶ！南国薩摩の潮風と地熱に癒やされる厳選3宿</span>
             </a>
             <a href="/kagoshima-solo-retreat-sakurajima-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「鹿児島ひとり旅＆出張」錦江湾に浮かぶ桜島一望・展望露天温泉・黒豚しゃぶしゃぶ！南国の雄大な自然に抱かれる極上宿 厳選3選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「鹿児島ひとり旅＆出張」錦江湾に浮かぶ桜島一望・展望露天温泉・黒豚しゃぶしゃぶ！南国の雄大な自然に抱かれる極上宿 厳選3選</span>
             </a>
             <a href="/kirishima-solo-retreat-doroyu-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「霧島温泉ひとり旅・神話の湯治泊」14源泉の大浴場・桜島展望露天・天然泥パック！坂本龍馬ゆかりの地で魂を再生する名宿 厳選3選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「霧島温泉ひとり旅・神話の湯治泊」14源泉の大浴場・桜島展望露天・天然泥パック！坂本龍馬ゆかりの地で魂を再生する名宿 厳選3選</span>
             </a>
             <a href="/traditional-kagoshima-kurobuta-shabu-shabu-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「鹿児島黒豚＆黒毛和牛」極上しゃぶしゃぶ会席と指宿砂むし温泉！霧島・指宿の美食名湯宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「鹿児島黒豚＆黒毛和牛」極上しゃぶしゃぶ会席と指宿砂むし温泉！霧島・指宿の美食名湯宿5選</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

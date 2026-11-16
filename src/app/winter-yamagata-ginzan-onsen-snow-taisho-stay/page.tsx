@@ -762,7 +762,7 @@ export default function GinzanWinterPage() {
             >
               <span className="text-[11px] font-bold text-sky-800 bg-sky-100/80 px-2 py-0.5 rounded">山形冬特集</span>
               <h3 className="font-bold text-stone-900 text-sm group-hover:text-amber-900 transition-colors">蔵王樹氷スノーモンスターと強酸性硫黄泉の湯宿</h3>
-              <p className="text-xs text-stone-500 line-clamp-2">
+              <p className="text-xs text-stone-500">
                 世界的奇観のスノーモンスター樹氷ライトアップと名湯・蔵王温泉。
               </p>
             </Link>
@@ -773,7 +773,7 @@ export default function GinzanWinterPage() {
             >
               <span className="text-[11px] font-bold text-amber-800 bg-amber-100/80 px-2 py-0.5 rounded">山形グルメ温泉</span>
               <h3 className="font-bold text-stone-900 text-sm group-hover:text-amber-900 transition-colors">米沢牛すき焼きと小野川温泉・小野小町ゆかりの美肌湯</h3>
-              <p className="text-xs text-stone-500 line-clamp-2">
+              <p className="text-xs text-stone-500">
                 米沢の奥座敷・小野川温泉とかまくら雪見風呂、極上A5米沢牛。
               </p>
             </Link>
@@ -784,7 +784,7 @@ export default function GinzanWinterPage() {
             >
               <span className="text-[11px] font-bold text-teal-800 bg-teal-100/80 px-2 py-0.5 rounded">東北雪見秘湯</span>
               <h3 className="font-bold text-stone-900 text-sm group-hover:text-teal-900 transition-colors">青森酸ヶ湯温泉の千人風呂と八甲田雪見ステイ</h3>
-              <p className="text-xs text-stone-500 line-clamp-2">
+              <p className="text-xs text-stone-500">
                 豪雪地帯のヒバ千人風呂と白濁した酸性硫黄泉、冬の八甲田樹氷。
               </p>
             </Link>

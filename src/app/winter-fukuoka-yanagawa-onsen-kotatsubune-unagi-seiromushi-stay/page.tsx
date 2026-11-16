@@ -382,7 +382,7 @@ export default function WinterFukuokaYanagawaPage() {
                     <div className="absolute bottom-4 left-4 right-4 bg-slate-950/75 text-white p-3 rounded-xl backdrop-blur-xs text-xs space-y-1">
                       <div className="flex items-center gap-1 text-teal-300 font-semibold">
                         <MapPin className="w-3.5 h-3.5 shrink-0" />
-                        <span className="line-clamp-1">{hotel.access}</span>
+                        <span className="">{hotel.access}</span>
                       </div>
                     </div>
                   </div>
@@ -598,8 +598,8 @@ export default function WinterFukuokaYanagawaPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">福岡・原鶴温泉</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">原鶴温泉のダブル美肌の湯と博多和牛会席宿</h4>
-              <p className="text-[11px] text-teal-100 line-clamp-2">
+              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition">原鶴温泉のダブル美肌の湯と博多和牛会席宿</h4>
+              <p className="text-[11px] text-teal-100">
                 筑後川の雄大な流れを望む名湯と、とろける博多和牛を堪能。
               </p>
             </Link>
@@ -609,8 +609,8 @@ export default function WinterFukuokaYanagawaPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">佐賀・武雄温泉</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">武雄温泉の朱塗り楼門名湯と佐賀牛ステーキ会席宿</h4>
-              <p className="text-[11px] text-teal-100 line-clamp-2">
+              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition">武雄温泉の朱塗り楼門名湯と佐賀牛ステーキ会席宿</h4>
+              <p className="text-[11px] text-teal-100">
                 1300年の歴史を誇る美肌名湯と極上の佐賀牛を満喫。
               </p>
             </Link>
@@ -620,8 +620,8 @@ export default function WinterFukuokaYanagawaPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">熊本・人吉温泉</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">人吉温泉の球磨川朝霧絶景と落ち鮎・球磨牛会席宿</h4>
-              <p className="text-[11px] text-teal-100 line-clamp-2">
+              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition">人吉温泉の球磨川朝霧絶景と落ち鮎・球磨牛会席宿</h4>
+              <p className="text-[11px] text-teal-100">
                 朝霧の都・人吉の幻想的な城下町風景と相良700年の名湯巡り。
               </p>
             </Link>

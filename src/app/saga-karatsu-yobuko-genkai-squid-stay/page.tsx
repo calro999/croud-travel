@@ -128,8 +128,8 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">日本料理　水野旅館＜唐津＞</h4>
-                      <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition">日本料理　水野旅館＜唐津＞</h4>
+                      <p className="text-xs text-stone-400 mt-1 leading-relaxed">
                         “美食と歴史”を堪能する宿。玄界灘の海の幸と唐津焼、歴史ある空間が織りなすひとときをお愉しみください
                       </p>
                       <div className="mt-3 text-xs text-stone-300">
@@ -172,8 +172,8 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">ＯＮＣＲＩ－ＫＡＲＡＴＳＵ（おんくり唐津）（旧：旅館魚半）</h4>
-                      <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition">ＯＮＣＲＩ－ＫＡＲＡＴＳＵ（おんくり唐津）（旧：旅館魚半）</h4>
+                      <p className="text-xs text-stone-400 mt-1 leading-relaxed">
                         〈グランドオープン〉自然の恩恵を享受する海辺のリゾート
                       </p>
                       <div className="mt-3 text-xs text-stone-300">
@@ -216,8 +216,8 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">からつ温泉　かぐや姫の湯　旅館　綿屋</h4>
-                      <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition">からつ温泉　かぐや姫の湯　旅館　綿屋</h4>
+                      <p className="text-xs text-stone-400 mt-1 leading-relaxed">
                         天然温泉と陶芸コーナー新設の和風老舗旅館
                       </p>
                       <div className="mt-3 text-xs text-stone-300">
@@ -260,8 +260,8 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">割烹旅館　長崎荘</h4>
-                      <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition">割烹旅館　長崎荘</h4>
+                      <p className="text-xs text-stone-400 mt-1 leading-relaxed">
                         Gotoキャンペーン対象　
                       </p>
                       <div className="mt-3 text-xs text-stone-300">
@@ -346,8 +346,8 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">からつ温泉　かぐや姫の湯　旅館　綿屋</h4>
-                      <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition">からつ温泉　かぐや姫の湯　旅館　綿屋</h4>
+                      <p className="text-xs text-stone-400 mt-1 leading-relaxed">
                         天然温泉と陶芸コーナー新設の和風老舗旅館
                       </p>
                       <div className="mt-3 text-xs text-stone-300">
@@ -390,8 +390,8 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">割烹旅館　筑前屋</h4>
-                      <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition">割烹旅館　筑前屋</h4>
+                      <p className="text-xs text-stone-400 mt-1 leading-relaxed">
                         唐津市呼子港にある割烹旅館です。抜群のロケーションと新鮮な魚料理を存分にお楽しみ下さい。
                       </p>
                       <div className="mt-3 text-xs text-stone-300">
@@ -434,8 +434,8 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">日本料理　水野旅館＜唐津＞</h4>
-                      <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition">日本料理　水野旅館＜唐津＞</h4>
+                      <p className="text-xs text-stone-400 mt-1 leading-relaxed">
                         “美食と歴史”を堪能する宿。玄界灘の海の幸と唐津焼、歴史ある空間が織りなすひとときをお愉しみください
                       </p>
                       <div className="mt-3 text-xs text-stone-300">
@@ -478,8 +478,8 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">割烹旅館　長崎荘</h4>
-                      <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition">割烹旅館　長崎荘</h4>
+                      <p className="text-xs text-stone-400 mt-1 leading-relaxed">
                         Gotoキャンペーン対象　
                       </p>
                       <div className="mt-3 text-xs text-stone-300">
@@ -564,8 +564,8 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">唐津シーサイドホテル</h4>
-                      <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition">唐津シーサイドホテル</h4>
+                      <p className="text-xs text-stone-400 mt-1 leading-relaxed">
                         唐津湾と虹の松原に囲まれた景色と海の幸・山の幸。天然温泉で心身ともにリラックス！
                       </p>
                       <div className="mt-3 text-xs text-stone-300">
@@ -608,8 +608,8 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">観光ホテル　大望閣</h4>
-                      <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition">観光ホテル　大望閣</h4>
+                      <p className="text-xs text-stone-400 mt-1 leading-relaxed">
                         2023年リニューアル、『呼子のイカ』究極の鮮度で、忘れられない味わいを体感。特別なひとときを
                       </p>
                       <div className="mt-3 text-xs text-stone-300">
@@ -652,8 +652,8 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">ＴＨＥ　ＴＲＡＩＬＥＲＨＯＵＳＥ　ＶＩＬＬＡＧＥ　長崎　ＴＳＵＢＡＫＩ　ＰＲＥＭＩＵＭ</h4>
-                      <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition">ＴＨＥ　ＴＲＡＩＬＥＲＨＯＵＳＥ　ＶＩＬＬＡＧＥ　長崎　ＴＳＵＢＡＫＩ　ＰＲＥＭＩＵＭ</h4>
+                      <p className="text-xs text-stone-400 mt-1 leading-relaxed">
                         海辺で気軽にアウトドア♪トレーラーハウスは13.5ｍのプレミアムサイズ！4名でもゆったり★コスパ最高
                       </p>
                       <div className="mt-3 text-xs text-stone-300">
@@ -781,19 +781,19 @@ export default function Page() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/furusato-tax-saga-ureshino-takeo-autumn-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">佐賀・日本三大美肌の湯 嬉野温泉＆武雄温泉！トロトロ重曹泉と名物温泉湯どうふ・佐賀牛｜ふるさと納税で泊まれる名宿ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">佐賀・日本三大美肌の湯 嬉野温泉＆武雄温泉！トロトロ重曹泉と名物温泉湯どうふ・佐賀牛｜ふるさと納税で泊まれる名宿ガイド</span>
             </a>
             <a href="/furusato-tax-takeo-onsen-romon-pottery-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">武雄温泉をふるさと納税でお得に旅する！国重文・武雄温泉楼門＆美肌とろとろ湯！焼き物の里宿特集｜京都屋・春慶屋・なかます旅館</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">武雄温泉をふるさと納税でお得に旅する！国重文・武雄温泉楼門＆美肌とろとろ湯！焼き物の里宿特集｜京都屋・春慶屋・なかます旅館</span>
             </a>
             <a href="/saga-arita-imari-hasami-pottery-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「佐賀＆長崎・有田＆伊万里・波佐見」日本磁器発祥の地・トンバイ塀の窯元＆伊万里牛宿 厳選ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「佐賀＆長崎・有田＆伊万里・波佐見」日本磁器発祥の地・トンバイ塀の窯元＆伊万里牛宿 厳選ガイド</span>
             </a>
             <a href="/saga-takeo-solo-retreat-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「佐賀・武雄温泉ひとり旅・楼門辰野金吾おこもり」千三百年美肌湯・御船山楽園チームラボ・佐賀牛！武雄温泉駅直通の極上厳選3宿</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「佐賀・武雄温泉ひとり旅・楼門辰野金吾おこもり」千三百年美肌湯・御船山楽園チームラボ・佐賀牛！武雄温泉駅直通の極上厳選3宿</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

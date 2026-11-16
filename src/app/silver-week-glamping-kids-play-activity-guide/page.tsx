@@ -316,14 +316,14 @@ export default function SilverWeekGlampingKidsPlayActivityPage() {
                     </span>
                   </div>
 
-                  <h3 className="font-black text-stone-900 text-base leading-snug group-hover:text-amber-700 transition line-clamp-2 font-journal-serif">{hotel.hotelName}</h3>
+                  <h3 className="font-black text-stone-900 text-base leading-snug group-hover:text-amber-700 transition font-journal-serif">{hotel.hotelName}</h3>
 
-                  <p className="text-xs text-stone-600 line-clamp-3 leading-relaxed font-medium">
+                  <p className="text-xs text-stone-600 leading-relaxed font-medium">
                     {hotel.hotelSpecial || "敷地内での自然ふれあいやアクティビティが豊富で、小さな子供から小学生まで家族みんなで笑顔になれる体験型リゾート。"}
                   </p>
 
                   {hotel.access && (
-                    <p className="text-[11px] text-stone-500 line-clamp-1">
+                    <p className="text-[11px] text-stone-500">
                       🚗 {hotel.access}
                     </p>
                   )}
@@ -383,7 +383,7 @@ export default function SilverWeekGlampingKidsPlayActivityPage() {
             <span className="text-[10px] font-bold text-amber-700 bg-amber-50 px-2 py-0.5 rounded-full inline-block mb-1.5">
               家族旅行モデルコース
             </span>
-            <div className="font-bold text-xs sm:text-sm text-stone-900 group-hover:text-amber-700 transition line-clamp-2">
+            <div className="font-bold text-xs sm:text-sm text-stone-900 group-hover:text-amber-700 transition">
               【金沢家族旅行 1泊2日モデルコース】子連れ・3世代で行く兼六園・近江町市場・21世紀美術館
             </div>
           </Link>
@@ -395,7 +395,7 @@ export default function SilverWeekGlampingKidsPlayActivityPage() {
             <span className="text-[10px] font-bold text-stone-600 bg-stone-100 px-2 py-0.5 rounded-full inline-block mb-1.5">
               動物・自然体験ガイド
             </span>
-            <div className="font-bold text-xs sm:text-sm text-stone-900 group-hover:text-amber-700 transition line-clamp-2">
+            <div className="font-bold text-xs sm:text-sm text-stone-900 group-hover:text-amber-700 transition">
               【北海道 子連れ家族旅行】旭山動物園＆富良野ネイチャー体験・キッズ大満足ルート
             </div>
           </Link>

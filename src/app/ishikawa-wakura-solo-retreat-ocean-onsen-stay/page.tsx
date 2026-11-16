@@ -370,19 +370,19 @@ export default function ArticlePage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/kanazawa-solo-retreat-onsen-gourmet-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「金沢ひとり旅・美食おこもり」近江町市場徒歩すぐ・最上階天然温泉・のどぐろ会席！加賀百万石の極上ステイ 厳選3選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「金沢ひとり旅・美食おこもり」近江町市場徒歩すぐ・最上階天然温泉・のどぐろ会席！加賀百万石の極上ステイ 厳選3選</span>
             </a>
             <a href="/kanazawa-trip-packing-regrets-worst5-guide/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「金沢旅行で後悔したことワースト5」 月曜定休トラップ＆21美予約忘れ！海鮮丼行列を回避する持ち物＆知恵袋</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「金沢旅行で後悔したことワースト5」 月曜定休トラップ＆21美予約忘れ！海鮮丼行列を回避する持ち物＆知恵袋</span>
             </a>
             <a href="/traditional-ishikawa-kutaniyaki-art-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「九谷焼の鮮やかな器と加賀懐石」五彩の美学！山代・山中・片山津の加賀温泉郷名湯宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「九谷焼の鮮やかな器と加賀懐石」五彩の美学！山代・山中・片山津の加賀温泉郷名湯宿5選</span>
             </a>
             <a href="/traditional-kutani-ware-ceramic-art-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「五彩の美に酔いしれる。九谷焼ギャラリー＆絵付け体験ができる加賀温泉郷の名旅館5選」五彩の美に酔いしれる。九谷焼ギャラリー＆絵付け体験ができる加賀温泉郷の名旅館5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「五彩の美に酔いしれる。九谷焼ギャラリー＆絵付け体験ができる加賀温泉郷の名旅館5選」五彩の美に酔いしれる。九谷焼ギャラリー＆絵付け体験ができる加賀温泉郷の名旅館5選</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

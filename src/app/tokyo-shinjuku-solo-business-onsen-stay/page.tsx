@@ -397,19 +397,19 @@ export default function ArticlePage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/winter-chiba-tokyo-disney-resort-maihama-christmas-hotel-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">東京ディズニーリゾート冬のクリスマス＆年末年始！ 直営・オフィシャルホテルで叶える夢の冬旅名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">東京ディズニーリゾート冬のクリスマス＆年末年始！ 直営・オフィシャルホテルで叶える夢の冬旅名宿5選</span>
             </a>
             <a href="/winter-saga-yoshinogari-hikarinohibiki-ariake-nori-sagagyu-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「古代環濠の灯火・吉野ヶ里光の響と冬の初摘み有明海苔」2026-2027年冬の佐賀・神埼＆佐賀城下！古湯名湯と最高峰佐賀牛名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「古代環濠の灯火・吉野ヶ里光の響と冬の初摘み有明海苔」2026-2027年冬の佐賀・神埼＆佐賀城下！古湯名湯と最高峰佐賀牛名宿5選</span>
             </a>
             <a href="/winter-tokyo-marunouchi-illumination-luxury-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12月！丸の内シャンパンゴールド夜景】大手町・銀座の煌めきと極上クラブラウンジ宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">【11・12月！丸の内シャンパンゴールド夜景】大手町・銀座の煌めきと極上クラブラウンジ宿5選</span>
             </a>
             <a href="/winter-tokyo-okutama-mitake-shrine-hatsumode-hikawa-gorge-akikawagyu-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">天空の古社「武蔵御嶽神社」新春初詣と氷川渓谷の冬静寂 奥多摩わさび＆幻の極上「秋川牛」会席と清流名湯宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">天空の古社「武蔵御嶽神社」新春初詣と氷川渓谷の冬静寂 奥多摩わさび＆幻の極上「秋川牛」会席と清流名湯宿5選</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

@@ -369,19 +369,19 @@ export default function ArticlePage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/gifu-shirakawago-gokayama-gassho-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「岐阜・白川郷＆五箇山」世界遺産合掌造り集落・荻町展望台＆飛騨牛・すったて汁宿 厳選ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「岐阜・白川郷＆五箇山」世界遺産合掌造り集落・荻町展望台＆飛騨牛・すったて汁宿 厳選ガイド</span>
             </a>
             <a href="/nagoya-departure-daytrip-bus-tour-guide/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「名古屋発 日帰りバスツアー＆温泉ランチおすすめ」 下呂温泉・伊勢神宮参拝・飛騨牛食べ放題 プラン深掘り特集</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「名古屋発 日帰りバスツアー＆温泉ランチおすすめ」 下呂温泉・伊勢神宮参拝・飛騨牛食べ放題 プラン深掘り特集</span>
             </a>
             <a href="/tokyo-takayama-shirakawago-highway-bus-guide/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「東京・新宿〜飛騨高山・白川郷」直行高速バスが最強！電車との料金・時間比較＆飛騨牛1泊2日モデルコース</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「東京・新宿〜飛騨高山・白川郷」直行高速バスが最強！電車との料金・時間比較＆飛騨牛1泊2日モデルコース</span>
             </a>
             <a href="/traditional-hida-beef-houba-miso-grill-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「香ばしい味噌の香りと極上霜降り（名物「飛騨牛朴葉味噌焼き」会席の温泉宿5選）」香ばしい味噌の香りと極上霜降り！名物「飛騨牛朴葉味噌焼き」会席の温泉宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「香ばしい味噌の香りと極上霜降り（名物「飛騨牛朴葉味噌焼き」会席の温泉宿5選）」香ばしい味噌の香りと極上霜降り！名物「飛騨牛朴葉味噌焼き」会席の温泉宿5選</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

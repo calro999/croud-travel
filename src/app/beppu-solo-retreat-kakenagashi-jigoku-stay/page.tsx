@@ -433,19 +433,19 @@ export default function ArticlePage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/oita-beppu-hell-hotspring-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「大分・別府八湯＆別府地獄めぐり」海地獄・血の池地獄＆地獄蒸し極上宿 厳選ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「大分・別府八湯＆別府地獄めぐり」海地獄・血の池地獄＆地獄蒸し極上宿 厳選ガイド</span>
             </a>
             <a href="/oita-solo-business-rooftop-onsen-gourmet-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「大分出張＆豊後ソログルメ泊」大分駅直結・地上80m屋上インフィニティ天然温泉・関アジ関サバ！名物とり天を満喫する極上ホテル 厳選3選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「大分出張＆豊後ソログルメ泊」大分駅直結・地上80m屋上インフィニティ天然温泉・関アジ関サバ！名物とり天を満喫する極上ホテル 厳選3選</span>
             </a>
             <a href="/oita-yufuin-kinrin-lake-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「大分・由布院」金鱗湖・湯の坪街道＆由布岳パノラマ極上宿 厳選ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「大分・由布院」金鱗湖・湯の坪街道＆由布岳パノラマ極上宿 厳選ガイド</span>
             </a>
             <a href="/silver-week-glamping-kyushu-fukuoka-kumamoto-guide/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「九州シルバーウィーク グランピング」 阿蘇カルデラ・糸島ビーチ・別府由布院 源泉かけ流し温泉＆九州黒毛和牛BBQステイ</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「九州シルバーウィーク グランピング」 阿蘇カルデラ・糸島ビーチ・別府由布院 源泉かけ流し温泉＆九州黒毛和牛BBQステイ</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

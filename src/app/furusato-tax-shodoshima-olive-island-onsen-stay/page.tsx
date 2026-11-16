@@ -546,19 +546,19 @@ export default function FurusatoArticlePage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/organic-olive-farm-mediterranean-spa-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「日本の地中海・小豆島（搾りたてオリーブオイル会席＆極上オリーブスパの海宿5選）」日本の地中海・小豆島！搾りたてオリーブオイル会席＆極上オリーブスパの海宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「日本の地中海・小豆島（搾りたてオリーブオイル会席＆極上オリーブスパの海宿5選）」日本の地中海・小豆島！搾りたてオリーブオイル会席＆極上オリーブスパの海宿5選</span>
             </a>
             <a href="/traditional-sanuki-udon-gourmet-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「本場讃岐うどん巡礼（こんぴら温泉郷＆香川グルメを堪能する極上名宿5選）」本場讃岐うどん巡礼！こんぴら温泉郷＆香川グルメを堪能する極上名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「本場讃岐うどん巡礼（こんぴら温泉郷＆香川グルメを堪能する極上名宿5選）」本場讃岐うどん巡礼！こんぴら温泉郷＆香川グルメを堪能する極上名宿5選</span>
             </a>
             <a href="/winter-kagawa-kotohira-onsen-konpira-olive-beef-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12月ことひら温泉郷のこんぴら参りと讃岐富士冬絶景】初冬の金刀比羅宮門前名湯・讃岐オリーブ牛ステーキ＆本場手打ち讃岐うどん会席の宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">【11・12月ことひら温泉郷のこんぴら参りと讃岐富士冬絶景】初冬の金刀比羅宮門前名湯・讃岐オリーブ牛ステーキ＆本場手打ち讃岐うどん会席の宿5選</span>
             </a>
             <a href="/winter-kagawa-takamatsu-tamura-shrine-hatsumode-shionoe-onsen-olivegyu-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">讃岐一ノ宮「田村神社」新春初詣と栗林公園の冬雪吊り 奥座敷・塩江温泉の美肌湯＆熱々しっぽくうどん・オリーブ牛名宿</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">讃岐一ノ宮「田村神社」新春初詣と栗林公園の冬雪吊り 奥座敷・塩江温泉の美肌湯＆熱々しっぽくうどん・オリーブ牛名宿</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

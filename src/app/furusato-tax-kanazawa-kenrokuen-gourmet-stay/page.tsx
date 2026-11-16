@@ -546,19 +546,19 @@ export default function FurusatoArticlePage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/traditional-crafts-pottery-gold-leaf-washi-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">伝統工芸体験宿厳選ガイド「金沢金箔・越前和紙・有田焼陶芸ステイ」</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">伝統工芸体験宿厳選ガイド「金沢金箔・越前和紙・有田焼陶芸ステイ」</span>
             </a>
             <a href="/traditional-ishikawa-wajima-nuri-lacquer-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「輪島塗の器で味わう能登前寿司（能登復興応援＆和倉温泉・七尾湾オーシャン宿5選）」輪島塗の器で味わう能登前寿司！能登復興応援＆和倉温泉・七尾湾オーシャン宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「輪島塗の器で味わう能登前寿司（能登復興応援＆和倉温泉・七尾湾オーシャン宿5選）」輪島塗の器で味わう能登前寿司！能登復興応援＆和倉温泉・七尾湾オーシャン宿5選</span>
             </a>
             <a href="/winter-ishikawa-awazu-onsen-kanogani-notogyu-kaga-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12月石川・粟津温泉＆加賀温泉郷】白山霊泉と冬の美食 全宿自家堀り源泉の純度100%硫酸塩泉・解禁加能ガニ＆香箱ガニと能登牛を味わう名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">【11・12月石川・粟津温泉＆加賀温泉郷】白山霊泉と冬の美食 全宿自家堀り源泉の純度100%硫酸塩泉・解禁加能ガニ＆香箱ガニと能登牛を味わう名宿5選</span>
             </a>
             <a href="/winter-ishikawa-kaga-yamashiro-luxury-araya-totoan-kanogani-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【魯山人の美意識が宿る数寄屋造りの名門と加能ガニ極上フルコース】2026-2027年11-12月初冬の石川・加賀温泉郷！名門「あらや滔々庵」＆「山中温泉 花紫」・源泉掛け流し客室露</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">【魯山人の美意識が宿る数寄屋造りの名門と加能ガニ極上フルコース】2026-2027年11-12月初冬の石川・加賀温泉郷！名門「あらや滔々庵」＆「山中温泉 花紫」・源泉掛け流し客室露</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

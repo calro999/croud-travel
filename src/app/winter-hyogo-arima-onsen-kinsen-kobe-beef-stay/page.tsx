@@ -618,7 +618,7 @@ export default function ArimaWinterPage() {
               className="bg-white p-4 rounded-2xl border border-stone-200/80 hover:border-amber-700 hover:shadow-md transition group block"
             >
               <span className="text-[10px] font-extrabold text-amber-800 uppercase block mb-1">兵庫の冬の王様</span>
-              <h3 className="text-sm font-bold text-stone-900 group-hover:text-amber-800 transition line-clamp-2">【城崎温泉】冬の松葉ガニ解禁と七田外湯めぐり・浴衣そぞろ歩き宿</h3>
+              <h3 className="text-sm font-bold text-stone-900 group-hover:text-amber-800 transition">【城崎温泉】冬の松葉ガニ解禁と七田外湯めぐり・浴衣そぞろ歩き宿</h3>
             </Link>
 
             <Link 
@@ -626,7 +626,7 @@ export default function ArimaWinterPage() {
               className="bg-white p-4 rounded-2xl border border-stone-200/80 hover:border-amber-700 hover:shadow-md transition group block"
             >
               <span className="text-[10px] font-extrabold text-amber-800 uppercase block mb-1">京都の冬情緒</span>
-              <h3 className="text-sm font-bold text-stone-900 group-hover:text-amber-800 transition line-clamp-2">【京都嵐山】渡月橋の初冬絶景と名物湯豆腐会席・静寂の名旅館</h3>
+              <h3 className="text-sm font-bold text-stone-900 group-hover:text-amber-800 transition">【京都嵐山】渡月橋の初冬絶景と名物湯豆腐会席・静寂の名旅館</h3>
             </Link>
 
             <Link 
@@ -634,7 +634,7 @@ export default function ArimaWinterPage() {
               className="bg-white p-4 rounded-2xl border border-stone-200/80 hover:border-amber-700 hover:shadow-md transition group block"
             >
               <span className="text-[10px] font-extrabold text-amber-800 uppercase block mb-1">日本三古湯の名湯</span>
-              <h3 className="text-sm font-bold text-stone-900 group-hover:text-amber-800 transition line-clamp-2">【道後温泉】保存修理完了の本館と真鯛鯛めし・伊予牛会席の宿</h3>
+              <h3 className="text-sm font-bold text-stone-900 group-hover:text-amber-800 transition">【道後温泉】保存修理完了の本館と真鯛鯛めし・伊予牛会席の宿</h3>
             </Link>
 
             <Link 
@@ -642,7 +642,7 @@ export default function ArimaWinterPage() {
               className="bg-white p-4 rounded-2xl border border-stone-200/80 hover:border-amber-700 hover:shadow-md transition group block"
             >
               <span className="text-[10px] font-extrabold text-amber-800 uppercase block mb-1">近畿・伊勢志摩</span>
-              <h3 className="text-sm font-bold text-stone-900 group-hover:text-amber-800 transition line-clamp-2">【伊勢志摩】宇治橋の冬至日の出と的矢かき・伊勢海老会席の宿</h3>
+              <h3 className="text-sm font-bold text-stone-900 group-hover:text-amber-800 transition">【伊勢志摩】宇治橋の冬至日の出と的矢かき・伊勢海老会席の宿</h3>
             </Link>
 
             <Link 
@@ -650,7 +650,7 @@ export default function ArimaWinterPage() {
               className="bg-white p-4 rounded-2xl border border-stone-200/80 hover:border-amber-700 hover:shadow-md transition group block"
             >
               <span className="text-[10px] font-extrabold text-amber-800 uppercase block mb-1">紀州の幻の魚</span>
-              <h3 className="text-sm font-bold text-stone-900 group-hover:text-amber-800 transition line-clamp-2">【天然クエ料理】冬の白浜・南紀で味わう幻の高級魚クエ鍋と名湯露天</h3>
+              <h3 className="text-sm font-bold text-stone-900 group-hover:text-amber-800 transition">【天然クエ料理】冬の白浜・南紀で味わう幻の高級魚クエ鍋と名湯露天</h3>
             </Link>
 
             <Link 
@@ -658,7 +658,7 @@ export default function ArimaWinterPage() {
               className="bg-white p-4 rounded-2xl border border-stone-200/80 hover:border-amber-700 hover:shadow-md transition group block"
             >
               <span className="text-[10px] font-extrabold text-amber-800 uppercase block mb-1">日本三名泉</span>
-              <h3 className="text-sm font-bold text-stone-900 group-hover:text-amber-800 transition line-clamp-2">【下呂温泉】冬花火ミュージカルと日本三名泉美肌湯・飛騨牛会席</h3>
+              <h3 className="text-sm font-bold text-stone-900 group-hover:text-amber-800 transition">【下呂温泉】冬花火ミュージカルと日本三名泉美肌湯・飛騨牛会席</h3>
             </Link>
           
       <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">

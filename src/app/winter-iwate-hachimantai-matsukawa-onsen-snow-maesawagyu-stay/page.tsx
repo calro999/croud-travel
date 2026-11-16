@@ -567,8 +567,8 @@ export default function IwateHachimantaiPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">岩手・花巻温泉</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">花巻温泉郷の雪見露天と前沢牛会席</h4>
-              <p className="text-[11px] text-stone-200 line-clamp-2">
+              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition">花巻温泉郷の雪見露天と前沢牛会席</h4>
+              <p className="text-[11px] text-stone-200">
                 宮沢賢治ゆかりのイーハトーブの湯と台川渓谷の雪景色、極上前沢牛すき焼きを堪能する冬の休日。
               </p>
             </Link>
@@ -578,8 +578,8 @@ export default function IwateHachimantaiPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">岩手・鶯宿＆雫石温泉</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">鶯宿温泉の開湯450年名湯と雫石牛</h4>
-              <p className="text-[11px] text-stone-200 line-clamp-2">
+              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition">鶯宿温泉の開湯450年名湯と雫石牛</h4>
+              <p className="text-[11px] text-stone-200">
                 小岩井農場の雪景色と鶯川の湯けむり、濃厚な雫石牛陶板焼きを味わう冬旅。
               </p>
             </Link>
@@ -589,8 +589,8 @@ export default function IwateHachimantaiPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">岩手・繋温泉</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">御所湖畔の繋温泉と小岩井イルミネーション</h4>
-              <p className="text-[11px] text-stone-200 line-clamp-2">
+              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition">御所湖畔の繋温泉と小岩井イルミネーション</h4>
+              <p className="text-[11px] text-stone-200">
                 源義家ゆかりの古湯と銀河農場の幻想的な光の祭典、冬の盛岡グルメを巡る旅。
               </p>
             </Link>

@@ -371,19 +371,19 @@ export default function ArticlePage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/wakayama-shirahama-solo-retreat-ocean-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「南紀白浜ひとり旅・海一望名湯おこもり」白良浜オーシャンビュー・日本三古湯・クエ＆伊勢海老！太平洋の絶景に抱かれる厳選3宿</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「南紀白浜ひとり旅・海一望名湯おこもり」白良浜オーシャンビュー・日本三古湯・クエ＆伊勢海老！太平洋の絶景に抱かれる厳選3宿</span>
             </a>
             <a href="/winter-hokkaido-kawayu-onsen-mashu-kussharo-crab-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">北海道・川湯温泉＆屈斜路湖・摩周湖 pH1.7極上強酸性硫黄泉と冬の味覚オホーツク毛ガニ名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">北海道・川湯温泉＆屈斜路湖・摩周湖 pH1.7極上強酸性硫黄泉と冬の味覚オホーツク毛ガニ名宿5選</span>
             </a>
             <a href="/winter-wakayama-arida-yuasa-mikan-tachiuo-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">和歌山・有田＆湯浅・広川 黄金色に輝く「有田みかん海道」と重伝建・湯浅醤油蔵通り 箕島一本釣り太刀魚・本クエ鍋・熊野牛＆絶景名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">和歌山・有田＆湯浅・広川 黄金色に輝く「有田みかん海道」と重伝建・湯浅醤油蔵通り 箕島一本釣り太刀魚・本クエ鍋・熊野牛＆絶景名宿5選</span>
             </a>
             <a href="/winter-wakayama-koyasan-shukubo-okunoin-snow-shojin-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「11・12・1月和歌山」世界遺産・高野山の白銀「壇上伽藍＆奥之院」雪景色と宿坊阿字観体験＆冬の滋味精進料理・新春初詣名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「11・12・1月和歌山」世界遺産・高野山の白銀「壇上伽藍＆奥之院」雪景色と宿坊阿字観体験＆冬の滋味精進料理・新春初詣名宿5選</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

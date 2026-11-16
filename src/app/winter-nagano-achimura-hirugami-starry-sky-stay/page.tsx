@@ -762,7 +762,7 @@ export default function HirugamiWinterPage() {
             >
               <span className="text-[11px] font-bold text-indigo-800 bg-indigo-100/80 px-2 py-0.5 rounded">天体観測特集</span>
               <h3 className="font-bold text-stone-900 text-sm group-hover:text-indigo-900 transition-colors">満天の冬星空と天体撮影が楽しめる全国の絶景温泉宿</h3>
-              <p className="text-xs text-stone-500 line-clamp-2">
+              <p className="text-xs text-stone-500">
                 人工の光が届かない山頂リゾートや高原露天風呂で仰ぐ満天の天の川。
               </p>
             </Link>
@@ -773,7 +773,7 @@ export default function HirugamiWinterPage() {
             >
               <span className="text-[11px] font-bold text-amber-800 bg-amber-100/80 px-2 py-0.5 rounded">信州冬特集</span>
               <h3 className="font-bold text-stone-900 text-sm group-hover:text-amber-900 transition-colors">地獄谷スノーモンキーと湯田中渋温泉郷の九湯めぐり</h3>
-              <p className="text-xs text-stone-500 line-clamp-2">
+              <p className="text-xs text-stone-500">
                 雪の中で温泉に浸かる野生のニホンザルと情緒豊かな外湯めぐり街。
               </p>
             </Link>
@@ -784,7 +784,7 @@ export default function HirugamiWinterPage() {
             >
               <span className="text-[11px] font-bold text-teal-800 bg-teal-100/80 px-2 py-0.5 rounded">絶景パノラマ</span>
               <h3 className="font-bold text-stone-900 text-sm group-hover:text-teal-900 transition-colors">冬の澄天に輝く白銀の富士山絶景ホテル・温泉宿</h3>
-              <p className="text-xs text-stone-500 line-clamp-2">
+              <p className="text-xs text-stone-500">
                 1年で最も美しい雪化粧の富士山を客室露天やラウンジから独占する旅。
               </p>
             </Link>

@@ -330,14 +330,14 @@ export default function SilverWeekGlampingPrivatePoolJacuzziPage() {
                     </span>
                   </div>
 
-                  <h3 className="font-black text-slate-900 text-base leading-snug group-hover:text-cyan-700 transition line-clamp-2 font-journal-serif">{hotel.hotelName}</h3>
+                  <h3 className="font-black text-slate-900 text-base leading-snug group-hover:text-cyan-700 transition font-journal-serif">{hotel.hotelName}</h3>
 
-                  <p className="text-xs text-slate-600 line-clamp-3 leading-relaxed font-medium">
+                  <p className="text-xs text-slate-600 leading-relaxed font-medium">
                     {hotel.hotelSpecial || "開放感あふれるプライベートプールやジャグジーを備えた水辺のリゾートヴィラ。夕暮れのトワイライトから星空ナイトプールまで特別な時間をお楽しみいただけます。"}
                   </p>
 
                   {hotel.access && (
-                    <p className="text-[11px] text-slate-500 line-clamp-1">
+                    <p className="text-[11px] text-slate-500">
                       🚗 {hotel.access}
                     </p>
                   )}
@@ -397,7 +397,7 @@ export default function SilverWeekGlampingPrivatePoolJacuzziPage() {
             <span className="text-[10px] font-bold text-cyan-300 bg-cyan-400/20 px-2 py-0.5 rounded-full inline-block mb-1.5">
               プライベートプール特化
             </span>
-            <div className="font-bold text-xs sm:text-sm text-white group-hover:text-cyan-200 transition line-clamp-2">
+            <div className="font-bold text-xs sm:text-sm text-white group-hover:text-cyan-200 transition">
               【沖縄ラグジュアリー記念日リゾート】全室プール付きスイートヴィラ＆至高のインフィニティ絶景
             </div>
           </Link>
@@ -409,7 +409,7 @@ export default function SilverWeekGlampingPrivatePoolJacuzziPage() {
             <span className="text-[10px] font-bold text-cyan-300 bg-cyan-400/20 px-2 py-0.5 rounded-full inline-block mb-1.5">
               記念日＆ジャグジー客室
             </span>
-            <div className="font-bold text-xs sm:text-sm text-white group-hover:text-cyan-200 transition line-clamp-2">
+            <div className="font-bold text-xs sm:text-sm text-white group-hover:text-cyan-200 transition">
               【箱根カップル記念日旅行 1泊2日】露天風呂付き客室と美食フレンチで祝う極上アニバーサリー
             </div>
           </Link>

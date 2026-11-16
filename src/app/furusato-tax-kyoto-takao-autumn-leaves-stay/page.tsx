@@ -463,19 +463,19 @@ export default function Page() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/furusato-tax-private-pool-luxury-suite-villa-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">客室専用プライベートプール＆温水ジャグジー付き極上ヴィラ宿×ふるさと納税厳選ガイド沖縄・宮古島・千葉鴨川</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">客室専用プライベートプール＆温水ジャグジー付き極上ヴィラ宿×ふるさと納税厳選ガイド沖縄・宮古島・千葉鴨川</span>
             </a>
             <a href="/winter-chiba-minamiboso-tateyama-chikura-ocean-iseebi-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12月千葉・南房総館山温泉＆千倉温泉】海越しに望む冠雪富士と温暖避寒の海辺名湯・房州伊勢海老＆地魚一本買い舟盛り・極上かずさ和牛を味わう名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">【11・12月千葉・南房総館山温泉＆千倉温泉】海越しに望む冠雪富士と温暖避寒の海辺名湯・房州伊勢海老＆地魚一本買い舟盛り・極上かずさ和牛を味わう名宿5選</span>
             </a>
             <a href="/chiba-tateyama-shirahama-nojimazaki-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">千葉・館山＆白浜・野島崎：房総最南端白亜の灯台・フラワーライン＆伊勢海老宿 厳選ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">千葉・館山＆白浜・野島崎：房総最南端白亜の灯台・フラワーライン＆伊勢海老宿 厳選ガイド</span>
             </a>
             <a href="/winter-chiba-katori-shrine-hatsumode-sawara-inubosaki-kinmedai-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">下総国一宮・香取神宮新春初詣と小江戸佐原の雪情話：2026-2027年冬の千葉・香取＆犬吠埼！本州最速初日の出と極上寒金目鯛名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">下総国一宮・香取神宮新春初詣と小江戸佐原の雪情話：2026-2027年冬の千葉・香取＆犬吠埼！本州最速初日の出と極上寒金目鯛名宿5選</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

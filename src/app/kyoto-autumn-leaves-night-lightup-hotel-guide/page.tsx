@@ -321,16 +321,16 @@ export default function KyotoAutumnLeavesNightLightupPage() {
                       )}
                     </div>
 
-                    <h3 className="text-base font-bold font-serif text-white line-clamp-2 group-hover:text-rose-300 transition">{hotel.hotelName}</h3>
+                    <h3 className="text-base font-bold font-serif text-white group-hover:text-rose-300 transition">{hotel.hotelName}</h3>
 
                     {hotel.hotelSpecial && (
-                      <p className="text-xs text-stone-400 line-clamp-3 leading-relaxed">
+                      <p className="text-xs text-stone-400 leading-relaxed">
                         {hotel.hotelSpecial}
                       </p>
                     )}
 
                     {hotel.access && (
-                      <p className="text-[11px] text-stone-500 line-clamp-2 border-t border-stone-800/60 pt-2">
+                      <p className="text-[11px] text-stone-500 border-t border-stone-800/60 pt-2">
                         📍 {hotel.access}
                       </p>
                     )}
@@ -458,19 +458,19 @@ export default function KyotoAutumnLeavesNightLightupPage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/furusato-tax-kyoto-onsen-ryokan-machiya-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">渡月橋と竹林の小径を巡る！京都・嵐山温泉の名門旅館＆客室露天×ふるさと納税極上旅ガイド渡月亭・翠嵐・花伝抄</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">渡月橋と竹林の小径を巡る！京都・嵐山温泉の名門旅館＆客室露天×ふるさと納税極上旅ガイド渡月亭・翠嵐・花伝抄</span>
             </a>
             <a href="/furusato-tax-matsutake-autumn-gourmet-kaiseki-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">本場名産地で味わう極上松茸尽くし会席＆焼き松茸・土瓶蒸しの名門温泉宿×ふるさと納税厳選ガイド信州別所・丹波篠山・京都湯の花</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">本場名産地で味わう極上松茸尽くし会席＆焼き松茸・土瓶蒸しの名門温泉宿×ふるさと納税厳選ガイド信州別所・丹波篠山・京都湯の花</span>
             </a>
             <a href="/kyoto/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「京都旅行 厳選ガイド」 観光モデルコース・穴場・季節・公式おすすめ人気ホテル＆温泉旅館</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「京都旅行 厳選ガイド」 観光モデルコース・穴場・季節・公式おすすめ人気ホテル＆温泉旅館</span>
             </a>
             <a href="/kyoto-couple-luxury-ryokan-guide/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「京都カップル旅行 おすすめ高級旅館＆町家ホテル」 祇園・嵐山で二人きりの特別な夜を過ごす大人の宿</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「京都カップル旅行 おすすめ高級旅館＆町家ホテル」 祇園・嵐山で二人きりの特別な夜を過ごす大人の宿</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

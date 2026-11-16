@@ -683,7 +683,7 @@ export default function OkuhidaWinterPage() {
               <div className="font-bold text-stone-900 group-hover:text-emerald-700 mb-1">
                 白川郷の合掌造り雪景色＆ライトアップ特集
               </div>
-              <p className="text-xs text-stone-500 line-clamp-2">
+              <p className="text-xs text-stone-500">
                 世界遺産・白川郷の幻想的な冬のライトアップと高山・飛騨古川の名宿ガイド。
               </p>
             </Link>
@@ -695,7 +695,7 @@ export default function OkuhidaWinterPage() {
               <div className="font-bold text-stone-900 group-hover:text-emerald-700 mb-1">
                 下呂温泉の冬花火と美肌の湯・飛騨牛会席
               </div>
-              <p className="text-xs text-stone-500 line-clamp-2">
+              <p className="text-xs text-stone-500">
                 日本三名泉・下呂温泉。冬の澄んだ夜空を彩る花火ミュージカルと極上の美肌名湯。
               </p>
             </Link>
@@ -707,7 +707,7 @@ export default function OkuhidaWinterPage() {
               <div className="font-bold text-stone-900 group-hover:text-emerald-700 mb-1">
                 富山・氷見の寒ブリと立山連峰雪景色
               </div>
-              <p className="text-xs text-stone-500 line-clamp-2">
+              <p className="text-xs text-stone-500">
                 富山湾越しに望む白銀の立山連峰と、脂の乗り切った冬の王様「氷見寒ブリ」会席。
               </p>
             </Link>
@@ -719,7 +719,7 @@ export default function OkuhidaWinterPage() {
               <div className="font-bold text-stone-900 group-hover:text-emerald-700 mb-1">
                 長野・野沢温泉の外湯めぐりと極上パウダースノー
               </div>
-              <p className="text-xs text-stone-500 line-clamp-2">
+              <p className="text-xs text-stone-500">
                 13箇所の外湯めぐりと名物野沢菜、上質な天然雪が彩る信州屈指の温泉スキーリゾート。
               </p>
             </Link>
@@ -731,7 +731,7 @@ export default function OkuhidaWinterPage() {
               <div className="font-bold text-stone-900 group-hover:text-emerald-700 mb-1">
                 群馬・草津温泉の雪見露天と湯畑ライトアップ
               </div>
-              <p className="text-xs text-stone-500 line-clamp-2">
+              <p className="text-xs text-stone-500">
                 日本屈指の強酸性泉・草津温泉。白銀に輝く湯畑の幻想的な夜景と湯もみ体験。
               </p>
             </Link>

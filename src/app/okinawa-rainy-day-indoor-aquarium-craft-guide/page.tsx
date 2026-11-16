@@ -293,7 +293,7 @@ export default function OkinawaRainyDayIndoorAquariumCraftGuidePage() {
                         <p className="text-xs text-slate-500 mb-3">
                           {hotel.address1} {hotel.address2}
                         </p>
-                        <p className="text-xs sm:text-sm text-slate-600 leading-relaxed line-clamp-3 mb-4">
+                        <p className="text-xs sm:text-sm text-slate-600 leading-relaxed mb-4">
                           {hotel.hotelSpecial || "全天候型の快適なステイ。雨の日も館内施設や近隣スポットで充実した時間をお過ごしいただけます。"}
                         </p>
                         {hotel.access && (
@@ -409,19 +409,19 @@ export default function OkinawaRainyDayIndoorAquariumCraftGuidePage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/traditional-okinawa-bingata-textile-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「琉球王朝の雅を体感（琉球紅型染め体験＆読谷やちむんの里のオーシャンリゾート5選）」琉球王朝の雅を体感！琉球紅型染め体験＆読谷やちむんの里のオーシャンリゾート5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「琉球王朝の雅を体感（琉球紅型染め体験＆読谷やちむんの里のオーシャンリゾート5選）」琉球王朝の雅を体感！琉球紅型染め体験＆読谷やちむんの里のオーシャンリゾート5選</span>
             </a>
             <a href="/traditional-okinawa-yachimun-pottery-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「やちむんの温もり」沖縄伝統の陶器で味わう琉球フレンチ＆美ら海オーシャンビューリゾート宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「やちむんの温もり」沖縄伝統の陶器で味わう琉球フレンチ＆美ら海オーシャンビューリゾート宿5選</span>
             </a>
             <a href="/winter-mie-iga-ueno-castle-akame-48waterfalls-hyobaku-igagyu-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「三重・伊賀上野＆赤目四十八滝」 忍者の里「伊賀上野城」白銀の高石垣と上野天神宮新春初詣！ 神秘の「赤目四十八滝」氷瀑と幻の極上伊賀牛すき焼き名宿</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「三重・伊賀上野＆赤目四十八滝」 忍者の里「伊賀上野城」白銀の高石垣と上野天神宮新春初詣！ 神秘の「赤目四十八滝」氷瀑と幻の極上伊賀牛すき焼き名宿</span>
             </a>
             <a href="/winter-okinawa-miyakojima-shigira-resort-sunrisepoint-miyakogyu-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">冬の避寒リゾート＆宮古ブルー！ シギラリゾートの南国極上ステイと宮古牛名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">冬の避寒リゾート＆宮古ブルー！ シギラリゾートの南国極上ステイと宮古牛名宿5選</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

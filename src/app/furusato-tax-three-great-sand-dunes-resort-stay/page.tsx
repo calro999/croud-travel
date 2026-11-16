@@ -153,8 +153,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     鳥取県米子市皆生温泉3-4-3
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">皆生温泉　皆生シーサイドホテル　海の四季</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">皆生温泉　皆生シーサイドホテル　海の四季</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     【楽天アワード2025受賞】14年連続＆通算17回目！全室オーシャンフロント！
                   </p>
                   
@@ -197,8 +197,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     兵庫県美方郡新温泉町湯1610
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">山陰湯村温泉　湧泉の宿　ゆあむ</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">山陰湯村温泉　湧泉の宿　ゆあむ</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     【和モダンな温泉宿】2023年2月温泉付客室＜かわみ＞3タイプ誕生。全34室
                   </p>
                   
@@ -241,8 +241,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     鳥取県米子市皆生温泉4-19-10
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">皆生温泉　華水亭</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">お食事処リニューアルオープン♪日本海の眺望と季節の会席が愉しめる自家源泉の宿
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">皆生温泉　華水亭</h3>
+                  <p className="text-xs text-stone-400 mb-4">お食事処リニューアルオープン♪日本海の眺望と季節の会席が愉しめる自家源泉の宿
                   </p>
                   
                   <div className="mt-auto pt-4 border-t border-stone-800/80 flex items-center justify-between">
@@ -297,8 +297,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     静岡県浜松市中央区西伊場町58-7
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">スーパーホテル浜松　天然温泉「浜松出世の湯」</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">スーパーホテル浜松　天然温泉「浜松出世の湯」</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     【無料駐車場＆無料健康朝食＆男女別天然温泉】※駐車場利用不可プランにご注意。駐車は普通自動車のみ可能
                   </p>
                   
@@ -341,8 +341,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     静岡県湖西市古見1049-1
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">ホテルルートイン浜名湖</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">ホテルルートイン浜名湖</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     朝食無料！大浴場完備！全室BS・WOWOW視聴無料！
                   </p>
                   
@@ -398,8 +398,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     鹿児島県日置市吹上町湯之浦1106
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">中島温泉旅館</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">中島温泉旅館</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     西郷隆盛も訪れた名湯、歴史ある老舗純和風旅館。一日三組限定で一組に三部屋使用。天然かけ流しの硫黄泉。
                   </p>
                   

@@ -330,14 +330,14 @@ export default function SilverWeekGlampingAirConditioningBedPage() {
                     </span>
                   </div>
 
-                  <h3 className="font-black text-slate-900 text-base leading-snug group-hover:text-emerald-700 transition line-clamp-2 font-journal-serif">{hotel.hotelName}</h3>
+                  <h3 className="font-black text-slate-900 text-base leading-snug group-hover:text-emerald-700 transition font-journal-serif">{hotel.hotelName}</h3>
 
-                  <p className="text-xs text-slate-600 line-clamp-3 leading-relaxed font-medium">
+                  <p className="text-xs text-slate-600 leading-relaxed font-medium">
                     {hotel.hotelSpecial || "清潔な客室設備と充実のアメニティを完備。アウトドアの醍醐味とホテルの寛ぎを両立した高規格ステイを提供します。"}
                   </p>
 
                   {hotel.access && (
-                    <p className="text-[11px] text-slate-500 line-clamp-1">
+                    <p className="text-[11px] text-slate-500">
                       🚗 {hotel.access}
                     </p>
                   )}
@@ -397,7 +397,7 @@ export default function SilverWeekGlampingAirConditioningBedPage() {
             <span className="text-[10px] font-bold text-emerald-300 bg-emerald-400/20 px-2 py-0.5 rounded-full inline-block mb-1.5">
               初心者必読・持ち物ガイド
             </span>
-            <div className="font-bold text-xs sm:text-sm text-white group-hover:text-emerald-200 transition line-clamp-2">
+            <div className="font-bold text-xs sm:text-sm text-white group-hover:text-emerald-200 transition">
               【グランピング初めての後悔ゼロ計画】女子旅＆カップルの持ち物チェックリストと失敗しない選び方
             </div>
           </Link>
@@ -409,7 +409,7 @@ export default function SilverWeekGlampingAirConditioningBedPage() {
             <span className="text-[10px] font-bold text-emerald-300 bg-emerald-400/20 px-2 py-0.5 rounded-full inline-block mb-1.5">
               赤ちゃん連れ・快適温泉
             </span>
-            <div className="font-bold text-xs sm:text-sm text-white group-hover:text-emerald-200 transition line-clamp-2">
+            <div className="font-bold text-xs sm:text-sm text-white group-hover:text-emerald-200 transition">
               【関東 赤ちゃん連れ安心温泉旅館】客室露天風呂＆お部屋食で気兼ねなく過ごす家族旅行
             </div>
           </Link>

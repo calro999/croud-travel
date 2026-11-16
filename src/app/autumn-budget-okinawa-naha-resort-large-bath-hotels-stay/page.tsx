@@ -42,7 +42,7 @@ export default function OkinawaBudgetAutumnPage() {
             <span className="px-3 py-1 bg-stone-800 text-amber-300 text-xs font-medium rounded-full border border-amber-400/30">1泊目安: 2,000円台〜5,000円台</span>
           </div>
           <h1 className="text-2xl md:text-4xl lg:text-5xl font-extrabold text-white leading-tight mb-4 drop-shadow-md">「秋の沖縄・那覇×格安」快適オフシーズン旅！大浴場付き1泊2,000円〜5,000円台の高コスパリゾートホテル5選</h1>
-          <p className="text-stone-200 text-sm md:text-base max-w-3xl line-clamp-2 md:line-clamp-none">
+          <p className="text-stone-200 text-sm md:text-base max-w-3xl">
             夏の厳しい暑さが和らぎ、からりとした秋晴れが続く10月・11月の沖縄。航空券も宿泊費も一気に値下がりするベストシーズンに、大浴場やサウナ付きで優雅に滞在できる那覇のコスパ最強ホテルをご案内します。
           </p>
         </div>
@@ -98,7 +98,7 @@ export default function OkinawaBudgetAutumnPage() {
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: ゆいレール各駅 / ゆいレール県庁前駅徒歩３分
                   </p>
-                  <p className="text-sm text-stone-600 mb-4 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-stone-600 mb-4 leading-relaxed">
                     ゆったり寛げる男女別サウナ付大浴場併設！キャビン・洋室・和室と幅広いラインナップ！！
                   </p>
                 </div>
@@ -143,7 +143,7 @@ export default function OkinawaBudgetAutumnPage() {
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 那覇空港 / 那覇空港より車で１０分、ゆいレール美栄橋駅より徒歩８分、ゆいレール県庁前駅より徒歩９分、コンビニ目の前、国際通り徒歩圏内
                   </p>
-                  <p className="text-sm text-stone-600 mb-4 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-stone-600 mb-4 leading-relaxed">
                     国際通り徒歩圏内■ホテル＆カプセル融合型■大浴場・最上階プライベートジャグジー完備(プラン販売中)
                   </p>
                 </div>
@@ -188,7 +188,7 @@ export default function OkinawaBudgetAutumnPage() {
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: ゆいレール各駅 / 那覇空港からゆいレールで約20分、「牧志」駅下車直結、徒歩約1分！！国際通りに面しています。
                   </p>
-                  <p className="text-sm text-stone-600 mb-4 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-stone-600 mb-4 leading-relaxed">
                     【2025.2.1リニューアル♪】 ゆいレール牧志駅直結！観光拠点に！沖縄食材の朝食ビュッフェ♪
                   </p>
                 </div>
@@ -233,7 +233,7 @@ export default function OkinawaBudgetAutumnPage() {
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 那覇空港 / ゆいレール「旭橋駅」出入口2より徒歩3分
                   </p>
-                  <p className="text-sm text-stone-600 mb-4 line-clamp-3 leading-relaxed">開業。国際通りまで徒歩圏の絶好の立地。大浴場を備え、上質なくつろぎをご提供。
+                  <p className="text-sm text-stone-600 mb-4 leading-relaxed">開業。国際通りまで徒歩圏の絶好の立地。大浴場を備え、上質なくつろぎをご提供。
                   </p>
                 </div>
                 <div className="pt-3 border-t border-stone-100 flex items-center justify-between">
@@ -277,7 +277,7 @@ export default function OkinawaBudgetAutumnPage() {
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 那覇空港 / 那覇空港より車で約１０分（４．５ｋｍ）/モノレール美栄橋駅より徒歩５分。
                   </p>
-                  <p className="text-sm text-stone-600 mb-4 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-stone-600 mb-4 leading-relaxed">
                     ♦14階展望大浴場完備♦朝食無料サービス♦WOWOW無料視聴可能
                   </p>
                 </div>

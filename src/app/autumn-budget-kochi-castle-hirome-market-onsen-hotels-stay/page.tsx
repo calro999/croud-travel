@@ -42,7 +42,7 @@ export default function KochiBudgetAutumnPage() {
             <span className="px-3 py-1 bg-stone-800 text-amber-300 text-xs font-medium rounded-full border border-amber-400/30">1泊目安: 3,000円台〜6,000円台</span>
           </div>
           <h1 className="text-2xl md:text-4xl lg:text-5xl font-extrabold text-white leading-tight mb-4 drop-shadow-md">「秋の高知×格安」高知城の紅葉とひろめ市場のカツオ藁焼き！大浴場付き1泊3,000円〜6,000円台のコスパ最強ホテル5選</h1>
-          <p className="text-stone-200 text-sm md:text-base max-w-3xl line-clamp-2 md:line-clamp-none">
+          <p className="text-stone-200 text-sm md:text-base max-w-3xl">
             現存十二天守の一つ・高知城を包む鮮やかな紅葉と、秋に脂が乗り切った「戻りカツオ」。ひろめ市場で塩タタキと土佐の地酒を豪快に味わい、大浴場で手足を伸ばして寛げる高知の格安宿をご紹介します。
           </p>
         </div>
@@ -98,7 +98,7 @@ export default function KochiBudgetAutumnPage() {
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 高知駅 / 文化プラザかるぽーと徒歩1分・はりまや橋観光バスターミナル徒歩３分・はりまや橋徒歩7分・高知駅車で5分
                   </p>
-                  <p className="text-sm text-stone-600 mb-4 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-stone-600 mb-4 leading-relaxed">
                     朝ごはんフェス四国１位！女性経営らしい細やかな気配りが嬉しいホテル／展望大浴場／全室Wifi無料
                   </p>
                 </div>
@@ -143,7 +143,7 @@ export default function KochiBudgetAutumnPage() {
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 高知駅 / JR高知駅より車で約7分／高知空港よりバスで約20分、バス停「宝永町駅」より徒歩約4分
                   </p>
-                  <p className="text-sm text-stone-600 mb-4 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-stone-600 mb-4 leading-relaxed">
                     全室16平米以上の広々客室！大浴場＆サウナ完備！ファミリーや女子会向けの特別室もご用意！
                   </p>
                 </div>
@@ -188,7 +188,7 @@ export default function KochiBudgetAutumnPage() {
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 高知駅 / 高知駅より徒歩３分。繁華街まで５分圏内、高知IC車１０分。高知空港から車で３０分。
                   </p>
-                  <p className="text-sm text-stone-600 mb-4 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-stone-600 mb-4 leading-relaxed">
                     高知駅徒歩３分繁華街まで徒歩５分圏内 とにかく立地が良い和モダンなホテルです。全室禁煙です。
                   </p>
                 </div>
@@ -233,7 +233,7 @@ export default function KochiBudgetAutumnPage() {
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 伊野駅 / ＪＲ土讃線　伊野駅より車で約５分（約２．５キロ）／高知自動車道　伊野ＩＣより国道３３号線を松山方面へ約１５分（約６ｋｍ）
                   </p>
-                  <p className="text-sm text-stone-600 mb-4 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-stone-600 mb-4 leading-relaxed">
                     清流仁淀川を見下ろす全室仁淀川ビューの温泉宿。絶景の露天風呂や高知の食材を使用した会席料理を堪能！
                   </p>
                 </div>
@@ -278,7 +278,7 @@ export default function KochiBudgetAutumnPage() {
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 高知駅 / ＪＲ高知駅から徒歩約４分／高知ＩＣから車で約１０分
                   </p>
-                  <p className="text-sm text-stone-600 mb-4 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-stone-600 mb-4 leading-relaxed">
                     無料朝食＆男女入替制天然温泉のあるビジネスホテル♪
                   </p>
                 </div>

@@ -801,7 +801,7 @@ export default function AsahikawaPenguinWinterPage() {
                 <div>
                   <span className="text-[10px] font-bold bg-sky-400/30 text-sky-200 px-2 py-0.5 rounded-full inline-block mb-2">オホーツク流氷</span>
                   <h3 className="font-bold text-sm text-white group-hover:text-sky-200 transition">紋別・ガリンコ号＆毛ガニ名宿</h3>
-                  <p className="text-xs text-slate-300 mt-1 line-clamp-2">氷をドリルで砕く迫力の流氷砕氷船ガリンコ号とオホーツクタワー、冬毛ガニ尽くし。</p>
+                  <p className="text-xs text-slate-300 mt-1">氷をドリルで砕く迫力の流氷砕氷船ガリンコ号とオホーツクタワー、冬毛ガニ尽くし。</p>
                 </div>
                 <span className="text-xs text-sky-300 font-bold mt-3 flex items-center gap-1">詳しく見る →</span>
               </Link>
@@ -813,7 +813,7 @@ export default function AsahikawaPenguinWinterPage() {
                 <div>
                   <span className="text-[10px] font-bold bg-amber-400/30 text-amber-200 px-2 py-0.5 rounded-full inline-block mb-2">温泉に入る雪猿</span>
                   <h3 className="font-bold text-sm text-white group-hover:text-amber-200 transition">志賀高原＆地獄谷スノーモンキー</h3>
-                  <p className="text-xs text-slate-300 mt-1 line-clamp-2">世界が息を呑む温泉サルと標高2000mパウダースノー、渋温泉九湯めぐり老舗名宿。</p>
+                  <p className="text-xs text-slate-300 mt-1">世界が息を呑む温泉サルと標高2000mパウダースノー、渋温泉九湯めぐり老舗名宿。</p>
                 </div>
                 <span className="text-xs text-amber-300 font-bold mt-3 flex items-center gap-1">詳しく見る →</span>
               </Link>
@@ -825,7 +825,7 @@ export default function AsahikawaPenguinWinterPage() {
                 <div>
                   <span className="text-[10px] font-bold bg-rose-400/30 text-rose-200 px-2 py-0.5 rounded-full inline-block mb-2">山陰冬の奇跡</span>
                   <h3 className="font-bold text-sm text-white group-hover:text-rose-200 transition">鳥取砂丘・雪砂丘＆本場松葉ガニ</h3>
-                  <p className="text-xs text-slate-300 mt-1 line-clamp-2">日本海の寒風が織りなす白銀の雪砂丘と風紋、解禁直後の本場松葉ガニフルコース。</p>
+                  <p className="text-xs text-slate-300 mt-1">日本海の寒風が織りなす白銀の雪砂丘と風紋、解禁直後の本場松葉ガニフルコース。</p>
                 </div>
                 <span className="text-xs text-rose-300 font-bold mt-3 flex items-center gap-1">詳しく見る →</span>
               </Link>
@@ -837,7 +837,7 @@ export default function AsahikawaPenguinWinterPage() {
                 <div>
                   <span className="text-[10px] font-bold bg-emerald-400/30 text-emerald-200 px-2 py-0.5 rounded-full inline-block mb-2">光の祭典＆富士山</span>
                   <h3 className="font-bold text-sm text-white group-hover:text-emerald-200 transition">御殿場・時之栖イルミネーション</h3>
-                  <p className="text-xs text-slate-300 mt-1 line-clamp-2">550万球が輝くひかりのすみかと噴水レーザーショー、御殿場高原ビール＆天然温泉。</p>
+                  <p className="text-xs text-slate-300 mt-1">550万球が輝くひかりのすみかと噴水レーザーショー、御殿場高原ビール＆天然温泉。</p>
                 </div>
                 <span className="text-xs text-emerald-300 font-bold mt-3 flex items-center gap-1">詳しく見る →</span>
               </Link>

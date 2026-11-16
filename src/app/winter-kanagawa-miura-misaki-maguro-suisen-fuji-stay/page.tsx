@@ -620,7 +620,7 @@ export default function KanagawaMiuraMisakiWinterPage() {
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-sky-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-sky-800 font-bold text-xs block mb-1">神奈川・鎌倉＆江の島</span>
-              <span className="text-stone-900 font-bold group-hover:text-sky-900 transition-colors line-clamp-2">
+              <span className="text-stone-900 font-bold group-hover:text-sky-900 transition-colors">
                 湘南の宝石イルミネーションと鶴岡八幡宮初詣・富士山夕景と相模湾冬魚名宿
               </span>
             </Link>
@@ -630,7 +630,7 @@ export default function KanagawaMiuraMisakiWinterPage() {
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-sky-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-sky-800 font-bold text-xs block mb-1">神奈川・箱根温泉</span>
-              <span className="text-stone-900 font-bold group-hover:text-sky-900 transition-colors line-clamp-2">
+              <span className="text-stone-900 font-bold group-hover:text-sky-900 transition-colors">
                 冬の箱根温泉・雪化粧の富士山を望む絶景露天風呂と名旅館
               </span>
             </Link>
@@ -640,7 +640,7 @@ export default function KanagawaMiuraMisakiWinterPage() {
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-sky-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-sky-800 font-bold text-xs block mb-1">静岡・熱海温泉</span>
-              <span className="text-stone-900 font-bold group-hover:text-sky-900 transition-colors line-clamp-2">
+              <span className="text-stone-900 font-bold group-hover:text-sky-900 transition-colors">
                 熱海海上冬花火と金目鯛煮付け・相模湾オーシャンビュー名湯宿
               </span>
             </Link>
@@ -650,7 +650,7 @@ export default function KanagawaMiuraMisakiWinterPage() {
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-sky-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-sky-800 font-bold text-xs block mb-1">千葉・銚子犬吠埼</span>
-              <span className="text-stone-900 font-bold group-hover:text-sky-900 transition-colors line-clamp-2">
+              <span className="text-stone-900 font-bold group-hover:text-sky-900 transition-colors">
                 日本一早い初日の出と極上寒金目鯛・九十九里はまぐりを堪能する絶景名宿
               </span>
             </Link>
@@ -660,7 +660,7 @@ export default function KanagawaMiuraMisakiWinterPage() {
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-sky-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-sky-800 font-bold text-xs block mb-1">静岡・焼津温泉</span>
-              <span className="text-stone-900 font-bold group-hover:text-sky-900 transition-colors line-clamp-2">
+              <span className="text-stone-900 font-bold group-hover:text-sky-900 transition-colors">
                 駿河湾越しの冬富士と極上天然南まぐろ・黒潮温泉の温もりを味わう名宿
               </span>
             </Link>

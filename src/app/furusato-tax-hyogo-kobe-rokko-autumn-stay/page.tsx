@@ -399,19 +399,19 @@ export default function Page() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/himeji-castle-solo-business-onsen-sauna-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「姫路出張・天然温泉サウナ」世界遺産姫路城ビュー・天然温泉白鷺の湯・播州美食！山陽新幹線拠点を制する厳選3宿</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「姫路出張・天然温泉サウナ」世界遺産姫路城ビュー・天然温泉白鷺の湯・播州美食！山陽新幹線拠点を制する厳選3宿</span>
             </a>
             <a href="/hyogo-arima-solo-retreat-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「有馬温泉ひとり旅・金泉銀泉おこもり」日本最古の名湯・絶景露天・神戸牛会席！三宮から30分の極上ソロ湯治厳選3宿</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「有馬温泉ひとり旅・金泉銀泉おこもり」日本最古の名湯・絶景露天・神戸牛会席！三宮から30分の極上ソロ湯治厳選3宿</span>
             </a>
             <a href="/hyogo-kinosaki-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「兵庫・城崎温泉」七田外湯めぐり＆松葉ガニ・浴衣街歩き極上宿 厳選ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「兵庫・城崎温泉」七田外湯めぐり＆松葉ガニ・浴衣街歩き極上宿 厳選ガイド</span>
             </a>
             <a href="/hyogo-takeda-castle-asago-ikuno-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「兵庫・竹田城跡＆朝来・生野銀山」雲海に浮かぶ天空の城・生野鉱山坑道＆但馬牛宿 厳選ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「兵庫・竹田城跡＆朝来・生野銀山」雲海に浮かぶ天空の城・生野鉱山坑道＆但馬牛宿 厳選ガイド</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

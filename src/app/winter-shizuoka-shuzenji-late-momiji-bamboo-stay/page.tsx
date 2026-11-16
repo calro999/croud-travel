@@ -632,7 +632,7 @@ export default function ShuzenjiWinterPage() {
               className="bg-white p-4 rounded-2xl border border-stone-200/80 hover:border-emerald-700 hover:shadow-md transition group block"
             >
               <span className="text-[10px] font-extrabold text-emerald-800 uppercase block mb-1">伊豆の冬エンタメ</span>
-              <h3 className="text-sm font-bold text-stone-900 group-hover:text-emerald-800 transition line-clamp-2">【伊豆高原】グランイルミ体験型イルミネーションと伊東温泉・金目鯛会席</h3>
+              <h3 className="text-sm font-bold text-stone-900 group-hover:text-emerald-800 transition">【伊豆高原】グランイルミ体験型イルミネーションと伊東温泉・金目鯛会席</h3>
             </Link>
 
             <Link 
@@ -640,7 +640,7 @@ export default function ShuzenjiWinterPage() {
               className="bg-white p-4 rounded-2xl border border-stone-200/80 hover:border-emerald-700 hover:shadow-md transition group block"
             >
               <span className="text-[10px] font-extrabold text-emerald-800 uppercase block mb-1">伊豆の冬美食</span>
-              <h3 className="text-sm font-bold text-stone-900 group-hover:text-emerald-800 transition line-clamp-2">【東伊豆・稲取】脂の乗った極上金目鯛しゃぶしゃぶと絶景オーシャンビュー露天</h3>
+              <h3 className="text-sm font-bold text-stone-900 group-hover:text-emerald-800 transition">【東伊豆・稲取】脂の乗った極上金目鯛しゃぶしゃぶと絶景オーシャンビュー露天</h3>
             </Link>
 
             <Link 
@@ -648,7 +648,7 @@ export default function ShuzenjiWinterPage() {
               className="bg-white p-4 rounded-2xl border border-stone-200/80 hover:border-emerald-700 hover:shadow-md transition group block"
             >
               <span className="text-[10px] font-extrabold text-emerald-800 uppercase block mb-1">東海の冬花火</span>
-              <h3 className="text-sm font-bold text-stone-900 group-hover:text-emerald-800 transition line-clamp-2">【熱海温泉】冬の澄んだ夜空を彩る熱海海上花火大会と部屋食オーシャンビュー宿</h3>
+              <h3 className="text-sm font-bold text-stone-900 group-hover:text-emerald-800 transition">【熱海温泉】冬の澄んだ夜空を彩る熱海海上花火大会と部屋食オーシャンビュー宿</h3>
             </Link>
 
             <Link 
@@ -656,7 +656,7 @@ export default function ShuzenjiWinterPage() {
               className="bg-white p-4 rounded-2xl border border-stone-200/80 hover:border-emerald-700 hover:shadow-md transition group block"
             >
               <span className="text-[10px] font-extrabold text-emerald-800 uppercase block mb-1">富士見名湯</span>
-              <h3 className="text-sm font-bold text-stone-900 group-hover:text-emerald-800 transition line-clamp-2">【箱根芦ノ湖】冬晴れに輝く富士山絶景と名湯露天風呂・極上リゾート宿</h3>
+              <h3 className="text-sm font-bold text-stone-900 group-hover:text-emerald-800 transition">【箱根芦ノ湖】冬晴れに輝く富士山絶景と名湯露天風呂・極上リゾート宿</h3>
             </Link>
 
             <Link 
@@ -664,7 +664,7 @@ export default function ShuzenjiWinterPage() {
               className="bg-white p-4 rounded-2xl border border-stone-200/80 hover:border-emerald-700 hover:shadow-md transition group block"
             >
               <span className="text-[10px] font-extrabold text-emerald-800 uppercase block mb-1">東海の三名泉</span>
-              <h3 className="text-sm font-bold text-stone-900 group-hover:text-emerald-800 transition line-clamp-2">【下呂温泉】冬花火ミュージカルと日本三名泉の美肌湯・飛騨牛朴葉味噌焼き</h3>
+              <h3 className="text-sm font-bold text-stone-900 group-hover:text-emerald-800 transition">【下呂温泉】冬花火ミュージカルと日本三名泉の美肌湯・飛騨牛朴葉味噌焼き</h3>
             </Link>
 
             <Link 
@@ -672,7 +672,7 @@ export default function ShuzenjiWinterPage() {
               className="bg-white p-4 rounded-2xl border border-stone-200/80 hover:border-emerald-700 hover:shadow-md transition group block"
             >
               <span className="text-[10px] font-extrabold text-emerald-800 uppercase block mb-1">関西の小京都</span>
-              <h3 className="text-sm font-bold text-stone-900 group-hover:text-emerald-800 transition line-clamp-2">【京都嵐山】渡月橋の初冬絶景と嵯峨野竹林散策・名物湯豆腐会席の名宿</h3>
+              <h3 className="text-sm font-bold text-stone-900 group-hover:text-emerald-800 transition">【京都嵐山】渡月橋の初冬絶景と嵯峨野竹林散策・名物湯豆腐会席の名宿</h3>
             </Link>
           
       <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">

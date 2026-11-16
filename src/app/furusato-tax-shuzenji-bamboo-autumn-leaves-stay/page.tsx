@@ -467,19 +467,19 @@ export default function FeatureArticlePage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/winter-shizuoka-atagawa-onsen-ocean-sunrise-kinmedai-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12月静岡・熱川温泉】湯けむりと水平線日の出露天 名物地金目鯛姿煮＆伊豆牛石焼きステーキを満喫するオーシャンビュー名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">【11・12月静岡・熱川温泉】湯けむりと水平線日の出露天 名物地金目鯛姿煮＆伊豆牛石焼きステーキを満喫するオーシャンビュー名宿5選</span>
             </a>
             <a href="/winter-shizuoka-atami-plum-garden-winter-fireworks-kinmedai-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「日本一早咲きの熱海梅園と冬海上花火」2026-2027年冬の熱海温泉！絶景オーシャンビュー露天＆金目鯛名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「日本一早咲きの熱海梅園と冬海上花火」2026-2027年冬の熱海温泉！絶景オーシャンビュー露天＆金目鯛名宿5選</span>
             </a>
             <a href="/winter-shizuoka-gotemba-tokinosumika-illumination-fuji-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「御殿場・時之栖イルミネーション」 ひかりのすみか550万球の回廊と白銀の富士山！ クラフトビール＆天然温泉を満喫する高原名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「御殿場・時之栖イルミネーション」 ひかりのすみか550万球の回廊と白銀の富士山！ クラフトビール＆天然温泉を満喫する高原名宿5選</span>
             </a>
             <a href="/winter-shizuoka-inatori-onsen-kinmedai-oceanview-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">極上地金目鯛会席と相模灘絶景 オーシャンビュー展望露天＆伊豆温暖避寒の宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">極上地金目鯛会席と相模灘絶景 オーシャンビュー展望露天＆伊豆温暖避寒の宿5選</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

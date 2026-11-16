@@ -485,10 +485,10 @@ export default function HakoneRainyDayIndoorCoursePage() {
                         </span>
                       </div>
 
-                      <h3 className="text-base sm:text-lg font-bold text-white line-clamp-2 leading-snug">{hotel.hotelName}</h3>
+                      <h3 className="text-base sm:text-lg font-bold text-white leading-snug">{hotel.hotelName}</h3>
 
                       {special && (
-                        <p className="text-xs text-slate-300 line-clamp-3 leading-relaxed bg-slate-900/50 p-2.5 rounded-lg border border-slate-700/60">
+                        <p className="text-xs text-slate-300 leading-relaxed bg-slate-900/50 p-2.5 rounded-lg border border-slate-700/60">
                           {special}
                         </p>
                       )}
@@ -539,7 +539,7 @@ export default function HakoneRainyDayIndoorCoursePage() {
             >
               <span className="text-xs font-bold text-cyan-400 block mb-1">費用シミュレーション 💰</span>
               <h3 className="text-sm font-bold text-white group-hover:text-cyan-200 transition-colors">【箱根旅行 費用】日帰り・1泊2日いくら？フリーパス活用の交通費＆宿泊相場</h3>
-              <p className="text-xs text-slate-400 mt-1 line-clamp-2">
+              <p className="text-xs text-slate-400 mt-1">
                 ロマンスカー代や美術館入場料、旅館相場を徹底検証した実用的な予算ガイド。
               </p>
             </Link>
@@ -550,7 +550,7 @@ export default function HakoneRainyDayIndoorCoursePage() {
             >
               <span className="text-xs font-bold text-cyan-400 block mb-1">日帰りプラン ♨️</span>
               <h3 className="text-sm font-bold text-white group-hover:text-cyan-200 transition-colors">【箱根 日帰り温泉 ランチ付きおすすめ】個室休憩＆貸切風呂・老舗旅館の贅沢日帰り</h3>
-              <p className="text-xs text-slate-400 mt-1 line-clamp-2">
+              <p className="text-xs text-slate-400 mt-1">
                 宿泊せずに贅沢懐石とお部屋休憩が楽しめる日帰り温泉プランをエリア別に徹底比較。
               </p>
             </Link>
@@ -594,19 +594,19 @@ export default function HakoneRainyDayIndoorCoursePage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/kanagawa-hakone-gora-solo-retreat-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">箱根強羅温泉ひとり旅・濁り湯アートおこもり：箱根登山鉄道・大涌谷白濁温泉・創作フレンチ会席！箱根屈指の高級別荘地で癒やされる厳選3宿</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">箱根強羅温泉ひとり旅・濁り湯アートおこもり：箱根登山鉄道・大涌谷白濁温泉・創作フレンチ会席！箱根屈指の高級別荘地で癒やされる厳選3宿</span>
             </a>
             <a href="/winter-kanagawa-hakone-fuji-view-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12月箱根芦ノ湖の冬晴れ富士山絶景】澄み渡る空と雪化粧の富士を望む露天風呂＆極上湯宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">【11・12月箱根芦ノ湖の冬晴れ富士山絶景】澄み渡る空と雪化粧の富士を望む露天風呂＆極上湯宿5選</span>
             </a>
             <a href="/winter-kanagawa-kawasaki-daishi-hatsumode-factory-nightview-haneda-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">初詣300万人の厄除け霊場・川崎大師と幻想の工場夜景：2026-2027年冬の神奈川・川崎＆羽田！黒湯天然温泉と特選牛名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">初詣300万人の厄除け霊場・川崎大師と幻想の工場夜景：2026-2027年冬の神奈川・川崎＆羽田！黒湯天然温泉と特選牛名宿5選</span>
             </a>
             <a href="/furusato-tax-gora-autumn-leaves-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">箱根強羅温泉・箱根美術館の苔庭紅葉＆強羅公園秋のバラ！白濁にごり湯宿×ふるさと納税厳選ガイド神奈川</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">箱根強羅温泉・箱根美術館の苔庭紅葉＆強羅公園秋のバラ！白濁にごり湯宿×ふるさと納税厳選ガイド神奈川</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

@@ -303,14 +303,14 @@ export default function SilverWeekGlampingLastMinuteGuidePage() {
                     </span>
                   </div>
 
-                  <h3 className="font-black text-slate-900 text-base leading-snug group-hover:text-emerald-700 transition line-clamp-2 font-journal-serif">{hotel.hotelName}</h3>
+                  <h3 className="font-black text-slate-900 text-base leading-snug group-hover:text-emerald-700 transition font-journal-serif">{hotel.hotelName}</h3>
 
-                  <p className="text-xs text-slate-600 line-clamp-3 leading-relaxed font-medium">
+                  <p className="text-xs text-slate-600 leading-relaxed font-medium">
                     {hotel.hotelSpecial || "直前予約でも満足度の高い本格グランピング＆温泉リゾート。快適な客室空間と美味しい食事で秋の連休を彩ります。"}
                   </p>
 
                   {hotel.access && (
-                    <p className="text-[11px] text-slate-500 line-clamp-1">
+                    <p className="text-[11px] text-slate-500">
                       🚗 {hotel.access}
                     </p>
                   )}
@@ -370,7 +370,7 @@ export default function SilverWeekGlampingLastMinuteGuidePage() {
             <span className="text-[10px] font-bold text-emerald-300 bg-emerald-400/20 px-2 py-0.5 rounded-full inline-block mb-1.5">
               東京発 日帰りツアー
             </span>
-            <div className="font-bold text-xs sm:text-sm text-white group-hover:text-emerald-200 transition line-clamp-2">
+            <div className="font-bold text-xs sm:text-sm text-white group-hover:text-emerald-200 transition">
               【東京発 日帰りバスツアー攻略】ぶどう狩り・絶景温泉・手ぶらアウトドアを満喫する人気コース徹底比較
             </div>
           </Link>
@@ -382,7 +382,7 @@ export default function SilverWeekGlampingLastMinuteGuidePage() {
             <span className="text-[10px] font-bold text-emerald-300 bg-emerald-400/20 px-2 py-0.5 rounded-full inline-block mb-1.5">
               関西・大阪発 日帰りツアー
             </span>
-            <div className="font-bold text-xs sm:text-sm text-white group-hover:text-emerald-200 transition line-clamp-2">
+            <div className="font-bold text-xs sm:text-sm text-white group-hover:text-emerald-200 transition">
               【大阪発 日帰りバスツアー特集】淡路島・丹波・琵琶湖の味覚と絶景を巡る週末モデルコースまとめ
             </div>
           </Link>

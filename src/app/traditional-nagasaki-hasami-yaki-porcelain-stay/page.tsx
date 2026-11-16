@@ -389,19 +389,19 @@ export default function FeaturePage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/spring-nagasaki-castella-champon-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「本場長崎カステラ＆極上卓袱会席」雲仙・小浜・平戸の異国情緒と美肌名湯宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「本場長崎カステラ＆極上卓袱会席」雲仙・小浜・平戸の異国情緒と美肌名湯宿5選</span>
             </a>
             <a href="/winter-fukui-obama-myotsuji-temple-snow-wakasa-fugu-mackerel-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「御食国の冬味覚・明通寺国宝本堂の静寂と若狭ふぐ」2026-2027年冬の福井・若狭小浜！名物若狭とらふぐフルコースと雪見温泉名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「御食国の冬味覚・明通寺国宝本堂の静寂と若狭ふぐ」2026-2027年冬の福井・若狭小浜！名物若狭とらふぐフルコースと雪見温泉名宿5選</span>
             </a>
             <a href="/winter-miyagi-matsushima-shiogama-shrine-hatsumode-sanriku-oyster-higashimono-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">陸奥総鎮守「鹽竈神社」新春初詣と日本三景「松島」雪景色 冬旬「三陸松島かき」・極上ひがしもの鮪＆松島温泉名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">陸奥総鎮守「鹽竈神社」新春初詣と日本三景「松島」雪景色 冬旬「三陸松島かき」・極上ひがしもの鮪＆松島温泉名宿5選</span>
             </a>
             <a href="/winter-nagasaki-hirado-onsen-kue-hirame-hirado-beef-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12月長崎・平戸温泉郷】初冬黒潮絶景と天然クエ＆寒ヒラメ 幻の高級魚クエ鍋＆特選平戸和牛会席を堪能する城下町名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">【11・12月長崎・平戸温泉郷】初冬黒潮絶景と天然クエ＆寒ヒラメ 幻の高級魚クエ鍋＆特選平戸和牛会席を堪能する城下町名宿5選</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

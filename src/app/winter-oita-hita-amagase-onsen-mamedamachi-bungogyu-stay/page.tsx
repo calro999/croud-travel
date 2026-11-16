@@ -657,8 +657,8 @@ export default function OitaHitaAmagaseWinterPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-teal-300 bg-teal-400/20 px-2 py-0.5 rounded-full inline-block">大分・九重筋湯</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-teal-200 transition line-clamp-2">筋湯温泉 うたせ湯雪見露天＆極上豊後牛名宿</h4>
-              <p className="text-[11px] text-stone-200 line-clamp-2">
+              <h4 className="text-xs font-bold text-white group-hover:text-teal-200 transition">筋湯温泉 うたせ湯雪見露天＆極上豊後牛名宿</h4>
+              <p className="text-[11px] text-stone-200">
                 九重連山の雄大な初冬雪景色と日本一の打たせ湯、豊後牛すき焼きを味わう秘湯旅。
               </p>
             </Link>
@@ -668,8 +668,8 @@ export default function OitaHitaAmagaseWinterPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-teal-300 bg-teal-400/20 px-2 py-0.5 rounded-full inline-block">熊本・杖立わいた</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-teal-200 transition line-clamp-2">杖立地獄蒸し＆わいた温泉郷・あか牛名宿</h4>
-              <p className="text-[11px] text-stone-200 line-clamp-2">
+              <h4 className="text-xs font-bold text-white group-hover:text-teal-200 transition">杖立地獄蒸し＆わいた温泉郷・あか牛名宿</h4>
+              <p className="text-[11px] text-stone-200">
                 立ちのぼる白い湯煙と名物地獄蒸し料理、阿蘇あか牛と青白く輝くコイン式露天風呂巡り。
               </p>
             </Link>
@@ -679,8 +679,8 @@ export default function OitaHitaAmagaseWinterPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-teal-300 bg-teal-400/20 px-2 py-0.5 rounded-full inline-block">福岡・筑後川</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-teal-200 transition line-clamp-2">原鶴温泉 W美肌湯＆博多和牛すき焼き名宿</h4>
-              <p className="text-[11px] text-stone-200 line-clamp-2">
+              <h4 className="text-xs font-bold text-white group-hover:text-teal-200 transition">原鶴温泉 W美肌湯＆博多和牛すき焼き名宿</h4>
+              <p className="text-[11px] text-stone-200">
                 弱アルカリ性と硫黄泉のダブル美肌湯と、筑後川の初冬夕景・博多和牛を味わう温泉旅。
               </p>
             </Link>

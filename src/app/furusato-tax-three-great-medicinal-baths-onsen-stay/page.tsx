@@ -153,8 +153,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     群馬県吾妻郡草津町草津98
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">草津温泉　中村屋旅館＜群馬県＞</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">草津温泉　中村屋旅館＜群馬県＞</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     2024シルバーアワード受賞☆看板猫のなかにゃんずがお出迎え！/湯畑まで30秒♪
                   </p>
                   
@@ -197,8 +197,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     群馬県吾妻郡草津町178-4
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">草津温泉　松坂屋旅館＜群馬県＞</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">草津温泉　松坂屋旅館＜群馬県＞</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     湯畑源泉とヒノキ（檜）のお風呂。湯治滞在歓迎。湯畑源泉の貸切風呂とおふくろの味、素泊まりも大歓迎！！
                   </p>
                   
@@ -241,8 +241,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     群馬県吾妻郡草津町草津19-9
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">草津温泉　源泉かけ流しの宿　ひのき亭　牧水</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">草津温泉　源泉かけ流しの宿　ひのき亭　牧水</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     草津温泉にある全室木曽檜で数寄屋造の純和風旅館。源泉かけ流しの3つの無料貸切風呂
                   </p>
                   
@@ -298,8 +298,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     兵庫県神戸市北区有馬町1296
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">神戸牛と有馬温泉　天然金泉・銀泉の宿　有馬御苑</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">神戸牛と有馬温泉　天然金泉・銀泉の宿　有馬御苑</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     【楽天ゴールド＆日本の宿アワード受賞】部屋食プラン多数★温泉街すぐ！金銀２種の温泉と神戸牛が自慢♪
                   </p>
                   
@@ -342,8 +342,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     兵庫県神戸市北区有馬町東門口1389-3
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">有馬温泉　四季の彩　旅篭　客前料理と全室金泉露天付の湯籠り宿</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">有馬温泉　四季の彩　旅篭　客前料理と全室金泉露天付の湯籠り宿</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     全6室金泉露天風呂付客室。2023年3月リニューアルオープン（ご予約はＷＥＢ予約のみ受付）
                   </p>
                   
@@ -386,8 +386,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     兵庫県神戸市北区有馬町ウツギ谷1663
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">神戸有馬温泉　元湯龍泉閣～赤ちゃんも楽しめるお部屋食の宿～</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">神戸有馬温泉　元湯龍泉閣～赤ちゃんも楽しめるお部屋食の宿～</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     有馬温泉の家族で楽しめる源泉宿。ご夕食はお部屋食で。室内プールなど設備も充実！
                   </p>
                   
@@ -443,8 +443,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     新潟県十日町市松之山湯本7-1
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">松之山温泉　和泉屋　＜新潟県＞</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">松之山温泉　和泉屋　＜新潟県＞</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     5つの無料貸切風呂で日本三大薬湯・松之山温泉を独り占め！ベッドのある全5室の小さな小さな湯宿
                   </p>
                   
@@ -487,8 +487,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     新潟県十日町市松之山天水越81
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">越後松之山温泉　凌雲閣</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">越後松之山温泉　凌雲閣</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     本館は国の登録有形文化財。浴場は自家源泉「鏡の湯」、家族風呂は「鷹の湯」をかけ流し、２種の温泉有
                   </p>
                   
@@ -531,8 +531,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     新潟県十日町市松之山湯本13
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">松之山温泉　酒の宿　玉城屋</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">松之山温泉　酒の宿　玉城屋</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     日本三大薬湯松之山温泉源泉かけ流し。酒に寄り添う雪国キュイジーヌとともに玉城屋だけのペアリング体験を
                   </p>
                   

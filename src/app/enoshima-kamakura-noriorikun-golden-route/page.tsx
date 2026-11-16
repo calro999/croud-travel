@@ -428,8 +428,8 @@ export default function EnoshimaKamakuraNoriorikunPage() {
                     <div className="text-[11px] font-bold text-amber-800 mb-1">
                       {hotel.nearestStation ? `最寄駅: ${hotel.nearestStation}` : hotel.address1 || "鎌倉・藤沢・湘南エリア"}
                     </div>
-                    <h3 className="font-black text-slate-900 text-base leading-snug group-hover:text-amber-800 transition line-clamp-2">{hotel.hotelName}</h3>
-                    <p className="text-xs text-slate-600 mt-2 line-clamp-2 leading-relaxed">
+                    <h3 className="font-black text-slate-900 text-base leading-snug group-hover:text-amber-800 transition">{hotel.hotelName}</h3>
+                    <p className="text-xs text-slate-600 mt-2 leading-relaxed">
                       {hotel.hotelSpecial || "江ノ電・湘南散策の拠点に最適な立地。観光とグルメを満喫する快適な宿泊体験。"}
                     </p>
                   </div>
@@ -551,19 +551,19 @@ export default function EnoshimaKamakuraNoriorikunPage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/kamakura-vs-enoshima-day-trip/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「鎌倉 vs 江の島 日帰りならどっち？」半日・1日コース別の楽しみ方＆費用</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「鎌倉 vs 江の島 日帰りならどっち？」半日・1日コース別の楽しみ方＆費用</span>
             </a>
             <a href="/kanagawa-hakone-sengokuhara-autumn-solo-retreat-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【10月・11月秋の箱根仙石原ひとり旅・黄金色ススキ草原と白濁硫黄泉おこもり】全室露天風呂・北海道×箱根の極上和懐石！秋深まる高原リトリート厳選3宿！全室露天風呂・北海道×箱根の極</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">【10月・11月秋の箱根仙石原ひとり旅・黄金色ススキ草原と白濁硫黄泉おこもり】全室露天風呂・北海道×箱根の極上和懐石！秋深まる高原リトリート厳選3宿！全室露天風呂・北海道×箱根の極</span>
             </a>
             <a href="/kanagawa-kamakura-shonan-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「古都鎌倉＆湘南江の島」鶴岡八幡宮・江ノ電・富士夕景ホテル 厳選ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「古都鎌倉＆湘南江の島」鶴岡八幡宮・江ノ電・富士夕景ホテル 厳選ガイド</span>
             </a>
             <a href="/luxury-private-onsen-with-scenic-moss-garden/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「幽玄の苔庭テラス」青苔と石灯籠を望むプライベート露天風呂！京都・箱根の侘び寂び隠れ宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「幽玄の苔庭テラス」青苔と石灯籠を望むプライベート露天風呂！京都・箱根の侘び寂び隠れ宿5選</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

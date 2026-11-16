@@ -599,8 +599,8 @@ export default function ChibaMinamibosoTateyamaWinterPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-teal-300 bg-teal-400/20 px-2 py-0.5 rounded-full inline-block">神奈川・湯河原温泉</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-teal-200 transition line-clamp-2">奥湯河原の晩秋紅葉＆相模湾伊勢海老と文豪名宿</h4>
-              <p className="text-[11px] text-stone-200 line-clamp-2">
+              <h4 className="text-xs font-bold text-white group-hover:text-teal-200 transition">奥湯河原の晩秋紅葉＆相模湾伊勢海老と文豪名宿</h4>
+              <p className="text-[11px] text-stone-200">
                 文豪が愛した万葉の名湯と相模湾の伊勢海老、静寂の渓谷露天風呂を味わう休日。
               </p>
             </Link>
@@ -610,8 +610,8 @@ export default function ChibaMinamibosoTateyamaWinterPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-teal-300 bg-teal-400/20 px-2 py-0.5 rounded-full inline-block">静岡・熱海温泉</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-teal-200 transition line-clamp-2">熱海海上冬花火＆相模湾インフィニティ露天と金目鯛名宿</h4>
-              <p className="text-[11px] text-stone-200 line-clamp-2">
+              <h4 className="text-xs font-bold text-white group-hover:text-teal-200 transition">熱海海上冬花火＆相模湾インフィニティ露天と金目鯛名宿</h4>
+              <p className="text-[11px] text-stone-200">
                 澄んだ冬の夜空を焦がす大迫力の海上花火と、脂が乗った極上金目鯛姿煮を堪能。
               </p>
             </Link>
@@ -621,8 +621,8 @@ export default function ChibaMinamibosoTateyamaWinterPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-teal-300 bg-teal-400/20 px-2 py-0.5 rounded-full inline-block">神奈川・箱根芦ノ湖</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-teal-200 transition line-clamp-2">芦ノ湖富士山絶景＆箱根名湯と特選和牛会席名宿</h4>
-              <p className="text-[11px] text-stone-200 line-clamp-2">
+              <h4 className="text-xs font-bold text-white group-hover:text-teal-200 transition">芦ノ湖富士山絶景＆箱根名湯と特選和牛会席名宿</h4>
+              <p className="text-[11px] text-stone-200">
                 初冬の雪化粧富士を望むパノラマ露天風呂と、歴史ある箱根十七湯巡りの旅。
               </p>
             </Link>

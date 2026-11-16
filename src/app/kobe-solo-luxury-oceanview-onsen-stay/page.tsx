@@ -433,19 +433,19 @@ export default function ArticlePage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/winter-yamanashi-kofu-takeda-shrine-yumura-onsen-koshugyu-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">武田神社新春初詣＆富士山・南アルプス雪景色！ 開湯1200年信玄の隠し湯「湯村温泉」と熱々ほうとう・甲州牛の名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">武田神社新春初詣＆富士山・南アルプス雪景色！ 開湯1200年信玄の隠し湯「湯村温泉」と熱々ほうとう・甲州牛の名宿5選</span>
             </a>
             <a href="/autumn-budget-hyogo-himeji-station-castle-kokoen-hotels-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「姫路駅前」好古園紅葉＆名物姫路おでん！2,000円台〜泊まれる格安・高コスパ宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「姫路駅前」好古園紅葉＆名物姫路おでん！2,000円台〜泊まれる格安・高コスパ宿5選</span>
             </a>
             <a href="/awaji-island-car-free-bus-trip-guide/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「淡路島 車なし観光ガイド」 高速バス＆無料シャトルで回る！西海岸カフェ・ニジゲンノモリ・洲本温泉</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「淡路島 車なし観光ガイド」 高速バス＆無料シャトルで回る！西海岸カフェ・ニジゲンノモリ・洲本温泉</span>
             </a>
             <a href="/furusato-tax-arima-onsen-kinsen-ginsen-luxury-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">日本最古の名湯！有馬温泉の金泉・銀泉めぐり＆最高峰神戸牛会席老舗旅館×ふるさと納税極上旅ガイド兵衛向陽閣・御所坊・月光園鴻朧館</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">日本最古の名湯！有馬温泉の金泉・銀泉めぐり＆最高峰神戸牛会席老舗旅館×ふるさと納税極上旅ガイド兵衛向陽閣・御所坊・月光園鴻朧館</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

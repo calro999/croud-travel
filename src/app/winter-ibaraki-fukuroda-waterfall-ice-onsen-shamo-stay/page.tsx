@@ -620,7 +620,7 @@ export default function IbarakiFukurodaIceWinterPage() {
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-cyan-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-cyan-800 font-bold text-xs block mb-1">栃木・足利＆佐野</span>
-              <span className="text-stone-900 font-bold group-hover:text-cyan-900 transition-colors line-clamp-2">
+              <span className="text-stone-900 font-bold group-hover:text-cyan-900 transition-colors">
                 あしかがフラワーパーク光の花の庭と佐野厄除け大師初詣・佐野ラーメン名宿
               </span>
             </Link>
@@ -630,7 +630,7 @@ export default function IbarakiFukurodaIceWinterPage() {
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-cyan-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-cyan-800 font-bold text-xs block mb-1">福島・岳温泉</span>
-              <span className="text-stone-900 font-bold group-hover:text-cyan-900 transition-colors line-clamp-2">
+              <span className="text-stone-900 font-bold group-hover:text-cyan-900 transition-colors">
                 冬の安達太良山雪景色と全国屈指の酸性白濁湯・福島牛すき焼きを味わう岳名宿
               </span>
             </Link>
@@ -640,7 +640,7 @@ export default function IbarakiFukurodaIceWinterPage() {
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-cyan-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-cyan-800 font-bold text-xs block mb-1">埼玉・秩父温泉</span>
-              <span className="text-stone-900 font-bold group-hover:text-cyan-900 transition-colors line-clamp-2">
+              <span className="text-stone-900 font-bold group-hover:text-cyan-900 transition-colors">
                 冬の秩父夜祭と三十槌の氷柱・長瀞こたつ舟と武州牛を堪能する秩父名宿
               </span>
             </Link>
@@ -650,7 +650,7 @@ export default function IbarakiFukurodaIceWinterPage() {
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-cyan-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-cyan-800 font-bold text-xs block mb-1">栃木・那須板室</span>
-              <span className="text-stone-900 font-bold group-hover:text-cyan-900 transition-colors line-clamp-2">
+              <span className="text-stone-900 font-bold group-hover:text-cyan-900 transition-colors">
                 那須板室温泉の冬湯治・那須連山雪景色ととちぎ和牛を堪能する静寂名宿
               </span>
             </Link>
@@ -660,7 +660,7 @@ export default function IbarakiFukurodaIceWinterPage() {
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-cyan-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-cyan-800 font-bold text-xs block mb-1">群馬・草津温泉</span>
-              <span className="text-stone-900 font-bold group-hover:text-cyan-900 transition-colors line-clamp-2">
+              <span className="text-stone-900 font-bold group-hover:text-cyan-900 transition-colors">
                 冬の湯畑ライトアップと雪見露天風呂・上州牛すき焼きを味わう草津名宿
               </span>
             </Link>

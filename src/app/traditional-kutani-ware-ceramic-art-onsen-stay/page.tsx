@@ -630,19 +630,19 @@ export default function FeatureDetailPage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/early-spring-kawazu-sakura-plum-blossom-hotsprings/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">一足早い春の訪れ！早咲き河津桜＆梅まつりを愛でる花見露天風呂温泉旅館</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">一足早い春の訪れ！早咲き河津桜＆梅まつりを愛でる花見露天風呂温泉旅館</span>
             </a>
             <a href="/furusato-tax-fresh-sushi-kaiseki-gourmet-inn-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">漁港直送の極上寿司会席＆職人握りを味わう名湯温泉宿×ふるさと納税厳選ガイド石川加賀・東伊豆熱川・伊東</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">漁港直送の極上寿司会席＆職人握りを味わう名湯温泉宿×ふるさと納税厳選ガイド石川加賀・東伊豆熱川・伊東</span>
             </a>
             <a href="/furusato-tax-ishikawa-yamashiro-yamanaka-autumn-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">石川・加賀温泉郷 山代温泉の総湯文化と紅葉！三湯めぐり＆11月加能ガニ・橋立港寒魚｜ふるさと納税で泊まれる名宿ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">石川・加賀温泉郷 山代温泉の総湯文化と紅葉！三湯めぐり＆11月加能ガニ・橋立港寒魚｜ふるさと納税で泊まれる名宿ガイド</span>
             </a>
             <a href="/furusato-tax-kanazawa-kenrokuen-kaga-autumn-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">金沢・兼六園の雪吊り紅葉と奥座敷・湯涌温泉！加能ガニ解禁＆加賀百万石の秋会席｜ふるさと納税で泊まれる名宿ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">金沢・兼六園の雪吊り紅葉と奥座敷・湯涌温泉！加能ガニ解禁＆加賀百万石の秋会席｜ふるさと納税で泊まれる名宿ガイド</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

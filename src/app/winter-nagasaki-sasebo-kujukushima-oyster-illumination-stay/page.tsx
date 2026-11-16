@@ -587,7 +587,7 @@ export default function NagasakiSaseboKujukushimaWinterPage() {
                 <span className="inline-block px-2 py-0.5 bg-orange-950/80 border border-orange-400/40 text-orange-300 text-[10px] font-bold rounded-md mb-2">
                   福岡・糸島＆博多
                 </span>
-                <h3 className="font-bold text-white text-sm group-hover:text-orange-300 transition-colors line-clamp-2">冬の糸島カキ小屋めぐりと玄界灘天然とらふぐ・熱々博多もつ鍋名宿</h3>
+                <h3 className="font-bold text-white text-sm group-hover:text-orange-300 transition-colors">冬の糸島カキ小屋めぐりと玄界灘天然とらふぐ・熱々博多もつ鍋名宿</h3>
               </div>
               <span className="text-xs text-orange-400 font-semibold mt-3 flex items-center gap-1 group-hover:translate-x-1 transition-transform">
                 特集を見る →
@@ -602,7 +602,7 @@ export default function NagasakiSaseboKujukushimaWinterPage() {
                 <span className="inline-block px-2 py-0.5 bg-orange-950/80 border border-orange-400/40 text-orange-300 text-[10px] font-bold rounded-md mb-2">
                   沖縄・恩納村＆本部
                 </span>
-                <h3 className="font-bold text-white text-sm group-hover:text-orange-300 transition-colors line-clamp-2">冬の避寒リゾート！ホエールウォッチングと美ら海・あぐー豚しゃぶ名宿</h3>
+                <h3 className="font-bold text-white text-sm group-hover:text-orange-300 transition-colors">冬の避寒リゾート！ホエールウォッチングと美ら海・あぐー豚しゃぶ名宿</h3>
               </div>
               <span className="text-xs text-orange-400 font-semibold mt-3 flex items-center gap-1 group-hover:translate-x-1 transition-transform">
                 特集を見る →
@@ -617,7 +617,7 @@ export default function NagasakiSaseboKujukushimaWinterPage() {
                 <span className="inline-block px-2 py-0.5 bg-orange-950/80 border border-orange-400/40 text-orange-300 text-[10px] font-bold rounded-md mb-2">
                   長崎・雲仙温泉
                 </span>
-                <h3 className="font-bold text-white text-sm group-hover:text-orange-300 transition-colors line-clamp-2">立ち上る雲仙地獄の白煙と冬の奇跡「霧氷」・極上雲仙牛と乳白色硫黄泉</h3>
+                <h3 className="font-bold text-white text-sm group-hover:text-orange-300 transition-colors">立ち上る雲仙地獄の白煙と冬の奇跡「霧氷」・極上雲仙牛と乳白色硫黄泉</h3>
               </div>
               <span className="text-xs text-orange-400 font-semibold mt-3 flex items-center gap-1 group-hover:translate-x-1 transition-transform">
                 特集を見る →
@@ -632,7 +632,7 @@ export default function NagasakiSaseboKujukushimaWinterPage() {
                 <span className="inline-block px-2 py-0.5 bg-orange-950/80 border border-orange-400/40 text-orange-300 text-[10px] font-bold rounded-md mb-2">
                   岡山・日生牡蠣＆牛窓
                 </span>
-                <h3 className="font-bold text-white text-sm group-hover:text-orange-300 transition-colors line-clamp-2">瀬戸内冬の味覚「日生牡蠣」カキオコと牛窓オリーブ園夕陽＆絶景名宿</h3>
+                <h3 className="font-bold text-white text-sm group-hover:text-orange-300 transition-colors">瀬戸内冬の味覚「日生牡蠣」カキオコと牛窓オリーブ園夕陽＆絶景名宿</h3>
               </div>
               <span className="text-xs text-orange-400 font-semibold mt-3 flex items-center gap-1 group-hover:translate-x-1 transition-transform">
                 特集を見る →
@@ -647,7 +647,7 @@ export default function NagasakiSaseboKujukushimaWinterPage() {
                 <span className="inline-block px-2 py-0.5 bg-orange-950/80 border border-orange-400/40 text-orange-300 text-[10px] font-bold rounded-md mb-2">
                   広島・宮島＆江田島
                 </span>
-                <h3 className="font-bold text-white text-sm group-hover:text-orange-300 transition-colors line-clamp-2">雪化粧の厳島神社と瀬戸内「広島生牡蠣」炭火焼き＆絶景オーシャン名宿</h3>
+                <h3 className="font-bold text-white text-sm group-hover:text-orange-300 transition-colors">雪化粧の厳島神社と瀬戸内「広島生牡蠣」炭火焼き＆絶景オーシャン名宿</h3>
               </div>
               <span className="text-xs text-orange-400 font-semibold mt-3 flex items-center gap-1 group-hover:translate-x-1 transition-transform">
                 特集を見る →
@@ -662,7 +662,7 @@ export default function NagasakiSaseboKujukushimaWinterPage() {
                 <span className="inline-block px-2 py-0.5 bg-orange-950/80 border border-orange-400/40 text-orange-300 text-[10px] font-bold rounded-md mb-2">
                   高知・天然クエ＆鰹
                 </span>
-                <h3 className="font-bold text-white text-sm group-hover:text-orange-300 transition-colors line-clamp-2">冬の幻の高級魚「天然クエ鍋」と脂の乗る戻り鰹・高知城ライトアップ名宿</h3>
+                <h3 className="font-bold text-white text-sm group-hover:text-orange-300 transition-colors">冬の幻の高級魚「天然クエ鍋」と脂の乗る戻り鰹・高知城ライトアップ名宿</h3>
               </div>
               <span className="text-xs text-orange-400 font-semibold mt-3 flex items-center gap-1 group-hover:translate-x-1 transition-transform">
                 特集を見る →

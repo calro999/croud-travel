@@ -235,7 +235,7 @@ export default function KanazawaVsKyotoPage() {
                   </div>
                   <div className="p-5 flex flex-col flex-grow">
                     <h3 className="font-bold text-md mb-2 text-slate-800">{hotel.hotelName}</h3>
-                    <p className="text-xs text-slate-500 mb-4 line-clamp-2 flex-grow">{hotel.hotelSpecial}</p>
+                    <p className="text-xs text-slate-500 mb-4 flex-grow">{hotel.hotelSpecial}</p>
                     <div className="flex justify-between items-center mt-auto">
                       <span className="text-[#8b5a2b] font-bold text-sm">
                         {hotel.hotelMinCharge ? `¥${hotel.hotelMinCharge.toLocaleString()}〜` : "価格未定"}

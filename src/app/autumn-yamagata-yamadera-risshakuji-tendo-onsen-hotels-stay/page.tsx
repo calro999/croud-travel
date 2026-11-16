@@ -42,7 +42,7 @@ export default function YamaderaTendoAutumnPage() {
             <span className="px-3 py-1 bg-stone-800 text-amber-300 text-xs font-medium rounded-full border border-amber-400/30">見頃目安: 10月下旬〜11月上旬</span>
           </div>
           <h1 className="text-2xl md:text-4xl lg:text-5xl font-extrabold text-white leading-tight mb-4 drop-shadow-md">「秋の山形」山寺（立石寺）の奇岩絶壁紅葉クライミングと天童温泉！美食と名湯を楽しむおすすめ旅館5選</h1>
-          <p className="text-stone-200 text-sm md:text-base max-w-3xl line-clamp-2 md:line-clamp-none">
+          <p className="text-stone-200 text-sm md:text-base max-w-3xl">
             奇岩怪石が連なる宝珠山を彩る錦秋のグラデーション。1,015段の石段を踏みしめ登り詰めた「五大堂」から眼下に広がる紅葉渓谷の大パノラマと、車で約15分の天童温泉で味わう山形牛会席と名湯をご案内します。
           </p>
         </div>
@@ -98,7 +98,7 @@ export default function YamaderaTendoAutumnPage() {
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 天童駅 / 山形新幹線東京駅から天童駅まで約2時間45分。天童駅から車で約5分
                   </p>
-                  <p className="text-sm text-stone-600 mb-4 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-stone-600 mb-4 leading-relaxed">
                     天童唯一二種類の源泉100%を掛流し☆山形牛付お部屋食
                   </p>
                 </div>
@@ -143,7 +143,7 @@ export default function YamaderaTendoAutumnPage() {
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 天童駅 / ＪＲ天童駅下車（東京～天童間　山形新幹線で約２時間４０分）／山形自動車道　山形北ＩＣより２０分
                   </p>
-                  <p className="text-sm text-stone-600 mb-4 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-stone-600 mb-4 leading-relaxed">
                     2024年5月西館リニューアル!!天童温泉で唯一の屋根のない開放感ある露天風呂。『山形牛』に舌鼓♪
                   </p>
                 </div>
@@ -188,7 +188,7 @@ export default function YamaderaTendoAutumnPage() {
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 天童駅 / ＪＲ山形新幹線　天童駅より車にて３分、徒歩にて１５分（無料送迎あり）　山形北ＩＣより２０分
                   </p>
-                  <p className="text-sm text-stone-600 mb-4 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-stone-600 mb-4 leading-relaxed">
                     天童温泉と宿泊者専用ラウンジで、心身をやさしく整える滞在をお楽しみください。
                   </p>
                 </div>
@@ -233,7 +233,7 @@ export default function YamaderaTendoAutumnPage() {
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 天童駅 / JR天童駅よりお車にて５分、徒歩にて１５分（無料送迎あり）。山形北ＩＣより１５分。
                   </p>
-                  <p className="text-sm text-stone-600 mb-4 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-stone-600 mb-4 leading-relaxed">
                     全館畳敷きの宿。山形の四季折々のお料理、ほほえみ一杯のおもてなしで癒しのひとときを
                   </p>
                 </div>
@@ -278,7 +278,7 @@ export default function YamaderaTendoAutumnPage() {
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 天童駅 / 山形新幹線で東京駅ー天童駅3H。天童駅東口から無料送迎4分（要予約）。天童ICから10分、山形北ICから15分。街中の宿
                   </p>
-                  <p className="text-sm text-stone-600 mb-4 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-stone-600 mb-4 leading-relaxed">
                     【楽天トラベルゴールドアワード】【楽天トラベル日本の宿】2024年W受賞！山形の旬を味わえる会席料理
                   </p>
                 </div>

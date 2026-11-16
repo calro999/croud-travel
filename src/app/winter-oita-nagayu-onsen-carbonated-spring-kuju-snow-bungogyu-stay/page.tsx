@@ -382,7 +382,7 @@ export default function WinterOitaNagayuPage() {
                     <div className="absolute bottom-4 left-4 right-4 bg-slate-950/75 text-white p-3 rounded-xl backdrop-blur-xs text-xs space-y-1">
                       <div className="flex items-center gap-1 text-teal-300 font-semibold">
                         <MapPin className="w-3.5 h-3.5 shrink-0" />
-                        <span className="line-clamp-1">{hotel.access}</span>
+                        <span className="">{hotel.access}</span>
                       </div>
                     </div>
                   </div>
@@ -598,8 +598,8 @@ export default function WinterOitaNagayuPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">大分・由布院</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">由布院温泉の金鱗湖朝霧絶景と豊後牛ステーキ会席宿</h4>
-              <p className="text-[11px] text-teal-100 line-clamp-2">
+              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition">由布院温泉の金鱗湖朝霧絶景と豊後牛ステーキ会席宿</h4>
+              <p className="text-[11px] text-teal-100">
                 幻想的な金鱗湖の冬朝霧と由布岳を望む贅沢な温泉リゾート。
               </p>
             </Link>
@@ -609,8 +609,8 @@ export default function WinterOitaNagayuPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">熊本・阿蘇内牧</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">阿蘇内牧温泉のカルデラ初雪パノラマと阿蘇あか牛会席宿</h4>
-              <p className="text-[11px] text-teal-100 line-clamp-2">
+              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition">阿蘇内牧温泉のカルデラ初雪パノラマと阿蘇あか牛会席宿</h4>
+              <p className="text-[11px] text-teal-100">
                 雄大な阿蘇五岳の初雪と、ヘルシーな赤身が旨いあか牛を満喫。
               </p>
             </Link>
@@ -620,8 +620,8 @@ export default function WinterOitaNagayuPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">大分・別府鉄輪</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">別府鉄輪温泉の湯けむり展望と地獄蒸し＆豊後牛会席宿</h4>
-              <p className="text-[11px] text-teal-100 line-clamp-2">
+              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition">別府鉄輪温泉の湯けむり展望と地獄蒸し＆豊後牛会席宿</h4>
+              <p className="text-[11px] text-teal-100">
                 立ち上る湯けむり景観と地熱を利用した名物地獄蒸し料理。
               </p>
             </Link>

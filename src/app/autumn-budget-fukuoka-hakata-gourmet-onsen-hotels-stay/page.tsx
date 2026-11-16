@@ -42,7 +42,7 @@ export default function FukuokaBudgetAutumnPage() {
             <span className="px-3 py-1 bg-stone-800 text-amber-300 text-xs font-medium rounded-full border border-amber-400/30">1泊目安: 6,000円台〜7,000円台</span>
           </div>
           <h1 className="text-2xl md:text-4xl lg:text-5xl font-extrabold text-white leading-tight mb-4 drop-shadow-md">「秋の福岡・博多×格安」太宰府の紅葉と中洲屋台グルメ！天然温泉＆大浴場付き1泊6,000円台〜のコスパ最強ホテル5選</h1>
-          <p className="text-stone-200 text-sm md:text-base max-w-3xl line-clamp-2 md:line-clamp-none">
+          <p className="text-stone-200 text-sm md:text-base max-w-3xl">
             太宰府天満宮や「鬼滅の刃」の聖地としても知られる竈門神社の紅葉ライトアップ。夜は中洲や天神の屋台街で博多グルメを食べ尽くし、大浴場や天然温泉で癒やされる博多の高コスパホテルをご紹介します。
           </p>
         </div>
@@ -98,7 +98,7 @@ export default function FukuokaBudgetAutumnPage() {
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 祇園（福岡）駅 / ■地下鉄「祇園駅」徒歩5分■西鉄バス停「奥の堂」徒歩3分■福岡空港 地下鉄利用で最短15分■マリンメッセまでバスで7分
                   </p>
-                  <p className="text-sm text-stone-600 mb-4 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-stone-600 mb-4 leading-relaxed">
                     ■大浴場完備■自慢の朝食■ 地下鉄「祇園駅」徒歩5分「櫛田神社前」徒歩6分■3名宿泊可■無料WIFI
                   </p>
                 </div>
@@ -143,7 +143,7 @@ export default function FukuokaBudgetAutumnPage() {
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 博多駅 / JR博多駅・筑紫口徒歩約８分！福岡空港から車で約10分！地下鉄博多駅東5番出口！博多駅東３丁目交差点セブンイレブン前
                   </p>
-                  <p className="text-sm text-stone-600 mb-4 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-stone-600 mb-4 leading-relaxed">
                     博多駅から徒歩約８分☆福岡「原鶴温泉」直送の天然温泉＆ウェルカムバーでリフレッシュ☆
                   </p>
                 </div>
@@ -188,7 +188,7 @@ export default function FukuokaBudgetAutumnPage() {
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 博多駅 / JR博多駅より徒歩4分。地下鉄空港線博多駅 東6出口より徒歩2分。都市高速博多駅東ICまで1分！
                   </p>
-                  <p className="text-sm text-stone-600 mb-4 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-stone-600 mb-4 leading-relaxed">
                     無料軽朝食は個包装パンで安心、大浴場完備で快適ステイ
                   </p>
                 </div>
@@ -233,7 +233,7 @@ export default function FukuokaBudgetAutumnPage() {
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 博多駅 / 福岡市営地下鉄空港線「博多駅」東7番出口から徒歩2分／JR各線「博多駅」筑紫口から徒歩4分
                   </p>
-                  <p className="text-sm text-stone-600 mb-4 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-stone-600 mb-4 leading-relaxed">
                     博多駅至近、ビジネス・観光に便利！最上階に大浴殿・プール完備の全室禁煙新都市型ホテル！
                   </p>
                 </div>
@@ -278,7 +278,7 @@ export default function FukuokaBudgetAutumnPage() {
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 博多駅 / 博多駅博多口より徒歩５分（福岡空港から博多駅まで地下鉄で５分。）
                   </p>
-                  <p className="text-sm text-stone-600 mb-4 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-stone-600 mb-4 leading-relaxed">
                     博多駅徒歩5分!!天然温泉大浴場完備!!Wi-Fi無料＆加湿機能付空気清浄機完備♪
                   </p>
                 </div>

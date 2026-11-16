@@ -546,19 +546,19 @@ export default function FurusatoArticlePage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/furusato-tax-dakigaeri-kakunodate-autumn-leaves-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">抱返り渓谷の碧い渓流紅葉＆角館武家屋敷の黒板塀！田沢湖温泉郷宿×ふるさと納税厳選ガイド秋田</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">抱返り渓谷の碧い渓流紅葉＆角館武家屋敷の黒板塀！田沢湖温泉郷宿×ふるさと納税厳選ガイド秋田</span>
             </a>
             <a href="/winter-akita-kakunodate-bukeyashiki-snow-kiritanpo-hinaijidori-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">陸奥の小京都・角館武家屋敷の雪景色＆冬の田沢湖！ 本場比内地鶏きりたんぽ鍋と名湯に寛ぐ名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">陸奥の小京都・角館武家屋敷の雪景色＆冬の田沢湖！ 本場比内地鶏きりたんぽ鍋と名湯に寛ぐ名宿5選</span>
             </a>
             <a href="/winter-akita-nyuto-onsen-yukimi-kiritanpo-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12月乳頭温泉郷の白銀秘湯めぐり】 ブナ原生林の雪見露天風呂と本場きりたんぽ鍋の宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">【11・12月乳頭温泉郷の白銀秘湯めぐり】 ブナ原生林の雪見露天風呂と本場きりたんぽ鍋の宿5選</span>
             </a>
             <a href="/furusato-tax-kurokawa-onsen-nyuto-tegata-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">黒川温泉をふるさと納税でお得に旅する！入湯手形で巡る秘境露天風呂＆極上あか牛美食！里山の名門隠れ家宿厳選ガイド｜山みず木・旅館わかば・山の宿新明館</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">黒川温泉をふるさと納税でお得に旅する！入湯手形で巡る秘境露天風呂＆極上あか牛美食！里山の名門隠れ家宿厳選ガイド｜山みず木・旅館わかば・山の宿新明館</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

@@ -225,7 +225,7 @@ export default function RankingPage() {
                         {post.hotel_name}
                       </Link></h3>
 
-                    <p className="text-xs md:text-sm text-emerald-950/75 line-clamp-3 leading-relaxed">
+                    <p className="text-xs md:text-sm text-emerald-950/75 leading-relaxed">
                       {post.description || post.title}
                     </p>
                   </div>

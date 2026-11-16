@@ -506,8 +506,8 @@ export default function HakoneFreepassBreakEvenRoutePage() {
                     <div className="text-[11px] font-bold text-emerald-700 mb-1">
                       {hotel.nearestStation ? `最寄駅: ${hotel.nearestStation}` : hotel.address1 || "箱根・強羅・湯本"}
                     </div>
-                    <h3 className="font-black text-slate-900 text-base leading-snug group-hover:text-emerald-700 transition line-clamp-2">{hotel.hotelName}</h3>
-                    <p className="text-xs text-slate-600 mt-2 line-clamp-2 leading-relaxed">
+                    <h3 className="font-black text-slate-900 text-base leading-snug group-hover:text-emerald-700 transition">{hotel.hotelName}</h3>
+                    <p className="text-xs text-slate-600 mt-2 leading-relaxed">
                       {hotel.hotelSpecial || "箱根の大自然と自家源泉を満喫。フリーパス利用旅行の拠点に最適な名湯宿。"}
                     </p>
                   </div>

@@ -382,7 +382,7 @@ export default function WinterShizuokaDogashimaPage() {
                     <div className="absolute bottom-4 left-4 right-4 bg-slate-950/75 text-white p-3 rounded-xl backdrop-blur-xs text-xs space-y-1">
                       <div className="flex items-center gap-1 text-teal-300 font-semibold">
                         <MapPin className="w-3.5 h-3.5 shrink-0" />
-                        <span className="line-clamp-1">{hotel.access}</span>
+                        <span className="">{hotel.access}</span>
                       </div>
                     </div>
                   </div>
@@ -598,8 +598,8 @@ export default function WinterShizuokaDogashimaPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">東伊豆・熱川</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">熱川温泉の湯けむり櫓と水平線日の出露天＆地金目鯛姿煮宿</h4>
-              <p className="text-[11px] text-teal-100 line-clamp-2">
+              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition">熱川温泉の湯けむり櫓と水平線日の出露天＆地金目鯛姿煮宿</h4>
+              <p className="text-[11px] text-teal-100">
                 100度の高温泉櫓が立ち上る温泉情緒と相模灘オーシャンビューを満喫。
               </p>
             </Link>
@@ -609,8 +609,8 @@ export default function WinterShizuokaDogashimaPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">南伊豆・下田</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">下田温泉の水平線オーシャンビュー露天と極上金目鯛会席宿</h4>
-              <p className="text-[11px] text-teal-100 line-clamp-2">
+              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition">下田温泉の水平線オーシャンビュー露天と極上金目鯛会席宿</h4>
+              <p className="text-[11px] text-teal-100">
                 爪木崎の水仙まつりと黒船来航の歴史ロマン、極上金目鯛を味わう。
               </p>
             </Link>
@@ -620,8 +620,8 @@ export default function WinterShizuokaDogashimaPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">神奈川・箱根</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">箱根温泉の白雪富士ビュー露天風呂と伝統会席宿</h4>
-              <p className="text-[11px] text-teal-100 line-clamp-2">
+              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition">箱根温泉の白雪富士ビュー露天風呂と伝統会席宿</h4>
+              <p className="text-[11px] text-teal-100">
                 澄んだ初冬の芦ノ湖と雪化粧富士を望む天下の名湯リゾートステイ。
               </p>
             </Link>

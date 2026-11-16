@@ -362,19 +362,19 @@ export default function FeatureArticlePage() {
             <ul className="space-y-4 text-xs md:text-sm">
               <li>
                 <a href={HOTEL_DATA.sumata_hiryu.url} target="_blank" rel="sponsored noopener noreferrer" className="block p-3 rounded-xl hover:bg-stone-50 transition border border-stone-100 hover:border-amber-200">
-                  <div className="font-bold text-stone-800 line-clamp-1">{HOTEL_DATA.sumata_hiryu.name}</div>
+                  <div className="font-bold text-stone-800">{HOTEL_DATA.sumata_hiryu.name}</div>
                   <div className="text-stone-500 text-xs mt-1">★ {HOTEL_DATA.sumata_hiryu.rating} | 楽天トラベルで詳細確認</div>
                 </a>
               </li>
               <li>
                 <a href={HOTEL_DATA.sumata_kouzansou.url} target="_blank" rel="sponsored noopener noreferrer" className="block p-3 rounded-xl hover:bg-stone-50 transition border border-stone-100 hover:border-amber-200">
-                  <div className="font-bold text-stone-800 line-clamp-1">{HOTEL_DATA.sumata_kouzansou.name}</div>
+                  <div className="font-bold text-stone-800">{HOTEL_DATA.sumata_kouzansou.name}</div>
                   <div className="text-stone-500 text-xs mt-1">★ {HOTEL_DATA.sumata_kouzansou.rating} | 楽天トラベルで詳細確認</div>
                 </a>
               </li>
               <li>
                 <a href={HOTEL_DATA.sumata_tsukushi.url} target="_blank" rel="sponsored noopener noreferrer" className="block p-3 rounded-xl hover:bg-stone-50 transition border border-stone-100 hover:border-amber-200">
-                  <div className="font-bold text-stone-800 line-clamp-1">{HOTEL_DATA.sumata_tsukushi.name}</div>
+                  <div className="font-bold text-stone-800">{HOTEL_DATA.sumata_tsukushi.name}</div>
                   <div className="text-stone-500 text-xs mt-1">★ {HOTEL_DATA.sumata_tsukushi.rating} | 楽天トラベルで詳細確認</div>
                 </a>
               </li>
@@ -491,19 +491,19 @@ export default function FeatureArticlePage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/fukushima-bandaiatami-solo-retreat-clearskin-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「会津郡山・磐梯熱海温泉ひとり旅・萩姫伝説の美肌湯おこもり」pH9超とろとろアルカリ泉・地酒王国ふくしま・清流五百川！郡山新幹線20分の隠れ里厳選3宿</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「会津郡山・磐梯熱海温泉ひとり旅・萩姫伝説の美肌湯おこもり」pH9超とろとろアルカリ泉・地酒王国ふくしま・清流五百川！郡山新幹線20分の隠れ里厳選3宿</span>
             </a>
             <a href="/furusato-tax-atami-ocean-view-fireworks-hotel-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">客室から大迫力の花火を特等席鑑賞！熱海オーシャンビュー温泉ホテル×ふるさと納税極上旅ガイド後楽園・ニューアカオ・パールスター</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">客室から大迫力の花火を特等席鑑賞！熱海オーシャンビュー温泉ホテル×ふるさと納税極上旅ガイド後楽園・ニューアカオ・パールスター</span>
             </a>
             <a href="/furusato-tax-dog-friendly-luxury-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">愛犬と泊まる極上客室露天風呂＆広大ドッグラン温泉宿×ふるさと納税厳選ガイド伊豆高原・那須高原・琵琶湖</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">愛犬と泊まる極上客室露天風呂＆広大ドッグラン温泉宿×ふるさと納税厳選ガイド伊豆高原・那須高原・琵琶湖</span>
             </a>
             <a href="/furusato-tax-fresh-sushi-kaiseki-gourmet-inn-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">漁港直送の極上寿司会席＆職人握りを味わう名湯温泉宿×ふるさと納税厳選ガイド石川加賀・東伊豆熱川・伊東</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">漁港直送の極上寿司会席＆職人握りを味わう名湯温泉宿×ふるさと納税厳選ガイド石川加賀・東伊豆熱川・伊東</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

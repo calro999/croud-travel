@@ -153,8 +153,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     石川県金沢市本町2-5-15
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">天然温泉　鼓門の湯　スーパーホテルＰｒｅｍｉｅｒ金沢駅東口</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">天然温泉　鼓門の湯　スーパーホテルＰｒｅｍｉｅｒ金沢駅東口</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     金沢駅東口より徒歩７分！主要駅からのアクセスが良くビジネスや観光に便利♪
                   </p>
                   
@@ -197,8 +197,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     石川県金沢市丸の内6-3
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">金沢白鳥路　ホテル山楽</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">金沢白鳥路　ホテル山楽</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     金沢城のすぐ側で美肌の湯と金沢美食、そして心温まるおもてなしに癒されて日常をひと休みしませんか。
                   </p>
                   
@@ -241,8 +241,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     石川県金沢市堀川新町1-1
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">ホテル金沢</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">ホテル金沢</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     朝食満足度90点以上、全客室改装でアクセス至便のシティホテル
                   </p>
                   
@@ -298,8 +298,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     長野県上高井郡小布施町雁田1311
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">小布施温泉あけびの湯</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">小布施温泉あけびの湯</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     全室から北アルプスや北信五岳を一望できる絶好のロケーションの小布施で唯一の温泉宿となります。
                   </p>
                   
@@ -342,8 +342,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     長野県上高井郡小布施町小布施中町東側791
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">ゲストハウス小布施</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">ゲストハウス小布施</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     ひと・こと・まちをまるごとつなぐ”北斎が愛した街”小布施の宿り場
                   </p>
                   
@@ -386,8 +386,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     長野県上高井郡小布施町小布施1110-1
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">小布施の宿　あずまや</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">小布施の宿　あずまや</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     小布施の中心部に位置し、観光・ビジネス利用に便利なセルフチェックインの全15室の宿。
                   </p>
                   
@@ -443,8 +443,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     三重県伊勢市二見町茶屋537-1
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">活伊勢海老料理の宿　日章館</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">活伊勢海老料理の宿　日章館</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     全室オーシャンビュー。伊勢海老をはじめ新鮮な海の幸とトロン人口温泉。伊勢・二見・鳥羽・志摩の観光に◎
                   </p>
                   

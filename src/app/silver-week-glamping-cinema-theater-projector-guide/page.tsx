@@ -292,19 +292,19 @@ export default function SilverWeekGlampingCinemaTheaterProjectorPage() {
                     🎬 {hotel.address1} {hotel.address2}
                   </div>
 
-                  <h3 className="font-black text-stone-900 text-base leading-snug group-hover:text-indigo-700 transition line-clamp-2 font-journal-serif">{hotel.hotelName}</h3>
+                  <h3 className="font-black text-stone-900 text-base leading-snug group-hover:text-indigo-700 transition font-journal-serif">{hotel.hotelName}</h3>
 
-                  <p className="text-xs text-stone-600 line-clamp-3 leading-relaxed font-medium">
+                  <p className="text-xs text-stone-600 leading-relaxed font-medium">
                     {hotel.hotelSpecial || "シアタープロジェクターや快適なドーム空間で、映画鑑賞や推し活ステイを満喫できる話題のスポット。"}
                   </p>
 
                   {hotel.nearestStation && (
-                    <p className="text-[11px] text-stone-500 line-clamp-1">
+                    <p className="text-[11px] text-stone-500">
                       🚉 最寄駅: {hotel.nearestStation}
                     </p>
                   )}
                   {hotel.access && (
-                    <p className="text-[11px] text-stone-500 line-clamp-1">
+                    <p className="text-[11px] text-stone-500">
                       🚗 {hotel.access}
                     </p>
                   )}
@@ -370,7 +370,7 @@ export default function SilverWeekGlampingCinemaTheaterProjectorPage() {
             <span className="text-[10px] font-bold text-indigo-800 bg-indigo-100 px-2 py-0.5 rounded-full inline-block mb-1.5">
               東京駅・早朝カフェ
             </span>
-            <div className="font-bold text-xs sm:text-sm text-stone-900 group-hover:text-indigo-700 transition line-clamp-2">
+            <div className="font-bold text-xs sm:text-sm text-stone-900 group-hover:text-indigo-700 transition">
               【東京駅】早朝7時前から開いている朝食モーニング＆カフェおすすめ厳選ガイド！新幹線前の優雅な時間
             </div>
           </Link>
@@ -382,7 +382,7 @@ export default function SilverWeekGlampingCinemaTheaterProjectorPage() {
             <span className="text-[10px] font-bold text-indigo-800 bg-indigo-100 px-2 py-0.5 rounded-full inline-block mb-1.5">
               パッキング後悔対策
             </span>
-            <div className="font-bold text-xs sm:text-sm text-stone-900 group-hover:text-indigo-700 transition line-clamp-2">
+            <div className="font-bold text-xs sm:text-sm text-stone-900 group-hover:text-indigo-700 transition">
               【ディズニー旅行の持ち物後悔ワースト5】持って行けばよかった神アイテム＆不要だった荷物完全まとめ
             </div>
           </Link>

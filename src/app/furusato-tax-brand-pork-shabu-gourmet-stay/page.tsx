@@ -153,8 +153,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     鹿児島県霧島市牧園町高千穂3900-3
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">霧島温泉郷　霧島みやまホテル</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">霧島温泉郷　霧島みやまホテル</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     【貸切風呂★無料】リピーターが多い調理長の創作料理と、無料貸切できる3つの露天、2つの内湯が大好評！
                   </p>
                   
@@ -197,8 +197,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     鹿児島県指宿市湯の浜5-27-27
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">指宿温泉　いぶすき秀水園</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">南薩摩の湯の里指宿にて心尽くしの料理とやすらぎのひとときをお過ごしください。</p>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">指宿温泉　いぶすき秀水園</h3>
+                  <p className="text-xs text-stone-400 mb-4">南薩摩の湯の里指宿にて心尽くしの料理とやすらぎのひとときをお過ごしください。</p>
                   
                   <div className="mt-auto pt-4 border-t border-stone-800/80 flex items-center justify-between">
                     <div>
@@ -239,8 +239,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     鹿児島県指宿市西方4507
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">指宿温泉　こらんの湯　錦江楼</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">指宿温泉　こらんの湯　錦江楼</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     美肌の湯（美肌成分のメタケイ酸を豊富に含む泉質）と桜島を望める和モダン旅館。
                   </p>
                   
@@ -296,8 +296,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     山形県鶴岡市戸沢神子谷103-2
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">湯の瀬温泉　湯の瀬旅館</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">湯の瀬温泉　湯の瀬旅館</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     小さいお子様連れ大歓迎！日本最大級の大露天風呂。庄内の新鮮な魚介類を毎日仕入れています。
                   </p>
                   
@@ -340,8 +340,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     山形県鶴岡市湯温海甲171
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">温海温泉　川端の宿　東屋旅館</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">温海温泉　川端の宿　東屋旅館</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     地元の素材を大切にした御料理と家庭的な雰囲気でおもてなしいたします。
                   </p>
                   
@@ -384,8 +384,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     山形県鶴岡市湯温海甲191
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">温海温泉　かしわや旅館</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">温海温泉　かしわや旅館</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     素材が良いから料理が美味しい。庄内浜直送の新鮮な魚介類を使用してます。
                   </p>
                   
@@ -441,8 +441,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     栃木県那須塩原市湯本塩原153
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">塩原元湯温泉　ゑびすや</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">塩原元湯温泉　ゑびすや</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     塩原温泉、最古の湯『梶原の湯』飲泉可。濁り湯・二種の自家源泉掛け流し。山奥の鄙び秘湯小宿。送迎ご相談
                   </p>
                   
@@ -485,8 +485,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     栃木県那須塩原市板室841-14
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">板室別邸リトリート　SPA和薬草</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">板室別邸リトリート　SPA和薬草</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     那須の秘境で湯治体験。様々なコンテンツであなただけのオリジナルリトリート時間を。
                   </p>
                   

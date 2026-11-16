@@ -664,7 +664,7 @@ export default function HanamakiWinterPage() {
               <div className="font-bold text-stone-900 group-hover:text-indigo-700 mb-1">
                 秋田・乳頭温泉郷の雪見露天ときりたんぽ鍋
               </div>
-              <p className="text-xs text-stone-500 line-clamp-2">
+              <p className="text-xs text-stone-500">
                 秘湯の中の秘湯・乳頭温泉郷。白濁の雪見風呂と比内地鶏の極上きりたんぽ鍋。
               </p>
             </Link>
@@ -676,7 +676,7 @@ export default function HanamakiWinterPage() {
               <div className="font-bold text-stone-900 group-hover:text-indigo-700 mb-1">
                 山形・銀山温泉の大正ロマン雪景色特集
               </div>
-              <p className="text-xs text-stone-500 line-clamp-2">
+              <p className="text-xs text-stone-500">
                 ガス灯揺らめく木造楼閣と銀世界。尾花沢牛と冬の極上湯あみガイド。
               </p>
             </Link>
@@ -688,7 +688,7 @@ export default function HanamakiWinterPage() {
               <div className="font-bold text-stone-900 group-hover:text-indigo-700 mb-1">
                 山形・蔵王温泉の樹氷スノーモンスター特集
               </div>
-              <p className="text-xs text-stone-500 line-clamp-2">
+              <p className="text-xs text-stone-500">
                 大自然の奇跡・ライトアップ樹氷と強酸性にごり湯露天風呂を満喫。
               </p>
             </Link>
@@ -700,7 +700,7 @@ export default function HanamakiWinterPage() {
               <div className="font-bold text-stone-900 group-hover:text-indigo-700 mb-1">
                 青森・酸ヶ湯温泉の千人風呂と八甲田雪景色
               </div>
-              <p className="text-xs text-stone-500 line-clamp-2">
+              <p className="text-xs text-stone-500">
                 豪雪地帯のヒバ千人風呂。白濁の酸性硫黄泉と八甲田の樹氷スノーリゾート。
               </p>
             </Link>
@@ -712,7 +712,7 @@ export default function HanamakiWinterPage() {
               <div className="font-bold text-stone-900 group-hover:text-indigo-700 mb-1">
                 福島・会津東山温泉の雪景色と城下町歴史巡り
               </div>
-              <p className="text-xs text-stone-500 line-clamp-2">
+              <p className="text-xs text-stone-500">
                 湯川渓谷沿いの歴史名湯・東山温泉。鶴ヶ城の雪景色と会津郷土料理・馬刺し。
               </p>
             </Link>

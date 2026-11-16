@@ -461,19 +461,19 @@ export default function Page() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/zen-meditation-shojin-cuisine-temple-retreat-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">禅寺坐禅体験＆精進料理宿坊厳選ガイド「高野山・永平寺・京都リトリート」</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">禅寺坐禅体験＆精進料理宿坊厳選ガイド「高野山・永平寺・京都リトリート」</span>
             </a>
             <a href="/chiba-kamogawa-katsuura-boso-seafood-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「千葉・鴨川＆勝浦・南房総」シャチパフォーマンス・勝浦四百年朝市＆地金目鯛宿 厳選ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「千葉・鴨川＆勝浦・南房総」シャチパフォーマンス・勝浦四百年朝市＆地金目鯛宿 厳選ガイド</span>
             </a>
             <a href="/furusato-tax-cave-bath-natural-grotto-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">荒波迫る海食洞窟と神秘の巨岩風呂！全国の天然洞窟温泉＆名湯旅館×ふるさと納税厳選ガイド南紀勝浦・湯の峰・上諏訪</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">荒波迫る海食洞窟と神秘の巨岩風呂！全国の天然洞窟温泉＆名湯旅館×ふるさと納税厳選ガイド南紀勝浦・湯の峰・上諏訪</span>
             </a>
             <a href="/furusato-tax-katsuura-kumano-kodo-autumn-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">世界遺産・熊野古道の大門坂紅葉＆那智の滝！南紀勝浦の大洞窟露天風呂宿×ふるさと納税厳選ガイド和歌山</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">世界遺産・熊野古道の大門坂紅葉＆那智の滝！南紀勝浦の大洞窟露天風呂宿×ふるさと納税厳選ガイド和歌山</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

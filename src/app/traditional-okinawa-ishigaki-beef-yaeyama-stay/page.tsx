@@ -389,19 +389,19 @@ export default function FeaturePage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/okinawa-naha-solo-retreat-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「那覇・国際通りひとり旅」大浴場＆プール・ゆいレール直結・やちむん通り！南国の潮風と琉球文化に浸る大人の厳選3宿</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「那覇・国際通りひとり旅」大浴場＆プール・ゆいレール直結・やちむん通り！南国の潮風と琉球文化に浸る大人の厳選3宿</span>
             </a>
             <a href="/okinawa-rainy-day-indoor-aquarium-craft-guide/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「沖縄 雨の日の観光厳選ガイド」 美ら海水族館・DMMかりゆし・シーサー陶芸＆屋内プールホテル</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「沖縄 雨の日の観光厳選ガイド」 美ら海水族館・DMMかりゆし・シーサー陶芸＆屋内プールホテル</span>
             </a>
             <a href="/traditional-okinawa-agu-pork-shabu-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「旨味と甘み極まる幻の島豚（あぐー豚しゃぶしゃぶ＆美ら海・古宇利島リゾート5選）」旨味と甘み極まる幻の島豚！あぐー豚しゃぶしゃぶ＆美ら海・古宇利島リゾート5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「旨味と甘み極まる幻の島豚（あぐー豚しゃぶしゃぶ＆美ら海・古宇利島リゾート5選）」旨味と甘み極まる幻の島豚！あぐー豚しゃぶしゃぶ＆美ら海・古宇利島リゾート5選</span>
             </a>
             <a href="/traditional-okinawa-yachimun-pottery-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「やちむんの温もり」沖縄伝統の陶器で味わう琉球フレンチ＆美ら海オーシャンビューリゾート宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「やちむんの温もり」沖縄伝統の陶器で味わう琉球フレンチ＆美ら海オーシャンビューリゾート宿5選</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

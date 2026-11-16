@@ -477,19 +477,19 @@ export default function FurusatoBookLibraryHotelStayPage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/korankei-autumn-leaves-lightup-access-guide/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「香嵐渓 紅葉もみじまつり2026」 4000本の絶景ライトアップ・大渋滞回避アクセス＆名古屋発日帰りバス</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「香嵐渓 紅葉もみじまつり2026」 4000本の絶景ライトアップ・大渋滞回避アクセス＆名古屋発日帰りバス</span>
             </a>
             <a href="/nagoya-station-solo-business-onsen-sauna-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「名古屋出張・サウナ温泉ステイ」名駅・栄アクセス・天然温泉錦鯱の湯・聖地ウェルビー今池！中部ビジネスを制する厳選3宿</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「名古屋出張・サウナ温泉ステイ」名駅・栄アクセス・天然温泉錦鯱の湯・聖地ウェルビー今池！中部ビジネスを制する厳選3宿</span>
             </a>
             <a href="/winter-aichi-inuyama-castle-kiso-river-nagoya-cochin-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">現存最古の木造天守・国宝犬山城の冬絶景＆三光稲荷神社新春初詣！ 名美肌湯「白帝の湯」と本場名古屋コーチンを堪能する名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">現存最古の木造天守・国宝犬山城の冬絶景＆三光稲荷神社新春初詣！ 名美肌湯「白帝の湯」と本場名古屋コーチンを堪能する名宿5選</span>
             </a>
             <a href="/winter-aichi-nagoya-atsuta-jingu-hatsumode-hitsumabushi-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">草薙神剣が鎮まる熱田の杜と香ばしき秘伝の鰻 熱田神宮の新春初詣＆名物「本場ひつまぶし」・極上名古屋コーチン鍋の名宿</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">草薙神剣が鎮まる熱田の杜と香ばしき秘伝の鰻 熱田神宮の新春初詣＆名物「本場ひつまぶし」・極上名古屋コーチン鍋の名宿</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

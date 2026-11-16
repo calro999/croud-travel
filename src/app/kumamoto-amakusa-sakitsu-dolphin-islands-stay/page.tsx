@@ -128,8 +128,8 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">松島温泉　天草渚亭</h4>
-                      <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition">松島温泉　天草渚亭</h4>
+                      <p className="text-xs text-stone-400 mt-1 leading-relaxed">
                         天草でも珍しいオーシャンフロント旅館★鮮度バツグンの海鮮料理、魚釣り…いざ！渚亭
                       </p>
                       <div className="mt-3 text-xs text-stone-300">
@@ -172,8 +172,8 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">天草下田温泉　富士広旅館</h4>
-                      <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition">天草下田温泉　富士広旅館</h4>
+                      <p className="text-xs text-stone-400 mt-1 leading-relaxed">
                         天然かけ流しの天草下田温泉。家族で営む小さくて古い建物ですが四季折々の海の幸を低価格で楽しめます。
                       </p>
                       <div className="mt-3 text-xs text-stone-300">
@@ -216,8 +216,8 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">下田温泉　伊賀屋旅館</h4>
-                      <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition">下田温泉　伊賀屋旅館</h4>
+                      <p className="text-xs text-stone-400 mt-1 leading-relaxed">
                         伊勢海老まつり【夕食は部屋食】下田温泉一の老舗温泉旅館で、天草のとれたて地魚を堪能
                       </p>
                       <div className="mt-3 text-xs text-stone-300">
@@ -260,8 +260,8 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">植木温泉発祥の宿　旅館　松乃湯</h4>
-                      <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition">植木温泉発祥の宿　旅館　松乃湯</h4>
+                      <p className="text-xs text-stone-400 mt-1 leading-relaxed">
                         開湯130年植木温泉発祥の宿で美肌の湯を堪能★熊本ICから車で7分！夕食は熊本の和会席に舌鼓　
                       </p>
                       <div className="mt-3 text-xs text-stone-300">
@@ -346,8 +346,8 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">天草温泉　ホテルアレグリアガーデンズ天草</h4>
-                      <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition">天草温泉　ホテルアレグリアガーデンズ天草</h4>
+                      <p className="text-xs text-stone-400 mt-1 leading-relaxed">
                         広大なリゾート、ゆっくりと楽しめる楽園、藍の島をお楽しみ下さい。
                       </p>
                       <div className="mt-3 text-xs text-stone-300">
@@ -390,8 +390,8 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">Ｈｏｔｅｌ　Ｓｅａ　Ｓｈｅｌｌ</h4>
-                      <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition">Ｈｏｔｅｌ　Ｓｅａ　Ｓｈｅｌｌ</h4>
+                      <p className="text-xs text-stone-400 mt-1 leading-relaxed">
                         全室オーシャンビューのゲストルーム。 東京から2時間のリゾート
                       </p>
                       <div className="mt-3 text-xs text-stone-300">
@@ -434,8 +434,8 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">亀の井ホテル　阿蘇</h4>
-                      <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition">亀の井ホテル　阿蘇</h4>
+                      <p className="text-xs text-stone-400 mt-1 leading-relaxed">
                         お部屋の随所で「くまモン」と出会えるくまモンルームがおすすめ◆阿蘇五岳を一望できる温泉リゾートホテル
                       </p>
                       <div className="mt-3 text-xs text-stone-300">
@@ -520,8 +520,8 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">天草温泉　ホテルアレグリアガーデンズ天草</h4>
-                      <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition">天草温泉　ホテルアレグリアガーデンズ天草</h4>
+                      <p className="text-xs text-stone-400 mt-1 leading-relaxed">
                         広大なリゾート、ゆっくりと楽しめる楽園、藍の島をお楽しみ下さい。
                       </p>
                       <div className="mt-3 text-xs text-stone-300">
@@ -564,8 +564,8 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">大江戸温泉物語　天草ホテル亀屋</h4>
-                      <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition">大江戸温泉物語　天草ホテル亀屋</h4>
+                      <p className="text-xs text-stone-400 mt-1 leading-relaxed">
                         「日本の夕陽百選」に選ばれた絶景を眺める温泉と 天草ならではの海の幸をご堪能ください
                       </p>
                       <div className="mt-3 text-xs text-stone-300">
@@ -608,8 +608,8 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">天草プリンスホテル</h4>
-                      <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition">天草プリンスホテル</h4>
+                      <p className="text-xs text-stone-400 mt-1 leading-relaxed">
                         『天草生うに三昧』開催中！5/31まで。有明海を一望！新鮮な海の幸が自慢の宿です。
                       </p>
                       <div className="mt-3 text-xs text-stone-300">
@@ -652,8 +652,8 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">天草温泉　ホテル松竜園　海星</h4>
-                      <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition">天草温泉　ホテル松竜園　海星</h4>
+                      <p className="text-xs text-stone-400 mt-1 leading-relaxed">
                         眼下にひろがる海のパノラマ。天草発！豪快な海鮮料理。やさしさあふれる海の温泉をたっぷりどうぞ。
                       </p>
                       <div className="mt-3 text-xs text-stone-300">
@@ -781,19 +781,19 @@ export default function Page() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/furusato-tax-highland-ranch-farm-resort-hotel-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">動物とのふれあい体験＆高原観光牧場リゾート名門ホテル×ふるさと納税厳選ガイド那須高原・トマム・阿蘇</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">動物とのふれあい体験＆高原観光牧場リゾート名門ホテル×ふるさと納税厳選ガイド那須高原・トマム・阿蘇</span>
             </a>
             <a href="/furusato-tax-katsuura-kumano-kodo-autumn-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">世界遺産・熊野古道の大門坂紅葉＆那智の滝！南紀勝浦の大洞窟露天風呂宿×ふるさと納税厳選ガイド和歌山</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">世界遺産・熊野古道の大門坂紅葉＆那智の滝！南紀勝浦の大洞窟露天風呂宿×ふるさと納税厳選ガイド和歌山</span>
             </a>
             <a href="/furusato-tax-kurokawa-autumn-leaves-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">黒川温泉の渓谷露天風呂紅葉＆入湯手形湯めぐり！肥後あか牛会席×ふるさと納税厳選ガイド熊本</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">黒川温泉の渓谷露天風呂紅葉＆入湯手形湯めぐり！肥後あか牛会席×ふるさと納税厳選ガイド熊本</span>
             </a>
             <a href="/furusato-tax-kurokawa-onsen-satoyama-roten-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">黒川温泉をふるさと納税でお得に旅する！渓谷の秘湯・入湯手形で巡る露天風呂＆あか牛会席！風情名宿特集｜お宿のし湯・旅館山河・黒川荘</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">黒川温泉をふるさと納税でお得に旅する！渓谷の秘湯・入湯手形で巡る露天風呂＆あか牛会席！風情名宿特集｜お宿のし湯・旅館山河・黒川荘</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

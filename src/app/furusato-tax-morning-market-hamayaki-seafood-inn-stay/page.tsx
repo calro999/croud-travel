@@ -189,8 +189,8 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">八戸グランドホテル</h4>
-                            <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
+                            <h4 className="font-bold text-white text-sm group-hover:text-amber-300 transition">八戸グランドホテル</h4>
+                            <p className="text-xs text-slate-400 leading-relaxed">
                               八戸グランドホテルだけのメニューのご当地りんごスープが絶品
                             </p>
                             <p className="text-xs text-slate-500 flex items-center gap-1">
@@ -239,8 +239,8 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">ホテルテトラ八戸</h4>
-                            <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
+                            <h4 className="font-bold text-white text-sm group-hover:text-amber-300 transition">ホテルテトラ八戸</h4>
+                            <p className="text-xs text-slate-400 leading-relaxed">
                               八戸駅より徒歩７分！駐車場無料で便利！！全室WiFi利用できます！！大浴場・サウナ・水風呂完備！！
                             </p>
                             <p className="text-xs text-slate-500 flex items-center gap-1">
@@ -289,8 +289,8 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">ホテルテトラ本八戸</h4>
-                            <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
+                            <h4 className="font-bold text-white text-sm group-hover:text-amber-300 transition">ホテルテトラ本八戸</h4>
+                            <p className="text-xs text-slate-400 leading-relaxed">
                               八戸での長期滞在にも使えるビジネスホテル。サウナ付きのお風呂が、ビジネスの疲れを癒します。
                             </p>
                             <p className="text-xs text-slate-500 flex items-center gap-1">
@@ -352,8 +352,8 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">ホテルトレンド沼津駅前</h4>
-                            <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
+                            <h4 className="font-bold text-white text-sm group-hover:text-amber-300 transition">ホテルトレンド沼津駅前</h4>
+                            <p className="text-xs text-slate-400 leading-relaxed">
                               駿河湾・富士山・富士サファリパーク・伊豆・三津シーパラダイスへ好アクセス！
                             </p>
                             <p className="text-xs text-slate-500 flex items-center gap-1">
@@ -402,8 +402,8 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">静鉄ホテルプレジオ沼津</h4>
-                            <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
+                            <h4 className="font-bold text-white text-sm group-hover:text-amber-300 transition">静鉄ホテルプレジオ沼津</h4>
+                            <p className="text-xs text-slate-400 leading-relaxed">
                               ☆★楽天アワード3年連続受賞★☆　「港の朝ごはん」　全室バストイレ別　沼津駅近・PK有　
                             </p>
                             <p className="text-xs text-slate-500 flex items-center gap-1">
@@ -452,8 +452,8 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">ＨＯＴＥＬ　ＡＲＩＡ　沼津　［　ホテル　アリア　沼津］</h4>
-                            <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
+                            <h4 className="font-bold text-white text-sm group-hover:text-amber-300 transition">ＨＯＴＥＬ　ＡＲＩＡ　沼津　［　ホテル　アリア　沼津］</h4>
+                            <p className="text-xs text-slate-400 leading-relaxed">
                               ご滞在中地元のクラフトビールが飲み放題！JR沼津駅南口より徒歩3分！香陵アリーナまでお車で3分！
                             </p>
                             <p className="text-xs text-slate-500 flex items-center gap-1">
@@ -515,8 +515,8 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">ホテル高砂＜高知県＞</h4>
-                            <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
+                            <h4 className="font-bold text-white text-sm group-hover:text-amber-300 transition">ホテル高砂＜高知県＞</h4>
+                            <p className="text-xs text-slate-400 leading-relaxed">
                               高知駅徒歩３分繁華街まで徒歩５分圏内 とにかく立地が良い和モダンなホテルです。全室禁煙です。
                             </p>
                             <p className="text-xs text-slate-500 flex items-center gap-1">
@@ -565,8 +565,8 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">オリエントホテル高知</h4>
-                            <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
+                            <h4 className="font-bold text-white text-sm group-hover:text-amber-300 transition">オリエントホテル高知</h4>
+                            <p className="text-xs text-slate-400 leading-relaxed">
                               ◆楽天クチコミ お食事☆高評価   ◆コンビニ隣接で便利　◆夕食付きプランあり
                             </p>
                             <p className="text-xs text-slate-500 flex items-center gap-1">
@@ -615,8 +615,8 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">ウェルカムホテル高知</h4>
-                            <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
+                            <h4 className="font-bold text-white text-sm group-hover:text-amber-300 transition">ウェルカムホテル高知</h4>
+                            <p className="text-xs text-slate-400 leading-relaxed">
                               ★高知市内の中心部！★無料朝食＆ウェルカムドリンク付★Tポイントも貯まる！有線ＬＡＮ＆Wi-Fi接続
                             </p>
                             <p className="text-xs text-slate-500 flex items-center gap-1">
@@ -664,10 +664,10 @@ export default function FurusatoTaxPage() {
                 href="/furusato-tax-winter-crab-gourmet-luxury-stay/"
                 className="block p-4 rounded-2xl bg-slate-950/60 border border-slate-800/80 hover:border-amber-500/50 transition group"
               >
-                <div className="font-bold text-amber-400 group-hover:text-amber-300 transition text-sm mb-1 line-clamp-1">
+                <div className="font-bold text-amber-400 group-hover:text-amber-300 transition text-sm mb-1">
                   冬の味覚の王様×活蟹尽くし極上温泉宿ガイド
                 </div>
-                <div className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
+                <div className="text-xs text-slate-400 leading-relaxed">
                   城崎・三国・皆生のタグ付き松葉ガニ＆越前ガニ会席。
                 </div>
               </Link>
@@ -677,10 +677,10 @@ export default function FurusatoTaxPage() {
                 href="/furusato-tax-award-winning-breakfast-gourmet-hotel-stay/"
                 className="block p-4 rounded-2xl bg-slate-950/60 border border-slate-800/80 hover:border-amber-500/50 transition group"
               >
-                <div className="font-bold text-amber-400 group-hover:text-amber-300 transition text-sm mb-1 line-clamp-1">
+                <div className="font-bold text-amber-400 group-hover:text-amber-300 transition text-sm mb-1">
                   朝食日本一受賞・究極の朝ごはんホテル×ふるさと納税完全ガイド
                 </div>
-                <div className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
+                <div className="text-xs text-slate-400 leading-relaxed">
                   函館・神戸・金沢のいくら盛り放題＆美食ビュッフェ。
                 </div>
               </Link>
@@ -690,10 +690,10 @@ export default function FurusatoTaxPage() {
                 href="/furusato-tax-local-gourmet-inn-stay/"
                 className="block p-4 rounded-2xl bg-slate-950/60 border border-slate-800/80 hover:border-amber-500/50 transition group"
               >
-                <div className="font-bold text-amber-400 group-hover:text-amber-300 transition text-sm mb-1 line-clamp-1">
+                <div className="font-bold text-amber-400 group-hover:text-amber-300 transition text-sm mb-1">
                   ご当地グルメ宿を堪能する美食旅特集
                 </div>
-                <div className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
+                <div className="text-xs text-slate-400 leading-relaxed">
                   高千穂牛・天然あなご・伊勢海老を味わう返礼クーポン旅。
                 </div>
               </Link>
@@ -796,19 +796,19 @@ export default function FurusatoTaxPage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/furusato-tax-aomori-hirosaki-tsugaru-autumn-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">青森・弘前城菊と紅葉まつり＆津軽の秋！岩木山麓温泉と津軽りんご収穫・極上大間まぐろ</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">青森・弘前城菊と紅葉まつり＆津軽の秋！岩木山麓温泉と津軽りんご収穫・極上大間まぐろ</span>
             </a>
             <a href="/furusato-tax-three-great-beautiful-forests-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">日本三大美林＆天然木アロマと森林浴・癒やしのリトリート温泉宿×ふるさと納税厳選ガイド青森ヒバ・秋田スギ・木曽ヒノキ</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">日本三大美林＆天然木アロマと森林浴・癒やしのリトリート温泉宿×ふるさと納税厳選ガイド青森ヒバ・秋田スギ・木曽ヒノキ</span>
             </a>
             <a href="/winter-aomori-asamushi-onsen-mutsu-bay-maguro-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12月青森・浅虫温泉の初冬陸奥湾絶景と開湯千二百年名湯】津軽海峡冬本マグロ・肉厚陸奥湾ホタテ＆津軽三味線響く宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">【11・12月青森・浅虫温泉の初冬陸奥湾絶景と開湯千二百年名湯】津軽海峡冬本マグロ・肉厚陸奥湾ホタテ＆津軽三味線響く宿5選</span>
             </a>
             <a href="/aomori-asamushi-solo-retreat-mutsubay-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">青森の奥座敷・浅虫温泉ひとり旅・陸奥湾夕日おこもり：開湯1200年名湯・津軽三味線生演奏・名物陸奥湾ホタテづくし！青い森鉄道直通の海辺厳選3宿</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">青森の奥座敷・浅虫温泉ひとり旅・陸奥湾夕日おこもり：開湯1200年名湯・津軽三味線生演奏・名物陸奥湾ホタテづくし！青い森鉄道直通の海辺厳選3宿</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

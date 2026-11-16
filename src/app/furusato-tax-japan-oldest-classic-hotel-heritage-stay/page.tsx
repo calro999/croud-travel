@@ -153,8 +153,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     栃木県日光市上鉢石町1300
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">日光金谷ホテル</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">日光金谷ホテル</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     創業明治６年、日本最古のクラシックリゾートホテル。明治の薫り漂う館内で時間旅行をご堪能下さい。
                   </p>
                   
@@ -210,8 +210,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     神奈川県足柄下郡箱根町湯本256-1
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">箱根湯本温泉　湯本富士屋ホテル</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">箱根湯本温泉　湯本富士屋ホテル</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     箱根湯本駅より徒歩3分。箱根観光の拠点に最適。多彩な客室と自慢の温泉・本格料理で寛ぐ休日。
                   </p>
                   
@@ -254,8 +254,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     神奈川県足柄下郡箱根町宮ノ下359
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">富士屋ホテル</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">富士屋ホテル</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     ◇おかげさまで創業148周年◇明治11年創業の箱根のクラシックホテル
                   </p>
                   
@@ -298,8 +298,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     神奈川県足柄下郡箱根町湯本327-1　スタジオーネ箱根湯本ＥＡＳＴ－101
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">ＳＴＡＧＩＯＮＥ箱根湯本</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">ＳＴＡＧＩＯＮＥ箱根湯本</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     グループにおすすめ！
                   </p>
                   
@@ -355,8 +355,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     長崎県雲仙市小浜町雲仙320
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">雲仙観光ホテル</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">雲仙観光ホテル</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     昭和10年創業。 過去と現在、そして未来へ。紡がれる伝統とくつろぎ｜進化するおもてなし。
                   </p>
                   

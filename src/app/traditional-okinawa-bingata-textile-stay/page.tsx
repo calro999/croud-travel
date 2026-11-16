@@ -630,19 +630,19 @@ export default function FeatureDetailPage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/winter-okinawa-motobu-nakijin-yaedake-sakura-festival-agu-resort-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">本部＆今帰仁・名護！ 日本一早い春を告げる八重岳桜まつり＆今帰仁城跡ライトアップと美ら海リゾート・島豚アグー・本部牛を味わう名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">本部＆今帰仁・名護！ 日本一早い春を告げる八重岳桜まつり＆今帰仁城跡ライトアップと美ら海リゾート・島豚アグー・本部牛を味わう名宿5選</span>
             </a>
             <a href="/winter-okinawa-onna-motobu-whalewatching-agu-resort-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「11・12・1月沖縄」冬の楽園リゾート！12月下旬開幕「ホエールウォッチング」と美ら海水族館・冬のアグー豚しゃぶしゃぶ＆もとぶ牛・恩納村絶景スパリゾート5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「11・12・1月沖縄」冬の楽園リゾート！12月下旬開幕「ホエールウォッチング」と美ら海水族館・冬のアグー豚しゃぶしゃぶ＆もとぶ牛・恩納村絶景スパリゾート5選</span>
             </a>
             <a href="/autumn-budget-iwate-morioka-castle-momiji-noodles-hotels-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「盛岡」盛岡城跡の石垣紅葉＆名物三大麺！2,000円台〜泊まれる格安・高コスパ宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「盛岡」盛岡城跡の石垣紅葉＆名物三大麺！2,000円台〜泊まれる格安・高コスパ宿5選</span>
             </a>
             <a href="/dark-sky-reserve-nature-island-starry-resort-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「国際星空保護区＆離島ネイチャーステイ」石垣島・西表島・神津島 厳選ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「国際星空保護区＆離島ネイチャーステイ」石垣島・西表島・神津島 厳選ガイド</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

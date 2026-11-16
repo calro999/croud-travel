@@ -632,7 +632,7 @@ export default function IkahoWinterPage() {
               className="bg-white p-4 rounded-2xl border border-stone-200/80 hover:border-amber-700 hover:shadow-md transition group block"
             >
               <span className="text-[10px] font-extrabold text-amber-800 uppercase block mb-1">群馬の冬名湯</span>
-              <h3 className="text-sm font-bold text-stone-900 group-hover:text-amber-800 transition line-clamp-2">【草津温泉】湯畑の冬景色と雪見露天風呂・名湯湯もみ体験</h3>
+              <h3 className="text-sm font-bold text-stone-900 group-hover:text-amber-800 transition">【草津温泉】湯畑の冬景色と雪見露天風呂・名湯湯もみ体験</h3>
             </Link>
 
             <Link 
@@ -640,7 +640,7 @@ export default function IkahoWinterPage() {
               className="bg-white p-4 rounded-2xl border border-stone-200/80 hover:border-amber-700 hover:shadow-md transition group block"
             >
               <span className="text-[10px] font-extrabold text-amber-800 uppercase block mb-1">関東の冬絶景</span>
-              <h3 className="text-sm font-bold text-stone-900 group-hover:text-amber-800 transition line-clamp-2">【箱根芦ノ湖】冬晴れの雪化粧富士を望む絶景露天風呂＆極上宿</h3>
+              <h3 className="text-sm font-bold text-stone-900 group-hover:text-amber-800 transition">【箱根芦ノ湖】冬晴れの雪化粧富士を望む絶景露天風呂＆極上宿</h3>
             </Link>
 
             <Link 
@@ -648,7 +648,7 @@ export default function IkahoWinterPage() {
               className="bg-white p-4 rounded-2xl border border-stone-200/80 hover:border-amber-700 hover:shadow-md transition group block"
             >
               <span className="text-[10px] font-extrabold text-amber-800 uppercase block mb-1">北関東の雪見秘湯</span>
-              <h3 className="text-sm font-bold text-stone-900 group-hover:text-amber-800 transition line-clamp-2">【奥日光湯元温泉】乳白色のにごり湯と白銀の静寂・雪見露天宿</h3>
+              <h3 className="text-sm font-bold text-stone-900 group-hover:text-amber-800 transition">【奥日光湯元温泉】乳白色のにごり湯と白銀の静寂・雪見露天宿</h3>
             </Link>
 
             <Link 
@@ -656,7 +656,7 @@ export default function IkahoWinterPage() {
               className="bg-white p-4 rounded-2xl border border-stone-200/80 hover:border-amber-700 hover:shadow-md transition group block"
             >
               <span className="text-[10px] font-extrabold text-amber-800 uppercase block mb-1">東北の初雪特集</span>
-              <h3 className="text-sm font-bold text-stone-900 group-hover:text-amber-800 transition line-clamp-2">【銀山温泉】白銀の温泉街に灯るガス灯と尾花沢牛会席・極上雪見宿</h3>
+              <h3 className="text-sm font-bold text-stone-900 group-hover:text-amber-800 transition">【銀山温泉】白銀の温泉街に灯るガス灯と尾花沢牛会席・極上雪見宿</h3>
             </Link>
 
             <Link 
@@ -664,7 +664,7 @@ export default function IkahoWinterPage() {
               className="bg-white p-4 rounded-2xl border border-stone-200/80 hover:border-amber-700 hover:shadow-md transition group block"
             >
               <span className="text-[10px] font-extrabold text-amber-800 uppercase block mb-1">東海の冬花火</span>
-              <h3 className="text-sm font-bold text-stone-900 group-hover:text-amber-800 transition line-clamp-2">【下呂温泉】冬花火ミュージカルと日本三名泉美肌湯・飛騨牛会席</h3>
+              <h3 className="text-sm font-bold text-stone-900 group-hover:text-amber-800 transition">【下呂温泉】冬花火ミュージカルと日本三名泉美肌湯・飛騨牛会席</h3>
             </Link>
 
             <Link 
@@ -672,7 +672,7 @@ export default function IkahoWinterPage() {
               className="bg-white p-4 rounded-2xl border border-stone-200/80 hover:border-amber-700 hover:shadow-md transition group block"
             >
               <span className="text-[10px] font-extrabold text-amber-800 uppercase block mb-1">信州の星空名湯</span>
-              <h3 className="text-sm font-bold text-stone-900 group-hover:text-amber-800 transition line-clamp-2">【阿智村・昼神温泉】日本一の満天星空ナイトツアーと極上美肌湯</h3>
+              <h3 className="text-sm font-bold text-stone-900 group-hover:text-amber-800 transition">【阿智村・昼神温泉】日本一の満天星空ナイトツアーと極上美肌湯</h3>
             </Link>
           
       <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">

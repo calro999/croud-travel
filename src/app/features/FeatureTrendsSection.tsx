@@ -137,8 +137,8 @@ export default function FeatureTrendsSection() {
               <span className="text-[9px] font-extrabold text-teal-800 bg-teal-50 px-2.5 py-0.5 rounded-full inline-block">
                 {item.badge}
               </span>
-              <h3 className="text-sm font-bold text-emerald-950 group-hover:text-teal-800 transition line-clamp-1">{item.title}</h3>
-              <p className="text-xs text-emerald-950/70 line-clamp-2 leading-relaxed">
+              <h3 className="text-sm font-bold text-emerald-950 group-hover:text-teal-800 transition">{item.title}</h3>
+              <p className="text-xs text-emerald-950/70 leading-relaxed">
                 {item.desc}
               </p>
             </Link>

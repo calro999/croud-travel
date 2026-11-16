@@ -382,7 +382,7 @@ export default function WinterTochigiYunishigawaPage() {
                     <div className="absolute bottom-4 left-4 right-4 bg-stone-950/75 text-white p-3 rounded-xl backdrop-blur-xs text-xs space-y-1">
                       <div className="flex items-center gap-1 text-amber-300 font-semibold">
                         <MapPin className="w-3.5 h-3.5 shrink-0" />
-                        <span className="line-clamp-1">{hotel.access}</span>
+                        <span className="">{hotel.access}</span>
                       </div>
                     </div>
                   </div>
@@ -586,8 +586,8 @@ export default function WinterTochigiYunishigawaPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">栃木・鬼怒川温泉</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">鬼怒川温泉の渓谷雪見露天と老舗旅館ステイ</h4>
-              <p className="text-[11px] text-stone-200 line-clamp-2">
+              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition">鬼怒川温泉の渓谷雪見露天と老舗旅館ステイ</h4>
+              <p className="text-[11px] text-stone-200">
                 鬼怒川渓谷のパノラマ絶景と名湯、日光ゆば会席を満喫する名宿。
               </p>
             </Link>
@@ -597,8 +597,8 @@ export default function WinterTochigiYunishigawaPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">栃木・奥日光中禅寺湖</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">奥日光中禅寺湖の初雪レイクビューと乳白色硫黄泉</h4>
-              <p className="text-[11px] text-stone-200 line-clamp-2">
+              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition">奥日光中禅寺湖の初雪レイクビューと乳白色硫黄泉</h4>
+              <p className="text-[11px] text-stone-200">
                 白銀の男体山を望むレイクサイドリゾートと濃厚な源泉かけ流し。
               </p>
             </Link>
@@ -608,8 +608,8 @@ export default function WinterTochigiYunishigawaPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">栃木・那須塩原温泉</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">塩原十一湯の渓流雪見露天ととちぎ和牛すき焼き宿</h4>
-              <p className="text-[11px] text-stone-200 line-clamp-2">
+              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition">塩原十一湯の渓流雪見露天ととちぎ和牛すき焼き宿</h4>
+              <p className="text-[11px] text-stone-200">
                 箒川渓谷の雪景色と名物塩原高原大根・とちぎ和牛を堪能。
               </p>
             </Link>

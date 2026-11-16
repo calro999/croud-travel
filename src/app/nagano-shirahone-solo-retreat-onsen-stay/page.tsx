@@ -368,19 +368,19 @@ export default function ArticlePage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/furusato-tax-tenryukyo-hirugami-autumn-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">名勝「天竜峡」ライン下り渓谷紅葉＆美肌の湯「昼神温泉」・阿智村日本一の星空ナイトツアー｜ふるさと納税で泊まれる名宿ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">名勝「天竜峡」ライン下り渓谷紅葉＆美肌の湯「昼神温泉」・阿智村日本一の星空ナイトツアー｜ふるさと納税で泊まれる名宿ガイド</span>
             </a>
             <a href="/kamikochi-matsumoto-car-free-guide/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「松本・上高地 車なし旅行厳選ガイド」 特急あずさ＆上高地線・バスで行く国宝城下町＆神の降り立つ地</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「松本・上高地 車なし旅行厳選ガイド」 特急あずさ＆上高地線・バスで行く国宝城下町＆神の降り立つ地</span>
             </a>
             <a href="/luxury-private-onsen-with-starry-sky-terrace/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「満天の星降る夜」客室専用星空テラス＆寝湯露天風呂！阿智村・八ヶ岳の夜空独占温泉宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「満天の星降る夜」客室専用星空テラス＆寝湯露天風呂！阿智村・八ヶ岳の夜空独占温泉宿5選</span>
             </a>
             <a href="/nagano-achi-hirugami-starry-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「長野・阿智村＆昼神温泉」日本一の星空ナイトツアー・美肌名湯＆信州牛極上宿 厳選ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「長野・阿智村＆昼神温泉」日本一の星空ナイトツアー・美肌名湯＆信州牛極上宿 厳選ガイド</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

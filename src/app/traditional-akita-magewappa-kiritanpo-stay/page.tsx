@@ -380,19 +380,19 @@ export default function FeaturePage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/winter-akita-oga-onsen-ishiyaki-namahage-snow-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12月秋田・男鹿温泉郷】 初冬名物ハタハタと豪快石焼き鍋・なまはげ伝承＆雪見露天の宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">【11・12月秋田・男鹿温泉郷】 初冬名物ハタハタと豪快石焼き鍋・なまはげ伝承＆雪見露天の宿5選</span>
             </a>
             <a href="/furusato-tax-oirase-towada-autumn-leaves-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">奥入瀬渓流の黄金紅葉トンネル＆十和田湖畔温泉！十和田荘・賑山亭・プリンスホテル×ふるさと納税厳選ガイド青森・秋田</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">奥入瀬渓流の黄金紅葉トンネル＆十和田湖畔温泉！十和田荘・賑山亭・プリンスホテル×ふるさと納税厳選ガイド青森・秋田</span>
             </a>
             <a href="/samurai-katana-armor-buke-yashiki-heritage-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">武家屋敷＆サムライ・甲冑・刀剣体験宿厳選ガイド「会津・角館・知覧歴史旅」</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">武家屋敷＆サムライ・甲冑・刀剣体験宿厳選ガイド「会津・角館・知覧歴史旅」</span>
             </a>
             <a href="/winter-akita-yuze-onsen-towada-kiritanpo-hinaijidori-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12月秋田・湯瀬温泉＆鹿角】美人の湯と本場きりたんぽ 米代川雪渓谷の絶景露天風呂・新米あきたこまちと比内地鶏出汁の熱々鍋を味わう名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">【11・12月秋田・湯瀬温泉＆鹿角】美人の湯と本場きりたんぽ 米代川雪渓谷の絶景露天風呂・新米あきたこまちと比内地鶏出汁の熱々鍋を味わう名宿5選</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

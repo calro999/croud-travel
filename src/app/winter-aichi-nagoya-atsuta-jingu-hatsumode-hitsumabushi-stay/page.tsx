@@ -579,7 +579,7 @@ export default function AichiNagoyaAtsutaPage() {
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-amber-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-amber-700 font-bold text-xs block mb-1">愛知・南知多＆日間賀島</span>
-              <span className="text-stone-900 font-bold group-hover:text-amber-800 transition-colors line-clamp-2">
+              <span className="text-stone-900 font-bold group-hover:text-amber-800 transition-colors">
                 冬の名物天然とらふぐ尽くしと知多牛・オーシャンビュー温泉名宿
               </span>
             </Link>
@@ -589,7 +589,7 @@ export default function AichiNagoyaAtsutaPage() {
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-amber-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-amber-700 font-bold text-xs block mb-1">三重・伊勢神宮</span>
-              <span className="text-stone-900 font-bold group-hover:text-amber-800 transition-colors line-clamp-2">
+              <span className="text-stone-900 font-bold group-hover:text-amber-800 transition-colors">
                 新春の伊勢神宮初詣とおかげ横丁・伊勢海老＆松阪牛会席名宿
               </span>
             </Link>
@@ -599,7 +599,7 @@ export default function AichiNagoyaAtsutaPage() {
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-amber-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-amber-700 font-bold text-xs block mb-1">岐阜・下呂温泉</span>
-              <span className="text-stone-900 font-bold group-hover:text-amber-800 transition-colors line-clamp-2">
+              <span className="text-stone-900 font-bold group-hover:text-amber-800 transition-colors">
                 冬の花火ミュージカルと日本三名泉美肌の湯・極上飛騨牛名宿
               </span>
             </Link>
@@ -609,7 +609,7 @@ export default function AichiNagoyaAtsutaPage() {
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-amber-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-amber-700 font-bold text-xs block mb-1">静岡・浜名湖舘山寺</span>
-              <span className="text-stone-900 font-bold group-hover:text-amber-800 transition-colors line-clamp-2">
+              <span className="text-stone-900 font-bold group-hover:text-amber-800 transition-colors">
                 冬の遠州灘とらふぐと浜名湖うなぎ会席・レイクビュー温泉名宿
               </span>
             </Link>
@@ -619,7 +619,7 @@ export default function AichiNagoyaAtsutaPage() {
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-amber-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-amber-700 font-bold text-xs block mb-1">滋賀・彦根＆近江八幡</span>
-              <span className="text-stone-900 font-bold group-hover:text-amber-800 transition-colors line-clamp-2">
+              <span className="text-stone-900 font-bold group-hover:text-amber-800 transition-colors">
                 国宝彦根城の雪景色と八幡堀水郷・極上近江牛すき焼き名宿
               </span>
             </Link>
@@ -629,7 +629,7 @@ export default function AichiNagoyaAtsutaPage() {
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-amber-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-amber-700 font-bold text-xs block mb-1">長野・昼神温泉</span>
-              <span className="text-stone-900 font-bold group-hover:text-amber-800 transition-colors line-clamp-2">
+              <span className="text-stone-900 font-bold group-hover:text-amber-800 transition-colors">
                 日本一の星空ナイトツアーと美肌湯・信州牛を味わう冬名宿
               </span>
             </Link>

@@ -248,14 +248,14 @@ export default function KamakuraVsEnoshimaPage() {
                   </div>
                 )}
                 <div className="p-6 flex flex-col flex-grow">
-                  <h3 className="text-xl font-bold text-gray-900 mb-3 line-clamp-2">{hotel.hotelName}</h3>
+                  <h3 className="text-xl font-bold text-gray-900 mb-3">{hotel.hotelName}</h3>
                   {hotel.hotelMinCharge && (
                     <div className="text-indigo-600 font-bold text-lg mb-4">
                       目安：{hotel.hotelMinCharge.toLocaleString()}円〜 /人
                     </div>
                   )}
                   {hotel.hotelSpecial && (
-                    <p className="text-gray-600 text-sm line-clamp-3 mb-6 flex-grow">
+                    <p className="text-gray-600 text-sm mb-6 flex-grow">
                       {hotel.hotelSpecial}
                     </p>
                   )}

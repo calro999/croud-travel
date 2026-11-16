@@ -42,7 +42,7 @@ export default function NagoyaBudgetAutumnPage() {
             <span className="px-3 py-1 bg-stone-800 text-amber-300 text-xs font-medium rounded-full border border-amber-400/30">1泊目安: 3,000円台〜5,000円台</span>
           </div>
           <h1 className="text-2xl md:text-4xl lg:text-5xl font-extrabold text-white leading-tight mb-4 drop-shadow-md">「秋の名古屋×格安」東山動植物園の紅葉ライトアップと名古屋めし！大浴場付き1泊3,000円台〜のコスパ最強ホテル5選</h1>
-          <p className="text-stone-200 text-sm md:text-base max-w-3xl line-clamp-2 md:line-clamp-none">
+          <p className="text-stone-200 text-sm md:text-base max-w-3xl">
             池の水面に映し出される東山動植物園の幻想的な紅葉ライトアップ。栄や伏見の中心街で名物ひつまぶしや手羽先を堪能し、天然温泉大浴場やサウナで寛げる名古屋の格安宿をご紹介します。
           </p>
         </div>
@@ -98,7 +98,7 @@ export default function NagoyaBudgetAutumnPage() {
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 名古屋駅 / 地下鉄（東山線・鶴舞線）「伏見駅」６番出口より徒歩約５分。ＪＲ「名古屋駅」より車で約５分・徒歩約２０分。
                   </p>
-                  <p className="text-sm text-stone-600 mb-4 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-stone-600 mb-4 leading-relaxed">
                     【楽天トラベル シルバーアワード2025受賞】伏見駅徒歩約5分！天然温泉×名古屋めしバイキング
                   </p>
                 </div>
@@ -143,7 +143,7 @@ export default function NagoyaBudgetAutumnPage() {
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 栄（愛知）駅 / 地下鉄東山線・名城線　栄駅１３番出口より徒歩６分、地下鉄名城線　矢場町駅１番出口より徒歩５分　　繁華街まで徒歩圏内
                   </p>
-                  <p className="text-sm text-stone-600 mb-4 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-stone-600 mb-4 leading-relaxed">
                     繁華街まで徒歩4分の好立地に和洋バイキング無料朝食・男女別浴場完備・ネット接続無料
                   </p>
                 </div>
@@ -188,7 +188,7 @@ export default function NagoyaBudgetAutumnPage() {
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 名古屋駅 / 名古屋駅より車で１０分■丸の内駅から徒歩１分・地下鉄伏見駅から徒歩４分■丸の内ＩＣより車で５分■
                   </p>
-                  <p className="text-sm text-stone-600 mb-4 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-stone-600 mb-4 leading-relaxed">
                     ■ＪＲ名古屋駅から車で１０分■繁華街錦町・栄町も徒歩圏内■ 男女別大浴場完備■
                   </p>
                 </div>
@@ -233,7 +233,7 @@ export default function NagoyaBudgetAutumnPage() {
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 久屋大通駅 / 名古屋市営地下鉄名城線・桜通線「久屋大通駅」２A出口より徒歩５分
                   </p>
-                  <p className="text-sm text-stone-600 mb-4 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-stone-600 mb-4 leading-relaxed">
                     【男女露天風呂付大浴場あり＆ベーカリーカフェ併設】久屋大通駅より徒歩５分！男性にはサウナも☆
                   </p>
                 </div>
@@ -278,7 +278,7 @@ export default function NagoyaBudgetAutumnPage() {
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 栄（愛知）駅 / 地下鉄東山線　栄駅１２番出口より徒歩約10分／名古屋高速　東新町インターより車で約２分 　新栄・鶴舞からも至近！
                   </p>
-                  <p className="text-sm text-stone-600 mb-4 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-stone-600 mb-4 leading-relaxed">
                     VODルームシアター視聴可能(一般映画のみ：コンフォートルームのみ無料特典）
                   </p>
                 </div>

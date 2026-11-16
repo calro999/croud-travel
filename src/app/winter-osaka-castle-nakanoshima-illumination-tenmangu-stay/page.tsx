@@ -336,7 +336,7 @@ export default function OsakaCastleNakanoshimaWinterPage() {
                     <span>厳選宿 #{hotel.id}</span>
                   </div>
                   <div className="absolute bottom-4 left-4 right-4 bg-slate-950/75 backdrop-blur-sm text-white p-3 rounded-2xl text-xs space-y-1 border border-white/10">
-                    <p className="text-slate-300 line-clamp-1 flex items-center gap-1">
+                    <p className="text-slate-300 flex items-center gap-1">
                       <MapPin className="w-3.5 h-3.5 text-rose-400 shrink-0" />
                       {hotel.access}
                     </p>
@@ -570,42 +570,42 @@ export default function OsakaCastleNakanoshimaWinterPage() {
               href="/winter-osaka-city-sumiyoshi-taisha-hatsumode-illumination-fugu-stay/"
               className="bg-white p-3.5 rounded-2xl border border-slate-200 hover:border-amber-400 hover:shadow-xs transition flex flex-col justify-between"
             >
-              <span className="font-bold text-xs sm:text-sm text-slate-800 line-clamp-2">住吉大社新春初詣＆御堂筋イルミ！冬のとらふぐ極上宿</span>
+              <span className="font-bold text-xs sm:text-sm text-slate-800">住吉大社新春初詣＆御堂筋イルミ！冬のとらふぐ極上宿</span>
               <span className="text-[11px] text-amber-600 font-medium mt-2 flex items-center gap-1">大阪・住吉特集を読む →</span>
             </Link>
             <Link 
               href="/winter-hyogo-kobe-port-ikuta-shrine-luminarie-beef-stay/"
               className="bg-white p-3.5 rounded-2xl border border-slate-200 hover:border-amber-400 hover:shadow-xs transition flex flex-col justify-between"
             >
-              <span className="font-bold text-xs sm:text-sm text-slate-800 line-clamp-2">生田神社初詣＆神戸ルミナリエ！メリケンパーク夜景と神戸牛宿</span>
+              <span className="font-bold text-xs sm:text-sm text-slate-800">生田神社初詣＆神戸ルミナリエ！メリケンパーク夜景と神戸牛宿</span>
               <span className="text-[11px] text-amber-600 font-medium mt-2 flex items-center gap-1">兵庫・神戸特集を読む →</span>
             </Link>
             <Link 
               href="/winter-nara-park-kasuga-taisha-hatsumode-todaiji-yamatogyu-stay/"
               className="bg-white p-3.5 rounded-2xl border border-slate-200 hover:border-amber-400 hover:shadow-xs transition flex flex-col justify-between"
             >
-              <span className="font-bold text-xs sm:text-sm text-slate-800 line-clamp-2">春日大社新春開運初詣＆東大寺冬景色！大和牛すき焼きの古都宿</span>
+              <span className="font-bold text-xs sm:text-sm text-slate-800">春日大社新春開運初詣＆東大寺冬景色！大和牛すき焼きの古都宿</span>
               <span className="text-[11px] text-amber-600 font-medium mt-2 flex items-center gap-1">奈良・奈良公園特集を読む →</span>
             </Link>
             <Link 
               href="/winter-kyoto-fushimi-inari-hatsumode-uji-sake-matcha-stay/"
               className="bg-white p-3.5 rounded-2xl border border-slate-200 hover:border-amber-400 hover:shadow-xs transition flex flex-col justify-between"
             >
-              <span className="font-bold text-xs sm:text-sm text-slate-800 line-clamp-2">伏見稲荷大社新春初詣＆宇治抹茶！冬の酒蔵めぐりと京会席宿</span>
+              <span className="font-bold text-xs sm:text-sm text-slate-800">伏見稲荷大社新春初詣＆宇治抹茶！冬の酒蔵めぐりと京会席宿</span>
               <span className="text-[11px] text-amber-600 font-medium mt-2 flex items-center gap-1">京都・伏見宇治特集を読む →</span>
             </Link>
             <Link 
               href="/winter-shiga-omihachiman-hikone-snow-castle-omigyu-stay/"
               className="bg-white p-3.5 rounded-2xl border border-slate-200 hover:border-amber-400 hover:shadow-xs transition flex flex-col justify-between"
             >
-              <span className="font-bold text-xs sm:text-sm text-slate-800 line-clamp-2">国宝彦根城雪化粧＆近江八幡水郷！近江牛すき焼きとびわ湖宿</span>
+              <span className="font-bold text-xs sm:text-sm text-slate-800">国宝彦根城雪化粧＆近江八幡水郷！近江牛すき焼きとびわ湖宿</span>
               <span className="text-[11px] text-amber-600 font-medium mt-2 flex items-center gap-1">滋賀・彦根八幡特集を読む →</span>
             </Link>
             <Link 
               href="/features/"
               className="bg-amber-50 p-3.5 rounded-2xl border border-amber-200 hover:bg-amber-100 transition flex flex-col justify-between"
             >
-              <span className="font-bold text-xs sm:text-sm text-amber-900 line-clamp-2">全国の冬旅・新春初詣＆温泉特選特集一覧</span>
+              <span className="font-bold text-xs sm:text-sm text-amber-900">全国の冬旅・新春初詣＆温泉特選特集一覧</span>
               <span className="text-[11px] text-amber-700 font-medium mt-2 flex items-center gap-1">全特集一覧へ戻る →</span>
             </Link>
           

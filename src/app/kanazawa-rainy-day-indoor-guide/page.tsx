@@ -311,7 +311,7 @@ export default function KanazawaRainyDayIndoorGuidePage() {
                         <p className="text-xs text-slate-400 mb-3">
                           {hotel.address1} {hotel.address2}
                         </p>
-                        <p className="text-xs sm:text-sm text-slate-300 leading-relaxed line-clamp-3 mb-4">
+                        <p className="text-xs sm:text-sm text-slate-300 leading-relaxed mb-4">
                           {hotel.hotelSpecial || "金沢観光の拠点に最適な立地。雨の日も館内で快適にお過ごしいただけます。"}
                         </p>
                         {hotel.access && (
@@ -427,19 +427,19 @@ export default function KanazawaRainyDayIndoorGuidePage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/kanazawa-vs-kyoto-comparison/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「金沢 vs 京都 どっちが面白い？」 食べ歩き・美術館・温泉・費用で古都対決</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「金沢 vs 京都 どっちが面白い？」 食べ歩き・美術館・温泉・費用で古都対決</span>
             </a>
             <a href="/noto/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「能登旅行 完全計画ガイド」 モデルコース・和倉温泉・白米千枚田・能登丼・宿選びから予約まで</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「能登旅行 完全計画ガイド」 モデルコース・和倉温泉・白米千枚田・能登丼・宿選びから予約まで</span>
             </a>
             <a href="/tokyo-kanazawa-bus-vs-shinkansen-guide/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「東京から金沢 安く行く方法」新幹線と高速バスどっち？料金・時間比較＆1泊2日モデルコース</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「東京から金沢 安く行く方法」新幹線と高速バスどっち？料金・時間比較＆1泊2日モデルコース</span>
             </a>
             <a href="/traditional-ishikawa-kutaniyaki-art-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「九谷焼の鮮やかな器と加賀懐石」五彩の美学！山代・山中・片山津の加賀温泉郷名湯宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「九谷焼の鮮やかな器と加賀懐石」五彩の美学！山代・山中・片山津の加賀温泉郷名湯宿5選</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

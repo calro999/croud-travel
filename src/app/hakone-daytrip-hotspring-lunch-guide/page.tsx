@@ -411,7 +411,7 @@ export default function HakoneDaytripHotspringLunchPage() {
                   <div className="p-5 space-y-2">
                     <h3 className="text-sm md:text-base font-black font-journal-serif text-slate-900">{hotel.hotelName}</h3>
                     {hotel.hotelSpecial && (
-                      <p className="text-xs text-slate-600 line-clamp-3 leading-relaxed">
+                      <p className="text-xs text-slate-600 leading-relaxed">
                         {hotel.hotelSpecial}
                       </p>
                     )}

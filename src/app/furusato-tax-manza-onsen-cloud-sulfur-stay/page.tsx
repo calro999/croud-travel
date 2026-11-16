@@ -546,19 +546,19 @@ export default function FurusatoArticlePage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/gunma-kusatsu-yubatake-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「群馬・草津温泉」湯畑・西の河原＆湯もみ体験極上宿 厳選ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「群馬・草津温泉」湯畑・西の河原＆湯もみ体験極上宿 厳選ガイド</span>
             </a>
             <a href="/gunma-minakami-tanigawadake-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「群馬・水上温泉郷＆谷川岳」一ノ倉沢大岩壁・宝川温泉巨石大露天＆利根川宿 厳選ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「群馬・水上温泉郷＆谷川岳」一ノ倉沢大岩壁・宝川温泉巨石大露天＆利根川宿 厳選ガイド</span>
             </a>
             <a href="/kusatsu-daytrip-hotspring-lunch-guide/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「草津温泉 日帰り温泉＆ランチ」 湯畑周辺で楽しむ源泉かけ流し名湯＆上州牛・手打ちそば名店ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「草津温泉 日帰り温泉＆ランチ」 湯畑周辺で楽しむ源泉かけ流し名湯＆上州牛・手打ちそば名店ガイド</span>
             </a>
             <a href="/kusatsu-vs-ikaho-onsen-comparison/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「草津温泉 vs 伊香保温泉 どっちがいい？」泉質・街歩き・アクセス・宿を7項目で徹底比較</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「草津温泉 vs 伊香保温泉 どっちがいい？」泉質・街歩き・アクセス・宿を7項目で徹底比較</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

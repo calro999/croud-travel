@@ -582,7 +582,7 @@ export default function KochiMurotoDarumaWinterPage() {
             >
               <div>
                 <span className="text-[11px] font-bold text-rose-700 bg-rose-50 px-2 py-0.5 rounded block w-fit mb-2">高知・足摺岬</span>
-                <h3 className="text-sm font-bold text-stone-800 group-hover:text-rose-600 line-clamp-2">足摺岬温泉と冬の満天星空・鰹藁焼きと土佐牛ステイ</h3>
+                <h3 className="text-sm font-bold text-stone-800 group-hover:text-rose-600">足摺岬温泉と冬の満天星空・鰹藁焼きと土佐牛ステイ</h3>
               </div>
               <span className="text-xs text-rose-600 font-semibold mt-3 block">記事を読む →</span>
             </Link>
@@ -593,7 +593,7 @@ export default function KochiMurotoDarumaWinterPage() {
             >
               <div>
                 <span className="text-[11px] font-bold text-rose-700 bg-rose-50 px-2 py-0.5 rounded block w-fit mb-2">高知・高知市</span>
-                <h3 className="text-sm font-bold text-stone-800 group-hover:text-rose-600 line-clamp-2">高知城冬景色と天然クエ鍋・ひろめ市場屋台と土佐あかうしステイ</h3>
+                <h3 className="text-sm font-bold text-stone-800 group-hover:text-rose-600">高知城冬景色と天然クエ鍋・ひろめ市場屋台と土佐あかうしステイ</h3>
               </div>
               <span className="text-xs text-rose-600 font-semibold mt-3 block">記事を読む →</span>
             </Link>
@@ -604,7 +604,7 @@ export default function KochiMurotoDarumaWinterPage() {
             >
               <div>
                 <span className="text-[11px] font-bold text-rose-700 bg-rose-50 px-2 py-0.5 rounded block w-fit mb-2">高知・北川村馬路村</span>
-                <h3 className="text-sm font-bold text-stone-800 group-hover:text-rose-600 line-clamp-2">土佐柚子温泉郷と冬の香り湯・柚子ポン酢と郷土美食ステイ</h3>
+                <h3 className="text-sm font-bold text-stone-800 group-hover:text-rose-600">土佐柚子温泉郷と冬の香り湯・柚子ポン酢と郷土美食ステイ</h3>
               </div>
               <span className="text-xs text-rose-600 font-semibold mt-3 block">記事を読む →</span>
             </Link>
@@ -615,7 +615,7 @@ export default function KochiMurotoDarumaWinterPage() {
             >
               <div>
                 <span className="text-[11px] font-bold text-rose-700 bg-rose-50 px-2 py-0.5 rounded block w-fit mb-2">徳島・鳴門</span>
-                <h3 className="text-sm font-bold text-stone-800 group-hover:text-rose-600 line-clamp-2">鳴門海峡の冬渦潮と鳴門温泉・冬の鳴門鯛しゃぶしゃぶステイ</h3>
+                <h3 className="text-sm font-bold text-stone-800 group-hover:text-rose-600">鳴門海峡の冬渦潮と鳴門温泉・冬の鳴門鯛しゃぶしゃぶステイ</h3>
               </div>
               <span className="text-xs text-rose-600 font-semibold mt-3 block">記事を読む →</span>
             </Link>

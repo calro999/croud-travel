@@ -289,14 +289,14 @@ export default function SilverWeekGlampingRainyWeatherIndoorPage() {
                     {hotel.address1} {hotel.address2}
                   </div>
 
-                  <h3 className="font-black text-slate-900 text-base leading-snug group-hover:text-slate-700 transition line-clamp-2 font-journal-serif">{hotel.hotelName}</h3>
+                  <h3 className="font-black text-slate-900 text-base leading-snug group-hover:text-slate-700 transition font-journal-serif">{hotel.hotelName}</h3>
 
-                  <p className="text-xs text-slate-600 line-clamp-3 leading-relaxed font-medium">
+                  <p className="text-xs text-slate-600 leading-relaxed font-medium">
                     {hotel.hotelSpecial || "屋根付きテラスと快適な室内設備を備えた全天候対応グランピングリゾート。"}
                   </p>
 
                   {hotel.access && (
-                    <p className="text-[11px] text-slate-500 line-clamp-1">
+                    <p className="text-[11px] text-slate-500">
                       🚗 {hotel.access}
                     </p>
                   )}
@@ -362,7 +362,7 @@ export default function SilverWeekGlampingRainyWeatherIndoorPage() {
             <span className="text-[10px] font-bold text-slate-700 bg-slate-100 px-2 py-0.5 rounded-full inline-block mb-1.5">
               箱根雨の日モデルコース
             </span>
-            <div className="font-bold text-xs sm:text-sm text-slate-900 group-hover:text-slate-700 transition line-clamp-2">
+            <div className="font-bold text-xs sm:text-sm text-slate-900 group-hover:text-slate-700 transition">
               【箱根雨の日観光モデルコース】雨天でも100%満喫できる美術館巡り・日帰り温泉・屋内スポット完全攻略
             </div>
           </Link>
@@ -374,7 +374,7 @@ export default function SilverWeekGlampingRainyWeatherIndoorPage() {
             <span className="text-[10px] font-bold text-slate-700 bg-slate-100 px-2 py-0.5 rounded-full inline-block mb-1.5">
               金沢雨の日ガイド
             </span>
-            <div className="font-bold text-xs sm:text-sm text-slate-900 group-hover:text-slate-700 transition line-clamp-2">
+            <div className="font-bold text-xs sm:text-sm text-slate-900 group-hover:text-slate-700 transition">
               【金沢雨の日観光ガイド】弁当忘れても傘忘れるな！21世紀美術館や近江町市場など屋内満喫モデルプラン
             </div>
           </Link>

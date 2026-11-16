@@ -160,7 +160,7 @@ export default function Page() {
           <span>&gt;</span>
           <Link href="/features/" className="hover:text-emerald-700">特集一覧</Link>
           <span>&gt;</span>
-          <span className="text-stone-800 font-semibold truncate">紅葉ライトアップ×庭園露天風呂</span>
+          <span className="text-stone-800 font-semibold break-words">紅葉ライトアップ×庭園露天風呂</span>
         </div>
       </div>
 
@@ -348,19 +348,19 @@ export default function Page() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/furusato-tax-oirase-towadako-autumn-leaves-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">奥入瀬渓流の黄金トンネル紅葉＆十和田湖畔の絶景名湯リゾート・青森短角牛会席</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">奥入瀬渓流の黄金トンネル紅葉＆十和田湖畔の絶景名湯リゾート・青森短角牛会席</span>
             </a>
             <a href="/winter-aomori-ajigasawa-fukaura-onsen-hirame-maguro-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12月津軽西海岸】冬旬「鰺ヶ沢ヒラメ」＆深浦マグロ・太古の化石海水温まり湯と黄金崎不老ふ死温泉を巡る名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">【11・12月津軽西海岸】冬旬「鰺ヶ沢ヒラメ」＆深浦マグロ・太古の化石海水温まり湯と黄金崎不老ふ死温泉を巡る名宿5選</span>
             </a>
             <a href="/winter-aomori-towada-lake-oirase-hyobaku-snow-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【12・1月青森】十和田湖＆奥入瀬渓流！白銀の巨大氷瀑・氷柱ネイチャーツアーと十和田神社初詣・奥入瀬渓流温泉雪見露天＆倉石牛名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">【12・1月青森】十和田湖＆奥入瀬渓流！白銀の巨大氷瀑・氷柱ネイチャーツアーと十和田神社初詣・奥入瀬渓流温泉雪見露天＆倉石牛名宿5選</span>
             </a>
             <a href="/autumn-aomori-oirase-gorge-towada-lake-momiji-hotels-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【10月中旬〜下旬！奥入瀬渓流＆十和田湖紅葉】錦秋の滝巡りと秘湯・リゾート宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">【10月中旬〜下旬！奥入瀬渓流＆十和田湖紅葉】錦秋の滝巡りと秘湯・リゾート宿5選</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

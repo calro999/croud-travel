@@ -389,19 +389,19 @@ export default function FeaturePage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/winter-ehime-imabari-shimanami-oyamazumi-shrine-hatsumode-taimeshi-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「愛媛・今治＆しまなみ海道」 日本総鎮守「大山祇神社」樹齢2600年神木新春初詣！ 冬晴れしまなみ海道パノラマ・甘み極まる今治鯛めし＆鈍川温泉名宿</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「愛媛・今治＆しまなみ海道」 日本総鎮守「大山祇神社」樹齢2600年神木新春初詣！ 冬晴れしまなみ海道パノラマ・甘み極まる今治鯛めし＆鈍川温泉名宿</span>
             </a>
             <a href="/winter-ehime-ozu-uchiko-castle-garyusanso-bikan-uchikobuta-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">愛媛・大洲＆内子 大洲城の冬霧とミシュラン名園「臥龍山荘」！ 白壁の内子町並み散策＆名物いもたき・内子豚名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">愛媛・大洲＆内子 大洲城の冬霧とミシュラン名園「臥龍山荘」！ 白壁の内子町並み散策＆名物いもたき・内子豚名宿5選</span>
             </a>
             <a href="/winter-okayama-takahashi-bitchu-matsuyama-castle-unkai-chiyagyu-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">雲海に浮かぶ天空の山城・備中松山城＆美星町満天星空！ 幻の千屋牛すき焼きを堪能する名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">雲海に浮かぶ天空の山城・備中松山城＆美星町満天星空！ 幻の千屋牛すき焼きを堪能する名宿5選</span>
             </a>
             <a href="/autumn-budget-ehime-matsuyama-okaido-taimeshi-castle-hotels-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「松山・大街道」絶品鯛めし＆松山城紅葉ロープウェイ！2,000円台〜泊まれる格安・高コスパ宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「松山・大街道」絶品鯛めし＆松山城紅葉ロープウェイ！2,000円台〜泊まれる格安・高コスパ宿5選</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

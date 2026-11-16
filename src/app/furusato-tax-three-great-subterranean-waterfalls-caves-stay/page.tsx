@@ -485,19 +485,19 @@ export default function Page() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/autumn-budget-fukushima-bandai-azuma-momiji-gyoza-hotels-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">福島：磐梯吾妻スカイラインの絶景紅葉と円盤餃子！格安ホテル5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">福島：磐梯吾妻スカイラインの絶景紅葉と円盤餃子！格安ホテル5選</span>
             </a>
             <a href="/fukushima-iizaka-solo-retreat-hotspring-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">奥州三名湯・飯坂温泉ひとり旅・摺上川渓谷あつ湯おこもり：松尾芭蕉ゆかりの古湯・摺上川のせせらぎ・円盤餃子＆福島地酒！福島交通飯坂線直通厳選3宿</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">奥州三名湯・飯坂温泉ひとり旅・摺上川渓谷あつ湯おこもり：松尾芭蕉ゆかりの古湯・摺上川のせせらぎ・円盤餃子＆福島地酒！福島交通飯坂線直通厳選3宿</span>
             </a>
             <a href="/furusato-tax-tatsusawa-inawashiro-autumn-leaves-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">猪苗代・達沢不動滝の名瀑紅葉＆猪苗代湖！萩姫伝説の磐梯熱海温泉美肌宿×ふるさと納税厳選ガイド福島</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">猪苗代・達沢不動滝の名瀑紅葉＆猪苗代湖！萩姫伝説の磐梯熱海温泉美肌宿×ふるさと納税厳選ガイド福島</span>
             </a>
             <a href="/winter-fukushima-aizu-higashiyama-ashinomaki-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12月福島・会津東山温泉＆芦ノ牧温泉の渓谷雪景色と城下町情緒】名物会津牛＆極上馬刺し・郷土こづゆと渓谷露天の名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">【11・12月福島・会津東山温泉＆芦ノ牧温泉の渓谷雪景色と城下町情緒】名物会津牛＆極上馬刺し・郷土こづゆと渓谷露天の名宿5選</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

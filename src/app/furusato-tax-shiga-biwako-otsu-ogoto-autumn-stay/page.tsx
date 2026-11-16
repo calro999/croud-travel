@@ -399,19 +399,19 @@ export default function Page() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/shiga-biwako-hikone-castle-nagahama-kurokabe-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「滋賀・琵琶湖＆彦根・長浜・雄琴」国宝彦根城・黒壁スクエア＆びわ湖一望温泉宿 厳選ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「滋賀・琵琶湖＆彦根・長浜・雄琴」国宝彦根城・黒壁スクエア＆びわ湖一望温泉宿 厳選ガイド</span>
             </a>
             <a href="/silver-week-glamping-kansai-biwako-awaji-guide/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「関西シルバーウィーク グランピング」 琵琶湖レイクビュー＆淡路島オーシャンビュー 極上ドームヴィラ＆ブランド牛BBQステイ</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「関西シルバーウィーク グランピング」 琵琶湖レイクビュー＆淡路島オーシャンビュー 極上ドームヴィラ＆ブランド牛BBQステイ</span>
             </a>
             <a href="/traditional-shiga-shigaraki-ware-art-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「信楽焼の器美学と近江牛懐石」日本最古の銘柄牛！おごと温泉・信楽・琵琶湖畔の名湯宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「信楽焼の器美学と近江牛懐石」日本最古の銘柄牛！おごと温泉・信楽・琵琶湖畔の名湯宿5選</span>
             </a>
             <a href="/winter-shiga-nagahama-taiko-onsen-biwako-kamonabe-omigyu-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">初冬琵琶湖夕景と名物天然鴨鍋 秀吉ゆかりの含鉄泉＆極上近江牛すき焼きを堪能する湖北名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">初冬琵琶湖夕景と名物天然鴨鍋 秀吉ゆかりの含鉄泉＆極上近江牛すき焼きを堪能する湖北名宿5選</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

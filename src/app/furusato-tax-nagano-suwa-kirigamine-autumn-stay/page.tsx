@@ -399,19 +399,19 @@ export default function Page() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/nagano-togakushi-shrine-soba-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「長野・戸隠＆飯綱高原」戸隠神社五社巡り・奥社杉並木＆日本三大戸隠そば宿 厳選ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「長野・戸隠＆飯綱高原」戸隠神社五社巡り・奥社杉並木＆日本三大戸隠そば宿 厳選ガイド</span>
             </a>
             <a href="/organic-forest-infinity-panoramic-sauna-chubu/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「信州・白馬アルプス森林サウナ」北アルプス絶景パノラマ＆白樺水風呂の極上リゾート宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「信州・白馬アルプス森林サウナ」北アルプス絶景パノラマ＆白樺水風呂の極上リゾート宿5選</span>
             </a>
             <a href="/tokyo-matsumoto-kamikochi-bus-vs-train-guide/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「東京・新宿〜松本・上高地」特急あずさ vs 直行高速バス徹底比較！片道2,500円〜行く国宝松本城＆上高地1泊2日モデルコース</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「東京・新宿〜松本・上高地」特急あずさ vs 直行高速バス徹底比較！片道2,500円〜行く国宝松本城＆上高地1泊2日モデルコース</span>
             </a>
             <a href="/winter-nagano-achimura-hirugami-starry-sky-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12月阿智村の日本一の星空ナイトツアー】 昼神温泉の極上美肌湯と南信州冬の味覚宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">【11・12月阿智村の日本一の星空ナイトツアー】 昼神温泉の極上美肌湯と南信州冬の味覚宿5選</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

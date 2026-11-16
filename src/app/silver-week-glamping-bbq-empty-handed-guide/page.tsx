@@ -321,14 +321,14 @@ export default function SilverWeekGlampingBbqEmptyHandedPage() {
                     )}
                   </div>
 
-                  <h3 className="font-black text-stone-900 text-base leading-snug group-hover:text-amber-700 transition line-clamp-2 font-journal-serif">{hotel.hotelName}</h3>
+                  <h3 className="font-black text-stone-900 text-base leading-snug group-hover:text-amber-700 transition font-journal-serif">{hotel.hotelName}</h3>
 
-                  <p className="text-xs text-stone-600 line-clamp-3 leading-relaxed font-medium">
+                  <p className="text-xs text-stone-600 leading-relaxed font-medium">
                     {hotel.hotelSpecial || "地元名産の厳選食材を炭火や高性能グリルで楽しむ手ぶらBBQディナーが自慢のリゾートステイ。"}
                   </p>
 
                   {hotel.access && (
-                    <p className="text-[11px] text-stone-500 line-clamp-1">
+                    <p className="text-[11px] text-stone-500">
                       🚗 {hotel.access}
                     </p>
                   )}
@@ -388,7 +388,7 @@ export default function SilverWeekGlampingBbqEmptyHandedPage() {
             <span className="text-[10px] font-bold text-amber-700 bg-amber-50 px-2 py-0.5 rounded-full inline-block mb-1.5">
               秋の味覚狩り
             </span>
-            <div className="font-bold text-xs sm:text-sm text-stone-900 group-hover:text-amber-700 transition line-clamp-2">
+            <div className="font-bold text-xs sm:text-sm text-stone-900 group-hover:text-amber-700 transition">
               【山梨ぶどう狩り・シャインマスカット日帰りバスツアー比較】食べ放題・ワイナリー試飲つき厳選
             </div>
           </Link>
@@ -400,7 +400,7 @@ export default function SilverWeekGlampingBbqEmptyHandedPage() {
             <span className="text-[10px] font-bold text-stone-600 bg-stone-100 px-2 py-0.5 rounded-full inline-block mb-1.5">
               家族旅行モデルコース
             </span>
-            <div className="font-bold text-xs sm:text-sm text-stone-900 group-hover:text-amber-700 transition line-clamp-2">
+            <div className="font-bold text-xs sm:text-sm text-stone-900 group-hover:text-amber-700 transition">
               【金沢家族旅行 1泊2日モデルコース】子連れ・3世代で行く兼六園・近江町市場・21世紀美術館
             </div>
           </Link>

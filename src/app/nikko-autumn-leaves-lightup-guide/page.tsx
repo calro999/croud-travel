@@ -405,9 +405,9 @@ export default function NikkoAutumnLeavesGuidePage() {
                   </div>
 
                   <div className="p-5">
-                    <h3 className="font-bold text-base text-stone-900 mb-2 leading-snug line-clamp-2">{hotel.hotelName}</h3>
+                    <h3 className="font-bold text-base text-stone-900 mb-2 leading-snug">{hotel.hotelName}</h3>
                     {hotel.hotelSpecial && (
-                      <p className="text-xs text-amber-900 line-clamp-2 mb-3 bg-amber-100/60 p-2 rounded-lg border border-amber-200">
+                      <p className="text-xs text-amber-900 mb-3 bg-amber-100/60 p-2 rounded-lg border border-amber-200">
                         {hotel.hotelSpecial}
                       </p>
                     )}
@@ -419,7 +419,7 @@ export default function NikkoAutumnLeavesGuidePage() {
                         </p>
                       )}
                       {hotel.access && (
-                        <p className="line-clamp-1">
+                        <p className="">
                           <span>🚗 </span>{hotel.access}
                         </p>
                       )}
@@ -537,19 +537,19 @@ export default function NikkoAutumnLeavesGuidePage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/dog-friendly-private-onsen-bath-resort-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「愛犬専用温泉付き客室＆露天風呂宿」伊豆・那須・箱根・関西 厳選ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「愛犬専用温泉付き客室＆露天風呂宿」伊豆・那須・箱根・関西 厳選ガイド</span>
             </a>
             <a href="/furusato-tax-dog-friendly-dogrun-luxury-resort-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">愛犬とずっと一緒！天然芝ドッグラン＆愛犬同伴温泉リゾート名宿×ふるさと納税厳選ガイド伊豆高原・那須高原・びわ湖長浜</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">愛犬とずっと一緒！天然芝ドッグラン＆愛犬同伴温泉リゾート名宿×ふるさと納税厳選ガイド伊豆高原・那須高原・びわ湖長浜</span>
             </a>
             <a href="/furusato-tax-hoshino-resorts-risonare-family-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">家族の最高の思い出を！星野リゾート「リゾナーレ」×ふるさと納税極上旅ガイド八ヶ岳・熱海・那須で洗練された非日常ステイ</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">家族の最高の思い出を！星野リゾート「リゾナーレ」×ふるさと納税極上旅ガイド八ヶ岳・熱海・那須で洗練された非日常ステイ</span>
             </a>
             <a href="/furusato-tax-kinugawa-onsen-valley-luxury-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">鬼怒川温泉をふるさと納税でお得に旅する！空中庭園露天風呂＆渓谷美の特等席！名門老舗リゾート特集｜あさや・鬼怒川金谷ホテル・七重八重</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">鬼怒川温泉をふるさと納税でお得に旅する！空中庭園露天風呂＆渓谷美の特等席！名門老舗リゾート特集｜あさや・鬼怒川金谷ホテル・七重八重</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

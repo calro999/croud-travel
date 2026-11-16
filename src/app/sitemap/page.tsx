@@ -263,7 +263,7 @@ export default function SitemapPage() {
                 className="p-3 rounded-xl bg-teal-50/30 hover:bg-teal-100/60 border border-teal-900/5 transition flex items-start gap-2 group"
               >
                 <span className="text-teal-700 font-bold mt-0.5">✨</span>
-                <span className="font-semibold text-emerald-950 group-hover:text-teal-900 leading-snug line-clamp-2">
+                <span className="font-semibold text-emerald-950 group-hover:text-teal-900 leading-snug">
                   {hub.title}
                 </span>
               </Link>

@@ -630,19 +630,19 @@ export default function FeatureDetailPage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/furusato-tax-takachiho-manainotaki-autumn-leaves-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">神話の里・高千穂峡の真名井の滝紅葉ボート＆高千穂神社夜神楽！極上高千穂牛宿×ふるさと納税厳選ガイド宮崎</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">神話の里・高千穂峡の真名井の滝紅葉ボート＆高千穂神社夜神楽！極上高千穂牛宿×ふるさと納税厳選ガイド宮崎</span>
             </a>
             <a href="/miyazaki-nichinan-aoshima-coast-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「宮崎・日南海岸＆青島」青島神社・鬼の洗濯板＆サンメッセ日南モアイ・宮崎牛宿 厳選ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「宮崎・日南海岸＆青島」青島神社・鬼の洗濯板＆サンメッセ日南モアイ・宮崎牛宿 厳選ガイド</span>
             </a>
             <a href="/miyazaki-takachiho-gorge-myth-power-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「宮崎・高千穂峡＆天岩戸神社」真名井の滝貸ボート・八百万の神天安河原＆高千穂牛宿 厳選ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「宮崎・高千穂峡＆天岩戸神社」真名井の滝貸ボート・八百万の神天安河原＆高千穂牛宿 厳選ガイド</span>
             </a>
             <a href="/winter-miyazaki-aoshima-onsen-miyazakigyu-iseebi-resort-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">南国温暖避寒と鬼の洗濯板絶景 最高峰宮崎牛・伊勢海老＆美肌炭酸泉リゾートの宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">南国温暖避寒と鬼の洗濯板絶景 最高峰宮崎牛・伊勢海老＆美肌炭酸泉リゾートの宿5選</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

@@ -670,21 +670,21 @@ export default function OitaYunohiraYufuWinterPage() {
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-amber-700 font-bold block text-[10px]">大分・由布院温泉</span>
-              <p className="font-bold text-stone-800 line-clamp-2">金鱗湖の幻想的な冬朝霧と極上豊後牛・由布岳を望む露天名宿</p>
+              <p className="font-bold text-stone-800">金鱗湖の幻想的な冬朝霧と極上豊後牛・由布岳を望む露天名宿</p>
             </Link>
             <Link 
               href="/winter-oita-hita-amagase-onsen-mamedamachi-bungogyu-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-amber-700 font-bold block text-[10px]">大分・日田＆天ヶ瀬</span>
-              <p className="font-bold text-stone-800 line-clamp-2">豆田町の初冬蔵屋敷散策と玖珠川清流露天風呂・豊後牛名宿</p>
+              <p className="font-bold text-stone-800">豆田町の初冬蔵屋敷散策と玖珠川清流露天風呂・豊後牛名宿</p>
             </Link>
             <Link 
               href="/winter-kumamoto-kurokawa-onsen-yuakari-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-amber-700 font-bold block text-[10px]">熊本・黒川温泉</span>
-              <p className="font-bold text-stone-800 line-clamp-2">冬の風物詩「湯あかり」竹灯籠と渓流雪見露天風呂・肥後牛の贅沢</p>
+              <p className="font-bold text-stone-800">冬の風物詩「湯あかり」竹灯籠と渓流雪見露天風呂・肥後牛の贅沢</p>
             </Link>
           
       <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">

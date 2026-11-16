@@ -42,7 +42,7 @@ export default function SumatakyoAutumnPage() {
             <span className="px-3 py-1 bg-stone-800 text-amber-300 text-xs font-medium rounded-full border border-amber-400/30">見頃目安: 11月上旬〜11月下旬</span>
           </div>
           <h1 className="text-2xl md:text-4xl lg:text-5xl font-extrabold text-white leading-tight mb-4 drop-shadow-md">「秋の寸又峡」夢の吊橋のエメラルド湖水と鮮烈な紅葉！美女づくりの湯を満喫するおすすめ秘境宿5選</h1>
-          <p className="text-stone-200 text-sm md:text-base max-w-3xl line-clamp-2 md:line-clamp-none">
+          <p className="text-stone-200 text-sm md:text-base max-w-3xl">
             「死ぬまでに渡りたい世界の徒歩吊り橋10選」にも選出された寸又峡の「夢の吊橋」。乳青色に輝く湖面を包み込む紅葉美と、南アルプスの麓に湧き出る美肌の湯「美女づくりの湯」で贅沢な秘境トリップをご案内します。
           </p>
         </div>
@@ -98,7 +98,7 @@ export default function SumatakyoAutumnPage() {
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 笹間渡駅 / 大井川鐵道 大井川本線 川根温泉笹間渡駅から徒歩２分
                   </p>
-                  <p className="text-sm text-stone-600 mb-4 line-clamp-3 leading-relaxed">全棟源泉かけ流し温泉付きの一棟貸しコテージで、日常の喧騒から離れた心休まるひと時をお過ごしください。</p>
+                  <p className="text-sm text-stone-600 mb-4 leading-relaxed">全棟源泉かけ流し温泉付きの一棟貸しコテージで、日常の喧騒から離れた心休まるひと時をお過ごしください。</p>
                 </div>
                 <div className="pt-3 border-t border-stone-100 flex items-center justify-between">
                   <div>
@@ -141,7 +141,7 @@ export default function SumatakyoAutumnPage() {
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 千頭・家山駅 / 新東名島田金谷ＩＣよりお車にて約３５分／大井川鉄道　川根温泉笹間渡駅より徒歩にて約１０分
                   </p>
-                  <p className="text-sm text-stone-600 mb-4 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-stone-600 mb-4 leading-relaxed">
                     温泉宿・ホテル総選挙ファミリー部門5年連続全国1位受賞！壮大な自然に囲まれた癒しと寛ぎの温泉宿
                   </p>
                 </div>
@@ -186,7 +186,7 @@ export default function SumatakyoAutumnPage() {
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 千頭駅 / 千頭駅よりバスに乗車、 白沢温泉入り口で下車、徒歩10分
                   </p>
-                  <p className="text-sm text-stone-600 mb-4 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-stone-600 mb-4 leading-relaxed">
                     アウトドアと癒しの融合。 「もりのコテージ」に泊まってBBQや川遊びに大満喫！
                   </p>
                 </div>
@@ -231,7 +231,7 @@ export default function SumatakyoAutumnPage() {
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 千頭駅 / JR金谷駅より大井川鉄道乗換え千頭駅より寸又峡温泉行きバス40分
                   </p>
-                  <p className="text-sm text-stone-600 mb-4 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-stone-600 mb-4 leading-relaxed">
                     大正浪漫を感じる建物で、「美女づくりの湯」と「奥大井の食材をつかった料理」を堪能する
                   </p>
                 </div>
@@ -276,7 +276,7 @@ export default function SumatakyoAutumnPage() {
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 奥泉駅 / 大井川鉄道千頭駅乗り換え井川線奥泉駅より徒歩5分／千頭駅より車で約１０分
                   </p>
-                  <p className="text-sm text-stone-600 mb-4 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-stone-600 mb-4 leading-relaxed">
                     静かな山あいののんびりとした民宿です。田舎料理、猪鍋料理が自慢です。故郷を味わいませんか。
                   </p>
                 </div>

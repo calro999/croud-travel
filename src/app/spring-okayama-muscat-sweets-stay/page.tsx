@@ -389,19 +389,19 @@ export default function FeaturePage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/furusato-tax-okayama-kurashiki-washuzan-autumn-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">岡山・倉敷美観地区の白壁紅葉＆鷲羽山！瀬戸内海多島美温泉と極上千屋牛・鰆会席｜ふるさと納税で泊まれる名宿ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">岡山・倉敷美観地区の白壁紅葉＆鷲羽山！瀬戸内海多島美温泉と極上千屋牛・鰆会席｜ふるさと納税で泊まれる名宿ガイド</span>
             </a>
             <a href="/kurashiki-bikan-solo-retreat-culture-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「倉敷美観地区・ひとり旅おこもり」白壁土蔵の町並み・倉敷紡績の歴史遺産・最上階天然温泉！大原美術館と水運の街を巡る厳選3宿</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「倉敷美観地区・ひとり旅おこもり」白壁土蔵の町並み・倉敷紡績の歴史遺産・最上階天然温泉！大原美術館と水運の街を巡る厳選3宿</span>
             </a>
             <a href="/mie-shima-kashikojima-resort-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「三重・志摩賢島」英虞湾リアス多島美＆志摩観光ホテル・伊勢海老極上宿 厳選ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「三重・志摩賢島」英虞湾リアス多島美＆志摩観光ホテル・伊勢海老極上宿 厳選ガイド</span>
             </a>
             <a href="/okayama-kurashiki-solo-retreat-bikan-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「倉敷美観地区ひとり旅・大浴場おこもり」白壁土蔵の町並み・展望大浴場・大原美術館！江戸情緒とデニムの街に癒やされる厳選3宿</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「倉敷美観地区ひとり旅・大浴場おこもり」白壁土蔵の町並み・展望大浴場・大原美術館！江戸情緒とデニムの街に癒やされる厳選3宿</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

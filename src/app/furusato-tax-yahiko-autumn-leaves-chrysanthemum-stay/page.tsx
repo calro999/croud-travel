@@ -362,19 +362,19 @@ export default function FeatureArticlePage() {
             <ul className="space-y-4 text-xs md:text-sm">
               <li>
                 <a href={HOTEL_DATA.yahiko_minoya.url} target="_blank" rel="sponsored noopener noreferrer" className="block p-3 rounded-xl hover:bg-stone-50 transition border border-stone-100 hover:border-amber-200">
-                  <div className="font-bold text-stone-800 line-clamp-1">{HOTEL_DATA.yahiko_minoya.name}</div>
+                  <div className="font-bold text-stone-800">{HOTEL_DATA.yahiko_minoya.name}</div>
                   <div className="text-stone-500 text-xs mt-1">★ {HOTEL_DATA.yahiko_minoya.rating} | 楽天トラベルで詳細確認</div>
                 </a>
               </li>
               <li>
                 <a href={HOTEL_DATA.yahiko_shikian.url} target="_blank" rel="sponsored noopener noreferrer" className="block p-3 rounded-xl hover:bg-stone-50 transition border border-stone-100 hover:border-amber-200">
-                  <div className="font-bold text-stone-800 line-clamp-1">{HOTEL_DATA.yahiko_shikian.name}</div>
+                  <div className="font-bold text-stone-800">{HOTEL_DATA.yahiko_shikian.name}</div>
                   <div className="text-stone-500 text-xs mt-1">★ {HOTEL_DATA.yahiko_shikian.rating} | 楽天トラベルで詳細確認</div>
                 </a>
               </li>
               <li>
                 <a href={HOTEL_DATA.yahiko_oyado_danya.url} target="_blank" rel="sponsored noopener noreferrer" className="block p-3 rounded-xl hover:bg-stone-50 transition border border-stone-100 hover:border-amber-200">
-                  <div className="font-bold text-stone-800 line-clamp-1">{HOTEL_DATA.yahiko_oyado_danya.name}</div>
+                  <div className="font-bold text-stone-800">{HOTEL_DATA.yahiko_oyado_danya.name}</div>
                   <div className="text-stone-500 text-xs mt-1">★ {HOTEL_DATA.yahiko_oyado_danya.rating} | 楽天トラベルで詳細確認</div>
                 </a>
               </li>
@@ -491,19 +491,19 @@ export default function FeatureArticlePage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/furusato-tax-echigo-yuzawa-naeba-dragondola-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">苗場ドラゴンドラの紅葉空中散歩と越後湯沢温泉！南魚沼産新米コシヒカリと地酒を味わう秋の新潟旅</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">苗場ドラゴンドラの紅葉空中散歩と越後湯沢温泉！南魚沼産新米コシヒカリと地酒を味わう秋の新潟旅</span>
             </a>
             <a href="/niigata-sado-island-gold-mine-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">新潟・佐渡島＆相川金山：世界遺産佐渡金山・たらい舟＆尖閣湾・佐渡寒ブリ宿 厳選ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">新潟・佐渡島＆相川金山：世界遺産佐渡金山・たらい舟＆尖閣湾・佐渡寒ブリ宿 厳選ガイド</span>
             </a>
             <a href="/winter-niigata-matsunoyama-onsen-yakuto-snow-tsumari-pork-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12月新潟・松之山温泉】日本三大薬湯の自噴化石海水と美人林の雪景色・極上妻有ポークと魚沼コシヒカリを味わう名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">【11・12月新潟・松之山温泉】日本三大薬湯の自噴化石海水と美人林の雪景色・極上妻有ポークと魚沼コシヒカリを味わう名宿5選</span>
             </a>
             <a href="/autumn-budget-niigata-station-shinmai-sake-hotels-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">新潟駅前：新米コシヒカリ・南蛮エビ＆日本酒角打ち！2,000円台〜泊まれる格安ホテル5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">新潟駅前：新米コシヒカリ・南蛮エビ＆日本酒角打ち！2,000円台〜泊まれる格安ホテル5選</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

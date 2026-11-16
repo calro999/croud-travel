@@ -325,9 +325,9 @@ export default function SilverWeekGlampingMorningYogaMindfulnessPage() {
                 </div>
 
                 <div className="p-5 sm:p-6 space-y-3">
-                  <h3 className="font-bold text-base sm:text-lg text-stone-900 leading-snug line-clamp-2">{hotel.hotelName}</h3>
+                  <h3 className="font-bold text-base sm:text-lg text-stone-900 leading-snug">{hotel.hotelName}</h3>
 
-                  <p className="text-xs text-stone-600 leading-relaxed line-clamp-3">
+                  <p className="text-xs text-stone-600 leading-relaxed">
                     {hotel.hotelSpecial || "森の静寂に包まれながらヨガや瞑想を満喫できるウェルネスリゾート。旬の自然食と心温まるおもてなしでお迎えします。"}
                   </p>
 
@@ -409,7 +409,7 @@ export default function SilverWeekGlampingMorningYogaMindfulnessPage() {
             <span className="text-[10px] font-bold text-indigo-800 bg-indigo-100/70 px-2 py-0.5 rounded-full inline-block mb-1.5">
               自然ハイキング・装備
             </span>
-            <div className="font-bold text-xs sm:text-sm text-stone-900 group-hover:text-indigo-700 transition line-clamp-2">
+            <div className="font-bold text-xs sm:text-sm text-stone-900 group-hover:text-indigo-700 transition">
               【上高地ハイキング】スニーカーでも大丈夫？服装・シューズ・女子旅の持ち物チェックリスト
             </div>
           </Link>
@@ -421,7 +421,7 @@ export default function SilverWeekGlampingMorningYogaMindfulnessPage() {
             <span className="text-[10px] font-bold text-indigo-800 bg-indigo-100/70 px-2 py-0.5 rounded-full inline-block mb-1.5">
               ご褒美ホテルステイ
             </span>
-            <div className="font-bold text-xs sm:text-sm text-stone-900 group-hover:text-indigo-700 transition line-clamp-2">
+            <div className="font-bold text-xs sm:text-sm text-stone-900 group-hover:text-indigo-700 transition">
               【東京】誕生日・記念日サプライズにおすすめのラグジュアリーホテル特集！絶景夜景と極上スパ
             </div>
           </Link>

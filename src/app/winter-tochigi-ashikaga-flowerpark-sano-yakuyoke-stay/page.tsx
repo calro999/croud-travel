@@ -582,7 +582,7 @@ export default function TochigiAshikagaFlowerparkWinterPage() {
             >
               <div>
                 <span className="text-[11px] font-bold text-purple-700 bg-purple-50 px-2 py-0.5 rounded block w-fit mb-2">栃木・奥日光</span>
-                <h3 className="text-sm font-bold text-stone-800 group-hover:text-purple-600 line-clamp-2">中禅寺湖の雪景色と奥日光湯元温泉・白濁硫黄泉の雪見ステイ</h3>
+                <h3 className="text-sm font-bold text-stone-800 group-hover:text-purple-600">中禅寺湖の雪景色と奥日光湯元温泉・白濁硫黄泉の雪見ステイ</h3>
               </div>
               <span className="text-xs text-purple-600 font-semibold mt-3 block">記事を読む →</span>
             </Link>
@@ -593,7 +593,7 @@ export default function TochigiAshikagaFlowerparkWinterPage() {
             >
               <div>
                 <span className="text-[11px] font-bold text-purple-700 bg-purple-50 px-2 py-0.5 rounded block w-fit mb-2">栃木・鬼怒川</span>
-                <h3 className="text-sm font-bold text-stone-800 group-hover:text-purple-600 line-clamp-2">鬼怒川渓谷の雪景色と名湯露天風呂・とちぎ和牛会席ステイ</h3>
+                <h3 className="text-sm font-bold text-stone-800 group-hover:text-purple-600">鬼怒川渓谷の雪景色と名湯露天風呂・とちぎ和牛会席ステイ</h3>
               </div>
               <span className="text-xs text-purple-600 font-semibold mt-3 block">記事を読む →</span>
             </Link>
@@ -604,7 +604,7 @@ export default function TochigiAshikagaFlowerparkWinterPage() {
             >
               <div>
                 <span className="text-[11px] font-bold text-purple-700 bg-purple-50 px-2 py-0.5 rounded block w-fit mb-2">栃木・那須温泉</span>
-                <h3 className="text-sm font-bold text-stone-800 group-hover:text-purple-600 line-clamp-2">那須温泉鹿の湯と雪景色・高原リゾートの白濁名湯ステイ</h3>
+                <h3 className="text-sm font-bold text-stone-800 group-hover:text-purple-600">那須温泉鹿の湯と雪景色・高原リゾートの白濁名湯ステイ</h3>
               </div>
               <span className="text-xs text-purple-600 font-semibold mt-3 block">記事を読む →</span>
             </Link>
@@ -615,7 +615,7 @@ export default function TochigiAshikagaFlowerparkWinterPage() {
             >
               <div>
                 <span className="text-[11px] font-bold text-purple-700 bg-purple-50 px-2 py-0.5 rounded block w-fit mb-2">埼玉・秩父</span>
-                <h3 className="text-sm font-bold text-stone-800 group-hover:text-purple-600 line-clamp-2">秩父夜祭の熱気と長瀞冬景色・武州牛と名湯温泉ステイ</h3>
+                <h3 className="text-sm font-bold text-stone-800 group-hover:text-purple-600">秩父夜祭の熱気と長瀞冬景色・武州牛と名湯温泉ステイ</h3>
               </div>
               <span className="text-xs text-purple-600 font-semibold mt-3 block">記事を読む →</span>
             </Link>

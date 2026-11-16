@@ -478,19 +478,19 @@ export default function FurusatoMatsutakeAutumnGourmetStayPage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/winter-kyoto-ohara-sanzenin-snow-hosenin-misonabe-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">白銀の苔庭に佇むわらべ地蔵と額縁庭園の冬美 静寂の洛北・大原三千院雪景色＆宝泉院冬参拝と名物地鶏味噌鍋・大原温泉の名宿</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">白銀の苔庭に佇むわらべ地蔵と額縁庭園の冬美 静寂の洛北・大原三千院雪景色＆宝泉院冬参拝と名物地鶏味噌鍋・大原温泉の名宿</span>
             </a>
             <a href="/winter-kyoto-tango-yuhigaura-matsuba-crab-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12月京都丹後・夕日ヶ浦温泉】 日本海夕景と11月解禁松葉ガニ・幻の間人ガニ＆美人の湯の宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">【11・12月京都丹後・夕日ヶ浦温泉】 日本海夕景と11月解禁松葉ガニ・幻の間人ガニ＆美人の湯の宿5選</span>
             </a>
             <a href="/furusato-tax-autumn-foliage-open-air-bath-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">赤や黄金の山並みを愛でる絶景紅葉露天風呂名旅館×ふるさと納税厳選ガイド日光中禅寺湖・京都嵐山・箱根小涌谷</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">赤や黄金の山並みを愛でる絶景紅葉露天風呂名旅館×ふるさと納税厳選ガイド日光中禅寺湖・京都嵐山・箱根小涌谷</span>
             </a>
             <a href="/furusato-tax-izu-shuzenji-bamboo-luxury-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">伊豆最古の小京都！修善寺温泉の竹林の小径散策＆桂川のせせらぎ望む老舗旅館×ふるさと納税極上旅ガイド湯回廊菊屋・宙SORA・桂川</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">伊豆最古の小京都！修善寺温泉の竹林の小径散策＆桂川のせせらぎ望む老舗旅館×ふるさと納税極上旅ガイド湯回廊菊屋・宙SORA・桂川</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

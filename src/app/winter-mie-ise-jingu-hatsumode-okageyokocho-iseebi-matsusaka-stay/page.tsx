@@ -620,7 +620,7 @@ export default function MieIseJinguWinterPage() {
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-amber-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-amber-800 font-bold text-xs block mb-1">三重・鳥羽温泉郷</span>
-              <span className="text-stone-900 font-bold group-hover:text-amber-900 transition-colors line-clamp-2">
+              <span className="text-stone-900 font-bold group-hover:text-amber-900 transition-colors">
                 冬の鳥羽温泉郷・極上伊勢海老と的矢牡蠣を満喫する絶景オーシャンビュー宿
               </span>
             </Link>
@@ -630,7 +630,7 @@ export default function MieIseJinguWinterPage() {
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-amber-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-amber-800 font-bold text-xs block mb-1">三重・志摩賢島</span>
-              <span className="text-stone-900 font-bold group-hover:text-amber-900 transition-colors line-clamp-2">
+              <span className="text-stone-900 font-bold group-hover:text-amber-900 transition-colors">
                 賢島温泉と冬の志摩・あのりふぐと伊勢海老・松阪牛を味わうラグジュアリーステイ
               </span>
             </Link>
@@ -640,7 +640,7 @@ export default function MieIseJinguWinterPage() {
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-amber-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-amber-800 font-bold text-xs block mb-1">三重・なばなの里</span>
-              <span className="text-stone-900 font-bold group-hover:text-amber-900 transition-colors line-clamp-2">
+              <span className="text-stone-900 font-bold group-hover:text-amber-900 transition-colors">
                 国内最大級の輝き「なばなの里イルミネーション」と長島温泉の冬旅名宿
               </span>
             </Link>
@@ -650,7 +650,7 @@ export default function MieIseJinguWinterPage() {
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-amber-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-amber-800 font-bold text-xs block mb-1">神奈川・箱根温泉</span>
-              <span className="text-stone-900 font-bold group-hover:text-amber-900 transition-colors line-clamp-2">
+              <span className="text-stone-900 font-bold group-hover:text-amber-900 transition-colors">
                 冬の箱根温泉・雪化粧の富士山を望む絶景露天風呂と名旅館
               </span>
             </Link>
@@ -660,7 +660,7 @@ export default function MieIseJinguWinterPage() {
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-amber-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-amber-800 font-bold text-xs block mb-1">長野・軽井沢星野</span>
-              <span className="text-stone-900 font-bold group-hover:text-amber-900 transition-colors line-clamp-2">
+              <span className="text-stone-900 font-bold group-hover:text-amber-900 transition-colors">
                 冬の軽井沢・もみの木イルミネーションと星野温泉トンボの湯・信州牛ステイ
               </span>
             </Link>

@@ -283,14 +283,14 @@ export default function SilverWeekGlampingStargazingAstronomyPage() {
                     )}
                   </div>
 
-                  <h3 className="font-black text-slate-900 text-lg leading-snug group-hover:text-indigo-700 transition line-clamp-2 font-journal-serif">{hotel.hotelName}</h3>
+                  <h3 className="font-black text-slate-900 text-lg leading-snug group-hover:text-indigo-700 transition font-journal-serif">{hotel.hotelName}</h3>
 
-                  <p className="text-xs text-slate-600 line-clamp-3 leading-relaxed font-medium">
+                  <p className="text-xs text-slate-600 leading-relaxed font-medium">
                     {hotel.hotelSpecial || "澄み切った秋空に広がる無数の星々を鑑賞。天体観測と大自然の静寂に癒やされるグランピングリゾート。"}
                   </p>
 
                   {hotel.access && (
-                    <p className="text-[11px] text-slate-500 line-clamp-1">
+                    <p className="text-[11px] text-slate-500">
                       🚗 {hotel.access}
                     </p>
                   )}
@@ -375,7 +375,7 @@ export default function SilverWeekGlampingStargazingAstronomyPage() {
             <span className="text-[10px] font-bold text-indigo-700 bg-indigo-50 px-2 py-0.5 rounded-full inline-block mb-1.5">
               秋の味覚狩り・日帰りツアー
             </span>
-            <div className="font-bold text-xs sm:text-sm text-slate-900 group-hover:text-indigo-700 transition line-clamp-2">
+            <div className="font-bold text-xs sm:text-sm text-slate-900 group-hover:text-indigo-700 transition">
               【山梨ぶどう狩りバスツアー日帰りガイド】シャインマスカット食べ放題＆絶景ワイナリー巡り
             </div>
           </Link>
@@ -387,7 +387,7 @@ export default function SilverWeekGlampingStargazingAstronomyPage() {
             <span className="text-[10px] font-bold text-slate-700 bg-slate-100 px-2 py-0.5 rounded-full inline-block mb-1.5">
               車なし富士観光・周遊バス
             </span>
-            <div className="font-bold text-xs sm:text-sm text-slate-900 group-hover:text-indigo-700 transition line-clamp-2">
+            <div className="font-bold text-xs sm:text-sm text-slate-900 group-hover:text-indigo-700 transition">
               【富士五湖 車なし観光ガイド】高速バス＆レトロ周遊バスで巡る河口湖・山中湖絶景旅
             </div>
           </Link>

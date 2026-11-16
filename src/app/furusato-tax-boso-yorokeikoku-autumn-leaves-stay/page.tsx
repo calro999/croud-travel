@@ -362,19 +362,19 @@ export default function FeatureArticlePage() {
             <ul className="space-y-4 text-xs md:text-sm">
               <li>
                 <a href={HOTEL_DATA.boso_yoro_kiyomoto.url} target="_blank" rel="sponsored noopener noreferrer" className="block p-3 rounded-xl hover:bg-stone-50 transition border border-stone-100 hover:border-amber-200">
-                  <div className="font-bold text-stone-800 line-clamp-1">{HOTEL_DATA.boso_yoro_kiyomoto.name}</div>
+                  <div className="font-bold text-stone-800">{HOTEL_DATA.boso_yoro_kiyomoto.name}</div>
                   <div className="text-stone-500 text-xs mt-1">★ {HOTEL_DATA.boso_yoro_kiyomoto.rating} | 楽天トラベルで詳細確認</div>
                 </a>
               </li>
               <li>
                 <a href={HOTEL_DATA.boso_yoro_kawanoya.url} target="_blank" rel="sponsored noopener noreferrer" className="block p-3 rounded-xl hover:bg-stone-50 transition border border-stone-100 hover:border-amber-200">
-                  <div className="font-bold text-stone-800 line-clamp-1">{HOTEL_DATA.boso_yoro_kawanoya.name}</div>
+                  <div className="font-bold text-stone-800">{HOTEL_DATA.boso_yoro_kawanoya.name}</div>
                   <div className="text-stone-500 text-xs mt-1">★ {HOTEL_DATA.boso_yoro_kawanoya.rating} | 楽天トラベルで詳細確認</div>
                 </a>
               </li>
               <li>
                 <a href={HOTEL_DATA.boso_yoro_goriyaku.url} target="_blank" rel="sponsored noopener noreferrer" className="block p-3 rounded-xl hover:bg-stone-50 transition border border-stone-100 hover:border-amber-200">
-                  <div className="font-bold text-stone-800 line-clamp-1">{HOTEL_DATA.boso_yoro_goriyaku.name}</div>
+                  <div className="font-bold text-stone-800">{HOTEL_DATA.boso_yoro_goriyaku.name}</div>
                   <div className="text-stone-500 text-xs mt-1">★ {HOTEL_DATA.boso_yoro_goriyaku.rating} | 楽天トラベルで詳細確認</div>
                 </a>
               </li>
@@ -491,19 +491,19 @@ export default function FeatureArticlePage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/winter-chiba-tokyo-disney-resort-maihama-christmas-hotel-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12・1月舞浜】東京ディズニーリゾート冬のクリスマス＆年末年始！直営・オフィシャルホテルで叶える夢の冬旅名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">【11・12・1月舞浜】東京ディズニーリゾート冬のクリスマス＆年末年始！直営・オフィシャルホテルで叶える夢の冬旅名宿5選</span>
             </a>
             <a href="/furusato-tax-private-pool-luxury-suite-villa-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">客室専用プライベートプール＆温水ジャグジー付き極上ヴィラ宿×ふるさと納税厳選ガイド沖縄・宮古島・千葉鴨川</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">客室専用プライベートプール＆温水ジャグジー付き極上ヴィラ宿×ふるさと納税厳選ガイド沖縄・宮古島・千葉鴨川</span>
             </a>
             <a href="/winter-chiba-minamiboso-tateyama-chikura-ocean-iseebi-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12月千葉・南房総館山温泉＆千倉温泉】海越しに望む冠雪富士と温暖避寒の海辺名湯・房州伊勢海老＆地魚一本買い舟盛り・極上かずさ和牛を味わう名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">【11・12月千葉・南房総館山温泉＆千倉温泉】海越しに望む冠雪富士と温暖避寒の海辺名湯・房州伊勢海老＆地魚一本買い舟盛り・極上かずさ和牛を味わう名宿5選</span>
             </a>
             <a href="/chiba-tateyama-shirahama-nojimazaki-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">千葉・館山＆白浜・野島崎：房総最南端白亜の灯台・フラワーライン＆伊勢海老宿 厳選ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">千葉・館山＆白浜・野島崎：房総最南端白亜の灯台・フラワーライン＆伊勢海老宿 厳選ガイド</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

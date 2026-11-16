@@ -611,7 +611,7 @@ export default function ShizuokaShimodaTsumekizakiWinterPage() {
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-emerald-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-emerald-800 font-bold text-xs block mb-1">神奈川・三浦＆三崎</span>
-              <span className="text-stone-900 font-bold group-hover:text-emerald-900 transition-colors line-clamp-2">
+              <span className="text-stone-900 font-bold group-hover:text-emerald-900 transition-colors">
                 冬の城ヶ島30万本水仙まつりと富士山絶景・三崎まぐろ尽くし名宿
               </span>
             </Link>
@@ -621,7 +621,7 @@ export default function ShizuokaShimodaTsumekizakiWinterPage() {
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-emerald-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-emerald-800 font-bold text-xs block mb-1">千葉・鴨川＆小湊</span>
-              <span className="text-stone-900 font-bold group-hover:text-emerald-900 transition-colors line-clamp-2">
+              <span className="text-stone-900 font-bold group-hover:text-emerald-900 transition-colors">
                 冬の鴨川シーワールドシャチと外房寒金目鯛姿煮＆房総伊勢海老名宿
               </span>
             </Link>
@@ -631,7 +631,7 @@ export default function ShizuokaShimodaTsumekizakiWinterPage() {
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-emerald-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-emerald-800 font-bold text-xs block mb-1">茨城・袋田＆奥久慈</span>
-              <span className="text-stone-900 font-bold group-hover:text-emerald-900 transition-colors line-clamp-2">
+              <span className="text-stone-900 font-bold group-hover:text-emerald-900 transition-colors">
                 日本三名瀑・袋田の滝の完全凍結「氷瀑」と奥久慈軍鶏鍋＆常陸牛名宿
               </span>
             </Link>
@@ -641,7 +641,7 @@ export default function ShizuokaShimodaTsumekizakiWinterPage() {
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-emerald-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-emerald-800 font-bold text-xs block mb-1">鳥取・境港＆皆生温泉</span>
-              <span className="text-stone-900 font-bold group-hover:text-emerald-900 transition-colors line-clamp-2">
+              <span className="text-stone-900 font-bold group-hover:text-emerald-900 transition-colors">
                 山陰松葉ガニ解禁！境港水産物市場と皆生温泉「塩の湯」名宿
               </span>
             </Link>
@@ -651,7 +651,7 @@ export default function ShizuokaShimodaTsumekizakiWinterPage() {
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-emerald-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-emerald-800 font-bold text-xs block mb-1">沖縄・石垣島＆川平湾</span>
-              <span className="text-stone-900 font-bold group-hover:text-emerald-900 transition-colors line-clamp-2">
+              <span className="text-stone-900 font-bold group-hover:text-emerald-900 transition-colors">
                 星空保護区の南十字星と川平湾ブルー・石垣牛炭火焼肉リゾート名宿
               </span>
             </Link>

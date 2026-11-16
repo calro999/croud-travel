@@ -361,9 +361,9 @@ export default function HakoneAutumnLeavesHotspringGuidePage() {
                   </div>
 
                   <div className="p-5">
-                    <h3 className="font-bold text-base text-neutral-900 mb-2 leading-snug line-clamp-2">{hotel.hotelName}</h3>
+                    <h3 className="font-bold text-base text-neutral-900 mb-2 leading-snug">{hotel.hotelName}</h3>
                     {hotel.hotelSpecial && (
-                      <p className="text-xs text-rose-950 line-clamp-2 mb-3 bg-rose-100/60 p-2 rounded-lg border border-rose-200">
+                      <p className="text-xs text-rose-950 mb-3 bg-rose-100/60 p-2 rounded-lg border border-rose-200">
                         {hotel.hotelSpecial}
                       </p>
                     )}
@@ -375,7 +375,7 @@ export default function HakoneAutumnLeavesHotspringGuidePage() {
                         </p>
                       )}
                       {hotel.access && (
-                        <p className="line-clamp-1">
+                        <p className="">
                           <span>🚗 </span>{hotel.access}
                         </p>
                       )}
@@ -493,19 +493,19 @@ export default function HakoneAutumnLeavesHotspringGuidePage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/japan-fuji-view-private-open-air-bath-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「富士山ビュー客室露天風呂の宿」河口湖・箱根・日本平＆霊峰パノラマ 厳選ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「富士山ビュー客室露天風呂の宿」河口湖・箱根・日本平＆霊峰パノラマ 厳選ガイド</span>
             </a>
             <a href="/luxury-private-onsen-with-scenic-moss-garden/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「幽玄の苔庭テラス」青苔と石灯籠を望むプライベート露天風呂！京都・箱根の侘び寂び隠れ宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「幽玄の苔庭テラス」青苔と石灯籠を望むプライベート露天風呂！京都・箱根の侘び寂び隠れ宿5選</span>
             </a>
             <a href="/solo-luxury-club-lounge-reward-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「一人ホテルステイ・ご褒美宿泊」クラブラウンジアクセス付き！東京＆横浜の高層ラグジュアリーホテル 厳選3選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「一人ホテルステイ・ご褒美宿泊」クラブラウンジアクセス付き！東京＆横浜の高層ラグジュアリーホテル 厳選3選</span>
             </a>
             <a href="/winter-tochigi-yunishigawa-onsen-kamakura-irori-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「栃木・湯西川温泉」平家落人の隠れ里・雪見露天風呂と名物平家囲炉裏会席＆日本夜景遺産かまくら祭を巡る名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「栃木・湯西川温泉」平家落人の隠れ里・雪見露天風呂と名物平家囲炉裏会席＆日本夜景遺産かまくら祭を巡る名宿5選</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

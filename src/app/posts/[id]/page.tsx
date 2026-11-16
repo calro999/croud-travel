@@ -450,7 +450,7 @@ export default async function PostPage({ params }: { params: Promise<{ id: strin
         <span>/</span>
         <Link href={prefPath} className="text-teal-950 font-bold hover:text-teal-700 transition">{post.area && post.area !== post.prefecture ? `${post.prefecture}（${post.area}）` : post.prefecture}</Link>
         <span>/</span>
-        <span className="text-emerald-950/40 line-clamp-1">{post.hotel_name}</span>
+        <span className="text-emerald-950/40">{post.hotel_name}</span>
       </nav>
 
       {/* メイン詳細パネル - 雑誌仕立てのレイアウト */}

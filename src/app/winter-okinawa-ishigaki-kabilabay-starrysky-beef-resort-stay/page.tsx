@@ -620,7 +620,7 @@ export default function OkinawaIshigakiKabilabayWinterPage() {
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-teal-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-teal-800 font-bold text-xs block mb-1">沖縄・恩納＆本部</span>
-              <span className="text-stone-900 font-bold group-hover:text-teal-900 transition-colors line-clamp-2">
+              <span className="text-stone-900 font-bold group-hover:text-teal-900 transition-colors">
                 冬のホエールウォッチングと美ら海水族館・あぐー豚しゃぶしゃぶ名宿
               </span>
             </Link>
@@ -630,7 +630,7 @@ export default function OkinawaIshigakiKabilabayWinterPage() {
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-teal-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-teal-800 font-bold text-xs block mb-1">鹿児島・指宿温泉</span>
-              <span className="text-stone-900 font-bold group-hover:text-teal-900 transition-colors line-clamp-2">
+              <span className="text-stone-900 font-bold group-hover:text-teal-900 transition-colors">
                 天然砂むし温泉と開聞岳絶景・かごしま黒豚しゃぶしゃぶを味わう指宿名宿
               </span>
             </Link>
@@ -640,7 +640,7 @@ export default function OkinawaIshigakiKabilabayWinterPage() {
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-teal-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-teal-800 font-bold text-xs block mb-1">宮崎・青島温泉</span>
-              <span className="text-stone-900 font-bold group-hover:text-teal-900 transition-colors line-clamp-2">
+              <span className="text-stone-900 font-bold group-hover:text-teal-900 transition-colors">
                 冬の鬼の洗濯板と青島神社参拝・宮崎牛ステーキと日南伊勢海老名宿
               </span>
             </Link>
@@ -650,7 +650,7 @@ export default function OkinawaIshigakiKabilabayWinterPage() {
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-teal-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-teal-800 font-bold text-xs block mb-1">千葉・鴨川小湊</span>
-              <span className="text-stone-900 font-bold group-hover:text-teal-900 transition-colors line-clamp-2">
+              <span className="text-stone-900 font-bold group-hover:text-teal-900 transition-colors">
                 鴨川シーワールドと小湊鯛の浦温泉・外房寒金目鯛姿煮＆伊勢海老名宿
               </span>
             </Link>
@@ -660,7 +660,7 @@ export default function OkinawaIshigakiKabilabayWinterPage() {
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-teal-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-teal-800 font-bold text-xs block mb-1">神奈川・三浦城ヶ島</span>
-              <span className="text-stone-900 font-bold group-hover:text-teal-900 transition-colors line-clamp-2">
+              <span className="text-stone-900 font-bold group-hover:text-teal-900 transition-colors">
                 城ヶ島30万本の水仙まつりと富士山絶景・名物三崎まぐろ尽くしと三浦名宿
               </span>
             </Link>

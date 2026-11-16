@@ -591,7 +591,7 @@ export default function ShimaneAdachiSaginoyuPage() {
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-teal-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-teal-700 font-bold text-xs block mb-1">鳥取・境港＆皆生温泉</span>
-              <span className="text-stone-900 font-bold group-hover:text-teal-800 transition-colors line-clamp-2">
+              <span className="text-stone-900 font-bold group-hover:text-teal-800 transition-colors">
                 冬の味覚の王様・境港水揚げ松葉ガニと皆生美肌温泉名宿
               </span>
             </Link>
@@ -601,7 +601,7 @@ export default function ShimaneAdachiSaginoyuPage() {
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-teal-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-teal-700 font-bold text-xs block mb-1">島根・松江しんじ湖</span>
-              <span className="text-stone-900 font-bold group-hover:text-teal-800 transition-colors line-clamp-2">
+              <span className="text-stone-900 font-bold group-hover:text-teal-800 transition-colors">
                 宍道湖の冬夕日と国宝松江城雪景色・松葉ガニとしじみ汁名宿
               </span>
             </Link>
@@ -611,7 +611,7 @@ export default function ShimaneAdachiSaginoyuPage() {
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-teal-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-teal-700 font-bold text-xs block mb-1">島根・出雲大社</span>
-              <span className="text-stone-900 font-bold group-hover:text-teal-800 transition-colors line-clamp-2">
+              <span className="text-stone-900 font-bold group-hover:text-teal-800 transition-colors">
                 神在月・新春初詣の出雲大社参拝と名物出雲そば・しまね和牛名宿
               </span>
             </Link>
@@ -621,7 +621,7 @@ export default function ShimaneAdachiSaginoyuPage() {
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-teal-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-teal-700 font-bold text-xs block mb-1">島根・玉造温泉</span>
-              <span className="text-stone-900 font-bold group-hover:text-teal-800 transition-colors line-clamp-2">
+              <span className="text-stone-900 font-bold group-hover:text-teal-800 transition-colors">
                 日本最古の美肌温泉と冬の松葉ガニフルコース・勾玉の里名宿
               </span>
             </Link>
@@ -631,7 +631,7 @@ export default function ShimaneAdachiSaginoyuPage() {
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-teal-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-teal-700 font-bold text-xs block mb-1">鳥取・三朝温泉</span>
-              <span className="text-stone-900 font-bold group-hover:text-teal-800 transition-colors line-clamp-2">
+              <span className="text-stone-900 font-bold group-hover:text-teal-800 transition-colors">
                 世界屈指の高濃度ラドン温泉と冬の山陰松葉ガニ名宿
               </span>
             </Link>
@@ -641,7 +641,7 @@ export default function ShimaneAdachiSaginoyuPage() {
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-teal-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-teal-700 font-bold text-xs block mb-1">岡山・倉敷＆吉備津</span>
-              <span className="text-stone-900 font-bold group-hover:text-teal-800 transition-colors line-clamp-2">
+              <span className="text-stone-900 font-bold group-hover:text-teal-800 transition-colors">
                 白壁倉敷美観地区冬夜景と吉備津神社初詣・千屋牛会席名宿
               </span>
             </Link>

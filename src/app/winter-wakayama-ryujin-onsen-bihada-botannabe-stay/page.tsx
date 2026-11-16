@@ -568,7 +568,7 @@ export default function WakayamaRyujinWinterFeature() {
             >
               <span className="px-2 py-0.5 rounded bg-amber-500/40 text-amber-200 font-bold text-[10px]">南紀白浜・幻の高級魚クエ</span>
               <h3 className="font-bold text-white text-sm">南紀白浜温泉・天然本クエ鍋会席と太平洋絶景露天の宿</h3>
-              <p className="text-slate-300 text-[11px] line-clamp-2">「クエ食ったら他の魚食えん」と称される冬の白身の王様。</p>
+              <p className="text-slate-300 text-[11px]">「クエ食ったら他の魚食えん」と称される冬の白身の王様。</p>
             </Link>
 
             <Link 
@@ -577,7 +577,7 @@ export default function WakayamaRyujinWinterFeature() {
             >
               <span className="px-2 py-0.5 rounded bg-sky-500/40 text-sky-200 font-bold text-[10px]">南紀勝浦・生マグロ＆洞窟風呂</span>
               <h3 className="font-bold text-white text-sm">南紀勝浦温泉・延縄生マグロ尽くしと忘帰洞の洞窟風呂</h3>
-              <p className="text-slate-300 text-[11px] line-clamp-2">波しぶきが迫る海食洞窟の大露天風呂と水揚げ日本一の生マグロ。</p>
+              <p className="text-slate-300 text-[11px]">波しぶきが迫る海食洞窟の大露天風呂と水揚げ日本一の生マグロ。</p>
             </Link>
 
             <Link 
@@ -586,7 +586,7 @@ export default function WakayamaRyujinWinterFeature() {
             >
               <span className="px-2 py-0.5 rounded bg-rose-500/40 text-rose-200 font-bold text-[10px]">但馬・松葉ガニ＆但馬牛</span>
               <h3 className="font-bold text-white text-sm">湯村温泉・荒湯源泉情緒と解禁松葉ガニ・但馬牛すき焼きの宿</h3>
-              <p className="text-slate-300 text-[11px] line-clamp-2">98度の高温泉が湧く名湯と11月解禁の冬の味覚の王様。</p>
+              <p className="text-slate-300 text-[11px]">98度の高温泉が湧く名湯と11月解禁の冬の味覚の王様。</p>
             </Link>
 
             <Link 
@@ -595,7 +595,7 @@ export default function WakayamaRyujinWinterFeature() {
             >
               <span className="px-2 py-0.5 rounded bg-emerald-500/40 text-emerald-200 font-bold text-[10px]">京都亀岡・丹波ぼたん鍋</span>
               <h3 className="font-bold text-white text-sm">湯の花温泉・丹波霧の雲海露天と名物ぼたん鍋の宿</h3>
-              <p className="text-slate-300 text-[11px] line-clamp-2">京都の奥座敷で味わう伝統の丹波猪肉と静寂の温泉リトリート。</p>
+              <p className="text-slate-300 text-[11px]">京都の奥座敷で味わう伝統の丹波猪肉と静寂の温泉リトリート。</p>
             </Link>
           
       <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">

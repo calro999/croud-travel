@@ -599,8 +599,8 @@ export default function ShimaneYunotsuWinterPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-emerald-300 bg-emerald-400/20 px-2 py-0.5 rounded-full inline-block">島根・玉造温泉</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-emerald-200 transition line-clamp-2">出雲神在月美肌湯＆山陰松葉がにとしまね和牛名宿</h4>
-              <p className="text-[11px] text-stone-200 line-clamp-2">
+              <h4 className="text-xs font-bold text-white group-hover:text-emerald-200 transition">出雲神在月美肌湯＆山陰松葉がにとしまね和牛名宿</h4>
+              <p className="text-[11px] text-stone-200">
                 日本最古の美肌温泉と出雲大社初冬参拝、解禁された松葉ガニを味わう旅。
               </p>
             </Link>
@@ -610,8 +610,8 @@ export default function ShimaneYunotsuWinterPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-emerald-300 bg-emerald-400/20 px-2 py-0.5 rounded-full inline-block">鳥取・三朝温泉</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-emerald-200 transition line-clamp-2">鳥取タグ付き松葉ガニ＆世界屈指のラジウム三朝温泉名宿</h4>
-              <p className="text-[11px] text-stone-200 line-clamp-2">
+              <h4 className="text-xs font-bold text-white group-hover:text-emerald-200 transition">鳥取タグ付き松葉ガニ＆世界屈指のラジウム三朝温泉名宿</h4>
+              <p className="text-[11px] text-stone-200">
                 三徳山三仏寺の霊泉と三朝川の露天風呂、極上タグ付き松葉ガニフルコース。
               </p>
             </Link>
@@ -621,8 +621,8 @@ export default function ShimaneYunotsuWinterPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-emerald-300 bg-emerald-400/20 px-2 py-0.5 rounded-full inline-block">山口・長門湯本温泉</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-emerald-200 transition line-clamp-2">音信川冬灯り＆下関直送本とらふぐとやまぐち和牛名宿</h4>
-              <p className="text-[11px] text-stone-200 line-clamp-2">
+              <h4 className="text-xs font-bold text-white group-hover:text-emerald-200 transition">音信川冬灯り＆下関直送本とらふぐとやまぐち和牛名宿</h4>
+              <p className="text-[11px] text-stone-200">
                 清流音信川の飛び石と立ち寄り湯、下関直送の本場とらふぐを堪能する冬旅。
               </p>
             </Link>

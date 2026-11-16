@@ -601,21 +601,21 @@ export default function YamagataShonaiKandaraWinterPage() {
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-indigo-700 font-bold block text-[10px]">山形・肘折温泉</span>
-              <p className="font-bold text-stone-800 line-clamp-2">豪雪の秘湯肘折温泉と冬の湯治文化・山形牛すき焼き＆雪見露天の宿</p>
+              <p className="font-bold text-stone-800">豪雪の秘湯肘折温泉と冬の湯治文化・山形牛すき焼き＆雪見露天の宿</p>
             </Link>
             <Link 
               href="/winter-yamagata-ginzan-onsen-snow-taisho-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-indigo-700 font-bold block text-[10px]">山形・銀山温泉</span>
-              <p className="font-bold text-stone-800 line-clamp-2">大正ロマンのガス灯と雪景色の温泉街・尾花沢牛と名湯に浸る極上宿</p>
+              <p className="font-bold text-stone-800">大正ロマンのガス灯と雪景色の温泉街・尾花沢牛と名湯に浸る極上宿</p>
             </Link>
             <Link 
               href="/winter-yamagata-zao-onsen-snow-jyuhyo-beef-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-indigo-700 font-bold block text-[10px]">山形・蔵王温泉</span>
-              <p className="font-bold text-stone-800 line-clamp-2">世界に誇るスノーモンスター樹氷と強酸性硫黄泉・極上蔵王牛を味わう名宿</p>
+              <p className="font-bold text-stone-800">世界に誇るスノーモンスター樹氷と強酸性硫黄泉・極上蔵王牛を味わう名宿</p>
             </Link>
           
       <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">

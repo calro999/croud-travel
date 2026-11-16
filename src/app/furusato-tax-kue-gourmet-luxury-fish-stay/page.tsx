@@ -153,8 +153,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     和歌山県西牟婁郡白浜町1870
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">白浜温泉　家族とすごす白浜の宿　柳屋</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">白浜温泉　家族とすごす白浜の宿　柳屋</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     【ファミリーにおすすめ】源泉かけ流しで寛ぎの一日を。露天風呂付き客室や貸切風呂が自慢の家族とすごす宿
                   </p>
                   
@@ -197,8 +197,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     和歌山県西牟婁郡白浜町1564-2
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">白浜温泉　ＫＫＲ白浜　美浜荘（国家公務員共済組合連合会白浜保養所）</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">白浜温泉　ＫＫＲ白浜　美浜荘（国家公務員共済組合連合会白浜保養所）</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     白良浜海水浴場まで徒歩2分！源泉かけ流し温泉と紀州海の幸が自慢の宿
                   </p>
                   
@@ -241,8 +241,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     和歌山県日高郡みなべ町埴田1589-2
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">紀州みなべ温泉　料理宿　朝日楼</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">紀州みなべ温泉　料理宿　朝日楼</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     ★2025年7月リニューアル客室OPEN★絶景と名湯、朝獲れ紀州の幸を愉しむ料理宿朝日楼
                   </p>
                   
@@ -298,8 +298,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     長崎県南松浦郡新上五島町奈良尾郷712-3
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">五島列島リゾートホテル　マルゲリータ奈良尾＜五島・中通島＞</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">五島列島リゾートホテル　マルゲリータ奈良尾＜五島・中通島＞</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     奈良尾港の高台に建つ五島食材を和食で堪能する小さなホテル～29の教会が点在する祈りの島～
                   </p>
                   
@@ -342,8 +342,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     長崎県五島市玉之浦町荒川265
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">みやこ別邸＜五島・福江島＞</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">みやこ別邸＜五島・福江島＞</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     五島　福江島で唯一の源泉かけ流し温泉付き一棟貸し宿　みやこ別邸
                   </p>
                   
@@ -386,8 +386,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     長崎県五島市末広町7-13　アドバンス五常205
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">アパートメント五島＜五島・福江島＞</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">アパートメント五島＜五島・福江島＞</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     港や飲み屋街まで５分の好立地。広々４０㎡のワンフロア
                   </p>
                   
@@ -443,8 +443,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     高知県高知市上町2-5-34
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">城西館（じょうせいかん）</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">城西館（じょうせいかん）</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     ２０１９年４月リニューアルオープン！明治７年創業の老舗宿。展望露天風呂と鰹の藁焼きタタキ工房が自慢♪
                   </p>
                   

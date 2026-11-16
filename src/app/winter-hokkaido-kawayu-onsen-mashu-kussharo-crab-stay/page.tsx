@@ -567,8 +567,8 @@ export default function HokkaidoKawayuPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">北海道・阿寒湖温泉</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">阿寒湖の奇跡フロストフラワーと北海道牛会席</h4>
-              <p className="text-[11px] text-stone-200 line-clamp-2">
+              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition">阿寒湖の奇跡フロストフラワーと北海道牛会席</h4>
+              <p className="text-[11px] text-stone-200">
                 氷上に咲く霜の花とアイヌコタンの文化、冬の阿寒カルデラに湧く名湯で心身を解きほぐす旅。
               </p>
             </Link>
@@ -578,8 +578,8 @@ export default function HokkaidoKawayuPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">北海道・十勝川温泉</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">植物性モール温泉と十勝牛ステーキ</h4>
-              <p className="text-[11px] text-stone-200 line-clamp-2">
+              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition">植物性モール温泉と十勝牛ステーキ</h4>
+              <p className="text-[11px] text-stone-200">
                 琥珀色に輝く奇跡の美肌モール泉と白鳥飛来の十勝川、極上十勝牛を味わう冬の贅沢滞在。
               </p>
             </Link>
@@ -589,8 +589,8 @@ export default function HokkaidoKawayuPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">北海道・層雲峡温泉</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">大雪山層雲峡の巨大氷瀑と雪見露天風呂</h4>
-              <p className="text-[11px] text-stone-200 line-clamp-2">
+              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition">大雪山層雲峡の巨大氷瀑と雪見露天風呂</h4>
+              <p className="text-[11px] text-stone-200">
                 柱状節理の断崖に凍りつく滝と氷瀑まつり、冷えた身体を芯から温める山峡の名湯。
               </p>
             </Link>

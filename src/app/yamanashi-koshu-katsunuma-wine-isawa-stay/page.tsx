@@ -128,8 +128,8 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">富士櫻温泉旅館</h4>
-                      <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition">富士櫻温泉旅館</h4>
+                      <p className="text-xs text-stone-400 mt-1 leading-relaxed">
                         桜並木の川辺に佇む、癒しの温泉と贅沢な露天風呂を楽しむ至福のひととき。
                       </p>
                       <div className="mt-3 text-xs text-stone-300">
@@ -172,8 +172,8 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">石和温泉　美と健康と癒しの宿　ホテル八田</h4>
-                      <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition">石和温泉　美と健康と癒しの宿　ホテル八田</h4>
+                      <p className="text-xs text-stone-400 mt-1 leading-relaxed">
                         【美肌の湯◇認証】県内最大級の露天風呂・展望ワイン風呂・貸切風呂で癒しの湯を堪能。甲州の旬を味わう宿
                       </p>
                       <div className="mt-3 text-xs text-stone-300">
@@ -216,8 +216,8 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">石和温泉　ホテル花いさわ</h4>
-                      <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition">石和温泉　ホテル花いさわ</h4>
+                      <p className="text-xs text-stone-400 mt-1 leading-relaxed">
                         駅からすぐの好立地。PH9.1のヌルとろ自噴源泉が人気！3つの源泉を楽しめる姉妹館湯めぐりが大好評！
                       </p>
                       <div className="mt-3 text-xs text-stone-300">
@@ -260,8 +260,8 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">シャトレーゼホテル　旅館　富士野屋</h4>
-                      <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition">シャトレーゼホテル　旅館　富士野屋</h4>
+                      <p className="text-xs text-stone-400 mt-1 leading-relaxed">
                         【PH値8.8】肌に優しい「アルカリ性単純温泉」で最大7つの湯巡り
                       </p>
                       <div className="mt-3 text-xs text-stone-300">
@@ -346,8 +346,8 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">石和温泉　ホテル花いさわ</h4>
-                      <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition">石和温泉　ホテル花いさわ</h4>
+                      <p className="text-xs text-stone-400 mt-1 leading-relaxed">
                         駅からすぐの好立地。PH9.1のヌルとろ自噴源泉が人気！3つの源泉を楽しめる姉妹館湯めぐりが大好評！
                       </p>
                       <div className="mt-3 text-xs text-stone-300">
@@ -390,8 +390,8 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">石和温泉　糸柳こやど　ゆわ</h4>
-                      <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition">石和温泉　糸柳こやど　ゆわ</h4>
+                      <p className="text-xs text-stone-400 mt-1 leading-relaxed">
                         心ほどける、くつろぎの時を。嵐の湯に癒される全19室の小さな宿。
                       </p>
                       <div className="mt-3 text-xs text-stone-300">
@@ -476,8 +476,8 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">石和温泉　ホテル古柏園</h4>
-                      <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition">石和温泉　ホテル古柏園</h4>
+                      <p className="text-xs text-stone-400 mt-1 leading-relaxed">
                         楽天ブロンズアワード2025受賞★甲州会席が好評の宿◆展望ラウンジで山梨ワインを堪能！
                       </p>
                       <div className="mt-3 text-xs text-stone-300">
@@ -520,8 +520,8 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">富士山石和温泉郷　ホテル石庭</h4>
-                      <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition">富士山石和温泉郷　ホテル石庭</h4>
+                      <p className="text-xs text-stone-400 mt-1 leading-relaxed">
                         2025ブロンズアワード受賞★2026年1月展望露天風呂リニューアルオープン！
                       </p>
                       <div className="mt-3 text-xs text-stone-300">
@@ -649,19 +649,19 @@ export default function Page() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/autumn-yamanashi-kawaguchiko-momiji-corridor-fuji-hotels-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「秋の河口湖」もみじ回廊の紅葉まつりと富士山絶景！レイクサイド温泉を満喫するおすすめ名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「秋の河口湖」もみじ回廊の紅葉まつりと富士山絶景！レイクサイド温泉を満喫するおすすめ名宿5選</span>
             </a>
             <a href="/fuji-q-highland-fujigoko-activity-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「富士急ハイランド＆富士五湖アクティビティ宿」絶叫アトラクション＆グランピング 厳選ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「富士急ハイランド＆富士五湖アクティビティ宿」絶叫アトラクション＆グランピング 厳選ガイド</span>
             </a>
             <a href="/furusato-tax-fujisan-view-luxury-open-air-bath-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">富士山を望む絶景露天風呂＆天空テラスの至高の宿×ふるさと納税厳選ガイド河口湖・山中湖・西伊豆土肥</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">富士山を望む絶景露天風呂＆天空テラスの至高の宿×ふるさと納税厳選ガイド河口湖・山中湖・西伊豆土肥</span>
             </a>
             <a href="/furusato-tax-koshu-winery-harvest-autumn-wine-resort-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">11月3日解禁！山梨ヌーボー＆甲州勝沼ワイナリー巡り×石和温泉美食リゾート「ふるさと納税厳選ガイド2026」</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">11月3日解禁！山梨ヌーボー＆甲州勝沼ワイナリー巡り×石和温泉美食リゾート「ふるさと納税厳選ガイド2026」</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

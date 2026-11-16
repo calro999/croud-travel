@@ -548,19 +548,19 @@ export default function FeatureDetailPage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/furusato-tax-shodoshima-kankakei-olive-autumn-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">小豆島・寒霞渓の奇岩紅葉ロープウェイとオリーブ収穫祭！瀬戸内海一望の海辺温泉・オリーブ牛と地魚会席｜ふるさと納税で泊まれる名宿ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">小豆島・寒霞渓の奇岩紅葉ロープウェイとオリーブ収穫祭！瀬戸内海一望の海辺温泉・オリーブ牛と地魚会席｜ふるさと納税で泊まれる名宿ガイド</span>
             </a>
             <a href="/kagawa-kotohira-solo-retreat-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「こんぴら温泉郷ひとり旅・金刀比羅宮門前おこもり」石段街を望む展望露天・美肌の名湯・讃岐牛＆手打ちうどん！四国随一の霊峰リトリート厳選3宿</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「こんぴら温泉郷ひとり旅・金刀比羅宮門前おこもり」石段街を望む展望露天・美肌の名湯・讃岐牛＆手打ちうどん！四国随一の霊峰リトリート厳選3宿</span>
             </a>
             <a href="/naoshima-setouchi-solo-art-island-retreat-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「直島・瀬戸内アートひとり旅」美術館に泊まる至高体験・瀬戸内海パノラマ・本場讃岐うどん！島と港でととのう厳選3宿</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「直島・瀬戸内アートひとり旅」美術館に泊まる至高体験・瀬戸内海パノラマ・本場讃岐うどん！島と港でととのう厳選3宿</span>
             </a>
             <a href="/tokyo-shikoku-takamatsu-bus-vs-shinkansen-guide/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「東京〜高松・香川」寝台特急サンライズ vs 新幹線 vs 夜行バス徹底比較！片道5,000円〜行く本場讃岐うどん爆食1泊2日モデルコース</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「東京〜高松・香川」寝台特急サンライズ vs 新幹線 vs 夜行バス徹底比較！片道5,000円〜行く本場讃岐うどん爆食1泊2日モデルコース</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

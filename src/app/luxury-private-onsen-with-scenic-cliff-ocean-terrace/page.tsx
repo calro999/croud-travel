@@ -389,19 +389,19 @@ export default function FeaturePage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/shizuoka-mishima-shuzenji-numazu-port-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「静岡・三島＆修善寺・沼津港」富士山スカイウォーク・修善寺竹林＆沼津深海魚宿 厳選ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「静岡・三島＆修善寺・沼津港」富士山スカイウォーク・修善寺竹林＆沼津深海魚宿 厳選ガイド</span>
             </a>
             <a href="/shizuoka-shuzenji-solo-retreat-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「修善寺温泉ひとり旅・伊豆小京都おこもり」竹林の小径・国の登録文化財・桂川渓流露天！千二百年の歴史に抱かれる大人の隠れ宿厳選3宿</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「修善寺温泉ひとり旅・伊豆小京都おこもり」竹林の小径・国の登録文化財・桂川渓流露天！千二百年の歴史に抱かれる大人の隠れ宿厳選3宿</span>
             </a>
             <a href="/shizuoka-station-solo-business-onsen-sauna-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「静岡駅前出張・天然温泉サウナ」富士山パノラマ・天然温泉スカイスパ・駿河湾鮮魚！東海道の中枢を制する厳選3宿</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「静岡駅前出張・天然温泉サウナ」富士山パノラマ・天然温泉スカイスパ・駿河湾鮮魚！東海道の中枢を制する厳選3宿</span>
             </a>
             <a href="/silver-week-glamping-tokai-shizuoka-aichi-guide/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「東海シルバーウィーク グランピング」 静岡・伊豆・愛知おすすめ宿厳選 海鮮浜焼きBBQ＆秋の味覚体験ステイ</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「東海シルバーウィーク グランピング」 静岡・伊豆・愛知おすすめ宿厳選 海鮮浜焼きBBQ＆秋の味覚体験ステイ</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

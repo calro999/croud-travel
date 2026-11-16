@@ -510,19 +510,19 @@ export default function FurusatoLakeBiwaMetasequoiaAutumnLeavesStayPage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/furusato-tax-dog-friendly-luxury-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">愛犬と泊まる極上客室露天風呂＆広大ドッグラン温泉宿×ふるさと納税厳選ガイド伊豆高原・那須高原・琵琶湖</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">愛犬と泊まる極上客室露天風呂＆広大ドッグラン温泉宿×ふるさと納税厳選ガイド伊豆高原・那須高原・琵琶湖</span>
             </a>
             <a href="/furusato-tax-omihachiman-suigo-autumn-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">近江八幡の水郷めぐり手漕ぎ舟紅葉＆八幡堀の白壁土蔵！近江牛会席の宿×ふるさと納税厳選ガイド滋賀</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">近江八幡の水郷めぐり手漕ぎ舟紅葉＆八幡堀の白壁土蔵！近江牛会席の宿×ふるさと納税厳選ガイド滋賀</span>
             </a>
             <a href="/hikone-omihachiman-solo-business-castle-beef-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「彦根・近江八幡出張」国宝彦根城ビュー・名湯城見風呂・極上近江牛グルメ！湖東ビジネスを格上げする厳選3宿</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「彦根・近江八幡出張」国宝彦根城ビュー・名湯城見風呂・極上近江牛グルメ！湖東ビジネスを格上げする厳選3宿</span>
             </a>
             <a href="/shiga-biwako-hikone-castle-nagahama-kurokabe-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「滋賀・琵琶湖＆彦根・長浜・雄琴」国宝彦根城・黒壁スクエア＆びわ湖一望温泉宿 厳選ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「滋賀・琵琶湖＆彦根・長浜・雄琴」国宝彦根城・黒壁スクエア＆びわ湖一望温泉宿 厳選ガイド</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

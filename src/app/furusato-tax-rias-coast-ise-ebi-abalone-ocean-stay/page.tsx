@@ -153,8 +153,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     三重県志摩市阿児町神明687-2
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">大江戸温泉物語Ｐｒｅｍｉｕｍ　志摩彩朝楽</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">大江戸温泉物語Ｐｒｅｍｉｕｍ　志摩彩朝楽</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     眼下に広がる英虞湾の絶景と夕日を堪能するオーシャンフロントの温泉宿
                   </p>
                   
@@ -197,8 +197,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     三重県志摩市阿児町神明731
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">志摩観光ホテル　ザ　クラシック</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">志摩観光ホテル　ザ　クラシック</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     伊勢志摩サミット開催ホテル。落ち着いた空間で時を過ごせるリゾートホテル。
                   </p>
                   
@@ -241,8 +241,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     三重県志摩市阿児町鵜方3618-33
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">都リゾート　志摩　ベイサイドテラス</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">都リゾート　志摩　ベイサイドテラス</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     英虞湾の絶景を望む、南欧風リゾート　海辺のオーベルジュ
                   </p>
                   
@@ -298,8 +298,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     宮城県本吉郡南三陸町志津川字黒崎99-17
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">南三陸　ホテル観洋</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">南三陸　ホテル観洋</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     海と一つになる絶景インフィニティ温泉と三陸海鮮を味わう宮城の宿
                   </p>
                   
@@ -342,8 +342,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     宮城県宮城郡松島町磯崎字浜1-1
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">大江戸温泉物語Ｐｒｅｍｉｕｍ　ホテル壮観</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">大江戸温泉物語Ｐｒｅｍｉｕｍ　ホテル壮観</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     絶好のロケーションでグルメや名所を堪能！プレミアムラウンジとテラスで心地よい海風に癒されるひと時を。
                   </p>
                   
@@ -386,8 +386,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     宮城県気仙沼市港町4-19
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">サンマリン気仙沼ホテル観洋</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">サンマリン気仙沼ホテル観洋</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     気仙沼湾を見渡す高台に建ち、地下1800Mから湧き出す「気仙沼温泉」と三陸の海鮮料理をご堪能ください
                   </p>
                   
@@ -443,8 +443,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     京都府京丹後市久美浜町湊宮1795
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">海辺の料理旅館　浜の路　臨江庵</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">海辺の料理旅館　浜の路　臨江庵</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     【1日5組限定◆3つの貸切温泉＆個室食事処】個室お食事処で食べる旬の味覚会席を堪能する料理旅館
                   </p>
                   
@@ -487,8 +487,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     京都府京丹後市網野町浜詰765
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">旅館　浜乃屋</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">旅館　浜乃屋</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     京丹後・夕日ヶ浦の旅館です。別館のオーシャンビュー客室や露天風呂が自慢！波音を聴きながらゆっくりと。
                   </p>
                   
@@ -531,8 +531,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     京都府宮津市獅子崎198-1
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">宮津温泉　旅館つるのや</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">宮津温泉　旅館つるのや</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     京都縦貫道　宮津天橋立インターより約１０分
                   </p>
                   

@@ -368,19 +368,19 @@ export default function ArticlePage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/nikko-autumn-leaves-lightup-guide/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「日光・いろは坂 紅葉2026見頃完全マップ」 大渋滞回避の時間帯・中禅寺湖ライトアップ＆奥日光硫黄泉の宿</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「日光・いろは坂 紅葉2026見頃完全マップ」 大渋滞回避の時間帯・中禅寺湖ライトアップ＆奥日光硫黄泉の宿</span>
             </a>
             <a href="/nikko-kinugawa-solo-retreat-onsen-culture-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「日光・鬼怒川ひとり旅・極上おこもり」空中庭園露天風呂・日光東照宮参道の名湯・現存最古のリゾートクラシック！渓谷と歴史の厳選3宿</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「日光・鬼怒川ひとり旅・極上おこもり」空中庭園露天風呂・日光東照宮参道の名湯・現存最古のリゾートクラシック！渓谷と歴史の厳選3宿</span>
             </a>
             <a href="/tochigi-itamuro-solo-retreat-therapeutic-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「那須塩原・板室温泉ひとり旅・下野の薬湯立ち湯おこもり」開湯1050年杖いらずの名湯・那珂川上流自然林・保養とアート！現代湯治リトリート厳選3宿</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「那須塩原・板室温泉ひとり旅・下野の薬湯立ち湯おこもり」開湯1050年杖いらずの名湯・那珂川上流自然林・保養とアート！現代湯治リトリート厳選3宿</span>
             </a>
             <a href="/tochigi-nasu-highland-nature-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「栃木・那須高原」茶臼岳・御用邸の森＆ベーカリー・温泉リゾート 厳選ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「栃木・那須高原」茶臼岳・御用邸の森＆ベーカリー・温泉リゾート 厳選ガイド</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

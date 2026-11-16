@@ -331,14 +331,14 @@ export default function KyotoTempleWalkingShoesGuidePage() {
                           <span>⭐ {hotel.reviewAverage}点（{hotel.reviewCount || 0}件）</span>
                         </div>
                       )}
-                      <h3 className="text-sm font-black text-white line-clamp-2">{hotel.hotelName}</h3>
+                      <h3 className="text-sm font-black text-white">{hotel.hotelName}</h3>
                       {hotel.hotelSpecial && (
-                        <p className="text-xs text-slate-400 line-clamp-2">
+                        <p className="text-xs text-slate-400">
                           {hotel.hotelSpecial}
                         </p>
                       )}
                       {hotel.access && (
-                        <p className="text-[11px] text-slate-500 line-clamp-1">
+                        <p className="text-[11px] text-slate-500">
                           📍 {hotel.access}
                         </p>
                       )}
@@ -380,7 +380,7 @@ export default function KyotoTempleWalkingShoesGuidePage() {
                 💰 京都旅の予算相場
               </div>
               <h3 className="text-sm font-bold text-white">京都旅行の予算は何泊でいくら？拝観料・交通費・ホテル費用のリアル内訳</h3>
-              <p className="text-[11px] text-slate-400 line-clamp-2">
+              <p className="text-[11px] text-slate-400">
                 宿泊税や市バス地下鉄1日券の活用術、一人旅からカップル旅までの費用シミュレーション。
               </p>
             </Link>
@@ -393,7 +393,7 @@ export default function KyotoTempleWalkingShoesGuidePage() {
                 🌧️ 雨の京都しっとり散歩
               </div>
               <h3 className="text-sm font-bold text-white">雨の京都だからこそ美しい名刹・苔寺＆町家ブックカフェ巡り</h3>
-              <p className="text-[11px] text-slate-400 line-clamp-2">
+              <p className="text-[11px] text-slate-400">
                 雨に濡れる三千院の苔庭、ぬくもりある町家カフェで過ごす静謐な大人の京都時間。
               </p>
             </Link>
@@ -449,19 +449,19 @@ export default function KyotoTempleWalkingShoesGuidePage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/winter-kyoto-kibune-kurama-snow-lightup-botannabe-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">雪の貴船神社積雪日限定ライトアップ＆奥座敷冬情趣！ 名物ぼたん鍋と名湯京懐石の隠れ家名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">雪の貴船神社積雪日限定ライトアップ＆奥座敷冬情趣！ 名物ぼたん鍋と名湯京懐石の隠れ家名宿5選</span>
             </a>
             <a href="/winter-kyoto-ohara-sanzenin-snow-hosenin-misonabe-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">白銀の苔庭に佇むわらべ地蔵と額縁庭園の冬美 静寂の洛北・大原三千院雪景色＆宝泉院冬参拝と名物地鶏味噌鍋・大原温泉の名宿</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">白銀の苔庭に佇むわらべ地蔵と額縁庭園の冬美 静寂の洛北・大原三千院雪景色＆宝泉院冬参拝と名物地鶏味噌鍋・大原温泉の名宿</span>
             </a>
             <a href="/winter-kyoto-tango-yuhigaura-matsuba-crab-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12月京都丹後・夕日ヶ浦温泉】 日本海夕景と11月解禁松葉ガニ・幻の間人ガニ＆美人の湯の宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">【11・12月京都丹後・夕日ヶ浦温泉】 日本海夕景と11月解禁松葉ガニ・幻の間人ガニ＆美人の湯の宿5選</span>
             </a>
             <a href="/furusato-tax-autumn-foliage-open-air-bath-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">赤や黄金の山並みを愛でる絶景紅葉露天風呂名旅館×ふるさと納税厳選ガイド日光中禅寺湖・京都嵐山・箱根小涌谷</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">赤や黄金の山並みを愛でる絶景紅葉露天風呂名旅館×ふるさと納税厳選ガイド日光中禅寺湖・京都嵐山・箱根小涌谷</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

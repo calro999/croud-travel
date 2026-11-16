@@ -435,7 +435,7 @@ export default function WinterMieKashikojimaPage() {
                     <div className="pt-2 flex flex-col sm:flex-row items-center justify-between gap-4 border-t border-stone-100">
                       <div className="flex items-center gap-1.5 text-xs text-stone-500 w-full sm:w-auto">
                         <MapPin className="w-3.5 h-3.5 text-stone-400 shrink-0" />
-                        <span className="truncate">{h.access}</span>
+                        <span className="break-words">{h.access}</span>
                       </div>
                       <a
                         href={h.url}
@@ -584,8 +584,8 @@ export default function WinterMieKashikojimaPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">三重・鳥羽温泉郷</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">鳥羽温泉郷の冬の伊勢湾オーシャンビューと伊勢海老会席</h4>
-              <p className="text-[11px] text-stone-200 line-clamp-2">
+              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition">鳥羽温泉郷の冬の伊勢湾オーシャンビューと伊勢海老会席</h4>
+              <p className="text-[11px] text-stone-200">
                 鳥羽湾を望む絶景露天風呂と解禁直後の伊勢海老・的矢かきを味わう海辺の宿。
               </p>
             </Link>
@@ -595,8 +595,8 @@ export default function WinterMieKashikojimaPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">三重・桑名</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">なばなの里国内最大級冬イルミネーションと長島温泉</h4>
-              <p className="text-[11px] text-stone-200 line-clamp-2">
+              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition">なばなの里国内最大級冬イルミネーションと長島温泉</h4>
+              <p className="text-[11px] text-stone-200">
                 光のトンネルと大スケールのイルミ絶景、天然温泉で温まるロマンチック冬旅。
               </p>
             </Link>
@@ -606,8 +606,8 @@ export default function WinterMieKashikojimaPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">三重・湯の山温泉</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">御在所岳の樹氷ロープウェイと湯の山温泉僧兵鍋ステイ</h4>
-              <p className="text-[11px] text-stone-200 line-clamp-2">
+              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition">御在所岳の樹氷ロープウェイと湯の山温泉僧兵鍋ステイ</h4>
+              <p className="text-[11px] text-stone-200">
                 白銀の鈴鹿山脈の樹氷と開湯1300年の名湯、名物熱々僧兵鍋を堪能。
               </p>
             </Link>

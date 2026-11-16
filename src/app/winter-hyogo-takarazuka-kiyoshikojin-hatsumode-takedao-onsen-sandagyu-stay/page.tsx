@@ -586,7 +586,7 @@ export default function HyogoTakarazukaWinterPage() {
               <div className="font-bold text-slate-900 group-hover:text-rose-600 transition mb-2">
                 日本三古湯・有馬の金泉銀泉と六甲山1000万ドルの冬夜景・神戸牛会席
               </div>
-              <p className="text-xs text-slate-500 line-clamp-2">
+              <p className="text-xs text-slate-500">
                 宝塚から車やバスでアクセス至近の名湯・有馬温泉。赤褐色の金泉と無色透明の銀泉、最高峰神戸牛を味わう特集。
               </p>
             </Link>
@@ -599,7 +599,7 @@ export default function HyogoTakarazukaWinterPage() {
               <div className="font-bold text-slate-900 group-hover:text-rose-600 transition mb-2">
                 丹波篠山城下町の冬散歩と元祖ぼたん鍋・冬の丹波黒豆＆丹波篠山牛
               </div>
-              <p className="text-xs text-slate-500 line-clamp-2">
+              <p className="text-xs text-slate-500">
                 武田尾から北へ足を延ばす丹波路。猪鍋発祥の地で味わう味噌仕立ての極上ぼたん鍋と歴史情緒漂う城下町。
               </p>
             </Link>
@@ -612,7 +612,7 @@ export default function HyogoTakarazukaWinterPage() {
               <div className="font-bold text-slate-900 group-hover:text-rose-600 transition mb-2">
                 摂津国一之宮「住吉大社」新春初詣と御堂筋イルミネーション・天然とらふぐ
               </div>
-              <p className="text-xs text-slate-500 line-clamp-2">
+              <p className="text-xs text-slate-500">
                 阪神間・大阪キタの冬景色。太鼓橋が有名な住吉大社の初詣と冬の味覚てっちり・天然ふぐを満喫する大阪紀行。
               </p>
             </Link>

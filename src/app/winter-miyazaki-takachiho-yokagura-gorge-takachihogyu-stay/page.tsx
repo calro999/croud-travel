@@ -382,7 +382,7 @@ export default function WinterMiyazakiTakachihoPage() {
                     <div className="absolute bottom-4 left-4 right-4 bg-stone-950/75 text-white p-3 rounded-xl backdrop-blur-xs text-xs space-y-1">
                       <div className="flex items-center gap-1 text-emerald-300 font-semibold">
                         <MapPin className="w-3.5 h-3.5 shrink-0" />
-                        <span className="line-clamp-1">{hotel.access}</span>
+                        <span className="">{hotel.access}</span>
                       </div>
                     </div>
                   </div>
@@ -586,8 +586,8 @@ export default function WinterMiyazakiTakachihoPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">宮崎・青島温泉</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">青島温泉の宮崎牛＆伊勢海老リゾートステイ</h4>
-              <p className="text-[11px] text-emerald-100 line-clamp-2">
+              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition">青島温泉の宮崎牛＆伊勢海老リゾートステイ</h4>
+              <p className="text-[11px] text-emerald-100">
                 鬼の洗濯板と太平洋パノラマ・宮崎牛鉄板焼きを満喫。
               </p>
             </Link>
@@ -597,8 +597,8 @@ export default function WinterMiyazakiTakachihoPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">大分・竹田長湯温泉</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">長湯温泉の世界屈指天然炭酸泉と豊後牛会席</h4>
-              <p className="text-[11px] text-emerald-100 line-clamp-2">
+              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition">長湯温泉の世界屈指天然炭酸泉と豊後牛会席</h4>
+              <p className="text-[11px] text-emerald-100">
                 くじゅう初雪絶景と銀色泡の炭酸泉・清流エノハ料理を堪能。
               </p>
             </Link>
@@ -608,8 +608,8 @@ export default function WinterMiyazakiTakachihoPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">熊本・黒川温泉</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">黒川温泉の竹灯籠湯あかりライトアップと露天風呂巡り</h4>
-              <p className="text-[11px] text-emerald-100 line-clamp-2">
+              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition">黒川温泉の竹灯籠湯あかりライトアップと露天風呂巡り</h4>
+              <p className="text-[11px] text-emerald-100">
                 冬の渓流に灯る竹あかりと肥後あか牛会席の極上宿。
               </p>
             </Link>

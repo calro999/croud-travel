@@ -399,19 +399,19 @@ export default function Page() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/winter-kochi-aki-noradokei-muroto-daruma-sunrise-kinmedai-akagyu-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「土佐の小京都・安芸武家屋敷と室戸岬冬のだるま朝日」2026-2027年冬の高知・安芸＆室戸！脂の乗った室戸キンメダイと土佐あかうし名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「土佐の小京都・安芸武家屋敷と室戸岬冬のだるま朝日」2026-2027年冬の高知・安芸＆室戸！脂の乗った室戸キンメダイと土佐あかうし名宿5選</span>
             </a>
             <a href="/winter-miyazaki-nichinan-obi-castle-udo-jingu-hatsumode-miyazakigyu-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「日州の小京都・飫肥城下町重伝建と鵜戸神宮新春初詣」2026-2027年冬の宮崎・日南！名物一本釣りカツオと宮崎牛会席名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「日州の小京都・飫肥城下町重伝建と鵜戸神宮新春初詣」2026-2027年冬の宮崎・日南！名物一本釣りカツオと宮崎牛会席名宿5選</span>
             </a>
             <a href="/zen-meditation-shojin-cuisine-temple-retreat-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">禅寺坐禅体験＆精進料理宿坊厳選ガイド「高野山・永平寺・京都リトリート」</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">禅寺坐禅体験＆精進料理宿坊厳選ガイド「高野山・永平寺・京都リトリート」</span>
             </a>
             <a href="/autumn-kyoto-arashiyama-sagano-momiji-onsen-hotels-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「秋の京都」嵐山・嵯峨野の錦秋渡月橋と保津川下り！紅葉名所を満喫するおすすめ温泉・極上宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「秋の京都」嵐山・嵯峨野の錦秋渡月橋と保津川下り！紅葉名所を満喫するおすすめ温泉・極上宿5選</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

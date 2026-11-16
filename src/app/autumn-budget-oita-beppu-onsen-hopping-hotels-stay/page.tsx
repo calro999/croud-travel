@@ -42,7 +42,7 @@ export default function BeppuBudgetAutumnPage() {
             <span className="px-3 py-1 bg-stone-800 text-amber-300 text-xs font-medium rounded-full border border-amber-400/30">1泊目安: 3,000円台〜6,000円台</span>
           </div>
           <h1 className="text-2xl md:text-4xl lg:text-5xl font-extrabold text-white leading-tight mb-4 drop-shadow-md">「秋の別府温泉×格安」地獄めぐりと鶴見岳紅葉！源泉かけ流し1泊3,000円台〜のコスパ最強おすすめ宿5選</h1>
-          <p className="text-stone-200 text-sm md:text-base max-w-3xl line-clamp-2 md:line-clamp-none">
+          <p className="text-stone-200 text-sm md:text-base max-w-3xl">
             街のいたるところから湯けむりが立ちのぼる世界屈指の温泉天国・別府。標高1,375mの鶴見岳を彩る三段紅葉と、別府湾を一望する展望露天風呂を1泊3,000円台から楽しめる驚異のコスパ宿をご案内します。
           </p>
         </div>
@@ -98,7 +98,7 @@ export default function BeppuBudgetAutumnPage() {
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 大分駅 / ＪＲ別府駅より徒歩8分。別府ＩＣより車で約15分。駐車場先着順、入庫後21時間最大700円。全室ロビー無料Wi-fi
                   </p>
-                  <p className="text-sm text-stone-600 mb-4 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-stone-600 mb-4 leading-relaxed">
                     別府湾を望む、まちなかに立地。地上20ｍにある大浴場からは別府湾が一望！
                   </p>
                 </div>
@@ -143,7 +143,7 @@ export default function BeppuBudgetAutumnPage() {
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 別府（大分）駅 / ＪＲ別府駅が目の前（表玄関　東口）徒歩30秒
                   </p>
-                  <p className="text-sm text-stone-600 mb-4 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-stone-600 mb-4 leading-relaxed">
                     別府駅まで徒歩１分！ 駐車場無料！ 天然温泉掛け流し100％ あり！！
                   </p>
                 </div>
@@ -188,7 +188,7 @@ export default function BeppuBudgetAutumnPage() {
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 別府（大分）駅 / 別府ICから車で約１分、ＪＲ別府駅から車で約１２分、大分空港から車で約４０分
                   </p>
-                  <p className="text-sm text-stone-600 mb-4 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-stone-600 mb-4 leading-relaxed">
                     部屋は広々４０平米以上　添寝のお子様０円！　別府湾を一望できるオーシャンビュールームあり
                   </p>
                 </div>
@@ -233,7 +233,7 @@ export default function BeppuBudgetAutumnPage() {
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 別府（大分）駅 / ＪＲ別府駅～徒歩１5分／別府ＩＣ～お車で１５分
                   </p>
-                  <p className="text-sm text-stone-600 mb-4 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-stone-600 mb-4 leading-relaxed">
                     別府で唯一の別府湾の絶景をお楽しみいただける展望貸切露天風呂を十分ご堪能下さい。
                   </p>
                 </div>
@@ -278,7 +278,7 @@ export default function BeppuBudgetAutumnPage() {
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 別府（大分）駅 / JR別府駅より徒歩にて約10分（タクシーにて約3分）／別府国際観光港よりタクシーにて約6分／別府ICより車で約10分
                   </p>
-                  <p className="text-sm text-stone-600 mb-4 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-stone-600 mb-4 leading-relaxed">
                     【2025年5月全館リニューアルオープン】別府の歴史と文化が息づく地に新たな温泉リゾート
                   </p>
                 </div>

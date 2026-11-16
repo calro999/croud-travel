@@ -362,19 +362,19 @@ export default function FeatureArticlePage() {
             <ul className="space-y-4 text-xs md:text-sm">
               <li>
                 <a href={HOTEL_DATA.omihachiman_kyukamura.url} target="_blank" rel="sponsored noopener noreferrer" className="block p-3 rounded-xl hover:bg-stone-50 transition border border-stone-100 hover:border-amber-200">
-                  <div className="font-bold text-stone-800 line-clamp-1">{HOTEL_DATA.omihachiman_kyukamura.name}</div>
+                  <div className="font-bold text-stone-800">{HOTEL_DATA.omihachiman_kyukamura.name}</div>
                   <div className="text-stone-500 text-xs mt-1">★ {HOTEL_DATA.omihachiman_kyukamura.rating} | 楽天トラベルで詳細確認</div>
                 </a>
               </li>
               <li>
                 <a href={HOTEL_DATA.omihachiman_greenhotel.url} target="_blank" rel="sponsored noopener noreferrer" className="block p-3 rounded-xl hover:bg-stone-50 transition border border-stone-100 hover:border-amber-200">
-                  <div className="font-bold text-stone-800 line-clamp-1">{HOTEL_DATA.omihachiman_greenhotel.name}</div>
+                  <div className="font-bold text-stone-800">{HOTEL_DATA.omihachiman_greenhotel.name}</div>
                   <div className="text-stone-500 text-xs mt-1">★ {HOTEL_DATA.omihachiman_greenhotel.rating} | 楽天トラベルで詳細確認</div>
                 </a>
               </li>
               <li>
                 <a href={HOTEL_DATA.omihachiman_hachiman.url} target="_blank" rel="sponsored noopener noreferrer" className="block p-3 rounded-xl hover:bg-stone-50 transition border border-stone-100 hover:border-amber-200">
-                  <div className="font-bold text-stone-800 line-clamp-1">{HOTEL_DATA.omihachiman_hachiman.name}</div>
+                  <div className="font-bold text-stone-800">{HOTEL_DATA.omihachiman_hachiman.name}</div>
                   <div className="text-stone-500 text-xs mt-1">★ {HOTEL_DATA.omihachiman_hachiman.rating} | 楽天トラベルで詳細確認</div>
                 </a>
               </li>
@@ -491,19 +491,19 @@ export default function FeatureArticlePage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/japan-traditional-townscape-preservation-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「重要伝統的建造物群保存地区（重伝建）の町並み宿」角館・近江八幡・飛騨高山・美馬 厳選ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「重要伝統的建造物群保存地区（重伝建）の町並み宿」角館・近江八幡・飛騨高山・美馬 厳選ガイド</span>
             </a>
             <a href="/shiga-nagahama-omihachiman-chikubushima-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「滋賀・長浜＆近江八幡・竹生島」黒壁スクエア・神の棲む竹生島＆八幡堀・近江牛宿 厳選ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「滋賀・長浜＆近江八幡・竹生島」黒壁スクエア・神の棲む竹生島＆八幡堀・近江牛宿 厳選ガイド</span>
             </a>
             <a href="/traditional-shiga-omi-beef-funazushi-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「極上近江牛ステーキ＆伝統鮒ずし」琵琶湖の恵みと名湯！おごと温泉の絶景美食宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「極上近江牛ステーキ＆伝統鮒ずし」琵琶湖の恵みと名湯！おごと温泉の絶景美食宿5選</span>
             </a>
             <a href="/winter-shiga-hieizan-enryakuji-ogoto-onsen-omigyu-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">白銀の霊峰に灯る不滅の法灯と湖畔の雪見名湯 世界遺産・比叡山延暦寺の静謐な冬参拝＆おごと温泉・極上近江牛の名宿</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">白銀の霊峰に灯る不滅の法灯と湖畔の雪見名湯 世界遺産・比叡山延暦寺の静謐な冬参拝＆おごと温泉・極上近江牛の名宿</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

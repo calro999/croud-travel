@@ -560,8 +560,8 @@ export default function WinterAkitaNyutoOnsenPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-cyan-300 bg-cyan-400/20 px-2 py-0.5 rounded-full inline-block">山形・銀山温泉</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-cyan-200 transition line-clamp-2">銀山温泉の大正ロマン雪景色とガス灯の宵</h4>
-              <p className="text-[11px] text-stone-200 line-clamp-2">
+              <h4 className="text-xs font-bold text-white group-hover:text-cyan-200 transition">銀山温泉の大正ロマン雪景色とガス灯の宵</h4>
+              <p className="text-[11px] text-stone-200">
                 木造多層建築が連なる銀山川の雪景色と尾花沢牛・雪見露天の贅。
               </p>
             </Link>
@@ -571,8 +571,8 @@ export default function WinterAkitaNyutoOnsenPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-cyan-300 bg-cyan-400/20 px-2 py-0.5 rounded-full inline-block">岩手・花巻温泉郷</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-cyan-200 transition line-clamp-2">花巻温泉郷の台川渓谷雪見露天と前沢牛ステーキ</h4>
-              <p className="text-[11px] text-stone-200 line-clamp-2">
+              <h4 className="text-xs font-bold text-white group-hover:text-cyan-200 transition">花巻温泉郷の台川渓谷雪見露天と前沢牛ステーキ</h4>
+              <p className="text-[11px] text-stone-200">
                 宮沢賢治ゆかりのイーハトーブ花巻で味わう極上前沢牛と清流雪見風呂。
               </p>
             </Link>
@@ -582,8 +582,8 @@ export default function WinterAkitaNyutoOnsenPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-cyan-300 bg-cyan-400/20 px-2 py-0.5 rounded-full inline-block">宮城・鳴子温泉郷</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-cyan-200 transition line-clamp-2">鳴子温泉郷の多彩な源泉めぐりと仙台牛すき焼き</h4>
-              <p className="text-[11px] text-stone-200 line-clamp-2">
+              <h4 className="text-xs font-bold text-white group-hover:text-cyan-200 transition">鳴子温泉郷の多彩な源泉めぐりと仙台牛すき焼き</h4>
+              <p className="text-[11px] text-stone-200">
                 日本にある11泉質のうち9泉質が集う奇跡の湯治場で楽しむ冬の湯めぐり。
               </p>
             </Link>

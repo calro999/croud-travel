@@ -582,7 +582,7 @@ export default function AomoriHachinoheKabushimaWinterPage() {
             >
               <div>
                 <span className="text-[11px] font-bold text-sky-700 bg-sky-50 px-2 py-0.5 rounded block w-fit mb-2">青森・下北半島</span>
-                <h3 className="text-sm font-bold text-stone-800 group-hover:text-sky-600 line-clamp-2">下風呂温泉と冬の大間マグロ・津軽海峡アンコウ鍋ステイ</h3>
+                <h3 className="text-sm font-bold text-stone-800 group-hover:text-sky-600">下風呂温泉と冬の大間マグロ・津軽海峡アンコウ鍋ステイ</h3>
               </div>
               <span className="text-xs text-sky-600 font-semibold mt-3 block">記事を読む →</span>
             </Link>
@@ -593,7 +593,7 @@ export default function AomoriHachinoheKabushimaWinterPage() {
             >
               <div>
                 <span className="text-[11px] font-bold text-sky-700 bg-sky-50 px-2 py-0.5 rounded block w-fit mb-2">青森・十和田八甲田</span>
-                <h3 className="text-sm font-bold text-stone-800 group-hover:text-sky-600 line-clamp-2">奥入瀬渓流の氷瀑ライトアップと八甲田雪見秘湯ステイ</h3>
+                <h3 className="text-sm font-bold text-stone-800 group-hover:text-sky-600">奥入瀬渓流の氷瀑ライトアップと八甲田雪見秘湯ステイ</h3>
               </div>
               <span className="text-xs text-sky-600 font-semibold mt-3 block">記事を読む →</span>
             </Link>
@@ -604,7 +604,7 @@ export default function AomoriHachinoheKabushimaWinterPage() {
             >
               <div>
                 <span className="text-[11px] font-bold text-sky-700 bg-sky-50 px-2 py-0.5 rounded block w-fit mb-2">岩手・三陸鉄道</span>
-                <h3 className="text-sm font-bold text-stone-800 group-hover:text-sky-600 line-clamp-2">三陸鉄道こたつ列車と冬の三陸海鮮・絶景パノラマステイ</h3>
+                <h3 className="text-sm font-bold text-stone-800 group-hover:text-sky-600">三陸鉄道こたつ列車と冬の三陸海鮮・絶景パノラマステイ</h3>
               </div>
               <span className="text-xs text-sky-600 font-semibold mt-3 block">記事を読む →</span>
             </Link>
@@ -615,7 +615,7 @@ export default function AomoriHachinoheKabushimaWinterPage() {
             >
               <div>
                 <span className="text-[11px] font-bold text-sky-700 bg-sky-50 px-2 py-0.5 rounded block w-fit mb-2">岩手・花巻温泉郷</span>
-                <h3 className="text-sm font-bold text-stone-800 group-hover:text-sky-600 line-clamp-2">花巻温泉郷の雪見露天風呂と前沢牛・宮沢賢治の世界を巡る宿</h3>
+                <h3 className="text-sm font-bold text-stone-800 group-hover:text-sky-600">花巻温泉郷の雪見露天風呂と前沢牛・宮沢賢治の世界を巡る宿</h3>
               </div>
               <span className="text-xs text-sky-600 font-semibold mt-3 block">記事を読む →</span>
             </Link>

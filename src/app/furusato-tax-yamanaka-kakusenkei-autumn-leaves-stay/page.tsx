@@ -467,19 +467,19 @@ export default function FeatureArticlePage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/nagano-kiso-fukushima-nezamenotoko-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「長野・木曽福島＆寝覚の床・御嶽山」中山道関所宿場町・木曽そば＆五平餅宿 厳選ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「長野・木曽福島＆寝覚の床・御嶽山」中山道関所宿場町・木曽そば＆五平餅宿 厳選ガイド</span>
             </a>
             <a href="/osaka-kanazawa-highway-bus-model-course/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「大阪から金沢 高速バス 新幹線 どっち？」安く行く方法＆乗り換えなし1泊2日モデルコース</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「大阪から金沢 高速バス 新幹線 どっち？」安く行く方法＆乗り換えなし1泊2日モデルコース</span>
             </a>
             <a href="/traditional-crafts-pottery-gold-leaf-washi-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">伝統工芸体験宿厳選ガイド「金沢金箔・越前和紙・有田焼陶芸ステイ」</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">伝統工芸体験宿厳選ガイド「金沢金箔・越前和紙・有田焼陶芸ステイ」</span>
             </a>
             <a href="/traditional-ishikawa-wajima-nuri-lacquer-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「輪島塗の器で味わう能登前寿司（能登復興応援＆和倉温泉・七尾湾オーシャン宿5選）」輪島塗の器で味わう能登前寿司！能登復興応援＆和倉温泉・七尾湾オーシャン宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「輪島塗の器で味わう能登前寿司（能登復興応援＆和倉温泉・七尾湾オーシャン宿5選）」輪島塗の器で味わう能登前寿司！能登復興応援＆和倉温泉・七尾湾オーシャン宿5選</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

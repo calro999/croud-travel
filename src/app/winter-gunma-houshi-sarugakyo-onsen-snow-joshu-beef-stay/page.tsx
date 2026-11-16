@@ -623,8 +623,8 @@ export default function GunmaHoushiSarugakyoPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">群馬・四万温泉</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">四万温泉の積善館と奥四万ブルー雪景色</h4>
-              <p className="text-[11px] text-stone-200 line-clamp-2">
+              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition">四万温泉の積善館と奥四万ブルー雪景色</h4>
+              <p className="text-[11px] text-stone-200">
                 「四万の病を癒やす」名湯と千と千尋の世界観、上州牛すき焼きを味わう冬旅。
               </p>
             </Link>
@@ -634,8 +634,8 @@ export default function GunmaHoushiSarugakyoPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">群馬・水上温泉郷</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">谷川連峰の白銀雪見露天と上州牛会席</h4>
-              <p className="text-[11px] text-stone-200 line-clamp-2">
+              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition">谷川連峰の白銀雪見露天と上州牛会席</h4>
+              <p className="text-[11px] text-stone-200">
                 利根川源流の渓谷雪景色と効能豊かな天然温泉、みなかみ舞茸と上州牛を堪能。
               </p>
             </Link>
@@ -645,8 +645,8 @@ export default function GunmaHoushiSarugakyoPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">群馬・草津温泉</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">草津温泉湯畑の雪景色と名湯巡り</h4>
-              <p className="text-[11px] text-stone-200 line-clamp-2">
+              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition">草津温泉湯畑の雪景色と名湯巡り</h4>
+              <p className="text-[11px] text-stone-200">
                 日本一の湧出量を誇る酸性硫黄泉と湯もみ体験、極上上州牛ステーキを味わう休日。
               </p>
             </Link>

@@ -591,7 +591,7 @@ export default function FukuokaDazaifuFutsukaichiPage() {
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-indigo-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-indigo-700 font-bold text-xs block mb-1">佐賀・祐徳稲荷＆嬉野</span>
-              <span className="text-stone-900 font-bold group-hover:text-indigo-800 transition-colors line-clamp-2">
+              <span className="text-stone-900 font-bold group-hover:text-indigo-800 transition-colors">
                 日本三大稲荷の初詣と冬の竹崎カニ＆日本三大美肌の湯嬉野温泉名宿
               </span>
             </Link>
@@ -601,7 +601,7 @@ export default function FukuokaDazaifuFutsukaichiPage() {
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-indigo-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-indigo-700 font-bold text-xs block mb-1">長崎・稲佐山夜景</span>
-              <span className="text-stone-900 font-bold group-hover:text-indigo-800 transition-colors line-clamp-2">
+              <span className="text-stone-900 font-bold group-hover:text-indigo-800 transition-colors">
                 世界新三大夜景とグラバー園イルミネーション＆本場ちゃんぽん名宿
               </span>
             </Link>
@@ -611,7 +611,7 @@ export default function FukuokaDazaifuFutsukaichiPage() {
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-indigo-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-indigo-700 font-bold text-xs block mb-1">宮崎・高千穂峡</span>
-              <span className="text-stone-900 font-bold group-hover:text-indigo-800 transition-colors line-clamp-2">
+              <span className="text-stone-900 font-bold group-hover:text-indigo-800 transition-colors">
                 冬の夜を徹して舞う高千穂夜神楽と高千穂峡冬景色・高千穂牛名宿
               </span>
             </Link>
@@ -621,7 +621,7 @@ export default function FukuokaDazaifuFutsukaichiPage() {
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-indigo-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-indigo-700 font-bold text-xs block mb-1">熊本・黒川温泉</span>
-              <span className="text-stone-900 font-bold group-hover:text-indigo-800 transition-colors line-clamp-2">
+              <span className="text-stone-900 font-bold group-hover:text-indigo-800 transition-colors">
                 冬の幻想美「湯あかり」竹灯籠と入湯手形露天風呂めぐり名宿
               </span>
             </Link>
@@ -631,7 +631,7 @@ export default function FukuokaDazaifuFutsukaichiPage() {
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-indigo-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-indigo-700 font-bold text-xs block mb-1">福岡・糸島＆博多</span>
-              <span className="text-stone-900 font-bold group-hover:text-indigo-800 transition-colors line-clamp-2">
+              <span className="text-stone-900 font-bold group-hover:text-indigo-800 transition-colors">
                 冬の糸島焼き牡蠣小屋と極上博多とらふぐ・玄界灘美食名宿
               </span>
             </Link>
@@ -641,7 +641,7 @@ export default function FukuokaDazaifuFutsukaichiPage() {
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-indigo-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-indigo-700 font-bold text-xs block mb-1">三重・伊勢神宮</span>
-              <span className="text-stone-900 font-bold group-hover:text-indigo-800 transition-colors line-clamp-2">
+              <span className="text-stone-900 font-bold group-hover:text-indigo-800 transition-colors">
                 新春の伊勢神宮初詣とおかげ横丁・伊勢海老＆松阪牛会席名宿
               </span>
             </Link>

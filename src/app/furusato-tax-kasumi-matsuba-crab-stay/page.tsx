@@ -467,19 +467,19 @@ export default function FeatureArticlePage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/furusato-tax-arima-onsen-kinsen-ginsen-kobe-beef-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">有馬温泉をふるさと納税でお得に旅する！日本最古の名湯・金泉銀泉めぐり＆極上神戸牛！名門老舗旅館ステイ厳選ガイド｜兵衛向陽閣・月光園鴻朧館・陶泉御所坊</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">有馬温泉をふるさと納税でお得に旅する！日本最古の名湯・金泉銀泉めぐり＆極上神戸牛！名門老舗旅館ステイ厳選ガイド｜兵衛向陽閣・月光園鴻朧館・陶泉御所坊</span>
             </a>
             <a href="/furusato-tax-awaji-sunset-onsen-autumn-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">兵庫・淡路島サンセット温泉＆秋の鳴門海峡！絶品淡路島3年とらふぐ＆淡路牛会席｜ふるさと納税で泊まれる名宿ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">兵庫・淡路島サンセット温泉＆秋の鳴門海峡！絶品淡路島3年とらふぐ＆淡路牛会席｜ふるさと納税で泊まれる名宿ガイド</span>
             </a>
             <a href="/furusato-tax-hyogo-yumura-onsen-autumn-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">兵庫・山陰 湯村温泉「荒湯」の湯けむり紅葉！開湯1200年の高温泉＆本場但馬牛会席｜ふるさと納税で泊まれる名宿ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">兵庫・山陰 湯村温泉「荒湯」の湯けむり紅葉！開湯1200年の高温泉＆本場但馬牛会席｜ふるさと納税で泊まれる名宿ガイド</span>
             </a>
             <a href="/furusato-tax-kinosaki-onsen-sotoyu-crab-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">城崎温泉をふるさと納税でお得に旅する！七つの外湯めぐり＆絶品松葉ガニ！老舗名旅館ガイド｜西村屋本館・招月庭・三木屋</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">城崎温泉をふるさと納税でお得に旅する！七つの外湯めぐり＆絶品松葉ガニ！老舗名旅館ガイド｜西村屋本館・招月庭・三木屋</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

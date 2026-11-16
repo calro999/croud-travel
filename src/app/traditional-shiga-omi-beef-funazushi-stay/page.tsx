@@ -362,19 +362,19 @@ export default function FeaturePage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/autumn-aichi-nagoya-legoland-japan-halloween-hotels-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">2026年秋！レゴランド名古屋ハロウィン：モンスター・パーティと子連れ人気ホテル5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">2026年秋！レゴランド名古屋ハロウィン：モンスター・パーティと子連れ人気ホテル5選</span>
             </a>
             <a href="/furusato-tax-korankei-aichi-autumn-leaves-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">4000本のもみじが燃える東海随一の名所・香嵐渓！巴川ライトアップ＆猿投温泉宿×ふるさと納税厳選ガイド愛知</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">4000本のもみじが燃える東海随一の名所・香嵐渓！巴川ライトアップ＆猿投温泉宿×ふるさと納税厳選ガイド愛知</span>
             </a>
             <a href="/winter-aichi-inuyama-castle-kiso-river-nagoya-cochin-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12・1月愛知】現存最古の木造天守・国宝犬山城の冬絶景＆三光稲荷神社新春初詣！名美肌湯「白帝の湯」と本場名古屋コーチンを堪能する名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">【11・12・1月愛知】現存最古の木造天守・国宝犬山城の冬絶景＆三光稲荷神社新春初詣！名美肌湯「白帝の湯」と本場名古屋コーチンを堪能する名宿5選</span>
             </a>
             <a href="/aichi-chita-minamichita-himakajima-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">愛知・知多半島＆南知多温泉郷：内海千鳥ヶ浜・日間賀島タコふぐ＆知多牛宿 厳選ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">愛知・知多半島＆南知多温泉郷：内海千鳥ヶ浜・日間賀島タコふぐ＆知多牛宿 厳選ガイド</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

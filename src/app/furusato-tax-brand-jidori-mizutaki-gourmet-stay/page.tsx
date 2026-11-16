@@ -189,8 +189,8 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">縄文のふる里　大湯温泉　ホテル鹿角</h4>
-                            <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
+                            <h4 className="font-bold text-white text-sm group-hover:text-amber-300 transition">縄文のふる里　大湯温泉　ホテル鹿角</h4>
+                            <p className="text-xs text-slate-400 leading-relaxed">
                               開湯800年の名湯と四季折々の彩りが添えられた料理を楽しむ。箱根・富士屋ホテルや花巻温泉もグループ。
                             </p>
                             <p className="text-xs text-slate-500 flex items-center gap-1">
@@ -239,8 +239,8 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">龍門亭　千葉旅館</h4>
-                            <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
+                            <h4 className="font-bold text-white text-sm group-hover:text-amber-300 transition">龍門亭　千葉旅館</h4>
+                            <p className="text-xs text-slate-400 leading-relaxed">
                               ライトアップされた庭園を眺めながら露天に浸かる贅沢と、飽きることの無いお料理を堪能あれ。
                             </p>
                             <p className="text-xs text-slate-500 flex items-center gap-1">
@@ -302,8 +302,8 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">癒しの湯宿　龍河温泉</h4>
-                            <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
+                            <h4 className="font-bold text-white text-sm group-hover:text-amber-300 transition">癒しの湯宿　龍河温泉</h4>
+                            <p className="text-xs text-slate-400 leading-relaxed">
                               龍河洞・やなせたかし記念館がある田園と星空広がる街の温泉宿。季節料理、とろんとろんの天然温泉を堪能
                             </p>
                             <p className="text-xs text-slate-500 flex items-center gap-1">
@@ -365,8 +365,8 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">全室露天風呂付　ｏｎｓｅｎ　ｇａｒｄｅｎ　湯本庵　清姫</h4>
-                            <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
+                            <h4 className="font-bold text-white text-sm group-hover:text-amber-300 transition">全室露天風呂付　ｏｎｓｅｎ　ｇａｒｄｅｎ　湯本庵　清姫</h4>
+                            <p className="text-xs text-slate-400 leading-relaxed">
                               全９室離れのデザイナーズ客室は源泉掛流しの温泉露天風呂付！美肌の湯と旬のお食事をお楽しみください♪
                             </p>
                             <p className="text-xs text-slate-500 flex items-center gap-1">
@@ -414,10 +414,10 @@ export default function FurusatoTaxPage() {
                 href="/furusato-tax-local-gourmet-inn-stay/"
                 className="block p-4 rounded-2xl bg-slate-950/60 border border-slate-800/80 hover:border-amber-500/50 transition group"
               >
-                <div className="font-bold text-amber-400 group-hover:text-amber-300 transition text-sm mb-1 line-clamp-1">
+                <div className="font-bold text-amber-400 group-hover:text-amber-300 transition text-sm mb-1">
                   ご当地グルメ宿を堪能する美食旅特集
                 </div>
-                <div className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
+                <div className="text-xs text-slate-400 leading-relaxed">
                   高千穂牛・天然あなご・伊勢海老を味わう返礼クーポン旅。
                 </div>
               </Link>
@@ -427,10 +427,10 @@ export default function FurusatoTaxPage() {
                 href="/furusato-tax-sake-brewery-pairing-onsen-stay/"
                 className="block p-4 rounded-2xl bg-slate-950/60 border border-slate-800/80 hover:border-amber-500/50 transition group"
               >
-                <div className="font-bold text-amber-400 group-hover:text-amber-300 transition text-sm mb-1 line-clamp-1">
+                <div className="font-bold text-amber-400 group-hover:text-amber-300 transition text-sm mb-1">
                   日本酒ペアリング＆酒蔵直結名宿×ふるさと納税完全ガイド
                 </div>
-                <div className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
+                <div className="text-xs text-slate-400 leading-relaxed">
                   越後湯沢・諏訪・会津の名酒と温泉旅。
                 </div>
               </Link>
@@ -440,10 +440,10 @@ export default function FurusatoTaxPage() {
                 href="/furusato-tax-award-winning-breakfast-gourmet-hotel-stay/"
                 className="block p-4 rounded-2xl bg-slate-950/60 border border-slate-800/80 hover:border-amber-500/50 transition group"
               >
-                <div className="font-bold text-amber-400 group-hover:text-amber-300 transition text-sm mb-1 line-clamp-1">
+                <div className="font-bold text-amber-400 group-hover:text-amber-300 transition text-sm mb-1">
                   朝食日本一受賞・究極の朝ごはんホテル×ふるさと納税完全ガイド
                 </div>
-                <div className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
+                <div className="text-xs text-slate-400 leading-relaxed">
                   函館・神戸・金沢のいくら盛り放題＆美食ビュッフェ。
                 </div>
               </Link>
@@ -546,19 +546,19 @@ export default function FurusatoTaxPage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/shizuoka-shimoda-solo-retreat-ocean-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「南伊豆・下田温泉ひとり旅・ペリー黒船と白砂ビーチおこもり」自家源泉掛け流し・下田金目鯛づくし・海一望露天風呂！特急サフィール直通の港町厳選3宿</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「南伊豆・下田温泉ひとり旅・ペリー黒船と白砂ビーチおこもり」自家源泉掛け流し・下田金目鯛づくし・海一望露天風呂！特急サフィール直通の港町厳選3宿</span>
             </a>
             <a href="/shizuoka-solo-business-maguro-fujiview-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「静岡出張＆富士山ひとり旅」新幹線直結・清水港まぐろ・静岡茶ラウンジ！名峰の絶景に癒やされる極上ホテル 厳選3選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「静岡出張＆富士山ひとり旅」新幹線直結・清水港まぐろ・静岡茶ラウンジ！名峰の絶景に癒やされる極上ホテル 厳選3選</span>
             </a>
             <a href="/shizuoka-sumatakyo-okuoi-lake-bridge-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「静岡・寸又峡＆奥大井湖上駅」死ぬまでに渡りたい夢の吊橋・アプト式鉄道宿 厳選ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「静岡・寸又峡＆奥大井湖上駅」死ぬまでに渡りたい夢の吊橋・アプト式鉄道宿 厳選ガイド</span>
             </a>
             <a href="/spring-izu-cherry-blossom-and-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「一足早い春の訪れ（早咲き河津桜＆伊豆金目鯛姿煮と海一望露天風呂の宿5選）」一足早い春の訪れ！早咲き河津桜＆伊豆金目鯛姿煮と海一望露天風呂の宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「一足早い春の訪れ（早咲き河津桜＆伊豆金目鯛姿煮と海一望露天風呂の宿5選）」一足早い春の訪れ！早咲き河津桜＆伊豆金目鯛姿煮と海一望露天風呂の宿5選</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

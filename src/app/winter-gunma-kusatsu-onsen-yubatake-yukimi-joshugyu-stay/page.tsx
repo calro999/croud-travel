@@ -560,8 +560,8 @@ export default function WinterGunmaKusatsuOnsenPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-emerald-300 bg-emerald-400/20 px-2 py-0.5 rounded-full inline-block">埼玉・秩父</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-emerald-200 transition line-clamp-2">秩父夜祭と長瀞こたつ舟・武州和牛すき焼き名宿</h4>
-              <p className="text-[11px] text-stone-200 line-clamp-2">
+              <h4 className="text-xs font-bold text-white group-hover:text-emerald-200 transition">秩父夜祭と長瀞こたつ舟・武州和牛すき焼き名宿</h4>
+              <p className="text-[11px] text-stone-200">
                 ユネスコ無形文化遺産の秩父夜祭と冬の長瀞こたつ舟、名物武州和牛を堪能。
               </p>
             </Link>
@@ -571,8 +571,8 @@ export default function WinterGunmaKusatsuOnsenPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-emerald-300 bg-emerald-400/20 px-2 py-0.5 rounded-full inline-block">栃木・鬼怒川温泉</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-emerald-200 transition line-clamp-2">鬼怒川渓谷の初冬雪景色ととちぎ和牛・美肌名湯</h4>
-              <p className="text-[11px] text-stone-200 line-clamp-2">
+              <h4 className="text-xs font-bold text-white group-hover:text-emerald-200 transition">鬼怒川渓谷の初冬雪景色ととちぎ和牛・美肌名湯</h4>
+              <p className="text-[11px] text-stone-200">
                 鬼怒川の雄大な渓谷美と日光湯波、極上とちぎ和牛を味わう癒やしの冬旅。
               </p>
             </Link>
@@ -582,8 +582,8 @@ export default function WinterGunmaKusatsuOnsenPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-emerald-300 bg-emerald-400/20 px-2 py-0.5 rounded-full inline-block">長野・野沢温泉</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-emerald-200 transition line-clamp-2">野沢温泉の13外湯めぐりと極上パウダースノー</h4>
-              <p className="text-[11px] text-stone-200 line-clamp-2">
+              <h4 className="text-xs font-bold text-white group-hover:text-emerald-200 transition">野沢温泉の13外湯めぐりと極上パウダースノー</h4>
+              <p className="text-[11px] text-stone-200">
                 白銀のスキー場と熱々の外湯めぐり、野沢菜本漬けと信州牛を味わう冬。
               </p>
             </Link>

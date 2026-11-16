@@ -372,19 +372,19 @@ export default function ArticlePage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/winter-shizuoka-izukogen-granillumi-ito-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12月伊豆高原グランイルミ】 日本一の体験型イルミと伊東温泉・金目鯛姿煮宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">【11・12月伊豆高原グランイルミ】 日本一の体験型イルミと伊東温泉・金目鯛姿煮宿5選</span>
             </a>
             <a href="/winter-shizuoka-kakegawa-fukuroi-hattasan-hatsumode-yumesakigyu-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">厄除け大本山「法多山尊永寺」新春初詣と掛川城木造天守 可睡齋ひなまつり＆幻の黒毛和牛「遠州夢咲牛」名宿</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">厄除け大本山「法多山尊永寺」新春初詣と掛川城木造天守 可睡齋ひなまつり＆幻の黒毛和牛「遠州夢咲牛」名宿</span>
             </a>
             <a href="/winter-shizuoka-mishima-numazu-taisha-fuji-suruga-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">冬の三嶋大社新春開運初詣＆富士山スカイウォーク絶景！ 駿河湾深海魚・沼津港寒魚と名湯に寛ぐ厳選宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">冬の三嶋大社新春開運初詣＆富士山スカイウォーク絶景！ 駿河湾深海魚・沼津港寒魚と名湯に寛ぐ厳選宿5選</span>
             </a>
             <a href="/winter-shizuoka-shimoda-onsen-kinmedai-ocean-view-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">初冬の海絶景と極上地金目鯛 水揚げ日本一の金目鯛姿煮＆伊勢海老会席を満喫する絶景宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">初冬の海絶景と極上地金目鯛 水揚げ日本一の金目鯛姿煮＆伊勢海老会席を満喫する絶景宿5選</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

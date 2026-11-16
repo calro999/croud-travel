@@ -670,21 +670,21 @@ export default function TottoriIwaiUradomeWinterPage() {
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-sky-700 font-bold block text-[10px]">鳥取・三朝温泉</span>
-              <p className="font-bold text-stone-800 line-clamp-2">世界屈指のラジウム温泉と松葉ガニ・三徳山投入堂の冬情趣名宿</p>
+              <p className="font-bold text-stone-800">世界屈指のラジウム温泉と松葉ガニ・三徳山投入堂の冬情趣名宿</p>
             </Link>
             <Link 
               href="/winter-tottori-kaike-onsen-matsuba-crab-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-sky-700 font-bold block text-[10px]">鳥取・皆生温泉</span>
-              <p className="font-bold text-stone-800 line-clamp-2">米子白砂青松の海中温泉と境港直送松葉ガニ・大山雪見露天風呂</p>
+              <p className="font-bold text-stone-800">米子白砂青松の海中温泉と境港直送松葉ガニ・大山雪見露天風呂</p>
             </Link>
             <Link 
               href="/winter-hyogo-kasumi-onsen-shibayama-crab-matsuba-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-sky-700 font-bold block text-[10px]">兵庫・香住＆柴山</span>
-              <p className="font-bold text-stone-800 line-clamp-2">最高級柴山ゴールド松葉ガニと香住温泉・日本海冬美食名宿</p>
+              <p className="font-bold text-stone-800">最高級柴山ゴールド松葉ガニと香住温泉・日本海冬美食名宿</p>
             </Link>
           
       <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">

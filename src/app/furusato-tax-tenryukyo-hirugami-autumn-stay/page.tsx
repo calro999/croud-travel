@@ -461,19 +461,19 @@ export default function Page() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/nagano-station-solo-business-onsen-sauna-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「長野駅前出張・天然温泉サウナ」北陸新幹線・善光寺門前町・天然温泉善光の湯！信州の山並みを仰ぐ厳選3宿</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「長野駅前出張・天然温泉サウナ」北陸新幹線・善光寺門前町・天然温泉善光の湯！信州の山並みを仰ぐ厳選3宿</span>
             </a>
             <a href="/nagano-togakushi-zenkoji-monzen-obuse-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「長野・戸隠＆善光寺門前・小布施」戸隠神社五社・杉並木・善光寺お朝事＆小布施栗宿 厳選ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「長野・戸隠＆善光寺門前・小布施」戸隠神社五社・杉並木・善光寺お朝事＆小布施栗宿 厳選ガイド</span>
             </a>
             <a href="/organic-forest-infinity-panoramic-sauna-chubu/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「信州・白馬アルプス森林サウナ」北アルプス絶景パノラマ＆白樺水風呂の極上リゾート宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「信州・白馬アルプス森林サウナ」北アルプス絶景パノラマ＆白樺水風呂の極上リゾート宿5選</span>
             </a>
             <a href="/silver-week-glamping-wine-brewery-craftbeer-guide/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「ワイナリー・クラフトビール付きグランピング」勝沼・長野で楽しむ！美酒とペアリングBBQの秋旅</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「ワイナリー・クラフトビール付きグランピング」勝沼・長野で楽しむ！美酒とペアリングBBQの秋旅</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

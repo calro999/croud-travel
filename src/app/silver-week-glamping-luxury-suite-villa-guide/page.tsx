@@ -330,14 +330,14 @@ export default function SilverWeekGlampingLuxurySuiteVillaPage() {
                     </span>
                   </div>
 
-                  <h3 className="font-black text-slate-900 text-base leading-snug group-hover:text-indigo-700 transition line-clamp-2 font-journal-serif">{hotel.hotelName}</h3>
+                  <h3 className="font-black text-slate-900 text-base leading-snug group-hover:text-indigo-700 transition font-journal-serif">{hotel.hotelName}</h3>
 
-                  <p className="text-xs text-slate-600 line-clamp-3 leading-relaxed font-medium">
+                  <p className="text-xs text-slate-600 leading-relaxed font-medium">
                     {hotel.hotelSpecial || "プライベート感あふれる一棟貸しヴィラ。専用温泉やテラスで極上のリトリートタイムを満喫できる大人の隠れ家。"}
                   </p>
 
                   {hotel.access && (
-                    <p className="text-[11px] text-slate-500 line-clamp-1">
+                    <p className="text-[11px] text-slate-500">
                       🚗 {hotel.access}
                     </p>
                   )}
@@ -397,7 +397,7 @@ export default function SilverWeekGlampingLuxurySuiteVillaPage() {
             <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block mb-1.5">
               温泉＆記念日ガイド
             </span>
-            <div className="font-bold text-xs sm:text-sm text-white group-hover:text-amber-300 transition line-clamp-2">
+            <div className="font-bold text-xs sm:text-sm text-white group-hover:text-amber-300 transition">
               【箱根カップル記念日旅行 1泊2日】露天風呂付き客室と美食フレンチで祝う極上アニバーサリー
             </div>
           </Link>
@@ -409,7 +409,7 @@ export default function SilverWeekGlampingLuxurySuiteVillaPage() {
             <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block mb-1.5">
               最高峰リゾート
             </span>
-            <div className="font-bold text-xs sm:text-sm text-white group-hover:text-amber-300 transition line-clamp-2">
+            <div className="font-bold text-xs sm:text-sm text-white group-hover:text-amber-300 transition">
               【沖縄ラグジュアリー記念日リゾート】全室プール付きスイートヴィラ＆至高のインフィニティ絶景
             </div>
           </Link>

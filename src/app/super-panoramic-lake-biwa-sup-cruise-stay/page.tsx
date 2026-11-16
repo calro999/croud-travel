@@ -622,19 +622,19 @@ export default function FeatureDetailPage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/fukuoka-hakata-early-morning-ramen-breakfast-guide/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「博多・天神 早朝から食べられる長浜ラーメン＆朝食ビュッフェ」 朝6時台オープンの市場めし完全版</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「博多・天神 早朝から食べられる長浜ラーメン＆朝食ビュッフェ」 朝6時台オープンの市場めし完全版</span>
             </a>
             <a href="/furusato-tax-kotousanzan-hikone-autumn-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">湖東三山（百済寺・金剛輪寺・西明寺）名刹の紅葉巡り＆国宝彦根城・本場近江牛すき焼き会席｜ふるさと納税で泊まれる名宿ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">湖東三山（百済寺・金剛輪寺・西明寺）名刹の紅葉巡り＆国宝彦根城・本場近江牛すき焼き会席｜ふるさと納税で泊まれる名宿ガイド</span>
             </a>
             <a href="/furusato-tax-omihachiman-suigo-autumn-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">近江八幡の水郷めぐり手漕ぎ舟紅葉＆八幡堀の白壁土蔵！近江牛会席の宿×ふるさと納税厳選ガイド滋賀</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">近江八幡の水郷めぐり手漕ぎ舟紅葉＆八幡堀の白壁土蔵！近江牛会席の宿×ふるさと納税厳選ガイド滋賀</span>
             </a>
             <a href="/hikone-omihachiman-solo-business-castle-beef-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「彦根・近江八幡出張」国宝彦根城ビュー・名湯城見風呂・極上近江牛グルメ！湖東ビジネスを格上げする厳選3宿</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「彦根・近江八幡出張」国宝彦根城ビュー・名湯城見風呂・極上近江牛グルメ！湖東ビジネスを格上げする厳選3宿</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

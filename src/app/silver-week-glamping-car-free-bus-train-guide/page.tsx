@@ -268,16 +268,16 @@ export default function SilverWeekGlampingCarFreeBusTrainPage() {
                     <span>最寄駅: {hotel.nearestStation || hotel.address1}</span>
                   </div>
 
-                  <h3 className="font-black text-stone-900 text-base leading-snug group-hover:text-teal-700 transition line-clamp-2 font-journal-serif">{hotel.hotelName}</h3>
+                  <h3 className="font-black text-stone-900 text-base leading-snug group-hover:text-teal-700 transition font-journal-serif">{hotel.hotelName}</h3>
 
-                  <p className="text-xs text-stone-600 line-clamp-3 leading-relaxed font-medium">
+                  <p className="text-xs text-stone-600 leading-relaxed font-medium">
                     {hotel.hotelSpecial || "公共交通機関と専用送迎で快適アクセス。大自然に囲まれた充実設備のリゾートグランピング。"}
                   </p>
 
                   {hotel.access && (
                     <div className="p-2.5 rounded-xl bg-teal-50/70 border border-teal-100 text-[11px] text-teal-950 font-medium">
                       <span className="font-bold block text-teal-800 mb-0.5">🚌 アクセス・送迎情報</span>
-                      <p className="line-clamp-2 leading-relaxed">{hotel.access}</p>
+                      <p className="leading-relaxed">{hotel.access}</p>
                     </div>
                   )}
                 </div>
@@ -359,7 +359,7 @@ export default function SilverWeekGlampingCarFreeBusTrainPage() {
             <span className="text-[10px] font-bold text-teal-700 bg-teal-50 px-2 py-0.5 rounded-full inline-block mb-1.5">
               伊豆・下田 電車旅
             </span>
-            <div className="font-bold text-xs sm:text-sm text-stone-900 group-hover:text-teal-700 transition line-clamp-2">
+            <div className="font-bold text-xs sm:text-sm text-stone-900 group-hover:text-teal-700 transition">
               【伊豆下田・車なし観光モデルコース】踊り子号＆伊豆急行で行くペリーロード・白浜海岸・金目鯛グルメ
             </div>
           </Link>
@@ -371,7 +371,7 @@ export default function SilverWeekGlampingCarFreeBusTrainPage() {
             <span className="text-[10px] font-bold text-stone-600 bg-stone-100 px-2 py-0.5 rounded-full inline-block mb-1.5">
               信州・上高地 直行バス
             </span>
-            <div className="font-bold text-xs sm:text-sm text-stone-900 group-hover:text-teal-700 transition line-clamp-2">
+            <div className="font-bold text-xs sm:text-sm text-stone-900 group-hover:text-teal-700 transition">
               【上高地・松本 車なし観光モデルコース】特急あずさ＆シャトルバスで行く大正池・河童橋・松本城巡り
             </div>
           </Link>

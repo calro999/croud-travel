@@ -620,7 +620,7 @@ export default function ChibaKamogawaKominatoWinterPage() {
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-blue-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-blue-800 font-bold text-xs block mb-1">千葉・銚子犬吠埼</span>
-              <span className="text-stone-900 font-bold group-hover:text-blue-900 transition-colors line-clamp-2">
+              <span className="text-stone-900 font-bold group-hover:text-blue-900 transition-colors">
                 日本一早い初日の出と極上寒金目鯛・九十九里はまぐりを堪能する絶景名宿
               </span>
             </Link>
@@ -630,7 +630,7 @@ export default function ChibaKamogawaKominatoWinterPage() {
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-blue-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-blue-800 font-bold text-xs block mb-1">神奈川・三浦城ヶ島</span>
-              <span className="text-stone-900 font-bold group-hover:text-blue-900 transition-colors line-clamp-2">
+              <span className="text-stone-900 font-bold group-hover:text-blue-900 transition-colors">
                 城ヶ島30万本の水仙まつりと富士山絶景・名物三崎まぐろ尽くしと三浦名宿
               </span>
             </Link>
@@ -640,7 +640,7 @@ export default function ChibaKamogawaKominatoWinterPage() {
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-blue-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-blue-800 font-bold text-xs block mb-1">静岡・伊豆稲取</span>
-              <span className="text-stone-900 font-bold group-hover:text-blue-900 transition-colors line-clamp-2">
+              <span className="text-stone-900 font-bold group-hover:text-blue-900 transition-colors">
                 本場稲取金目鯛の姿煮と相模灘オーシャンビュー・雛のつるし飾り名宿
               </span>
             </Link>
@@ -650,7 +650,7 @@ export default function ChibaKamogawaKominatoWinterPage() {
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-blue-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-blue-800 font-bold text-xs block mb-1">静岡・下田温泉</span>
-              <span className="text-stone-900 font-bold group-hover:text-blue-900 transition-colors line-clamp-2">
+              <span className="text-stone-900 font-bold group-hover:text-blue-900 transition-colors">
                 爪木崎300万本の水仙まつりと下田港金目鯛・白砂ビーチリゾート名宿
               </span>
             </Link>
@@ -660,7 +660,7 @@ export default function ChibaKamogawaKominatoWinterPage() {
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-blue-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-blue-800 font-bold text-xs block mb-1">茨城・袋田の滝</span>
-              <span className="text-stone-900 font-bold group-hover:text-blue-900 transition-colors line-clamp-2">
+              <span className="text-stone-900 font-bold group-hover:text-blue-900 transition-colors">
                 日本三名瀑袋田の滝の完全凍結氷瀑と奥久慈軍鶏鍋・常陸牛を味わう名宿
               </span>
             </Link>

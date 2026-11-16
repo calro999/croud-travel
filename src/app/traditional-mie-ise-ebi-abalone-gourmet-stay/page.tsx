@@ -389,19 +389,19 @@ export default function FeaturePage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/winter-chiba-minamiboso-onsen-ise-ebi-oceanview-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12月千葉・南房総温泉郷】 温暖避寒旅と旬の伊勢海老・房州地魚＆太平洋絶景露天の宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">【11・12月千葉・南房総温泉郷】 温暖避寒旅と旬の伊勢海老・房州地魚＆太平洋絶景露天の宿5選</span>
             </a>
             <a href="/winter-ise-ebi-lobster-luxury-gourmet-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「ぷりぷり甘い極上伊勢海老（名宿5選）」ぷりぷり甘い極上伊勢海老！お造り・鬼殻焼き・伊勢海老出汁雑炊の名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「ぷりぷり甘い極上伊勢海老（名宿5選）」ぷりぷり甘い極上伊勢海老！お造り・鬼殻焼き・伊勢海老出汁雑炊の名宿5選</span>
             </a>
             <a href="/winter-kumamoto-amakusa-shimoda-onsen-sunset-seafood-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12月天草・下田温泉の冬名湯と夕陽海鮮】 東シナ海サンセット露天と白鷺古湯・冬の伊勢海老＆天然車海老会席の宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">【11・12月天草・下田温泉の冬名湯と夕陽海鮮】 東シナ海サンセット露天と白鷺古湯・冬の伊勢海老＆天然車海老会席の宿5選</span>
             </a>
             <a href="/winter-mie-futamiura-meotoiwa-hatsuhinode-vison-matsusaka-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「伊勢湾の霊峰・二見浦夫婦岩の初日の出と日本最大級VISON」2026-2027年冬の三重・伊勢二見＆多気！薬草温泉と極上松阪牛名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「伊勢湾の霊峰・二見浦夫婦岩の初日の出と日本最大級VISON」2026-2027年冬の三重・伊勢二見＆多気！薬草温泉と極上松阪牛名宿5選</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

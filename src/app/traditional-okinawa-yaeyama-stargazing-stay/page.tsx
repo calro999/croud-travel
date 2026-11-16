@@ -389,19 +389,19 @@ export default function FeaturePage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/traditional-okinawa-ishigaki-beef-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「南の島の至高の美食（極上石垣牛ステーキ＆川平湾エメラルドビーチリゾート5選）」南の島の至高の美食！極上石垣牛ステーキ＆川平湾エメラルドビーチリゾート5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「南の島の至高の美食（極上石垣牛ステーキ＆川平湾エメラルドビーチリゾート5選）」南の島の至高の美食！極上石垣牛ステーキ＆川平湾エメラルドビーチリゾート5選</span>
             </a>
             <a href="/winter-kagawa-zentsuji-marugame-castle-udon-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「11・12・1月香川」善通寺＆丸亀！弘法大師生誕地・総本山善通寺の雪の初詣と丸亀城石垣ライトアップ・冬の讃岐しっぽくうどん＆骨付鳥名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「11・12・1月香川」善通寺＆丸亀！弘法大師生誕地・総本山善通寺の雪の初詣と丸亀城石垣ライトアップ・冬の讃岐しっぽくうどん＆骨付鳥名宿5選</span>
             </a>
             <a href="/winter-okinawa-kumejima-hatenohama-kurumaebi-ocean-resort-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「冬の静寂はての浜と日本一の車海老三昧」2026-2027年冬の久米島！海洋深層水スパと絶景リゾートホテル5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「冬の静寂はての浜と日本一の車海老三昧」2026-2027年冬の久米島！海洋深層水スパと絶景リゾートホテル5選</span>
             </a>
             <a href="/winter-okinawa-naha-naminoe-shrine-hatsumode-agu-resort-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">新春波上宮初詣＆首里城復興見学！ 国際通り・あぐー豚しゃぶしゃぶとあったか避冬ホテル5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">新春波上宮初詣＆首里城復興見学！ 国際通り・あぐー豚しゃぶしゃぶとあったか避冬ホテル5選</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

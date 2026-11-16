@@ -560,8 +560,8 @@ export default function WinterFukushimaAizuOnsenPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-rose-300 bg-rose-400/20 px-2 py-0.5 rounded-full inline-block">山形・かみのやま温泉</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-rose-200 transition line-clamp-2">かみのやま温泉の干し柿すだれと山形牛ステーキ</h4>
-              <p className="text-[11px] text-stone-200 line-clamp-2">
+              <h4 className="text-xs font-bold text-white group-hover:text-rose-200 transition">かみのやま温泉の干し柿すだれと山形牛ステーキ</h4>
+              <p className="text-[11px] text-stone-200">
                 初冬の蔵王連峰を望む城下町名湯と軒先に揺れる紅柿の風物詩。
               </p>
             </Link>
@@ -571,8 +571,8 @@ export default function WinterFukushimaAizuOnsenPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-rose-300 bg-rose-400/20 px-2 py-0.5 rounded-full inline-block">宮城・秋保温泉</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-rose-200 transition line-clamp-2">秋保温泉の名取川渓谷露天と仙台牛せり鍋</h4>
-              <p className="text-[11px] text-stone-200 line-clamp-2">
+              <h4 className="text-xs font-bold text-white group-hover:text-rose-200 transition">秋保温泉の名取川渓谷露天と仙台牛せり鍋</h4>
+              <p className="text-[11px] text-stone-200">
                 伊達政宗公ゆかりの奥州名湯と冬名物せり鍋・極上仙台牛の贅沢。
               </p>
             </Link>
@@ -582,8 +582,8 @@ export default function WinterFukushimaAizuOnsenPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-rose-300 bg-rose-400/20 px-2 py-0.5 rounded-full inline-block">栃木・塩原温泉郷</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-rose-200 transition line-clamp-2">塩原十一湯の箒川渓谷雪見露天と高原大根・とちぎ和牛</h4>
-              <p className="text-[11px] text-stone-200 line-clamp-2">
+              <h4 className="text-xs font-bold text-white group-hover:text-rose-200 transition">塩原十一湯の箒川渓谷雪見露天と高原大根・とちぎ和牛</h4>
+              <p className="text-[11px] text-stone-200">
                 多彩な泉質を誇る塩原渓谷の雪見露天と甘い高原大根鍋を堪能。
               </p>
             </Link>

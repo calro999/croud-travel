@@ -382,7 +382,7 @@ export default function WinterNaraYamatojiPage() {
                     <div className="absolute bottom-4 left-4 right-4 bg-stone-950/75 text-white p-3 rounded-xl backdrop-blur-xs text-xs space-y-1">
                       <div className="flex items-center gap-1 text-amber-300 font-semibold">
                         <MapPin className="w-3.5 h-3.5 shrink-0" />
-                        <span className="line-clamp-1">{hotel.access}</span>
+                        <span className="">{hotel.access}</span>
                       </div>
                     </div>
                   </div>
@@ -586,8 +586,8 @@ export default function WinterNaraYamatojiPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">京都・嵐山温泉</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">嵐山温泉の渡月橋冬景色と名物湯どうふ会席宿</h4>
-              <p className="text-[11px] text-stone-200 line-clamp-2">
+              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition">嵐山温泉の渡月橋冬景色と名物湯どうふ会席宿</h4>
+              <p className="text-[11px] text-stone-200">
                 初冬の嵐山と嵯峨野竹林・熱々の嵯峨湯豆腐を満喫。
               </p>
             </Link>
@@ -597,8 +597,8 @@ export default function WinterNaraYamatojiPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">兵庫・有馬温泉</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">有馬温泉の金泉銀泉と極上神戸牛ステーキ宿</h4>
-              <p className="text-[11px] text-stone-200 line-clamp-2">
+              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition">有馬温泉の金泉銀泉と極上神戸牛ステーキ宿</h4>
+              <p className="text-[11px] text-stone-200">
                 日本三古湯の赤褐色金泉と最高峰神戸牛会席を堪能。
               </p>
             </Link>
@@ -608,8 +608,8 @@ export default function WinterNaraYamatojiPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">滋賀・長浜太閤温泉</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">長浜温泉の琵琶湖冬景色と天然真鴨鍋・近江牛会席</h4>
-              <p className="text-[11px] text-stone-200 line-clamp-2">
+              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition">長浜温泉の琵琶湖冬景色と天然真鴨鍋・近江牛会席</h4>
+              <p className="text-[11px] text-stone-200">
                 冬の琵琶湖の恵み天然鴨鍋と近江牛の極上会席宿。
               </p>
             </Link>

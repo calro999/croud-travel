@@ -368,19 +368,19 @@ export default function ArticlePage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/japan-sacred-pilgrimage-koyasan-shukubo-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「世界遺産・霊場巡り＆宿坊体験宿」高野山宿坊・熊野古道・比叡山延暦寺 厳選ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「世界遺産・霊場巡り＆宿坊体験宿」高野山宿坊・熊野古道・比叡山延暦寺 厳選ガイド</span>
             </a>
             <a href="/nanki-shirahama-solo-retreat-ocean-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「南紀白浜ひとり旅・海望おこもり」太平洋オーシャンビュー・古都白浜温泉・インフィニティ足湯！南国の絶景に癒やされる厳選3宿</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「南紀白浜ひとり旅・海望おこもり」太平洋オーシャンビュー・古都白浜温泉・インフィニティ足湯！南国の絶景に癒やされる厳選3宿</span>
             </a>
             <a href="/spring-wakayama-nanki-ume-spa-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「南高梅スイーツ＆梅酒BAR」紀州特産南高梅のフルコースと白浜名湯！和歌山・南紀白浜の癒やし宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「南高梅スイーツ＆梅酒BAR」紀州特産南高梅のフルコースと白浜名湯！和歌山・南紀白浜の癒やし宿5選</span>
             </a>
             <a href="/wakayama-kudoyama-sanada-koyasan-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「和歌山・高野山山麓＆九度山」真田幸村蟄居の地・善名称院＆世界遺産慈尊院・富有柿宿 厳選ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「和歌山・高野山山麓＆九度山」真田幸村蟄居の地・善名称院＆世界遺産慈尊院・富有柿宿 厳選ガイド</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

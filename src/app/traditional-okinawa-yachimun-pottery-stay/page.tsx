@@ -389,19 +389,19 @@ export default function FeaturePage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/furusato-tax-okinawa-onna-beach-resort-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">沖縄・恩納村をふるさと納税でお得に旅する！西海岸エメラルドビーチ＆最高峰ラグジュアリー！プールヴィラ特集｜ハレクラニ・ハイアット瀬良垣・ルネッサンス</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">沖縄・恩納村をふるさと納税でお得に旅する！西海岸エメラルドビーチ＆最高峰ラグジュアリー！プールヴィラ特集｜ハレクラニ・ハイアット瀬良垣・ルネッサンス</span>
             </a>
             <a href="/furusato-tax-starry-sky-astronomy-night-view-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">満天の星空・天体観測＆星空露天風呂リトリート極上宿×ふるさと納税厳選ガイド阿智村・野辺山高原・石垣島</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">満天の星空・天体観測＆星空露天風呂リトリート極上宿×ふるさと納税厳選ガイド阿智村・野辺山高原・石垣島</span>
             </a>
             <a href="/kagawa-marugame-sakaide-seto-bridge-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「香川・丸亀＆坂出・瀬戸大橋」石垣の名城丸亀城・元祖骨付鳥＆瀬戸大橋パノラマ宿 厳選ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「香川・丸亀＆坂出・瀬戸大橋」石垣の名城丸亀城・元祖骨付鳥＆瀬戸大橋パノラマ宿 厳選ガイド</span>
             </a>
             <a href="/okinawa-ishigaki-yaeyama-kabira-bay-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「沖縄・石垣島＆八重山諸島・川平湾」ミシュラン三ツ星川平ブルー・離島巡り＆石垣牛宿 厳選ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「沖縄・石垣島＆八重山諸島・川平湾」ミシュラン三ツ星川平ブルー・離島巡り＆石垣牛宿 厳選ガイド</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

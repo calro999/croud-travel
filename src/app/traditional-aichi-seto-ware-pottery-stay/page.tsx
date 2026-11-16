@@ -389,19 +389,19 @@ export default function FeaturePage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/nagoya-kanazawa-bus-vs-train-guide/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「名古屋から金沢 安く行く方法」特急しらさぎ vs 直行高速バス徹底比較！乗り換えなし1泊2日モデルコース</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「名古屋から金沢 安く行く方法」特急しらさぎ vs 直行高速バス徹底比較！乗り換えなし1泊2日モデルコース</span>
             </a>
             <a href="/silver-week-glamping-tokai-shizuoka-aichi-guide/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「東海シルバーウィーク グランピング」 静岡・伊豆・愛知おすすめ宿厳選 海鮮浜焼きBBQ＆秋の味覚体験ステイ</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「東海シルバーウィーク グランピング」 静岡・伊豆・愛知おすすめ宿厳選 海鮮浜焼きBBQ＆秋の味覚体験ステイ</span>
             </a>
             <a href="/winter-aichi-gamagori-onsen-mikawawan-mehikari-akazaebi-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12月愛知・三河湾蒲郡温泉郷】竹島夕日パノラマと冬の深海魚 名物メヒカリ＆幻のアカザエビ・極上三河牛と冬イルミを愉しむ海辺名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">【11・12月愛知・三河湾蒲郡温泉郷】竹島夕日パノラマと冬の深海魚 名物メヒカリ＆幻のアカザエビ・極上三河牛と冬イルミを愉しむ海辺名宿5選</span>
             </a>
             <a href="/winter-aichi-minamichita-onsen-torafugu-chita-beef-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12月南知多温泉郷】 伊勢湾パノラマ夕日露天と本場とらふぐフルコース・知多牛の海辺宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">【11・12月南知多温泉郷】 伊勢湾パノラマ夕日露天と本場とらふぐフルコース・知多牛の海辺宿5選</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

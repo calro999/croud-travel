@@ -467,19 +467,19 @@ export default function FeatureArticlePage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/winter-shimane-adachi-museum-snow-garden-saginoyu-wagyu-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">白銀の山水画を額縁に望む日本庭園の最高峰 足立美術館雪景色とさぎの湯温泉・しまね和牛と松葉ガニの名宿</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">白銀の山水画を額縁に望む日本庭園の最高峰 足立美術館雪景色とさぎの湯温泉・しまね和牛と松葉ガニの名宿</span>
             </a>
             <a href="/winter-shimane-matsue-shinjiko-onsen-sunset-matsubagani-shijimi-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12月島根・松江しんじ湖温泉】宍道湖夕日絶景と冬の味覚 解禁松葉ガニ＆寒シジミ鍋・しまね和牛会席を愉しむ湖畔レイクビュー名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">【11・12月島根・松江しんじ湖温泉】宍道湖夕日絶景と冬の味覚 解禁松葉ガニ＆寒シジミ鍋・しまね和牛会席を愉しむ湖畔レイクビュー名宿5選</span>
             </a>
             <a href="/winter-shimane-tsuwano-taikodani-inari-hatsumode-uzumemeshi-iwamigyu-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「島根・津和野＆太皷谷稲成神社」 日本五大稲荷「太皷谷稲成神社」千本鳥居の新春初詣と雪の殿町通り！ 熱々伝統「うずめ飯」＆幻の石見和牛を味わう厳選名宿</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「島根・津和野＆太皷谷稲成神社」 日本五大稲荷「太皷谷稲成神社」千本鳥居の新春初詣と雪の殿町通り！ 熱々伝統「うずめ飯」＆幻の石見和牛を味わう厳選名宿</span>
             </a>
             <a href="/autumn-budget-shimane-matsue-shinjiko-soba-hotels-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「松江・宍道湖」秋の味覚宍道湖七珍＆国宝松江城！3,000円台〜泊まれる格安・高コスパ宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「松江・宍道湖」秋の味覚宍道湖七珍＆国宝松江城！3,000円台〜泊まれる格安・高コスパ宿5選</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

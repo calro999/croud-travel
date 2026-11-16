@@ -469,16 +469,16 @@ export default function KamikochiMatsumotoCarFreePage() {
                         )}
                       </div>
 
-                      <h3 className="text-xs md:text-sm font-black font-journal-serif text-stone-900 line-clamp-2">{hotel.hotelName}</h3>
+                      <h3 className="text-xs md:text-sm font-black font-journal-serif text-stone-900">{hotel.hotelName}</h3>
 
                       {hotel.hotelSpecial && (
-                        <p className="text-[11px] text-stone-600 line-clamp-2 leading-relaxed font-medium">
+                        <p className="text-[11px] text-stone-600 leading-relaxed font-medium">
                           {hotel.hotelSpecial}
                         </p>
                       )}
 
                       {hotel.access && (
-                        <p className="text-[10px] text-stone-500 line-clamp-1">
+                        <p className="text-[10px] text-stone-500">
                           📍 {hotel.access}
                         </p>
                       )}

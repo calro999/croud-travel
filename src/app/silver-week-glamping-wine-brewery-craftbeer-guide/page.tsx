@@ -303,19 +303,19 @@ export default function SilverWeekGlampingWineBreweryCraftbeerPage() {
                     📍 {hotel.address1} {hotel.address2}
                   </div>
 
-                  <h3 className="font-black text-stone-900 text-base leading-snug group-hover:text-amber-700 transition line-clamp-2 font-journal-serif">{hotel.hotelName}</h3>
+                  <h3 className="font-black text-stone-900 text-base leading-snug group-hover:text-amber-700 transition font-journal-serif">{hotel.hotelName}</h3>
 
-                  <p className="text-xs text-stone-600 line-clamp-3 leading-relaxed font-medium">
+                  <p className="text-xs text-stone-600 leading-relaxed font-medium">
                     {hotel.hotelSpecial || "地元の恵みを味わうBBQや自然美、美酒に囲まれて心地よい酔いに浸る大人のグランピングステイ。"}
                   </p>
 
                   {hotel.nearestStation && (
-                    <p className="text-[11px] text-stone-500 line-clamp-1">
+                    <p className="text-[11px] text-stone-500">
                       🚉 最寄駅: {hotel.nearestStation}
                     </p>
                   )}
                   {hotel.access && (
-                    <p className="text-[11px] text-stone-500 line-clamp-1">
+                    <p className="text-[11px] text-stone-500">
                       🚗 {hotel.access}
                     </p>
                   )}
@@ -381,7 +381,7 @@ export default function SilverWeekGlampingWineBreweryCraftbeerPage() {
             <span className="text-[10px] font-bold text-amber-800 bg-amber-100 px-2 py-0.5 rounded-full inline-block mb-1.5">
               日帰り＆試飲ツアー
             </span>
-            <div className="font-bold text-xs sm:text-sm text-stone-900 group-hover:text-amber-700 transition line-clamp-2">
+            <div className="font-bold text-xs sm:text-sm text-stone-900 group-hover:text-amber-700 transition">
               【山梨ぶどう狩り＆ワイナリー周遊】車なしでも安心！新宿発の日帰りバスツアー完全攻略ガイド
             </div>
           </Link>
@@ -393,7 +393,7 @@ export default function SilverWeekGlampingWineBreweryCraftbeerPage() {
             <span className="text-[10px] font-bold text-amber-800 bg-amber-100 px-2 py-0.5 rounded-full inline-block mb-1.5">
               直行高速バス
             </span>
-            <div className="font-bold text-xs sm:text-sm text-stone-900 group-hover:text-amber-700 transition line-clamp-2">
+            <div className="font-bold text-xs sm:text-sm text-stone-900 group-hover:text-amber-700 transition">
               【東京・新宿〜富士河口湖】高速バス vs 電車 徹底比較！渋滞回避テクニックと予約のコツ
             </div>
           </Link>

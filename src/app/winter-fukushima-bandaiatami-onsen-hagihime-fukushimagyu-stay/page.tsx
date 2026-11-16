@@ -516,8 +516,8 @@ export default function WinterFukushimaBandaiatamiPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-rose-300 bg-rose-400/20 px-2 py-0.5 rounded-full inline-block">福島・高湯温泉＆土湯</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-rose-200 transition line-clamp-2">吾妻連峰の雪見露天と白濁完全掛け流し薬湯</h4>
-              <p className="text-[11px] text-stone-200 line-clamp-2">
+              <h4 className="text-xs font-bold text-white group-hover:text-rose-200 transition">吾妻連峰の雪見露天と白濁完全掛け流し薬湯</h4>
+              <p className="text-[11px] text-stone-200">
                 奥羽三高湯の濃厚な青白い硫黄泉とこけしの里、極上福島牛と地酒名宿。
               </p>
             </Link>
@@ -527,8 +527,8 @@ export default function WinterFukushimaBandaiatamiPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-rose-300 bg-rose-400/20 px-2 py-0.5 rounded-full inline-block">福島・裏磐梯温泉</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-rose-200 transition line-clamp-2">裏磐梯・五色沼の白銀絶景と高原雪見リゾート</h4>
-              <p className="text-[11px] text-stone-200 line-clamp-2">
+              <h4 className="text-xs font-bold text-white group-hover:text-rose-200 transition">裏磐梯・五色沼の白銀絶景と高原雪見リゾート</h4>
+              <p className="text-[11px] text-stone-200">
                 磐梯山の雄大な初冬雪景色とナトリウム塩化物泉の温もり、福島牛ディナー。
               </p>
             </Link>
@@ -538,8 +538,8 @@ export default function WinterFukushimaBandaiatamiPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-rose-300 bg-rose-400/20 px-2 py-0.5 rounded-full inline-block">福島・会津東山温泉</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-rose-200 transition line-clamp-2">会津東山＆芦ノ牧温泉の渓谷雪見露天と会津牛</h4>
-              <p className="text-[11px] text-stone-200 line-clamp-2">
+              <h4 className="text-xs font-bold text-white group-hover:text-rose-200 transition">会津東山＆芦ノ牧温泉の渓谷雪見露天と会津牛</h4>
+              <p className="text-[11px] text-stone-200">
                 武家屋敷情緒と渓谷雪景色、極上馬刺しや郷土こづゆを巡る名宿。
               </p>
             </Link>

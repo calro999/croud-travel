@@ -683,7 +683,7 @@ export default function ShibuWinterPage() {
               <div className="font-bold text-stone-900 group-hover:text-red-700 mb-1">
                 地獄谷温泉とスノーモンキー雪景色特集
               </div>
-              <p className="text-xs text-stone-500 line-clamp-2">
+              <p className="text-xs text-stone-500">
                 温泉に浸かる野生の猿たちと湯田中渋温泉郷の名宿を巡る冬のプレミアムガイド。
               </p>
             </Link>
@@ -695,7 +695,7 @@ export default function ShibuWinterPage() {
               <div className="font-bold text-stone-900 group-hover:text-red-700 mb-1">
                 野沢温泉の外湯巡りとパウダースノー特集
               </div>
-              <p className="text-xs text-stone-500 line-clamp-2">
+              <p className="text-xs text-stone-500">
                 13箇所の外湯巡りと麻釜の湯けむり、信州屈指の豪雪スキーリゾートを満喫。
               </p>
             </Link>
@@ -707,7 +707,7 @@ export default function ShibuWinterPage() {
               <div className="font-bold text-stone-900 group-hover:text-red-700 mb-1">
                 草津温泉の雪見露天と湯畑ライトアップ
               </div>
-              <p className="text-xs text-stone-500 line-clamp-2">
+              <p className="text-xs text-stone-500">
                 志賀草津高原ルートの先、天下の名湯・草津温泉の雪景色と名物湯もみ体験。
               </p>
             </Link>
@@ -719,7 +719,7 @@ export default function ShibuWinterPage() {
               <div className="font-bold text-stone-900 group-hover:text-red-700 mb-1">
                 山梨・石和温泉のワイン風呂と甲州牛会席
               </div>
-              <p className="text-xs text-stone-500 line-clamp-2">
+              <p className="text-xs text-stone-500">
                 甲府盆地の名湯・石和温泉。冬の搾りたて山梨ヌーボーと甲州牛の贅沢会席。
               </p>
             </Link>
@@ -731,7 +731,7 @@ export default function ShibuWinterPage() {
               <div className="font-bold text-stone-900 group-hover:text-red-700 mb-1">
                 越後湯沢温泉の雪国情緒と地酒巡り特集
               </div>
-              <p className="text-xs text-stone-500 line-clamp-2">
+              <p className="text-xs text-stone-500">
                 川端康成ゆかりの雪国名湯。南魚沼産コシヒカリ新米と越後もち豚しゃぶしゃぶ。
               </p>
             </Link>

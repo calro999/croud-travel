@@ -478,19 +478,19 @@ export default function FurusatoSpillOverKaisendonStayPage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/winter-akita-yokote-kamakura-oyasukyo-shigakko-inaniwa-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">横手＆湯沢・小安峡！ 約450年の伝統「横手のかまくら」雪まつり＆小安峡大噴湯の巨大氷柱「しがっこ」・本場稲庭うどん＆雪見露天名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">横手＆湯沢・小安峡！ 約450年の伝統「横手のかまくら」雪まつり＆小安峡大噴湯の巨大氷柱「しがっこ」・本場稲庭うどん＆雪見露天名宿5選</span>
             </a>
             <a href="/winter-chiba-choshi-inubosaki-sunrise-kinmedai-hamaguri-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「11・12・1月千葉」本州一早い初日の出「犬吠埼」と冬の極上「銚子つりきんめ」・九十九里焼きはまぐり鍋＆太平洋パノラマ犬吠埼温泉宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「11・12・1月千葉」本州一早い初日の出「犬吠埼」と冬の極上「銚子つりきんめ」・九十九里焼きはまぐり鍋＆太平洋パノラマ犬吠埼温泉宿5選</span>
             </a>
             <a href="/winter-chiba-minamiboso-onsen-ise-ebi-oceanview-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12月千葉・南房総温泉郷】 温暖避寒旅と旬の伊勢海老・房州地魚＆太平洋絶景露天の宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">【11・12月千葉・南房総温泉郷】 温暖避寒旅と旬の伊勢海老・房州地魚＆太平洋絶景露天の宿5選</span>
             </a>
             <a href="/winter-ehime-imabari-shimanami-oyamazumi-shrine-hatsumode-taimeshi-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「愛媛・今治＆しまなみ海道」 日本総鎮守「大山祇神社」樹齢2600年神木新春初詣！ 冬晴れしまなみ海道パノラマ・甘み極まる今治鯛めし＆鈍川温泉名宿</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「愛媛・今治＆しまなみ海道」 日本総鎮守「大山祇神社」樹齢2600年神木新春初詣！ 冬晴れしまなみ海道パノラマ・甘み極まる今治鯛めし＆鈍川温泉名宿</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

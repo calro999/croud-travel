@@ -330,14 +330,14 @@ export default function SilverWeekGlampingTohokuPage() {
                     </span>
                   </div>
 
-                  <h3 className="font-black text-slate-900 text-base leading-snug group-hover:text-rose-700 transition line-clamp-2 font-journal-serif">{hotel.hotelName}</h3>
+                  <h3 className="font-black text-slate-900 text-base leading-snug group-hover:text-rose-700 transition font-journal-serif">{hotel.hotelName}</h3>
 
-                  <p className="text-xs text-slate-600 line-clamp-3 leading-relaxed font-medium">
+                  <p className="text-xs text-slate-600 leading-relaxed font-medium">
                     {hotel.hotelSpecial || "東北の豊かな自然に包まれた特別なアウトドアステイ。地元の滋味あふれる食材と天然温泉で心ほどける休日をお過ごしください。"}
                   </p>
 
                   {hotel.access && (
-                    <p className="text-[11px] text-slate-500 line-clamp-1">
+                    <p className="text-[11px] text-slate-500">
                       🚗 {hotel.access}
                     </p>
                   )}
@@ -397,7 +397,7 @@ export default function SilverWeekGlampingTohokuPage() {
             <span className="text-[10px] font-bold text-rose-300 bg-rose-400/20 px-2 py-0.5 rounded-full inline-block mb-1.5">
               東京⇄仙台 交通比較
             </span>
-            <div className="font-bold text-xs sm:text-sm text-white group-hover:text-rose-200 transition line-clamp-2">
+            <div className="font-bold text-xs sm:text-sm text-white group-hover:text-rose-200 transition">
               【東京〜仙台 高速バス vs 新幹線】料金・所要時間・快適度を徹底比較！おすすめ移動ルート解説
             </div>
           </Link>
@@ -409,7 +409,7 @@ export default function SilverWeekGlampingTohokuPage() {
             <span className="text-[10px] font-bold text-rose-300 bg-rose-400/20 px-2 py-0.5 rounded-full inline-block mb-1.5">
               東北旅行 費用相場
             </span>
-            <div className="font-bold text-xs sm:text-sm text-white group-hover:text-rose-200 transition line-clamp-2">
+            <div className="font-bold text-xs sm:text-sm text-white group-hover:text-rose-200 transition">
               【東北旅行の費用と予算目安】2泊3日モデルコース別の宿泊費・レンタカー・グルメ相場まとめ
             </div>
           </Link>

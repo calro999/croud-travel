@@ -623,19 +623,19 @@ export default function FeatureDetailPage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/furusato-tax-miyajima-autumn-leaves-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">世界遺産・安芸の宮島と紅葉谷公園の錦秋もみじ！厳島神社＆宮島温泉宿×ふるさと納税厳選ガイド広島</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">世界遺産・安芸の宮島と紅葉谷公園の錦秋もみじ！厳島神社＆宮島温泉宿×ふるさと納税厳選ガイド広島</span>
             </a>
             <a href="/furusato-tax-miyajima-momijidani-autumn-leaves-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">宮島・紅葉谷公園の深紅のモミジ＆嚴島神社大鳥居！宮島温泉名旅館×ふるさと納税厳選ガイド広島</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">宮島・紅葉谷公園の深紅のモミジ＆嚴島神社大鳥居！宮島温泉名旅館×ふるさと納税厳選ガイド広島</span>
             </a>
             <a href="/furusato-tax-tokushima-naruto-uzushio-autumn-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">徳島・鳴門海峡の秋の大潮うずしお＆大毛島リゾート！鳴門鯛・阿波牛と絶景オーシャンビュー温泉｜ふるさと納税で泊まれる名宿ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">徳島・鳴門海峡の秋の大潮うずしお＆大毛島リゾート！鳴門鯛・阿波牛と絶景オーシャンビュー温泉｜ふるさと納税で泊まれる名宿ガイド</span>
             </a>
             <a href="/hiroshima-miyajima-itsukushima-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「広島・宮島＆嚴島神社」海に浮かぶ大鳥居・弥山＆牡蠣・穴子飯宿 厳選ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「広島・宮島＆嚴島神社」海に浮かぶ大鳥居・弥山＆牡蠣・穴子飯宿 厳選ガイド</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

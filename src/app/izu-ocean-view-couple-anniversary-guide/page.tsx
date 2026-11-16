@@ -401,7 +401,7 @@ export default function IzuOceanViewCoupleAnniversaryGuidePage() {
               <span>💰</span> 費用・交通費詳細
             </div>
             <h3 className="font-bold text-slate-900 text-sm md:text-base group-hover:text-cyan-700 transition">【熱海・伊豆旅行 費用】日帰り・1泊2日でいくら？東京から片道2,000円で行ける温泉リゾートの全費用</h3>
-            <p className="text-xs text-slate-500 mt-2 line-clamp-2">
+            <p className="text-xs text-slate-500 mt-2">
               JR普通列車・新幹線・踊り子号の料金比較から、ランチ海鮮丼や入場料を含めたリアル予算を徹底シミュレーション。
             </p>
           </Link>
@@ -414,7 +414,7 @@ export default function IzuOceanViewCoupleAnniversaryGuidePage() {
               <span>♨️</span> 日帰り温泉＆ランチ
             </div>
             <h3 className="font-bold text-slate-900 text-sm md:text-base group-hover:text-cyan-700 transition">【熱海 日帰り温泉＆海鮮ランチおすすめ】絶景露天風呂と獲れたて地魚を堪能する大人の週末リセット旅</h3>
-            <p className="text-xs text-slate-500 mt-2 line-clamp-2">
+            <p className="text-xs text-slate-500 mt-2">
               宿泊前後の寄り道にも最適！相模湾を望む立ち寄り露天風呂と金目鯛・アジのたたきが絶品のお食事処まとめ。
             </p>
           </Link>

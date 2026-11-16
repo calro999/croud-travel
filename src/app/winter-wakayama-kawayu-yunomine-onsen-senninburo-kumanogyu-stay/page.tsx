@@ -645,21 +645,21 @@ export default function WakayamaKawayuYunomineWinterPage() {
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-emerald-700 font-bold block text-[10px]">三重・鳥羽相差</span>
-              <p className="font-bold text-stone-800 line-clamp-2">伊勢志摩の冬の恵み・答志島トロサワラ＆極上松阪牛と美肌露天風呂</p>
+              <p className="font-bold text-stone-800">伊勢志摩の冬の恵み・答志島トロサワラ＆極上松阪牛と美肌露天風呂</p>
             </Link>
             <Link 
               href="/winter-shizuoka-minamiizu-shimogamo-onsen-iseebi-kinmedai-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-emerald-700 font-bold block text-[10px]">静岡・南伊豆</span>
-              <p className="font-bold text-stone-800 line-clamp-2">温暖な避寒リゾートと湯煙南国情緒・旬の伊勢海老＆地金目鯛姿煮名宿</p>
+              <p className="font-bold text-stone-800">温暖な避寒リゾートと湯煙南国情緒・旬の伊勢海老＆地金目鯛姿煮名宿</p>
             </Link>
             <Link 
               href="/winter-miyagi-togatta-onsen-zao-snow-sendaigyu-kamonabe-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-emerald-700 font-bold block text-[10px]">宮城・遠刈田温泉</span>
-              <p className="font-bold text-stone-800 line-clamp-2">初冠雪の蔵王連峰を望む開湯400年の名湯・仙台牛＆蔵王鴨せり鍋名宿</p>
+              <p className="font-bold text-stone-800">初冠雪の蔵王連峰を望む開湯400年の名湯・仙台牛＆蔵王鴨せり鍋名宿</p>
             </Link>
           
       <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">

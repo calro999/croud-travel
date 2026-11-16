@@ -154,8 +154,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     兵庫県豊岡市城崎町湯島573
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">城崎温泉　つちや旅館</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">城崎温泉　つちや旅館</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     2025温泉宿総選挙全国第3位　 但馬牛をはじめ、旬を極める料理旅館
                   </p>
                   
@@ -198,8 +198,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     兵庫県豊岡市城崎町湯島180
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">城崎温泉　料理旅館　よしはる</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">城崎温泉　料理旅館　よしはる</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     楽天トラベルアワード2012受賞★口コミ5つ星！城崎温泉駅徒歩３分。貸切風呂・男女デザイン浴衣もあり
                   </p>
                   
@@ -242,8 +242,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     兵庫県豊岡市城崎町湯島601
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">城崎温泉　春日屋旅館</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">城崎温泉　春日屋旅館</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     ★外湯めぐり立地最高★帰ればほっとする懐かしの和室宿で賑わいを楽しむ城崎満喫旅！
                   </p>
                   
@@ -299,8 +299,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     静岡県伊豆市湯ヶ島1594
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">天城湯ヶ島温泉　白壁　和とモダンが織りなす里山の古民家</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">天城湯ヶ島温泉　白壁　和とモダンが織りなす里山の古民家</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     源泉掛け流しの温泉旅館。湯浴みテラス付露天風呂付客室で贅沢なひと時を。
                   </p>
                   
@@ -343,8 +343,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     静岡県伊豆市湯ヶ島347
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">水のみち　風のみち　湯ヶ島　たつた</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">水のみち　風のみち　湯ヶ島　たつた</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     ＜田舎で過ごすあたたかな時間＞伊豆唯一の川床料理と100％源泉け流し温泉で心ほどけるひとときを。
                   </p>
                   
@@ -387,8 +387,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     静岡県伊豆市湯ヶ島1887-1
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">おちあいろう</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">おちあいろう</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     伊豆の雄大な山々に抱かれ狩野川の畔に佇む文化財の宿。明治7年からの歴史を継承しおもてなしいたします。
                   </p>
                   
@@ -444,8 +444,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     愛媛県松山市上市2-8-9
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">道後温泉　旅亭　うめ乃や</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">道後温泉　旅亭　うめ乃や</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     湯築の杜を望む静かな落ち着き。数寄屋造りの歴史感じる温泉宿で過ごす大人の贅沢。
                   </p>
                   
@@ -488,8 +488,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     愛媛県松山市道後湯之町1-33
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">道後温泉　ふなや</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">道後温泉　ふなや</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     ★文人ゆかりの宿・道後一の老舗★　日本庭園には、自然の川が流れ四季折々の風情がお楽しみいただけます。
                   </p>
                   
@@ -532,8 +532,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     愛媛県松山市住吉2-7-30
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">古民家　三津浜旅館</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">古民家　三津浜旅館</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     築106年の歴史と苔庭が息づく貸切宿。新しさと懐かしさが織りなす老舗旅館の風情漂う贅沢な再生体験を
                   </p>
                   

@@ -587,7 +587,7 @@ export default function IbarakiOaraiNakaminatoWinterPage() {
                 <span className="inline-block px-2 py-0.5 bg-orange-950/80 border border-orange-400/40 text-orange-300 text-[10px] font-bold rounded-md mb-2">
                   千葉・初日の出＆金目鯛
                 </span>
-                <h3 className="font-bold text-white text-sm group-hover:text-orange-300 transition-colors line-clamp-2">本州一早い初日の出「犬吠埼」と冬の極上銚子つりきんめ・九十九里地蛤鍋</h3>
+                <h3 className="font-bold text-white text-sm group-hover:text-orange-300 transition-colors">本州一早い初日の出「犬吠埼」と冬の極上銚子つりきんめ・九十九里地蛤鍋</h3>
               </div>
               <span className="text-xs text-orange-400 font-semibold mt-3 flex items-center gap-1 group-hover:translate-x-1 transition-transform">
                 特集を見る →
@@ -602,7 +602,7 @@ export default function IbarakiOaraiNakaminatoWinterPage() {
                 <span className="inline-block px-2 py-0.5 bg-orange-950/80 border border-orange-400/40 text-orange-300 text-[10px] font-bold rounded-md mb-2">
                   福島・いわき湯本温泉
                 </span>
-                <h3 className="font-bold text-white text-sm group-hover:text-orange-300 transition-colors line-clamp-2">常磐ものの冬あんこう鍋と日本三古泉いわき湯本・極上福島牛を味わう名宿</h3>
+                <h3 className="font-bold text-white text-sm group-hover:text-orange-300 transition-colors">常磐ものの冬あんこう鍋と日本三古泉いわき湯本・極上福島牛を味わう名宿</h3>
               </div>
               <span className="text-xs text-orange-400 font-semibold mt-3 flex items-center gap-1 group-hover:translate-x-1 transition-transform">
                 特集を見る →
@@ -617,7 +617,7 @@ export default function IbarakiOaraiNakaminatoWinterPage() {
                 <span className="inline-block px-2 py-0.5 bg-orange-950/80 border border-orange-400/40 text-orange-300 text-[10px] font-bold rounded-md mb-2">
                   岡山・日生牡蠣＆牛窓
                 </span>
-                <h3 className="font-bold text-white text-sm group-hover:text-orange-300 transition-colors line-clamp-2">瀬戸内冬の味覚「日生牡蠣」カキオコと牛窓オリーブ園夕陽＆絶景名宿</h3>
+                <h3 className="font-bold text-white text-sm group-hover:text-orange-300 transition-colors">瀬戸内冬の味覚「日生牡蠣」カキオコと牛窓オリーブ園夕陽＆絶景名宿</h3>
               </div>
               <span className="text-xs text-orange-400 font-semibold mt-3 flex items-center gap-1 group-hover:translate-x-1 transition-transform">
                 特集を見る →
@@ -632,7 +632,7 @@ export default function IbarakiOaraiNakaminatoWinterPage() {
                 <span className="inline-block px-2 py-0.5 bg-orange-950/80 border border-orange-400/40 text-orange-300 text-[10px] font-bold rounded-md mb-2">
                   宮城・松島温泉
                 </span>
-                <h3 className="font-bold text-white text-sm group-hover:text-orange-300 transition-colors line-clamp-2">日本三景松島の冬景色と旬の松島焼き牡蠣・とろける仙台牛を味わう名宿</h3>
+                <h3 className="font-bold text-white text-sm group-hover:text-orange-300 transition-colors">日本三景松島の冬景色と旬の松島焼き牡蠣・とろける仙台牛を味わう名宿</h3>
               </div>
               <span className="text-xs text-orange-400 font-semibold mt-3 flex items-center gap-1 group-hover:translate-x-1 transition-transform">
                 特集を見る →
@@ -647,7 +647,7 @@ export default function IbarakiOaraiNakaminatoWinterPage() {
                 <span className="inline-block px-2 py-0.5 bg-orange-950/80 border border-orange-400/40 text-orange-300 text-[10px] font-bold rounded-md mb-2">
                   静岡・西伊豆土肥温泉
                 </span>
-                <h3 className="font-bold text-white text-sm group-hover:text-orange-300 transition-colors line-clamp-2">駿河湾越しの夕日富士パノラマと寒金目鯛姿煮・早咲き土肥桜露天の名宿</h3>
+                <h3 className="font-bold text-white text-sm group-hover:text-orange-300 transition-colors">駿河湾越しの夕日富士パノラマと寒金目鯛姿煮・早咲き土肥桜露天の名宿</h3>
               </div>
               <span className="text-xs text-orange-400 font-semibold mt-3 flex items-center gap-1 group-hover:translate-x-1 transition-transform">
                 特集を見る →
@@ -662,7 +662,7 @@ export default function IbarakiOaraiNakaminatoWinterPage() {
                 <span className="inline-block px-2 py-0.5 bg-orange-950/80 border border-orange-400/40 text-orange-300 text-[10px] font-bold rounded-md mb-2">
                   福井・若狭ふぐ＆越前がに
                 </span>
-                <h3 className="font-bold text-white text-sm group-hover:text-orange-300 transition-colors line-clamp-2">日本最北限の若狭ふぐてっさ・てっちりと越前がに極上鍋＆三方五湖名宿</h3>
+                <h3 className="font-bold text-white text-sm group-hover:text-orange-300 transition-colors">日本最北限の若狭ふぐてっさ・てっちりと越前がに極上鍋＆三方五湖名宿</h3>
               </div>
               <span className="text-xs text-orange-400 font-semibold mt-3 flex items-center gap-1 group-hover:translate-x-1 transition-transform">
                 特集を見る →

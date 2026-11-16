@@ -153,8 +153,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     群馬県桐生市黒保根町宿廻285
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">梨木温泉　梨木館</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">梨木温泉　梨木館</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     赤城山の麓、周囲に民家も街灯もない豊かな自然のなかに建つ一軒宿。名物はきじ料理。露天風呂付客室が人気
                   </p>
                   
@@ -197,8 +197,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     栃木県日光市足尾町5488
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">足尾の宿　かじか</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">足尾の宿　かじか</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     百名山「皇海山」麓に佇む湯宿。絶景の露天風呂でとろとろの湯に癒され、何度も訪れたくなる心地よさ
                   </p>
                   
@@ -241,8 +241,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     群馬県桐生市永楽町4-14
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">ビジネスホテル西桐生</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">ビジネスホテル西桐生</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     駐車場無料×温泉あり 最寄り駅も徒歩圏内の好立地！
                   </p>
                   
@@ -298,8 +298,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     静岡県掛川市倉真5795
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">倉真温泉　落合荘</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">倉真温泉　落合荘</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     掛川市の隠れ宿。素朴な山里に湧き出るいで湯。心づくしのおもてなしと懐かしい風情でお楽しみ下さい。
                   </p>
                   
@@ -342,8 +342,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     静岡県掛川市倉真5325
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">倉真温泉　翆月</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">倉真温泉　翆月</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     名物・お茶しゃぶしゃぶが人気です！１日５部屋の丁寧なおもてなしです◎
                   </p>
                   
@@ -399,8 +399,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     福島県河沼郡柳津町柳津下平乙150-1
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">会津柳津温泉　瀞流の宿　かわち</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">会津柳津温泉　瀞流の宿　かわち</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     奥会津の玄関口、会津柳津温泉の宿。只見川の眺めや会津の郷土料理（桜刺し・鯉の甘煮・岩魚等）が楽しめる
                   </p>
                   
@@ -443,8 +443,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     福島県河沼郡柳津町柳津寺家町甲174
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">柳津温泉　旅館　内田屋</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">柳津温泉　旅館　内田屋</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     柳津町のシンボル福満虚空蔵尊の膝元にある温泉旅館「内田屋」
                   </p>
                   
@@ -487,8 +487,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     福島県南会津郡只見町只見上ノ原1817-3
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">駅前旅館　只見荘</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">駅前旅館　只見荘</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     絶景ローカル只見線 旅の宿。手打ちそばと郷土料理が自慢。ネット予約は手打ちそばサービス。JR只見駅前
                   </p>
                   

@@ -292,19 +292,19 @@ export default function SilverWeekGlampingRiversideValleyFishingPage() {
                     🌊 {hotel.address1} {hotel.address2}
                   </div>
 
-                  <h3 className="font-black text-stone-900 text-base leading-snug group-hover:text-teal-700 transition line-clamp-2 font-journal-serif">{hotel.hotelName}</h3>
+                  <h3 className="font-black text-stone-900 text-base leading-snug group-hover:text-teal-700 transition font-journal-serif">{hotel.hotelName}</h3>
 
-                  <p className="text-xs text-stone-600 line-clamp-3 leading-relaxed font-medium">
+                  <p className="text-xs text-stone-600 leading-relaxed font-medium">
                     {hotel.hotelSpecial || "清流のせせらぎと豊かな森に囲まれ、川遊びやBBQ、自然散策を満喫できるリバーサイドリゾート。"}
                   </p>
 
                   {hotel.nearestStation && (
-                    <p className="text-[11px] text-stone-500 line-clamp-1">
+                    <p className="text-[11px] text-stone-500">
                       🚉 最寄駅: {hotel.nearestStation}
                     </p>
                   )}
                   {hotel.access && (
-                    <p className="text-[11px] text-stone-500 line-clamp-1">
+                    <p className="text-[11px] text-stone-500">
                       🚗 {hotel.access}
                     </p>
                   )}
@@ -370,7 +370,7 @@ export default function SilverWeekGlampingRiversideValleyFishingPage() {
             <span className="text-[10px] font-bold text-teal-800 bg-teal-100 px-2 py-0.5 rounded-full inline-block mb-1.5">
               装備＆シューズ選び
             </span>
-            <div className="font-bold text-xs sm:text-sm text-stone-900 group-hover:text-teal-700 transition line-clamp-2">
+            <div className="font-bold text-xs sm:text-sm text-stone-900 group-hover:text-teal-700 transition">
               【上高地ハイキング服装＆持ち物完全チェックリスト】失敗しないシューズ選びと寒暖差対策
             </div>
           </Link>
@@ -382,7 +382,7 @@ export default function SilverWeekGlampingRiversideValleyFishingPage() {
             <span className="text-[10px] font-bold text-teal-800 bg-teal-100 px-2 py-0.5 rounded-full inline-block mb-1.5">
               交通徹底比較
             </span>
-            <div className="font-bold text-xs sm:text-sm text-stone-900 group-hover:text-teal-700 transition line-clamp-2">
+            <div className="font-bold text-xs sm:text-sm text-stone-900 group-hover:text-teal-700 transition">
               【東京〜松本・上高地】直行バス vs JR特急あずさ徹底比較！料金・所要時間・予約のポイント
             </div>
           </Link>

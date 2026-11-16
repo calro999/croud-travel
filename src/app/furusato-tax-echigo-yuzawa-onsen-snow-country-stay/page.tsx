@@ -542,19 +542,19 @@ export default function FurusatoTaxArticle() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/niigata-echigo-yuzawa-solo-retreat-snow-country-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「新潟・越後湯沢温泉ひとり旅・川端康成『雪国』の文学湯治おこもり」新幹線直結・谷川連峰一望の露天風呂・魚沼産コシヒカリ会席！白銀の温泉郷厳選3宿</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「新潟・越後湯沢温泉ひとり旅・川端康成『雪国』の文学湯治おこもり」新幹線直結・谷川連峰一望の露天風呂・魚沼産コシヒカリ会席！白銀の温泉郷厳選3宿</span>
             </a>
             <a href="/niigata-tsukioka-solo-retreat-emerald-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「新潟・月岡温泉ひとり旅・エメラルドグリーンの美肌湯おこもり」硫黄含有量全国屈指・自家源泉庭園露天・越後贅沢会席！名湯美肌ステイ厳選3宿</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「新潟・月岡温泉ひとり旅・エメラルドグリーンの美肌湯おこもり」硫黄含有量全国屈指・自家源泉庭園露天・越後贅沢会席！名湯美肌ステイ厳選3宿</span>
             </a>
             <a href="/traditional-sado-gold-mine-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「佐渡金山世界遺産登録記念（極上日本海海の幸と絶景夕日温泉宿5選）」佐渡金山世界遺産登録記念！極上日本海海の幸と絶景夕日温泉宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「佐渡金山世界遺産登録記念（極上日本海海の幸と絶景夕日温泉宿5選）」佐渡金山世界遺産登録記念！極上日本海海の幸と絶景夕日温泉宿5選</span>
             </a>
             <a href="/winter-niigata-matsunoyama-onsen-yakuto-snow-tsumari-pork-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">新潟・十日町・松之山温泉 日本三大薬湯の自噴化石海水と妻有ポーク名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">新潟・十日町・松之山温泉 日本三大薬湯の自噴化石海水と妻有ポーク名宿5選</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

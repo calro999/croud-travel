@@ -396,7 +396,7 @@ export default function OkunikkoWinterPage() {
                       <Star className="w-3.5 h-3.5 fill-teal-400 text-teal-400" />
                       評価 {hotel.rating} // 5.0
                     </p>
-                    <p className="text-[11px] text-stone-300 line-clamp-1">{hotel.access}</p>
+                    <p className="text-[11px] text-stone-300">{hotel.access}</p>
                   </div>
                 </div>
 
@@ -648,7 +648,7 @@ export default function OkunikkoWinterPage() {
             >
               <span className="text-[11px] font-bold text-teal-800 bg-teal-100/80 px-2 py-0.5 rounded">標高1800m雪見にごり湯</span>
               <h3 className="font-bold text-stone-900 text-sm group-hover:text-teal-900 transition-colors">万座温泉の日本一濃厚硫黄泉と雪見星空宿</h3>
-              <p className="text-xs text-stone-500 line-clamp-2">
+              <p className="text-xs text-stone-500">
                 群馬・標高1800mの白銀世界！乳白色のにごり湯露天風呂と満天の星空。
               </p>
             </Link>
@@ -659,7 +659,7 @@ export default function OkunikkoWinterPage() {
             >
               <span className="text-[11px] font-bold text-amber-800 bg-amber-100/80 px-2 py-0.5 rounded">名湯雪見特集</span>
               <h3 className="font-bold text-stone-900 text-sm group-hover:text-amber-900 transition-colors">草津温泉の湯畑ライトアップと雪見露天風呂</h3>
-              <p className="text-xs text-stone-500 line-clamp-2">
+              <p className="text-xs text-stone-500">
                 日本三名泉・草津温泉の圧倒的な湯量と冬の幻想的な湯けむり散策。
               </p>
             </Link>
@@ -670,7 +670,7 @@ export default function OkunikkoWinterPage() {
             >
               <span className="text-[11px] font-bold text-cyan-800 bg-cyan-100/80 px-2 py-0.5 rounded">冬の氷の絶景</span>
               <h3 className="font-bold text-stone-900 text-sm group-hover:text-cyan-900 transition-colors">秩父三十槌の氷柱ライトアップと秩父温泉宿</h3>
-              <p className="text-xs text-stone-500 line-clamp-2">
+              <p className="text-xs text-stone-500">
                 大自然が生み出す巨大な氷のカーテンと秩父の温かい郷土鍋料理。
               </p>
             </Link>

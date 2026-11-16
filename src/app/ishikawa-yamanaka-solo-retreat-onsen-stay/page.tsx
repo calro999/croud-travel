@@ -369,19 +369,19 @@ export default function ArticlePage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/traditional-kutani-ware-ceramic-art-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「五彩の美に酔いしれる。九谷焼ギャラリー＆絵付け体験ができる加賀温泉郷の名旅館5選」五彩の美に酔いしれる。九谷焼ギャラリー＆絵付け体験ができる加賀温泉郷の名旅館5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「五彩の美に酔いしれる。九谷焼ギャラリー＆絵付け体験ができる加賀温泉郷の名旅館5選」五彩の美に酔いしれる。九谷焼ギャラリー＆絵付け体験ができる加賀温泉郷の名旅館5選</span>
             </a>
             <a href="/winter-ishikawa-kaga-yamashiro-kano-crab-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12月加賀温泉郷の冬の贅と加能ガニ解禁】 山代・山中温泉の歴史名湯と九谷焼で味わう極上ズワイガニ会席の宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">【11・12月加賀温泉郷の冬の贅と加能ガニ解禁】 山代・山中温泉の歴史名湯と九谷焼で味わう極上ズワイガニ会席の宿5選</span>
             </a>
             <a href="/winter-ishikawa-kanazawa-yuwaku-onsen-koubako-crab-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「11・12・1月金沢」兼六園の雪吊り冬景色と奥金沢「湯涌温泉」の秘湯情緒・冬限定香箱ガニ＆加能ガニ・金沢おでん・治部煮を味わう名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「11・12・1月金沢」兼六園の雪吊り冬景色と奥金沢「湯涌温泉」の秘湯情緒・冬限定香箱ガニ＆加能ガニ・金沢おでん・治部煮を味わう名宿5選</span>
             </a>
             <a href="/winter-ishikawa-yamanaka-onsen-kakusenkei-kano-crab-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12月加賀山中温泉の冬名湯と加能ガニ】 鶴仙渓雪景色・芭蕉ゆかりの美肌湯と青タグ加能蟹＆能登牛会席の宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">【11・12月加賀山中温泉の冬名湯と加能ガニ】 鶴仙渓雪景色・芭蕉ゆかりの美肌湯と青タグ加能蟹＆能登牛会席の宿5選</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

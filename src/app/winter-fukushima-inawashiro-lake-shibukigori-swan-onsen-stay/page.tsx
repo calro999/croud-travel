@@ -366,7 +366,7 @@ export default function FukushimaInawashiroBandaiWinterPage() {
                         {h.highlights.map((hl: string, idx: number) => (
                           <li key={idx} className="flex items-center gap-1">
                             <span className="w-1.5 h-1.5 rounded-full bg-cyan-400 shrink-0" />
-                            <span className="truncate">{hl}</span>
+                            <span className="break-words">{hl}</span>
                           </li>
                         ))}
                       </ul>

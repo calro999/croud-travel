@@ -153,8 +153,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     山梨県南都留郡富士河口湖町船津6713-103
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">富士河口湖温泉　富士山の見える温泉旅館　大池ホテル</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">富士河口湖温泉　富士山の見える温泉旅館　大池ホテル</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     山梨 富士山 河口湖 露天風呂 温泉 バイキング ブッフェ 温泉　貸切露天風呂
                   </p>
                   
@@ -197,8 +197,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     山梨県南都留郡富士河口湖町船津4030-1
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">河口湖温泉　山岸旅館</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">河口湖温泉　山岸旅館</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     河口湖駅から徒歩７分好立地の宿。遊覧船やロープウエイは目の前。富士急ハイランドは車で１０分。
                   </p>
                   
@@ -241,8 +241,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     山梨県南巨摩郡身延町上之平1900
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">山梨県の温泉旅館　下部温泉郷　下部ホテル</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">山梨県の温泉旅館　下部温泉郷　下部ホテル</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     泉質の異なる「三種類の源泉」を、七つの露天風呂を含む大浴場など「十二の湯舟」でご堪能いただけます
                   </p>
                   
@@ -298,8 +298,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     静岡県静岡市駿河区南町8-5
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">ホテルプリヴェ静岡</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">ホテルプリヴェ静岡</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     【2020年9月グランドオープン】JR静岡駅南口から徒歩1分！駅近唯一の最上階スカイスパ完備！！
                   </p>
                   
@@ -342,8 +342,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     静岡県静岡市清水区八坂東1-20-20
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">ホテルルートイン清水インター</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">ホテルルートイン清水インター</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     独立型デスクとソファで機能的な客室■人工温泉大浴場・ランドリー完備■朝食バイキング・駐車場無料
                   </p>
                   
@@ -399,8 +399,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     神奈川県足柄下郡箱根町強羅1300-20
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">強羅温泉　自家源泉掛け流しの宿　強羅環翠楼</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">強羅温泉　自家源泉掛け流しの宿　強羅環翠楼</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     箱根強羅の自然に包まれた14室の和室。自家源泉の湯、旬の素材を活かした会席料理に癒される贅沢な時間
                   </p>
                   

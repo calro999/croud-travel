@@ -399,19 +399,19 @@ export default function Page() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/winter-tokushima-iya-valley-kazurabashi-snow-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「11・12・1月徳島」日本三大秘境・冬の祖谷渓谷「祖谷のかずら橋」雪景色と大歩危峡・ケーブルカーで行く谷底秘湯露天風呂＆阿波尾鶏を堪能する名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「11・12・1月徳島」日本三大秘境・冬の祖谷渓谷「祖谷のかずら橋」雪景色と大歩危峡・ケーブルカーで行く谷底秘湯露天風呂＆阿波尾鶏を堪能する名宿5選</span>
             </a>
             <a href="/winter-tokushima-mima-udatsu-kirihataji-hatsumode-awaodori-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「藍商人の白壁美・うだつの町並みと四国霊場切幡寺初詣」2026-2027年冬の徳島・美馬＆吉野川！阿波尾鶏地鶏鍋と清流温泉名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「藍商人の白壁美・うだつの町並みと四国霊場切幡寺初詣」2026-2027年冬の徳島・美馬＆吉野川！阿波尾鶏地鶏鍋と清流温泉名宿5選</span>
             </a>
             <a href="/autumn-budget-tokushima-city-bizan-tokushima-ramen-hotels-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「徳島市街」眉山秋パノラマ＆徳島ラーメンへ！4,000円台〜泊まれる駅近格安・高コスパ宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「徳島市街」眉山秋パノラマ＆徳島ラーメンへ！4,000円台〜泊まれる駅近格安・高コスパ宿5選</span>
             </a>
             <a href="/autumn-budget-tokushima-station-ramen-bizan-hotels-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「徳島駅前」甘辛濃厚豚骨・徳島ラーメン＆眉山夜景！4,000円台〜泊まれる格安・高コスパ宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「徳島駅前」甘辛濃厚豚骨・徳島ラーメン＆眉山夜景！4,000円台〜泊まれる格安・高コスパ宿5選</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

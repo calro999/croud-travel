@@ -146,8 +146,8 @@ export default async function FeaturesPage() {
             <span className="text-[10px] font-extrabold text-rose-200 bg-rose-950/90 px-2 py-0.5 rounded inline-block">
               推し活遠征・全国45会場
             </span>
-            <h3 className="text-xs md:text-sm font-bold text-white group-hover:text-rose-200 transition line-clamp-2">全国ドーム・アリーナ推し活ライブ遠征ホテル完全ガイド｜格安〜ご褒美まで価格帯別厳選</h3>
-            <p className="text-[10px] text-stone-300 line-clamp-1">駅近・深夜帰宅・荷物を預けられる主要全45会場近くの宿を網羅</p>
+            <h3 className="text-xs md:text-sm font-bold text-white group-hover:text-rose-200 transition">全国ドーム・アリーナ推し活ライブ遠征ホテル完全ガイド｜格安〜ご褒美まで価格帯別厳選</h3>
+            <p className="text-[10px] text-stone-300">駅近・深夜帰宅・荷物を預けられる主要全45会場近くの宿を網羅</p>
           </Link>
 
           <Link
@@ -157,8 +157,8 @@ export default async function FeaturesPage() {
             <span className="text-[10px] font-extrabold text-amber-200 bg-amber-950/90 px-2 py-0.5 rounded inline-block">
               年末年始・まだ間に合う穴場20選
             </span>
-            <h3 className="text-xs md:text-sm font-bold text-white group-hover:text-amber-200 transition line-clamp-2">【2026-2027年末年始】まだ間に合う年越しカウントダウン穴場温泉宿＆隠れ家20選</h3>
-            <p className="text-[10px] text-stone-300 line-clamp-1">混雑回避で静かに過ごす年越し・お正月特別プラン＆直前空室攻略</p>
+            <h3 className="text-xs md:text-sm font-bold text-white group-hover:text-amber-200 transition">【2026-2027年末年始】まだ間に合う年越しカウントダウン穴場温泉宿＆隠れ家20選</h3>
+            <p className="text-[10px] text-stone-300">混雑回避で静かに過ごす年越し・お正月特別プラン＆直前空室攻略</p>
           </Link>
 
           <Link
@@ -168,8 +168,8 @@ export default async function FeaturesPage() {
             <span className="text-[10px] font-extrabold text-sky-200 bg-sky-950/90 px-2 py-0.5 rounded inline-block">
               雪道運転なし・駅送迎あり16選
             </span>
-            <h3 className="text-xs md:text-sm font-bold text-white group-hover:text-sky-200 transition line-clamp-2">【車なしOK】電車・新幹線＆無料送迎で行ける雪見露天風呂の温泉宿16選</h3>
-            <p className="text-[10px] text-stone-300 line-clamp-1">越後湯沢・奥飛騨・山形銀山＆蔵王・乳頭・加賀など雪景色名湯</p>
+            <h3 className="text-xs md:text-sm font-bold text-white group-hover:text-sky-200 transition">【車なしOK】電車・新幹線＆無料送迎で行ける雪見露天風呂の温泉宿16選</h3>
+            <p className="text-[10px] text-stone-300">越後湯沢・奥飛騨・山形銀山＆蔵王・乳頭・加賀など雪景色名湯</p>
           </Link>
 
           <Link
@@ -179,8 +179,8 @@ export default async function FeaturesPage() {
             <span className="text-[10px] font-extrabold text-emerald-200 bg-emerald-950/90 px-2 py-0.5 rounded inline-block">
               12月31日締切・年末駆け込み寄付
             </span>
-            <h3 className="text-xs md:text-sm font-bold text-white group-hover:text-emerald-200 transition line-clamp-2">【12月駆け込み完全攻略】ふるさと納税×楽天トラベル宿泊クーポン高級温泉宿20選</h3>
-            <p className="text-[10px] text-stone-300 line-clamp-1">寄付後即発券・あとから割引適用＆有効期限最長3年の宿を一挙比較</p>
+            <h3 className="text-xs md:text-sm font-bold text-white group-hover:text-emerald-200 transition">【12月駆け込み完全攻略】ふるさと納税×楽天トラベル宿泊クーポン高級温泉宿20選</h3>
+            <p className="text-[10px] text-stone-300">寄付後即発券・あとから割引適用＆有効期限最長3年の宿を一挙比較</p>
           </Link>
           <Link
             href="/posts/winter-tokyo-omotesando-illumination-jingu-christmas-luxury-hotels-guide/"
@@ -189,8 +189,8 @@ export default async function FeaturesPage() {
             <span className="text-[10px] font-extrabold text-amber-300 bg-amber-950/80 px-2 py-0.5 rounded inline-block">
               ✨ 表参道＆神宮外苑クリスマス
             </span>
-            <h3 className="text-xs md:text-sm font-bold text-white group-hover:text-amber-200 transition line-clamp-2">【表参道・神宮外苑】表参道フェンディイルミネーション2026＆東京クリスマスマーケット完全攻略！</h3>
-            <p className="text-[10px] text-stone-400 line-clamp-1">シャンパンゴールド90万球・高さ14mピラミッド・青山渋谷名ホテル5選</p>
+            <h3 className="text-xs md:text-sm font-bold text-white group-hover:text-amber-200 transition">【表参道・神宮外苑】表参道フェンディイルミネーション2026＆東京クリスマスマーケット完全攻略！</h3>
+            <p className="text-[10px] text-stone-400">シャンパンゴールド90万球・高さ14mピラミッド・青山渋谷名ホテル5選</p>
           </Link>
 
           <Link
@@ -200,8 +200,8 @@ export default async function FeaturesPage() {
             <span className="text-[10px] font-extrabold text-emerald-300 bg-emerald-950/80 px-2 py-0.5 rounded inline-block">
               🌲 さがみ湖イルミリオン600万球
             </span>
-            <h3 className="text-xs md:text-sm font-bold text-white group-hover:text-emerald-200 transition line-clamp-2">【さがみ湖イルミリオン2026-2027】関東三大イルミネーション600万球の絶景と相模湖・高尾山温泉！</h3>
-            <p className="text-[10px] text-stone-400 line-clamp-1">虹のリフト・光の観覧車・PICAさがみ湖焚き火テラス＆名宿5選</p>
+            <h3 className="text-xs md:text-sm font-bold text-white group-hover:text-emerald-200 transition">【さがみ湖イルミリオン2026-2027】関東三大イルミネーション600万球の絶景と相模湖・高尾山温泉！</h3>
+            <p className="text-[10px] text-stone-400">虹のリフト・光の観覧車・PICAさがみ湖焚き火テラス＆名宿5選</p>
           </Link>
 
           <Link
@@ -211,8 +211,8 @@ export default async function FeaturesPage() {
             <span className="text-[10px] font-extrabold text-blue-300 bg-blue-950/80 px-2 py-0.5 rounded inline-block">
               🎡 東京ドームシティ＆ラクーア天然温泉
             </span>
-            <h3 className="text-xs md:text-sm font-bold text-white group-hover:text-blue-200 transition line-clamp-2">【東京ドームシティ】ウィンターイルミネーション2026-2027＆都心天然温泉「スパ ラクーア」完全攻略！</h3>
-            <p className="text-[10px] text-stone-400 line-clamp-1">高さ15mツリー・光の回廊・琥珀色温泉＆東京ドームホテルなど名宿5選</p>
+            <h3 className="text-xs md:text-sm font-bold text-white group-hover:text-blue-200 transition">【東京ドームシティ】ウィンターイルミネーション2026-2027＆都心天然温泉「スパ ラクーア」完全攻略！</h3>
+            <p className="text-[10px] text-stone-400">高さ15mツリー・光の回廊・琥珀色温泉＆東京ドームホテルなど名宿5選</p>
           </Link>
 
           <Link
@@ -222,8 +222,8 @@ export default async function FeaturesPage() {
             <span className="text-[10px] font-extrabold text-amber-300 bg-amber-950/80 px-2 py-0.5 rounded inline-block">
               ♨️ 全国温泉地ランキングTOP12
             </span>
-            <h3 className="text-xs md:text-sm font-bold text-white group-hover:text-amber-200 transition line-clamp-2">【日本全国温泉地ランキングTOP12】草津・箱根・有馬・由布院・別府・城崎の名旅館徹底比較</h3>
-            <p className="text-[10px] text-stone-400 line-clamp-1">10大泉質別の効能・絶景露天風呂・お得な予約テクニック</p>
+            <h3 className="text-xs md:text-sm font-bold text-white group-hover:text-amber-200 transition">【日本全国温泉地ランキングTOP12】草津・箱根・有馬・由布院・別府・城崎の名旅館徹底比較</h3>
+            <p className="text-[10px] text-stone-400">10大泉質別の効能・絶景露天風呂・お得な予約テクニック</p>
           </Link>
 
           <Link
@@ -233,8 +233,8 @@ export default async function FeaturesPage() {
             <span className="text-[10px] font-extrabold text-indigo-300 bg-indigo-950/80 px-2 py-0.5 rounded inline-block">
               🍷 オールインクルーシブTOP12
             </span>
-            <h3 className="text-xs md:text-sm font-bold text-white group-hover:text-indigo-200 transition line-clamp-2">【全国オールインクルーシブ温泉宿TOP12】ビール・地酒・夜食・貸切風呂まで全て無料</h3>
-            <p className="text-[10px] text-stone-400 line-clamp-1">松島一の坊・アンダリゾート・季の湯雪月花など追加料金一切なし</p>
+            <h3 className="text-xs md:text-sm font-bold text-white group-hover:text-indigo-200 transition">【全国オールインクルーシブ温泉宿TOP12】ビール・地酒・夜食・貸切風呂まで全て無料</h3>
+            <p className="text-[10px] text-stone-400">松島一の坊・アンダリゾート・季の湯雪月花など追加料金一切なし</p>
           </Link>
 
           <Link
@@ -244,8 +244,8 @@ export default async function FeaturesPage() {
             <span className="text-[10px] font-extrabold text-teal-300 bg-teal-950/80 px-2 py-0.5 rounded inline-block">
               🧖 サウナシュラン受賞宿TOP12
             </span>
-            <h3 className="text-xs md:text-sm font-bold text-white group-hover:text-teal-200 transition line-clamp-2">【全国サウナが凄いホテル＆名旅館TOP12】らかんの湯・北こぶし知床・マウント富士</h3>
-            <p className="text-[10px] text-stone-400 line-clamp-1">天然伏流水水風呂・絶景外気浴・サウナ飯（サ飯）まで徹底取材</p>
+            <h3 className="text-xs md:text-sm font-bold text-white group-hover:text-teal-200 transition">【全国サウナが凄いホテル＆名旅館TOP12】らかんの湯・北こぶし知床・マウント富士</h3>
+            <p className="text-[10px] text-stone-400">天然伏流水水風呂・絶景外気浴・サウナ飯（サ飯）まで徹底取材</p>
           </Link>
             <Link
               href="/posts/japan-private-open-air-bath-onsen-hotels-ranking-guide/"
@@ -255,8 +255,8 @@ export default async function FeaturesPage() {
                 <span className="inline-block px-3 py-1 rounded-full bg-teal-500/20 text-teal-300 text-xs font-bold tracking-wider">
                   ♨️ 客室露天・貸切風呂
                 </span>
-                <h3 className="text-lg font-bold text-white group-hover:text-teal-300 transition-colors line-clamp-2">【2026-2027年最新】全国客室露天風呂・貸切風呂付き温泉宿TOP12｜プライベート極上湯浴み</h3>
-                <p className="text-xs text-slate-300 line-clamp-2">
+                <h3 className="text-lg font-bold text-white group-hover:text-teal-300 transition-colors">【2026-2027年最新】全国客室露天風呂・貸切風呂付き温泉宿TOP12｜プライベート極上湯浴み</h3>
+                <p className="text-xs text-slate-300">
                   箱根・草津・有馬・由布院など！誰の目も気にせず名湯を独占できる露天風呂付き客室＆無料貸切風呂の名宿ガイド。
                 </p>
               </div>
@@ -273,8 +273,8 @@ export default async function FeaturesPage() {
                 <span className="inline-block px-3 py-1 rounded-full bg-cyan-500/20 text-cyan-300 text-xs font-bold tracking-wider">
                   🌅 絶景インフィニティ温泉
                 </span>
-                <h3 className="text-lg font-bold text-white group-hover:text-cyan-300 transition-colors line-clamp-2">【2026-2027年最新】全国絶景インフィニティ温泉＆天空露天風呂TOP12｜海・富士山・夜景</h3>
-                <p className="text-xs text-slate-300 line-clamp-2">
+                <h3 className="text-lg font-bold text-white group-hover:text-cyan-300 transition-colors">【2026-2027年最新】全国絶景インフィニティ温泉＆天空露天風呂TOP12｜海・富士山・夜景</h3>
+                <p className="text-xs text-slate-300">
                   熱海・河口湖・別府・洞爺湖など！海や空と一体化する奇跡の浮遊感と絶景パノラマ露天風呂名宿ガイド。
                 </p>
               </div>
@@ -291,8 +291,8 @@ export default async function FeaturesPage() {
             <span className="text-[10px] font-extrabold text-rose-300 bg-rose-950/80 px-2 py-0.5 rounded inline-block">
               ⛩️ 初詣＆初日の出温泉旅行
             </span>
-            <h3 className="text-xs md:text-sm font-bold text-white group-hover:text-rose-200 transition line-clamp-2">【年末年始・初詣＆初日の出温泉旅行】伊勢神宮・出雲大社・富士山近くの開運旅館12選</h3>
-            <p className="text-[10px] text-stone-400 line-clamp-1">早朝参拝の混雑回避・年越し特別会席・お正月モデルコース</p>
+            <h3 className="text-xs md:text-sm font-bold text-white group-hover:text-rose-200 transition">【年末年始・初詣＆初日の出温泉旅行】伊勢神宮・出雲大社・富士山近くの開運旅館12選</h3>
+            <p className="text-[10px] text-stone-400">早朝参拝の混雑回避・年越し特別会席・お正月モデルコース</p>
           </Link>
 
           <Link
@@ -302,8 +302,8 @@ export default async function FeaturesPage() {
             <span className="text-[10px] font-extrabold text-amber-300 bg-amber-950/80 px-2 py-0.5 rounded inline-block">
               💰 実質2,000円宿泊
             </span>
-            <h3 className="text-xs md:text-sm font-bold text-white group-hover:text-amber-200 transition line-clamp-2">【楽天ふるさと納税×高級宿】還元率30%クーポンで泊まる憧れの最高峰旅館12選</h3>
-            <p className="text-[10px] text-stone-400 line-clamp-1">寄附上限の計算式・名門客室露天風呂・年末駆け込み攻略</p>
+            <h3 className="text-xs md:text-sm font-bold text-white group-hover:text-amber-200 transition">【楽天ふるさと納税×高級宿】還元率30%クーポンで泊まる憧れの最高峰旅館12選</h3>
+            <p className="text-[10px] text-stone-400">寄附上限の計算式・名門客室露天風呂・年末駆け込み攻略</p>
           </Link>
 
           <Link
@@ -313,8 +313,8 @@ export default async function FeaturesPage() {
             <span className="text-[10px] font-extrabold text-red-300 bg-red-950/80 px-2 py-0.5 rounded inline-block">
               🦀 冬の味覚・カニ解禁
             </span>
-            <h3 className="text-xs md:text-sm font-bold text-white group-hover:text-red-200 transition line-clamp-2">【日本海カニ旅行】松葉ガニ・越前がに・間人ガニ解禁！タグ付き活蟹が食べられる宿12選</h3>
-            <p className="text-[10px] text-stone-400 line-clamp-1">刺身・炭火焼き・茹で・甲羅味噌・カニすき雑炊のフルコース</p>
+            <h3 className="text-xs md:text-sm font-bold text-white group-hover:text-red-200 transition">【日本海カニ旅行】松葉ガニ・越前がに・間人ガニ解禁！タグ付き活蟹が食べられる宿12選</h3>
+            <p className="text-[10px] text-stone-400">刺身・炭火焼き・茹で・甲羅味噌・カニすき雑炊のフルコース</p>
           </Link>
         </div>
       </section>

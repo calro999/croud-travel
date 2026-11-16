@@ -611,7 +611,7 @@ export default function NaganoTogakushiZenkojiWinterPage() {
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-emerald-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-emerald-800 font-bold text-xs block mb-1">長野・渋温泉</span>
-              <span className="text-stone-900 font-bold group-hover:text-emerald-900 transition-colors line-clamp-2">
+              <span className="text-stone-900 font-bold group-hover:text-emerald-900 transition-colors">
                 ノスタルジックな石畳の雪景色・九湯巡り厄除け外湯と信州牛名宿
               </span>
             </Link>
@@ -621,7 +621,7 @@ export default function NaganoTogakushiZenkojiWinterPage() {
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-emerald-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-emerald-800 font-bold text-xs block mb-1">長野・白馬</span>
-              <span className="text-stone-900 font-bold group-hover:text-emerald-900 transition-colors line-clamp-2">
+              <span className="text-stone-900 font-bold group-hover:text-emerald-900 transition-colors">
                 極上パウダースノーと北アルプス白銀絶景・美肌八方温泉＆信州牛名宿
               </span>
             </Link>
@@ -631,7 +631,7 @@ export default function NaganoTogakushiZenkojiWinterPage() {
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-emerald-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-emerald-800 font-bold text-xs block mb-1">長野・阿智村</span>
-              <span className="text-stone-900 font-bold group-hover:text-emerald-900 transition-colors line-clamp-2">
+              <span className="text-stone-900 font-bold group-hover:text-emerald-900 transition-colors">
                 日本一の星空ナイトツアーと南信州美肌の湯・昼神温泉名宿
               </span>
             </Link>
@@ -641,7 +641,7 @@ export default function NaganoTogakushiZenkojiWinterPage() {
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-emerald-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-emerald-800 font-bold text-xs block mb-1">三重・伊勢神宮</span>
-              <span className="text-stone-900 font-bold group-hover:text-emerald-900 transition-colors line-clamp-2">
+              <span className="text-stone-900 font-bold group-hover:text-emerald-900 transition-colors">
                 新春の伊勢神宮初詣とおかげ横丁・伊勢海老＆松阪牛会席名宿
               </span>
             </Link>
@@ -651,7 +651,7 @@ export default function NaganoTogakushiZenkojiWinterPage() {
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-emerald-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-emerald-800 font-bold text-xs block mb-1">群馬・草津温泉</span>
-              <span className="text-stone-900 font-bold group-hover:text-emerald-900 transition-colors line-clamp-2">
+              <span className="text-stone-900 font-bold group-hover:text-emerald-900 transition-colors">
                 湯畑ライティングと西の河原露天風呂雪景色・名湯上州牛名宿
               </span>
             </Link>
@@ -661,7 +661,7 @@ export default function NaganoTogakushiZenkojiWinterPage() {
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-emerald-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-emerald-800 font-bold text-xs block mb-1">徳島・祖谷渓谷</span>
-              <span className="text-stone-900 font-bold group-hover:text-emerald-900 transition-colors line-clamp-2">
+              <span className="text-stone-900 font-bold group-hover:text-emerald-900 transition-colors">
                 祖谷のかずら橋雪景色とケーブルカーで行く谷底露天風呂名宿
               </span>
             </Link>

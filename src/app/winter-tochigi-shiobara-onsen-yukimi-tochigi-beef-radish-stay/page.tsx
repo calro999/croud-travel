@@ -611,7 +611,7 @@ export default function TochigiShiobaraWinterFeature() {
             >
               <span className="px-2 py-0.5 rounded bg-amber-500/40 text-amber-200 font-bold text-[10px]">鬼怒川・渓谷雪景色</span>
               <h3 className="font-bold text-white text-sm">鬼怒川温泉・鬼怒川渓谷の雪景色と名湯・とちぎ和牛の宿</h3>
-              <p className="text-slate-300 text-[11px] line-clamp-2">名峰を望むパノラマ露天と湯波料理、とちぎ和牛を堪能する名宿。</p>
+              <p className="text-slate-300 text-[11px]">名峰を望むパノラマ露天と湯波料理、とちぎ和牛を堪能する名宿。</p>
             </Link>
 
             <Link 
@@ -620,7 +620,7 @@ export default function TochigiShiobaraWinterFeature() {
             >
               <span className="px-2 py-0.5 rounded bg-emerald-500/40 text-emerald-200 font-bold text-[10px]">那須・鹿の湯白濁</span>
               <h3 className="font-bold text-white text-sm">那須温泉・開湯千三百年鹿の湯と白濁硫黄泉・那須和牛の宿</h3>
-              <p className="text-slate-300 text-[11px] line-clamp-2">那須高原の冬景色と歴史ある白濁硫黄泉、那須黒毛和牛ステーキ。</p>
+              <p className="text-slate-300 text-[11px]">那須高原の冬景色と歴史ある白濁硫黄泉、那須黒毛和牛ステーキ。</p>
             </Link>
 
             <Link 
@@ -629,7 +629,7 @@ export default function TochigiShiobaraWinterFeature() {
             >
               <span className="px-2 py-0.5 rounded bg-sky-500/40 text-sky-200 font-bold text-[10px]">水上・谷川岳雪見</span>
               <h3 className="font-bold text-white text-sm">水上温泉郷・谷川岳初冬雪見露天と上州牛・利根川渓谷の宿</h3>
-              <p className="text-slate-300 text-[11px] line-clamp-2">谷川岳を仰ぐ大露天風呂と清流利根川のせせらぎ、上州牛すき焼き。</p>
+              <p className="text-slate-300 text-[11px]">谷川岳を仰ぐ大露天風呂と清流利根川のせせらぎ、上州牛すき焼き。</p>
             </Link>
 
             <Link 
@@ -638,7 +638,7 @@ export default function TochigiShiobaraWinterFeature() {
             >
               <span className="px-2 py-0.5 rounded bg-rose-500/40 text-rose-200 font-bold text-[10px]">草津・湯畑ライトアップ</span>
               <h3 className="font-bold text-white text-sm">草津温泉・冬の湯畑幻想ライトアップと酸性名湯・上州牛の宿</h3>
-              <p className="text-slate-300 text-[11px] line-clamp-2">日本屈指の酸性泉掛け流しと冬の湯畑の幻想的な湯けむり景観。</p>
+              <p className="text-slate-300 text-[11px]">日本屈指の酸性泉掛け流しと冬の湯畑の幻想的な湯けむり景観。</p>
             </Link>
           
       <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">

@@ -153,8 +153,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     新潟県十日町市松之山天水越88-2
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">越後松之山温泉　旅館明星</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">越後松之山温泉　旅館明星</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     地酒（第一酒造）のラインナップは自称世界一！お酒とお料理と温泉が楽しめます。
                   </p>
                   
@@ -210,8 +210,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     石川県加賀市山中温泉東町1-ホ14-3
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">山中温泉　吉祥やまなか</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">山中温泉　吉祥やまなか</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     清流と名湯、美食に包まれるラグジュアリー宿。山中温泉の文化に触れ、心ほどける静寂の滞在。
                   </p>
                   
@@ -254,8 +254,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     石川県珠洲市狼煙町
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">禄光旅館</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">禄光旅館</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     能登の山と海の自然な素材を生かした料理を味わっていただきながら心に刻まれる安らぎのひと時をどうぞ。
                   </p>
                   
@@ -298,8 +298,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     石川県七尾市和倉町和歌崎部12-3
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">和倉温泉　ホテル海望</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">和倉温泉　ホテル海望</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     お客様に愛され続けて創業130余年。海を望むという名である理由、感動を一度ご体感ください。
                   </p>
                   
@@ -355,8 +355,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     千葉県鴨川市広場834
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">鴨川グランドタワー</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">鴨川グランドタワー</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     【全室オーシャンビュー】33F建高層コンドミニアム■隣の鴨川グランドホテル温泉大浴場も無料■
                   </p>
                   
@@ -399,8 +399,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     千葉県鴨川市西町1179
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">鴨川館</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">鴨川館</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     2024年大浴場リニューアル&amp;インドアテラス客室誕生！人気の鴨川シーワールドまで徒歩3分
                   </p>
                   

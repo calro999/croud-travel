@@ -154,8 +154,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     宮城県宮城郡松島町松島字仙随８番地
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">松島温泉　松島センチュリーホテル</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">松島温泉　松島センチュリーホテル</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     日本三景松島の中心部に位置し、主な観光施設へは徒歩圏内。目の前に広がる松島湾の風景は最高の贅沢。
                   </p>
                   
@@ -198,8 +198,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     宮城県宮城郡松島町松島東浜4-6
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">松島温泉　ホテル絶景の館</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">松島温泉　ホテル絶景の館</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     お部屋から刻々変化する180°のパノラマを体験しませんか
                   </p>
                   
@@ -242,8 +242,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     宮城県宮城郡松島町松島字仙随35-2
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">松島温泉　小松館　好風亭</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">松島温泉　小松館　好風亭</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     貸切露天風呂が大人気　　松島で一番海に近い宿/最高の料理といい景色と天然温泉
                   </p>
                   
@@ -299,8 +299,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     京都府宮津市文珠460
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">天橋立温泉　旅館　松月＜京都府＞</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">天橋立温泉　旅館　松月＜京都府＞</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     ＜天橋立で海の幸に舌鼓＞お料理と温泉を満喫◎天橋立観光に便利
                   </p>
                   
@@ -343,8 +343,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     京都府宮津市文珠463-5
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">天橋立温泉　料理旅館　鳥喜</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">天橋立温泉　料理旅館　鳥喜</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     「一度食べたら本物だとわかる」天然にこだわる四季折々の旨いもんを堪能する天橋立の料理旅館
                   </p>
                   
@@ -387,8 +387,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     京都府宮津市文珠赤岩584
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">天橋立荘</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">天橋立荘</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     日本三景天橋立の奥座敷、あたたかいおもてなしと漁港直送の新鮮素材を使った海鮮料理自慢の宿
                   </p>
                   
@@ -444,8 +444,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     広島県廿日市市宮島町755
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">宮島ホテルまこと</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">宮島ホテルまこと</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     いにしえの歴史と自然にふれる宿
                   </p>
                   
@@ -488,8 +488,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     広島県廿日市市宮島町335
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">宮島　ホテル菊乃家</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">宮島　ホテル菊乃家</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     ２０２５年８月菊乃家別邸オープン。宮島の自然に囲まれひっそりと佇む、大人の隠れ家宿。
                   </p>
                   
@@ -532,8 +532,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     広島県廿日市市宮島町南町364
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">宮島グランドホテル　有もと</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">宮島グランドホテル　有もと</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     すべてはお客様の満足と笑顔のために。宮島の歴史とともに時を重ねる、世界遺産「厳島神社」に最も近い宿。
                   </p>
                   

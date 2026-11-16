@@ -160,7 +160,7 @@ export default function Page() {
           <span>&gt;</span>
           <Link href="/features/" className="hover:text-emerald-700">特集一覧</Link>
           <span>&gt;</span>
-          <span className="text-stone-800 font-semibold truncate">特大活伊勢海老×極上鬼殻焼き会席</span>
+          <span className="text-stone-800 font-semibold break-words">特大活伊勢海老×極上鬼殻焼き会席</span>
         </div>
       </div>
 
@@ -348,19 +348,19 @@ export default function Page() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/winter-mie-shima-kashikojima-onsen-iseebi-anorifugu-matsusaka-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12月三重・志摩賢島温泉】英虞湾夕日と冬の伊勢志摩美食 本場伊勢海老＆幻のあのりふぐ・極上松阪牛・真珠の海を望む絶景宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">【11・12月三重・志摩賢島温泉】英虞湾夕日と冬の伊勢志摩美食 本場伊勢海老＆幻のあのりふぐ・極上松阪牛・真珠の海を望む絶景宿5選</span>
             </a>
             <a href="/winter-mie-toba-osaatsu-onsen-seafood-torasawara-matsusaka-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">現役海女の里相差で喰らう冬の豪快舟盛り 答志島トロさわら＆活伊勢海老と極上松阪牛名宿</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">現役海女の里相差で喰らう冬の豪快舟盛り 答志島トロさわら＆活伊勢海老と極上松阪牛名宿</span>
             </a>
             <a href="/winter-miyazaki-hyuga-umagase-sea-cross-iseebi-miyazakigyu-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">日向岬「馬ヶ背」断崖絶壁と「クルスの海」新春祈願！ 冬旬「日向灘伊勢海老」＆宮崎牛・延岡名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">日向岬「馬ヶ背」断崖絶壁と「クルスの海」新春祈願！ 冬旬「日向灘伊勢海老」＆宮崎牛・延岡名宿5選</span>
             </a>
             <a href="/winter-shizuoka-izu-shuzenji-luxury-asaba-sora-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【竹林の小径の静寂と数寄屋露天離れ】2026-2027年11-1月冬の静岡・伊豆修善寺温泉！「柳生の庄」＆「宙 SORA 渡月荘金龍」・天城軍鶏と伊豆伊勢海老・名門美食宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">【竹林の小径の静寂と数寄屋露天離れ】2026-2027年11-1月冬の静岡・伊豆修善寺温泉！「柳生の庄」＆「宙 SORA 渡月荘金龍」・天城軍鶏と伊豆伊勢海老・名門美食宿5選</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

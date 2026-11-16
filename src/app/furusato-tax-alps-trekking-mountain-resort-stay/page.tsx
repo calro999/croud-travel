@@ -153,8 +153,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     長野県安曇野市穂高牧2230
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">安曇野高原リゾート（旧：ＡＭＢＩＥＮＴ安曇野ホテル／ＡＭＢＩＥＮＴ安曇野コテージ）</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">安曇野高原リゾート（旧：ＡＭＢＩＥＮＴ安曇野ホテル／ＡＭＢＩＥＮＴ安曇野コテージ）</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     北アルプスを望む癒しの温泉大浴場が自慢■ご夕食は信州安曇野ご当地グルメを楽しむ飲み放題付ビュッフェ！
                   </p>
                   
@@ -197,8 +197,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     長野県下高井郡山ノ内町志賀高原高天ヶ原
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">高天ヶ原温泉　志賀パークホテル</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">高天ヶ原温泉　志賀パークホテル</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     志賀高原高天々原温泉、志賀高原の四季を愉しむことができるホテルです。
                   </p>
                   
@@ -241,8 +241,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     長野県安曇野市穂高有明2252-2
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">温泉ホテル安曇野アートキャビン</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">温泉ホテル安曇野アートキャビン</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     全室温泉付き｜好きなときに温泉に浸かれる10室の静かな宿
                   </p>
                   
@@ -298,8 +298,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     長野県北安曇郡白馬村北城14863-6
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">白馬みずばしょう温泉　ホテル　シェラリゾート白馬</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">白馬みずばしょう温泉　ホテル　シェラリゾート白馬</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     温泉リゾートホテル、フレンチが人気！楽天トラベルアワード２０２５ゴールド／日本の宿ＴＯＰ４７受賞★
                   </p>
                   
@@ -342,8 +342,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     長野県北安曇郡白馬村北城5470-1
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">白馬姫川温泉　北アルプスを一望　ホテル白馬＜長野県＞</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">白馬姫川温泉　北アルプスを一望　ホテル白馬＜長野県＞</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     新しくレストラン棟が完成、ロビーもリニューアルして温泉露天風呂＆大浴場とともに更に快適に！
                   </p>
                   
@@ -386,8 +386,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     長野県北安曇郡小谷村千国乙12860-1
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">奥白馬温泉　ホテルグリーンプラザ白馬</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">奥白馬温泉　ホテルグリーンプラザ白馬</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     白馬の大自然＆温泉＆バイキングを満喫！夏レジャー、紅葉、スキー♪オールシーズン楽しめる高原リゾート
                   </p>
                   
@@ -443,8 +443,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     富山県中新川郡立山町芦峅寺弥陀ヶ原
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">立山黒部アルペンルートオフィシャルホテル　弥陀ヶ原ホテル</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">立山黒部アルペンルートオフィシャルホテル　弥陀ヶ原ホテル</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     立川黒部アルペンルート内　標高1930ｍの雄大な自然に包まれながら過ごす特別な時間
                   </p>
                   
@@ -487,8 +487,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     富山県富山市原45　
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">ホテルテトラリゾート立山国際（旧立山国際ホテル）</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">ホテルテトラリゾート立山国際（旧立山国際ホテル）</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     立山黒部アルペンルート観光の拠点！立山駅～ホテル無料送迎バス運行（要連絡）所要時間６分
                   </p>
                   
@@ -531,8 +531,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     富山県中新川郡立山町天狗平
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">立山高原ホテル</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">立山高原ホテル</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     【立山高原ホテル】　標高2,300ｍにある、北アルプス山岳リゾートホテル
                   </p>
                   

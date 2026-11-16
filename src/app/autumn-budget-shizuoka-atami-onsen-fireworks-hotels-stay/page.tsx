@@ -42,7 +42,7 @@ export default function AtamiBudgetAutumnPage() {
             <span className="px-3 py-1 bg-stone-800 text-amber-300 text-xs font-medium rounded-full border border-amber-400/30">1泊目安: 4,000円台〜6,000円台</span>
           </div>
           <h1 className="text-2xl md:text-4xl lg:text-5xl font-extrabold text-white leading-tight mb-4 drop-shadow-md">「秋の熱海温泉×格安」海上花火大会と相模湾絶景！1泊4,000円台〜のコスパ最強おすすめ温泉宿5選</h1>
-          <p className="text-stone-200 text-sm md:text-base max-w-3xl line-clamp-2 md:line-clamp-none">
+          <p className="text-stone-200 text-sm md:text-base max-w-3xl">
             三方を山に囲まれたすり鉢状の熱海湾に響き渡る大迫力の秋の海上花火大会。温暖な気候のなか、サンビーチ沿いの夜景散策と豊富な自家源泉を財布に優しい低料金で満喫できる穴場宿をご案内します。
           </p>
         </div>
@@ -98,7 +98,7 @@ export default function AtamiBudgetAutumnPage() {
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 熱海駅 / ＪＲ熱海駅より徒歩約１０分（無料シャトルバスが定時運行）※無料シャトルバス乗り場はフォトギャラリーでご確認下さいませ。
                   </p>
-                  <p className="text-sm text-stone-600 mb-4 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-stone-600 mb-4 leading-relaxed">
                     全てのお部屋と温泉大浴場はオーシャンビュー。自慢の料理と良質の温泉でゆったりお寛ぎください。
                   </p>
                 </div>
@@ -143,7 +143,7 @@ export default function AtamiBudgetAutumnPage() {
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 熱海駅 / JR東海道線・熱海駅よりお車にて約15分/JR東海道線来宮駅よりお車にて約8分。
                   </p>
-                  <p className="text-sm text-stone-600 mb-4 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-stone-600 mb-4 leading-relaxed">
                     湧き出る天然温泉で癒しのひとときを愉しむ大人のリゾート♪
                   </p>
                 </div>
@@ -188,7 +188,7 @@ export default function AtamiBudgetAutumnPage() {
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 熱海駅 / ＪＲ熱海駅より徒歩１０分ほど　タクシーならたった5分
                   </p>
-                  <p className="text-sm text-stone-600 mb-4 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-stone-600 mb-4 leading-relaxed">
                     青山湯の源泉蒸し体験がおすすめ！炊きたてを味わう釜飯御膳が自慢！源泉掛け流し貸切露天風呂で癒される
                   </p>
                 </div>
@@ -233,7 +233,7 @@ export default function AtamiBudgetAutumnPage() {
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 熱海駅 / ＪＲ東海道新幹線　熱海駅よりバスに乗車、マリンスパあたみ下車で徒歩1分
                   </p>
-                  <p className="text-sm text-stone-600 mb-4 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-stone-600 mb-4 leading-relaxed">
                     熱海港前、熱海の旅を満喫できる宿ウオミサキホテル。
                   </p>
                 </div>
@@ -278,7 +278,7 @@ export default function AtamiBudgetAutumnPage() {
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 熱海駅 / JR東海道線『熱海駅』より東海バス『マリンスパあたみ』下車　徒歩1分
                   </p>
-                  <p className="text-sm text-stone-600 mb-4 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-stone-600 mb-4 leading-relaxed">
                     オーシャンビュー客室に海一望の温泉も人気！館内には24 Hコンビニ有り♪
                   </p>
                 </div>

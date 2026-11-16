@@ -645,21 +645,21 @@ export default function GunmaOigamiWinterPage() {
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-amber-700 font-bold block text-[10px]">千葉・養老渓谷</span>
-              <p className="font-bold text-stone-800 line-clamp-2">本州一遅い初冬の紅葉と美肌黒湯天然温泉・房総かずさ和牛＆猪鍋名宿</p>
+              <p className="font-bold text-stone-800">本州一遅い初冬の紅葉と美肌黒湯天然温泉・房総かずさ和牛＆猪鍋名宿</p>
             </Link>
             <Link 
               href="/winter-nagano-togura-kamiyamada-onsen-shinshugyu-apple-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-amber-700 font-bold block text-[10px]">長野・戸倉上山田</span>
-              <p className="font-bold text-stone-800 line-clamp-2">善光寺精進落としの美肌硫黄泉と極上信州プレミアム牛＆完熟サンふじ名宿</p>
+              <p className="font-bold text-stone-800">善光寺精進落としの美肌硫黄泉と極上信州プレミアム牛＆完熟サンふじ名宿</p>
             </Link>
             <Link 
               href="/winter-miyagi-togatta-onsen-zao-snow-sendaigyu-kamonabe-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-amber-700 font-bold block text-[10px]">宮城・遠刈田温泉</span>
-              <p className="font-bold text-stone-800 line-clamp-2">初冠雪の蔵王連峰を望む開湯400年の名湯・仙台牛＆蔵王鴨せり鍋名宿</p>
+              <p className="font-bold text-stone-800">初冠雪の蔵王連峰を望む開湯400年の名湯・仙台牛＆蔵王鴨せり鍋名宿</p>
             </Link>
           
       <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">

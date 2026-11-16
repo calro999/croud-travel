@@ -657,8 +657,8 @@ export default function FukushimaDakeWinterPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-blue-300 bg-blue-400/20 px-2 py-0.5 rounded-full inline-block">福島・吾妻高湯土湯</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-blue-200 transition line-clamp-2">高湯温泉 白濁硫黄泉雪見露天＆福島牛名宿</h4>
-              <p className="text-[11px] text-stone-200 line-clamp-2">
+              <h4 className="text-xs font-bold text-white group-hover:text-blue-200 transition">高湯温泉 白濁硫黄泉雪見露天＆福島牛名宿</h4>
+              <p className="text-[11px] text-stone-200">
                 吾妻連峰の静寂と白濁硫黄泉完全かけ流し、福島牛すき焼きを味わう冬の湯治旅。
               </p>
             </Link>
@@ -668,8 +668,8 @@ export default function FukushimaDakeWinterPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-blue-300 bg-blue-400/20 px-2 py-0.5 rounded-full inline-block">福島・郡山奥座敷</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-blue-200 transition line-clamp-2">磐梯熱海温泉 美肌ぬる湯＆福島牛ステーキ宿</h4>
-              <p className="text-[11px] text-stone-200 line-clamp-2">
+              <h4 className="text-xs font-bold text-white group-hover:text-blue-200 transition">磐梯熱海温泉 美肌ぬる湯＆福島牛ステーキ宿</h4>
+              <p className="text-[11px] text-stone-200">
                 萩姫伝説のアルカリ性美肌ぬる湯交互浴と、五百川のせせらぎに癒やされる冬のリトリート。
               </p>
             </Link>
@@ -679,8 +679,8 @@ export default function FukushimaDakeWinterPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-blue-300 bg-blue-400/20 px-2 py-0.5 rounded-full inline-block">福島・会津若松</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-blue-200 transition line-clamp-2">会津東山温泉・芦ノ牧温泉 雪見露天と郷土料理宿</h4>
-              <p className="text-[11px] text-stone-200 line-clamp-2">
+              <h4 className="text-xs font-bold text-white group-hover:text-blue-200 transition">会津東山温泉・芦ノ牧温泉 雪見露天と郷土料理宿</h4>
+              <p className="text-[11px] text-stone-200">
                 渓谷美を望む雪見露天風呂と鶴ヶ城雪景色、会津馬刺しと会津地酒を満喫する冬旅。
               </p>
             </Link>

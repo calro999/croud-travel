@@ -611,7 +611,7 @@ export default function HokkaidoTokachigawaWinterFeature() {
             >
               <span className="px-2 py-0.5 rounded bg-sky-500/40 text-sky-200 font-bold text-[10px]">洞爺湖・雪景色</span>
               <h3 className="font-bold text-white text-sm">洞爺湖温泉・レイクビュー露天と冬のイルミネーションの宿</h3>
-              <p className="text-slate-300 text-[11px] line-clamp-2">不凍湖・洞爺湖のパノラマ露天と冬のイルミネーショントンネル。</p>
+              <p className="text-slate-300 text-[11px]">不凍湖・洞爺湖のパノラマ露天と冬のイルミネーショントンネル。</p>
             </Link>
 
             <Link 
@@ -620,7 +620,7 @@ export default function HokkaidoTokachigawaWinterFeature() {
             >
               <span className="px-2 py-0.5 rounded bg-blue-500/40 text-blue-200 font-bold text-[10px]">層雲峡・峡谷美</span>
               <h3 className="font-bold text-white text-sm">層雲峡温泉・大雪山初冬雪景色と名湯源泉掛け流しの宿</h3>
-              <p className="text-slate-300 text-[11px] line-clamp-2">大雪山の断崖絶壁が雪化粧をまとう峡谷美と名物上川そば・白滝じゃが。</p>
+              <p className="text-slate-300 text-[11px]">大雪山の断崖絶壁が雪化粧をまとう峡谷美と名物上川そば・白滝じゃが。</p>
             </Link>
 
             <Link 
@@ -629,7 +629,7 @@ export default function HokkaidoTokachigawaWinterFeature() {
             >
               <span className="px-2 py-0.5 rounded bg-amber-500/40 text-amber-200 font-bold text-[10px]">登別・地獄谷雪見</span>
               <h3 className="font-bold text-white text-sm">登別温泉・地獄谷の雪見湯けむりと多彩な名湯巡りの宿</h3>
-              <p className="text-slate-300 text-[11px] line-clamp-2">9種類もの泉質が湧く日本有数の温泉郷で味わう北海道海の幸。</p>
+              <p className="text-slate-300 text-[11px]">9種類もの泉質が湧く日本有数の温泉郷で味わう北海道海の幸。</p>
             </Link>
 
             <Link 
@@ -638,7 +638,7 @@ export default function HokkaidoTokachigawaWinterFeature() {
             >
               <span className="px-2 py-0.5 rounded bg-emerald-500/40 text-emerald-200 font-bold text-[10px]">乳頭温泉・秘湯雪見</span>
               <h3 className="font-bold text-white text-sm">乳頭温泉郷・雪見秘湯露天ときりたんぽ鍋・比内地鶏の宿</h3>
-              <p className="text-slate-300 text-[11px] line-clamp-2">ブナの原生林に抱かれた乳白色の秘湯と秋田郷土料理のぬくもり。</p>
+              <p className="text-slate-300 text-[11px]">ブナの原生林に抱かれた乳白色の秘湯と秋田郷土料理のぬくもり。</p>
             </Link>
           
       <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">

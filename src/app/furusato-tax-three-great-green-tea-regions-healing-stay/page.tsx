@@ -168,7 +168,7 @@ export default function Page() {
                   <p className="text-xs text-slate-500 mt-0.5">
                     🚆 東海道本線『島田駅』より徒歩8分/『東名吉田IC』より車で15分/『富士山静岡空港』より車で約25分
                   </p>
-                  <p className="text-sm text-slate-600 mt-3 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-slate-600 mt-3 leading-relaxed">
                     車でも電車でも飛行機でも！！交通に便利なホテルです☆
                   </p>
                 </div>
@@ -242,7 +242,7 @@ export default function Page() {
                   <p className="text-xs text-slate-500 mt-0.5">
                     🚆 ＪＲ宇治駅及び京阪宇治駅より徒歩にて約５分
                   </p>
-                  <p className="text-sm text-slate-600 mt-3 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-slate-600 mt-3 leading-relaxed">
                     JR宇治駅徒歩5分★１日１組限定の一棟貸切タイプ旅館★平等院も徒歩10分★お茶の街「宇治」に宿泊♪
                   </p>
                 </div>
@@ -302,7 +302,7 @@ export default function Page() {
                   <p className="text-xs text-slate-500 mt-0.5">
                     🚆 ＪＲ　京都駅より徒歩にて約12分
                   </p>
-                  <p className="text-sm text-slate-600 mt-3 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-slate-600 mt-3 leading-relaxed">
                     西本願寺からすぐ！アクセス抜群の素泊まり旅館です。
                   </p>
                 </div>
@@ -362,7 +362,7 @@ export default function Page() {
                   <p className="text-xs text-slate-500 mt-0.5">
                     🚆 【車以外】能勢電鉄日生中央駅／JR嵯峨野線園部駅～送迎バス有（事前予約）　【車】千代川IC・池田木部IC～るり渓方面へ
                   </p>
-                  <p className="text-sm text-slate-600 mt-3 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-slate-600 mt-3 leading-relaxed">
                     京阪神から約1時間！標高550ｍの高原スパリゾートで天然温泉と本格会席料理。3世代で楽しめる！！
                   </p>
                 </div>
@@ -436,7 +436,7 @@ export default function Page() {
                   <p className="text-xs text-slate-500 mt-0.5">
                     🚆 名神高速『栗東IC』より1号線・県道4号線にて約40分／JR草津線『甲南駅』 無料駐車場
                   </p>
-                  <p className="text-sm text-slate-600 mt-3 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-slate-600 mt-3 leading-relaxed">
                     忍者の古里・甲賀の田舎の一軒宿。のんびり、ゆったりと。
                   </p>
                 </div>
@@ -496,7 +496,7 @@ export default function Page() {
                   <p className="text-xs text-slate-500 mt-0.5">
                     🚆 近江鉄道　水口駅より徒歩にて約２５分 無料駐車場（トラックは要相談）
                   </p>
-                  <p className="text-sm text-slate-600 mt-3 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-slate-600 mt-3 leading-relaxed">
                     ■水口工業団地より車で約5分 ★30品目朝食無料 ★大浴場完備◆◇ＷＯＷＯＷ全室で無料視聴可◇◆
                   </p>
                 </div>
@@ -556,7 +556,7 @@ export default function Page() {
                   <p className="text-xs text-slate-500 mt-0.5">
                     🚆 【車】新名神・甲賀土山ICより15分　【JR】貴生川駅・亀山駅より車で30分　※送迎バスはご宿泊者のみ、前日までの予約制
                   </p>
-                  <p className="text-sm text-slate-600 mt-3 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-slate-600 mt-3 leading-relaxed">
                     新名神甲賀土山ICより15分！人気の天然温泉や充実のアクティビティなど、大自然の中の滞在型リゾート
                   </p>
                 </div>
@@ -733,19 +733,19 @@ export default function Page() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/furusato-tax-yakuzen-herbal-cuisine-detox-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">身体の内側から美しく整う！本格薬膳会席＆地熱ハーブ温泉宿×ふるさと納税厳選ガイド金沢湯涌・箱根仙石原・別府鉄輪</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">身体の内側から美しく整う！本格薬膳会席＆地熱ハーブ温泉宿×ふるさと納税厳選ガイド金沢湯涌・箱根仙石原・別府鉄輪</span>
             </a>
             <a href="/geothermal-hell-steamed-cuisine-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「噴き出す温泉蒸気で素材の旨味を凝縮（名物「地獄蒸し」料理が自慢の温泉宿5選）」噴き出す温泉蒸気で素材の旨味を凝縮！名物「地獄蒸し」料理が自慢の温泉宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「噴き出す温泉蒸気で素材の旨味を凝縮（名物「地獄蒸し」料理が自慢の温泉宿5選）」噴き出す温泉蒸気で素材の旨味を凝縮！名物「地獄蒸し」料理が自慢の温泉宿5選</span>
             </a>
             <a href="/hachinohe-solo-business-miroku-seafood-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「八戸出張＆横丁ひとり旅」みろく横丁徒歩すぐ・八食センター・日本一のイカ美食！東北新幹線直結の快適宿 厳選3選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「八戸出張＆横丁ひとり旅」みろく横丁徒歩すぐ・八食センター・日本一のイカ美食！東北新幹線直結の快適宿 厳選3選</span>
             </a>
             <a href="/himeji-castle-solo-business-onsen-sauna-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「姫路出張・天然温泉サウナ」世界遺産姫路城ビュー・天然温泉白鷺の湯・播州美食！山陽新幹線拠点を制する厳選3宿</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「姫路出張・天然温泉サウナ」世界遺産姫路城ビュー・天然温泉白鷺の湯・播州美食！山陽新幹線拠点を制する厳選3宿</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

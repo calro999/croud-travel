@@ -352,19 +352,19 @@ export default function FeaturePage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/spring-hyogo-kobe-beef-tajima-crab-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「最高峰神戸牛＆香住紅ズワイガニ」有馬・城崎で味わう兵庫二大贅沢グルメと名湯宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「最高峰神戸牛＆香住紅ズワイガニ」有馬・城崎で味わう兵庫二大贅沢グルメと名湯宿5選</span>
             </a>
             <a href="/winter-hyogo-ako-onsen-sakoshi-oyster-infinity-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12月兵庫・播州赤穂温泉】 播磨灘夕景と11月解禁坂越牡蠣・インフィニティ絶景露天の宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">【11・12月兵庫・播州赤穂温泉】 播磨灘夕景と11月解禁坂越牡蠣・インフィニティ絶景露天の宿5選</span>
             </a>
             <a href="/winter-hyogo-awajishima-sumoto-3year-torafugu-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12月淡路島洲本温泉の初冬海景と淡路島3年とらふぐ】 紀淡海峡パノラマ露天と冬の絶品3年とらふぐ＆淡路牛会席の宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">【11・12月淡路島洲本温泉の初冬海景と淡路島3年とらふぐ】 紀淡海峡パノラマ露天と冬の絶品3年とらふぐ＆淡路牛会席の宿5選</span>
             </a>
             <a href="/winter-hyogo-kinosaki-luxury-nishimuraya-mikiya-tsuiyamagani-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【雪の柳並木と最高峰・青タグ津居山ガニ解禁】2026-2027年11-1月冬の兵庫・城崎温泉！創業160年「西村屋本館」＆「三木屋」・活松葉ガニフルコースと外湯めぐり名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">【雪の柳並木と最高峰・青タグ津居山ガニ解禁】2026-2027年11-1月冬の兵庫・城崎温泉！創業160年「西村屋本館」＆「三木屋」・活松葉ガニフルコースと外湯めぐり名宿5選</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">
@@ -425,19 +425,19 @@ export default function FeaturePage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/osaka-kochi-bus-vs-train-guide/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「大阪・神戸〜高知」高速バス「よさこい号」vs 特急南風徹底比較！片道3,500円〜行くカツオのタタキ＆ひろめ市場1泊2日モデルコース</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「大阪・神戸〜高知」高速バス「よさこい号」vs 特急南風徹底比較！片道3,500円〜行くカツオのタタキ＆ひろめ市場1泊2日モデルコース</span>
             </a>
             <a href="/shizuoka-sumatakyo-okuoi-lake-bridge-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「静岡・寸又峡＆奥大井湖上駅」死ぬまでに渡りたい夢の吊橋・アプト式鉄道宿 厳選ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「静岡・寸又峡＆奥大井湖上駅」死ぬまでに渡りたい夢の吊橋・アプト式鉄道宿 厳選ガイド</span>
             </a>
             <a href="/spring-hyogo-tajima-beef-crab-spa-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「但馬牛ステーキ＆香住ガニ」兵庫・城崎温泉の七湯めぐりと極上グルメ宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「但馬牛ステーキ＆香住ガニ」兵庫・城崎温泉の七湯めぐりと極上グルメ宿5選</span>
             </a>
             <a href="/winter-hyogo-akashi-uonotana-kakimoto-shrine-hatsumode-akashiyaki-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「兵庫・明石＆加古川」 明石海峡大橋を望む人麿山「柿本神社」新春初詣と魚の棚商店街！ 熱々の本場「明石焼き」・加古川かつめし＆播磨灘の厳選名宿</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「兵庫・明石＆加古川」 明石海峡大橋を望む人麿山「柿本神社」新春初詣と魚の棚商店街！ 熱々の本場「明石焼き」・加古川かつめし＆播磨灘の厳選名宿</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

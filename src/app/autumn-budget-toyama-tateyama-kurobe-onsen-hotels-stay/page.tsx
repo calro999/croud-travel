@@ -42,7 +42,7 @@ export default function ToyamaBudgetAutumnPage() {
             <span className="px-3 py-1 bg-stone-800 text-amber-300 text-xs font-medium rounded-full border border-amber-400/30">1泊目安: 4,000円台〜6,000円台</span>
           </div>
           <h1 className="text-2xl md:text-4xl lg:text-5xl font-extrabold text-white leading-tight mb-4 drop-shadow-md">「秋の富山×格安」立山連峰の三段紅葉と富山湾の白えび・紅ズワイガニ！天然温泉付き1泊4,000円〜6,000円台のコスパ最強ホテル5選</h1>
-          <p className="text-stone-200 text-sm md:text-base max-w-3xl line-clamp-2 md:line-clamp-none">
+          <p className="text-stone-200 text-sm md:text-base max-w-3xl">
             冠雪した立山連峰と山腹の紅葉、山麓の緑が織りなす「三段紅葉」。富山湾の宝石「白えび」や紅ズワイガニの絶品海鮮を味わい、サウナや天然温泉で癒やされる富山駅周辺の格安ホテルをご紹介します。
           </p>
         </div>
@@ -98,7 +98,7 @@ export default function ToyamaBudgetAutumnPage() {
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 富山駅 / 市内路面電車「南富山駅前」行で約5分、桜橋電停下車すぐ（ＪＲ富山駅より徒歩１０分）／富山ＩＣより車で１５分
                   </p>
-                  <p className="text-sm text-stone-600 mb-4 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-stone-600 mb-4 leading-relaxed">
                     ＪＲ富山駅より徒歩１０分／Wi-Fi、有線ＬＡＮ無料接続／展望大浴場
                   </p>
                 </div>
@@ -143,7 +143,7 @@ export default function ToyamaBudgetAutumnPage() {
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 富山駅 / 富山駅南口〈正面口）より線路と平行に右横方向に徒歩3分、富山空港からバスで30分（400円）、富山ICより車で15分
                   </p>
-                  <p className="text-sm text-stone-600 mb-4 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-stone-600 mb-4 leading-relaxed">
                     大浴場と優しい和朝食。畳スペースにベッドのお部屋。富山駅より徒歩3分！
                   </p>
                 </div>
@@ -188,7 +188,7 @@ export default function ToyamaBudgetAutumnPage() {
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 富山駅 / 富山駅より路面電車環状線「大手モール」下車徒歩2分・北陸自動車道『富山ＩＣ』出口より15分
                   </p>
-                  <p className="text-sm text-stone-600 mb-4 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-stone-600 mb-4 leading-relaxed">
                     全館畳敷きの和風ホテル！天然温泉檜風呂付客室もご用意☆ご当地逸品料理「海鮮丼」
                   </p>
                 </div>
@@ -233,7 +233,7 @@ export default function ToyamaBudgetAutumnPage() {
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 富山駅 / JR富山駅より環状線セントラムで国際会議場前電停下車徒歩2分／富山空港から路線バスで「総曲輪」バス停下車すぐ
                   </p>
-                  <p className="text-sm text-stone-600 mb-4 line-clamp-3 leading-relaxed">リフレッシュオープン♪男性大浴場の高温サウナには「オートロウリュ」を新たに導入。
+                  <p className="text-sm text-stone-600 mb-4 leading-relaxed">リフレッシュオープン♪男性大浴場の高温サウナには「オートロウリュ」を新たに導入。
                   </p>
                 </div>
                 <div className="pt-3 border-t border-stone-100 flex items-center justify-between">
@@ -277,7 +277,7 @@ export default function ToyamaBudgetAutumnPage() {
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 富山駅 / ＪＲ富山駅南口（中央改札）より徒歩3分。富山地方鉄道富山駅より徒歩4分。富山I.C車で15分。富山西I.C車で25分
                   </p>
-                  <p className="text-sm text-stone-600 mb-4 line-clamp-3 leading-relaxed">リニューアルオープン！富山駅南口徒歩3分。ＷＯＷＯＷ全室で無料視聴可！
+                  <p className="text-sm text-stone-600 mb-4 leading-relaxed">リニューアルオープン！富山駅南口徒歩3分。ＷＯＷＯＷ全室で無料視聴可！
                   </p>
                 </div>
                 <div className="pt-3 border-t border-stone-100 flex items-center justify-between">

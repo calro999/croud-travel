@@ -316,9 +316,9 @@ export default function SilverWeekGlampingKitchenCookingLocalFoodPage() {
                 </div>
 
                 <div className="p-5 sm:p-6 space-y-3">
-                  <h3 className="font-bold text-base sm:text-lg text-stone-900 leading-snug line-clamp-2">{hotel.hotelName}</h3>
+                  <h3 className="font-bold text-base sm:text-lg text-stone-900 leading-snug">{hotel.hotelName}</h3>
 
-                  <p className="text-xs text-stone-600 leading-relaxed line-clamp-3">
+                  <p className="text-xs text-stone-600 leading-relaxed">
                     {hotel.hotelSpecial || "調理器具やキッチンが充実した独立型コテージ・ヴィラ。地元の食材を買い込んで自由気ままに料理が楽しめる宿泊体験を提供します。"}
                   </p>
 
@@ -400,7 +400,7 @@ export default function SilverWeekGlampingKitchenCookingLocalFoodPage() {
             <span className="text-[10px] font-bold text-rose-800 bg-rose-100/70 px-2 py-0.5 rounded-full inline-block mb-1.5">
               旬の果物狩り
             </span>
-            <div className="font-bold text-xs sm:text-sm text-stone-900 group-hover:text-rose-700 transition line-clamp-2">
+            <div className="font-bold text-xs sm:text-sm text-stone-900 group-hover:text-rose-700 transition">
               【山梨ぶどう狩り＆ワイナリー周遊】車なしでも安心！新宿発の日帰りバスツアー完全攻略ガイド
             </div>
           </Link>
@@ -412,7 +412,7 @@ export default function SilverWeekGlampingKitchenCookingLocalFoodPage() {
             <span className="text-[10px] font-bold text-rose-800 bg-rose-100/70 px-2 py-0.5 rounded-full inline-block mb-1.5">
               温泉街・予算比較
             </span>
-            <div className="font-bold text-xs sm:text-sm text-stone-900 group-hover:text-rose-700 transition line-clamp-2">
+            <div className="font-bold text-xs sm:text-sm text-stone-900 group-hover:text-rose-700 transition">
               【草津温泉旅行の予算ガイド】1泊2日・2泊3日の宿泊費・交通費・湯畑グルメ相場を徹底解説
             </div>
           </Link>

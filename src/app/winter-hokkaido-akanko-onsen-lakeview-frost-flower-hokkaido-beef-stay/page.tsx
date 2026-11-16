@@ -548,8 +548,8 @@ export default function HokkaidoAkankoWinterFeature() {
               className="group p-4 rounded-2xl bg-slate-50 hover:bg-teal-50/60 border border-slate-100 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-teal-700 bg-teal-100/60 px-2 py-0.5 rounded-full inline-block">北海道・十勝川</span>
-              <h4 className="text-xs font-bold text-slate-800 group-hover:text-teal-800 transition line-clamp-2">十勝川温泉の初冬白鳥飛来と遺産モール温泉・十勝牛宿</h4>
-              <p className="text-[11px] text-slate-500 line-clamp-2">
+              <h4 className="text-xs font-bold text-slate-800 group-hover:text-teal-800 transition">十勝川温泉の初冬白鳥飛来と遺産モール温泉・十勝牛宿</h4>
+              <p className="text-[11px] text-slate-500">
                 北海道遺産植物性モール温泉と白鳥の飛来を望む極上ステイ。
               </p>
             </Link>
@@ -558,8 +558,8 @@ export default function HokkaidoAkankoWinterFeature() {
               className="group p-4 rounded-2xl bg-slate-50 hover:bg-teal-50/60 border border-slate-100 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-teal-700 bg-teal-100/60 px-2 py-0.5 rounded-full inline-block">北海道・層雲峡</span>
-              <h4 className="text-xs font-bold text-slate-800 group-hover:text-teal-800 transition line-clamp-2">層雲峡温泉の大雪山初冬雪峡絶景と名湯雪見露天風呂宿</h4>
-              <p className="text-[11px] text-slate-500 line-clamp-2">
+              <h4 className="text-xs font-bold text-slate-800 group-hover:text-teal-800 transition">層雲峡温泉の大雪山初冬雪峡絶景と名湯雪見露天風呂宿</h4>
+              <p className="text-[11px] text-slate-500">
                 断崖絶壁の柱状節理と白い雪が織りなす大雪山の渓谷美。
               </p>
             </Link>
@@ -568,8 +568,8 @@ export default function HokkaidoAkankoWinterFeature() {
               className="group p-4 rounded-2xl bg-slate-50 hover:bg-teal-50/60 border border-slate-100 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-teal-700 bg-teal-100/60 px-2 py-0.5 rounded-full inline-block">北海道・函館湯の川</span>
-              <h4 className="text-xs font-bold text-slate-800 group-hover:text-teal-800 transition line-clamp-2">湯の川温泉の津軽海峡漁火雪見露天と函館冬海鮮宿</h4>
-              <p className="text-[11px] text-slate-500 line-clamp-2">
+              <h4 className="text-xs font-bold text-slate-800 group-hover:text-teal-800 transition">湯の川温泉の津軽海峡漁火雪見露天と函館冬海鮮宿</h4>
+              <p className="text-[11px] text-slate-500">
                 津軽海峡にきらめくイカ釣り漁火と函館の冬の味覚を堪能。
               </p>
             </Link>
@@ -578,8 +578,8 @@ export default function HokkaidoAkankoWinterFeature() {
               className="group p-4 rounded-2xl bg-slate-50 hover:bg-teal-50/60 border border-slate-100 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-teal-700 bg-teal-100/60 px-2 py-0.5 rounded-full inline-block">北海道・登別</span>
-              <h4 className="text-xs font-bold text-slate-800 group-hover:text-teal-800 transition line-clamp-2">登別温泉の初冬地獄谷雪景色と多彩な名湯白濁露天風呂宿</h4>
-              <p className="text-[11px] text-slate-500 line-clamp-2">
+              <h4 className="text-xs font-bold text-slate-800 group-hover:text-teal-800 transition">登別温泉の初冬地獄谷雪景色と多彩な名湯白濁露天風呂宿</h4>
+              <p className="text-[11px] text-slate-500">
                 白煙立ち込める地獄谷と日本屈指の豊富な泉質を巡る湯治旅。
               </p>
             </Link>

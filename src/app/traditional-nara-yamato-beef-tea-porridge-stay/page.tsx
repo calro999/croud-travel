@@ -389,19 +389,19 @@ export default function FeaturePage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/furusato-tax-nara-park-heritage-luxury-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">奈良公園をふるさと納税でお得に旅する！世界遺産の大仏＆若草山の緑！クラシックホテルと露天風呂ヴィラ特集｜奈良ホテル・ふふ奈良・JWマリオット</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">奈良公園をふるさと納税でお得に旅する！世界遺産の大仏＆若草山の緑！クラシックホテルと露天風呂ヴィラ特集｜奈良ホテル・ふふ奈良・JWマリオット</span>
             </a>
             <a href="/furusato-tax-yoshinoyama-autumn-leaves-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">世界遺産・吉野山の秋色グラデーション（下千本〜奥千本）と千年の歴史漂う隠れ宿＆大和牛会席｜ふるさと納税で泊まれる名宿ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">世界遺産・吉野山の秋色グラデーション（下千本〜奥千本）と千年の歴史漂う隠れ宿＆大和牛会席｜ふるさと納税で泊まれる名宿ガイド</span>
             </a>
             <a href="/nara-totsukawa-solo-retreat-secret-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「日本一広い村・十津川温泉郷ひとり旅・源泉かけ流し宣言おこもり」100%完全かけ流し・世界遺産熊野参詣道小辺路・谷瀬の吊り橋！紀伊山地秘境厳選3宿</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「日本一広い村・十津川温泉郷ひとり旅・源泉かけ流し宣言おこもり」100%完全かけ流し・世界遺産熊野参詣道小辺路・谷瀬の吊り橋！紀伊山地秘境厳選3宿</span>
             </a>
             <a href="/winter-nagano-kisoji-narai-tsumago-snow-toujisoba-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「11・12・1月長野」中山道・木曽路の雪化粧宿場町（奈良井宿・妻籠宿）と冬の郷土味覚「投じ蕎麦・すんき鍋」・木曽牛＆木曽御嶽山麓の雪見温泉宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「11・12・1月長野」中山道・木曽路の雪化粧宿場町（奈良井宿・妻籠宿）と冬の郷土味覚「投じ蕎麦・すんき鍋」・木曽牛＆木曽御嶽山麓の雪見温泉宿5選</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

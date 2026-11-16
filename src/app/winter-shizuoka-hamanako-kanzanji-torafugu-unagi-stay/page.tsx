@@ -601,21 +601,21 @@ export default function ShizuokaHamanakoKanzanjiWinterPage() {
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-amber-700 font-bold block text-[10px]">愛知・伊良湖温泉</span>
-              <p className="font-bold text-stone-800 line-clamp-2">遠州灘と三河湾の天然とらふぐ＆渥美牛・海絶景露天風呂を堪能する名宿</p>
+              <p className="font-bold text-stone-800">遠州灘と三河湾の天然とらふぐ＆渥美牛・海絶景露天風呂を堪能する名宿</p>
             </Link>
             <Link 
               href="/winter-shizuoka-nishiizu-toi-onsen-sunset-kinmedai-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-amber-700 font-bold block text-[10px]">静岡・西伊豆土肥温泉</span>
-              <p className="font-bold text-stone-800 line-clamp-2">駿河湾の黄金夕陽と冬の極上金目鯛・海辺の雪見露天風呂を満喫する名宿</p>
+              <p className="font-bold text-stone-800">駿河湾の黄金夕陽と冬の極上金目鯛・海辺の雪見露天風呂を満喫する名宿</p>
             </Link>
             <Link 
               href="/winter-shizuoka-atami-onsen-winter-fireworks-kinmedai-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-amber-700 font-bold block text-[10px]">静岡・熱海温泉</span>
-              <p className="font-bold text-stone-800 line-clamp-2">冬の熱海海上花火大会と金目鯛煮付け・相模湾を一望する老舗温泉宿</p>
+              <p className="font-bold text-stone-800">冬の熱海海上花火大会と金目鯛煮付け・相模湾を一望する老舗温泉宿</p>
             </Link>
           
       <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">

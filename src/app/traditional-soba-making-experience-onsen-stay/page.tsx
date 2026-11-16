@@ -160,7 +160,7 @@ export default function Page() {
           <span>&gt;</span>
           <Link href="/features/" className="hover:text-emerald-700">特集一覧</Link>
           <span>&gt;</span>
-          <span className="text-stone-800 font-semibold truncate">手打ちそば体験×名水十割蕎麦宿</span>
+          <span className="text-stone-800 font-semibold break-words">手打ちそば体験×名水十割蕎麦宿</span>
         </div>
       </div>
 
@@ -348,19 +348,19 @@ export default function Page() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/furusato-tax-tamatsukuri-autumn-leaves-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">神々の集う神在月の出雲大社＆美肌の湯・玉造温泉！11月解禁松葉ガニ宿×ふるさと納税厳選ガイド島根</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">神々の集う神在月の出雲大社＆美肌の湯・玉造温泉！11月解禁松葉ガニ宿×ふるさと納税厳選ガイド島根</span>
             </a>
             <a href="/shimane-tamatsukuri-solo-retreat-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「出雲・玉造温泉ひとり旅・美肌神湯おこもり」日本最古の美肌温泉・玉湯川足湯・しまね和牛会席！出雲大社参拝と縁結びの温泉郷厳選3宿</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「出雲・玉造温泉ひとり旅・美肌神湯おこもり」日本最古の美肌温泉・玉湯川足湯・しまね和牛会席！出雲大社参拝と縁結びの温泉郷厳選3宿</span>
             </a>
             <a href="/winter-shimane-izumo-taisha-kamiarizuki-shimane-wagyu-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12月島根・出雲大社周辺温泉】 神在月参拝と初冬解禁日本海の幸・しまね和牛＆絶景露天の宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">【11・12月島根・出雲大社周辺温泉】 神在月参拝と初冬解禁日本海の幸・しまね和牛＆絶景露天の宿5選</span>
             </a>
             <a href="/winter-shimane-tsuwano-onsen-iwamigyu-jizake-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">（metadata.title as string）</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">（metadata.title as string）</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

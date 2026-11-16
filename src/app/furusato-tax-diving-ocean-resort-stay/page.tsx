@@ -154,8 +154,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     沖縄県国頭郡恩納村真栄田1888
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">ベストウェスタン沖縄恩納ビーチ</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">ベストウェスタン沖縄恩納ビーチ</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     【楽天トラベルブロンズアワード2021受賞】何もない贅沢がここにはある。沖縄県民割彩発見使えます。
                   </p>
                   
@@ -198,8 +198,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     沖縄県国頭郡恩納村字前兼久1203
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">ザ・ムーンビーチ　ミュージアムリゾート</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">ザ・ムーンビーチ　ミュージアムリゾート</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     南国の太陽と心地いい海風に包まれて亜熱帯の自然とアートがタイムレスに融合するリゾート・ミュージアム
                   </p>
                   
@@ -242,8 +242,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     沖縄県国頭郡恩納村瀬良垣2260
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">ＡＮＡインターコンチネンタル万座ビーチリゾート　ｂｙ　ＩＨＧ</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">ＡＮＡインターコンチネンタル万座ビーチリゾート　ｂｙ　ＩＨＧ</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     サンゴ礁に囲まれ最高の透明度と美しさを誇る 贅沢ビーチリゾートで
                   </p>
                   
@@ -299,8 +299,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     和歌山県東牟婁郡那智勝浦町湯川1065
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">南紀勝浦　湯川温泉　恵比須屋＜和歌山県＞</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">南紀勝浦　湯川温泉　恵比須屋＜和歌山県＞</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     無色透明なめらかなイオウ泉　家族でもてなし新鮮魚料理
                   </p>
                   
@@ -343,8 +343,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     和歌山県東牟婁郡那智勝浦町勝浦448
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">南紀勝浦温泉　くつろぎの宿　料理旅館　万清楼</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">南紀勝浦温泉　くつろぎの宿　料理旅館　万清楼</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     【ホテル浦島の温泉も利用可】紀州勝浦産の生まぐろや南紀の食材を使った会席料理をお楽しみください。
                   </p>
                   
@@ -387,8 +387,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     和歌山県東牟婁郡那智勝浦町勝浦1179-9
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">碧き島の宿　熊野別邸　中の島</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">碧き島の宿　熊野別邸　中の島</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     【碧き海に浮かぶ、一島一旅館のおもてなし】開放感抜群の絶景露天風呂は圧巻！露天風呂付客室も好評
                   </p>
                   
@@ -444,8 +444,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     静岡県賀茂郡西伊豆町宇久須2102-1
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">宇久須温泉　西伊豆クリスタルビューホテル（伊東園ホテルズ）</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">宇久須温泉　西伊豆クリスタルビューホテル（伊東園ホテルズ）</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     クリスタルビーチを眼下に望む温泉リゾート。
                   </p>
                   
@@ -488,8 +488,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     静岡県伊豆市小土肥241
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">西伊豆小土肥温泉　茜色の海　あるじ栖</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">西伊豆小土肥温泉　茜色の海　あるじ栖</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     2019年9月にリニューアル！西伊豆の浜辺に佇む隠れ宿。眺望抜群の露天風呂付客室が大人気！
                   </p>
                   
@@ -532,8 +532,8 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     静岡県伊豆市土肥349-2
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">愛犬と泊まれる温泉宿　ゆるり西伊豆</h3>
-                  <p className="text-xs text-stone-400 line-clamp-2 mb-4">
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors mb-2">愛犬と泊まれる温泉宿　ゆるり西伊豆</h3>
+                  <p className="text-xs text-stone-400 mb-4">
                     【海まで徒歩5分】愛犬とゆったりお過ごしいただける温泉宿★夕陽を眺めて入れる展望露天風呂も
                   </p>
                   

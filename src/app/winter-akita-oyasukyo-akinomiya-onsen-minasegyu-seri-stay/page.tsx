@@ -645,21 +645,21 @@ export default function AkitaOyasukyoAkinomiyaWinterPage() {
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-sky-700 font-bold block text-[10px]">宮城・遠刈田温泉</span>
-              <p className="font-bold text-stone-800 line-clamp-2">初冠雪の蔵王連峰を望む開湯400年の名湯・仙台牛＆蔵王鴨せり鍋名宿</p>
+              <p className="font-bold text-stone-800">初冠雪の蔵王連峰を望む開湯400年の名湯・仙台牛＆蔵王鴨せり鍋名宿</p>
             </Link>
             <Link 
               href="/winter-fukushima-iwaki-yumoto-onsen-ankou-jobanmono-fukushimagyu-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-sky-700 font-bold block text-[10px]">福島・いわき湯本</span>
-              <p className="font-bold text-stone-800 line-clamp-2">冬の味覚常磐もの寒アンコウ濃厚どぶ汁鍋＆目光唐揚げ・日本三古湯名宿</p>
+              <p className="font-bold text-stone-800">冬の味覚常磐もの寒アンコウ濃厚どぶ汁鍋＆目光唐揚げ・日本三古湯名宿</p>
             </Link>
             <Link 
               href="/winter-wakayama-kawayu-yunomine-onsen-senninburo-kumanogyu-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-sky-700 font-bold block text-[10px]">和歌山・熊野本宮</span>
-              <p className="font-bold text-stone-800 line-clamp-2">冬の風物詩・大塔川仙人風呂オープンと世界遺産つぼ湯・熊野牛会席名宿</p>
+              <p className="font-bold text-stone-800">冬の風物詩・大塔川仙人風呂オープンと世界遺産つぼ湯・熊野牛会席名宿</p>
             </Link>
           
       <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">

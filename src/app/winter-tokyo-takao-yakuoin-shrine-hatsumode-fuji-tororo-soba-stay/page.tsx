@@ -586,7 +586,7 @@ export default function TokyoTakaoWinterPage() {
               <div className="font-bold text-slate-900 group-hover:text-sky-600 transition mb-2">
                 武蔵御嶽神社天空の初詣と氷川渓谷の冬静寂・秋川牛と清流温泉
               </div>
-              <p className="text-xs text-slate-500 line-clamp-2">
+              <p className="text-xs text-slate-500">
                 同じく多摩エリアが誇る霊峰・御岳山のおいぬ様初詣と、奥多摩わさび・極上秋川牛会席を味わう名宿特集。
               </p>
             </Link>
@@ -599,7 +599,7 @@ export default function TokyoTakaoWinterPage() {
               <div className="font-bold text-slate-900 group-hover:text-sky-600 transition mb-2">
                 大山阿夫利神社新春初詣と相模湾絶景・大山豆腐料理と鶴巻温泉名宿
               </div>
-              <p className="text-xs text-slate-500 line-clamp-2">
+              <p className="text-xs text-slate-500">
                 高尾山と並ぶ関東修験道の聖地。ミシュラン二つ星の相模湾眺望と名水大山豆腐、美肌名湯鶴巻温泉を巡る旅。
               </p>
             </Link>
@@ -612,7 +612,7 @@ export default function TokyoTakaoWinterPage() {
               <div className="font-bold text-slate-900 group-hover:text-sky-600 transition mb-2">
                 秩父夜祭と冬の三十槌の氷柱・宝登山神社初詣＆武州和牛名宿
               </div>
-              <p className="text-xs text-slate-500 line-clamp-2">
+              <p className="text-xs text-slate-500">
                 奥武蔵の冬の風物詩。幻想的な天然氷柱ライトアップと秩父三社新春初詣、名物豚みそ丼と温泉を楽しむ特集。
               </p>
             </Link>

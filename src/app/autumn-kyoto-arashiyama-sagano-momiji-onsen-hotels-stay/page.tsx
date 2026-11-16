@@ -42,7 +42,7 @@ export default function KyotoArashiyamaAutumnPage() {
             <span className="px-3 py-1 bg-stone-800 text-amber-300 text-xs font-medium rounded-full border border-amber-400/30">見頃目安: 11月中旬〜12月上旬</span>
           </div>
           <h1 className="text-2xl md:text-4xl lg:text-5xl font-extrabold text-white leading-tight mb-4 drop-shadow-md">「秋の京都」嵐山・嵯峨野の錦秋渡月橋と保津川下り！紅葉名所を満喫するおすすめ温泉・極上宿5選</h1>
-          <p className="text-stone-200 text-sm md:text-base max-w-3xl line-clamp-2 md:line-clamp-none">
+          <p className="text-stone-200 text-sm md:text-base max-w-3xl">
             五山を借景に朱や黄金色に染まる嵐山と大堰川を渡る秋風。早朝の静寂に包まれる天龍寺曹源池庭園や竹林の小径、保津川渓谷を船で下る紅葉美を心ゆくまで堪能できる名宿をご紹介します。
           </p>
         </div>
@@ -98,7 +98,7 @@ export default function KyotoArashiyamaAutumnPage() {
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 嵐山（京福電気鉄道）駅 / 京福電鉄嵐山本線 嵐山駅 より徒歩約６分　阪急嵐山線 嵐山駅  、JR山陰本線 嵯峨野線  嵯峨嵐山駅 より徒歩約15分
                   </p>
-                  <p className="text-sm text-stone-600 mb-4 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-stone-600 mb-4 leading-relaxed">
                     京都の歴史に育まれた伝統とモダンの美が融け合う空間で、この地ならではの格別な体験をご提供いたします。
                   </p>
                 </div>
@@ -143,7 +143,7 @@ export default function KyotoArashiyamaAutumnPage() {
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 嵐山（阪急）駅 / 阪急嵐山線「嵐山駅」より徒歩１分。JR「京都駅」より約30分、阪急「梅田駅」より約50分。
                   </p>
-                  <p className="text-sm text-stone-600 mb-4 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-stone-600 mb-4 leading-relaxed">
                     渡月橋まで徒歩約5分！目の前の阪急嵐山駅より京都の中心街まですぐ！天然温泉と5つの貸切風呂が無料！
                   </p>
                 </div>
@@ -188,7 +188,7 @@ export default function KyotoArashiyamaAutumnPage() {
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 嵯峨嵐山駅 / ＪＲ嵯峨野線（山陰線）「嵯峨嵐山」駅南口より徒歩７分／阪急電車嵐山線「嵐山」駅より徒歩１２分
                   </p>
-                  <p className="text-sm text-stone-600 mb-4 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-stone-600 mb-4 leading-relaxed">
                     【渡月橋すぐ】全21室の純和風旅館。歴史情緒に包まれ味わう京会席。京の風情に浸る特別なひとときを。
                   </p>
                 </div>
@@ -233,7 +233,7 @@ export default function KyotoArashiyamaAutumnPage() {
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 嵯峨嵐山駅 / 阪急嵐山駅より徒歩５分（渡月橋渡らず）、ＪＲ嵯峨嵐山駅より徒歩約１５分(渡月橋渡る)。JR京都駅３０分、阪急梅田駅５０分
                   </p>
-                  <p className="text-sm text-stone-600 mb-4 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-stone-600 mb-4 leading-relaxed">
                     嵐山散策に便利な渡月橋南詰に位置し、嵐山温泉と京懐石が自慢の癒しの宿。
                   </p>
                 </div>
@@ -278,7 +278,7 @@ export default function KyotoArashiyamaAutumnPage() {
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 嵯峨嵐山駅 / JR嵯峨嵐山駅・トロッコ嵯峨駅：徒歩約1分、嵐電・嵯峨駅：徒歩約3分、JR京都駅から快速約12分
                   </p>
-                  <p className="text-sm text-stone-600 mb-4 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-stone-600 mb-4 leading-relaxed">
                     JR嵯峨嵐山駅前で便利！館内に大浴場や創作和食レストラン完備で宿でゆっくり過ごしたい人におすすめです
                   </p>
                 </div>

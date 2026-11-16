@@ -630,19 +630,19 @@ export default function FeatureDetailPage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/winter-shimane-izumo-taisha-kamiarizuki-shimane-wagyu-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12月島根・出雲大社周辺温泉】 神在月参拝と初冬解禁日本海の幸・しまね和牛＆絶景露天の宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">【11・12月島根・出雲大社周辺温泉】 神在月参拝と初冬解禁日本海の幸・しまね和牛＆絶景露天の宿5選</span>
             </a>
             <a href="/winter-shizuoka-atami-izusan-luxury-sekaie-ocean-roten-iseebi-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【相模湾を見下ろす断崖の絶景露天風呂と極上プライベートヴィラ】2026-2027年11-12月初冬の静岡・熱海伊豆山＆南熱海！最高峰「ATAMI せかいえ」＆迎賓館・冬の熱海海上花</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">【相模湾を見下ろす断崖の絶景露天風呂と極上プライベートヴィラ】2026-2027年11-12月初冬の静岡・熱海伊豆山＆南熱海！最高峰「ATAMI せかいえ」＆迎賓館・冬の熱海海上花</span>
             </a>
             <a href="/winter-shizuoka-city-nihondaira-kunozan-toshogu-maguro-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">冬の久能山東照宮新春初詣＆日本平富士山パノラマ絶景！ 清水港冬マグロ・由比桜えびと名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">冬の久能山東照宮新春初詣＆日本平富士山パノラマ絶景！ 清水港冬マグロ・由比桜えびと名宿5選</span>
             </a>
             <a href="/winter-shizuoka-gotemba-tokinosumika-illumination-fuji-view-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">御殿場＆裾野！ 時之栖イルミ＆アウトレットと冬の富士山展望露天風呂名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">御殿場＆裾野！ 時之栖イルミ＆アウトレットと冬の富士山展望露天風呂名宿5選</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

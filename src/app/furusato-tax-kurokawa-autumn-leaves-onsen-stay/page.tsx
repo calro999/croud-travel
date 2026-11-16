@@ -362,19 +362,19 @@ export default function FeatureArticlePage() {
             <ul className="space-y-4 text-xs md:text-sm">
               <li>
                 <a href={HOTEL_DATA.kurokawa_senmokan.url} target="_blank" rel="sponsored noopener noreferrer" className="block p-3 rounded-xl hover:bg-stone-50 transition border border-stone-100 hover:border-amber-200">
-                  <div className="font-bold text-stone-800 line-clamp-1">{HOTEL_DATA.kurokawa_senmokan.name}</div>
+                  <div className="font-bold text-stone-800">{HOTEL_DATA.kurokawa_senmokan.name}</div>
                   <div className="text-stone-500 text-xs mt-1">★ {HOTEL_DATA.kurokawa_senmokan.rating} | 楽天トラベルで詳細確認</div>
                 </a>
               </li>
               <li>
                 <a href={HOTEL_DATA.kurokawa_yamabiko.url} target="_blank" rel="sponsored noopener noreferrer" className="block p-3 rounded-xl hover:bg-stone-50 transition border border-stone-100 hover:border-amber-200">
-                  <div className="font-bold text-stone-800 line-clamp-1">{HOTEL_DATA.kurokawa_yamabiko.name}</div>
+                  <div className="font-bold text-stone-800">{HOTEL_DATA.kurokawa_yamabiko.name}</div>
                   <div className="text-stone-500 text-xs mt-1">★ {HOTEL_DATA.kurokawa_yamabiko.rating} | 楽天トラベルで詳細確認</div>
                 </a>
               </li>
               <li>
                 <a href={HOTEL_DATA.kurokawa_okunoyu.url} target="_blank" rel="sponsored noopener noreferrer" className="block p-3 rounded-xl hover:bg-stone-50 transition border border-stone-100 hover:border-amber-200">
-                  <div className="font-bold text-stone-800 line-clamp-1">{HOTEL_DATA.kurokawa_okunoyu.name}</div>
+                  <div className="font-bold text-stone-800">{HOTEL_DATA.kurokawa_okunoyu.name}</div>
                   <div className="text-stone-500 text-xs mt-1">★ {HOTEL_DATA.kurokawa_okunoyu.rating} | 楽天トラベルで詳細確認</div>
                 </a>
               </li>
@@ -491,19 +491,19 @@ export default function FeatureArticlePage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/kumamoto-city-solo-business-sauna-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「熊本出張・極上サウナ温泉ステイ」西の聖地湯らっくす・阿蘇伏流水MADMAX水風呂・熊本城！火の国ビジネスを極める厳選3宿</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「熊本出張・極上サウナ温泉ステイ」西の聖地湯らっくす・阿蘇伏流水MADMAX水風呂・熊本城！火の国ビジネスを極める厳選3宿</span>
             </a>
             <a href="/kumamoto-kurokawa-solo-retreat-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「黒川温泉ひとり旅・入湯手形おこもり」渓流露天風呂・立ち湯・あか牛会席！阿蘇の秘湯で里山情緒に浸る極上ソロ温泉厳選3宿</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「黒川温泉ひとり旅・入湯手形おこもり」渓流露天風呂・立ち湯・あか牛会席！阿蘇の秘湯で里山情緒に浸る極上ソロ温泉厳選3宿</span>
             </a>
             <a href="/organic-forest-infinity-panoramic-sauna-kyushu/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「九州名峰パノラマサウナ＆阿蘇湧水」由布院・黒川・霧島！大自然の外気浴サウナ宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「九州名峰パノラマサウナ＆阿蘇湧水」由布院・黒川・霧島！大自然の外気浴サウナ宿5選</span>
             </a>
             <a href="/silver-week-glamping-kyushu-fukuoka-kumamoto-guide/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「九州シルバーウィーク グランピング」 阿蘇カルデラ・糸島ビーチ・別府由布院 源泉かけ流し温泉＆九州黒毛和牛BBQステイ</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「九州シルバーウィーク グランピング」 阿蘇カルデラ・糸島ビーチ・別府由布院 源泉かけ流し温泉＆九州黒毛和牛BBQステイ</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

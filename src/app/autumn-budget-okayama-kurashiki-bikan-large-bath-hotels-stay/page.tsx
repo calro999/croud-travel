@@ -42,7 +42,7 @@ export default function KurashikiBudgetAutumnPage() {
             <span className="px-3 py-1 bg-stone-800 text-amber-300 text-xs font-medium rounded-full border border-amber-400/30">1泊目安: 4,000円台〜7,000円台</span>
           </div>
           <h1 className="text-2xl md:text-4xl lg:text-5xl font-extrabold text-white leading-tight mb-4 drop-shadow-md">「秋の倉敷美観地区×格安」白壁の町並み紅葉と大原美術館！大浴場付き1泊4,000円〜7,000円台のコスパ最強ホテル5選</h1>
-          <p className="text-stone-200 text-sm md:text-base max-w-3xl line-clamp-2 md:line-clamp-none">
+          <p className="text-stone-200 text-sm md:text-base max-w-3xl">
             倉敷川の水面に映る白壁土蔵と鮮やかな紅葉の錦。大原美術館の名画鑑賞や本町通りの町屋カフェ巡りを楽しみ、足を伸ばせる大浴場で寛げる倉敷のコスパ最強ホテルをご紹介します。
           </p>
         </div>
@@ -98,7 +98,7 @@ export default function KurashikiBudgetAutumnPage() {
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 栄（岡山）駅 / 水島臨海鉄道 栄駅より徒歩にて2分 / 瀬戸中央道 水島ICより10分
                   </p>
-                  <p className="text-sm text-stone-600 mb-4 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-stone-600 mb-4 leading-relaxed">
                     駐車場、天然温泉、健康朝食バイキングがすべて無料！！※天然温泉は月～金は終日男性専用です※
                   </p>
                 </div>
@@ -143,7 +143,7 @@ export default function KurashikiBudgetAutumnPage() {
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 常盤（岡山）駅 / 水島臨海鉄道水島本線常盤駅より徒歩5分。瀬戸内中央自動車道水島ICより約14分。
                   </p>
-                  <p className="text-sm text-stone-600 mb-4 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-stone-600 mb-4 leading-relaxed">
                     約30種類の手作り朝食が人気◎コンビニ隣接◆大浴場＆無料駐車場有り◆大型車両もOK（有料・要予約）
                   </p>
                 </div>
@@ -188,7 +188,7 @@ export default function KurashikiBudgetAutumnPage() {
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 倉敷駅 / 【商店街アーケード直結】倉敷駅より徒歩にて約５分　
                   </p>
-                  <p className="text-sm text-stone-600 mb-4 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-stone-600 mb-4 leading-relaxed">
                     2020年11月Open★倉敷駅前・商店街アーケード直結の好立地。絶景ラウンジで優雅な朝食を
                   </p>
                 </div>
@@ -233,7 +233,7 @@ export default function KurashikiBudgetAutumnPage() {
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 倉敷駅 / 山陽本線ＪＲ倉敷駅から徒歩で３分。
                   </p>
-                  <p className="text-sm text-stone-600 mb-4 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-stone-600 mb-4 leading-relaxed">
                     JR倉敷駅から徒歩3分、湯と癒しの上質なひとときを♪　ビジネス・観光に最適なホテルです。
                   </p>
                 </div>
@@ -278,7 +278,7 @@ export default function KurashikiBudgetAutumnPage() {
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 倉敷駅 / JR倉敷駅南口より徒歩7分
                   </p>
-                  <p className="text-sm text-stone-600 mb-4 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-stone-600 mb-4 leading-relaxed">
                     2025年4月リニューアルオープン！サウナ付き天然温泉大浴場完備。美観地区まで徒歩１分。朝食も人気。
                   </p>
                 </div>

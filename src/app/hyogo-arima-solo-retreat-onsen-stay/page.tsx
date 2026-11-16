@@ -369,19 +369,19 @@ export default function ArticlePage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/furusato-tax-arima-onsen-gold-silver-kobe-beef-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">有馬温泉をふるさと納税でお得に旅する！金泉・銀泉のダブル湯巡り＆極上神戸牛！老舗名門宿特集｜兵衛向陽閣・欽山・中の坊瑞苑</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">有馬温泉をふるさと納税でお得に旅する！金泉・銀泉のダブル湯巡り＆極上神戸牛！老舗名門宿特集｜兵衛向陽閣・欽山・中の坊瑞苑</span>
             </a>
             <a href="/furusato-tax-arima-zuihoji-autumn-leaves-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">有馬温泉・瑞宝寺公園の錦秋もみじ狩り＆太閤の金泉銀泉！極上神戸牛会席宿×ふるさと納税厳選ガイド兵庫</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">有馬温泉・瑞宝寺公園の錦秋もみじ狩り＆太閤の金泉銀泉！極上神戸牛会席宿×ふるさと納税厳選ガイド兵庫</span>
             </a>
             <a href="/furusato-tax-crab-all-you-can-eat-winter-buffet-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">冬の味覚の王様！本場カニ食べ放題＆極上松葉ガニ名門宿×ふるさと納税極上旅ガイド夕日ヶ浦・城崎温泉で絶品カニ旅</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">冬の味覚の王様！本場カニ食べ放題＆極上松葉ガニ名門宿×ふるさと納税極上旅ガイド夕日ヶ浦・城崎温泉で絶品カニ旅</span>
             </a>
             <a href="/furusato-tax-hyogo-kobe-rokko-autumn-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">兵庫・神戸 六甲山紅葉パノラマ＆日本三古湯 有馬温泉！金泉・銀泉の極上湯処と神戸牛会席｜ふるさと納税で泊まれる名宿ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">兵庫・神戸 六甲山紅葉パノラマ＆日本三古湯 有馬温泉！金泉・銀泉の極上湯処と神戸牛会席｜ふるさと納税で泊まれる名宿ガイド</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

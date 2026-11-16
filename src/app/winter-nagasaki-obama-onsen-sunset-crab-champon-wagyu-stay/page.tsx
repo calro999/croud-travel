@@ -599,8 +599,8 @@ export default function NagasakiObamaWinterPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">長崎・雲仙温泉</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">雲仙地獄の湯煙と普賢岳霧氷・雲仙あかね牛名宿</h4>
-              <p className="text-[11px] text-stone-200 line-clamp-2">
+              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition">雲仙地獄の湯煙と普賢岳霧氷・雲仙あかね牛名宿</h4>
+              <p className="text-[11px] text-stone-200">
                 白濁の濃厚硫黄泉と初冬の雲仙地獄、山上の静寂と極上和牛を堪能する休日。
               </p>
             </Link>
@@ -610,8 +610,8 @@ export default function NagasakiObamaWinterPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">熊本・杖立温泉</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">元祖むし湯と地獄蒸し＆肥後あか牛名宿</h4>
-              <p className="text-[11px] text-stone-200 line-clamp-2">
+              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition">元祖むし湯と地獄蒸し＆肥後あか牛名宿</h4>
+              <p className="text-[11px] text-stone-200">
                 立ち上る湯けむりと開湯1800年の天然サウナ、名物杖立プリンと阿蘇あか牛。
               </p>
             </Link>
@@ -621,8 +621,8 @@ export default function NagasakiObamaWinterPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">佐賀・武雄温泉</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">国重文朱塗り楼門美肌古湯＆最高峰A5佐賀牛名宿</h4>
-              <p className="text-[11px] text-stone-200 line-clamp-2">
+              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition">国重文朱塗り楼門美肌古湯＆最高峰A5佐賀牛名宿</h4>
+              <p className="text-[11px] text-stone-200">
                 辰野金吾設計の楼門と1300年の美肌湯、極上佐賀牛すき焼きを味わう冬旅。
               </p>
             </Link>

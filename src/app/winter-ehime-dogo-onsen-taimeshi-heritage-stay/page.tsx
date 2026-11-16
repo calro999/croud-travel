@@ -632,7 +632,7 @@ export default function DogoWinterPage() {
               className="bg-white p-4 rounded-2xl border border-stone-200/80 hover:border-orange-700 hover:shadow-md transition group block"
             >
               <span className="text-[10px] font-extrabold text-orange-800 uppercase block mb-1">四国の冬名物</span>
-              <h3 className="text-sm font-bold text-stone-900 group-hover:text-orange-800 transition line-clamp-2">【高知ゆず湯】冬至の香り豊かな柚子風呂と土佐藁焼き鰹タタキ・極上宿</h3>
+              <h3 className="text-sm font-bold text-stone-900 group-hover:text-orange-800 transition">【高知ゆず湯】冬至の香り豊かな柚子風呂と土佐藁焼き鰹タタキ・極上宿</h3>
             </Link>
 
             <Link 
@@ -640,7 +640,7 @@ export default function DogoWinterPage() {
               className="bg-white p-4 rounded-2xl border border-stone-200/80 hover:border-orange-700 hover:shadow-md transition group block"
             >
               <span className="text-[10px] font-extrabold text-orange-800 uppercase block mb-1">九州の冬グルメ</span>
-              <h3 className="text-sm font-bold text-stone-900 group-hover:text-orange-800 transition line-clamp-2">【博多クリスマス】国内最大級アドベントイルミとモツ鍋・水炊き極上ステイ</h3>
+              <h3 className="text-sm font-bold text-stone-900 group-hover:text-orange-800 transition">【博多クリスマス】国内最大級アドベントイルミとモツ鍋・水炊き極上ステイ</h3>
             </Link>
 
             <Link 
@@ -648,7 +648,7 @@ export default function DogoWinterPage() {
               className="bg-white p-4 rounded-2xl border border-stone-200/80 hover:border-orange-700 hover:shadow-md transition group block"
             >
               <span className="text-[10px] font-extrabold text-orange-800 uppercase block mb-1">九州の湧出量日本一</span>
-              <h3 className="text-sm font-bold text-stone-900 group-hover:text-orange-800 transition line-clamp-2">【別府温泉】湯けむり展望露天風呂と名物地獄蒸し料理・老舗湯宿</h3>
+              <h3 className="text-sm font-bold text-stone-900 group-hover:text-orange-800 transition">【別府温泉】湯けむり展望露天風呂と名物地獄蒸し料理・老舗湯宿</h3>
             </Link>
 
             <Link 
@@ -656,7 +656,7 @@ export default function DogoWinterPage() {
               className="bg-white p-4 rounded-2xl border border-stone-200/80 hover:border-orange-700 hover:shadow-md transition group block"
             >
               <span className="text-[10px] font-extrabold text-orange-800 uppercase block mb-1">関西の冬名湯</span>
-              <h3 className="text-sm font-bold text-stone-900 group-hover:text-orange-800 transition line-clamp-2">【城崎温泉】青タグ津居山ガニの極上フルコースと七つの外湯めぐり</h3>
+              <h3 className="text-sm font-bold text-stone-900 group-hover:text-orange-800 transition">【城崎温泉】青タグ津居山ガニの極上フルコースと七つの外湯めぐり</h3>
             </Link>
 
             <Link 
@@ -664,7 +664,7 @@ export default function DogoWinterPage() {
               className="bg-white p-4 rounded-2xl border border-stone-200/80 hover:border-orange-700 hover:shadow-md transition group block"
             >
               <span className="text-[10px] font-extrabold text-orange-800 uppercase block mb-1">東海の冬絶景</span>
-              <h3 className="text-sm font-bold text-stone-900 group-hover:text-orange-800 transition line-clamp-2">【伊勢志摩】冬至の宇治橋鳥居日の出絶景と的矢かき・伊勢海老会席</h3>
+              <h3 className="text-sm font-bold text-stone-900 group-hover:text-orange-800 transition">【伊勢志摩】冬至の宇治橋鳥居日の出絶景と的矢かき・伊勢海老会席</h3>
             </Link>
 
             <Link 
@@ -672,7 +672,7 @@ export default function DogoWinterPage() {
               className="bg-white p-4 rounded-2xl border border-stone-200/80 hover:border-orange-700 hover:shadow-md transition group block"
             >
               <span className="text-[10px] font-extrabold text-orange-800 uppercase block mb-1">山陰のラジウム温泉</span>
-              <h3 className="text-sm font-bold text-stone-900 group-hover:text-orange-800 transition line-clamp-2">【三朝温泉】世界屈指の高濃度ラジウム泉とブランド松葉ガニづくし会席</h3>
+              <h3 className="text-sm font-bold text-stone-900 group-hover:text-orange-800 transition">【三朝温泉】世界屈指の高濃度ラジウム泉とブランド松葉ガニづくし会席</h3>
             </Link>
           
       <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">

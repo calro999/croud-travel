@@ -87,14 +87,14 @@ export default function HotelBlogReviewSection({
         )}
         <div className="bg-white rounded-2xl p-3 border border-stone-200 shadow-2xs">
           <div className="text-[11px] font-bold text-stone-500">所在地</div>
-          <div className="text-xs md:text-sm font-bold text-teal-950 mt-1 line-clamp-1">
+          <div className="text-xs md:text-sm font-bold text-teal-950 mt-1">
             {prefecture} {area}
           </div>
         </div>
         {recommendedFor && recommendedFor.length > 0 && (
           <div className="bg-white rounded-2xl p-3 border border-stone-200 shadow-2xs">
             <div className="text-[11px] font-bold text-stone-500">おすすめ層</div>
-            <div className="text-xs md:text-sm font-bold text-teal-950 mt-1 line-clamp-1">
+            <div className="text-xs md:text-sm font-bold text-teal-950 mt-1">
               {recommendedFor.join("・")}
             </div>
           </div>

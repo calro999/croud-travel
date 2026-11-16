@@ -298,14 +298,14 @@ export default function SilverWeekGlampingHotspringOnsenSpaPage() {
                     ♨️ {hotel.address1} {hotel.address2}
                   </div>
 
-                  <h3 className="font-black text-stone-900 text-base leading-snug group-hover:text-amber-700 transition line-clamp-2 font-journal-serif">{hotel.hotelName}</h3>
+                  <h3 className="font-black text-stone-900 text-base leading-snug group-hover:text-amber-700 transition font-journal-serif">{hotel.hotelName}</h3>
 
-                  <p className="text-xs text-stone-600 line-clamp-3 leading-relaxed font-medium">
+                  <p className="text-xs text-stone-600 leading-relaxed font-medium">
                     {hotel.hotelSpecial || "天然温泉の豊かな恵みと本格的なグランピングBBQを同時に味わえる至高のリゾート。"}
                   </p>
 
                   {hotel.access && (
-                    <p className="text-[11px] text-stone-500 line-clamp-1">
+                    <p className="text-[11px] text-stone-500">
                       🚗 {hotel.access}
                     </p>
                   )}
@@ -371,7 +371,7 @@ export default function SilverWeekGlampingHotspringOnsenSpaPage() {
             <span className="text-[10px] font-bold text-amber-800 bg-amber-100 px-2 py-0.5 rounded-full inline-block mb-1.5">
               草津温泉予算ガイド
             </span>
-            <div className="font-bold text-xs sm:text-sm text-stone-900 group-hover:text-amber-700 transition line-clamp-2">
+            <div className="font-bold text-xs sm:text-sm text-stone-900 group-hover:text-amber-700 transition">
               【草津温泉旅行の予算と費用相場】湯畑周辺の人気宿・湯もみ体験・食べ歩きまで完全解説
             </div>
           </Link>
@@ -383,7 +383,7 @@ export default function SilverWeekGlampingHotspringOnsenSpaPage() {
             <span className="text-[10px] font-bold text-amber-800 bg-amber-100 px-2 py-0.5 rounded-full inline-block mb-1.5">
               箱根紅葉＆露天風呂
             </span>
-            <div className="font-bold text-xs sm:text-sm text-stone-900 group-hover:text-amber-700 transition line-clamp-2">
+            <div className="font-bold text-xs sm:text-sm text-stone-900 group-hover:text-amber-700 transition">
               【箱根紅葉ライトアップ＆名湯宿特集】秋の夜長を彩る絶景露天風呂と紅葉庭園ガイド
             </div>
           </Link>

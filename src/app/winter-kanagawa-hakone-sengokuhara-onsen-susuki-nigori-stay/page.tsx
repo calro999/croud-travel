@@ -333,7 +333,7 @@ export default function HakoneSengokuharaWinterPage() {
                       <span className="text-slate-400 font-normal">({h.reviews}件)</span>
                     </div>
                     <div className="absolute bottom-4 left-4 right-4 bg-gradient-to-t from-slate-950/80 via-slate-950/40 to-transparent p-3 rounded-2xl text-white text-xs">
-                      <p className="font-semibold line-clamp-1">{h.special}</p>
+                      <p className="font-semibold">{h.special}</p>
                     </div>
                   </div>
 
@@ -387,7 +387,7 @@ export default function HakoneSengokuharaWinterPage() {
                     <div className="pt-4 border-t border-slate-100 flex flex-col sm:flex-row items-center justify-between gap-4">
                       <div className="text-[11px] text-slate-500 flex items-center gap-1 self-start sm:self-center">
                         <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
-                        <span className="line-clamp-1">{h.access}</span>
+                        <span className="">{h.access}</span>
                       </div>
 
                       <a

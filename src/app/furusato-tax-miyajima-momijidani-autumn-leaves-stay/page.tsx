@@ -362,19 +362,19 @@ export default function FeatureArticlePage() {
             <ul className="space-y-4 text-xs md:text-sm">
               <li>
                 <a href={HOTEL_DATA.miyajima_kurayado_iroha.url} target="_blank" rel="sponsored noopener noreferrer" className="block p-3 rounded-xl hover:bg-stone-50 transition border border-stone-100 hover:border-amber-200">
-                  <div className="font-bold text-stone-800 line-clamp-1">{HOTEL_DATA.miyajima_kurayado_iroha.name}</div>
+                  <div className="font-bold text-stone-800">{HOTEL_DATA.miyajima_kurayado_iroha.name}</div>
                   <div className="text-stone-500 text-xs mt-1">★ {HOTEL_DATA.miyajima_kurayado_iroha.rating} | 楽天トラベルで詳細確認</div>
                 </a>
               </li>
               <li>
                 <a href={HOTEL_DATA.miyajima_kinyoso.url} target="_blank" rel="sponsored noopener noreferrer" className="block p-3 rounded-xl hover:bg-stone-50 transition border border-stone-100 hover:border-amber-200">
-                  <div className="font-bold text-stone-800 line-clamp-1">{HOTEL_DATA.miyajima_kinyoso.name}</div>
+                  <div className="font-bold text-stone-800">{HOTEL_DATA.miyajima_kinyoso.name}</div>
                   <div className="text-stone-500 text-xs mt-1">★ {HOTEL_DATA.miyajima_kinyoso.rating} | 楽天トラベルで詳細確認</div>
                 </a>
               </li>
               <li>
                 <a href={HOTEL_DATA.miyajima_morinoyado.url} target="_blank" rel="sponsored noopener noreferrer" className="block p-3 rounded-xl hover:bg-stone-50 transition border border-stone-100 hover:border-amber-200">
-                  <div className="font-bold text-stone-800 line-clamp-1">{HOTEL_DATA.miyajima_morinoyado.name}</div>
+                  <div className="font-bold text-stone-800">{HOTEL_DATA.miyajima_morinoyado.name}</div>
                   <div className="text-stone-500 text-xs mt-1">★ {HOTEL_DATA.miyajima_morinoyado.rating} | 楽天トラベルで詳細確認</div>
                 </a>
               </li>
@@ -491,19 +491,19 @@ export default function FeatureArticlePage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/furusato-tax-setouchi-island-luxury-ocean-resort-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">穏やかな海と多島美に癒やされる瀬戸内アイランドリゾート名宿×ふるさと納税厳選ガイド小豆島・鞆の浦・生口島</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">穏やかな海と多島美に癒やされる瀬戸内アイランドリゾート名宿×ふるさと納税厳選ガイド小豆島・鞆の浦・生口島</span>
             </a>
             <a href="/hiroshima-onomichi-shimanami-mukoujima-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「広島・尾道＆しまなみ海道向島」千光寺坂の街・猫の細道＆尾道ラーメン・サイクリング宿 厳選ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「広島・尾道＆しまなみ海道向島」千光寺坂の街・猫の細道＆尾道ラーメン・サイクリング宿 厳選ガイド</span>
             </a>
             <a href="/tokyo-hiroshima-bus-vs-shinkansen-guide/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「東京〜広島」新幹線 vs 飛行機 vs 夜行バス徹底比較！厳島神社＆広島お好み焼き1泊2日モデルコース</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「東京〜広島」新幹線 vs 飛行機 vs 夜行バス徹底比較！厳島神社＆広島お好み焼き1泊2日モデルコース</span>
             </a>
             <a href="/winter-hiroshima-miyajima-etajima-oyster-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「11・12・1月広島」冬の瀬戸内「広島牡蠣」焼き牡蠣・土手鍋＆世界遺産・宮島厳島神社の初詣・江田島温泉を巡る厳選名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「11・12・1月広島」冬の瀬戸内「広島牡蠣」焼き牡蠣・土手鍋＆世界遺産・宮島厳島神社の初詣・江田島温泉を巡る厳選名宿5選</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

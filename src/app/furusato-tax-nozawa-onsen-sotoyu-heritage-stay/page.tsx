@@ -546,19 +546,19 @@ export default function FurusatoArticlePage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/nagano-station-solo-business-onsen-sauna-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「長野駅前出張・天然温泉サウナ」北陸新幹線・善光寺門前町・天然温泉善光の湯！信州の山並みを仰ぐ厳選3宿</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「長野駅前出張・天然温泉サウナ」北陸新幹線・善光寺門前町・天然温泉善光の湯！信州の山並みを仰ぐ厳選3宿</span>
             </a>
             <a href="/nagano-togakushi-zenkoji-monzen-obuse-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「長野・戸隠＆善光寺門前・小布施」戸隠神社五社・杉並木・善光寺お朝事＆小布施栗宿 厳選ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「長野・戸隠＆善光寺門前・小布施」戸隠神社五社・杉並木・善光寺お朝事＆小布施栗宿 厳選ガイド</span>
             </a>
             <a href="/silver-week-glamping-wine-brewery-craftbeer-guide/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「ワイナリー・クラフトビール付きグランピング」勝沼・長野で楽しむ！美酒とペアリングBBQの秋旅</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「ワイナリー・クラフトビール付きグランピング」勝沼・長野で楽しむ！美酒とペアリングBBQの秋旅</span>
             </a>
             <a href="/winter-nagano-achimura-hirugami-starry-sky-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12月阿智村の日本一の星空ナイトツアー】 昼神温泉の極上美肌湯と南信州冬の味覚宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">【11・12月阿智村の日本一の星空ナイトツアー】 昼神温泉の極上美肌湯と南信州冬の味覚宿5選</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

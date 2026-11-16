@@ -762,7 +762,7 @@ export default function GeroWinterPage() {
             >
               <span className="text-[11px] font-bold text-sky-800 bg-sky-100/80 px-2 py-0.5 rounded">岐阜冬特集</span>
               <h3 className="font-bold text-stone-900 text-sm group-hover:text-amber-900 transition-colors">白川郷合掌造りライトアップと飛騨高山温泉宿</h3>
-              <p className="text-xs text-stone-500 line-clamp-2">
+              <p className="text-xs text-stone-500">
                 世界遺産白川郷の幻想的な雪景色ライトアップと小京都・高山の町並み。
               </p>
             </Link>
@@ -773,7 +773,7 @@ export default function GeroWinterPage() {
             >
               <span className="text-[11px] font-bold text-rose-800 bg-rose-100/80 px-2 py-0.5 rounded">東海イルミ特集</span>
               <h3 className="font-bold text-stone-900 text-sm group-hover:text-rose-900 transition-colors">なばなの里イルミネーションと長島温泉の贅沢宿</h3>
-              <p className="text-xs text-stone-500 line-clamp-2">
+              <p className="text-xs text-stone-500">
                 日本最大級の光のトンネルと大パノラマイルミネーション、広大な庭園露天風呂。
               </p>
             </Link>
@@ -784,7 +784,7 @@ export default function GeroWinterPage() {
             >
               <span className="text-[11px] font-bold text-teal-800 bg-teal-100/80 px-2 py-0.5 rounded">冬花火特集</span>
               <h3 className="font-bold text-stone-900 text-sm group-hover:text-teal-900 transition-colors">熱海海上花火大会とオーシャンビュー温泉ホテル</h3>
-              <p className="text-xs text-stone-500 line-clamp-2">
+              <p className="text-xs text-stone-500">
                 冬の夜空と相模湾を染める名物海上花火と海を望む絶景展望温泉。
               </p>
             </Link>

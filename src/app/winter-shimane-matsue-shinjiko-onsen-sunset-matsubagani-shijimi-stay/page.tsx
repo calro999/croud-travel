@@ -382,7 +382,7 @@ export default function WinterShimaneMatsuePage() {
                     <div className="absolute bottom-4 left-4 right-4 bg-slate-950/75 text-white p-3 rounded-xl backdrop-blur-xs text-xs space-y-1">
                       <div className="flex items-center gap-1 text-teal-300 font-semibold">
                         <MapPin className="w-3.5 h-3.5 shrink-0" />
-                        <span className="line-clamp-1">{hotel.access}</span>
+                        <span className="">{hotel.access}</span>
                       </div>
                     </div>
                   </div>
@@ -598,8 +598,8 @@ export default function WinterShimaneMatsuePage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">島根・玉造温泉</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">玉造温泉の神の湯美肌露天と松葉ガニ・しまね和牛会席宿</h4>
-              <p className="text-[11px] text-teal-100 line-clamp-2">
+              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition">玉造温泉の神の湯美肌露天と松葉ガニ・しまね和牛会席宿</h4>
+              <p className="text-[11px] text-teal-100">
                 日本最古の美肌温泉と冬の山陰グルメを心ゆくまで堪能。
               </p>
             </Link>
@@ -609,8 +609,8 @@ export default function WinterShimaneMatsuePage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">鳥取・皆生温泉</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">皆生温泉の日本海オーシャンビュー雪見露天と松葉ガニ宿</h4>
-              <p className="text-[11px] text-teal-100 line-clamp-2">
+              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition">皆生温泉の日本海オーシャンビュー雪見露天と松葉ガニ宿</h4>
+              <p className="text-[11px] text-teal-100">
                 美保湾越しに望む白雪の大山と境港直送の獲れたて松葉ガニ。
               </p>
             </Link>
@@ -620,8 +620,8 @@ export default function WinterShimaneMatsuePage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">鳥取・三朝温泉</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">三朝温泉の世界屈指ラジウム泉雪見湯治と松葉ガニ宿</h4>
-              <p className="text-[11px] text-teal-100 line-clamp-2">
+              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition">三朝温泉の世界屈指ラジウム泉雪見湯治と松葉ガニ宿</h4>
+              <p className="text-[11px] text-teal-100">
                 三朝橋の河原露天風呂とホルミシス効果、極上カニ鍋を堪能。
               </p>
             </Link>

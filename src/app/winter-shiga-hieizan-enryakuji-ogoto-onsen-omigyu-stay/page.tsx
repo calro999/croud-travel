@@ -579,7 +579,7 @@ export default function ShigaHieizanOgotoPage() {
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-amber-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-amber-700 font-bold text-xs block mb-1">滋賀・長浜太閤温泉</span>
-              <span className="text-stone-900 font-bold group-hover:text-amber-800 transition-colors line-clamp-2">
+              <span className="text-stone-900 font-bold group-hover:text-amber-800 transition-colors">
                 琵琶湖雪景色と天然真鴨の鴨鍋・極上近江牛を味わう名宿
               </span>
             </Link>
@@ -589,7 +589,7 @@ export default function ShigaHieizanOgotoPage() {
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-amber-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-amber-700 font-bold text-xs block mb-1">滋賀・彦根＆近江八幡</span>
-              <span className="text-stone-900 font-bold group-hover:text-amber-800 transition-colors line-clamp-2">
+              <span className="text-stone-900 font-bold group-hover:text-amber-800 transition-colors">
                 国宝彦根城の雪景色と八幡堀水郷・極上近江牛すき焼き名宿
               </span>
             </Link>
@@ -599,7 +599,7 @@ export default function ShigaHieizanOgotoPage() {
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-amber-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-amber-700 font-bold text-xs block mb-1">京都・大原三千院</span>
-              <span className="text-stone-900 font-bold group-hover:text-amber-800 transition-colors line-clamp-2">
+              <span className="text-stone-900 font-bold group-hover:text-amber-800 transition-colors">
                 静寂の洛北・三千院白銀雪景色と宝泉院額縁庭園・大原温泉名宿
               </span>
             </Link>
@@ -609,7 +609,7 @@ export default function ShigaHieizanOgotoPage() {
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-amber-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-amber-700 font-bold text-xs block mb-1">京都・貴船＆鞍馬</span>
-              <span className="text-stone-900 font-bold group-hover:text-amber-800 transition-colors line-clamp-2">
+              <span className="text-stone-900 font-bold group-hover:text-amber-800 transition-colors">
                 雪の貴船神社ライトアップと名物ぼたん鍋・冬の奥座敷名宿
               </span>
             </Link>
@@ -619,7 +619,7 @@ export default function ShigaHieizanOgotoPage() {
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-amber-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-amber-700 font-bold text-xs block mb-1">和歌山・高野山</span>
-              <span className="text-stone-900 font-bold group-hover:text-amber-800 transition-colors line-clamp-2">
+              <span className="text-stone-900 font-bold group-hover:text-amber-800 transition-colors">
                 雪の奥之院静寂参拝と歴史ある宿坊ステイ・精進料理名宿
               </span>
             </Link>
@@ -629,7 +629,7 @@ export default function ShigaHieizanOgotoPage() {
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-amber-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-amber-700 font-bold text-xs block mb-1">兵庫・有馬温泉</span>
-              <span className="text-stone-900 font-bold group-hover:text-amber-800 transition-colors line-clamp-2">
+              <span className="text-stone-900 font-bold group-hover:text-amber-800 transition-colors">
                 日本三古湯の金泉・銀泉と極上神戸牛会席を堪能する名宿
               </span>
             </Link>

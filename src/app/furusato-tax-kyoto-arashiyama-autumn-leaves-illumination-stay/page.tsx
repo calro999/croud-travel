@@ -510,19 +510,19 @@ export default function FurusatoKyotoArashiyamaAutumnLeavesStayPage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/traditional-kyoto-nishijin-ori-kimono-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「西陣織と伝統美」着物レンタル＆町家数寄屋造りの雅な滞在！京都・嵐山の風情溢れる温泉旅館5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「西陣織と伝統美」着物レンタル＆町家数寄屋造りの雅な滞在！京都・嵐山の風情溢れる温泉旅館5選</span>
             </a>
             <a href="/winter-akita-kakunodate-bukeyashiki-snow-kiritanpo-hinaijidori-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">陸奥の小京都・角館武家屋敷の雪景色＆冬の田沢湖！ 本場比内地鶏きりたんぽ鍋と名湯に寛ぐ名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">陸奥の小京都・角館武家屋敷の雪景色＆冬の田沢湖！ 本場比内地鶏きりたんぽ鍋と名湯に寛ぐ名宿5選</span>
             </a>
             <a href="/winter-hiroshima-saijo-takehara-sake-brewery-bikan-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">広島・東広島西条＆竹原 西条酒蔵通りの冬新酒仕込みと名物「美酒鍋」！ 安芸の小京都・竹原町並み保存地区＆厳選名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">広島・東広島西条＆竹原 西条酒蔵通りの冬新酒仕込みと名物「美酒鍋」！ 安芸の小京都・竹原町並み保存地区＆厳選名宿5選</span>
             </a>
             <a href="/winter-kagoshima-chiran-samurai-makurazaki-katsuo-kaimondake-kurobuta-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「薩摩の小京都・知覧武家屋敷庭園と開聞岳絶景」2026-2027年冬の鹿児島・南薩摩＆枕崎！本場一本釣り鰹と鹿児島黒豚・黒牛会席名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「薩摩の小京都・知覧武家屋敷庭園と開聞岳絶景」2026-2027年冬の鹿児島・南薩摩＆枕崎！本場一本釣り鰹と鹿児島黒豚・黒牛会席名宿5選</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

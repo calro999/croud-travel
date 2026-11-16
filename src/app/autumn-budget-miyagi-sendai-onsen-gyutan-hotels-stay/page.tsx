@@ -42,7 +42,7 @@ export default function SendaiBudgetAutumnPage() {
             <span className="px-3 py-1 bg-stone-800 text-amber-300 text-xs font-medium rounded-full border border-amber-400/30">1泊目安: 4,000円台〜7,000円台</span>
           </div>
           <h1 className="text-2xl md:text-4xl lg:text-5xl font-extrabold text-white leading-tight mb-4 drop-shadow-md">「秋の仙台×格安」定禅寺通りのケヤキ紅葉と牛たんグルメ！天然温泉付き1泊4,000円台〜のコスパ最強おすすめホテル5選</h1>
-          <p className="text-stone-200 text-sm md:text-base max-w-3xl line-clamp-2 md:line-clamp-none">
+          <p className="text-stone-200 text-sm md:text-base max-w-3xl">
             杜の都を象徴する定禅寺通りを黄金色に染め上げるケヤキ並木。名物の極厚炭火焼き牛たんや宮城の秋の味覚「はらこ飯」を味わい、自家源泉やサウナで旅の疲れをほぐす高コスパホテルをご案内します。
           </p>
         </div>
@@ -98,7 +98,7 @@ export default function SendaiBudgetAutumnPage() {
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 仙台駅 / 地下鉄　広瀬通り駅より徒歩で約3分／ＪＲ　仙台駅より徒歩で15分　繁華街国分町徒歩10分
                   </p>
-                  <p className="text-sm text-stone-600 mb-4 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-stone-600 mb-4 leading-relaxed">
                     仙台駅徒歩約8分、広瀬通駅徒歩1分、国分町5分。天然温泉付で朝食無料。全室WiFi完備
                   </p>
                 </div>
@@ -143,7 +143,7 @@ export default function SendaiBudgetAutumnPage() {
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 勾当台公園駅 / 地下鉄南北線「勾当台公園駅」南出口3より徒歩6分/地下鉄東西線「青葉通一番町」より徒歩10分/「仙台宮城IC」より車6分
                   </p>
-                  <p className="text-sm text-stone-600 mb-4 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-stone-600 mb-4 leading-relaxed">
                     美人の湯と呼ばれる天然温泉とサステナブルな朝食を堪能できる上質なホテルで国分町の夜をお楽しみください
                   </p>
                 </div>
@@ -188,7 +188,7 @@ export default function SendaiBudgetAutumnPage() {
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 仙台駅 / 仙台駅東口より徒歩で約５分/北部名掛丁自由通路」を通り出口を出てから徒歩2分/高速バス「仙台駅前」のりばから徒歩5分
                   </p>
-                  <p className="text-sm text-stone-600 mb-4 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-stone-600 mb-4 leading-relaxed">
                     【仙台駅徒歩5分の好立地】天然温泉◆無料健康朝食とウェルカムバー◆ぐっすり眠れるホテル◆全館禁煙
                   </p>
                 </div>
@@ -233,7 +233,7 @@ export default function SendaiBudgetAutumnPage() {
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 仙台駅 / JR仙台駅西口より徒歩約5分。東北道宮城ＩＣより１５分。仙台空港線で約３０分。高速バス停留所より徒歩２分。駅前通沿い。
                   </p>
-                  <p className="text-sm text-stone-600 mb-4 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-stone-600 mb-4 leading-relaxed">
                     天然温泉大浴場と高温サウナ完備。アイス乳酸菌飲料無料サービスと朝食 は海鮮丼と和洋食バイキング！
                   </p>
                 </div>
@@ -278,7 +278,7 @@ export default function SendaiBudgetAutumnPage() {
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 岩沼駅 / JR岩沼駅より車で約8分 仙台東部道路【仙台空港IC】より車で約8分　仙台空港より車で約13分　
                   </p>
-                  <p className="text-sm text-stone-600 mb-4 line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-stone-600 mb-4 leading-relaxed">
                     仙台空港ＩＣより車で８分、ＪＲ岩沼駅より車で８分のアクセス。仙台空港からも車で１３分。
                   </p>
                 </div>

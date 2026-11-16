@@ -390,9 +390,9 @@ export default function KusatsuDaytripHotspringLunchPage() {
                   </div>
 
                   <div className="p-4 space-y-2">
-                    <h3 className="text-sm font-black font-journal-serif text-stone-900 line-clamp-2">{hotel.hotelName}</h3>
+                    <h3 className="text-sm font-black font-journal-serif text-stone-900">{hotel.hotelName}</h3>
                     {hotel.hotelSpecial && (
-                      <p className="text-[11px] text-stone-600 line-clamp-3 leading-relaxed">
+                      <p className="text-[11px] text-stone-600 leading-relaxed">
                         {hotel.hotelSpecial}
                       </p>
                     )}

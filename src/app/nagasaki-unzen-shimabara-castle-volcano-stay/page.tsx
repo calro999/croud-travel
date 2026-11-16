@@ -128,8 +128,8 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">雲仙温泉　ゆやど　雲仙新湯</h4>
-                      <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition">雲仙温泉　ゆやど　雲仙新湯</h4>
+                      <p className="text-xs text-stone-400 mt-1 leading-relaxed">
                         【美肌の湯】 は、どこよりも濃く。 “最上のご褒美” をお届け。個室食プラン、露天風呂付きプランあり
                       </p>
                       <div className="mt-3 text-xs text-stone-300">
@@ -214,8 +214,8 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">島原温泉　旅館海望荘</h4>
-                      <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition">島原温泉　旅館海望荘</h4>
+                      <p className="text-xs text-stone-400 mt-1 leading-relaxed">
                         島原港の高台に位置し、有明海を一望！島原の自然の恵みを使った自慢の料理と温泉で癒しのひと時を
                       </p>
                       <div className="mt-3 text-xs text-stone-300">
@@ -258,8 +258,8 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">ビジネス旅館　梅崎</h4>
-                      <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition">ビジネス旅館　梅崎</h4>
+                      <p className="text-xs text-stone-400 mt-1 leading-relaxed">
                         シンプルでリーズナブルなバストイレ付のお部屋で、仕事でゆっくり、家族や友達と楽しくご利用できます
                       </p>
                       <div className="mt-3 text-xs text-stone-300">
@@ -302,8 +302,8 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">雲仙温泉　雲仙スカイホテル</h4>
-                      <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition">雲仙温泉　雲仙スカイホテル</h4>
+                      <p className="text-xs text-stone-400 mt-1 leading-relaxed">
                         雲仙国立公園温泉街の中心に位置する温泉旅館。雲仙地蔵入口徒歩１分、源泉掛け流し大浴場露天風呂が自慢
                       </p>
                       <div className="mt-3 text-xs text-stone-300">
@@ -346,8 +346,8 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">ビジネスイン　うめさき</h4>
-                      <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition">ビジネスイン　うめさき</h4>
+                      <p className="text-xs text-stone-400 mt-1 leading-relaxed">
                         ビジネス、ご家族で、合宿セミナー等にもご利用下さい。遊園地グリーンランド゛まで車で15分！
                       </p>
                       <div className="mt-3 text-xs text-stone-300">
@@ -432,8 +432,8 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">小浜温泉　くつろぎの宿　旅館山田屋</h4>
-                      <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition">小浜温泉　くつろぎの宿　旅館山田屋</h4>
+                      <p className="text-xs text-stone-400 mt-1 leading-relaxed">
                         ★ふるさとで“心呼吸”の旅キャンペーン★九州絶景の湯ベスト１０に選ばれた檜造展望露天はまさに圧巻！！
                       </p>
                       <div className="mt-3 text-xs text-stone-300">
@@ -476,8 +476,8 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">小浜温泉　つたや旅館</h4>
-                      <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition">小浜温泉　つたや旅館</h4>
+                      <p className="text-xs text-stone-400 mt-1 leading-relaxed">
                         全室オーシャンビュー和室★大浴場＆5つの貸切展望風呂完備★日本一長い足湯まで徒歩5分♪
                       </p>
                       <div className="mt-3 text-xs text-stone-300">
@@ -605,19 +605,19 @@ export default function Page() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/nagasaki-unzen-onsen-hell-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「長崎・雲仙温泉」雲仙地獄の湯けむり＆白濁硫黄泉・レトロ洋館宿 厳選ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「長崎・雲仙温泉」雲仙地獄の湯けむり＆白濁硫黄泉・レトロ洋館宿 厳選ガイド</span>
             </a>
             <a href="/sasebo-solo-business-kujukushima-burger-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「佐世保出張・西九州ひとり旅」九十九島パノラマ・天然温泉ばってんの湯・名物佐世保バーガー！港町でととのう厳選3宿</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「佐世保出張・西九州ひとり旅」九十九島パノラマ・天然温泉ばってんの湯・名物佐世保バーガー！港町でととのう厳選3宿</span>
             </a>
             <a href="/traditional-nagasaki-hasami-yaki-porcelain-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「波佐見焼のモダン器美学」お洒落なうつわで味わう長崎創作フレンチ＆嬉野・雲仙温泉宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「波佐見焼のモダン器美学」お洒落なうつわで味わう長崎創作フレンチ＆嬉野・雲仙温泉宿5選</span>
             </a>
             <a href="/winter-nagasaki-city-inasayama-nightview-glover-champon-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「11・12・1月長崎」世界新三大夜景・稲佐山1000万ドルの冬夜景とグラバー園イルミネーション＆本場ちゃんぽん・卓袱料理を巡る夜景特等席名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「11・12・1月長崎」世界新三大夜景・稲佐山1000万ドルの冬夜景とグラバー園イルミネーション＆本場ちゃんぽん・卓袱料理を巡る夜景特等席名宿5選</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

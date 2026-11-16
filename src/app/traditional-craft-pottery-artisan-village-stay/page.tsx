@@ -160,7 +160,7 @@ export default function Page() {
           <span>&gt;</span>
           <Link href="/features/" className="hover:text-emerald-700">特集一覧</Link>
           <span>&gt;</span>
-          <span className="text-stone-800 font-semibold truncate">陶芸体験×名窯元の美肌湯宿</span>
+          <span className="text-stone-800 font-semibold break-words">陶芸体験×名窯元の美肌湯宿</span>
         </div>
       </div>
 
@@ -348,19 +348,19 @@ export default function Page() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/traditional-crafts-pottery-gold-leaf-washi-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">伝統工芸体験宿厳選ガイド「金沢金箔・越前和紙・有田焼陶芸ステイ」</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">伝統工芸体験宿厳選ガイド「金沢金箔・越前和紙・有田焼陶芸ステイ」</span>
             </a>
             <a href="/traditional-saga-arita-yaki-imari-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「有田焼・伊万里焼の雅」人間国宝の器で味わう佐賀牛会席！嬉野・武雄の美肌温泉宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「有田焼・伊万里焼の雅」人間国宝の器で味わう佐賀牛会席！嬉野・武雄の美肌温泉宿5選</span>
             </a>
             <a href="/winter-saga-imari-arita-ookawachiyama-imarigyu-pottery-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「秘窯の里大川内山と最高峰伊万里牛」2026-2027年冬の佐賀・伊万里＆有田！名窯巡りと美食名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「秘窯の里大川内山と最高峰伊万里牛」2026-2027年冬の佐賀・伊万里＆有田！名窯巡りと美食名宿5選</span>
             </a>
             <a href="/winter-saga-takeo-onsen-romon-saga-beef-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12月武雄温泉の冬名湯と最高峰佐賀牛】 国重文・朱塗り楼門と1300年美肌古湯・御船山初冬風情＆極上佐賀牛会席の宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">【11・12月武雄温泉の冬名湯と最高峰佐賀牛】 国重文・朱塗り楼門と1300年美肌古湯・御船山初冬風情＆極上佐賀牛会席の宿5選</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

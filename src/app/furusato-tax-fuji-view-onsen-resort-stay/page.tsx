@@ -189,8 +189,8 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">富士河口湖温泉　富士山の見える温泉旅館　大池ホテル</h4>
-                            <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
+                            <h4 className="font-bold text-white text-sm group-hover:text-amber-300 transition">富士河口湖温泉　富士山の見える温泉旅館　大池ホテル</h4>
+                            <p className="text-xs text-slate-400 leading-relaxed">
                               山梨 富士山 河口湖 露天風呂 温泉 バイキング ブッフェ 温泉　貸切露天風呂
                             </p>
                             <p className="text-xs text-slate-500 flex items-center gap-1">
@@ -239,8 +239,8 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">河口湖温泉　山岸旅館</h4>
-                            <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
+                            <h4 className="font-bold text-white text-sm group-hover:text-amber-300 transition">河口湖温泉　山岸旅館</h4>
+                            <p className="text-xs text-slate-400 leading-relaxed">
                               河口湖駅から徒歩７分好立地の宿。遊覧船やロープウエイは目の前。富士急ハイランドは車で１０分。
                             </p>
                             <p className="text-xs text-slate-500 flex items-center gap-1">
@@ -289,8 +289,8 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">山梨県の温泉旅館　下部温泉郷　下部ホテル</h4>
-                            <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
+                            <h4 className="font-bold text-white text-sm group-hover:text-amber-300 transition">山梨県の温泉旅館　下部温泉郷　下部ホテル</h4>
+                            <p className="text-xs text-slate-400 leading-relaxed">
                               泉質の異なる「三種類の源泉」を、七つの露天風呂を含む大浴場など「十二の湯舟」でご堪能いただけます
                             </p>
                             <p className="text-xs text-slate-500 flex items-center gap-1">
@@ -352,8 +352,8 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">Ｇｏｄｅｒｅ　ｈｏｔｅｌ　富士山中湖　Ｔａｂｉｓｔ</h4>
-                            <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
+                            <h4 className="font-bold text-white text-sm group-hover:text-amber-300 transition">Ｇｏｄｅｒｅ　ｈｏｔｅｌ　富士山中湖　Ｔａｂｉｓｔ</h4>
+                            <p className="text-xs text-slate-400 leading-relaxed">
                               ワンちゃんと泊まれるグランピングドームあり！富士山を眺めながら楽しむ絶景BBQが自慢
                             </p>
                             <p className="text-xs text-slate-500 flex items-center gap-1">
@@ -402,8 +402,8 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">庭園と感動の宿　富士山温泉　ホテル鐘山苑</h4>
-                            <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
+                            <h4 className="font-bold text-white text-sm group-hover:text-amber-300 transition">庭園と感動の宿　富士山温泉　ホテル鐘山苑</h4>
+                            <p className="text-xs text-slate-400 leading-relaxed">
                               富士山の見える絶景露天風呂！【２０２４年プロが選んだ旅館１００選・全国総合８位】
                             </p>
                             <p className="text-xs text-slate-500 flex items-center gap-1">
@@ -452,8 +452,8 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">山中湖旭日丘温泉　ホテル清渓</h4>
-                            <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
+                            <h4 className="font-bold text-white text-sm group-hover:text-amber-300 transition">山中湖旭日丘温泉　ホテル清渓</h4>
+                            <p className="text-xs text-slate-400 leading-relaxed">
                               全室温泉＆大浴場完備！夕食はドリンク飲み放題付き。富士GCまで車で約4分！
                             </p>
                             <p className="text-xs text-slate-500 flex items-center gap-1">
@@ -515,8 +515,8 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">日本平ホテル</h4>
-                            <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
+                            <h4 className="font-bold text-white text-sm group-hover:text-amber-300 transition">日本平ホテル</h4>
+                            <p className="text-xs text-slate-400 leading-relaxed">
                               日本平が日本夜景遺産に認定★三保の松原を眼下に富士山を望む絶景を堪能
                             </p>
                             <p className="text-xs text-slate-500 flex items-center gap-1">
@@ -565,8 +565,8 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">ホテルグランヒルズ静岡（ＢＢＨホテルグループ）</h4>
-                            <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
+                            <h4 className="font-bold text-white text-sm group-hover:text-amber-300 transition">ホテルグランヒルズ静岡（ＢＢＨホテルグループ）</h4>
+                            <p className="text-xs text-slate-400 leading-relaxed">
                               静岡駅南口徒歩1分、デッキ直結の好立地。全室18階以上の眺望と夜景が魅力のランドマークホテル
                             </p>
                             <p className="text-xs text-slate-500 flex items-center gap-1">
@@ -615,8 +615,8 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">ホテルルートイン清水インター</h4>
-                            <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
+                            <h4 className="font-bold text-white text-sm group-hover:text-amber-300 transition">ホテルルートイン清水インター</h4>
+                            <p className="text-xs text-slate-400 leading-relaxed">
                               独立型デスクとソファで機能的な客室■人工温泉大浴場・ランドリー完備■朝食バイキング・駐車場無料
                             </p>
                             <p className="text-xs text-slate-500 flex items-center gap-1">
@@ -664,10 +664,10 @@ export default function FurusatoTaxPage() {
                 href="/furusato-tax-infinity-onsen-sky-ocean-view-stay/"
                 className="block p-4 rounded-2xl bg-slate-950/60 border border-slate-800/80 hover:border-amber-500/50 transition group"
               >
-                <div className="font-bold text-amber-400 group-hover:text-amber-300 transition text-sm mb-1 line-clamp-1">
+                <div className="font-bold text-amber-400 group-hover:text-amber-300 transition text-sm mb-1">
                   絶景インフィニティ温泉×海空一体パノラマ露天宿
                 </div>
-                <div className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
+                <div className="text-xs text-slate-400 leading-relaxed">
                   海と空、そして湯面が一体化する開放感抜群のインフィニティ湯宿。
                 </div>
               </Link>
@@ -677,10 +677,10 @@ export default function FurusatoTaxPage() {
                 href="/furusato-tax-anniversary-luxury-suite-villa-stay/"
                 className="block p-4 rounded-2xl bg-slate-950/60 border border-slate-800/80 hover:border-amber-500/50 transition group"
               >
-                <div className="font-bold text-amber-400 group-hover:text-amber-300 transition text-sm mb-1 line-clamp-1">
+                <div className="font-bold text-amber-400 group-hover:text-amber-300 transition text-sm mb-1">
                   憧れの最高峰宿・記念日スイート＆ヴィラ
                 </div>
-                <div className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
+                <div className="text-xs text-slate-400 leading-relaxed">
                   箱根・京都・沖縄の極上アニバーサリーステイ。
                 </div>
               </Link>
@@ -690,10 +690,10 @@ export default function FurusatoTaxPage() {
                 href="/furusato-tax-private-villa-hanare-hideaway-stay/"
                 className="block p-4 rounded-2xl bg-slate-950/60 border border-slate-800/80 hover:border-amber-500/50 transition group"
               >
-                <div className="font-bold text-amber-400 group-hover:text-amber-300 transition text-sm mb-1 line-clamp-1">
+                <div className="font-bold text-amber-400 group-hover:text-amber-300 transition text-sm mb-1">
                   全室離れの隠れ家おこもり宿×極上プライベートヴィラ
                 </div>
-                <div className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
+                <div className="text-xs text-slate-400 leading-relaxed">
                   由布院・伊豆高原・定山渓の静寂と美食ステイ。
                 </div>
               </Link>
@@ -796,19 +796,19 @@ export default function FurusatoTaxPage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/winter-gunma-kiryu-houtokuji-hatsumode-himokawa-udon-joshugyu-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">織物の都・桐生新町と床もみじの名刹「宝徳寺」新春初詣 熱々「幅広ひもかわうどん」＆上州牛・両毛厳選名宿</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">織物の都・桐生新町と床もみじの名刹「宝徳寺」新春初詣 熱々「幅広ひもかわうどん」＆上州牛・両毛厳選名宿</span>
             </a>
             <a href="/winter-hyogo-akashi-uonotana-kakimoto-shrine-hatsumode-akashiyaki-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">「兵庫・明石＆加古川」 明石海峡大橋を望む人麿山「柿本神社」新春初詣と魚の棚商店街！ 熱々の本場「明石焼き」・加古川かつめし＆播磨灘の厳選名宿</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">「兵庫・明石＆加古川」 明石海峡大橋を望む人麿山「柿本神社」新春初詣と魚の棚商店街！ 熱々の本場「明石焼き」・加古川かつめし＆播磨灘の厳選名宿</span>
             </a>
             <a href="/winter-ibaraki-kitaibaraki-isohara-onsen-ankou-dobujiru-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">元祖あんこう鍋・濃厚どぶ汁と太平洋絶景 温まり美肌塩化物泉＆常陸牛の極上宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">元祖あんこう鍋・濃厚どぶ汁と太平洋絶景 温まり美肌塩化物泉＆常陸牛の極上宿5選</span>
             </a>
             <a href="/winter-iseshima-ujibashi-sunrise-matoya-oyster-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12月伊勢神宮の冬至・年越し参拝】 宇治橋の朝日絶景と伊勢志摩の冬の至宝・的矢かき＆伊勢海老宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 leading-relaxed">【11・12月伊勢神宮の冬至・年越し参拝】 宇治橋の朝日絶景と伊勢志摩の冬の至宝・的矢かき＆伊勢海老宿5選</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

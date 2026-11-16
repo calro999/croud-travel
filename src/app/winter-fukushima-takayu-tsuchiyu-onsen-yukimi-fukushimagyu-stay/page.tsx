@@ -516,8 +516,8 @@ export default function WinterFukushimaTakayuTsuchiyuPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-cyan-300 bg-cyan-400/20 px-2 py-0.5 rounded-full inline-block">福島・会津東山温泉</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-cyan-200 transition line-clamp-2">会津東山＆芦ノ牧温泉の渓谷雪見露天と会津牛</h4>
-              <p className="text-[11px] text-stone-200 line-clamp-2">
+              <h4 className="text-xs font-bold text-white group-hover:text-cyan-200 transition">会津東山＆芦ノ牧温泉の渓谷雪見露天と会津牛</h4>
+              <p className="text-[11px] text-stone-200">
                 城下町会津の武家屋敷情緒と渓谷雪景色、極上馬刺し・郷土こづゆを巡る名宿。
               </p>
             </Link>
@@ -527,8 +527,8 @@ export default function WinterFukushimaTakayuTsuchiyuPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-cyan-300 bg-cyan-400/20 px-2 py-0.5 rounded-full inline-block">福島・裏磐梯温泉</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-cyan-200 transition line-clamp-2">裏磐梯・五色沼の白銀絶景と高原雪見リゾート</h4>
-              <p className="text-[11px] text-stone-200 line-clamp-2">
+              <h4 className="text-xs font-bold text-white group-hover:text-cyan-200 transition">裏磐梯・五色沼の白銀絶景と高原雪見リゾート</h4>
+              <p className="text-[11px] text-stone-200">
                 磐梯山の雄大な初冬雪景色とナトリウム塩化物泉の温もり、福島牛ディナー。
               </p>
             </Link>
@@ -538,8 +538,8 @@ export default function WinterFukushimaTakayuTsuchiyuPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-cyan-300 bg-cyan-400/20 px-2 py-0.5 rounded-full inline-block">山形・蔵王温泉</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-cyan-200 transition line-clamp-2">蔵王温泉の強酸性硫黄泉と樹氷雪見風呂</h4>
-              <p className="text-[11px] text-stone-200 line-clamp-2">
+              <h4 className="text-xs font-bold text-white group-hover:text-cyan-200 transition">蔵王温泉の強酸性硫黄泉と樹氷雪見風呂</h4>
+              <p className="text-[11px] text-stone-200">
                 奥羽三高湯の双璧をなす蔵王の白濁湯と極上山形牛すき焼きを堪能する冬旅。
               </p>
             </Link>

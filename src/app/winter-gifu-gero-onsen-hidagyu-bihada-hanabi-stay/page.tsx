@@ -560,8 +560,8 @@ export default function WinterGifuGeroOnsenPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">岐阜・白川郷</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">白川郷合掌造り集落の白銀ライトアップと飛騨牛</h4>
-              <p className="text-[11px] text-stone-200 line-clamp-2">
+              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition">白川郷合掌造り集落の白銀ライトアップと飛騨牛</h4>
+              <p className="text-[11px] text-stone-200">
                 世界遺産白川郷の雪景色と幻想的な夜間照明、囲炉裏端で味わう飛騨の美味。
               </p>
             </Link>
@@ -571,8 +571,8 @@ export default function WinterGifuGeroOnsenPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">長野・昼神温泉</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">阿智村昼神温泉の日本一の星空ナイトツアーと美肌湯</h4>
-              <p className="text-[11px] text-stone-200 line-clamp-2">
+              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition">阿智村昼神温泉の日本一の星空ナイトツアーと美肌湯</h4>
+              <p className="text-[11px] text-stone-200">
                 冬の澄み渡る夜空に輝く満天の星と信州屈指の強アルカリ美肌温泉。
               </p>
             </Link>
@@ -582,8 +582,8 @@ export default function WinterGifuGeroOnsenPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">兵庫・有馬温泉</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">有馬温泉の金泉・銀泉と神戸牛すき焼き名宿</h4>
-              <p className="text-[11px] text-stone-200 line-clamp-2">
+              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition">有馬温泉の金泉・銀泉と神戸牛すき焼き名宿</h4>
+              <p className="text-[11px] text-stone-200">
                 下呂と並ぶ日本三名泉の金泉・銀泉と極上神戸牛を味わう極楽の旅。
               </p>
             </Link>
