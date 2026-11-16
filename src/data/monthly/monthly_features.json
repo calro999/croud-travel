@@ -24,7 +24,7 @@
         "ふるさと納税 高級",
         "ふるさと納税 旅館"
       ],
-      "updatedAt": "2026-11-16 17:52",
+      "updatedAt": "2026-11-16 09:17",
       "hotels": [
         {
           "hotelNo": 14124,
@@ -63,6 +63,25 @@
             "楽天トラベル高評価"
           ],
           "addedAt": "2026-11-16 17:52"
+        },
+        {
+          "hotelNo": 183377,
+          "hotelName": "小豆温泉　北日光花木の宿",
+          "rating": 4.83,
+          "minCharge": 39600,
+          "address": "福島県 南会津郡南会津町大桃字平沢山1041-1",
+          "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/183377/183377.jpg",
+          "roomImageUrl": "",
+          "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D183377",
+          "catchCopy": "奥会津の離れで、源泉かけ流しに浸かる贅沢な休日",
+          "specialHighlight": "2つの源泉かけ流し客室風呂。何もしない贅沢を、奥会津の離れでお愉しみください。",
+          "expertReview": "雪化粧をまとう前の静けさに包まれる11月の奥会津。小豆温泉に佇むこの宿では、贅沢な2つの源泉かけ流し客室風呂を独り占めできる。冷え始める空気を肌で感じながら湯に身を委ね、ただ木々のざわめきに耳を傾ける。何もしない時間を愛おしく思える、大人の隠れ家宿だ。",
+          "planHighlights": [
+            "2つの源泉かけ流し客室風呂",
+            "プライベート感あふれる離れ",
+            "奥会津の豊かな自然美"
+          ],
+          "addedAt": "2026-11-16 09:17"
         },
         {
           "hotelNo": 31754,
@@ -279,7 +298,7 @@
         "星空 温泉",
         "八ヶ岳 星空"
       ],
-      "updatedAt": "2026-11-16 17:52",
+      "updatedAt": "2026-11-16 09:17",
       "hotels": [
         {
           "hotelNo": 179332,
@@ -508,6 +527,25 @@
             "楽天トラベル高評価"
           ],
           "addedAt": "2026-11-16 17:52"
+        },
+        {
+          "hotelNo": 188806,
+          "hotelName": "富士星空の村　Ｔａｂｉｓｔ",
+          "rating": 1.25,
+          "minCharge": 9534,
+          "address": "山梨県 南都留郡鳴沢村字西絶頭7407-1",
+          "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/188806/188806.jpg",
+          "roomImageUrl": "",
+          "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D188806",
+          "catchCopy": "富士山の雄大な美と夜空の輝き。 幻想的な空間でのグランピングと贅",
+          "specialHighlight": "富士山の雄大な美と夜空の輝き。 幻想的な空間でのグランピングと贅沢なBBQをお楽しみください。",
+          "expertReview": "山梨県 南都留郡鳴沢村字西絶頭7407-1に位置する人気宿。富士山の雄大な美と夜空の輝き。 幻想的な空間でのグランピングと贅沢なBBQをお楽しみください。。旬の味覚と心地よい温泉で、特別な旅の時間を心ゆくまで堪能できます。",
+          "planHighlights": [
+            "天然温泉",
+            "絶品会席",
+            "楽天トラベル高評価"
+          ],
+          "addedAt": "2026-11-16 09:17"
         }
       ]
     },
@@ -535,7 +573,7 @@
         "香住蟹 温泉",
         "蟹 露天風呂"
       ],
-      "updatedAt": "2026-11-16 17:52",
+      "updatedAt": "2026-11-16 09:17",
       "hotels": [
         {
           "hotelNo": 84652,
@@ -631,6 +669,25 @@
             "楽天トラベル高評価"
           ],
           "addedAt": "2026-11-16 17:52"
+        },
+        {
+          "hotelNo": 53097,
+          "hotelName": "太良嶽温泉ホテル　蟹御殿",
+          "rating": 4.59,
+          "minCharge": 48400,
+          "address": "佐賀県 藤津郡太良町大浦乙316-3",
+          "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/53097/53097.jpg",
+          "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/53097/53097_h.jpg",
+          "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D53097",
+          "catchCopy": "竹崎蟹、サウナ、有明海の絶景を楽しめる新客室。非日常な景色で心身",
+          "specialHighlight": "竹崎蟹、サウナ、有明海の絶景を楽しめる新客室。非日常な景色で心身を開放するプレミアムリゾートです。",
+          "expertReview": "佐賀県 藤津郡太良町大浦乙316-3に位置する人気宿。竹崎蟹、サウナ、有明海の絶景を楽しめる新客室。非日常な景色で心身を開放するプレミアムリゾートです。。旬の味覚と心地よい温泉で、特別な旅の時間を心ゆくまで堪能できます。",
+          "planHighlights": [
+            "天然温泉",
+            "絶品会席",
+            "楽天トラベル高評価"
+          ],
+          "addedAt": "2026-11-16 09:17"
         },
         {
           "hotelNo": 108608,
@@ -790,7 +847,7 @@
         "紅葉 宿",
         "紅葉 ライトアップ 宿"
       ],
-      "updatedAt": "2026-11-16 17:52",
+      "updatedAt": "2026-11-16 09:17",
       "hotels": [
         {
           "hotelNo": 15086,
@@ -1000,6 +1057,25 @@
             "楽天トラベル高評価"
           ],
           "addedAt": "2026-11-16 17:52"
+        },
+        {
+          "hotelNo": 84857,
+          "hotelName": "元祖岩国寿司の宿　三原家",
+          "rating": 3.64,
+          "minCharge": 3630,
+          "address": "山口県 岩国市岩国2-16-6",
+          "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/84857/84857.jpg",
+          "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/84857/84857_w.jpg",
+          "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D84857",
+          "catchCopy": "錦帯橋の麓に佇む、歴史薫る老舗割烹の隠れ家",
+          "specialHighlight": "◆錦帯橋まで徒歩5分。城下町の風情が残る老舗の割烹旅館。",
+          "expertReview": "秋色に染まる名勝・錦帯橋から歩いてわずか五分。城下町の静謐な空気の中に佇む三原家は、旅情をそっと満たしてくれる割烹旅館だ。静かな客室で一息ついた後は、伝統の技が息づく名物の岩国寿司に舌鼓を打つ。暮れゆく秋の夜長、心底から寛ぐ贅沢な時間がここにある。",
+          "planHighlights": [
+            "錦帯橋まで徒歩5分",
+            "伝統の郷土料理",
+            "城下町の老舗割烹旅館"
+          ],
+          "addedAt": "2026-11-16 09:17"
         }
       ]
     }

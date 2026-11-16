@@ -321,3 +321,4 @@ showcase_kagawa
 january-tokyo-meijijingu-10selection
 showcase_gifu
 october-travel-nagasaki-kids-family-guide
+showcase_fukui
