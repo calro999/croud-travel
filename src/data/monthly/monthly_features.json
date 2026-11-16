@@ -24,7 +24,7 @@
         "ふるさと納税 高級",
         "ふるさと納税 旅館"
       ],
-      "updatedAt": "2026-11-16 17:30",
+      "updatedAt": "2026-11-16 18:17",
       "hotels": [
         {
           "hotelNo": 14124,
@@ -82,6 +82,25 @@
             "奥会津の豊かな自然美"
           ],
           "addedAt": "2026-11-16 09:17"
+        },
+        {
+          "hotelNo": 162794,
+          "hotelName": "割烹旅館　岡屋",
+          "rating": 4.83,
+          "minCharge": 10000,
+          "address": "静岡県 静岡市清水区興津本町6",
+          "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/162794/162794.jpg",
+          "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/162794/162794_kan1.jpg",
+          "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D162794",
+          "catchCopy": "2025年2月新生。興津の旬を味わい尽くす大人の隠れ割烹旅館",
+          "specialHighlight": "【2025年2月リニューアルOPEN】素材にこだわり、心を込めた割烹料理、興津の旨みをご堪能ください",
+          "expertReview": "師走の喧騒を離れ、静かな駿河の地に身を委ねる贅沢。2025年2月に生まれ変わる「割烹旅館 岡屋」は、素材の息吹を逃さず仕立てる珠玉の料理が旅人の心を深く満たす。洗練された空間と温もりのもてなしが共存するこの場所で、まだ誰も知らない冬支度の旅を堪能したい。",
+          "planHighlights": [
+            "2025年2月リニューアル",
+            "こだわりの本格割烹料理",
+            "心休まる隠れ家宿"
+          ],
+          "addedAt": "2026-11-16 18:17"
         },
         {
           "hotelNo": 31754,
@@ -355,7 +374,7 @@
         "星空 温泉",
         "八ヶ岳 星空"
       ],
-      "updatedAt": "2026-11-16 17:30",
+      "updatedAt": "2026-11-16 18:17",
       "hotels": [
         {
           "hotelNo": 179332,
@@ -567,6 +586,25 @@
           "addedAt": "2026-11-16 17:52"
         },
         {
+          "hotelNo": 5978,
+          "hotelName": "昼神温泉　ひるがみの森",
+          "rating": 4.33,
+          "minCharge": 7700,
+          "address": "長野県 下伊那郡阿智村智里567-10",
+          "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/5978/5978.jpg",
+          "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/5978/5978_bath.jpg",
+          "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D5978",
+          "catchCopy": "阿智村の夜空に抱かれ、トロリと肌を包む名湯で癒やされる11月の休日。",
+          "specialHighlight": "日本一の星空ナイトツアー：当日の天気次第でもチケットキャンセルが対応可な宿★彡",
+          "expertReview": "空気が研ぎ澄まされる初冬の阿智村は、天の川まで手が届きそうなほど鮮明な星空が広がります。ひるがみの森では、日本屈指の星空ナイトツアーへの参加がしやすく、天候に合わせて柔軟に予定を組めるのが嬉しい点。湯上がりに館内へ戻れば、肌を優しく包み込むトロリとした良質な温泉が待っています。多彩な露天風呂に身を預け、冷えた空気に火照った頬をあずける贅沢な時間は、まさに至福のひとときです。",
+          "planHighlights": [
+            "日本一の星空ナイトツアー",
+            "トロリとした極上の美肌湯",
+            "天候対応可能な安心の宿泊環境"
+          ],
+          "addedAt": "2026-11-16 18:17"
+        },
+        {
           "hotelNo": 188023,
           "hotelName": "丹波星空グランピング　ーＳＨＩＧＵＲＡ　ＲＥＳＯＲＴー",
           "rating": 4.3,
@@ -687,7 +725,7 @@
         "香住蟹 温泉",
         "蟹 露天風呂"
       ],
-      "updatedAt": "2026-11-16 17:30",
+      "updatedAt": "2026-11-16 18:17",
       "hotels": [
         {
           "hotelNo": 84652,
@@ -707,6 +745,25 @@
             "楽天トラベル高評価"
           ],
           "addedAt": "2026-11-16 17:52"
+        },
+        {
+          "hotelNo": 14007,
+          "hotelName": "城崎温泉　西村屋ホテル招月庭",
+          "rating": 4.74,
+          "minCharge": 41800,
+          "address": "兵庫県 豊岡市城崎町湯島1016-2",
+          "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/14007/14007.jpg",
+          "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/14007/14007_room.jpg",
+          "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D14007",
+          "catchCopy": "冬の日本海が育んだ至福。城崎の森に抱かれ、極上の蟹と地酒に酔いしれる夜。",
+          "specialHighlight": "かに・但馬牛など四季折々の味覚と充実したお風呂。五万坪の森林に囲まれ寛ぎのひとときを。無料駐車場有",
+          "expertReview": "五万坪もの広大な森林に囲まれた招月庭は、日常の喧騒を忘れさせる静寂の聖域。11月の解禁とともに届く旬の松葉蟹は、甘みが強く、噛みしめるほどに冬の訪れを感じさせます。丁寧に手入れされた庭園を眺めながら、但馬が誇る銘酒を傾ける時間は格別です。細やかな気配りが行き届く館内で、心まで温まる贅沢なひとときを過ごせます。",
+          "planHighlights": [
+            "解禁直後の最高級松葉蟹",
+            "地元の銘酒と但馬牛の競演",
+            "五万坪の森に囲まれた静寂"
+          ],
+          "addedAt": "2026-11-16 18:17"
         },
         {
           "hotelNo": 6006,
@@ -1018,8 +1075,27 @@
         "紅葉 宿",
         "紅葉 ライトアップ 宿"
       ],
-      "updatedAt": "2026-11-16 17:30",
+      "updatedAt": "2026-11-16 18:17",
       "hotels": [
+        {
+          "hotelNo": 19924,
+          "hotelName": "ハチ北温泉　お宿　ひさ家",
+          "rating": 4.79,
+          "minCharge": 14000,
+          "address": "兵庫県 美方郡香美町村岡区大笹756-2",
+          "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/19924/19924.jpg",
+          "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/19924/19924_w.jpg",
+          "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D19924",
+          "catchCopy": "渓流のせせらぎと散り紅葉に包まれる、ハチ北唯一の秘湯隠れ宿",
+          "specialHighlight": "地元の食材にこだわった里山の宿。渓流沿いハチ北唯一の露天風呂が自慢です！",
+          "expertReview": "木々が深紅や黄金色に染まる但馬の山あいに、静たたずむ一軒宿がある。渓流の音を間近に感じる露天風呂では、湯けむりの向こうに舞い散る落ち葉が水面を彩り、心身を深くときほぐしてくれる。夕餉には日本海が育んだ芳醇な香住蟹が並び、里山の豊かな恵みを余すところなく堪能できる。",
+          "planHighlights": [
+            "渓流沿いの露天風呂",
+            "香住蟹の贅沢プラン",
+            "色づく里山の隠れ宿"
+          ],
+          "addedAt": "2026-11-16 18:17"
+        },
         {
           "hotelNo": 15086,
           "hotelName": "紅葉館＜島根県＞",
