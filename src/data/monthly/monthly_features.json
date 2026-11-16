@@ -24,7 +24,7 @@
         "ふるさと納税 高級",
         "ふるさと納税 旅館"
       ],
-      "updatedAt": "2026-11-16 12:17",
+      "updatedAt": "2026-11-16 15:17",
       "hotels": [
         {
           "hotelNo": 14124,
@@ -236,6 +236,25 @@
           "addedAt": "2026-11-16 17:52"
         },
         {
+          "hotelNo": 68217,
+          "hotelName": "内湯旅館　あかね荘",
+          "rating": 4.29,
+          "minCharge": 33000,
+          "address": "兵庫県 美方郡新温泉町七釜",
+          "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/68217/68217.jpg",
+          "roomImageUrl": "",
+          "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D68217",
+          "catchCopy": "冬の足音が聞こえる頃、静寂の隠れ家で極上の松葉ガニに身を委ねる贅沢。",
+          "specialHighlight": "1日4組限定◇ふるさと納税宿泊クーポン対象！冬の味覚・松葉ガニを堪能",
+          "expertReview": "兵庫県・新温泉町の七釜温泉に佇む「あかね荘」は、わずか4組のゲストだけが許される至高の隠れ家。11月は松葉ガニが解禁され、旬の旨味が最高潮に達する季節だ。湯けむり立ち昇る源泉掛け流しの内湯に浸かり、心身を解き放った後は、冬の味覚の王様を心ゆくまで堪能する。喧騒を忘れ、ただ静かに流れる時間と贅を尽くした美食が、あなたの旅の記憶を鮮やかに彩るだろう。",
+          "planHighlights": [
+            "1日4組限定のプライベート感",
+            "解禁直後の旬な松葉ガニ",
+            "源泉掛け流しの贅沢な内湯"
+          ],
+          "addedAt": "2026-11-16 15:17"
+        },
+        {
           "hotelNo": 4698,
           "hotelName": "坂聖・玉樟園",
           "rating": 4.22,
@@ -317,7 +336,7 @@
         "星空 温泉",
         "八ヶ岳 星空"
       ],
-      "updatedAt": "2026-11-16 12:17",
+      "updatedAt": "2026-11-16 15:17",
       "hotels": [
         {
           "hotelNo": 179332,
@@ -375,6 +394,25 @@
             "楽天トラベル高評価"
           ],
           "addedAt": "2026-11-16 17:52"
+        },
+        {
+          "hotelNo": 190897,
+          "hotelName": "星空テラス南伊豆　＾",
+          "rating": 4.75,
+          "minCharge": 8306,
+          "address": "静岡県 賀茂郡南伊豆町下賀茂572-13　星空テラス南伊豆",
+          "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/190897/190897.jpg",
+          "roomImageUrl": "",
+          "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D190897",
+          "catchCopy": "一棟貸しのコンテナホテルでペットも一緒に泊まれます",
+          "specialHighlight": "一棟貸しのコンテナホテルでペットも一緒に泊まれます。",
+          "expertReview": "静岡県 賀茂郡南伊豆町下賀茂572-13 星空テラス南伊豆に佇む人気宿。一棟貸しのコンテナホテルでペットも一緒に泊まれます。心地よい温泉と旬の美食を心ゆくまで味わい、日常の喧騒を離れてリフレッシュできる特別な滞在が叶います。",
+          "planHighlights": [
+            "天然温泉",
+            "絶品会席",
+            "楽天トラベル高評価"
+          ],
+          "addedAt": "2026-11-16 15:17"
         },
         {
           "hotelNo": 108274,
@@ -611,7 +649,7 @@
         "香住蟹 温泉",
         "蟹 露天風呂"
       ],
-      "updatedAt": "2026-11-16 12:17",
+      "updatedAt": "2026-11-16 15:17",
       "hotels": [
         {
           "hotelNo": 84652,
@@ -631,6 +669,25 @@
             "楽天トラベル高評価"
           ],
           "addedAt": "2026-11-16 17:52"
+        },
+        {
+          "hotelNo": 6006,
+          "hotelName": "竹崎かにと日本酒の宿　鶴荘",
+          "rating": 4.72,
+          "minCharge": 15950,
+          "address": "佐賀県 藤津郡太良町大浦丙928",
+          "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/6006/6006.jpg",
+          "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/6006/6006_heya.jpg",
+          "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D6006",
+          "catchCopy": "前菜ビュッフェと日本酒サーバー&amp;貸切サウナは竹崎では当館だけ",
+          "specialHighlight": "前菜ビュッフェと日本酒サーバー&amp;貸切サウナは竹崎では当館だけ！",
+          "expertReview": "佐賀県 藤津郡太良町大浦丙928に佇む人気宿。前菜ビュッフェと日本酒サーバー&amp;貸切サウナは竹崎では当館だけ！心地よい温泉と旬の美食を心ゆくまで味わい、日常の喧騒を離れてリフレッシュできる特別な滞在が叶います。",
+          "planHighlights": [
+            "天然温泉",
+            "絶品会席",
+            "楽天トラベル高評価"
+          ],
+          "addedAt": "2026-11-16 15:17"
         },
         {
           "hotelNo": 25128,
@@ -904,7 +961,7 @@
         "紅葉 宿",
         "紅葉 ライトアップ 宿"
       ],
-      "updatedAt": "2026-11-16 12:17",
+      "updatedAt": "2026-11-16 15:17",
       "hotels": [
         {
           "hotelNo": 15086,
@@ -1152,6 +1209,25 @@
             "城下町の老舗割烹旅館"
           ],
           "addedAt": "2026-11-16 09:17"
+        },
+        {
+          "hotelNo": 39248,
+          "hotelName": "富士山絶景の宿　富士見園",
+          "rating": 3.17,
+          "minCharge": 5500,
+          "address": "山梨県 南都留郡富士河口湖町船津1406",
+          "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/39248/39248.jpg",
+          "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/39248/39248_room.jpg",
+          "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D39248",
+          "catchCopy": "静寂に包まれた晩秋の渓谷美と、窓一面に広がる圧倒的な富士の絶景に出会う。",
+          "specialHighlight": "絶景富士と料理自慢の宿。展望風呂、貸切風呂有り。富士急ハイランド車５分。送迎有。",
+          "expertReview": "木々が深紅の装いを脱ぎ捨て、鮮やかな散り紅葉の絨毯が大地を彩る晩秋の河口湖。湯煙立ち上る展望風呂からは、澄んだ秋空にそびえる雄大な富士山が刻一刻と表情を変えて迫る。季節の恵みを丁寧に仕立てた自慢の料理に舌鼓を打ち、静寂の夜長に浸る大人のための隠れ処。",
+          "planHighlights": [
+            "絶景富士を望む展望風呂",
+            "旬の味覚を堪能する自慢の料理",
+            "喧騒を離れる晩秋の隠れ宿"
+          ],
+          "addedAt": "2026-11-16 15:17"
         }
       ]
     }
