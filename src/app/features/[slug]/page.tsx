@@ -361,62 +361,97 @@ export default async function MonthlyFeaturePage({
               </div>
             </div>
 
-            <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
+            <div className="space-y-6">
               {others.map((hotel, idx) => {
                 const subRank = idx + 11;
                 return (
-                  <div
+                  <article
                     key={hotel.hotelNo}
-                    className="bg-white rounded-xl border border-slate-200 p-4 shadow-sm hover:shadow transition flex flex-col justify-between"
+                    className="bg-white rounded-2xl border border-slate-200 p-5 sm:p-6 shadow-sm hover:shadow-md transition duration-300 overflow-hidden"
                   >
-                    <div className="space-y-2">
-                      <div className="flex items-center justify-between">
-                        <span className="text-xs font-bold text-slate-600 bg-slate-100 px-2 py-0.5 rounded">
-                          第 {subRank} 位
-                        </span>
-                        <span className="text-xs font-black text-amber-500">
-                          ★ {hotel.rating.toFixed(2)}
-                        </span>
-                      </div>
-
-                      <div className="h-36 rounded-lg overflow-hidden bg-slate-100">
+                    <div className="grid grid-cols-1 md:grid-cols-12 gap-5 items-center">
+                      {/* 画像エリア */}
+                      <div className="md:col-span-4 relative h-48 sm:h-52 rounded-xl overflow-hidden bg-slate-100 flex-shrink-0">
                         <img
                           src={hotel.hotelImageUrl}
                           alt={hotel.hotelName}
-                          className="w-full h-full object-cover"
+                          className="w-full h-full object-cover transition-transform duration-500 hover:scale-105"
                           loading="lazy"
                         />
+                        <div className="absolute top-2.5 left-2.5 bg-slate-900/90 text-white font-bold text-xs px-2.5 py-1 rounded-full shadow">
+                          第 {subRank} 位
+                        </div>
+                        <div className="absolute top-2.5 right-2.5 bg-slate-900/90 text-amber-300 font-black text-xs px-2.5 py-1 rounded-full shadow">
+                          ★ {hotel.rating.toFixed(2)}
+                        </div>
                       </div>
 
-                      <h4 className="font-bold text-sm text-slate-900 line-clamp-1">
-                        {hotel.hotelName}
-                      </h4>
+                      {/* 本文エリア（1行・2行制限を全撤去してしっかり全文紹介） */}
+                      <div className="md:col-span-8 flex flex-col justify-between space-y-3">
+                        <div className="space-y-2">
+                          <p className="text-xs text-slate-500 font-medium">
+                            所在地: {hotel.address}
+                          </p>
 
-                      <p className="text-[11px] text-emerald-800 font-semibold line-clamp-1">
-                        {hotel.catchCopy}
-                      </p>
+                          <h3 className="text-base sm:text-lg font-bold text-slate-900 leading-snug">
+                            <a
+                              href={hotel.affiliateUrl}
+                              target="_blank"
+                              rel="noopener noreferrer"
+                              className="hover:text-emerald-700 transition"
+                            >
+                              {hotel.hotelName}
+                            </a>
+                          </h3>
 
-                      <p className="text-xs text-slate-600 line-clamp-2 leading-relaxed">
-                        {hotel.expertReview}
-                      </p>
+                          {hotel.catchCopy && (
+                            <p className="text-xs sm:text-sm font-bold text-emerald-800 bg-emerald-50 px-3 py-1.5 rounded-lg border border-emerald-100">
+                              {hotel.catchCopy}
+                            </p>
+                          )}
+
+                          <p className="text-xs sm:text-sm text-slate-700 leading-relaxed">
+                            {hotel.expertReview}
+                          </p>
+
+                          {hotel.planHighlights && hotel.planHighlights.length > 0 && (
+                            <div className="pt-1 flex flex-wrap gap-1.5">
+                              {hotel.planHighlights.map((tag, tIdx) => (
+                                <span
+                                  key={tIdx}
+                                  className="text-[11px] bg-slate-100 text-slate-600 px-2 py-0.5 rounded-md border border-slate-200"
+                                >
+                                  ✓ {tag}
+                                </span>
+                              ))}
+                            </div>
+                          )}
+                        </div>
+
+                        {/* 料金＆予約ボタン */}
+                        <div className="pt-3 border-t border-slate-100 flex flex-col sm:flex-row items-start sm:items-center justify-between gap-3">
+                          <div>
+                            <span className="text-[11px] text-slate-500 block">参考料金</span>
+                            <span className="text-base sm:text-lg font-black text-rose-600">
+                              {hotel.minCharge
+                                ? `¥${hotel.minCharge.toLocaleString()}〜`
+                                : "宿泊プラン参照"}
+                            </span>
+                            <span className="text-[11px] text-slate-400 ml-1">/人</span>
+                          </div>
+
+                          <a
+                            href={hotel.affiliateUrl}
+                            target="_blank"
+                            rel="noopener noreferrer"
+                            className="w-full sm:w-auto text-center px-4 py-2 bg-slate-900 hover:bg-slate-800 text-white text-xs sm:text-sm font-bold rounded-xl shadow transition"
+                          >
+                            楽天トラベルで詳細を見る ➔
+                          </a>
+                        </div>
+                      </div>
                     </div>
-
-                    <div className="pt-3 mt-3 border-t border-slate-100 flex items-center justify-between">
-                      <span className="text-sm font-bold text-rose-600">
-                        {hotel.minCharge
-                          ? `¥${hotel.minCharge.toLocaleString()}〜`
-                          : "プラン参照"}
-                      </span>
-                      <a
-                        href={hotel.affiliateUrl}
-                        target="_blank"
-                        rel="noopener noreferrer"
-                        className="text-xs font-bold px-3 py-1.5 bg-slate-900 hover:bg-slate-800 text-white rounded-lg transition"
-                      >
-                        詳細を見る
-                      </a>
-                    </div>
-                  </div>
+                  </article>
                 );
               })}
             </div>
