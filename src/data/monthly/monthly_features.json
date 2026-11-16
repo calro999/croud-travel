@@ -24,7 +24,7 @@
         "ふるさと納税 高級",
         "ふるさと納税 旅館"
       ],
-      "updatedAt": "2026-11-16 15:17",
+      "updatedAt": "2026-11-16 17:30",
       "hotels": [
         {
           "hotelNo": 14124,
@@ -293,6 +293,25 @@
           "addedAt": "2026-11-16 17:52"
         },
         {
+          "hotelNo": 52933,
+          "hotelName": "銀山温泉　旅館松本",
+          "rating": 3.99,
+          "minCharge": 17600,
+          "address": "山形県 尾花沢市銀山温泉",
+          "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/52933/52933.jpg",
+          "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/52933/52933_kya.jpg",
+          "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D52933",
+          "catchCopy": "冬の足音を聞きながら、銀山温泉の湯情に浸る贅沢な十一月の休日。",
+          "specialHighlight": "館内エレベータで移動楽々！ご夕食はお部屋食又は個室、お風呂は源泉かけ流し！全１０室の家庭的な宿。",
+          "expertReview": "雪化粧前の静かな銀山温泉は、大正浪漫の余韻を独り占めできる格別の季節です。全十室の「旅館松本」は、源泉かけ流しの湯と温かなおもてなしが心を満たす隠れ家。館内の移動も軽やかなエレベーター完備で、プライベート感あふれるお部屋食の夕食が旅の疲れを優しく解きほぐします。硫黄の香りが漂う名湯に身を委ね、暮れゆく温泉街の灯りを眺める時間は、何物にも代えがたい贅沢です。",
+          "planHighlights": [
+            "源泉かけ流しの名湯",
+            "プライベートな個室食",
+            "移動の負担を減らす館内エレベーター"
+          ],
+          "addedAt": "2026-11-16 17:30"
+        },
+        {
           "hotelNo": 866,
           "hotelName": "磐梯猪苗代はやま温泉　ヴィラ　イナワシロ",
           "rating": 3.88,
@@ -336,7 +355,7 @@
         "星空 温泉",
         "八ヶ岳 星空"
       ],
-      "updatedAt": "2026-11-16 15:17",
+      "updatedAt": "2026-11-16 17:30",
       "hotels": [
         {
           "hotelNo": 179332,
@@ -470,6 +489,25 @@
             "楽天トラベル高評価"
           ],
           "addedAt": "2026-11-16 17:52"
+        },
+        {
+          "hotelNo": 1258,
+          "hotelName": "天津小湊温泉　城崎の源泉の湯　宿中屋",
+          "rating": 4.57,
+          "minCharge": 14000,
+          "address": "千葉県 鴨川市天津3287",
+          "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/1258/1258.jpg",
+          "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/1258/1258_kya.jpg",
+          "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D1258",
+          "catchCopy": "冬の気配が満ちる鴨川で、星と海が溶け合う天空の湯に浸る贅沢を。",
+          "specialHighlight": "2024年3月リニューアル",
+          "expertReview": "2024年3月のリニューアルを経て、館内には新たな静寂と洗練が宿る。空気が澄み渡る11月の夜、露天風呂へと足を踏み入れれば、そこには海と空が一体となるインフィニティの絶景が広がっている。満天の星の下で湯に身を委ね、心身を解き放つひととき。旬の鯛の兜煮や鮑を堪能する食の豊かさと、細やかなホスピタリティが旅の記憶を鮮やかに彩る。",
+          "planHighlights": [
+            "天空インフィニティ露天風呂",
+            "季節を味わう贅沢な海鮮料理",
+            "2024年リニューアルの洗練空間"
+          ],
+          "addedAt": "2026-11-16 17:30"
         },
         {
           "hotelNo": 67476,
@@ -649,7 +687,7 @@
         "香住蟹 温泉",
         "蟹 露天風呂"
       ],
-      "updatedAt": "2026-11-16 15:17",
+      "updatedAt": "2026-11-16 17:30",
       "hotels": [
         {
           "hotelNo": 84652,
@@ -823,6 +861,25 @@
           "addedAt": "2026-11-16 17:52"
         },
         {
+          "hotelNo": 11043,
+          "hotelName": "山代温泉　吉田屋　山王閣",
+          "rating": 4.48,
+          "minCharge": 9900,
+          "address": "石川県 加賀市山代温泉13-1",
+          "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/11043/11043.jpg",
+          "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/11043/11043_w.jpg",
+          "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D11043",
+          "catchCopy": "解禁された冬の味覚と名湯に浸かる、至福の加賀温泉滞在。",
+          "specialHighlight": "2021年・2022年、温泉露天風呂付客室13室オープン！かになどお料理プランや貸切風呂も人気です！",
+          "expertReview": "歴史ある山代温泉に佇む吉田屋山王閣では、待ちに待った冬の味覚を心ゆくまで堪能できる。プライベート感あふれる温泉露天風呂付き客室で湯浴みを満喫した後は、趣向を凝らした美食の数々に舌鼓を打つ。細やかな気配りが行き届く温かなおもてなしが、旅の時間をより一層贅沢に仕立て上げる。",
+          "planHighlights": [
+            "冬のブランド蟹料理",
+            "温泉露天風呂付客室",
+            "心づくしの部屋食"
+          ],
+          "addedAt": "2026-11-16 17:30"
+        },
+        {
           "hotelNo": 5677,
           "hotelName": "あわら温泉　伝統旅館のぬくもり　灰屋",
           "rating": 4.38,
@@ -961,7 +1018,7 @@
         "紅葉 宿",
         "紅葉 ライトアップ 宿"
       ],
-      "updatedAt": "2026-11-16 15:17",
+      "updatedAt": "2026-11-16 17:30",
       "hotels": [
         {
           "hotelNo": 15086,
@@ -1152,6 +1209,25 @@
             "楽天トラベル高評価"
           ],
           "addedAt": "2026-11-16 17:52"
+        },
+        {
+          "hotelNo": 134809,
+          "hotelName": "柴原温泉　手打ちそばの宿　柳屋",
+          "rating": 4.27,
+          "minCharge": 8900,
+          "address": "埼玉県 秩父市荒川贄川2048",
+          "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/134809/134809.jpg",
+          "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/134809/134809_kan.jpg",
+          "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D134809",
+          "catchCopy": "江戸末期から続く秘湯の宿で味わう晩秋の渓谷美と絶品手打ちそば",
+          "specialHighlight": "創業江戸末期。秩父七湯の一つ「柴原温泉」の露天風呂と内湯、主人が毎日手打ちする香り高い秩父そばを堪能",
+          "expertReview": "秩父七湯の一つに数えられる柴原温泉の歴史ある宿。荒川の豊かな自然に抱かれた露天風呂では、色づく木々が静かに風に揺れ、湯面に舞い散る紅葉の絨毯が旅人の心を深く癒やします。主人が丹精込めて毎日打つ香り高い手打ちそばと温かなもてなしが、心身にしみ入る至福のひとときを演出します。",
+          "planHighlights": [
+            "創業江戸末期の秘湯",
+            "主人の手打ちそば",
+            "散り紅葉の露天風呂"
+          ],
+          "addedAt": "2026-11-16 17:30"
         },
         {
           "hotelNo": 8527,
