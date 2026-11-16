@@ -24,7 +24,7 @@
         "ふるさと納税 高級",
         "ふるさと納税 旅館"
       ],
-      "updatedAt": "2026-11-16 09:17",
+      "updatedAt": "2026-11-16 12:17",
       "hotels": [
         {
           "hotelNo": 14124,
@@ -179,6 +179,25 @@
           "addedAt": "2026-11-16 17:52"
         },
         {
+          "hotelNo": 5545,
+          "hotelName": "味の宿　みち潮",
+          "rating": 4.39,
+          "minCharge": 10000,
+          "address": "三重県 鳥羽市相差町1522-12",
+          "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/5545/5545.jpg",
+          "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/5545/5545_war.jpg",
+          "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D5545",
+          "catchCopy": "11月の海辺で味わう至福の贅沢。伊勢志摩の旬を堪能する特別な休日を。",
+          "specialHighlight": "10年連続アワード受賞★新鮮な海幸と貸切風呂が人気！プール、露天風呂付客室あり！伊勢志摩観光に最適",
+          "expertReview": "冬の足音が聞こえる11月、伊勢志摩の海風を感じながら「みち潮」で過ごす時間は格別だ。10年連続で高い評価を得るこの宿の真骨頂は、食卓に並ぶ新鮮な海幸。プリプリの伊勢海老や揚げたてのエビフライは、大切な人への心からの贈り物になる。貸切風呂で湯に浸かり、波音を聴きながら心身を解き放てば、旅の疲れはどこかへ消えていく。忙しない年末を前に、一足先に穏やかな余韻に浸る贅沢をここで味わってほしい。",
+          "planHighlights": [
+            "10年連続アワード受賞",
+            "新鮮な伊勢海老料理",
+            "プライベートな貸切風呂"
+          ],
+          "addedAt": "2026-11-16 12:17"
+        },
+        {
           "hotelNo": 52877,
           "hotelName": "土出温泉　尾瀬岩鞍リゾートホテル",
           "rating": 4.34,
@@ -298,7 +317,7 @@
         "星空 温泉",
         "八ヶ岳 星空"
       ],
-      "updatedAt": "2026-11-16 09:17",
+      "updatedAt": "2026-11-16 12:17",
       "hotels": [
         {
           "hotelNo": 179332,
@@ -318,6 +337,25 @@
             "楽天トラベル高評価"
           ],
           "addedAt": "2026-11-16 17:52"
+        },
+        {
+          "hotelNo": 70818,
+          "hotelName": "星空へ続く宿　山本小屋ふる里館",
+          "rating": 4.9,
+          "minCharge": 22800,
+          "address": "長野県 小県郡長和町美ヶ原高原5101-1",
+          "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/70818/70818.jpg",
+          "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/70818/70818_wy.jpg",
+          "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D70818",
+          "catchCopy": "標高2000メートルの特等席。雲上の楽園で星空と雲海に包まれる至福のひととき。",
+          "specialHighlight": "標高2000ｍ雲上の絶景宿。別天地を堪能する天体観測ツアー＆雲海絶景バスツアーは大人気♪",
+          "expertReview": "標高2000メートルの美ヶ原高原に佇むこの宿は、まさに空に近い場所にある別天地です。11月の澄み切った夜空には満天の星が降り注ぎ、息を呑むような天体観測体験が待っています。冷えた体に染み渡る湯に浸かりながら、雲海と絶景を独占する時間は格別。スタッフの温かなもてなしと滋味深い料理が、心まで満たしてくれる贅沢な滞在を約束します。",
+          "planHighlights": [
+            "標高2000メートルの雲上絶景",
+            "夜空を見上げる天体観測ツアー",
+            "絶景を望む天空インフィニティ露天"
+          ],
+          "addedAt": "2026-11-16 12:17"
         },
         {
           "hotelNo": 164535,
@@ -573,7 +611,7 @@
         "香住蟹 温泉",
         "蟹 露天風呂"
       ],
-      "updatedAt": "2026-11-16 09:17",
+      "updatedAt": "2026-11-16 12:17",
       "hotels": [
         {
           "hotelNo": 84652,
@@ -804,6 +842,25 @@
           "addedAt": "2026-11-16 17:52"
         },
         {
+          "hotelNo": 5278,
+          "hotelName": "囲炉裏会席と樹氷の宿　不動温泉　華菱（旧：花びし）",
+          "rating": 4.02,
+          "minCharge": 11700,
+          "address": "長野県 下伊那郡阿智村浪合254-1",
+          "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/5278/5278.jpg",
+          "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/5278/5278_heya.jpg",
+          "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D5278",
+          "catchCopy": "大自然の中の露天風呂とイロリ料理は感動します",
+          "specialHighlight": "大自然の中の露天風呂とイロリ料理は感動します。",
+          "expertReview": "長野県 下伊那郡阿智村浪合254-1に佇む人気宿。大自然の中の露天風呂とイロリ料理は感動します。心地よい温泉と旬の美食を心ゆくまで味わい、日常の喧騒を離れてリフレッシュできる特別な滞在が叶います。",
+          "planHighlights": [
+            "天然温泉",
+            "絶品会席",
+            "楽天トラベル高評価"
+          ],
+          "addedAt": "2026-11-16 12:17"
+        },
+        {
           "hotelNo": 5595,
           "hotelName": "城崎温泉　しののめ荘",
           "rating": 3.88,
@@ -847,7 +904,7 @@
         "紅葉 宿",
         "紅葉 ライトアップ 宿"
       ],
-      "updatedAt": "2026-11-16 09:17",
+      "updatedAt": "2026-11-16 12:17",
       "hotels": [
         {
           "hotelNo": 15086,
@@ -981,6 +1038,25 @@
             "楽天トラベル高評価"
           ],
           "addedAt": "2026-11-16 17:52"
+        },
+        {
+          "hotelNo": 7728,
+          "hotelName": "ホテル美やま　渓流の流れを感じる自然の中の温泉宿",
+          "rating": 4.34,
+          "minCharge": 10080,
+          "address": "埼玉県 秩父市山田1294-1",
+          "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/7728/7728.jpg",
+          "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/7728/7728_men.jpg",
+          "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D7728",
+          "catchCopy": "渓流のせせらぎと息をのむ紅葉に包まれる隠れ宿",
+          "specialHighlight": "「楽天アワード受賞」エリア最大級の露天風呂付客室と女将と若女将による真心を込めたおもてなしの宿",
+          "expertReview": "秩父の豊かな自然に抱かれたホテル美やまは、晩秋の深まりとともに渓谷全体が鮮やかな錦秋へと衣替えする。エリア最大級を誇る露天風呂から眺める散り紅葉の絨毯は圧巻の美しさだ。夜には幻想的なライトアップも楽しめ、女将と若女将の温かなおもてなしが心に染みる極上のひとときを約束してくれる。",
+          "planHighlights": [
+            "エリア最大級の露天風呂",
+            "渓流を望む客室",
+            "期間限定のもみじライトアップ"
+          ],
+          "addedAt": "2026-11-16 12:17"
         },
         {
           "hotelNo": 13483,
