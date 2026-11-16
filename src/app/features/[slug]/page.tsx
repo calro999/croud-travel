@@ -173,9 +173,8 @@ export default async function MonthlyFeaturePage({
       <div className="max-w-4xl mx-auto px-4 sm:px-6 -mt-6 relative z-10">
         <div className="bg-white rounded-2xl shadow-md border border-slate-200 p-4 sm:p-6 flex flex-col sm:flex-row items-center justify-between gap-4">
           <div className="text-sm text-slate-700">
-            <p className="font-bold text-slate-900 flex items-center gap-2">
-              <span>🏆</span>
-              <span>今月泊まりたい、本当におすすめできる名宿ランキング</span>
+            <p className="font-bold text-slate-900">
+              今月泊まりたい、本当におすすめできる名宿ランキング
             </p>
             <p className="text-xs text-slate-500 mt-0.5">
               口コミで極めて高い満足度を誇る上位10宿と、個性豊かな体験が魅力の注目宿を詳しくご紹介します。
@@ -206,9 +205,8 @@ export default async function MonthlyFeaturePage({
         {/* ＝＝＝＝＝ TOP 10 ランキング ＝＝＝＝＝ */}
         <section id="ranking-top10" className="space-y-6">
           <div className="border-b-2 border-emerald-500 pb-3 flex items-center justify-between">
-            <h2 className="text-xl sm:text-2xl font-black text-slate-900 flex items-center gap-2">
-              <span className="text-2xl">👑</span>
-              <span>旅好きが選ぶ！満足度BEST 10</span>
+            <h2 className="text-xl sm:text-2xl font-black text-slate-900">
+              旅好きが選ぶ！満足度BEST 10
             </h2>
             <span className="text-xs text-emerald-700 font-semibold bg-emerald-50 px-2.5 py-1 rounded-md border border-emerald-200">
               高評価順
@@ -354,9 +352,8 @@ export default async function MonthlyFeaturePage({
           <section id="other-collection" className="space-y-6 pt-6">
             <div className="border-b border-slate-300 pb-3 flex items-center justify-between">
               <div>
-                <h2 className="text-lg sm:text-xl font-bold text-slate-900 flex items-center gap-2">
-                  <span>✨</span>
-                  <span>あわせて泊まりたい！独自の魅力が光る注目宿（{others.length}選）</span>
+                <h2 className="text-lg sm:text-xl font-bold text-slate-900">
+                  あわせて泊まりたい！独自の魅力が光る注目宿（{others.length}選）
                 </h2>
                 <p className="text-xs text-slate-500 mt-1">
                   隠れた絶景露天やこだわりの郷土料理、コスパ抜群の滞在など、旅好きの間で評判の個性豊かな名宿です。
@@ -428,9 +425,8 @@ export default async function MonthlyFeaturePage({
 
         {/* 他の今月の特集ナビゲーション */}
         <section className="bg-slate-100 rounded-2xl p-6 border border-slate-200">
-          <h3 className="font-bold text-base text-slate-900 mb-3 flex items-center gap-2">
-            <span>📅</span>
-            <span>今月（{theme.monthLabel}）の他テーマ特集もチェック</span>
+          <h3 className="font-bold text-base text-slate-900 mb-3">
+            今月（{theme.monthLabel}）の他テーマ特集もチェック
           </h3>
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-3">
             {data?.themes
