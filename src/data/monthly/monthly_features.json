@@ -24,7 +24,7 @@
         "ふるさと納税 高級",
         "ふるさと納税 旅館"
       ],
-      "updatedAt": "2026-11-16 18:17",
+      "updatedAt": "2026-11-16 21:17",
       "hotels": [
         {
           "hotelNo": 14124,
@@ -374,7 +374,7 @@
         "星空 温泉",
         "八ヶ岳 星空"
       ],
-      "updatedAt": "2026-11-16 18:17",
+      "updatedAt": "2026-11-16 21:17",
       "hotels": [
         {
           "hotelNo": 179332,
@@ -662,6 +662,25 @@
           "addedAt": "2026-11-16 17:52"
         },
         {
+          "hotelNo": 5624,
+          "hotelName": "昼神温泉　日長庵　桂月",
+          "rating": 4.18,
+          "minCharge": 9900,
+          "address": "長野県 下伊那郡阿智村智里425",
+          "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/5624/5624.jpg",
+          "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/5624/5624_room.jpg",
+          "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D5624",
+          "catchCopy": "阿智村の夜空を独り占め。星降る露天と老舗の美味に酔いしれる隠れ家。",
+          "specialHighlight": "【楽天トラベルブロンズアワード2024受賞】歴史ある老舗料亭を姉妹館に持つ料理自慢の宿",
+          "expertReview": "日本一の星空として知られる阿智村。冷え込みが増す11月、大気は研ぎ澄まされ、手が届きそうなほど鮮明な星々が頭上に広がります。歴史ある料亭の系譜を継ぐこの宿では、旬の滋味を凝縮した繊細な懐石料理が旅の夜を彩ります。温泉に浸かりながら見上げる満天の星は、日常を忘れさせるほどの静寂と充足を約束してくれるはずです。",
+          "planHighlights": [
+            "日本一の星空観賞",
+            "老舗料亭の伝統懐石",
+            "情緒あふれる温泉体験"
+          ],
+          "addedAt": "2026-11-16 21:17"
+        },
+        {
           "hotelNo": 141696,
           "hotelName": "満天の星空が降りそそぐ森の別荘　リゾートヴィラ高山",
           "rating": 4.08,
@@ -725,7 +744,7 @@
         "香住蟹 温泉",
         "蟹 露天風呂"
       ],
-      "updatedAt": "2026-11-16 18:17",
+      "updatedAt": "2026-11-16 21:17",
       "hotels": [
         {
           "hotelNo": 84652,
@@ -918,6 +937,25 @@
           "addedAt": "2026-11-16 17:52"
         },
         {
+          "hotelNo": 1939,
+          "hotelName": "三朝温泉　三朝館",
+          "rating": 4.49,
+          "minCharge": 12705,
+          "address": "鳥取県 東伯郡三朝町山田174",
+          "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/1939/1939.jpg",
+          "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/1939/1939_ber.jpg",
+          "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D1939",
+          "catchCopy": "多彩な湯処とあたたかなおもてなしの心が通う“にほんの宿”",
+          "specialHighlight": "多彩な湯処とあたたかなおもてなしの心が通う“にほんの宿”",
+          "expertReview": "鳥取県 東伯郡三朝町山田174に佇む人気宿。多彩な湯処とあたたかなおもてなしの心が通う“にほんの宿”。心地よい温泉と旬の美食を心ゆくまで味わい、日常の喧騒を離れてリフレッシュできる特別な滞在が叶います。",
+          "planHighlights": [
+            "天然温泉",
+            "絶品会席",
+            "楽天トラベル高評価"
+          ],
+          "addedAt": "2026-11-16 21:17"
+        },
+        {
           "hotelNo": 11043,
           "hotelName": "山代温泉　吉田屋　山王閣",
           "rating": 4.48,
@@ -1075,7 +1113,7 @@
         "紅葉 宿",
         "紅葉 ライトアップ 宿"
       ],
-      "updatedAt": "2026-11-16 18:17",
+      "updatedAt": "2026-11-16 21:17",
       "hotels": [
         {
           "hotelNo": 19924,
@@ -1133,6 +1171,25 @@
             "楽天トラベル高評価"
           ],
           "addedAt": "2026-11-16 17:52"
+        },
+        {
+          "hotelNo": 18758,
+          "hotelName": "蔵王温泉　岩清水料理の宿　季の里",
+          "rating": 4.64,
+          "minCharge": 11400,
+          "address": "山形県 山形市蔵王温泉1271-1",
+          "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/18758/18758.jpg",
+          "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/18758/18758_r.jpg",
+          "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D18758",
+          "catchCopy": "源泉かけ流し強酸性硫黄泉と蔵王の天然水を沸かした内湯が自慢",
+          "specialHighlight": "源泉かけ流し強酸性硫黄泉と蔵王の天然水を沸かした内湯が自慢！山形牛・蔵王牛を使った和会席に舌鼓",
+          "expertReview": "山形県 山形市蔵王温泉1271-1に佇む人気宿。源泉かけ流し強酸性硫黄泉と蔵王の天然水を沸かした内湯が自慢！山形牛・蔵王牛を使った和会席に舌鼓。心地よい温泉と旬の美食を心ゆくまで味わい、日常の喧騒を離れてリフレッシュできる特別な滞在が叶います。",
+          "planHighlights": [
+            "天然温泉",
+            "絶品会席",
+            "楽天トラベル高評価"
+          ],
+          "addedAt": "2026-11-16 21:17"
         },
         {
           "hotelNo": 15449,
