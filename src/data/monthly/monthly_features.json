@@ -24,7 +24,7 @@
         "ふるさと納税 高級",
         "ふるさと納税 旅館"
       ],
-      "updatedAt": "2026-11-17 18:17",
+      "updatedAt": "2026-11-17 18:46",
       "hotels": [
         {
           "hotelNo": 14124,
@@ -374,7 +374,7 @@
         "星空 温泉",
         "八ヶ岳 星空"
       ],
-      "updatedAt": "2026-11-17 18:17",
+      "updatedAt": "2026-11-17 18:46",
       "hotels": [
         {
           "hotelNo": 179332,
@@ -565,6 +565,25 @@
             "八ヶ岳の星空を望む開放的なロケーション"
           ],
           "addedAt": "2026-11-17 06:17"
+        },
+        {
+          "hotelNo": 19754,
+          "hotelName": "八ヶ岳高原　ペンション　アムール",
+          "rating": 4.5,
+          "minCharge": 6000,
+          "address": "山梨県 北杜市大泉町西井出8240-1548",
+          "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/19754/19754.jpg",
+          "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/19754/19754_r.jpg",
+          "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D19754",
+          "catchCopy": "八ヶ岳の冬、満天の星と焼きたてパンの香りに包まれる極上の隠れ家。",
+          "specialHighlight": "朝食の焼きたてパンが好評！パン作り体験もできます。駅に近いのに緑がいっぱい、温泉も近い。",
+          "expertReview": "空気が研ぎ澄まされる11月、八ヶ岳高原の夜は息を呑むほどの星々に満たされます。ペンションアムールは、静寂に包まれた森のなかに佇む温かな避難所です。翌朝は、自ら焼き上げたパンの香ばしい香りで目覚めるという贅沢な体験が待っています。周辺の温泉で冷えた体を芯から温めた後は、標高の高さがもたらす極上の星空を心ゆくまで見上げて過ごす時間は格別です。",
+          "planHighlights": [
+            "満天の星空撮影",
+            "自家製焼きたてパン体験",
+            "森に囲まれた静寂"
+          ],
+          "addedAt": "2026-11-17 18:46"
         },
         {
           "hotelNo": 38754,
@@ -858,7 +877,7 @@
         "香住蟹 温泉",
         "蟹 露天風呂"
       ],
-      "updatedAt": "2026-11-17 18:17",
+      "updatedAt": "2026-11-17 18:46",
       "hotels": [
         {
           "hotelNo": 8509,
@@ -1334,6 +1353,25 @@
             "楽天トラベル高評価"
           ],
           "addedAt": "2026-11-16 17:52"
+        },
+        {
+          "hotelNo": 104643,
+          "hotelName": "間人ガニの本場・大人専用の宿　海雲館",
+          "rating": 3.67,
+          "minCharge": 52170,
+          "address": "京都府 京丹後市丹後町間人1945",
+          "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/104643/104643.jpg",
+          "roomImageUrl": "",
+          "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D104643",
+          "catchCopy": "冬の幻、間人ガニを味わい尽くす。海と温泉に抱かれる大人の隠れ家。",
+          "specialHighlight": "【22年11月リニューアル◆ポイント2倍還元★対象宿】日本海と間人港を望む露天風呂付客室が人気！",
+          "expertReview": "日本海が荒々しく波打つ季節、京丹後の間人港には至高の「間人ガニ」が水揚げされる。海雲館の露天風呂付客室では、窓一面に広がる冬の絶景を独占しながら、誰にも邪魔されない至福の時間を過ごせる。繊細な甘みを宿す蟹のフルコースに、凛と冷えた地酒を合わせれば、心まで解けるような旅の醍醐味がここにある。静寂に包まれた大人の空間で、冬の訪れを五感で堪能してほしい。",
+          "planHighlights": [
+            "間人ガニのフルコース",
+            "全室オーシャンビュー",
+            "大人専用の静寂"
+          ],
+          "addedAt": "2026-11-17 18:46"
         }
       ]
     },
@@ -1360,7 +1398,7 @@
         "紅葉 宿",
         "紅葉 ライトアップ 宿"
       ],
-      "updatedAt": "2026-11-17 18:17",
+      "updatedAt": "2026-11-17 18:46",
       "hotels": [
         {
           "hotelNo": 19924,
