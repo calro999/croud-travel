@@ -24,7 +24,7 @@
         "ふるさと納税 高級",
         "ふるさと納税 旅館"
       ],
-      "updatedAt": "2026-11-17 00:17",
+      "updatedAt": "2026-11-17 01:06",
       "hotels": [
         {
           "hotelNo": 14124,
@@ -374,7 +374,7 @@
         "星空 温泉",
         "八ヶ岳 星空"
       ],
-      "updatedAt": "2026-11-17 00:17",
+      "updatedAt": "2026-11-17 01:06",
       "hotels": [
         {
           "hotelNo": 179332,
@@ -763,7 +763,7 @@
         "香住蟹 温泉",
         "蟹 露天風呂"
       ],
-      "updatedAt": "2026-11-17 00:17",
+      "updatedAt": "2026-11-17 01:06",
       "hotels": [
         {
           "hotelNo": 84652,
@@ -802,6 +802,25 @@
             "五万坪の森に囲まれた静寂"
           ],
           "addedAt": "2026-11-16 18:17"
+        },
+        {
+          "hotelNo": 67124,
+          "hotelName": "山中温泉　吉祥やまなか",
+          "rating": 4.74,
+          "minCharge": 20500,
+          "address": "石川県 加賀市山中温泉東町1-ホ14-3",
+          "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/67124/67124.jpg",
+          "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/67124/67124_gen.jpg",
+          "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D67124",
+          "catchCopy": "解禁されたばかりの冬の味覚。山中温泉の清流と美食に浸る極上の休日。",
+          "specialHighlight": "清流と名湯、美食に包まれるラグジュアリー宿。山中温泉の文化に触れ、心ほどける静寂の滞在。",
+          "expertReview": "鶴仙渓のせせらぎが響く山中温泉で、冬の訪れを告げる蟹料理を味わう贅沢。吉祥やまなかでは、解禁されたばかりの瑞々しいブランド蟹と、加賀の風土が育んだ地酒が至高のマリアージュを奏でます。趣ある名湯に身をゆだね、静寂に包まれた空間で心身を解き放つ。美食と湯の余韻に浸る、大人のための冬旅がここにあります。",
+          "planHighlights": [
+            "冬のブランド蟹尽くし",
+            "加賀の地酒ペアリング",
+            "鶴仙渓を望む名湯"
+          ],
+          "addedAt": "2026-11-17 01:06"
         },
         {
           "hotelNo": 6006,
@@ -1151,7 +1170,7 @@
         "紅葉 宿",
         "紅葉 ライトアップ 宿"
       ],
-      "updatedAt": "2026-11-17 00:17",
+      "updatedAt": "2026-11-17 01:06",
       "hotels": [
         {
           "hotelNo": 19924,
@@ -1247,6 +1266,25 @@
             "楽天トラベル高評価"
           ],
           "addedAt": "2026-11-16 21:17"
+        },
+        {
+          "hotelNo": 2630,
+          "hotelName": "伊香保温泉　お宿玉樹",
+          "rating": 4.62,
+          "minCharge": 20900,
+          "address": "群馬県 渋川市伊香保町伊香保87-2",
+          "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/2630/2630.jpg",
+          "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/2630/2630_kan.jpg",
+          "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D2630",
+          "catchCopy": "畳の香りに包まれる伊香保の隠れ家で、晩秋の静寂と黄金色の湯に身を委ねる。",
+          "specialHighlight": "畳廊下の純和風の宿です。",
+          "expertReview": "石段街の喧騒から離れた高台に佇む純和風の宿。廊下まで敷き詰められた畳の感触が、足元から旅の疲れを優しく解きほぐします。晩秋の陽光が差し込む大浴場では、伊香保特有の黄金色の湯が肌を包み込み、心身を深い安らぎへと誘います。人の温もりが息づく空間で、渓谷を彩る紅葉の散り際を眺めながら、静謐な秋の夜長を心ゆくまで愉しむ贅沢がここにあります。",
+          "planHighlights": [
+            "心安らぐ畳廊下の純和風空間",
+            "伊香保名物の黄金の湯を堪能",
+            "人の温もりに触れるおもてなし"
+          ],
+          "addedAt": "2026-11-17 01:06"
         },
         {
           "hotelNo": 15449,
