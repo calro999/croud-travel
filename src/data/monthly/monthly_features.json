@@ -24,7 +24,7 @@
         "ふるさと納税 高級",
         "ふるさと納税 旅館"
       ],
-      "updatedAt": "2026-11-17 01:06",
+      "updatedAt": "2026-11-17 03:17",
       "hotels": [
         {
           "hotelNo": 14124,
@@ -374,7 +374,7 @@
         "星空 温泉",
         "八ヶ岳 星空"
       ],
-      "updatedAt": "2026-11-17 01:06",
+      "updatedAt": "2026-11-17 03:17",
       "hotels": [
         {
           "hotelNo": 179332,
@@ -681,6 +681,25 @@
           "addedAt": "2026-11-16 17:52"
         },
         {
+          "hotelNo": 7759,
+          "hotelName": "グランドメルキュール八ヶ岳リゾート＆スパ",
+          "rating": 4.24,
+          "minCharge": 5022,
+          "address": "山梨県 北杜市大泉町西井出8240-1039",
+          "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/7759/7759.jpg",
+          "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/7759/7759_din1.jpg",
+          "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D7759",
+          "catchCopy": "八ヶ岳の夜空を独り占め。天空の露天風呂と星々が織りなす初冬の特等席。",
+          "specialHighlight": "八ヶ岳の大自然に囲まれた、家族みんなが笑顔になれる全天候型アミューズメントホテル",
+          "expertReview": "標高1,000メートルを超える八ヶ岳の麓では、11月の風が早くも冬の訪れを告げる。空気が澄み渡る夜、露天風呂に身を沈めれば、手が届きそうなほど間近に瞬く満天の星が頭上に広がる。大自然の懐に抱かれたこの場所は、日常を忘れさせる静寂と、家族の笑い声が溶け合う特別な隠れ家。八ヶ岳の息吹を感じながら、心ほどける休息を。",
+          "planHighlights": [
+            "八ヶ岳の絶景星空観察",
+            "天空のインフィニティ露天風呂",
+            "家族で楽しむ全天候型リゾート"
+          ],
+          "addedAt": "2026-11-17 03:17"
+        },
+        {
           "hotelNo": 5624,
           "hotelName": "昼神温泉　日長庵　桂月",
           "rating": 4.18,
@@ -763,7 +782,7 @@
         "香住蟹 温泉",
         "蟹 露天風呂"
       ],
-      "updatedAt": "2026-11-17 01:06",
+      "updatedAt": "2026-11-17 03:17",
       "hotels": [
         {
           "hotelNo": 84652,
@@ -1089,6 +1108,25 @@
           "addedAt": "2026-11-16 17:52"
         },
         {
+          "hotelNo": 8778,
+          "hotelName": "神鍋温泉　自然に癒される高原ホテル　ブルーリッジホテル",
+          "rating": 4.09,
+          "minCharge": 14000,
+          "address": "兵庫県 豊岡市日高町栗栖野55",
+          "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/8778/8778.jpg",
+          "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/8778/8778_heya1.jpg",
+          "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D8778",
+          "catchCopy": "神鍋の高原で冬の味覚を嗜む、源泉100％の贅沢な隠れ家",
+          "specialHighlight": "松茸やボイル蟹の秋バイキング！秋夜の星空露天と源泉１０0％美肌の湯、広大な自然で至福の休息を。",
+          "expertReview": "兵庫・神鍋の豊かな自然に抱かれたブルーリッジホテル。解禁を迎えた冬の美味を堪能したあとは、源泉100％のなめらかな美肌の湯で心身をときほぐす。星空が広がる露天風呂の静寂が、旅の夜を深く満たしてくれる。",
+          "planHighlights": [
+            "冬のブランド蟹",
+            "源泉100%美肌の湯",
+            "星空露天風呂"
+          ],
+          "addedAt": "2026-11-17 03:17"
+        },
+        {
           "hotelNo": 153245,
           "hotelName": "越前糸生温泉　泰澄の杜",
           "rating": 4.05,
@@ -1170,7 +1208,7 @@
         "紅葉 宿",
         "紅葉 ライトアップ 宿"
       ],
-      "updatedAt": "2026-11-17 01:06",
+      "updatedAt": "2026-11-17 03:17",
       "hotels": [
         {
           "hotelNo": 19924,
