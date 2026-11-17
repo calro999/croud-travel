@@ -24,7 +24,7 @@
         "ふるさと納税 高級",
         "ふるさと納税 旅館"
       ],
-      "updatedAt": "2026-11-17 18:46",
+      "updatedAt": "2026-11-17 21:17",
       "hotels": [
         {
           "hotelNo": 14124,
@@ -374,7 +374,7 @@
         "星空 温泉",
         "八ヶ岳 星空"
       ],
-      "updatedAt": "2026-11-17 18:46",
+      "updatedAt": "2026-11-17 21:17",
       "hotels": [
         {
           "hotelNo": 179332,
@@ -432,6 +432,25 @@
             "楽天トラベル高評価"
           ],
           "addedAt": "2026-11-16 17:52"
+        },
+        {
+          "hotelNo": 28780,
+          "hotelName": "八ヶ岳の恵みを味わうレストラン＆ホテル　オーベルジュ清里",
+          "rating": 4.78,
+          "minCharge": 4400,
+          "address": "山梨県 北杜市高根町清里３５４５－９４３　コートドゥヴェール内",
+          "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/28780/28780.jpg",
+          "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/28780/28780_heya.jpg",
+          "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D28780",
+          "catchCopy": "自家農園野菜を使ったレストランが人気",
+          "specialHighlight": "自家農園野菜を使ったレストランが人気！牧場、工房、農園など体験も充実のホテル",
+          "expertReview": "山梨県 北杜市高根町清里３５４５－９４３ コートドゥヴェール内に佇む人気宿。自家農園野菜を使ったレストランが人気！牧場、工房、農園など体験も充実のホテル。心地よい温泉と旬の美食を心ゆくまで味わい、日常の喧騒を離れてリフレッシュできる特別な滞在が叶います。",
+          "planHighlights": [
+            "天然温泉",
+            "絶品会席",
+            "楽天トラベル高評価"
+          ],
+          "addedAt": "2026-11-17 21:17"
         },
         {
           "hotelNo": 190897,
@@ -877,7 +896,7 @@
         "香住蟹 温泉",
         "蟹 露天風呂"
       ],
-      "updatedAt": "2026-11-17 18:46",
+      "updatedAt": "2026-11-17 21:17",
       "hotels": [
         {
           "hotelNo": 8509,
@@ -1087,6 +1106,25 @@
             "楽天トラベル高評価"
           ],
           "addedAt": "2026-11-16 17:52"
+        },
+        {
+          "hotelNo": 18646,
+          "hotelName": "かに楽座　甲羅戯",
+          "rating": 4.6,
+          "minCharge": 36850,
+          "address": "兵庫県 美方郡香美町香住区浦上312-1",
+          "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/18646/18646.jpg",
+          "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/18646/18646_wa.jpg",
+          "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D18646",
+          "catchCopy": "柴山湾の絶景と解禁されたばかりの極上蟹に酔いしれる夜",
+          "specialHighlight": "和のテイストと現代モダンが融合した、柴山湾一望の料理旅館",
+          "expertReview": "日本海の荒波が育んだ冬の味覚の王様を、最も贅沢な状態で味わい尽くす。窓の向こうに広がる柴山湾の静かな潮騒を聞きながら、源泉かけ流しの湯で体の芯まで温まる。素材の持ち味を極限まで引き出した料理の数々と、地元の蔵元が誇る美酒が、至福のひとときを静かに演出する大人の隠れ家。",
+          "planHighlights": [
+            "柴山湾一望のロケーション",
+            "解禁ブランド蟹のフルコース",
+            "こだわりの地酒ペアリング"
+          ],
+          "addedAt": "2026-11-17 21:17"
         },
         {
           "hotelNo": 53097,
@@ -1398,7 +1436,7 @@
         "紅葉 宿",
         "紅葉 ライトアップ 宿"
       ],
-      "updatedAt": "2026-11-17 18:46",
+      "updatedAt": "2026-11-17 21:17",
       "hotels": [
         {
           "hotelNo": 19924,
