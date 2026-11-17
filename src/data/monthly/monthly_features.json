@@ -24,7 +24,7 @@
         "ふるさと納税 高級",
         "ふるさと納税 旅館"
       ],
-      "updatedAt": "2026-11-17 03:17",
+      "updatedAt": "2026-11-17 06:17",
       "hotels": [
         {
           "hotelNo": 14124,
@@ -374,7 +374,7 @@
         "星空 温泉",
         "八ヶ岳 星空"
       ],
-      "updatedAt": "2026-11-17 03:17",
+      "updatedAt": "2026-11-17 06:17",
       "hotels": [
         {
           "hotelNo": 179332,
@@ -527,6 +527,25 @@
             "2024年リニューアルの洗練空間"
           ],
           "addedAt": "2026-11-16 17:30"
+        },
+        {
+          "hotelNo": 185824,
+          "hotelName": "Ｒａｋｕｔｅｎ　ＳＴＡＹ　ＶＩＬＬＡ　八ヶ岳",
+          "rating": 4.52,
+          "minCharge": 5120,
+          "address": "山梨県 北杜市小淵沢町10144-3　Ｒａｋｕｔｅｎ　ＳＴＡＹ　ＶＩＬＬＡ　八ヶ岳",
+          "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/185824/185824.jpg",
+          "roomImageUrl": "",
+          "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D185824",
+          "catchCopy": "八ヶ岳の澄んだ夜空を独り占めする、メゾネットで叶える贅沢な冬の隠れ家時間。",
+          "specialHighlight": "2023年4月新規OPEN★メゾネットタイプの広々客室、ファミリーやグループのご宿泊に最適！",
+          "expertReview": "2023年春に誕生したこのヴィラは、八ヶ岳の凛とした空気を肌で感じるための特等席だ。メゾネットタイプの客室は開放感に満ち、窓の外には季節の移ろいを映し出す絶景が広がる。夜になれば、遮るもののない空に満天の星が降り注ぎ、心まで洗われるような静寂が訪れる。大切な人と語らい、非日常の安らぎに身を委ねる、格別な初冬の旅がここにはある。",
+          "planHighlights": [
+            "2023年4月新規開業の洗練された空間",
+            "ファミリーやグループに最適なメゾネット客室",
+            "八ヶ岳の星空を望む開放的なロケーション"
+          ],
+          "addedAt": "2026-11-17 06:17"
         },
         {
           "hotelNo": 38754,
@@ -782,7 +801,7 @@
         "香住蟹 温泉",
         "蟹 露天風呂"
       ],
-      "updatedAt": "2026-11-17 03:17",
+      "updatedAt": "2026-11-17 06:17",
       "hotels": [
         {
           "hotelNo": 84652,
@@ -1051,6 +1070,25 @@
           "addedAt": "2026-11-16 17:30"
         },
         {
+          "hotelNo": 38788,
+          "hotelName": "あまるべ温泉　夕香楼しょう和＜香住＞",
+          "rating": 4.46,
+          "minCharge": 13000,
+          "address": "兵庫県 美方郡香美町香住区七日市312-1",
+          "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/38788/38788.jpg",
+          "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/38788/38788_kya.jpg",
+          "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D38788",
+          "catchCopy": "香住の冬を味わい尽くす。絶景の海辺で解禁の蟹と地酒に酔いしれる贅沢な一夜。",
+          "specialHighlight": "　『カフェ併設ブロンズアワード・リトルスター＆マイスター受賞宿』　",
+          "expertReview": "日本海を目の前に望む香住浜の特等席で、冬の味覚の王様を堪能する。解禁されたばかりの松葉蟹と香住蟹が食卓を彩り、地酒のキレがその甘みを一層引き立てる。食後は併設のカフェで選び抜かれたデザートを愉しみ、波音を聞きながら温泉に身を委ねる。五感を満たす至福の時間は、日常を忘れさせるほどに甘美で、旅人の心に深く刻まれる思い出となる。",
+          "planHighlights": [
+            "香住蟹と松葉蟹の食べ比べ",
+            "併設カフェの絶品スイーツ",
+            "目の前に広がる香住浜の絶景"
+          ],
+          "addedAt": "2026-11-17 06:17"
+        },
+        {
           "hotelNo": 5677,
           "hotelName": "あわら温泉　伝統旅館のぬくもり　灰屋",
           "rating": 4.38,
@@ -1208,7 +1246,7 @@
         "紅葉 宿",
         "紅葉 ライトアップ 宿"
       ],
-      "updatedAt": "2026-11-17 03:17",
+      "updatedAt": "2026-11-17 06:17",
       "hotels": [
         {
           "hotelNo": 19924,
