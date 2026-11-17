@@ -24,7 +24,7 @@
         "ふるさと納税 高級",
         "ふるさと納税 旅館"
       ],
-      "updatedAt": "2026-11-17 12:17",
+      "updatedAt": "2026-11-17 15:17",
       "hotels": [
         {
           "hotelNo": 14124,
@@ -374,7 +374,7 @@
         "星空 温泉",
         "八ヶ岳 星空"
       ],
-      "updatedAt": "2026-11-17 12:17",
+      "updatedAt": "2026-11-17 15:17",
       "hotels": [
         {
           "hotelNo": 179332,
@@ -839,7 +839,7 @@
         "香住蟹 温泉",
         "蟹 露天風呂"
       ],
-      "updatedAt": "2026-11-17 12:17",
+      "updatedAt": "2026-11-17 15:17",
       "hotels": [
         {
           "hotelNo": 8509,
@@ -1165,6 +1165,25 @@
           "addedAt": "2026-11-17 06:17"
         },
         {
+          "hotelNo": 54616,
+          "hotelName": "かにと活魚料理の宿　海風亭　寺泊　日本海",
+          "rating": 4.41,
+          "minCharge": 13750,
+          "address": "新潟県 長岡市寺泊上荒町9353-126",
+          "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/54616/54616.jpg",
+          "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/54616/54616_room.jpg",
+          "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D54616",
+          "catchCopy": "日本海の荒波が育んだ極上の冬の味覚を心ゆくまで堪能する",
+          "specialHighlight": "■レストランの総水量400tの【いけす】には新鮮な日本海の恵みがたっぷり！リーズナブルな価格が魅力★",
+          "expertReview": "新潟県寺泊の海岸線に佇む海風亭。総水量400トンの巨大ないけすを備え、水揚げされたばかりの新鮮な活魚や解禁を迎えたばかりのブランド蟹がテーブルを彩る。鮑のステーキや極上の旬魚を味わい尽くしたあとは、日本海の潮騒に包まれながら贅沢な温泉時間を過ごす。",
+          "planHighlights": [
+            "日本海一望のロケーション",
+            "総水量400tの巨大いけす",
+            "極上のブランド蟹と活魚料理"
+          ],
+          "addedAt": "2026-11-17 15:17"
+        },
+        {
           "hotelNo": 5677,
           "hotelName": "あわら温泉　伝統旅館のぬくもり　灰屋",
           "rating": 4.38,
@@ -1322,7 +1341,7 @@
         "紅葉 宿",
         "紅葉 ライトアップ 宿"
       ],
-      "updatedAt": "2026-11-17 12:17",
+      "updatedAt": "2026-11-17 15:17",
       "hotels": [
         {
           "hotelNo": 19924,

@@ -331,3 +331,4 @@ showcase_shiga
 monthly-hotel-november-starry-sky-infinity-onsen-164535
 showcase_wakayama
 january-kyoto-gion-10selection
+showcase_yamagata
