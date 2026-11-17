@@ -24,7 +24,7 @@
         "ふるさと納税 高級",
         "ふるさと納税 旅館"
       ],
-      "updatedAt": "2026-11-17 06:17",
+      "updatedAt": "2026-11-17 09:17",
       "hotels": [
         {
           "hotelNo": 14124,
@@ -374,7 +374,7 @@
         "星空 温泉",
         "八ヶ岳 星空"
       ],
-      "updatedAt": "2026-11-17 06:17",
+      "updatedAt": "2026-11-17 09:17",
       "hotels": [
         {
           "hotelNo": 179332,
@@ -508,6 +508,25 @@
             "楽天トラベル高評価"
           ],
           "addedAt": "2026-11-16 17:52"
+        },
+        {
+          "hotelNo": 164627,
+          "hotelName": "八ヶ岳　ＢａｓｅＣａｍｐ",
+          "rating": 4.64,
+          "minCharge": 8030,
+          "address": "長野県 諏訪郡原村17217-1638",
+          "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/164627/164627.jpg",
+          "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/164627/164627_sho1.jpg",
+          "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D164627",
+          "catchCopy": "八ヶ岳の夜空を独り占めする、静寂と絶景に浸る冬の隠れ家。",
+          "specialHighlight": "「暮すように泊まる」　そんな時間と空間に包まれます。",
+          "expertReview": "標高1300メートルの原村に身を置けば、11月の冷たく澄んだ空気が肺の奥まで染み渡ります。八ヶ岳BaseCampでの過ごし方は、まさに暮らすような贅沢。夜が更ける頃、露天風呂から見上げれば頭上には降るような星々が広がります。湯船と夜空が溶け合うインフィニティの絶景を前に、日常の喧騒は遠い過去の出来事のように消えていくはずです。静かな冬の夜、ただひたすらに星を追い、静寂を味わうための特等席がここにあります。",
+          "planHighlights": [
+            "八ヶ岳の星空観測",
+            "暮らすように泊まる空間",
+            "絶景インフィニティ露天"
+          ],
+          "addedAt": "2026-11-17 09:17"
         },
         {
           "hotelNo": 1258,
@@ -801,7 +820,7 @@
         "香住蟹 温泉",
         "蟹 露天風呂"
       ],
-      "updatedAt": "2026-11-17 06:17",
+      "updatedAt": "2026-11-17 09:17",
       "hotels": [
         {
           "hotelNo": 84652,
@@ -897,6 +916,25 @@
             "楽天トラベル高評価"
           ],
           "addedAt": "2026-11-16 17:52"
+        },
+        {
+          "hotelNo": 18669,
+          "hotelName": "佐津温泉　渚に続く海辺の宿　源六＜兵庫県＞",
+          "rating": 4.64,
+          "minCharge": 31765,
+          "address": "兵庫県 美方郡香美町香住区訓谷21",
+          "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/18669/18669.jpg",
+          "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/18669/18669_w.jpg",
+          "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D18669",
+          "catchCopy": "佐津海岸の浜辺が真正面です",
+          "specialHighlight": "佐津海岸の浜辺が真正面です。やさしく香る潮風に心なごむご宿泊を満喫して頂けます。",
+          "expertReview": "兵庫県 美方郡香美町香住区訓谷21に佇む人気宿。佐津海岸の浜辺が真正面です。心地よい温泉と旬の美食を心ゆくまで味わい、日常の喧騒を離れてリフレッシュできる特別な滞在が叶います。",
+          "planHighlights": [
+            "天然温泉",
+            "絶品会席",
+            "楽天トラベル高評価"
+          ],
+          "addedAt": "2026-11-17 09:17"
         },
         {
           "hotelNo": 16207,
@@ -1246,7 +1284,7 @@
         "紅葉 宿",
         "紅葉 ライトアップ 宿"
       ],
-      "updatedAt": "2026-11-17 06:17",
+      "updatedAt": "2026-11-17 09:17",
       "hotels": [
         {
           "hotelNo": 19924,
