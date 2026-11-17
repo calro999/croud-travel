@@ -24,7 +24,7 @@
         "ふるさと納税 高級",
         "ふるさと納税 旅館"
       ],
-      "updatedAt": "2026-11-17 09:17",
+      "updatedAt": "2026-11-17 12:17",
       "hotels": [
         {
           "hotelNo": 14124,
@@ -374,7 +374,7 @@
         "星空 温泉",
         "八ヶ岳 星空"
       ],
-      "updatedAt": "2026-11-17 09:17",
+      "updatedAt": "2026-11-17 12:17",
       "hotels": [
         {
           "hotelNo": 179332,
@@ -624,6 +624,25 @@
           "addedAt": "2026-11-16 17:52"
         },
         {
+          "hotelNo": 29370,
+          "hotelName": "八ヶ岳・清里高原　清泉寮　ホテル＆コテージ",
+          "rating": 4.36,
+          "minCharge": 5800,
+          "address": "山梨県 北杜市高根町清里3545",
+          "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/29370/29370.jpg",
+          "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/29370/29370_twi.jpg",
+          "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D29370",
+          "catchCopy": "標高1400メートルの天空へ。清里の星空とインフィニティ露天で満たす初冬の休日。",
+          "specialHighlight": "標高１４００ｍ！八ヶ岳南麓に位置する清泉寮◆眺望の良さと温かいおもてなしが自慢の宿",
+          "expertReview": "八ヶ岳南麓の清冽な空気に包まれる清泉寮は、初冬の夜空を独占できる特等席。標高1400メートルから見下ろす甲府盆地の夜景と、頭上に広がる満天の星は、この季節ならではの凛とした静寂に満ちている。湯船に浸かれば、まるで空の淵に溶け込むようなインフィニティの絶景が広がる。薪ストーブが灯る温かな空間で、高原の冷気を忘れる贅沢な休息を刻んでほしい。",
+          "planHighlights": [
+            "標高1400mの星空観測",
+            "天空に続くインフィニティ露天風呂",
+            "八ヶ岳の絶景を望む高原ステイ"
+          ],
+          "addedAt": "2026-11-17 12:17"
+        },
+        {
           "hotelNo": 139955,
           "hotelName": "会津東山温泉　客室専用露天風呂付のスイートルーム　はなれ　松島閣",
           "rating": 4.35,
@@ -820,8 +839,27 @@
         "香住蟹 温泉",
         "蟹 露天風呂"
       ],
-      "updatedAt": "2026-11-17 09:17",
+      "updatedAt": "2026-11-17 12:17",
       "hotels": [
+        {
+          "hotelNo": 8509,
+          "hotelName": "城崎温泉　小林屋",
+          "rating": 4.92,
+          "minCharge": 52800,
+          "address": "兵庫県 豊岡市城崎町湯島369",
+          "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/8509/8509.jpg",
+          "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/8509/8509_war.jpg",
+          "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D8509",
+          "catchCopy": "創業三百余年の木造三階建で味わう至高の冬の蟹と名湯",
+          "specialHighlight": "2023年リニューアル　創業300余年、木造三階建数寄屋造り登録有形文化財の宿。立地最高評価",
+          "expertReview": "秋の深まりとともに解禁を迎える魅惑の味覚を求めて、但馬の古社寺風情漂う城崎温泉へ足を向ける。創業三百余年、登録有形文化財に指定された木造三階建の数寄屋造りは、ただそこにあるだけで旅人の心を深く満たす。歴史の重みを感じる静謐な空間に身を委ね、日本海の荒波が育んだブランド蟹と厳選された地酒に酔いしれる、贅沢な夜が始まる。",
+          "planHighlights": [
+            "創業300余年の有形文化財",
+            "冬の味覚ブランド蟹",
+            "こだわりの地酒"
+          ],
+          "addedAt": "2026-11-17 12:17"
+        },
         {
           "hotelNo": 84652,
           "hotelName": "越前あわら温泉　つるや",
@@ -1284,7 +1322,7 @@
         "紅葉 宿",
         "紅葉 ライトアップ 宿"
       ],
-      "updatedAt": "2026-11-17 09:17",
+      "updatedAt": "2026-11-17 12:17",
       "hotels": [
         {
           "hotelNo": 19924,
