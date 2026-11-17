@@ -24,7 +24,7 @@
         "ふるさと納税 高級",
         "ふるさと納税 旅館"
       ],
-      "updatedAt": "2026-11-16 21:17",
+      "updatedAt": "2026-11-17 00:17",
       "hotels": [
         {
           "hotelNo": 14124,
@@ -374,7 +374,7 @@
         "星空 温泉",
         "八ヶ岳 星空"
       ],
-      "updatedAt": "2026-11-16 21:17",
+      "updatedAt": "2026-11-17 00:17",
       "hotels": [
         {
           "hotelNo": 179332,
@@ -527,6 +527,25 @@
             "2024年リニューアルの洗練空間"
           ],
           "addedAt": "2026-11-16 17:30"
+        },
+        {
+          "hotelNo": 38754,
+          "hotelName": "八ヶ岳グレイスホテル",
+          "rating": 4.48,
+          "minCharge": 5500,
+          "address": "長野県 南佐久郡南牧村野辺山217-1",
+          "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/38754/38754.jpg",
+          "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/38754/38754_he.jpg",
+          "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D38754",
+          "catchCopy": "標高1,450mの澄んだ夜空に抱かれる、八ヶ岳の特等席",
+          "specialHighlight": "全客室より八ヶ岳を一望★星空観察会★毎晩開催中！清里まで車で5分。直前割や一人旅も大歓迎！",
+          "expertReview": "遮るもののない野辺山の高台に佇み、全客室の窓からは雄大な八ヶ岳が絵画のように迫る。特筆すべきは毎晩開催される星空観察会で、息を呑むほどの満天の星が頭上に広がる。冷えた体を芯から温める湯船からは、朝霧に浮かぶ山々や夜空の星を独り占めできるような贅沢な開放感を味わえる。",
+          "planHighlights": [
+            "全室から八ヶ岳を一望",
+            "毎晩開催の星空観察会",
+            "清里まで車で5分の好立地"
+          ],
+          "addedAt": "2026-11-17 00:17"
         },
         {
           "hotelNo": 67476,
@@ -744,7 +763,7 @@
         "香住蟹 温泉",
         "蟹 露天風呂"
       ],
-      "updatedAt": "2026-11-16 21:17",
+      "updatedAt": "2026-11-17 00:17",
       "hotels": [
         {
           "hotelNo": 84652,
@@ -859,6 +878,25 @@
             "楽天トラベル高評価"
           ],
           "addedAt": "2026-11-16 17:52"
+        },
+        {
+          "hotelNo": 68251,
+          "hotelName": "山中温泉　かがり吉祥亭",
+          "rating": 4.62,
+          "minCharge": 16000,
+          "address": "石川県 加賀市山中温泉こおろぎ町ニ1-1",
+          "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/68251/68251.jpg",
+          "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/68251/68251_j.jpg",
+          "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D68251",
+          "catchCopy": "渓流のせせらぎと解禁の蟹。山中温泉で味わう冬の美食旅。",
+          "specialHighlight": "≪全室リバービュー・夕食時飲み放題≫渓流沿いの露天風呂と旬の加賀料理を堪能。こおろぎ橋・ゆげ街道すぐ",
+          "expertReview": "名勝・こおろぎ橋の傍らに佇むこの宿は、窓を開ければ渓流の調べが響く特等席だ。11月の解禁とともに訪れる旬の蟹は、身の甘みと繊細な旨味が格別。地酒の芳醇な香りと共に味わう加賀料理は、至福のひとときを約束してくれる。湯に浸かりながら深まりゆく秋と冬の気配を感じ、心まで解きほぐされる贅沢な滞在がここにはある。",
+          "planHighlights": [
+            "全室リバービューの絶景",
+            "解禁の加賀蟹と地酒のペアリング",
+            "渓流を望む露天風呂"
+          ],
+          "addedAt": "2026-11-17 00:17"
         },
         {
           "hotelNo": 84545,
@@ -1113,7 +1151,7 @@
         "紅葉 宿",
         "紅葉 ライトアップ 宿"
       ],
-      "updatedAt": "2026-11-16 21:17",
+      "updatedAt": "2026-11-17 00:17",
       "hotels": [
         {
           "hotelNo": 19924,
@@ -1171,6 +1209,25 @@
             "楽天トラベル高評価"
           ],
           "addedAt": "2026-11-16 17:52"
+        },
+        {
+          "hotelNo": 31865,
+          "hotelName": "修善寺温泉　国の登録文化財の宿　新井旅館",
+          "rating": 4.64,
+          "minCharge": 24420,
+          "address": "静岡県 伊豆市修善寺970",
+          "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/31865/31865.jpg",
+          "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/31865/31865_he.jpg",
+          "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D31865",
+          "catchCopy": "文豪が愛した木造建築で、修善寺の晩秋と散り紅葉の静寂に浸る。",
+          "specialHighlight": "ミシュランで二つ星の竹林の小径まで徒歩2分、修善寺温泉の中心で観光に便利です",
+          "expertReview": "桂川のせせらぎが響く修善寺の心臓部に、明治の面影を宿す名宿がある。国の登録文化財に指定された館内は、時が止まったかのような深い静寂に包まれている。一歩外へ出れば、竹林の小径が黄金色に色づき、散り紅葉が川面を彩る季節。湯けむりの中に身をゆだね、文豪たちが愛した風情ある空間で、季節の移ろいを肌で感じる贅沢な時間を過ごす。",
+          "planHighlights": [
+            "国の登録文化財に泊まる",
+            "竹林の小径まで徒歩2分",
+            "文豪が愛した歴史的空間"
+          ],
+          "addedAt": "2026-11-17 00:17"
         },
         {
           "hotelNo": 18758,
