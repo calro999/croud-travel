@@ -24,7 +24,7 @@
         "ふるさと納税 高級",
         "ふるさと納税 旅館"
       ],
-      "updatedAt": "2026-11-18 00:17",
+      "updatedAt": "2026-11-18 01:22",
       "hotels": [
         {
           "hotelNo": 14124,
@@ -374,7 +374,7 @@
         "星空 温泉",
         "八ヶ岳 星空"
       ],
-      "updatedAt": "2026-11-18 00:17",
+      "updatedAt": "2026-11-18 01:22",
       "hotels": [
         {
           "hotelNo": 179332,
@@ -915,7 +915,7 @@
         "香住蟹 温泉",
         "蟹 露天風呂"
       ],
-      "updatedAt": "2026-11-18 00:17",
+      "updatedAt": "2026-11-18 01:22",
       "hotels": [
         {
           "hotelNo": 18926,
@@ -1030,6 +1030,25 @@
             "楽天トラベル高評価"
           ],
           "addedAt": "2026-11-16 15:17"
+        },
+        {
+          "hotelNo": 70670,
+          "hotelName": "客室露天風呂の宿　奥伊根温泉　油屋別館　和亭",
+          "rating": 4.67,
+          "minCharge": 46200,
+          "address": "京都府 与謝郡伊根町津母570",
+          "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/70670/70670.jpg",
+          "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/70670/70670_kan.jpg",
+          "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D70670",
+          "catchCopy": "冬の日本海を独り占め。伊根の隠れ宿で味わう至高の蟹と温泉の贅沢な時間。",
+          "specialHighlight": "日本海を望む高台に佇む隠れ宿。大人のくつろぎをテーマに一品出しのお部屋食と露天風呂付客室が自慢です。",
+          "expertReview": "日本海を見下ろす高台に身を置けば、刻々と表情を変える海と空が唯一無二の贅沢を演出する。11月に解禁される冬の味覚は、一品出しで供されるこだわりの会席で。波音をBGMに露天風呂付き客室で湯に浸かり、肌が潤う感覚を愉しむ。朝は水平線から昇る朝日が部屋を照らし、心まで満たされる特別な休日がここにはある。",
+          "planHighlights": [
+            "全室露天風呂付きの贅沢空間",
+            "冬の味覚を堪能する一品出しのお部屋食",
+            "日本海を望む絶景のプライベートステイ"
+          ],
+          "addedAt": "2026-11-18 01:22"
         },
         {
           "hotelNo": 25128,
@@ -1474,7 +1493,7 @@
         "紅葉 宿",
         "紅葉 ライトアップ 宿"
       ],
-      "updatedAt": "2026-11-18 00:17",
+      "updatedAt": "2026-11-18 01:22",
       "hotels": [
         {
           "hotelNo": 19924,
