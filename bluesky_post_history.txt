@@ -341,3 +341,4 @@ showcase_hiroshima
 furusato-tax-luxury-ryokan-ranking-japan-hotels-guide
 showcase_kochi
 autumn-nikko-kinugawa-10selection
+showcase_oita
