@@ -24,7 +24,7 @@
         "ふるさと納税 高級",
         "ふるさと納税 旅館"
       ],
-      "updatedAt": "2026-11-17 21:17",
+      "updatedAt": "2026-11-18 00:17",
       "hotels": [
         {
           "hotelNo": 14124,
@@ -374,7 +374,7 @@
         "星空 温泉",
         "八ヶ岳 星空"
       ],
-      "updatedAt": "2026-11-17 21:17",
+      "updatedAt": "2026-11-18 00:17",
       "hotels": [
         {
           "hotelNo": 179332,
@@ -565,6 +565,25 @@
             "2024年リニューアルの洗練空間"
           ],
           "addedAt": "2026-11-16 17:30"
+        },
+        {
+          "hotelNo": 68642,
+          "hotelName": "昼神温泉四季の織　はなや（旧ホテルはなや）",
+          "rating": 4.52,
+          "minCharge": 21945,
+          "address": "長野県 下伊那郡阿智村智里530-1",
+          "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/68642/68642.jpg",
+          "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/68642/68642_kan.jpg",
+          "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D68642",
+          "catchCopy": "満天の星とトロトロの湯に包まれる、静寂の隠れ家",
+          "specialHighlight": "「24時間入り放題＆無料」の【貸切露天風呂】トロトロ泉質の美人の湯♪全17室のおもてなしの宿",
+          "expertReview": "日本一の星空が瞬く阿智村の夜空の下、澄み切った11月の空気を感じながら湯浴みを愉しむ。全17室という贅沢な大人の空間で、24時間いつでも無料で利用できる貸切露天風呂が心身の疲れを優しく解きほぐす。選び抜かれた美食と温かなおもてなしに満たされる、至福のひとときがここにある。",
+          "planHighlights": [
+            "日本一の星空阿智村",
+            "24時間無料の貸切露天風呂",
+            "全17室の隠れ家宿"
+          ],
+          "addedAt": "2026-11-18 00:17"
         },
         {
           "hotelNo": 185824,
@@ -896,8 +915,27 @@
         "香住蟹 温泉",
         "蟹 露天風呂"
       ],
-      "updatedAt": "2026-11-17 21:17",
+      "updatedAt": "2026-11-18 00:17",
       "hotels": [
+        {
+          "hotelNo": 18926,
+          "hotelName": "川風香る蟹の宿　颯花（さつはな）",
+          "rating": 5.0,
+          "minCharge": 27500,
+          "address": "兵庫県 美方郡香美町香住区無南垣236-1",
+          "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/18926/18926.jpg",
+          "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/18926/18926_r.jpg",
+          "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D18926",
+          "catchCopy": "冬の香住で味わう甘美な蟹と、静寂が満ちる至福の休日。",
+          "specialHighlight": "６室だけの小さな宿・佐津川の流れる田園風景の中で、穏やかなときの流れを気の向くままにお過ごし下さい。",
+          "expertReview": "佐津川のせせらぎが耳に心地よい、わずか六室だけの隠れ家。十一月に解禁を迎えるブランド蟹は、身の引き締まった繊細な甘みが格別です。芳醇な地酒を片手に、旬の味覚を心ゆくまで堪能する時間はまさに贅沢の極み。食後は肌を包み込む柔らかな湯に浸かり、田園風景を眺めながら、ただ静かに流れる贅沢な時を過ごしてください。",
+          "planHighlights": [
+            "全6室のプライベート空間",
+            "香住産ブランド蟹のフルコース",
+            "地酒とのペアリング体験"
+          ],
+          "addedAt": "2026-11-18 00:17"
+        },
         {
           "hotelNo": 8509,
           "hotelName": "城崎温泉　小林屋",
@@ -1436,7 +1474,7 @@
         "紅葉 宿",
         "紅葉 ライトアップ 宿"
       ],
-      "updatedAt": "2026-11-17 21:17",
+      "updatedAt": "2026-11-18 00:17",
       "hotels": [
         {
           "hotelNo": 19924,
