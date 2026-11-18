@@ -339,3 +339,4 @@ showcase_tokyo
 newyear-hatsumode-sunrise-ryokan-ranking-japan-hotels-guide
 showcase_hiroshima
 furusato-tax-luxury-ryokan-ranking-japan-hotels-guide
+showcase_kochi
