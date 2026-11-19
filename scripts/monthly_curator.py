@@ -673,8 +673,8 @@ def curate_hotel_with_gemini(hotel_info, theme_title):
   "planHighlights": ["宿固有の特徴タグ1", "宿固有の特徴タグ2", "宿固有の特徴タグ3"]
 }}
 """
-    # Geminiモデルを最大3回リトライ。失敗時はNoneを返し、フォールバックでの適当な追加は絶対に禁止する
-    for attempt in range(3):
+    # Geminiモデルを最大5回リトライ。5回とも失敗した場合はNoneを返し、何も処理せず終了・スキップする
+    for attempt in range(1, 6):
         raw = call_gemini(prompt)
         if raw:
             try:
@@ -692,9 +692,9 @@ def curate_hotel_with_gemini(hotel_info, theme_title):
                     }
             except Exception:
                 pass
-        time.sleep(1)
+        time.sleep(1.5)
 
-    print(f"⚠️ Geminiの生成に失敗（リトライ上限到達）: {hotel_name}。適当なフォールバック更新をスキップします。")
+    print(f"⚠️ Geminiの生成に失敗（5回リトライ上限到達）: {hotel_name}。何もせずにスキップします。")
     return None
 
 def init_or_load_monthly_data():
