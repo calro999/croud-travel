@@ -23,6 +23,27 @@ interface HotelItem {
   addedAt: string;
 }
 
+interface ComparisonHighlight {
+  point: string;
+  detail: string;
+}
+
+interface GuideSection {
+  heading: string;
+  body: string;
+}
+
+interface ExpertGuide {
+  title: string;
+  intro: string;
+  sections: GuideSection[];
+}
+
+interface FAQItem {
+  q: string;
+  a: string;
+}
+
 interface MonthlyTheme {
   id: string;
   slug: string;
@@ -36,6 +57,9 @@ interface MonthlyTheme {
   searchQueries: string[];
   updatedAt: string;
   hotels: HotelItem[];
+  comparisonHighlights?: ComparisonHighlight[];
+  expertGuide?: ExpertGuide;
+  faqs?: FAQItem[];
 }
 
 interface MonthlyData {
@@ -454,6 +478,88 @@ export default async function MonthlyFeaturePage({
                   </article>
                 );
               })}
+            </div>
+          </section>
+        )}
+
+        {/* ＝＝＝＝＝ 徹底比較ハイライト＆宿泊選びの基準 ＝＝＝＝＝ */}
+        {theme.comparisonHighlights && theme.comparisonHighlights.length > 0 && (
+          <section className="bg-gradient-to-br from-emerald-950/5 via-teal-900/5 to-slate-900/5 border border-emerald-950/10 rounded-3xl p-6 sm:p-8 space-y-4">
+            <div className="flex items-center gap-2 text-emerald-800 text-xs font-black uppercase tracking-widest">
+              <span>📊</span>
+              <span>EDITORIAL COMPARISON MATRIX</span>
+            </div>
+            <h2 className="text-xl sm:text-2xl font-black text-slate-900">
+              【{theme.monthLabel}編集部まとめ】失敗しない宿選びの3大比較ポイント
+            </h2>
+            <div className="grid grid-cols-1 md:grid-cols-3 gap-4 pt-2">
+              {theme.comparisonHighlights.map((item, cIdx) => (
+                <div key={cIdx} className="bg-white p-5 rounded-2xl border border-slate-200/80 shadow-xs space-y-2">
+                  <span className="inline-block px-2.5 py-0.5 rounded-full bg-emerald-100 text-emerald-800 text-xs font-black">
+                    POINT 0{cIdx + 1}
+                  </span>
+                  <h3 className="font-bold text-slate-900 text-sm">{item.point}</h3>
+                  <p className="text-xs text-slate-600 leading-relaxed">{item.detail}</p>
+                </div>
+              ))}
+            </div>
+          </section>
+        )}
+
+        {/* ＝＝＝＝＝ プロが教える専門ガイド ＝＝＝＝＝ */}
+        {theme.expertGuide && (
+          <section className="bg-white border border-slate-200 rounded-3xl p-6 sm:p-8 space-y-6 shadow-sm">
+            <div className="border-b border-slate-100 pb-4 space-y-2">
+              <span className="text-[11px] font-black text-emerald-700 bg-emerald-50 px-3 py-1 rounded-full border border-emerald-200 uppercase tracking-wider inline-block">
+                EXPERT TRAVEL GUIDE
+              </span>
+              <h2 className="text-xl sm:text-2xl font-black text-slate-900">
+                {theme.expertGuide.title}
+              </h2>
+              <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
+                {theme.expertGuide.intro}
+              </p>
+            </div>
+
+            <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
+              {theme.expertGuide.sections.map((sec, sIdx) => (
+                <div key={sIdx} className="space-y-2 p-4 rounded-2xl bg-slate-50 border border-slate-200/60">
+                  <h3 className="font-bold text-slate-900 text-sm flex items-center gap-1.5">
+                    <span className="text-emerald-600">✓</span>
+                    <span>{sec.heading}</span>
+                  </h3>
+                  <p className="text-xs text-slate-600 leading-relaxed">
+                    {sec.body}
+                  </p>
+                </div>
+              ))}
+            </div>
+          </section>
+        )}
+
+        {/* ＝＝＝＝＝ よくある質問（FAQ） ＝＝＝＝＝ */}
+        {theme.faqs && theme.faqs.length > 0 && (
+          <section className="bg-white border border-slate-200 rounded-3xl p-6 sm:p-8 space-y-5 shadow-sm">
+            <div className="space-y-1 border-b border-slate-100 pb-3">
+              <span className="text-[10px] font-black tracking-widest text-emerald-700 uppercase">
+                FREQUENTLY ASKED QUESTIONS
+              </span>
+              <h2 className="text-lg sm:text-xl font-black text-slate-900">
+                {theme.title}に関するよくある質問
+              </h2>
+            </div>
+            <div className="space-y-4">
+              {theme.faqs.map((faq, fIdx) => (
+                <div key={fIdx} className="p-4 rounded-2xl bg-slate-50/80 border border-slate-200/60 space-y-2">
+                  <h3 className="font-bold text-sm text-slate-900 flex items-start gap-2">
+                    <span className="text-emerald-700 font-black">Q.</span>
+                    <span>{faq.q}</span>
+                  </h3>
+                  <p className="text-xs text-slate-600 leading-relaxed pl-5">
+                    {faq.a}
+                  </p>
+                </div>
+              ))}
             </div>
           </section>
         )}
