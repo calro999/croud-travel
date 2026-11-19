@@ -343,3 +343,4 @@ showcase_kochi
 autumn-nikko-kinugawa-10selection
 showcase_oita
 january-nagano-karuizawa-10selection
+showcase_fukushima
