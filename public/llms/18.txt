@@ -1,5 +1,15 @@
 # 福井県の宿泊・観光記事（41件）
 
+## 【あわら温泉のおすすめ温泉宿・ホテル10選】あわら温泉グランドホテル 湯めぐりの宿・越前あわら温泉 つるやなど高評価宿を厳選比較（12月・冬絶景＆年末年始ステイ）
+- 記事: https://croud-travel.pages.dev/posts/december-fukui-awara-10selection/
+- 全文Markdown: https://croud-travel.pages.dev/ai/december-fukui-awara-10selection.md
+- 宿泊施設名: あわら温泉おすすめ温泉宿10選
+- エリア: あわら温泉
+- 参考価格: ¥6,600円〜〜
+- 評価: 4.50
+
+福井県・あわら温泉エリアで本当に泊まるべきおすすめ温泉旅館・ホテル10選！楽天トラベルで高評価を誇る「あわら温泉グランドホテル　湯め」「越前あわら温泉　つるや」など全10施設の客室・露天風呂・旬の料理・宿泊料金目安を徹底比較。12月・冬絶景＆年末年始ステイの予約に最適です。
+
 ## 【福井の温泉ランキング10選】あわら・三国・越前海岸・永平寺・若狭温泉の人気旅館・露天風呂付き客室＆皇室献上・越前ガニの宿
 - 記事: https://croud-travel.pages.dev/posts/fukui-onsen-ranking-hotels-guide/
 - 全文Markdown: https://croud-travel.pages.dev/ai/fukui-onsen-ranking-hotels-guide.md
@@ -29,16 +39,6 @@
 - 評価: 4.62
 
 福井県坂井市の三国温泉に佇む美食の宿『展望自慢の料理旅館 はれや旅館』。全室オーシャンビューの展望露天風呂から望む日本海の荒波と夕日、冬の味覚の王者・黄色タグ付き越前がにを心ゆくまで堪能する極上レポート。
-
-## 【あわら温泉のおすすめ温泉宿・ホテル10選】あわら温泉グランドホテル 湯めぐりの宿・越前あわら温泉 つるやなど高評価宿を厳選比較（12月・冬絶景＆年末年始ステイ）
-- 記事: https://croud-travel.pages.dev/posts/december-fukui-awara-10selection/
-- 全文Markdown: https://croud-travel.pages.dev/ai/december-fukui-awara-10selection.md
-- 宿泊施設名: あわら温泉おすすめ温泉宿10選
-- エリア: あわら温泉
-- 参考価格: ¥6680〜
-- 評価: 3.89
-
-福井県・あわら温泉エリアで本当に泊まるべきおすすめ温泉旅館・ホテル10選！楽天トラベルで高評価を誇る「あわら温泉グランドホテル　湯め」「越前あわら温泉　つるや」など全10施設の客室・露天風呂・旬の料理・宿泊料金目安を徹底比較。12月・冬絶景＆年末年始ステイの予約に最適です。
 
 ## 冬休みに福井県立恐竜博物館へ！世界三大恐竜ランドとあわら温泉・越前がにを家族で味わう子連れ特選名宿5選
 - 記事: https://croud-travel.pages.dev/posts/winter-family-fukui-dinosaur-museum-awarra-guide/

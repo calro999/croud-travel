@@ -1,5 +1,15 @@
 # 青森県の宿泊・観光記事（60件）
 
+## 【弘前のおすすめ温泉宿・ホテル10選】ペンション ワンダーランド・大鰐温泉 民宿 河鹿荘など高評価宿を厳選比較（12月・冬絶景＆年末年始ステイ）
+- 記事: https://croud-travel.pages.dev/posts/december-aomori-hirosaki-10selection/
+- 全文Markdown: https://croud-travel.pages.dev/ai/december-aomori-hirosaki-10selection.md
+- 宿泊施設名: 弘前おすすめ温泉宿10選
+- エリア: 弘前
+- 参考価格: ¥3,310円〜〜
+- 評価: 4.37
+
+青森県・弘前エリアで本当に泊まるべきおすすめ温泉旅館・ホテル10選！楽天トラベルで高評価を誇る「ペンション　ワンダーランド」「大鰐温泉　民宿　河鹿荘」など全10施設の客室・露天風呂・旬の料理・宿泊料金目安を徹底比較。12月・冬絶景＆年末年始ステイの予約に最適です。
+
 ## 【酸ヶ湯・八甲田のおすすめ温泉宿・ホテル10選】酸ヶ湯温泉旅館・ペンション ワンダーランドなど高評価宿を厳選比較（1月・雪見露天＆冬の味覚旅）
 - 記事: https://croud-travel.pages.dev/posts/january-aomori-sukayu-10selection/
 - 全文Markdown: https://croud-travel.pages.dev/ai/january-aomori-sukayu-10selection.md
@@ -79,16 +89,6 @@
 - 評価: 5
 
 青森県・弘前・大鰐温泉エリアで本当に泊まるべきおすすめ温泉旅館・ホテル10選！楽天トラベルで高評価を誇る「ペンション　ワンダーランド」「大鰐温泉　民宿　河鹿荘」など全10施設の客室・露天風呂・旬の料理・宿泊料金目安を徹底比較。1月・雪見露天＆冬の味覚旅の予約に最適です。
-
-## 【弘前のおすすめ温泉宿・ホテル10選】ペンション ワンダーランド・大鰐温泉 民宿 河鹿荘など高評価宿を厳選比較（12月・冬絶景＆年末年始ステイ）
-- 記事: https://croud-travel.pages.dev/posts/december-aomori-hirosaki-10selection/
-- 全文Markdown: https://croud-travel.pages.dev/ai/december-aomori-hirosaki-10selection.md
-- 宿泊施設名: 弘前おすすめ温泉宿10選
-- エリア: 弘前
-- 参考価格: ¥9500〜
-- 評価: 5
-
-青森県・弘前エリアで本当に泊まるべきおすすめ温泉旅館・ホテル10選！楽天トラベルで高評価を誇る「ペンション　ワンダーランド」「大鰐温泉　民宿　河鹿荘」など全10施設の客室・露天風呂・旬の料理・宿泊料金目安を徹底比較。12月・冬絶景＆年末年始ステイの予約に最適です。
 
 ## 【10月-11月の青森・弘前】弘前城菊と紅葉まつり＆真っ赤なりんご畑！津軽三味線と郷土会席を愉しむおすすめ温泉ホテル5選（2026年）
 - 記事: https://croud-travel.pages.dev/posts/autumn-aomori-hirosaki-apple-castle-momiji-guide/

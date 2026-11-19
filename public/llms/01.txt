@@ -1,5 +1,15 @@
 # 北海道の宿泊・観光記事（151件）
 
+## 【北海道・札幌/定山渓】さっぽろホワイトイルミネーション2026＆ミュンヘン・クリスマス市完全攻略！大通公園の光の芸術と定山渓雪見露天・極上三大カニを堪能する名宿5選
+- 記事: https://croud-travel.pages.dev/posts/autumn-winter-sapporo-white-illumination-odori-park-hotels-guide/
+- 全文Markdown: https://croud-travel.pages.dev/ai/autumn-winter-sapporo-white-illumination-odori-park-hotels-guide.md
+- 宿泊施設名: ＪＲタワーホテル日航札幌・定山渓温泉 定山渓第一寶亭留 翠山亭 ほか
+- エリア: 札幌・定山渓
+- 参考価格: ¥4,870円〜〜
+- 評価: 4.54
+
+1981年に始まった日本屈指の光の祭典「さっぽろホワイトイルミネーション」と、姉妹都市ドイツ・ミュンヘンの風情を再現する「ミュンヘン・クリスマス市 in Sapporo」。初雪が舞い散る11月下旬から12月・1月にかけて、大通公園からすすきのまで札幌の街全体が白銀と光のファンタジーに包まれます。地下歩行空間チ・カ・ホを活用した防寒ルート、本場ドイツ仕込みのグリューワインや焼きソーセージ、三大カニや極上味噌ラーメンの名店、そして湯けむり立ち込める定山渓温泉の雪見露天を満喫できる厳選5宿を徹底解説。
+
 ## 【北海道・東北】クリスマスの温泉＆雪見デート旅行完全攻略2026！全7道県の厳選名宿と白銀イルミネーション・極上グルメ
 - 記事: https://croud-travel.pages.dev/posts/christmas-date-hokkaido-tohoku-guide/
 - 全文Markdown: https://croud-travel.pages.dev/ai/christmas-date-hokkaido-tohoku-guide.md
@@ -10,25 +20,95 @@
 
 2026年冬の北海道・東北エリア（全7道県）クリスマスデート旅行完全攻略ガイド！函館・札幌のイルミネーションや銀山温泉・乳頭温泉の雪見露天、大川荘や奥入瀬など楽天トラベル高評価の憧れ名宿7選を徹底解説。
 
+## 【函館・湯の川温泉のおすすめ温泉宿・ホテル10選】望楼NOGUCHI函館・湯の川温泉 湯の川プリンスホテル渚亭など高評価宿を厳選比較（12月・冬絶景＆年末年始ステイ）
+- 記事: https://croud-travel.pages.dev/posts/december-hokkaido-hakodate-10selection/
+- 全文Markdown: https://croud-travel.pages.dev/ai/december-hokkaido-hakodate-10selection.md
+- 宿泊施設名: 函館・湯の川温泉おすすめ温泉宿10選
+- エリア: 函館・湯の川温泉
+- 参考価格: ¥4,000円〜〜
+- 評価: 4.55
+
+北海道・函館・湯の川温泉エリアで本当に泊まるべきおすすめ温泉旅館・ホテル10選！楽天トラベルで高評価を誇る「望楼ＮＯＧＵＣＨＩ函館」「湯の川温泉　湯の川プリンスホテ」など全10施設の客室・露天風呂・旬の料理・宿泊料金目安を徹底比較。12月・冬絶景＆年末年始ステイの予約に最適です。
+
+## 【登別温泉のおすすめ温泉宿・ホテル10選】登別温泉 第一滝本館・登別温泉 登別グランドホテルなど高評価宿を厳選比較（12月・冬絶景＆年末年始ステイ）
+- 記事: https://croud-travel.pages.dev/posts/december-hokkaido-noboribetsu-10selection/
+- 全文Markdown: https://croud-travel.pages.dev/ai/december-hokkaido-noboribetsu-10selection.md
+- 宿泊施設名: 登別温泉おすすめ温泉宿10選
+- エリア: 登別温泉
+- 参考価格: ¥6,000円〜〜
+- 評価: 4.35
+
+北海道・登別温泉エリアで本当に泊まるべきおすすめ温泉旅館・ホテル10選！楽天トラベルで高評価を誇る「登別温泉　第一滝本館」「登別温泉　登別グランドホテル」など全10施設の客室・露天風呂・旬の料理・宿泊料金目安を徹底比較。12月・冬絶景＆年末年始ステイの予約に最適です。
+
+## 【小樽のおすすめ温泉宿・ホテル10選】旅館 美国観光ハウス・運河の宿 おたる ふる川など高評価宿を厳選比較（12月・冬絶景＆年末年始ステイ）
+- 記事: https://croud-travel.pages.dev/posts/december-hokkaido-otaru-10selection/
+- 全文Markdown: https://croud-travel.pages.dev/ai/december-hokkaido-otaru-10selection.md
+- 宿泊施設名: 小樽おすすめ温泉宿10選
+- エリア: 小樽
+- 参考価格: ¥2,000円〜〜
+- 評価: 4.40
+
+北海道・小樽エリアで本当に泊まるべきおすすめ温泉旅館・ホテル10選！楽天トラベルで高評価を誇る「旅館　美国観光ハウス」「運河の宿　おたる　ふる川」など全10施設の客室・露天風呂・旬の料理・宿泊料金目安を徹底比較。12月・冬絶景＆年末年始ステイの予約に最適です。
+
+## 【札幌・定山渓のおすすめ温泉宿・ホテル10選】定山渓万世閣ホテルミリオーネ・東山ニセコビレッジ・リッツ・カールトン・リザーブなど高評価宿を厳選比較（12月・冬絶景＆年末年始ステイ）
+- 記事: https://croud-travel.pages.dev/posts/december-hokkaido-sapporo-10selection/
+- 全文Markdown: https://croud-travel.pages.dev/ai/december-hokkaido-sapporo-10selection.md
+- 宿泊施設名: 札幌・定山渓おすすめ温泉宿10選
+- エリア: 札幌・定山渓
+- 参考価格: ¥2,788円〜〜
+- 評価: 4.51
+
+北海道・札幌・定山渓エリアで本当に泊まるべきおすすめ温泉旅館・ホテル10選！楽天トラベルで高評価を誇る「定山渓万世閣ホテルミリオーネ」「東山ニセコビレッジ・リッツ・カ」など全10施設の客室・露天風呂・旬の料理・宿泊料金目安を徹底比較。12月・冬絶景＆年末年始ステイの予約に最適です。
+
 ## 【北海道の直前予約・空室速報】週末連休・年末年始に今すぐ泊まれるおすすめ人気ホテル＆温泉宿
 - 記事: https://croud-travel.pages.dev/posts/obon-hokkaido-lastminute-guide/
 - 全文Markdown: https://croud-travel.pages.dev/ai/obon-hokkaido-lastminute-guide.md
 - 宿泊施設名: 【2026-2027冬休み・年末年始】北海道の直前予約できる絶景リゾート＆温泉宿特集｜札幌・富良野・函館の駆け込みプラン
 - エリア: 札幌・大通
-- 参考価格: ¥10000〜
-- 評価: 4.15
+- 参考価格: ¥6,630円〜〜
+- 評価: 4.64
 
 北海道（北海道）で急な旅行や連休・週末、年末年始の直前予約に対応している高評価ホテル＆温泉旅館を厳選！直前割プランや素泊まり・朝食付き、空室状況の確認ポイントを徹底解説。
+
+## 【北海道全域のおすすめ温泉宿・ホテル10選】あかん遊久の里鶴雅・定山渓万世閣ホテルミリオーネなど高評価宿を厳選比較（2026秋冬〜年末年始）
+- 記事: https://croud-travel.pages.dev/posts/september-hokkaido-travel-10selection/
+- 全文Markdown: https://croud-travel.pages.dev/ai/september-hokkaido-travel-10selection.md
+- 宿泊施設名: 北海道全域（登別・阿刊・定山渓・知床・洞爺・十勝川等）おすすめ温泉宿10選
+- エリア: 北海道全域（登別・阿刊・定山渓・知床・洞爺・十勝川等）
+- 参考価格: ¥8,470円〜〜
+- 評価: 4.43
+
+北海道全域エリアで本当に泊まるべきおすすめ温泉旅館・ホテル10選！楽天トラベルで高評価を誇る「あかん遊久の里鶴雅」「定山渓万世閣ホテルミリオーネ」など全10施設の客室・露天風呂・旬の料理・宿泊料金目安を徹底比較。2026秋冬〜年末年始の予約に最適です。
 
 ## 【全国厳選】年末年始・冬休み＆3連休 直前割・早割人気名宿おすすめ厳選ガイド｜人気宿の温泉・客室・料理・料金徹底比較
 - 記事: https://croud-travel.pages.dev/posts/silverweek-lastminute-earlybird-shinkansen-hotels-guide/
 - 全文Markdown: https://croud-travel.pages.dev/ai/silverweek-lastminute-earlybird-shinkansen-hotels-guide.md
 - 宿泊施設名: 冬休み・年末年始＆3連休 直前割・早割人気名宿セレクション
 - エリア: 道央・札幌近郊
-- 参考価格: ¥13500〜
-- 評価: 4.88
+- 参考価格: ¥9,900円〜〜
+- 評価: 4.31
 
 【2026年最新】冬休み・年末年始＆3連休 直前割・早割人気名宿おすすめ厳選ガイドを徹底比較！楽天トラベルで高評価を獲得している人気宿・温泉旅館の魅力、客室タイプ、露天風呂、料理プラン、アクセスや料金目安まで詳しくご紹介します。お得な割引クーポン情報も満載！
+
+## 【函館】はこだてクリスマスファンタジー2026＆五稜星の夢完全攻略！海上に浮かぶ巨大ツリー・点灯花火と函館山冬夜景、湯の川温泉海見え露天＆極上活イカ・津軽海峡マグロを満喫する厳選宿5選
+- 記事: https://croud-travel.pages.dev/posts/winter-hokkaido-hakodate-christmas-fantasy-goryokaku-hotels-guide/
+- 全文Markdown: https://croud-travel.pages.dev/ai/winter-hokkaido-hakodate-christmas-fantasy-goryokaku-hotels-guide.md
+- 宿泊施設名: センチュリーマリーナ函館・ラビスタ函館ベイANNEX・望楼NOGUCHI函館 ほか
+- エリア: 函館・湯の川温泉
+- 参考価格: ¥13,500円〜〜
+- 評価: 4.56
+
+2026年12月開催の「はこだてクリスマスファンタジー」と特別史跡五稜郭跡が星形に浮かび上がる「五稜星の夢イルミネーション」を徹底解説。赤レンガ倉庫群前の海上に浮かぶ高さ約20mの巨大モミの木ツリー、毎夜18時の点灯花火、スープバー巡りや函館山の澄み渡る極上冬夜景の鑑賞術を網羅。朝食バイキングで全国屈指の人気を誇るベイエリアホテルや、津軽海峡を望む湯の川温泉の名門旅館など厳選5宿をご紹介。
+
+## 【北海道・登別市】登別温泉 第一滝本館の朝食・夕食グルメ徹底解説｜温泉・客室・食事＆アクセス徹底ガイド
+- 記事: https://croud-travel.pages.dev/posts/winter-newyear-onsen-reservation-guide/
+- 全文Markdown: https://croud-travel.pages.dev/ai/winter-newyear-onsen-reservation-guide.md
+- 宿泊施設名: 登別温泉 第一滝本館
+- エリア: 登別・洞爺
+- 参考価格: ¥6,630円〜〜
+- 評価: 4.67
+
+【北海道・登別市】登別温泉 第一滝本館の朝食・夕食グルメ徹底解説｜温泉・客室・食事＆アクセス徹底ガイドの宿泊・観光ガイド（ID:winter-newyear-onsen-reservation-guide）。北海道・函館山展望台周辺のアクセスや客室・温浴・食事プラン、駐車場条件、楽天トラベルでの最新料金目安（¥13,200〜／評価4.56）を詳しく紹介します。
 
 ## 【新幹線で行く秋〜冬の温泉旅】駅近・アクセス抜群の人気ホテル＆温泉旅館特集
 - 記事: https://croud-travel.pages.dev/posts/silverweek-shinkansen-discount-hotels-guide/
@@ -59,16 +139,6 @@
 - 評価: 4.43
 
 地下駐車場完備、すすきの徒歩圏内のプレミアホテル－ＴＳＵＢＡＫＩ－札幌の魅力を旅行ジャーナリストが実体験をもとに解説。広々とした客室やラウンジ、効率的なアクセス方法まで詳しく紹介します。
-
-## 【北海道・札幌/定山渓】さっぽろホワイトイルミネーション2026＆ミュンヘン・クリスマス市完全攻略！大通公園の光の芸術と定山渓雪見露天・極上三大カニを堪能する名宿5選
-- 記事: https://croud-travel.pages.dev/posts/autumn-winter-sapporo-white-illumination-odori-park-hotels-guide/
-- 全文Markdown: https://croud-travel.pages.dev/ai/autumn-winter-sapporo-white-illumination-odori-park-hotels-guide.md
-- 宿泊施設名: ＪＲタワーホテル日航札幌・定山渓温泉 定山渓第一寶亭留 翠山亭 ほか
-- エリア: 札幌・定山渓
-- 参考価格: ¥¥4,640〜〜
-- 評価: 4.71
-
-1981年に始まった日本屈指の光の祭典「さっぽろホワイトイルミネーション」と、姉妹都市ドイツ・ミュンヘンの風情を再現する「ミュンヘン・クリスマス市 in Sapporo」。初雪が舞い散る11月下旬から12月・1月にかけて、大通公園からすすきのまで札幌の街全体が白銀と光のファンタジーに包まれます。地下歩行空間チ・カ・ホを活用した防寒ルート、本場ドイツ仕込みのグリューワインや焼きソーセージ、三大カニや極上味噌ラーメンの名店、そして湯けむり立ち込める定山渓温泉の雪見露天を満喫できる厳選5宿を徹底解説。
 
 ## 小樽ゆき物語「青の運河」と朝里川温泉の旅！冬の小樽寿司通り握りと白樺の雪見露天風呂を堪能するおすすめホテル・旅館厳選ガイド
 - 記事: https://croud-travel.pages.dev/posts/otaru-snow-story-canal-illumination-asarigawa-onsen-guide/
@@ -160,16 +230,6 @@
 
 世界中のスキーヤー・スノーボーダーを熱狂させるニセコの「JAPOW（ジャパンパウダー）」！蝦夷富士と呼ばれる羊蹄山の雄大な景色と、スタイリッシュなコンドミニアムや天然温泉。冬の憧れリゾート・ニセコのおすすめホテル5選を紹介します。
 
-## 【北海道全域のおすすめ温泉宿・ホテル10選】あかん遊久の里鶴雅・定山渓万世閣ホテルミリオーネなど高評価宿を厳選比較（2026秋冬〜年末年始）
-- 記事: https://croud-travel.pages.dev/posts/september-hokkaido-travel-10selection/
-- 全文Markdown: https://croud-travel.pages.dev/ai/september-hokkaido-travel-10selection.md
-- 宿泊施設名: 北海道全域（登別・阿刊・定山渓・知床・洞爺・十勝川等）おすすめ温泉宿10選
-- エリア: 北海道全域（登別・阿刊・定山渓・知床・洞爺・十勝川等）
-- 参考価格: ¥19541〜
-- 評価: 4.5
-
-北海道全域エリアで本当に泊まるべきおすすめ温泉旅館・ホテル10選！楽天トラベルで高評価を誇る「あかん遊久の里鶴雅」「定山渓万世閣ホテルミリオーネ」など全10施設の客室・露天風呂・旬の料理・宿泊料金目安を徹底比較。2026秋冬〜年末年始の予約に最適です。
-
 ## 【北海道・阿寒/摩周】奇跡の絶景「フロストフラワー＆摩周湖霧氷」完全攻略！マイナス15度の氷上アートと阿寒湖温泉アイヌコタン・冬の道東厳選グルメを堪能する湖畔の温泉宿5選
 - 記事: https://croud-travel.pages.dev/posts/winter-hokkaido-akan-mashu-frost-flower-ice-lake-onsen-hotels-guide/
 - 全文Markdown: https://croud-travel.pages.dev/ai/winter-hokkaido-akan-mashu-frost-flower-ice-lake-onsen-hotels-guide.md
@@ -180,16 +240,6 @@
 
 マイナス15度以下の静寂の朝にだけ湖上に咲く氷の華「フロストフラワー」。12月〜1月の完全結氷期に阿寒湖や屈斜路湖で現れる奇跡の自然現象と、世界有数の透明度を誇る摩周湖の霧氷・ダイヤモンドダストを徹底解説。北海道最大級の阿寒湖アイヌコタンで触れる伝統文化、阿寒湖温泉の天空インフィニティ露天風呂、オホーツクの冬海鮮・エゾ鹿肉を愉しむ名宿5選を完全網羅。
 
-## 【登別温泉のおすすめ温泉宿・ホテル10選】登別温泉 第一滝本館・登別温泉 登別グランドホテルなど高評価宿を厳選比較（12月・冬絶景＆年末年始ステイ）
-- 記事: https://croud-travel.pages.dev/posts/december-hokkaido-noboribetsu-10selection/
-- 全文Markdown: https://croud-travel.pages.dev/ai/december-hokkaido-noboribetsu-10selection.md
-- 宿泊施設名: 登別温泉おすすめ温泉宿10選
-- エリア: 登別温泉
-- 参考価格: ¥13200〜
-- 評価: 4.56
-
-北海道・登別温泉エリアで本当に泊まるべきおすすめ温泉旅館・ホテル10選！楽天トラベルで高評価を誇る「登別温泉　第一滝本館」「登別温泉　登別グランドホテル」など全10施設の客室・露天風呂・旬の料理・宿泊料金目安を徹底比較。12月・冬絶景＆年末年始ステイの予約に最適です。
-
 ## 冬休みの函館山100万ドルの夜景＆五稜郭星形イルミ学生旅行！ラッキーピエロチャイニーズチキンバーガー名宿5選
 - 記事: https://croud-travel.pages.dev/posts/winter-youth-hokkaido-hakodate-goryokaku-nightview-guide/
 - 全文Markdown: https://croud-travel.pages.dev/ai/winter-youth-hokkaido-hakodate-goryokaku-nightview-guide.md
@@ -199,26 +249,6 @@
 - 評価: 4.44
 
 北海道新幹線や飛行機でアクセス！高校生・大学生の冬休み卒業旅行・友達旅で不動の人気を誇るロマンチックな港町・函館。両側を海に挟まれた唯一無二の地形が光り輝く「函館山100万ドルの夜景」をはじめ、雪の中に巨大な星形が浮かび上がる五稜郭「五稜星の夢（ほしのゆめ）イルミネーション」、地...
-
-## 【函館・湯の川温泉のおすすめ温泉宿・ホテル10選】望楼NOGUCHI函館・湯の川温泉 湯の川プリンスホテル渚亭など高評価宿を厳選比較（12月・冬絶景＆年末年始ステイ）
-- 記事: https://croud-travel.pages.dev/posts/december-hokkaido-hakodate-10selection/
-- 全文Markdown: https://croud-travel.pages.dev/ai/december-hokkaido-hakodate-10selection.md
-- 宿泊施設名: 函館・湯の川温泉おすすめ温泉宿10選
-- エリア: 函館・湯の川温泉
-- 参考価格: ¥13100〜
-- 評価: 4.45
-
-北海道・函館・湯の川温泉エリアで本当に泊まるべきおすすめ温泉旅館・ホテル10選！楽天トラベルで高評価を誇る「望楼ＮＯＧＵＣＨＩ函館」「湯の川温泉　湯の川プリンスホテ」など全10施設の客室・露天風呂・旬の料理・宿泊料金目安を徹底比較。12月・冬絶景＆年末年始ステイの予約に最適です。
-
-## 【札幌・定山渓のおすすめ温泉宿・ホテル10選】定山渓万世閣ホテルミリオーネ・東山ニセコビレッジ・リッツ・カールトン・リザーブなど高評価宿を厳選比較（12月・冬絶景＆年末年始ステイ）
-- 記事: https://croud-travel.pages.dev/posts/december-hokkaido-sapporo-10selection/
-- 全文Markdown: https://croud-travel.pages.dev/ai/december-hokkaido-sapporo-10selection.md
-- 宿泊施設名: 札幌・定山渓おすすめ温泉宿10選
-- エリア: 札幌・定山渓
-- 参考価格: ¥9263〜
-- 評価: 4.13
-
-北海道・札幌・定山渓エリアで本当に泊まるべきおすすめ温泉旅館・ホテル10選！楽天トラベルで高評価を誇る「定山渓万世閣ホテルミリオーネ」「東山ニセコビレッジ・リッツ・カ」など全10施設の客室・露天風呂・旬の料理・宿泊料金目安を徹底比較。12月・冬絶景＆年末年始ステイの予約に最適です。
 
 ## 冬休みのキロロリゾート極上パウダースノー＆Yu Kiroro家族旅行！アニーキッズスキー＆ゲレンデ直結名宿5選
 - 記事: https://croud-travel.pages.dev/posts/winter-family-hokkaido-kiroro-yukiroro-snow-guide/
@@ -280,16 +310,6 @@
 
 サチコ注目クエリ「層雲峡温泉 ランキング」「北海道 温泉 ランキング」に完全連動！大雪山国立公園の峡谷美に抱かれた北の大温泉郷「層雲峡（そううんきょう）温泉」。冬休みの目玉は、石狩川の河川敷に巨大な氷の建造物群が出現する「層雲峡温泉氷瀑（ひょうばく）まつり」。ライトアップされた氷...
 
-## 【小樽のおすすめ温泉宿・ホテル10選】旅館 美国観光ハウス・運河の宿 おたる ふる川など高評価宿を厳選比較（12月・冬絶景＆年末年始ステイ）
-- 記事: https://croud-travel.pages.dev/posts/december-hokkaido-otaru-10selection/
-- 全文Markdown: https://croud-travel.pages.dev/ai/december-hokkaido-otaru-10selection.md
-- 宿泊施設名: 小樽おすすめ温泉宿10選
-- エリア: 小樽
-- 参考価格: ¥36905〜
-- 評価: 5
-
-北海道・小樽エリアで本当に泊まるべきおすすめ温泉旅館・ホテル10選！楽天トラベルで高評価を誇る「旅館　美国観光ハウス」「運河の宿　おたる　ふる川」など全10施設の客室・露天風呂・旬の料理・宿泊料金目安を徹底比較。12月・冬絶景＆年末年始ステイの予約に最適です。
-
 ## 【北海道・旭川・層雲峡】ホテルＷＢＦグランデ旭川｜楽天トラベル高評価宿の温泉・客室・料金比較
 - 記事: https://croud-travel.pages.dev/posts/asahikawa-wbf-grande-guide/
 - 全文Markdown: https://croud-travel.pages.dev/ai/asahikawa-wbf-grande-guide.md
@@ -320,16 +340,6 @@ Search Consoleで「ユキロロ」「運河の宿 おたる ふる川」への�
 
 函館・湯の川（北海道）へ子連れ・家族旅行に行くならここ！「函館湯の川温泉　海と灯／ヒューイットリゾート」をはじめ、和洋室や貸切風呂・キッズ対応が充実した人気ファミリーホテル、10月〜1月（紅葉・味覚狩り・冬休み）の子供の服装対策、海鮮丼・ウニ・イクラも楽しめる1泊2日モデルコースを徹底解説。
 
-## 【北海道・登別市】登別温泉 第一滝本館の朝食・夕食グルメ徹底解説｜温泉・客室・食事＆アクセス徹底ガイド
-- 記事: https://croud-travel.pages.dev/posts/winter-newyear-onsen-reservation-guide/
-- 全文Markdown: https://croud-travel.pages.dev/ai/winter-newyear-onsen-reservation-guide.md
-- 宿泊施設名: 登別温泉 第一滝本館
-- エリア: 登別・洞爺
-- 参考価格: ¥13200〜
-- 評価: 4.56
-
-【北海道・登別市】登別温泉 第一滝本館の朝食・夕食グルメ徹底解説｜温泉・客室・食事＆アクセス徹底ガイドの宿泊・観光ガイド（ID:winter-newyear-onsen-reservation-guide）。北海道・函館山展望台周辺のアクセスや客室・温浴・食事プラン、駐車場条件、楽天トラベルでの最新料金目安（¥13,200〜／評価4.56）を詳しく紹介します。
-
 ## 冬休みの札幌奥座敷・定山渓温泉家族旅行！定山渓ビューホテルの巨大温水プール水の王国ラグーン名宿5選
 - 記事: https://croud-travel.pages.dev/posts/winter-family-hokkaido-jozankei-onsen-sapporo-guide/
 - 全文Markdown: https://croud-travel.pages.dev/ai/winter-family-hokkaido-jozankei-onsen-sapporo-guide.md
@@ -339,16 +349,6 @@ Search Consoleで「ユキロロ」「運河の宿 おたる ふる川」への�
 - 評価: 4.09
 
 サチコ注目クエリ「定山渓温泉 旅館 おすすめ」「北海道のスパ ホテル」に完全連動！札幌中心部から車で約50分、冬の渓谷美と豊富な湯量を誇る「定山渓（じょうざんけい）温泉」。道内最大級の総面積4,000平米を誇る屋内温水アミューズメントスパ「水の王国ラグーン」を擁する「定山渓ビュー...
-
-## 【函館】はこだてクリスマスファンタジー2026＆五稜星の夢完全攻略！海上に浮かぶ巨大ツリー・点灯花火と函館山冬夜景、湯の川温泉海見え露天＆極上活イカ・津軽海峡マグロを満喫する厳選宿5選
-- 記事: https://croud-travel.pages.dev/posts/winter-hokkaido-hakodate-christmas-fantasy-goryokaku-hotels-guide/
-- 全文Markdown: https://croud-travel.pages.dev/ai/winter-hokkaido-hakodate-christmas-fantasy-goryokaku-hotels-guide.md
-- 宿泊施設名: センチュリーマリーナ函館・ラビスタ函館ベイANNEX・望楼NOGUCHI函館 ほか
-- エリア: 函館・湯の川温泉
-- 参考価格: ¥¥13,500〜〜
-- 評価: 4.65
-
-2026年12月開催の「はこだてクリスマスファンタジー」と特別史跡五稜郭跡が星形に浮かび上がる「五稜星の夢イルミネーション」を徹底解説。赤レンガ倉庫群前の海上に浮かぶ高さ約20mの巨大モミの木ツリー、毎夜18時の点灯花火、スープバー巡りや函館山の澄み渡る極上冬夜景の鑑賞術を網羅。朝食バイキングで全国屈指の人気を誇るベイエリアホテルや、津軽海峡を望む湯の川温泉の名門旅館など厳選5宿をご紹介。
 
 ## 【北海道・余市】Ｙｕ Ｋｉｒｏｒｏ（ユキロロ）の宿泊ガイド＆口コミ評判｜客室・お風呂・食事・アクセスまとめ
 - 記事: https://croud-travel.pages.dev/posts/177508/
