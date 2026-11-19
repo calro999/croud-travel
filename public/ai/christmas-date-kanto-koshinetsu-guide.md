@@ -25,16 +25,16 @@ last_modified: "2026-11-19"
 
 | 順位 | 宿泊施設名 | 口コミ評価 | 参考最安料金 |
 | :--- | :--- | :--- | :--- |
-| 1位 | undefined | ★undefined | undefined |
-| 2位 | undefined | ★undefined | undefined |
-| 3位 | undefined | ★undefined | undefined |
-| 4位 | undefined | ★undefined | undefined |
-| 5位 | undefined | ★undefined | undefined |
-| 6位 | undefined | ★undefined | undefined |
-| 7位 | undefined | ★undefined | undefined |
-| 8位 | undefined | ★undefined | undefined |
-| 9位 | undefined | ★undefined | undefined |
-| 10位 | undefined | ★undefined | undefined |
+| 1位 | 帝国ホテル東京 | ★4.70 | ¥30,643〜 |
+| 2位 | 箱根・強羅　佳ら久（オリックスホテルズ＆リゾーツ） | ★4.57 | ¥37,110〜 |
+| 3位 | 大洗ホテルＡＮＮＥＸ魚来庵 | ★4.28 | ¥8,800〜 |
+| 4位 | 草津温泉　ホテル櫻井 | ★4.52 | ¥14,300〜 |
+| 5位 | 赤倉温泉　赤倉観光ホテル | ★4.77 | ¥31,500〜 |
+| 6位 | ホテル　ザ・マンハッタン | ★4.67 | ¥5,500〜 |
+| 7位 | 長瀞温泉　花のおもてなし　長生館 | ★4.45 | ¥11,500〜 |
+| 8位 | 鬼怒川金谷ホテル | ★4.48 | ¥43,400〜 |
+| 9位 | 河口湖温泉　うぶや | ★4.33 | ¥34,100〜 |
+| 10位 | ホテル　サイプレス軽井沢 | ★4.20 | ¥10,700〜 |
 
 ## 詳細解説
 🎄2026年冬 関東・甲信越 クリスマスデート旅行 完全攻略ガイド

@@ -170,10 +170,35 @@
   "rating": "4.70",
   "is_special_feature": true,
   "featured_hotels": [
-    "帝国ホテル東京",
-    "メズム東京、オートグラフ　コレクション",
-    "ホテルザセレスティン銀座",
-    "三井ガーデンホテル銀座プレミア",
-    "ザ　ロイヤルパークホテル　アイコニック　東京汐留"
+    {
+      "name": "帝国ホテル東京",
+      "rating": "4.70",
+      "price": "¥30,643〜",
+      "url": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F28576%2F28576.html"
+    },
+    {
+      "name": "メズム東京、オートグラフ　コレクション",
+      "rating": "4.75",
+      "price": "¥31,720〜",
+      "url": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F184035%2F184035.html"
+    },
+    {
+      "name": "ホテルザセレスティン銀座",
+      "rating": "5.00",
+      "price": "¥21,240〜",
+      "url": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F160990%2F160990.html"
+    },
+    {
+      "name": "三井ガーデンホテル銀座プレミア",
+      "rating": "4.35",
+      "price": "¥17,850〜",
+      "url": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F41069%2F41069.html"
+    },
+    {
+      "name": "ザ　ロイヤルパークホテル　アイコニック　東京汐留",
+      "rating": "4.56",
+      "price": "¥21,570〜",
+      "url": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F18100%2F18100.html"
+    }
   ]
 }

@@ -25,13 +25,13 @@ last_modified: "2026-11-19"
 
 | 順位 | 宿泊施設名 | 口コミ評価 | 参考最安料金 |
 | :--- | :--- | :--- | :--- |
-| 1位 | undefined | ★undefined | undefined |
-| 2位 | undefined | ★undefined | undefined |
-| 3位 | undefined | ★undefined | undefined |
-| 4位 | undefined | ★undefined | undefined |
-| 5位 | undefined | ★undefined | undefined |
-| 6位 | undefined | ★undefined | undefined |
-| 7位 | undefined | ★undefined | undefined |
+| 1位 | 名古屋マリオットアソシアホテル | ★4.63 | ¥16,500〜 |
+| 2位 | 下呂温泉　水明館 | ★4.36 | ¥8,250〜 |
+| 3位 | 志摩観光ホテル　ザ　クラシック | ★4.68 | ¥16,520〜 |
+| 4位 | 宇奈月温泉の老舗旅館　延対寺荘 | ★4.31 | ¥13,200〜 |
+| 5位 | 北陸　あわら温泉　まつや千千 | ★4.61 | ¥12,100〜 |
+| 6位 | 加賀屋グループ　料理旅館　金沢茶屋 | ★4.78 | ¥17,600〜 |
+| 7位 | 熱海温泉　熱海後楽園ホテル | ★4.40 | ¥12,320〜 |
 
 ## 詳細解説
 🎄2026年冬 中部・東海・北陸 クリスマスデート旅行 完全攻略ガイド

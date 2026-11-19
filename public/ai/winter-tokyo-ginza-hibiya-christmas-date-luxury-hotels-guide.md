@@ -25,11 +25,11 @@ last_modified: "2026-11-19"
 
 | 順位 | 宿泊施設名 | 口コミ評価 | 参考最安料金 |
 | :--- | :--- | :--- | :--- |
-| 1位 | undefined | ★undefined | undefined |
-| 2位 | undefined | ★undefined | undefined |
-| 3位 | undefined | ★undefined | undefined |
-| 4位 | undefined | ★undefined | undefined |
-| 5位 | undefined | ★undefined | undefined |
+| 1位 | 帝国ホテル東京 | ★4.70 | ¥30,643〜 |
+| 2位 | メズム東京、オートグラフ　コレクション | ★4.75 | ¥31,720〜 |
+| 3位 | ホテルザセレスティン銀座 | ★5.00 | ¥21,240〜 |
+| 4位 | 三井ガーデンホテル銀座プレミア | ★4.35 | ¥17,850〜 |
+| 5位 | ザ　ロイヤルパークホテル　アイコニック　東京汐留 | ★4.56 | ¥21,570〜 |
 
 ## 詳細解説
 🎄2026年冬 銀座・日比谷・汐留・竹芝 大人のクリスマスデート滞在完全ガイド

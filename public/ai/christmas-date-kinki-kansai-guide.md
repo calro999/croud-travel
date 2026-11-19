@@ -25,12 +25,12 @@ last_modified: "2026-11-19"
 
 | 順位 | 宿泊施設名 | 口コミ評価 | 参考最安料金 |
 | :--- | :--- | :--- | :--- |
-| 1位 | undefined | ★undefined | undefined |
-| 2位 | undefined | ★undefined | undefined |
-| 3位 | undefined | ★undefined | undefined |
-| 4位 | undefined | ★undefined | undefined |
-| 5位 | undefined | ★undefined | undefined |
-| 6位 | undefined | ★undefined | undefined |
+| 1位 | 翠嵐ラグジュアリーコレクションホテル京都 | ★4.71 | ¥60,088〜 |
+| 2位 | コンラッド大阪 | ★4.75 | ¥30,943〜 |
+| 3位 | ホテル　ラ・スイート神戸ハーバーランド | ★4.76 | ¥14,360〜 |
+| 4位 | おごと温泉　びわこ緑水亭 | ★4.64 | ¥21,900〜 |
+| 5位 | ＪＷマリオット・ホテル奈良 | ★4.25 | ¥17,120〜 |
+| 6位 | 白浜温泉　ホテル川久 | ★4.56 | ¥27,000〜 |
 
 ## 詳細解説
 🎄2026年冬 近畿・関西 クリスマスデート旅行 完全攻略ガイド

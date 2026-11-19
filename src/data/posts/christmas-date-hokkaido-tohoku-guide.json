@@ -230,12 +230,47 @@
   "rating": "4.47",
   "is_special_feature": true,
   "featured_hotels": [
-    "緑の風リゾート　きたゆざわ",
-    "奥入瀬渓流ホテル　ｂｙ　星野リゾート",
-    "花巻温泉　佳松園",
-    "伝承千年の宿　佐勘",
-    "会津芦ノ牧温泉　大川荘",
-    "銀山温泉　仙峡の宿　銀山荘",
-    "休暇村　乳頭温泉郷"
+    {
+      "name": "緑の風リゾート　きたゆざわ",
+      "rating": "4.36",
+      "price": "¥18,700〜",
+      "url": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F149046%2F149046.html"
+    },
+    {
+      "name": "奥入瀬渓流ホテル　ｂｙ　星野リゾート",
+      "rating": "4.28",
+      "price": "¥23,500〜",
+      "url": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F40434%2F40434.html"
+    },
+    {
+      "name": "花巻温泉　佳松園",
+      "rating": "4.67",
+      "price": "¥18,700〜",
+      "url": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F13482%2F13482.html"
+    },
+    {
+      "name": "伝承千年の宿　佐勘",
+      "rating": "4.44",
+      "price": "¥16,720〜",
+      "url": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F63615%2F63615.html"
+    },
+    {
+      "name": "会津芦ノ牧温泉　大川荘",
+      "rating": "4.55",
+      "price": "¥9,900〜",
+      "url": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F12682%2F12682.html"
+    },
+    {
+      "name": "銀山温泉　仙峡の宿　銀山荘",
+      "rating": "4.48",
+      "price": "¥28,380〜",
+      "url": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F111234%2F111234.html"
+    },
+    {
+      "name": "休暇村　乳頭温泉郷",
+      "rating": "4.51",
+      "price": "¥15,500〜",
+      "url": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F72803%2F72803.html"
+    }
   ]
 }

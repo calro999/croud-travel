@@ -25,14 +25,14 @@ last_modified: "2026-11-19"
 
 | 順位 | 宿泊施設名 | 口コミ評価 | 参考最安料金 |
 | :--- | :--- | :--- | :--- |
-| 1位 | undefined | ★undefined | undefined |
-| 2位 | undefined | ★undefined | undefined |
-| 3位 | undefined | ★undefined | undefined |
-| 4位 | undefined | ★undefined | undefined |
-| 5位 | undefined | ★undefined | undefined |
-| 6位 | undefined | ★undefined | undefined |
-| 7位 | undefined | ★undefined | undefined |
-| 8位 | undefined | ★undefined | undefined |
+| 1位 | 都ホテル博多 | ★4.62 | ¥18,400〜 |
+| 2位 | ホテルヨーロッパ　ハウステンボス | ★4.63 | ¥15,700〜 |
+| 3位 | 鹿児島　砂むし温泉　指宿白水館 | ★4.49 | ¥14,630〜 |
+| 4位 | ハレクラニ沖縄 | ★4.84 | ¥29,095〜 |
+| 5位 | 嬉野温泉　和多屋別荘 | ★4.12 | ¥9,900〜 |
+| 6位 | 黒川温泉　旅館やまの湯 | ★4.51 | ¥20,400〜 |
+| 7位 | 由布院温泉　朝霧のみえる宿　ゆふいん花由 | ★4.67 | ¥28,160〜 |
+| 8位 | フェニックス・シーガイア・オーシャン・タワー | ★4.52 | ¥6,800〜 |
 
 ## 詳細解説
 🎄2026年冬 九州・沖縄 クリスマスデート旅行 完全攻略ガイド

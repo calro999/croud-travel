@@ -311,15 +311,65 @@
   "rating": "4.50",
   "is_special_feature": true,
   "featured_hotels": [
-    "帝国ホテル東京",
-    "箱根・強羅　佳ら久（オリックスホテルズ＆リゾーツ）",
-    "大洗ホテルＡＮＮＥＸ魚来庵",
-    "草津温泉　ホテル櫻井",
-    "赤倉温泉　赤倉観光ホテル",
-    "ホテル　ザ・マンハッタン",
-    "長瀞温泉　花のおもてなし　長生館",
-    "鬼怒川金谷ホテル",
-    "河口湖温泉　うぶや",
-    "ホテル　サイプレス軽井沢"
+    {
+      "name": "帝国ホテル東京",
+      "rating": "4.70",
+      "price": "¥30,643〜",
+      "url": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F28576%2F28576.html"
+    },
+    {
+      "name": "箱根・強羅　佳ら久（オリックスホテルズ＆リゾーツ）",
+      "rating": "4.57",
+      "price": "¥37,110〜",
+      "url": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F179644%2F179644.html"
+    },
+    {
+      "name": "大洗ホテルＡＮＮＥＸ魚来庵",
+      "rating": "4.28",
+      "price": "¥8,800〜",
+      "url": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F178205%2F178205.html"
+    },
+    {
+      "name": "草津温泉　ホテル櫻井",
+      "rating": "4.52",
+      "price": "¥14,300〜",
+      "url": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F56137%2F56137.html"
+    },
+    {
+      "name": "赤倉温泉　赤倉観光ホテル",
+      "rating": "4.77",
+      "price": "¥31,500〜",
+      "url": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F32250%2F32250.html"
+    },
+    {
+      "name": "ホテル　ザ・マンハッタン",
+      "rating": "4.67",
+      "price": "¥5,500〜",
+      "url": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F928%2F928.html"
+    },
+    {
+      "name": "長瀞温泉　花のおもてなし　長生館",
+      "rating": "4.45",
+      "price": "¥11,500〜",
+      "url": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F9485%2F9485.html"
+    },
+    {
+      "name": "鬼怒川金谷ホテル",
+      "rating": "4.48",
+      "price": "¥43,400〜",
+      "url": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F28440%2F28440.html"
+    },
+    {
+      "name": "河口湖温泉　うぶや",
+      "rating": "4.33",
+      "price": "¥34,100〜",
+      "url": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F8053%2F8053.html"
+    },
+    {
+      "name": "ホテル　サイプレス軽井沢",
+      "rating": "4.20",
+      "price": "¥10,700〜",
+      "url": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F31166%2F31166.html"
+    }
   ]
 }

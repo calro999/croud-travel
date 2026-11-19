@@ -257,13 +257,53 @@
   "rating": "4.55",
   "is_special_feature": true,
   "featured_hotels": [
-    "都ホテル博多",
-    "ホテルヨーロッパ　ハウステンボス",
-    "鹿児島　砂むし温泉　指宿白水館",
-    "ハレクラニ沖縄",
-    "嬉野温泉　和多屋別荘",
-    "黒川温泉　旅館やまの湯",
-    "由布院温泉　朝霧のみえる宿　ゆふいん花由",
-    "フェニックス・シーガイア・オーシャン・タワー"
+    {
+      "name": "都ホテル博多",
+      "rating": "4.62",
+      "price": "¥18,400〜",
+      "url": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F172310%2F172310.html"
+    },
+    {
+      "name": "ホテルヨーロッパ　ハウステンボス",
+      "rating": "4.63",
+      "price": "¥15,700〜",
+      "url": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F9159%2F9159.html"
+    },
+    {
+      "name": "鹿児島　砂むし温泉　指宿白水館",
+      "rating": "4.49",
+      "price": "¥14,630〜",
+      "url": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F12529%2F12529.html"
+    },
+    {
+      "name": "ハレクラニ沖縄",
+      "rating": "4.84",
+      "price": "¥29,095〜",
+      "url": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F172611%2F172611.html"
+    },
+    {
+      "name": "嬉野温泉　和多屋別荘",
+      "rating": "4.12",
+      "price": "¥9,900〜",
+      "url": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F40527%2F40527.html"
+    },
+    {
+      "name": "黒川温泉　旅館やまの湯",
+      "rating": "4.51",
+      "price": "¥20,400〜",
+      "url": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F29452%2F29452.html"
+    },
+    {
+      "name": "由布院温泉　朝霧のみえる宿　ゆふいん花由",
+      "rating": "4.67",
+      "price": "¥28,160〜",
+      "url": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F76377%2F76377.html"
+    },
+    {
+      "name": "フェニックス・シーガイア・オーシャン・タワー",
+      "rating": "4.52",
+      "price": "¥6,800〜",
+      "url": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F5173%2F5173.html"
+    }
   ]
 }

@@ -203,11 +203,41 @@
   "rating": "4.61",
   "is_special_feature": true,
   "featured_hotels": [
-    "翠嵐ラグジュアリーコレクションホテル京都",
-    "コンラッド大阪",
-    "ホテル　ラ・スイート神戸ハーバーランド",
-    "おごと温泉　びわこ緑水亭",
-    "ＪＷマリオット・ホテル奈良",
-    "白浜温泉　ホテル川久"
+    {
+      "name": "翠嵐ラグジュアリーコレクションホテル京都",
+      "rating": "4.71",
+      "price": "¥60,088〜",
+      "url": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F158466%2F158466.html"
+    },
+    {
+      "name": "コンラッド大阪",
+      "rating": "4.75",
+      "price": "¥30,943〜",
+      "url": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F162668%2F162668.html"
+    },
+    {
+      "name": "ホテル　ラ・スイート神戸ハーバーランド",
+      "rating": "4.76",
+      "price": "¥14,360〜",
+      "url": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F104705%2F104705.html"
+    },
+    {
+      "name": "おごと温泉　びわこ緑水亭",
+      "rating": "4.64",
+      "price": "¥21,900〜",
+      "url": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F3165%2F3165.html"
+    },
+    {
+      "name": "ＪＷマリオット・ホテル奈良",
+      "rating": "4.25",
+      "price": "¥17,120〜",
+      "url": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F178614%2F178614.html"
+    },
+    {
+      "name": "白浜温泉　ホテル川久",
+      "rating": "4.56",
+      "price": "¥27,000〜",
+      "url": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F14111%2F14111.html"
+    }
   ]
 }

@@ -25,13 +25,13 @@ last_modified: "2026-11-19"
 
 | 順位 | 宿泊施設名 | 口コミ評価 | 参考最安料金 |
 | :--- | :--- | :--- | :--- |
-| 1位 | undefined | ★undefined | undefined |
-| 2位 | undefined | ★undefined | undefined |
-| 3位 | undefined | ★undefined | undefined |
-| 4位 | undefined | ★undefined | undefined |
-| 5位 | undefined | ★undefined | undefined |
-| 6位 | undefined | ★undefined | undefined |
-| 7位 | undefined | ★undefined | undefined |
+| 1位 | 緑の風リゾート　きたゆざわ | ★4.36 | ¥18,700〜 |
+| 2位 | 奥入瀬渓流ホテル　ｂｙ　星野リゾート | ★4.28 | ¥23,500〜 |
+| 3位 | 花巻温泉　佳松園 | ★4.67 | ¥18,700〜 |
+| 4位 | 伝承千年の宿　佐勘 | ★4.44 | ¥16,720〜 |
+| 5位 | 会津芦ノ牧温泉　大川荘 | ★4.55 | ¥9,900〜 |
+| 6位 | 銀山温泉　仙峡の宿　銀山荘 | ★4.48 | ¥28,380〜 |
+| 7位 | 休暇村　乳頭温泉郷 | ★4.51 | ¥15,500〜 |
 
 ## 詳細解説
 🎄2026年冬 北海道・東北 クリスマスデート旅行 完全攻略ガイド

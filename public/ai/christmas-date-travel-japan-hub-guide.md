@@ -25,53 +25,53 @@ last_modified: "2026-11-19"
 
 | 順位 | 宿泊施設名 | 口コミ評価 | 参考最安料金 |
 | :--- | :--- | :--- | :--- |
-| 1位 | undefined | ★undefined | undefined |
-| 2位 | undefined | ★undefined | undefined |
-| 3位 | undefined | ★undefined | undefined |
-| 4位 | undefined | ★undefined | undefined |
-| 5位 | undefined | ★undefined | undefined |
-| 6位 | undefined | ★undefined | undefined |
-| 7位 | undefined | ★undefined | undefined |
-| 8位 | undefined | ★undefined | undefined |
-| 9位 | undefined | ★undefined | undefined |
-| 10位 | undefined | ★undefined | undefined |
-| 11位 | undefined | ★undefined | undefined |
-| 12位 | undefined | ★undefined | undefined |
-| 13位 | undefined | ★undefined | undefined |
-| 14位 | undefined | ★undefined | undefined |
-| 15位 | undefined | ★undefined | undefined |
-| 16位 | undefined | ★undefined | undefined |
-| 17位 | undefined | ★undefined | undefined |
-| 18位 | undefined | ★undefined | undefined |
-| 19位 | undefined | ★undefined | undefined |
-| 20位 | undefined | ★undefined | undefined |
-| 21位 | undefined | ★undefined | undefined |
-| 22位 | undefined | ★undefined | undefined |
-| 23位 | undefined | ★undefined | undefined |
-| 24位 | undefined | ★undefined | undefined |
-| 25位 | undefined | ★undefined | undefined |
-| 26位 | undefined | ★undefined | undefined |
-| 27位 | undefined | ★undefined | undefined |
-| 28位 | undefined | ★undefined | undefined |
-| 29位 | undefined | ★undefined | undefined |
-| 30位 | undefined | ★undefined | undefined |
-| 31位 | undefined | ★undefined | undefined |
-| 32位 | undefined | ★undefined | undefined |
-| 33位 | undefined | ★undefined | undefined |
-| 34位 | undefined | ★undefined | undefined |
-| 35位 | undefined | ★undefined | undefined |
-| 36位 | undefined | ★undefined | undefined |
-| 37位 | undefined | ★undefined | undefined |
-| 38位 | undefined | ★undefined | undefined |
-| 39位 | undefined | ★undefined | undefined |
-| 40位 | undefined | ★undefined | undefined |
-| 41位 | undefined | ★undefined | undefined |
-| 42位 | undefined | ★undefined | undefined |
-| 43位 | undefined | ★undefined | undefined |
-| 44位 | undefined | ★undefined | undefined |
-| 45位 | undefined | ★undefined | undefined |
-| 46位 | undefined | ★undefined | undefined |
-| 47位 | undefined | ★undefined | undefined |
+| 1位 | 緑の風リゾート　きたゆざわ | ★4.36 | ¥18,700〜 |
+| 2位 | 奥入瀬渓流ホテル　ｂｙ　星野リゾート | ★4.28 | ¥23,500〜 |
+| 3位 | 花巻温泉　佳松園 | ★4.67 | ¥18,700〜 |
+| 4位 | 伝承千年の宿　佐勘 | ★4.44 | ¥16,720〜 |
+| 5位 | 会津芦ノ牧温泉　大川荘 | ★4.55 | ¥9,900〜 |
+| 6位 | 銀山温泉　仙峡の宿　銀山荘 | ★4.48 | ¥28,380〜 |
+| 7位 | 休暇村　乳頭温泉郷 | ★4.51 | ¥15,500〜 |
+| 8位 | 帝国ホテル東京 | ★4.70 | ¥30,643〜 |
+| 9位 | 箱根・強羅　佳ら久（オリックスホテルズ＆リゾーツ） | ★4.57 | ¥37,110〜 |
+| 10位 | 大洗ホテルＡＮＮＥＸ魚来庵 | ★4.28 | ¥8,800〜 |
+| 11位 | 草津温泉　ホテル櫻井 | ★4.52 | ¥14,300〜 |
+| 12位 | 赤倉温泉　赤倉観光ホテル | ★4.77 | ¥31,500〜 |
+| 13位 | ホテル　ザ・マンハッタン | ★4.67 | ¥5,500〜 |
+| 14位 | 長瀞温泉　花のおもてなし　長生館 | ★4.45 | ¥11,500〜 |
+| 15位 | 鬼怒川金谷ホテル | ★4.48 | ¥43,400〜 |
+| 16位 | 河口湖温泉　うぶや | ★4.33 | ¥34,100〜 |
+| 17位 | ホテル　サイプレス軽井沢 | ★4.20 | ¥10,700〜 |
+| 18位 | 名古屋マリオットアソシアホテル | ★4.63 | ¥16,500〜 |
+| 19位 | 下呂温泉　水明館 | ★4.36 | ¥8,250〜 |
+| 20位 | 志摩観光ホテル　ザ　クラシック | ★4.68 | ¥16,520〜 |
+| 21位 | 宇奈月温泉の老舗旅館　延対寺荘 | ★4.31 | ¥13,200〜 |
+| 22位 | 北陸　あわら温泉　まつや千千 | ★4.61 | ¥12,100〜 |
+| 23位 | 加賀屋グループ　料理旅館　金沢茶屋 | ★4.78 | ¥17,600〜 |
+| 24位 | 熱海温泉　熱海後楽園ホテル | ★4.40 | ¥12,320〜 |
+| 25位 | 翠嵐ラグジュアリーコレクションホテル京都 | ★4.71 | ¥60,088〜 |
+| 26位 | コンラッド大阪 | ★4.75 | ¥30,943〜 |
+| 27位 | ホテル　ラ・スイート神戸ハーバーランド | ★4.76 | ¥14,360〜 |
+| 28位 | おごと温泉　びわこ緑水亭 | ★4.64 | ¥21,900〜 |
+| 29位 | ＪＷマリオット・ホテル奈良 | ★4.25 | ¥17,120〜 |
+| 30位 | 白浜温泉　ホテル川久 | ★4.56 | ¥27,000〜 |
+| 31位 | 皆生游月 | ★4.73 | ¥14,300〜 |
+| 32位 | 玉造温泉　佳翠苑　皆美 | ★4.67 | ¥14,300〜 |
+| 33位 | 倉敷国際ホテル | ★4.24 | ¥7,000〜 |
+| 34位 | 宮島潮湯温泉　錦水館 | ★4.70 | ¥29,700〜 |
+| 35位 | 長門湯本温泉　別邸　音信 | ★4.69 | ¥50,600〜 |
+| 36位 | 道後温泉　ふなや | ★4.73 | ¥18,700〜 |
+| 37位 | 城西館（じょうせいかん） | ★4.65 | ¥10,999〜 |
+| 38位 | アオアヲナルトリゾート | ★4.45 | ¥14,500〜 |
+| 39位 | こんぴら温泉　琴平グランドホテル　桜の抄 | ★4.58 | ¥13,750〜 |
+| 40位 | 都ホテル博多 | ★4.62 | ¥18,400〜 |
+| 41位 | ホテルヨーロッパ　ハウステンボス | ★4.63 | ¥15,700〜 |
+| 42位 | 鹿児島　砂むし温泉　指宿白水館 | ★4.49 | ¥14,630〜 |
+| 43位 | ハレクラニ沖縄 | ★4.84 | ¥29,095〜 |
+| 44位 | 嬉野温泉　和多屋別荘 | ★4.12 | ¥9,900〜 |
+| 45位 | 黒川温泉　旅館やまの湯 | ★4.51 | ¥20,400〜 |
+| 46位 | 由布院温泉　朝霧のみえる宿　ゆふいん花由 | ★4.67 | ¥28,160〜 |
+| 47位 | フェニックス・シーガイア・オーシャン・タワー | ★4.52 | ¥6,800〜 |
 
 ## 詳細解説
 🎄全国47都道府県・完全網羅 クリスマスデート旅行 総合ハブ特設

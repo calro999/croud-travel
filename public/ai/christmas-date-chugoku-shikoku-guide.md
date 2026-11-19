@@ -25,15 +25,15 @@ last_modified: "2026-11-19"
 
 | 順位 | 宿泊施設名 | 口コミ評価 | 参考最安料金 |
 | :--- | :--- | :--- | :--- |
-| 1位 | undefined | ★undefined | undefined |
-| 2位 | undefined | ★undefined | undefined |
-| 3位 | undefined | ★undefined | undefined |
-| 4位 | undefined | ★undefined | undefined |
-| 5位 | undefined | ★undefined | undefined |
-| 6位 | undefined | ★undefined | undefined |
-| 7位 | undefined | ★undefined | undefined |
-| 8位 | undefined | ★undefined | undefined |
-| 9位 | undefined | ★undefined | undefined |
+| 1位 | 皆生游月 | ★4.73 | ¥14,300〜 |
+| 2位 | 玉造温泉　佳翠苑　皆美 | ★4.67 | ¥14,300〜 |
+| 3位 | 倉敷国際ホテル | ★4.24 | ¥7,000〜 |
+| 4位 | 宮島潮湯温泉　錦水館 | ★4.70 | ¥29,700〜 |
+| 5位 | 長門湯本温泉　別邸　音信 | ★4.69 | ¥50,600〜 |
+| 6位 | 道後温泉　ふなや | ★4.73 | ¥18,700〜 |
+| 7位 | 城西館（じょうせいかん） | ★4.65 | ¥10,999〜 |
+| 8位 | アオアヲナルトリゾート | ★4.45 | ¥14,500〜 |
+| 9位 | こんぴら温泉　琴平グランドホテル　桜の抄 | ★4.58 | ¥13,750〜 |
 
 ## 詳細解説
 🎄2026年冬 中国・四国 クリスマスデート旅行 完全攻略ガイド

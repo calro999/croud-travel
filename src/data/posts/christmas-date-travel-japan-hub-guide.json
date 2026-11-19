@@ -1311,52 +1311,287 @@
   "rating": "4.54",
   "is_special_feature": true,
   "featured_hotels": [
-    "緑の風リゾート　きたゆざわ",
-    "奥入瀬渓流ホテル　ｂｙ　星野リゾート",
-    "花巻温泉　佳松園",
-    "伝承千年の宿　佐勘",
-    "会津芦ノ牧温泉　大川荘",
-    "銀山温泉　仙峡の宿　銀山荘",
-    "休暇村　乳頭温泉郷",
-    "帝国ホテル東京",
-    "箱根・強羅　佳ら久（オリックスホテルズ＆リゾーツ）",
-    "大洗ホテルＡＮＮＥＸ魚来庵",
-    "草津温泉　ホテル櫻井",
-    "赤倉温泉　赤倉観光ホテル",
-    "ホテル　ザ・マンハッタン",
-    "長瀞温泉　花のおもてなし　長生館",
-    "鬼怒川金谷ホテル",
-    "河口湖温泉　うぶや",
-    "ホテル　サイプレス軽井沢",
-    "名古屋マリオットアソシアホテル",
-    "下呂温泉　水明館",
-    "志摩観光ホテル　ザ　クラシック",
-    "宇奈月温泉の老舗旅館　延対寺荘",
-    "北陸　あわら温泉　まつや千千",
-    "加賀屋グループ　料理旅館　金沢茶屋",
-    "熱海温泉　熱海後楽園ホテル",
-    "翠嵐ラグジュアリーコレクションホテル京都",
-    "コンラッド大阪",
-    "ホテル　ラ・スイート神戸ハーバーランド",
-    "おごと温泉　びわこ緑水亭",
-    "ＪＷマリオット・ホテル奈良",
-    "白浜温泉　ホテル川久",
-    "皆生游月",
-    "玉造温泉　佳翠苑　皆美",
-    "倉敷国際ホテル",
-    "宮島潮湯温泉　錦水館",
-    "長門湯本温泉　別邸　音信",
-    "道後温泉　ふなや",
-    "城西館（じょうせいかん）",
-    "アオアヲナルトリゾート",
-    "こんぴら温泉　琴平グランドホテル　桜の抄",
-    "都ホテル博多",
-    "ホテルヨーロッパ　ハウステンボス",
-    "鹿児島　砂むし温泉　指宿白水館",
-    "ハレクラニ沖縄",
-    "嬉野温泉　和多屋別荘",
-    "黒川温泉　旅館やまの湯",
-    "由布院温泉　朝霧のみえる宿　ゆふいん花由",
-    "フェニックス・シーガイア・オーシャン・タワー"
+    {
+      "name": "緑の風リゾート　きたゆざわ",
+      "rating": "4.36",
+      "price": "¥18,700〜",
+      "url": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F149046%2F149046.html"
+    },
+    {
+      "name": "奥入瀬渓流ホテル　ｂｙ　星野リゾート",
+      "rating": "4.28",
+      "price": "¥23,500〜",
+      "url": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F40434%2F40434.html"
+    },
+    {
+      "name": "花巻温泉　佳松園",
+      "rating": "4.67",
+      "price": "¥18,700〜",
+      "url": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F13482%2F13482.html"
+    },
+    {
+      "name": "伝承千年の宿　佐勘",
+      "rating": "4.44",
+      "price": "¥16,720〜",
+      "url": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F63615%2F63615.html"
+    },
+    {
+      "name": "会津芦ノ牧温泉　大川荘",
+      "rating": "4.55",
+      "price": "¥9,900〜",
+      "url": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F12682%2F12682.html"
+    },
+    {
+      "name": "銀山温泉　仙峡の宿　銀山荘",
+      "rating": "4.48",
+      "price": "¥28,380〜",
+      "url": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F111234%2F111234.html"
+    },
+    {
+      "name": "休暇村　乳頭温泉郷",
+      "rating": "4.51",
+      "price": "¥15,500〜",
+      "url": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F72803%2F72803.html"
+    },
+    {
+      "name": "帝国ホテル東京",
+      "rating": "4.70",
+      "price": "¥30,643〜",
+      "url": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F28576%2F28576.html"
+    },
+    {
+      "name": "箱根・強羅　佳ら久（オリックスホテルズ＆リゾーツ）",
+      "rating": "4.57",
+      "price": "¥37,110〜",
+      "url": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F179644%2F179644.html"
+    },
+    {
+      "name": "大洗ホテルＡＮＮＥＸ魚来庵",
+      "rating": "4.28",
+      "price": "¥8,800〜",
+      "url": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F178205%2F178205.html"
+    },
+    {
+      "name": "草津温泉　ホテル櫻井",
+      "rating": "4.52",
+      "price": "¥14,300〜",
+      "url": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F56137%2F56137.html"
+    },
+    {
+      "name": "赤倉温泉　赤倉観光ホテル",
+      "rating": "4.77",
+      "price": "¥31,500〜",
+      "url": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F32250%2F32250.html"
+    },
+    {
+      "name": "ホテル　ザ・マンハッタン",
+      "rating": "4.67",
+      "price": "¥5,500〜",
+      "url": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F928%2F928.html"
+    },
+    {
+      "name": "長瀞温泉　花のおもてなし　長生館",
+      "rating": "4.45",
+      "price": "¥11,500〜",
+      "url": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F9485%2F9485.html"
+    },
+    {
+      "name": "鬼怒川金谷ホテル",
+      "rating": "4.48",
+      "price": "¥43,400〜",
+      "url": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F28440%2F28440.html"
+    },
+    {
+      "name": "河口湖温泉　うぶや",
+      "rating": "4.33",
+      "price": "¥34,100〜",
+      "url": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F8053%2F8053.html"
+    },
+    {
+      "name": "ホテル　サイプレス軽井沢",
+      "rating": "4.20",
+      "price": "¥10,700〜",
+      "url": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F31166%2F31166.html"
+    },
+    {
+      "name": "名古屋マリオットアソシアホテル",
+      "rating": "4.63",
+      "price": "¥16,500〜",
+      "url": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F12543%2F12543.html"
+    },
+    {
+      "name": "下呂温泉　水明館",
+      "rating": "4.36",
+      "price": "¥8,250〜",
+      "url": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F8886%2F8886.html"
+    },
+    {
+      "name": "志摩観光ホテル　ザ　クラシック",
+      "rating": "4.68",
+      "price": "¥16,520〜",
+      "url": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1150%2F1150.html"
+    },
+    {
+      "name": "宇奈月温泉の老舗旅館　延対寺荘",
+      "rating": "4.31",
+      "price": "¥13,200〜",
+      "url": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F4804%2F4804.html"
+    },
+    {
+      "name": "北陸　あわら温泉　まつや千千",
+      "rating": "4.61",
+      "price": "¥12,100〜",
+      "url": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F84545%2F84545.html"
+    },
+    {
+      "name": "加賀屋グループ　料理旅館　金沢茶屋",
+      "rating": "4.78",
+      "price": "¥17,600〜",
+      "url": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F4707%2F4707.html"
+    },
+    {
+      "name": "熱海温泉　熱海後楽園ホテル",
+      "rating": "4.40",
+      "price": "¥12,320〜",
+      "url": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1656%2F1656.html"
+    },
+    {
+      "name": "翠嵐ラグジュアリーコレクションホテル京都",
+      "rating": "4.71",
+      "price": "¥60,088〜",
+      "url": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F158466%2F158466.html"
+    },
+    {
+      "name": "コンラッド大阪",
+      "rating": "4.75",
+      "price": "¥30,943〜",
+      "url": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F162668%2F162668.html"
+    },
+    {
+      "name": "ホテル　ラ・スイート神戸ハーバーランド",
+      "rating": "4.76",
+      "price": "¥14,360〜",
+      "url": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F104705%2F104705.html"
+    },
+    {
+      "name": "おごと温泉　びわこ緑水亭",
+      "rating": "4.64",
+      "price": "¥21,900〜",
+      "url": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F3165%2F3165.html"
+    },
+    {
+      "name": "ＪＷマリオット・ホテル奈良",
+      "rating": "4.25",
+      "price": "¥17,120〜",
+      "url": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F178614%2F178614.html"
+    },
+    {
+      "name": "白浜温泉　ホテル川久",
+      "rating": "4.56",
+      "price": "¥27,000〜",
+      "url": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F14111%2F14111.html"
+    },
+    {
+      "name": "皆生游月",
+      "rating": "4.73",
+      "price": "¥14,300〜",
+      "url": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F168732%2F168732.html"
+    },
+    {
+      "name": "玉造温泉　佳翠苑　皆美",
+      "rating": "4.67",
+      "price": "¥14,300〜",
+      "url": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F7798%2F7798.html"
+    },
+    {
+      "name": "倉敷国際ホテル",
+      "rating": "4.24",
+      "price": "¥7,000〜",
+      "url": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F7584%2F7584.html"
+    },
+    {
+      "name": "宮島潮湯温泉　錦水館",
+      "rating": "4.70",
+      "price": "¥29,700〜",
+      "url": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F6271%2F6271.html"
+    },
+    {
+      "name": "長門湯本温泉　別邸　音信",
+      "rating": "4.69",
+      "price": "¥50,600〜",
+      "url": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F80652%2F80652.html"
+    },
+    {
+      "name": "道後温泉　ふなや",
+      "rating": "4.73",
+      "price": "¥18,700〜",
+      "url": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F11332%2F11332.html"
+    },
+    {
+      "name": "城西館（じょうせいかん）",
+      "rating": "4.65",
+      "price": "¥10,999〜",
+      "url": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F8075%2F8075.html"
+    },
+    {
+      "name": "アオアヲナルトリゾート",
+      "rating": "4.45",
+      "price": "¥14,500〜",
+      "url": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F6123%2F6123.html"
+    },
+    {
+      "name": "こんぴら温泉　琴平グランドホテル　桜の抄",
+      "rating": "4.58",
+      "price": "¥13,750〜",
+      "url": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F5900%2F5900.html"
+    },
+    {
+      "name": "都ホテル博多",
+      "rating": "4.62",
+      "price": "¥18,400〜",
+      "url": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F172310%2F172310.html"
+    },
+    {
+      "name": "ホテルヨーロッパ　ハウステンボス",
+      "rating": "4.63",
+      "price": "¥15,700〜",
+      "url": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F9159%2F9159.html"
+    },
+    {
+      "name": "鹿児島　砂むし温泉　指宿白水館",
+      "rating": "4.49",
+      "price": "¥14,630〜",
+      "url": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F12529%2F12529.html"
+    },
+    {
+      "name": "ハレクラニ沖縄",
+      "rating": "4.84",
+      "price": "¥29,095〜",
+      "url": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F172611%2F172611.html"
+    },
+    {
+      "name": "嬉野温泉　和多屋別荘",
+      "rating": "4.12",
+      "price": "¥9,900〜",
+      "url": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F40527%2F40527.html"
+    },
+    {
+      "name": "黒川温泉　旅館やまの湯",
+      "rating": "4.51",
+      "price": "¥20,400〜",
+      "url": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F29452%2F29452.html"
+    },
+    {
+      "name": "由布院温泉　朝霧のみえる宿　ゆふいん花由",
+      "rating": "4.67",
+      "price": "¥28,160〜",
+      "url": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F76377%2F76377.html"
+    },
+    {
+      "name": "フェニックス・シーガイア・オーシャン・タワー",
+      "rating": "4.52",
+      "price": "¥6,800〜",
+      "url": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F5173%2F5173.html"
+    }
   ]
 }
