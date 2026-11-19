@@ -1,5 +1,15 @@
 # 秋田県の宿泊・観光記事（49件）
 
+## 【秋田・横手/湯沢】横手の雪まつり「かまくら2027」＆泥湯・秋ノ宮温泉郷完全攻略！450年の水神様雪夜景と元祖横手やきそば・比内地鶏きりたんぽ鍋を愉しむ雪国名宿5選
+- 記事: https://croud-travel.pages.dev/posts/winter-akita-yokote-kamakura-snow-festival-yuzawa-onsen-hotels-guide/
+- 全文Markdown: https://croud-travel.pages.dev/ai/winter-akita-yokote-kamakura-snow-festival-yuzawa-onsen-hotels-guide.md
+- 宿泊施設名: 秋の宮温泉郷 湯けむりの宿 稲住温泉（共立リゾート）・ホテルプラザアネックス横手 ほか
+- エリア: 横手・湯沢・秋ノ宮
+- 参考価格: ¥5,000円〜〜
+- 評価: 4.29
+
+約450年の伝統を誇るみちのく五大雪まつりの筆頭「横手の雪まつり・かまくら」。雪洞の中に灯るロウソクと水神様を祀る子供たちの歓声、蛇の崎川原を埋め尽くす数千個のミニかまくらが創る幻想夜景を徹底解説。秘湯・泥湯温泉の白濁硫黄泉や県内最古の秋ノ宮温泉郷、本場の横手やきそばや比内地鶏出汁のセリ根入りきりたんぽ鍋を堪能できる厳選名宿5選を完全網羅。
+
 ## 【仙北・田沢湖（秋田県）の子連れ旅行＆家族向けホテル厳選】和のゐ角館・田沢湖高原温泉 田沢高原ホテルなど赤ちゃん・小学生歓迎宿と2026秋冬モデルコース
 - 記事: https://croud-travel.pages.dev/posts/october-travel-city-senboku-kids-family-guide/
 - 全文Markdown: https://croud-travel.pages.dev/ai/october-travel-city-senboku-kids-family-guide.md
@@ -9,16 +19,6 @@
 - 評価: 4.8
 
 仙北・田沢湖（秋田県）へ子連れ・家族旅行に行くならここ！「和のゐ角館」をはじめ、和洋室や貸切風呂・キッズ対応が充実した人気ファミリーホテル、10月〜1月（紅葉・味覚狩り・冬休み）の子供の服装対策、本場きりたんぽ鍋も楽しめる1泊2日モデルコースを徹底解説。
-
-## 【秋田・横手/湯沢】横手の雪まつり「かまくら2027」＆泥湯・秋ノ宮温泉郷完全攻略！450年の水神様雪夜景と元祖横手やきそば・比内地鶏きりたんぽ鍋を愉しむ雪国名宿5選
-- 記事: https://croud-travel.pages.dev/posts/winter-akita-yokote-kamakura-snow-festival-yuzawa-onsen-hotels-guide/
-- 全文Markdown: https://croud-travel.pages.dev/ai/winter-akita-yokote-kamakura-snow-festival-yuzawa-onsen-hotels-guide.md
-- 宿泊施設名: 秋の宮温泉郷 湯けむりの宿 稲住温泉（共立リゾート）・ホテルプラザアネックス横手 ほか
-- エリア: 横手・湯沢・秋ノ宮
-- 参考価格: ¥¥5,200〜〜
-- 評価: 4.69
-
-約450年の伝統を誇るみちのく五大雪まつりの筆頭「横手の雪まつり・かまくら」。雪洞の中に灯るロウソクと水神様を祀る子供たちの歓声、蛇の崎川原を埋め尽くす数千個のミニかまくらが創る幻想夜景を徹底解説。秘湯・泥湯温泉の白濁硫黄泉や県内最古の秋ノ宮温泉郷、本場の横手やきそばや比内地鶏出汁のセリ根入りきりたんぽ鍋を堪能できる厳選名宿5選を完全網羅。
 
 ## 冬休みの秋田・田沢湖角館子連れ雪国旅！日本一の深さ田沢湖の雪景色＆武家屋敷雪灯篭・乳頭温泉郷の秘湯雪見風呂名宿5選
 - 記事: https://croud-travel.pages.dev/posts/winter-family-akita-tazawako-kakunodate-hotspring-guide/

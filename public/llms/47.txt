@@ -1,4 +1,14 @@
-# 沖縄県の宿泊・観光記事（65件）
+# 沖縄県の宿泊・観光記事（66件）
+
+## 【2027年3月の沖縄・宮古島・石垣島】花粉ゼロの楽園で日本一早い海開き＆ホエールウォッチング！夏前の特別価格で泊まる最高峰ビーチリゾート6選
+- 記事: https://croud-travel.pages.dev/posts/march-okinawa-miyakojima-early-summer-whale-watching-luxury-resorts-guide/
+- 全文Markdown: https://croud-travel.pages.dev/ai/march-okinawa-miyakojima-early-summer-whale-watching-luxury-resorts-guide.md
+- 宿泊施設名: ザ・ブセナテラス・ホテルモントレ沖縄　スパ・ルネッサンスリゾートオキ ほか
+- エリア: 恩納村・名護・宮古島・石垣島
+- 参考価格: ¥5,930円〜〜
+- 評価: 4.65
+
+2027年1月・2月・3月の恩納村・名護・宮古島・石垣島旅行完全攻略ガイド！慶良間諸島・恩納村沖のザトウクジラ「ホエールウォッチング」（1〜3月限定）や沖縄県産もとぶ牛・石垣牛の炭火ステーキ＆アグー豚しゃぶしゃぶの見どころ、予約前に解消したい10の不安と対策、楽天トラベル高評価の厳選宿6選を徹底解説。
 
 ## 【沖縄の直前予約・空室速報】週末連休・年末年始に今すぐ泊まれるおすすめ人気ホテル＆温泉宿
 - 記事: https://croud-travel.pages.dev/posts/obon-okinawa-lastminute-guide/
@@ -9,6 +19,26 @@
 - 評価: 4.71
 
 沖縄県（沖縄）で急な旅行や連休・週末、年末年始の直前予約に対応している高評価ホテル＆温泉旅館を厳選！直前割プランや素泊まり・朝食付き、空室状況の確認ポイントを徹底解説。
+
+## 冬休みの沖縄本島美ら海水族館巨大ジンベエザメ＆西海岸リゾート学生旅行！シェラトン沖縄サンマリーナ名宿5選
+- 記事: https://croud-travel.pages.dev/posts/winter-youth-okinawa-churaumi-beach-resort-guide/
+- 全文Markdown: https://croud-travel.pages.dev/ai/winter-youth-okinawa-churaumi-beach-resort-guide.md
+- 宿泊施設名: 沖縄 恩納村・本部 美ら海水族館ジンベエザメ＆ジップライン 学生卒業旅行名宿5選
+- エリア: 恩納村・本部・名護
+- 参考価格: ¥3,810円〜〜
+- 評価: 4.40
+
+サチコ注目クエリ「シェラトン沖縄サンマリーナリゾート」に完全連動！本州が真冬の寒さに震える冬休み、気温20度前後で快適に過ごせる常夏の島・沖縄！世界最大級の巨大水槽を泳ぐジンベエザメやマンタに大興奮する「沖縄美ら海水族館」をはじめ、海の上を空中滑走する大迫力のジップライン「メガジ...
+
+## 冬休みの宮古島エメラルドブルー海＆絶景ドライブ卒業旅行！ホテル385と17エンド幻のビーチ学生名宿5選
+- 記事: https://croud-travel.pages.dev/posts/winter-youth-okinawa-miyako-nature-resort-guide/
+- 全文Markdown: https://croud-travel.pages.dev/ai/winter-youth-okinawa-miyako-nature-resort-guide.md
+- 宿泊施設名: 沖縄 宮古島 冬のあったか絶景ドライブ＆ホテル385 学生卒業旅行名宿5選
+- エリア: 宮古島・伊良部島・下地島
+- 参考価格: ¥3,290円〜〜
+- 評価: 4.42
+
+サチコ注目クエリ「ヒカル 宮古島 ホテル」「ホテル385 ヒカル」「ヒカル ホテル 宮古島」に完全連動！冬の宮古島は気温20度前後で、本州の真冬とは別世界の暖かさ。有名YouTuberがプロデュース・宿泊したことでも大バズりした宮古島市街地のハイセンスホテル「HOTEL 385（...
 
 ## 【石垣島・八重山（沖縄県）の子連れ旅行＆家族向けホテル厳選】石垣島ビーチホテルサンシャイン・コンフォートホテルERA石垣島（ リブランド）など赤ちゃん・小学生歓迎宿と2026秋冬モデルコース
 - 記事: https://croud-travel.pages.dev/posts/october-travel-city-ishigakijima-kids-family-guide/
@@ -70,16 +100,6 @@
 
 【2026年最新】ハレクラニ沖縄の温泉・露天風呂＆泉質ガイドを徹底比較！楽天トラベルで高評価を獲得している人気宿・温泉旅館の魅力、客室タイプ、露天風呂、料理プラン、アクセスや料金目安まで詳しくご紹介します。お得な割引クーポン情報も満載！
 
-## 冬休みの沖縄本島美ら海水族館巨大ジンベエザメ＆西海岸リゾート学生旅行！シェラトン沖縄サンマリーナ名宿5選
-- 記事: https://croud-travel.pages.dev/posts/winter-youth-okinawa-churaumi-beach-resort-guide/
-- 全文Markdown: https://croud-travel.pages.dev/ai/winter-youth-okinawa-churaumi-beach-resort-guide.md
-- 宿泊施設名: 沖縄 恩納村・本部 美ら海水族館ジンベエザメ＆ジップライン 学生卒業旅行名宿5選
-- エリア: 恩納村・本部・名護
-- 参考価格: ¥¥13,950〜〜
-- 評価: 4.43
-
-サチコ注目クエリ「シェラトン沖縄サンマリーナリゾート」に完全連動！本州が真冬の寒さに震える冬休み、気温20度前後で快適に過ごせる常夏の島・沖縄！世界最大級の巨大水槽を泳ぐジンベエザメやマンタに大興奮する「沖縄美ら海水族館」をはじめ、海の上を空中滑走する大迫力のジップライン「メガジ...
-
 ## 【本部・名護（沖縄県）の子連れ旅行＆家族向けホテル厳選】還元ホテル 名護東江・New Normal Hotel in NAGO（ニューノーマルホテルイン名護）など赤ちゃん・小学生歓迎宿と2026秋冬モデルコース
 - 記事: https://croud-travel.pages.dev/posts/october-travel-city-motobu-nago-kids-family-guide/
 - 全文Markdown: https://croud-travel.pages.dev/ai/october-travel-city-motobu-nago-kids-family-guide.md
@@ -89,16 +109,6 @@
 - 評価: 4.44
 
 本部・名護（沖縄県）へ子連れ・家族旅行に行くならここ！「還元ホテル　名護東江」をはじめ、和洋室や貸切風呂・キッズ対応が充実した人気ファミリーホテル、10月〜1月（紅葉・味覚狩り・冬休み）の子供の服装対策、特選石垣牛・もとぶ牛ステーキも楽しめる1泊2日モデルコースを徹底解説。
-
-## 冬休みの宮古島エメラルドブルー海＆絶景ドライブ卒業旅行！ホテル385と17エンド幻のビーチ学生名宿5選
-- 記事: https://croud-travel.pages.dev/posts/winter-youth-okinawa-miyako-nature-resort-guide/
-- 全文Markdown: https://croud-travel.pages.dev/ai/winter-youth-okinawa-miyako-nature-resort-guide.md
-- 宿泊施設名: 沖縄 宮古島 冬のあったか絶景ドライブ＆ホテル385 学生卒業旅行名宿5選
-- エリア: 宮古島・伊良部島・下地島
-- 参考価格: ¥¥7,830〜〜
-- 評価: 4.58
-
-サチコ注目クエリ「ヒカル 宮古島 ホテル」「ホテル385 ヒカル」「ヒカル ホテル 宮古島」に完全連動！冬の宮古島は気温20度前後で、本州の真冬とは別世界の暖かさ。有名YouTuberがプロデュース・宿泊したことでも大バズりした宮古島市街地のハイセンスホテル「HOTEL 385（...
 
 ## 【沖縄・宮古島市】宮古島・伊良部島 最高峰プールヴィラ＆ビーチリゾートおすすめ厳選ガイド｜人気宿の温泉・客室・料理・料金徹底比較
 - 記事: https://croud-travel.pages.dev/posts/miyakojima-luxury-pool-villa-hotels-guide/
