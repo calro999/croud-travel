@@ -31,20 +31,20 @@
   "featured_hotels": [
     {
       "name": "鈴鹿サーキットホテル",
-      "rating": "4.56",
+      "rating": "4.55",
       "price": "¥7,800〜",
       "url": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F2768%2F2768.html"
     },
     {
       "name": "都ホテル　四日市",
-      "rating": "4.39",
-      "price": "¥6,600〜",
+      "rating": "4.41",
+      "price": "¥6,160〜",
       "url": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1149%2F1149.html"
     },
     {
       "name": "コンフォートホテル鈴鹿",
-      "rating": "4.15",
-      "price": "¥3,250〜",
+      "rating": "4.13",
+      "price": "¥3,050〜",
       "url": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F735%2F735.html"
     },
     {
@@ -55,8 +55,8 @@
     },
     {
       "name": "湯の山温泉　旅館寿亭",
-      "rating": "4.61",
-      "price": "¥13,750〜",
+      "rating": "4.57",
+      "price": "¥12,650〜",
       "url": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F12599%2F12599.html"
     }
   ]

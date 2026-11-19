@@ -31,14 +31,14 @@
   "featured_hotels": [
     {
       "name": "オリエンタルホテル東京ベイ",
-      "rating": "4.42",
-      "price": "¥6,320〜",
+      "rating": "4.43",
+      "price": "¥6,160〜",
       "url": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1238%2F1238.html"
     },
     {
       "name": "ホテルエミオン東京ベイ",
       "rating": "4.63",
-      "price": "¥5,000〜",
+      "price": "¥5,300〜",
       "url": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F38529%2F38529.html"
     },
     {
@@ -55,8 +55,8 @@
     },
     {
       "name": "シェラトン・グランデ・トーキョーベイ・ホテル",
-      "rating": "4.39",
-      "price": "¥9,200〜",
+      "rating": "4.40",
+      "price": "¥8,450〜",
       "url": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F27896%2F27896.html"
     }
   ]

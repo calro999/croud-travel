@@ -34,32 +34,32 @@
   "featured_hotels": [
     {
       "name": "南禅寺　八千代",
-      "rating": "5",
-      "price": "¥15,950〜",
+      "rating": "5.00",
+      "price": "¥60,500〜",
       "url": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F40344%2F40344.html"
     },
     {
       "name": "京都グランベルホテル",
-      "rating": "4.8",
-      "price": "¥18,400〜",
+      "rating": "4.80",
+      "price": "¥13,500〜",
       "url": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F162930%2F162930.html"
     },
     {
       "name": "京都祇園　柚子屋旅館",
-      "rating": "4.8",
-      "price": "¥30,250〜",
+      "rating": "4.80",
+      "price": "¥31,460〜",
       "url": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F79386%2F79386.html"
     },
     {
       "name": "ウェスティン都ホテル京都",
-      "rating": "4.72",
-      "price": "¥39,831〜",
+      "rating": "4.69",
+      "price": "¥34,852〜",
       "url": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1167%2F1167.html"
     },
     {
       "name": "ホテルオークラ京都",
       "rating": "4.71",
-      "price": "¥10,395〜",
+      "price": "¥15,884〜",
       "url": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1754%2F1754.html"
     },
     {
@@ -70,8 +70,8 @@
     },
     {
       "name": "ＮＯＨＧＡ　ＨＯＴＥＬ　ＫＩＹＯＭＩＺＵ　ＫＹＯＴＯ（ノーガホテル清水京都）",
-      "rating": "4.65",
-      "price": "¥18,690〜",
+      "rating": "4.67",
+      "price": "¥6,720〜",
       "url": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F183230%2F183230.html"
     },
     {
@@ -83,13 +83,13 @@
     {
       "name": "四条河原町温泉　空庭テラス京都　別邸",
       "rating": "4.63",
-      "price": "¥29,600〜",
+      "price": "¥39,780〜",
       "url": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F183776%2F183776.html"
     },
     {
       "name": "知恩院　和順会館",
-      "rating": "4.61",
-      "price": "¥8,800〜",
+      "rating": "4.60",
+      "price": "¥9,680〜",
       "url": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F108920%2F108920.html"
     }
   ],

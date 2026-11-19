@@ -26,7 +26,7 @@
   "featured_hotels": [
     {
       "name": "秋月温泉 料亭旅館 清流庵",
-      "rating": "5",
+      "rating": "5.00",
       "price": "¥46,800〜",
       "url": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F67445%2F67445.html"
     },
@@ -44,8 +44,8 @@
     },
     {
       "name": "由布院温泉 草庵秋桜",
-      "rating": "4.74",
-      "price": "¥22,089〜",
+      "rating": "4.77",
+      "price": "¥20,322〜",
       "url": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F139452%2F139452.html"
     }
   ],
