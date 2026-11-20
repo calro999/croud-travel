@@ -5,10 +5,10 @@ import type { Metadata } from 'next';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: `【竹林の小径の静寂と数寄屋露天離れ】2026-2027年11-1月冬の静岡・伊豆修善寺温泉！「柳生の庄」＆「宙 SORA 渡月荘金龍」・天城軍鶏と伊豆伊勢海老・名門美食宿5選`,
+  title: `【修善寺温泉・名門高級宿5選】竹林の小径と数寄屋露天離れ＆伊豆の旬を味わう冬旅`,
   description: `弘法大師開湯の歴史を紡ぐ伊豆最古の温泉地・修善寺。晩秋の紅葉から初冬・厳冬の澄み渡る竹林の小径、桂川のせせらぎに包まれる静寂のひととき。竹林に佇む本格料亭旅館「柳生の庄」や、広大な日本庭園と展望露天風呂を誇る「宙 SORA 渡月荘金龍」など名宿が集結。滋味あふれる天城軍鶏や極上の伊豆伊勢海老、駿河湾の金目鯛を味わう大人の贅沢ステイ厳選5選。`,
   openGraph: {
-    title: `【竹林の小径の静寂と数寄屋露天離れ】2026-2027年11-1月冬の静岡・伊豆修善寺温泉！「柳生の庄」＆「宙 SORA 渡月荘金龍」・天城軍鶏と伊豆伊勢海老・名門美食宿5選`,
+    title: `【修善寺温泉・名門高級宿5選】竹林の小径と数寄屋露天離れ＆伊豆の旬を味わう冬旅`,
     description: `弘法大師開湯の歴史を紡ぐ伊豆最古の温泉地・修善寺。晩秋の紅葉から初冬・厳冬の澄み渡る竹林の小径、桂川のせせらぎに包まれる静寂のひととき。竹林に佇む本格料亭旅館「柳生の庄」や、広大な日本庭園と展望露天風呂を誇る「宙 SORA 渡月荘金龍」など名宿が集結。滋味あふれる天城軍鶏や極上の伊豆伊勢海老、駿河湾の金目鯛を味わう大人の贅沢ステイ厳選5選。`,
     url: `https://croud-travel.pages.dev/winter-shizuoka-izu-shuzenji-luxury-asaba-sora-onsen-stay/`,
     siteName: 'トラベルNAVI',
@@ -80,7 +80,7 @@ export default function Page() {
     {
       "@type": "ListItem",
       "position": 3,
-      "name": "【竹林の小径の静寂と数寄屋露天離れ】2026-2027年11-1月冬の静岡・伊豆修善寺温泉！「柳生の庄」＆「宙 SORA 渡月荘金龍」・天城軍鶏と伊豆伊勢海老・名門美食宿5選",
+      "name": "【修善寺温泉・名門高級宿5選】竹林の小径と数寄屋露天離れ＆伊豆の旬を味わう冬旅",
       "item": "https://croud-travel.pages.dev/winter-shizuoka-izu-shuzenji-luxury-asaba-sora-onsen-stay/"
     }
   ]
@@ -96,7 +96,7 @@ export default function Page() {
             <span>&gt;</span>
             <Link href="/prefectures/shizuoka/" className="hover:text-amber-600">静岡県</Link>
             <span>&gt;</span>
-            <span className="text-slate-800 font-medium truncate">【竹林の小径の静寂と数寄屋露天離れ】2026-2027年11-1月冬の静岡・伊豆修善寺温泉！「柳生の庄」＆「宙 SORA 渡月荘金龍」・天城軍鶏と伊豆伊勢海老・名門美食宿5選</span>
+            <span className="text-slate-800 font-medium truncate">【修善寺温泉・名門高級宿5選】竹林の小径と数寄屋露天離れ＆伊豆の旬を味わう冬旅</span>
           </div>
         </nav>
 
@@ -106,23 +106,51 @@ export default function Page() {
             <div className="inline-block bg-amber-500/20 text-amber-300 border border-amber-400/40 text-xs font-bold px-3 py-1 rounded-full uppercase tracking-widest">
               2026-2027年冬 厳選特集
             </div>
-            <h1 className="text-2xl md:text-4xl font-black tracking-tight leading-tight md:leading-snug">【竹林の小径の静寂と数寄屋露天離れ】2026-2027年11-1月冬の静岡・伊豆修善寺温泉！「柳生の庄」＆「宙 SORA 渡月荘金龍」・天城軍鶏と伊豆伊勢海老・名門美食宿5選</h1>
+            <h1 className="text-2xl md:text-4xl font-black tracking-tight leading-tight md:leading-snug">【修善寺温泉・名門高級宿5選】竹林の小径と数寄屋露天離れ＆伊豆の旬を味わう冬旅</h1>
             <p className="text-slate-300 text-sm md:text-base leading-relaxed max-w-3xl mx-auto text-left md:text-center pt-2">
               伊豆半島最古の温泉地として千二百余年の歴史を紡ぐ修善寺温泉。桂川のせせらぎが響く温泉街は、晩秋の紅葉から初冬・厳冬期にかけて澄み切った静寂に包まれ、青々とした竹林の小径や朱塗りの渡月橋が格調高い美を放ちます。文豪や芸術家に愛された登録文化財の建築美、本格京風数寄屋造りの離れ、そして天城軍鶏や駿河湾の金目鯛、伊豆伊勢海老を味わう大人の贅沢な冬旅をご案内します。
             </p>
           </div>
         </header>
       <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
-        <ShareButtons title={"【竹林の小径の静寂と数寄屋露天離れ】2026-2027年11-1月冬の静岡・伊豆修善寺温泉！「柳生の庄」＆「宙 SORA 渡月荘金龍」・天城軍鶏と伊豆伊勢海老・名門美食宿5選"} url={"https://croud-travel.pages.dev/winter-shizuoka-izu-shuzenji-luxury-asaba-sora-onsen-stay/"} />
+        <ShareButtons title={"【修善寺温泉・名門高級宿5選】竹林の小径と数寄屋露天離れ＆伊豆の旬を味わう冬旅"} url={"https://croud-travel.pages.dev/winter-shizuoka-izu-shuzenji-luxury-asaba-sora-onsen-stay/"} />
       </div>
 
         <div className="max-w-4xl mx-auto px-4 mt-10 space-y-12">
           {/* 導入部 */}
-          <section className="bg-white rounded-2xl p-6 md:p-8 shadow-sm border border-slate-200/80 leading-relaxed text-slate-700">
-            <h2 className="text-xl md:text-2xl font-bold text-slate-900 border-b border-amber-200 pb-3 mb-4">冬の中伊豆・修善寺・天城湯ヶ島で過ごす至福のひととき</h2>
-            <p className="text-base leading-loose">
-              伊豆半島の北部に位置し、平安初期の大同2年（807年）に弘法大師空海が独鈷杵で岩を打ち霊泉を湧出させたという開湯伝説を持つ『修善寺温泉（しゅぜんじおんせん）』。桂川（修善寺川）沿いに広がる風情ある温泉街は、夏目漱石が『修善寺の記』を執筆し、芥川龍之介や川端康成ら名だたる文豪・墨客が逗留した『伊豆の小京都』として名高い歴史の街です。11月中旬の晩秋から12月、1月の初冬にかけては、夏の喧騒が完全に去り、冷涼で澄み切った大気の中に静寂が広がる年間屈指のベストシーズン。温泉街の中心を流れる桂川沿いの『竹林の小径』では、天へと伸びる青竹が冬の陽光を浴びて幽玄なコントラストを描き、朱塗りの渡月橋や虎渓橋が鮮やかに映えます。この静謐な山あいに佇むのが、約数千坪の広大な竹林に抱かれた本格料亭旅館『修善寺温泉 柳生の庄』や、一万五千坪の大庭園を見渡す『宙 SORA 渡月荘金龍』、全館が国の登録有形文化財に指定された明治創業の名門『新井旅館』。さらには創業400年の歴史を誇る『湯回廊 菊屋』など、日本の伝統美と現代の快適性が調和した最高峰の宿が揃います。夕食には、天城山麓の清らかな水と澄んだ空気で育った風味豊かな地鶏『天城軍鶏（あまぎしゃも）』の鍋仕立てや、冬に旨味を増す伊豆近海の活伊勢海老、駿河湾の極上金目鯛の煮付け、伊豆名産の本わさび。弱アルカリ性単純温泉の柔らかな湯に浸かり、冬の静寂の中で滋味あふれる美味を味わう時間は、心身を解きほぐす至高の大人のリトリートです。
-            </p>
+          <section className="bg-white rounded-2xl p-6 md:p-8 shadow-sm border border-slate-200/80 space-y-6 text-slate-700">
+            <div>
+              <h2 className="text-xl md:text-2xl font-bold text-slate-900 border-b-2 border-amber-500 pb-3 mb-4">
+                冬の中伊豆・修善寺・天城湯ヶ島で過ごす至福のひととき
+              </h2>
+              <p className="text-base md:text-lg leading-relaxed font-medium text-slate-800">
+                開湯1200年の歴史を誇る伊豆の小京都・修善寺。桂川のせせらぎと竹林の小径に包まれた数寄屋造りの名門旅館で、冬の静寂と極上の懐石料理を堪能。
+              </p>
+            </div>
+
+            <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+              <div className="bg-slate-50 p-4 rounded-xl border border-slate-200">
+                <h3 className="font-bold text-slate-900 text-sm flex items-center gap-1.5 mb-2">
+                  <span className="text-amber-600">🎋 竹林の小径と桂川の情緒あふれる冬景色</span>
+                </h3>
+                <p className="text-xs md:text-sm text-slate-600 leading-relaxed">
+                  秋の紅葉から冬の凛とした静寂へと移り変わる修善寺。朱塗りの橋と竹林を望む散策は大人の旅にふさわしい落ち着きを与えてくれます。
+                </p>
+              </div>
+              <div className="bg-slate-50 p-4 rounded-xl border border-slate-200">
+                <h3 className="font-bold text-slate-900 text-sm flex items-center gap-1.5 mb-2">
+                  <span className="text-amber-600">♨️ 日本の美意識息づく数寄屋露天風呂</span>
+                </h3>
+                <p className="text-xs md:text-sm text-slate-600 leading-relaxed">
+                  「柳生の庄」や「宙 SORA」など、四季の庭園を望む客室専用露天風呂で弘法大師ゆかりの名湯を心ゆくまで満喫。
+                </p>
+              </div>
+            </div>
+
+            <div className="bg-amber-50/70 p-4 md:p-5 rounded-xl border border-amber-200/80 text-sm text-slate-700 leading-relaxed">
+              <p className="font-bold text-amber-950 mb-1">🍴 旨味あふれる天城軍鶏と伊豆地金目鯛・伊勢海老</p>
+              天城山麓で育まれた滋味豊かな天城軍鶏の鍋や炭火焼き、駿河湾の地金目鯛の姿煮など、伊豆の自然の恵みを本格割烹で賞味。
+            </div>
           </section>
 
           {/* 訪れるべき3つの理由 */}
@@ -661,7 +689,7 @@ export default function Page() {
         </div>
       
       <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
-        <ShareButtons title={"【竹林の小径の静寂と数寄屋露天離れ】2026-2027年11-1月冬の静岡・伊豆修善寺温泉！「柳生の庄」＆「宙 SORA 渡月荘金龍」・天城軍鶏と伊豆伊勢海老・名門美食宿5選"} url={"https://croud-travel.pages.dev/winter-shizuoka-izu-shuzenji-luxury-asaba-sora-onsen-stay/"} />
+        <ShareButtons title={"【修善寺温泉・名門高級宿5選】竹林の小径と数寄屋露天離れ＆伊豆の旬を味わう冬旅"} url={"https://croud-travel.pages.dev/winter-shizuoka-izu-shuzenji-luxury-asaba-sora-onsen-stay/"} />
       </div>
       </article>
     </>

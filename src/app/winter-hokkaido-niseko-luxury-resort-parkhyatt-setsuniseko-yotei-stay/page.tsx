@@ -5,10 +5,10 @@ import type { Metadata } from 'next';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: `【世界屈指のパウダースノーと羊蹄山ビュー雪見スイート】2026-2027年12-1月冬の北海道・ニセコ！「雪ニセコ」＆「パーク ハイアット ニセコ HANAZONO」・北海道冬の極上食材名宿5選`,
+  title: `【ニセコ雪見宿5選】羊蹄山を望む最高峰リゾート＆極上パウダースノー滞在記`,
   description: `世界中のスキーヤーや富裕層が絶賛する「奇跡の粉雪（JAPOW）」が降り積もる冬の北海道ニセコ。雪化粧の蝦夷富士・羊蹄山を真正面に望む「雪ニセコ（Setsu Niseko）」や、世界的ラグジュアリーホテル「パーク ハイアット ニセコ HANAZONO」、源泉掛け流し客室温泉を備えたモダンリゾート。北海道産黒毛和牛や蝦夷鹿、噴火湾のタラバガニ・雲丹に舌鼓を打つ最高峰ウィンターステイ厳選5選。`,
   openGraph: {
-    title: `【世界屈指のパウダースノーと羊蹄山ビュー雪見スイート】2026-2027年12-1月冬の北海道・ニセコ！「雪ニセコ」＆「パーク ハイアット ニセコ HANAZONO」・北海道冬の極上食材名宿5選`,
+    title: `【ニセコ雪見宿5選】羊蹄山を望む最高峰リゾート＆極上パウダースノー滞在記`,
     description: `世界中のスキーヤーや富裕層が絶賛する「奇跡の粉雪（JAPOW）」が降り積もる冬の北海道ニセコ。雪化粧の蝦夷富士・羊蹄山を真正面に望む「雪ニセコ（Setsu Niseko）」や、世界的ラグジュアリーホテル「パーク ハイアット ニセコ HANAZONO」、源泉掛け流し客室温泉を備えたモダンリゾート。北海道産黒毛和牛や蝦夷鹿、噴火湾のタラバガニ・雲丹に舌鼓を打つ最高峰ウィンターステイ厳選5選。`,
     url: `https://croud-travel.pages.dev/winter-hokkaido-niseko-luxury-resort-parkhyatt-setsuniseko-yotei-stay/`,
     siteName: 'トラベルNAVI',
@@ -80,7 +80,7 @@ export default function Page() {
     {
       "@type": "ListItem",
       "position": 3,
-      "name": "【世界屈指のパウダースノーと羊蹄山ビュー雪見スイート】2026-2027年12-1月冬の北海道・ニセコ！「雪ニセコ」＆「パーク ハイアット ニセコ HANAZONO」・北海道冬の極上食材名宿5選",
+      "name": "【ニセコ雪見宿5選】羊蹄山を望む最高峰リゾート＆極上パウダースノー滞在記",
       "item": "https://croud-travel.pages.dev/winter-hokkaido-niseko-luxury-resort-parkhyatt-setsuniseko-yotei-stay/"
     }
   ]
@@ -96,7 +96,7 @@ export default function Page() {
             <span>&gt;</span>
             <Link href="/prefectures/hokkaido/" className="hover:text-amber-600">北海道</Link>
             <span>&gt;</span>
-            <span className="text-slate-800 font-medium truncate">【世界屈指のパウダースノーと羊蹄山ビュー雪見スイート】2026-2027年12-1月冬の北海道・ニセコ！「雪ニセコ」＆「パーク ハイアット ニセコ HANAZONO」・北海道冬の極上食材名宿5選</span>
+            <span className="text-slate-800 font-medium truncate">【ニセコ雪見宿5選】羊蹄山を望む最高峰リゾート＆極上パウダースノー滞在記</span>
           </div>
         </nav>
 
@@ -106,23 +106,51 @@ export default function Page() {
             <div className="inline-block bg-amber-500/20 text-amber-300 border border-amber-400/40 text-xs font-bold px-3 py-1 rounded-full uppercase tracking-widest">
               2026-2027年冬 厳選特集
             </div>
-            <h1 className="text-2xl md:text-4xl font-black tracking-tight leading-tight md:leading-snug">【世界屈指のパウダースノーと羊蹄山ビュー雪見スイート】2026-2027年12-1月冬の北海道・ニセコ！「雪ニセコ」＆「パーク ハイアット ニセコ HANAZONO」・北海道冬の極上食材名宿5選</h1>
+            <h1 className="text-2xl md:text-4xl font-black tracking-tight leading-tight md:leading-snug">【ニセコ雪見宿5選】羊蹄山を望む最高峰リゾート＆極上パウダースノー滞在記</h1>
             <p className="text-slate-300 text-sm md:text-base leading-relaxed max-w-3xl mx-auto text-left md:text-center pt-2">
               世界中のスキーヤーや富裕層が「JAPOW（奇跡の粉雪）」を求めて熱狂する冬の北海道ニセコ。眼前に聳え立つ白銀の蝦夷富士・羊蹄山の神々しいパノラマと、極上のパウダースノーが広がるゲレンデ。国際的ラグジュアリーホテルや源泉掛け流しの高級和風別荘で過ごし、北海道産黒毛和牛や蝦夷鹿、噴火湾のタラバガニ・雲丹に舌鼓を打つ、世界最高峰のウィンターリゾートステイをご提案します。
             </p>
           </div>
         </header>
       <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
-        <ShareButtons title={"【世界屈指のパウダースノーと羊蹄山ビュー雪見スイート】2026-2027年12-1月冬の北海道・ニセコ！「雪ニセコ」＆「パーク ハイアット ニセコ HANAZONO」・北海道冬の極上食材名宿5選"} url={"https://croud-travel.pages.dev/winter-hokkaido-niseko-luxury-resort-parkhyatt-setsuniseko-yotei-stay/"} />
+        <ShareButtons title={"【ニセコ雪見宿5選】羊蹄山を望む最高峰リゾート＆極上パウダースノー滞在記"} url={"https://croud-travel.pages.dev/winter-hokkaido-niseko-luxury-resort-parkhyatt-setsuniseko-yotei-stay/"} />
       </div>
 
         <div className="max-w-4xl mx-auto px-4 mt-10 space-y-12">
           {/* 導入部 */}
-          <section className="bg-white rounded-2xl p-6 md:p-8 shadow-sm border border-slate-200/80 leading-relaxed text-slate-700">
-            <h2 className="text-xl md:text-2xl font-bold text-slate-900 border-b border-amber-200 pb-3 mb-4">冬のニセコ・倶知安・羊蹄山で過ごす至福のひととき</h2>
-            <p className="text-base leading-loose">
-              北海道西部に位置し、雄大な名峰『羊蹄山（蝦夷富士）』を望む日本屈指の国際的スノーリゾート『ニセコ（倶知安町・ニセコ町）』。シベリア大陸からの凍てつく寒気が日本海の湿気を吸い上げ、ニセコ連峰にぶつかることで生み出される雪は、水分含有率がわずか8％前後という世界最高峰の超極上ドライパウダースノー『JAPOW（ジャパウ）』として世界中のスキーヤー・スノーボーダーから憧れの的となっています。12月から1月にかけてのハイシーズンには、ゲレンデだけでなく街全体が白銀の世界に包まれ、夜には幻想的なイルミネーションと洗練された国際色豊かなナイトライフが広がります。近年ニセコには、世界的な五つ星ホテルブランドや世界的建築家が手掛けたモダンラグジュアリーリゾートが続々と誕生。全室スイート仕様の広大な客室とプライベート天然温泉、ウェルネススパを備えた『雪ニセコ（Setsu Niseko）』をはじめ、花園ゲレンデ直結のスキーイン・スキーアウトを誇る最高峰『パーク ハイアット ニセコ HANAZONO』、そして閑静な原生林に抱かれ和の贅を極めた『ニセコ昆布温泉 鶴雅別荘 杢の抄』など、世界水準のホスピタリティを提供する宿が揃います。ディナーには、北海道産黒毛和牛（白老牛）のステーキやジビエの蝦夷鹿、噴火湾や日本海から直送されるタラバガニ、雲丹、ホタテを贅沢に使ったフレンチや本格和食会席。パウダースノーで遊んだ後は、雪景色を望む自家源泉の露天風呂に浸かり、北海道の大地の恵みを五感で味わう――それは一生の記憶に残る、世界最高峰のウィンターリトリートです。
-            </p>
+          <section className="bg-white rounded-2xl p-6 md:p-8 shadow-sm border border-slate-200/80 space-y-6 text-slate-700">
+            <div>
+              <h2 className="text-xl md:text-2xl font-bold text-slate-900 border-b-2 border-amber-500 pb-3 mb-4">
+                冬のニセコ・倶知安・羊蹄山で過ごす至福のひととき
+              </h2>
+              <p className="text-base md:text-lg leading-relaxed font-medium text-slate-800">
+                北海道西部にそびえ立つ蝦夷富士・羊蹄山。世界中のスキーヤーが熱狂する「奇跡の粉雪（JAPOW）」と、世界屈指のモダンラグジュアリーリゾートが集う冬のニセコで、特別な銀世界ステイを体験しませんか？
+              </p>
+            </div>
+
+            <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+              <div className="bg-slate-50 p-4 rounded-xl border border-slate-200">
+                <h3 className="font-bold text-slate-900 text-sm flex items-center gap-1.5 mb-2">
+                  <span className="text-amber-600">❄️</span> 奇跡の雪質「JAPOW」
+                </h3>
+                <p className="text-xs md:text-sm text-slate-600 leading-relaxed">
+                  シベリア寒気と日本海の湿気が生み出す、水分含有率わずか8%の極上ドライパウダー。世界最高峰の浮遊感を満喫できます。
+                </p>
+              </div>
+              <div className="bg-slate-50 p-4 rounded-xl border border-slate-200">
+                <h3 className="font-bold text-slate-900 text-sm flex items-center gap-1.5 mb-2">
+                  <span className="text-amber-600">♨️</span> 羊蹄山ビューと天然温泉
+                </h3>
+                <p className="text-xs md:text-sm text-slate-600 leading-relaxed">
+                  神々しい雪化粧の羊蹄山を真正面に望む客室露天風呂や貸切温泉。パウダースノーで冷えた身体を芯からじんわり温めます。
+                </p>
+              </div>
+            </div>
+
+            <div className="bg-amber-50/70 p-4 md:p-5 rounded-xl border border-amber-200/80 text-sm text-slate-700 leading-relaxed">
+              <p className="font-bold text-amber-950 mb-1">🍴 極上の北海道冬の味覚ディナー</p>
+              北海道産黒毛和牛（白老牛）のステーキやジビエの蝦夷鹿、噴火湾・日本海から届く活タラバガニや雲丹など、世界水準のシェフが腕を振るうフレンチや本格和食を北海道ワインと共にご堪能いただけます。
+            </div>
           </section>
 
           {/* 訪れるべき3つの理由 */}
@@ -661,7 +689,7 @@ export default function Page() {
         </div>
       
       <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
-        <ShareButtons title={"【世界屈指のパウダースノーと羊蹄山ビュー雪見スイート】2026-2027年12-1月冬の北海道・ニセコ！「雪ニセコ」＆「パーク ハイアット ニセコ HANAZONO」・北海道冬の極上食材名宿5選"} url={"https://croud-travel.pages.dev/winter-hokkaido-niseko-luxury-resort-parkhyatt-setsuniseko-yotei-stay/"} />
+        <ShareButtons title={"【ニセコ雪見宿5選】羊蹄山を望む最高峰リゾート＆極上パウダースノー滞在記"} url={"https://croud-travel.pages.dev/winter-hokkaido-niseko-luxury-resort-parkhyatt-setsuniseko-yotei-stay/"} />
       </div>
       </article>
     </>

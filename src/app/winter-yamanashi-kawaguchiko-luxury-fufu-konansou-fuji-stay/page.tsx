@@ -5,10 +5,10 @@ import type { Metadata } from 'next';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: `【雄大な冬富士と全室富士山ビュー客室露天風呂】2026-2027年11-12月初冬の山梨・富士河口湖！「ふふ 河口湖」＆「うぶや」・澄み渡る冠雪富士と甲州牛懐石名宿5選`,
+  title: `【河口湖・富士山ビュー高級宿5選】全室客室露天から望む冠雪富士＆甲州牛懐石ステイ`,
   description: `空気が澄み渡り、雪化粧をまとった雄大な富士山が最も鮮やかに映える11月〜12月の河口湖。木々の温もりと全室自家源泉露天風呂・バイオエタノール暖炉を備えた最高峰「ふふ 河口湖」や、富士と湖を正面に望む「人生を祝う宿 うぶや」など。客室からプライベートに冠雪富士を望み、極上の甲州牛や富士桜ポークを味わう贅沢リトリート厳選5選。`,
   openGraph: {
-    title: `【雄大な冬富士と全室富士山ビュー客室露天風呂】2026-2027年11-12月初冬の山梨・富士河口湖！「ふふ 河口湖」＆「うぶや」・澄み渡る冠雪富士と甲州牛懐石名宿5選`,
+    title: `【河口湖・富士山ビュー高級宿5選】全室客室露天から望む冠雪富士＆甲州牛懐石ステイ`,
     description: `空気が澄み渡り、雪化粧をまとった雄大な富士山が最も鮮やかに映える11月〜12月の河口湖。木々の温もりと全室自家源泉露天風呂・バイオエタノール暖炉を備えた最高峰「ふふ 河口湖」や、富士と湖を正面に望む「人生を祝う宿 うぶや」など。客室からプライベートに冠雪富士を望み、極上の甲州牛や富士桜ポークを味わう贅沢リトリート厳選5選。`,
     url: `https://croud-travel.pages.dev/winter-yamanashi-kawaguchiko-luxury-fufu-konansou-fuji-stay/`,
     siteName: 'トラベルNAVI',
@@ -70,7 +70,7 @@ export default function LuxuryStayPage() {
     {
       "@type": "ListItem",
       "position": 3,
-      "name": "【雄大な冬富士と全室富士山ビュー客室露天風呂】2026-2027年11-12月初冬の山梨・富士河口湖！「ふふ 河口湖」＆「うぶや」・澄み渡る冠雪富士と甲州牛懐石名宿5選",
+      "name": "【河口湖・富士山ビュー高級宿5選】全室客室露天から望む冠雪富士＆甲州牛懐石ステイ",
       "item": "https://croud-travel.pages.dev/winter-yamanashi-kawaguchiko-luxury-fufu-konansou-fuji-stay/"
     }
   ]
@@ -103,22 +103,50 @@ export default function LuxuryStayPage() {
             <span className="inline-block bg-amber-500/20 border border-amber-400/40 text-amber-300 text-xs md:text-sm font-bold px-4 py-1.5 rounded-full mb-6">
               2026-2027年 11-12月 初冬特選 高CPA最高級宿コレクション
             </span>
-            <h1 className="text-2xl md:text-4xl lg:text-5xl font-black tracking-tight leading-tight md:leading-snug mb-6 text-slate-50">【雄大な冬富士と全室富士山ビュー客室露天風呂】2026-2027年11-12月初冬の山梨・富士河口湖！「ふふ 河口湖」＆「うぶや」・澄み渡る冠雪富士と甲州牛懐石名宿5選</h1>
+            <h1 className="text-2xl md:text-4xl lg:text-5xl font-black tracking-tight leading-tight md:leading-snug mb-6 text-slate-50">【河口湖・富士山ビュー高級宿5選】全室客室露天から望む冠雪富士＆甲州牛懐石ステイ</h1>
             <p className="text-sm md:text-lg text-slate-300 max-w-4xl mx-auto leading-relaxed">
               空気が澄み渡り、雪化粧をまとった雄大な富士山が最も鮮やかに映える11月〜12月の河口湖。木々の温もりと全室自家源泉露天風呂・バイオエタノール暖炉を備えた最高峰「ふふ 河口湖」や、富士と湖を正面に望む「人生を祝う宿 うぶや」など。客室からプライベートに冠雪富士を望み、極上の甲州牛や富士桜ポークを味わう贅沢リトリート厳選5選。
             </p>
           </div>
         </section>
       <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
-        <ShareButtons title={"【雄大な冬富士と全室富士山ビュー客室露天風呂】2026-2027年11-12月初冬の山梨・富士河口湖！「ふふ 河口湖」＆「うぶや」・澄み渡る冠雪富士と甲州牛懐石名宿5選"} url={"https://croud-travel.pages.dev/winter-yamanashi-kawaguchiko-luxury-fufu-konansou-fuji-stay/"} />
+        <ShareButtons title={"【河口湖・富士山ビュー高級宿5選】全室客室露天から望む冠雪富士＆甲州牛懐石ステイ"} url={"https://croud-travel.pages.dev/winter-yamanashi-kawaguchiko-luxury-fufu-konansou-fuji-stay/"} />
       </div>
 
         <div className="max-w-5xl mx-auto px-4 mt-12 space-y-16">
-          <section className="bg-white p-6 md:p-10 rounded-2xl border border-slate-200/80 shadow-md">
-            <h2 className="text-xl md:text-2xl font-bold text-slate-900 mb-4 border-l-4 border-amber-500 pl-4">初冬の静寂が織りなす最高峰の贅沢リトリート</h2>
-            <p className="text-slate-700 leading-relaxed md:leading-loose text-base md:text-lg">
-              富士五湖の中心、雪化粧をまとった霊峰・富士山が最も雄大に湖面に映える『富士河口湖（ふじかわぐちこ）』。11月から12月にかけての初冬は、大気中の水蒸気が減少し湿度が下がるため、富士山の山肌のディテールや冠雪の白さが一年で最も鮮やかかつクリアに望める絶好のシーズンです。早朝の風が凪いだ静かな湖面には、紺碧の水鏡に逆さ富士が美しく浮かび上がり、夕暮れには夕焼けに赤く染まる紅富士の神秘的な光景が広がります。この日本が世界に誇るシンボリックな富士の絶景を、客室にいながら誰にも邪魔されずに独占できるのが河口湖のラグジュアリーリゾート。森の木々に包まれ全室に自家源泉露天風呂とバイオエタノール暖炉を備えた最高峰『ふふ 河口湖』をはじめ、富士山と河口湖を正面に望む『湖南荘』や『湖楽おんやど富士吟景』など、至高の客室露天風呂と展望温泉を備えた名宿が集まります。夕食には、富士の伏流水で育まれた極上の甲州牛の溶岩焼きステーキやすき焼き、山梨の滋味豊かな旬の味覚を彩った特選会席に、勝沼の厳選ワイナリーの甲州ワインをペアリング。凛とした冬の星空と雪富士を露天風呂から眺めながら過ごす初冬の河口湖は、人生の記念日を永遠の思い出へと昇華させる至福のひとときです。
-            </p>
+          <section className="bg-white rounded-2xl p-6 md:p-8 shadow-sm border border-slate-200/80 space-y-6 text-slate-700">
+            <div>
+              <h2 className="text-xl md:text-2xl font-bold text-slate-900 border-b-2 border-amber-500 pb-3 mb-4">
+                初冬の静寂が織りなす最高峰の贅沢リトリート
+              </h2>
+              <p className="text-base md:text-lg leading-relaxed font-medium text-slate-800">
+                富士五湖の中心、雪化粧をまとった霊峰富士が最も鮮やかに湖面に映える冬の河口湖。凛とした大気の中で冠雪富士を客室露天から眺める至高の休日をご提案。
+              </p>
+            </div>
+
+            <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+              <div className="bg-slate-50 p-4 rounded-xl border border-slate-200">
+                <h3 className="font-bold text-slate-900 text-sm flex items-center gap-1.5 mb-2">
+                  <span className="text-amber-600">🗻 澄み切った大気に映える冠雪富士</span>
+                </h3>
+                <p className="text-xs md:text-sm text-slate-600 leading-relaxed">
+                  湿度が下がり空気が澄み渡る冬は、富士山の山肌の陰影や純白の雪景色が1年で最もクリアに美しく望めます。
+                </p>
+              </div>
+              <div className="bg-slate-50 p-4 rounded-xl border border-slate-200">
+                <h3 className="font-bold text-slate-900 text-sm flex items-center gap-1.5 mb-2">
+                  <span className="text-amber-600">♨️ 逆さ富士を望む客室専用露天風呂</span>
+                </h3>
+                <p className="text-xs md:text-sm text-slate-600 leading-relaxed">
+                  「ふふ 河口湖」や「うぶや」など、湯船に浸かりながら神々しい富士山パノラマを独り占めできる名宿が揃います。
+                </p>
+              </div>
+            </div>
+
+            <div className="bg-amber-50/70 p-4 md:p-5 rounded-xl border border-amber-200/80 text-sm text-slate-700 leading-relaxed">
+              <p className="font-bold text-amber-950 mb-1">🍴 厳選甲州牛懐石と山梨ワインのペアリング</p>
+              きめ細やかなサシが入った甲州牛の炭火焼きや富士の伏流水で育まれた川魚、旬の冬野菜を地元ワイナリーの銘酒と共にご堪能。
+            </div>
           </section>
 
           <section>
@@ -623,7 +651,7 @@ export default function LuxuryStayPage() {
         </div>
       
       <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
-        <ShareButtons title={"【雄大な冬富士と全室富士山ビュー客室露天風呂】2026-2027年11-12月初冬の山梨・富士河口湖！「ふふ 河口湖」＆「うぶや」・澄み渡る冠雪富士と甲州牛懐石名宿5選"} url={"https://croud-travel.pages.dev/winter-yamanashi-kawaguchiko-luxury-fufu-konansou-fuji-stay/"} />
+        <ShareButtons title={"【河口湖・富士山ビュー高級宿5選】全室客室露天から望む冠雪富士＆甲州牛懐石ステイ"} url={"https://croud-travel.pages.dev/winter-yamanashi-kawaguchiko-luxury-fufu-konansou-fuji-stay/"} />
       </div>
       </div>
     </>

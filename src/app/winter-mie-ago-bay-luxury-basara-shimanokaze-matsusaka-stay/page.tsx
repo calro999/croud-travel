@@ -5,10 +5,10 @@ import type { Metadata } from 'next';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: `【英虞湾の夕景リアス美と全室離れ露天風呂スイート】2026-2027年11-12月の三重・志摩賢島！「汀渚 ばさら邸」＆ベイスイート・冬の伊勢志摩天然伊勢海老・極上松阪牛名宿5選`,
+  title: `【志摩賢島・高級宿5選】英虞湾の夕景美と伊勢海老・松阪牛を味わう離れ露天リトリート`,
   description: `リアス海岸の穏やかな英虞湾を眼下に望む三重県・志摩賢島。サミット開催舞台の「志摩観光ホテル ザ ベイスイート」や、広大な敷地にわずかな客室と海を望む貸切露天風呂が点在する「汀渚 ばさら邸」など、国内屈指の高級リゾート。冬に旬を迎える伊勢海老や鮑、とろけるA5松阪牛を味わう大人の記念日ステイ厳選5選。`,
   openGraph: {
-    title: `【英虞湾の夕景リアス美と全室離れ露天風呂スイート】2026-2027年11-12月の三重・志摩賢島！「汀渚 ばさら邸」＆ベイスイート・冬の伊勢志摩天然伊勢海老・極上松阪牛名宿5選`,
+    title: `【志摩賢島・高級宿5選】英虞湾の夕景美と伊勢海老・松阪牛を味わう離れ露天リトリート`,
     description: `リアス海岸の穏やかな英虞湾を眼下に望む三重県・志摩賢島。サミット開催舞台の「志摩観光ホテル ザ ベイスイート」や、広大な敷地にわずかな客室と海を望む貸切露天風呂が点在する「汀渚 ばさら邸」など、国内屈指の高級リゾート。冬に旬を迎える伊勢海老や鮑、とろけるA5松阪牛を味わう大人の記念日ステイ厳選5選。`,
     url: `https://croud-travel.pages.dev/winter-mie-ago-bay-luxury-basara-shimanokaze-matsusaka-stay/`,
     siteName: 'トラベルNAVI',
@@ -70,7 +70,7 @@ export default function LuxuryStayPage() {
     {
       "@type": "ListItem",
       "position": 3,
-      "name": "【英虞湾の夕景リアス美と全室離れ露天風呂スイート】2026-2027年11-12月の三重・志摩賢島！「汀渚 ばさら邸」＆ベイスイート・冬の伊勢志摩天然伊勢海老・極上松阪牛名宿5選",
+      "name": "【志摩賢島・高級宿5選】英虞湾の夕景美と伊勢海老・松阪牛を味わう離れ露天リトリート",
       "item": "https://croud-travel.pages.dev/winter-mie-ago-bay-luxury-basara-shimanokaze-matsusaka-stay/"
     }
   ]
@@ -103,22 +103,50 @@ export default function LuxuryStayPage() {
             <span className="inline-block bg-amber-500/20 border border-amber-400/40 text-amber-300 text-xs md:text-sm font-bold px-4 py-1.5 rounded-full mb-6">
               2026-2027年 11-12月 初冬特選 高CPA最高級宿コレクション
             </span>
-            <h1 className="text-2xl md:text-4xl lg:text-5xl font-black tracking-tight leading-tight md:leading-snug mb-6 text-slate-50">【英虞湾の夕景リアス美と全室離れ露天風呂スイート】2026-2027年11-12月の三重・志摩賢島！「汀渚 ばさら邸」＆ベイスイート・冬の伊勢志摩天然伊勢海老・極上松阪牛名宿5選</h1>
+            <h1 className="text-2xl md:text-4xl lg:text-5xl font-black tracking-tight leading-tight md:leading-snug mb-6 text-slate-50">【志摩賢島・高級宿5選】英虞湾の夕景美と伊勢海老・松阪牛を味わう離れ露天リトリート</h1>
             <p className="text-sm md:text-lg text-slate-300 max-w-4xl mx-auto leading-relaxed">
               リアス海岸の穏やかな英虞湾を眼下に望む三重県・志摩賢島。サミット開催舞台の「志摩観光ホテル ザ ベイスイート」や、広大な敷地にわずかな客室と海を望む貸切露天風呂が点在する「汀渚 ばさら邸」など、国内屈指の高級リゾート。冬に旬を迎える伊勢海老や鮑、とろけるA5松阪牛を味わう大人の記念日ステイ厳選5選。
             </p>
           </div>
         </section>
       <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
-        <ShareButtons title={"【英虞湾の夕景リアス美と全室離れ露天風呂スイート】2026-2027年11-12月の三重・志摩賢島！「汀渚 ばさら邸」＆ベイスイート・冬の伊勢志摩天然伊勢海老・極上松阪牛名宿5選"} url={"https://croud-travel.pages.dev/winter-mie-ago-bay-luxury-basara-shimanokaze-matsusaka-stay/"} />
+        <ShareButtons title={"【志摩賢島・高級宿5選】英虞湾の夕景美と伊勢海老・松阪牛を味わう離れ露天リトリート"} url={"https://croud-travel.pages.dev/winter-mie-ago-bay-luxury-basara-shimanokaze-matsusaka-stay/"} />
       </div>
 
         <div className="max-w-5xl mx-auto px-4 mt-12 space-y-16">
-          <section className="bg-white p-6 md:p-10 rounded-2xl border border-slate-200/80 shadow-md">
-            <h2 className="text-xl md:text-2xl font-bold text-slate-900 mb-4 border-l-4 border-amber-500 pl-4">初冬の静寂が織りなす最高峰の贅沢リトリート</h2>
-            <p className="text-slate-700 leading-relaxed md:leading-loose text-base md:text-lg">
-              伊勢志摩国立公園の南端、真珠養殖の発祥地として世界に知られる『英虞湾（あごわん）』。大小60余りの島々と複雑に入り組んだ入江が幾重にも重なり合うリアス海岸は、日本屈指の風光明媚な景観を誇ります。11月から12月にかけての初冬は、夏の喧騒が完全に引き、凛と澄み渡る大気の中で穏やかな水面が茜色から黄金色へと美しく染まりゆく『年間で最も夕景が美しい季節』を迎えます。また、秋に解禁された伊勢志摩名物の天然伊勢海老や鮑、そして三重が誇る世界最高峰の肉牛『A5ランク松阪牛』が最も旨味を増す美食のハイシーズンでもあります。この静謐な英虞湾の自然に溶け込むように佇むのが、約4,000坪の広大な敷地にわずか数室の離れ露天風呂付き客室と絶景の貸切露天が点在する『汀渚 ばさら邸』。さらには伊勢志摩サミットで各国の首脳を迎え入れた名門クラシックリゾート『志摩観光ホテル ザ ベイスイート』など、日本のホスピタリティの粋を集めたラグジュアリーホテルが揃います。初冬の凛とした澄み切った風を感じながら、客室のテラスや露天風呂から沈みゆく夕日と星空を眺め、極上の伊勢海老と松阪牛の饗宴に舌鼓を打つ――それは大人の記念日や人生の節目を祝福するのにふさわしい、至高のプライベートリトリートです。
-            </p>
+          <section className="bg-white rounded-2xl p-6 md:p-8 shadow-sm border border-slate-200/80 space-y-6 text-slate-700">
+            <div>
+              <h2 className="text-xl md:text-2xl font-bold text-slate-900 border-b-2 border-amber-500 pb-3 mb-4">
+                初冬の静寂が織りなす最高峰の贅沢リトリート
+              </h2>
+              <p className="text-base md:text-lg leading-relaxed font-medium text-slate-800">
+                伊勢志摩国立公園の南端、リアス海岸の島々が夕日に染まる英虞湾。冬の味覚の王様・天然伊勢海老と松阪牛を堪能する、大人の記念日・ご褒美ステイへ。
+              </p>
+            </div>
+
+            <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+              <div className="bg-slate-50 p-4 rounded-xl border border-slate-200">
+                <h3 className="font-bold text-slate-900 text-sm flex items-center gap-1.5 mb-2">
+                  <span className="text-amber-600">🌅 英虞湾リアス海岸の夕景美</span>
+                </h3>
+                <p className="text-xs md:text-sm text-slate-600 leading-relaxed">
+                  大気が凛と澄み渡る初冬は、穏やかな水面が茜色から黄金色へと染まる年間で最も美しいサンセットシーズンです。
+                </p>
+              </div>
+              <div className="bg-slate-50 p-4 rounded-xl border border-slate-200">
+                <h3 className="font-bold text-slate-900 text-sm flex items-center gap-1.5 mb-2">
+                  <span className="text-amber-600">♨️ 全室離れ・客室露天のプライベート感</span>
+                </h3>
+                <p className="text-xs md:text-sm text-slate-600 leading-relaxed">
+                  広大な敷地にわずかな客室のみを配した「ばさら邸」など、都会の喧騒と完全に隔絶された上質な空間が広がります。
+                </p>
+              </div>
+            </div>
+
+            <div className="bg-amber-50/70 p-4 md:p-5 rounded-xl border border-amber-200/80 text-sm text-slate-700 leading-relaxed">
+              <p className="font-bold text-amber-950 mb-1">🍴 解禁された天然伊勢海老＆最高峰松阪牛</p>
+              冬に甘みと弾力を増す活伊勢海老のお造りや炭火焼き、芳醇な香りと旨味がとろける最高級A5松阪牛ステーキの極上会席を満喫。
+            </div>
           </section>
 
           <section>
@@ -623,7 +651,7 @@ export default function LuxuryStayPage() {
         </div>
       
       <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
-        <ShareButtons title={"【英虞湾の夕景リアス美と全室離れ露天風呂スイート】2026-2027年11-12月の三重・志摩賢島！「汀渚 ばさら邸」＆ベイスイート・冬の伊勢志摩天然伊勢海老・極上松阪牛名宿5選"} url={"https://croud-travel.pages.dev/winter-mie-ago-bay-luxury-basara-shimanokaze-matsusaka-stay/"} />
+        <ShareButtons title={"【志摩賢島・高級宿5選】英虞湾の夕景美と伊勢海老・松阪牛を味わう離れ露天リトリート"} url={"https://croud-travel.pages.dev/winter-mie-ago-bay-luxury-basara-shimanokaze-matsusaka-stay/"} />
       </div>
       </div>
     </>

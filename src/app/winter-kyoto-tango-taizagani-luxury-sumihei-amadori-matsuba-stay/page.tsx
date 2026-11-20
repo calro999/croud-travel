@@ -5,10 +5,10 @@ import type { Metadata } from 'next';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: `【幻のブランド蟹・間人ガニと日本海の荒波を望む名旅館】2026-2027年11-12月初冬の京都・丹後間人＆京丹後！創業明治「間人温泉 炭平」＆全室海一望露天スイート・極上活松葉ガニ名宿5選`,
+  title: `【丹後間人・活松葉ガニ高級宿5選】幻の間人ガニフルコース＆日本海絶景露天ステイ`,
   description: `11月上旬に待望の冬の味覚・ズワイガニ漁が解禁。その中でもわずか数隻の小型船が日帰り漁で水揚げする「幻の蟹」と呼ばれる間人（たいざ）ガニの聖地・京都丹後。創業明治元年、全室オーシャンビューと多彩な貸切露天風呂を誇る名門「間人温泉 炭平」をはじめ、極上の活蟹刺し・甲羅焼き・蟹すきを求めて全国から食通が集う冬の最高峰グルメ旅館厳選5選。`,
   openGraph: {
-    title: `【幻のブランド蟹・間人ガニと日本海の荒波を望む名旅館】2026-2027年11-12月初冬の京都・丹後間人＆京丹後！創業明治「間人温泉 炭平」＆全室海一望露天スイート・極上活松葉ガニ名宿5選`,
+    title: `【丹後間人・活松葉ガニ高級宿5選】幻の間人ガニフルコース＆日本海絶景露天ステイ`,
     description: `11月上旬に待望の冬の味覚・ズワイガニ漁が解禁。その中でもわずか数隻の小型船が日帰り漁で水揚げする「幻の蟹」と呼ばれる間人（たいざ）ガニの聖地・京都丹後。創業明治元年、全室オーシャンビューと多彩な貸切露天風呂を誇る名門「間人温泉 炭平」をはじめ、極上の活蟹刺し・甲羅焼き・蟹すきを求めて全国から食通が集う冬の最高峰グルメ旅館厳選5選。`,
     url: `https://croud-travel.pages.dev/winter-kyoto-tango-taizagani-luxury-sumihei-amadori-matsuba-stay/`,
     siteName: 'トラベルNAVI',
@@ -70,7 +70,7 @@ export default function LuxuryStayPage() {
     {
       "@type": "ListItem",
       "position": 3,
-      "name": "【幻のブランド蟹・間人ガニと日本海の荒波を望む名旅館】2026-2027年11-12月初冬の京都・丹後間人＆京丹後！創業明治「間人温泉 炭平」＆全室海一望露天スイート・極上活松葉ガニ名宿5選",
+      "name": "【丹後間人・活松葉ガニ高級宿5選】幻の間人ガニフルコース＆日本海絶景露天ステイ",
       "item": "https://croud-travel.pages.dev/winter-kyoto-tango-taizagani-luxury-sumihei-amadori-matsuba-stay/"
     }
   ]
@@ -103,22 +103,50 @@ export default function LuxuryStayPage() {
             <span className="inline-block bg-amber-500/20 border border-amber-400/40 text-amber-300 text-xs md:text-sm font-bold px-4 py-1.5 rounded-full mb-6">
               2026-2027年 11-12月 初冬特選 高CPA最高級宿コレクション
             </span>
-            <h1 className="text-2xl md:text-4xl lg:text-5xl font-black tracking-tight leading-tight md:leading-snug mb-6 text-slate-50">【幻のブランド蟹・間人ガニと日本海の荒波を望む名旅館】2026-2027年11-12月初冬の京都・丹後間人＆京丹後！創業明治「間人温泉 炭平」＆全室海一望露天スイート・極上活松葉ガニ名宿5選</h1>
+            <h1 className="text-2xl md:text-4xl lg:text-5xl font-black tracking-tight leading-tight md:leading-snug mb-6 text-slate-50">【丹後間人・活松葉ガニ高級宿5選】幻の間人ガニフルコース＆日本海絶景露天ステイ</h1>
             <p className="text-sm md:text-lg text-slate-300 max-w-4xl mx-auto leading-relaxed">
               11月上旬に待望の冬の味覚・ズワイガニ漁が解禁。その中でもわずか数隻の小型船が日帰り漁で水揚げする「幻の蟹」と呼ばれる間人（たいざ）ガニの聖地・京都丹後。創業明治元年、全室オーシャンビューと多彩な貸切露天風呂を誇る名門「間人温泉 炭平」をはじめ、極上の活蟹刺し・甲羅焼き・蟹すきを求めて全国から食通が集う冬の最高峰グルメ旅館厳選5選。
             </p>
           </div>
         </section>
       <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
-        <ShareButtons title={"【幻のブランド蟹・間人ガニと日本海の荒波を望む名旅館】2026-2027年11-12月初冬の京都・丹後間人＆京丹後！創業明治「間人温泉 炭平」＆全室海一望露天スイート・極上活松葉ガニ名宿5選"} url={"https://croud-travel.pages.dev/winter-kyoto-tango-taizagani-luxury-sumihei-amadori-matsuba-stay/"} />
+        <ShareButtons title={"【丹後間人・活松葉ガニ高級宿5選】幻の間人ガニフルコース＆日本海絶景露天ステイ"} url={"https://croud-travel.pages.dev/winter-kyoto-tango-taizagani-luxury-sumihei-amadori-matsuba-stay/"} />
       </div>
 
         <div className="max-w-5xl mx-auto px-4 mt-12 space-y-16">
-          <section className="bg-white p-6 md:p-10 rounded-2xl border border-slate-200/80 shadow-md">
-            <h2 className="text-xl md:text-2xl font-bold text-slate-900 mb-4 border-l-4 border-amber-500 pl-4">初冬の静寂が織りなす最高峰の贅沢リトリート</h2>
-            <p className="text-slate-700 leading-relaxed md:leading-loose text-base md:text-lg">
-              日本海の荒波が打ち寄せる京都府北部、奇岩と断崖が織りなす絶景の地『丹後半島・間人（たいざ）』。毎年11月6日のズワイガニ漁解禁とともに、全国から本物の味を求める食通や美食家たちが集まる冬の最高峰グルメの聖地です。その頂点に君臨するのが、わずか数隻の小型船が波高し日本海へ出港し、その日のうちに水揚げする最高峰ブランド『間人ガニ（たいざがに）』。日帰り漁ゆえの圧倒的な鮮度と、極上の身入り・濃厚な蟹味噌の甘みは他の追随を許さず、その希少性の高さから『幻の蟹』と称賛されます。この間人の海岸沿いに佇むのが、創業明治元年、150余年の伝統を誇る名門料理旅館『間人温泉 炭平（すみへい）』。全室が日本海を一望するオーシャンビューで、洗練された露天風呂付き客室や趣の異なる6つの無料貸切露天風呂を備えています。また、久美浜の静かな入江に佇む全室離れ・源泉かけ流し露天付きの隠れ宿『蒲井温泉 いっぺん庵』など、贅を尽くした名宿が集まります。夕食には、職人が目の前で生きた間人ガニを捌き、花咲く活蟹刺し、香ばしい炭火焼き蟹、濃厚な甲羅味噌焼き、出汁が染み入る蟹すき鍋へと続く至高のフルコース。冬の日本海に沈む夕日と荒波を客室露天風呂から眺めながら過ごす初冬の丹後は、一生に一度は体験したい美食の極楽浄土です。
-            </p>
+          <section className="bg-white rounded-2xl p-6 md:p-8 shadow-sm border border-slate-200/80 space-y-6 text-slate-700">
+            <div>
+              <h2 className="text-xl md:text-2xl font-bold text-slate-900 border-b-2 border-amber-500 pb-3 mb-4">
+                初冬の静寂が織りなす最高峰の贅沢リトリート
+              </h2>
+              <p className="text-base md:text-lg leading-relaxed font-medium text-slate-800">
+                京都府北部、日本海の断崖に抱かれる丹後半島・間人。数隻の小型船のみが水揚げする冬の最高峰ブランド「間人ガニ（たいざがに）」を味わい尽くす美食旅。
+              </p>
+            </div>
+
+            <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+              <div className="bg-slate-50 p-4 rounded-xl border border-slate-200">
+                <h3 className="font-bold text-slate-900 text-sm flex items-center gap-1.5 mb-2">
+                  <span className="text-amber-600">🦀 幻の最高峰ブランド「間人ガニ」</span>
+                </h3>
+                <p className="text-xs md:text-sm text-slate-600 leading-relaxed">
+                  日帰り漁だからこそ実現する抜群の鮮度。透き通る花咲くカニ刺し、香ばしい炭火焼き、濃厚な甲羅みそは冬の究極の贅沢です。
+                </p>
+              </div>
+              <div className="bg-slate-50 p-4 rounded-xl border border-slate-200">
+                <h3 className="font-bold text-slate-900 text-sm flex items-center gap-1.5 mb-2">
+                  <span className="text-amber-600">♨️ 日本海を一望する絶景インフィニティ温泉</span>
+                </h3>
+                <p className="text-xs md:text-sm text-slate-600 leading-relaxed">
+                  創業明治の「間人温泉 炭平」をはじめ、荒波の日本海と茜色に染まる夕景を望む露天風呂付き客室で優雅なひととき。
+                </p>
+              </div>
+            </div>
+
+            <div className="bg-amber-50/70 p-4 md:p-5 rounded-xl border border-amber-200/80 text-sm text-slate-700 leading-relaxed">
+              <p className="font-bold text-amber-950 mb-1">🍴 活蟹フルコースと丹後の地酒ペアリング</p>
+              目の前で捌かれる生きた松葉ガニの甘みと旨味を、丹後杜氏が醸す地元の銘酒とともに心ゆくまでご堪能いただけます。
+            </div>
           </section>
 
           <section>
@@ -623,7 +651,7 @@ export default function LuxuryStayPage() {
         </div>
       
       <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
-        <ShareButtons title={"【幻のブランド蟹・間人ガニと日本海の荒波を望む名旅館】2026-2027年11-12月初冬の京都・丹後間人＆京丹後！創業明治「間人温泉 炭平」＆全室海一望露天スイート・極上活松葉ガニ名宿5選"} url={"https://croud-travel.pages.dev/winter-kyoto-tango-taizagani-luxury-sumihei-amadori-matsuba-stay/"} />
+        <ShareButtons title={"【丹後間人・活松葉ガニ高級宿5選】幻の間人ガニフルコース＆日本海絶景露天ステイ"} url={"https://croud-travel.pages.dev/winter-kyoto-tango-taizagani-luxury-sumihei-amadori-matsuba-stay/"} />
       </div>
       </div>
     </>

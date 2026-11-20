@@ -5,10 +5,10 @@ import type { Metadata } from 'next';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: `【天孫降臨の地・霧島連山と天降川渓流の極上源泉離れ宿】2026-2027年11-12月の鹿児島・霧島＆妙見温泉！「妙見石原荘」＆「忘れの里 雅叙苑」・自噴かけ流し温泉と黒毛和牛・黒豚名宿5選`,
+  title: `【霧島・妙見温泉の高級宿5選】天降川渓流沿いの自噴温泉＆極上かごしま黒豚会席`,
   description: `雄大な霧島連山の麓、天降川（あもりがわ）の清流沿いに湧き出る妙見温泉と霧島温泉郷。茅葺き屋根の古民家が点在し囲炉裏料理と自家源泉が名高い「忘れの里 雅叙苑」や、川床に湧く極上の自噴炭酸泉と洗練されたモダン懐石を誇る「妙見石原荘」。南国の初冬の澄んだ大気と極上の湯浴み、鹿児島黒牛・黒豚の贅沢を味わう至高の記念日ステイ厳選5選。`,
   openGraph: {
-    title: `【天孫降臨の地・霧島連山と天降川渓流の極上源泉離れ宿】2026-2027年11-12月の鹿児島・霧島＆妙見温泉！「妙見石原荘」＆「忘れの里 雅叙苑」・自噴かけ流し温泉と黒毛和牛・黒豚名宿5選`,
+    title: `【霧島・妙見温泉の高級宿5選】天降川渓流沿いの自噴温泉＆極上かごしま黒豚会席`,
     description: `雄大な霧島連山の麓、天降川（あもりがわ）の清流沿いに湧き出る妙見温泉と霧島温泉郷。茅葺き屋根の古民家が点在し囲炉裏料理と自家源泉が名高い「忘れの里 雅叙苑」や、川床に湧く極上の自噴炭酸泉と洗練されたモダン懐石を誇る「妙見石原荘」。南国の初冬の澄んだ大気と極上の湯浴み、鹿児島黒牛・黒豚の贅沢を味わう至高の記念日ステイ厳選5選。`,
     url: `https://croud-travel.pages.dev/winter-kagoshima-kirishima-myoken-luxury-gajin-ishiharaso-kurobuta-stay/`,
     siteName: 'トラベルNAVI',
@@ -70,7 +70,7 @@ export default function LuxuryStayPage() {
     {
       "@type": "ListItem",
       "position": 3,
-      "name": "【天孫降臨の地・霧島連山と天降川渓流の極上源泉離れ宿】2026-2027年11-12月の鹿児島・霧島＆妙見温泉！「妙見石原荘」＆「忘れの里 雅叙苑」・自噴かけ流し温泉と黒毛和牛・黒豚名宿5選",
+      "name": "【霧島・妙見温泉の高級宿5選】天降川渓流沿いの自噴温泉＆極上かごしま黒豚会席",
       "item": "https://croud-travel.pages.dev/winter-kagoshima-kirishima-myoken-luxury-gajin-ishiharaso-kurobuta-stay/"
     }
   ]
@@ -103,22 +103,50 @@ export default function LuxuryStayPage() {
             <span className="inline-block bg-amber-500/20 border border-amber-400/40 text-amber-300 text-xs md:text-sm font-bold px-4 py-1.5 rounded-full mb-6">
               2026-2027年 11-12月 初冬特選 高CPA最高級宿コレクション
             </span>
-            <h1 className="text-2xl md:text-4xl lg:text-5xl font-black tracking-tight leading-tight md:leading-snug mb-6 text-slate-50">【天孫降臨の地・霧島連山と天降川渓流の極上源泉離れ宿】2026-2027年11-12月の鹿児島・霧島＆妙見温泉！「妙見石原荘」＆「忘れの里 雅叙苑」・自噴かけ流し温泉と黒毛和牛・黒豚名宿5選</h1>
+            <h1 className="text-2xl md:text-4xl lg:text-5xl font-black tracking-tight leading-tight md:leading-snug mb-6 text-slate-50">【霧島・妙見温泉の高級宿5選】天降川渓流沿いの自噴温泉＆極上かごしま黒豚会席</h1>
             <p className="text-sm md:text-lg text-slate-300 max-w-4xl mx-auto leading-relaxed">
               雄大な霧島連山の麓、天降川（あもりがわ）の清流沿いに湧き出る妙見温泉と霧島温泉郷。茅葺き屋根の古民家が点在し囲炉裏料理と自家源泉が名高い「忘れの里 雅叙苑」や、川床に湧く極上の自噴炭酸泉と洗練されたモダン懐石を誇る「妙見石原荘」。南国の初冬の澄んだ大気と極上の湯浴み、鹿児島黒牛・黒豚の贅沢を味わう至高の記念日ステイ厳選5選。
             </p>
           </div>
         </section>
       <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
-        <ShareButtons title={"【天孫降臨の地・霧島連山と天降川渓流の極上源泉離れ宿】2026-2027年11-12月の鹿児島・霧島＆妙見温泉！「妙見石原荘」＆「忘れの里 雅叙苑」・自噴かけ流し温泉と黒毛和牛・黒豚名宿5選"} url={"https://croud-travel.pages.dev/winter-kagoshima-kirishima-myoken-luxury-gajin-ishiharaso-kurobuta-stay/"} />
+        <ShareButtons title={"【霧島・妙見温泉の高級宿5選】天降川渓流沿いの自噴温泉＆極上かごしま黒豚会席"} url={"https://croud-travel.pages.dev/winter-kagoshima-kirishima-myoken-luxury-gajin-ishiharaso-kurobuta-stay/"} />
       </div>
 
         <div className="max-w-5xl mx-auto px-4 mt-12 space-y-16">
-          <section className="bg-white p-6 md:p-10 rounded-2xl border border-slate-200/80 shadow-md">
-            <h2 className="text-xl md:text-2xl font-bold text-slate-900 mb-4 border-l-4 border-amber-500 pl-4">初冬の静寂が織りなす最高峰の贅沢リトリート</h2>
-            <p className="text-slate-700 leading-relaxed md:leading-loose text-base md:text-lg">
-              天孫降臨の神話が息づく霊峰・霧島連山の麓、清流・天降川（あもりがわ）の渓谷沿いに湧き出る名湯『妙見温泉（みょうけんおんせん）』と『霧島温泉郷』。初冬の11月から12月にかけては、南国鹿児島ならではの爽やかで心地よい小春日和と、霧島山麓の澄み切った大気が広がり、紅葉の余韻と冬の静けさが調和する年間屈指のベストシーズンです。妙見温泉の最大の特徴は、川床や岩間から自噴する驚異的な湯量を誇る炭酸水素塩泉。湯船の縁に析出物が幾重にも堆積するほど濃厚な源泉が惜しみなく掛け流され、浸かった瞬間に肌を滑らかに包み込みます。この渓流沿いに佇むのが、全国の温泉通や文化人から絶賛される最高峰の湯宿『妙見石原荘（いしはらそう）』。天降川の清流を間近に臨む野天風呂『椋の木』や自噴泉を引いた客室露天風呂、そして洗練を極めたモダン懐石が唯一無二の時間を演出します。さらに、霧島温泉郷の高台に広がる広大な敷地にわずか7棟の離れと全室自家源泉掛け流し露天風呂を備えた『きりしま悠久の宿 一心』や、森に抱かれた『ふたり静』など、大人のプライベートリトリートが揃います。夕食には、日本一の栄冠に輝いた最高級ブランド『鹿児島黒牛（黒毛和牛）』のサーロインステーキや、きめ細やかな旨味が際立つ『かごしま黒豚』のしゃぶしゃぶ、天降川の天然鮎や薩摩の旬菜。極上の名湯と美食に身を委ねる初冬の霧島・妙見は、五感を研ぎ澄ます贅沢な旅の終着駅です。
-            </p>
+          <section className="bg-white rounded-2xl p-6 md:p-8 shadow-sm border border-slate-200/80 space-y-6 text-slate-700">
+            <div>
+              <h2 className="text-xl md:text-2xl font-bold text-slate-900 border-b-2 border-amber-500 pb-3 mb-4">
+                初冬の静寂が織りなす最高峰の贅沢リトリート
+              </h2>
+              <p className="text-base md:text-lg leading-relaxed font-medium text-slate-800">
+                天孫降臨の神話が息づく霧島連山の麓、清流・天降川の渓流沿いに湧く名湯・妙見温泉。足元から自噴する本物の名湯と南国の大自然に癒やされる特別な隠れ家へ。
+              </p>
+            </div>
+
+            <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+              <div className="bg-slate-50 p-4 rounded-xl border border-slate-200">
+                <h3 className="font-bold text-slate-900 text-sm flex items-center gap-1.5 mb-2">
+                  <span className="text-amber-600">♨️ 地球の息吹！足元自噴の奇跡の温泉</span>
+                </h3>
+                <p className="text-xs md:text-sm text-slate-600 leading-relaxed">
+                  「妙見石原荘」をはじめ、一切空気に触れさせず浴槽底から直接湧き出す極上の炭酸水素塩泉を堪能できます。
+                </p>
+              </div>
+              <div className="bg-slate-50 p-4 rounded-xl border border-slate-200">
+                <h3 className="font-bold text-slate-900 text-sm flex items-center gap-1.5 mb-2">
+                  <span className="text-amber-600">🌿 天降川渓流に溶け込む茅葺き離れ</span>
+                </h3>
+                <p className="text-xs md:text-sm text-slate-600 leading-relaxed">
+                  日本初の温泉水着陸認定を受けた「雅叙苑」など、日本の原風景が広がる茅葺き屋根の離れで穏やかな時を過ごせます。
+                </p>
+              </div>
+            </div>
+
+            <div className="bg-amber-50/70 p-4 md:p-5 rounded-xl border border-amber-200/80 text-sm text-slate-700 leading-relaxed">
+              <p className="font-bold text-amber-950 mb-1">🍴 鹿児島黒豚しゃぶしゃぶ＆黒毛和牛ステーキ</p>
+              甘み際立つかごしま黒豚やA5黒毛和牛、地元採れたての地鶏や有機野菜を、本場鹿児島の本格芋焼酎と合わせて味わう至福。
+            </div>
           </section>
 
           <section>
@@ -623,7 +651,7 @@ export default function LuxuryStayPage() {
         </div>
       
       <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
-        <ShareButtons title={"【天孫降臨の地・霧島連山と天降川渓流の極上源泉離れ宿】2026-2027年11-12月の鹿児島・霧島＆妙見温泉！「妙見石原荘」＆「忘れの里 雅叙苑」・自噴かけ流し温泉と黒毛和牛・黒豚名宿5選"} url={"https://croud-travel.pages.dev/winter-kagoshima-kirishima-myoken-luxury-gajin-ishiharaso-kurobuta-stay/"} />
+        <ShareButtons title={"【霧島・妙見温泉の高級宿5選】天降川渓流沿いの自噴温泉＆極上かごしま黒豚会席"} url={"https://croud-travel.pages.dev/winter-kagoshima-kirishima-myoken-luxury-gajin-ishiharaso-kurobuta-stay/"} />
       </div>
       </div>
     </>

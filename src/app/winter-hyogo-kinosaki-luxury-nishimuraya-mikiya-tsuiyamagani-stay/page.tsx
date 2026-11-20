@@ -5,10 +5,10 @@ import type { Metadata } from 'next';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: `【雪の柳並木と最高峰・青タグ津居山ガニ解禁】2026-2027年11-1月冬の兵庫・城崎温泉！創業160年「西村屋本館」＆「三木屋」・活松葉ガニフルコースと外湯めぐり名宿5選`,
+  title: `【城崎温泉・極上松葉ガニ宿5選】雪の柳並木と創業160年名門・津居山ガニ解禁ステイ`,
   description: `11月上旬に待望の松葉ガニ漁が解禁！城崎の目と鼻の先にある津居山港で日帰り水揚げされる最高級ブランド「青タグ津居山ガニ」の聖地・城崎温泉。創業160年の歴史と格調高い純日本建築を誇る名門「西村屋本館」や、文豪・志賀直哉ゆかりの国登録有形文化財「三木屋」、広大な森林庭園の「招月庭」。雪舞う柳並木と情緒あふれる外湯めぐり、極上の活蟹刺しや甲羅焼きを堪能する冬の決定版5選。`,
   openGraph: {
-    title: `【雪の柳並木と最高峰・青タグ津居山ガニ解禁】2026-2027年11-1月冬の兵庫・城崎温泉！創業160年「西村屋本館」＆「三木屋」・活松葉ガニフルコースと外湯めぐり名宿5選`,
+    title: `【城崎温泉・極上松葉ガニ宿5選】雪の柳並木と創業160年名門・津居山ガニ解禁ステイ`,
     description: `11月上旬に待望の松葉ガニ漁が解禁！城崎の目と鼻の先にある津居山港で日帰り水揚げされる最高級ブランド「青タグ津居山ガニ」の聖地・城崎温泉。創業160年の歴史と格調高い純日本建築を誇る名門「西村屋本館」や、文豪・志賀直哉ゆかりの国登録有形文化財「三木屋」、広大な森林庭園の「招月庭」。雪舞う柳並木と情緒あふれる外湯めぐり、極上の活蟹刺しや甲羅焼きを堪能する冬の決定版5選。`,
     url: `https://croud-travel.pages.dev/winter-hyogo-kinosaki-luxury-nishimuraya-mikiya-tsuiyamagani-stay/`,
     siteName: 'トラベルNAVI',
@@ -80,7 +80,7 @@ export default function Page() {
     {
       "@type": "ListItem",
       "position": 3,
-      "name": "【雪の柳並木と最高峰・青タグ津居山ガニ解禁】2026-2027年11-1月冬の兵庫・城崎温泉！創業160年「西村屋本館」＆「三木屋」・活松葉ガニフルコースと外湯めぐり名宿5選",
+      "name": "【城崎温泉・極上松葉ガニ宿5選】雪の柳並木と創業160年名門・津居山ガニ解禁ステイ",
       "item": "https://croud-travel.pages.dev/winter-hyogo-kinosaki-luxury-nishimuraya-mikiya-tsuiyamagani-stay/"
     }
   ]
@@ -96,7 +96,7 @@ export default function Page() {
             <span>&gt;</span>
             <Link href="/prefectures/hyogo/" className="hover:text-amber-600">兵庫県</Link>
             <span>&gt;</span>
-            <span className="text-slate-800 font-medium truncate">【雪の柳並木と最高峰・青タグ津居山ガニ解禁】2026-2027年11-1月冬の兵庫・城崎温泉！創業160年「西村屋本館」＆「三木屋」・活松葉ガニフルコースと外湯めぐり名宿5選</span>
+            <span className="text-slate-800 font-medium truncate">【城崎温泉・極上松葉ガニ宿5選】雪の柳並木と創業160年名門・津居山ガニ解禁ステイ</span>
           </div>
         </nav>
 
@@ -106,23 +106,51 @@ export default function Page() {
             <div className="inline-block bg-amber-500/20 text-amber-300 border border-amber-400/40 text-xs font-bold px-3 py-1 rounded-full uppercase tracking-widest">
               2026-2027年冬 厳選特集
             </div>
-            <h1 className="text-2xl md:text-4xl font-black tracking-tight leading-tight md:leading-snug">【雪の柳並木と最高峰・青タグ津居山ガニ解禁】2026-2027年11-1月冬の兵庫・城崎温泉！創業160年「西村屋本館」＆「三木屋」・活松葉ガニフルコースと外湯めぐり名宿5選</h1>
+            <h1 className="text-2xl md:text-4xl font-black tracking-tight leading-tight md:leading-snug">【城崎温泉・極上松葉ガニ宿5選】雪の柳並木と創業160年名門・津居山ガニ解禁ステイ</h1>
             <p className="text-slate-300 text-sm md:text-base leading-relaxed max-w-3xl mx-auto text-left md:text-center pt-2">
               11月上旬のズワイガニ漁解禁とともに、年間で最も華やかで贅沢な季節を迎える城崎温泉。目と鼻の先にある津居山港で日帰り水揚げされる最高級ブランド「青タグ津居山ガニ」は、鮮度と身の詰まりが別格の芸術品です。大谿川沿いの雪舞う柳並木と太鼓橋、カランコロンと響く下駄の音、そして創業160年の歴史を誇る名門「西村屋本館」や志賀直哉ゆかりの「三木屋」。本物の活蟹料理と七田の外湯めぐりを満喫する冬の決定版をお届けします。
             </p>
           </div>
         </header>
       <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
-        <ShareButtons title={"【雪の柳並木と最高峰・青タグ津居山ガニ解禁】2026-2027年11-1月冬の兵庫・城崎温泉！創業160年「西村屋本館」＆「三木屋」・活松葉ガニフルコースと外湯めぐり名宿5選"} url={"https://croud-travel.pages.dev/winter-hyogo-kinosaki-luxury-nishimuraya-mikiya-tsuiyamagani-stay/"} />
+        <ShareButtons title={"【城崎温泉・極上松葉ガニ宿5選】雪の柳並木と創業160年名門・津居山ガニ解禁ステイ"} url={"https://croud-travel.pages.dev/winter-hyogo-kinosaki-luxury-nishimuraya-mikiya-tsuiyamagani-stay/"} />
       </div>
 
         <div className="max-w-4xl mx-auto px-4 mt-10 space-y-12">
           {/* 導入部 */}
-          <section className="bg-white rounded-2xl p-6 md:p-8 shadow-sm border border-slate-200/80 leading-relaxed text-slate-700">
-            <h2 className="text-xl md:text-2xl font-bold text-slate-900 border-b border-amber-200 pb-3 mb-4">冬の城崎・津居山・円山川で過ごす至福のひととき</h2>
-            <p className="text-base leading-loose">
-              兵庫県北部の日本海近く、大谿川（おおたにがわ）の川沿いに木造旅館が軒を連ねる『城崎温泉（きのさきおんせん）』。開湯は奈良時代の養老4年（720年）と伝わり、千三百年もの長きにわたり旅人を癒やしてきた名湯です。文豪・志賀直哉が負傷療養に訪れ名作短編『城の崎にて』を執筆したことでも知られ、情緒あふれる文学と湯治の文化が今なお息づいています。城崎温泉が最も輝きを放つのが、11月6日の松葉ガニ漁解禁から真冬の1月にかけての冬シーズン。城崎の目と鼻の先にある『津居山（ついやま）港』は、小型の底引き網漁船が操業するため、夜明けに出港して夕方には港に戻る『日帰り操業』が特徴。競り落とされた松葉ガニは一度も冷凍されることなく生きたまま旅館へ届けられ、青色のプラスチックタグが付けられた『青タグ津居山ガニ』として全国の食通から最高の評価を受けています。この風情豊かな温泉街を代表するのが、創業160余年の伝統を誇り登録有形文化財の数寄屋建築と名庭を擁する山陰屈指の最高峰旅館『西村屋本館』。さらには広大な五万坪の森林庭園に包まれる別邸『西村屋ホテル招月庭』や、志賀直哉が滞在した歴史を紡ぐ国登録有形文化財の宿『三木屋』など、日本の伝統美とおもてなしの粋を極めた名門が立ち並びます。雪舞う大谿川沿いを下駄の音を響かせながら巡る『7つの外湯めぐり』、そして夕食に供される極上の活津居山ガニの刺身、香ばしい炭火焼き蟹、濃厚な甲羅味噌焼き、但馬牛のフィレステーキ。城崎の冬は、五感のすべてを震わせる最高の美食と情緒に満ちています。
-            </p>
+          <section className="bg-white rounded-2xl p-6 md:p-8 shadow-sm border border-slate-200/80 space-y-6 text-slate-700">
+            <div>
+              <h2 className="text-xl md:text-2xl font-bold text-slate-900 border-b-2 border-amber-500 pb-3 mb-4">
+                冬の城崎・津居山・円山川で過ごす至福のひととき
+              </h2>
+              <p className="text-base md:text-lg leading-relaxed font-medium text-slate-800">
+                大谿川沿いに柳並木と太鼓橋が続く情緒豊かな城崎温泉。青タグの最高峰・津居山ガニ（活松葉ガニ）が解禁される冬、創業160年の名門宿で味わう至高の温泉旅。
+              </p>
+            </div>
+
+            <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+              <div className="bg-slate-50 p-4 rounded-xl border border-slate-200">
+                <h3 className="font-bold text-slate-900 text-sm flex items-center gap-1.5 mb-2">
+                  <span className="text-amber-600">🦀 最寄港・津居山直送の活松葉ガニ</span>
+                </h3>
+                <p className="text-xs md:text-sm text-slate-600 leading-relaxed">
+                  青いタグが目印の津居山ガニ。花咲くお造りや炭火の香ばしい焼きガニ、濃厚な蟹みそ甲羅焼きなど本場ならではの贅を堪能。
+                </p>
+              </div>
+              <div className="bg-slate-50 p-4 rounded-xl border border-slate-200">
+                <h3 className="font-bold text-slate-900 text-sm flex items-center gap-1.5 mb-2">
+                  <span className="text-amber-600">♨️ 雪舞う柳並木の外湯めぐりと名門庭園風呂</span>
+                </h3>
+                <p className="text-xs md:text-sm text-slate-600 leading-relaxed">
+                  浴衣に下駄を鳴らして巡る七つの外湯と、「西村屋本館」や登録有形文化財「三木屋」の静謐な日本庭園に憩う極上の冬時間。
+                </p>
+              </div>
+            </div>
+
+            <div className="bg-amber-50/70 p-4 md:p-5 rounded-xl border border-amber-200/80 text-sm text-slate-700 leading-relaxed">
+              <p className="font-bold text-amber-950 mb-1">🍴 但馬牛ステーキと冬の味覚の饗宴</p>
+              神戸牛や松阪牛の素牛となる最高級ブランド「但馬牛」のステーキと松葉ガニの豪華競演。山陰の冬の恵みを五感で味わえます。
+            </div>
           </section>
 
           {/* 訪れるべき3つの理由 */}
@@ -661,7 +689,7 @@ export default function Page() {
         </div>
       
       <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
-        <ShareButtons title={"【雪の柳並木と最高峰・青タグ津居山ガニ解禁】2026-2027年11-1月冬の兵庫・城崎温泉！創業160年「西村屋本館」＆「三木屋」・活松葉ガニフルコースと外湯めぐり名宿5選"} url={"https://croud-travel.pages.dev/winter-hyogo-kinosaki-luxury-nishimuraya-mikiya-tsuiyamagani-stay/"} />
+        <ShareButtons title={"【城崎温泉・極上松葉ガニ宿5選】雪の柳並木と創業160年名門・津居山ガニ解禁ステイ"} url={"https://croud-travel.pages.dev/winter-hyogo-kinosaki-luxury-nishimuraya-mikiya-tsuiyamagani-stay/"} />
       </div>
       </article>
     </>

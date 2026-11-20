@@ -5,10 +5,10 @@ import type { Metadata } from 'next';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: `【奇跡の自噴ラジウム温泉と日本海インフィニティ露天】2026-2027年11-1月冬の鳥取・三朝＆皆生温泉！国登録有形文化財「旅館 大橋」＆「皆生 游月」・鳥取松葉ガニと鳥取和牛名宿5選`,
+  title: `【鳥取・三朝＆皆生温泉高級宿5選】奇跡の自噴ラジウム温泉と冬の鳥取松葉ガニステイ`,
   description: `世界屈指の高濃度ラドン含有量を誇る「三朝温泉」と、白砂青松の弓ヶ浜に面した海の温泉「皆生温泉」。三朝川の河床から自噴する巌窟の湯と国登録有形文化財の数寄屋建築を誇る「旅館 大橋」、全室オーシャンビュー露天風呂付きの最新リゾート「皆生 游月」。冬に水揚げされる最高級ブランド「鳥取松葉ガニ（五輝星）」やオレイン55鳥取和牛を堪能する、癒やしと美食の冬旅厳選5選。`,
   openGraph: {
-    title: `【奇跡の自噴ラジウム温泉と日本海インフィニティ露天】2026-2027年11-1月冬の鳥取・三朝＆皆生温泉！国登録有形文化財「旅館 大橋」＆「皆生 游月」・鳥取松葉ガニと鳥取和牛名宿5選`,
+    title: `【鳥取・三朝＆皆生温泉高級宿5選】奇跡の自噴ラジウム温泉と冬の鳥取松葉ガニステイ`,
     description: `世界屈指の高濃度ラドン含有量を誇る「三朝温泉」と、白砂青松の弓ヶ浜に面した海の温泉「皆生温泉」。三朝川の河床から自噴する巌窟の湯と国登録有形文化財の数寄屋建築を誇る「旅館 大橋」、全室オーシャンビュー露天風呂付きの最新リゾート「皆生 游月」。冬に水揚げされる最高級ブランド「鳥取松葉ガニ（五輝星）」やオレイン55鳥取和牛を堪能する、癒やしと美食の冬旅厳選5選。`,
     url: `https://croud-travel.pages.dev/winter-tottori-misasa-kaike-luxury-matsubagani-ryokan-ohashi-yugetsu-stay/`,
     siteName: 'トラベルNAVI',
@@ -80,7 +80,7 @@ export default function Page() {
     {
       "@type": "ListItem",
       "position": 3,
-      "name": "【奇跡の自噴ラジウム温泉と日本海インフィニティ露天】2026-2027年11-1月冬の鳥取・三朝＆皆生温泉！国登録有形文化財「旅館 大橋」＆「皆生 游月」・鳥取松葉ガニと鳥取和牛名宿5選",
+      "name": "【鳥取・三朝＆皆生温泉高級宿5選】奇跡の自噴ラジウム温泉と冬の鳥取松葉ガニステイ",
       "item": "https://croud-travel.pages.dev/winter-tottori-misasa-kaike-luxury-matsubagani-ryokan-ohashi-yugetsu-stay/"
     }
   ]
@@ -96,7 +96,7 @@ export default function Page() {
             <span>&gt;</span>
             <Link href="/prefectures/tottori/" className="hover:text-amber-600">鳥取県</Link>
             <span>&gt;</span>
-            <span className="text-slate-800 font-medium truncate">【奇跡の自噴ラジウム温泉と日本海インフィニティ露天】2026-2027年11-1月冬の鳥取・三朝＆皆生温泉！国登録有形文化財「旅館 大橋」＆「皆生 游月」・鳥取松葉ガニと鳥取和牛名宿5選</span>
+            <span className="text-slate-800 font-medium truncate">【鳥取・三朝＆皆生温泉高級宿5選】奇跡の自噴ラジウム温泉と冬の鳥取松葉ガニステイ</span>
           </div>
         </nav>
 
@@ -106,23 +106,51 @@ export default function Page() {
             <div className="inline-block bg-amber-500/20 text-amber-300 border border-amber-400/40 text-xs font-bold px-3 py-1 rounded-full uppercase tracking-widest">
               2026-2027年冬 厳選特集
             </div>
-            <h1 className="text-2xl md:text-4xl font-black tracking-tight leading-tight md:leading-snug">【奇跡の自噴ラジウム温泉と日本海インフィニティ露天】2026-2027年11-1月冬の鳥取・三朝＆皆生温泉！国登録有形文化財「旅館 大橋」＆「皆生 游月」・鳥取松葉ガニと鳥取和牛名宿5選</h1>
+            <h1 className="text-2xl md:text-4xl font-black tracking-tight leading-tight md:leading-snug">【鳥取・三朝＆皆生温泉高級宿5選】奇跡の自噴ラジウム温泉と冬の鳥取松葉ガニステイ</h1>
             <p className="text-slate-300 text-sm md:text-base leading-relaxed max-w-3xl mx-auto text-left md:text-center pt-2">
               世界屈指の高濃度ラドン含有量を誇り、「三たび朝を迎えると元気になる」と伝えられる三朝温泉と、白砂青松の弓ヶ浜に面し日本海の絶景と塩化物泉が広がる皆生温泉。山陰の冬は、11月の鳥取松葉ガニ漁解禁により最高峰の美食シーズンへと突入します。川床から湧出する自噴の巌窟風呂や海と一体化するインフィニティ露天風呂に浸かり、最高級ブランド「五輝星」をはじめとする鳥取松葉ガニとオレイン55鳥取和牛を味わう極上の湯治旅をご案内します。
             </p>
           </div>
         </header>
       <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
-        <ShareButtons title={"【奇跡の自噴ラジウム温泉と日本海インフィニティ露天】2026-2027年11-1月冬の鳥取・三朝＆皆生温泉！国登録有形文化財「旅館 大橋」＆「皆生 游月」・鳥取松葉ガニと鳥取和牛名宿5選"} url={"https://croud-travel.pages.dev/winter-tottori-misasa-kaike-luxury-matsubagani-ryokan-ohashi-yugetsu-stay/"} />
+        <ShareButtons title={"【鳥取・三朝＆皆生温泉高級宿5選】奇跡の自噴ラジウム温泉と冬の鳥取松葉ガニステイ"} url={"https://croud-travel.pages.dev/winter-tottori-misasa-kaike-luxury-matsubagani-ryokan-ohashi-yugetsu-stay/"} />
       </div>
 
         <div className="max-w-4xl mx-auto px-4 mt-10 space-y-12">
           {/* 導入部 */}
-          <section className="bg-white rounded-2xl p-6 md:p-8 shadow-sm border border-slate-200/80 leading-relaxed text-slate-700">
-            <h2 className="text-xl md:text-2xl font-bold text-slate-900 border-b border-amber-200 pb-3 mb-4">冬の三朝温泉・倉吉・皆生温泉・米子で過ごす至福のひととき</h2>
-            <p className="text-base leading-loose">
-              中国山地の北麓、清流・三朝川のほとりに開湯850年の歴史を刻む『三朝温泉（みささおんせん）』と、日本海に面した白砂青松の弓ヶ浜沿いに湧く『皆生温泉（かいけおんせん）』。山陰・鳥取県を代表する二大温泉地は、11月のズワイガニ漁解禁とともに年間最高の賑わいを迎えます。三朝温泉は世界有数の高濃度ラドンを含有する放射能泉として名高く、微量の放射線が身体の細胞を刺激し免疫力を高める「ホルミシス効果」により、古くから多くの湯治客を癒やしてきました。一方の皆生温泉は、日本海の海底から湧き出る豊富な塩化物泉で、美肌と保温効果に優れた「海の温泉」として親しまれています。そして冬の鳥取といえば、最高峰の冬の味覚『鳥取松葉ガニ』。甲羅幅や重量、身入りなど厳しい基準をクリアした最高峰トップブランド『五輝星（いつきぼし）』をはじめ、鮮度抜群の活蟹が市場に並びます。この地に佇むのが、川床から自噴する奇跡の「巌窟の湯」と国登録有形文化財の数寄屋建築を誇る名門『三朝温泉 旅館 大橋』や、全室オーシャンビュー客室露天風呂と海に溶け込むインフィニティ天空露天風呂を備えた最新ラグジュアリー『皆生游月（ゆうげつ）』。さらには広大な回遊式大庭園露天風呂を誇る『依山楼 岩崎』など、本物の癒やしと贅を極めた宿が揃います。夕食には、鳥取松葉ガニの花咲く蟹刺し、炭火で香ばしく焼き上げる焼きガニ、濃厚な蟹味噌、そしてオリーブオイルの主成分であるオレイン酸を豊富に含み口どけ抜群の『鳥取和牛オレイン55』のステーキ。奇跡の名湯と日本海の至高の味覚に酔いしれる、至福の山陰冬リトリートです。
-            </p>
+          <section className="bg-white rounded-2xl p-6 md:p-8 shadow-sm border border-slate-200/80 space-y-6 text-slate-700">
+            <div>
+              <h2 className="text-xl md:text-2xl font-bold text-slate-900 border-b-2 border-amber-500 pb-3 mb-4">
+                冬の三朝温泉・倉吉・皆生温泉・米子で過ごす至福のひととき
+              </h2>
+              <p className="text-base md:text-lg leading-relaxed font-medium text-slate-800">
+                世界屈指のラジウム含有量を誇る三朝温泉と、日本海を一望する海辺の皆生温泉。山陰の冬の至宝「鳥取松葉ガニ」と奇跡の名湯に包まれる上質な大人旅。
+              </p>
+            </div>
+
+            <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+              <div className="bg-slate-50 p-4 rounded-xl border border-slate-200">
+                <h3 className="font-bold text-slate-900 text-sm flex items-center gap-1.5 mb-2">
+                  <span className="text-amber-600">♨️ 世界屈指の高濃度ラドン温泉＆海露天</span>
+                </h3>
+                <p className="text-xs md:text-sm text-slate-600 leading-relaxed">
+                  国登録有形文化財「旅館 大橋」の足元自噴巌窟風呂や、「皆生 游月」の日本海インフィニティ露天風呂など、名湯の魅力を満喫。
+                </p>
+              </div>
+              <div className="bg-slate-50 p-4 rounded-xl border border-slate-200">
+                <h3 className="font-bold text-slate-900 text-sm flex items-center gap-1.5 mb-2">
+                  <span className="text-amber-600">🦀 冬の山陰を代表する味覚「鳥取松葉ガニ」</span>
+                </h3>
+                <p className="text-xs md:text-sm text-slate-600 leading-relaxed">
+                  境港から水揚げされる新鮮な松葉ガニ。引き締まった身の甘みと濃厚な蟹みそを、刺し・焼き・茹で・鍋のフルコースで堪能。
+                </p>
+              </div>
+            </div>
+
+            <div className="bg-amber-50/70 p-4 md:p-5 rounded-xl border border-amber-200/80 text-sm text-slate-700 leading-relaxed">
+              <p className="font-bold text-amber-950 mb-1">🍴 肉質日本一に輝いた鳥取和牛オレイン55</p>
+              口溶けの良い脂と芳醇な赤身が絶品の「鳥取和牛」のステーキやすき焼き。松葉ガニとの豪華な会席料理で特別な夜を演出します。
+            </div>
           </section>
 
           {/* 訪れるべき3つの理由 */}
@@ -661,7 +689,7 @@ export default function Page() {
         </div>
       
       <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
-        <ShareButtons title={"【奇跡の自噴ラジウム温泉と日本海インフィニティ露天】2026-2027年11-1月冬の鳥取・三朝＆皆生温泉！国登録有形文化財「旅館 大橋」＆「皆生 游月」・鳥取松葉ガニと鳥取和牛名宿5選"} url={"https://croud-travel.pages.dev/winter-tottori-misasa-kaike-luxury-matsubagani-ryokan-ohashi-yugetsu-stay/"} />
+        <ShareButtons title={"【鳥取・三朝＆皆生温泉高級宿5選】奇跡の自噴ラジウム温泉と冬の鳥取松葉ガニステイ"} url={"https://croud-travel.pages.dev/winter-tottori-misasa-kaike-luxury-matsubagani-ryokan-ohashi-yugetsu-stay/"} />
       </div>
       </article>
     </>

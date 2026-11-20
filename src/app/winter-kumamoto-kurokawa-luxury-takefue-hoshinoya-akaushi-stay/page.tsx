@@ -5,10 +5,10 @@ import type { Metadata } from 'next';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: `【阿蘇の静寂と湯煙に抱かれる極上隠れ宿離れ】2026-2027年11-12月初冬の熊本・黒川温泉＆瀬の本！「深山山荘」＆「山あいの宿 山みず木」・初冬の静寂と阿蘇あか牛懐石名宿5選`,
+  title: `【黒川温泉・瀬の本高級離れ宿5選】阿蘇の自然美と客室露天＆幻のあか牛を味わう旅`,
   description: `阿蘇外輪山の北麓、幽玄な渓谷に湯煙が立ちのぼる黒川温泉郷と瀬の本高原。渓流沿いの大自然に抱かれた「黒川温泉 山みず木別邸 深山山荘」や、野趣あふれる名湯と至高のホスピタリティを誇る「山あいの宿 山みず木」、茅葺きや古民家造りの大人の隠れ家リゾート。冬枯れの美しい自然景観と、とろける阿蘇あか牛や郷土会席を五感で味わう至高の贅沢ステイ厳選5選。`,
   openGraph: {
-    title: `【阿蘇の静寂と湯煙に抱かれる極上隠れ宿離れ】2026-2027年11-12月初冬の熊本・黒川温泉＆瀬の本！「深山山荘」＆「山あいの宿 山みず木」・初冬の静寂と阿蘇あか牛懐石名宿5選`,
+    title: `【黒川温泉・瀬の本高級離れ宿5選】阿蘇の自然美と客室露天＆幻のあか牛を味わう旅`,
     description: `阿蘇外輪山の北麓、幽玄な渓谷に湯煙が立ちのぼる黒川温泉郷と瀬の本高原。渓流沿いの大自然に抱かれた「黒川温泉 山みず木別邸 深山山荘」や、野趣あふれる名湯と至高のホスピタリティを誇る「山あいの宿 山みず木」、茅葺きや古民家造りの大人の隠れ家リゾート。冬枯れの美しい自然景観と、とろける阿蘇あか牛や郷土会席を五感で味わう至高の贅沢ステイ厳選5選。`,
     url: `https://croud-travel.pages.dev/winter-kumamoto-kurokawa-luxury-takefue-hoshinoya-akaushi-stay/`,
     siteName: 'トラベルNAVI',
@@ -70,7 +70,7 @@ export default function LuxuryStayPage() {
     {
       "@type": "ListItem",
       "position": 3,
-      "name": "【阿蘇の静寂と湯煙に抱かれる極上隠れ宿離れ】2026-2027年11-12月初冬の熊本・黒川温泉＆瀬の本！「深山山荘」＆「山あいの宿 山みず木」・初冬の静寂と阿蘇あか牛懐石名宿5選",
+      "name": "【黒川温泉・瀬の本高級離れ宿5選】阿蘇の自然美と客室露天＆幻のあか牛を味わう旅",
       "item": "https://croud-travel.pages.dev/winter-kumamoto-kurokawa-luxury-takefue-hoshinoya-akaushi-stay/"
     }
   ]
@@ -103,22 +103,50 @@ export default function LuxuryStayPage() {
             <span className="inline-block bg-amber-500/20 border border-amber-400/40 text-amber-300 text-xs md:text-sm font-bold px-4 py-1.5 rounded-full mb-6">
               2026-2027年 11-12月 初冬特選 高CPA最高級宿コレクション
             </span>
-            <h1 className="text-2xl md:text-4xl lg:text-5xl font-black tracking-tight leading-tight md:leading-snug mb-6 text-slate-50">【阿蘇の静寂と湯煙に抱かれる極上隠れ宿離れ】2026-2027年11-12月初冬の熊本・黒川温泉＆瀬の本！「深山山荘」＆「山あいの宿 山みず木」・初冬の静寂と阿蘇あか牛懐石名宿5選</h1>
+            <h1 className="text-2xl md:text-4xl lg:text-5xl font-black tracking-tight leading-tight md:leading-snug mb-6 text-slate-50">【黒川温泉・瀬の本高級離れ宿5選】阿蘇の自然美と客室露天＆幻のあか牛を味わう旅</h1>
             <p className="text-sm md:text-lg text-slate-300 max-w-4xl mx-auto leading-relaxed">
               阿蘇外輪山の北麓、幽玄な渓谷に湯煙が立ちのぼる黒川温泉郷と瀬の本高原。渓流沿いの大自然に抱かれた「黒川温泉 山みず木別邸 深山山荘」や、野趣あふれる名湯と至高のホスピタリティを誇る「山あいの宿 山みず木」、茅葺きや古民家造りの大人の隠れ家リゾート。冬枯れの美しい自然景観と、とろける阿蘇あか牛や郷土会席を五感で味わう至高の贅沢ステイ厳選5選。
             </p>
           </div>
         </section>
       <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
-        <ShareButtons title={"【阿蘇の静寂と湯煙に抱かれる極上隠れ宿離れ】2026-2027年11-12月初冬の熊本・黒川温泉＆瀬の本！「深山山荘」＆「山あいの宿 山みず木」・初冬の静寂と阿蘇あか牛懐石名宿5選"} url={"https://croud-travel.pages.dev/winter-kumamoto-kurokawa-luxury-takefue-hoshinoya-akaushi-stay/"} />
+        <ShareButtons title={"【黒川温泉・瀬の本高級離れ宿5選】阿蘇の自然美と客室露天＆幻のあか牛を味わう旅"} url={"https://croud-travel.pages.dev/winter-kumamoto-kurokawa-luxury-takefue-hoshinoya-akaushi-stay/"} />
       </div>
 
         <div className="max-w-5xl mx-auto px-4 mt-12 space-y-16">
-          <section className="bg-white p-6 md:p-10 rounded-2xl border border-slate-200/80 shadow-md">
-            <h2 className="text-xl md:text-2xl font-bold text-slate-900 mb-4 border-l-4 border-amber-500 pl-4">初冬の静寂が織りなす最高峰の贅沢リトリート</h2>
-            <p className="text-slate-700 leading-relaxed md:leading-loose text-base md:text-lg">
-              阿蘇外輪山の北麓、幽玄な渓谷沿いに湯煙が立ちのぼる九州屈指の秘湯『黒川温泉（くろかわおんせん）』と、雄大な阿蘇五岳を望む『瀬の本高原』。標高700mの山間に位置するこの地は、11月から12月にかけての初冬、落葉した木々と凛とした冬枯れの自然美、そして立ちのぼる温泉の湯煙が織りなす幻想的な情緒に包まれます。冬の風物詩である竹灯籠のイルミネーション『湯あかり』が渓流を優しく照らし出し、黒川温泉全体が一つの大きな隠れ宿のように旅人を迎え入れます。この自然と共生する山あいの地に佇むのが、約4,000坪の原生林に抱かれた最高峰の離れ宿『黒川温泉 山みず木別邸 深山山荘（みやまさんそう）』や、創業300年の歴史を誇る『御客屋』、名湯露天風呂と野趣を極めた『山あいの宿 山みず木』。すべての客室が独立した離れや専用温泉風呂を備え、川のせせらぎと鳥のさえずりだけが響く圧倒的な静寂の空間を提供しています。夕食には、阿蘇の大自然で放牧されて育ったヘルシーで濃厚な赤身肉の旨味が際立つ『阿蘇あか牛』の炭火焼きステーキや溶岩焼き、熊本名物の極上馬刺し、そして山里の冬野菜をふんだんに盛り込んだ田舎会席。初冬の冷気の中で満天の星を仰ぎながら自家源泉かけ流しの露天風呂に身を委ねる時間は、魂の深呼吸とも言える究極の贅沢です。
-            </p>
+          <section className="bg-white rounded-2xl p-6 md:p-8 shadow-sm border border-slate-200/80 space-y-6 text-slate-700">
+            <div>
+              <h2 className="text-xl md:text-2xl font-bold text-slate-900 border-b-2 border-amber-500 pb-3 mb-4">
+                初冬の静寂が織りなす最高峰の贅沢リトリート
+              </h2>
+              <p className="text-base md:text-lg leading-relaxed font-medium text-slate-800">
+                阿蘇外輪山の山懐、幽玄な渓谷に湯煙が立ちのぼる黒川温泉と瀬の本高原。凛とした冬枯れの静寂と満天の星に包まれる大人の温泉リトリートへ。
+              </p>
+            </div>
+
+            <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+              <div className="bg-slate-50 p-4 rounded-xl border border-slate-200">
+                <h3 className="font-bold text-slate-900 text-sm flex items-center gap-1.5 mb-2">
+                  <span className="text-amber-600">🎋 湯煙と竹林が織りなす冬の情緒</span>
+                </h3>
+                <p className="text-xs md:text-sm text-slate-600 leading-relaxed">
+                  冬の風物詩である竹灯籠「湯あかり」が温泉街の川沿いを温かく照らし、幻想的で心温まる和の空間が広がります。
+                </p>
+              </div>
+              <div className="bg-slate-50 p-4 rounded-xl border border-slate-200">
+                <h3 className="font-bold text-slate-900 text-sm flex items-center gap-1.5 mb-2">
+                  <span className="text-amber-600">♨️ 渓流を望む極上の自家源泉露天</span>
+                </h3>
+                <p className="text-xs md:text-sm text-slate-600 leading-relaxed">
+                  「深山山荘」や「山みず木」など、大自然のせせらぎを聞きながら入る源泉掛け流しの湯船が心と身体をじんわり癒やします。
+                </p>
+              </div>
+            </div>
+
+            <div className="bg-amber-50/70 p-4 md:p-5 rounded-xl border border-amber-200/80 text-sm text-slate-700 leading-relaxed">
+              <p className="font-bold text-amber-950 mb-1">🍴 幻の阿蘇あか牛炭火焼きと肥後郷土会席</p>
+              赤身本来の豊かな旨味と上品な脂が特徴の熊本名物「あか牛」のステーキや炭火焼き、新鮮な馬刺しや山菜の恵みを贅沢に味わえます。
+            </div>
           </section>
 
           <section>
@@ -623,7 +651,7 @@ export default function LuxuryStayPage() {
         </div>
       
       <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
-        <ShareButtons title={"【阿蘇の静寂と湯煙に抱かれる極上隠れ宿離れ】2026-2027年11-12月初冬の熊本・黒川温泉＆瀬の本！「深山山荘」＆「山あいの宿 山みず木」・初冬の静寂と阿蘇あか牛懐石名宿5選"} url={"https://croud-travel.pages.dev/winter-kumamoto-kurokawa-luxury-takefue-hoshinoya-akaushi-stay/"} />
+        <ShareButtons title={"【黒川温泉・瀬の本高級離れ宿5選】阿蘇の自然美と客室露天＆幻のあか牛を味わう旅"} url={"https://croud-travel.pages.dev/winter-kumamoto-kurokawa-luxury-takefue-hoshinoya-akaushi-stay/"} />
       </div>
       </div>
     </>

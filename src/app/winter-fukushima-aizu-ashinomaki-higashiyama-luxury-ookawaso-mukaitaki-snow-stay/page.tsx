@@ -5,10 +5,10 @@ import type { Metadata } from 'next';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: `【幻想の浮き舞台雪景色と文化財雪見ろうそく】2026-2027年12-1月真冬の福島・会津芦ノ牧＆東山温泉！「大川荘」＆登録有形文化財「向瀧」・渓谷雪見露天と極上会津馬刺し名宿5選`,
+  title: `【会津・東山＆芦ノ牧温泉高級宿5選】渓谷雪見露天風呂と会津馬刺し・文化財名宿旅`,
   description: `一面の銀世界に包まれる奥会津の冬。大川渓谷の断崖に立ち、吹き抜けのロビーに浮かぶ三味線の浮き舞台や段々の絶景露天風呂が名高い「会津芦ノ牧温泉 大川荘」。国の登録有形文化財第1号に指定され、冬の中庭に無数の竹筒ろうそくが灯る「会津東山温泉 向瀧」。湯川のせせらぎと深々と降る雪を眺める雪見風呂、極上の会津馬刺しや福島牛、厳冬の仕込み地酒に酔いしれる会津の名宿厳選5選。`,
   openGraph: {
-    title: `【幻想の浮き舞台雪景色と文化財雪見ろうそく】2026-2027年12-1月真冬の福島・会津芦ノ牧＆東山温泉！「大川荘」＆登録有形文化財「向瀧」・渓谷雪見露天と極上会津馬刺し名宿5選`,
+    title: `【会津・東山＆芦ノ牧温泉高級宿5選】渓谷雪見露天風呂と会津馬刺し・文化財名宿旅`,
     description: `一面の銀世界に包まれる奥会津の冬。大川渓谷の断崖に立ち、吹き抜けのロビーに浮かぶ三味線の浮き舞台や段々の絶景露天風呂が名高い「会津芦ノ牧温泉 大川荘」。国の登録有形文化財第1号に指定され、冬の中庭に無数の竹筒ろうそくが灯る「会津東山温泉 向瀧」。湯川のせせらぎと深々と降る雪を眺める雪見風呂、極上の会津馬刺しや福島牛、厳冬の仕込み地酒に酔いしれる会津の名宿厳選5選。`,
     url: `https://croud-travel.pages.dev/winter-fukushima-aizu-ashinomaki-higashiyama-luxury-ookawaso-mukaitaki-snow-stay/`,
     siteName: 'トラベルNAVI',
@@ -80,7 +80,7 @@ export default function Page() {
     {
       "@type": "ListItem",
       "position": 3,
-      "name": "【幻想の浮き舞台雪景色と文化財雪見ろうそく】2026-2027年12-1月真冬の福島・会津芦ノ牧＆東山温泉！「大川荘」＆登録有形文化財「向瀧」・渓谷雪見露天と極上会津馬刺し名宿5選",
+      "name": "【会津・東山＆芦ノ牧温泉高級宿5選】渓谷雪見露天風呂と会津馬刺し・文化財名宿旅",
       "item": "https://croud-travel.pages.dev/winter-fukushima-aizu-ashinomaki-higashiyama-luxury-ookawaso-mukaitaki-snow-stay/"
     }
   ]
@@ -96,7 +96,7 @@ export default function Page() {
             <span>&gt;</span>
             <Link href="/prefectures/fukushima/" className="hover:text-amber-600">福島県</Link>
             <span>&gt;</span>
-            <span className="text-slate-800 font-medium truncate">【幻想の浮き舞台雪景色と文化財雪見ろうそく】2026-2027年12-1月真冬の福島・会津芦ノ牧＆東山温泉！「大川荘」＆登録有形文化財「向瀧」・渓谷雪見露天と極上会津馬刺し名宿5選</span>
+            <span className="text-slate-800 font-medium truncate">【会津・東山＆芦ノ牧温泉高級宿5選】渓谷雪見露天風呂と会津馬刺し・文化財名宿旅</span>
           </div>
         </nav>
 
@@ -106,23 +106,51 @@ export default function Page() {
             <div className="inline-block bg-amber-500/20 text-amber-300 border border-amber-400/40 text-xs font-bold px-3 py-1 rounded-full uppercase tracking-widest">
               2026-2027年冬 厳選特集
             </div>
-            <h1 className="text-2xl md:text-4xl font-black tracking-tight leading-tight md:leading-snug">【幻想の浮き舞台雪景色と文化財雪見ろうそく】2026-2027年12-1月真冬の福島・会津芦ノ牧＆東山温泉！「大川荘」＆登録有形文化財「向瀧」・渓谷雪見露天と極上会津馬刺し名宿5選</h1>
+            <h1 className="text-2xl md:text-4xl font-black tracking-tight leading-tight md:leading-snug">【会津・東山＆芦ノ牧温泉高級宿5選】渓谷雪見露天風呂と会津馬刺し・文化財名宿旅</h1>
             <p className="text-slate-300 text-sm md:text-base leading-relaxed max-w-3xl mx-auto text-left md:text-center pt-2">
               白銀の世界へと美しく染まる奥会津の冬。大川渓谷の断崖に立ち、吹き抜けのロビーに浮かぶ三味線の浮き舞台が話題を呼んだ芦ノ牧温泉「大川荘」と、国の登録有形文化財第1号に指定され、中庭の雪景色に無数の竹筒ろうそくが灯る東山温泉「向瀧」。渓流の瀬音と深々と降り積もる雪を眺めながら入る絶景の雪見風呂、極上の会津馬刺しや福島牛、伝統の郷土料理「こづゆ」、厳冬に仕込まれる会津の銘酒に酔いしれる、冬の会津の旅情あふれる名宿へご案内します。
             </p>
           </div>
         </header>
       <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
-        <ShareButtons title={"【幻想の浮き舞台雪景色と文化財雪見ろうそく】2026-2027年12-1月真冬の福島・会津芦ノ牧＆東山温泉！「大川荘」＆登録有形文化財「向瀧」・渓谷雪見露天と極上会津馬刺し名宿5選"} url={"https://croud-travel.pages.dev/winter-fukushima-aizu-ashinomaki-higashiyama-luxury-ookawaso-mukaitaki-snow-stay/"} />
+        <ShareButtons title={"【会津・東山＆芦ノ牧温泉高級宿5選】渓谷雪見露天風呂と会津馬刺し・文化財名宿旅"} url={"https://croud-travel.pages.dev/winter-fukushima-aizu-ashinomaki-higashiyama-luxury-ookawaso-mukaitaki-snow-stay/"} />
       </div>
 
         <div className="max-w-4xl mx-auto px-4 mt-10 space-y-12">
           {/* 導入部 */}
-          <section className="bg-white rounded-2xl p-6 md:p-8 shadow-sm border border-slate-200/80 leading-relaxed text-slate-700">
-            <h2 className="text-xl md:text-2xl font-bold text-slate-900 border-b border-amber-200 pb-3 mb-4">冬の会津若松・東山温泉・芦ノ牧温泉で過ごす至福のひととき</h2>
-            <p className="text-base leading-loose">
-              福島県西部に位置し、白虎隊の歴史や名城・鶴ヶ城で知られる城下町『会津若松』。その奥座敷として湯川の渓流沿いに広がる『会津東山温泉（ひがしやまおんせん）』と、阿賀川（大川）の深い渓谷沿いに湧く『会津芦ノ牧温泉（あしのまきおんせん）』は、冬になると一面の白銀世界に包まれる東北屈指の雪見温泉郷です。東山温泉は天平時代に行基が開湯したと伝わる約1300年の名湯で、江戸時代には会津藩の湯治場として栄え、新選組の土方歳三や文豪・竹久夢二、与謝野晶子らが愛逗留しました。12月から1月にかけての厳冬期には、深い渓谷に深々と雪が降り積もり、水墨画のような息を呑む幽玄の景観が広がります。この冬の会津で全国の旅人を魅了してやまないのが、大川渓谷の断崖に佇み吹き抜けロビーの三味線浮き舞台や段々の絶景露天風呂が話題の『会津芦ノ牧温泉 大川荘』。そして、明治初期建築の木造建築が国の登録有形文化財第1号に指定され、冬の中庭の斜面に約百本の竹筒ろうそくが灯る奇跡の風物詩『雪見ろうそく』を誇る『会津東山温泉 向瀧（むかいたき）』。さらには会津若松の街並みと雪景色を一望するパノラマ展望露天風呂『宙の湯』を備えた『御宿 東鳳』など、歴史と自然が織りなす最高峰の名宿が揃います。夕食には、赤身の濃厚な旨味と特製辛子味噌が絶妙な本場『会津極上馬刺し』、きめ細やかな霜降りの『福島牛』陶板焼き、ホタテの干し貝柱の出汁が香る会津伝統の郷土料理『こづゆ』、そして雪国の清冽な仕込み水と米が醸す厳冬の『会津地酒』。湯煙立ちのぼる雪見露天風呂で身体の芯まで温まり、滋味あふれる郷土会席に舌鼓を打つ――それは冬の東北だからこそ出逢える、魂が震えるほどの旅情です。
-            </p>
+          <section className="bg-white rounded-2xl p-6 md:p-8 shadow-sm border border-slate-200/80 space-y-6 text-slate-700">
+            <div>
+              <h2 className="text-xl md:text-2xl font-bold text-slate-900 border-b-2 border-amber-500 pb-3 mb-4">
+                冬の会津若松・東山温泉・芦ノ牧温泉で過ごす至福のひととき
+              </h2>
+              <p className="text-base md:text-lg leading-relaxed font-medium text-slate-800">
+                名城・鶴ヶ城の城下町会津若松の奥座敷、湯川と大川の渓谷に佇む東山温泉・芦ノ牧温泉。白銀に輝く渓谷美と文化財の木造建築、極上の雪見風呂へ。
+              </p>
+            </div>
+
+            <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+              <div className="bg-slate-50 p-4 rounded-xl border border-slate-200">
+                <h3 className="font-bold text-slate-900 text-sm flex items-center gap-1.5 mb-2">
+                  <span className="text-amber-600">❄️ 幻想的な浮き舞台と雪見ろうそく</span>
+                </h3>
+                <p className="text-xs md:text-sm text-slate-600 leading-relaxed">
+                  「大川荘」の三味線が響く浮き舞台や、登録有形文化財「向瀧」の中庭に灯る雪見ろうそく。幽玄で息を呑む冬の絶景が迎えます。
+                </p>
+              </div>
+              <div className="bg-slate-50 p-4 rounded-xl border border-slate-200">
+                <h3 className="font-bold text-slate-900 text-sm flex items-center gap-1.5 mb-2">
+                  <span className="text-amber-600">♨️ 渓谷を眼下に望む雪見絶景露天風呂</span>
+                </h3>
+                <p className="text-xs md:text-sm text-slate-600 leading-relaxed">
+                  阿賀川の雪化粧した断崖を見下ろす段々露天風呂「四季舞台たな田」など、大自然のパノラマと豊かな自家源泉に癒やされます。
+                </p>
+              </div>
+            </div>
+
+            <div className="bg-amber-50/70 p-4 md:p-5 rounded-xl border border-amber-200/80 text-sm text-slate-700 leading-relaxed">
+              <p className="font-bold text-amber-950 mb-1">🍴 会津極上赤身馬刺しと会津地鶏・郷土料理</p>
+              辛子味噌でいただく新鮮な極上桜肉（馬刺し）や会津地鶏の鍋、会津の清らかな伏流水で醸された全国新酒鑑評会金賞の日本酒を堪能。
+            </div>
           </section>
 
           {/* 訪れるべき3つの理由 */}
@@ -661,7 +689,7 @@ export default function Page() {
         </div>
       
       <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
-        <ShareButtons title={"【幻想の浮き舞台雪景色と文化財雪見ろうそく】2026-2027年12-1月真冬の福島・会津芦ノ牧＆東山温泉！「大川荘」＆登録有形文化財「向瀧」・渓谷雪見露天と極上会津馬刺し名宿5選"} url={"https://croud-travel.pages.dev/winter-fukushima-aizu-ashinomaki-higashiyama-luxury-ookawaso-mukaitaki-snow-stay/"} />
+        <ShareButtons title={"【会津・東山＆芦ノ牧温泉高級宿5選】渓谷雪見露天風呂と会津馬刺し・文化財名宿旅"} url={"https://croud-travel.pages.dev/winter-fukushima-aizu-ashinomaki-higashiyama-luxury-ookawaso-mukaitaki-snow-stay/"} />
       </div>
       </article>
     </>
