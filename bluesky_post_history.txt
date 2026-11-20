@@ -351,3 +351,4 @@ showcase_miyazaki
 january-gifu-hidatakayama-10selection
 showcase_nara
 monthly-hotel-november-brand-crab-onsen-gourmet-18926
+showcase_kyoto
