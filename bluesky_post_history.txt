@@ -355,3 +355,4 @@ showcase_kyoto
 silverweek-couple-travel-guide
 showcase_iwate
 monthly-feature-november-brand-crab-onsen-gourmet
+showcase_fukushima
