@@ -90,4 +90,4 @@ A. 鉄分を豊富に含み空気に触れて赤茶色に濁る含鉄炭酸泉�
 ---
 
 🔗 **本編の詳細な解説・料金比較・アクセス情報は公式サイトで公開中！**  
-👉 [【滋賀・長浜/湖北】冬の琵琶湖・湖北雪景色と伝統「天然真鴨鍋」完全攻略ガイド本編はこちら](https://croud-travel.pages.dev/winter-shiga-nagahama-kohoku-wild-duck-nabe-taiko-onsen-hotels-guide/)
+👉 [【滋賀・長浜/湖北】冬の琵琶湖・湖北雪景色と伝統「天然真鴨鍋」完全攻略ガイド本編はこちら](https://croud-travel.pages.dev/posts/winter-shiga-nagahama-kohoku-wild-duck-nabe-taiko-onsen-hotels-guide/)

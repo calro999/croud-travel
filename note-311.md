@@ -94,4 +94,4 @@ A. はい、路面凍結（ブラックアイスバーン）が発生するた�
 ---
 
 🔗 **本編の詳細な解説・料金比較・アクセス情報は公式サイトで公開中！**  
-👉 [【山梨・河口湖】「河口湖 冬花火2027」完全攻略ガイド本編はこちら](https://croud-travel.pages.dev/winter-yamanashi-kawaguchiko-winter-fireworks-fuji-view-hotels-guide/)
+👉 [【山梨・河口湖】「河口湖 冬花火2027」完全攻略ガイド本編はこちら](https://croud-travel.pages.dev/posts/winter-yamanashi-kawaguchiko-winter-fireworks-fuji-view-hotels-guide/)

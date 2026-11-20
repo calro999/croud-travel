@@ -90,4 +90,4 @@ A. 塩化物泉や硫酸塩泉が多く、湯量が極めて豊富です。塩�
 ---
 
 🔗 **本編の詳細な解説・料金比較・アクセス情報は公式サイトで公開中！**  
-👉 [【静岡・熱海・伊豆山温泉・南熱海】厳選おすすめ宿＆観光ルート完全ガイド本編はこちら](https://croud-travel.pages.dev/posts/winter-shizuoka-atami-izusan-luxury-sekaie-ocean-roten-iseebi-stay/)
+👉 [【静岡・熱海・伊豆山温泉・南熱海】厳選おすすめ宿＆観光ルート完全ガイド本編はこちら](https://croud-travel.pages.dev/winter-shizuoka-atami-izusan-luxury-sekaie-ocean-roten-iseebi-stay/)

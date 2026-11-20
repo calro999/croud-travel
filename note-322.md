@@ -90,4 +90,4 @@ A. 渋滞を完全に回避してイルミ会場から徒歩で戻れる「PICA�
 ---
 
 🔗 **本編の詳細な解説・料金比較・アクセス情報は公式サイトで公開中！**  
-👉 [【さがみ湖イルミリオン2026-2027】関東三大イルミネーション600万球の絶景と相模湖・高尾山温泉完全攻略ガイド本編はこちら](https://croud-travel.pages.dev/posts/winter-kanagawa-sagamiko-illumillion-kanto-three-great-lightup-hotels-guide)
+👉 [【さがみ湖イルミリオン2026-2027】関東三大イルミネーション600万球の絶景と相模湖・高尾山温泉完全攻略ガイド本編はこちら](https://croud-travel.pages.dev/posts/winter-kanagawa-sagamiko-illumillion-kanto-three-great-lightup-hotels-guide/)

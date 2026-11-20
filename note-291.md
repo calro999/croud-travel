@@ -90,4 +90,4 @@ A. 周辺道路が大変混雑するため、小田急線や江ノ電など公�
 ---
 
 🔗 **本編の詳細な解説・料金比較・アクセス情報は公式サイトで公開中！**  
-👉 [【神奈川・湘南江の島/鎌倉】江の島「湘南の宝石2026-2027」＆冬の古都散策完全攻略ガイド本編はこちら](https://croud-travel.pages.dev/winter-kanagawa-enoshima-shonan-jewel-illumination-kamakura-hotels-guide/)
+👉 [【神奈川・湘南江の島/鎌倉】江の島「湘南の宝石2026-2027」＆冬の古都散策完全攻略ガイド本編はこちら](https://croud-travel.pages.dev/posts/winter-kanagawa-enoshima-shonan-jewel-illumination-kamakura-hotels-guide/)

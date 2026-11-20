@@ -90,4 +90,4 @@ A. 部屋のジャグジーからポートタワー夜景を見るなら「ホ�
 ---
 
 🔗 **本編の詳細な解説・料金比較・アクセス情報は公式サイトで公開中！**  
-👉 [【神戸】神戸布引ハーブ園「古城のクリスマス2026」＆神戸港ウォーターフロント冬夜景完全攻略ガイド本編はこちら](https://croud-travel.pages.dev/posts/winter-hyogo-kobe-herb-gardens-christmas-waterfront-hotels-guide)
+👉 [【神戸】神戸布引ハーブ園「古城のクリスマス2026」＆神戸港ウォーターフロント冬夜景完全攻略ガイド本編はこちら](https://croud-travel.pages.dev/posts/winter-hyogo-kobe-herb-gardens-christmas-waterfront-hotels-guide/)

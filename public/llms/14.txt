@@ -1,4 +1,14 @@
-# 神奈川県の宿泊・観光記事（85件）
+# 神奈川県の宿泊・観光記事（86件）
+
+## 【2027年春・神奈川花見温泉】小田原城・鎌倉段葛〜箱根強羅へ「3週間の桜リレー」を狙う海と温泉の厳選宿5選
+- 記事: https://croud-travel.pages.dev/posts/hanami-2027-kanagawa-hakone-kamakura-odawara-sakura-onsen-hotels-guide/
+- 全文Markdown: https://croud-travel.pages.dev/ai/hanami-2027-kanagawa-hakone-kamakura-odawara-sakura-onsen-hotels-guide.md
+- 宿泊施設名: 箱根湯本温泉　天成園・鎌倉プリンスホテル ほか厳選5宿
+- エリア: 箱根町・強羅・湯本・小田原・鎌倉
+- 参考価格: ¥8,800円〜〜
+- 評価: 4.32
+
+海側の小田原・鎌倉（3月下旬満開）から標高の高い箱根湯本・強羅・宮城野早川堤（4月中旬満開）まで、標高差で桜を約3週間追いかけられる神奈川・箱根の早期予約ガイド。楽天API実在5宿の部屋選び＆混雑回避策を解説。
 
 ## 【2027年2月バレンタイン旅行】カップルで行きたい露天風呂付き客室＆極上ディナーの名宿6選！チョコの代わりに贈る非日常の記念日デート
 - 記事: https://croud-travel.pages.dev/posts/february-valentine-date-private-onsen-dinner-luxury-hotels-guide/

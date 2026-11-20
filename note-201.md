@@ -90,4 +90,4 @@ A. 宿泊者全員が利用できるサービスで、夕刻の17時〜19時に�
 ---
 
 🔗 **本編の詳細な解説・料金比較・アクセス情報は公式サイトで公開中！**  
-👉 [【京都・嵐山・嵯峨野】厳選おすすめ宿＆観光ルート完全ガイド本編はこちら](https://croud-travel.pages.dev/posts/winter-kyoto-arashiyama-luxury-suiran-roten-suite-kaiseki-stay/)
+👉 [【京都・嵐山・嵯峨野】厳選おすすめ宿＆観光ルート完全ガイド本編はこちら](https://croud-travel.pages.dev/winter-kyoto-arashiyama-luxury-suiran-roten-suite-kaiseki-stay/)

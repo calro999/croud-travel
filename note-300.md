@@ -89,4 +89,4 @@ A. 諏訪地域は標高が高く朝晩激しく凍結するため、スタッ�
 ---
 
 🔗 **本編の詳細な解説・料金比較・アクセス情報は公式サイトで公開中！**  
-👉 [【長野・諏訪湖/上諏訪】諏訪大社四社めぐり新春初詣＆御神渡り祈願完全攻略ガイド本編はこちら](https://croud-travel.pages.dev/winter-nagano-suwa-taisha-hatsumode-omiwatari-kamisuwa-onsen-hotels-guide/)
+👉 [【長野・諏訪湖/上諏訪】諏訪大社四社めぐり新春初詣＆御神渡り祈願完全攻略ガイド本編はこちら](https://croud-travel.pages.dev/posts/winter-nagano-suwa-taisha-hatsumode-omiwatari-kamisuwa-onsen-hotels-guide/)

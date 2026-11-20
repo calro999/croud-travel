@@ -90,4 +90,4 @@ A. 花火やオーシャンビューの開放感を客室から楽しみたい�
 ---
 
 🔗 **本編の詳細な解説・料金比較・アクセス情報は公式サイトで公開中！**  
-👉 [【別府】べっぷクリスマスファンタジア2026＆鉄輪温泉湯けむり完全攻略ガイド本編はこちら](https://croud-travel.pages.dev/posts/winter-oita-beppu-christmas-fantasia-fireworks-onsen-hotels-guide)
+👉 [【別府】べっぷクリスマスファンタジア2026＆鉄輪温泉湯けむり完全攻略ガイド本編はこちら](https://croud-travel.pages.dev/posts/winter-oita-beppu-christmas-fantasia-fireworks-onsen-hotels-guide/)

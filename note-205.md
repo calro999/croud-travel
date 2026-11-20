@@ -90,4 +90,4 @@ A. ミルクロード・やまなみハイウェイ経由で車で約1時間20�
 ---
 
 🔗 **本編の詳細な解説・料金比較・アクセス情報は公式サイトで公開中！**  
-👉 [【熊本・黒川温泉・瀬の本高原・南小国】厳選おすすめ宿＆観光ルート完全ガイド本編はこちら](https://croud-travel.pages.dev/posts/winter-kumamoto-kurokawa-luxury-takefue-hoshinoya-akaushi-stay/)
+👉 [【熊本・黒川温泉・瀬の本高原・南小国】厳選おすすめ宿＆観光ルート完全ガイド本編はこちら](https://croud-travel.pages.dev/winter-kumamoto-kurokawa-luxury-takefue-hoshinoya-akaushi-stay/)

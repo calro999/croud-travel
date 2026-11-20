@@ -90,4 +90,4 @@ A. 12月中旬〜2月は雪が降ることが多いため、車の場合はス�
 ---
 
 🔗 **本編の詳細な解説・料金比較・アクセス情報は公式サイトで公開中！**  
-👉 [【石川・加賀・山代温泉・山中温泉】厳選おすすめ宿＆観光ルート完全ガイド本編はこちら](https://croud-travel.pages.dev/posts/winter-ishikawa-kaga-yamashiro-luxury-araya-totoan-kanogani-stay/)
+👉 [【石川・加賀・山代温泉・山中温泉】厳選おすすめ宿＆観光ルート完全ガイド本編はこちら](https://croud-travel.pages.dev/winter-ishikawa-kaga-yamashiro-luxury-araya-totoan-kanogani-stay/)

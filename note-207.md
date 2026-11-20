@@ -90,4 +90,4 @@ A. 山間部の高標高エリア（えびの高原方面など）では積雪�
 ---
 
 🔗 **本編の詳細な解説・料金比較・アクセス情報は公式サイトで公開中！**  
-👉 [【鹿児島・霧島温泉郷・妙見温泉】厳選おすすめ宿＆観光ルート完全ガイド本編はこちら](https://croud-travel.pages.dev/posts/winter-kagoshima-kirishima-myoken-luxury-gajin-ishiharaso-kurobuta-stay/)
+👉 [【鹿児島・霧島温泉郷・妙見温泉】厳選おすすめ宿＆観光ルート完全ガイド本編はこちら](https://croud-travel.pages.dev/winter-kagoshima-kirishima-myoken-luxury-gajin-ishiharaso-kurobuta-stay/)

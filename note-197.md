@@ -90,4 +90,4 @@ A. 冬期（12月〜2月）はやまなみハイウェイやミルクロード�
 ---
 
 🔗 **本編の詳細な解説・料金比較・アクセス情報は公式サイトで公開中！**  
-👉 [【熊本・黒川温泉・奥黒川・南小国】厳選おすすめ宿＆観光ルート完全ガイド本編はこちら](https://croud-travel.pages.dev/posts/winter-kumamoto-kurokawa-shirakawa-luxury-takefue-gekkouju-akagyu-stay/)
+👉 [【熊本・黒川温泉・奥黒川・南小国】厳選おすすめ宿＆観光ルート完全ガイド本編はこちら](https://croud-travel.pages.dev/winter-kumamoto-kurokawa-shirakawa-luxury-takefue-gekkouju-akagyu-stay/)

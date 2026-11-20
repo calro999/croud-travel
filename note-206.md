@@ -90,4 +90,4 @@ A. 近隣の津居山港や柴山港で獲れた厳選松葉ガニプランも�
 ---
 
 🔗 **本編の詳細な解説・料金比較・アクセス情報は公式サイトで公開中！**  
-👉 [【京都・丹後・間人・夕日ヶ浦温泉・久美浜】厳選おすすめ宿＆観光ルート完全ガイド本編はこちら](https://croud-travel.pages.dev/posts/winter-kyoto-tango-taizagani-luxury-sumihei-amadori-matsuba-stay/)
+👉 [【京都・丹後・間人・夕日ヶ浦温泉・久美浜】厳選おすすめ宿＆観光ルート完全ガイド本編はこちら](https://croud-travel.pages.dev/winter-kyoto-tango-taizagani-luxury-sumihei-amadori-matsuba-stay/)

@@ -92,4 +92,4 @@ A. 然別湖周辺は難所のため、JR帯広駅からの路線バス（北海
 ---
 
 🔗 **本編の詳細な解説・料金比較・アクセス情報は公式サイトで公開中！**  
-👉 [【北海道・十勝/然別湖】極寒が生む奇跡「しかりべつ湖コタン2027」幻の氷上露天風呂＆十勝川モール温泉完全攻略ガイド本編はこちら](https://croud-travel.pages.dev/winter-hokkaido-shikaribetsuko-kotan-ice-bath-tokachigawa-moor-hotels-guide/)
+👉 [【北海道・十勝/然別湖】極寒が生む奇跡「しかりべつ湖コタン2027」幻の氷上露天風呂＆十勝川モール温泉完全攻略ガイド本編はこちら](https://croud-travel.pages.dev/posts/winter-hokkaido-shikaribetsuko-kotan-ice-bath-tokachigawa-moor-hotels-guide/)

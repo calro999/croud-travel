@@ -90,4 +90,4 @@ A. 雪が降ることが多いため、防寒コートのほか、宿で貸し�
 ---
 
 🔗 **本編の詳細な解説・料金比較・アクセス情報は公式サイトで公開中！**  
-👉 [【兵庫・城崎温泉・豊岡】厳選おすすめ宿＆観光ルート完全ガイド本編はこちら](https://croud-travel.pages.dev/posts/winter-hyogo-kinosaki-luxury-nishimuraya-mikiya-tsuiyamagani-stay/)
+👉 [【兵庫・城崎温泉・豊岡】厳選おすすめ宿＆観光ルート完全ガイド本編はこちら](https://croud-travel.pages.dev/winter-hyogo-kinosaki-luxury-nishimuraya-mikiya-tsuiyamagani-stay/)

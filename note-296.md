@@ -90,4 +90,4 @@ A. 16時前後に現地入りするか、伊豆急行線とタクシーを組み
 ---
 
 🔗 **本編の詳細な解説・料金比較・アクセス情報は公式サイトで公開中！**  
-👉 [【静岡・伊豆高原/伊東】伊豆高原グランイルミ2026-2027＆城ヶ崎海岸冬絶景完全攻略ガイド本編はこちら](https://croud-travel.pages.dev/winter-shizuoka-izukogen-granillumi-omuro-ito-onsen-hotels-guide/)
+👉 [【静岡・伊豆高原/伊東】伊豆高原グランイルミ2026-2027＆城ヶ崎海岸冬絶景完全攻略ガイド本編はこちら](https://croud-travel.pages.dev/posts/winter-shizuoka-izukogen-granillumi-omuro-ito-onsen-hotels-guide/)

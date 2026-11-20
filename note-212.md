@@ -90,4 +90,4 @@ A. 箸の代わりに丸ごと1本の長ネギを使って蕎麦をすくい、�
 ---
 
 🔗 **本編の詳細な解説・料金比較・アクセス情報は公式サイトで公開中！**  
-👉 [【福島・会津若松・東山温泉・芦ノ牧温泉】厳選おすすめ宿＆観光ルート完全ガイド本編はこちら](https://croud-travel.pages.dev/posts/winter-fukushima-aizu-ashinomaki-higashiyama-luxury-ookawaso-mukaitaki-snow-stay/)
+👉 [【福島・会津若松・東山温泉・芦ノ牧温泉】厳選おすすめ宿＆観光ルート完全ガイド本編はこちら](https://croud-travel.pages.dev/winter-fukushima-aizu-ashinomaki-higashiyama-luxury-ookawaso-mukaitaki-snow-stay/)

@@ -1,4 +1,14 @@
-# 広島県の宿泊・観光記事（47件）
+# 広島県の宿泊・観光記事（48件）
+
+## 【2027年春・西日本花見宿】宮島厳島神社・尾道千光寺・道後温泉・福岡城・熊本城！瀬戸内＆九州の名宿5選
+- 記事: https://croud-travel.pages.dev/posts/hanami-2027-west-japan-miyajima-onomichi-dogo-fukuoka-kumamoto-sakura-hotels-guide/
+- 全文Markdown: https://croud-travel.pages.dev/ai/hanami-2027-west-japan-miyajima-onomichi-dogo-fukuoka-kumamoto-sakura-hotels-guide.md
+- 宿泊施設名: 宮島潮湯温泉　錦水館・安芸グランドホテル ほか厳選5宿
+- エリア: 宮島・尾道・道後温泉・福岡博多・熊本城
+- 参考価格: ¥5,200円〜〜
+- 評価: 4.45
+
+海と朱色鳥居の桜が競演する「広島・宮島＆尾道千光寺公園」、日本最古の湯「愛媛・道後温泉＆松山城」、九州の城郭桜「福岡舞鶴公園＆熊本城」。3月下旬の早い開花に合わせて今押さえるべき西日本厳選5宿を解説。
 
 ## 【広島の直前予約・空室速報】週末連休・年末年始に今すぐ泊まれるおすすめ人気ホテル＆温泉宿
 - 記事: https://croud-travel.pages.dev/posts/obon-hiroshima-lastminute-guide/

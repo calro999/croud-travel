@@ -90,4 +90,4 @@ A. 「インターコンチネンタル横浜Pier 8」が最も近く、海沿�
 ---
 
 🔗 **本編の詳細な解説・料金比較・アクセス情報は公式サイトで公開中！**  
-👉 [【横浜】クリスマスマーケット in 横浜赤レンガ倉庫2026＆ヨコハマミライト完全攻略ガイド本編はこちら](https://croud-travel.pages.dev/posts/winter-kanagawa-yokohama-redbrick-christmas-market-minatomirai-hotels-guide)
+👉 [【横浜】クリスマスマーケット in 横浜赤レンガ倉庫2026＆ヨコハマミライト完全攻略ガイド本編はこちら](https://croud-travel.pages.dev/posts/winter-kanagawa-yokohama-redbrick-christmas-market-minatomirai-hotels-guide/)

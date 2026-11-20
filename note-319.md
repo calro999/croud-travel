@@ -90,4 +90,4 @@ A. 部屋のバルコニーから真ん前で花火を見るなら「ヒルト�
 ---
 
 🔗 **本編の詳細な解説・料金比較・アクセス情報は公式サイトで公開中！**  
-👉 [【お台場】お台場レインボー花火2026＆レインボーブリッジスペシャルライトアップ完全攻略ガイド本編はこちら](https://croud-travel.pages.dev/posts/winter-tokyo-odaiba-rainbow-fireworks-bayview-hotels-guide)
+👉 [【お台場】お台場レインボー花火2026＆レインボーブリッジスペシャルライトアップ完全攻略ガイド本編はこちら](https://croud-travel.pages.dev/posts/winter-tokyo-odaiba-rainbow-fireworks-bayview-hotels-guide/)

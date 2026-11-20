@@ -90,4 +90,4 @@ A. 会場直結で部屋からイルミネーションを見下ろせる「東�
 ---
 
 🔗 **本編の詳細な解説・料金比較・アクセス情報は公式サイトで公開中！**  
-👉 [【東京ドームシティ】ウィンターイルミネーション2026-2027＆都心天然温泉「スパ ラクーア」完全攻略ガイド本編はこちら](https://croud-travel.pages.dev/posts/winter-tokyo-dome-city-illumination-spa-laqua-hotels-guide)
+👉 [【東京ドームシティ】ウィンターイルミネーション2026-2027＆都心天然温泉「スパ ラクーア」完全攻略ガイド本編はこちら](https://croud-travel.pages.dev/posts/winter-tokyo-dome-city-illumination-spa-laqua-hotels-guide/)

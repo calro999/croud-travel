@@ -90,4 +90,4 @@ A. 日中（10:00〜15:00）がピークのため、宿泊して朝一番（8:30
 ---
 
 🔗 **本編の詳細な解説・料金比較・アクセス情報は公式サイトで公開中！**  
-👉 [【栃木・足利/佐野】あしかがフラワーパーク「光の花の庭」＆佐野厄除け大師完全攻略ガイド本編はこちら](https://croud-travel.pages.dev/winter-tochigi-ashikaga-flowerpark-illumination-sano-hotels-guide/)
+👉 [【栃木・足利/佐野】あしかがフラワーパーク「光の花の庭」＆佐野厄除け大師完全攻略ガイド本編はこちら](https://croud-travel.pages.dev/posts/winter-tochigi-ashikaga-flowerpark-illumination-sano-hotels-guide/)

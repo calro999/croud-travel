@@ -90,4 +90,4 @@ A. 真冬はマイナス10℃〜マイナス15℃に達します。風を通さ�
 ---
 
 🔗 **本編の詳細な解説・料金比較・アクセス情報は公式サイトで公開中！**  
-👉 [【岐阜・奥飛騨温泉郷/新穂高】新穂高ロープウェイ白銀パノラマ＆雪見露天風呂完全攻略ガイド本編はこちら](https://croud-travel.pages.dev/winter-okuhida-shin-hotaka-ropeway-snow-onsen-hotels-guide/)
+👉 [【岐阜・奥飛騨温泉郷/新穂高】新穂高ロープウェイ白銀パノラマ＆雪見露天風呂完全攻略ガイド本編はこちら](https://croud-travel.pages.dev/posts/winter-okuhida-shin-hotaka-ropeway-snow-onsen-hotels-guide/)

@@ -90,4 +90,4 @@ A. 「たんちょう釧路空港」（車・バスで約60分）または「女
 ---
 
 🔗 **本編の詳細な解説・料金比較・アクセス情報は公式サイトで公開中！**  
-👉 [【北海道・阿寒/摩周】奇跡の絶景「フロストフラワー＆摩周湖霧氷」完全攻略ガイド本編はこちら](https://croud-travel.pages.dev/winter-hokkaido-akan-mashu-frost-flower-ice-lake-onsen-hotels-guide/)
+👉 [【北海道・阿寒/摩周】奇跡の絶景「フロストフラワー＆摩周湖霧氷」完全攻略ガイド本編はこちら](https://croud-travel.pages.dev/posts/winter-hokkaido-akan-mashu-frost-flower-ice-lake-onsen-hotels-guide/)

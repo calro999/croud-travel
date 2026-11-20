@@ -90,4 +90,4 @@ A. 屋上天然温泉プールを備え駅直結の「都ホテル 博多」、�
 ---
 
 🔗 **本編の詳細な解説・料金比較・アクセス情報は公式サイトで公開中！**  
-👉 [【博多】光の街・博多2026＆福岡クリスマスアドベント完全攻略ガイド本編はこちら](https://croud-travel.pages.dev/posts/winter-fukuoka-hakata-christmas-advent-illumination-hotels-guide)
+👉 [【博多】光の街・博多2026＆福岡クリスマスアドベント完全攻略ガイド本編はこちら](https://croud-travel.pages.dev/posts/winter-fukuoka-hakata-christmas-advent-illumination-hotels-guide/)

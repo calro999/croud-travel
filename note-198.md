@@ -90,4 +90,4 @@ A. 最大水深363mと日本で2番目に深く、湖底に温かい水が循環
 ---
 
 🔗 **本編の詳細な解説・料金比較・アクセス情報は公式サイトで公開中！**  
-👉 [【北海道・支笏湖・千歳】厳選おすすめ宿＆観光ルート完全ガイド本編はこちら](https://croud-travel.pages.dev/posts/winter-hokkaido-shikotsuko-luxury-aonoza-suizantei-shiraogyu-stay/)
+👉 [【北海道・支笏湖・千歳】厳選おすすめ宿＆観光ルート完全ガイド本編はこちら](https://croud-travel.pages.dev/winter-hokkaido-shikotsuko-luxury-aonoza-suizantei-shiraogyu-stay/)

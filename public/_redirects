@@ -1,3 +1,25 @@
+# Hanami 2027 Killer Child Pages Cluster (Root -> Posts)
+/hanami-2027-tokyo-megurogawa-chidorigafuchi-sakura-view-hotels-guide /posts/hanami-2027-tokyo-megurogawa-chidorigafuchi-sakura-view-hotels-guide/ 301
+/hanami-2027-tokyo-megurogawa-chidorigafuchi-sakura-view-hotels-guide/ /posts/hanami-2027-tokyo-megurogawa-chidorigafuchi-sakura-view-hotels-guide/ 301
+/hanami-2027-kyoto-arashiyama-higashiyama-maruyama-sakura-hotels-guide /posts/hanami-2027-kyoto-arashiyama-higashiyama-maruyama-sakura-hotels-guide/ 301
+/hanami-2027-kyoto-arashiyama-higashiyama-maruyama-sakura-hotels-guide/ /posts/hanami-2027-kyoto-arashiyama-higashiyama-maruyama-sakura-hotels-guide/ 301
+/hanami-2027-kanagawa-hakone-kamakura-odawara-sakura-onsen-hotels-guide /posts/hanami-2027-kanagawa-hakone-kamakura-odawara-sakura-onsen-hotels-guide/ 301
+/hanami-2027-kanagawa-hakone-kamakura-odawara-sakura-onsen-hotels-guide/ /posts/hanami-2027-kanagawa-hakone-kamakura-odawara-sakura-onsen-hotels-guide/ 301
+/hanami-2027-yamanashi-kawaguchiko-fuji-shizuoka-sakura-onsen-hotels-guide /posts/hanami-2027-yamanashi-kawaguchiko-fuji-shizuoka-sakura-onsen-hotels-guide/ 301
+/hanami-2027-yamanashi-kawaguchiko-fuji-shizuoka-sakura-onsen-hotels-guide/ /posts/hanami-2027-yamanashi-kawaguchiko-fuji-shizuoka-sakura-onsen-hotels-guide/ 301
+/hanami-2027-tohoku-hirosaki-kakunodate-shiroishi-tsurugajo-sakura-hotels-guide /posts/hanami-2027-tohoku-hirosaki-kakunodate-shiroishi-tsurugajo-sakura-hotels-guide/ 301
+/hanami-2027-tohoku-hirosaki-kakunodate-shiroishi-tsurugajo-sakura-hotels-guide/ /posts/hanami-2027-tohoku-hirosaki-kakunodate-shiroishi-tsurugajo-sakura-hotels-guide/ 301
+/hanami-2027-hokkaido-hakodate-goryokaku-matsumae-sapporo-sakura-hotels-guide /posts/hanami-2027-hokkaido-hakodate-goryokaku-matsumae-sapporo-sakura-hotels-guide/ 301
+/hanami-2027-hokkaido-hakodate-goryokaku-matsumae-sapporo-sakura-hotels-guide/ /posts/hanami-2027-hokkaido-hakodate-goryokaku-matsumae-sapporo-sakura-hotels-guide/ 301
+/hanami-2027-hokuriku-koshinetsu-kenrokuen-takato-takada-sakura-hotels-guide /posts/hanami-2027-hokuriku-koshinetsu-kenrokuen-takato-takada-sakura-hotels-guide/ 301
+/hanami-2027-hokuriku-koshinetsu-kenrokuen-takato-takada-sakura-hotels-guide/ /posts/hanami-2027-hokuriku-koshinetsu-kenrokuen-takato-takada-sakura-hotels-guide/ 301
+/hanami-2027-tokai-aichi-nagoya-inuyama-gifu-sakura-onsen-hotels-guide /posts/hanami-2027-tokai-aichi-nagoya-inuyama-gifu-sakura-onsen-hotels-guide/ 301
+/hanami-2027-tokai-aichi-nagoya-inuyama-gifu-sakura-onsen-hotels-guide/ /posts/hanami-2027-tokai-aichi-nagoya-inuyama-gifu-sakura-onsen-hotels-guide/ 301
+/hanami-2027-kansai-nara-yoshinoyama-osaka-castle-himeji-sakura-hotels-guide /posts/hanami-2027-kansai-nara-yoshinoyama-osaka-castle-himeji-sakura-hotels-guide/ 301
+/hanami-2027-kansai-nara-yoshinoyama-osaka-castle-himeji-sakura-hotels-guide/ /posts/hanami-2027-kansai-nara-yoshinoyama-osaka-castle-himeji-sakura-hotels-guide/ 301
+/hanami-2027-west-japan-miyajima-onomichi-dogo-fukuoka-kumamoto-sakura-hotels-guide /posts/hanami-2027-west-japan-miyajima-onomichi-dogo-fukuoka-kumamoto-sakura-hotels-guide/ 301
+/hanami-2027-west-japan-miyajima-onomichi-dogo-fukuoka-kumamoto-sakura-hotels-guide/ /posts/hanami-2027-west-japan-miyajima-onomichi-dogo-fukuoka-kumamoto-sakura-hotels-guide/ 301
+
 # Jan-Feb-Mar 2027 Feature Cluster (Root -> Posts)
 /winter-early-spring-jan-feb-mar-travel-japan-hub-guide /posts/winter-early-spring-jan-feb-mar-travel-japan-hub-guide/ 301
 /winter-early-spring-jan-feb-mar-travel-japan-hub-guide/ /posts/winter-early-spring-jan-feb-mar-travel-japan-hub-guide/ 301
@@ -749,6 +771,41 @@
 /posts/kusatsu_now_resort/ /posts/kusatsu-now-resort/ 301
 /spots/wakita-yunos%20eko /spots/wakita-yunoseko/ 301
 /spots/wakita-yunos%20eko/ /spots/wakita-yunoseko/ 301
+
+
+# Note 194-209 winter luxury redirects (/posts/slug -> /slug/)
+/posts/winter-shizuoka-izukogen-luxury-hanare-roten-zagyoso-kinmedai-stay /winter-shizuoka-izukogen-luxury-hanare-roten-zagyoso-kinmedai-stay/ 301
+/posts/winter-shizuoka-izukogen-luxury-hanare-roten-zagyoso-kinmedai-stay/ /winter-shizuoka-izukogen-luxury-hanare-roten-zagyoso-kinmedai-stay/ 301
+/posts/winter-hyogo-arima-onsen-luxury-kinzan-gold-silver-kobe-beef-stay /winter-hyogo-arima-onsen-luxury-kinzan-gold-silver-kobe-beef-stay/ 301
+/posts/winter-hyogo-arima-onsen-luxury-kinzan-gold-silver-kobe-beef-stay/ /winter-hyogo-arima-onsen-luxury-kinzan-gold-silver-kobe-beef-stay/ 301
+/posts/winter-nagano-tobira-onsen-myojinkan-relais-chateaux-shinshu-french-stay /winter-nagano-tobira-onsen-myojinkan-relais-chateaux-shinshu-french-stay/ 301
+/posts/winter-nagano-tobira-onsen-myojinkan-relais-chateaux-shinshu-french-stay/ /winter-nagano-tobira-onsen-myojinkan-relais-chateaux-shinshu-french-stay/ 301
+/posts/winter-kumamoto-kurokawa-shirakawa-luxury-takefue-gekkouju-akagyu-stay /winter-kumamoto-kurokawa-shirakawa-luxury-takefue-gekkouju-akagyu-stay/ 301
+/posts/winter-kumamoto-kurokawa-shirakawa-luxury-takefue-gekkouju-akagyu-stay/ /winter-kumamoto-kurokawa-shirakawa-luxury-takefue-gekkouju-akagyu-stay/ 301
+/posts/winter-hokkaido-shikotsuko-luxury-aonoza-suizantei-shiraogyu-stay /winter-hokkaido-shikotsuko-luxury-aonoza-suizantei-shiraogyu-stay/ 301
+/posts/winter-hokkaido-shikotsuko-luxury-aonoza-suizantei-shiraogyu-stay/ /winter-hokkaido-shikotsuko-luxury-aonoza-suizantei-shiraogyu-stay/ 301
+/posts/winter-tochigi-nikko-chuzenji-lake-luxury-ritz-carlton-kanaya-stay /winter-tochigi-nikko-chuzenji-lake-luxury-ritz-carlton-kanaya-stay/ 301
+/posts/winter-tochigi-nikko-chuzenji-lake-luxury-ritz-carlton-kanaya-stay/ /winter-tochigi-nikko-chuzenji-lake-luxury-ritz-carlton-kanaya-stay/ 301
+/posts/winter-shizuoka-atami-izusan-luxury-sekaie-ocean-roten-iseebi-stay /winter-shizuoka-atami-izusan-luxury-sekaie-ocean-roten-iseebi-stay/ 301
+/posts/winter-shizuoka-atami-izusan-luxury-sekaie-ocean-roten-iseebi-stay/ /winter-shizuoka-atami-izusan-luxury-sekaie-ocean-roten-iseebi-stay/ 301
+/posts/winter-kyoto-arashiyama-luxury-suiran-roten-suite-kaiseki-stay /winter-kyoto-arashiyama-luxury-suiran-roten-suite-kaiseki-stay/ 301
+/posts/winter-kyoto-arashiyama-luxury-suiran-roten-suite-kaiseki-stay/ /winter-kyoto-arashiyama-luxury-suiran-roten-suite-kaiseki-stay/ 301
+/posts/winter-ishikawa-kaga-yamashiro-luxury-araya-totoan-kanogani-stay /winter-ishikawa-kaga-yamashiro-luxury-araya-totoan-kanogani-stay/ 301
+/posts/winter-ishikawa-kaga-yamashiro-luxury-araya-totoan-kanogani-stay/ /winter-ishikawa-kaga-yamashiro-luxury-araya-totoan-kanogani-stay/ 301
+/posts/winter-mie-ago-bay-luxury-basara-shimanokaze-matsusaka-stay /winter-mie-ago-bay-luxury-basara-shimanokaze-matsusaka-stay/ 301
+/posts/winter-mie-ago-bay-luxury-basara-shimanokaze-matsusaka-stay/ /winter-mie-ago-bay-luxury-basara-shimanokaze-matsusaka-stay/ 301
+/posts/winter-yamanashi-kawaguchiko-luxury-fufu-konansou-fuji-stay /winter-yamanashi-kawaguchiko-luxury-fufu-konansou-fuji-stay/ 301
+/posts/winter-yamanashi-kawaguchiko-luxury-fufu-konansou-fuji-stay/ /winter-yamanashi-kawaguchiko-luxury-fufu-konansou-fuji-stay/ 301
+/posts/winter-kumamoto-kurokawa-luxury-takefue-hoshinoya-akaushi-stay /winter-kumamoto-kurokawa-luxury-takefue-hoshinoya-akaushi-stay/ 301
+/posts/winter-kumamoto-kurokawa-luxury-takefue-hoshinoya-akaushi-stay/ /winter-kumamoto-kurokawa-luxury-takefue-hoshinoya-akaushi-stay/ 301
+/posts/winter-kyoto-tango-taizagani-luxury-sumihei-amadori-matsuba-stay /winter-kyoto-tango-taizagani-luxury-sumihei-amadori-matsuba-stay/ 301
+/posts/winter-kyoto-tango-taizagani-luxury-sumihei-amadori-matsuba-stay/ /winter-kyoto-tango-taizagani-luxury-sumihei-amadori-matsuba-stay/ 301
+/posts/winter-kagoshima-kirishima-myoken-luxury-gajin-ishiharaso-kurobuta-stay /winter-kagoshima-kirishima-myoken-luxury-gajin-ishiharaso-kurobuta-stay/ 301
+/posts/winter-kagoshima-kirishima-myoken-luxury-gajin-ishiharaso-kurobuta-stay/ /winter-kagoshima-kirishima-myoken-luxury-gajin-ishiharaso-kurobuta-stay/ 301
+/posts/winter-shizuoka-izu-shuzenji-luxury-asaba-sora-onsen-stay /winter-shizuoka-izu-shuzenji-luxury-asaba-sora-onsen-stay/ 301
+/posts/winter-shizuoka-izu-shuzenji-luxury-asaba-sora-onsen-stay/ /winter-shizuoka-izu-shuzenji-luxury-asaba-sora-onsen-stay/ 301
+/posts/winter-hokkaido-niseko-luxury-resort-parkhyatt-setsuniseko-yotei-stay /winter-hokkaido-niseko-luxury-resort-parkhyatt-setsuniseko-yotei-stay/ 301
+/posts/winter-hokkaido-niseko-luxury-resort-parkhyatt-setsuniseko-yotei-stay/ /winter-hokkaido-niseko-luxury-resort-parkhyatt-setsuniseko-yotei-stay/ 301
 
 # 7. Note drafts redirect to home (preserve SEO equity, prevent 404/GSC crawl errors)
 /posts/note-:slug / 301

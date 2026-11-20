@@ -90,4 +90,4 @@ A. 重要文化財駅舎内に泊まる唯一無二の体験なら「東京ス�
 ---
 
 🔗 **本編の詳細な解説・料金比較・アクセス情報は公式サイトで公開中！**  
-👉 [【丸の内】丸の内イルミネーション2026＆東京駅丸の内駅舎ライトアップ完全攻略ガイド本編はこちら](https://croud-travel.pages.dev/posts/winter-tokyo-marunouchi-illumination-tokyo-station-luxury-hotels-guide)
+👉 [【丸の内】丸の内イルミネーション2026＆東京駅丸の内駅舎ライトアップ完全攻略ガイド本編はこちら](https://croud-travel.pages.dev/posts/winter-tokyo-marunouchi-illumination-tokyo-station-luxury-hotels-guide/)

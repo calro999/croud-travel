@@ -90,4 +90,4 @@ A. 4WD＋スタッドレス必須です。吹雪時の視界不良や道路凍�
 ---
 
 🔗 **本編の詳細な解説・料金比較・アクセス情報は公式サイトで公開中！**  
-👉 [【秋田・横手/湯沢】横手の雪まつり「かまくら2027」＆泥湯・秋ノ宮温泉郷完全攻略ガイド本編はこちら](https://croud-travel.pages.dev/winter-akita-yokote-kamakura-snow-festival-yuzawa-onsen-hotels-guide/)
+👉 [【秋田・横手/湯沢】横手の雪まつり「かまくら2027」＆泥湯・秋ノ宮温泉郷完全攻略ガイド本編はこちら](https://croud-travel.pages.dev/posts/winter-akita-yokote-kamakura-snow-festival-yuzawa-onsen-hotels-guide/)

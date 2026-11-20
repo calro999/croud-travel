@@ -90,4 +90,4 @@ A. 12月下旬〜2月は雪が降ることが多いため、車の場合はス�
 ---
 
 🔗 **本編の詳細な解説・料金比較・アクセス情報は公式サイトで公開中！**  
-👉 [【鳥取・三朝温泉・皆生温泉・倉吉】厳選おすすめ宿＆観光ルート完全ガイド本編はこちら](https://croud-travel.pages.dev/posts/winter-tottori-misasa-kaike-luxury-matsubagani-ryokan-ohashi-yugetsu-stay/)
+👉 [【鳥取・三朝温泉・皆生温泉・倉吉】厳選おすすめ宿＆観光ルート完全ガイド本編はこちら](https://croud-travel.pages.dev/winter-tottori-misasa-kaike-luxury-matsubagani-ryokan-ohashi-yugetsu-stay/)

@@ -90,4 +90,4 @@ A. 芦ヶ久保駅徒歩10分の「あしがくぼの氷柱」が圧倒的にア
 ---
 
 🔗 **本編の詳細な解説・料金比較・アクセス情報は公式サイトで公開中！**  
-👉 [【埼玉・奥秩父】三十槌の氷柱＆あしがくぼの氷柱2027完全攻略ガイド本編はこちら](https://croud-travel.pages.dev/winter-saitama-chichibu-misotsuchi-tsurara-ashigakubo-onsen-hotels-guide/)
+👉 [【埼玉・奥秩父】三十槌の氷柱＆あしがくぼの氷柱2027完全攻略ガイド本編はこちら](https://croud-travel.pages.dev/posts/winter-saitama-chichibu-misotsuchi-tsurara-ashigakubo-onsen-hotels-guide/)

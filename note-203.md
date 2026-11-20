@@ -90,4 +90,4 @@ A. 近鉄特急で賢島駅から五十鈴川駅または宇治山田駅まで�
 ---
 
 🔗 **本編の詳細な解説・料金比較・アクセス情報は公式サイトで公開中！**  
-👉 [【三重・伊勢志摩・賢島・英虞湾】厳選おすすめ宿＆観光ルート完全ガイド本編はこちら](https://croud-travel.pages.dev/posts/winter-mie-ago-bay-luxury-basara-shimanokaze-matsusaka-stay/)
+👉 [【三重・伊勢志摩・賢島・英虞湾】厳選おすすめ宿＆観光ルート完全ガイド本編はこちら](https://croud-travel.pages.dev/winter-mie-ago-bay-luxury-basara-shimanokaze-matsusaka-stay/)

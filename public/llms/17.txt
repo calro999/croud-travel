@@ -1,4 +1,14 @@
-# 石川県の宿泊・観光記事（75件）
+# 石川県の宿泊・観光記事（76件）
+
+## 【2027年春・北陸甲信越の絶景桜】金沢兼六園・高遠城址公園・国宝松本城へ！渋滞知らずの春旅厳選宿5選
+- 記事: https://croud-travel.pages.dev/posts/hanami-2027-hokuriku-koshinetsu-kenrokuen-takato-takada-sakura-hotels-guide/
+- 全文Markdown: https://croud-travel.pages.dev/ai/hanami-2027-hokuriku-koshinetsu-kenrokuen-takato-takada-sakura-hotels-guide.md
+- 宿泊施設名: 金沢白鳥路　ホテル山楽・ホテル日航金沢 ほか厳選5宿
+- エリア: 金沢市・兼六園・松本城・高遠・妙高
+- 参考価格: ¥6,000円〜〜
+- 評価: 4.62
+
+日本三名園「兼六園」の観桜期無料開園＆ライトアップ、長野「高遠城址公園（天下第一の桜）」「国宝松本城」の夜桜。北陸新幹線・中央線の機動力で混雑と渋滞をかわす北陸・信州・新潟の名門ホテル＆温泉宿5選。
 
 ## 【金沢・兼六園のおすすめ温泉宿・ホテル10選】ホテル らしく金沢・礎 旅音など高評価宿を厳選比較（12月・冬絶景＆年末年始ステイ）
 - 記事: https://croud-travel.pages.dev/posts/december-ishikawa-kanazawa-10selection/

@@ -92,4 +92,4 @@ A. 標高700mの高地のため冬期は積雪・凍結します。スタッド�
 ---
 
 🔗 **本編の詳細な解説・料金比較・アクセス情報は公式サイトで公開中！**  
-👉 [【熊本・阿蘇黒川温泉】冬の風物詩「黒川温泉 湯あかり2026-2027」＆入湯手形露天風呂巡り完全攻略ガイド本編はこちら](https://croud-travel.pages.dev/winter-kumamoto-kurokawa-onsen-yuakari-bamboo-lantern-hotels-guide/)
+👉 [【熊本・阿蘇黒川温泉】冬の風物詩「黒川温泉 湯あかり2026-2027」＆入湯手形露天風呂巡り完全攻略ガイド本編はこちら](https://croud-travel.pages.dev/posts/winter-kumamoto-kurokawa-onsen-yuakari-bamboo-lantern-hotels-guide/)

@@ -1,4 +1,14 @@
-# 愛知県の宿泊・観光記事（47件）
+# 愛知県の宿泊・観光記事（48件）
+
+## 【2027年春・東海花見宿】名古屋城・国宝犬山城・長良川堤の桜を特等席で！城ビュー＆リバーサイド温泉宿5選
+- 記事: https://croud-travel.pages.dev/posts/hanami-2027-tokai-aichi-nagoya-inuyama-gifu-sakura-onsen-hotels-guide/
+- 全文Markdown: https://croud-travel.pages.dev/ai/hanami-2027-tokai-aichi-nagoya-inuyama-gifu-sakura-onsen-hotels-guide.md
+- 宿泊施設名: 名古屋観光ホテル・ホテルインディゴ犬山有楽苑　ｂｙ　ＩＨＧ ほか厳選5宿
+- エリア: 名古屋市・名古屋城・犬山城・岐阜長良川
+- 参考価格: ¥5,940円〜〜
+- 評価: 4.48
+
+東海エリアの桜の名所（名古屋城・鶴舞公園・国宝犬山城・木曽川堤・岐阜長良川＆新境川堤）。城郭の桜と長良川の温泉名宿を11〜1月に押さえる早期予約ガイド。楽天API最新データによる厳選5宿と混雑回避ルート。
 
 ## 【中部・東海・北陸】クリスマスの海見え＆冬花火デート旅行完全攻略2026！全7県の厳選名宿となばなの里・加賀カニ会席
 - 記事: https://croud-travel.pages.dev/posts/christmas-date-chubu-hokuriku-guide/

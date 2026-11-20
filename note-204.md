@@ -90,4 +90,4 @@ A. 山間部のため雪が降ることがあり、降雪がなくても早朝�
 ---
 
 🔗 **本編の詳細な解説・料金比較・アクセス情報は公式サイトで公開中！**  
-👉 [【山梨・富士河口湖・富士五湖】厳選おすすめ宿＆観光ルート完全ガイド本編はこちら](https://croud-travel.pages.dev/posts/winter-yamanashi-kawaguchiko-luxury-fufu-konansou-fuji-stay/)
+👉 [【山梨・富士河口湖・富士五湖】厳選おすすめ宿＆観光ルート完全ガイド本編はこちら](https://croud-travel.pages.dev/winter-yamanashi-kawaguchiko-luxury-fufu-konansou-fuji-stay/)

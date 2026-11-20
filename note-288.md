@@ -92,4 +92,4 @@ A. 九番湯「大湯」のみ日帰り入浴券が購入可能ですが、一�
 ---
 
 🔗 **本編の詳細な解説・料金比較・アクセス情報は公式サイトで公開中！**  
-👉 [【長野・渋温泉/地獄谷】世界が息を呑む「スノーモンキー」地獄谷野猿公苑＆渋温泉「厄除九湯めぐり」完全攻略ガイド本編はこちら](https://croud-travel.pages.dev/winter-nagano-shibu-onsen-jigokudani-snow-monkey-hotels-guide/)
+👉 [【長野・渋温泉/地獄谷】世界が息を呑む「スノーモンキー」地獄谷野猿公苑＆渋温泉「厄除九湯めぐり」完全攻略ガイド本編はこちら](https://croud-travel.pages.dev/posts/winter-nagano-shibu-onsen-jigokudani-snow-monkey-hotels-guide/)

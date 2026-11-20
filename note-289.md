@@ -92,4 +92,4 @@ A. 海の絶景と保温性重視なら皆生温泉、情緒ある温泉街と�
 ---
 
 🔗 **本編の詳細な解説・料金比較・アクセス情報は公式サイトで公開中！**  
-👉 [【鳥取・鳥取砂丘/皆生/三朝】鳥取砂丘「光の祭典」＆11月解禁・幻のとっとり松葉がに完全攻略ガイド本編はこちら](https://croud-travel.pages.dev/winter-tottori-sand-dunes-illusion-matsubagani-misasa-kaike-guide/)
+👉 [【鳥取・鳥取砂丘/皆生/三朝】鳥取砂丘「光の祭典」＆11月解禁・幻のとっとり松葉がに完全攻略ガイド本編はこちら](https://croud-travel.pages.dev/posts/winter-tottori-sand-dunes-illusion-matsubagani-misasa-kaike-guide/)

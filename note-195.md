@@ -90,4 +90,4 @@ A. 六甲山の北側に位置するため、神戸市街地よりも気温が3�
 ---
 
 🔗 **本編の詳細な解説・料金比較・アクセス情報は公式サイトで公開中！**  
-👉 [【兵庫・神戸・有馬温泉】厳選おすすめ宿＆観光ルート完全ガイド本編はこちら](https://croud-travel.pages.dev/posts/winter-hyogo-arima-onsen-luxury-kinzan-gold-silver-kobe-beef-stay/)
+👉 [【兵庫・神戸・有馬温泉】厳選おすすめ宿＆観光ルート完全ガイド本編はこちら](https://croud-travel.pages.dev/winter-hyogo-arima-onsen-luxury-kinzan-gold-silver-kobe-beef-stay/)

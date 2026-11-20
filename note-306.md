@@ -90,4 +90,4 @@ A. 大村湾からの海風が強いため、風を通さないロング丈の�
 ---
 
 🔗 **本編の詳細な解説・料金比較・アクセス情報は公式サイトで公開中！**  
-👉 [【長崎・ハウステンボス】光の街のクリスマス＆白銀の世界完全攻略ガイド本編はこちら](https://croud-travel.pages.dev/winter-nagasaki-huistenbosch-christmas-illumination-hotels-guide/)
+👉 [【長崎・ハウステンボス】光の街のクリスマス＆白銀の世界完全攻略ガイド本編はこちら](https://croud-travel.pages.dev/posts/winter-nagasaki-huistenbosch-christmas-illumination-hotels-guide/)

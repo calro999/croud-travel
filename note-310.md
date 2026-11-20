@@ -90,4 +90,4 @@ A. マイナス5℃〜10℃まで下がるため、極厚ロングダウン、�
 ---
 
 🔗 **本編の詳細な解説・料金比較・アクセス情報は公式サイトで公開中！**  
-👉 [【軽井沢】軽井沢高原教会「星降る森のクリスマス2026」完全攻略ガイド本編はこちら](https://croud-travel.pages.dev/winter-nagano-karuizawa-plateau-church-christmas-candle-hotels-guide/)
+👉 [【軽井沢】軽井沢高原教会「星降る森のクリスマス2026」完全攻略ガイド本編はこちら](https://croud-travel.pages.dev/posts/winter-nagano-karuizawa-plateau-church-christmas-candle-hotels-guide/)

@@ -90,4 +90,4 @@ A. 香ばしい味噌ダレの五平餅、天然鮎の塩焼き、もみじの�
 ---
 
 🔗 **本編の詳細な解説・料金比較・アクセス情報は公式サイトで公開中！**  
-👉 [【愛知・豊田/足助】香嵐渓もみじまつり2026＆巴川ライトアップ完全攻略ガイド本編はこちら](https://croud-travel.pages.dev/autumn-winter-aichi-korankei-momiji-lightup-asuke-sanage-onsen-hotels-guide/)
+👉 [【愛知・豊田/足助】香嵐渓もみじまつり2026＆巴川ライトアップ完全攻略ガイド本編はこちら](https://croud-travel.pages.dev/posts/autumn-winter-aichi-korankei-momiji-lightup-asuke-sanage-onsen-hotels-guide/)

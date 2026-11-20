@@ -90,4 +90,4 @@ A. 函館の坂道や歩道は凍結しやすいため、溝の深いスノー�
 ---
 
 🔗 **本編の詳細な解説・料金比較・アクセス情報は公式サイトで公開中！**  
-👉 [【函館】はこだてクリスマスファンタジー2026＆五稜星の夢完全攻略ガイド本編はこちら](https://croud-travel.pages.dev/winter-hokkaido-hakodate-christmas-fantasy-goryokaku-hotels-guide/)
+👉 [【函館】はこだてクリスマスファンタジー2026＆五稜星の夢完全攻略ガイド本編はこちら](https://croud-travel.pages.dev/posts/winter-hokkaido-hakodate-christmas-fantasy-goryokaku-hotels-guide/)

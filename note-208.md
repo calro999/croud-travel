@@ -90,4 +90,4 @@ A. 伊豆半島の中央山間部に位置するため、海沿いの熱海や�
 ---
 
 🔗 **本編の詳細な解説・料金比較・アクセス情報は公式サイトで公開中！**  
-👉 [【静岡・中伊豆・修善寺温泉】厳選おすすめ宿＆観光ルート完全ガイド本編はこちら](https://croud-travel.pages.dev/posts/winter-shizuoka-izu-shuzenji-luxury-asaba-sora-onsen-stay/)
+👉 [【静岡・中伊豆・修善寺温泉】厳選おすすめ宿＆観光ルート完全ガイド本編はこちら](https://croud-travel.pages.dev/winter-shizuoka-izu-shuzenji-luxury-asaba-sora-onsen-stay/)

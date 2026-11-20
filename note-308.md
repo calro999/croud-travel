@@ -90,4 +90,4 @@ A. みぞれや道路の消雪パイプからの水が出るため、完全防�
 ---
 
 🔗 **本編の詳細な解説・料金比較・アクセス情報は公式サイトで公開中！**  
-👉 [【石川・金沢】兼六園「雪吊り」ライトアップ＆加能ガニ・香箱ガニ完全攻略ガイド本編はこちら](https://croud-travel.pages.dev/winter-ishikawa-kanazawa-kenrokuen-yukitsuri-kanogani-hotels-guide/)
+👉 [【石川・金沢】兼六園「雪吊り」ライトアップ＆加能ガニ・香箱ガニ完全攻略ガイド本編はこちら](https://croud-travel.pages.dev/posts/winter-ishikawa-kanazawa-kenrokuen-yukitsuri-kanogani-hotels-guide/)

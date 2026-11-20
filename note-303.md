@@ -88,4 +88,4 @@ A. 厚手の防風ダウンジャケット、防寒パンツ、滑り止め付�
 ---
 
 🔗 **本編の詳細な解説・料金比較・アクセス情報は公式サイトで公開中！**  
-👉 [【岐阜・奥飛騨温泉郷】新穂高ロープウェイ白銀の北アルプス絶景＆雪見露天風呂完全攻略ガイド本編はこちら](https://croud-travel.pages.dev/winter-gifu-shinhotaka-ropeway-snow-alps-okuhida-onsen-hotels-guide/)
+👉 [【岐阜・奥飛騨温泉郷】新穂高ロープウェイ白銀の北アルプス絶景＆雪見露天風呂完全攻略ガイド本編はこちら](https://croud-travel.pages.dev/posts/winter-gifu-shinhotaka-ropeway-snow-alps-okuhida-onsen-hotels-guide/)

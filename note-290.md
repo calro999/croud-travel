@@ -92,4 +92,4 @@ A. 12月上旬〜中旬にかけて、遅い紅葉と早咲きの白梅・紅梅
 ---
 
 🔗 **本編の詳細な解説・料金比較・アクセス情報は公式サイトで公開中！**  
-👉 [【静岡・熱海】熱海海上花火大会（冬）＆熱海梅園「日本一遅い紅葉と日本一早い梅」完全攻略ガイド本編はこちら](https://croud-travel.pages.dev/winter-shizuoka-atami-winter-fireworks-baien-momiji-ume-hotels-guide/)
+👉 [【静岡・熱海】熱海海上花火大会（冬）＆熱海梅園「日本一遅い紅葉と日本一早い梅」完全攻略ガイド本編はこちら](https://croud-travel.pages.dev/posts/winter-shizuoka-atami-winter-fireworks-baien-momiji-ume-hotels-guide/)

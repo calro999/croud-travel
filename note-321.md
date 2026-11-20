@@ -90,4 +90,4 @@ A. クリスマスマーケット会場至近で大浴場がある「三井ガ�
 ---
 
 🔗 **本編の詳細な解説・料金比較・アクセス情報は公式サイトで公開中！**  
-👉 [【表参道・神宮外苑】表参道フェンディイルミネーション2026＆東京クリスマスマーケット完全攻略ガイド本編はこちら](https://croud-travel.pages.dev/posts/winter-tokyo-omotesando-illumination-jingu-christmas-luxury-hotels-guide)
+👉 [【表参道・神宮外苑】表参道フェンディイルミネーション2026＆東京クリスマスマーケット完全攻略ガイド本編はこちら](https://croud-travel.pages.dev/posts/winter-tokyo-omotesando-illumination-jingu-christmas-luxury-hotels-guide/)

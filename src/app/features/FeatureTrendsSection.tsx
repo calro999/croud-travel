@@ -6,6 +6,7 @@ import { FEATURE_TREND_TOPICS, TrendTopicItem } from "@/data/featureTrendsData";
 
 const TREND_CATEGORIES = [
   { label: "すべて", key: "all", icon: "🔥" },
+  { label: "花見・桜・早春旅", key: "sakura", icon: "🌸", match: ["桜", "花見", "さくら", "春", "梅", "河津"] },
   { label: "温泉・名湯・露天", key: "onsen", icon: "♨️", match: ["onsen", "温泉", "露天", "源泉", "湯", "美肌", "秘湯"] },
   { label: "冬の美食・カニ・和牛", key: "gourmet", icon: "🦀", match: ["カニ", "蟹", "牛", "和牛", "肉", "牡蠣", "フグ", "魚", "会席", "鍋", "グルメ"] },
   { label: "初詣・神社仏閣・開運", key: "shrine", icon: "⛩️", match: ["初詣", "神社", "神宮", "寺", "開運", "パワースポット"] },

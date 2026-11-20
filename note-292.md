@@ -94,4 +94,4 @@ A. 有馬は市街地より気温が低く路面凍結の恐れがあるため�
 ---
 
 🔗 **本編の詳細な解説・料金比較・アクセス情報は公式サイトで公開中！**  
-👉 [【兵庫・神戸/有馬温泉】「神戸ルミナリエ2027」先行対策＆冬の有馬温泉「金泉・銀泉」完全攻略ガイド本編はこちら](https://croud-travel.pages.dev/winter-hyogo-kobe-luminarie-arima-onsen-kinsen-hotels-guide/)
+👉 [【兵庫・神戸/有馬温泉】「神戸ルミナリエ2027」先行対策＆冬の有馬温泉「金泉・銀泉」完全攻略ガイド本編はこちら](https://croud-travel.pages.dev/posts/winter-hyogo-kobe-luminarie-arima-onsen-kinsen-hotels-guide/)

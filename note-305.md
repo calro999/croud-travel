@@ -90,4 +90,4 @@ A. 水揚げが少ないため、宿泊予約時に「どうまん蟹プラン�
 ---
 
 🔗 **本編の詳細な解説・料金比較・アクセス情報は公式サイトで公開中！**  
-👉 [【静岡・浜名湖/舘山寺】はままつフラワーパークイルミ＆浜名湖冬の三大味覚完全攻略ガイド本編はこちら](https://croud-travel.pages.dev/winter-shizuoka-hamanako-kanzanji-illumination-oyster-unagi-hotels-guide/)
+👉 [【静岡・浜名湖/舘山寺】はままつフラワーパークイルミ＆浜名湖冬の三大味覚完全攻略ガイド本編はこちら](https://croud-travel.pages.dev/posts/winter-shizuoka-hamanako-kanzanji-illumination-oyster-unagi-hotels-guide/)

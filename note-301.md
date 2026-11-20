@@ -90,4 +90,4 @@ A. 完全な凍結・圧雪路面となるため、スタッドレスタイヤ�
 ---
 
 🔗 **本編の詳細な解説・料金比較・アクセス情報は公式サイトで公開中！**  
-👉 [【山形・蔵王温泉】蔵王樹氷（スノーモンスター）ライトアップ＆蔵王ロープウェイ空中散歩完全攻略ガイド本編はこちら](https://croud-travel.pages.dev/winter-yamagata-zao-snow-monster-ropeway-onsen-hotels-guide/)
+👉 [【山形・蔵王温泉】蔵王樹氷（スノーモンスター）ライトアップ＆蔵王ロープウェイ空中散歩完全攻略ガイド本編はこちら](https://croud-travel.pages.dev/posts/winter-yamagata-zao-snow-monster-ropeway-onsen-hotels-guide/)

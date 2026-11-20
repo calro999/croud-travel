@@ -91,4 +91,4 @@ A. 冬道運転に不慣れな方の運転は凍結スリップ事故の危険�
 ---
 
 🔗 **本編の詳細な解説・料金比較・アクセス情報は公式サイトで公開中！**  
-👉 [【北海道・札幌/定山渓】さっぽろホワイトイルミネーション2026＆ミュンヘン・クリスマス市完全攻略ガイド本編はこちら](https://croud-travel.pages.dev/autumn-winter-sapporo-white-illumination-odori-park-hotels-guide/)
+👉 [【北海道・札幌/定山渓】さっぽろホワイトイルミネーション2026＆ミュンヘン・クリスマス市完全攻略ガイド本編はこちら](https://croud-travel.pages.dev/posts/autumn-winter-sapporo-white-illumination-odori-park-hotels-guide/)

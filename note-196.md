@@ -90,4 +90,4 @@ A. 1954年にフランスで誕生した世界的権威を持つ高級ホテル�
 ---
 
 🔗 **本編の詳細な解説・料金比較・アクセス情報は公式サイトで公開中！**  
-👉 [【長野・松本・扉温泉・美ヶ原温泉・浅間温泉】厳選おすすめ宿＆観光ルート完全ガイド本編はこちら](https://croud-travel.pages.dev/posts/winter-nagano-tobira-onsen-myojinkan-relais-chateaux-shinshu-french-stay/)
+👉 [【長野・松本・扉温泉・美ヶ原温泉・浅間温泉】厳選おすすめ宿＆観光ルート完全ガイド本編はこちら](https://croud-travel.pages.dev/winter-nagano-tobira-onsen-myojinkan-relais-chateaux-shinshu-french-stay/)

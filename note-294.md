@@ -90,4 +90,4 @@ A. 11月下旬以降は積雪凍結が常態化するためスタッドレスタ
 ---
 
 🔗 **本編の詳細な解説・料金比較・アクセス情報は公式サイトで公開中！**  
-👉 [【岩手・雫石/盛岡】小岩井農場「銀河農場の夜2026」＆鶯宿温泉・繋温泉の雪見露天完全攻略ガイド本編はこちら](https://croud-travel.pages.dev/winter-iwate-koiwai-farm-milky-way-illumination-oujuku-shizukuishi-hotels-guide/)
+👉 [【岩手・雫石/盛岡】小岩井農場「銀河農場の夜2026」＆鶯宿温泉・繋温泉の雪見露天完全攻略ガイド本編はこちら](https://croud-travel.pages.dev/posts/winter-iwate-koiwai-farm-milky-way-illumination-oujuku-shizukuishi-hotels-guide/)

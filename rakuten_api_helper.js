@@ -13,10 +13,11 @@ async function searchRakutenHotels(keyword, hits = 5, retryCount = 0) {
   return new Promise((resolve, reject) => {
     const url = `https://openapi.rakuten.co.jp/engine/api/Travel/KeywordHotelSearch/20260731?format=json&keyword=${encodeURIComponent(keyword)}&applicationId=${appId}&accessKey=${accessKey}&affiliateId=${affId}&hits=${hits}`;
     https.get(url, (res) => {
-      let data = '';
-      res.on('data', chunk => data += chunk);
+      const chunks = [];
+      res.on('data', chunk => chunks.push(chunk));
       res.on('end', async () => {
         try {
+          const data = Buffer.concat(chunks).toString('utf8');
           const json = JSON.parse(data);
           if (json.error === 'rate_limit_exceeded' || json.statusCode === 429) {
             if (retryCount < 3) {
@@ -70,10 +71,11 @@ function getHotelByNo(hotelNo) {
   return new Promise((resolve, reject) => {
     const url = `https://openapi.rakuten.co.jp/engine/api/Travel/SimpleHotelSearch/20260731?format=json&hotelNo=${hotelNo}&applicationId=${appId}&accessKey=${accessKey}&affiliateId=${affId}`;
     https.get(url, (res) => {
-      let data = '';
-      res.on('data', chunk => data += chunk);
+      const chunks = [];
+      res.on('data', chunk => chunks.push(chunk));
       res.on('end', () => {
         try {
+          const data = Buffer.concat(chunks).toString('utf8');
           const json = JSON.parse(data);
           if (json.hotels && json.hotels.length > 0) {
             const b = json.hotels[0].hotel[0].hotelBasicInfo;

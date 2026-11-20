@@ -90,4 +90,4 @@ A. 約12km離れた日光湯元温泉からパイプで引湯される硫黄泉�
 ---
 
 🔗 **本編の詳細な解説・料金比較・アクセス情報は公式サイトで公開中！**  
-👉 [【栃木・日光・中禅寺湖・奥日光湯元】厳選おすすめ宿＆観光ルート完全ガイド本編はこちら](https://croud-travel.pages.dev/posts/winter-tochigi-nikko-chuzenji-lake-luxury-ritz-carlton-kanaya-stay/)
+👉 [【栃木・日光・中禅寺湖・奥日光湯元】厳選おすすめ宿＆観光ルート完全ガイド本編はこちら](https://croud-travel.pages.dev/winter-tochigi-nikko-chuzenji-lake-luxury-ritz-carlton-kanaya-stay/)
