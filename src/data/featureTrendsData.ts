@@ -7,6 +7,12 @@ export interface TrendTopicItem {
 
 export const FEATURE_TREND_TOPICS: TrendTopicItem[] = [
   {
+    slug: 'hanami-2027-japan-cherry-blossom-sakura-view-hotels-hub-guide',
+    title: "【2027年春・全国花見旅行完全攻略】満開桜前線カレンダー＆10大エリア厳選名宿ハブガイド！人混みを避けて特等席で桜を愛でる旅",
+    desc: "2027年春の花見シーズンに向けた全国総合親ハブ！桜前線カレンダーや混雑・渋滞回避の鉄則、東京・京都・富士・東北・北海道など10大エリア特化ガイドへの網羅的リンクと厳選フラッグシップ宿10選を総力特集。",
+    badge: '🌸 2027花見総合親ハブ'
+  },
+  {
     slug: 'hanami-2027-tokyo-megurogawa-chidorigafuchi-sakura-view-hotels-guide',
     title: "【2027年春・東京花見宿の早期予約】目黒川・千鳥ヶ淵・日本庭園の桜を部屋から＆徒歩で独占する都内厳選ホテル5選",
     desc: "2027年の東京桜シーズン（3月下旬〜4月上旬）に備える早期予約ガイド。千鳥ヶ淵・目黒川・隅田公園の混雑を回避し、ホテルニューオータニやザ・プリンス さくらタワー東京の桜ビュー客室を押さえる部屋選びの鉄則を徹底解説。",
