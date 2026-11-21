@@ -365,3 +365,4 @@ showcase_akita
 january-chiba-katsuura-10selection
 showcase_tottori
 january-kanagawa-hakoneashinoko-10selection
+showcase_shizuoka

@@ -24,7 +24,7 @@
         "ふるさと納税 高級",
         "ふるさと納税 旅館"
       ],
-      "updatedAt": "2026-11-21 19:51",
+      "updatedAt": "2026-11-21 21:17",
       "hotels": [
         {
           "hotelNo": 14124,
@@ -420,7 +420,7 @@
         "星空 温泉",
         "八ヶ岳 星空"
       ],
-      "updatedAt": "2026-11-21 19:51",
+      "updatedAt": "2026-11-21 21:17",
       "hotels": [
         {
           "hotelNo": 179332,
@@ -687,6 +687,25 @@
             "清里まで車で5分の好立地"
           ],
           "addedAt": "2026-11-17 00:17"
+        },
+        {
+          "hotelNo": 188072,
+          "hotelName": "マリッサリゾート　サザンセト周防大島",
+          "rating": 4.45,
+          "minCharge": 16900,
+          "address": "山口県 大島郡周防大島町大字平野1347-1",
+          "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/188072/188072.jpg",
+          "roomImageUrl": "",
+          "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D188072",
+          "catchCopy": "瀬戸内の波音が枕元に響く海辺の楽園で星空とインフィニティ露天に浸る夜",
+          "specialHighlight": "瀬戸内で一番海辺に近く、まさに楽園であそび、暮らすような大人のためのリゾートホテル。",
+          "expertReview": "周防大島の南端に広がる海岸線すれすれに位置し、水面と空が溶け合うインフィニティ露天風呂からは、初冬の澄み切った夜空に瞬く満天の星を独り占めできる。海風が運ぶ潮の香りと、島ならではのおもてなしが旅の時間を緩やかにほどいていく。",
+          "planHighlights": [
+            "瀬戸内一海辺に近いロケーション",
+            "満天の星空を望む天空露天風呂",
+            "島時間を感じる大人のリゾート滞在"
+          ],
+          "addedAt": "2026-11-21 21:17"
         },
         {
           "hotelNo": 67476,
@@ -1007,7 +1026,7 @@
         "香住蟹 温泉",
         "蟹 露天風呂"
       ],
-      "updatedAt": "2026-11-21 19:51",
+      "updatedAt": "2026-11-21 21:17",
       "hotels": [
         {
           "hotelNo": 18926,
@@ -1631,7 +1650,7 @@
         "紅葉 宿",
         "紅葉 ライトアップ 宿"
       ],
-      "updatedAt": "2026-11-21 19:51",
+      "updatedAt": "2026-11-21 21:17",
       "hotels": [
         {
           "hotelNo": 19924,
