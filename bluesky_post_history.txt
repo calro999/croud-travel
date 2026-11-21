@@ -363,3 +363,4 @@ showcase_wakayama
 christmas-date-hokkaido-tohoku-guide
 showcase_akita
 january-chiba-katsuura-10selection
+showcase_tottori
