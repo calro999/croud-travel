@@ -367,3 +367,4 @@ showcase_tottori
 january-kanagawa-hakoneashinoko-10selection
 showcase_shizuoka
 monthly-feature-november-late-autumn-leaves-secret-onsen
+showcase_toyama
