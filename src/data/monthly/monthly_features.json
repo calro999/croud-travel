@@ -24,7 +24,7 @@
         "ふるさと納税 高級",
         "ふるさと納税 旅館"
       ],
-      "updatedAt": "2026-11-22 18:17",
+      "updatedAt": "2026-11-22 21:17",
       "hotels": [
         {
           "hotelNo": 14124,
@@ -420,7 +420,7 @@
         "星空 温泉",
         "八ヶ岳 星空"
       ],
-      "updatedAt": "2026-11-22 18:17",
+      "updatedAt": "2026-11-22 21:17",
       "hotels": [
         {
           "hotelNo": 179332,
@@ -1026,7 +1026,7 @@
         "香住蟹 温泉",
         "蟹 露天風呂"
       ],
-      "updatedAt": "2026-11-22 18:17",
+      "updatedAt": "2026-11-22 21:17",
       "hotels": [
         {
           "hotelNo": 18926,
@@ -1409,6 +1409,25 @@
           "addedAt": "2026-11-17 06:17"
         },
         {
+          "hotelNo": 130086,
+          "hotelName": "三朝温泉　自家源泉かけ流し露天風呂　清流荘",
+          "rating": 4.42,
+          "minCharge": 9350,
+          "address": "鳥取県 東伯郡三朝町三朝309",
+          "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/130086/130086.jpg",
+          "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/130086/130086_rm1.jpg",
+          "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D130086",
+          "catchCopy": "解禁の冬を告げる蟹の甘みと、八つの湯殿が解き放つ三朝の深き癒やし。",
+          "specialHighlight": "三朝川沿いにあり、四季折々の自然のうつろいを感じられる宿。館内には八つの湯殿があり、湯めぐりも可能♪",
+          "expertReview": "三朝川のせせらぎが、冷え込む夜の空気を静かに震わせている。冬の訪れと共に解禁される山陰の至宝、ブランド蟹の身は驚くほどに甘く、熱燗で満たした杯を傾ければ芯から温もりが満ちていく。館内に点在する八つの湯殿を巡れば、自家源泉から湧き出る湯が肌を優しく包み込み、心身の澱みを溶かしてくれる。一人で訪れる旅人をも温かく迎え入れる宿の空気が、明日への活力を静かに灯す。",
+          "planHighlights": [
+            "八つの湯殿を巡る湯めぐり体験",
+            "三朝川を望む自家源泉かけ流し",
+            "冬の味覚ブランド蟹と地酒のペアリング"
+          ],
+          "addedAt": "2026-11-22 21:17"
+        },
+        {
           "hotelNo": 54616,
           "hotelName": "かにと活魚料理の宿　海風亭　寺泊　日本海",
           "rating": 4.41,
@@ -1650,7 +1669,7 @@
         "紅葉 宿",
         "紅葉 ライトアップ 宿"
       ],
-      "updatedAt": "2026-11-22 18:17",
+      "updatedAt": "2026-11-22 21:17",
       "hotels": [
         {
           "hotelNo": 19924,
