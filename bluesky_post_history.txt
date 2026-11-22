@@ -369,3 +369,4 @@ showcase_shizuoka
 monthly-feature-november-late-autumn-leaves-secret-onsen
 showcase_toyama
 january-kanagawa-hakone-10selection
+showcase_toyama
