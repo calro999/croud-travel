@@ -6,15 +6,15 @@ import SpecialCouponBanner from '@/app/components/SpecialCouponBanner';
 import ShareButtons from '@/app/components/ShareButtons';
 
 export const metadata: Metadata = {
-  title: '文豪たちが筆を走らせた名湯！名作誕生の舞台・文学ゆかりの歴史ある老舗旅館',
-  description: '城崎・伊豆湯ヶ島・道後など志賀直哉、川端康成、夏目漱石ら文豪が逗留し名作を執筆した老舗宿。当時の面影を残す客室や庭園、名湯を愛でる旅。',
-  keywords: ["文学ゆかりの歴史ある老舗旅館", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
+  title: '【文豪ゆかりの宿12選】志賀直哉・太宰治・夏目漱石が逗留した歴史的名湯旅館！名作誕生の舞台',
+  description: '文豪たちが愛した全国の名湯宿12選！城崎・伊豆湯ヶ島・道後・修善寺など志賀直哉『城の崎にて』や太宰治・川端康成・夏目漱石が執筆に没頭した有形文化財の客室や庭園、源泉かけ流しの名湯を特集。大人の知的好奇心を刺激する歴史探訪ステイ。',
+  keywords: ["文豪ゆかりの宿", "文学の宿", "老舗旅館", "登録有形文化財 宿", "城崎温泉", "伊豆修善寺", "道後温泉", "楽天トラベル", "国内旅行"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/literary-heritage-bungo-historic-ryokan-stay/",
   },
   openGraph: {
-    title: '文豪たちが筆を走らせた名湯！名作誕生の舞台・文学ゆかりの歴史ある老舗旅館',
-    description: '城崎・伊豆湯ヶ島・道後など志賀直哉、川端康成、夏目漱石ら文豪が逗留し名作を執筆した老舗宿。当時の面影を残す客室や庭園、名湯を愛でる旅。',
+    title: '【文豪ゆかりの宿12選】志賀直哉・太宰治・夏目漱石が逗留した歴史的名湯旅館！名作誕生の舞台',
+    description: '文豪たちが愛した全国の名湯宿12選！城崎・伊豆湯ヶ島・道後・修善寺など志賀直哉『城の崎にて』や太宰治・川端康成・夏目漱石が執筆に没頭した有形文化財の客室や庭園、源泉かけ流しの名湯を特集。',
     url: 'https://croud-travel.pages.dev/literary-heritage-bungo-historic-ryokan-stay/',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
@@ -26,8 +26,8 @@ export default function Page() {
   const jsonLd = {
     "@context": "https://schema.org",
     "@type": "Article",
-    "headline": "文豪たちが筆を走らせた名湯！名作誕生の舞台・文学ゆかりの歴史ある老舗旅館",
-    "description": "城崎・伊豆湯ヶ島・道後など志賀直哉、川端康成、夏目漱石ら文豪が逗留し名作を執筆した老舗宿。当時の面影を残す客室や庭園、名湯を愛でる旅。",
+    "headline": "【文豪ゆかりの宿12選】志賀直哉・太宰治・夏目漱石が逗留した歴史的名湯旅館！名作誕生の舞台",
+    "description": "文豪たちが愛した全国の名湯宿12選！城崎・伊豆湯ヶ島・道後・修善寺など志賀直哉『城の崎にて』や太宰治・川端康成・夏目漱石が執筆に没頭した有形文化財の客室や庭園、源泉かけ流しの名湯を特集。",
     "author": {
       "@type": "Organization",
       "name": "日本全国・旅宿クラウド編集部"

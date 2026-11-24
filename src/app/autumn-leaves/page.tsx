@@ -7,18 +7,18 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/autumn-leaves/" },
-  title: "【全国】紅葉露天風呂＆絶景温泉旅館ガイド ｜ 日本全国・旅宿クラウド",
-  description: "秋の絶景！全国屈指の紅葉名所（日光、箱根、京都嵐山、黒川温泉、乳頭温泉）と、湯船から紅葉を一望できる人気露天風呂付き温泉旅館を徹底比較。見頃時期、アクセス、おすすめの過ごし方完全ガイド。",
-  keywords: ["全国", "紅葉露天風呂", "絶景温泉旅館ガイド", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
+  title: "【紅葉温泉2026】絶景の紅葉露天風呂＆おすすめ名湯旅館30選！見頃カレンダーと混雑回避法",
+  description: "紅葉温泉の楽しみ方・見頃時期と失敗しない宿選びを徹底ガイド！日光・箱根・京都嵐山・黒川温泉など全国30軒超の紅葉露天風呂付き客室・インフィニティ露天を比較。混雑を避ける早朝拝観やノーカー移動術、楽天トラベル最安値プランも掲載。",
+  keywords: ["紅葉温泉", "紅葉 温泉", "紅葉露天風呂", "見頃", "絶景温泉旅館", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
   openGraph: {
-    title: "【全国】紅葉露天風呂＆絶景温泉旅館ガイド ｜ 日本全国・旅宿クラウド",
-    description: "秋の絶景！全国屈指の紅葉名所（日光、箱根、京都嵐山、黒川温泉、乳頭温泉）と、湯船から紅葉を一望できる人気露天風呂付き温泉旅館を徹底比較。見頃時期、アクセス、おすすめの過ごし方完全ガイド。",
+    title: "【紅葉温泉2026】絶景の紅葉露天風呂＆おすすめ名湯旅館30選！見頃カレンダーと混雑回避法",
+    description: "紅葉温泉の楽しみ方・見頃時期と失敗しない宿選びを徹底ガイド！日光・箱根・京都嵐山・黒川温泉など全国30軒超の紅葉露天風呂付き客室・インフィニティ露天を比較。混雑を避ける早朝拝観やノーカー移動術、楽天トラベル最安値プランも掲載。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "【全国】紅葉露天風呂＆絶景温泉旅館ガイド ｜ 日本全国・旅宿クラウド",
-    description: "秋の絶景！全国屈指の紅葉名所（日光、箱根、京都嵐山、黒川温泉、乳頭温泉）と、湯船から紅葉を一望できる人気露天風呂付き温泉旅館を徹底比較。見頃時期、アクセス、おすすめの過ごし方完全ガイド。",
+    title: "【紅葉温泉2026】絶景の紅葉露天風呂＆おすすめ名湯旅館30選！見頃カレンダーと混雑回避法",
+    description: "紅葉温泉の楽しみ方・見頃時期と失敗しない宿選びを徹底ガイド！日光・箱根・京都嵐山・黒川温泉など全国30軒超の紅葉露天風呂付き客室・インフィニティ露天を比較。混雑を避ける早朝拝観やノーカー移動術、楽天トラベル最安値プランも掲載。",
   }
 };
 
@@ -128,7 +128,7 @@ export default function AutumnLeavesOnsenPage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             AUTUMN SPECIAL FEATURE
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「全国」紅葉露天風呂＆絶景温泉旅館 厳選ガイド</h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">【紅葉温泉】絶景の紅葉露天風呂＆おすすめ名湯旅館 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-amber-100/90 leading-relaxed">
             秋風が心地よい季節。山々が赤や黄金に染まる絶景を眺めながら、名湯に浸かる至福のひととき。日光、箱根、嵐山、黒川温泉など、全国屈指の紅葉名所とおすすめ温泉宿を厳選紹介。
           </p>
@@ -401,7 +401,92 @@ export default function AutumnLeavesOnsenPage() {
           </div>
         </section>
 
-      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+      
+      {/* 紅葉温泉の楽しみ方・見頃と宿の選び方＆内部リンクセクション */}
+      <section className="bg-gradient-to-br from-amber-950 via-orange-950 to-stone-900 text-white rounded-3xl p-6 md:p-10 shadow-xl border border-amber-600/40 space-y-6">
+        <div className="space-y-2">
+          <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3 py-1 rounded-full uppercase inline-block">
+            HOT SPRING & AUTUMN LEAVES
+          </span>
+          <h2 className="text-2xl md:text-3xl font-black font-journal-serif text-white">紅葉温泉の楽しみ方｜見頃時期と失敗しない宿の選び方</h2>
+          <p className="text-xs md:text-sm text-amber-100/90 leading-relaxed">
+            紅葉と名湯が織りなす日本の秋の美。標高差による見頃のズレを把握し、客室露天風呂やインフィニティ露天からの視線設計を意識することで、混雑を避けて優雅な紅葉温泉を満喫できます。
+          </p>
+        </div>
+
+        <div className="grid grid-cols-1 md:grid-cols-3 gap-4 text-xs">
+          <div className="p-4 rounded-2xl bg-white/10 backdrop-blur-md border border-white/15 space-y-2">
+            <span className="font-bold text-amber-300 block text-sm">🍁 1. 標高差による見頃リレー</span>
+            <p className="text-stone-200 leading-relaxed">
+              北海道や標高1,000m超の高地（万座・八甲田・奥日光）は9月下旬〜10月中旬が見頃。箱根・伊豆・京都などの平地温泉街は11月中旬〜12月上旬がピークです。
+            </p>
+          </div>
+          <div className="p-4 rounded-2xl bg-white/10 backdrop-blur-md border border-white/15 space-y-2">
+            <span className="font-bold text-amber-300 block text-sm">♨️ 2. 湯船と木々の距離感</span>
+            <p className="text-stone-200 leading-relaxed">
+              渓谷美に溶け込むインフィニティ露天風呂や、モミジが舞い落ちる日本庭園露天風呂など、湯船からの視界が開けた宿を選ぶと没入感が格段に高まります。
+            </p>
+          </div>
+          <div className="p-4 rounded-2xl bg-white/10 backdrop-blur-md border border-white/15 space-y-2">
+            <span className="font-bold text-amber-300 block text-sm">🏮 3. 早朝＆ライトアップ</span>
+            <p className="text-stone-200 leading-relaxed">
+              昼間の観光客ラッシュを避け、朝6〜7時の朝風呂や夕暮れ後の紅葉ライトアップを楽しむのが旅慣れた大人の贅沢な過ごし方です。
+            </p>
+          </div>
+        </div>
+
+        {/* 関連記事への内部リンク */}
+        <div className="pt-4 border-t border-white/10">
+          <h3 className="text-sm md:text-base font-bold text-amber-200 mb-3">あわせて読みたい紅葉温泉・冬温泉の特化ガイド</h3>
+          <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-3">
+            <Link href="/posts/autumn-foliage-leaves-open-air-bath-hotels-guide/" className="block p-3 rounded-xl bg-white/10 hover:bg-white/20 border border-white/15 text-xs text-white transition">
+              <span className="font-bold block text-amber-300 mb-1">🍁 紅葉露天おすすめ10選</span>
+              箱根天悠・修善寺SORA・定山渓・京都嵐山を本音比較
+            </Link>
+            <Link href="/posts/cave-bath-geothermal-secret-onsen-hotels-guide/" className="block p-3 rounded-xl bg-white/10 hover:bg-white/20 border border-white/15 text-xs text-white transition">
+              <span className="font-bold block text-amber-300 mb-1">♨️ 洞窟温泉・秘湯特集</span>
+              波音と岩肌に包まれる神秘の露天風呂ランキング
+            </Link>
+            <Link href="/posts/winter-yukimi-onsen-illumination-guide/" className="block p-3 rounded-xl bg-white/10 hover:bg-white/20 border border-white/15 text-xs text-white transition">
+              <span className="font-bold block text-amber-300 mb-1">❄️ 冬の雪見温泉＆イルミ</span>
+              銀山・定山渓の雪景色と光の祭典おすすめ名宿
+            </Link>
+          </div>
+        </div>
+      </section>
+
+      {/* 紅葉温泉 よくある質問（FAQ） */}
+      <section className="bg-white border border-stone-200 rounded-3xl p-6 md:p-10 shadow-sm space-y-6">
+        <div className="border-b border-stone-200 pb-4">
+          <span className="text-[10px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
+            FAQ
+          </span>
+          <h2 className="text-xl md:text-2xl font-black font-journal-serif text-stone-900 mt-2">紅葉温泉に関するよくある質問</h2>
+        </div>
+
+        <div className="space-y-4">
+          <div className="p-4 bg-stone-50 rounded-2xl border border-stone-200">
+            <h3 className="text-sm font-bold text-stone-900 mb-1.5">Q1. 紅葉温泉の見頃時期はいつ頃ですか？</h3>
+            <p className="text-xs text-stone-600 leading-relaxed">
+              地域や標高によって大きく異なります。北海道や東北高地（定山渓・八甲田など）は10月上旬〜10月下旬、日光や草津・河口湖などは10月中旬〜11月上旬、箱根・修善寺・京都嵐山・有馬などは11月中旬〜12月上旬が見頃の目安です。
+            </p>
+          </div>
+          <div className="p-4 bg-stone-50 rounded-2xl border border-stone-200">
+            <h3 className="text-sm font-bold text-stone-900 mb-1.5">Q2. 紅葉が見える露天風呂付き客室を確実に予約するコツは？</h3>
+            <p className="text-xs text-stone-600 leading-relaxed">
+              プラン名に「【紅葉ビュー確約】」「庭園側」「渓谷向き客室」と明記された客室プランを早期に予約するのが鉄則です。おまかせ部屋プランでは山陰側や街側に割り当てられる場合があるため、客室タイプ指定プランをお選びください。
+            </p>
+          </div>
+          <div className="p-4 bg-stone-50 rounded-2xl border border-stone-200">
+            <h3 className="text-sm font-bold text-stone-900 mb-1.5">Q3. 紅葉シーズンの温泉街の渋滞や混雑を避ける方法はありますか？</h3>
+            <p className="text-xs text-stone-600 leading-relaxed">
+              日光いろは坂や箱根登山道などは週末日中に渋滞が発生しやすいため、宿に午前中（10〜11時台）に到着して車を預けるか、新幹線・特急＋駅から徒歩・無料送迎バスを利用する「ノーカーアクセス」が最も快適です。
+            </p>
+          </div>
+        </div>
+      </section>
+
+<div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
         <ShareButtons title={"【全国】紅葉露天風呂＆絶景温泉旅館ガイド"} url={"https://croud-travel.pages.dev/autumn-leaves/"} />
       </div>
 <HubRelatedPosts currentSlug="autumn-leaves" />

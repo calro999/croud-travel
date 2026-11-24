@@ -319,6 +319,9 @@
 - [OKINAWA 観光名所・名物グルメ・人気温泉ホテル完全ガイド](https://croud-travel.pages.dev/prefectures/okinawa/)
 
 ## 最新厳選宿・観光ルポ記事
+- [【浅草 温泉旅行2026-2027】浅草周辺の日帰り温泉・天然温泉付きホテル5選！名物黒湯とサウナで癒やす下町旅](https://croud-travel.pages.dev/posts/asakusa-day-trip-onsen-bathhouse-guide/): 浅草天然温泉＆大浴場付き厳選ホテル5選（東京都）
+- [【年末年始の温泉旅行2026-2027】予約のポイントと混雑回避！初湯・年越し会席が自慢のおすすめ名門温泉宿5選](https://croud-travel.pages.dev/posts/newyear-onsen-reservation-crowd-avoidance-guide/): 年末年始・正月おすすめ名門温泉宿5選（全国）
+- [【冬の国内旅行2026-2027】雪見温泉とイルミネーションの楽しみ方！絶景露天＆光の祭典おすすめ名宿5選](https://croud-travel.pages.dev/posts/winter-yukimi-onsen-illumination-guide/): 雪見温泉＆イルミネーション厳選名宿5選（全国）
 - [【2027年GW・北海道花見ホテル】五稜郭1,500本桜＆松前城へ！日本最後の満開桜と湯の川温泉・海鮮朝食5選](https://croud-travel.pages.dev/posts/hanami-2027-hokkaido-hakodate-goryokaku-matsumae-sapporo-sakura-hotels-guide/): 湯の川温泉　平成館　しおさい亭　別館花月・ラビスタ函館ベイＡＮＮＥＸ（共立リゾート） ほか厳選5宿（北海道）
 - [【2027年春・北陸甲信越の絶景桜】金沢兼六園・高遠城址公園・国宝松本城へ！渋滞知らずの春旅厳選宿5選](https://croud-travel.pages.dev/posts/hanami-2027-hokuriku-koshinetsu-kenrokuen-takato-takada-sakura-hotels-guide/): 金沢白鳥路　ホテル山楽・ホテル日航金沢 ほか厳選5宿（石川県）
 - [【2027年春・全国花見旅行完全攻略】満開桜前線カレンダー＆10大エリア厳選名宿ハブガイド！人混みを避けて特等席で桜を愛でる旅](https://croud-travel.pages.dev/posts/hanami-2027-japan-cherry-blossom-sakura-view-hotels-hub-guide/): 全国花見フラッグシップ厳選名宿10選（全国）
@@ -376,6 +379,3 @@
 - [【勝浦・鴨川のおすすめ温泉宿・ホテル10選】三日月シーパークホテル勝浦・房総鴨川温泉 是空 －ZEKUU－など高評価宿を厳選比較（1月・雪見露天＆冬の味覚旅）](https://croud-travel.pages.dev/posts/january-chiba-katsuura-10selection/): 勝浦・鴨川おすすめ温泉宿10選（千葉県）
 - [【2027年1月・2月】白川郷・五箇山合掌造り雪景色ライトアップ＆飛騨高山・奥飛騨温泉郷完全攻略！白銀の秘境と雪見露天・A5飛騨牛名宿](https://croud-travel.pages.dev/posts/january-february-shirakawago-snow-lightup-takayama-okuhida-hotels-guide/): 飛騨高山温泉　高山グリー・飛騨花里の湯　高山桜庵（・ヒルトン高山リゾート（旧 ほか（岐阜県）
 - [【1月・2月が旬の最高潮】活松葉ガニ・越前ガニ・下関トラフグ・南紀白浜クエ！冬の3大王様グルメと名湯を味わい尽くす美食温泉宿6選](https://croud-travel.pages.dev/posts/january-february-winter-gourmet-crab-fugu-kue-onsen-hotels-guide/): 北陸　あわら温泉　まつや・城崎温泉　西村屋本館・皆生游月 ほか（福井県）
-- [【太宰府・二日市のおすすめ温泉宿・ホテル10選】二日市温泉 大丸別荘・HOTEL CULTIA 太宰府など高評価宿を厳選比較（1月・雪見露天＆冬の味覚旅）](https://croud-travel.pages.dev/posts/january-fukuoka-dazaifu-10selection/): 太宰府・二日市おすすめ温泉宿10選（福岡県）
-- [【会津若松・東山温泉のおすすめ温泉宿・ホテル10選】会津東山温泉 庄助の宿 瀧の湯・会津湯野上温泉 花鳥華やか風月の宿 藤龍館など高評価宿を厳選比較（1月・雪見露天＆冬の味覚旅）](https://croud-travel.pages.dev/posts/january-fukushima-aizu-10selection/): 会津若松・東山温泉おすすめ温泉宿10選（福島県）
-- [【飛騨高山のおすすめ温泉宿・ホテル10選】飛騨高山 本陣平野屋 光風館・飛騨高山温泉 高山グリーンホテル（京王グループホテルズ）など高評価宿を厳選比較（1月・雪見露天＆冬の味覚旅）](https://croud-travel.pages.dev/posts/january-gifu-hidatakayama-10selection/): 飛騨高山おすすめ温泉宿10選（岐阜県）

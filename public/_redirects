@@ -1,3 +1,36 @@
+# --- 0. Plain text index.txt redirects to canonical trailing-slash URL ---
+/prefectures/index.txt /prefectures/ 301
+/prefectures/index.txt/ /prefectures/ 301
+/prefectures/:pref/index.txt /prefectures/:pref/ 301
+/prefectures/:pref/index.txt/ /prefectures/:pref/ 301
+/prefectures/:pref/:city/index.txt /prefectures/:pref/:city/ 301
+/prefectures/:pref/:city/index.txt/ /prefectures/:pref/:city/ 301
+/posts/:slug/index.txt /posts/:slug/ 301
+/posts/:slug/index.txt/ /posts/:slug/ 301
+/spots/:slug/index.txt /spots/:slug/ 301
+/spots/:slug/index.txt/ /spots/:slug/ 301
+/features/index.txt /features/ 301
+/features/index.txt/ /features/ 301
+/campaigns/index.txt /campaigns/ 301
+/campaigns/index.txt/ /campaigns/ 301
+/sitemap/index.txt /sitemap/ 301
+/sitemap/index.txt/ /sitemap/ 301
+/index.txt / 301
+/index.txt/ / 301
+
+# --- Trailing Slash Normalization (URL末尾スラッシュの二重インデックス解消) ---
+/posts/:slug /posts/:slug/ 301
+/posts /posts/ 301
+/prefectures/:slug /prefectures/:slug/ 301
+/prefectures/:pref/:city /prefectures/:pref/:city/ 301
+/spots/:slug /spots/:slug/ 301
+/spots /spots/ 301
+/features /features/ 301
+/campaigns /campaigns/ 301
+/ranking /ranking/ 301
+/sitemap /sitemap/ 301
+/about /about/ 301
+
 /hanami-2027-japan-cherry-blossom-sakura-view-hotels-hub-guide /posts/hanami-2027-japan-cherry-blossom-sakura-view-hotels-hub-guide/ 301
 /hanami-2027-japan-cherry-blossom-sakura-view-hotels-hub-guide/ /posts/hanami-2027-japan-cherry-blossom-sakura-view-hotels-hub-guide/ 301
 # Hanami 2027 Killer Child Pages Cluster (Root -> Posts)
@@ -675,50 +708,8 @@
 
 # --- 既存のベースルール ---
 
-# 1. index.txt / RSC payload redirects to canonical clean URLs (resolve 404 and retain SEO equity)
-/prefectures/index.txt /prefectures/ 301
-/prefectures/index.txt/ /prefectures/ 301
-/prefectures/:pref/index.txt /prefectures/:pref/ 301
-/prefectures/:pref/index.txt/ /prefectures/:pref/ 301
-/prefectures/:pref/:city/index.txt /prefectures/:pref/:city/ 301
-/prefectures/:pref/:city/index.txt/ /prefectures/:pref/:city/ 301
-/posts/:slug/index.txt /posts/:slug/ 301
-/posts/:slug/index.txt/ /posts/:slug/ 301
-/spots/:slug/index.txt /spots/:slug/ 301
-/spots/:slug/index.txt/ /spots/:slug/ 301
-/features/index.txt /features/ 301
-/features/index.txt/ /features/ 301
-/campaigns/index.txt /campaigns/ 301
-/campaigns/index.txt/ /campaigns/ 301
-/sitemap/index.txt /sitemap/ 301
-/sitemap/index.txt/ /sitemap/ 301
-/index.txt / 301
-/index.txt/ / 301
 
-# Wildcard fallback for index.txt
-/:splat/index.txt /:splat/ 301
-/:splat/index.txt/ /:splat/ 301
 
-# 2. Normalize trailing slashes to unify GSC indexing and SEO signals
-/posts/:slug /posts/:slug/ 301
-/posts /posts/ 301
-/prefectures/:slug /prefectures/:slug/ 301
-/prefectures/:pref/:city /prefectures/:pref/:city/ 301
-/spots/:slug /spots/:slug/ 301
-/spots /spots/ 301
-/furusato/:slug /furusato/:slug/ 301
-/furusato /furusato/ 301
-/furusato-tax-:slug /furusato-tax-:slug/ 301
-/winter-:slug /winter-:slug/ 301
-/autumn-:slug /autumn-:slug/ 301
-/features /features/ 301
-/prefectures /prefectures/ 301
-/campaigns /campaigns/ 301
-/ranking /ranking/ 301
-/sitemap /sitemap/ 301
-/about /about/ 301
-/winter-travel-special /winter-travel-special/ 301
-/winter-crab-gourmet /winter-crab-gourmet/ 301
 /snow-viewing-open-air-bath-secret-hotsprings /snow-viewing-open-air-bath-secret-hotsprings/ 301
 /new-year-hatsumode-onsen /new-year-hatsumode-onsen/ 301
 
@@ -812,3 +803,4 @@
 # 7. Note drafts redirect to home (preserve SEO equity, prevent 404/GSC crawl errors)
 /posts/note-:slug / 301
 /posts/note-:slug/ / 301
+

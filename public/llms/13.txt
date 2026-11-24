@@ -1,4 +1,14 @@
-# 東京都の宿泊・観光記事（57件）
+# 東京都の宿泊・観光記事（58件）
+
+## 【浅草 温泉旅行2026-2027】浅草周辺の日帰り温泉・天然温泉付きホテル5選！名物黒湯とサウナで癒やす下町旅
+- 記事: https://croud-travel.pages.dev/posts/asakusa-day-trip-onsen-bathhouse-guide/
+- 全文Markdown: https://croud-travel.pages.dev/ai/asakusa-day-trip-onsen-bathhouse-guide.md
+- 宿泊施設名: 浅草天然温泉＆大浴場付き厳選ホテル5選
+- エリア: 浅草・上野・スカイツリー
+- 参考価格: ¥¥8,222〜〜
+- 評価: 4.42
+
+浅草の温泉旅行＆日帰り入浴おすすめガイド！「浅草 温泉」「浅草温泉旅行」で人気の名物黒湯天然温泉、全館畳敷きの御宿野乃浅草別邸、浅草ビューホテルアネックス六区など、浅草寺・雷門観光やサウナを満喫できる厳選5宿を徹底比較。効能や楽しみ方・アクセスも解説。
 
 ## 【2027年春・東京花見宿の早期予約】目黒川・千鳥ヶ淵・日本庭園の桜を部屋から＆徒歩で独占する都内厳選ホテル5選
 - 記事: https://croud-travel.pages.dev/posts/hanami-2027-tokyo-megurogawa-chidorigafuchi-sakura-view-hotels-guide/
