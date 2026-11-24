@@ -42,8 +42,26 @@ export default function ShareButtons({ title, url, hotelName }: ShareButtonsProp
     alert("URLをコピーしました！インスタグラムのストーリーズやDMに貼り付けてシェアしてください。");
   };
 
+  const isFurusato = url.includes("/furusato") || url.includes("furusato-tax-");
+
   return (
-    <div className="my-6 bg-slate-50 border border-slate-200/80 rounded-2xl p-4 md:p-5 shadow-2xs space-y-3">
+    <div className="space-y-4">
+      {isFurusato && (
+        <div className="flex flex-wrap items-center justify-between gap-2 px-4 py-2.5 bg-gradient-to-r from-amber-50 to-orange-50 border border-amber-200/90 rounded-xl text-xs text-amber-950 font-medium shadow-xs">
+          <div className="flex items-center gap-2">
+            <span className="inline-block w-2 h-2 rounded-full bg-emerald-500 animate-pulse"></span>
+            <span>ふるさと納税制度 宿泊クーポンガイド</span>
+          </div>
+          <div className="flex items-center gap-1.5 text-stone-600">
+            <span>最終更新日:</span>
+            <time dateTime="2026-11-25" className="font-bold text-amber-900">
+              2026年11月25日
+            </time>
+          </div>
+        </div>
+      )}
+
+      <div className="my-6 bg-slate-50 border border-slate-200/80 rounded-2xl p-4 md:p-5 shadow-2xs space-y-3">
       <div className="flex items-center justify-between">
         <span className="text-xs font-bold text-slate-800 flex items-center gap-1.5">
           <span>旅の計画・同行者へシェアする</span>
@@ -142,6 +160,7 @@ export default function ShareButtons({ title, url, hotelName }: ShareButtonsProp
           )}
         </button>
       </div>
+    </div>
     </div>
   );
 }

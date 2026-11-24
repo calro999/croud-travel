@@ -100,9 +100,48 @@ export default function HubRelatedPosts({ currentSlug, prefecture }: HubRelatedP
   ].slice(0, 6);
 
   const prefSlug = PREFECTURES_DATA.find(p => p.name === targetPref)?.slug;
+  const isFurusatoPost = currentSlug.startsWith('furusato-tax-') || currentSlug === 'furusato';
 
   return (
     <section className="pt-12 mt-12 border-t border-emerald-950/10 space-y-6">
+      {isFurusatoPost && (
+        <div className="bg-gradient-to-br from-amber-500/10 via-orange-500/5 to-amber-50 rounded-2xl p-6 border border-amber-300/80 shadow-xs mb-8">
+          <div className="flex flex-col md:flex-row md:items-center justify-between gap-4">
+            <div className="space-y-1.5">
+              <span className="text-[11px] font-black tracking-wider text-amber-800 bg-amber-100/80 px-2.5 py-0.5 rounded-full inline-block">
+                ふるさと納税トラベル公式ガイド
+              </span>
+              <h4 className="text-base md:text-lg font-black text-amber-950 font-journal-serif">
+                楽天トラベルふるさと納税 宿泊クーポン総合案内
+              </h4>
+              <p className="text-xs text-stone-600 leading-relaxed max-w-2xl">
+                寄付額の最大30%相当の宿泊クーポン進呈。有効期限はたっぷり3年間で予約後の「あとから適用」も可能。控除上限枠の目安計算や全国の自治体クーポン一覧もチェックできます。
+              </p>
+            </div>
+            <div className="flex flex-wrap sm:flex-nowrap items-center gap-2.5 shrink-0">
+              <Link
+                href="/furusato/"
+                className="px-4 py-2.5 bg-amber-700 hover:bg-amber-800 text-white text-xs font-bold rounded-xl shadow-xs transition text-center"
+              >
+                総合ハブトップ →
+              </Link>
+              <Link
+                href="/furusato/simulator/"
+                className="px-4 py-2.5 bg-teal-800 hover:bg-teal-900 text-white text-xs font-bold rounded-xl shadow-xs transition text-center"
+              >
+                上限シミュレーター
+              </Link>
+              <Link
+                href="/furusato/coupon-table/"
+                className="px-4 py-2.5 bg-stone-800 hover:bg-stone-900 text-white text-xs font-bold rounded-xl shadow-xs transition text-center"
+              >
+                自治体クーポン一覧表
+              </Link>
+            </div>
+          </div>
+        </div>
+      )}
+
       <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-3">
         <div>
           <span className="text-[10px] font-extrabold text-teal-800 uppercase tracking-widest block">

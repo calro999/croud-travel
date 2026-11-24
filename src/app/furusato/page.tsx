@@ -2,6 +2,7 @@ import { Metadata } from "next";
 import Link from "next/link";
 import FloatingMobileCTA from "@/app/components/FloatingMobileCTA";
 import ShareButtons from "@/app/components/ShareButtons";
+import furusatoCatalog from "@/data/furusato_categories_catalog.json";
 
 const baseUrl = process.env.NEXT_PUBLIC_BASE_URL || "https://croud-travel.pages.dev";
 const AFFILIATE_FURUSATO_URL = "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fspecial%2Ffurusato%2F";
@@ -287,6 +288,49 @@ export default function FurusatoPage() {
         </Link>
       </section>
 
+      {/* 🧭 便利ツール＆一覧ナビゲーション */}
+      <section className="grid grid-cols-1 sm:grid-cols-2 gap-4">
+        <Link
+          href="/furusato/simulator/"
+          className="group block p-6 rounded-2xl bg-gradient-to-br from-teal-900 to-emerald-950 text-white border border-teal-700/50 hover:border-amber-400 hover:shadow-lg transition"
+        >
+          <div className="flex items-center justify-between mb-2">
+            <span className="text-[11px] font-black uppercase tracking-wider text-amber-300 bg-teal-800/80 px-2.5 py-0.5 rounded-full">
+              控除シミュレーター
+            </span>
+            <span className="text-sm font-bold text-teal-300 group-hover:translate-x-1 transition-transform">
+              ツールを使う →
+            </span>
+          </div>
+          <h3 className="text-base md:text-lg font-black text-white mb-1.5 font-journal-serif">
+            控除上限目安＆残り枠ぴったり提案ツール
+          </h3>
+          <p className="text-xs text-teal-100/80 leading-relaxed">
+            年収と家族構成から控除上限目安を即座に計算。「あといくら使えるか」の残り枠からぴったり使い切るクーポン組み合わせをご提案します。
+          </p>
+        </Link>
+
+        <Link
+          href="/furusato/coupon-table/"
+          className="group block p-6 rounded-2xl bg-gradient-to-br from-stone-900 to-amber-950 text-white border border-stone-700/50 hover:border-amber-400 hover:shadow-lg transition"
+        >
+          <div className="flex items-center justify-between mb-2">
+            <span className="text-[11px] font-black uppercase tracking-wider text-amber-300 bg-stone-800/80 px-2.5 py-0.5 rounded-full">
+              クーポン横断比較
+            </span>
+            <span className="text-sm font-bold text-amber-300 group-hover:translate-x-1 transition-transform">
+              一覧表を見る →
+            </span>
+          </div>
+          <h3 className="text-base md:text-lg font-black text-white mb-1.5 font-journal-serif">
+            主要20自治体 ふるさと納税旅行クーポン横断表
+          </h3>
+          <p className="text-xs text-stone-200/80 leading-relaxed">
+            草津・箱根・軽井沢・別府・由布院など全国の主要温泉地20自治体のクーポン額面・有効期限・対象エリア・除外日条件を一覧で比較できます。
+          </p>
+        </Link>
+      </section>
+
       {/* 3つの圧倒的メリット */}
       <section className="grid grid-cols-1 md:grid-cols-3 gap-6">
         <div className="bg-white rounded-2xl p-6 border border-amber-500/20 shadow-sm space-y-3">
@@ -480,6 +524,164 @@ export default function FurusatoPage() {
               <p className="text-xs text-emerald-950/75 leading-relaxed">{s.features}</p>
             </div>
           ))}
+        </div>
+      </section>
+
+      {/* 📚 目的・温泉地別 ふるさと納税専用ガイド特集一覧 */}
+      <section className="bg-slate-50 border border-emerald-950/10 rounded-3xl p-6 md:p-8 space-y-8 shadow-sm">
+        <div className="space-y-2">
+          <span className="text-[10px] font-extrabold text-teal-800 uppercase tracking-widest block">DESTINATIONS & THEMES</span>
+          <h2 className="text-xl md:text-2xl font-black font-journal-serif text-emerald-950">
+            全国の主要温泉地・目的別 ふるさと納税宿泊ルポ特集一覧
+          </h2>
+          <p className="text-xs md:text-sm text-emerald-950/70 font-medium">
+            草津・箱根・別府などの有名温泉地から、客室露天風呂・ファミリー・美食旅館まで、自治体クーポン対象の厳選宿ガイドをカテゴリ別にご案内します。
+          </p>
+        </div>
+
+        {/* 温泉地別 */}
+        <div className="space-y-3">
+          <h3 className="text-base font-black text-emerald-950 flex items-center gap-2 border-b border-emerald-950/10 pb-2">
+            <span>♨️</span>
+            <span>人気温泉地別ふるさと納税宿泊ガイド（12選）</span>
+          </h3>
+          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3">
+            {furusatoCatalog.onsen.map((item) => (
+              <Link
+                key={item.slug}
+                href={`/${item.slug}/`}
+                className="group p-3.5 rounded-xl bg-white border border-slate-200 hover:border-teal-700 hover:shadow-xs transition flex flex-col justify-between space-y-2"
+              >
+                <div>
+                  <span className="text-[10px] font-bold text-teal-900 bg-teal-50 px-2 py-0.5 rounded mb-1.5 inline-block">
+                    {item.label}
+                  </span>
+                  <h4 className="text-xs font-bold text-slate-900 group-hover:text-teal-800 line-clamp-2 leading-snug">
+                    {item.title}
+                  </h4>
+                </div>
+                <span className="text-[10px] font-bold text-teal-700 flex items-center gap-0.5">
+                  ガイドを読む →
+                </span>
+              </Link>
+            ))}
+          </div>
+        </div>
+
+        {/* 高級宿・客室露天 */}
+        <div className="space-y-3">
+          <h3 className="text-base font-black text-emerald-950 flex items-center gap-2 border-b border-emerald-950/10 pb-2">
+            <span>👑</span>
+            <span>高級宿・客室露天風呂・記念日特集（7選）</span>
+          </h3>
+          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3">
+            {furusatoCatalog.luxury.map((item) => (
+              <Link
+                key={item.slug}
+                href={`/${item.slug}/`}
+                className="group p-3.5 rounded-xl bg-white border border-slate-200 hover:border-amber-600 hover:shadow-xs transition flex flex-col justify-between space-y-2"
+              >
+                <div>
+                  <span className="text-[10px] font-bold text-amber-900 bg-amber-50 px-2 py-0.5 rounded mb-1.5 inline-block">
+                    {item.label}
+                  </span>
+                  <h4 className="text-xs font-bold text-slate-900 group-hover:text-amber-700 line-clamp-2 leading-snug">
+                    {item.title}
+                  </h4>
+                </div>
+                <span className="text-[10px] font-bold text-amber-800 flex items-center gap-0.5">
+                  ガイドを読む →
+                </span>
+              </Link>
+            ))}
+          </div>
+        </div>
+
+        {/* ファミリー・リゾート */}
+        <div className="space-y-3">
+          <h3 className="text-base font-black text-emerald-950 flex items-center gap-2 border-b border-emerald-950/10 pb-2">
+            <span>👨‍👩‍👧‍👦</span>
+            <span>ファミリー・子連れ・大型リゾート特集（4選）</span>
+          </h3>
+          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3">
+            {furusatoCatalog.family.map((item) => (
+              <Link
+                key={item.slug}
+                href={`/${item.slug}/`}
+                className="group p-3.5 rounded-xl bg-white border border-slate-200 hover:border-emerald-600 hover:shadow-xs transition flex flex-col justify-between space-y-2"
+              >
+                <div>
+                  <span className="text-[10px] font-bold text-emerald-900 bg-emerald-50 px-2 py-0.5 rounded mb-1.5 inline-block">
+                    {item.label}
+                  </span>
+                  <h4 className="text-xs font-bold text-slate-900 group-hover:text-emerald-700 line-clamp-2 leading-snug">
+                    {item.title}
+                  </h4>
+                </div>
+                <span className="text-[10px] font-bold text-emerald-800 flex items-center gap-0.5">
+                  ガイドを読む →
+                </span>
+              </Link>
+            ))}
+          </div>
+        </div>
+
+        {/* 極上グルメ */}
+        <div className="space-y-3">
+          <h3 className="text-base font-black text-emerald-950 flex items-center gap-2 border-b border-emerald-950/10 pb-2">
+            <span>🥩</span>
+            <span>極上グルメ・カニ・ブランド牛特集（5選）</span>
+          </h3>
+          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3">
+            {furusatoCatalog.gourmet.map((item) => (
+              <Link
+                key={item.slug}
+                href={`/${item.slug}/`}
+                className="group p-3.5 rounded-xl bg-white border border-slate-200 hover:border-orange-600 hover:shadow-xs transition flex flex-col justify-between space-y-2"
+              >
+                <div>
+                  <span className="text-[10px] font-bold text-orange-900 bg-orange-50 px-2 py-0.5 rounded mb-1.5 inline-block">
+                    {item.label}
+                  </span>
+                  <h4 className="text-xs font-bold text-slate-900 group-hover:text-orange-700 line-clamp-2 leading-snug">
+                    {item.title}
+                  </h4>
+                </div>
+                <span className="text-[10px] font-bold text-orange-800 flex items-center gap-0.5">
+                  ガイドを読む →
+                </span>
+              </Link>
+            ))}
+          </div>
+        </div>
+
+        {/* 季節別 */}
+        <div className="space-y-3">
+          <h3 className="text-base font-black text-emerald-950 flex items-center gap-2 border-b border-emerald-950/10 pb-2">
+            <span>🍂</span>
+            <span>季節の絶景・雪見・紅葉特集（6選）</span>
+          </h3>
+          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3">
+            {furusatoCatalog.seasonal.map((item) => (
+              <Link
+                key={item.slug}
+                href={`/${item.slug}/`}
+                className="group p-3.5 rounded-xl bg-white border border-slate-200 hover:border-teal-600 hover:shadow-xs transition flex flex-col justify-between space-y-2"
+              >
+                <div>
+                  <span className="text-[10px] font-bold text-teal-900 bg-teal-50 px-2 py-0.5 rounded mb-1.5 inline-block">
+                    {item.label}
+                  </span>
+                  <h4 className="text-xs font-bold text-slate-900 group-hover:text-teal-700 line-clamp-2 leading-snug">
+                    {item.title}
+                  </h4>
+                </div>
+                <span className="text-[10px] font-bold text-teal-800 flex items-center gap-0.5">
+                  ガイドを読む →
+                </span>
+              </Link>
+            ))}
+          </div>
         </div>
       </section>
 

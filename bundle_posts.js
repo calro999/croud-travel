@@ -277,6 +277,9 @@ function main() {
     { url: `${BASE_URL}/`, priority: '1.0', changefreq: 'daily' },
     { url: `${BASE_URL}/features/`, priority: '0.9', changefreq: 'daily' },
     { url: `${BASE_URL}/prefectures/`, priority: '0.9', changefreq: 'daily' },
+    { url: `${BASE_URL}/furusato/`, priority: '0.95', changefreq: 'daily' },
+    { url: `${BASE_URL}/furusato/simulator/`, priority: '0.9', changefreq: 'weekly' },
+    { url: `${BASE_URL}/furusato/coupon-table/`, priority: '0.9', changefreq: 'weekly' },
     { url: `${BASE_URL}/campaigns/`, priority: '0.9', changefreq: 'daily' },
     { url: `${BASE_URL}/campaigns/autumn-gourmet-travel/`, priority: '0.85', changefreq: 'weekly' },
     { url: `${BASE_URL}/sitemap/`, priority: '0.8', changefreq: 'weekly' }
