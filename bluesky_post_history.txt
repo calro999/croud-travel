@@ -381,3 +381,4 @@ showcase_nagano
 january-oita-yufuin-10selection
 showcase_yamanashi
 january-wakayama-katsuura-10selection
+showcase_kochi
