@@ -383,3 +383,4 @@ showcase_yamanashi
 january-wakayama-katsuura-10selection
 showcase_kochi
 january-gifu-takayama-10selection
+showcase_kyoto
