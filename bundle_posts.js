@@ -193,6 +193,29 @@ function main() {
   }
   featurePageSlugs.sort();
 
+  // 月次特集（/features/[slug]/）のURLも動的にサイトマップへ含める
+  const monthlyJsonPath = path.join(__dirname, 'src', 'data', 'monthly', 'monthly_features.json');
+  const monthlyFeatureUrls = [];
+  if (fs.existsSync(monthlyJsonPath)) {
+    try {
+      const mData = JSON.parse(fs.readFileSync(monthlyJsonPath, 'utf8'));
+      if (mData && mData.themes) {
+        mData.themes.forEach(t => {
+          if (t.slug) {
+            monthlyFeatureUrls.push({
+              url: `${BASE_URL}/features/${t.slug}/`,
+              lastmod: todayStr,
+              changefreq: 'daily',
+              priority: '0.95'
+            });
+          }
+        });
+      }
+    } catch (e) {
+      console.warn('Warning: Could not parse monthly_features.json in bundle_posts:', e.message);
+    }
+  }
+
   // ファイル/ディレクトリの最終更新日を取得するヘルパー (YYYY-MM-DD)
   
   // サイトマップの lastmod を過去90日間（2026-08-15 〜 2026-11-13）に均等に自然分散させる関数
@@ -280,6 +303,9 @@ function main() {
       freq = 'monthly';
     }
     xmlFeatures += `  <url>\n    <loc>${BASE_URL}/${slug}/</loc>\n    <lastmod>${featureLastModMap[slug] || '2026-10-15'}</lastmod>\n    <changefreq>${freq}</changefreq>\n    <priority>${prio}</priority>\n  </url>\n`;
+  });
+  monthlyFeatureUrls.forEach(item => {
+    xmlFeatures += `  <url>\n    <loc>${item.url}</loc>\n    <lastmod>${item.lastmod}</lastmod>\n    <changefreq>${item.changefreq}</changefreq>\n    <priority>${item.priority}</priority>\n  </url>\n`;
   });
   xmlFeatures += `</urlset>\n`;
   fs.writeFileSync(path.join(PUBLIC_DIR, 'sitemap-features.xml'), xmlFeatures, 'utf8');
