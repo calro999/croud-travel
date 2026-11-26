@@ -62,6 +62,55 @@ interface MonthlyTheme {
   faqs?: FAQItem[];
 }
 
+
+interface RegionDefinition {
+  key: string;
+  label: string;
+  prefectures: string[];
+}
+
+const REGION_DEFINITIONS: RegionDefinition[] = [
+  {
+    key: "hokkaido-tohoku",
+    label: "北海道・東北エリア",
+    prefectures: ["北海道", "青森県", "岩手県", "宮城県", "秋田県", "山形県", "福島県"],
+  },
+  {
+    key: "kanto-koshin",
+    label: "関東・甲信エリア",
+    prefectures: ["東京都", "神奈川県", "埼玉県", "千葉県", "茨城県", "栃木県", "群馬県", "山梨県"],
+  },
+  {
+    key: "hokuriku-tokai-shinetsu",
+    label: "北陸・東海・信越エリア",
+    prefectures: ["新潟県", "長野県", "富山県", "石川県", "福井県", "岐阜県", "静岡県", "愛知県"],
+  },
+  {
+    key: "kansai",
+    label: "関西エリア",
+    prefectures: ["三重県", "滋賀県", "京都府", "大阪府", "兵庫県", "奈良県", "和歌山県"],
+  },
+  {
+    key: "chugoku-shikoku",
+    label: "中国・四国エリア",
+    prefectures: ["鳥取県", "島根県", "岡山県", "広島県", "山口県", "徳島県", "香川県", "愛媛県", "高知県"],
+  },
+  {
+    key: "kyushu-okinawa",
+    label: "九州・沖縄エリア",
+    prefectures: ["福岡県", "佐賀県", "長崎県", "熊本県", "大分県", "宮崎県", "鹿児島県", "沖縄県"],
+  },
+];
+
+function getHotelRegion(address: string): { key: string; label: string } {
+  for (const reg of REGION_DEFINITIONS) {
+    if (reg.prefectures.some((p) => address.includes(p))) {
+      return { key: reg.key, label: reg.label };
+    }
+  }
+  return { key: "other", label: "その他エリア" };
+}
+
 interface MonthlyData {
   currentMonth: string;
   themes: MonthlyTheme[];
@@ -193,33 +242,62 @@ export default async function MonthlyFeaturePage({
         </div>
       </section>
 
+      {/* 地域別グループの集計 */}
+      {(() => null)()}
+
       {/* 目次・クイックナビ */}
-      <div className="max-w-4xl mx-auto px-4 sm:px-6 -mt-6 relative z-10">
+      <div className="max-w-4xl mx-auto px-4 sm:px-6 -mt-6 relative z-10 space-y-3">
         <div className="bg-white rounded-2xl shadow-md border border-slate-200 p-4 sm:p-6 flex flex-col sm:flex-row items-center justify-between gap-4">
           <div className="text-sm text-slate-700">
             <p className="font-bold text-slate-900">
-              今月泊まりたい、本当におすすめできる名宿ランキング
+              冬休み・年末年始の宿泊予約にも！満足度順ランキング＆地域別ガイド
             </p>
             <p className="text-xs text-slate-500 mt-0.5">
-              口コミで極めて高い満足度を誇る上位10宿と、個性豊かな体験が魅力の注目宿を詳しくご紹介します。
+              口コミで極めて高い満足度を誇る全国の上位宿と、旅行先別に探せる地域別ブロックを詳しくご紹介します。
             </p>
           </div>
-          <div className="flex items-center gap-2">
+          <div className="flex flex-wrap items-center gap-2">
             <a
               href="#ranking-top10"
               className="text-xs sm:text-sm font-bold px-4 py-2 bg-emerald-600 hover:bg-emerald-700 text-white rounded-xl shadow-sm transition"
             >
-              おすすめBEST10を見る ↓
+              満足度BEST10 ↓
+            </a>
+            <a
+              href="#regional-directory"
+              className="text-xs sm:text-sm font-bold px-3 py-2 bg-teal-50 hover:bg-teal-100 text-teal-800 border border-teal-200 rounded-xl transition"
+            >
+              地域別で探す ↓
             </a>
             {others.length > 0 && (
               <a
                 href="#other-collection"
                 className="text-xs sm:text-sm font-semibold px-3 py-2 bg-slate-100 hover:bg-slate-200 text-slate-700 rounded-xl transition"
               >
-                あわせて読みたい注目宿
+                注目宿全{others.length}選
               </a>
             )}
           </div>
+        </div>
+
+        {/* 地域別クイックジャンプバー */}
+        <div className="bg-slate-900 text-white rounded-2xl p-3 sm:p-4 shadow-sm border border-slate-800 flex flex-wrap items-center gap-2 text-xs">
+          <span className="font-bold text-emerald-400 flex items-center gap-1">
+            <span>地域別ジャンプ:</span>
+          </span>
+          {REGION_DEFINITIONS.map((reg) => {
+            const count = sortedHotels.filter((h) => getHotelRegion(h.address).key === reg.key).length;
+            if (count === 0) return null;
+            return (
+              <a
+                key={reg.key}
+                href={`#region-${reg.key}`}
+                className="px-2.5 py-1 rounded-lg bg-slate-800 hover:bg-emerald-600 text-slate-200 hover:text-white transition font-medium border border-slate-700"
+              >
+                {reg.label} ({count}宿)
+              </a>
+            );
+          })}
         </div>
       </div>
 
@@ -481,6 +559,116 @@ export default async function MonthlyFeaturePage({
             </div>
           </section>
         )}
+
+        
+        {/* ＝＝＝＝＝ エリア別・地域ブロック（冬休み・旅行先で探す） ＝＝＝＝＝ */}
+        <section id="regional-directory" className="space-y-8 pt-8 border-t border-slate-200">
+          <div className="border-b-2 border-emerald-500 pb-3">
+            <h2 className="text-xl sm:text-2xl font-black text-slate-900">
+              地域・旅行先から探す！エリア別おすすめ名宿
+            </h2>
+            <p className="text-xs sm:text-sm text-slate-600 mt-1 leading-relaxed">
+              冬休みの帰省や旅行先、近場の温泉地に合わせて選べるエリア別一覧です。各地の気候や名物料理、アクセスに合わせて最適な宿をお選びいただけます。
+            </p>
+          </div>
+
+          <div className="space-y-10">
+            {REGION_DEFINITIONS.map((reg) => {
+              const regHotels = sortedHotels.filter(
+                (h) => getHotelRegion(h.address).key === reg.key
+              );
+              if (regHotels.length === 0) return null;
+
+              return (
+                <div
+                  key={reg.key}
+                  id={`region-${reg.key}`}
+                  className="scroll-mt-24 space-y-4 bg-white rounded-2xl border border-slate-200 p-5 sm:p-7 shadow-xs"
+                >
+                  <div className="flex flex-wrap items-center justify-between gap-2 border-b border-slate-100 pb-3">
+                    <h3 className="text-lg sm:text-xl font-black text-slate-900 flex items-center gap-2">
+                      <span className="w-2.5 h-2.5 rounded-full bg-emerald-500" />
+                      <span>{reg.label}</span>
+                      <span className="text-xs font-semibold text-emerald-800 bg-emerald-50 px-2 py-0.5 rounded-md border border-emerald-200">
+                        {regHotels.length}軒掲載
+                      </span>
+                    </h3>
+                    <span className="text-xs text-slate-400">
+                      対象エリア: {reg.prefectures.slice(0, 4).join('・')}ほか
+                    </span>
+                  </div>
+
+                  <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+                    {regHotels.map((hotel) => {
+                      const overallRank = sortedHotels.findIndex((h) => h.hotelNo === hotel.hotelNo) + 1;
+                      return (
+                        <div
+                          key={hotel.hotelNo}
+                          className="border border-slate-200 rounded-xl p-4 hover:border-emerald-500 hover:shadow-sm transition bg-slate-50/50 flex flex-col justify-between space-y-3"
+                        >
+                          <div className="flex gap-3">
+                            <div className="w-24 h-24 rounded-lg overflow-hidden bg-slate-200 flex-shrink-0 relative">
+                              <img
+                                src={hotel.hotelImageUrl}
+                                alt={hotel.hotelName}
+                                className="w-full h-full object-cover"
+                                loading="lazy"
+                              />
+                              <span className="absolute bottom-1 left-1 bg-slate-900/90 text-[10px] font-bold text-amber-300 px-1.5 py-0.5 rounded">
+                                ★{hotel.rating.toFixed(2)}
+                              </span>
+                            </div>
+                            <div className="min-w-0 flex-1 space-y-1">
+                              <div className="flex items-center gap-1.5">
+                                <span className="text-[10px] font-bold bg-slate-800 text-white px-1.5 py-0.2 rounded">
+                                  総合第{overallRank}位
+                                </span>
+                                <span className="text-[11px] text-slate-500 truncate">
+                                  {hotel.address.split(' ')[0]}
+                                </span>
+                              </div>
+                              <h4 className="text-xs sm:text-sm font-bold text-slate-900 line-clamp-2 leading-snug">
+                                <a
+                                  href={hotel.affiliateUrl}
+                                  target="_blank"
+                                  rel="noopener noreferrer"
+                                  className="hover:text-emerald-700 transition"
+                                >
+                                  {hotel.hotelName}
+                                </a>
+                              </h4>
+                              {hotel.catchCopy && (
+                                <p className="text-[11px] text-emerald-800 font-medium line-clamp-1">
+                                  {hotel.catchCopy}
+                                </p>
+                              )}
+                            </div>
+                          </div>
+
+                          <div className="flex items-center justify-between pt-2 border-t border-slate-200/80 text-xs">
+                            <span className="font-bold text-rose-600">
+                              {hotel.minCharge
+                                ? `¥${hotel.minCharge.toLocaleString()}〜/人`
+                                : "プラン参照"}
+                            </span>
+                            <a
+                              href={hotel.affiliateUrl}
+                              target="_blank"
+                              rel="noopener noreferrer"
+                              className="px-3 py-1 bg-slate-900 hover:bg-emerald-600 text-white text-[11px] font-bold rounded-lg transition"
+                            >
+                              プランを見る ➔
+                            </a>
+                          </div>
+                        </div>
+                      );
+                    })}
+                  </div>
+                </div>
+              );
+            })}
+          </div>
+        </section>
 
         {/* ＝＝＝＝＝ 徹底比較ハイライト＆宿泊選びの基準 ＝＝＝＝＝ */}
         {theme.comparisonHighlights && theme.comparisonHighlights.length > 0 && (
