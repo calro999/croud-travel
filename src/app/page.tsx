@@ -489,30 +489,30 @@ export default function Home() {
           </Link>
         </div>
 
-        {/* 11月〜2月 冬旅・年末年始 旬の検索テーマ直行リンク */}
+        {/* 12月 冬旅・年末年始 旬の検索テーマ直行リンク */}
         <div className="pt-2 border-t border-amber-500/15">
           <p className="text-[11px] font-extrabold text-emerald-950/80 mb-2.5 flex items-center gap-1.5">
             <span>❄️</span>
-            <span>いま予約が集中している秋冬〜年末年始の人気テーマ：</span>
+            <span>【12月最新】いま予約が集中している冬旅・年末年始の人気テーマ：</span>
           </p>
           <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-6 gap-2.5 text-xs">
+            <Link href="/features/furusato-tax-december-yearend-rush-luxury-stay/" className="bg-white hover:bg-amber-50 border border-amber-300 rounded-xl px-3 py-2.5 font-bold text-amber-950 flex items-center gap-1.5 shadow-sm transition">
+              <span>12/31締切ふるさと納税</span>
+            </Link>
+            <Link href="/features/december-snow-view-onsen-retreat/" className="bg-white hover:bg-sky-50 border border-sky-300 rounded-xl px-3 py-2.5 font-bold text-sky-950 flex items-center gap-1.5 shadow-sm transition">
+              <span>雪見露天・冬ごもり名宿</span>
+            </Link>
+            <Link href="/features/december-christmas-luxury-anniversary-hotel/" className="bg-white hover:bg-rose-50 border border-rose-300 rounded-xl px-3 py-2.5 font-bold text-rose-950 flex items-center gap-1.5 shadow-sm transition">
+              <span>クリスマス・聖夜ホテル</span>
+            </Link>
+            <Link href="/features/december-year-end-gourmet-hotpot-ryokan/" className="bg-white hover:bg-emerald-50 border border-emerald-300 rounded-xl px-3 py-2.5 font-bold text-emerald-950 flex items-center gap-1.5 shadow-sm transition">
+              <span>ご褒美鍋・寒ブリふぐ</span>
+            </Link>
             <Link href="/posts/winter-newyear-countdown-anaba-onsen-hotels-guide/" className="bg-white hover:bg-rose-50 border border-rose-200/80 rounded-xl px-3 py-2.5 font-bold text-rose-950 flex items-center gap-1.5 shadow-sm transition">
               <span>年末年始・年越し穴場20選</span>
             </Link>
-            <Link href="/posts/winter-yukimi-rotenburo-train-access-onsen-hotels-guide/" className="bg-white hover:bg-sky-50 border border-sky-200/80 rounded-xl px-3 py-2.5 font-bold text-sky-950 flex items-center gap-1.5 shadow-sm transition">
-              <span>電車で行く雪見露天16選</span>
-            </Link>
-            <Link href="/posts/furusato-tax-yearend-rush-rakuten-travel-coupon-guide/" className="bg-white hover:bg-amber-50 border border-amber-200/80 rounded-xl px-3 py-2.5 font-bold text-amber-950 flex items-center gap-1.5 shadow-sm transition">
-              <span>12/31締切ふるさと納税宿</span>
-            </Link>
-            <Link href="/posts/national-arena-dome-oshikatsu-live-hotels-guide/" className="bg-white hover:bg-pink-50 border border-pink-200/80 rounded-xl px-3 py-2.5 font-bold text-pink-950 flex items-center gap-1.5 shadow-sm transition">
-              <span>全国15会場 推し活遠征宿</span>
-            </Link>
             <Link href="/winter-crab-gourmet/" className="bg-white hover:bg-orange-50 border border-orange-200/80 rounded-xl px-3 py-2.5 font-bold text-orange-950 flex items-center gap-1.5 shadow-sm transition">
               <span>松葉ガニ・越前ガニ解禁</span>
-            </Link>
-            <Link href="/furusato-tax-three-great-illuminations-resort-stay/" className="bg-white hover:bg-indigo-50 border border-indigo-200/80 rounded-xl px-3 py-2.5 font-bold text-indigo-950 flex items-center gap-1.5 shadow-sm transition">
-              <span>冬イルミネーション宿</span>
             </Link>
           </div>
         </div>

@@ -84,15 +84,15 @@ export default async function FeaturesPage() {
       {/* 🎁 楽天トラベル公式 お得キャンペーンバナー */}
       <SpecialCouponBanner />
 
-      {/* 🌟 11月・冬の4大特設ランキング特集（現在もっとも読まれている注目特集） */}
+      {/* 🌟 12月・冬の4大特設ランキング特集（現在もっとも読まれている注目特集） */}
       <section className="bg-gradient-to-br from-slate-900 via-emerald-950 to-slate-950 rounded-3xl p-6 md:p-8 text-white shadow-xl border-2 border-emerald-500/30 space-y-6">
         <div className="flex flex-wrap items-center justify-between gap-3 border-b border-emerald-500/20 pb-4">
           <div>
             <span className="inline-block text-[10px] font-black tracking-widest bg-emerald-500/20 text-emerald-300 border border-emerald-400/30 px-3 py-0.5 rounded-full uppercase">
-              NOVEMBER & WINTER EDITORIAL SELECTION
+              DECEMBER & WINTER EDITORIAL SELECTION
             </span>
             <h2 className="text-xl md:text-2xl font-black font-journal-serif text-white mt-1.5">
-              【11月〜冬の4大特設特集】楽天ふるさと納税・星空露天・解禁ブランド蟹・散り紅葉秘湯
+              【12月〜冬の4大特設特集】年末ふるさと納税駆け込み・白銀雪見露天・クリスマス聖夜ホテル・1年のご褒美極上鍋宿
             </h2>
           </div>
           <span className="text-xs text-emerald-300/80 font-bold bg-emerald-950/60 px-3 py-1 rounded-full border border-emerald-500/30">
@@ -101,43 +101,43 @@ export default async function FeaturesPage() {
         </div>
 
         <p className="text-xs md:text-sm text-slate-300 leading-relaxed max-w-3xl">
-          11月中旬のいま最も検索され、予約が殺到している4つの大人気テーマを特設公開。12月の年内駆け込み前に確保すべきふるさと納税高級宿、空気が澄んだ初冬の天空星空露天、11月に漁解禁を迎えた本場ブランド蟹、そして見頃を迎えた晩秋の秘湯宿を徹底比較しています。
+          本格的な冬を迎える12月、いま最も検索され予約が集中している4大トレンドテーマを特設公開。12月31日の控除上限締切に使い切るふるさと納税最高峰宿、しんしんと降る雪を眺めながら温まる雪見にごり湯、大切な人と過ごす聖夜のドラマチック夜景ホテル、そして寒ブリ・とらふぐ・特選和牛で1年を締めくくるご褒美美食宿を厳選比較しています。
         </p>
 
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4 pt-1">
           <Link
-            href="/features/furusato-tax-november-luxury-retreat/"
-            className="group bg-white/10 hover:bg-white/15 border border-emerald-400/40 hover:border-emerald-300 rounded-2xl p-4 transition shadow-md flex flex-col justify-between space-y-3"
+            href="/features/furusato-tax-december-yearend-rush-luxury-stay/"
+            className="group bg-white/10 hover:bg-white/15 border border-amber-400/40 hover:border-amber-300 rounded-2xl p-4 transition shadow-md flex flex-col justify-between space-y-3"
           >
             <div className="space-y-2">
               <span className="text-[10px] font-black text-amber-300 bg-amber-950/80 px-2 py-0.5 rounded inline-block">
-                💰 12月駆け込み回避
+                ⏳ 12月31日寄付締切
               </span>
-              <h3 className="text-sm font-bold text-white group-hover:text-emerald-300 transition leading-snug">
-                ふるさと納税 × 憧れの高級宿 特集
+              <h3 className="text-sm font-bold text-white group-hover:text-amber-300 transition leading-snug">
+                年内枠を使い切る！ふるさと納税 × 最高峰宿
               </h3>
               <p className="text-[11px] text-slate-300 line-clamp-2 leading-relaxed">
-                年内駆け込み前の今が狙い目！実質2,000円で泊まる憧れの露天風呂付き客室と最高峰のおもてなし宿。
+                年内最後の駆け込みチャンス！実質2,000円で最長3年有効の宿泊クーポンに変えて泊まる憧れの露天風呂客室と名門旅館。
               </p>
             </div>
-            <span className="text-xs font-bold text-emerald-400 group-hover:translate-x-1 transition-transform inline-flex items-center gap-1">
+            <span className="text-xs font-bold text-amber-400 group-hover:translate-x-1 transition-transform inline-flex items-center gap-1">
               ランキングを見る →
             </span>
           </Link>
 
           <Link
-            href="/features/november-starry-sky-infinity-onsen/"
+            href="/features/december-snow-view-onsen-retreat/"
             className="group bg-white/10 hover:bg-white/15 border border-sky-400/40 hover:border-sky-300 rounded-2xl p-4 transition shadow-md flex flex-col justify-between space-y-3"
           >
             <div className="space-y-2">
               <span className="text-[10px] font-black text-sky-300 bg-sky-950/80 px-2 py-0.5 rounded inline-block">
-                🌌 初冬の澄んだ夜空
+                ❄️ 白銀の絶景と暖炉
               </span>
               <h3 className="text-sm font-bold text-white group-hover:text-sky-300 transition leading-snug">
-                星空撮影 × 天空インフィニティ露天風呂 特集
+                雪見露天風呂 × 至福の冬ごもり名宿
               </h3>
               <p className="text-[11px] text-slate-300 line-clamp-2 leading-relaxed">
-                空気が澄み渡る11月！湯けむりと満天の星が溶け合う全国屈指の絶景パノラマ露天風呂リゾート。
+                しんしんと舞い落ちる雪を望むにごり湯露天風呂と、パチパチと薪が燃える暖炉ラウンジ。日常を忘れる極上の冬ごもりステイ。
               </p>
             </div>
             <span className="text-xs font-bold text-sky-400 group-hover:translate-x-1 transition-transform inline-flex items-center gap-1">
@@ -146,18 +146,18 @@ export default async function FeaturesPage() {
           </Link>
 
           <Link
-            href="/features/november-brand-crab-onsen-gourmet/"
+            href="/features/december-christmas-luxury-anniversary-hotel/"
             className="group bg-white/10 hover:bg-white/15 border border-rose-400/40 hover:border-rose-300 rounded-2xl p-4 transition shadow-md flex flex-col justify-between space-y-3"
           >
             <div className="space-y-2">
               <span className="text-[10px] font-black text-rose-300 bg-rose-950/80 px-2 py-0.5 rounded inline-block">
-                🦀 11月漁解禁！
+                🎄 聖夜＆年末アニバーサリー
               </span>
               <h3 className="text-sm font-bold text-white group-hover:text-rose-300 transition leading-snug">
-                ブランド蟹 × 極上温泉宿 特集
+                特別な人と過ごすドラマチックホテル
               </h3>
               <p className="text-[11px] text-slate-300 line-clamp-2 leading-relaxed">
-                越前蟹・松葉蟹・竹崎カニが旬のピーク！刺身・炭火焼き・茹でたて熱々の活蟹と地酒を味わう名宿。
+                息をのむ煌めく夜景、冬のイルミネーション、シェフ特製フレンチディナー。聖夜や年末の思い出を特別にするハイクラスホテル。
               </p>
             </div>
             <span className="text-xs font-bold text-rose-400 group-hover:translate-x-1 transition-transform inline-flex items-center gap-1">
@@ -166,21 +166,21 @@ export default async function FeaturesPage() {
           </Link>
 
           <Link
-            href="/features/november-late-autumn-leaves-secret-onsen/"
-            className="group bg-white/10 hover:bg-white/15 border border-amber-400/40 hover:border-amber-300 rounded-2xl p-4 transition shadow-md flex flex-col justify-between space-y-3"
+            href="/features/december-year-end-gourmet-hotpot-ryokan/"
+            className="group bg-white/10 hover:bg-white/15 border border-emerald-400/40 hover:border-emerald-300 rounded-2xl p-4 transition shadow-md flex flex-col justify-between space-y-3"
           >
             <div className="space-y-2">
-              <span className="text-[10px] font-black text-amber-300 bg-amber-950/80 px-2 py-0.5 rounded inline-block">
-                🍁 散り紅葉の絨毯
+              <span className="text-[10px] font-black text-emerald-300 bg-emerald-950/80 px-2 py-0.5 rounded inline-block">
+                🍲 1年の締めくくり美食
               </span>
-              <h3 className="text-sm font-bold text-white group-hover:text-amber-300 transition leading-snug">
-                晩秋の静寂 × 散り紅葉＆秘湯 特集
+              <h3 className="text-sm font-bold text-white group-hover:text-emerald-300 transition leading-snug">
+                寒ブリ・とらふぐ・極上鍋と温まりの温泉宿
               </h3>
               <p className="text-[11px] text-slate-300 line-clamp-2 leading-relaxed">
-                見頃ピークと落ち葉が水面に浮かぶ風流露天！混雑を避けてゆったり過ごす大人の隠れ家名湯宿。
+                氷見の寒ブリ、下関のとらふぐ、特撰牛のすき焼き。1年頑張った自分へのご褒美に、心も身体も芯から温まる美食旅館。
               </p>
             </div>
-            <span className="text-xs font-bold text-amber-400 group-hover:translate-x-1 transition-transform inline-flex items-center gap-1">
+            <span className="text-xs font-bold text-emerald-400 group-hover:translate-x-1 transition-transform inline-flex items-center gap-1">
               ランキングを見る →
             </span>
           </Link>

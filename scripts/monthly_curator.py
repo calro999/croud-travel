@@ -75,6 +75,16 @@ MONTHLY_THEME_TEMPLATES = {
     ],
     12: [
         {
+            "id": "dec-furusato-yearend-rush",
+            "slug": "furusato-tax-december-yearend-rush-luxury-stay",
+            "title": "【12月31日締切】年内枠を使い切る！楽天ふるさと納税で泊まる憧れの最高峰宿",
+            "subTitle": "実質2,000円で賢く手に入れる最長3年有効の宿泊クーポン。客室露天風呂・離れヴィラ・名門老舗旅館",
+            "lead": "年間控除枠のラストスパート！12月31日の寄付締め切りに向けて、失効しがちな控除枠を楽天トラベルの宿泊クーポン（寄付額の最大30%）に換えておく賢い旅スタイル。有効期限はたっぷり3年間あるため、来年の連休や記念日旅行にも使えます。評価★4.5以上の最高峰宿を厳選。",
+            "heroImage": "https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1200&q=80",
+            "keywords": ["ふるさと納税", "年末駆け込み", "12月31日締切", "高級宿", "宿泊クーポン", "客室露天風呂"],
+            "searchQueries": ["ふるさと納税 高級旅館", "ふるさと納税 露天風呂 客室", "ふるさと納税 温泉 旅館", "ふるさと納税 リゾート"]
+        },
+        {
             "id": "dec-winter-snow-onsen",
             "slug": "december-snow-view-onsen-retreat",
             "title": "【白銀の絶景】雪見露天風呂と暖炉に癒される至福の冬ごもり名宿",
@@ -92,7 +102,7 @@ MONTHLY_THEME_TEMPLATES = {
             "lead": "クリスマスや年末のアニバーサリーにふさわしい、夜景が息をのむ高層ホテルや森に佇むオーベルジュ。",
             "heroImage": "https://images.unsplash.com/photo-1543258103-a62bdc069871?auto=format&fit=crop&w=1200&q=80",
             "keywords": ["クリスマスホテル", "夜景ホテル", "記念日ディナー", "高級ホテル"],
-            "searchQueries": ["夜景 高級ホテル", "クリスマス ディナー ホテル", "オーベルジュ"]
+            "searchQueries": ["夜景 ホテル", "イルミネーション ホテル", "夜景 露天風呂", "オーベルジュ"]
         },
         {
             "id": "dec-year-end-hotpot",
@@ -102,17 +112,7 @@ MONTHLY_THEME_TEMPLATES = {
             "lead": "1年頑張った自分へのご褒美に。氷見の寒ブリ、下関のとらふぐ、特選牛すき焼きなど、鍋料理の名店旅館を特集。",
             "heroImage": "https://images.unsplash.com/photo-1547592180-85f173990554?auto=format&fit=crop&w=1200&q=80",
             "keywords": ["寒ブリ", "とらふぐ", "温泉鍋料理", "年末旅行", "美食旅館"],
-            "searchQueries": ["ふぐ 温泉宿", "寒ブリ 温泉", "すき焼き 温泉宿"]
-        },
-        {
-            "id": "dec-hatsumode-onsen",
-            "slug": "december-hatsumode-new-year-onsen-stay",
-            "title": "【新年の開運】名刹・パワースポット参拝と初日の出を拝む温泉宿",
-            "subTitle": "年末年始を穏やかに迎える。ご利益温泉と絶景の日の出スポット",
-            "lead": "初詣やご来光に合わせた年越し・お正月ステイに最適な、由緒ある神社仏閣近くの温泉宿やオーシャンビュー旅館。",
-            "heroImage": "https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e?auto=format&fit=crop&w=1200&q=80",
-            "keywords": ["初詣", "初日の出", "年末年始温泉", "お正月旅行"],
-            "searchQueries": ["初日の出 露天風呂", "初詣 温泉", "海辺 露天風呂 日の出"]
+            "searchQueries": ["ふぐ 温泉宿", "寒ブリ 温泉", "すき焼き 温泉宿", "あんこう鍋 温泉", "カニ 温泉宿", "鍋 露天風呂"]
         }
     ],
     1: [
@@ -700,8 +700,13 @@ def curate_hotel_with_gemini(hotel_info, theme_title):
 def init_or_load_monthly_data():
     """月次JSONの読み込み、月が変わっていたら自動リセット＆新テーマ作成"""
     now = datetime.now()
-    month_key = now.strftime("%Y-%m")
-    current_m = now.month
+    # 11月下旬（25日以降）からは12月スプリント・12月特集へ早期切り替え
+    if now.month == 11 and now.day >= 25:
+        current_m = 12
+        month_key = f"{now.year}-12"
+    else:
+        current_m = now.month
+        month_key = now.strftime("%Y-%m")
 
     data = None
     if os.path.exists(DATA_FILE):
@@ -714,7 +719,7 @@ def init_or_load_monthly_data():
     # 月が変わった、または新規作成の場合
     if not data or data.get("currentMonth") != month_key:
         print(f"[*] 月が切り替わりました。{month_key} の新特集テーマを初期化します。")
-        templates = MONTHLY_THEME_TEMPLATES.get(current_m, MONTHLY_THEME_TEMPLATES[11])
+        templates = MONTHLY_THEME_TEMPLATES.get(current_m, MONTHLY_THEME_TEMPLATES[12])
         themes = []
         for t in templates:
             themes.append({
