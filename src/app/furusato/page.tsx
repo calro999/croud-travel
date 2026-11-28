@@ -232,7 +232,7 @@ export default function FurusatoPage() {
         
         <div className="relative space-y-4 max-w-3xl">
           <div className="inline-flex items-center gap-2 px-3.5 py-1.5 rounded-full bg-amber-400 text-teal-950 text-xs font-black tracking-wider uppercase shadow-md">
-            <span>🎁</span> <span>寄付額の最大30%が宿泊割引に！控除上限内で自己負担実質2,000円</span>
+            <span>🎁</span> <span>「今年の枠、使い道に迷っている」方へ｜自己負担実質2,000円で憧れの宿へ</span>
           </div>
 
           <h1 className="text-2xl sm:text-4xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight">楽天トラベルふるさと納税<br className="hidden sm:inline" />
@@ -241,8 +241,9 @@ export default function FurusatoPage() {
             </span></h1>
 
           <p className="text-emerald-100/90 text-sm md:text-base leading-relaxed font-medium">
-            寄付金額の最大30%相当が楽天トラベル宿泊割引クーポンとして即座に還元！年間の控除上限額内であれば、自己負担わずか2,000円で数万〜数十万円分の旅行クーポンを活用できます。有効期限は最長3年間、予約後のあとから適用もOK。
-            憧れの高級旅館・露天風呂付き客室・ご当地美食ステイを、月別・目的別・季節別の切り口で徹底ナビゲートします。
+            「年末に控除枠が余っているけれど、お肉やお米を頼むと冷凍庫に入りきらない…」「旅行の予定がまだ決まっていない」と寄付先を後回しにしていませんか？
+            楽天トラベルのふるさと納税クーポンなら、寄付金額の最大30%相当が宿泊割引として付与され、有効期限は最長3年間。すでに予約済みの宿泊にもあとから割引を適用できます。
+            年収別の控除目安から、月別・目的別・季節別の厳選宿まで、迷わず賢く選ぶための基準を徹底ナビゲートします。
           </p>
 
           <div className="pt-3 flex flex-wrap items-center gap-3">
