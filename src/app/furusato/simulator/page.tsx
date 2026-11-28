@@ -4,8 +4,8 @@ import SimulatorClient from "./SimulatorClient";
 const baseUrl = process.env.NEXT_PUBLIC_BASE_URL || "https://croud-travel.pages.dev";
 
 export const metadata: Metadata = {
-  title: "【控除上限シミュレーター＆残り枠ぴったり提案】楽天トラベルふるさと納税旅行クーポン計算ツール",
-  description: "年収と家族構成からふるさと納税の控除上限額（目安）を即座に計算！「あといくら寄付できるか」の残り枠から、楽天トラベル宿泊クーポン（寄付額の最大30%）をぴったり使い切るおすすめの組み合わせ例と、ワンストップ特例5自治体カウンターをご案内。有効期限最長3年間で無駄なくお得に旅を楽しめます。",
+  title: "ふるさと納税 控除上限シミュレーター＆残り枠ぴったり提案ツール",
+  description: "年収と家族構成からふるさと納税の控除上限目安を即座にシミュレーション！12月31日の締切直前に余った残り枠をぴったり使い切る楽天トラベル宿泊クーポンの組み合わせと厳選宿をご提案。ワンストップ特例申請は翌年1月10日必着です。",
   keywords: [
     "ふるさと納税 シミュレーター",
     "ふるさと納税 控除上限額",
@@ -16,8 +16,8 @@ export const metadata: Metadata = {
   ],
   alternates: { canonical: `${baseUrl}/furusato/simulator/` },
   openGraph: {
-    title: "【控除上限シミュレーター＆残り枠ぴったり提案】楽天トラベルふるさと納税旅行クーポン計算ツール",
-    description: "年収と家族構成から控除上限目安を即座に算出！残り枠をぴったり使い切るクーポン組み合わせ例とおすすめ宿をご提案。",
+    title: "ふるさと納税 控除上限シミュレーター＆残り枠ぴったり提案ツール",
+    description: "年収と家族構成から控除上限目安を即座に算出！12月31日締切の残り枠を使い切る旅行クーポン組み合わせ例をご提案。ワンストップ特例申請は翌年1月10日必着対応。",
     url: `${baseUrl}/furusato/simulator/`,
     siteName: "旅宿クラウド",
     type: "article",

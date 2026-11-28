@@ -8,8 +8,8 @@ const baseUrl = process.env.NEXT_PUBLIC_BASE_URL || "https://croud-travel.pages.
 const AFFILIATE_FURUSATO_URL = "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fspecial%2Ffurusato%2F";
 
 export const metadata: Metadata = {
-  title: "【主要20自治体】ふるさと納税旅行クーポン横断比較表｜寄付額・額面・有効期限・対象宿一覧",
-  description: "草津温泉・箱根・軽井沢・別府・由布院など、全国の人気温泉地を擁する主要20自治体の楽天トラベルふるさと納税宿泊クーポンを横断比較！寄付金額ごとのクーポン額面（最大30%）、対象エリア、有効期限（実質約3年）、除外日条件、年末締切（12/31）やワンストップ特例締切（翌年1/10）を網羅解説。",
+  title: "【主要20自治体比較】ふるさと納税旅行クーポン一覧！草津・箱根・別府",
+  description: "草津温泉・箱根・軽井沢・別府・由布院など人気20自治体の楽天トラベルふるさと納税宿泊クーポンを横断比較！寄付額ごとのクーポン額面（最大30%）や有効期限（最長3年）を一覧化。年内寄付は12月31日決済完了まで、ワンストップ申請は翌年1月10日必着です。",
   keywords: [
     "ふるさと納税 クーポン 比較",
     "楽天トラベル 自治体クーポン 一覧",
@@ -21,8 +21,8 @@ export const metadata: Metadata = {
   ],
   alternates: { canonical: `${baseUrl}/furusato/coupon-table/` },
   openGraph: {
-    title: "【主要20自治体】ふるさと納税旅行クーポン横断比較表｜寄付額・額面・有効期限・対象宿一覧",
-    description: "草津・箱根・軽井沢・別府など主要20自治体のふるさと納税宿泊クーポンを徹底比較。寄付額とクーポン額面、有効期限、除外日を整理。",
+    title: "【主要20自治体比較】ふるさと納税旅行クーポン一覧！草津・箱根・別府",
+    description: "草津・箱根・軽井沢・別府など主要20自治体のふるさと納税宿泊クーポンを徹底比較。寄付額ごとのクーポン額面や有効期限を整理。12月31日締切・翌年1月10日ワンストップ必着対応。",
     url: `${baseUrl}/furusato/coupon-table/`,
     siteName: "旅宿クラウド",
     type: "article",
