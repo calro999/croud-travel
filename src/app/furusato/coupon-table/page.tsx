@@ -113,26 +113,65 @@ export default function CouponTablePage() {
       />
 
       {/* ナビゲーションバナー */}
-      <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
+      <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-3">
+        <Link
+          href="/furusato/"
+          className="p-3.5 rounded-2xl bg-amber-50 border border-amber-200/80 hover:border-amber-700 transition flex items-center justify-between"
+        >
+          <div>
+            <span className="text-[10px] font-black text-amber-800 uppercase block">PORTAL</span>
+            <span className="text-xs font-bold text-amber-950">ふるさと納税総合TOP</span>
+          </div>
+          <span className="text-amber-700 font-bold text-xs">→</span>
+        </Link>
         <Link
           href="/furusato/simulator/"
-          className="p-4 rounded-2xl bg-teal-50 border border-teal-200/80 hover:border-teal-700 transition flex items-center justify-between"
+          className="p-3.5 rounded-2xl bg-teal-50 border border-teal-200/80 hover:border-teal-700 transition flex items-center justify-between"
         >
           <div>
             <span className="text-[10px] font-black text-teal-800 uppercase block">SIMULATOR</span>
-            <span className="text-xs font-bold text-teal-950">控除上限シミュレーター＆残り枠提案を使う</span>
+            <span className="text-xs font-bold text-teal-950">上限シミュレーター</span>
           </div>
-          <span className="text-teal-700 font-bold text-sm">→</span>
+          <span className="text-teal-700 font-bold text-xs">→</span>
         </Link>
         <Link
-          href="/furusato/"
-          className="p-4 rounded-2xl bg-amber-50 border border-amber-200/80 hover:border-amber-700 transition flex items-center justify-between"
+          href="/posts/furusato-tax-luxury-ryokan-ranking-japan-hotels-guide/"
+          className="p-3.5 rounded-2xl bg-emerald-50 border border-emerald-200/80 hover:border-emerald-700 transition flex items-center justify-between"
         >
           <div>
-            <span className="text-[10px] font-black text-amber-800 uppercase block">HUB TOP</span>
-            <span className="text-xs font-bold text-amber-950">ふるさと納税宿泊クーポン 総合ハブへ戻る</span>
+            <span className="text-[10px] font-black text-emerald-800 uppercase block">RANKING</span>
+            <span className="text-xs font-bold text-emerald-950">高級宿ランキング12選</span>
           </div>
-          <span className="text-amber-700 font-bold text-sm">→</span>
+          <span className="text-emerald-700 font-bold text-xs">→</span>
+        </Link>
+        <Link
+          href="/posts/furusato-tax-yearend-rush-rakuten-travel-coupon-guide/"
+          className="p-3.5 rounded-2xl bg-orange-50 border border-orange-200/80 hover:border-orange-700 transition flex items-center justify-between"
+        >
+          <div>
+            <span className="text-[10px] font-black text-orange-800 uppercase block">YEAR-END</span>
+            <span className="text-xs font-bold text-orange-950">駆け込み厳選20選</span>
+          </div>
+          <span className="text-orange-700 font-bold text-xs">→</span>
+        </Link>
+      </div>
+
+      {/* ⚠️ 年末期限・ワンストップ特例締切の注意喚起アラート */}
+      <div className="p-5 rounded-2xl bg-red-50 border-2 border-red-200 flex flex-col md:flex-row items-start md:items-center justify-between gap-3 text-xs">
+        <div className="space-y-1">
+          <span className="px-2.5 py-0.5 bg-red-600 text-white font-black text-[10px] rounded-full inline-block">期限注意</span>
+          <p className="font-bold text-red-950">
+            当年度寄付締め切り：<span className="text-red-700 font-black">12月31日 23:59 決済完了</span> ／ ワンストップ特例申請書：<span className="text-red-700 font-black">翌年1月10日 必着</span>
+          </p>
+          <p className="text-stone-600 text-[11px]">
+            ※大晦日夜間は決済通信集中が予想されます。マイナンバーカード対応自治体では「オンラインワンストップ申請」を活用すると郵送不要でスムーズです。
+          </p>
+        </div>
+        <Link
+          href="/posts/rakuten-furusato-travel/"
+          className="shrink-0 px-4 py-2 bg-red-600 hover:bg-red-700 text-white font-bold rounded-xl transition text-[11px]"
+        >
+          予約手順ガイド →
         </Link>
       </div>
 

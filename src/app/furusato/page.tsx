@@ -288,45 +288,203 @@ export default function FurusatoPage() {
         </Link>
       </section>
 
+      {/* ⚠️ 年末期限・ワンストップ特例申請の重要期限アラート */}
+      <section className="bg-red-50/90 border-2 border-red-300 rounded-3xl p-6 md:p-7 space-y-4 shadow-xs">
+        <div className="flex items-center gap-2">
+          <span className="px-3 py-1 bg-red-600 text-white font-black text-xs rounded-full">重要</span>
+          <h3 className="text-base md:text-lg font-black text-red-950 font-journal-serif">
+            年末の駆け込み寄附＆ワンストップ特例申請の期限厳守ルール
+          </h3>
+        </div>
+        <div className="grid grid-cols-1 md:grid-cols-2 gap-4 text-xs md:text-sm">
+          <div className="p-4 bg-white rounded-2xl border border-red-200 space-y-1.5">
+            <div className="flex items-center gap-2 font-black text-red-900">
+              <span className="text-base">⏰</span>
+              <span>当年度寄附締切：12月31日 23:59 決済完了</span>
+            </div>
+            <p className="text-stone-700 leading-relaxed text-xs">
+              当年度の税控除対象となる寄附は<strong>「12月31日 23時59分までに決済完了」</strong>が絶対条件です。大晦日の夜間はアクセス集中による通信遅延リスクがあるため、23時前までの手続き完了を推奨します。
+            </p>
+          </div>
+          <div className="p-4 bg-white rounded-2xl border border-red-200 space-y-1.5">
+            <div className="flex items-center gap-2 font-black text-red-900">
+              <span className="text-base">📮</span>
+              <span>ワンストップ特例申請締切：翌年1月10日 必着</span>
+            </div>
+            <p className="text-stone-700 leading-relaxed text-xs">
+              ワンストップ特例申請書の提出期限は<strong>寄附翌年の1月10日必着</strong>です。年末年始の郵便事情を考慮し、マイナンバーカードを用いたスマホ「オンラインワンストップ特例申請（自治体マイページ等）」の活用が安心です。
+            </p>
+          </div>
+        </div>
+      </section>
+
+      {/* 🥩🌾🦀 返礼品ジャンル比較：なぜ旅行クーポンが年末枠消化に選ばれるのか？ */}
+      <section className="bg-white rounded-3xl p-6 md:p-8 border border-emerald-950/10 shadow-sm space-y-6">
+        <div className="space-y-1">
+          <span className="text-[10px] font-black uppercase tracking-wider text-teal-800">CATEGORY COMPARISON</span>
+          <h2 className="text-xl md:text-2xl font-black text-emerald-950 font-journal-serif">
+            ふるさと納税返礼品 主要5大ジャンル徹底比較
+          </h2>
+          <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
+            お肉・お米・海産物・日用品と「楽天トラベル宿泊クーポン」を比較。年末の控除残枠消化において旅行クーポンが選ばれる理由を整理しました。
+          </p>
+        </div>
+
+        <div className="overflow-x-auto -mx-6 px-6">
+          <table className="w-full text-left text-xs border-collapse min-w-[700px]">
+            <thead>
+              <tr className="bg-emerald-950 text-white font-journal-serif">
+                <th className="p-3 border border-emerald-800">ジャンル</th>
+                <th className="p-3 border border-emerald-800">主な返礼品例</th>
+                <th className="p-3 border border-emerald-800">メリット</th>
+                <th className="p-3 border border-emerald-800">注意点・デメリット</th>
+                <th className="p-3 border border-emerald-800">おすすめの活用シーン</th>
+              </tr>
+            </thead>
+            <tbody className="divide-y divide-emerald-100 bg-white text-stone-800 font-medium">
+              <tr className="bg-amber-50/60 hover:bg-amber-100/40 transition font-bold">
+                <td className="p-3 border border-amber-200 text-amber-950 flex items-center gap-1.5 whitespace-nowrap">
+                  <span>♨️</span><span>旅行クーポン（楽天トラベル）</span>
+                </td>
+                <td className="p-3 border border-amber-200">全国主要自治体の宿泊割引クーポン（最大30%）</td>
+                <td className="p-3 border border-amber-200 text-teal-900">
+                  有効期限最大3年・予約後あとから割引可・保管場所ゼロ
+                </td>
+                <td className="p-3 border border-amber-200 text-stone-600">
+                  寄付先自治体内の対象宿に限る
+                </td>
+                <td className="p-3 border border-amber-200 text-amber-900 font-black">
+                  年末駆け込み・大型連休旅行の先取り
+                </td>
+              </tr>
+              <tr className="hover:bg-slate-50 transition">
+                <td className="p-3 border border-slate-200 text-slate-900 whitespace-nowrap">
+                  <span>🥩</span><span>精肉・ブランド牛</span>
+                </td>
+                <td className="p-3 border border-slate-200">黒毛和牛切り落とし、ハンバーグ、ステーキ</td>
+                <td className="p-3 border border-slate-200">ご馳走感が高く家族に大人気</td>
+                <td className="p-3 border border-slate-200 text-red-700">
+                  冷凍庫の空き容量を大きく圧迫する
+                </td>
+                <td className="p-3 border border-slate-200">お正月のごちそう・普段の食費節約</td>
+              </tr>
+              <tr className="hover:bg-slate-50 transition">
+                <td className="p-3 border border-slate-200 text-slate-900 whitespace-nowrap">
+                  <span>🌾</span><span>お米・定期便</span>
+                </td>
+                <td className="p-3 border border-slate-200">コシヒカリ、つや姫、新米定期便（全3〜6回）</td>
+                <td className="p-3 border border-slate-200">食費の直接的節約・定期便なら保管も安心</td>
+                <td className="p-3 border border-slate-200 text-stone-600">
+                  一括配送の場合は保管場所と消費ペースが必要
+                </td>
+                <td className="p-3 border border-slate-200">子育て世帯・主食の生活防衛</td>
+              </tr>
+              <tr className="hover:bg-slate-50 transition">
+                <td className="p-3 border border-slate-200 text-slate-900 whitespace-nowrap">
+                  <span>🦀</span><span>海産物・カニ・いくら</span>
+                </td>
+                <td className="p-3 border border-slate-200">オホーツク産ホタテ、いくら醤油漬け、ずわいがに</td>
+                <td className="p-3 border border-slate-200">年末年始の宴席が一気に華やかに</td>
+                <td className="p-3 border border-slate-200 text-stone-600">
+                  年末集中配送で冷凍便の受け取り調整が必要
+                </td>
+                <td className="p-3 border border-slate-200">大晦日・お正月の家族の団らん</td>
+              </tr>
+              <tr className="hover:bg-slate-50 transition">
+                <td className="p-3 border border-slate-200 text-slate-900 whitespace-nowrap">
+                  <span>🧻</span><span>日用品・ティッシュ</span>
+                </td>
+                <td className="p-3 border border-slate-200">ボックスティッシュ、トイレットペーパー大容量</td>
+                <td className="p-3 border border-slate-200">腐らない・確実に使い切る家計応援</td>
+                <td className="p-3 border border-slate-200 text-red-700">
+                  段ボール数箱が届き保管スペースを占有
+                </td>
+                <td className="p-3 border border-slate-200">一人暮らし・日常消耗品のストック</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+      </section>
+
       {/* 🧭 便利ツール＆一覧ナビゲーション */}
-      <section className="grid grid-cols-1 sm:grid-cols-2 gap-4">
+      <section className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
         <Link
           href="/furusato/simulator/"
-          className="group block p-6 rounded-2xl bg-gradient-to-br from-teal-900 to-emerald-950 text-white border border-teal-700/50 hover:border-amber-400 hover:shadow-lg transition"
+          className="group block p-5 rounded-2xl bg-gradient-to-br from-teal-900 to-emerald-950 text-white border border-teal-700/50 hover:border-amber-400 hover:shadow-lg transition"
         >
           <div className="flex items-center justify-between mb-2">
-            <span className="text-[11px] font-black uppercase tracking-wider text-amber-300 bg-teal-800/80 px-2.5 py-0.5 rounded-full">
+            <span className="text-[10px] font-black uppercase tracking-wider text-amber-300 bg-teal-800/80 px-2 py-0.5 rounded-full">
               控除シミュレーター
             </span>
-            <span className="text-sm font-bold text-teal-300 group-hover:translate-x-1 transition-transform">
-              ツールを使う →
+            <span className="text-xs font-bold text-teal-300 group-hover:translate-x-1 transition-transform">
+              計算する →
             </span>
           </div>
-          <h3 className="text-base md:text-lg font-black text-white mb-1.5 font-journal-serif">
-            控除上限目安＆残り枠ぴったり提案ツール
+          <h3 className="text-sm md:text-base font-black text-white mb-1 font-journal-serif">
+            控除上限＆残り枠提案ツール
           </h3>
-          <p className="text-xs text-teal-100/80 leading-relaxed">
-            年収と家族構成から控除上限目安を即座に計算。「あといくら使えるか」の残り枠からぴったり使い切るクーポン組み合わせをご提案します。
+          <p className="text-[11px] text-teal-100/80 leading-relaxed">
+            年収と家族構成から控除上限目安を即座に計算。余った枠に合うクーポン提案も。
           </p>
         </Link>
 
         <Link
           href="/furusato/coupon-table/"
-          className="group block p-6 rounded-2xl bg-gradient-to-br from-stone-900 to-amber-950 text-white border border-stone-700/50 hover:border-amber-400 hover:shadow-lg transition"
+          className="group block p-5 rounded-2xl bg-gradient-to-br from-stone-900 to-amber-950 text-white border border-stone-700/50 hover:border-amber-400 hover:shadow-lg transition"
         >
           <div className="flex items-center justify-between mb-2">
-            <span className="text-[11px] font-black uppercase tracking-wider text-amber-300 bg-stone-800/80 px-2.5 py-0.5 rounded-full">
+            <span className="text-[10px] font-black uppercase tracking-wider text-amber-300 bg-stone-800/80 px-2 py-0.5 rounded-full">
               クーポン横断比較
             </span>
-            <span className="text-sm font-bold text-amber-300 group-hover:translate-x-1 transition-transform">
-              一覧表を見る →
+            <span className="text-xs font-bold text-amber-300 group-hover:translate-x-1 transition-transform">
+              一覧表 →
             </span>
           </div>
-          <h3 className="text-base md:text-lg font-black text-white mb-1.5 font-journal-serif">
-            主要20自治体 ふるさと納税旅行クーポン横断表
+          <h3 className="text-sm md:text-base font-black text-white mb-1 font-journal-serif">
+            主要20自治体 クーポン比較表
           </h3>
-          <p className="text-xs text-stone-200/80 leading-relaxed">
-            草津・箱根・軽井沢・別府・由布院など全国の主要温泉地20自治体のクーポン額面・有効期限・対象エリア・除外日条件を一覧で比較できます。
+          <p className="text-[11px] text-stone-200/80 leading-relaxed">
+            草津・箱根・軽井沢・別府など20自治体のクーポン額面・有効期限・除外日を一挙比較。
+          </p>
+        </Link>
+
+        <Link
+          href="/posts/furusato-tax-luxury-ryokan-ranking-japan-hotels-guide/"
+          className="group block p-5 rounded-2xl bg-gradient-to-br from-emerald-950 to-slate-900 text-white border border-emerald-700/50 hover:border-amber-400 hover:shadow-lg transition"
+        >
+          <div className="flex items-center justify-between mb-2">
+            <span className="text-[10px] font-black uppercase tracking-wider text-amber-300 bg-emerald-800/80 px-2 py-0.5 rounded-full">
+              高級旅館12選
+            </span>
+            <span className="text-xs font-bold text-emerald-300 group-hover:translate-x-1 transition-transform">
+              読む →
+            </span>
+          </div>
+          <h3 className="text-sm md:text-base font-black text-white mb-1 font-journal-serif">
+            最高峰旅館ランキング12選
+          </h3>
+          <p className="text-[11px] text-emerald-100/80 leading-relaxed">
+            強羅花扇・翠松園・ふふなど、実質2,000円で泊まる憧れの客室露天リゾート特集。
+          </p>
+        </Link>
+
+        <Link
+          href="/posts/rakuten-furusato-travel/"
+          className="group block p-5 rounded-2xl bg-gradient-to-br from-amber-950 to-orange-950 text-white border border-amber-700/50 hover:border-amber-400 hover:shadow-lg transition"
+        >
+          <div className="flex items-center justify-between mb-2">
+            <span className="text-[10px] font-black uppercase tracking-wider text-amber-300 bg-amber-800/80 px-2 py-0.5 rounded-full">
+              お得予約ガイド
+            </span>
+            <span className="text-xs font-bold text-amber-300 group-hover:translate-x-1 transition-transform">
+              手順を見る →
+            </span>
+          </div>
+          <h3 className="text-sm md:text-base font-black text-white mb-1 font-journal-serif">
+            ふるさと納税クーポン活用手順
+          </h3>
+          <p className="text-[11px] text-amber-100/80 leading-relaxed">
+            あとから割引や5と0のつく日併用ルール、ステップ別の予約手順を完全ガイド。
           </p>
         </Link>
       </section>

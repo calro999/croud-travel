@@ -6,28 +6,37 @@
     "articleSlug": "furusato-tax-kusatsu-yubatake-luxury-ryokan-stay",
     "sampleHotels": [
       {
-        "hotelName": "草津温泉　中村屋旅館＜群馬県＞",
-        "hotelNo": 31675,
-        "address": "群馬県 吾妻郡草津町草津98",
-        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/31675/31675.jpg",
-        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D31675"
+        "hotelName": "草津温泉　５種貸切風呂の宿　湯宿　きんだい",
+        "hotelNo": 7166,
+        "address": "群馬県 吾妻郡草津町草津542-5",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/7166/7166.jpg",
+        "reviewAverage": 4.35,
+        "reviewCount": 551,
+        "hotelMinCharge": 13000,
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D7166"
       },
       {
-        "hotelName": "草津温泉　湯畑展望露天の宿　ぬ志勇旅館（ぬしゆうりょかん）",
-        "hotelNo": 108587,
-        "address": "群馬県 吾妻郡草津町446",
-        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/108587/108587.jpg",
-        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D108587"
+        "hotelName": "草津温泉　源泉かけ流しの宿　ひのき亭　牧水",
+        "hotelNo": 108634,
+        "address": "群馬県 吾妻郡草津町草津19-9",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/108634/108634.jpg",
+        "reviewAverage": 4.35,
+        "reviewCount": 200,
+        "hotelMinCharge": 10500,
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D108634"
       },
       {
-        "hotelName": "草津温泉　尻焼き風呂の桐島屋旅館",
-        "hotelNo": 2487,
-        "address": "群馬県 吾妻郡草津町大字草津541 桐島屋旅館",
-        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/2487/2487.jpg",
-        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D2487"
+        "hotelName": "草津温泉　ペンション　レザン",
+        "hotelNo": 28305,
+        "address": "群馬県 吾妻郡草津町草津558-2",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/28305/28305.jpg",
+        "reviewAverage": 4.13,
+        "reviewCount": 199,
+        "hotelMinCharge": 13750,
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D28305"
       }
     ],
-    "affiliateSampleUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D31675"
+    "affiliateSampleUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D7166"
   },
   {
     "pref": "神奈川県",
@@ -36,28 +45,37 @@
     "articleSlug": "furusato-tax-hakone-gora-onsen-art-luxury-stay",
     "sampleHotels": [
       {
-        "hotelName": "箱根温泉　湯宿山の省",
-        "hotelNo": 168581,
-        "address": "神奈川県 足柄下郡箱根町仙石原817-211",
-        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/168581/168581.jpg",
-        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D168581"
+        "hotelName": "箱根湯本温泉　伊東園ホテル　箱根湯本",
+        "hotelNo": 40781,
+        "address": "神奈川県 足柄下郡箱根町湯本茶屋95-1",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/40781/40781.jpg",
+        "reviewAverage": 3.98,
+        "reviewCount": 678,
+        "hotelMinCharge": 7898,
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D40781"
       },
       {
         "hotelName": "箱根湯本温泉　箱根パークス吉野",
         "hotelNo": 9669,
         "address": "神奈川県 足柄下郡箱根町湯本茶屋139-5",
         "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/9669/9669.jpg",
+        "reviewAverage": 4.26,
+        "reviewCount": 1576,
+        "hotelMinCharge": 6550,
         "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D9669"
       },
       {
-        "hotelName": "箱根湯本温泉　あうら橘",
-        "hotelNo": 13791,
-        "address": "神奈川県 足柄下郡箱根町湯本574",
-        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/13791/13791.jpg",
-        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D13791"
+        "hotelName": "箱根湯本　温泉旅館「大和館」",
+        "hotelNo": 187989,
+        "address": "神奈川県 足柄下郡箱根町湯本655",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/187989/187989.jpg",
+        "reviewAverage": 4.81,
+        "reviewCount": 27,
+        "hotelMinCharge": 9800,
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D187989"
       }
     ],
-    "affiliateSampleUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D168581"
+    "affiliateSampleUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D40781"
   },
   {
     "pref": "長野県",
@@ -70,6 +88,9 @@
         "hotelNo": 109519,
         "address": "長野県 北佐久郡軽井沢町軽井沢1178-1135",
         "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/109519/109519.jpg",
+        "reviewAverage": 3.92,
+        "reviewCount": 1488,
+        "hotelMinCharge": 5130,
         "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D109519"
       },
       {
@@ -77,14 +98,20 @@
         "hotelNo": 167281,
         "address": "長野県 北佐久郡軽井沢町軽井沢東154-2",
         "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/167281/167281.jpg",
+        "reviewAverage": 4.21,
+        "reviewCount": 284,
+        "hotelMinCharge": 8800,
         "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D167281"
       },
       {
-        "hotelName": "旧軽井沢　ホテル音羽ノ森",
-        "hotelNo": 50619,
-        "address": "長野県 北佐久郡軽井沢町軽井沢1323-980",
-        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/50619/50619.jpg",
-        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D50619"
+        "hotelName": "ホテルルートインコート軽井沢",
+        "hotelNo": 3086,
+        "address": "長野県 北佐久郡御代田町御代田2037",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/3086/3086.jpg",
+        "reviewAverage": 4.14,
+        "reviewCount": 365,
+        "hotelMinCharge": 7050,
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D3086"
       }
     ],
     "affiliateSampleUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D109519"
@@ -96,28 +123,37 @@
     "articleSlug": "furusato-tax-beppu-onsen-jigoku-meguri-stay",
     "sampleHotels": [
       {
-        "hotelName": "別府温泉　旅館　千成",
-        "hotelNo": 28789,
-        "address": "大分県 別府市野口元町2-18",
-        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/28789/28789.jpg",
-        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D28789"
+        "hotelName": "別府温泉　ホテル好楽",
+        "hotelNo": 4765,
+        "address": "大分県 別府市北浜3-13-21",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/4765/4765.jpg",
+        "reviewAverage": 3.85,
+        "reviewCount": 772,
+        "hotelMinCharge": 5400,
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D4765"
       },
       {
-        "hotelName": "別府温泉　ホテル三泉閣",
-        "hotelNo": 196409,
-        "address": "大分県 別府市北浜3-6-23",
-        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/196409/196409.jpg",
-        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D196409"
+        "hotelName": "リブマックスリゾート別府温泉　ＡＮＮＥＸ",
+        "hotelNo": 202517,
+        "address": "大分県 別府市野田114-1",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/202517/202517.jpg",
+        "reviewAverage": "4.50",
+        "reviewCount": 4,
+        "hotelMinCharge": 5900,
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D202517"
       },
       {
-        "hotelName": "別府温泉　悠彩の宿　望海",
-        "hotelNo": 54697,
-        "address": "大分県 別府市北浜3-8-7",
-        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/54697/54697.jpg",
-        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D54697"
+        "hotelName": "別府温泉　美湯の宿　両築別邸",
+        "hotelNo": 108176,
+        "address": "大分県 別府市観海寺町3番12号",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/108176/108176.jpg",
+        "reviewAverage": 4.34,
+        "reviewCount": 1843,
+        "hotelMinCharge": 7650,
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D108176"
       }
     ],
-    "affiliateSampleUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D28789"
+    "affiliateSampleUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D4765"
   },
   {
     "pref": "大分県",
@@ -130,6 +166,9 @@
         "hotelNo": 28502,
         "address": "大分県 由布市湯布院町川上1086-2",
         "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/28502/28502.jpg",
+        "reviewAverage": 4.63,
+        "reviewCount": 289,
+        "hotelMinCharge": 21120,
         "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D28502"
       },
       {
@@ -137,6 +176,9 @@
         "hotelNo": 153349,
         "address": "大分県 由布市湯布院町川上2879-1",
         "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/153349/153349.jpg",
+        "reviewAverage": 4.6,
+        "reviewCount": 67,
+        "hotelMinCharge": 10500,
         "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D153349"
       },
       {
@@ -144,6 +186,9 @@
         "hotelNo": 30707,
         "address": "大分県 由布市湯布院町川上1082-1",
         "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/30707/30707.jpg",
+        "reviewAverage": 5,
+        "reviewCount": 97,
+        "hotelMinCharge": 20900,
         "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D30707"
       }
     ],
@@ -156,28 +201,37 @@
     "articleSlug": "furusato-tax-atami-ocean-fireworks-luxury-stay",
     "sampleHotels": [
       {
-        "hotelName": "熱海温泉　旅館　立花",
-        "hotelNo": 14505,
-        "address": "静岡県 熱海市昭和町5-13",
-        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/14505/14505.jpg",
-        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D14505"
+        "hotelName": "熱海温泉　ホテル　サンミ倶楽部",
+        "hotelNo": 15680,
+        "address": "静岡県 熱海市和田浜南町5-8",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/15680/15680.jpg",
+        "reviewAverage": 3.91,
+        "reviewCount": 1021,
+        "hotelMinCharge": 6352,
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D15680"
       },
       {
-        "hotelName": "熱海温泉　古屋旅館",
-        "hotelNo": 16668,
-        "address": "静岡県 熱海市東海岸町5-24",
-        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/16668/16668.jpg",
-        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D16668"
+        "hotelName": "磐梯熱海温泉　四季彩　一力",
+        "hotelNo": 27936,
+        "address": "福島県 郡山市熱海町熱海4-161",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/27936/27936.jpg",
+        "reviewAverage": 4.33,
+        "reviewCount": 1091,
+        "hotelMinCharge": 12100,
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D27936"
       },
       {
-        "hotelName": "熱海温泉　三平荘",
-        "hotelNo": 38267,
-        "address": "静岡県 熱海市水口町1-7",
-        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/38267/38267.jpg",
-        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D38267"
+        "hotelName": "磐梯熱海温泉　万葉の宿　八景園",
+        "hotelNo": 72849,
+        "address": "福島県 郡山市熱海町安子島眞弓山4-8",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/72849/72849.jpg",
+        "reviewAverage": 3.85,
+        "reviewCount": 376,
+        "hotelMinCharge": 6600,
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D72849"
       }
     ],
-    "affiliateSampleUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D14505"
+    "affiliateSampleUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D15680"
   },
   {
     "pref": "静岡県",
@@ -186,28 +240,37 @@
     "articleSlug": "furusato-tax-ito-onsen-seafood-luxury-stay",
     "sampleHotels": [
       {
-        "hotelName": "伊豆・伊東温泉　お風呂ずきの宿　大東館",
-        "hotelNo": 15268,
-        "address": "静岡県 伊東市末広町2-23",
-        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/15268/15268.jpg",
-        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D15268"
+        "hotelName": "伊東温泉　ホテル暖香園",
+        "hotelNo": 38122,
+        "address": "静岡県 伊東市竹の内1-3-6",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/38122/38122.jpg",
+        "reviewAverage": 4.09,
+        "reviewCount": 803,
+        "hotelMinCharge": 10900,
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D38122"
       },
       {
-        "hotelName": "伊東温泉　淘心庵　米屋（共立リゾート）",
-        "hotelNo": 29763,
-        "address": "静岡県 伊東市鎌田280",
-        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/29763/29763.jpg",
-        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D29763"
+        "hotelName": "伊東温泉　伊東園ホテル松川館",
+        "hotelNo": 78235,
+        "address": "静岡県 伊東市寿町1-1",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/78235/78235.jpg",
+        "reviewAverage": 3.82,
+        "reviewCount": 833,
+        "hotelMinCharge": 6248,
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D78235"
       },
       {
-        "hotelName": "伊東温泉　ハトヤホテル",
-        "hotelNo": 9443,
-        "address": "静岡県 伊東市岡1391",
-        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/9443/9443.jpg",
-        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D9443"
+        "hotelName": "伊東温泉　ホテルよしの",
+        "hotelNo": 30912,
+        "address": "静岡県 伊東市松原745-5",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/30912/30912.jpg",
+        "reviewAverage": 4.23,
+        "reviewCount": 1306,
+        "hotelMinCharge": 5000,
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D30912"
       }
     ],
-    "affiliateSampleUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D15268"
+    "affiliateSampleUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D38122"
   },
   {
     "pref": "北海道",
@@ -220,107 +283,33 @@
         "hotelNo": 30109,
         "address": "北海道 登別市登別温泉町55",
         "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/30109/30109.jpg",
+        "reviewAverage": 4.57,
+        "reviewCount": 4227,
+        "hotelMinCharge": 15200,
         "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D30109"
       },
       {
-        "hotelName": "登別温泉　御やど清水屋",
-        "hotelNo": 9535,
-        "address": "北海道 登別市登別温泉町173",
-        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/9535/9535.jpg",
-        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D9535"
+        "hotelName": "登別温泉　登別グランドホテル",
+        "hotelNo": 39175,
+        "address": "北海道 登別市登別温泉町154",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/39175/39175.jpg",
+        "reviewAverage": 4.28,
+        "reviewCount": 3415,
+        "hotelMinCharge": 13750,
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D39175"
+      },
+      {
+        "hotelName": "登別温泉　登別万世閣",
+        "hotelNo": 28637,
+        "address": "北海道 登別市登別温泉町21",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/28637/28637.jpg",
+        "reviewAverage": 4,
+        "reviewCount": 1302,
+        "hotelMinCharge": 12423,
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D28637"
       }
     ],
     "affiliateSampleUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D30109"
-  },
-  {
-    "pref": "北海道",
-    "municipality": "釧路市",
-    "onsen": "阿寒湖温泉",
-    "articleSlug": "furusato-tax-akan-onsen-marimo-heritage-stay",
-    "sampleHotels": [
-      {
-        "hotelName": "阿寒湖温泉　あかん鶴雅別荘鄙の座",
-        "hotelNo": 37362,
-        "address": "北海道 釧路市阿寒町阿寒湖温泉2丁目8-1",
-        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/37362/37362.jpg",
-        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D37362"
-      },
-      {
-        "hotelName": "あかん遊久の里鶴雅",
-        "hotelNo": 40045,
-        "address": "北海道 釧路市阿寒町阿寒湖温泉4-6-10",
-        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/40045/40045.jpg",
-        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D40045"
-      },
-      {
-        "hotelName": "ファームイン　トーチ　Ｂ棟　＾",
-        "hotelNo": 170992,
-        "address": "北海道 阿寒郡鶴居村字雪裡原野北26線西13-3　Ｆａｒｍ　ｉｎ　Ｔｏｒｃｈ　Ｂ",
-        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/170992/170992.jpg",
-        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D170992"
-      }
-    ],
-    "affiliateSampleUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D37362"
-  },
-  {
-    "pref": "山形県",
-    "municipality": "山形市",
-    "onsen": "蔵王温泉",
-    "articleSlug": "furusato-tax-zao-onsen-acid-sulfur-stay",
-    "sampleHotels": [
-      {
-        "hotelName": "蔵王温泉　おおみや旅館",
-        "hotelNo": 5722,
-        "address": "山形県 山形市蔵王温泉46",
-        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/5722/5722.jpg",
-        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D5722"
-      },
-      {
-        "hotelName": "蔵王温泉　えびや旅館",
-        "hotelNo": 14790,
-        "address": "山形県 山形市蔵王温泉3",
-        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/14790/14790.jpg",
-        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D14790"
-      },
-      {
-        "hotelName": "蔵王温泉　最上高湯　善七乃湯（旧：蔵王温泉　大平ホテル）",
-        "hotelNo": 8084,
-        "address": "山形県 山形市蔵王温泉825",
-        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/8084/8084.jpg",
-        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D8084"
-      }
-    ],
-    "affiliateSampleUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D5722"
-  },
-  {
-    "pref": "宮城県",
-    "municipality": "仙台市",
-    "onsen": "秋保温泉",
-    "articleSlug": "furusato-tax-akiu-onsen-sendai-retreat-stay",
-    "sampleHotels": [
-      {
-        "hotelName": "秋保温泉　心和む名湯の宿　曽良一",
-        "hotelNo": 5770,
-        "address": "宮城県 仙台市太白区秋保町湯元字薬師108",
-        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/5770/5770.jpg",
-        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D5770"
-      },
-      {
-        "hotelName": "秋保温泉　茶寮宗園",
-        "hotelNo": 38345,
-        "address": "宮城県 仙台市太白区秋保町湯元釜土東1",
-        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/38345/38345.jpg",
-        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D38345"
-      },
-      {
-        "hotelName": "秋保温泉　篝火の湯　緑水亭",
-        "hotelNo": 15989,
-        "address": "宮城県 仙台市太白区秋保町湯元上原27-2",
-        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/15989/15989.jpg",
-        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D15989"
-      }
-    ],
-    "affiliateSampleUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D5770"
   },
   {
     "pref": "石川県",
@@ -329,118 +318,37 @@
     "articleSlug": "furusato-tax-yamashiro-onsen-kaga-million-gourmet-stay",
     "sampleHotels": [
       {
-        "hotelName": "加賀山代温泉　みどりの宿　萬松閣",
-        "hotelNo": 54103,
-        "address": "石川県 加賀市山代温泉東山町3番地",
-        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/54103/54103.jpg",
-        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D54103"
-      },
-      {
         "hotelName": "山代温泉　彩華の宿　多々見",
         "hotelNo": 1739,
         "address": "石川県 加賀市山代温泉桔梗が丘3-41",
         "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/1739/1739.jpg",
+        "reviewAverage": 3.99,
+        "reviewCount": 684,
+        "hotelMinCharge": 11000,
         "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D1739"
+      },
+      {
+        "hotelName": "山代温泉‐サンシティーホテル山代",
+        "hotelNo": 18656,
+        "address": "石川県 加賀市山代温泉桔梗ヶ丘4-33",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/18656/18656.jpg",
+        "reviewAverage": 4.07,
+        "reviewCount": 272,
+        "hotelMinCharge": 4000,
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D18656"
       },
       {
         "hotelName": "山代温泉　ゆ湯の宿　白山菖蒲亭",
         "hotelNo": 6003,
         "address": "石川県 加賀市山代温泉桔梗丘4-34-1",
         "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/6003/6003.jpg",
+        "reviewAverage": 4.24,
+        "reviewCount": 685,
+        "hotelMinCharge": 9009,
         "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D6003"
       }
     ],
-    "affiliateSampleUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D54103"
-  },
-  {
-    "pref": "福井県",
-    "municipality": "あわら市",
-    "onsen": "あわら温泉",
-    "articleSlug": "furusato-tax-awara-onsen-echizen-crab-luxury-stay",
-    "sampleHotels": [
-      {
-        "hotelName": "あわら温泉　伝統旅館のぬくもり　灰屋",
-        "hotelNo": 5677,
-        "address": "福井県 あわら市温泉2-205",
-        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/5677/5677.jpg",
-        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D5677"
-      },
-      {
-        "hotelName": "愛犬と添い寝できる温泉旅館　あわら温泉　月香",
-        "hotelNo": 160944,
-        "address": "福井県 あわら市舟津9-8",
-        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/160944/160944.jpg",
-        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D160944"
-      },
-      {
-        "hotelName": "越前あわら温泉　長谷川",
-        "hotelNo": 17657,
-        "address": "福井県 あわら市二面48-14",
-        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/17657/17657.jpg",
-        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D17657"
-      }
-    ],
-    "affiliateSampleUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D5677"
-  },
-  {
-    "pref": "岐阜県",
-    "municipality": "下呂市",
-    "onsen": "下呂温泉",
-    "articleSlug": "furusato-tax-gero-onsen-bihada-hida-beef-stay",
-    "sampleHotels": [
-      {
-        "hotelName": "下呂温泉　源泉かけ流しのおやど　菊半旅館",
-        "hotelNo": 38508,
-        "address": "岐阜県 下呂市湯之島281",
-        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/38508/38508.jpg",
-        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D38508"
-      },
-      {
-        "hotelName": "下呂温泉　旅館ますや",
-        "hotelNo": 56196,
-        "address": "岐阜県 下呂市森966-8",
-        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/56196/56196.jpg",
-        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D56196"
-      },
-      {
-        "hotelName": "桜　Ｒｉｖｅｒ　Ｓｉｄｅ　Ｓｔａｙ　下呂温泉",
-        "hotelNo": 181693,
-        "address": "岐阜県 下呂市湯之島868-1",
-        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/181693/181693.jpg",
-        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D181693"
-      }
-    ],
-    "affiliateSampleUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D38508"
-  },
-  {
-    "pref": "兵庫県",
-    "municipality": "豊岡市",
-    "onsen": "城崎温泉",
-    "articleSlug": "furusato-tax-kinosaki-onsen-matsuba-crab-seven-baths-stay",
-    "sampleHotels": [
-      {
-        "hotelName": "城崎温泉　料理旅館　よしはる",
-        "hotelNo": 79381,
-        "address": "兵庫県 豊岡市城崎町湯島180",
-        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/79381/79381.jpg",
-        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D79381"
-      },
-      {
-        "hotelName": "城崎温泉　つちや旅館",
-        "hotelNo": 8766,
-        "address": "兵庫県 豊岡市城崎町湯島573",
-        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/8766/8766.jpg",
-        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D8766"
-      },
-      {
-        "hotelName": "城崎温泉　みつわ旅館",
-        "hotelNo": 41857,
-        "address": "兵庫県 豊岡市城崎町湯島220",
-        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/41857/41857.jpg",
-        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D41857"
-      }
-    ],
-    "affiliateSampleUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D79381"
+    "affiliateSampleUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D1739"
   },
   {
     "pref": "兵庫県",
@@ -449,58 +357,76 @@
     "articleSlug": "furusato-tax-arima-onsen-kinsen-ginsen-luxury-stay",
     "sampleHotels": [
       {
-        "hotelName": "有馬温泉　角の坊旅館",
-        "hotelNo": 7140,
-        "address": "兵庫県 神戸市北区有馬町878",
-        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/7140/7140.jpg",
-        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D7140"
+        "hotelName": "有馬温泉　メープル有馬",
+        "hotelNo": 41797,
+        "address": "兵庫県 神戸市北区有馬町406-3",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/41797/41797.jpg",
+        "reviewAverage": 4.34,
+        "reviewCount": 1060,
+        "hotelMinCharge": 10500,
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D41797"
+      },
+      {
+        "hotelName": "有馬温泉　有馬グランドホテル",
+        "hotelNo": 25128,
+        "address": "兵庫県 神戸市北区有馬町1304-1",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/25128/25128.jpg",
+        "reviewAverage": 4.67,
+        "reviewCount": 1849,
+        "hotelMinCharge": 17050,
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D25128"
       },
       {
         "hotelName": "神戸有馬温泉　元湯龍泉閣～赤ちゃんも楽しめるお部屋食の宿～",
         "hotelNo": 80573,
         "address": "兵庫県 神戸市北区有馬町ウツギ谷1663",
         "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/80573/80573.jpg",
+        "reviewAverage": 4.58,
+        "reviewCount": 691,
+        "hotelMinCharge": 13310,
         "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D80573"
-      },
-      {
-        "hotelName": "神戸牛と有馬温泉　天然金泉・銀泉の宿　有馬御苑",
-        "hotelNo": 1206,
-        "address": "兵庫県 神戸市北区有馬町1296",
-        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/1206/1206.jpg",
-        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D1206"
       }
     ],
-    "affiliateSampleUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D7140"
+    "affiliateSampleUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D41797"
   },
   {
-    "pref": "和歌山県",
-    "municipality": "白浜町",
-    "onsen": "南紀白浜温泉",
-    "articleSlug": "furusato-tax-shirahama-ocean-resort-luxury-stay",
+    "pref": "兵庫県",
+    "municipality": "豊岡市",
+    "onsen": "城崎温泉",
+    "articleSlug": "furusato-tax-kinosaki-onsen-matsuba-crab-seven-baths-stay",
     "sampleHotels": [
       {
-        "hotelName": "白浜温泉　ホテル三楽荘",
-        "hotelNo": 8226,
-        "address": "和歌山県 西牟婁郡白浜町3078",
-        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/8226/8226.jpg",
-        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D8226"
+        "hotelName": "城崎温泉　しののめ荘",
+        "hotelNo": 5595,
+        "address": "兵庫県 豊岡市城崎町湯島757番地",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/5595/5595.jpg",
+        "reviewAverage": 3.84,
+        "reviewCount": 135,
+        "hotelMinCharge": 12900,
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D5595"
       },
       {
-        "hotelName": "白浜温泉　白良荘グランドホテル",
-        "hotelNo": 2909,
-        "address": "和歌山県 西牟婁郡白浜町868",
-        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/2909/2909.jpg",
-        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D2909"
+        "hotelName": "城崎温泉　西村屋ホテル招月庭",
+        "hotelNo": 14007,
+        "address": "兵庫県 豊岡市城崎町湯島1016-2",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/14007/14007.jpg",
+        "reviewAverage": 4.74,
+        "reviewCount": 1199,
+        "hotelMinCharge": 41800,
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D14007"
       },
       {
-        "hotelName": "白浜温泉　ホテル天山閣　海ゆぅ庭",
-        "hotelNo": 31539,
-        "address": "和歌山県 西牟婁郡白浜町2020",
-        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/31539/31539.jpg",
-        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D31539"
+        "hotelName": "城崎温泉　晴嵐亭",
+        "hotelNo": 188143,
+        "address": "兵庫県 豊岡市城崎町湯島1075",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/188143/188143.jpg",
+        "reviewAverage": "4.50",
+        "reviewCount": 0,
+        "hotelMinCharge": 9900,
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D188143"
       }
     ],
-    "affiliateSampleUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D8226"
+    "affiliateSampleUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D5595"
   },
   {
     "pref": "愛媛県",
@@ -509,28 +435,37 @@
     "articleSlug": "furusato-tax-dogo-onsen-honkan-heritage-stay",
     "sampleHotels": [
       {
-        "hotelName": "道後温泉　道後グランドホテル",
-        "hotelNo": 6001,
-        "address": "愛媛県 松山市道後湯之町16-21",
-        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/6001/6001.jpg",
-        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D6001"
+        "hotelName": "道後温泉　ホテルルナパーク",
+        "hotelNo": 7520,
+        "address": "愛媛県 松山市道後鷺谷町5-19",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/7520/7520.jpg",
+        "reviewAverage": 3.86,
+        "reviewCount": 664,
+        "hotelMinCharge": 9240,
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D7520"
       },
       {
-        "hotelName": "道後温泉　旅亭　うめ乃や",
-        "hotelNo": 145017,
-        "address": "愛媛県 松山市上市2-8-9",
-        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/145017/145017.jpg",
-        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D145017"
+        "hotelName": "道後温泉　ホテルパティオ・ドウゴ",
+        "hotelNo": 226,
+        "address": "愛媛県 松山市道後湯之町20-12",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/226/226.jpg",
+        "reviewAverage": 4.42,
+        "reviewCount": 2046,
+        "hotelMinCharge": 6000,
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D226"
       },
       {
-        "hotelName": "道後温泉　ふなや",
-        "hotelNo": 11332,
-        "address": "愛媛県 松山市道後湯之町1-33",
-        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/11332/11332.jpg",
-        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D11332"
+        "hotelName": "道後温泉　湯の宿　さち家",
+        "hotelNo": 52143,
+        "address": "愛媛県 松山市道後湯之町13-3",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/52143/52143.jpg",
+        "reviewAverage": 4.6,
+        "reviewCount": 347,
+        "hotelMinCharge": 13200,
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D52143"
       }
     ],
-    "affiliateSampleUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D6001"
+    "affiliateSampleUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D7520"
   },
   {
     "pref": "熊本県",
@@ -539,28 +474,37 @@
     "articleSlug": "furusato-tax-kurokawa-onsen-nyuto-tegata-stay",
     "sampleHotels": [
       {
+        "hotelName": "黒川温泉　湯峡の響き　優彩",
+        "hotelNo": 31796,
+        "address": "熊本県 阿蘇郡南小国町満願寺北黒川6554-1",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/31796/31796.jpg",
+        "reviewAverage": 4.27,
+        "reviewCount": 2194,
+        "hotelMinCharge": 22990,
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D31796"
+      },
+      {
         "hotelName": "黒川温泉　旅館　美里",
         "hotelNo": 67258,
         "address": "熊本県 阿蘇郡南小国町満願寺6690",
         "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/67258/67258.jpg",
+        "reviewAverage": 4.64,
+        "reviewCount": 461,
+        "hotelMinCharge": 14300,
         "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D67258"
       },
       {
-        "hotelName": "黒川温泉　旅館　壱の井",
-        "hotelNo": 163005,
-        "address": "熊本県 阿蘇郡南小国町満願寺6630-1",
-        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/163005/163005.jpg",
-        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D163005"
-      },
-      {
-        "hotelName": "黒川温泉　旅館　奥の湯",
-        "hotelNo": 54108,
-        "address": "熊本県 阿蘇郡南小国町満願寺黒川6567",
-        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/54108/54108.jpg",
-        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D54108"
+        "hotelName": "黒川温泉　夢龍胆",
+        "hotelNo": 4725,
+        "address": "熊本県 阿蘇郡南小国町満願寺6430-1",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/4725/4725.jpg",
+        "reviewAverage": 4.11,
+        "reviewCount": 426,
+        "hotelMinCharge": 15400,
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D4725"
       }
     ],
-    "affiliateSampleUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D67258"
+    "affiliateSampleUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D31796"
   },
   {
     "pref": "沖縄県",
@@ -569,27 +513,36 @@
     "articleSlug": "furusato-tax-okinawa-beach-resort-luxury-stay",
     "sampleHotels": [
       {
-        "hotelName": "オーシャンビューイン希望ヶ丘",
-        "hotelNo": 19152,
-        "address": "沖縄県 国頭郡恩納村名嘉真2288-580",
-        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/19152/19152.jpg",
-        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D19152"
+        "hotelName": "ブルーシャローズ恩納村リゾート",
+        "hotelNo": 191787,
+        "address": "沖縄県 国頭郡恩納村真栄田3378-12　　2Ｆ",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/191787/191787.jpg",
+        "reviewAverage": "4.50",
+        "reviewCount": 2,
+        "hotelMinCharge": 8070,
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D191787"
       },
       {
-        "hotelName": "沖縄かりゆしビーチリゾート・オーシャンスパ",
-        "hotelNo": 14275,
-        "address": "沖縄県 国頭郡恩納村名嘉真ヤーシ原2591-1",
-        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/14275/14275.jpg",
-        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D14275"
+        "hotelName": "ＢＬＩＳＳＴＩＡ　ＳＵＩＴＥＳ＆ＲＥＳＯＲＴ　沖縄恩納村（２０２６年７月１５日開業）",
+        "hotelNo": 198402,
+        "address": "沖縄県 国頭郡恩納村字前兼久497番6",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/198402/198402.jpg",
+        "reviewAverage": 4.66,
+        "reviewCount": 200,
+        "hotelMinCharge": 11400,
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D198402"
       },
       {
-        "hotelName": "Ｓｅａ　Ｂｌｕｅ",
-        "hotelNo": 147952,
-        "address": "沖縄県 国頭郡恩納村真栄田2971-1",
-        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/147952/147952.jpg",
-        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D147952"
+        "hotelName": "綺麗な海Ｖｉｌｌａ　オーシャンビュー～広々一軒家貸切３００ｍ２沖縄屈指のリゾートエリア恩納村　＾",
+        "hotelNo": 173949,
+        "address": "沖縄県 国頭郡恩納村字仲泊1425-5",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/173949/173949.jpg",
+        "reviewAverage": "4.50",
+        "reviewCount": 0,
+        "hotelMinCharge": null,
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D173949"
       }
     ],
-    "affiliateSampleUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D19152"
+    "affiliateSampleUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D191787"
   }
 ]
